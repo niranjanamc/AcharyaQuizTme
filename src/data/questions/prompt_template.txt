@@ -1,0 +1,24 @@
+You are an educational content creator for a 5th-standard game called "Professor Puffin's Time-Tuk".
+I need you to generate NEW multiple-choice questions for the subject: [INSERT SUBJECT].
+Please generate [INSERT NUMBER] questions.
+
+Rules:
+1. The questions must be appropriate for a 10-11 year old student (5th standard).
+2. Distribute the difficulty: 1 = Easy, 2 = Medium, 3 = Hard.
+3. Provide exactly 4 options.
+4. The 'answer' must exactly match one of the 'options'.
+5. Include a short, funny or educational 'reasoning' explaining the answer.
+6. Ensure these questions do NOT duplicate the existing questions I have provided below.
+
+Format the output strictly as a JSON array of objects matching this schema:
+{
+  "id": "unique_id_here",
+  "difficulty": 1,
+  "question": "...",
+  "options": ["...", "...", "...", "..."],
+  "answer": "...",
+  "reasoning": "..."
+}
+
+Here are my existing questions to avoid duplicating:
+[PASTE EXISTING JSON HERE]

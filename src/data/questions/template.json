@@ -1,0 +1,8 @@
+{
+  "id": "subject_difficulty_index",
+  "difficulty": 1,
+  "question": "Question text here",
+  "options": ["Option A", "Option B", "Option C", "Option D"],
+  "answer": "Option A",
+  "reasoning": "Explanation of why Option A is correct."
+}

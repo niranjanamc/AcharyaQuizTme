@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "eng_1",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#1)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#1)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_2",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#2)",
+      "options": [
+        "Running",
+        "Ran",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#2)",
+      "options": [
+        "Running",
+        "Ran",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_3",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#3)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Rans",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#3)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Rans",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_4",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#4)",
+      "options": [
+        "Rans",
+        "Runned",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#4)",
+      "options": [
+        "Rans",
+        "Runned",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_5",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#5)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#5)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_6",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#6)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#6)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_7",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#7)",
+      "options": [
+        "Rans",
+        "Runned",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#7)",
+      "options": [
+        "Rans",
+        "Runned",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_8",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#8)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#8)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_9",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#9)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#9)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_10",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#10)",
+      "options": [
+        "Rans",
+        "Runned",
+        "Ran",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#10)",
+      "options": [
+        "Rans",
+        "Runned",
+        "Ran",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_11",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#11)",
+      "options": [
+        "Running",
+        "Runned",
+        "Ran",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#11)",
+      "options": [
+        "Running",
+        "Runned",
+        "Ran",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_12",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#12)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#12)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_13",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#13)",
+      "options": [
+        "Running",
+        "Ran",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#13)",
+      "options": [
+        "Running",
+        "Ran",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_14",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#14)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Ran",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#14)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Ran",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_15",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#15)",
+      "options": [
+        "Ran",
+        "Running",
+        "Rans",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#15)",
+      "options": [
+        "Ran",
+        "Running",
+        "Rans",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_16",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#16)",
+      "options": [
+        "Ran",
+        "Rans",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#16)",
+      "options": [
+        "Ran",
+        "Rans",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_17",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#17)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#17)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_18",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#18)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Rans",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#18)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Rans",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_19",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#19)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#19)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_20",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#20)",
+      "options": [
+        "Running",
+        "Rans",
+        "Runned",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#20)",
+      "options": [
+        "Running",
+        "Rans",
+        "Runned",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_21",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#21)",
+      "options": [
+        "Rans",
+        "Running",
+        "Runned",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#21)",
+      "options": [
+        "Rans",
+        "Running",
+        "Runned",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_22",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#22)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Rans",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#22)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Rans",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_23",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#23)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#23)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_24",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#24)",
+      "options": [
+        "Ran",
+        "Rans",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#24)",
+      "options": [
+        "Ran",
+        "Rans",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_25",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#25)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#25)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_26",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#26)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#26)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_27",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#27)",
+      "options": [
+        "Running",
+        "Ran",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#27)",
+      "options": [
+        "Running",
+        "Ran",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_28",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#28)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#28)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_29",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#29)",
+      "options": [
+        "Rans",
+        "Running",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#29)",
+      "options": [
+        "Rans",
+        "Running",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_30",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#30)",
+      "options": [
+        "Ran",
+        "Rans",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#30)",
+      "options": [
+        "Ran",
+        "Rans",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_31",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#31)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#31)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_32",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#32)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#32)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_33",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#33)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Ran",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#33)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Ran",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_34",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#34)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#34)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_35",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#35)",
+      "options": [
+        "Ran",
+        "Running",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#35)",
+      "options": [
+        "Ran",
+        "Running",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_36",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#36)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#36)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_37",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#37)",
+      "options": [
+        "Running",
+        "Ran",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#37)",
+      "options": [
+        "Running",
+        "Ran",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_38",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#38)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#38)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_39",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#39)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#39)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_40",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#40)",
+      "options": [
+        "Rans",
+        "Running",
+        "Runned",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#40)",
+      "options": [
+        "Rans",
+        "Running",
+        "Runned",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_41",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#41)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#41)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_42",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#42)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Ran",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#42)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Ran",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_43",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#43)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#43)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_44",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#44)",
+      "options": [
+        "Ran",
+        "Running",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#44)",
+      "options": [
+        "Ran",
+        "Running",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_45",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#45)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#45)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_46",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#46)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Ran",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#46)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Ran",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_47",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#47)",
+      "options": [
+        "Running",
+        "Runned",
+        "Ran",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#47)",
+      "options": [
+        "Running",
+        "Runned",
+        "Ran",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_48",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#48)",
+      "options": [
+        "Rans",
+        "Running",
+        "Runned",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#48)",
+      "options": [
+        "Rans",
+        "Running",
+        "Runned",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_49",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#49)",
+      "options": [
+        "Running",
+        "Ran",
+        "Rans",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#49)",
+      "options": [
+        "Running",
+        "Ran",
+        "Rans",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_50",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#50)",
+      "options": [
+        "Rans",
+        "Running",
+        "Runned",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#50)",
+      "options": [
+        "Rans",
+        "Running",
+        "Runned",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_51",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#51)",
+      "options": [
+        "Rans",
+        "Running",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#51)",
+      "options": [
+        "Rans",
+        "Running",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_52",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#52)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Rans",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#52)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Rans",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_53",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#53)",
+      "options": [
+        "Ran",
+        "Running",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#53)",
+      "options": [
+        "Ran",
+        "Running",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_54",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#54)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#54)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_55",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#55)",
+      "options": [
+        "Rans",
+        "Running",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#55)",
+      "options": [
+        "Rans",
+        "Running",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_56",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#56)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Rans",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#56)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Rans",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_57",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#57)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#57)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_58",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#58)",
+      "options": [
+        "Ran",
+        "Running",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#58)",
+      "options": [
+        "Ran",
+        "Running",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_59",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#59)",
+      "options": [
+        "Ran",
+        "Running",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#59)",
+      "options": [
+        "Ran",
+        "Running",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_60",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#60)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#60)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_61",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#61)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#61)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_62",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#62)",
+      "options": [
+        "Running",
+        "Runned",
+        "Ran",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#62)",
+      "options": [
+        "Running",
+        "Runned",
+        "Ran",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_63",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#63)",
+      "options": [
+        "Runned",
+        "Running",
+        "Rans",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#63)",
+      "options": [
+        "Runned",
+        "Running",
+        "Rans",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_64",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#64)",
+      "options": [
+        "Ran",
+        "Rans",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#64)",
+      "options": [
+        "Ran",
+        "Rans",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_65",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#65)",
+      "options": [
+        "Runned",
+        "Running",
+        "Rans",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#65)",
+      "options": [
+        "Runned",
+        "Running",
+        "Rans",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_66",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#66)",
+      "options": [
+        "Rans",
+        "Runned",
+        "Ran",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#66)",
+      "options": [
+        "Rans",
+        "Runned",
+        "Ran",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_67",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#67)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#67)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_68",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#68)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#68)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_69",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#69)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#69)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_70",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#70)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#70)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_71",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#71)",
+      "options": [
+        "Rans",
+        "Running",
+        "Runned",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#71)",
+      "options": [
+        "Rans",
+        "Running",
+        "Runned",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_72",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#72)",
+      "options": [
+        "Rans",
+        "Running",
+        "Runned",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#72)",
+      "options": [
+        "Rans",
+        "Running",
+        "Runned",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_73",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#73)",
+      "options": [
+        "Running",
+        "Rans",
+        "Runned",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#73)",
+      "options": [
+        "Running",
+        "Rans",
+        "Runned",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_74",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#74)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#74)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_75",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#75)",
+      "options": [
+        "Running",
+        "Runned",
+        "Rans",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#75)",
+      "options": [
+        "Running",
+        "Runned",
+        "Rans",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_76",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#76)",
+      "options": [
+        "Rans",
+        "Runned",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#76)",
+      "options": [
+        "Rans",
+        "Runned",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_77",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#77)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#77)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_78",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#78)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#78)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_79",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#79)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Ran",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#79)",
+      "options": [
+        "Runned",
+        "Rans",
+        "Ran",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_80",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#80)",
+      "options": [
+        "Ran",
+        "Rans",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#80)",
+      "options": [
+        "Ran",
+        "Rans",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_81",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#81)",
+      "options": [
+        "Running",
+        "Ran",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#81)",
+      "options": [
+        "Running",
+        "Ran",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_82",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#82)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#82)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_83",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#83)",
+      "options": [
+        "Ran",
+        "Running",
+        "Rans",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#83)",
+      "options": [
+        "Ran",
+        "Running",
+        "Rans",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_84",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#84)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Rans",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#84)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Rans",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_85",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#85)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Rans",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#85)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Rans",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_86",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#86)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Rans",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#86)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Rans",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_87",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#87)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#87)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_88",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#88)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#88)",
+      "options": [
+        "Runned",
+        "Ran",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_89",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#89)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#89)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_90",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#90)",
+      "options": [
+        "Running",
+        "Ran",
+        "Rans",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#90)",
+      "options": [
+        "Running",
+        "Ran",
+        "Rans",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_91",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#91)",
+      "options": [
+        "Running",
+        "Ran",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#91)",
+      "options": [
+        "Running",
+        "Ran",
+        "Runned",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_92",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#92)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#92)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_93",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#93)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#93)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_94",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#94)",
+      "options": [
+        "Running",
+        "Runned",
+        "Ran",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#94)",
+      "options": [
+        "Running",
+        "Runned",
+        "Ran",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_95",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#95)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#95)",
+      "options": [
+        "Running",
+        "Rans",
+        "Ran",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_96",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#96)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#96)",
+      "options": [
+        "Rans",
+        "Ran",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_97",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#97)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#97)",
+      "options": [
+        "Ran",
+        "Runned",
+        "Running",
+        "Rans"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_98",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#98)",
+      "options": [
+        "Rans",
+        "Runned",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#98)",
+      "options": [
+        "Rans",
+        "Runned",
+        "Running",
+        "Ran"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_99",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#99)",
+      "options": [
+        "Ran",
+        "Rans",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#99)",
+      "options": [
+        "Ran",
+        "Rans",
+        "Runned",
+        "Running"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "eng_100",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the past tense of 'Run'? (#100)",
+      "options": [
+        "Ran",
+        "Rans",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran is the correct verb form."
+    },
+    "kn": {
+      "question": "'Run' ಪದದ ಭೂತಕಾಲವೇನು? (#100)",
+      "options": [
+        "Ran",
+        "Rans",
+        "Running",
+        "Runned"
+      ],
+      "answer": "Ran",
+      "reasoning": "Ran ಸರಿಯಾದ ಕ್ರಿಯಾಪದ ರೂಪವಾಗಿದೆ."
+    }
+  }
+]
