@@ -21,7 +21,7 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
   const handleSubmit = (opt) => {
     soundEngine.playClick();
     setSelectedOption(opt);
-    const correct = opt === questionData.answer;
+    const correct = String(opt).trim() === String(questionData.answer).trim();
     setIsCorrect(correct);
     setShowReasoning(true);
   };
@@ -58,10 +58,10 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
           let btnColor = 'var(--text-dark)';
           
           if (showReasoning) {
-            if (opt === questionData.answer) {
+            if (String(opt).trim() === String(questionData.answer).trim()) {
               btnBg = '#06D6A0'; // Green for correct
               btnColor = 'white';
-            } else if (opt === selectedOption && opt !== questionData.answer) {
+            } else if (opt === selectedOption && String(opt).trim() !== String(questionData.answer).trim()) {
               btnBg = '#EF476F'; // Red for wrong selected
               btnColor = 'white';
             }
@@ -92,8 +92,8 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
               }}
             >
               {opt}
-              {showReasoning && opt === questionData.answer && <Check size={20} />}
-              {showReasoning && opt === selectedOption && opt !== questionData.answer && <X size={20} />}
+              {showReasoning && String(opt).trim() === String(questionData.answer).trim() && <Check size={20} />}
+              {showReasoning && opt === selectedOption && String(opt).trim() !== String(questionData.answer).trim() && <X size={20} />}
             </button>
           );
         })}

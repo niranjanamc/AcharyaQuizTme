@@ -65,11 +65,11 @@ const GameArea = ({ level, subject, language, onCorrect, onWrong }) => {
 
   useEffect(() => {
     if (questions.length > 0 && !loading) {
-      pickNextQuestion();
+      pickNextQuestion(seenQuestions);
     }
-  }, [questions, loading, level, seenQuestions]);
+  }, [questions, loading, level]);
 
-  const pickNextQuestion = () => {
+  const pickNextQuestion = (currentSeen = seenQuestions) => {
     // 1. Filter by level/difficulty
     let suitableQs = questions.filter(q => q.difficulty === level);
     
@@ -80,12 +80,12 @@ const GameArea = ({ level, subject, language, onCorrect, onWrong }) => {
     }
 
     // 2. Filter out seen questions
-    let unseenQs = suitableQs.filter(q => !seenQuestions.has(q.id));
+    let unseenQs = suitableQs.filter(q => !currentSeen.has(q.id));
 
     // 3. Reset seen pool for this difficulty if we've exhausted them all
     if (unseenQs.length === 0) {
       const qsToReset = suitableQs.map(q => q.id);
-      const newSeen = new Set(seenQuestions);
+      const newSeen = new Set(currentSeen);
       qsToReset.forEach(id => newSeen.delete(id));
       setSeenQuestions(newSeen);
       unseenQs = suitableQs;
@@ -100,8 +100,9 @@ const GameArea = ({ level, subject, language, onCorrect, onWrong }) => {
   };
 
   const handleAnswer = (isCorrect) => {
+    let newSeen = seenQuestions;
     if (currentQuestion) {
-      const newSeen = new Set(seenQuestions);
+      newSeen = new Set(seenQuestions);
       newSeen.add(currentQuestion.id);
       setSeenQuestions(newSeen);
     }
@@ -120,7 +121,7 @@ const GameArea = ({ level, subject, language, onCorrect, onWrong }) => {
     } else {
       onWrong();
     }
-    pickNextQuestion();
+    pickNextQuestion(newSeen);
   };
 
   const removeAnimation = (id) => {
