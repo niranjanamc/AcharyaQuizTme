@@ -3,2600 +3,2600 @@
     "id": "gk_1",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#1)",
+      "question": "What is the capital of India (Fact 1900)?",
       "options": [
-        "Chennai",
-        "New Delhi",
-        "Bangalore",
-        "Mumbai"
+        "Tokyo",
+        "London",
+        "Washington DC",
+        "New Delhi"
       ],
       "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "reasoning": "The correct answer is New Delhi."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#1)",
+      "question": "ಭಾರತ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1900)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಟೋಕಿಯೋ",
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನವದೆಹಲಿ."
     }
   },
   {
     "id": "gk_2",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#2)",
+      "question": "What is the capital of USA (Fact 1901)?",
       "options": [
-        "Chennai",
-        "Mumbai",
         "New Delhi",
-        "Bangalore"
+        "London",
+        "Tokyo",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Washington DC",
+      "reasoning": "The correct answer is Washington DC."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#2)",
+      "question": "ಯುಎಸ್ಎ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1901)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು"
+        "ಲಂಡನ್",
+        "ಟೋಕಿಯೋ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ."
     }
   },
   {
     "id": "gk_3",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#3)",
+      "question": "What is the capital of UK (Fact 1902)?",
       "options": [
+        "Tokyo",
         "New Delhi",
-        "Chennai",
-        "Bangalore",
-        "Mumbai"
+        "Washington DC",
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "London",
+      "reasoning": "The correct answer is London."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#3)",
+      "question": "ಯುಕೆ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1902)?",
       "options": [
+        "ಟೋಕಿಯೋ",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಲಂಡನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಲಂಡನ್."
     }
   },
   {
     "id": "gk_4",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#4)",
+      "question": "What is the capital of Japan (Fact 1903)?",
       "options": [
-        "Bangalore",
+        "London",
         "New Delhi",
-        "Chennai",
-        "Mumbai"
+        "Tokyo",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Tokyo",
+      "reasoning": "The correct answer is Tokyo."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#4)",
+      "question": "ಜಪಾನ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1903)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ"
+        "ಟೋಕಿಯೋ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಟೋಕಿಯೋ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಟೋಕಿಯೋ."
     }
   },
   {
     "id": "gk_5",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#5)",
+      "question": "What is the capital of France (Fact 1904)?",
       "options": [
-        "Bangalore",
-        "Mumbai",
-        "Chennai",
-        "New Delhi"
+        "Washington DC",
+        "Paris",
+        "New Delhi",
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Paris",
+      "reasoning": "The correct answer is Paris."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#5)",
+      "question": "ಫ್ರಾನ್ಸ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1904)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಪ್ಯಾರಿಸ್",
+        "ನವದೆಹಲಿ",
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಪ್ಯಾರಿಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪ್ಯಾರಿಸ್."
     }
   },
   {
     "id": "gk_6",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#6)",
+      "question": "What is the capital of Germany (Fact 1905)?",
       "options": [
+        "London",
         "New Delhi",
-        "Mumbai",
-        "Chennai",
-        "Bangalore"
+        "Washington DC",
+        "Berlin"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Berlin",
+      "reasoning": "The correct answer is Berlin."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#6)",
+      "question": "ಜರ್ಮನಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1905)?",
       "options": [
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಬರ್ಲಿನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬರ್ಲಿನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬರ್ಲಿನ್."
     }
   },
   {
     "id": "gk_7",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#7)",
+      "question": "What is the capital of Italy (Fact 1906)?",
       "options": [
-        "Chennai",
+        "Washington DC",
         "New Delhi",
-        "Bangalore",
-        "Mumbai"
+        "Rome",
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Rome",
+      "reasoning": "The correct answer is Rome."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#7)",
+      "question": "ಇಟಲಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1906)?",
       "options": [
-        "ಚೆನ್ನೈ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ರೋಮ್",
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ರೋಮ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ರೋಮ್."
     }
   },
   {
     "id": "gk_8",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#8)",
+      "question": "What is the capital of Canada (Fact 1907)?",
       "options": [
-        "Mumbai",
-        "New Delhi",
-        "Chennai",
-        "Bangalore"
+        "London",
+        "Washington DC",
+        "Ottawa",
+        "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Ottawa",
+      "reasoning": "The correct answer is Ottawa."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#8)",
+      "question": "ಕೆನಡಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1907)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಒಟ್ಟಾವಾ",
+        "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಒಟ್ಟಾವಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಒಟ್ಟಾವಾ."
     }
   },
   {
     "id": "gk_9",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#9)",
+      "question": "What is the capital of Australia (Fact 1908)?",
       "options": [
-        "New Delhi",
-        "Bangalore",
-        "Chennai",
-        "Mumbai"
+        "Washington DC",
+        "London",
+        "Canberra",
+        "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Canberra",
+      "reasoning": "The correct answer is Canberra."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#9)",
+      "question": "ಆಸ್ಟ್ರೇಲಿಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1908)?",
       "options": [
-        "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್",
+        "ಕ್ಯಾನ್ಬೆರಾ",
+        "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಕ್ಯಾನ್ಬೆರಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕ್ಯಾನ್ಬೆರಾ."
     }
   },
   {
     "id": "gk_10",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#10)",
+      "question": "What is the capital of Brazil (Fact 1909)?",
       "options": [
-        "Bangalore",
-        "Chennai",
-        "Mumbai",
-        "New Delhi"
+        "London",
+        "New Delhi",
+        "Washington DC",
+        "Brasilia"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Brasilia",
+      "reasoning": "The correct answer is Brasilia."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#10)",
+      "question": "ಬ್ರೆಜಿಲ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1909)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ಲಂಡನ್",
+        "ನವದೆಹಲಿ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಬ್ರೆಸಿಲಿಯಾ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬ್ರೆಸಿಲಿಯಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬ್ರೆಸಿಲಿಯಾ."
     }
   },
   {
     "id": "gk_11",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#11)",
+      "question": "What is the capital of India (Fact 1910)?",
       "options": [
-        "Chennai",
-        "Mumbai",
-        "Bangalore",
-        "New Delhi"
+        "Tokyo",
+        "London",
+        "New Delhi",
+        "Washington DC"
       ],
       "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "reasoning": "The correct answer is New Delhi."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#11)",
+      "question": "ಭಾರತ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1910)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ"
+        "ಟೋಕಿಯೋ",
+        "ಲಂಡನ್",
+        "ನವದೆಹಲಿ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನವದೆಹಲಿ."
     }
   },
   {
     "id": "gk_12",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#12)",
+      "question": "What is the capital of USA (Fact 1911)?",
       "options": [
-        "Bangalore",
-        "Chennai",
+        "Tokyo",
         "New Delhi",
-        "Mumbai"
+        "London",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Washington DC",
+      "reasoning": "The correct answer is Washington DC."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#12)",
+      "question": "ಯುಎಸ್ಎ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1911)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
+        "ಟೋಕಿಯೋ",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ."
     }
   },
   {
     "id": "gk_13",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#13)",
+      "question": "What is the capital of UK (Fact 1912)?",
       "options": [
-        "Chennai",
-        "Bangalore",
-        "Mumbai",
-        "New Delhi"
+        "London",
+        "Tokyo",
+        "New Delhi",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "London",
+      "reasoning": "The correct answer is London."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#13)",
+      "question": "ಯುಕೆ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1912)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ಲಂಡನ್",
+        "ಟೋಕಿಯೋ",
+        "ನವದೆಹಲಿ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಲಂಡನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಲಂಡನ್."
     }
   },
   {
     "id": "gk_14",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#14)",
+      "question": "What is the capital of Japan (Fact 1913)?",
       "options": [
+        "London",
+        "Washington DC",
         "New Delhi",
-        "Bangalore",
-        "Mumbai",
-        "Chennai"
+        "Tokyo"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Tokyo",
+      "reasoning": "The correct answer is Tokyo."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#14)",
+      "question": "ಜಪಾನ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1913)?",
       "options": [
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ"
+        "ಟೋಕಿಯೋ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಟೋಕಿಯೋ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಟೋಕಿಯೋ."
     }
   },
   {
     "id": "gk_15",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#15)",
+      "question": "What is the capital of France (Fact 1914)?",
       "options": [
-        "Bangalore",
-        "Chennai",
+        "Paris",
         "New Delhi",
-        "Mumbai"
+        "London",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Paris",
+      "reasoning": "The correct answer is Paris."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#15)",
+      "question": "ಫ್ರಾನ್ಸ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1914)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
+        "ಪ್ಯಾರಿಸ್",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಪ್ಯಾರಿಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪ್ಯಾರಿಸ್."
     }
   },
   {
     "id": "gk_16",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#16)",
+      "question": "What is the capital of Germany (Fact 1915)?",
       "options": [
-        "Chennai",
+        "Washington DC",
+        "Berlin",
         "New Delhi",
-        "Bangalore",
-        "Mumbai"
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Berlin",
+      "reasoning": "The correct answer is Berlin."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#16)",
+      "question": "ಜರ್ಮನಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1915)?",
       "options": [
-        "ಚೆನ್ನೈ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಬರ್ಲಿನ್",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬರ್ಲಿನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬರ್ಲಿನ್."
     }
   },
   {
     "id": "gk_17",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#17)",
+      "question": "What is the capital of Italy (Fact 1916)?",
       "options": [
-        "Chennai",
-        "Bangalore",
         "New Delhi",
-        "Mumbai"
+        "Washington DC",
+        "Rome",
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Rome",
+      "reasoning": "The correct answer is Rome."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#17)",
+      "question": "ಇಟಲಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1916)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ರೋಮ್",
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ರೋಮ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ರೋಮ್."
     }
   },
   {
     "id": "gk_18",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#18)",
+      "question": "What is the capital of Canada (Fact 1917)?",
       "options": [
-        "Mumbai",
         "New Delhi",
-        "Bangalore",
-        "Chennai"
+        "Ottawa",
+        "London",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Ottawa",
+      "reasoning": "The correct answer is Ottawa."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#18)",
+      "question": "ಕೆನಡಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1917)?",
       "options": [
-        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ"
+        "ಒಟ್ಟಾವಾ",
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಒಟ್ಟಾವಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಒಟ್ಟಾವಾ."
     }
   },
   {
     "id": "gk_19",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#19)",
+      "question": "What is the capital of Australia (Fact 1918)?",
       "options": [
-        "Bangalore",
+        "Washington DC",
         "New Delhi",
-        "Chennai",
-        "Mumbai"
+        "Canberra",
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Canberra",
+      "reasoning": "The correct answer is Canberra."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#19)",
+      "question": "ಆಸ್ಟ್ರೇಲಿಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1918)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ"
+        "ಕ್ಯಾನ್ಬೆರಾ",
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಕ್ಯಾನ್ಬೆರಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕ್ಯಾನ್ಬೆರಾ."
     }
   },
   {
     "id": "gk_20",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#20)",
+      "question": "What is the capital of Brazil (Fact 1919)?",
       "options": [
+        "Brasilia",
         "New Delhi",
-        "Chennai",
-        "Mumbai",
-        "Bangalore"
+        "London",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Brasilia",
+      "reasoning": "The correct answer is Brasilia."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#20)",
+      "question": "ಬ್ರೆಜಿಲ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1919)?",
       "options": [
+        "ಬ್ರೆಸಿಲಿಯಾ",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬ್ರೆಸಿಲಿಯಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬ್ರೆಸಿಲಿಯಾ."
     }
   },
   {
     "id": "gk_21",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#21)",
+      "question": "What is the capital of India (Fact 1920)?",
       "options": [
-        "Chennai",
-        "Bangalore",
-        "New Delhi",
-        "Mumbai"
+        "Tokyo",
+        "London",
+        "Washington DC",
+        "New Delhi"
       ],
       "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "reasoning": "The correct answer is New Delhi."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#21)",
+      "question": "ಭಾರತ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1920)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ಟೋಕಿಯೋ",
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನವದೆಹಲಿ."
     }
   },
   {
     "id": "gk_22",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#22)",
+      "question": "What is the capital of USA (Fact 1921)?",
       "options": [
-        "Bangalore",
-        "Chennai",
-        "Mumbai",
-        "New Delhi"
+        "New Delhi",
+        "London",
+        "Tokyo",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Washington DC",
+      "reasoning": "The correct answer is Washington DC."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#22)",
+      "question": "ಯುಎಸ್ಎ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1921)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ನವದೆಹಲಿ",
+        "ಲಂಡನ್",
+        "ಟೋಕಿಯೋ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ."
     }
   },
   {
     "id": "gk_23",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#23)",
+      "question": "What is the capital of UK (Fact 1922)?",
       "options": [
         "New Delhi",
-        "Mumbai",
-        "Chennai",
-        "Bangalore"
+        "Tokyo",
+        "Washington DC",
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "London",
+      "reasoning": "The correct answer is London."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#23)",
+      "question": "ಯುಕೆ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1922)?",
       "options": [
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಟೋಕಿಯೋ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಲಂಡನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಲಂಡನ್."
     }
   },
   {
     "id": "gk_24",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#24)",
+      "question": "What is the capital of Japan (Fact 1923)?",
       "options": [
-        "Bangalore",
-        "Mumbai",
-        "Chennai",
+        "Washington DC",
+        "Tokyo",
+        "London",
         "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Tokyo",
+      "reasoning": "The correct answer is Tokyo."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#24)",
+      "question": "ಜಪಾನ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1923)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಟೋಕಿಯೋ",
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಟೋಕಿಯೋ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಟೋಕಿಯೋ."
     }
   },
   {
     "id": "gk_25",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#25)",
+      "question": "What is the capital of France (Fact 1924)?",
       "options": [
-        "Mumbai",
-        "New Delhi",
-        "Chennai",
-        "Bangalore"
+        "Washington DC",
+        "Paris",
+        "London",
+        "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Paris",
+      "reasoning": "The correct answer is Paris."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#25)",
+      "question": "ಫ್ರಾನ್ಸ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1924)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಪ್ಯಾರಿಸ್",
+        "ಲಂಡನ್",
+        "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಪ್ಯಾರಿಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪ್ಯಾರಿಸ್."
     }
   },
   {
     "id": "gk_26",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#26)",
+      "question": "What is the capital of Germany (Fact 1925)?",
       "options": [
-        "Mumbai",
-        "Bangalore",
+        "Washington DC",
+        "London",
         "New Delhi",
-        "Chennai"
+        "Berlin"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Berlin",
+      "reasoning": "The correct answer is Berlin."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#26)",
+      "question": "ಜರ್ಮನಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1925)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ"
+        "ಬರ್ಲಿನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬರ್ಲಿನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬರ್ಲಿನ್."
     }
   },
   {
     "id": "gk_27",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#27)",
+      "question": "What is the capital of Italy (Fact 1926)?",
       "options": [
-        "Bangalore",
-        "Mumbai",
         "New Delhi",
-        "Chennai"
+        "Washington DC",
+        "Rome",
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Rome",
+      "reasoning": "The correct answer is Rome."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#27)",
+      "question": "ಇಟಲಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1926)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ರೋಮ್",
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ರೋಮ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ರೋಮ್."
     }
   },
   {
     "id": "gk_28",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#28)",
+      "question": "What is the capital of Canada (Fact 1927)?",
       "options": [
-        "Mumbai",
+        "Ottawa",
         "New Delhi",
-        "Chennai",
-        "Bangalore"
+        "London",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Ottawa",
+      "reasoning": "The correct answer is Ottawa."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#28)",
+      "question": "ಕೆನಡಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1927)?",
       "options": [
-        "ಮುಂಬೈ",
+        "ಒಟ್ಟಾವಾ",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಒಟ್ಟಾವಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಒಟ್ಟಾವಾ."
     }
   },
   {
     "id": "gk_29",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#29)",
+      "question": "What is the capital of Australia (Fact 1928)?",
       "options": [
-        "Chennai",
-        "Mumbai",
-        "Bangalore",
-        "New Delhi"
+        "London",
+        "New Delhi",
+        "Washington DC",
+        "Canberra"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Canberra",
+      "reasoning": "The correct answer is Canberra."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#29)",
+      "question": "ಆಸ್ಟ್ರೇಲಿಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1928)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ"
+        "ಲಂಡನ್",
+        "ನವದೆಹಲಿ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಕ್ಯಾನ್ಬೆರಾ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಕ್ಯಾನ್ಬೆರಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕ್ಯಾನ್ಬೆರಾ."
     }
   },
   {
     "id": "gk_30",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#30)",
+      "question": "What is the capital of Brazil (Fact 1929)?",
       "options": [
-        "Chennai",
-        "Mumbai",
+        "London",
+        "Washington DC",
         "New Delhi",
-        "Bangalore"
+        "Brasilia"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Brasilia",
+      "reasoning": "The correct answer is Brasilia."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#30)",
+      "question": "ಬ್ರೆಜಿಲ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1929)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು"
+        "ಬ್ರೆಸಿಲಿಯಾ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬ್ರೆಸಿಲಿಯಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬ್ರೆಸಿಲಿಯಾ."
     }
   },
   {
     "id": "gk_31",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#31)",
+      "question": "What is the capital of India (Fact 1930)?",
       "options": [
         "New Delhi",
-        "Chennai",
-        "Mumbai",
-        "Bangalore"
+        "London",
+        "Tokyo",
+        "Washington DC"
       ],
       "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "reasoning": "The correct answer is New Delhi."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#31)",
+      "question": "ಭಾರತ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1930)?",
       "options": [
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಲಂಡನ್",
+        "ಟೋಕಿಯೋ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನವದೆಹಲಿ."
     }
   },
   {
     "id": "gk_32",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#32)",
+      "question": "What is the capital of USA (Fact 1931)?",
       "options": [
+        "Washington DC",
         "New Delhi",
-        "Bangalore",
-        "Mumbai",
-        "Chennai"
+        "London",
+        "Tokyo"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Washington DC",
+      "reasoning": "The correct answer is Washington DC."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#32)",
+      "question": "ಯುಎಸ್ಎ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1931)?",
       "options": [
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ"
+        "ಲಂಡನ್",
+        "ಟೋಕಿಯೋ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ."
     }
   },
   {
     "id": "gk_33",
     "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#33)",
+      "question": "What is the capital of UK (Fact 1932)?",
       "options": [
+        "London",
+        "Washington DC",
         "New Delhi",
-        "Chennai",
-        "Bangalore",
-        "Mumbai"
+        "Tokyo"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "London",
+      "reasoning": "The correct answer is London."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#33)",
+      "question": "ಯುಕೆ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1932)?",
       "options": [
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಟೋಕಿಯೋ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಲಂಡನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಲಂಡನ್."
     }
   },
   {
     "id": "gk_34",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#34)",
+      "question": "What is the capital of Japan (Fact 1933)?",
       "options": [
+        "London",
         "New Delhi",
-        "Chennai",
-        "Bangalore",
-        "Mumbai"
+        "Washington DC",
+        "Tokyo"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Tokyo",
+      "reasoning": "The correct answer is Tokyo."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#34)",
+      "question": "ಜಪಾನ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1933)?",
       "options": [
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಟೋಕಿಯೋ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಟೋಕಿಯೋ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಟೋಕಿಯೋ."
     }
   },
   {
     "id": "gk_35",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#35)",
+      "question": "What is the capital of France (Fact 1934)?",
       "options": [
-        "Mumbai",
-        "Chennai",
+        "Washington DC",
+        "Paris",
         "New Delhi",
-        "Bangalore"
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Paris",
+      "reasoning": "The correct answer is Paris."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#35)",
+      "question": "ಫ್ರಾನ್ಸ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1934)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಪ್ಯಾರಿಸ್",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು"
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಪ್ಯಾರಿಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪ್ಯಾರಿಸ್."
     }
   },
   {
     "id": "gk_36",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#36)",
+      "question": "What is the capital of Germany (Fact 1935)?",
       "options": [
+        "Washington DC",
+        "London",
         "New Delhi",
-        "Mumbai",
-        "Bangalore",
-        "Chennai"
+        "Berlin"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Berlin",
+      "reasoning": "The correct answer is Berlin."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#36)",
+      "question": "ಜರ್ಮನಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1935)?",
       "options": [
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ"
+        "ಬರ್ಲಿನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬರ್ಲಿನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬರ್ಲಿನ್."
     }
   },
   {
     "id": "gk_37",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#37)",
+      "question": "What is the capital of Italy (Fact 1936)?",
       "options": [
-        "Mumbai",
-        "Bangalore",
-        "New Delhi",
-        "Chennai"
+        "London",
+        "Rome",
+        "Washington DC",
+        "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Rome",
+      "reasoning": "The correct answer is Rome."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#37)",
+      "question": "ಇಟಲಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1936)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ"
+        "ಲಂಡನ್",
+        "ರೋಮ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ರೋಮ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ರೋಮ್."
     }
   },
   {
     "id": "gk_38",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#38)",
+      "question": "What is the capital of Canada (Fact 1937)?",
       "options": [
-        "Bangalore",
-        "Mumbai",
-        "Chennai",
-        "New Delhi"
+        "Ottawa",
+        "Washington DC",
+        "New Delhi",
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Ottawa",
+      "reasoning": "The correct answer is Ottawa."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#38)",
+      "question": "ಕೆನಡಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1937)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ"
+        "ಒಟ್ಟಾವಾ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ನವದೆಹಲಿ",
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಒಟ್ಟಾವಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಒಟ್ಟಾವಾ."
     }
   },
   {
     "id": "gk_39",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#39)",
+      "question": "What is the capital of Australia (Fact 1938)?",
       "options": [
+        "London",
+        "Washington DC",
         "New Delhi",
-        "Chennai",
-        "Mumbai",
-        "Bangalore"
+        "Canberra"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Canberra",
+      "reasoning": "The correct answer is Canberra."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#39)",
+      "question": "ಆಸ್ಟ್ರೇಲಿಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1938)?",
       "options": [
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಕ್ಯಾನ್ಬೆರಾ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಕ್ಯಾನ್ಬೆರಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕ್ಯಾನ್ಬೆರಾ."
     }
   },
   {
     "id": "gk_40",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#40)",
+      "question": "What is the capital of Brazil (Fact 1939)?",
       "options": [
-        "Mumbai",
+        "Brasilia",
+        "Washington DC",
         "New Delhi",
-        "Chennai",
-        "Bangalore"
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Brasilia",
+      "reasoning": "The correct answer is Brasilia."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#40)",
+      "question": "ಬ್ರೆಜಿಲ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1939)?",
       "options": [
-        "ಮುಂಬೈ",
+        "ಬ್ರೆಸಿಲಿಯಾ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬ್ರೆಸಿಲಿಯಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬ್ರೆಸಿಲಿಯಾ."
     }
   },
   {
     "id": "gk_41",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#41)",
+      "question": "What is the capital of India (Fact 1940)?",
       "options": [
-        "Chennai",
         "New Delhi",
-        "Bangalore",
-        "Mumbai"
+        "London",
+        "Washington DC",
+        "Tokyo"
       ],
       "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "reasoning": "The correct answer is New Delhi."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#41)",
+      "question": "ಭಾರತ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1940)?",
       "options": [
-        "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಟೋಕಿಯೋ"
       ],
       "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನವದೆಹಲಿ."
     }
   },
   {
     "id": "gk_42",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#42)",
+      "question": "What is the capital of USA (Fact 1941)?",
       "options": [
         "New Delhi",
-        "Chennai",
-        "Mumbai",
-        "Bangalore"
+        "London",
+        "Washington DC",
+        "Tokyo"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Washington DC",
+      "reasoning": "The correct answer is Washington DC."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#42)",
+      "question": "ಯುಎಸ್ಎ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1941)?",
       "options": [
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಟೋಕಿಯೋ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ."
     }
   },
   {
     "id": "gk_43",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#43)",
+      "question": "What is the capital of UK (Fact 1942)?",
       "options": [
-        "Chennai",
-        "Bangalore",
-        "Mumbai",
-        "New Delhi"
+        "New Delhi",
+        "London",
+        "Tokyo",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "London",
+      "reasoning": "The correct answer is London."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#43)",
+      "question": "ಯುಕೆ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1942)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ನವದೆಹಲಿ",
+        "ಲಂಡನ್",
+        "ಟೋಕಿಯೋ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಲಂಡನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಲಂಡನ್."
     }
   },
   {
     "id": "gk_44",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#44)",
+      "question": "What is the capital of Japan (Fact 1943)?",
       "options": [
-        "Bangalore",
-        "Mumbai",
-        "New Delhi",
-        "Chennai"
+        "London",
+        "Tokyo",
+        "Washington DC",
+        "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Tokyo",
+      "reasoning": "The correct answer is Tokyo."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#44)",
+      "question": "ಜಪಾನ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1943)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ"
+        "ಲಂಡನ್",
+        "ಟೋಕಿಯೋ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಟೋಕಿಯೋ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಟೋಕಿಯೋ."
     }
   },
   {
     "id": "gk_45",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#45)",
+      "question": "What is the capital of France (Fact 1944)?",
       "options": [
+        "London",
+        "Washington DC",
         "New Delhi",
-        "Mumbai",
-        "Chennai",
-        "Bangalore"
+        "Paris"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Paris",
+      "reasoning": "The correct answer is Paris."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#45)",
+      "question": "ಫ್ರಾನ್ಸ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1944)?",
       "options": [
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಪ್ಯಾರಿಸ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಪ್ಯಾರಿಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪ್ಯಾರಿಸ್."
     }
   },
   {
     "id": "gk_46",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#46)",
+      "question": "What is the capital of Germany (Fact 1945)?",
       "options": [
-        "Mumbai",
-        "Bangalore",
-        "Chennai",
+        "London",
+        "Washington DC",
+        "Berlin",
         "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Berlin",
+      "reasoning": "The correct answer is Berlin."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#46)",
+      "question": "ಜರ್ಮನಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1945)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಬರ್ಲಿನ್",
         "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬರ್ಲಿನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬರ್ಲಿನ್."
     }
   },
   {
     "id": "gk_47",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#47)",
+      "question": "What is the capital of Italy (Fact 1946)?",
       "options": [
-        "Bangalore",
-        "Chennai",
-        "New Delhi",
-        "Mumbai"
+        "London",
+        "Washington DC",
+        "Rome",
+        "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Rome",
+      "reasoning": "The correct answer is Rome."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#47)",
+      "question": "ಇಟಲಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1946)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ರೋಮ್",
+        "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ರೋಮ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ರೋಮ್."
     }
   },
   {
     "id": "gk_48",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#48)",
+      "question": "What is the capital of Canada (Fact 1947)?",
       "options": [
-        "Mumbai",
         "New Delhi",
-        "Bangalore",
-        "Chennai"
+        "Ottawa",
+        "Washington DC",
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Ottawa",
+      "reasoning": "The correct answer is Ottawa."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#48)",
+      "question": "ಕೆನಡಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1947)?",
       "options": [
-        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ"
+        "ಒಟ್ಟಾವಾ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಒಟ್ಟಾವಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಒಟ್ಟಾವಾ."
     }
   },
   {
     "id": "gk_49",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#49)",
+      "question": "What is the capital of Australia (Fact 1948)?",
       "options": [
-        "Mumbai",
-        "Chennai",
-        "Bangalore",
-        "New Delhi"
+        "Canberra",
+        "Washington DC",
+        "New Delhi",
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Canberra",
+      "reasoning": "The correct answer is Canberra."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#49)",
+      "question": "ಆಸ್ಟ್ರೇಲಿಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1948)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ"
+        "ಕ್ಯಾನ್ಬೆರಾ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ನವದೆಹಲಿ",
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಕ್ಯಾನ್ಬೆರಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕ್ಯಾನ್ಬೆರಾ."
     }
   },
   {
     "id": "gk_50",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#50)",
+      "question": "What is the capital of Brazil (Fact 1949)?",
       "options": [
-        "Chennai",
-        "New Delhi",
-        "Bangalore",
-        "Mumbai"
+        "London",
+        "Washington DC",
+        "Brasilia",
+        "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Brasilia",
+      "reasoning": "The correct answer is Brasilia."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#50)",
+      "question": "ಬ್ರೆಜಿಲ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1949)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಬ್ರೆಸಿಲಿಯಾ",
+        "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬ್ರೆಸಿಲಿಯಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬ್ರೆಸಿಲಿಯಾ."
     }
   },
   {
     "id": "gk_51",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#51)",
+      "question": "What is the capital of India (Fact 1950)?",
       "options": [
-        "Mumbai",
-        "Chennai",
-        "Bangalore",
-        "New Delhi"
+        "Washington DC",
+        "Tokyo",
+        "New Delhi",
+        "London"
       ],
       "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "reasoning": "The correct answer is New Delhi."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#51)",
+      "question": "ಭಾರತ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1950)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಟೋಕಿಯೋ",
+        "ನವದೆಹಲಿ",
+        "ಲಂಡನ್"
       ],
       "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನವದೆಹಲಿ."
     }
   },
   {
     "id": "gk_52",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#52)",
+      "question": "What is the capital of USA (Fact 1951)?",
       "options": [
-        "Chennai",
-        "New Delhi",
-        "Bangalore",
-        "Mumbai"
+        "Tokyo",
+        "London",
+        "Washington DC",
+        "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Washington DC",
+      "reasoning": "The correct answer is Washington DC."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#52)",
+      "question": "ಯುಎಸ್ಎ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1951)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಟೋಕಿಯೋ",
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ."
     }
   },
   {
     "id": "gk_53",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#53)",
+      "question": "What is the capital of UK (Fact 1952)?",
       "options": [
-        "Chennai",
-        "New Delhi",
-        "Bangalore",
-        "Mumbai"
+        "London",
+        "Tokyo",
+        "Washington DC",
+        "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "London",
+      "reasoning": "The correct answer is London."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#53)",
+      "question": "ಯುಕೆ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1952)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಲಂಡನ್",
+        "ಟೋಕಿಯೋ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಲಂಡನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಲಂಡನ್."
     }
   },
   {
     "id": "gk_54",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#54)",
+      "question": "What is the capital of Japan (Fact 1953)?",
       "options": [
-        "Bangalore",
-        "Chennai",
-        "Mumbai",
+        "Tokyo",
+        "London",
+        "Washington DC",
         "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Tokyo",
+      "reasoning": "The correct answer is Tokyo."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#54)",
+      "question": "ಜಪಾನ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1953)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
+        "ಟೋಕಿಯೋ",
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಟೋಕಿಯೋ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಟೋಕಿಯೋ."
     }
   },
   {
     "id": "gk_55",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#55)",
+      "question": "What is the capital of France (Fact 1954)?",
       "options": [
-        "Mumbai",
         "New Delhi",
-        "Chennai",
-        "Bangalore"
+        "Washington DC",
+        "London",
+        "Paris"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Paris",
+      "reasoning": "The correct answer is Paris."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#55)",
+      "question": "ಫ್ರಾನ್ಸ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1954)?",
       "options": [
-        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್",
+        "ಪ್ಯಾರಿಸ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಪ್ಯಾರಿಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪ್ಯಾರಿಸ್."
     }
   },
   {
     "id": "gk_56",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#56)",
+      "question": "What is the capital of Germany (Fact 1955)?",
       "options": [
-        "Mumbai",
-        "Chennai",
-        "Bangalore",
+        "Washington DC",
+        "Berlin",
+        "London",
         "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Berlin",
+      "reasoning": "The correct answer is Berlin."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#56)",
+      "question": "ಜರ್ಮನಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1955)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಬರ್ಲಿನ್",
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬರ್ಲಿನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬರ್ಲಿನ್."
     }
   },
   {
     "id": "gk_57",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#57)",
+      "question": "What is the capital of Italy (Fact 1956)?",
       "options": [
-        "Mumbai",
-        "Chennai",
+        "London",
         "New Delhi",
-        "Bangalore"
+        "Rome",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Rome",
+      "reasoning": "The correct answer is Rome."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#57)",
+      "question": "ಇಟಲಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1956)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು"
+        "ರೋಮ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ರೋಮ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ರೋಮ್."
     }
   },
   {
     "id": "gk_58",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#58)",
+      "question": "What is the capital of Canada (Fact 1957)?",
       "options": [
         "New Delhi",
-        "Mumbai",
-        "Chennai",
-        "Bangalore"
+        "London",
+        "Washington DC",
+        "Ottawa"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Ottawa",
+      "reasoning": "The correct answer is Ottawa."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#58)",
+      "question": "ಕೆನಡಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1957)?",
       "options": [
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಒಟ್ಟಾವಾ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಒಟ್ಟಾವಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಒಟ್ಟಾವಾ."
     }
   },
   {
     "id": "gk_59",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#59)",
+      "question": "What is the capital of Australia (Fact 1958)?",
       "options": [
-        "Mumbai",
-        "Bangalore",
-        "New Delhi",
-        "Chennai"
+        "Canberra",
+        "London",
+        "Washington DC",
+        "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Canberra",
+      "reasoning": "The correct answer is Canberra."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#59)",
+      "question": "ಆಸ್ಟ್ರೇಲಿಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1958)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ"
+        "ಕ್ಯಾನ್ಬೆರಾ",
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಕ್ಯಾನ್ಬೆರಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕ್ಯಾನ್ಬೆರಾ."
     }
   },
   {
     "id": "gk_60",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#60)",
+      "question": "What is the capital of Brazil (Fact 1959)?",
       "options": [
-        "Chennai",
-        "Bangalore",
-        "Mumbai",
+        "Washington DC",
+        "Brasilia",
+        "London",
         "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Brasilia",
+      "reasoning": "The correct answer is Brasilia."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#60)",
+      "question": "ಬ್ರೆಜಿಲ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1959)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಬ್ರೆಸಿಲಿಯಾ",
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬ್ರೆಸಿಲಿಯಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬ್ರೆಸಿಲಿಯಾ."
     }
   },
   {
     "id": "gk_61",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#61)",
+      "question": "What is the capital of India (Fact 1960)?",
       "options": [
-        "Bangalore",
+        "London",
         "New Delhi",
-        "Mumbai",
-        "Chennai"
+        "Washington DC",
+        "Tokyo"
       ],
       "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "reasoning": "The correct answer is New Delhi."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#61)",
+      "question": "ಭಾರತ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1960)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಟೋಕಿಯೋ"
       ],
       "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನವದೆಹಲಿ."
     }
   },
   {
     "id": "gk_62",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#62)",
+      "question": "What is the capital of USA (Fact 1961)?",
       "options": [
-        "Mumbai",
+        "London",
+        "Tokyo",
         "New Delhi",
-        "Bangalore",
-        "Chennai"
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Washington DC",
+      "reasoning": "The correct answer is Washington DC."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#62)",
+      "question": "ಯುಎಸ್ಎ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1961)?",
       "options": [
-        "ಮುಂಬೈ",
+        "ಲಂಡನ್",
+        "ಟೋಕಿಯೋ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ."
     }
   },
   {
     "id": "gk_63",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#63)",
+      "question": "What is the capital of UK (Fact 1962)?",
       "options": [
-        "Bangalore",
-        "Chennai",
-        "Mumbai",
-        "New Delhi"
+        "New Delhi",
+        "London",
+        "Washington DC",
+        "Tokyo"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "London",
+      "reasoning": "The correct answer is London."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#63)",
+      "question": "ಯುಕೆ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1962)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ನವದೆಹಲಿ",
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಟೋಕಿಯೋ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಲಂಡನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಲಂಡನ್."
     }
   },
   {
     "id": "gk_64",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#64)",
+      "question": "What is the capital of Japan (Fact 1963)?",
       "options": [
-        "Chennai",
-        "Mumbai",
         "New Delhi",
-        "Bangalore"
+        "Tokyo",
+        "London",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Tokyo",
+      "reasoning": "The correct answer is Tokyo."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#64)",
+      "question": "ಜಪಾನ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1963)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು"
+        "ಟೋಕಿಯೋ",
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಟೋಕಿಯೋ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಟೋಕಿಯೋ."
     }
   },
   {
     "id": "gk_65",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#65)",
+      "question": "What is the capital of France (Fact 1964)?",
       "options": [
-        "Chennai",
-        "Bangalore",
+        "Paris",
         "New Delhi",
-        "Mumbai"
+        "Washington DC",
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Paris",
+      "reasoning": "The correct answer is Paris."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#65)",
+      "question": "ಫ್ರಾನ್ಸ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1964)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
+        "ಪ್ಯಾರಿಸ್",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಪ್ಯಾರಿಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪ್ಯಾರಿಸ್."
     }
   },
   {
     "id": "gk_66",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#66)",
+      "question": "What is the capital of Germany (Fact 1965)?",
       "options": [
-        "Mumbai",
-        "Bangalore",
-        "Chennai",
+        "London",
+        "Washington DC",
+        "Berlin",
         "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Berlin",
+      "reasoning": "The correct answer is Berlin."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#66)",
+      "question": "ಜರ್ಮನಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1965)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಬರ್ಲಿನ್",
         "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬರ್ಲಿನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬರ್ಲಿನ್."
     }
   },
   {
     "id": "gk_67",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#67)",
+      "question": "What is the capital of Italy (Fact 1966)?",
       "options": [
-        "Chennai",
-        "Mumbai",
+        "Washington DC",
+        "London",
         "New Delhi",
-        "Bangalore"
+        "Rome"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Rome",
+      "reasoning": "The correct answer is Rome."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#67)",
+      "question": "ಇಟಲಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1966)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು"
+        "ರೋಮ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ರೋಮ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ರೋಮ್."
     }
   },
   {
     "id": "gk_68",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#68)",
+      "question": "What is the capital of Canada (Fact 1967)?",
       "options": [
-        "Mumbai",
-        "Chennai",
-        "Bangalore",
-        "New Delhi"
+        "New Delhi",
+        "Washington DC",
+        "Ottawa",
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Ottawa",
+      "reasoning": "The correct answer is Ottawa."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#68)",
+      "question": "ಕೆನಡಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1967)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ"
+        "ನವದೆಹಲಿ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಒಟ್ಟಾವಾ",
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಒಟ್ಟಾವಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಒಟ್ಟಾವಾ."
     }
   },
   {
     "id": "gk_69",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#69)",
+      "question": "What is the capital of Australia (Fact 1968)?",
       "options": [
-        "Mumbai",
-        "Bangalore",
+        "Washington DC",
+        "London",
         "New Delhi",
-        "Chennai"
+        "Canberra"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Canberra",
+      "reasoning": "The correct answer is Canberra."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#69)",
+      "question": "ಆಸ್ಟ್ರೇಲಿಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1968)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ"
+        "ಕ್ಯಾನ್ಬೆರಾ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಕ್ಯಾನ್ಬೆರಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕ್ಯಾನ್ಬೆರಾ."
     }
   },
   {
     "id": "gk_70",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#70)",
+      "question": "What is the capital of Brazil (Fact 1969)?",
       "options": [
         "New Delhi",
-        "Mumbai",
-        "Chennai",
-        "Bangalore"
+        "Brasilia",
+        "London",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Brasilia",
+      "reasoning": "The correct answer is Brasilia."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#70)",
+      "question": "ಬ್ರೆಜಿಲ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1969)?",
       "options": [
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಬ್ರೆಸಿಲಿಯಾ",
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬ್ರೆಸಿಲಿಯಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬ್ರೆಸಿಲಿಯಾ."
     }
   },
   {
     "id": "gk_71",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#71)",
+      "question": "What is the capital of India (Fact 1970)?",
       "options": [
-        "Chennai",
-        "Mumbai",
         "New Delhi",
-        "Bangalore"
+        "Tokyo",
+        "Washington DC",
+        "London"
       ],
       "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "reasoning": "The correct answer is New Delhi."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#71)",
+      "question": "ಭಾರತ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1970)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು"
+        "ಟೋಕಿಯೋ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್"
       ],
       "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನವದೆಹಲಿ."
     }
   },
   {
     "id": "gk_72",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#72)",
+      "question": "What is the capital of USA (Fact 1971)?",
       "options": [
-        "Chennai",
-        "Bangalore",
+        "Washington DC",
         "New Delhi",
-        "Mumbai"
+        "Tokyo",
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Washington DC",
+      "reasoning": "The correct answer is Washington DC."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#72)",
+      "question": "ಯುಎಸ್ಎ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1971)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ಟೋಕಿಯೋ",
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ."
     }
   },
   {
     "id": "gk_73",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#73)",
+      "question": "What is the capital of UK (Fact 1972)?",
       "options": [
-        "Chennai",
-        "Bangalore",
-        "Mumbai",
-        "New Delhi"
+        "New Delhi",
+        "Washington DC",
+        "Tokyo",
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "London",
+      "reasoning": "The correct answer is London."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#73)",
+      "question": "ಯುಕೆ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1972)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ನವದೆಹಲಿ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಟೋಕಿಯೋ",
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಲಂಡನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಲಂಡನ್."
     }
   },
   {
     "id": "gk_74",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#74)",
+      "question": "What is the capital of Japan (Fact 1973)?",
       "options": [
-        "Mumbai",
-        "Bangalore",
-        "Chennai",
-        "New Delhi"
+        "Tokyo",
+        "New Delhi",
+        "Washington DC",
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Tokyo",
+      "reasoning": "The correct answer is Tokyo."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#74)",
+      "question": "ಜಪಾನ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1973)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ"
+        "ಟೋಕಿಯೋ",
+        "ನವದೆಹಲಿ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಟೋಕಿಯೋ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಟೋಕಿಯೋ."
     }
   },
   {
     "id": "gk_75",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#75)",
+      "question": "What is the capital of France (Fact 1974)?",
       "options": [
-        "Chennai",
-        "Bangalore",
         "New Delhi",
-        "Mumbai"
+        "Washington DC",
+        "London",
+        "Paris"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Paris",
+      "reasoning": "The correct answer is Paris."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#75)",
+      "question": "ಫ್ರಾನ್ಸ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1974)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್",
+        "ಪ್ಯಾರಿಸ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಪ್ಯಾರಿಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪ್ಯಾರಿಸ್."
     }
   },
   {
     "id": "gk_76",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#76)",
+      "question": "What is the capital of Germany (Fact 1975)?",
       "options": [
-        "Mumbai",
-        "Bangalore",
-        "Chennai",
-        "New Delhi"
+        "London",
+        "New Delhi",
+        "Berlin",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Berlin",
+      "reasoning": "The correct answer is Berlin."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#76)",
+      "question": "ಜರ್ಮನಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1975)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ"
+        "ಲಂಡನ್",
+        "ನವದೆಹಲಿ",
+        "ಬರ್ಲಿನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬರ್ಲಿನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬರ್ಲಿನ್."
     }
   },
   {
     "id": "gk_77",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#77)",
+      "question": "What is the capital of Italy (Fact 1976)?",
       "options": [
-        "Bangalore",
-        "Chennai",
-        "New Delhi",
-        "Mumbai"
+        "Washington DC",
+        "London",
+        "Rome",
+        "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Rome",
+      "reasoning": "The correct answer is Rome."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#77)",
+      "question": "ಇಟಲಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1976)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್",
+        "ರೋಮ್",
+        "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ರೋಮ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ರೋಮ್."
     }
   },
   {
     "id": "gk_78",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#78)",
+      "question": "What is the capital of Canada (Fact 1977)?",
       "options": [
-        "Chennai",
+        "Washington DC",
         "New Delhi",
-        "Bangalore",
-        "Mumbai"
+        "London",
+        "Ottawa"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Ottawa",
+      "reasoning": "The correct answer is Ottawa."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#78)",
+      "question": "ಕೆನಡಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1977)?",
       "options": [
-        "ಚೆನ್ನೈ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಲಂಡನ್",
+        "ಒಟ್ಟಾವಾ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಒಟ್ಟಾವಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಒಟ್ಟಾವಾ."
     }
   },
   {
     "id": "gk_79",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#79)",
+      "question": "What is the capital of Australia (Fact 1978)?",
       "options": [
-        "Chennai",
+        "Washington DC",
+        "London",
         "New Delhi",
-        "Mumbai",
-        "Bangalore"
+        "Canberra"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Canberra",
+      "reasoning": "The correct answer is Canberra."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#79)",
+      "question": "ಆಸ್ಟ್ರೇಲಿಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1978)?",
       "options": [
-        "ಚೆನ್ನೈ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಕ್ಯಾನ್ಬೆರಾ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಕ್ಯಾನ್ಬೆರಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕ್ಯಾನ್ಬೆರಾ."
     }
   },
   {
     "id": "gk_80",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#80)",
+      "question": "What is the capital of Brazil (Fact 1979)?",
       "options": [
-        "Bangalore",
-        "Chennai",
+        "Washington DC",
         "New Delhi",
-        "Mumbai"
+        "London",
+        "Brasilia"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Brasilia",
+      "reasoning": "The correct answer is Brasilia."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#80)",
+      "question": "ಬ್ರೆಜಿಲ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1979)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ಲಂಡನ್",
+        "ಬ್ರೆಸಿಲಿಯಾ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬ್ರೆಸಿಲಿಯಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬ್ರೆಸಿಲಿಯಾ."
     }
   },
   {
     "id": "gk_81",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#81)",
+      "question": "What is the capital of India (Fact 1980)?",
       "options": [
-        "Chennai",
-        "Mumbai",
         "New Delhi",
-        "Bangalore"
+        "Washington DC",
+        "London",
+        "Tokyo"
       ],
       "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "reasoning": "The correct answer is New Delhi."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#81)",
+      "question": "ಭಾರತ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1980)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್",
+        "ಟೋಕಿಯೋ"
       ],
       "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನವದೆಹಲಿ."
     }
   },
   {
     "id": "gk_82",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#82)",
+      "question": "What is the capital of USA (Fact 1981)?",
       "options": [
-        "Mumbai",
-        "Chennai",
+        "Tokyo",
+        "Washington DC",
         "New Delhi",
-        "Bangalore"
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Washington DC",
+      "reasoning": "The correct answer is Washington DC."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#82)",
+      "question": "ಯುಎಸ್ಎ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1981)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
+        "ಟೋಕಿಯೋ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು"
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ."
     }
   },
   {
     "id": "gk_83",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#83)",
+      "question": "What is the capital of UK (Fact 1982)?",
       "options": [
-        "Mumbai",
-        "Chennai",
+        "London",
         "New Delhi",
-        "Bangalore"
+        "Tokyo",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "London",
+      "reasoning": "The correct answer is London."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#83)",
+      "question": "ಯುಕೆ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1982)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು"
+        "ಟೋಕಿಯೋ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಲಂಡನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಲಂಡನ್."
     }
   },
   {
     "id": "gk_84",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#84)",
+      "question": "What is the capital of Japan (Fact 1983)?",
       "options": [
-        "Bangalore",
-        "Chennai",
-        "New Delhi",
-        "Mumbai"
+        "Washington DC",
+        "Tokyo",
+        "London",
+        "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Tokyo",
+      "reasoning": "The correct answer is Tokyo."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#84)",
+      "question": "ಜಪಾನ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1983)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಟೋಕಿಯೋ",
+        "ಲಂಡನ್",
+        "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಟೋಕಿಯೋ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಟೋಕಿಯೋ."
     }
   },
   {
     "id": "gk_85",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#85)",
+      "question": "What is the capital of France (Fact 1984)?",
       "options": [
+        "Washington DC",
+        "London",
         "New Delhi",
-        "Mumbai",
-        "Chennai",
-        "Bangalore"
+        "Paris"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Paris",
+      "reasoning": "The correct answer is Paris."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#85)",
+      "question": "ಫ್ರಾನ್ಸ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1984)?",
       "options": [
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಪ್ಯಾರಿಸ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಪ್ಯಾರಿಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪ್ಯಾರಿಸ್."
     }
   },
   {
     "id": "gk_86",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#86)",
+      "question": "What is the capital of Germany (Fact 1985)?",
       "options": [
-        "Mumbai",
-        "Bangalore",
-        "Chennai",
+        "London",
+        "Berlin",
+        "Washington DC",
         "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Berlin",
+      "reasoning": "The correct answer is Berlin."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#86)",
+      "question": "ಜರ್ಮನಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1985)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
+        "ಲಂಡನ್",
+        "ಬರ್ಲಿನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬರ್ಲಿನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬರ್ಲಿನ್."
     }
   },
   {
     "id": "gk_87",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#87)",
+      "question": "What is the capital of Italy (Fact 1986)?",
       "options": [
-        "Chennai",
         "New Delhi",
-        "Mumbai",
-        "Bangalore"
+        "London",
+        "Rome",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Rome",
+      "reasoning": "The correct answer is Rome."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#87)",
+      "question": "ಇಟಲಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1986)?",
       "options": [
-        "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಲಂಡನ್",
+        "ರೋಮ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ರೋಮ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ರೋಮ್."
     }
   },
   {
     "id": "gk_88",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#88)",
+      "question": "What is the capital of Canada (Fact 1987)?",
       "options": [
         "New Delhi",
-        "Mumbai",
-        "Bangalore",
-        "Chennai"
+        "London",
+        "Washington DC",
+        "Ottawa"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Ottawa",
+      "reasoning": "The correct answer is Ottawa."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#88)",
+      "question": "ಕೆನಡಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1987)?",
       "options": [
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ"
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಒಟ್ಟಾವಾ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಒಟ್ಟಾವಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಒಟ್ಟಾವಾ."
     }
   },
   {
     "id": "gk_89",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#89)",
+      "question": "What is the capital of Australia (Fact 1988)?",
       "options": [
-        "Chennai",
-        "Mumbai",
+        "Washington DC",
         "New Delhi",
-        "Bangalore"
+        "London",
+        "Canberra"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Canberra",
+      "reasoning": "The correct answer is Canberra."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#89)",
+      "question": "ಆಸ್ಟ್ರೇಲಿಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1988)?",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು"
+        "ಲಂಡನ್",
+        "ಕ್ಯಾನ್ಬೆರಾ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಕ್ಯಾನ್ಬೆರಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕ್ಯಾನ್ಬೆರಾ."
     }
   },
   {
     "id": "gk_90",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#90)",
+      "question": "What is the capital of Brazil (Fact 1989)?",
       "options": [
-        "Bangalore",
-        "Chennai",
         "New Delhi",
-        "Mumbai"
+        "London",
+        "Washington DC",
+        "Brasilia"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Brasilia",
+      "reasoning": "The correct answer is Brasilia."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#90)",
+      "question": "ಬ್ರೆಜಿಲ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1989)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಬ್ರೆಸಿಲಿಯಾ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬ್ರೆಸಿಲಿಯಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬ್ರೆಸಿಲಿಯಾ."
     }
   },
   {
     "id": "gk_91",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#91)",
+      "question": "What is the capital of India (Fact 1990)?",
       "options": [
         "New Delhi",
-        "Mumbai",
-        "Bangalore",
-        "Chennai"
+        "Tokyo",
+        "Washington DC",
+        "London"
       ],
       "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "reasoning": "The correct answer is New Delhi."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#91)",
+      "question": "ಭಾರತ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1990)?",
       "options": [
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ"
+        "ಟೋಕಿಯೋ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಲಂಡನ್"
       ],
       "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನವದೆಹಲಿ."
     }
   },
   {
     "id": "gk_92",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#92)",
+      "question": "What is the capital of USA (Fact 1991)?",
       "options": [
-        "Bangalore",
-        "Chennai",
-        "Mumbai",
-        "New Delhi"
+        "Tokyo",
+        "Washington DC",
+        "New Delhi",
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Washington DC",
+      "reasoning": "The correct answer is Washington DC."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#92)",
+      "question": "ಯುಎಸ್ಎ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1991)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ಟೋಕಿಯೋ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ನವದೆಹಲಿ",
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ."
     }
   },
   {
     "id": "gk_93",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#93)",
+      "question": "What is the capital of UK (Fact 1992)?",
       "options": [
-        "Bangalore",
-        "Chennai",
+        "London",
         "New Delhi",
-        "Mumbai"
+        "Washington DC",
+        "Tokyo"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "London",
+      "reasoning": "The correct answer is London."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#93)",
+      "question": "ಯುಕೆ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1992)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಟೋಕಿಯೋ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಲಂಡನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಲಂಡನ್."
     }
   },
   {
     "id": "gk_94",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#94)",
+      "question": "What is the capital of Japan (Fact 1993)?",
       "options": [
-        "Chennai",
+        "Tokyo",
+        "London",
         "New Delhi",
-        "Mumbai",
-        "Bangalore"
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Tokyo",
+      "reasoning": "The correct answer is Tokyo."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#94)",
+      "question": "ಜಪಾನ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1993)?",
       "options": [
-        "ಚೆನ್ನೈ",
+        "ಟೋಕಿಯೋ",
+        "ಲಂಡನ್",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಟೋಕಿಯೋ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಟೋಕಿಯೋ."
     }
   },
   {
     "id": "gk_95",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#95)",
+      "question": "What is the capital of France (Fact 1994)?",
       "options": [
-        "Mumbai",
         "New Delhi",
-        "Bangalore",
-        "Chennai"
+        "London",
+        "Paris",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Paris",
+      "reasoning": "The correct answer is Paris."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#95)",
+      "question": "ಫ್ರಾನ್ಸ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1994)?",
       "options": [
-        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ"
+        "ಲಂಡನ್",
+        "ಪ್ಯಾರಿಸ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಪ್ಯಾರಿಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪ್ಯಾರಿಸ್."
     }
   },
   {
     "id": "gk_96",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#96)",
+      "question": "What is the capital of Germany (Fact 1995)?",
       "options": [
-        "Bangalore",
-        "Chennai",
         "New Delhi",
-        "Mumbai"
+        "London",
+        "Berlin",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Berlin",
+      "reasoning": "The correct answer is Berlin."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#96)",
+      "question": "ಜರ್ಮನಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1995)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ಲಂಡನ್",
+        "ಬರ್ಲಿನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬರ್ಲಿನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬರ್ಲಿನ್."
     }
   },
   {
     "id": "gk_97",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#97)",
+      "question": "What is the capital of Italy (Fact 1996)?",
       "options": [
-        "Bangalore",
+        "Washington DC",
+        "Rome",
         "New Delhi",
-        "Chennai",
-        "Mumbai"
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Rome",
+      "reasoning": "The correct answer is Rome."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#97)",
+      "question": "ಇಟಲಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1996)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ರೋಮ್",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ"
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ರೋಮ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ರೋಮ್."
     }
   },
   {
     "id": "gk_98",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#98)",
+      "question": "What is the capital of Canada (Fact 1997)?",
       "options": [
+        "Ottawa",
+        "Washington DC",
         "New Delhi",
-        "Chennai",
-        "Mumbai",
-        "Bangalore"
+        "London"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Ottawa",
+      "reasoning": "The correct answer is Ottawa."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#98)",
+      "question": "ಕೆನಡಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1997)?",
       "options": [
+        "ಒಟ್ಟಾವಾ",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಲಂಡನ್"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಒಟ್ಟಾವಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಒಟ್ಟಾವಾ."
     }
   },
   {
     "id": "gk_99",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#99)",
+      "question": "What is the capital of Australia (Fact 1998)?",
       "options": [
-        "Mumbai",
-        "Bangalore",
-        "New Delhi",
-        "Chennai"
+        "Washington DC",
+        "Canberra",
+        "London",
+        "New Delhi"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Canberra",
+      "reasoning": "The correct answer is Canberra."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#99)",
+      "question": "ಆಸ್ಟ್ರೇಲಿಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1998)?",
       "options": [
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ"
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ",
+        "ಕ್ಯಾನ್ಬೆರಾ",
+        "ಲಂಡನ್",
+        "ನವದೆಹಲಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಕ್ಯಾನ್ಬೆರಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕ್ಯಾನ್ಬೆರಾ."
     }
   },
   {
     "id": "gk_100",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the capital of India? (#100)",
+      "question": "What is the capital of Brazil (Fact 1999)?",
       "options": [
-        "Bangalore",
         "New Delhi",
-        "Mumbai",
-        "Chennai"
+        "Brasilia",
+        "London",
+        "Washington DC"
       ],
-      "answer": "New Delhi",
-      "reasoning": "New Delhi is the capital city."
+      "answer": "Brasilia",
+      "reasoning": "The correct answer is Brasilia."
     },
     "kn": {
-      "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#100)",
+      "question": "ಬ್ರೆಜಿಲ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು (ಸತ್ಯ 1999)?",
       "options": [
-        "ಬೆಂಗಳೂರು",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ"
+        "ಬ್ರೆಸಿಲಿಯಾ",
+        "ಲಂಡನ್",
+        "ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ"
       ],
-      "answer": "ನವದೆಹಲಿ",
-      "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
+      "answer": "ಬ್ರೆಸಿಲಿಯಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬ್ರೆಸಿಲಿಯಾ."
     }
   }
 ]

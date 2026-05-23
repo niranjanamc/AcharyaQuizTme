@@ -3,2600 +3,2600 @@
     "id": "sci_1",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#1)",
+      "question": "What is the chemical symbol for Hydrogen?",
       "options": [
-        "Jupiter",
-        "Sun",
-        "Moon",
-        "Earth"
+        "Hx",
+        "None",
+        "H",
+        "None"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "H",
+      "reasoning": "The correct answer is H."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#1)",
+      "question": "Hydrogen ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಗುರು",
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ",
-        "ಭೂಮಿ"
+        "Hx",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "H",
+        "ಯಾವುದೂ ಅಲ್ಲ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "H",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ H."
     }
   },
   {
     "id": "sci_2",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#2)",
+      "question": "What is the chemical symbol for Helium?",
       "options": [
-        "Nitrogen",
-        "Oxygen",
-        "Carbon Dioxide",
-        "Helium"
+        "eH",
+        "H",
+        "Hex",
+        "He"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "He",
+      "reasoning": "The correct answer is He."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#2)",
+      "question": "Helium ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ"
+        "eH",
+        "H",
+        "Hex",
+        "He"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "He",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ He."
     }
   },
   {
     "id": "sci_3",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#3)",
+      "question": "What is the chemical symbol for Lithium?",
       "options": [
-        "Earth",
-        "Sun",
-        "Moon",
-        "Jupiter"
+        "Li",
+        "iL",
+        "Lix",
+        "L"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Li",
+      "reasoning": "The correct answer is Li."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#3)",
+      "question": "Lithium ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಭೂಮಿ",
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ",
-        "ಗುರು"
+        "Li",
+        "iL",
+        "Lix",
+        "L"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Li",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Li."
     }
   },
   {
     "id": "sci_4",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#4)",
+      "question": "What is the chemical symbol for Beryllium?",
       "options": [
-        "Moon",
-        "Jupiter",
-        "Sun",
-        "Earth"
+        "eB",
+        "Bex",
+        "B",
+        "Be"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Be",
+      "reasoning": "The correct answer is Be."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#4)",
+      "question": "Beryllium ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಚಂದ್ರ",
-        "ಗುರು",
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ"
+        "eB",
+        "Bex",
+        "B",
+        "Be"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Be",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Be."
     }
   },
   {
     "id": "sci_5",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#5)",
+      "question": "What is the chemical symbol for Boron?",
       "options": [
-        "Helium",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Oxygen"
+        "Bx",
+        "B",
+        "None",
+        "None"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "B",
+      "reasoning": "The correct answer is B."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#5)",
+      "question": "Boron ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ"
+        "Bx",
+        "B",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "ಯಾವುದೂ ಅಲ್ಲ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "B",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ B."
     }
   },
   {
     "id": "sci_6",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#6)",
+      "question": "What is the chemical symbol for Carbon?",
       "options": [
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Oxygen",
-        "Helium"
+        "None",
+        "C",
+        "None",
+        "Cx"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "C",
+      "reasoning": "The correct answer is C."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#6)",
+      "question": "Carbon ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "C",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "Cx"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "C",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ C."
     }
   },
   {
     "id": "sci_7",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#7)",
+      "question": "What is the chemical symbol for Nitrogen?",
       "options": [
-        "Nitrogen",
-        "Helium",
-        "Carbon Dioxide",
-        "Oxygen"
+        "N",
+        "None",
+        "Nx",
+        "None"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "N",
+      "reasoning": "The correct answer is N."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#7)",
+      "question": "Nitrogen ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ"
+        "N",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "Nx",
+        "ಯಾವುದೂ ಅಲ್ಲ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "N",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ N."
     }
   },
   {
     "id": "sci_8",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#8)",
+      "question": "What is the chemical symbol for Oxygen?",
       "options": [
-        "Nitrogen",
-        "Oxygen",
-        "Helium",
-        "Carbon Dioxide"
+        "None",
+        "Ox",
+        "O",
+        "None"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "O",
+      "reasoning": "The correct answer is O."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#8)",
+      "question": "Oxygen ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "Ox",
+        "O",
+        "ಯಾವುದೂ ಅಲ್ಲ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "O",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ O."
     }
   },
   {
     "id": "sci_9",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#9)",
+      "question": "What is the chemical symbol for Fluorine?",
       "options": [
-        "Nitrogen",
-        "Helium",
-        "Carbon Dioxide",
-        "Oxygen"
+        "F",
+        "None",
+        "Fx",
+        "None"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "F",
+      "reasoning": "The correct answer is F."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#9)",
+      "question": "Fluorine ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ"
+        "F",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "Fx",
+        "ಯಾವುದೂ ಅಲ್ಲ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "F",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ F."
     }
   },
   {
     "id": "sci_10",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#10)",
+      "question": "What is the chemical symbol for Neon?",
       "options": [
-        "Helium",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Oxygen"
+        "eN",
+        "N",
+        "Nex",
+        "Ne"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Ne",
+      "reasoning": "The correct answer is Ne."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#10)",
+      "question": "Neon ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ"
+        "eN",
+        "N",
+        "Nex",
+        "Ne"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Ne",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Ne."
     }
   },
   {
     "id": "sci_11",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#11)",
+      "question": "What is the chemical symbol for Sodium?",
       "options": [
-        "Sun",
-        "Moon",
-        "Earth",
-        "Jupiter"
+        "aN",
+        "N",
+        "Na",
+        "Nax"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Na",
+      "reasoning": "The correct answer is Na."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#11)",
+      "question": "Sodium ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ",
-        "ಭೂಮಿ",
-        "ಗುರು"
+        "aN",
+        "N",
+        "Na",
+        "Nax"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Na",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Na."
     }
   },
   {
     "id": "sci_12",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#12)",
+      "question": "What is the chemical symbol for Magnesium?",
       "options": [
-        "Carbon Dioxide",
-        "Helium",
-        "Nitrogen",
-        "Oxygen"
+        "gM",
+        "Mgx",
+        "Mg",
+        "M"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Mg",
+      "reasoning": "The correct answer is Mg."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#12)",
+      "question": "Magnesium ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ"
+        "gM",
+        "Mgx",
+        "Mg",
+        "M"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Mg",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Mg."
     }
   },
   {
     "id": "sci_13",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#13)",
+      "question": "What is the chemical symbol for Aluminum?",
       "options": [
-        "Carbon Dioxide",
-        "Helium",
-        "Oxygen",
-        "Nitrogen"
+        "Al",
+        "lA",
+        "Alx",
+        "A"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Al",
+      "reasoning": "The correct answer is Al."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#13)",
+      "question": "Aluminum ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ"
+        "Al",
+        "lA",
+        "Alx",
+        "A"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Al",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Al."
     }
   },
   {
     "id": "sci_14",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#14)",
+      "question": "What is the chemical symbol for Silicon?",
       "options": [
-        "Sun",
-        "Earth",
-        "Moon",
-        "Jupiter"
+        "Six",
+        "iS",
+        "S",
+        "Si"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Si",
+      "reasoning": "The correct answer is Si."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#14)",
+      "question": "Silicon ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ",
-        "ಗುರು"
+        "Six",
+        "iS",
+        "S",
+        "Si"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Si",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Si."
     }
   },
   {
     "id": "sci_15",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#15)",
+      "question": "What is the chemical symbol for Phosphorus?",
       "options": [
-        "Nitrogen",
-        "Oxygen",
-        "Carbon Dioxide",
-        "Helium"
+        "None",
+        "None",
+        "P",
+        "Px"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "P",
+      "reasoning": "The correct answer is P."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#15)",
+      "question": "Phosphorus ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ"
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "P",
+        "Px"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "P",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ P."
     }
   },
   {
     "id": "sci_16",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#16)",
+      "question": "What is the chemical symbol for Sulfur?",
       "options": [
-        "Nitrogen",
-        "Helium",
-        "Oxygen",
-        "Carbon Dioxide"
+        "Sx",
+        "None",
+        "None",
+        "S"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "S",
+      "reasoning": "The correct answer is S."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#16)",
+      "question": "Sulfur ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "Sx",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "S"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "S",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ S."
     }
   },
   {
     "id": "sci_17",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#17)",
+      "question": "What is the chemical symbol for Chlorine?",
       "options": [
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Oxygen",
-        "Helium"
+        "Clx",
+        "lC",
+        "Cl",
+        "C"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Cl",
+      "reasoning": "The correct answer is Cl."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#17)",
+      "question": "Chlorine ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "Clx",
+        "lC",
+        "Cl",
+        "C"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Cl",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Cl."
     }
   },
   {
     "id": "sci_18",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#18)",
+      "question": "What is the chemical symbol for Argon?",
       "options": [
-        "Oxygen",
-        "Helium",
-        "Nitrogen",
-        "Carbon Dioxide"
+        "Arx",
+        "Ar",
+        "A",
+        "rA"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Ar",
+      "reasoning": "The correct answer is Ar."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#18)",
+      "question": "Argon ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "Arx",
+        "Ar",
+        "A",
+        "rA"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Ar",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Ar."
     }
   },
   {
     "id": "sci_19",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#19)",
+      "question": "What is the chemical symbol for Potassium?",
       "options": [
-        "Carbon Dioxide",
-        "Helium",
-        "Oxygen",
-        "Nitrogen"
+        "None",
+        "Kx",
+        "K",
+        "None"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "K",
+      "reasoning": "The correct answer is K."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#19)",
+      "question": "Potassium ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ"
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "Kx",
+        "K",
+        "ಯಾವುದೂ ಅಲ್ಲ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "K",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ K."
     }
   },
   {
     "id": "sci_20",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#20)",
+      "question": "What is the chemical symbol for Calcium?",
       "options": [
-        "Sun",
-        "Earth",
-        "Moon",
-        "Jupiter"
+        "Ca",
+        "Cax",
+        "C",
+        "aC"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Ca",
+      "reasoning": "The correct answer is Ca."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#20)",
+      "question": "Calcium ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ",
-        "ಗುರು"
+        "Ca",
+        "Cax",
+        "C",
+        "aC"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Ca",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Ca."
     }
   },
   {
     "id": "sci_21",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#21)",
+      "question": "What is the chemical symbol for Iron?",
       "options": [
-        "Earth",
-        "Moon",
-        "Sun",
-        "Jupiter"
+        "Fex",
+        "eF",
+        "Fe",
+        "F"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Fe",
+      "reasoning": "The correct answer is Fe."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#21)",
+      "question": "Iron ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ",
-        "ಗುರು"
+        "Fex",
+        "eF",
+        "Fe",
+        "F"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Fe",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Fe."
     }
   },
   {
     "id": "sci_22",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#22)",
+      "question": "What is the chemical symbol for Copper?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Helium"
+        "Cu",
+        "Cux",
+        "uC",
+        "C"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Cu",
+      "reasoning": "The correct answer is Cu."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#22)",
+      "question": "Copper ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ"
+        "Cu",
+        "Cux",
+        "uC",
+        "C"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Cu",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Cu."
     }
   },
   {
     "id": "sci_23",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#23)",
+      "question": "What is the chemical symbol for Zinc?",
       "options": [
-        "Jupiter",
-        "Earth",
-        "Moon",
-        "Sun"
+        "Znx",
+        "nZ",
+        "Z",
+        "Zn"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Zn",
+      "reasoning": "The correct answer is Zn."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#23)",
+      "question": "Zinc ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಗುರು",
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ"
+        "Znx",
+        "nZ",
+        "Z",
+        "Zn"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Zn",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Zn."
     }
   },
   {
     "id": "sci_24",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#24)",
+      "question": "What is the chemical symbol for Gold?",
       "options": [
-        "Sun",
-        "Earth",
-        "Moon",
-        "Jupiter"
+        "Aux",
+        "uA",
+        "A",
+        "Au"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Au",
+      "reasoning": "The correct answer is Au."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#24)",
+      "question": "Gold ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ",
-        "ಗುರು"
+        "Aux",
+        "uA",
+        "A",
+        "Au"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Au",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Au."
     }
   },
   {
     "id": "sci_25",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#25)",
+      "question": "What is the chemical symbol for Silver?",
       "options": [
-        "Earth",
-        "Sun",
-        "Jupiter",
-        "Moon"
+        "Ag",
+        "gA",
+        "Agx",
+        "A"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Ag",
+      "reasoning": "The correct answer is Ag."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#25)",
+      "question": "Silver ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಭೂಮಿ",
-        "ಸೂರ್ಯ",
-        "ಗುರು",
-        "ಚಂದ್ರ"
+        "Ag",
+        "gA",
+        "Agx",
+        "A"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Ag",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Ag."
     }
   },
   {
     "id": "sci_26",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#26)",
+      "question": "What is the chemical symbol for Hydrogen?",
       "options": [
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Helium",
-        "Oxygen"
+        "H",
+        "None",
+        "Hx",
+        "None"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "H",
+      "reasoning": "The correct answer is H."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#26)",
+      "question": "Hydrogen ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ"
+        "H",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "Hx",
+        "ಯಾವುದೂ ಅಲ್ಲ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "H",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ H."
     }
   },
   {
     "id": "sci_27",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#27)",
+      "question": "What is the chemical symbol for Helium?",
       "options": [
-        "Oxygen",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Helium"
+        "H",
+        "Hex",
+        "He",
+        "eH"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "He",
+      "reasoning": "The correct answer is He."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#27)",
+      "question": "Helium ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "H",
+        "Hex",
+        "He",
+        "eH"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "He",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ He."
     }
   },
   {
     "id": "sci_28",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#28)",
+      "question": "What is the chemical symbol for Lithium?",
       "options": [
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Oxygen",
-        "Helium"
+        "L",
+        "iL",
+        "Li",
+        "Lix"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Li",
+      "reasoning": "The correct answer is Li."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#28)",
+      "question": "Lithium ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "L",
+        "iL",
+        "Li",
+        "Lix"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Li",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Li."
     }
   },
   {
     "id": "sci_29",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#29)",
+      "question": "What is the chemical symbol for Beryllium?",
       "options": [
-        "Jupiter",
-        "Earth",
-        "Sun",
-        "Moon"
+        "Be",
+        "B",
+        "eB",
+        "Bex"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Be",
+      "reasoning": "The correct answer is Be."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#29)",
+      "question": "Beryllium ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಗುರು",
-        "ಭೂಮಿ",
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ"
+        "Be",
+        "B",
+        "eB",
+        "Bex"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Be",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Be."
     }
   },
   {
     "id": "sci_30",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#30)",
+      "question": "What is the chemical symbol for Boron?",
       "options": [
-        "Earth",
-        "Sun",
-        "Jupiter",
-        "Moon"
+        "None",
+        "B",
+        "Bx",
+        "None"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "B",
+      "reasoning": "The correct answer is B."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#30)",
+      "question": "Boron ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಭೂಮಿ",
-        "ಸೂರ್ಯ",
-        "ಗುರು",
-        "ಚಂದ್ರ"
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "B",
+        "Bx",
+        "ಯಾವುದೂ ಅಲ್ಲ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "B",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ B."
     }
   },
   {
     "id": "sci_31",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#31)",
+      "question": "What is the chemical symbol for Carbon?",
       "options": [
-        "Carbon Dioxide",
-        "Helium",
-        "Oxygen",
-        "Nitrogen"
+        "None",
+        "C",
+        "None",
+        "Cx"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "C",
+      "reasoning": "The correct answer is C."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#31)",
+      "question": "Carbon ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ"
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "C",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "Cx"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "C",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ C."
     }
   },
   {
     "id": "sci_32",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#32)",
+      "question": "What is the chemical symbol for Nitrogen?",
       "options": [
-        "Jupiter",
-        "Earth",
-        "Moon",
-        "Sun"
+        "Nx",
+        "None",
+        "N",
+        "None"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "N",
+      "reasoning": "The correct answer is N."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#32)",
+      "question": "Nitrogen ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಗುರು",
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ"
+        "Nx",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "N",
+        "ಯಾವುದೂ ಅಲ್ಲ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "N",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ N."
     }
   },
   {
     "id": "sci_33",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#33)",
+      "question": "What is the chemical symbol for Oxygen?",
       "options": [
-        "Oxygen",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Helium"
+        "O",
+        "Ox",
+        "None",
+        "None"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "O",
+      "reasoning": "The correct answer is O."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#33)",
+      "question": "Oxygen ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "O",
+        "Ox",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "ಯಾವುದೂ ಅಲ್ಲ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "O",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ O."
     }
   },
   {
     "id": "sci_34",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#34)",
+      "question": "What is the chemical symbol for Fluorine?",
       "options": [
-        "Moon",
-        "Earth",
-        "Jupiter",
-        "Sun"
+        "F",
+        "None",
+        "Fx",
+        "None"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "F",
+      "reasoning": "The correct answer is F."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#34)",
+      "question": "Fluorine ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಚಂದ್ರ",
-        "ಭೂಮಿ",
-        "ಗುರು",
-        "ಸೂರ್ಯ"
+        "F",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "Fx",
+        "ಯಾವುದೂ ಅಲ್ಲ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "F",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ F."
     }
   },
   {
     "id": "sci_35",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#35)",
+      "question": "What is the chemical symbol for Neon?",
       "options": [
-        "Earth",
-        "Sun",
-        "Moon",
-        "Jupiter"
+        "N",
+        "eN",
+        "Nex",
+        "Ne"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Ne",
+      "reasoning": "The correct answer is Ne."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#35)",
+      "question": "Neon ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಭೂಮಿ",
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ",
-        "ಗುರು"
+        "N",
+        "eN",
+        "Nex",
+        "Ne"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Ne",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Ne."
     }
   },
   {
     "id": "sci_36",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#36)",
+      "question": "What is the chemical symbol for Sodium?",
       "options": [
-        "Helium",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Oxygen"
+        "Nax",
+        "Na",
+        "aN",
+        "N"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Na",
+      "reasoning": "The correct answer is Na."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#36)",
+      "question": "Sodium ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ"
+        "Nax",
+        "Na",
+        "aN",
+        "N"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Na",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Na."
     }
   },
   {
     "id": "sci_37",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#37)",
+      "question": "What is the chemical symbol for Magnesium?",
       "options": [
-        "Helium",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Oxygen"
+        "M",
+        "Mgx",
+        "gM",
+        "Mg"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Mg",
+      "reasoning": "The correct answer is Mg."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#37)",
+      "question": "Magnesium ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ"
+        "M",
+        "Mgx",
+        "gM",
+        "Mg"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Mg",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Mg."
     }
   },
   {
     "id": "sci_38",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#38)",
+      "question": "What is the chemical symbol for Aluminum?",
       "options": [
-        "Jupiter",
-        "Moon",
-        "Sun",
-        "Earth"
+        "A",
+        "Alx",
+        "Al",
+        "lA"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Al",
+      "reasoning": "The correct answer is Al."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#38)",
+      "question": "Aluminum ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಗುರು",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ"
+        "A",
+        "Alx",
+        "Al",
+        "lA"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Al",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Al."
     }
   },
   {
     "id": "sci_39",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#39)",
+      "question": "What is the chemical symbol for Silicon?",
       "options": [
-        "Nitrogen",
-        "Helium",
-        "Carbon Dioxide",
-        "Oxygen"
+        "iS",
+        "S",
+        "Six",
+        "Si"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Si",
+      "reasoning": "The correct answer is Si."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#39)",
+      "question": "Silicon ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ"
+        "iS",
+        "S",
+        "Six",
+        "Si"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Si",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Si."
     }
   },
   {
     "id": "sci_40",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#40)",
+      "question": "What is the chemical symbol for Phosphorus?",
       "options": [
-        "Jupiter",
-        "Moon",
-        "Sun",
-        "Earth"
+        "None",
+        "None",
+        "Px",
+        "P"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "P",
+      "reasoning": "The correct answer is P."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#40)",
+      "question": "Phosphorus ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಗುರು",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ"
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "Px",
+        "P"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "P",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ P."
     }
   },
   {
     "id": "sci_41",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#41)",
+      "question": "What is the chemical symbol for Sulfur?",
       "options": [
-        "Helium",
-        "Nitrogen",
-        "Oxygen",
-        "Carbon Dioxide"
+        "S",
+        "None",
+        "Sx",
+        "None"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "S",
+      "reasoning": "The correct answer is S."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#41)",
+      "question": "Sulfur ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "S",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "Sx",
+        "ಯಾವುದೂ ಅಲ್ಲ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "S",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ S."
     }
   },
   {
     "id": "sci_42",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#42)",
+      "question": "What is the chemical symbol for Chlorine?",
       "options": [
-        "Oxygen",
-        "Helium",
-        "Nitrogen",
-        "Carbon Dioxide"
+        "Clx",
+        "Cl",
+        "lC",
+        "C"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Cl",
+      "reasoning": "The correct answer is Cl."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#42)",
+      "question": "Chlorine ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "Clx",
+        "Cl",
+        "lC",
+        "C"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Cl",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Cl."
     }
   },
   {
     "id": "sci_43",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#43)",
+      "question": "What is the chemical symbol for Argon?",
       "options": [
-        "Earth",
-        "Jupiter",
-        "Sun",
-        "Moon"
+        "Arx",
+        "rA",
+        "Ar",
+        "A"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Ar",
+      "reasoning": "The correct answer is Ar."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#43)",
+      "question": "Argon ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಭೂಮಿ",
-        "ಗುರು",
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ"
+        "Arx",
+        "rA",
+        "Ar",
+        "A"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Ar",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Ar."
     }
   },
   {
     "id": "sci_44",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#44)",
+      "question": "What is the chemical symbol for Potassium?",
       "options": [
-        "Carbon Dioxide",
-        "Helium",
-        "Oxygen",
-        "Nitrogen"
+        "None",
+        "Kx",
+        "None",
+        "K"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "K",
+      "reasoning": "The correct answer is K."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#44)",
+      "question": "Potassium ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ"
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "Kx",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "K"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "K",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ K."
     }
   },
   {
     "id": "sci_45",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#45)",
+      "question": "What is the chemical symbol for Calcium?",
       "options": [
-        "Oxygen",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Helium"
+        "Cax",
+        "aC",
+        "Ca",
+        "C"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Ca",
+      "reasoning": "The correct answer is Ca."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#45)",
+      "question": "Calcium ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "Cax",
+        "aC",
+        "Ca",
+        "C"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Ca",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Ca."
     }
   },
   {
     "id": "sci_46",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#46)",
+      "question": "What is the chemical symbol for Iron?",
       "options": [
-        "Jupiter",
-        "Earth",
-        "Moon",
-        "Sun"
+        "Fe",
+        "Fex",
+        "eF",
+        "F"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Fe",
+      "reasoning": "The correct answer is Fe."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#46)",
+      "question": "Iron ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಗುರು",
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ"
+        "Fe",
+        "Fex",
+        "eF",
+        "F"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Fe",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Fe."
     }
   },
   {
     "id": "sci_47",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#47)",
+      "question": "What is the chemical symbol for Copper?",
       "options": [
-        "Earth",
-        "Jupiter",
-        "Sun",
-        "Moon"
+        "uC",
+        "Cu",
+        "Cux",
+        "C"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Cu",
+      "reasoning": "The correct answer is Cu."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#47)",
+      "question": "Copper ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಭೂಮಿ",
-        "ಗುರು",
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ"
+        "uC",
+        "Cu",
+        "Cux",
+        "C"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Cu",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Cu."
     }
   },
   {
     "id": "sci_48",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#48)",
+      "question": "What is the chemical symbol for Zinc?",
       "options": [
-        "Sun",
-        "Earth",
-        "Moon",
-        "Jupiter"
+        "nZ",
+        "Z",
+        "Zn",
+        "Znx"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Zn",
+      "reasoning": "The correct answer is Zn."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#48)",
+      "question": "Zinc ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ",
-        "ಗುರು"
+        "nZ",
+        "Z",
+        "Zn",
+        "Znx"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Zn",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Zn."
     }
   },
   {
     "id": "sci_49",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#49)",
+      "question": "What is the chemical symbol for Gold?",
       "options": [
-        "Moon",
-        "Jupiter",
-        "Earth",
-        "Sun"
+        "A",
+        "uA",
+        "Au",
+        "Aux"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Au",
+      "reasoning": "The correct answer is Au."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#49)",
+      "question": "Gold ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಚಂದ್ರ",
-        "ಗುರು",
-        "ಭೂಮಿ",
-        "ಸೂರ್ಯ"
+        "A",
+        "uA",
+        "Au",
+        "Aux"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Au",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Au."
     }
   },
   {
     "id": "sci_50",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#50)",
+      "question": "What is the chemical symbol for Silver?",
       "options": [
-        "Earth",
-        "Jupiter",
-        "Moon",
-        "Sun"
+        "gA",
+        "Agx",
+        "Ag",
+        "A"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Ag",
+      "reasoning": "The correct answer is Ag."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#50)",
+      "question": "Silver ನ ರಾಸಾಯನಿಕ ಚಿಹ್ನೆ ಯಾವುದು?",
       "options": [
-        "ಭೂಮಿ",
-        "ಗುರು",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ"
+        "gA",
+        "Agx",
+        "Ag",
+        "A"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "Ag",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ Ag."
     }
   },
   {
     "id": "sci_51",
     "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#51)",
+      "question": "Which of these is the planet Mercury?",
       "options": [
-        "Oxygen",
-        "Helium",
-        "Carbon Dioxide",
-        "Nitrogen"
+        "Venus",
+        "Mercury",
+        "Earth",
+        "Mars"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Mercury",
+      "reasoning": "The correct answer is Mercury."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#51)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಬುಧ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ"
+        "ಶುಕ್ರ",
+        "ಬುಧ",
+        "ಭೂಮಿ",
+        "ಮಂಗಳ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಬುಧ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬುಧ."
     }
   },
   {
     "id": "sci_52",
     "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#52)",
+      "question": "Which of these is the planet Venus?",
       "options": [
-        "Helium",
-        "Oxygen",
-        "Carbon Dioxide",
-        "Nitrogen"
+        "Venus",
+        "Mercury",
+        "Mars",
+        "Earth"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Venus",
+      "reasoning": "The correct answer is Venus."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#52)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಶುಕ್ರ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ"
+        "ಶುಕ್ರ",
+        "ಬುಧ",
+        "ಮಂಗಳ",
+        "ಭೂಮಿ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಶುಕ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಶುಕ್ರ."
     }
   },
   {
     "id": "sci_53",
     "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#53)",
+      "question": "Which of these is the planet Earth?",
       "options": [
-        "Jupiter",
+        "Mars",
+        "Mercury",
         "Earth",
-        "Moon",
-        "Sun"
+        "Venus"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Earth",
+      "reasoning": "The correct answer is Earth."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#53)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಭೂಮಿ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಗುರು",
+        "ಮಂಗಳ",
+        "ಬುಧ",
         "ಭೂಮಿ",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ"
+        "ಶುಕ್ರ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಭೂಮಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಭೂಮಿ."
     }
   },
   {
     "id": "sci_54",
     "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#54)",
+      "question": "Which of these is the planet Mars?",
       "options": [
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Helium",
-        "Oxygen"
+        "Earth",
+        "Venus",
+        "Mercury",
+        "Mars"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Mars",
+      "reasoning": "The correct answer is Mars."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#54)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಮಂಗಳ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ"
+        "ಭೂಮಿ",
+        "ಶುಕ್ರ",
+        "ಬುಧ",
+        "ಮಂಗಳ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಮಂಗಳ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮಂಗಳ."
     }
   },
   {
     "id": "sci_55",
     "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#55)",
+      "question": "Which of these is the planet Jupiter?",
       "options": [
-        "Oxygen",
-        "Helium",
-        "Nitrogen",
-        "Carbon Dioxide"
+        "Earth",
+        "Venus",
+        "Jupiter",
+        "Mercury"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Jupiter",
+      "reasoning": "The correct answer is Jupiter."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#55)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಗುರು ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಭೂಮಿ",
+        "ಶುಕ್ರ",
+        "ಗುರು",
+        "ಬುಧ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಗುರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಗುರು."
     }
   },
   {
     "id": "sci_56",
     "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#56)",
+      "question": "Which of these is the planet Saturn?",
       "options": [
+        "Venus",
+        "Saturn",
         "Earth",
-        "Sun",
-        "Jupiter",
-        "Moon"
+        "Mercury"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Saturn",
+      "reasoning": "The correct answer is Saturn."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#56)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಶನಿ ಗ್ರಹ ಯಾವುದು?",
       "options": [
+        "ಶುಕ್ರ",
+        "ಶನಿ",
         "ಭೂಮಿ",
-        "ಸೂರ್ಯ",
-        "ಗುರು",
-        "ಚಂದ್ರ"
+        "ಬುಧ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಶನಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಶನಿ."
     }
   },
   {
     "id": "sci_57",
     "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#57)",
+      "question": "Which of these is the planet Uranus?",
       "options": [
-        "Jupiter",
-        "Moon",
-        "Sun",
-        "Earth"
+        "Earth",
+        "Venus",
+        "Mercury",
+        "Uranus"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Uranus",
+      "reasoning": "The correct answer is Uranus."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#57)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಯುರೇನಸ್ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಗುರು",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ"
+        "ಭೂಮಿ",
+        "ಶುಕ್ರ",
+        "ಬುಧ",
+        "ಯುರೇನಸ್"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಯುರೇನಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಯುರೇನಸ್."
     }
   },
   {
     "id": "sci_58",
     "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#58)",
+      "question": "Which of these is the planet Neptune?",
       "options": [
-        "Helium",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Oxygen"
+        "Neptune",
+        "Earth",
+        "Mercury",
+        "Venus"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Neptune",
+      "reasoning": "The correct answer is Neptune."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#58)",
+      "question": "ಇವುಗಳಲ್ಲಿ ನೆಪ್ಚೂನ್ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ"
+        "ನೆಪ್ಚೂನ್",
+        "ಭೂಮಿ",
+        "ಬುಧ",
+        "ಶುಕ್ರ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ನೆಪ್ಚೂನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೆಪ್ಚೂನ್."
     }
   },
   {
     "id": "sci_59",
     "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#59)",
+      "question": "Which of these is the planet Mercury?",
       "options": [
-        "Carbon Dioxide",
-        "Oxygen",
-        "Helium",
-        "Nitrogen"
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Earth"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Mercury",
+      "reasoning": "The correct answer is Mercury."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#59)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಬುಧ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ"
+        "ಬುಧ",
+        "ಶುಕ್ರ",
+        "ಮಂಗಳ",
+        "ಭೂಮಿ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಬುಧ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬುಧ."
     }
   },
   {
     "id": "sci_60",
     "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#60)",
+      "question": "Which of these is the planet Venus?",
       "options": [
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Oxygen",
-        "Helium"
+        "Venus",
+        "Mercury",
+        "Mars",
+        "Earth"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Venus",
+      "reasoning": "The correct answer is Venus."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#60)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಶುಕ್ರ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "ಶುಕ್ರ",
+        "ಬುಧ",
+        "ಮಂಗಳ",
+        "ಭೂಮಿ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಶುಕ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಶುಕ್ರ."
     }
   },
   {
     "id": "sci_61",
     "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#61)",
+      "question": "Which of these is the planet Earth?",
       "options": [
-        "Moon",
-        "Jupiter",
-        "Earth",
-        "Sun"
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Earth"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Earth",
+      "reasoning": "The correct answer is Earth."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#61)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಭೂಮಿ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಚಂದ್ರ",
-        "ಗುರು",
-        "ಭೂಮಿ",
-        "ಸೂರ್ಯ"
+        "ಬುಧ",
+        "ಮಂಗಳ",
+        "ಶುಕ್ರ",
+        "ಭೂಮಿ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಭೂಮಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಭೂಮಿ."
     }
   },
   {
     "id": "sci_62",
     "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#62)",
+      "question": "Which of these is the planet Mars?",
       "options": [
-        "Oxygen",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Helium"
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Earth"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Mars",
+      "reasoning": "The correct answer is Mars."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#62)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಮಂಗಳ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "ಬುಧ",
+        "ಶುಕ್ರ",
+        "ಮಂಗಳ",
+        "ಭೂಮಿ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಮಂಗಳ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮಂಗಳ."
     }
   },
   {
     "id": "sci_63",
     "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#63)",
+      "question": "Which of these is the planet Jupiter?",
       "options": [
-        "Moon",
+        "Mercury",
         "Jupiter",
-        "Earth",
-        "Sun"
+        "Venus",
+        "Earth"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Jupiter",
+      "reasoning": "The correct answer is Jupiter."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#63)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಗುರು ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಚಂದ್ರ",
+        "ಬುಧ",
         "ಗುರು",
-        "ಭೂಮಿ",
-        "ಸೂರ್ಯ"
+        "ಶುಕ್ರ",
+        "ಭೂಮಿ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಗುರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಗುರು."
     }
   },
   {
     "id": "sci_64",
     "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#64)",
+      "question": "Which of these is the planet Saturn?",
       "options": [
-        "Carbon Dioxide",
-        "Helium",
-        "Oxygen",
-        "Nitrogen"
+        "Mercury",
+        "Earth",
+        "Venus",
+        "Saturn"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Saturn",
+      "reasoning": "The correct answer is Saturn."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#64)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಶನಿ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ"
+        "ಬುಧ",
+        "ಭೂಮಿ",
+        "ಶುಕ್ರ",
+        "ಶನಿ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಶನಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಶನಿ."
     }
   },
   {
     "id": "sci_65",
     "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#65)",
+      "question": "Which of these is the planet Uranus?",
       "options": [
-        "Helium",
-        "Nitrogen",
-        "Oxygen",
-        "Carbon Dioxide"
+        "Venus",
+        "Earth",
+        "Uranus",
+        "Mercury"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Uranus",
+      "reasoning": "The correct answer is Uranus."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#65)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಯುರೇನಸ್ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಶುಕ್ರ",
+        "ಭೂಮಿ",
+        "ಯುರೇನಸ್",
+        "ಬುಧ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಯುರೇನಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಯುರೇನಸ್."
     }
   },
   {
     "id": "sci_66",
     "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#66)",
+      "question": "Which of these is the planet Neptune?",
       "options": [
-        "Oxygen",
-        "Helium",
-        "Nitrogen",
-        "Carbon Dioxide"
+        "Venus",
+        "Mercury",
+        "Neptune",
+        "Earth"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Neptune",
+      "reasoning": "The correct answer is Neptune."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#66)",
+      "question": "ಇವುಗಳಲ್ಲಿ ನೆಪ್ಚೂನ್ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಶುಕ್ರ",
+        "ಬುಧ",
+        "ನೆಪ್ಚೂನ್",
+        "ಭೂಮಿ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ನೆಪ್ಚೂನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೆಪ್ಚೂನ್."
     }
   },
   {
     "id": "sci_67",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#67)",
+      "question": "Which of these is the planet Mercury?",
       "options": [
-        "Carbon Dioxide",
-        "Oxygen",
-        "Nitrogen",
-        "Helium"
+        "Mars",
+        "Mercury",
+        "Earth",
+        "Venus"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Mercury",
+      "reasoning": "The correct answer is Mercury."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#67)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಬುಧ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "ಮಂಗಳ",
+        "ಬುಧ",
+        "ಭೂಮಿ",
+        "ಶುಕ್ರ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಬುಧ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬುಧ."
     }
   },
   {
     "id": "sci_68",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#68)",
+      "question": "Which of these is the planet Venus?",
       "options": [
-        "Moon",
-        "Sun",
-        "Jupiter",
-        "Earth"
+        "Mercury",
+        "Earth",
+        "Venus",
+        "Mars"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Venus",
+      "reasoning": "The correct answer is Venus."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#68)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಶುಕ್ರ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ",
-        "ಗುರು",
-        "ಭೂಮಿ"
+        "ಬುಧ",
+        "ಭೂಮಿ",
+        "ಶುಕ್ರ",
+        "ಮಂಗಳ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಶುಕ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಶುಕ್ರ."
     }
   },
   {
     "id": "sci_69",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#69)",
+      "question": "Which of these is the planet Earth?",
       "options": [
-        "Nitrogen",
-        "Oxygen",
-        "Carbon Dioxide",
-        "Helium"
+        "Earth",
+        "Mars",
+        "Venus",
+        "Mercury"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Earth",
+      "reasoning": "The correct answer is Earth."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#69)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಭೂಮಿ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ"
+        "ಭೂಮಿ",
+        "ಮಂಗಳ",
+        "ಶುಕ್ರ",
+        "ಬುಧ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಭೂಮಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಭೂಮಿ."
     }
   },
   {
     "id": "sci_70",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#70)",
+      "question": "Which of these is the planet Mars?",
       "options": [
-        "Helium",
-        "Oxygen",
-        "Carbon Dioxide",
-        "Nitrogen"
+        "Mars",
+        "Venus",
+        "Earth",
+        "Mercury"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Mars",
+      "reasoning": "The correct answer is Mars."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#70)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಮಂಗಳ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ"
+        "ಮಂಗಳ",
+        "ಶುಕ್ರ",
+        "ಭೂಮಿ",
+        "ಬುಧ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಮಂಗಳ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮಂಗಳ."
     }
   },
   {
     "id": "sci_71",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#71)",
+      "question": "Which of these is the planet Jupiter?",
       "options": [
-        "Sun",
-        "Moon",
-        "Earth",
-        "Jupiter"
+        "Mercury",
+        "Venus",
+        "Jupiter",
+        "Earth"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Jupiter",
+      "reasoning": "The correct answer is Jupiter."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#71)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಗುರು ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ",
-        "ಭೂಮಿ",
-        "ಗುರು"
+        "ಬುಧ",
+        "ಶುಕ್ರ",
+        "ಗುರು",
+        "ಭೂಮಿ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಗುರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಗುರು."
     }
   },
   {
     "id": "sci_72",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#72)",
+      "question": "Which of these is the planet Saturn?",
       "options": [
-        "Sun",
-        "Moon",
-        "Jupiter",
-        "Earth"
+        "Saturn",
+        "Mercury",
+        "Earth",
+        "Venus"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Saturn",
+      "reasoning": "The correct answer is Saturn."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#72)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಶನಿ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ",
-        "ಗುರು",
-        "ಭೂಮಿ"
+        "ಶನಿ",
+        "ಬುಧ",
+        "ಭೂಮಿ",
+        "ಶುಕ್ರ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಶನಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಶನಿ."
     }
   },
   {
     "id": "sci_73",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#73)",
+      "question": "Which of these is the planet Uranus?",
       "options": [
-        "Carbon Dioxide",
-        "Oxygen",
-        "Helium",
-        "Nitrogen"
+        "Earth",
+        "Venus",
+        "Uranus",
+        "Mercury"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Uranus",
+      "reasoning": "The correct answer is Uranus."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#73)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಯುರೇನಸ್ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ"
+        "ಭೂಮಿ",
+        "ಶುಕ್ರ",
+        "ಯುರೇನಸ್",
+        "ಬುಧ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಯುರೇನಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಯುರೇನಸ್."
     }
   },
   {
     "id": "sci_74",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#74)",
+      "question": "Which of these is the planet Neptune?",
       "options": [
-        "Earth",
-        "Jupiter",
-        "Moon",
-        "Sun"
+        "Mercury",
+        "Venus",
+        "Neptune",
+        "Earth"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Neptune",
+      "reasoning": "The correct answer is Neptune."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#74)",
+      "question": "ಇವುಗಳಲ್ಲಿ ನೆಪ್ಚೂನ್ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಭೂಮಿ",
-        "ಗುರು",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ"
+        "ಬುಧ",
+        "ಶುಕ್ರ",
+        "ನೆಪ್ಚೂನ್",
+        "ಭೂಮಿ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ನೆಪ್ಚೂನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೆಪ್ಚೂನ್."
     }
   },
   {
     "id": "sci_75",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#75)",
+      "question": "Which of these is the planet Mercury?",
       "options": [
-        "Sun",
-        "Moon",
-        "Earth",
-        "Jupiter"
+        "Venus",
+        "Mercury",
+        "Mars",
+        "Earth"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Mercury",
+      "reasoning": "The correct answer is Mercury."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#75)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಬುಧ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ",
-        "ಭೂಮಿ",
-        "ಗುರು"
+        "ಶುಕ್ರ",
+        "ಬುಧ",
+        "ಮಂಗಳ",
+        "ಭೂಮಿ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಬುಧ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬುಧ."
     }
   },
   {
     "id": "sci_76",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#76)",
+      "question": "Which of these is the planet Venus?",
       "options": [
-        "Nitrogen",
-        "Helium",
-        "Carbon Dioxide",
-        "Oxygen"
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Venus",
+      "reasoning": "The correct answer is Venus."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#76)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಶುಕ್ರ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ"
+        "ಬುಧ",
+        "ಶುಕ್ರ",
+        "ಭೂಮಿ",
+        "ಮಂಗಳ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಶುಕ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಶುಕ್ರ."
     }
   },
   {
     "id": "sci_77",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#77)",
+      "question": "Which of these is the planet Earth?",
       "options": [
-        "Moon",
-        "Sun",
-        "Jupiter",
-        "Earth"
+        "Venus",
+        "Earth",
+        "Mars",
+        "Mercury"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Earth",
+      "reasoning": "The correct answer is Earth."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#77)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಭೂಮಿ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ",
-        "ಗುರು",
-        "ಭೂಮಿ"
+        "ಶುಕ್ರ",
+        "ಭೂಮಿ",
+        "ಮಂಗಳ",
+        "ಬುಧ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಭೂಮಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಭೂಮಿ."
     }
   },
   {
     "id": "sci_78",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#78)",
+      "question": "Which of these is the planet Mars?",
       "options": [
+        "Venus",
         "Earth",
-        "Sun",
-        "Moon",
-        "Jupiter"
+        "Mars",
+        "Mercury"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Mars",
+      "reasoning": "The correct answer is Mars."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#78)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಮಂಗಳ ಗ್ರಹ ಯಾವುದು?",
       "options": [
+        "ಶುಕ್ರ",
         "ಭೂಮಿ",
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ",
-        "ಗುರು"
+        "ಮಂಗಳ",
+        "ಬುಧ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಮಂಗಳ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮಂಗಳ."
     }
   },
   {
     "id": "sci_79",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#79)",
+      "question": "Which of these is the planet Jupiter?",
       "options": [
-        "Sun",
-        "Moon",
+        "Jupiter",
         "Earth",
-        "Jupiter"
+        "Venus",
+        "Mercury"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Jupiter",
+      "reasoning": "The correct answer is Jupiter."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#79)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಗುರು ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ",
+        "ಗುರು",
         "ಭೂಮಿ",
-        "ಗುರು"
+        "ಶುಕ್ರ",
+        "ಬುಧ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಗುರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಗುರು."
     }
   },
   {
     "id": "sci_80",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#80)",
+      "question": "Which of these is the planet Saturn?",
       "options": [
-        "Carbon Dioxide",
-        "Helium",
-        "Oxygen",
-        "Nitrogen"
+        "Venus",
+        "Mercury",
+        "Earth",
+        "Saturn"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Saturn",
+      "reasoning": "The correct answer is Saturn."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#80)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಶನಿ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ"
+        "ಶುಕ್ರ",
+        "ಬುಧ",
+        "ಭೂಮಿ",
+        "ಶನಿ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಶನಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಶನಿ."
     }
   },
   {
     "id": "sci_81",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#81)",
+      "question": "Which of these is the planet Uranus?",
       "options": [
-        "Sun",
-        "Jupiter",
-        "Moon",
-        "Earth"
+        "Venus",
+        "Mercury",
+        "Earth",
+        "Uranus"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Uranus",
+      "reasoning": "The correct answer is Uranus."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#81)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಯುರೇನಸ್ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಗುರು",
-        "ಚಂದ್ರ",
-        "ಭೂಮಿ"
+        "ಶುಕ್ರ",
+        "ಬುಧ",
+        "ಭೂಮಿ",
+        "ಯುರೇನಸ್"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಯುರೇನಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಯುರೇನಸ್."
     }
   },
   {
     "id": "sci_82",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#82)",
+      "question": "Which of these is the planet Neptune?",
       "options": [
-        "Nitrogen",
-        "Helium",
-        "Carbon Dioxide",
-        "Oxygen"
+        "Earth",
+        "Venus",
+        "Mercury",
+        "Neptune"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Neptune",
+      "reasoning": "The correct answer is Neptune."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#82)",
+      "question": "ಇವುಗಳಲ್ಲಿ ನೆಪ್ಚೂನ್ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ"
+        "ಭೂಮಿ",
+        "ಶುಕ್ರ",
+        "ಬುಧ",
+        "ನೆಪ್ಚೂನ್"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ನೆಪ್ಚೂನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೆಪ್ಚೂನ್."
     }
   },
   {
     "id": "sci_83",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#83)",
+      "question": "Which of these is the planet Mercury?",
       "options": [
-        "Sun",
-        "Jupiter",
         "Earth",
-        "Moon"
+        "Mercury",
+        "Venus",
+        "Mars"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Mercury",
+      "reasoning": "The correct answer is Mercury."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#83)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಬುಧ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಗುರು",
         "ಭೂಮಿ",
-        "ಚಂದ್ರ"
+        "ಬುಧ",
+        "ಶುಕ್ರ",
+        "ಮಂಗಳ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಬುಧ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬುಧ."
     }
   },
   {
     "id": "sci_84",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#84)",
+      "question": "Which of these is the planet Venus?",
       "options": [
-        "Nitrogen",
-        "Helium",
-        "Oxygen",
-        "Carbon Dioxide"
+        "Earth",
+        "Venus",
+        "Mars",
+        "Mercury"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Venus",
+      "reasoning": "The correct answer is Venus."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#84)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಶುಕ್ರ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಭೂಮಿ",
+        "ಶುಕ್ರ",
+        "ಮಂಗಳ",
+        "ಬುಧ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಶುಕ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಶುಕ್ರ."
     }
   },
   {
     "id": "sci_85",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#85)",
+      "question": "Which of these is the planet Earth?",
       "options": [
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Oxygen",
-        "Helium"
+        "Mercury",
+        "Mars",
+        "Earth",
+        "Venus"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Earth",
+      "reasoning": "The correct answer is Earth."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#85)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಭೂಮಿ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "ಬುಧ",
+        "ಮಂಗಳ",
+        "ಭೂಮಿ",
+        "ಶುಕ್ರ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಭೂಮಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಭೂಮಿ."
     }
   },
   {
     "id": "sci_86",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#86)",
+      "question": "Which of these is the planet Mars?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Helium",
-        "Carbon Dioxide"
+        "Mars",
+        "Venus",
+        "Earth",
+        "Mercury"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Mars",
+      "reasoning": "The correct answer is Mars."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#86)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಮಂಗಳ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಮಂಗಳ",
+        "ಶುಕ್ರ",
+        "ಭೂಮಿ",
+        "ಬುಧ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಮಂಗಳ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮಂಗಳ."
     }
   },
   {
     "id": "sci_87",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#87)",
+      "question": "Which of these is the planet Jupiter?",
       "options": [
-        "Oxygen",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Helium"
+        "Venus",
+        "Jupiter",
+        "Earth",
+        "Mercury"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Jupiter",
+      "reasoning": "The correct answer is Jupiter."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#87)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಗುರು ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "ಶುಕ್ರ",
+        "ಗುರು",
+        "ಭೂಮಿ",
+        "ಬುಧ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಗುರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಗುರು."
     }
   },
   {
     "id": "sci_88",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#88)",
+      "question": "Which of these is the planet Saturn?",
       "options": [
-        "Moon",
-        "Jupiter",
-        "Sun",
-        "Earth"
+        "Venus",
+        "Earth",
+        "Saturn",
+        "Mercury"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Saturn",
+      "reasoning": "The correct answer is Saturn."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#88)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಶನಿ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಚಂದ್ರ",
-        "ಗುರು",
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ"
+        "ಶುಕ್ರ",
+        "ಭೂಮಿ",
+        "ಶನಿ",
+        "ಬುಧ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಶನಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಶನಿ."
     }
   },
   {
     "id": "sci_89",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#89)",
+      "question": "Which of these is the planet Uranus?",
       "options": [
-        "Nitrogen",
-        "Helium",
-        "Oxygen",
-        "Carbon Dioxide"
+        "Earth",
+        "Venus",
+        "Mercury",
+        "Uranus"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Uranus",
+      "reasoning": "The correct answer is Uranus."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#89)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಯುರೇನಸ್ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಭೂಮಿ",
+        "ಶುಕ್ರ",
+        "ಬುಧ",
+        "ಯುರೇನಸ್"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಯುರೇನಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಯುರೇನಸ್."
     }
   },
   {
     "id": "sci_90",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#90)",
+      "question": "Which of these is the planet Neptune?",
       "options": [
+        "Neptune",
         "Earth",
-        "Sun",
-        "Moon",
-        "Jupiter"
+        "Mercury",
+        "Venus"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Neptune",
+      "reasoning": "The correct answer is Neptune."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#90)",
+      "question": "ಇವುಗಳಲ್ಲಿ ನೆಪ್ಚೂನ್ ಗ್ರಹ ಯಾವುದು?",
       "options": [
+        "ನೆಪ್ಚೂನ್",
         "ಭೂಮಿ",
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ",
-        "ಗುರು"
+        "ಬುಧ",
+        "ಶುಕ್ರ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ನೆಪ್ಚೂನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೆಪ್ಚೂನ್."
     }
   },
   {
     "id": "sci_91",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#91)",
+      "question": "Which of these is the planet Mercury?",
       "options": [
+        "Mars",
+        "Venus",
         "Earth",
-        "Sun",
-        "Jupiter",
-        "Moon"
+        "Mercury"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Mercury",
+      "reasoning": "The correct answer is Mercury."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#91)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಬುಧ ಗ್ರಹ ಯಾವುದು?",
       "options": [
+        "ಮಂಗಳ",
+        "ಶುಕ್ರ",
         "ಭೂಮಿ",
-        "ಸೂರ್ಯ",
-        "ಗುರು",
-        "ಚಂದ್ರ"
+        "ಬುಧ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಬುಧ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬುಧ."
     }
   },
   {
     "id": "sci_92",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#92)",
+      "question": "Which of these is the planet Venus?",
       "options": [
-        "Oxygen",
-        "Helium",
-        "Carbon Dioxide",
-        "Nitrogen"
+        "Mercury",
+        "Earth",
+        "Venus",
+        "Mars"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Venus",
+      "reasoning": "The correct answer is Venus."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#92)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಶುಕ್ರ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ"
+        "ಬುಧ",
+        "ಭೂಮಿ",
+        "ಶುಕ್ರ",
+        "ಮಂಗಳ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಶುಕ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಶುಕ್ರ."
     }
   },
   {
     "id": "sci_93",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#93)",
+      "question": "Which of these is the planet Earth?",
       "options": [
-        "Carbon Dioxide",
-        "Helium",
-        "Oxygen",
-        "Nitrogen"
+        "Venus",
+        "Mars",
+        "Mercury",
+        "Earth"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Earth",
+      "reasoning": "The correct answer is Earth."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#93)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಭೂಮಿ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ"
+        "ಶುಕ್ರ",
+        "ಮಂಗಳ",
+        "ಬುಧ",
+        "ಭೂಮಿ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಭೂಮಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಭೂಮಿ."
     }
   },
   {
     "id": "sci_94",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#94)",
+      "question": "Which of these is the planet Mars?",
       "options": [
-        "Sun",
-        "Jupiter",
+        "Mars",
         "Earth",
-        "Moon"
+        "Mercury",
+        "Venus"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Mars",
+      "reasoning": "The correct answer is Mars."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#94)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಮಂಗಳ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಗುರು",
+        "ಮಂಗಳ",
         "ಭೂಮಿ",
-        "ಚಂದ್ರ"
+        "ಬುಧ",
+        "ಶುಕ್ರ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಮಂಗಳ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮಂಗಳ."
     }
   },
   {
     "id": "sci_95",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#95)",
+      "question": "Which of these is the planet Jupiter?",
       "options": [
+        "Venus",
         "Jupiter",
-        "Earth",
-        "Moon",
-        "Sun"
+        "Mercury",
+        "Earth"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Jupiter",
+      "reasoning": "The correct answer is Jupiter."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#95)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಗುರು ಗ್ರಹ ಯಾವುದು?",
       "options": [
+        "ಶುಕ್ರ",
         "ಗುರು",
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ"
+        "ಬುಧ",
+        "ಭೂಮಿ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಗುರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಗುರು."
     }
   },
   {
     "id": "sci_96",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#96)",
+      "question": "Which of these is the planet Saturn?",
       "options": [
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Oxygen",
-        "Helium"
+        "Saturn",
+        "Earth",
+        "Mercury",
+        "Venus"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Saturn",
+      "reasoning": "The correct answer is Saturn."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#96)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಶನಿ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "ಶನಿ",
+        "ಭೂಮಿ",
+        "ಬುಧ",
+        "ಶುಕ್ರ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಶನಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಶನಿ."
     }
   },
   {
     "id": "sci_97",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#97)",
+      "question": "Which of these is the planet Uranus?",
       "options": [
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Oxygen",
-        "Helium"
+        "Venus",
+        "Earth",
+        "Mercury",
+        "Uranus"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Uranus",
+      "reasoning": "The correct answer is Uranus."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#97)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಯುರೇನಸ್ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "ಶುಕ್ರ",
+        "ಭೂಮಿ",
+        "ಬುಧ",
+        "ಯುರೇನಸ್"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಯುರೇನಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಯುರೇನಸ್."
     }
   },
   {
     "id": "sci_98",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#98)",
+      "question": "Which of these is the planet Neptune?",
       "options": [
+        "Venus",
+        "Mercury",
         "Earth",
-        "Jupiter",
-        "Moon",
-        "Sun"
+        "Neptune"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Neptune",
+      "reasoning": "The correct answer is Neptune."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#98)",
+      "question": "ಇವುಗಳಲ್ಲಿ ನೆಪ್ಚೂನ್ ಗ್ರಹ ಯಾವುದು?",
       "options": [
+        "ಶುಕ್ರ",
+        "ಬುಧ",
         "ಭೂಮಿ",
-        "ಗುರು",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ"
+        "ನೆಪ್ಚೂನ್"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ನೆಪ್ಚೂನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೆಪ್ಚೂನ್."
     }
   },
   {
     "id": "sci_99",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#99)",
+      "question": "Which of these is the planet Mercury?",
       "options": [
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Helium",
-        "Oxygen"
+        "Mars",
+        "Earth",
+        "Venus",
+        "Mercury"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Mercury",
+      "reasoning": "The correct answer is Mercury."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#99)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಬುಧ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ"
+        "ಮಂಗಳ",
+        "ಭೂಮಿ",
+        "ಶುಕ್ರ",
+        "ಬುಧ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಬುಧ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬುಧ."
     }
   },
   {
     "id": "sci_100",
-    "difficulty": 3,
+    "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#100)",
+      "question": "Which of these is the planet Venus?",
       "options": [
-        "Carbon Dioxide",
-        "Oxygen",
-        "Nitrogen",
-        "Helium"
+        "Earth",
+        "Venus",
+        "Mars",
+        "Mercury"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Venus",
+      "reasoning": "The correct answer is Venus."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#100)",
+      "question": "ಇವುಗಳಲ್ಲಿ ಶುಕ್ರ ಗ್ರಹ ಯಾವುದು?",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "ಭೂಮಿ",
+        "ಶುಕ್ರ",
+        "ಮಂಗಳ",
+        "ಬುಧ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಶುಕ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಶುಕ್ರ."
     }
   }
 ]

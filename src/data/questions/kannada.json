@@ -3,2600 +3,2600 @@
     "id": "kan_1",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#1)",
+      "question": "What is the Kannada word for 'Tree' (Set 1)?",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಚಂದ್ರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮರ",
+      "reasoning": "The correct answer is ಮರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#1)",
+      "question": "'Tree' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 1)?",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಚಂದ್ರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮರ."
     }
   },
   {
     "id": "kan_2",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#2)",
+      "question": "What is the Kannada word for 'Water' (Set 2)?",
       "options": [
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ನೀರು",
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನೀರು",
+      "reasoning": "The correct answer is ನೀರು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#2)",
+      "question": "'Water' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 2)?",
       "options": [
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ನೀರು",
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನೀರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೀರು."
     }
   },
   {
     "id": "kan_3",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#3)",
+      "question": "What is the Kannada word for 'Sun' (Set 3)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಮರ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "The correct answer is ಸೂರ್ಯ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#3)",
+      "question": "'Sun' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 3)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಮರ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸೂರ್ಯ."
     }
   },
   {
     "id": "kan_4",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#4)",
+      "question": "What is the Kannada word for 'Moon' (Set 4)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಮರ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "The correct answer is ಚಂದ್ರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#4)",
+      "question": "'Moon' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 4)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಮರ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಚಂದ್ರ."
     }
   },
   {
     "id": "kan_5",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#5)",
+      "question": "What is the Kannada word for 'House' (Set 5)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ಮನೆ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮನೆ",
+      "reasoning": "The correct answer is ಮನೆ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#5)",
+      "question": "'House' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 5)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ಮನೆ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮನೆ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮನೆ."
     }
   },
   {
     "id": "kan_6",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#6)",
+      "question": "What is the Kannada word for 'Book' (Set 6)?",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಮರ",
+        "ಪುಸ್ತಕ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "The correct answer is ಪುಸ್ತಕ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#6)",
+      "question": "'Book' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 6)?",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಮರ",
+        "ಪುಸ್ತಕ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪುಸ್ತಕ."
     }
   },
   {
     "id": "kan_7",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#7)",
+      "question": "What is the Kannada word for 'Dog' (Set 7)?",
       "options": [
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)"
+        "ಸೂರ್ಯ",
+        "ನಾಯಿ",
+        "ನೀರು",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನಾಯಿ",
+      "reasoning": "The correct answer is ನಾಯಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#7)",
+      "question": "'Dog' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 7)?",
       "options": [
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)"
+        "ಸೂರ್ಯ",
+        "ನಾಯಿ",
+        "ನೀರು",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನಾಯಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನಾಯಿ."
     }
   },
   {
     "id": "kan_8",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#8)",
+      "question": "What is the Kannada word for 'Cat' (Set 8)?",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಬೆಕ್ಕು",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "The correct answer is ಬೆಕ್ಕು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#8)",
+      "question": "'Cat' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 8)?",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಬೆಕ್ಕು",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬೆಕ್ಕು."
     }
   },
   {
     "id": "kan_9",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#9)",
+      "question": "What is the Kannada word for 'Bird' (Set 9)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ಹಕ್ಕಿ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "The correct answer is ಹಕ್ಕಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#9)",
+      "question": "'Bird' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 9)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ಹಕ್ಕಿ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹಕ್ಕಿ."
     }
   },
   {
     "id": "kan_10",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#10)",
+      "question": "What is the Kannada word for 'Fish' (Set 10)?",
       "options": [
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಮರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮೀನು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮೀನು",
+      "reasoning": "The correct answer is ಮೀನು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#10)",
+      "question": "'Fish' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 10)?",
       "options": [
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಮರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮೀನು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮೀನು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮೀನು."
     }
   },
   {
     "id": "kan_11",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#11)",
+      "question": "What is the Kannada word for 'Tree' (Set 11)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಮರ",
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮರ",
+      "reasoning": "The correct answer is ಮರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#11)",
+      "question": "'Tree' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 11)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಮರ",
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮರ."
     }
   },
   {
     "id": "kan_12",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#12)",
+      "question": "What is the Kannada word for 'Water' (Set 12)?",
       "options": [
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಅ (a)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಮರ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನೀರು",
+      "reasoning": "The correct answer is ನೀರು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#12)",
+      "question": "'Water' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 12)?",
       "options": [
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಅ (a)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಮರ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನೀರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೀರು."
     }
   },
   {
     "id": "kan_13",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#13)",
+      "question": "What is the Kannada word for 'Sun' (Set 13)?",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಮರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "The correct answer is ಸೂರ್ಯ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#13)",
+      "question": "'Sun' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 13)?",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಮರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸೂರ್ಯ."
     }
   },
   {
     "id": "kan_14",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#14)",
+      "question": "What is the Kannada word for 'Moon' (Set 14)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "The correct answer is ಚಂದ್ರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#14)",
+      "question": "'Moon' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 14)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಚಂದ್ರ."
     }
   },
   {
     "id": "kan_15",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#15)",
+      "question": "What is the Kannada word for 'House' (Set 15)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಮನೆ",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮನೆ",
+      "reasoning": "The correct answer is ಮನೆ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#15)",
+      "question": "'House' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 15)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಮನೆ",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮನೆ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮನೆ."
     }
   },
   {
     "id": "kan_16",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#16)",
+      "question": "What is the Kannada word for 'Book' (Set 16)?",
       "options": [
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಪುಸ್ತಕ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "The correct answer is ಪುಸ್ತಕ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#16)",
+      "question": "'Book' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 16)?",
       "options": [
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಪುಸ್ತಕ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪುಸ್ತಕ."
     }
   },
   {
     "id": "kan_17",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#17)",
+      "question": "What is the Kannada word for 'Dog' (Set 17)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ನಾಯಿ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನಾಯಿ",
+      "reasoning": "The correct answer is ನಾಯಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#17)",
+      "question": "'Dog' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 17)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ನಾಯಿ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನಾಯಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನಾಯಿ."
     }
   },
   {
     "id": "kan_18",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#18)",
+      "question": "What is the Kannada word for 'Cat' (Set 18)?",
       "options": [
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಅ (a)"
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಬೆಕ್ಕು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "The correct answer is ಬೆಕ್ಕು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#18)",
+      "question": "'Cat' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 18)?",
       "options": [
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಅ (a)"
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಬೆಕ್ಕು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬೆಕ್ಕು."
     }
   },
   {
     "id": "kan_19",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#19)",
+      "question": "What is the Kannada word for 'Bird' (Set 19)?",
       "options": [
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)"
+        "ನೀರು",
+        "ಮರ",
+        "ಹಕ್ಕಿ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "The correct answer is ಹಕ್ಕಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#19)",
+      "question": "'Bird' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 19)?",
       "options": [
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)"
+        "ನೀರು",
+        "ಮರ",
+        "ಹಕ್ಕಿ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹಕ್ಕಿ."
     }
   },
   {
     "id": "kan_20",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#20)",
+      "question": "What is the Kannada word for 'Fish' (Set 20)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಮರ",
+        "ನೀರು",
+        "ಮೀನು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮೀನು",
+      "reasoning": "The correct answer is ಮೀನು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#20)",
+      "question": "'Fish' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 20)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಮರ",
+        "ನೀರು",
+        "ಮೀನು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮೀನು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮೀನು."
     }
   },
   {
     "id": "kan_21",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#21)",
+      "question": "What is the Kannada word for 'Tree' (Set 21)?",
       "options": [
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮರ",
+      "reasoning": "The correct answer is ಮರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#21)",
+      "question": "'Tree' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 21)?",
       "options": [
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮರ."
     }
   },
   {
     "id": "kan_22",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#22)",
+      "question": "What is the Kannada word for 'Water' (Set 22)?",
       "options": [
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನೀರು",
+      "reasoning": "The correct answer is ನೀರು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#22)",
+      "question": "'Water' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 22)?",
       "options": [
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನೀರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೀರು."
     }
   },
   {
     "id": "kan_23",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#23)",
+      "question": "What is the Kannada word for 'Sun' (Set 23)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "The correct answer is ಸೂರ್ಯ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#23)",
+      "question": "'Sun' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 23)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸೂರ್ಯ."
     }
   },
   {
     "id": "kan_24",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#24)",
+      "question": "What is the Kannada word for 'Moon' (Set 24)?",
       "options": [
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)"
+        "ನೀರು",
+        "ಮರ",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "The correct answer is ಚಂದ್ರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#24)",
+      "question": "'Moon' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 24)?",
       "options": [
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)"
+        "ನೀರು",
+        "ಮರ",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಚಂದ್ರ."
     }
   },
   {
     "id": "kan_25",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#25)",
+      "question": "What is the Kannada word for 'House' (Set 25)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ಮನೆ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮನೆ",
+      "reasoning": "The correct answer is ಮನೆ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#25)",
+      "question": "'House' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 25)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ಮನೆ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮನೆ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮನೆ."
     }
   },
   {
     "id": "kan_26",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#26)",
+      "question": "What is the Kannada word for 'Book' (Set 26)?",
       "options": [
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಮರ",
+        "ಪುಸ್ತಕ",
+        "ಸೂರ್ಯ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "The correct answer is ಪುಸ್ತಕ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#26)",
+      "question": "'Book' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 26)?",
       "options": [
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಮರ",
+        "ಪುಸ್ತಕ",
+        "ಸೂರ್ಯ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪುಸ್ತಕ."
     }
   },
   {
     "id": "kan_27",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#27)",
+      "question": "What is the Kannada word for 'Dog' (Set 27)?",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಮರ",
+        "ನಾಯಿ",
+        "ಸೂರ್ಯ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನಾಯಿ",
+      "reasoning": "The correct answer is ನಾಯಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#27)",
+      "question": "'Dog' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 27)?",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಮರ",
+        "ನಾಯಿ",
+        "ಸೂರ್ಯ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನಾಯಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನಾಯಿ."
     }
   },
   {
     "id": "kan_28",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#28)",
+      "question": "What is the Kannada word for 'Cat' (Set 28)?",
       "options": [
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)"
+        "ನೀರು",
+        "ಮರ",
+        "ಬೆಕ್ಕು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "The correct answer is ಬೆಕ್ಕು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#28)",
+      "question": "'Cat' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 28)?",
       "options": [
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)"
+        "ನೀರು",
+        "ಮರ",
+        "ಬೆಕ್ಕು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬೆಕ್ಕು."
     }
   },
   {
     "id": "kan_29",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#29)",
+      "question": "What is the Kannada word for 'Bird' (Set 29)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಮರ",
+        "ನೀರು",
+        "ಹಕ್ಕಿ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "The correct answer is ಹಕ್ಕಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#29)",
+      "question": "'Bird' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 29)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಮರ",
+        "ನೀರು",
+        "ಹಕ್ಕಿ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹಕ್ಕಿ."
     }
   },
   {
     "id": "kan_30",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#30)",
+      "question": "What is the Kannada word for 'Fish' (Set 30)?",
       "options": [
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)"
+        "ನೀರು",
+        "ಮರ",
+        "ಮೀನು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮೀನು",
+      "reasoning": "The correct answer is ಮೀನು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#30)",
+      "question": "'Fish' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 30)?",
       "options": [
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)"
+        "ನೀರು",
+        "ಮರ",
+        "ಮೀನು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮೀನು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮೀನು."
     }
   },
   {
     "id": "kan_31",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#31)",
+      "question": "What is the Kannada word for 'Tree' (Set 31)?",
       "options": [
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಇ (i)"
+        "ಚಂದ್ರ",
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮರ",
+      "reasoning": "The correct answer is ಮರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#31)",
+      "question": "'Tree' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 31)?",
       "options": [
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಇ (i)"
+        "ಚಂದ್ರ",
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮರ."
     }
   },
   {
     "id": "kan_32",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#32)",
+      "question": "What is the Kannada word for 'Water' (Set 32)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನೀರು",
+      "reasoning": "The correct answer is ನೀರು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#32)",
+      "question": "'Water' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 32)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನೀರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೀರು."
     }
   },
   {
     "id": "kan_33",
     "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#33)",
+      "question": "What is the Kannada word for 'Sun' (Set 33)?",
       "options": [
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಚಂದ್ರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "The correct answer is ಸೂರ್ಯ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#33)",
+      "question": "'Sun' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 33)?",
       "options": [
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಚಂದ್ರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸೂರ್ಯ."
     }
   },
   {
     "id": "kan_34",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#34)",
+      "question": "What is the Kannada word for 'Moon' (Set 34)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "The correct answer is ಚಂದ್ರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#34)",
+      "question": "'Moon' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 34)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಚಂದ್ರ."
     }
   },
   {
     "id": "kan_35",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#35)",
+      "question": "What is the Kannada word for 'House' (Set 35)?",
       "options": [
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಮರ",
+        "ಮನೆ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮನೆ",
+      "reasoning": "The correct answer is ಮನೆ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#35)",
+      "question": "'House' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 35)?",
       "options": [
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಮರ",
+        "ಮನೆ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮನೆ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮನೆ."
     }
   },
   {
     "id": "kan_36",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#36)",
+      "question": "What is the Kannada word for 'Book' (Set 36)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ಪುಸ್ತಕ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "The correct answer is ಪುಸ್ತಕ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#36)",
+      "question": "'Book' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 36)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ಪುಸ್ತಕ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪುಸ್ತಕ."
     }
   },
   {
     "id": "kan_37",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#37)",
+      "question": "What is the Kannada word for 'Dog' (Set 37)?",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನಾಯಿ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನಾಯಿ",
+      "reasoning": "The correct answer is ನಾಯಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#37)",
+      "question": "'Dog' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 37)?",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನಾಯಿ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನಾಯಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನಾಯಿ."
     }
   },
   {
     "id": "kan_38",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#38)",
+      "question": "What is the Kannada word for 'Cat' (Set 38)?",
       "options": [
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಬೆಕ್ಕು",
+        "ಮರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "The correct answer is ಬೆಕ್ಕು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#38)",
+      "question": "'Cat' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 38)?",
       "options": [
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಬೆಕ್ಕು",
+        "ಮರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬೆಕ್ಕು."
     }
   },
   {
     "id": "kan_39",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#39)",
+      "question": "What is the Kannada word for 'Bird' (Set 39)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಹಕ್ಕಿ",
+        "ನೀರು",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "The correct answer is ಹಕ್ಕಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#39)",
+      "question": "'Bird' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 39)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಹಕ್ಕಿ",
+        "ನೀರು",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹಕ್ಕಿ."
     }
   },
   {
     "id": "kan_40",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#40)",
+      "question": "What is the Kannada word for 'Fish' (Set 40)?",
       "options": [
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ಮೀನು",
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮೀನು",
+      "reasoning": "The correct answer is ಮೀನು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#40)",
+      "question": "'Fish' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 40)?",
       "options": [
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ಮೀನು",
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮೀನು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮೀನು."
     }
   },
   {
     "id": "kan_41",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#41)",
+      "question": "What is the Kannada word for 'Tree' (Set 41)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಚಂದ್ರ",
+        "ಮರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮರ",
+      "reasoning": "The correct answer is ಮರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#41)",
+      "question": "'Tree' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 41)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಚಂದ್ರ",
+        "ಮರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮರ."
     }
   },
   {
     "id": "kan_42",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#42)",
+      "question": "What is the Kannada word for 'Water' (Set 42)?",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನೀರು",
+      "reasoning": "The correct answer is ನೀರು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#42)",
+      "question": "'Water' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 42)?",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನೀರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೀರು."
     }
   },
   {
     "id": "kan_43",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#43)",
+      "question": "What is the Kannada word for 'Sun' (Set 43)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ಚಂದ್ರ",
+        "ನೀರು",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "The correct answer is ಸೂರ್ಯ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#43)",
+      "question": "'Sun' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 43)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ಚಂದ್ರ",
+        "ನೀರು",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸೂರ್ಯ."
     }
   },
   {
     "id": "kan_44",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#44)",
+      "question": "What is the Kannada word for 'Moon' (Set 44)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಮರ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "The correct answer is ಚಂದ್ರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#44)",
+      "question": "'Moon' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 44)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಮರ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಚಂದ್ರ."
     }
   },
   {
     "id": "kan_45",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#45)",
+      "question": "What is the Kannada word for 'House' (Set 45)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಮನೆ",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮನೆ",
+      "reasoning": "The correct answer is ಮನೆ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#45)",
+      "question": "'House' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 45)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಮನೆ",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮನೆ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮನೆ."
     }
   },
   {
     "id": "kan_46",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#46)",
+      "question": "What is the Kannada word for 'Book' (Set 46)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಪುಸ್ತಕ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "The correct answer is ಪುಸ್ತಕ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#46)",
+      "question": "'Book' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 46)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಪುಸ್ತಕ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪುಸ್ತಕ."
     }
   },
   {
     "id": "kan_47",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#47)",
+      "question": "What is the Kannada word for 'Dog' (Set 47)?",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ನೀರು",
+        "ನಾಯಿ",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನಾಯಿ",
+      "reasoning": "The correct answer is ನಾಯಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#47)",
+      "question": "'Dog' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 47)?",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ನೀರು",
+        "ನಾಯಿ",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನಾಯಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನಾಯಿ."
     }
   },
   {
     "id": "kan_48",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#48)",
+      "question": "What is the Kannada word for 'Cat' (Set 48)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ಬೆಕ್ಕು",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "The correct answer is ಬೆಕ್ಕು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#48)",
+      "question": "'Cat' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 48)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ಬೆಕ್ಕು",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬೆಕ್ಕು."
     }
   },
   {
     "id": "kan_49",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#49)",
+      "question": "What is the Kannada word for 'Bird' (Set 49)?",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಮರ",
+        "ಹಕ್ಕಿ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "The correct answer is ಹಕ್ಕಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#49)",
+      "question": "'Bird' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 49)?",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಮರ",
+        "ಹಕ್ಕಿ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹಕ್ಕಿ."
     }
   },
   {
     "id": "kan_50",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#50)",
+      "question": "What is the Kannada word for 'Fish' (Set 50)?",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ನೀರು",
+        "ಮೀನು",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮೀನು",
+      "reasoning": "The correct answer is ಮೀನು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#50)",
+      "question": "'Fish' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 50)?",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ನೀರು",
+        "ಮೀನು",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮೀನು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮೀನು."
     }
   },
   {
     "id": "kan_51",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#51)",
+      "question": "What is the Kannada word for 'Tree' (Set 51)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮರ",
+      "reasoning": "The correct answer is ಮರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#51)",
+      "question": "'Tree' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 51)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮರ."
     }
   },
   {
     "id": "kan_52",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#52)",
+      "question": "What is the Kannada word for 'Water' (Set 52)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನೀರು",
+      "reasoning": "The correct answer is ನೀರು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#52)",
+      "question": "'Water' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 52)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನೀರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೀರು."
     }
   },
   {
     "id": "kan_53",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#53)",
+      "question": "What is the Kannada word for 'Sun' (Set 53)?",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "The correct answer is ಸೂರ್ಯ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#53)",
+      "question": "'Sun' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 53)?",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸೂರ್ಯ."
     }
   },
   {
     "id": "kan_54",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#54)",
+      "question": "What is the Kannada word for 'Moon' (Set 54)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "The correct answer is ಚಂದ್ರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#54)",
+      "question": "'Moon' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 54)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಚಂದ್ರ."
     }
   },
   {
     "id": "kan_55",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#55)",
+      "question": "What is the Kannada word for 'House' (Set 55)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಮರ",
+        "ಮನೆ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮನೆ",
+      "reasoning": "The correct answer is ಮನೆ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#55)",
+      "question": "'House' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 55)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಮರ",
+        "ಮನೆ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮನೆ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮನೆ."
     }
   },
   {
     "id": "kan_56",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#56)",
+      "question": "What is the Kannada word for 'Book' (Set 56)?",
       "options": [
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಅ (a)"
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ಪುಸ್ತಕ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "The correct answer is ಪುಸ್ತಕ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#56)",
+      "question": "'Book' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 56)?",
       "options": [
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಅ (a)"
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ಪುಸ್ತಕ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪುಸ್ತಕ."
     }
   },
   {
     "id": "kan_57",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#57)",
+      "question": "What is the Kannada word for 'Dog' (Set 57)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ನಾಯಿ",
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನಾಯಿ",
+      "reasoning": "The correct answer is ನಾಯಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#57)",
+      "question": "'Dog' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 57)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ನಾಯಿ",
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನಾಯಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನಾಯಿ."
     }
   },
   {
     "id": "kan_58",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#58)",
+      "question": "What is the Kannada word for 'Cat' (Set 58)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಬೆಕ್ಕು",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "The correct answer is ಬೆಕ್ಕು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#58)",
+      "question": "'Cat' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 58)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಬೆಕ್ಕು",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬೆಕ್ಕು."
     }
   },
   {
     "id": "kan_59",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#59)",
+      "question": "What is the Kannada word for 'Bird' (Set 59)?",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಹಕ್ಕಿ",
+        "ನೀರು",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "The correct answer is ಹಕ್ಕಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#59)",
+      "question": "'Bird' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 59)?",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಹಕ್ಕಿ",
+        "ನೀರು",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹಕ್ಕಿ."
     }
   },
   {
     "id": "kan_60",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#60)",
+      "question": "What is the Kannada word for 'Fish' (Set 60)?",
       "options": [
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಇ (i)"
+        "ಮರ",
+        "ಮೀನು",
+        "ಸೂರ್ಯ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮೀನು",
+      "reasoning": "The correct answer is ಮೀನು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#60)",
+      "question": "'Fish' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 60)?",
       "options": [
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಇ (i)"
+        "ಮರ",
+        "ಮೀನು",
+        "ಸೂರ್ಯ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮೀನು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮೀನು."
     }
   },
   {
     "id": "kan_61",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#61)",
+      "question": "What is the Kannada word for 'Tree' (Set 61)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ನೀರು",
+        "ಮರ",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮರ",
+      "reasoning": "The correct answer is ಮರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#61)",
+      "question": "'Tree' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 61)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ನೀರು",
+        "ಮರ",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮರ."
     }
   },
   {
     "id": "kan_62",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#62)",
+      "question": "What is the Kannada word for 'Water' (Set 62)?",
       "options": [
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಚಂದ್ರ",
+        "ಮರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನೀರು",
+      "reasoning": "The correct answer is ನೀರು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#62)",
+      "question": "'Water' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 62)?",
       "options": [
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಚಂದ್ರ",
+        "ಮರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನೀರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೀರು."
     }
   },
   {
     "id": "kan_63",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#63)",
+      "question": "What is the Kannada word for 'Sun' (Set 63)?",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ಚಂದ್ರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "The correct answer is ಸೂರ್ಯ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#63)",
+      "question": "'Sun' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 63)?",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ಚಂದ್ರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸೂರ್ಯ."
     }
   },
   {
     "id": "kan_64",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#64)",
+      "question": "What is the Kannada word for 'Moon' (Set 64)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಮರ",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "The correct answer is ಚಂದ್ರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#64)",
+      "question": "'Moon' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 64)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಮರ",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಚಂದ್ರ."
     }
   },
   {
     "id": "kan_65",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#65)",
+      "question": "What is the Kannada word for 'House' (Set 65)?",
       "options": [
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು",
+        "ಮನೆ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮನೆ",
+      "reasoning": "The correct answer is ಮನೆ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#65)",
+      "question": "'House' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 65)?",
       "options": [
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು",
+        "ಮನೆ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮನೆ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮನೆ."
     }
   },
   {
     "id": "kan_66",
-    "difficulty": 2,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#66)",
+      "question": "What is the Kannada word for 'Book' (Set 66)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ಪುಸ್ತಕ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "The correct answer is ಪುಸ್ತಕ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#66)",
+      "question": "'Book' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 66)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ಪುಸ್ತಕ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪುಸ್ತಕ."
     }
   },
   {
     "id": "kan_67",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#67)",
+      "question": "What is the Kannada word for 'Dog' (Set 67)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನಾಯಿ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನಾಯಿ",
+      "reasoning": "The correct answer is ನಾಯಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#67)",
+      "question": "'Dog' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 67)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನಾಯಿ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನಾಯಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನಾಯಿ."
     }
   },
   {
     "id": "kan_68",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#68)",
+      "question": "What is the Kannada word for 'Cat' (Set 68)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ಬೆಕ್ಕು",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "The correct answer is ಬೆಕ್ಕು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#68)",
+      "question": "'Cat' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 68)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ಬೆಕ್ಕು",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬೆಕ್ಕು."
     }
   },
   {
     "id": "kan_69",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#69)",
+      "question": "What is the Kannada word for 'Bird' (Set 69)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ನೀರು",
+        "ಹಕ್ಕಿ",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "The correct answer is ಹಕ್ಕಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#69)",
+      "question": "'Bird' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 69)?",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ನೀರು",
+        "ಹಕ್ಕಿ",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹಕ್ಕಿ."
     }
   },
   {
     "id": "kan_70",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#70)",
+      "question": "What is the Kannada word for 'Fish' (Set 70)?",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ಮೀನು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮೀನು",
+      "reasoning": "The correct answer is ಮೀನು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#70)",
+      "question": "'Fish' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 70)?",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ಮೀನು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮೀನು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮೀನು."
     }
   },
   {
     "id": "kan_71",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#71)",
+      "question": "What is the Kannada word for 'Tree' (Set 71)?",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಮರ",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮರ",
+      "reasoning": "The correct answer is ಮರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#71)",
+      "question": "'Tree' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 71)?",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಮರ",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮರ."
     }
   },
   {
     "id": "kan_72",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#72)",
+      "question": "What is the Kannada word for 'Water' (Set 72)?",
       "options": [
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಮರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನೀರು",
+      "reasoning": "The correct answer is ನೀರು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#72)",
+      "question": "'Water' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 72)?",
       "options": [
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಮರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನೀರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೀರು."
     }
   },
   {
     "id": "kan_73",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#73)",
+      "question": "What is the Kannada word for 'Sun' (Set 73)?",
       "options": [
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)"
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "The correct answer is ಸೂರ್ಯ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#73)",
+      "question": "'Sun' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 73)?",
       "options": [
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)"
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸೂರ್ಯ."
     }
   },
   {
     "id": "kan_74",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#74)",
+      "question": "What is the Kannada word for 'Moon' (Set 74)?",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಮರ",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "The correct answer is ಚಂದ್ರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#74)",
+      "question": "'Moon' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 74)?",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಮರ",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಚಂದ್ರ."
     }
   },
   {
     "id": "kan_75",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#75)",
+      "question": "What is the Kannada word for 'House' (Set 75)?",
       "options": [
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಮರ",
+        "ಮನೆ",
+        "ನೀರು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮನೆ",
+      "reasoning": "The correct answer is ಮನೆ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#75)",
+      "question": "'House' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 75)?",
       "options": [
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಮರ",
+        "ಮನೆ",
+        "ನೀರು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮನೆ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮನೆ."
     }
   },
   {
     "id": "kan_76",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#76)",
+      "question": "What is the Kannada word for 'Book' (Set 76)?",
       "options": [
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಮರ",
+        "ಪುಸ್ತಕ",
+        "ನೀರು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "The correct answer is ಪುಸ್ತಕ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#76)",
+      "question": "'Book' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 76)?",
       "options": [
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಮರ",
+        "ಪುಸ್ತಕ",
+        "ನೀರು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪುಸ್ತಕ."
     }
   },
   {
     "id": "kan_77",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#77)",
+      "question": "What is the Kannada word for 'Dog' (Set 77)?",
       "options": [
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು",
+        "ನಾಯಿ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನಾಯಿ",
+      "reasoning": "The correct answer is ನಾಯಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#77)",
+      "question": "'Dog' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 77)?",
       "options": [
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು",
+        "ನಾಯಿ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನಾಯಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನಾಯಿ."
     }
   },
   {
     "id": "kan_78",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#78)",
+      "question": "What is the Kannada word for 'Cat' (Set 78)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಬೆಕ್ಕು",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "The correct answer is ಬೆಕ್ಕು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#78)",
+      "question": "'Cat' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 78)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಬೆಕ್ಕು",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬೆಕ್ಕು."
     }
   },
   {
     "id": "kan_79",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#79)",
+      "question": "What is the Kannada word for 'Bird' (Set 79)?",
       "options": [
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಮರ",
+        "ಹಕ್ಕಿ",
+        "ನೀರು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "The correct answer is ಹಕ್ಕಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#79)",
+      "question": "'Bird' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 79)?",
       "options": [
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಮರ",
+        "ಹಕ್ಕಿ",
+        "ನೀರು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹಕ್ಕಿ."
     }
   },
   {
     "id": "kan_80",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#80)",
+      "question": "What is the Kannada word for 'Fish' (Set 80)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಮೀನು",
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮೀನು",
+      "reasoning": "The correct answer is ಮೀನು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#80)",
+      "question": "'Fish' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 80)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಮೀನು",
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮೀನು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮೀನು."
     }
   },
   {
     "id": "kan_81",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#81)",
+      "question": "What is the Kannada word for 'Tree' (Set 81)?",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮರ",
+      "reasoning": "The correct answer is ಮರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#81)",
+      "question": "'Tree' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 81)?",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮರ."
     }
   },
   {
     "id": "kan_82",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#82)",
+      "question": "What is the Kannada word for 'Water' (Set 82)?",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನೀರು",
+      "reasoning": "The correct answer is ನೀರು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#82)",
+      "question": "'Water' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 82)?",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನೀರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೀರು."
     }
   },
   {
     "id": "kan_83",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#83)",
+      "question": "What is the Kannada word for 'Sun' (Set 83)?",
       "options": [
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "The correct answer is ಸೂರ್ಯ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#83)",
+      "question": "'Sun' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 83)?",
       "options": [
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸೂರ್ಯ."
     }
   },
   {
     "id": "kan_84",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#84)",
+      "question": "What is the Kannada word for 'Moon' (Set 84)?",
       "options": [
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "The correct answer is ಚಂದ್ರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#84)",
+      "question": "'Moon' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 84)?",
       "options": [
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಇ (i)"
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಚಂದ್ರ."
     }
   },
   {
     "id": "kan_85",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#85)",
+      "question": "What is the Kannada word for 'House' (Set 85)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ಮನೆ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮನೆ",
+      "reasoning": "The correct answer is ಮನೆ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#85)",
+      "question": "'House' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 85)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ಮನೆ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮನೆ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮನೆ."
     }
   },
   {
     "id": "kan_86",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#86)",
+      "question": "What is the Kannada word for 'Book' (Set 86)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಪುಸ್ತಕ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "The correct answer is ಪುಸ್ತಕ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#86)",
+      "question": "'Book' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 86)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಪುಸ್ತಕ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪುಸ್ತಕ."
     }
   },
   {
     "id": "kan_87",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#87)",
+      "question": "What is the Kannada word for 'Dog' (Set 87)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ನಾಯಿ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನಾಯಿ",
+      "reasoning": "The correct answer is ನಾಯಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#87)",
+      "question": "'Dog' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 87)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ನಾಯಿ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನಾಯಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನಾಯಿ."
     }
   },
   {
     "id": "kan_88",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#88)",
+      "question": "What is the Kannada word for 'Cat' (Set 88)?",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಬೆಕ್ಕು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "The correct answer is ಬೆಕ್ಕು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#88)",
+      "question": "'Cat' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 88)?",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಮರ",
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಬೆಕ್ಕು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬೆಕ್ಕು."
     }
   },
   {
     "id": "kan_89",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#89)",
+      "question": "What is the Kannada word for 'Bird' (Set 89)?",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು",
+        "ಹಕ್ಕಿ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "The correct answer is ಹಕ್ಕಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#89)",
+      "question": "'Bird' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 89)?",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು",
+        "ಹಕ್ಕಿ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹಕ್ಕಿ."
     }
   },
   {
     "id": "kan_90",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#90)",
+      "question": "What is the Kannada word for 'Fish' (Set 90)?",
       "options": [
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ಮೀನು",
+        "ನೀರು",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮೀನು",
+      "reasoning": "The correct answer is ಮೀನು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#90)",
+      "question": "'Fish' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 90)?",
       "options": [
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಸೂರ್ಯ",
+        "ಮೀನು",
+        "ನೀರು",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮೀನು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮೀನು."
     }
   },
   {
     "id": "kan_91",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#91)",
+      "question": "What is the Kannada word for 'Tree' (Set 91)?",
       "options": [
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮರ",
+      "reasoning": "The correct answer is ಮರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#91)",
+      "question": "'Tree' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 91)?",
       "options": [
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಅ (a)",
-        "ಇ (i)"
+        "ಸೂರ್ಯ",
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮರ."
     }
   },
   {
     "id": "kan_92",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#92)",
+      "question": "What is the Kannada word for 'Water' (Set 92)?",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನೀರು",
+      "reasoning": "The correct answer is ನೀರು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#92)",
+      "question": "'Water' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 92)?",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನೀರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೀರು."
     }
   },
   {
     "id": "kan_93",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#93)",
+      "question": "What is the Kannada word for 'Sun' (Set 93)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "The correct answer is ಸೂರ್ಯ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#93)",
+      "question": "'Sun' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 93)?",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸೂರ್ಯ."
     }
   },
   {
     "id": "kan_94",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#94)",
+      "question": "What is the Kannada word for 'Moon' (Set 94)?",
       "options": [
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "The correct answer is ಚಂದ್ರ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#94)",
+      "question": "'Moon' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 94)?",
       "options": [
-        "ಆ (aa)",
-        "ಇ (i)",
-        "ಅ (a)",
-        "ಈ (ee)"
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಚಂದ್ರ."
     }
   },
   {
     "id": "kan_95",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#95)",
+      "question": "What is the Kannada word for 'House' (Set 95)?",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಅ (a)"
+        "ಮರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮನೆ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮನೆ",
+      "reasoning": "The correct answer is ಮನೆ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#95)",
+      "question": "'House' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 95)?",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಈ (ee)",
-        "ಅ (a)"
+        "ಮರ",
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮನೆ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮನೆ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮನೆ."
     }
   },
   {
     "id": "kan_96",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#96)",
+      "question": "What is the Kannada word for 'Book' (Set 96)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಪುಸ್ತಕ",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "The correct answer is ಪುಸ್ತಕ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#96)",
+      "question": "'Book' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 96)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಪುಸ್ತಕ",
+        "ಸೂರ್ಯ",
+        "ಮರ",
+        "ನೀರು"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಪುಸ್ತಕ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪುಸ್ತಕ."
     }
   },
   {
     "id": "kan_97",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#97)",
+      "question": "What is the Kannada word for 'Dog' (Set 97)?",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಮರ",
+        "ನಾಯಿ",
+        "ನೀರು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ನಾಯಿ",
+      "reasoning": "The correct answer is ನಾಯಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#97)",
+      "question": "'Dog' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 97)?",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಮರ",
+        "ನಾಯಿ",
+        "ನೀರು",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ನಾಯಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನಾಯಿ."
     }
   },
   {
     "id": "kan_98",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#98)",
+      "question": "What is the Kannada word for 'Cat' (Set 98)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಬೆಕ್ಕು",
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "The correct answer is ಬೆಕ್ಕು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#98)",
+      "question": "'Cat' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 98)?",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಬೆಕ್ಕು",
+        "ನೀರು",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಬೆಕ್ಕು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬೆಕ್ಕು."
     }
   },
   {
     "id": "kan_99",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#99)",
+      "question": "What is the Kannada word for 'Bird' (Set 99)?",
       "options": [
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ನೀರು",
+        "ಹಕ್ಕಿ",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "The correct answer is ಹಕ್ಕಿ."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#99)",
+      "question": "'Bird' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 99)?",
       "options": [
-        "ಅ (a)",
-        "ಈ (ee)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ನೀರು",
+        "ಹಕ್ಕಿ",
+        "ಮರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಹಕ್ಕಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹಕ್ಕಿ."
     }
   },
   {
     "id": "kan_100",
-    "difficulty": 3,
+    "difficulty": 1,
     "en": {
-      "question": "What is the first vowel in Kannada? (#100)",
+      "question": "What is the Kannada word for 'Fish' (Set 100)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಮೀನು",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) is the correct grammar rule."
+      "answer": "ಮೀನು",
+      "reasoning": "The correct answer is ಮೀನು."
     },
     "kn": {
-      "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#100)",
+      "question": "'Fish' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು (ಸೆಟ್ 100)?",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ನೀರು",
+        "ಮೀನು",
+        "ಸೂರ್ಯ",
+        "ಮರ"
       ],
-      "answer": "ಅ (a)",
-      "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
+      "answer": "ಮೀನು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮೀನು."
     }
   }
 ]

@@ -3,2600 +3,2600 @@
     "id": "puz_1",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#1)",
+      "question": "What comes next in the sequence: 14, 20, 26, 32, ...?",
       "options": [
-        "A Piano",
-        "A Door",
-        "A Chest",
-        "A Car"
+        "32",
+        "44",
+        "40",
+        "38"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "38",
+      "reasoning": "The correct answer is 38."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#1)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 14, 20, 26, 32, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು"
+        "32",
+        "44",
+        "40",
+        "38"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "38",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 38."
     }
   },
   {
     "id": "puz_2",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#2)",
+      "question": "What comes next in the sequence: 14, 23, 32, 41, ...?",
       "options": [
-        "A Car",
-        "A Door",
-        "A Piano",
-        "A Chest"
+        "59",
+        "50",
+        "41",
+        "52"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "50",
+      "reasoning": "The correct answer is 50."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#2)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 14, 23, 32, 41, ...?",
       "options": [
-        "ಕಾರು",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ"
+        "59",
+        "50",
+        "41",
+        "52"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "50",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 50."
     }
   },
   {
     "id": "puz_3",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#3)",
+      "question": "What comes next in the sequence: 10, 18, 26, 34, ...?",
       "options": [
-        "A Car",
-        "A Door",
-        "A Piano",
-        "A Chest"
+        "34",
+        "42",
+        "44",
+        "50"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "42",
+      "reasoning": "The correct answer is 42."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#3)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 10, 18, 26, 34, ...?",
       "options": [
-        "ಕಾರು",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ"
+        "34",
+        "42",
+        "44",
+        "50"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "42",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 42."
     }
   },
   {
     "id": "puz_4",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#4)",
+      "question": "What comes next in the sequence: 2, 10, 18, 26, ...?",
       "options": [
-        "A Car",
-        "A Door",
-        "A Piano",
-        "A Chest"
+        "34",
+        "36",
+        "26",
+        "42"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "34",
+      "reasoning": "The correct answer is 34."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#4)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 2, 10, 18, 26, ...?",
       "options": [
-        "ಕಾರು",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ"
+        "34",
+        "36",
+        "26",
+        "42"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "34",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 34."
     }
   },
   {
     "id": "puz_5",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#5)",
+      "question": "What comes next in the sequence: 11, 13, 15, 17, ...?",
       "options": [
-        "A Car",
-        "A Door",
-        "A Piano",
-        "A Chest"
+        "19",
+        "21",
+        "None",
+        "17"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "19",
+      "reasoning": "The correct answer is 19."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#5)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 11, 13, 15, 17, ...?",
       "options": [
-        "ಕಾರು",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ"
+        "19",
+        "21",
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "17"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "19",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 19."
     }
   },
   {
     "id": "puz_6",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#6)",
+      "question": "What comes next in the sequence: 10, 17, 24, 31, ...?",
       "options": [
-        "A Chest",
-        "A Car",
-        "A Door",
-        "A Piano"
+        "40",
+        "45",
+        "38",
+        "31"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "38",
+      "reasoning": "The correct answer is 38."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#6)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 10, 17, 24, 31, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ"
+        "40",
+        "45",
+        "38",
+        "31"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "38",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 38."
     }
   },
   {
     "id": "puz_7",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#7)",
+      "question": "What comes next in the sequence: 1, 3, 5, 7, ...?",
       "options": [
-        "A Chest",
-        "A Car",
-        "A Piano",
-        "A Door"
+        "None",
+        "9",
+        "7",
+        "11"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "9",
+      "reasoning": "The correct answer is 9."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#7)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 1, 3, 5, 7, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು"
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "9",
+        "7",
+        "11"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "9",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 9."
     }
   },
   {
     "id": "puz_8",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#8)",
+      "question": "What comes next in the sequence: 19, 29, 39, 49, ...?",
       "options": [
-        "A Piano",
-        "A Car",
-        "A Door",
-        "A Chest"
+        "49",
+        "61",
+        "69",
+        "59"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "59",
+      "reasoning": "The correct answer is 59."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#8)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 19, 29, 39, 49, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಕಾರು",
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ"
+        "49",
+        "61",
+        "69",
+        "59"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "59",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 59."
     }
   },
   {
     "id": "puz_9",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#9)",
+      "question": "What comes next in the sequence: 10, 13, 16, 19, ...?",
       "options": [
-        "A Car",
-        "A Door",
-        "A Chest",
-        "A Piano"
+        "19",
+        "22",
+        "24",
+        "25"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "22",
+      "reasoning": "The correct answer is 22."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#9)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 10, 13, 16, 19, ...?",
       "options": [
-        "ಕಾರು",
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ"
+        "19",
+        "22",
+        "24",
+        "25"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "22",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 22."
     }
   },
   {
     "id": "puz_10",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#10)",
+      "question": "What comes next in the sequence: 6, 16, 26, 36, ...?",
       "options": [
-        "A Chest",
-        "A Car",
-        "A Door",
-        "A Piano"
+        "36",
+        "48",
+        "46",
+        "56"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "46",
+      "reasoning": "The correct answer is 46."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#10)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 6, 16, 26, 36, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ"
+        "36",
+        "48",
+        "46",
+        "56"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "46",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 46."
     }
   },
   {
     "id": "puz_11",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#11)",
+      "question": "What comes next in the sequence: 16, 26, 36, 46, ...?",
       "options": [
-        "A Car",
-        "A Piano",
-        "A Chest",
-        "A Door"
+        "58",
+        "66",
+        "56",
+        "46"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "56",
+      "reasoning": "The correct answer is 56."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#11)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 16, 26, 36, 46, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು"
+        "58",
+        "66",
+        "56",
+        "46"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "56",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 56."
     }
   },
   {
     "id": "puz_12",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#12)",
+      "question": "What comes next in the sequence: 7, 13, 19, 25, ...?",
       "options": [
-        "A Car",
-        "A Chest",
-        "A Piano",
-        "A Door"
+        "25",
+        "33",
+        "31",
+        "37"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "31",
+      "reasoning": "The correct answer is 31."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#12)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 7, 13, 19, 25, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು"
+        "25",
+        "33",
+        "31",
+        "37"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "31",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 31."
     }
   },
   {
     "id": "puz_13",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#13)",
+      "question": "What comes next in the sequence: 2, 6, 10, 14, ...?",
       "options": [
-        "A Door",
-        "A Chest",
-        "A Piano",
-        "A Car"
+        "18",
+        "14",
+        "20",
+        "22"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "18",
+      "reasoning": "The correct answer is 18."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#13)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 2, 6, 10, 14, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಕಾರು"
+        "18",
+        "14",
+        "20",
+        "22"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "18",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 18."
     }
   },
   {
     "id": "puz_14",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#14)",
+      "question": "What comes next in the sequence: 2, 4, 6, 8, ...?",
       "options": [
-        "A Door",
-        "A Chest",
-        "A Car",
-        "A Piano"
+        "None",
+        "12",
+        "8",
+        "10"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "10",
+      "reasoning": "The correct answer is 10."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#14)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 2, 4, 6, 8, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ"
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "12",
+        "8",
+        "10"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "10",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 10."
     }
   },
   {
     "id": "puz_15",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#15)",
+      "question": "What comes next in the sequence: 20, 29, 38, 47, ...?",
       "options": [
-        "A Piano",
-        "A Door",
-        "A Chest",
-        "A Car"
+        "47",
+        "56",
+        "65",
+        "58"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "56",
+      "reasoning": "The correct answer is 56."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#15)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 20, 29, 38, 47, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು"
+        "47",
+        "56",
+        "65",
+        "58"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "56",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 56."
     }
   },
   {
     "id": "puz_16",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#16)",
+      "question": "What comes next in the sequence: 3, 10, 17, 24, ...?",
       "options": [
-        "A Piano",
-        "A Car",
-        "A Chest",
-        "A Door"
+        "38",
+        "24",
+        "31",
+        "33"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "31",
+      "reasoning": "The correct answer is 31."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#16)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 3, 10, 17, 24, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು"
+        "38",
+        "24",
+        "31",
+        "33"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "31",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 31."
     }
   },
   {
     "id": "puz_17",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#17)",
+      "question": "What comes next in the sequence: 3, 9, 15, 21, ...?",
       "options": [
-        "A Car",
-        "A Door",
-        "A Piano",
-        "A Chest"
+        "33",
+        "29",
+        "21",
+        "27"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "27",
+      "reasoning": "The correct answer is 27."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#17)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 3, 9, 15, 21, ...?",
       "options": [
-        "ಕಾರು",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ"
+        "33",
+        "29",
+        "21",
+        "27"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "27",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 27."
     }
   },
   {
     "id": "puz_18",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#18)",
+      "question": "What comes next in the sequence: 11, 19, 27, 35, ...?",
       "options": [
-        "A Chest",
-        "A Car",
-        "A Piano",
-        "A Door"
+        "45",
+        "51",
+        "43",
+        "35"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "43",
+      "reasoning": "The correct answer is 43."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#18)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 11, 19, 27, 35, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು"
+        "45",
+        "51",
+        "43",
+        "35"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "43",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 43."
     }
   },
   {
     "id": "puz_19",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#19)",
+      "question": "What comes next in the sequence: 13, 18, 23, 28, ...?",
       "options": [
-        "A Car",
-        "A Chest",
-        "A Piano",
-        "A Door"
+        "38",
+        "35",
+        "33",
+        "28"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "33",
+      "reasoning": "The correct answer is 33."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#19)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 13, 18, 23, 28, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು"
+        "38",
+        "35",
+        "33",
+        "28"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "33",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 33."
     }
   },
   {
     "id": "puz_20",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#20)",
+      "question": "What comes next in the sequence: 9, 12, 15, 18, ...?",
       "options": [
-        "A Piano",
-        "A Car",
-        "A Chest",
-        "A Door"
+        "24",
+        "23",
+        "18",
+        "21"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "21",
+      "reasoning": "The correct answer is 21."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#20)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 9, 12, 15, 18, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು"
+        "24",
+        "23",
+        "18",
+        "21"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "21",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 21."
     }
   },
   {
     "id": "puz_21",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#21)",
+      "question": "What comes next in the sequence: 14, 16, 18, 20, ...?",
       "options": [
-        "A Chest",
-        "A Door",
-        "A Piano",
-        "A Car"
+        "22",
+        "20",
+        "24",
+        "None"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "22",
+      "reasoning": "The correct answer is 22."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#21)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 14, 16, 18, 20, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ",
-        "ಕಾರು"
+        "22",
+        "20",
+        "24",
+        "ಯಾವುದೂ ಅಲ್ಲ"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "22",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 22."
     }
   },
   {
     "id": "puz_22",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#22)",
+      "question": "What comes next in the sequence: 5, 15, 25, 35, ...?",
       "options": [
-        "A Piano",
-        "A Door",
-        "A Car",
-        "A Chest"
+        "35",
+        "45",
+        "55",
+        "47"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "45",
+      "reasoning": "The correct answer is 45."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#22)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 5, 15, 25, 35, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ"
+        "35",
+        "45",
+        "55",
+        "47"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "45",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 45."
     }
   },
   {
     "id": "puz_23",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#23)",
+      "question": "What comes next in the sequence: 11, 18, 25, 32, ...?",
       "options": [
-        "A Chest",
-        "A Car",
-        "A Door",
-        "A Piano"
+        "46",
+        "41",
+        "39",
+        "32"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "39",
+      "reasoning": "The correct answer is 39."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#23)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 11, 18, 25, 32, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ"
+        "46",
+        "41",
+        "39",
+        "32"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "39",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 39."
     }
   },
   {
     "id": "puz_24",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#24)",
+      "question": "What comes next in the sequence: 2, 9, 16, 23, ...?",
       "options": [
-        "A Car",
-        "A Piano",
-        "A Chest",
-        "A Door"
+        "23",
+        "32",
+        "30",
+        "37"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "30",
+      "reasoning": "The correct answer is 30."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#24)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 2, 9, 16, 23, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು"
+        "23",
+        "32",
+        "30",
+        "37"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "30",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 30."
     }
   },
   {
     "id": "puz_25",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#25)",
+      "question": "What comes next in the sequence: 4, 8, 12, 16, ...?",
       "options": [
-        "A Car",
-        "A Piano",
-        "A Door",
-        "A Chest"
+        "20",
+        "16",
+        "24",
+        "22"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "20",
+      "reasoning": "The correct answer is 20."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#25)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 4, 8, 12, 16, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ"
+        "20",
+        "16",
+        "24",
+        "22"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "20",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 20."
     }
   },
   {
     "id": "puz_26",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#26)",
+      "question": "What comes next in the sequence: 12, 18, 24, 30, ...?",
       "options": [
-        "A Piano",
-        "A Chest",
-        "A Door",
-        "A Car"
+        "30",
+        "36",
+        "38",
+        "42"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "36",
+      "reasoning": "The correct answer is 36."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#26)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 12, 18, 24, 30, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು",
-        "ಕಾರು"
+        "30",
+        "36",
+        "38",
+        "42"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "36",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 36."
     }
   },
   {
     "id": "puz_27",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#27)",
+      "question": "What comes next in the sequence: 14, 20, 26, 32, ...?",
       "options": [
-        "A Piano",
-        "A Chest",
-        "A Door",
-        "A Car"
+        "32",
+        "44",
+        "38",
+        "40"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "38",
+      "reasoning": "The correct answer is 38."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#27)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 14, 20, 26, 32, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು",
-        "ಕಾರು"
+        "32",
+        "44",
+        "38",
+        "40"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "38",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 38."
     }
   },
   {
     "id": "puz_28",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#28)",
+      "question": "What comes next in the sequence: 11, 18, 25, 32, ...?",
       "options": [
-        "A Piano",
-        "A Car",
-        "A Chest",
-        "A Door"
+        "32",
+        "39",
+        "41",
+        "46"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "39",
+      "reasoning": "The correct answer is 39."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#28)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 11, 18, 25, 32, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು"
+        "32",
+        "39",
+        "41",
+        "46"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "39",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 39."
     }
   },
   {
     "id": "puz_29",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#29)",
+      "question": "What comes next in the sequence: 15, 24, 33, 42, ...?",
       "options": [
-        "A Piano",
-        "A Door",
-        "A Car",
-        "A Chest"
+        "53",
+        "51",
+        "60",
+        "42"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "51",
+      "reasoning": "The correct answer is 51."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#29)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 15, 24, 33, 42, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ"
+        "53",
+        "51",
+        "60",
+        "42"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "51",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 51."
     }
   },
   {
     "id": "puz_30",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#30)",
+      "question": "What comes next in the sequence: 9, 12, 15, 18, ...?",
       "options": [
-        "A Piano",
-        "A Chest",
-        "A Door",
-        "A Car"
+        "23",
+        "24",
+        "21",
+        "18"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "21",
+      "reasoning": "The correct answer is 21."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#30)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 9, 12, 15, 18, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು",
-        "ಕಾರು"
+        "23",
+        "24",
+        "21",
+        "18"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "21",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 21."
     }
   },
   {
     "id": "puz_31",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#31)",
+      "question": "What comes next in the sequence: 14, 23, 32, 41, ...?",
       "options": [
-        "A Car",
-        "A Piano",
-        "A Door",
-        "A Chest"
+        "50",
+        "41",
+        "59",
+        "52"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "50",
+      "reasoning": "The correct answer is 50."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#31)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 14, 23, 32, 41, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ"
+        "50",
+        "41",
+        "59",
+        "52"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "50",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 50."
     }
   },
   {
     "id": "puz_32",
     "difficulty": 1,
     "en": {
-      "question": "I have keys but no locks. What am I? (#32)",
+      "question": "What comes next in the sequence: 14, 16, 18, 20, ...?",
       "options": [
-        "A Piano",
-        "A Car",
-        "A Chest",
-        "A Door"
+        "None",
+        "22",
+        "20",
+        "24"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "22",
+      "reasoning": "The correct answer is 22."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#32)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 14, 16, 18, 20, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು"
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "22",
+        "20",
+        "24"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "22",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 22."
     }
   },
   {
     "id": "puz_33",
-    "difficulty": 1,
+    "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#33)",
+      "question": "What comes next in the sequence: 16, 22, 28, 34, ...?",
       "options": [
-        "A Piano",
-        "A Door",
-        "A Car",
-        "A Chest"
+        "40",
+        "42",
+        "46",
+        "34"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "40",
+      "reasoning": "The correct answer is 40."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#33)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 16, 22, 28, 34, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ"
+        "40",
+        "42",
+        "46",
+        "34"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "40",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 40."
     }
   },
   {
     "id": "puz_34",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#34)",
+      "question": "What comes next in the sequence: 17, 26, 35, 44, ...?",
       "options": [
-        "A Door",
-        "A Chest",
-        "A Piano",
-        "A Car"
+        "55",
+        "53",
+        "62",
+        "44"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "53",
+      "reasoning": "The correct answer is 53."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#34)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 17, 26, 35, 44, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಕಾರು"
+        "55",
+        "53",
+        "62",
+        "44"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "53",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 53."
     }
   },
   {
     "id": "puz_35",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#35)",
+      "question": "What comes next in the sequence: 1, 6, 11, 16, ...?",
       "options": [
-        "A Chest",
-        "A Piano",
-        "A Car",
-        "A Door"
+        "16",
+        "21",
+        "26",
+        "23"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "21",
+      "reasoning": "The correct answer is 21."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#35)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 1, 6, 11, 16, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಕಾರು",
-        "ಬಾಗಿಲು"
+        "16",
+        "21",
+        "26",
+        "23"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "21",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 21."
     }
   },
   {
     "id": "puz_36",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#36)",
+      "question": "What comes next in the sequence: 11, 13, 15, 17, ...?",
       "options": [
-        "A Door",
-        "A Car",
-        "A Piano",
-        "A Chest"
+        "None",
+        "19",
+        "17",
+        "21"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "19",
+      "reasoning": "The correct answer is 19."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#36)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 11, 13, 15, 17, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ"
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "19",
+        "17",
+        "21"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "19",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 19."
     }
   },
   {
     "id": "puz_37",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#37)",
+      "question": "What comes next in the sequence: 10, 16, 22, 28, ...?",
       "options": [
-        "A Car",
-        "A Piano",
-        "A Door",
-        "A Chest"
+        "28",
+        "40",
+        "34",
+        "36"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "34",
+      "reasoning": "The correct answer is 34."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#37)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 10, 16, 22, 28, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ"
+        "28",
+        "40",
+        "34",
+        "36"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "34",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 34."
     }
   },
   {
     "id": "puz_38",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#38)",
+      "question": "What comes next in the sequence: 11, 19, 27, 35, ...?",
       "options": [
-        "A Door",
-        "A Chest",
-        "A Piano",
-        "A Car"
+        "35",
+        "45",
+        "51",
+        "43"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "43",
+      "reasoning": "The correct answer is 43."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#38)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 11, 19, 27, 35, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಕಾರು"
+        "35",
+        "45",
+        "51",
+        "43"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "43",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 43."
     }
   },
   {
     "id": "puz_39",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#39)",
+      "question": "What comes next in the sequence: 11, 18, 25, 32, ...?",
       "options": [
-        "A Piano",
-        "A Door",
-        "A Car",
-        "A Chest"
+        "39",
+        "46",
+        "41",
+        "32"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "39",
+      "reasoning": "The correct answer is 39."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#39)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 11, 18, 25, 32, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ"
+        "39",
+        "46",
+        "41",
+        "32"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "39",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 39."
     }
   },
   {
     "id": "puz_40",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#40)",
+      "question": "What comes next in the sequence: 19, 22, 25, 28, ...?",
       "options": [
-        "A Chest",
-        "A Piano",
-        "A Car",
-        "A Door"
+        "34",
+        "31",
+        "33",
+        "28"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "31",
+      "reasoning": "The correct answer is 31."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#40)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 19, 22, 25, 28, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಕಾರು",
-        "ಬಾಗಿಲು"
+        "34",
+        "31",
+        "33",
+        "28"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "31",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 31."
     }
   },
   {
     "id": "puz_41",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#41)",
+      "question": "What comes next in the sequence: 14, 21, 28, 35, ...?",
       "options": [
-        "A Piano",
-        "A Door",
-        "A Chest",
-        "A Car"
+        "49",
+        "35",
+        "44",
+        "42"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "42",
+      "reasoning": "The correct answer is 42."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#41)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 14, 21, 28, 35, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು"
+        "49",
+        "35",
+        "44",
+        "42"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "42",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 42."
     }
   },
   {
     "id": "puz_42",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#42)",
+      "question": "What comes next in the sequence: 7, 14, 21, 28, ...?",
       "options": [
-        "A Chest",
-        "A Piano",
-        "A Door",
-        "A Car"
+        "35",
+        "42",
+        "28",
+        "37"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "35",
+      "reasoning": "The correct answer is 35."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#42)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 7, 14, 21, 28, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಕಾರು"
+        "35",
+        "42",
+        "28",
+        "37"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "35",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 35."
     }
   },
   {
     "id": "puz_43",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#43)",
+      "question": "What comes next in the sequence: 9, 14, 19, 24, ...?",
       "options": [
-        "A Car",
-        "A Door",
-        "A Chest",
-        "A Piano"
+        "34",
+        "24",
+        "31",
+        "29"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "29",
+      "reasoning": "The correct answer is 29."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#43)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 9, 14, 19, 24, ...?",
       "options": [
-        "ಕಾರು",
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ"
+        "34",
+        "24",
+        "31",
+        "29"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "29",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 29."
     }
   },
   {
     "id": "puz_44",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#44)",
+      "question": "What comes next in the sequence: 13, 17, 21, 25, ...?",
       "options": [
-        "A Piano",
-        "A Chest",
-        "A Car",
-        "A Door"
+        "33",
+        "31",
+        "25",
+        "29"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "29",
+      "reasoning": "The correct answer is 29."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#44)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 13, 17, 21, 25, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಬಾಗಿಲು"
+        "33",
+        "31",
+        "25",
+        "29"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "29",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 29."
     }
   },
   {
     "id": "puz_45",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#45)",
+      "question": "What comes next in the sequence: 9, 14, 19, 24, ...?",
       "options": [
-        "A Chest",
-        "A Car",
-        "A Piano",
-        "A Door"
+        "24",
+        "29",
+        "31",
+        "34"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "29",
+      "reasoning": "The correct answer is 29."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#45)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 9, 14, 19, 24, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು"
+        "24",
+        "29",
+        "31",
+        "34"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "29",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 29."
     }
   },
   {
     "id": "puz_46",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#46)",
+      "question": "What comes next in the sequence: 8, 13, 18, 23, ...?",
       "options": [
-        "A Car",
-        "A Chest",
-        "A Piano",
-        "A Door"
+        "28",
+        "33",
+        "30",
+        "23"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "28",
+      "reasoning": "The correct answer is 28."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#46)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 8, 13, 18, 23, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು"
+        "28",
+        "33",
+        "30",
+        "23"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "28",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 28."
     }
   },
   {
     "id": "puz_47",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#47)",
+      "question": "What comes next in the sequence: 7, 10, 13, 16, ...?",
       "options": [
-        "A Car",
-        "A Door",
-        "A Piano",
-        "A Chest"
+        "19",
+        "22",
+        "21",
+        "16"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "19",
+      "reasoning": "The correct answer is 19."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#47)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 7, 10, 13, 16, ...?",
       "options": [
-        "ಕಾರು",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ"
+        "19",
+        "22",
+        "21",
+        "16"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "19",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 19."
     }
   },
   {
     "id": "puz_48",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#48)",
+      "question": "What comes next in the sequence: 5, 11, 17, 23, ...?",
       "options": [
-        "A Chest",
-        "A Door",
-        "A Car",
-        "A Piano"
+        "29",
+        "23",
+        "31",
+        "35"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "29",
+      "reasoning": "The correct answer is 29."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#48)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 5, 11, 17, 23, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ"
+        "29",
+        "23",
+        "31",
+        "35"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "29",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 29."
     }
   },
   {
     "id": "puz_49",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#49)",
+      "question": "What comes next in the sequence: 16, 21, 26, 31, ...?",
       "options": [
-        "A Car",
-        "A Piano",
-        "A Chest",
-        "A Door"
+        "41",
+        "36",
+        "31",
+        "38"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "36",
+      "reasoning": "The correct answer is 36."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#49)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 16, 21, 26, 31, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು"
+        "41",
+        "36",
+        "31",
+        "38"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "36",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 36."
     }
   },
   {
     "id": "puz_50",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#50)",
+      "question": "What comes next in the sequence: 9, 18, 27, 36, ...?",
       "options": [
-        "A Piano",
-        "A Chest",
-        "A Car",
-        "A Door"
+        "54",
+        "47",
+        "45",
+        "36"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "45",
+      "reasoning": "The correct answer is 45."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#50)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 9, 18, 27, 36, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಬಾಗಿಲು"
+        "54",
+        "47",
+        "45",
+        "36"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "45",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 45."
     }
   },
   {
     "id": "puz_51",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#51)",
+      "question": "What comes next in the sequence: 14, 22, 30, 38, ...?",
       "options": [
-        "A Car",
-        "A Piano",
-        "A Chest",
-        "A Door"
+        "48",
+        "46",
+        "38",
+        "54"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "46",
+      "reasoning": "The correct answer is 46."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#51)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 14, 22, 30, 38, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು"
+        "48",
+        "46",
+        "38",
+        "54"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "46",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 46."
     }
   },
   {
     "id": "puz_52",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#52)",
+      "question": "What comes next in the sequence: 4, 9, 14, 19, ...?",
       "options": [
-        "A Car",
-        "A Piano",
-        "A Door",
-        "A Chest"
+        "24",
+        "26",
+        "19",
+        "29"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "24",
+      "reasoning": "The correct answer is 24."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#52)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 4, 9, 14, 19, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ"
+        "24",
+        "26",
+        "19",
+        "29"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "24",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 24."
     }
   },
   {
     "id": "puz_53",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#53)",
+      "question": "What comes next in the sequence: 7, 12, 17, 22, ...?",
       "options": [
-        "A Chest",
-        "A Car",
-        "A Piano",
-        "A Door"
+        "22",
+        "27",
+        "32",
+        "29"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "27",
+      "reasoning": "The correct answer is 27."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#53)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 7, 12, 17, 22, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು"
+        "22",
+        "27",
+        "32",
+        "29"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "27",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 27."
     }
   },
   {
     "id": "puz_54",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#54)",
+      "question": "What comes next in the sequence: 18, 24, 30, 36, ...?",
       "options": [
-        "A Door",
-        "A Car",
-        "A Piano",
-        "A Chest"
+        "36",
+        "48",
+        "44",
+        "42"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "42",
+      "reasoning": "The correct answer is 42."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#54)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 18, 24, 30, 36, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ"
+        "36",
+        "48",
+        "44",
+        "42"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "42",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 42."
     }
   },
   {
     "id": "puz_55",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#55)",
+      "question": "What comes next in the sequence: 20, 26, 32, 38, ...?",
       "options": [
-        "A Car",
-        "A Piano",
-        "A Door",
-        "A Chest"
+        "50",
+        "38",
+        "46",
+        "44"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "44",
+      "reasoning": "The correct answer is 44."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#55)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 20, 26, 32, 38, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ"
+        "50",
+        "38",
+        "46",
+        "44"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "44",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 44."
     }
   },
   {
     "id": "puz_56",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#56)",
+      "question": "What comes next in the sequence: 17, 27, 37, 47, ...?",
       "options": [
-        "A Chest",
-        "A Piano",
-        "A Door",
-        "A Car"
+        "67",
+        "47",
+        "57",
+        "59"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "57",
+      "reasoning": "The correct answer is 57."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#56)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 17, 27, 37, 47, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಕಾರು"
+        "67",
+        "47",
+        "57",
+        "59"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "57",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 57."
     }
   },
   {
     "id": "puz_57",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#57)",
+      "question": "What comes next in the sequence: 18, 27, 36, 45, ...?",
       "options": [
-        "A Door",
-        "A Piano",
-        "A Car",
-        "A Chest"
+        "45",
+        "56",
+        "54",
+        "63"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "54",
+      "reasoning": "The correct answer is 54."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#57)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 18, 27, 36, 45, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ",
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ"
+        "45",
+        "56",
+        "54",
+        "63"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "54",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 54."
     }
   },
   {
     "id": "puz_58",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#58)",
+      "question": "What comes next in the sequence: 12, 15, 18, 21, ...?",
       "options": [
-        "A Car",
-        "A Chest",
-        "A Door",
-        "A Piano"
+        "27",
+        "26",
+        "21",
+        "24"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "24",
+      "reasoning": "The correct answer is 24."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#58)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 12, 15, 18, 21, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ"
+        "27",
+        "26",
+        "21",
+        "24"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "24",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 24."
     }
   },
   {
     "id": "puz_59",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#59)",
+      "question": "What comes next in the sequence: 5, 8, 11, 14, ...?",
       "options": [
-        "A Chest",
-        "A Piano",
-        "A Car",
-        "A Door"
+        "20",
+        "17",
+        "14",
+        "19"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "17",
+      "reasoning": "The correct answer is 17."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#59)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 5, 8, 11, 14, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಕಾರು",
-        "ಬಾಗಿಲು"
+        "20",
+        "17",
+        "14",
+        "19"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "17",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 17."
     }
   },
   {
     "id": "puz_60",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#60)",
+      "question": "What comes next in the sequence: 15, 25, 35, 45, ...?",
       "options": [
-        "A Door",
-        "A Car",
-        "A Piano",
-        "A Chest"
+        "57",
+        "65",
+        "45",
+        "55"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "55",
+      "reasoning": "The correct answer is 55."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#60)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 15, 25, 35, 45, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ"
+        "57",
+        "65",
+        "45",
+        "55"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "55",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 55."
     }
   },
   {
     "id": "puz_61",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#61)",
+      "question": "What comes next in the sequence: 20, 29, 38, 47, ...?",
       "options": [
-        "A Chest",
-        "A Piano",
-        "A Car",
-        "A Door"
+        "56",
+        "65",
+        "58",
+        "47"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "56",
+      "reasoning": "The correct answer is 56."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#61)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 20, 29, 38, 47, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಕಾರು",
-        "ಬಾಗಿಲು"
+        "56",
+        "65",
+        "58",
+        "47"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "56",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 56."
     }
   },
   {
     "id": "puz_62",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#62)",
+      "question": "What comes next in the sequence: 9, 14, 19, 24, ...?",
       "options": [
-        "A Door",
-        "A Piano",
-        "A Chest",
-        "A Car"
+        "34",
+        "31",
+        "24",
+        "29"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "29",
+      "reasoning": "The correct answer is 29."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#62)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 9, 14, 19, 24, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು"
+        "34",
+        "31",
+        "24",
+        "29"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "29",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 29."
     }
   },
   {
     "id": "puz_63",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#63)",
+      "question": "What comes next in the sequence: 5, 11, 17, 23, ...?",
       "options": [
-        "A Door",
-        "A Car",
-        "A Chest",
-        "A Piano"
+        "35",
+        "29",
+        "31",
+        "23"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "29",
+      "reasoning": "The correct answer is 29."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#63)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 5, 11, 17, 23, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ"
+        "35",
+        "29",
+        "31",
+        "23"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "29",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 29."
     }
   },
   {
     "id": "puz_64",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#64)",
+      "question": "What comes next in the sequence: 13, 16, 19, 22, ...?",
       "options": [
-        "A Chest",
-        "A Car",
-        "A Door",
-        "A Piano"
+        "28",
+        "22",
+        "27",
+        "25"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "25",
+      "reasoning": "The correct answer is 25."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#64)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 13, 16, 19, 22, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ"
+        "28",
+        "22",
+        "27",
+        "25"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "25",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 25."
     }
   },
   {
     "id": "puz_65",
     "difficulty": 2,
     "en": {
-      "question": "I have keys but no locks. What am I? (#65)",
+      "question": "What comes next in the sequence: 8, 17, 26, 35, ...?",
       "options": [
-        "A Door",
-        "A Car",
-        "A Piano",
-        "A Chest"
+        "46",
+        "44",
+        "53",
+        "35"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "44",
+      "reasoning": "The correct answer is 44."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#65)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 8, 17, 26, 35, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ"
+        "46",
+        "44",
+        "53",
+        "35"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "44",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 44."
     }
   },
   {
     "id": "puz_66",
-    "difficulty": 2,
+    "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#66)",
+      "question": "What comes next in the sequence: 7, 15, 23, 31, ...?",
       "options": [
-        "A Piano",
-        "A Door",
-        "A Car",
-        "A Chest"
+        "39",
+        "41",
+        "47",
+        "31"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "39",
+      "reasoning": "The correct answer is 39."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#66)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 7, 15, 23, 31, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ"
+        "39",
+        "41",
+        "47",
+        "31"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "39",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 39."
     }
   },
   {
     "id": "puz_67",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#67)",
+      "question": "What comes next in the sequence: 3, 10, 17, 24, ...?",
       "options": [
-        "A Chest",
-        "A Car",
-        "A Piano",
-        "A Door"
+        "33",
+        "38",
+        "31",
+        "24"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "31",
+      "reasoning": "The correct answer is 31."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#67)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 3, 10, 17, 24, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು"
+        "33",
+        "38",
+        "31",
+        "24"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "31",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 31."
     }
   },
   {
     "id": "puz_68",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#68)",
+      "question": "What comes next in the sequence: 15, 21, 27, 33, ...?",
       "options": [
-        "A Car",
-        "A Chest",
-        "A Piano",
-        "A Door"
+        "41",
+        "45",
+        "39",
+        "33"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "39",
+      "reasoning": "The correct answer is 39."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#68)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 15, 21, 27, 33, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು"
+        "41",
+        "45",
+        "39",
+        "33"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "39",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 39."
     }
   },
   {
     "id": "puz_69",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#69)",
+      "question": "What comes next in the sequence: 7, 16, 25, 34, ...?",
       "options": [
-        "A Chest",
-        "A Piano",
-        "A Car",
-        "A Door"
+        "34",
+        "43",
+        "45",
+        "52"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "43",
+      "reasoning": "The correct answer is 43."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#69)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 7, 16, 25, 34, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಕಾರು",
-        "ಬಾಗಿಲು"
+        "34",
+        "43",
+        "45",
+        "52"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "43",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 43."
     }
   },
   {
     "id": "puz_70",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#70)",
+      "question": "What comes next in the sequence: 5, 15, 25, 35, ...?",
       "options": [
-        "A Car",
-        "A Chest",
-        "A Piano",
-        "A Door"
+        "55",
+        "47",
+        "35",
+        "45"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "45",
+      "reasoning": "The correct answer is 45."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#70)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 5, 15, 25, 35, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು"
+        "55",
+        "47",
+        "35",
+        "45"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "45",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 45."
     }
   },
   {
     "id": "puz_71",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#71)",
+      "question": "What comes next in the sequence: 2, 7, 12, 17, ...?",
       "options": [
-        "A Door",
-        "A Piano",
-        "A Chest",
-        "A Car"
+        "17",
+        "24",
+        "27",
+        "22"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "22",
+      "reasoning": "The correct answer is 22."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#71)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 2, 7, 12, 17, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು"
+        "17",
+        "24",
+        "27",
+        "22"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "22",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 22."
     }
   },
   {
     "id": "puz_72",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#72)",
+      "question": "What comes next in the sequence: 13, 21, 29, 37, ...?",
       "options": [
-        "A Door",
-        "A Piano",
-        "A Chest",
-        "A Car"
+        "53",
+        "37",
+        "45",
+        "47"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "45",
+      "reasoning": "The correct answer is 45."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#72)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 13, 21, 29, 37, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು"
+        "53",
+        "37",
+        "45",
+        "47"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "45",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 45."
     }
   },
   {
     "id": "puz_73",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#73)",
+      "question": "What comes next in the sequence: 20, 24, 28, 32, ...?",
       "options": [
-        "A Piano",
-        "A Door",
-        "A Chest",
-        "A Car"
+        "40",
+        "38",
+        "36",
+        "32"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "36",
+      "reasoning": "The correct answer is 36."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#73)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 20, 24, 28, 32, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು"
+        "40",
+        "38",
+        "36",
+        "32"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "36",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 36."
     }
   },
   {
     "id": "puz_74",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#74)",
+      "question": "What comes next in the sequence: 5, 12, 19, 26, ...?",
       "options": [
-        "A Chest",
-        "A Car",
-        "A Door",
-        "A Piano"
+        "33",
+        "35",
+        "40",
+        "26"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "33",
+      "reasoning": "The correct answer is 33."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#74)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 5, 12, 19, 26, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ"
+        "33",
+        "35",
+        "40",
+        "26"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "33",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 33."
     }
   },
   {
     "id": "puz_75",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#75)",
+      "question": "What comes next in the sequence: 4, 6, 8, 10, ...?",
       "options": [
-        "A Car",
-        "A Chest",
-        "A Piano",
-        "A Door"
+        "12",
+        "14",
+        "10",
+        "None"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "12",
+      "reasoning": "The correct answer is 12."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#75)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 4, 6, 8, 10, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು"
+        "12",
+        "14",
+        "10",
+        "ಯಾವುದೂ ಅಲ್ಲ"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "12",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 12."
     }
   },
   {
     "id": "puz_76",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#76)",
+      "question": "What comes next in the sequence: 19, 22, 25, 28, ...?",
       "options": [
-        "A Car",
-        "A Door",
-        "A Piano",
-        "A Chest"
+        "28",
+        "34",
+        "33",
+        "31"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "31",
+      "reasoning": "The correct answer is 31."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#76)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 19, 22, 25, 28, ...?",
       "options": [
-        "ಕಾರು",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ"
+        "28",
+        "34",
+        "33",
+        "31"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "31",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 31."
     }
   },
   {
     "id": "puz_77",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#77)",
+      "question": "What comes next in the sequence: 3, 8, 13, 18, ...?",
       "options": [
-        "A Car",
-        "A Piano",
-        "A Chest",
-        "A Door"
+        "23",
+        "25",
+        "18",
+        "28"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "23",
+      "reasoning": "The correct answer is 23."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#77)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 3, 8, 13, 18, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು"
+        "23",
+        "25",
+        "18",
+        "28"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "23",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 23."
     }
   },
   {
     "id": "puz_78",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#78)",
+      "question": "What comes next in the sequence: 7, 9, 11, 13, ...?",
       "options": [
-        "A Piano",
-        "A Chest",
-        "A Door",
-        "A Car"
+        "15",
+        "13",
+        "17",
+        "None"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "15",
+      "reasoning": "The correct answer is 15."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#78)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 7, 9, 11, 13, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು",
-        "ಕಾರು"
+        "15",
+        "13",
+        "17",
+        "ಯಾವುದೂ ಅಲ್ಲ"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "15",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 15."
     }
   },
   {
     "id": "puz_79",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#79)",
+      "question": "What comes next in the sequence: 5, 14, 23, 32, ...?",
       "options": [
-        "A Chest",
-        "A Piano",
-        "A Door",
-        "A Car"
+        "32",
+        "41",
+        "50",
+        "43"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "41",
+      "reasoning": "The correct answer is 41."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#79)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 5, 14, 23, 32, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಕಾರು"
+        "32",
+        "41",
+        "50",
+        "43"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "41",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 41."
     }
   },
   {
     "id": "puz_80",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#80)",
+      "question": "What comes next in the sequence: 5, 11, 17, 23, ...?",
       "options": [
-        "A Chest",
-        "A Piano",
-        "A Car",
-        "A Door"
+        "29",
+        "31",
+        "23",
+        "35"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "29",
+      "reasoning": "The correct answer is 29."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#80)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 5, 11, 17, 23, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಕಾರು",
-        "ಬಾಗಿಲು"
+        "29",
+        "31",
+        "23",
+        "35"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "29",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 29."
     }
   },
   {
     "id": "puz_81",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#81)",
+      "question": "What comes next in the sequence: 11, 20, 29, 38, ...?",
       "options": [
-        "A Car",
-        "A Chest",
-        "A Door",
-        "A Piano"
+        "49",
+        "56",
+        "38",
+        "47"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "47",
+      "reasoning": "The correct answer is 47."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#81)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 11, 20, 29, 38, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ"
+        "49",
+        "56",
+        "38",
+        "47"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "47",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 47."
     }
   },
   {
     "id": "puz_82",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#82)",
+      "question": "What comes next in the sequence: 15, 19, 23, 27, ...?",
       "options": [
-        "A Car",
-        "A Chest",
-        "A Door",
-        "A Piano"
+        "35",
+        "33",
+        "27",
+        "31"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "31",
+      "reasoning": "The correct answer is 31."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#82)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 15, 19, 23, 27, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ"
+        "35",
+        "33",
+        "27",
+        "31"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "31",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 31."
     }
   },
   {
     "id": "puz_83",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#83)",
+      "question": "What comes next in the sequence: 12, 20, 28, 36, ...?",
       "options": [
-        "A Chest",
-        "A Piano",
-        "A Car",
-        "A Door"
+        "44",
+        "46",
+        "36",
+        "52"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "44",
+      "reasoning": "The correct answer is 44."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#83)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 12, 20, 28, 36, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಕಾರು",
-        "ಬಾಗಿಲು"
+        "44",
+        "46",
+        "36",
+        "52"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "44",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 44."
     }
   },
   {
     "id": "puz_84",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#84)",
+      "question": "What comes next in the sequence: 1, 6, 11, 16, ...?",
       "options": [
-        "A Door",
-        "A Chest",
-        "A Car",
-        "A Piano"
+        "16",
+        "21",
+        "26",
+        "23"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "21",
+      "reasoning": "The correct answer is 21."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#84)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 1, 6, 11, 16, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ"
+        "16",
+        "21",
+        "26",
+        "23"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "21",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 21."
     }
   },
   {
     "id": "puz_85",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#85)",
+      "question": "What comes next in the sequence: 9, 18, 27, 36, ...?",
       "options": [
-        "A Piano",
-        "A Chest",
-        "A Car",
-        "A Door"
+        "54",
+        "47",
+        "36",
+        "45"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "45",
+      "reasoning": "The correct answer is 45."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#85)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 9, 18, 27, 36, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಬಾಗಿಲು"
+        "54",
+        "47",
+        "36",
+        "45"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "45",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 45."
     }
   },
   {
     "id": "puz_86",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#86)",
+      "question": "What comes next in the sequence: 12, 21, 30, 39, ...?",
       "options": [
-        "A Car",
-        "A Chest",
-        "A Door",
-        "A Piano"
+        "57",
+        "50",
+        "48",
+        "39"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "48",
+      "reasoning": "The correct answer is 48."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#86)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 12, 21, 30, 39, ...?",
       "options": [
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ"
+        "57",
+        "50",
+        "48",
+        "39"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "48",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 48."
     }
   },
   {
     "id": "puz_87",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#87)",
+      "question": "What comes next in the sequence: 1, 7, 13, 19, ...?",
       "options": [
-        "A Door",
-        "A Car",
-        "A Chest",
-        "A Piano"
+        "31",
+        "25",
+        "27",
+        "19"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "25",
+      "reasoning": "The correct answer is 25."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#87)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 1, 7, 13, 19, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ"
+        "31",
+        "25",
+        "27",
+        "19"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "25",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 25."
     }
   },
   {
     "id": "puz_88",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#88)",
+      "question": "What comes next in the sequence: 15, 23, 31, 39, ...?",
       "options": [
-        "A Chest",
-        "A Car",
-        "A Piano",
-        "A Door"
+        "39",
+        "49",
+        "47",
+        "55"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "47",
+      "reasoning": "The correct answer is 47."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#88)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 15, 23, 31, 39, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು"
+        "39",
+        "49",
+        "47",
+        "55"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "47",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 47."
     }
   },
   {
     "id": "puz_89",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#89)",
+      "question": "What comes next in the sequence: 10, 12, 14, 16, ...?",
       "options": [
-        "A Door",
-        "A Chest",
-        "A Piano",
-        "A Car"
+        "None",
+        "16",
+        "20",
+        "18"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "18",
+      "reasoning": "The correct answer is 18."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#89)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 10, 12, 14, 16, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಕಾರು"
+        "ಯಾವುದೂ ಅಲ್ಲ",
+        "16",
+        "20",
+        "18"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "18",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 18."
     }
   },
   {
     "id": "puz_90",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#90)",
+      "question": "What comes next in the sequence: 1, 5, 9, 13, ...?",
       "options": [
-        "A Piano",
-        "A Door",
-        "A Chest",
-        "A Car"
+        "19",
+        "17",
+        "13",
+        "21"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "17",
+      "reasoning": "The correct answer is 17."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#90)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 1, 5, 9, 13, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು"
+        "19",
+        "17",
+        "13",
+        "21"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "17",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 17."
     }
   },
   {
     "id": "puz_91",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#91)",
+      "question": "What comes next in the sequence: 18, 27, 36, 45, ...?",
       "options": [
-        "A Chest",
-        "A Car",
-        "A Piano",
-        "A Door"
+        "45",
+        "54",
+        "56",
+        "63"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "54",
+      "reasoning": "The correct answer is 54."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#91)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 18, 27, 36, 45, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು"
+        "45",
+        "54",
+        "56",
+        "63"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "54",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 54."
     }
   },
   {
     "id": "puz_92",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#92)",
+      "question": "What comes next in the sequence: 12, 17, 22, 27, ...?",
       "options": [
-        "A Door",
-        "A Chest",
-        "A Car",
-        "A Piano"
+        "32",
+        "27",
+        "34",
+        "37"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "32",
+      "reasoning": "The correct answer is 32."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#92)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 12, 17, 22, 27, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ"
+        "32",
+        "27",
+        "34",
+        "37"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "32",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 32."
     }
   },
   {
     "id": "puz_93",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#93)",
+      "question": "What comes next in the sequence: 8, 14, 20, 26, ...?",
       "options": [
-        "A Door",
-        "A Piano",
-        "A Car",
-        "A Chest"
+        "26",
+        "38",
+        "34",
+        "32"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "32",
+      "reasoning": "The correct answer is 32."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#93)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 8, 14, 20, 26, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ",
-        "ಕಾರು",
-        "ಪೆಟ್ಟಿಗೆ"
+        "26",
+        "38",
+        "34",
+        "32"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "32",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 32."
     }
   },
   {
     "id": "puz_94",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#94)",
+      "question": "What comes next in the sequence: 7, 12, 17, 22, ...?",
       "options": [
-        "A Chest",
-        "A Door",
-        "A Piano",
-        "A Car"
+        "32",
+        "29",
+        "27",
+        "22"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "27",
+      "reasoning": "The correct answer is 27."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#94)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 7, 12, 17, 22, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ",
-        "ಕಾರು"
+        "32",
+        "29",
+        "27",
+        "22"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "27",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 27."
     }
   },
   {
     "id": "puz_95",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#95)",
+      "question": "What comes next in the sequence: 16, 21, 26, 31, ...?",
       "options": [
-        "A Chest",
-        "A Piano",
-        "A Door",
-        "A Car"
+        "41",
+        "36",
+        "38",
+        "31"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "36",
+      "reasoning": "The correct answer is 36."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#95)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 16, 21, 26, 31, ...?",
       "options": [
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಪಿಯಾನೋ",
-        "ಬಾಗಿಲು",
-        "ಕಾರು"
+        "41",
+        "36",
+        "38",
+        "31"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "36",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 36."
     }
   },
   {
     "id": "puz_96",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#96)",
+      "question": "What comes next in the sequence: 13, 21, 29, 37, ...?",
       "options": [
-        "A Door",
-        "A Piano",
-        "A Chest",
-        "A Car"
+        "47",
+        "37",
+        "53",
+        "45"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "45",
+      "reasoning": "The correct answer is 45."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#96)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 13, 21, 29, 37, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು"
+        "47",
+        "37",
+        "53",
+        "45"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "45",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 45."
     }
   },
   {
     "id": "puz_97",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#97)",
+      "question": "What comes next in the sequence: 1, 8, 15, 22, ...?",
       "options": [
-        "A Door",
-        "A Chest",
-        "A Car",
-        "A Piano"
+        "22",
+        "36",
+        "29",
+        "31"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "29",
+      "reasoning": "The correct answer is 29."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#97)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 1, 8, 15, 22, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ"
+        "22",
+        "36",
+        "29",
+        "31"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "29",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 29."
     }
   },
   {
     "id": "puz_98",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#98)",
+      "question": "What comes next in the sequence: 4, 12, 20, 28, ...?",
       "options": [
-        "A Door",
-        "A Car",
-        "A Piano",
-        "A Chest"
+        "36",
+        "44",
+        "28",
+        "38"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "36",
+      "reasoning": "The correct answer is 36."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#98)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 4, 12, 20, 28, ...?",
       "options": [
-        "ಬಾಗಿಲು",
-        "ಕಾರು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ"
+        "36",
+        "44",
+        "28",
+        "38"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "36",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 36."
     }
   },
   {
     "id": "puz_99",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#99)",
+      "question": "What comes next in the sequence: 13, 21, 29, 37, ...?",
       "options": [
-        "A Piano",
-        "A Chest",
-        "A Door",
-        "A Car"
+        "45",
+        "47",
+        "37",
+        "53"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "45",
+      "reasoning": "The correct answer is 45."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#99)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 13, 21, 29, 37, ...?",
       "options": [
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ",
-        "ಬಾಗಿಲು",
-        "ಕಾರು"
+        "45",
+        "47",
+        "37",
+        "53"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "45",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 45."
     }
   },
   {
     "id": "puz_100",
     "difficulty": 3,
     "en": {
-      "question": "I have keys but no locks. What am I? (#100)",
+      "question": "What comes next in the sequence: 6, 10, 14, 18, ...?",
       "options": [
-        "A Car",
-        "A Door",
-        "A Piano",
-        "A Chest"
+        "24",
+        "18",
+        "26",
+        "22"
       ],
-      "answer": "A Piano",
-      "reasoning": "A piano uses musical keys."
+      "answer": "22",
+      "reasoning": "The correct answer is 22."
     },
     "kn": {
-      "question": "ನನಗೆ ಕೀಲಿಗಳಿವೆ ಆದರೆ ಬೀಗಗಳಿಲ್ಲ. ನಾನು ಯಾರು? (#100)",
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 6, 10, 14, 18, ...?",
       "options": [
-        "ಕಾರು",
-        "ಬಾಗಿಲು",
-        "ಪಿಯಾನೋ",
-        "ಪೆಟ್ಟಿಗೆ"
+        "24",
+        "18",
+        "26",
+        "22"
       ],
-      "answer": "ಪಿಯಾನೋ",
-      "reasoning": "ಪಿಯಾನೋ ಸಂಗೀತದ ಕೀಲಿಗಳನ್ನು ಬಳಸುತ್ತದೆ."
+      "answer": "22",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 22."
     }
   }
 ]
