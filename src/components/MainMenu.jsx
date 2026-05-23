@@ -48,18 +48,18 @@ const MainMenu = ({ onStart }) => {
       <div style={{ animation: 'bounce 2s infinite ease-in-out', marginBottom: '1rem' }}>
         <h1 style={{ 
           fontSize: '2.5rem', 
-          textShadow: '2px 4px 0px rgba(0,0,0,0.4)',
+          textShadow: '2px 4px 0px rgba(0,0,0,0.2)',
           margin: 0
         }}>
-          Gurukul
+          Acharya
         </h1>
         <h2 style={{
           fontSize: '3.5rem',
-          color: 'var(--tuk-yellow)',
-          textShadow: '3px 6px 0px rgba(0,0,0,0.4)',
+          color: 'var(--accent-color)',
+          textShadow: '3px 6px 0px rgba(0,0,0,0.2)',
           margin: '-10px 0 0 0'
         }}>
-          TIME-YATRA
+          QUIZ TIME
         </h2>
       </div>
 
@@ -122,7 +122,7 @@ const MainMenu = ({ onStart }) => {
         onClick={handleStart}
         style={{ display: 'flex', alignItems: 'center', gap: '10px', fontSize: '1.5rem', width: '100%', maxWidth: '400px', justifyContent: 'center' }}
       >
-        <Play size={24} fill="currentColor" /> START YATRA
+        <Play size={24} fill="currentColor" /> START QUIZ
       </button>
     </div>
   );
