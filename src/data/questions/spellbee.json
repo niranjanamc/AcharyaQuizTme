@@ -3,501 +3,7 @@
     "id": "spell_1",
     "difficulty": 1,
     "en": {
-      "question": "Choose the correctly spelled word (Question 1):",
-      "options": [
-        "Ocasion",
-        "Occassion",
-        "Occasion",
-        "Occation"
-      ],
-      "answer": "Occasion",
-      "reasoning": "The correct spelling is Occasion."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 1):",
-      "options": [
-        "Ocasion",
-        "Occassion",
-        "Occasion",
-        "Occation"
-      ],
-      "answer": "Occasion",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
-    }
-  },
-  {
-    "id": "spell_2",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 2):",
-      "options": [
-        "Knowlege",
-        "Knowledge",
-        "Knoledge",
-        "Nowledge"
-      ],
-      "answer": "Knowledge",
-      "reasoning": "The correct spelling is Knowledge."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 2):",
-      "options": [
-        "Knowlege",
-        "Knowledge",
-        "Knoledge",
-        "Nowledge"
-      ],
-      "answer": "Knowledge",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Knowledge."
-    }
-  },
-  {
-    "id": "spell_3",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 3):",
-      "options": [
-        "Beautiful",
-        "Bautiful",
-        "Beauitful",
-        "Beutiful"
-      ],
-      "answer": "Beautiful",
-      "reasoning": "The correct spelling is Beautiful."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 3):",
-      "options": [
-        "Beautiful",
-        "Bautiful",
-        "Beauitful",
-        "Beutiful"
-      ],
-      "answer": "Beautiful",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Beautiful."
-    }
-  },
-  {
-    "id": "spell_4",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 4):",
-      "options": [
-        "Necessary",
-        "Necesary",
-        "Neccessary",
-        "Necessery"
-      ],
-      "answer": "Necessary",
-      "reasoning": "The correct spelling is Necessary."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 4):",
-      "options": [
-        "Necessary",
-        "Necesary",
-        "Neccessary",
-        "Necessery"
-      ],
-      "answer": "Necessary",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
-    }
-  },
-  {
-    "id": "spell_5",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 5):",
-      "options": [
-        "Accomodate",
-        "Acommodate",
-        "Accommodate",
-        "Acomodate"
-      ],
-      "answer": "Accommodate",
-      "reasoning": "The correct spelling is Accommodate."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 5):",
-      "options": [
-        "Accomodate",
-        "Acommodate",
-        "Accommodate",
-        "Acomodate"
-      ],
-      "answer": "Accommodate",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
-    }
-  },
-  {
-    "id": "spell_6",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 6):",
-      "options": [
-        "Definately",
-        "Definitly",
-        "Definitely",
-        "Defenitely"
-      ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 6):",
-      "options": [
-        "Definately",
-        "Definitly",
-        "Definitely",
-        "Defenitely"
-      ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
-    }
-  },
-  {
-    "id": "spell_7",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 7):",
-      "options": [
-        "Fassinate",
-        "Fasinate",
-        "Facinate",
-        "Fascinate"
-      ],
-      "answer": "Fascinate",
-      "reasoning": "The correct spelling is Fascinate."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 7):",
-      "options": [
-        "Fassinate",
-        "Fasinate",
-        "Facinate",
-        "Fascinate"
-      ],
-      "answer": "Fascinate",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Fascinate."
-    }
-  },
-  {
-    "id": "spell_8",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 8):",
-      "options": [
-        "Acomodate",
-        "Accomodate",
-        "Acommodate",
-        "Accommodate"
-      ],
-      "answer": "Accommodate",
-      "reasoning": "The correct spelling is Accommodate."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 8):",
-      "options": [
-        "Acomodate",
-        "Accomodate",
-        "Acommodate",
-        "Accommodate"
-      ],
-      "answer": "Accommodate",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
-    }
-  },
-  {
-    "id": "spell_9",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 9):",
-      "options": [
-        "Definately",
-        "Definitly",
-        "Defenitely",
-        "Definitely"
-      ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 9):",
-      "options": [
-        "Definately",
-        "Definitly",
-        "Defenitely",
-        "Definitely"
-      ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
-    }
-  },
-  {
-    "id": "spell_10",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 10):",
-      "options": [
-        "Beutiful",
-        "Beautiful",
-        "Bautiful",
-        "Beauitful"
-      ],
-      "answer": "Beautiful",
-      "reasoning": "The correct spelling is Beautiful."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 10):",
-      "options": [
-        "Beutiful",
-        "Beautiful",
-        "Bautiful",
-        "Beauitful"
-      ],
-      "answer": "Beautiful",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Beautiful."
-    }
-  },
-  {
-    "id": "spell_11",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 11):",
-      "options": [
-        "Definitely",
-        "Definately",
-        "Definitly",
-        "Defenitely"
-      ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 11):",
-      "options": [
-        "Definitely",
-        "Definately",
-        "Definitly",
-        "Defenitely"
-      ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
-    }
-  },
-  {
-    "id": "spell_12",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 12):",
-      "options": [
-        "Definitly",
-        "Definitely",
-        "Definately",
-        "Defenitely"
-      ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 12):",
-      "options": [
-        "Definitly",
-        "Definitely",
-        "Definately",
-        "Defenitely"
-      ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
-    }
-  },
-  {
-    "id": "spell_13",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 13):",
-      "options": [
-        "Defenitely",
-        "Definately",
-        "Definitely",
-        "Definitly"
-      ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 13):",
-      "options": [
-        "Defenitely",
-        "Definately",
-        "Definitely",
-        "Definitly"
-      ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
-    }
-  },
-  {
-    "id": "spell_14",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 14):",
-      "options": [
-        "Occassion",
-        "Occasion",
-        "Occation",
-        "Ocasion"
-      ],
-      "answer": "Occasion",
-      "reasoning": "The correct spelling is Occasion."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 14):",
-      "options": [
-        "Occassion",
-        "Occasion",
-        "Occation",
-        "Ocasion"
-      ],
-      "answer": "Occasion",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
-    }
-  },
-  {
-    "id": "spell_15",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 15):",
-      "options": [
-        "Occasion",
-        "Occation",
-        "Occassion",
-        "Ocasion"
-      ],
-      "answer": "Occasion",
-      "reasoning": "The correct spelling is Occasion."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 15):",
-      "options": [
-        "Occasion",
-        "Occation",
-        "Occassion",
-        "Ocasion"
-      ],
-      "answer": "Occasion",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
-    }
-  },
-  {
-    "id": "spell_16",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 16):",
-      "options": [
-        "Accomodate",
-        "Acommodate",
-        "Accommodate",
-        "Acomodate"
-      ],
-      "answer": "Accommodate",
-      "reasoning": "The correct spelling is Accommodate."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 16):",
-      "options": [
-        "Accomodate",
-        "Acommodate",
-        "Accommodate",
-        "Acomodate"
-      ],
-      "answer": "Accommodate",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
-    }
-  },
-  {
-    "id": "spell_17",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 17):",
-      "options": [
-        "Occation",
-        "Occasion",
-        "Ocasion",
-        "Occassion"
-      ],
-      "answer": "Occasion",
-      "reasoning": "The correct spelling is Occasion."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 17):",
-      "options": [
-        "Occation",
-        "Occasion",
-        "Ocasion",
-        "Occassion"
-      ],
-      "answer": "Occasion",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
-    }
-  },
-  {
-    "id": "spell_18",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 18):",
-      "options": [
-        "Bautiful",
-        "Beauitful",
-        "Beautiful",
-        "Beutiful"
-      ],
-      "answer": "Beautiful",
-      "reasoning": "The correct spelling is Beautiful."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 18):",
-      "options": [
-        "Bautiful",
-        "Beauitful",
-        "Beautiful",
-        "Beutiful"
-      ],
-      "answer": "Beautiful",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Beautiful."
-    }
-  },
-  {
-    "id": "spell_19",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 19):",
-      "options": [
-        "Knowlege",
-        "Nowledge",
-        "Knoledge",
-        "Knowledge"
-      ],
-      "answer": "Knowledge",
-      "reasoning": "The correct spelling is Knowledge."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 19):",
-      "options": [
-        "Knowlege",
-        "Nowledge",
-        "Knoledge",
-        "Knowledge"
-      ],
-      "answer": "Knowledge",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Knowledge."
-    }
-  },
-  {
-    "id": "spell_20",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 20):",
+      "question": "Choose the correctly spelled word (Set 1):",
       "options": [
         "Beutiful",
         "Beautiful",
@@ -508,7 +14,501 @@
       "reasoning": "The correct spelling is Beautiful."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 20):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 1):",
+      "options": [
+        "Beutiful",
+        "Beautiful",
+        "Beauitful",
+        "Bautiful"
+      ],
+      "answer": "Beautiful",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Beautiful."
+    }
+  },
+  {
+    "id": "spell_2",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 2):",
+      "options": [
+        "Knoledge",
+        "Knowlege",
+        "Knowledge",
+        "Nowledge"
+      ],
+      "answer": "Knowledge",
+      "reasoning": "The correct spelling is Knowledge."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 2):",
+      "options": [
+        "Knoledge",
+        "Knowlege",
+        "Knowledge",
+        "Nowledge"
+      ],
+      "answer": "Knowledge",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Knowledge."
+    }
+  },
+  {
+    "id": "spell_3",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 3):",
+      "options": [
+        "Guarantee",
+        "Guarentee",
+        "Garantee",
+        "Gaurantee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "The correct spelling is Guarantee."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 3):",
+      "options": [
+        "Guarantee",
+        "Guarentee",
+        "Garantee",
+        "Gaurantee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Guarantee."
+    }
+  },
+  {
+    "id": "spell_4",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 4):",
+      "options": [
+        "Indipendent",
+        "Independent",
+        "Independant",
+        "Independentt"
+      ],
+      "answer": "Independent",
+      "reasoning": "The correct spelling is Independent."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 4):",
+      "options": [
+        "Indipendent",
+        "Independent",
+        "Independant",
+        "Independentt"
+      ],
+      "answer": "Independent",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Independent."
+    }
+  },
+  {
+    "id": "spell_5",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 5):",
+      "options": [
+        "Beautiful",
+        "Beutiful",
+        "Beauitful",
+        "Bautiful"
+      ],
+      "answer": "Beautiful",
+      "reasoning": "The correct spelling is Beautiful."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 5):",
+      "options": [
+        "Beautiful",
+        "Beutiful",
+        "Beauitful",
+        "Bautiful"
+      ],
+      "answer": "Beautiful",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Beautiful."
+    }
+  },
+  {
+    "id": "spell_6",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 6):",
+      "options": [
+        "Guarantee",
+        "Garantee",
+        "Gaurantee",
+        "Guarentee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "The correct spelling is Guarantee."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 6):",
+      "options": [
+        "Guarantee",
+        "Garantee",
+        "Gaurantee",
+        "Guarentee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Guarantee."
+    }
+  },
+  {
+    "id": "spell_7",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 7):",
+      "options": [
+        "Fassinate",
+        "Facinate",
+        "Fascinate",
+        "Fasinate"
+      ],
+      "answer": "Fascinate",
+      "reasoning": "The correct spelling is Fascinate."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 7):",
+      "options": [
+        "Fassinate",
+        "Facinate",
+        "Fascinate",
+        "Fasinate"
+      ],
+      "answer": "Fascinate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Fascinate."
+    }
+  },
+  {
+    "id": "spell_8",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 8):",
+      "options": [
+        "Guarantee",
+        "Garantee",
+        "Guarentee",
+        "Gaurantee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "The correct spelling is Guarantee."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 8):",
+      "options": [
+        "Guarantee",
+        "Garantee",
+        "Guarentee",
+        "Gaurantee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Guarantee."
+    }
+  },
+  {
+    "id": "spell_9",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 9):",
+      "options": [
+        "Necesary",
+        "Necessary",
+        "Neccessary",
+        "Necessery"
+      ],
+      "answer": "Necessary",
+      "reasoning": "The correct spelling is Necessary."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 9):",
+      "options": [
+        "Necesary",
+        "Necessary",
+        "Neccessary",
+        "Necessery"
+      ],
+      "answer": "Necessary",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
+    }
+  },
+  {
+    "id": "spell_10",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 10):",
+      "options": [
+        "Independentt",
+        "Independant",
+        "Independent",
+        "Indipendent"
+      ],
+      "answer": "Independent",
+      "reasoning": "The correct spelling is Independent."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 10):",
+      "options": [
+        "Independentt",
+        "Independant",
+        "Independent",
+        "Indipendent"
+      ],
+      "answer": "Independent",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Independent."
+    }
+  },
+  {
+    "id": "spell_11",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 11):",
+      "options": [
+        "Defenitely",
+        "Definitely",
+        "Definitly",
+        "Definately"
+      ],
+      "answer": "Definitely",
+      "reasoning": "The correct spelling is Definitely."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 11):",
+      "options": [
+        "Defenitely",
+        "Definitely",
+        "Definitly",
+        "Definately"
+      ],
+      "answer": "Definitely",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
+    }
+  },
+  {
+    "id": "spell_12",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 12):",
+      "options": [
+        "Necesary",
+        "Neccessary",
+        "Necessary",
+        "Necessery"
+      ],
+      "answer": "Necessary",
+      "reasoning": "The correct spelling is Necessary."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 12):",
+      "options": [
+        "Necesary",
+        "Neccessary",
+        "Necessary",
+        "Necessery"
+      ],
+      "answer": "Necessary",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
+    }
+  },
+  {
+    "id": "spell_13",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 13):",
+      "options": [
+        "Guarantee",
+        "Garantee",
+        "Gaurantee",
+        "Guarentee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "The correct spelling is Guarantee."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 13):",
+      "options": [
+        "Guarantee",
+        "Garantee",
+        "Gaurantee",
+        "Guarentee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Guarantee."
+    }
+  },
+  {
+    "id": "spell_14",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 14):",
+      "options": [
+        "Independant",
+        "Indipendent",
+        "Independentt",
+        "Independent"
+      ],
+      "answer": "Independent",
+      "reasoning": "The correct spelling is Independent."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 14):",
+      "options": [
+        "Independant",
+        "Indipendent",
+        "Independentt",
+        "Independent"
+      ],
+      "answer": "Independent",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Independent."
+    }
+  },
+  {
+    "id": "spell_15",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 15):",
+      "options": [
+        "Neccessary",
+        "Necessery",
+        "Necesary",
+        "Necessary"
+      ],
+      "answer": "Necessary",
+      "reasoning": "The correct spelling is Necessary."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 15):",
+      "options": [
+        "Neccessary",
+        "Necessery",
+        "Necesary",
+        "Necessary"
+      ],
+      "answer": "Necessary",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
+    }
+  },
+  {
+    "id": "spell_16",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 16):",
+      "options": [
+        "Accommodate",
+        "Accomodate",
+        "Acomodate",
+        "Acommodate"
+      ],
+      "answer": "Accommodate",
+      "reasoning": "The correct spelling is Accommodate."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 16):",
+      "options": [
+        "Accommodate",
+        "Accomodate",
+        "Acomodate",
+        "Acommodate"
+      ],
+      "answer": "Accommodate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
+    }
+  },
+  {
+    "id": "spell_17",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 17):",
+      "options": [
+        "Ocasion",
+        "Occation",
+        "Occasion",
+        "Occassion"
+      ],
+      "answer": "Occasion",
+      "reasoning": "The correct spelling is Occasion."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 17):",
+      "options": [
+        "Ocasion",
+        "Occation",
+        "Occasion",
+        "Occassion"
+      ],
+      "answer": "Occasion",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
+    }
+  },
+  {
+    "id": "spell_18",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 18):",
+      "options": [
+        "Occasion",
+        "Occation",
+        "Ocasion",
+        "Occassion"
+      ],
+      "answer": "Occasion",
+      "reasoning": "The correct spelling is Occasion."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 18):",
+      "options": [
+        "Occasion",
+        "Occation",
+        "Ocasion",
+        "Occassion"
+      ],
+      "answer": "Occasion",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
+    }
+  },
+  {
+    "id": "spell_19",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 19):",
+      "options": [
+        "Embarrass",
+        "Emmbarrass",
+        "Embarass",
+        "Embarras"
+      ],
+      "answer": "Embarrass",
+      "reasoning": "The correct spelling is Embarrass."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 19):",
+      "options": [
+        "Embarrass",
+        "Emmbarrass",
+        "Embarass",
+        "Embarras"
+      ],
+      "answer": "Embarrass",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
+    }
+  },
+  {
+    "id": "spell_20",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 20):",
+      "options": [
+        "Beutiful",
+        "Beautiful",
+        "Beauitful",
+        "Bautiful"
+      ],
+      "answer": "Beautiful",
+      "reasoning": "The correct spelling is Beautiful."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 20):",
       "options": [
         "Beutiful",
         "Beautiful",
@@ -523,137 +523,137 @@
     "id": "spell_21",
     "difficulty": 1,
     "en": {
-      "question": "Choose the correctly spelled word (Question 21):",
+      "question": "Choose the correctly spelled word (Set 21):",
       "options": [
-        "Definitly",
-        "Definitely",
-        "Definately",
-        "Defenitely"
+        "Independent",
+        "Indipendent",
+        "Independentt",
+        "Independant"
       ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
+      "answer": "Independent",
+      "reasoning": "The correct spelling is Independent."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 21):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 21):",
       "options": [
-        "Definitly",
-        "Definitely",
-        "Definately",
-        "Defenitely"
+        "Independent",
+        "Indipendent",
+        "Independentt",
+        "Independant"
       ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
+      "answer": "Independent",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Independent."
     }
   },
   {
     "id": "spell_22",
     "difficulty": 1,
     "en": {
-      "question": "Choose the correctly spelled word (Question 22):",
+      "question": "Choose the correctly spelled word (Set 22):",
       "options": [
-        "Independentt",
-        "Independent",
-        "Independant",
-        "Indipendent"
+        "Facinate",
+        "Fassinate",
+        "Fascinate",
+        "Fasinate"
       ],
-      "answer": "Independent",
-      "reasoning": "The correct spelling is Independent."
+      "answer": "Fascinate",
+      "reasoning": "The correct spelling is Fascinate."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 22):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 22):",
       "options": [
-        "Independentt",
-        "Independent",
-        "Independant",
-        "Indipendent"
+        "Facinate",
+        "Fassinate",
+        "Fascinate",
+        "Fasinate"
       ],
-      "answer": "Independent",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Independent."
+      "answer": "Fascinate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Fascinate."
     }
   },
   {
     "id": "spell_23",
     "difficulty": 1,
     "en": {
-      "question": "Choose the correctly spelled word (Question 23):",
+      "question": "Choose the correctly spelled word (Set 23):",
       "options": [
-        "Independent",
-        "Indipendent",
-        "Independant",
-        "Independentt"
-      ],
-      "answer": "Independent",
-      "reasoning": "The correct spelling is Independent."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 23):",
-      "options": [
-        "Independent",
-        "Indipendent",
-        "Independant",
-        "Independentt"
-      ],
-      "answer": "Independent",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Independent."
-    }
-  },
-  {
-    "id": "spell_24",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 24):",
-      "options": [
-        "Embarras",
-        "Embarass",
-        "Embarrass",
-        "Emmbarrass"
-      ],
-      "answer": "Embarrass",
-      "reasoning": "The correct spelling is Embarrass."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 24):",
-      "options": [
-        "Embarras",
-        "Embarass",
-        "Embarrass",
-        "Emmbarrass"
-      ],
-      "answer": "Embarrass",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
-    }
-  },
-  {
-    "id": "spell_25",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 25):",
-      "options": [
-        "Necesary",
-        "Necessary",
         "Neccessary",
-        "Necessery"
+        "Necesary",
+        "Necessery",
+        "Necessary"
       ],
       "answer": "Necessary",
       "reasoning": "The correct spelling is Necessary."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 25):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 23):",
       "options": [
-        "Necesary",
-        "Necessary",
         "Neccessary",
-        "Necessery"
+        "Necesary",
+        "Necessery",
+        "Necessary"
       ],
       "answer": "Necessary",
       "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
     }
   },
   {
+    "id": "spell_24",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 24):",
+      "options": [
+        "Accommodate",
+        "Acomodate",
+        "Acommodate",
+        "Accomodate"
+      ],
+      "answer": "Accommodate",
+      "reasoning": "The correct spelling is Accommodate."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 24):",
+      "options": [
+        "Accommodate",
+        "Acomodate",
+        "Acommodate",
+        "Accomodate"
+      ],
+      "answer": "Accommodate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
+    }
+  },
+  {
+    "id": "spell_25",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 25):",
+      "options": [
+        "Gaurantee",
+        "Guarentee",
+        "Garantee",
+        "Guarantee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "The correct spelling is Guarantee."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 25):",
+      "options": [
+        "Gaurantee",
+        "Guarentee",
+        "Garantee",
+        "Guarantee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Guarantee."
+    }
+  },
+  {
     "id": "spell_26",
     "difficulty": 1,
     "en": {
-      "question": "Choose the correctly spelled word (Question 26):",
+      "question": "Choose the correctly spelled word (Set 26):",
       "options": [
         "Occation",
         "Occasion",
@@ -664,7 +664,7 @@
       "reasoning": "The correct spelling is Occasion."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 26):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 26):",
       "options": [
         "Occation",
         "Occasion",
@@ -679,241 +679,241 @@
     "id": "spell_27",
     "difficulty": 1,
     "en": {
-      "question": "Choose the correctly spelled word (Question 27):",
-      "options": [
-        "Occassion",
-        "Occasion",
-        "Ocasion",
-        "Occation"
-      ],
-      "answer": "Occasion",
-      "reasoning": "The correct spelling is Occasion."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 27):",
-      "options": [
-        "Occassion",
-        "Occasion",
-        "Ocasion",
-        "Occation"
-      ],
-      "answer": "Occasion",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
-    }
-  },
-  {
-    "id": "spell_28",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 28):",
-      "options": [
-        "Occassion",
-        "Ocasion",
-        "Occasion",
-        "Occation"
-      ],
-      "answer": "Occasion",
-      "reasoning": "The correct spelling is Occasion."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 28):",
-      "options": [
-        "Occassion",
-        "Ocasion",
-        "Occasion",
-        "Occation"
-      ],
-      "answer": "Occasion",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
-    }
-  },
-  {
-    "id": "spell_29",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 29):",
-      "options": [
-        "Gaurantee",
-        "Garantee",
-        "Guarentee",
-        "Guarantee"
-      ],
-      "answer": "Guarantee",
-      "reasoning": "The correct spelling is Guarantee."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 29):",
-      "options": [
-        "Gaurantee",
-        "Garantee",
-        "Guarentee",
-        "Guarantee"
-      ],
-      "answer": "Guarantee",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Guarantee."
-    }
-  },
-  {
-    "id": "spell_30",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 30):",
+      "question": "Choose the correctly spelled word (Set 27):",
       "options": [
         "Knowlege",
-        "Nowledge",
+        "Knowledge",
         "Knoledge",
-        "Knowledge"
+        "Nowledge"
       ],
       "answer": "Knowledge",
       "reasoning": "The correct spelling is Knowledge."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 30):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 27):",
       "options": [
         "Knowlege",
-        "Nowledge",
+        "Knowledge",
         "Knoledge",
-        "Knowledge"
+        "Nowledge"
       ],
       "answer": "Knowledge",
       "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Knowledge."
     }
   },
   {
-    "id": "spell_31",
+    "id": "spell_28",
     "difficulty": 1,
     "en": {
-      "question": "Choose the correctly spelled word (Question 31):",
+      "question": "Choose the correctly spelled word (Set 28):",
       "options": [
-        "Definitely",
-        "Defenitely",
-        "Definitly",
-        "Definately"
-      ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 31):",
-      "options": [
-        "Definitely",
-        "Defenitely",
-        "Definitly",
-        "Definately"
-      ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
-    }
-  },
-  {
-    "id": "spell_32",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 32):",
-      "options": [
-        "Embarass",
-        "Embarras",
-        "Embarrass",
-        "Emmbarrass"
-      ],
-      "answer": "Embarrass",
-      "reasoning": "The correct spelling is Embarrass."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 32):",
-      "options": [
-        "Embarass",
-        "Embarras",
-        "Embarrass",
-        "Emmbarrass"
-      ],
-      "answer": "Embarrass",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
-    }
-  },
-  {
-    "id": "spell_33",
-    "difficulty": 1,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 33):",
-      "options": [
-        "Definitely",
-        "Definitly",
-        "Definately",
-        "Defenitely"
-      ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 33):",
-      "options": [
-        "Definitely",
-        "Definitly",
-        "Definately",
-        "Defenitely"
-      ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
-    }
-  },
-  {
-    "id": "spell_34",
-    "difficulty": 2,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 34):",
-      "options": [
-        "Occassion",
-        "Ocasion",
-        "Occation",
-        "Occasion"
-      ],
-      "answer": "Occasion",
-      "reasoning": "The correct spelling is Occasion."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 34):",
-      "options": [
-        "Occassion",
-        "Ocasion",
-        "Occation",
-        "Occasion"
-      ],
-      "answer": "Occasion",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
-    }
-  },
-  {
-    "id": "spell_35",
-    "difficulty": 2,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 35):",
-      "options": [
-        "Beutiful",
+        "Beauitful",
         "Beautiful",
-        "Bautiful",
-        "Beauitful"
+        "Beutiful",
+        "Bautiful"
       ],
       "answer": "Beautiful",
       "reasoning": "The correct spelling is Beautiful."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 35):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 28):",
       "options": [
-        "Beutiful",
+        "Beauitful",
         "Beautiful",
-        "Bautiful",
-        "Beauitful"
+        "Beutiful",
+        "Bautiful"
       ],
       "answer": "Beautiful",
       "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Beautiful."
     }
   },
   {
+    "id": "spell_29",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 29):",
+      "options": [
+        "Embarras",
+        "Embarrass",
+        "Emmbarrass",
+        "Embarass"
+      ],
+      "answer": "Embarrass",
+      "reasoning": "The correct spelling is Embarrass."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 29):",
+      "options": [
+        "Embarras",
+        "Embarrass",
+        "Emmbarrass",
+        "Embarass"
+      ],
+      "answer": "Embarrass",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
+    }
+  },
+  {
+    "id": "spell_30",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 30):",
+      "options": [
+        "Necessary",
+        "Necesary",
+        "Necessery",
+        "Neccessary"
+      ],
+      "answer": "Necessary",
+      "reasoning": "The correct spelling is Necessary."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 30):",
+      "options": [
+        "Necessary",
+        "Necesary",
+        "Necessery",
+        "Neccessary"
+      ],
+      "answer": "Necessary",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
+    }
+  },
+  {
+    "id": "spell_31",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 31):",
+      "options": [
+        "Fascinate",
+        "Facinate",
+        "Fasinate",
+        "Fassinate"
+      ],
+      "answer": "Fascinate",
+      "reasoning": "The correct spelling is Fascinate."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 31):",
+      "options": [
+        "Fascinate",
+        "Facinate",
+        "Fasinate",
+        "Fassinate"
+      ],
+      "answer": "Fascinate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Fascinate."
+    }
+  },
+  {
+    "id": "spell_32",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 32):",
+      "options": [
+        "Neccessary",
+        "Necesary",
+        "Necessery",
+        "Necessary"
+      ],
+      "answer": "Necessary",
+      "reasoning": "The correct spelling is Necessary."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 32):",
+      "options": [
+        "Neccessary",
+        "Necesary",
+        "Necessery",
+        "Necessary"
+      ],
+      "answer": "Necessary",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
+    }
+  },
+  {
+    "id": "spell_33",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 33):",
+      "options": [
+        "Embarrass",
+        "Emmbarrass",
+        "Embarass",
+        "Embarras"
+      ],
+      "answer": "Embarrass",
+      "reasoning": "The correct spelling is Embarrass."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 33):",
+      "options": [
+        "Embarrass",
+        "Emmbarrass",
+        "Embarass",
+        "Embarras"
+      ],
+      "answer": "Embarrass",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
+    }
+  },
+  {
+    "id": "spell_34",
+    "difficulty": 2,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 34):",
+      "options": [
+        "Guarantee",
+        "Guarentee",
+        "Gaurantee",
+        "Garantee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "The correct spelling is Guarantee."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 34):",
+      "options": [
+        "Guarantee",
+        "Guarentee",
+        "Gaurantee",
+        "Garantee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Guarantee."
+    }
+  },
+  {
+    "id": "spell_35",
+    "difficulty": 2,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 35):",
+      "options": [
+        "Facinate",
+        "Fassinate",
+        "Fasinate",
+        "Fascinate"
+      ],
+      "answer": "Fascinate",
+      "reasoning": "The correct spelling is Fascinate."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 35):",
+      "options": [
+        "Facinate",
+        "Fassinate",
+        "Fasinate",
+        "Fascinate"
+      ],
+      "answer": "Fascinate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Fascinate."
+    }
+  },
+  {
     "id": "spell_36",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 36):",
+      "question": "Choose the correctly spelled word (Set 36):",
       "options": [
         "Guarentee",
         "Guarantee",
@@ -924,7 +924,7 @@
       "reasoning": "The correct spelling is Guarantee."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 36):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 36):",
       "options": [
         "Guarentee",
         "Guarantee",
@@ -939,215 +939,59 @@
     "id": "spell_37",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 37):",
+      "question": "Choose the correctly spelled word (Set 37):",
       "options": [
-        "Occation",
-        "Ocasion",
-        "Occasion",
-        "Occassion"
+        "Beautiful",
+        "Bautiful",
+        "Beutiful",
+        "Beauitful"
       ],
-      "answer": "Occasion",
-      "reasoning": "The correct spelling is Occasion."
+      "answer": "Beautiful",
+      "reasoning": "The correct spelling is Beautiful."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 37):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 37):",
       "options": [
-        "Occation",
-        "Ocasion",
-        "Occasion",
-        "Occassion"
+        "Beautiful",
+        "Bautiful",
+        "Beutiful",
+        "Beauitful"
       ],
-      "answer": "Occasion",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
+      "answer": "Beautiful",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Beautiful."
     }
   },
   {
     "id": "spell_38",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 38):",
+      "question": "Choose the correctly spelled word (Set 38):",
       "options": [
-        "Embarass",
-        "Embarras",
-        "Emmbarrass",
-        "Embarrass"
-      ],
-      "answer": "Embarrass",
-      "reasoning": "The correct spelling is Embarrass."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 38):",
-      "options": [
-        "Embarass",
-        "Embarras",
-        "Emmbarrass",
-        "Embarrass"
-      ],
-      "answer": "Embarrass",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
-    }
-  },
-  {
-    "id": "spell_39",
-    "difficulty": 2,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 39):",
-      "options": [
-        "Fassinate",
-        "Fascinate",
-        "Facinate",
-        "Fasinate"
-      ],
-      "answer": "Fascinate",
-      "reasoning": "The correct spelling is Fascinate."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 39):",
-      "options": [
-        "Fassinate",
-        "Fascinate",
-        "Facinate",
-        "Fasinate"
-      ],
-      "answer": "Fascinate",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Fascinate."
-    }
-  },
-  {
-    "id": "spell_40",
-    "difficulty": 2,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 40):",
-      "options": [
-        "Emmbarrass",
-        "Embarass",
-        "Embarras",
-        "Embarrass"
-      ],
-      "answer": "Embarrass",
-      "reasoning": "The correct spelling is Embarrass."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 40):",
-      "options": [
-        "Emmbarrass",
-        "Embarass",
-        "Embarras",
-        "Embarrass"
-      ],
-      "answer": "Embarrass",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
-    }
-  },
-  {
-    "id": "spell_41",
-    "difficulty": 2,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 41):",
-      "options": [
-        "Acommodate",
-        "Accomodate",
         "Acomodate",
-        "Accommodate"
+        "Acommodate",
+        "Accommodate",
+        "Accomodate"
       ],
       "answer": "Accommodate",
       "reasoning": "The correct spelling is Accommodate."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 41):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 38):",
       "options": [
-        "Acommodate",
-        "Accomodate",
         "Acomodate",
-        "Accommodate"
+        "Acommodate",
+        "Accommodate",
+        "Accomodate"
       ],
       "answer": "Accommodate",
       "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
     }
   },
   {
-    "id": "spell_42",
+    "id": "spell_39",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 42):",
-      "options": [
-        "Beutiful",
-        "Bautiful",
-        "Beautiful",
-        "Beauitful"
-      ],
-      "answer": "Beautiful",
-      "reasoning": "The correct spelling is Beautiful."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 42):",
-      "options": [
-        "Beutiful",
-        "Bautiful",
-        "Beautiful",
-        "Beauitful"
-      ],
-      "answer": "Beautiful",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Beautiful."
-    }
-  },
-  {
-    "id": "spell_43",
-    "difficulty": 2,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 43):",
-      "options": [
-        "Beautiful",
-        "Beutiful",
-        "Bautiful",
-        "Beauitful"
-      ],
-      "answer": "Beautiful",
-      "reasoning": "The correct spelling is Beautiful."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 43):",
-      "options": [
-        "Beautiful",
-        "Beutiful",
-        "Bautiful",
-        "Beauitful"
-      ],
-      "answer": "Beautiful",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Beautiful."
-    }
-  },
-  {
-    "id": "spell_44",
-    "difficulty": 2,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 44):",
-      "options": [
-        "Fascinate",
-        "Fassinate",
-        "Fasinate",
-        "Facinate"
-      ],
-      "answer": "Fascinate",
-      "reasoning": "The correct spelling is Fascinate."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 44):",
-      "options": [
-        "Fascinate",
-        "Fassinate",
-        "Fasinate",
-        "Facinate"
-      ],
-      "answer": "Fascinate",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Fascinate."
-    }
-  },
-  {
-    "id": "spell_45",
-    "difficulty": 2,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 45):",
+      "question": "Choose the correctly spelled word (Set 39):",
       "options": [
         "Knoledge",
         "Nowledge",
@@ -1158,7 +1002,7 @@
       "reasoning": "The correct spelling is Knowledge."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 45):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 39):",
       "options": [
         "Knoledge",
         "Nowledge",
@@ -1170,166 +1014,88 @@
     }
   },
   {
-    "id": "spell_46",
+    "id": "spell_40",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 46):",
+      "question": "Choose the correctly spelled word (Set 40):",
+      "options": [
+        "Independant",
+        "Independentt",
+        "Independent",
+        "Indipendent"
+      ],
+      "answer": "Independent",
+      "reasoning": "The correct spelling is Independent."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 40):",
+      "options": [
+        "Independant",
+        "Independentt",
+        "Independent",
+        "Indipendent"
+      ],
+      "answer": "Independent",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Independent."
+    }
+  },
+  {
+    "id": "spell_41",
+    "difficulty": 2,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 41):",
       "options": [
         "Fassinate",
-        "Fasinate",
+        "Fascinate",
         "Facinate",
-        "Fascinate"
+        "Fasinate"
       ],
       "answer": "Fascinate",
       "reasoning": "The correct spelling is Fascinate."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 46):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 41):",
       "options": [
         "Fassinate",
-        "Fasinate",
+        "Fascinate",
         "Facinate",
-        "Fascinate"
+        "Fasinate"
       ],
       "answer": "Fascinate",
       "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Fascinate."
     }
   },
   {
-    "id": "spell_47",
+    "id": "spell_42",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 47):",
+      "question": "Choose the correctly spelled word (Set 42):",
       "options": [
-        "Fasinate",
-        "Fascinate",
-        "Facinate",
-        "Fassinate"
+        "Accommodate",
+        "Acommodate",
+        "Acomodate",
+        "Accomodate"
       ],
-      "answer": "Fascinate",
-      "reasoning": "The correct spelling is Fascinate."
+      "answer": "Accommodate",
+      "reasoning": "The correct spelling is Accommodate."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 47):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 42):",
       "options": [
-        "Fasinate",
-        "Fascinate",
-        "Facinate",
-        "Fassinate"
+        "Accommodate",
+        "Acommodate",
+        "Acomodate",
+        "Accomodate"
       ],
-      "answer": "Fascinate",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Fascinate."
+      "answer": "Accommodate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
     }
   },
   {
-    "id": "spell_48",
+    "id": "spell_43",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 48):",
-      "options": [
-        "Beauitful",
-        "Beautiful",
-        "Bautiful",
-        "Beutiful"
-      ],
-      "answer": "Beautiful",
-      "reasoning": "The correct spelling is Beautiful."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 48):",
-      "options": [
-        "Beauitful",
-        "Beautiful",
-        "Bautiful",
-        "Beutiful"
-      ],
-      "answer": "Beautiful",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Beautiful."
-    }
-  },
-  {
-    "id": "spell_49",
-    "difficulty": 2,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 49):",
-      "options": [
-        "Necessary",
-        "Neccessary",
-        "Necesary",
-        "Necessery"
-      ],
-      "answer": "Necessary",
-      "reasoning": "The correct spelling is Necessary."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 49):",
-      "options": [
-        "Necessary",
-        "Neccessary",
-        "Necesary",
-        "Necessery"
-      ],
-      "answer": "Necessary",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
-    }
-  },
-  {
-    "id": "spell_50",
-    "difficulty": 2,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 50):",
-      "options": [
-        "Definately",
-        "Defenitely",
-        "Definitely",
-        "Definitly"
-      ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 50):",
-      "options": [
-        "Definately",
-        "Defenitely",
-        "Definitely",
-        "Definitly"
-      ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
-    }
-  },
-  {
-    "id": "spell_51",
-    "difficulty": 2,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 51):",
-      "options": [
-        "Neccessary",
-        "Necessery",
-        "Necessary",
-        "Necesary"
-      ],
-      "answer": "Necessary",
-      "reasoning": "The correct spelling is Necessary."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 51):",
-      "options": [
-        "Neccessary",
-        "Necessery",
-        "Necessary",
-        "Necesary"
-      ],
-      "answer": "Necessary",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
-    }
-  },
-  {
-    "id": "spell_52",
-    "difficulty": 2,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 52):",
+      "question": "Choose the correctly spelled word (Set 43):",
       "options": [
         "Independent",
         "Independant",
@@ -1340,7 +1106,7 @@
       "reasoning": "The correct spelling is Independent."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 52):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 43):",
       "options": [
         "Independent",
         "Independant",
@@ -1352,181 +1118,103 @@
     }
   },
   {
-    "id": "spell_53",
+    "id": "spell_44",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 53):",
+      "question": "Choose the correctly spelled word (Set 44):",
       "options": [
-        "Fasinate",
-        "Fascinate",
-        "Facinate",
-        "Fassinate"
+        "Neccessary",
+        "Necessery",
+        "Necessary",
+        "Necesary"
       ],
-      "answer": "Fascinate",
-      "reasoning": "The correct spelling is Fascinate."
+      "answer": "Necessary",
+      "reasoning": "The correct spelling is Necessary."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 53):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 44):",
       "options": [
-        "Fasinate",
-        "Fascinate",
-        "Facinate",
-        "Fassinate"
+        "Neccessary",
+        "Necessery",
+        "Necessary",
+        "Necesary"
       ],
-      "answer": "Fascinate",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Fascinate."
+      "answer": "Necessary",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
     }
   },
   {
-    "id": "spell_54",
+    "id": "spell_45",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 54):",
+      "question": "Choose the correctly spelled word (Set 45):",
       "options": [
-        "Defenitely",
-        "Definately",
-        "Definitely",
-        "Definitly"
+        "Neccessary",
+        "Necessery",
+        "Necessary",
+        "Necesary"
       ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
+      "answer": "Necessary",
+      "reasoning": "The correct spelling is Necessary."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 54):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 45):",
       "options": [
-        "Defenitely",
-        "Definately",
-        "Definitely",
-        "Definitly"
+        "Neccessary",
+        "Necessery",
+        "Necessary",
+        "Necesary"
       ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
+      "answer": "Necessary",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
     }
   },
   {
-    "id": "spell_55",
+    "id": "spell_46",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 55):",
+      "question": "Choose the correctly spelled word (Set 46):",
       "options": [
-        "Occation",
-        "Occassion",
-        "Occasion",
-        "Ocasion"
+        "Guarantee",
+        "Guarentee",
+        "Gaurantee",
+        "Garantee"
       ],
-      "answer": "Occasion",
-      "reasoning": "The correct spelling is Occasion."
+      "answer": "Guarantee",
+      "reasoning": "The correct spelling is Guarantee."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 55):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 46):",
       "options": [
-        "Occation",
-        "Occassion",
-        "Occasion",
-        "Ocasion"
+        "Guarantee",
+        "Guarentee",
+        "Gaurantee",
+        "Garantee"
       ],
-      "answer": "Occasion",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
+      "answer": "Guarantee",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Guarantee."
     }
   },
   {
-    "id": "spell_56",
+    "id": "spell_47",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 56):",
+      "question": "Choose the correctly spelled word (Set 47):",
       "options": [
-        "Emmbarrass",
-        "Embarrass",
-        "Embarras",
-        "Embarass"
-      ],
-      "answer": "Embarrass",
-      "reasoning": "The correct spelling is Embarrass."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 56):",
-      "options": [
-        "Emmbarrass",
-        "Embarrass",
-        "Embarras",
-        "Embarass"
-      ],
-      "answer": "Embarrass",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
-    }
-  },
-  {
-    "id": "spell_57",
-    "difficulty": 2,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 57):",
-      "options": [
-        "Emmbarrass",
-        "Embarrass",
-        "Embarras",
-        "Embarass"
-      ],
-      "answer": "Embarrass",
-      "reasoning": "The correct spelling is Embarrass."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 57):",
-      "options": [
-        "Emmbarrass",
-        "Embarrass",
-        "Embarras",
-        "Embarass"
-      ],
-      "answer": "Embarrass",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
-    }
-  },
-  {
-    "id": "spell_58",
-    "difficulty": 2,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 58):",
-      "options": [
-        "Emmbarrass",
-        "Embarras",
-        "Embarass",
-        "Embarrass"
-      ],
-      "answer": "Embarrass",
-      "reasoning": "The correct spelling is Embarrass."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 58):",
-      "options": [
-        "Emmbarrass",
-        "Embarras",
-        "Embarass",
-        "Embarrass"
-      ],
-      "answer": "Embarrass",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
-    }
-  },
-  {
-    "id": "spell_59",
-    "difficulty": 2,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 59):",
-      "options": [
-        "Facinate",
         "Fasinate",
         "Fassinate",
+        "Facinate",
         "Fascinate"
       ],
       "answer": "Fascinate",
       "reasoning": "The correct spelling is Fascinate."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 59):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 47):",
       "options": [
-        "Facinate",
         "Fasinate",
         "Fassinate",
+        "Facinate",
         "Fascinate"
       ],
       "answer": "Fascinate",
@@ -1534,62 +1222,114 @@
     }
   },
   {
-    "id": "spell_60",
+    "id": "spell_48",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 60):",
+      "question": "Choose the correctly spelled word (Set 48):",
       "options": [
-        "Beautiful",
-        "Bautiful",
-        "Beauitful",
-        "Beutiful"
+        "Embarass",
+        "Embarras",
+        "Emmbarrass",
+        "Embarrass"
       ],
-      "answer": "Beautiful",
-      "reasoning": "The correct spelling is Beautiful."
+      "answer": "Embarrass",
+      "reasoning": "The correct spelling is Embarrass."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 60):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 48):",
       "options": [
-        "Beautiful",
-        "Bautiful",
-        "Beauitful",
-        "Beutiful"
+        "Embarass",
+        "Embarras",
+        "Emmbarrass",
+        "Embarrass"
       ],
-      "answer": "Beautiful",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Beautiful."
+      "answer": "Embarrass",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
     }
   },
   {
-    "id": "spell_61",
+    "id": "spell_49",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 61):",
+      "question": "Choose the correctly spelled word (Set 49):",
       "options": [
-        "Ocasion",
-        "Occation",
-        "Occasion",
-        "Occassion"
+        "Guarantee",
+        "Garantee",
+        "Gaurantee",
+        "Guarentee"
       ],
-      "answer": "Occasion",
-      "reasoning": "The correct spelling is Occasion."
+      "answer": "Guarantee",
+      "reasoning": "The correct spelling is Guarantee."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 61):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 49):",
       "options": [
-        "Ocasion",
-        "Occation",
-        "Occasion",
-        "Occassion"
+        "Guarantee",
+        "Garantee",
+        "Gaurantee",
+        "Guarentee"
       ],
-      "answer": "Occasion",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
+      "answer": "Guarantee",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Guarantee."
     }
   },
   {
-    "id": "spell_62",
+    "id": "spell_50",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 62):",
+      "question": "Choose the correctly spelled word (Set 50):",
+      "options": [
+        "Accomodate",
+        "Accommodate",
+        "Acommodate",
+        "Acomodate"
+      ],
+      "answer": "Accommodate",
+      "reasoning": "The correct spelling is Accommodate."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 50):",
+      "options": [
+        "Accomodate",
+        "Accommodate",
+        "Acommodate",
+        "Acomodate"
+      ],
+      "answer": "Accommodate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
+    }
+  },
+  {
+    "id": "spell_51",
+    "difficulty": 2,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 51):",
+      "options": [
+        "Independent",
+        "Independentt",
+        "Independant",
+        "Indipendent"
+      ],
+      "answer": "Independent",
+      "reasoning": "The correct spelling is Independent."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 51):",
+      "options": [
+        "Independent",
+        "Independentt",
+        "Independant",
+        "Indipendent"
+      ],
+      "answer": "Independent",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Independent."
+    }
+  },
+  {
+    "id": "spell_52",
+    "difficulty": 2,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 52):",
       "options": [
         "Knowlege",
         "Knoledge",
@@ -1600,7 +1340,7 @@
       "reasoning": "The correct spelling is Knowledge."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 62):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 52):",
       "options": [
         "Knowlege",
         "Knoledge",
@@ -1612,169 +1352,429 @@
     }
   },
   {
-    "id": "spell_63",
+    "id": "spell_53",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 63):",
+      "question": "Choose the correctly spelled word (Set 53):",
       "options": [
-        "Fascinate",
-        "Facinate",
+        "Fassinate",
         "Fasinate",
-        "Fassinate"
+        "Facinate",
+        "Fascinate"
       ],
       "answer": "Fascinate",
       "reasoning": "The correct spelling is Fascinate."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 63):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 53):",
       "options": [
-        "Fascinate",
-        "Facinate",
+        "Fassinate",
         "Fasinate",
-        "Fassinate"
+        "Facinate",
+        "Fascinate"
       ],
       "answer": "Fascinate",
       "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Fascinate."
     }
   },
   {
-    "id": "spell_64",
+    "id": "spell_54",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 64):",
+      "question": "Choose the correctly spelled word (Set 54):",
       "options": [
-        "Necesary",
-        "Necessary",
-        "Neccessary",
-        "Necessery"
+        "Acomodate",
+        "Accomodate",
+        "Acommodate",
+        "Accommodate"
       ],
-      "answer": "Necessary",
-      "reasoning": "The correct spelling is Necessary."
+      "answer": "Accommodate",
+      "reasoning": "The correct spelling is Accommodate."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 64):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 54):",
       "options": [
-        "Necesary",
-        "Necessary",
-        "Neccessary",
-        "Necessery"
+        "Acomodate",
+        "Accomodate",
+        "Acommodate",
+        "Accommodate"
       ],
-      "answer": "Necessary",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
+      "answer": "Accommodate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
     }
   },
   {
-    "id": "spell_65",
+    "id": "spell_55",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 65):",
+      "question": "Choose the correctly spelled word (Set 55):",
       "options": [
-        "Occassion",
-        "Occasion",
-        "Occation",
-        "Ocasion"
+        "Accomodate",
+        "Accommodate",
+        "Acommodate",
+        "Acomodate"
       ],
-      "answer": "Occasion",
-      "reasoning": "The correct spelling is Occasion."
+      "answer": "Accommodate",
+      "reasoning": "The correct spelling is Accommodate."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 65):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 55):",
       "options": [
-        "Occassion",
-        "Occasion",
-        "Occation",
-        "Ocasion"
+        "Accomodate",
+        "Accommodate",
+        "Acommodate",
+        "Acomodate"
       ],
-      "answer": "Occasion",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
+      "answer": "Accommodate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
     }
   },
   {
-    "id": "spell_66",
+    "id": "spell_56",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 66):",
+      "question": "Choose the correctly spelled word (Set 56):",
       "options": [
-        "Defenitely",
-        "Definitely",
-        "Definitly",
-        "Definately"
+        "Garantee",
+        "Guarantee",
+        "Gaurantee",
+        "Guarentee"
       ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
+      "answer": "Guarantee",
+      "reasoning": "The correct spelling is Guarantee."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 66):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 56):",
       "options": [
-        "Defenitely",
-        "Definitely",
-        "Definitly",
-        "Definately"
+        "Garantee",
+        "Guarantee",
+        "Gaurantee",
+        "Guarentee"
       ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
+      "answer": "Guarantee",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Guarantee."
     }
   },
   {
-    "id": "spell_67",
-    "difficulty": 3,
+    "id": "spell_57",
+    "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word (Question 67):",
+      "question": "Choose the correctly spelled word (Set 57):",
       "options": [
-        "Occation",
-        "Ocasion",
-        "Occasion",
-        "Occassion"
-      ],
-      "answer": "Occasion",
-      "reasoning": "The correct spelling is Occasion."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 67):",
-      "options": [
-        "Occation",
-        "Ocasion",
-        "Occasion",
-        "Occassion"
-      ],
-      "answer": "Occasion",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
-    }
-  },
-  {
-    "id": "spell_68",
-    "difficulty": 3,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 68):",
-      "options": [
-        "Embarrass",
+        "Embarass",
         "Emmbarrass",
-        "Embarras",
-        "Embarass"
+        "Embarrass",
+        "Embarras"
       ],
       "answer": "Embarrass",
       "reasoning": "The correct spelling is Embarrass."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 68):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 57):",
       "options": [
-        "Embarrass",
+        "Embarass",
         "Emmbarrass",
-        "Embarras",
-        "Embarass"
+        "Embarrass",
+        "Embarras"
       ],
       "answer": "Embarrass",
       "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
     }
   },
   {
+    "id": "spell_58",
+    "difficulty": 2,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 58):",
+      "options": [
+        "Accomodate",
+        "Accommodate",
+        "Acommodate",
+        "Acomodate"
+      ],
+      "answer": "Accommodate",
+      "reasoning": "The correct spelling is Accommodate."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 58):",
+      "options": [
+        "Accomodate",
+        "Accommodate",
+        "Acommodate",
+        "Acomodate"
+      ],
+      "answer": "Accommodate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
+    }
+  },
+  {
+    "id": "spell_59",
+    "difficulty": 2,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 59):",
+      "options": [
+        "Guarantee",
+        "Garantee",
+        "Gaurantee",
+        "Guarentee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "The correct spelling is Guarantee."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 59):",
+      "options": [
+        "Guarantee",
+        "Garantee",
+        "Gaurantee",
+        "Guarentee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Guarantee."
+    }
+  },
+  {
+    "id": "spell_60",
+    "difficulty": 2,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 60):",
+      "options": [
+        "Embarass",
+        "Embarrass",
+        "Emmbarrass",
+        "Embarras"
+      ],
+      "answer": "Embarrass",
+      "reasoning": "The correct spelling is Embarrass."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 60):",
+      "options": [
+        "Embarass",
+        "Embarrass",
+        "Emmbarrass",
+        "Embarras"
+      ],
+      "answer": "Embarrass",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
+    }
+  },
+  {
+    "id": "spell_61",
+    "difficulty": 2,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 61):",
+      "options": [
+        "Fascinate",
+        "Fasinate",
+        "Fassinate",
+        "Facinate"
+      ],
+      "answer": "Fascinate",
+      "reasoning": "The correct spelling is Fascinate."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 61):",
+      "options": [
+        "Fascinate",
+        "Fasinate",
+        "Fassinate",
+        "Facinate"
+      ],
+      "answer": "Fascinate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Fascinate."
+    }
+  },
+  {
+    "id": "spell_62",
+    "difficulty": 2,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 62):",
+      "options": [
+        "Necessery",
+        "Necesary",
+        "Neccessary",
+        "Necessary"
+      ],
+      "answer": "Necessary",
+      "reasoning": "The correct spelling is Necessary."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 62):",
+      "options": [
+        "Necessery",
+        "Necesary",
+        "Neccessary",
+        "Necessary"
+      ],
+      "answer": "Necessary",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
+    }
+  },
+  {
+    "id": "spell_63",
+    "difficulty": 2,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 63):",
+      "options": [
+        "Definitly",
+        "Definately",
+        "Definitely",
+        "Defenitely"
+      ],
+      "answer": "Definitely",
+      "reasoning": "The correct spelling is Definitely."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 63):",
+      "options": [
+        "Definitly",
+        "Definately",
+        "Definitely",
+        "Defenitely"
+      ],
+      "answer": "Definitely",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
+    }
+  },
+  {
+    "id": "spell_64",
+    "difficulty": 2,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 64):",
+      "options": [
+        "Gaurantee",
+        "Guarentee",
+        "Garantee",
+        "Guarantee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "The correct spelling is Guarantee."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 64):",
+      "options": [
+        "Gaurantee",
+        "Guarentee",
+        "Garantee",
+        "Guarantee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Guarantee."
+    }
+  },
+  {
+    "id": "spell_65",
+    "difficulty": 2,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 65):",
+      "options": [
+        "Knowledge",
+        "Knoledge",
+        "Knowlege",
+        "Nowledge"
+      ],
+      "answer": "Knowledge",
+      "reasoning": "The correct spelling is Knowledge."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 65):",
+      "options": [
+        "Knowledge",
+        "Knoledge",
+        "Knowlege",
+        "Nowledge"
+      ],
+      "answer": "Knowledge",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Knowledge."
+    }
+  },
+  {
+    "id": "spell_66",
+    "difficulty": 2,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 66):",
+      "options": [
+        "Bautiful",
+        "Beauitful",
+        "Beutiful",
+        "Beautiful"
+      ],
+      "answer": "Beautiful",
+      "reasoning": "The correct spelling is Beautiful."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 66):",
+      "options": [
+        "Bautiful",
+        "Beauitful",
+        "Beutiful",
+        "Beautiful"
+      ],
+      "answer": "Beautiful",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Beautiful."
+    }
+  },
+  {
+    "id": "spell_67",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 67):",
+      "options": [
+        "Definately",
+        "Definitly",
+        "Defenitely",
+        "Definitely"
+      ],
+      "answer": "Definitely",
+      "reasoning": "The correct spelling is Definitely."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 67):",
+      "options": [
+        "Definately",
+        "Definitly",
+        "Defenitely",
+        "Definitely"
+      ],
+      "answer": "Definitely",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
+    }
+  },
+  {
+    "id": "spell_68",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 68):",
+      "options": [
+        "Occassion",
+        "Occation",
+        "Ocasion",
+        "Occasion"
+      ],
+      "answer": "Occasion",
+      "reasoning": "The correct spelling is Occasion."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 68):",
+      "options": [
+        "Occassion",
+        "Occation",
+        "Ocasion",
+        "Occasion"
+      ],
+      "answer": "Occasion",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
+    }
+  },
+  {
     "id": "spell_69",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 69):",
+      "question": "Choose the correctly spelled word (Set 69):",
       "options": [
-        "Garantee",
         "Guarentee",
+        "Garantee",
         "Guarantee",
         "Gaurantee"
       ],
@@ -1782,10 +1782,10 @@
       "reasoning": "The correct spelling is Guarantee."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 69):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 69):",
       "options": [
-        "Garantee",
         "Guarentee",
+        "Garantee",
         "Guarantee",
         "Gaurantee"
       ],
@@ -1797,334 +1797,178 @@
     "id": "spell_70",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 70):",
+      "question": "Choose the correctly spelled word (Set 70):",
       "options": [
-        "Ocasion",
-        "Occation",
-        "Occassion",
-        "Occasion"
+        "Independent",
+        "Independentt",
+        "Indipendent",
+        "Independant"
       ],
-      "answer": "Occasion",
-      "reasoning": "The correct spelling is Occasion."
+      "answer": "Independent",
+      "reasoning": "The correct spelling is Independent."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 70):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 70):",
       "options": [
-        "Ocasion",
-        "Occation",
-        "Occassion",
-        "Occasion"
+        "Independent",
+        "Independentt",
+        "Indipendent",
+        "Independant"
       ],
-      "answer": "Occasion",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
+      "answer": "Independent",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Independent."
     }
   },
   {
     "id": "spell_71",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 71):",
+      "question": "Choose the correctly spelled word (Set 71):",
       "options": [
-        "Occation",
-        "Occassion",
-        "Occasion",
-        "Ocasion"
+        "Necessary",
+        "Neccessary",
+        "Necesary",
+        "Necessery"
       ],
-      "answer": "Occasion",
-      "reasoning": "The correct spelling is Occasion."
+      "answer": "Necessary",
+      "reasoning": "The correct spelling is Necessary."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 71):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 71):",
       "options": [
-        "Occation",
-        "Occassion",
-        "Occasion",
-        "Ocasion"
+        "Necessary",
+        "Neccessary",
+        "Necesary",
+        "Necessery"
       ],
-      "answer": "Occasion",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
+      "answer": "Necessary",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
     }
   },
   {
     "id": "spell_72",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 72):",
+      "question": "Choose the correctly spelled word (Set 72):",
       "options": [
-        "Knowlege",
-        "Knoledge",
-        "Knowledge",
-        "Nowledge"
+        "Defenitely",
+        "Definately",
+        "Definitly",
+        "Definitely"
       ],
-      "answer": "Knowledge",
-      "reasoning": "The correct spelling is Knowledge."
+      "answer": "Definitely",
+      "reasoning": "The correct spelling is Definitely."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 72):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 72):",
       "options": [
-        "Knowlege",
-        "Knoledge",
-        "Knowledge",
-        "Nowledge"
+        "Defenitely",
+        "Definately",
+        "Definitly",
+        "Definitely"
       ],
-      "answer": "Knowledge",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Knowledge."
+      "answer": "Definitely",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
     }
   },
   {
     "id": "spell_73",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 73):",
+      "question": "Choose the correctly spelled word (Set 73):",
       "options": [
-        "Beautiful",
-        "Beutiful",
-        "Beauitful",
-        "Bautiful"
+        "Embarrass",
+        "Emmbarrass",
+        "Embarras",
+        "Embarass"
       ],
-      "answer": "Beautiful",
-      "reasoning": "The correct spelling is Beautiful."
+      "answer": "Embarrass",
+      "reasoning": "The correct spelling is Embarrass."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 73):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 73):",
       "options": [
-        "Beautiful",
-        "Beutiful",
-        "Beauitful",
-        "Bautiful"
+        "Embarrass",
+        "Emmbarrass",
+        "Embarras",
+        "Embarass"
       ],
-      "answer": "Beautiful",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Beautiful."
+      "answer": "Embarrass",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
     }
   },
   {
     "id": "spell_74",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 74):",
+      "question": "Choose the correctly spelled word (Set 74):",
       "options": [
-        "Definately",
-        "Defenitely",
-        "Definitly",
-        "Definitely"
+        "Occassion",
+        "Occation",
+        "Occasion",
+        "Ocasion"
       ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
+      "answer": "Occasion",
+      "reasoning": "The correct spelling is Occasion."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 74):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 74):",
       "options": [
-        "Definately",
-        "Defenitely",
-        "Definitly",
-        "Definitely"
+        "Occassion",
+        "Occation",
+        "Occasion",
+        "Ocasion"
       ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
+      "answer": "Occasion",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
     }
   },
   {
     "id": "spell_75",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 75):",
+      "question": "Choose the correctly spelled word (Set 75):",
       "options": [
-        "Necesary",
-        "Necessary",
-        "Neccessary",
-        "Necessery"
-      ],
-      "answer": "Necessary",
-      "reasoning": "The correct spelling is Necessary."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 75):",
-      "options": [
-        "Necesary",
-        "Necessary",
-        "Neccessary",
-        "Necessery"
-      ],
-      "answer": "Necessary",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
-    }
-  },
-  {
-    "id": "spell_76",
-    "difficulty": 3,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 76):",
-      "options": [
-        "Defenitely",
-        "Definately",
-        "Definitly",
-        "Definitely"
-      ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 76):",
-      "options": [
-        "Defenitely",
-        "Definately",
-        "Definitly",
-        "Definitely"
-      ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
-    }
-  },
-  {
-    "id": "spell_77",
-    "difficulty": 3,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 77):",
-      "options": [
-        "Definately",
-        "Definitly",
-        "Defenitely",
-        "Definitely"
-      ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 77):",
-      "options": [
-        "Definately",
-        "Definitly",
-        "Defenitely",
-        "Definitely"
-      ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
-    }
-  },
-  {
-    "id": "spell_78",
-    "difficulty": 3,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 78):",
-      "options": [
-        "Definitly",
-        "Definately",
-        "Defenitely",
-        "Definitely"
-      ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 78):",
-      "options": [
-        "Definitly",
-        "Definately",
-        "Defenitely",
-        "Definitely"
-      ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
-    }
-  },
-  {
-    "id": "spell_79",
-    "difficulty": 3,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 79):",
-      "options": [
-        "Occassion",
-        "Occasion",
-        "Ocasion",
-        "Occation"
-      ],
-      "answer": "Occasion",
-      "reasoning": "The correct spelling is Occasion."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 79):",
-      "options": [
-        "Occassion",
-        "Occasion",
-        "Ocasion",
-        "Occation"
-      ],
-      "answer": "Occasion",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
-    }
-  },
-  {
-    "id": "spell_80",
-    "difficulty": 3,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 80):",
-      "options": [
-        "Facinate",
-        "Fascinate",
         "Fassinate",
-        "Fasinate"
+        "Fasinate",
+        "Fascinate",
+        "Facinate"
       ],
       "answer": "Fascinate",
       "reasoning": "The correct spelling is Fascinate."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 80):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 75):",
       "options": [
-        "Facinate",
-        "Fascinate",
         "Fassinate",
-        "Fasinate"
+        "Fasinate",
+        "Fascinate",
+        "Facinate"
       ],
       "answer": "Fascinate",
       "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Fascinate."
     }
   },
   {
-    "id": "spell_81",
+    "id": "spell_76",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 81):",
+      "question": "Choose the correctly spelled word (Set 76):",
       "options": [
-        "Beutiful",
-        "Bautiful",
-        "Beauitful",
-        "Beautiful"
-      ],
-      "answer": "Beautiful",
-      "reasoning": "The correct spelling is Beautiful."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 81):",
-      "options": [
-        "Beutiful",
-        "Bautiful",
-        "Beauitful",
-        "Beautiful"
-      ],
-      "answer": "Beautiful",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Beautiful."
-    }
-  },
-  {
-    "id": "spell_82",
-    "difficulty": 3,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 82):",
-      "options": [
-        "Necesary",
         "Neccessary",
         "Necessary",
+        "Necesary",
         "Necessery"
       ],
       "answer": "Necessary",
       "reasoning": "The correct spelling is Necessary."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 82):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 76):",
       "options": [
-        "Necesary",
         "Neccessary",
         "Necessary",
+        "Necesary",
         "Necessery"
       ],
       "answer": "Necessary",
@@ -2132,52 +1976,208 @@
     }
   },
   {
-    "id": "spell_83",
+    "id": "spell_77",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 83):",
+      "question": "Choose the correctly spelled word (Set 77):",
       "options": [
-        "Occasion",
-        "Occassion",
+        "Fascinate",
+        "Fassinate",
+        "Fasinate",
+        "Facinate"
+      ],
+      "answer": "Fascinate",
+      "reasoning": "The correct spelling is Fascinate."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 77):",
+      "options": [
+        "Fascinate",
+        "Fassinate",
+        "Fasinate",
+        "Facinate"
+      ],
+      "answer": "Fascinate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Fascinate."
+    }
+  },
+  {
+    "id": "spell_78",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 78):",
+      "options": [
+        "Acomodate",
+        "Accommodate",
+        "Acommodate",
+        "Accomodate"
+      ],
+      "answer": "Accommodate",
+      "reasoning": "The correct spelling is Accommodate."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 78):",
+      "options": [
+        "Acomodate",
+        "Accommodate",
+        "Acommodate",
+        "Accomodate"
+      ],
+      "answer": "Accommodate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
+    }
+  },
+  {
+    "id": "spell_79",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 79):",
+      "options": [
+        "Necesary",
+        "Necessary",
+        "Neccessary",
+        "Necessery"
+      ],
+      "answer": "Necessary",
+      "reasoning": "The correct spelling is Necessary."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 79):",
+      "options": [
+        "Necesary",
+        "Necessary",
+        "Neccessary",
+        "Necessery"
+      ],
+      "answer": "Necessary",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
+    }
+  },
+  {
+    "id": "spell_80",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 80):",
+      "options": [
+        "Acomodate",
+        "Accomodate",
+        "Accommodate",
+        "Acommodate"
+      ],
+      "answer": "Accommodate",
+      "reasoning": "The correct spelling is Accommodate."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 80):",
+      "options": [
+        "Acomodate",
+        "Accomodate",
+        "Accommodate",
+        "Acommodate"
+      ],
+      "answer": "Accommodate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
+    }
+  },
+  {
+    "id": "spell_81",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 81):",
+      "options": [
+        "Embarrass",
+        "Embarass",
+        "Embarras",
+        "Emmbarrass"
+      ],
+      "answer": "Embarrass",
+      "reasoning": "The correct spelling is Embarrass."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 81):",
+      "options": [
+        "Embarrass",
+        "Embarass",
+        "Embarras",
+        "Emmbarrass"
+      ],
+      "answer": "Embarrass",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
+    }
+  },
+  {
+    "id": "spell_82",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 82):",
+      "options": [
         "Ocasion",
-        "Occation"
+        "Occassion",
+        "Occation",
+        "Occasion"
       ],
       "answer": "Occasion",
       "reasoning": "The correct spelling is Occasion."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 83):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 82):",
       "options": [
-        "Occasion",
-        "Occassion",
         "Ocasion",
-        "Occation"
+        "Occassion",
+        "Occation",
+        "Occasion"
       ],
       "answer": "Occasion",
       "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
     }
   },
   {
+    "id": "spell_83",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 83):",
+      "options": [
+        "Guarentee",
+        "Guarantee",
+        "Garantee",
+        "Gaurantee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "The correct spelling is Guarantee."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 83):",
+      "options": [
+        "Guarentee",
+        "Guarantee",
+        "Garantee",
+        "Gaurantee"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Guarantee."
+    }
+  },
+  {
     "id": "spell_84",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 84):",
+      "question": "Choose the correctly spelled word (Set 84):",
       "options": [
+        "Occasion",
         "Occation",
-        "Occassion",
         "Ocasion",
-        "Occasion"
+        "Occassion"
       ],
       "answer": "Occasion",
       "reasoning": "The correct spelling is Occasion."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 84):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 84):",
       "options": [
+        "Occasion",
         "Occation",
-        "Occassion",
         "Ocasion",
-        "Occasion"
+        "Occassion"
       ],
       "answer": "Occasion",
       "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Occasion."
@@ -2187,416 +2187,416 @@
     "id": "spell_85",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 85):",
+      "question": "Choose the correctly spelled word (Set 85):",
       "options": [
-        "Defenitely",
-        "Definitely",
-        "Definitly",
-        "Definately"
+        "Accomodate",
+        "Acommodate",
+        "Accommodate",
+        "Acomodate"
       ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
+      "answer": "Accommodate",
+      "reasoning": "The correct spelling is Accommodate."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 85):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 85):",
       "options": [
-        "Defenitely",
-        "Definitely",
-        "Definitly",
-        "Definately"
+        "Accomodate",
+        "Acommodate",
+        "Accommodate",
+        "Acomodate"
       ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
+      "answer": "Accommodate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
     }
   },
   {
     "id": "spell_86",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 86):",
+      "question": "Choose the correctly spelled word (Set 86):",
       "options": [
-        "Knowlege",
-        "Nowledge",
-        "Knowledge",
-        "Knoledge"
+        "Bautiful",
+        "Beautiful",
+        "Beutiful",
+        "Beauitful"
       ],
-      "answer": "Knowledge",
-      "reasoning": "The correct spelling is Knowledge."
+      "answer": "Beautiful",
+      "reasoning": "The correct spelling is Beautiful."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 86):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 86):",
       "options": [
-        "Knowlege",
-        "Nowledge",
-        "Knowledge",
-        "Knoledge"
+        "Bautiful",
+        "Beautiful",
+        "Beutiful",
+        "Beauitful"
       ],
-      "answer": "Knowledge",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Knowledge."
+      "answer": "Beautiful",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Beautiful."
     }
   },
   {
     "id": "spell_87",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 87):",
+      "question": "Choose the correctly spelled word (Set 87):",
       "options": [
-        "Emmbarrass",
-        "Embarass",
-        "Embarras",
-        "Embarrass"
+        "Independentt",
+        "Independent",
+        "Independant",
+        "Indipendent"
       ],
-      "answer": "Embarrass",
-      "reasoning": "The correct spelling is Embarrass."
+      "answer": "Independent",
+      "reasoning": "The correct spelling is Independent."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 87):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 87):",
       "options": [
-        "Emmbarrass",
-        "Embarass",
-        "Embarras",
-        "Embarrass"
+        "Independentt",
+        "Independent",
+        "Independant",
+        "Indipendent"
       ],
-      "answer": "Embarrass",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
+      "answer": "Independent",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Independent."
     }
   },
   {
     "id": "spell_88",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 88):",
+      "question": "Choose the correctly spelled word (Set 88):",
       "options": [
-        "Embarras",
-        "Embarrass",
-        "Emmbarrass",
-        "Embarass"
+        "Knowledge",
+        "Knowlege",
+        "Nowledge",
+        "Knoledge"
       ],
-      "answer": "Embarrass",
-      "reasoning": "The correct spelling is Embarrass."
+      "answer": "Knowledge",
+      "reasoning": "The correct spelling is Knowledge."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 88):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 88):",
       "options": [
-        "Embarras",
-        "Embarrass",
-        "Emmbarrass",
-        "Embarass"
+        "Knowledge",
+        "Knowlege",
+        "Nowledge",
+        "Knoledge"
       ],
-      "answer": "Embarrass",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
+      "answer": "Knowledge",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Knowledge."
     }
   },
   {
     "id": "spell_89",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 89):",
+      "question": "Choose the correctly spelled word (Set 89):",
       "options": [
-        "Acomodate",
-        "Acommodate",
-        "Accommodate",
-        "Accomodate"
+        "Indipendent",
+        "Independant",
+        "Independent",
+        "Independentt"
       ],
-      "answer": "Accommodate",
-      "reasoning": "The correct spelling is Accommodate."
+      "answer": "Independent",
+      "reasoning": "The correct spelling is Independent."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 89):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 89):",
       "options": [
-        "Acomodate",
-        "Acommodate",
-        "Accommodate",
-        "Accomodate"
+        "Indipendent",
+        "Independant",
+        "Independent",
+        "Independentt"
       ],
-      "answer": "Accommodate",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
+      "answer": "Independent",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Independent."
     }
   },
   {
     "id": "spell_90",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 90):",
+      "question": "Choose the correctly spelled word (Set 90):",
       "options": [
-        "Accommodate",
-        "Acommodate",
-        "Acomodate",
-        "Accomodate"
+        "Knowledge",
+        "Knowlege",
+        "Knoledge",
+        "Nowledge"
       ],
-      "answer": "Accommodate",
-      "reasoning": "The correct spelling is Accommodate."
+      "answer": "Knowledge",
+      "reasoning": "The correct spelling is Knowledge."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 90):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 90):",
       "options": [
-        "Accommodate",
-        "Acommodate",
-        "Acomodate",
-        "Accomodate"
+        "Knowledge",
+        "Knowlege",
+        "Knoledge",
+        "Nowledge"
       ],
-      "answer": "Accommodate",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
+      "answer": "Knowledge",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Knowledge."
     }
   },
   {
     "id": "spell_91",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 91):",
+      "question": "Choose the correctly spelled word (Set 91):",
       "options": [
-        "Facinate",
-        "Fascinate",
-        "Fassinate",
-        "Fasinate"
-      ],
-      "answer": "Fascinate",
-      "reasoning": "The correct spelling is Fascinate."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 91):",
-      "options": [
-        "Facinate",
-        "Fascinate",
-        "Fassinate",
-        "Fasinate"
-      ],
-      "answer": "Fascinate",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Fascinate."
-    }
-  },
-  {
-    "id": "spell_92",
-    "difficulty": 3,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 92):",
-      "options": [
-        "Guarentee",
-        "Gaurantee",
-        "Garantee",
-        "Guarantee"
-      ],
-      "answer": "Guarantee",
-      "reasoning": "The correct spelling is Guarantee."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 92):",
-      "options": [
-        "Guarentee",
-        "Gaurantee",
-        "Garantee",
-        "Guarantee"
-      ],
-      "answer": "Guarantee",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Guarantee."
-    }
-  },
-  {
-    "id": "spell_93",
-    "difficulty": 3,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 93):",
-      "options": [
-        "Nowledge",
-        "Knowledge",
-        "Knowlege",
-        "Knoledge"
-      ],
-      "answer": "Knowledge",
-      "reasoning": "The correct spelling is Knowledge."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 93):",
-      "options": [
-        "Nowledge",
-        "Knowledge",
-        "Knowlege",
-        "Knoledge"
-      ],
-      "answer": "Knowledge",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Knowledge."
-    }
-  },
-  {
-    "id": "spell_94",
-    "difficulty": 3,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 94):",
-      "options": [
-        "Independant",
-        "Independent",
-        "Indipendent",
-        "Independentt"
-      ],
-      "answer": "Independent",
-      "reasoning": "The correct spelling is Independent."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 94):",
-      "options": [
-        "Independant",
-        "Independent",
-        "Indipendent",
-        "Independentt"
-      ],
-      "answer": "Independent",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Independent."
-    }
-  },
-  {
-    "id": "spell_95",
-    "difficulty": 3,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 95):",
-      "options": [
-        "Definitely",
-        "Defenitely",
-        "Definately",
-        "Definitly"
-      ],
-      "answer": "Definitely",
-      "reasoning": "The correct spelling is Definitely."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 95):",
-      "options": [
-        "Definitely",
-        "Defenitely",
-        "Definately",
-        "Definitly"
-      ],
-      "answer": "Definitely",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Definitely."
-    }
-  },
-  {
-    "id": "spell_96",
-    "difficulty": 3,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 96):",
-      "options": [
-        "Independentt",
-        "Independent",
-        "Independant",
-        "Indipendent"
-      ],
-      "answer": "Independent",
-      "reasoning": "The correct spelling is Independent."
-    },
-    "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 96):",
-      "options": [
-        "Independentt",
-        "Independent",
-        "Independant",
-        "Indipendent"
-      ],
-      "answer": "Independent",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Independent."
-    }
-  },
-  {
-    "id": "spell_97",
-    "difficulty": 3,
-    "en": {
-      "question": "Choose the correctly spelled word (Question 97):",
-      "options": [
-        "Emmbarrass",
         "Embarrass",
-        "Embarras",
-        "Embarass"
+        "Emmbarrass",
+        "Embarass",
+        "Embarras"
       ],
       "answer": "Embarrass",
       "reasoning": "The correct spelling is Embarrass."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 97):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 91):",
       "options": [
-        "Emmbarrass",
         "Embarrass",
-        "Embarras",
-        "Embarass"
+        "Emmbarrass",
+        "Embarass",
+        "Embarras"
       ],
       "answer": "Embarrass",
       "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
     }
   },
   {
-    "id": "spell_98",
+    "id": "spell_92",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 98):",
+      "question": "Choose the correctly spelled word (Set 92):",
       "options": [
-        "Guarentee",
-        "Garantee",
+        "Neccessary",
+        "Necesary",
+        "Necessery",
+        "Necessary"
+      ],
+      "answer": "Necessary",
+      "reasoning": "The correct spelling is Necessary."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 92):",
+      "options": [
+        "Neccessary",
+        "Necesary",
+        "Necessery",
+        "Necessary"
+      ],
+      "answer": "Necessary",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
+    }
+  },
+  {
+    "id": "spell_93",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 93):",
+      "options": [
+        "Embarras",
+        "Embarass",
+        "Embarrass",
+        "Emmbarrass"
+      ],
+      "answer": "Embarrass",
+      "reasoning": "The correct spelling is Embarrass."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 93):",
+      "options": [
+        "Embarras",
+        "Embarass",
+        "Embarrass",
+        "Emmbarrass"
+      ],
+      "answer": "Embarrass",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Embarrass."
+    }
+  },
+  {
+    "id": "spell_94",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 94):",
+      "options": [
+        "Gaurantee",
         "Guarantee",
-        "Gaurantee"
+        "Guarentee",
+        "Garantee"
       ],
       "answer": "Guarantee",
       "reasoning": "The correct spelling is Guarantee."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 98):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 94):",
       "options": [
-        "Guarentee",
-        "Garantee",
+        "Gaurantee",
         "Guarantee",
-        "Gaurantee"
+        "Guarentee",
+        "Garantee"
       ],
       "answer": "Guarantee",
       "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Guarantee."
     }
   },
   {
-    "id": "spell_99",
+    "id": "spell_95",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 99):",
+      "question": "Choose the correctly spelled word (Set 95):",
       "options": [
-        "Knoledge",
-        "Knowledge",
-        "Nowledge",
-        "Knowlege"
+        "Independentt",
+        "Indipendent",
+        "Independant",
+        "Independent"
       ],
-      "answer": "Knowledge",
-      "reasoning": "The correct spelling is Knowledge."
+      "answer": "Independent",
+      "reasoning": "The correct spelling is Independent."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 99):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 95):",
       "options": [
-        "Knoledge",
-        "Knowledge",
-        "Nowledge",
-        "Knowlege"
+        "Independentt",
+        "Indipendent",
+        "Independant",
+        "Independent"
       ],
-      "answer": "Knowledge",
-      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Knowledge."
+      "answer": "Independent",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Independent."
     }
   },
   {
-    "id": "spell_100",
+    "id": "spell_96",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word (Question 100):",
+      "question": "Choose the correctly spelled word (Set 96):",
+      "options": [
+        "Acommodate",
+        "Accomodate",
+        "Accommodate",
+        "Acomodate"
+      ],
+      "answer": "Accommodate",
+      "reasoning": "The correct spelling is Accommodate."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 96):",
+      "options": [
+        "Acommodate",
+        "Accomodate",
+        "Accommodate",
+        "Acomodate"
+      ],
+      "answer": "Accommodate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Accommodate."
+    }
+  },
+  {
+    "id": "spell_97",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 97):",
       "options": [
         "Necessary",
-        "Necesary",
         "Necessery",
+        "Necesary",
         "Neccessary"
       ],
       "answer": "Necessary",
       "reasoning": "The correct spelling is Necessary."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಪ್ರಶ್ನೆ 100):",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 97):",
       "options": [
         "Necessary",
-        "Necesary",
         "Necessery",
+        "Necesary",
         "Neccessary"
       ],
       "answer": "Necessary",
       "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
+    }
+  },
+  {
+    "id": "spell_98",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 98):",
+      "options": [
+        "Bautiful",
+        "Beutiful",
+        "Beauitful",
+        "Beautiful"
+      ],
+      "answer": "Beautiful",
+      "reasoning": "The correct spelling is Beautiful."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 98):",
+      "options": [
+        "Bautiful",
+        "Beutiful",
+        "Beauitful",
+        "Beautiful"
+      ],
+      "answer": "Beautiful",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Beautiful."
+    }
+  },
+  {
+    "id": "spell_99",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 99):",
+      "options": [
+        "Necessary",
+        "Neccessary",
+        "Necesary",
+        "Necessery"
+      ],
+      "answer": "Necessary",
+      "reasoning": "The correct spelling is Necessary."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 99):",
+      "options": [
+        "Necessary",
+        "Neccessary",
+        "Necesary",
+        "Necessery"
+      ],
+      "answer": "Necessary",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Necessary."
+    }
+  },
+  {
+    "id": "spell_100",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the correctly spelled word (Set 100):",
+      "options": [
+        "Independent",
+        "Independant",
+        "Independentt",
+        "Indipendent"
+      ],
+      "answer": "Independent",
+      "reasoning": "The correct spelling is Independent."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ (ಸೆಟ್ 100):",
+      "options": [
+        "Independent",
+        "Independant",
+        "Independentt",
+        "Indipendent"
+      ],
+      "answer": "Independent",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು Independent."
     }
   }
 ]

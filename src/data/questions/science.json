@@ -6,9 +6,9 @@
       "question": "What is the center of the solar system? (#1)",
       "options": [
         "Jupiter",
+        "Sun",
         "Moon",
-        "Earth",
-        "Sun"
+        "Earth"
       ],
       "answer": "Sun",
       "reasoning": "Because Sun is a scientific fact."
@@ -17,9 +17,9 @@
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#1)",
       "options": [
         "ಗುರು",
+        "ಸೂರ್ಯ",
         "ಚಂದ್ರ",
-        "ಭೂಮಿ",
-        "ಸೂರ್ಯ"
+        "ಭೂಮಿ"
       ],
       "answer": "ಸೂರ್ಯ",
       "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -29,52 +29,52 @@
     "id": "sci_2",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#2)",
-      "options": [
-        "Moon",
-        "Sun",
-        "Jupiter",
-        "Earth"
-      ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#2)",
-      "options": [
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ",
-        "ಗುರು",
-        "ಭೂಮಿ"
-      ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_3",
-    "difficulty": 1,
-    "en": {
-      "question": "What gas do plants absorb? (#3)",
+      "question": "What gas do plants absorb? (#2)",
       "options": [
         "Nitrogen",
-        "Carbon Dioxide",
         "Oxygen",
+        "Carbon Dioxide",
         "Helium"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#3)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#2)",
       "options": [
         "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
         "ಆಮ್ಲಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
         "ಹೀಲಿಯಂ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "sci_3",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the center of the solar system? (#3)",
+      "options": [
+        "Earth",
+        "Sun",
+        "Moon",
+        "Jupiter"
+      ],
+      "answer": "Sun",
+      "reasoning": "Because Sun is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#3)",
+      "options": [
+        "ಭೂಮಿ",
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ",
+        "ಗುರು"
+      ],
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -83,10 +83,10 @@
     "en": {
       "question": "What is the center of the solar system? (#4)",
       "options": [
-        "Sun",
         "Moon",
-        "Earth",
-        "Jupiter"
+        "Jupiter",
+        "Sun",
+        "Earth"
       ],
       "answer": "Sun",
       "reasoning": "Because Sun is a scientific fact."
@@ -94,10 +94,10 @@
     "kn": {
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#4)",
       "options": [
-        "ಸೂರ್ಯ",
         "ಚಂದ್ರ",
-        "ಭೂಮಿ",
-        "ಗುರು"
+        "ಗುರು",
+        "ಸೂರ್ಯ",
+        "ಭೂಮಿ"
       ],
       "answer": "ಸೂರ್ಯ",
       "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -109,9 +109,9 @@
     "en": {
       "question": "What gas do plants absorb? (#5)",
       "options": [
+        "Helium",
         "Carbon Dioxide",
         "Nitrogen",
-        "Helium",
         "Oxygen"
       ],
       "answer": "Carbon Dioxide",
@@ -120,9 +120,9 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#5)",
       "options": [
+        "ಹೀಲಿಯಂ",
         "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
         "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
         "ಆಮ್ಲಜನಕ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
@@ -135,58 +135,6 @@
     "en": {
       "question": "What gas do plants absorb? (#6)",
       "options": [
-        "Helium",
-        "Carbon Dioxide",
-        "Oxygen",
-        "Nitrogen"
-      ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#6)",
-      "options": [
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ"
-      ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_7",
-    "difficulty": 1,
-    "en": {
-      "question": "What is the center of the solar system? (#7)",
-      "options": [
-        "Earth",
-        "Moon",
-        "Sun",
-        "Jupiter"
-      ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#7)",
-      "options": [
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ",
-        "ಗುರು"
-      ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_8",
-    "difficulty": 1,
-    "en": {
-      "question": "What gas do plants absorb? (#8)",
-      "options": [
         "Nitrogen",
         "Carbon Dioxide",
         "Oxygen",
@@ -196,7 +144,7 @@
       "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#8)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#6)",
       "options": [
         "ಸಾರಜನಕ",
         "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
@@ -208,29 +156,81 @@
     }
   },
   {
+    "id": "sci_7",
+    "difficulty": 1,
+    "en": {
+      "question": "What gas do plants absorb? (#7)",
+      "options": [
+        "Nitrogen",
+        "Helium",
+        "Carbon Dioxide",
+        "Oxygen"
+      ],
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#7)",
+      "options": [
+        "ಸಾರಜನಕ",
+        "ಹೀಲಿಯಂ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಆಮ್ಲಜನಕ"
+      ],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "sci_8",
+    "difficulty": 1,
+    "en": {
+      "question": "What gas do plants absorb? (#8)",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Helium",
+        "Carbon Dioxide"
+      ],
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#8)",
+      "options": [
+        "ಸಾರಜನಕ",
+        "ಆಮ್ಲಜನಕ",
+        "ಹೀಲಿಯಂ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+      ],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
     "id": "sci_9",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#9)",
+      "question": "What gas do plants absorb? (#9)",
       "options": [
-        "Jupiter",
-        "Sun",
-        "Earth",
-        "Moon"
+        "Nitrogen",
+        "Helium",
+        "Carbon Dioxide",
+        "Oxygen"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#9)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#9)",
       "options": [
-        "ಗುರು",
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ"
+        "ಸಾರಜನಕ",
+        "ಹೀಲಿಯಂ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಆಮ್ಲಜನಕ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -240,9 +240,9 @@
       "question": "What gas do plants absorb? (#10)",
       "options": [
         "Helium",
-        "Oxygen",
         "Carbon Dioxide",
-        "Nitrogen"
+        "Nitrogen",
+        "Oxygen"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -251,9 +251,9 @@
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#10)",
       "options": [
         "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
         "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ"
+        "ಸಾರಜನಕ",
+        "ಆಮ್ಲಜನಕ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -263,85 +263,7 @@
     "id": "sci_11",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#11)",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Helium",
-        "Carbon Dioxide"
-      ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#11)",
-      "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
-      ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_12",
-    "difficulty": 1,
-    "en": {
-      "question": "What gas do plants absorb? (#12)",
-      "options": [
-        "Helium",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Oxygen"
-      ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#12)",
-      "options": [
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ"
-      ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_13",
-    "difficulty": 1,
-    "en": {
-      "question": "What is the center of the solar system? (#13)",
-      "options": [
-        "Jupiter",
-        "Earth",
-        "Moon",
-        "Sun"
-      ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#13)",
-      "options": [
-        "ಗುರು",
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ"
-      ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_14",
-    "difficulty": 1,
-    "en": {
-      "question": "What is the center of the solar system? (#14)",
+      "question": "What is the center of the solar system? (#11)",
       "options": [
         "Sun",
         "Moon",
@@ -352,7 +274,7 @@
       "reasoning": "Because Sun is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#14)",
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#11)",
       "options": [
         "ಸೂರ್ಯ",
         "ಚಂದ್ರ",
@@ -364,29 +286,107 @@
     }
   },
   {
-    "id": "sci_15",
+    "id": "sci_12",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#15)",
+      "question": "What gas do plants absorb? (#12)",
+      "options": [
+        "Carbon Dioxide",
+        "Helium",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#12)",
+      "options": [
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಹೀಲಿಯಂ",
+        "ಸಾರಜನಕ",
+        "ಆಮ್ಲಜನಕ"
+      ],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "sci_13",
+    "difficulty": 1,
+    "en": {
+      "question": "What gas do plants absorb? (#13)",
+      "options": [
+        "Carbon Dioxide",
+        "Helium",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#13)",
+      "options": [
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಹೀಲಿಯಂ",
+        "ಆಮ್ಲಜನಕ",
+        "ಸಾರಜನಕ"
+      ],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "sci_14",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the center of the solar system? (#14)",
       "options": [
         "Sun",
-        "Jupiter",
+        "Earth",
         "Moon",
-        "Earth"
+        "Jupiter"
       ],
       "answer": "Sun",
       "reasoning": "Because Sun is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#15)",
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#14)",
       "options": [
         "ಸೂರ್ಯ",
-        "ಗುರು",
+        "ಭೂಮಿ",
         "ಚಂದ್ರ",
-        "ಭೂಮಿ"
+        "ಗುರು"
       ],
       "answer": "ಸೂರ್ಯ",
       "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "sci_15",
+    "difficulty": 1,
+    "en": {
+      "question": "What gas do plants absorb? (#15)",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon Dioxide",
+        "Helium"
+      ],
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#15)",
+      "options": [
+        "ಸಾರಜನಕ",
+        "ಆಮ್ಲಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಹೀಲಿಯಂ"
+      ],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -395,10 +395,10 @@
     "en": {
       "question": "What gas do plants absorb? (#16)",
       "options": [
-        "Oxygen",
+        "Nitrogen",
         "Helium",
-        "Carbon Dioxide",
-        "Nitrogen"
+        "Oxygen",
+        "Carbon Dioxide"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -406,10 +406,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#16)",
       "options": [
-        "ಆಮ್ಲಜನಕ",
+        "ಸಾರಜನಕ",
         "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ"
+        "ಆಮ್ಲಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -419,26 +419,26 @@
     "id": "sci_17",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#17)",
+      "question": "What gas do plants absorb? (#17)",
       "options": [
-        "Jupiter",
-        "Earth",
-        "Sun",
-        "Moon"
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Oxygen",
+        "Helium"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#17)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#17)",
       "options": [
-        "ಗುರು",
-        "ಭೂಮಿ",
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ"
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಸಾರಜನಕ",
+        "ಆಮ್ಲಜನಕ",
+        "ಹೀಲಿಯಂ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -473,10 +473,10 @@
     "en": {
       "question": "What gas do plants absorb? (#19)",
       "options": [
-        "Nitrogen",
-        "Oxygen",
+        "Carbon Dioxide",
         "Helium",
-        "Carbon Dioxide"
+        "Oxygen",
+        "Nitrogen"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -484,10 +484,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#19)",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
         "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಆಮ್ಲಜನಕ",
+        "ಸಾರಜನಕ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -499,10 +499,10 @@
     "en": {
       "question": "What is the center of the solar system? (#20)",
       "options": [
-        "Moon",
-        "Jupiter",
         "Sun",
-        "Earth"
+        "Earth",
+        "Moon",
+        "Jupiter"
       ],
       "answer": "Sun",
       "reasoning": "Because Sun is a scientific fact."
@@ -510,10 +510,10 @@
     "kn": {
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#20)",
       "options": [
-        "ಚಂದ್ರ",
-        "ಗುರು",
         "ಸೂರ್ಯ",
-        "ಭೂಮಿ"
+        "ಭೂಮಿ",
+        "ಚಂದ್ರ",
+        "ಗುರು"
       ],
       "answer": "ಸೂರ್ಯ",
       "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -525,10 +525,10 @@
     "en": {
       "question": "What is the center of the solar system? (#21)",
       "options": [
-        "Sun",
-        "Jupiter",
         "Earth",
-        "Moon"
+        "Moon",
+        "Sun",
+        "Jupiter"
       ],
       "answer": "Sun",
       "reasoning": "Because Sun is a scientific fact."
@@ -536,10 +536,10 @@
     "kn": {
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#21)",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಗುರು",
         "ಭೂಮಿ",
-        "ಚಂದ್ರ"
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ಗುರು"
       ],
       "answer": "ಸೂರ್ಯ",
       "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -551,10 +551,10 @@
     "en": {
       "question": "What gas do plants absorb? (#22)",
       "options": [
+        "Oxygen",
         "Nitrogen",
         "Carbon Dioxide",
-        "Helium",
-        "Oxygen"
+        "Helium"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -562,10 +562,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#22)",
       "options": [
+        "ಆಮ್ಲಜನಕ",
         "ಸಾರಜನಕ",
         "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ"
+        "ಹೀಲಿಯಂ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -575,26 +575,26 @@
     "id": "sci_23",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#23)",
+      "question": "What is the center of the solar system? (#23)",
       "options": [
-        "Carbon Dioxide",
-        "Oxygen",
-        "Helium",
-        "Nitrogen"
+        "Jupiter",
+        "Earth",
+        "Moon",
+        "Sun"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Sun",
+      "reasoning": "Because Sun is a scientific fact."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#23)",
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#23)",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ"
+        "ಗುರು",
+        "ಭೂಮಿ",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -603,9 +603,9 @@
     "en": {
       "question": "What is the center of the solar system? (#24)",
       "options": [
-        "Moon",
-        "Earth",
         "Sun",
+        "Earth",
+        "Moon",
         "Jupiter"
       ],
       "answer": "Sun",
@@ -614,9 +614,9 @@
     "kn": {
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#24)",
       "options": [
-        "ಚಂದ್ರ",
-        "ಭೂಮಿ",
         "ಸೂರ್ಯ",
+        "ಭೂಮಿ",
+        "ಚಂದ್ರ",
         "ಗುರು"
       ],
       "answer": "ಸೂರ್ಯ",
@@ -627,7 +627,33 @@
     "id": "sci_25",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#25)",
+      "question": "What is the center of the solar system? (#25)",
+      "options": [
+        "Earth",
+        "Sun",
+        "Jupiter",
+        "Moon"
+      ],
+      "answer": "Sun",
+      "reasoning": "Because Sun is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#25)",
+      "options": [
+        "ಭೂಮಿ",
+        "ಸೂರ್ಯ",
+        "ಗುರು",
+        "ಚಂದ್ರ"
+      ],
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "sci_26",
+    "difficulty": 1,
+    "en": {
+      "question": "What gas do plants absorb? (#26)",
       "options": [
         "Nitrogen",
         "Carbon Dioxide",
@@ -638,7 +664,7 @@
       "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#25)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#26)",
       "options": [
         "ಸಾರಜನಕ",
         "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
@@ -650,55 +676,29 @@
     }
   },
   {
-    "id": "sci_26",
-    "difficulty": 1,
-    "en": {
-      "question": "What is the center of the solar system? (#26)",
-      "options": [
-        "Jupiter",
-        "Moon",
-        "Sun",
-        "Earth"
-      ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#26)",
-      "options": [
-        "ಗುರು",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ"
-      ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
     "id": "sci_27",
     "difficulty": 1,
     "en": {
-      "question": "What is the center of the solar system? (#27)",
+      "question": "What gas do plants absorb? (#27)",
       "options": [
-        "Moon",
-        "Jupiter",
-        "Sun",
-        "Earth"
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Helium"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#27)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#27)",
       "options": [
-        "ಚಂದ್ರ",
-        "ಗುರು",
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ"
+        "ಆಮ್ಲಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಸಾರಜನಕ",
+        "ಹೀಲಿಯಂ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -707,10 +707,10 @@
     "en": {
       "question": "What gas do plants absorb? (#28)",
       "options": [
+        "Carbon Dioxide",
         "Nitrogen",
-        "Helium",
         "Oxygen",
-        "Carbon Dioxide"
+        "Helium"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -718,10 +718,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#28)",
       "options": [
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
         "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
         "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಹೀಲಿಯಂ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -731,111 +731,7 @@
     "id": "sci_29",
     "difficulty": 1,
     "en": {
-      "question": "What gas do plants absorb? (#29)",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Helium",
-        "Carbon Dioxide"
-      ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#29)",
-      "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
-      ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_30",
-    "difficulty": 1,
-    "en": {
-      "question": "What gas do plants absorb? (#30)",
-      "options": [
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Oxygen",
-        "Helium"
-      ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#30)",
-      "options": [
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ"
-      ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_31",
-    "difficulty": 1,
-    "en": {
-      "question": "What gas do plants absorb? (#31)",
-      "options": [
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Oxygen",
-        "Helium"
-      ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#31)",
-      "options": [
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ"
-      ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_32",
-    "difficulty": 1,
-    "en": {
-      "question": "What gas do plants absorb? (#32)",
-      "options": [
-        "Helium",
-        "Oxygen",
-        "Carbon Dioxide",
-        "Nitrogen"
-      ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#32)",
-      "options": [
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ"
-      ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_33",
-    "difficulty": 1,
-    "en": {
-      "question": "What is the center of the solar system? (#33)",
+      "question": "What is the center of the solar system? (#29)",
       "options": [
         "Jupiter",
         "Earth",
@@ -846,7 +742,7 @@
       "reasoning": "Because Sun is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#33)",
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#29)",
       "options": [
         "ಗುರು",
         "ಭೂಮಿ",
@@ -858,14 +754,118 @@
     }
   },
   {
+    "id": "sci_30",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the center of the solar system? (#30)",
+      "options": [
+        "Earth",
+        "Sun",
+        "Jupiter",
+        "Moon"
+      ],
+      "answer": "Sun",
+      "reasoning": "Because Sun is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#30)",
+      "options": [
+        "ಭೂಮಿ",
+        "ಸೂರ್ಯ",
+        "ಗುರು",
+        "ಚಂದ್ರ"
+      ],
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "sci_31",
+    "difficulty": 1,
+    "en": {
+      "question": "What gas do plants absorb? (#31)",
+      "options": [
+        "Carbon Dioxide",
+        "Helium",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#31)",
+      "options": [
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಹೀಲಿಯಂ",
+        "ಆಮ್ಲಜನಕ",
+        "ಸಾರಜನಕ"
+      ],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "sci_32",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the center of the solar system? (#32)",
+      "options": [
+        "Jupiter",
+        "Earth",
+        "Moon",
+        "Sun"
+      ],
+      "answer": "Sun",
+      "reasoning": "Because Sun is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#32)",
+      "options": [
+        "ಗುರು",
+        "ಭೂಮಿ",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ"
+      ],
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "sci_33",
+    "difficulty": 1,
+    "en": {
+      "question": "What gas do plants absorb? (#33)",
+      "options": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Helium"
+      ],
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#33)",
+      "options": [
+        "ಆಮ್ಲಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಸಾರಜನಕ",
+        "ಹೀಲಿಯಂ"
+      ],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
     "id": "sci_34",
     "difficulty": 2,
     "en": {
       "question": "What is the center of the solar system? (#34)",
       "options": [
         "Moon",
-        "Jupiter",
         "Earth",
+        "Jupiter",
         "Sun"
       ],
       "answer": "Sun",
@@ -875,8 +875,8 @@
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#34)",
       "options": [
         "ಚಂದ್ರ",
-        "ಗುರು",
         "ಭೂಮಿ",
+        "ಗುರು",
         "ಸೂರ್ಯ"
       ],
       "answer": "ಸೂರ್ಯ",
@@ -887,26 +887,26 @@
     "id": "sci_35",
     "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#35)",
+      "question": "What is the center of the solar system? (#35)",
       "options": [
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Helium",
-        "Oxygen"
+        "Earth",
+        "Sun",
+        "Moon",
+        "Jupiter"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Sun",
+      "reasoning": "Because Sun is a scientific fact."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#35)",
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#35)",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ"
+        "ಭೂಮಿ",
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ",
+        "ಗುರು"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -916,9 +916,9 @@
       "question": "What gas do plants absorb? (#36)",
       "options": [
         "Helium",
-        "Oxygen",
         "Carbon Dioxide",
-        "Nitrogen"
+        "Nitrogen",
+        "Oxygen"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -927,9 +927,9 @@
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#36)",
       "options": [
         "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
         "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ"
+        "ಸಾರಜನಕ",
+        "ಆಮ್ಲಜನಕ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -941,10 +941,10 @@
     "en": {
       "question": "What gas do plants absorb? (#37)",
       "options": [
-        "Carbon Dioxide",
         "Helium",
-        "Oxygen",
-        "Nitrogen"
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Oxygen"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -952,10 +952,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#37)",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
         "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ"
+        "ಸಾರಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಆಮ್ಲಜನಕ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -967,10 +967,10 @@
     "en": {
       "question": "What is the center of the solar system? (#38)",
       "options": [
-        "Earth",
         "Jupiter",
+        "Moon",
         "Sun",
-        "Moon"
+        "Earth"
       ],
       "answer": "Sun",
       "reasoning": "Because Sun is a scientific fact."
@@ -978,10 +978,10 @@
     "kn": {
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#38)",
       "options": [
-        "ಭೂಮಿ",
         "ಗುರು",
+        "ಚಂದ್ರ",
         "ಸೂರ್ಯ",
-        "ಚಂದ್ರ"
+        "ಭೂಮಿ"
       ],
       "answer": "ಸೂರ್ಯ",
       "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -994,9 +994,9 @@
       "question": "What gas do plants absorb? (#39)",
       "options": [
         "Nitrogen",
+        "Helium",
         "Carbon Dioxide",
-        "Oxygen",
-        "Helium"
+        "Oxygen"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -1005,9 +1005,9 @@
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#39)",
       "options": [
         "ಸಾರಜನಕ",
+        "ಹೀಲಿಯಂ",
         "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "ಆಮ್ಲಜನಕ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -1019,9 +1019,9 @@
     "en": {
       "question": "What is the center of the solar system? (#40)",
       "options": [
-        "Sun",
-        "Moon",
         "Jupiter",
+        "Moon",
+        "Sun",
         "Earth"
       ],
       "answer": "Sun",
@@ -1030,9 +1030,9 @@
     "kn": {
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#40)",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ",
         "ಗುರು",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
         "ಭೂಮಿ"
       ],
       "answer": "ಸೂರ್ಯ",
@@ -1043,26 +1043,26 @@
     "id": "sci_41",
     "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#41)",
+      "question": "What gas do plants absorb? (#41)",
       "options": [
-        "Earth",
-        "Moon",
-        "Jupiter",
-        "Sun"
+        "Helium",
+        "Nitrogen",
+        "Oxygen",
+        "Carbon Dioxide"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#41)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#41)",
       "options": [
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ",
-        "ಗುರು",
-        "ಸೂರ್ಯ"
+        "ಹೀಲಿಯಂ",
+        "ಸಾರಜನಕ",
+        "ಆಮ್ಲಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -1071,10 +1071,10 @@
     "en": {
       "question": "What gas do plants absorb? (#42)",
       "options": [
-        "Carbon Dioxide",
+        "Oxygen",
         "Helium",
         "Nitrogen",
-        "Oxygen"
+        "Carbon Dioxide"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -1082,10 +1082,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#42)",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಆಮ್ಲಜನಕ",
         "ಹೀಲಿಯಂ",
         "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ"
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -1095,26 +1095,26 @@
     "id": "sci_43",
     "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#43)",
+      "question": "What is the center of the solar system? (#43)",
       "options": [
-        "Helium",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Oxygen"
+        "Earth",
+        "Jupiter",
+        "Sun",
+        "Moon"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Sun",
+      "reasoning": "Because Sun is a scientific fact."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#43)",
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#43)",
       "options": [
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ"
+        "ಭೂಮಿ",
+        "ಗುರು",
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -1123,10 +1123,10 @@
     "en": {
       "question": "What gas do plants absorb? (#44)",
       "options": [
-        "Nitrogen",
+        "Carbon Dioxide",
         "Helium",
         "Oxygen",
-        "Carbon Dioxide"
+        "Nitrogen"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -1134,10 +1134,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#44)",
       "options": [
-        "ಸಾರಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
         "ಹೀಲಿಯಂ",
         "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಸಾರಜನಕ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -1147,26 +1147,26 @@
     "id": "sci_45",
     "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#45)",
+      "question": "What gas do plants absorb? (#45)",
       "options": [
-        "Sun",
-        "Moon",
-        "Earth",
-        "Jupiter"
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Helium"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#45)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#45)",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ",
-        "ಭೂಮಿ",
-        "ಗುರು"
+        "ಆಮ್ಲಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಸಾರಜನಕ",
+        "ಹೀಲಿಯಂ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -1175,10 +1175,10 @@
     "en": {
       "question": "What is the center of the solar system? (#46)",
       "options": [
-        "Earth",
-        "Sun",
         "Jupiter",
-        "Moon"
+        "Earth",
+        "Moon",
+        "Sun"
       ],
       "answer": "Sun",
       "reasoning": "Because Sun is a scientific fact."
@@ -1186,10 +1186,10 @@
     "kn": {
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#46)",
       "options": [
-        "ಭೂಮಿ",
-        "ಸೂರ್ಯ",
         "ಗುರು",
-        "ಚಂದ್ರ"
+        "ಭೂಮಿ",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ"
       ],
       "answer": "ಸೂರ್ಯ",
       "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -1202,8 +1202,8 @@
       "question": "What is the center of the solar system? (#47)",
       "options": [
         "Earth",
-        "Sun",
         "Jupiter",
+        "Sun",
         "Moon"
       ],
       "answer": "Sun",
@@ -1213,8 +1213,8 @@
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#47)",
       "options": [
         "ಭೂಮಿ",
-        "ಸೂರ್ಯ",
         "ಗುರು",
+        "ಸೂರ್ಯ",
         "ಚಂದ್ರ"
       ],
       "answer": "ಸೂರ್ಯ",
@@ -1227,10 +1227,10 @@
     "en": {
       "question": "What is the center of the solar system? (#48)",
       "options": [
-        "Earth",
         "Sun",
-        "Jupiter",
-        "Moon"
+        "Earth",
+        "Moon",
+        "Jupiter"
       ],
       "answer": "Sun",
       "reasoning": "Because Sun is a scientific fact."
@@ -1238,10 +1238,10 @@
     "kn": {
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#48)",
       "options": [
-        "ಭೂಮಿ",
         "ಸೂರ್ಯ",
-        "ಗುರು",
-        "ಚಂದ್ರ"
+        "ಭೂಮಿ",
+        "ಚಂದ್ರ",
+        "ಗುರು"
       ],
       "answer": "ಸೂರ್ಯ",
       "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -1277,36 +1277,10 @@
     "id": "sci_50",
     "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#50)",
+      "question": "What is the center of the solar system? (#50)",
       "options": [
-        "Helium",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Oxygen"
-      ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#50)",
-      "options": [
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ"
-      ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_51",
-    "difficulty": 2,
-    "en": {
-      "question": "What is the center of the solar system? (#51)",
-      "options": [
-        "Jupiter",
         "Earth",
+        "Jupiter",
         "Moon",
         "Sun"
       ],
@@ -1314,10 +1288,10 @@
       "reasoning": "Because Sun is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#51)",
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#50)",
       "options": [
-        "ಗುರು",
         "ಭೂಮಿ",
+        "ಗುರು",
         "ಚಂದ್ರ",
         "ಸೂರ್ಯ"
       ],
@@ -1326,15 +1300,41 @@
     }
   },
   {
+    "id": "sci_51",
+    "difficulty": 2,
+    "en": {
+      "question": "What gas do plants absorb? (#51)",
+      "options": [
+        "Oxygen",
+        "Helium",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ],
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#51)",
+      "options": [
+        "ಆಮ್ಲಜನಕ",
+        "ಹೀಲಿಯಂ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಸಾರಜನಕ"
+      ],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
     "id": "sci_52",
     "difficulty": 2,
     "en": {
       "question": "What gas do plants absorb? (#52)",
       "options": [
-        "Carbon Dioxide",
-        "Nitrogen",
+        "Helium",
         "Oxygen",
-        "Helium"
+        "Carbon Dioxide",
+        "Nitrogen"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -1342,10 +1342,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#52)",
       "options": [
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ",
+        "ಹೀಲಿಯಂ",
         "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಸಾರಜನಕ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -1358,9 +1358,9 @@
       "question": "What is the center of the solar system? (#53)",
       "options": [
         "Jupiter",
+        "Earth",
         "Moon",
-        "Sun",
-        "Earth"
+        "Sun"
       ],
       "answer": "Sun",
       "reasoning": "Because Sun is a scientific fact."
@@ -1369,9 +1369,9 @@
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#53)",
       "options": [
         "ಗುರು",
+        "ಭೂಮಿ",
         "ಚಂದ್ರ",
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ"
+        "ಸೂರ್ಯ"
       ],
       "answer": "ಸೂರ್ಯ",
       "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -1383,10 +1383,10 @@
     "en": {
       "question": "What gas do plants absorb? (#54)",
       "options": [
-        "Oxygen",
+        "Carbon Dioxide",
         "Nitrogen",
         "Helium",
-        "Carbon Dioxide"
+        "Oxygen"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -1394,10 +1394,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#54)",
       "options": [
-        "ಆಮ್ಲಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
         "ಸಾರಜನಕ",
         "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಆಮ್ಲಜನಕ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -1409,10 +1409,10 @@
     "en": {
       "question": "What gas do plants absorb? (#55)",
       "options": [
+        "Oxygen",
         "Helium",
         "Nitrogen",
-        "Carbon Dioxide",
-        "Oxygen"
+        "Carbon Dioxide"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -1420,10 +1420,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#55)",
       "options": [
+        "ಆಮ್ಲಜನಕ",
         "ಹೀಲಿಯಂ",
         "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ"
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -1433,26 +1433,26 @@
     "id": "sci_56",
     "difficulty": 2,
     "en": {
-      "question": "What gas do plants absorb? (#56)",
+      "question": "What is the center of the solar system? (#56)",
       "options": [
-        "Nitrogen",
-        "Helium",
-        "Oxygen",
-        "Carbon Dioxide"
+        "Earth",
+        "Sun",
+        "Jupiter",
+        "Moon"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Sun",
+      "reasoning": "Because Sun is a scientific fact."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#56)",
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#56)",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಭೂಮಿ",
+        "ಸೂರ್ಯ",
+        "ಗುರು",
+        "ಚಂದ್ರ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -1461,10 +1461,10 @@
     "en": {
       "question": "What is the center of the solar system? (#57)",
       "options": [
-        "Earth",
         "Jupiter",
         "Moon",
-        "Sun"
+        "Sun",
+        "Earth"
       ],
       "answer": "Sun",
       "reasoning": "Because Sun is a scientific fact."
@@ -1472,10 +1472,10 @@
     "kn": {
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#57)",
       "options": [
-        "ಭೂಮಿ",
         "ಗುರು",
         "ಚಂದ್ರ",
-        "ಸೂರ್ಯ"
+        "ಸೂರ್ಯ",
+        "ಭೂಮಿ"
       ],
       "answer": "ಸೂರ್ಯ",
       "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -1487,10 +1487,10 @@
     "en": {
       "question": "What gas do plants absorb? (#58)",
       "options": [
-        "Oxygen",
-        "Carbon Dioxide",
         "Helium",
-        "Nitrogen"
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Oxygen"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -1498,10 +1498,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#58)",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
         "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ"
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಸಾರಜನಕ",
+        "ಆಮ್ಲಜನಕ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -1511,26 +1511,26 @@
     "id": "sci_59",
     "difficulty": 2,
     "en": {
-      "question": "What is the center of the solar system? (#59)",
+      "question": "What gas do plants absorb? (#59)",
       "options": [
-        "Moon",
-        "Earth",
-        "Jupiter",
-        "Sun"
+        "Carbon Dioxide",
+        "Oxygen",
+        "Helium",
+        "Nitrogen"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#59)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#59)",
       "options": [
-        "ಚಂದ್ರ",
-        "ಭೂಮಿ",
-        "ಗುರು",
-        "ಸೂರ್ಯ"
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಆಮ್ಲಜನಕ",
+        "ಹೀಲಿಯಂ",
+        "ಸಾರಜನಕ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -1539,10 +1539,10 @@
     "en": {
       "question": "What gas do plants absorb? (#60)",
       "options": [
-        "Helium",
-        "Oxygen",
         "Nitrogen",
-        "Carbon Dioxide"
+        "Carbon Dioxide",
+        "Oxygen",
+        "Helium"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -1550,10 +1550,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#60)",
       "options": [
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
         "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಆಮ್ಲಜನಕ",
+        "ಹೀಲಿಯಂ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -1591,10 +1591,10 @@
     "en": {
       "question": "What gas do plants absorb? (#62)",
       "options": [
-        "Helium",
-        "Carbon Dioxide",
         "Oxygen",
-        "Nitrogen"
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Helium"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -1602,10 +1602,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#62)",
       "options": [
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
         "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ"
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಸಾರಜನಕ",
+        "ಹೀಲಿಯಂ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -1617,9 +1617,9 @@
     "en": {
       "question": "What is the center of the solar system? (#63)",
       "options": [
+        "Moon",
         "Jupiter",
         "Earth",
-        "Moon",
         "Sun"
       ],
       "answer": "Sun",
@@ -1628,9 +1628,9 @@
     "kn": {
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#63)",
       "options": [
+        "ಚಂದ್ರ",
         "ಗುರು",
         "ಭೂಮಿ",
-        "ಚಂದ್ರ",
         "ಸೂರ್ಯ"
       ],
       "answer": "ಸೂರ್ಯ",
@@ -1643,6 +1643,58 @@
     "en": {
       "question": "What gas do plants absorb? (#64)",
       "options": [
+        "Carbon Dioxide",
+        "Helium",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#64)",
+      "options": [
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಹೀಲಿಯಂ",
+        "ಆಮ್ಲಜನಕ",
+        "ಸಾರಜನಕ"
+      ],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "sci_65",
+    "difficulty": 2,
+    "en": {
+      "question": "What gas do plants absorb? (#65)",
+      "options": [
+        "Helium",
+        "Nitrogen",
+        "Oxygen",
+        "Carbon Dioxide"
+      ],
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#65)",
+      "options": [
+        "ಹೀಲಿಯಂ",
+        "ಸಾರಜನಕ",
+        "ಆಮ್ಲಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+      ],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "sci_66",
+    "difficulty": 2,
+    "en": {
+      "question": "What gas do plants absorb? (#66)",
+      "options": [
         "Oxygen",
         "Helium",
         "Nitrogen",
@@ -1652,7 +1704,7 @@
       "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#64)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#66)",
       "options": [
         "ಆಮ್ಲಜನಕ",
         "ಹೀಲಿಯಂ",
@@ -1664,81 +1716,29 @@
     }
   },
   {
-    "id": "sci_65",
-    "difficulty": 2,
-    "en": {
-      "question": "What is the center of the solar system? (#65)",
-      "options": [
-        "Jupiter",
-        "Sun",
-        "Moon",
-        "Earth"
-      ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#65)",
-      "options": [
-        "ಗುರು",
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ",
-        "ಭೂಮಿ"
-      ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_66",
-    "difficulty": 2,
-    "en": {
-      "question": "What is the center of the solar system? (#66)",
-      "options": [
-        "Sun",
-        "Earth",
-        "Jupiter",
-        "Moon"
-      ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#66)",
-      "options": [
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ",
-        "ಗುರು",
-        "ಚಂದ್ರ"
-      ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
     "id": "sci_67",
     "difficulty": 3,
     "en": {
-      "question": "What is the center of the solar system? (#67)",
+      "question": "What gas do plants absorb? (#67)",
       "options": [
-        "Earth",
-        "Jupiter",
-        "Sun",
-        "Moon"
+        "Carbon Dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Helium"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#67)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#67)",
       "options": [
-        "ಭೂಮಿ",
-        "ಗುರು",
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ"
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಆಮ್ಲಜನಕ",
+        "ಸಾರಜನಕ",
+        "ಹೀಲಿಯಂ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -1747,8 +1747,8 @@
     "en": {
       "question": "What is the center of the solar system? (#68)",
       "options": [
-        "Sun",
         "Moon",
+        "Sun",
         "Jupiter",
         "Earth"
       ],
@@ -1758,8 +1758,8 @@
     "kn": {
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#68)",
       "options": [
-        "ಸೂರ್ಯ",
         "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
         "ಗುರು",
         "ಭೂಮಿ"
       ],
@@ -1771,26 +1771,26 @@
     "id": "sci_69",
     "difficulty": 3,
     "en": {
-      "question": "What is the center of the solar system? (#69)",
+      "question": "What gas do plants absorb? (#69)",
       "options": [
-        "Jupiter",
-        "Moon",
-        "Sun",
-        "Earth"
+        "Nitrogen",
+        "Oxygen",
+        "Carbon Dioxide",
+        "Helium"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#69)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#69)",
       "options": [
-        "ಗುರು",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ"
+        "ಸಾರಜನಕ",
+        "ಆಮ್ಲಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಹೀಲಿಯಂ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -1799,10 +1799,10 @@
     "en": {
       "question": "What gas do plants absorb? (#70)",
       "options": [
-        "Nitrogen",
-        "Oxygen",
         "Helium",
-        "Carbon Dioxide"
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -1810,10 +1810,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#70)",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ",
         "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಆಮ್ಲಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಸಾರಜನಕ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -1823,52 +1823,52 @@
     "id": "sci_71",
     "difficulty": 3,
     "en": {
-      "question": "What gas do plants absorb? (#71)",
+      "question": "What is the center of the solar system? (#71)",
       "options": [
-        "Oxygen",
-        "Helium",
-        "Nitrogen",
-        "Carbon Dioxide"
+        "Sun",
+        "Moon",
+        "Earth",
+        "Jupiter"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Sun",
+      "reasoning": "Because Sun is a scientific fact."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#71)",
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#71)",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ",
+        "ಭೂಮಿ",
+        "ಗುರು"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
     "id": "sci_72",
     "difficulty": 3,
     "en": {
-      "question": "What gas do plants absorb? (#72)",
+      "question": "What is the center of the solar system? (#72)",
       "options": [
-        "Oxygen",
-        "Carbon Dioxide",
-        "Helium",
-        "Nitrogen"
+        "Sun",
+        "Moon",
+        "Jupiter",
+        "Earth"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Sun",
+      "reasoning": "Because Sun is a scientific fact."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#72)",
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#72)",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ"
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ",
+        "ಗುರು",
+        "ಭೂಮಿ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -1878,8 +1878,8 @@
       "question": "What gas do plants absorb? (#73)",
       "options": [
         "Carbon Dioxide",
-        "Helium",
         "Oxygen",
+        "Helium",
         "Nitrogen"
       ],
       "answer": "Carbon Dioxide",
@@ -1889,8 +1889,8 @@
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#73)",
       "options": [
         "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ",
         "ಆಮ್ಲಜನಕ",
+        "ಹೀಲಿಯಂ",
         "ಸಾರಜನಕ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
@@ -1903,10 +1903,10 @@
     "en": {
       "question": "What is the center of the solar system? (#74)",
       "options": [
-        "Sun",
-        "Moon",
         "Earth",
-        "Jupiter"
+        "Jupiter",
+        "Moon",
+        "Sun"
       ],
       "answer": "Sun",
       "reasoning": "Because Sun is a scientific fact."
@@ -1914,10 +1914,10 @@
     "kn": {
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#74)",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ",
         "ಭೂಮಿ",
-        "ಗುರು"
+        "ಗುರು",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ"
       ],
       "answer": "ಸೂರ್ಯ",
       "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -1929,10 +1929,10 @@
     "en": {
       "question": "What is the center of the solar system? (#75)",
       "options": [
-        "Earth",
+        "Sun",
         "Moon",
-        "Jupiter",
-        "Sun"
+        "Earth",
+        "Jupiter"
       ],
       "answer": "Sun",
       "reasoning": "Because Sun is a scientific fact."
@@ -1940,10 +1940,10 @@
     "kn": {
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#75)",
       "options": [
-        "ಭೂಮಿ",
+        "ಸೂರ್ಯ",
         "ಚಂದ್ರ",
-        "ಗುರು",
-        "ಸೂರ್ಯ"
+        "ಭೂಮಿ",
+        "ಗುರು"
       ],
       "answer": "ಸೂರ್ಯ",
       "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -1953,52 +1953,52 @@
     "id": "sci_76",
     "difficulty": 3,
     "en": {
-      "question": "What is the center of the solar system? (#76)",
+      "question": "What gas do plants absorb? (#76)",
       "options": [
-        "Earth",
-        "Moon",
-        "Sun",
-        "Jupiter"
+        "Nitrogen",
+        "Helium",
+        "Carbon Dioxide",
+        "Oxygen"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#76)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#76)",
       "options": [
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ",
-        "ಗುರು"
+        "ಸಾರಜನಕ",
+        "ಹೀಲಿಯಂ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಆಮ್ಲಜನಕ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
     "id": "sci_77",
     "difficulty": 3,
     "en": {
-      "question": "What gas do plants absorb? (#77)",
+      "question": "What is the center of the solar system? (#77)",
       "options": [
-        "Oxygen",
-        "Helium",
-        "Nitrogen",
-        "Carbon Dioxide"
+        "Moon",
+        "Sun",
+        "Jupiter",
+        "Earth"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Sun",
+      "reasoning": "Because Sun is a scientific fact."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#77)",
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#77)",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ಗುರು",
+        "ಭೂಮಿ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -2007,10 +2007,10 @@
     "en": {
       "question": "What is the center of the solar system? (#78)",
       "options": [
-        "Sun",
-        "Jupiter",
         "Earth",
-        "Moon"
+        "Sun",
+        "Moon",
+        "Jupiter"
       ],
       "answer": "Sun",
       "reasoning": "Because Sun is a scientific fact."
@@ -2018,10 +2018,10 @@
     "kn": {
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#78)",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಗುರು",
         "ಭೂಮಿ",
-        "ಚಂದ್ರ"
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ",
+        "ಗುರು"
       ],
       "answer": "ಸೂರ್ಯ",
       "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -2060,9 +2060,9 @@
       "question": "What gas do plants absorb? (#80)",
       "options": [
         "Carbon Dioxide",
+        "Helium",
         "Oxygen",
-        "Nitrogen",
-        "Helium"
+        "Nitrogen"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -2071,9 +2071,9 @@
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#80)",
       "options": [
         "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಹೀಲಿಯಂ",
         "ಆಮ್ಲಜನಕ",
-        "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "ಸಾರಜನಕ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -2087,8 +2087,8 @@
       "options": [
         "Sun",
         "Jupiter",
-        "Earth",
-        "Moon"
+        "Moon",
+        "Earth"
       ],
       "answer": "Sun",
       "reasoning": "Because Sun is a scientific fact."
@@ -2098,8 +2098,8 @@
       "options": [
         "ಸೂರ್ಯ",
         "ಗುರು",
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ"
+        "ಚಂದ್ರ",
+        "ಭೂಮಿ"
       ],
       "answer": "ಸೂರ್ಯ",
       "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -2111,10 +2111,10 @@
     "en": {
       "question": "What gas do plants absorb? (#82)",
       "options": [
-        "Oxygen",
-        "Carbon Dioxide",
         "Nitrogen",
-        "Helium"
+        "Helium",
+        "Carbon Dioxide",
+        "Oxygen"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -2122,10 +2122,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#82)",
       "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
         "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "ಹೀಲಿಯಂ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಆಮ್ಲಜನಕ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -2138,9 +2138,9 @@
       "question": "What is the center of the solar system? (#83)",
       "options": [
         "Sun",
-        "Moon",
+        "Jupiter",
         "Earth",
-        "Jupiter"
+        "Moon"
       ],
       "answer": "Sun",
       "reasoning": "Because Sun is a scientific fact."
@@ -2149,9 +2149,9 @@
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#83)",
       "options": [
         "ಸೂರ್ಯ",
-        "ಚಂದ್ರ",
+        "ಗುರು",
         "ಭೂಮಿ",
-        "ಗುರು"
+        "ಚಂದ್ರ"
       ],
       "answer": "ಸೂರ್ಯ",
       "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -2161,241 +2161,111 @@
     "id": "sci_84",
     "difficulty": 3,
     "en": {
-      "question": "What is the center of the solar system? (#84)",
+      "question": "What gas do plants absorb? (#84)",
       "options": [
-        "Earth",
-        "Sun",
-        "Jupiter",
-        "Moon"
+        "Nitrogen",
+        "Helium",
+        "Oxygen",
+        "Carbon Dioxide"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#84)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#84)",
       "options": [
-        "ಭೂಮಿ",
-        "ಸೂರ್ಯ",
-        "ಗುರು",
-        "ಚಂದ್ರ"
+        "ಸಾರಜನಕ",
+        "ಹೀಲಿಯಂ",
+        "ಆಮ್ಲಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
     "id": "sci_85",
     "difficulty": 3,
     "en": {
-      "question": "What is the center of the solar system? (#85)",
+      "question": "What gas do plants absorb? (#85)",
       "options": [
-        "Sun",
-        "Moon",
-        "Earth",
-        "Jupiter"
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Oxygen",
+        "Helium"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#85)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#85)",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಚಂದ್ರ",
-        "ಭೂಮಿ",
-        "ಗುರು"
+        "ಸಾರಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಆಮ್ಲಜನಕ",
+        "ಹೀಲಿಯಂ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
     "id": "sci_86",
     "difficulty": 3,
     "en": {
-      "question": "What is the center of the solar system? (#86)",
+      "question": "What gas do plants absorb? (#86)",
       "options": [
-        "Sun",
-        "Earth",
-        "Moon",
-        "Jupiter"
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Carbon Dioxide"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#86)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#86)",
       "options": [
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ",
-        "ಗುರು"
+        "ಆಮ್ಲಜನಕ",
+        "ಸಾರಜನಕ",
+        "ಹೀಲಿಯಂ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
     "id": "sci_87",
     "difficulty": 3,
     "en": {
-      "question": "What is the center of the solar system? (#87)",
+      "question": "What gas do plants absorb? (#87)",
       "options": [
-        "Moon",
-        "Sun",
-        "Earth",
-        "Jupiter"
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Helium"
       ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#87)",
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#87)",
       "options": [
-        "ಚಂದ್ರ",
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ",
-        "ಗುರು"
+        "ಆಮ್ಲಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಸಾರಜನಕ",
+        "ಹೀಲಿಯಂ"
       ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
     "id": "sci_88",
     "difficulty": 3,
     "en": {
-      "question": "What gas do plants absorb? (#88)",
-      "options": [
-        "Oxygen",
-        "Helium",
-        "Carbon Dioxide",
-        "Nitrogen"
-      ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#88)",
-      "options": [
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ"
-      ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_89",
-    "difficulty": 3,
-    "en": {
-      "question": "What is the center of the solar system? (#89)",
-      "options": [
-        "Jupiter",
-        "Sun",
-        "Earth",
-        "Moon"
-      ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#89)",
-      "options": [
-        "ಗುರು",
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ"
-      ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_90",
-    "difficulty": 3,
-    "en": {
-      "question": "What gas do plants absorb? (#90)",
-      "options": [
-        "Helium",
-        "Oxygen",
-        "Carbon Dioxide",
-        "Nitrogen"
-      ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#90)",
-      "options": [
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಸಾರಜನಕ"
-      ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_91",
-    "difficulty": 3,
-    "en": {
-      "question": "What is the center of the solar system? (#91)",
-      "options": [
-        "Sun",
-        "Earth",
-        "Moon",
-        "Jupiter"
-      ],
-      "answer": "Sun",
-      "reasoning": "Because Sun is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#91)",
-      "options": [
-        "ಸೂರ್ಯ",
-        "ಭೂಮಿ",
-        "ಚಂದ್ರ",
-        "ಗುರು"
-      ],
-      "answer": "ಸೂರ್ಯ",
-      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_92",
-    "difficulty": 3,
-    "en": {
-      "question": "What gas do plants absorb? (#92)",
-      "options": [
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Helium",
-        "Oxygen"
-      ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
-    },
-    "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#92)",
-      "options": [
-        "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಹೀಲಿಯಂ",
-        "ಆಮ್ಲಜನಕ"
-      ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
-    }
-  },
-  {
-    "id": "sci_93",
-    "difficulty": 3,
-    "en": {
-      "question": "What is the center of the solar system? (#93)",
+      "question": "What is the center of the solar system? (#88)",
       "options": [
         "Moon",
         "Jupiter",
@@ -2406,7 +2276,7 @@
       "reasoning": "Because Sun is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#93)",
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#88)",
       "options": [
         "ಚಂದ್ರ",
         "ಗುರು",
@@ -2418,10 +2288,62 @@
     }
   },
   {
-    "id": "sci_94",
+    "id": "sci_89",
     "difficulty": 3,
     "en": {
-      "question": "What is the center of the solar system? (#94)",
+      "question": "What gas do plants absorb? (#89)",
+      "options": [
+        "Nitrogen",
+        "Helium",
+        "Oxygen",
+        "Carbon Dioxide"
+      ],
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#89)",
+      "options": [
+        "ಸಾರಜನಕ",
+        "ಹೀಲಿಯಂ",
+        "ಆಮ್ಲಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+      ],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "sci_90",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the center of the solar system? (#90)",
+      "options": [
+        "Earth",
+        "Sun",
+        "Moon",
+        "Jupiter"
+      ],
+      "answer": "Sun",
+      "reasoning": "Because Sun is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#90)",
+      "options": [
+        "ಭೂಮಿ",
+        "ಸೂರ್ಯ",
+        "ಚಂದ್ರ",
+        "ಗುರು"
+      ],
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "sci_91",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the center of the solar system? (#91)",
       "options": [
         "Earth",
         "Sun",
@@ -2432,11 +2354,89 @@
       "reasoning": "Because Sun is a scientific fact."
     },
     "kn": {
-      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#94)",
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#91)",
       "options": [
         "ಭೂಮಿ",
         "ಸೂರ್ಯ",
         "ಗುರು",
+        "ಚಂದ್ರ"
+      ],
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "sci_92",
+    "difficulty": 3,
+    "en": {
+      "question": "What gas do plants absorb? (#92)",
+      "options": [
+        "Oxygen",
+        "Helium",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ],
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#92)",
+      "options": [
+        "ಆಮ್ಲಜನಕ",
+        "ಹೀಲಿಯಂ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಸಾರಜನಕ"
+      ],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "sci_93",
+    "difficulty": 3,
+    "en": {
+      "question": "What gas do plants absorb? (#93)",
+      "options": [
+        "Carbon Dioxide",
+        "Helium",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "answer": "Carbon Dioxide",
+      "reasoning": "Because Carbon Dioxide is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#93)",
+      "options": [
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಹೀಲಿಯಂ",
+        "ಆಮ್ಲಜನಕ",
+        "ಸಾರಜನಕ"
+      ],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "sci_94",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the center of the solar system? (#94)",
+      "options": [
+        "Sun",
+        "Jupiter",
+        "Earth",
+        "Moon"
+      ],
+      "answer": "Sun",
+      "reasoning": "Because Sun is a scientific fact."
+    },
+    "kn": {
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#94)",
+      "options": [
+        "ಸೂರ್ಯ",
+        "ಗುರು",
+        "ಭೂಮಿ",
         "ಚಂದ್ರ"
       ],
       "answer": "ಸೂರ್ಯ",
@@ -2449,9 +2449,9 @@
     "en": {
       "question": "What is the center of the solar system? (#95)",
       "options": [
-        "Moon",
         "Jupiter",
         "Earth",
+        "Moon",
         "Sun"
       ],
       "answer": "Sun",
@@ -2460,9 +2460,9 @@
     "kn": {
       "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#95)",
       "options": [
-        "ಚಂದ್ರ",
         "ಗುರು",
         "ಭೂಮಿ",
+        "ಚಂದ್ರ",
         "ಸೂರ್ಯ"
       ],
       "answer": "ಸೂರ್ಯ",
@@ -2501,10 +2501,10 @@
     "en": {
       "question": "What gas do plants absorb? (#97)",
       "options": [
-        "Helium",
-        "Nitrogen",
         "Carbon Dioxide",
-        "Oxygen"
+        "Nitrogen",
+        "Oxygen",
+        "Helium"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -2512,10 +2512,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#97)",
       "options": [
-        "ಹೀಲಿಯಂ",
-        "ಸಾರಜನಕ",
         "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-        "ಆಮ್ಲಜನಕ"
+        "ಸಾರಜನಕ",
+        "ಆಮ್ಲಜನಕ",
+        "ಹೀಲಿಯಂ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -2525,26 +2525,26 @@
     "id": "sci_98",
     "difficulty": 3,
     "en": {
-      "question": "What gas do plants absorb? (#98)",
+      "question": "What is the center of the solar system? (#98)",
       "options": [
-        "Nitrogen",
-        "Oxygen",
-        "Helium",
-        "Carbon Dioxide"
+        "Earth",
+        "Jupiter",
+        "Moon",
+        "Sun"
       ],
-      "answer": "Carbon Dioxide",
-      "reasoning": "Because Carbon Dioxide is a scientific fact."
+      "answer": "Sun",
+      "reasoning": "Because Sun is a scientific fact."
     },
     "kn": {
-      "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#98)",
+      "question": "ಸೌರವ್ಯೂಹದ ಕೇಂದ್ರ ಯಾವುದು? (#98)",
       "options": [
-        "ಸಾರಜನಕ",
-        "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಭೂಮಿ",
+        "ಗುರು",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ"
       ],
-      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
-      "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಏಕೆಂದರೆ ಸೂರ್ಯ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
     }
   },
   {
@@ -2553,10 +2553,10 @@
     "en": {
       "question": "What gas do plants absorb? (#99)",
       "options": [
-        "Oxygen",
         "Carbon Dioxide",
         "Nitrogen",
-        "Helium"
+        "Helium",
+        "Oxygen"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -2564,10 +2564,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#99)",
       "options": [
-        "ಆಮ್ಲಜನಕ",
         "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
         "ಸಾರಜನಕ",
-        "ಹೀಲಿಯಂ"
+        "ಹೀಲಿಯಂ",
+        "ಆಮ್ಲಜನಕ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."
@@ -2579,10 +2579,10 @@
     "en": {
       "question": "What gas do plants absorb? (#100)",
       "options": [
+        "Carbon Dioxide",
         "Oxygen",
-        "Helium",
         "Nitrogen",
-        "Carbon Dioxide"
+        "Helium"
       ],
       "answer": "Carbon Dioxide",
       "reasoning": "Because Carbon Dioxide is a scientific fact."
@@ -2590,10 +2590,10 @@
     "kn": {
       "question": "ಸಸ್ಯಗಳು ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ? (#100)",
       "options": [
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
         "ಆಮ್ಲಜನಕ",
-        "ಹೀಲಿಯಂ",
         "ಸಾರಜನಕ",
-        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        "ಹೀಲಿಯಂ"
       ],
       "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಏಕೆಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ವೈಜ್ಞಾನಿಕ ಸತ್ಯ."

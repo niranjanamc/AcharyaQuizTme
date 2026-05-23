@@ -6,8 +6,8 @@
       "question": "What is the capital of India? (#1)",
       "options": [
         "Chennai",
-        "Bangalore",
         "New Delhi",
+        "Bangalore",
         "Mumbai"
       ],
       "answer": "New Delhi",
@@ -17,8 +17,8 @@
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#1)",
       "options": [
         "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
         "ನವದೆಹಲಿ",
+        "ಬೆಂಗಳೂರು",
         "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -31,10 +31,10 @@
     "en": {
       "question": "What is the capital of India? (#2)",
       "options": [
+        "Chennai",
         "Mumbai",
-        "Bangalore",
         "New Delhi",
-        "Chennai"
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -42,10 +42,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#2)",
       "options": [
+        "ಚೆನ್ನೈ",
         "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ"
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -59,8 +59,8 @@
       "options": [
         "New Delhi",
         "Chennai",
-        "Mumbai",
-        "Bangalore"
+        "Bangalore",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -70,8 +70,8 @@
       "options": [
         "ನವದೆಹಲಿ",
         "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಬೆಂಗಳೂರು",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -83,10 +83,10 @@
     "en": {
       "question": "What is the capital of India? (#4)",
       "options": [
-        "New Delhi",
-        "Mumbai",
         "Bangalore",
-        "Chennai"
+        "New Delhi",
+        "Chennai",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -94,10 +94,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#4)",
       "options": [
-        "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
         "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ"
+        "ನವದೆಹಲಿ",
+        "ಚೆನ್ನೈ",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -109,9 +109,9 @@
     "en": {
       "question": "What is the capital of India? (#5)",
       "options": [
+        "Bangalore",
         "Mumbai",
         "Chennai",
-        "Bangalore",
         "New Delhi"
       ],
       "answer": "New Delhi",
@@ -120,9 +120,9 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#5)",
       "options": [
+        "ಬೆಂಗಳೂರು",
         "ಮುಂಬೈ",
         "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
         "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -135,9 +135,9 @@
     "en": {
       "question": "What is the capital of India? (#6)",
       "options": [
-        "Chennai",
-        "Mumbai",
         "New Delhi",
+        "Mumbai",
+        "Chennai",
         "Bangalore"
       ],
       "answer": "New Delhi",
@@ -146,9 +146,9 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#6)",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ",
+        "ಚೆನ್ನೈ",
         "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -161,10 +161,10 @@
     "en": {
       "question": "What is the capital of India? (#7)",
       "options": [
-        "Mumbai",
         "Chennai",
         "New Delhi",
-        "Bangalore"
+        "Bangalore",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -172,10 +172,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#7)",
       "options": [
-        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು"
+        "ಬೆಂಗಳೂರು",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -187,10 +187,10 @@
     "en": {
       "question": "What is the capital of India? (#8)",
       "options": [
-        "Chennai",
         "Mumbai",
-        "Bangalore",
-        "New Delhi"
+        "New Delhi",
+        "Chennai",
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -198,10 +198,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#8)",
       "options": [
-        "ಚೆನ್ನೈ",
         "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ"
+        "ನವದೆಹಲಿ",
+        "ಚೆನ್ನೈ",
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -213,10 +213,10 @@
     "en": {
       "question": "What is the capital of India? (#9)",
       "options": [
-        "Mumbai",
-        "Chennai",
         "New Delhi",
-        "Bangalore"
+        "Bangalore",
+        "Chennai",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -224,10 +224,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#9)",
       "options": [
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು"
+        "ಬೆಂಗಳೂರು",
+        "ಚೆನ್ನೈ",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -240,8 +240,8 @@
       "question": "What is the capital of India? (#10)",
       "options": [
         "Bangalore",
-        "Mumbai",
         "Chennai",
+        "Mumbai",
         "New Delhi"
       ],
       "answer": "New Delhi",
@@ -251,8 +251,8 @@
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#10)",
       "options": [
         "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ",
+        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -265,10 +265,10 @@
     "en": {
       "question": "What is the capital of India? (#11)",
       "options": [
-        "New Delhi",
+        "Chennai",
         "Mumbai",
         "Bangalore",
-        "Chennai"
+        "New Delhi"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -276,10 +276,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#11)",
       "options": [
-        "ನವದೆಹಲಿ",
+        "ಚೆನ್ನೈ",
         "ಮುಂಬೈ",
         "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ"
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -291,10 +291,10 @@
     "en": {
       "question": "What is the capital of India? (#12)",
       "options": [
-        "Chennai",
         "Bangalore",
-        "Mumbai",
-        "New Delhi"
+        "Chennai",
+        "New Delhi",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -302,10 +302,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#12)",
       "options": [
-        "ಚೆನ್ನೈ",
         "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ಚೆನ್ನೈ",
+        "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -317,10 +317,10 @@
     "en": {
       "question": "What is the capital of India? (#13)",
       "options": [
-        "Mumbai",
-        "New Delhi",
+        "Chennai",
         "Bangalore",
-        "Chennai"
+        "Mumbai",
+        "New Delhi"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -328,10 +328,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#13)",
       "options": [
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ",
+        "ಚೆನ್ನೈ",
         "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ"
+        "ಮುಂಬೈ",
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -343,9 +343,9 @@
     "en": {
       "question": "What is the capital of India? (#14)",
       "options": [
-        "Mumbai",
-        "Bangalore",
         "New Delhi",
+        "Bangalore",
+        "Mumbai",
         "Chennai"
       ],
       "answer": "New Delhi",
@@ -354,9 +354,9 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#14)",
       "options": [
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
         "ನವದೆಹಲಿ",
+        "ಬೆಂಗಳೂರು",
+        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -370,9 +370,9 @@
       "question": "What is the capital of India? (#15)",
       "options": [
         "Bangalore",
-        "Mumbai",
+        "Chennai",
         "New Delhi",
-        "Chennai"
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -381,9 +381,9 @@
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#15)",
       "options": [
         "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
+        "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ"
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -395,10 +395,10 @@
     "en": {
       "question": "What is the capital of India? (#16)",
       "options": [
-        "Bangalore",
+        "Chennai",
         "New Delhi",
-        "Mumbai",
-        "Chennai"
+        "Bangalore",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -406,10 +406,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#16)",
       "options": [
-        "ಬೆಂಗಳೂರು",
+        "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ"
+        "ಬೆಂಗಳೂರು",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -421,10 +421,10 @@
     "en": {
       "question": "What is the capital of India? (#17)",
       "options": [
-        "New Delhi",
-        "Mumbai",
         "Chennai",
-        "Bangalore"
+        "Bangalore",
+        "New Delhi",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -432,10 +432,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#17)",
       "options": [
-        "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಬೆಂಗಳೂರು",
+        "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -447,9 +447,9 @@
     "en": {
       "question": "What is the capital of India? (#18)",
       "options": [
+        "Mumbai",
         "New Delhi",
         "Bangalore",
-        "Mumbai",
         "Chennai"
       ],
       "answer": "New Delhi",
@@ -458,9 +458,9 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#18)",
       "options": [
+        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ",
         "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -473,10 +473,10 @@
     "en": {
       "question": "What is the capital of India? (#19)",
       "options": [
-        "Chennai",
+        "Bangalore",
         "New Delhi",
-        "Mumbai",
-        "Bangalore"
+        "Chennai",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -484,10 +484,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#19)",
       "options": [
-        "ಚೆನ್ನೈ",
+        "ಬೆಂಗಳೂರು",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಚೆನ್ನೈ",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -499,10 +499,10 @@
     "en": {
       "question": "What is the capital of India? (#20)",
       "options": [
-        "Bangalore",
+        "New Delhi",
         "Chennai",
         "Mumbai",
-        "New Delhi"
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -510,10 +510,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#20)",
       "options": [
-        "ಬೆಂಗಳೂರು",
+        "ನವದೆಹಲಿ",
         "ಚೆನ್ನೈ",
         "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -526,9 +526,9 @@
       "question": "What is the capital of India? (#21)",
       "options": [
         "Chennai",
-        "Mumbai",
+        "Bangalore",
         "New Delhi",
-        "Bangalore"
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -537,9 +537,9 @@
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#21)",
       "options": [
         "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
+        "ಬೆಂಗಳೂರು",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು"
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -551,10 +551,10 @@
     "en": {
       "question": "What is the capital of India? (#22)",
       "options": [
+        "Bangalore",
         "Chennai",
-        "New Delhi",
         "Mumbai",
-        "Bangalore"
+        "New Delhi"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -562,10 +562,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#22)",
       "options": [
+        "ಬೆಂಗಳೂರು",
         "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ",
         "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು"
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -577,8 +577,8 @@
     "en": {
       "question": "What is the capital of India? (#23)",
       "options": [
-        "Mumbai",
         "New Delhi",
+        "Mumbai",
         "Chennai",
         "Bangalore"
       ],
@@ -588,8 +588,8 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#23)",
       "options": [
-        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ",
         "ಬೆಂಗಳೂರು"
       ],
@@ -603,9 +603,9 @@
     "en": {
       "question": "What is the capital of India? (#24)",
       "options": [
-        "Chennai",
-        "Mumbai",
         "Bangalore",
+        "Mumbai",
+        "Chennai",
         "New Delhi"
       ],
       "answer": "New Delhi",
@@ -614,9 +614,9 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#24)",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
         "ಬೆಂಗಳೂರು",
+        "ಮುಂಬೈ",
+        "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -629,10 +629,10 @@
     "en": {
       "question": "What is the capital of India? (#25)",
       "options": [
-        "Chennai",
-        "Bangalore",
         "Mumbai",
-        "New Delhi"
+        "New Delhi",
+        "Chennai",
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -640,10 +640,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#25)",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
         "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ನವದೆಹಲಿ",
+        "ಚೆನ್ನೈ",
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -655,10 +655,10 @@
     "en": {
       "question": "What is the capital of India? (#26)",
       "options": [
-        "New Delhi",
+        "Mumbai",
         "Bangalore",
-        "Chennai",
-        "Mumbai"
+        "New Delhi",
+        "Chennai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -666,10 +666,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#26)",
       "options": [
-        "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ",
         "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ"
+        "ನವದೆಹಲಿ",
+        "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -681,10 +681,10 @@
     "en": {
       "question": "What is the capital of India? (#27)",
       "options": [
-        "Chennai",
-        "New Delhi",
         "Bangalore",
-        "Mumbai"
+        "Mumbai",
+        "New Delhi",
+        "Chennai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -692,10 +692,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#27)",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ",
         "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಮುಂಬೈ",
+        "ನವದೆಹಲಿ",
+        "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -707,10 +707,10 @@
     "en": {
       "question": "What is the capital of India? (#28)",
       "options": [
-        "Chennai",
-        "Bangalore",
         "Mumbai",
-        "New Delhi"
+        "New Delhi",
+        "Chennai",
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -718,10 +718,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#28)",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
         "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ನವದೆಹಲಿ",
+        "ಚೆನ್ನೈ",
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -733,10 +733,10 @@
     "en": {
       "question": "What is the capital of India? (#29)",
       "options": [
+        "Chennai",
         "Mumbai",
         "Bangalore",
-        "New Delhi",
-        "Chennai"
+        "New Delhi"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -744,10 +744,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#29)",
       "options": [
+        "ಚೆನ್ನೈ",
         "ಮುಂಬೈ",
         "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ"
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -786,9 +786,9 @@
       "question": "What is the capital of India? (#31)",
       "options": [
         "New Delhi",
+        "Chennai",
         "Mumbai",
-        "Bangalore",
-        "Chennai"
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -797,9 +797,9 @@
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#31)",
       "options": [
         "ನವದೆಹಲಿ",
+        "ಚೆನ್ನೈ",
         "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ"
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -812,9 +812,9 @@
       "question": "What is the capital of India? (#32)",
       "options": [
         "New Delhi",
-        "Chennai",
         "Bangalore",
-        "Mumbai"
+        "Mumbai",
+        "Chennai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -823,9 +823,9 @@
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#32)",
       "options": [
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
         "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಮುಂಬೈ",
+        "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -837,9 +837,9 @@
     "en": {
       "question": "What is the capital of India? (#33)",
       "options": [
-        "Bangalore",
         "New Delhi",
         "Chennai",
+        "Bangalore",
         "Mumbai"
       ],
       "answer": "New Delhi",
@@ -848,9 +848,9 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#33)",
       "options": [
-        "ಬೆಂಗಳೂರು",
         "ನವದೆಹಲಿ",
         "ಚೆನ್ನೈ",
+        "ಬೆಂಗಳೂರು",
         "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -863,10 +863,10 @@
     "en": {
       "question": "What is the capital of India? (#34)",
       "options": [
-        "Bangalore",
-        "Mumbai",
+        "New Delhi",
         "Chennai",
-        "New Delhi"
+        "Bangalore",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -874,10 +874,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#34)",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
+        "ನವದೆಹಲಿ",
         "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ"
+        "ಬೆಂಗಳೂರು",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -889,10 +889,10 @@
     "en": {
       "question": "What is the capital of India? (#35)",
       "options": [
-        "New Delhi",
-        "Bangalore",
+        "Mumbai",
         "Chennai",
-        "Mumbai"
+        "New Delhi",
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -900,10 +900,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#35)",
       "options": [
-        "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
+        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ"
+        "ನವದೆಹಲಿ",
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -915,10 +915,10 @@
     "en": {
       "question": "What is the capital of India? (#36)",
       "options": [
-        "Mumbai",
         "New Delhi",
-        "Chennai",
-        "Bangalore"
+        "Mumbai",
+        "Bangalore",
+        "Chennai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -926,10 +926,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#36)",
       "options": [
-        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಮುಂಬೈ",
+        "ಬೆಂಗಳೂರು",
+        "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -941,10 +941,10 @@
     "en": {
       "question": "What is the capital of India? (#37)",
       "options": [
-        "Chennai",
-        "New Delhi",
+        "Mumbai",
         "Bangalore",
-        "Mumbai"
+        "New Delhi",
+        "Chennai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -952,10 +952,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#37)",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ",
         "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ನವದೆಹಲಿ",
+        "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -967,10 +967,10 @@
     "en": {
       "question": "What is the capital of India? (#38)",
       "options": [
-        "New Delhi",
+        "Bangalore",
         "Mumbai",
         "Chennai",
-        "Bangalore"
+        "New Delhi"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -978,10 +978,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#38)",
       "options": [
-        "ನವದೆಹಲಿ",
+        "ಬೆಂಗಳೂರು",
         "ಮುಂಬೈ",
         "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು"
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -993,10 +993,10 @@
     "en": {
       "question": "What is the capital of India? (#39)",
       "options": [
-        "Mumbai",
-        "Bangalore",
+        "New Delhi",
         "Chennai",
-        "New Delhi"
+        "Mumbai",
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1004,10 +1004,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#39)",
       "options": [
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
+        "ನವದೆಹಲಿ",
         "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ"
+        "ಮುಂಬೈ",
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1020,9 +1020,9 @@
       "question": "What is the capital of India? (#40)",
       "options": [
         "Mumbai",
+        "New Delhi",
         "Chennai",
-        "Bangalore",
-        "New Delhi"
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1031,9 +1031,9 @@
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#40)",
       "options": [
         "ಮುಂಬೈ",
+        "ನವದೆಹಲಿ",
         "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ"
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1045,10 +1045,10 @@
     "en": {
       "question": "What is the capital of India? (#41)",
       "options": [
-        "Bangalore",
         "Chennai",
-        "Mumbai",
-        "New Delhi"
+        "New Delhi",
+        "Bangalore",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1056,10 +1056,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#41)",
       "options": [
-        "ಬೆಂಗಳೂರು",
         "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ನವದೆಹಲಿ",
+        "ಬೆಂಗಳೂರು",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1071,10 +1071,10 @@
     "en": {
       "question": "What is the capital of India? (#42)",
       "options": [
-        "Mumbai",
-        "Bangalore",
         "New Delhi",
-        "Chennai"
+        "Chennai",
+        "Mumbai",
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1082,10 +1082,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#42)",
       "options": [
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ"
+        "ಚೆನ್ನೈ",
+        "ಮುಂಬೈ",
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1097,9 +1097,9 @@
     "en": {
       "question": "What is the capital of India? (#43)",
       "options": [
+        "Chennai",
         "Bangalore",
         "Mumbai",
-        "Chennai",
         "New Delhi"
       ],
       "answer": "New Delhi",
@@ -1108,9 +1108,9 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#43)",
       "options": [
+        "ಚೆನ್ನೈ",
         "ಬೆಂಗಳೂರು",
         "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -1123,10 +1123,10 @@
     "en": {
       "question": "What is the capital of India? (#44)",
       "options": [
+        "Bangalore",
         "Mumbai",
-        "Chennai",
         "New Delhi",
-        "Bangalore"
+        "Chennai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1134,10 +1134,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#44)",
       "options": [
+        "ಬೆಂಗಳೂರು",
         "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು"
+        "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1175,8 +1175,8 @@
     "en": {
       "question": "What is the capital of India? (#46)",
       "options": [
-        "Bangalore",
         "Mumbai",
+        "Bangalore",
         "Chennai",
         "New Delhi"
       ],
@@ -1186,8 +1186,8 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#46)",
       "options": [
-        "ಬೆಂಗಳೂರು",
         "ಮುಂಬೈ",
+        "ಬೆಂಗಳೂರು",
         "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ"
       ],
@@ -1203,8 +1203,8 @@
       "options": [
         "Bangalore",
         "Chennai",
-        "Mumbai",
-        "New Delhi"
+        "New Delhi",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1214,8 +1214,8 @@
       "options": [
         "ಬೆಂಗಳೂರು",
         "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1227,10 +1227,10 @@
     "en": {
       "question": "What is the capital of India? (#48)",
       "options": [
-        "Bangalore",
         "Mumbai",
-        "Chennai",
-        "New Delhi"
+        "New Delhi",
+        "Bangalore",
+        "Chennai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1238,10 +1238,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#48)",
       "options": [
-        "ಬೆಂಗಳೂರು",
         "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ"
+        "ನವದೆಹಲಿ",
+        "ಬೆಂಗಳೂರು",
+        "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1279,10 +1279,10 @@
     "en": {
       "question": "What is the capital of India? (#50)",
       "options": [
-        "New Delhi",
         "Chennai",
-        "Mumbai",
-        "Bangalore"
+        "New Delhi",
+        "Bangalore",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1290,10 +1290,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#50)",
       "options": [
-        "ನವದೆಹಲಿ",
         "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು"
+        "ನವದೆಹಲಿ",
+        "ಬೆಂಗಳೂರು",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1306,9 +1306,9 @@
       "question": "What is the capital of India? (#51)",
       "options": [
         "Mumbai",
+        "Chennai",
         "Bangalore",
-        "New Delhi",
-        "Chennai"
+        "New Delhi"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1317,9 +1317,9 @@
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#51)",
       "options": [
         "ಮುಂಬೈ",
+        "ಚೆನ್ನೈ",
         "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ"
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1331,10 +1331,10 @@
     "en": {
       "question": "What is the capital of India? (#52)",
       "options": [
-        "Bangalore",
+        "Chennai",
         "New Delhi",
-        "Mumbai",
-        "Chennai"
+        "Bangalore",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1342,10 +1342,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#52)",
       "options": [
-        "ಬೆಂಗಳೂರು",
+        "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ"
+        "ಬೆಂಗಳೂರು",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1383,10 +1383,10 @@
     "en": {
       "question": "What is the capital of India? (#54)",
       "options": [
-        "New Delhi",
+        "Bangalore",
         "Chennai",
         "Mumbai",
-        "Bangalore"
+        "New Delhi"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1394,10 +1394,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#54)",
       "options": [
-        "ನವದೆಹಲಿ",
+        "ಬೆಂಗಳೂರು",
         "ಚೆನ್ನೈ",
         "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು"
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1410,9 +1410,9 @@
       "question": "What is the capital of India? (#55)",
       "options": [
         "Mumbai",
-        "Bangalore",
         "New Delhi",
-        "Chennai"
+        "Chennai",
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1421,9 +1421,9 @@
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#55)",
       "options": [
         "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ"
+        "ಚೆನ್ನೈ",
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1436,9 +1436,9 @@
       "question": "What is the capital of India? (#56)",
       "options": [
         "Mumbai",
-        "New Delhi",
         "Chennai",
-        "Bangalore"
+        "Bangalore",
+        "New Delhi"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1447,9 +1447,9 @@
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#56)",
       "options": [
         "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ",
         "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಬೆಂಗಳೂರು",
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1461,10 +1461,10 @@
     "en": {
       "question": "What is the capital of India? (#57)",
       "options": [
+        "Mumbai",
         "Chennai",
         "New Delhi",
-        "Bangalore",
-        "Mumbai"
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1472,10 +1472,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#57)",
       "options": [
+        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1488,9 +1488,9 @@
       "question": "What is the capital of India? (#58)",
       "options": [
         "New Delhi",
+        "Mumbai",
         "Chennai",
-        "Bangalore",
-        "Mumbai"
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1499,9 +1499,9 @@
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#58)",
       "options": [
         "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1513,10 +1513,10 @@
     "en": {
       "question": "What is the capital of India? (#59)",
       "options": [
-        "Chennai",
-        "Bangalore",
         "Mumbai",
-        "New Delhi"
+        "Bangalore",
+        "New Delhi",
+        "Chennai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1524,10 +1524,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#59)",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
         "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ಬೆಂಗಳೂರು",
+        "ನವದೆಹಲಿ",
+        "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1539,10 +1539,10 @@
     "en": {
       "question": "What is the capital of India? (#60)",
       "options": [
-        "New Delhi",
         "Chennai",
         "Bangalore",
-        "Mumbai"
+        "Mumbai",
+        "New Delhi"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1550,10 +1550,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#60)",
       "options": [
-        "ನವದೆಹಲಿ",
         "ಚೆನ್ನೈ",
         "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಮುಂಬೈ",
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1565,9 +1565,9 @@
     "en": {
       "question": "What is the capital of India? (#61)",
       "options": [
-        "Mumbai",
         "Bangalore",
         "New Delhi",
+        "Mumbai",
         "Chennai"
       ],
       "answer": "New Delhi",
@@ -1576,9 +1576,9 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#61)",
       "options": [
-        "ಮುಂಬೈ",
         "ಬೆಂಗಳೂರು",
         "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -1591,10 +1591,10 @@
     "en": {
       "question": "What is the capital of India? (#62)",
       "options": [
-        "Chennai",
-        "Bangalore",
+        "Mumbai",
         "New Delhi",
-        "Mumbai"
+        "Bangalore",
+        "Chennai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1602,10 +1602,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#62)",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
+        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ಬೆಂಗಳೂರು",
+        "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1617,10 +1617,10 @@
     "en": {
       "question": "What is the capital of India? (#63)",
       "options": [
-        "New Delhi",
         "Bangalore",
         "Chennai",
-        "Mumbai"
+        "Mumbai",
+        "New Delhi"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1628,10 +1628,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#63)",
       "options": [
-        "ನವದೆಹಲಿ",
         "ಬೆಂಗಳೂರು",
         "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ"
+        "ಮುಂಬೈ",
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1644,9 +1644,9 @@
       "question": "What is the capital of India? (#64)",
       "options": [
         "Chennai",
-        "Bangalore",
+        "Mumbai",
         "New Delhi",
-        "Mumbai"
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1655,9 +1655,9 @@
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#64)",
       "options": [
         "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
+        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1671,8 +1671,8 @@
       "options": [
         "Chennai",
         "Bangalore",
-        "Mumbai",
-        "New Delhi"
+        "New Delhi",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1682,8 +1682,8 @@
       "options": [
         "ಚೆನ್ನೈ",
         "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1695,10 +1695,10 @@
     "en": {
       "question": "What is the capital of India? (#66)",
       "options": [
-        "Chennai",
+        "Mumbai",
         "Bangalore",
-        "New Delhi",
-        "Mumbai"
+        "Chennai",
+        "New Delhi"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1706,10 +1706,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#66)",
       "options": [
-        "ಚೆನ್ನೈ",
+        "ಮುಂಬೈ",
         "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ಚೆನ್ನೈ",
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1721,10 +1721,10 @@
     "en": {
       "question": "What is the capital of India? (#67)",
       "options": [
-        "New Delhi",
         "Chennai",
-        "Bangalore",
-        "Mumbai"
+        "Mumbai",
+        "New Delhi",
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1732,10 +1732,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#67)",
       "options": [
-        "ನವದೆಹಲಿ",
         "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಮುಂಬೈ",
+        "ನವದೆಹಲಿ",
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1747,10 +1747,10 @@
     "en": {
       "question": "What is the capital of India? (#68)",
       "options": [
+        "Mumbai",
         "Chennai",
         "Bangalore",
-        "New Delhi",
-        "Mumbai"
+        "New Delhi"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1758,10 +1758,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#68)",
       "options": [
+        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ",
         "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ"
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1773,10 +1773,10 @@
     "en": {
       "question": "What is the capital of India? (#69)",
       "options": [
-        "Bangalore",
-        "Chennai",
         "Mumbai",
-        "New Delhi"
+        "Bangalore",
+        "New Delhi",
+        "Chennai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1784,10 +1784,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#69)",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
         "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ಬೆಂಗಳೂರು",
+        "ನವದೆಹಲಿ",
+        "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1799,10 +1799,10 @@
     "en": {
       "question": "What is the capital of India? (#70)",
       "options": [
-        "Bangalore",
         "New Delhi",
+        "Mumbai",
         "Chennai",
-        "Mumbai"
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1810,10 +1810,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#70)",
       "options": [
-        "ಬೆಂಗಳೂರು",
         "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ"
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1825,10 +1825,10 @@
     "en": {
       "question": "What is the capital of India? (#71)",
       "options": [
-        "New Delhi",
-        "Bangalore",
         "Chennai",
-        "Mumbai"
+        "Mumbai",
+        "New Delhi",
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1836,10 +1836,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#71)",
       "options": [
-        "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
         "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ"
+        "ಮುಂಬೈ",
+        "ನವದೆಹಲಿ",
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1851,10 +1851,10 @@
     "en": {
       "question": "What is the capital of India? (#72)",
       "options": [
-        "New Delhi",
+        "Chennai",
         "Bangalore",
-        "Mumbai",
-        "Chennai"
+        "New Delhi",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1862,10 +1862,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#72)",
       "options": [
-        "ನವದೆಹಲಿ",
+        "ಚೆನ್ನೈ",
         "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ"
+        "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1877,10 +1877,10 @@
     "en": {
       "question": "What is the capital of India? (#73)",
       "options": [
+        "Chennai",
         "Bangalore",
-        "New Delhi",
         "Mumbai",
-        "Chennai"
+        "New Delhi"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1888,10 +1888,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#73)",
       "options": [
+        "ಚೆನ್ನೈ",
         "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ",
         "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ"
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1903,10 +1903,10 @@
     "en": {
       "question": "What is the capital of India? (#74)",
       "options": [
-        "New Delhi",
-        "Chennai",
+        "Mumbai",
         "Bangalore",
-        "Mumbai"
+        "Chennai",
+        "New Delhi"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1914,10 +1914,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#74)",
       "options": [
-        "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
+        "ಮುಂಬೈ",
         "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಚೆನ್ನೈ",
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1929,10 +1929,10 @@
     "en": {
       "question": "What is the capital of India? (#75)",
       "options": [
-        "Bangalore",
         "Chennai",
-        "Mumbai",
-        "New Delhi"
+        "Bangalore",
+        "New Delhi",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1940,10 +1940,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#75)",
       "options": [
-        "ಬೆಂಗಳೂರು",
         "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ಬೆಂಗಳೂರು",
+        "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1955,10 +1955,10 @@
     "en": {
       "question": "What is the capital of India? (#76)",
       "options": [
-        "Chennai",
-        "New Delhi",
         "Mumbai",
-        "Bangalore"
+        "Bangalore",
+        "Chennai",
+        "New Delhi"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -1966,10 +1966,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#76)",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ",
         "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು"
+        "ಬೆಂಗಳೂರು",
+        "ಚೆನ್ನೈ",
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -1981,9 +1981,9 @@
     "en": {
       "question": "What is the capital of India? (#77)",
       "options": [
-        "New Delhi",
         "Bangalore",
         "Chennai",
+        "New Delhi",
         "Mumbai"
       ],
       "answer": "New Delhi",
@@ -1992,9 +1992,9 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#77)",
       "options": [
-        "ನವದೆಹಲಿ",
         "ಬೆಂಗಳೂರು",
         "ಚೆನ್ನೈ",
+        "ನವದೆಹಲಿ",
         "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -2007,9 +2007,9 @@
     "en": {
       "question": "What is the capital of India? (#78)",
       "options": [
-        "Bangalore",
         "Chennai",
         "New Delhi",
+        "Bangalore",
         "Mumbai"
       ],
       "answer": "New Delhi",
@@ -2018,9 +2018,9 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#78)",
       "options": [
-        "ಬೆಂಗಳೂರು",
         "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
+        "ಬೆಂಗಳೂರು",
         "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -2033,10 +2033,10 @@
     "en": {
       "question": "What is the capital of India? (#79)",
       "options": [
-        "Mumbai",
-        "Bangalore",
+        "Chennai",
         "New Delhi",
-        "Chennai"
+        "Mumbai",
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -2044,10 +2044,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#79)",
       "options": [
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
+        "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ"
+        "ಮುಂಬೈ",
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -2059,10 +2059,10 @@
     "en": {
       "question": "What is the capital of India? (#80)",
       "options": [
-        "New Delhi",
         "Bangalore",
-        "Mumbai",
-        "Chennai"
+        "Chennai",
+        "New Delhi",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -2070,10 +2070,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#80)",
       "options": [
-        "ನವದೆಹಲಿ",
         "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ"
+        "ಚೆನ್ನೈ",
+        "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -2086,9 +2086,9 @@
       "question": "What is the capital of India? (#81)",
       "options": [
         "Chennai",
+        "Mumbai",
         "New Delhi",
-        "Bangalore",
-        "Mumbai"
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -2097,9 +2097,9 @@
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#81)",
       "options": [
         "ಚೆನ್ನೈ",
+        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -2111,10 +2111,10 @@
     "en": {
       "question": "What is the capital of India? (#82)",
       "options": [
+        "Mumbai",
         "Chennai",
         "New Delhi",
-        "Bangalore",
-        "Mumbai"
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -2122,10 +2122,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#82)",
       "options": [
+        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ"
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -2137,10 +2137,10 @@
     "en": {
       "question": "What is the capital of India? (#83)",
       "options": [
-        "Bangalore",
-        "New Delhi",
         "Mumbai",
-        "Chennai"
+        "Chennai",
+        "New Delhi",
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -2148,10 +2148,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#83)",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ",
         "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ"
+        "ಚೆನ್ನೈ",
+        "ನವದೆಹಲಿ",
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -2163,10 +2163,10 @@
     "en": {
       "question": "What is the capital of India? (#84)",
       "options": [
-        "Mumbai",
         "Bangalore",
+        "Chennai",
         "New Delhi",
-        "Chennai"
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -2174,10 +2174,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#84)",
       "options": [
-        "ಮುಂಬೈ",
         "ಬೆಂಗಳೂರು",
+        "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ"
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -2189,10 +2189,10 @@
     "en": {
       "question": "What is the capital of India? (#85)",
       "options": [
-        "Bangalore",
         "New Delhi",
+        "Mumbai",
         "Chennai",
-        "Mumbai"
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -2200,10 +2200,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#85)",
       "options": [
-        "ಬೆಂಗಳೂರು",
         "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ"
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -2216,9 +2216,9 @@
       "question": "What is the capital of India? (#86)",
       "options": [
         "Mumbai",
-        "New Delhi",
+        "Bangalore",
         "Chennai",
-        "Bangalore"
+        "New Delhi"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -2227,9 +2227,9 @@
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#86)",
       "options": [
         "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ",
+        "ಬೆಂಗಳೂರು",
         "ಚೆನ್ನೈ",
-        "ಬೆಂಗಳೂರು"
+        "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -2241,10 +2241,10 @@
     "en": {
       "question": "What is the capital of India? (#87)",
       "options": [
-        "Mumbai",
-        "Bangalore",
+        "Chennai",
         "New Delhi",
-        "Chennai"
+        "Mumbai",
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -2252,10 +2252,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#87)",
       "options": [
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು",
+        "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ"
+        "ಮುಂಬೈ",
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -2267,10 +2267,10 @@
     "en": {
       "question": "What is the capital of India? (#88)",
       "options": [
+        "New Delhi",
         "Mumbai",
-        "Chennai",
         "Bangalore",
-        "New Delhi"
+        "Chennai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -2278,10 +2278,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#88)",
       "options": [
+        "ನವದೆಹಲಿ",
         "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
         "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ"
+        "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -2293,10 +2293,10 @@
     "en": {
       "question": "What is the capital of India? (#89)",
       "options": [
-        "Bangalore",
-        "Mumbai",
         "Chennai",
-        "New Delhi"
+        "Mumbai",
+        "New Delhi",
+        "Bangalore"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -2304,10 +2304,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#89)",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ"
+        "ಮುಂಬೈ",
+        "ನವದೆಹಲಿ",
+        "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -2319,9 +2319,9 @@
     "en": {
       "question": "What is the capital of India? (#90)",
       "options": [
-        "New Delhi",
-        "Chennai",
         "Bangalore",
+        "Chennai",
+        "New Delhi",
         "Mumbai"
       ],
       "answer": "New Delhi",
@@ -2330,9 +2330,9 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#90)",
       "options": [
-        "ನವದೆಹಲಿ",
-        "ಚೆನ್ನೈ",
         "ಬೆಂಗಳೂರು",
+        "ಚೆನ್ನೈ",
+        "ನವದೆಹಲಿ",
         "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -2345,9 +2345,9 @@
     "en": {
       "question": "What is the capital of India? (#91)",
       "options": [
-        "Bangalore",
         "New Delhi",
         "Mumbai",
+        "Bangalore",
         "Chennai"
       ],
       "answer": "New Delhi",
@@ -2356,9 +2356,9 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#91)",
       "options": [
-        "ಬೆಂಗಳೂರು",
         "ನವದೆಹಲಿ",
         "ಮುಂಬೈ",
+        "ಬೆಂಗಳೂರು",
         "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -2371,9 +2371,9 @@
     "en": {
       "question": "What is the capital of India? (#92)",
       "options": [
-        "Mumbai",
-        "Chennai",
         "Bangalore",
+        "Chennai",
+        "Mumbai",
         "New Delhi"
       ],
       "answer": "New Delhi",
@@ -2382,9 +2382,9 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#92)",
       "options": [
-        "ಮುಂಬೈ",
-        "ಚೆನ್ನೈ",
         "ಬೆಂಗಳೂರು",
+        "ಚೆನ್ನೈ",
+        "ಮುಂಬೈ",
         "ನವದೆಹಲಿ"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -2398,8 +2398,8 @@
       "question": "What is the capital of India? (#93)",
       "options": [
         "Bangalore",
-        "New Delhi",
         "Chennai",
+        "New Delhi",
         "Mumbai"
       ],
       "answer": "New Delhi",
@@ -2409,8 +2409,8 @@
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#93)",
       "options": [
         "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ",
         "ಚೆನ್ನೈ",
+        "ನವದೆಹಲಿ",
         "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -2423,9 +2423,9 @@
     "en": {
       "question": "What is the capital of India? (#94)",
       "options": [
-        "Mumbai",
         "Chennai",
         "New Delhi",
+        "Mumbai",
         "Bangalore"
       ],
       "answer": "New Delhi",
@@ -2434,9 +2434,9 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#94)",
       "options": [
-        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ",
         "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ",
         "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -2449,10 +2449,10 @@
     "en": {
       "question": "What is the capital of India? (#95)",
       "options": [
-        "Chennai",
-        "New Delhi",
         "Mumbai",
-        "Bangalore"
+        "New Delhi",
+        "Bangalore",
+        "Chennai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -2460,10 +2460,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#95)",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ನವದೆಹಲಿ",
         "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು"
+        "ನವದೆಹಲಿ",
+        "ಬೆಂಗಳೂರು",
+        "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -2475,10 +2475,10 @@
     "en": {
       "question": "What is the capital of India? (#96)",
       "options": [
-        "New Delhi",
+        "Bangalore",
         "Chennai",
-        "Mumbai",
-        "Bangalore"
+        "New Delhi",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -2486,10 +2486,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#96)",
       "options": [
-        "ನವದೆಹಲಿ",
+        "ಬೆಂಗಳೂರು",
         "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
-        "ಬೆಂಗಳೂರು"
+        "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -2501,10 +2501,10 @@
     "en": {
       "question": "What is the capital of India? (#97)",
       "options": [
-        "Mumbai",
-        "New Delhi",
         "Bangalore",
-        "Chennai"
+        "New Delhi",
+        "Chennai",
+        "Mumbai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -2512,10 +2512,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#97)",
       "options": [
-        "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ",
         "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ"
+        "ನವದೆಹಲಿ",
+        "ಚೆನ್ನೈ",
+        "ಮುಂಬೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -2528,8 +2528,8 @@
       "question": "What is the capital of India? (#98)",
       "options": [
         "New Delhi",
-        "Mumbai",
         "Chennai",
+        "Mumbai",
         "Bangalore"
       ],
       "answer": "New Delhi",
@@ -2539,8 +2539,8 @@
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#98)",
       "options": [
         "ನವದೆಹಲಿ",
-        "ಮುಂಬೈ",
         "ಚೆನ್ನೈ",
+        "ಮುಂಬೈ",
         "ಬೆಂಗಳೂರು"
       ],
       "answer": "ನವದೆಹಲಿ",
@@ -2553,10 +2553,10 @@
     "en": {
       "question": "What is the capital of India? (#99)",
       "options": [
-        "Bangalore",
-        "Chennai",
         "Mumbai",
-        "New Delhi"
+        "Bangalore",
+        "New Delhi",
+        "Chennai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -2564,10 +2564,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#99)",
       "options": [
-        "ಬೆಂಗಳೂರು",
-        "ಚೆನ್ನೈ",
         "ಮುಂಬೈ",
-        "ನವದೆಹಲಿ"
+        "ಬೆಂಗಳೂರು",
+        "ನವದೆಹಲಿ",
+        "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."
@@ -2579,10 +2579,10 @@
     "en": {
       "question": "What is the capital of India? (#100)",
       "options": [
-        "Chennai",
-        "Mumbai",
         "Bangalore",
-        "New Delhi"
+        "New Delhi",
+        "Mumbai",
+        "Chennai"
       ],
       "answer": "New Delhi",
       "reasoning": "New Delhi is the capital city."
@@ -2590,10 +2590,10 @@
     "kn": {
       "question": "ಭಾರತದ ರಾಜಧಾನಿ ಯಾವುದು? (#100)",
       "options": [
-        "ಚೆನ್ನೈ",
-        "ಮುಂಬೈ",
         "ಬೆಂಗಳೂರು",
-        "ನವದೆಹಲಿ"
+        "ನವದೆಹಲಿ",
+        "ಮುಂಬೈ",
+        "ಚೆನ್ನೈ"
       ],
       "answer": "ನವದೆಹಲಿ",
       "reasoning": "ನವದೆಹಲಿ ರಾಜಧಾನಿಯಾಗಿದೆ."

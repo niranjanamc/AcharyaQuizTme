@@ -5,10 +5,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#1)",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
         "ಇ (i)",
-        "ಆ (aa)"
+        "ಈ (ee)",
+        "ಆ (aa)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -16,10 +16,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#1)",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
         "ಇ (i)",
-        "ಆ (aa)"
+        "ಈ (ee)",
+        "ಆ (aa)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -33,8 +33,8 @@
       "options": [
         "ಈ (ee)",
         "ಇ (i)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಆ (aa)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -44,8 +44,8 @@
       "options": [
         "ಈ (ee)",
         "ಇ (i)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಆ (aa)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -58,9 +58,9 @@
       "question": "What is the first vowel in Kannada? (#3)",
       "options": [
         "ಅ (a)",
-        "ಆ (aa)",
         "ಇ (i)",
-        "ಈ (ee)"
+        "ಈ (ee)",
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -69,9 +69,9 @@
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#3)",
       "options": [
         "ಅ (a)",
-        "ಆ (aa)",
         "ಇ (i)",
-        "ಈ (ee)"
+        "ಈ (ee)",
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -83,10 +83,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#4)",
       "options": [
-        "ಈ (ee)",
+        "ಆ (aa)",
         "ಅ (a)",
         "ಇ (i)",
-        "ಆ (aa)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -94,10 +94,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#4)",
       "options": [
-        "ಈ (ee)",
+        "ಆ (aa)",
         "ಅ (a)",
         "ಇ (i)",
-        "ಆ (aa)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -109,10 +109,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#5)",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
         "ಆ (aa)",
-        "ಅ (a)"
+        "ಅ (a)",
+        "ಇ (i)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -120,10 +120,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#5)",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
         "ಆ (aa)",
-        "ಅ (a)"
+        "ಅ (a)",
+        "ಇ (i)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -135,10 +135,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#6)",
       "options": [
-        "ಈ (ee)",
         "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಅ (a)",
+        "ಈ (ee)",
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -146,10 +146,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#6)",
       "options": [
-        "ಈ (ee)",
         "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಅ (a)",
+        "ಈ (ee)",
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -161,10 +161,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#7)",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
+        "ಈ (ee)",
         "ಆ (aa)",
-        "ಈ (ee)"
+        "ಇ (i)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -172,10 +172,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#7)",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
+        "ಈ (ee)",
         "ಆ (aa)",
-        "ಈ (ee)"
+        "ಇ (i)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -187,9 +187,9 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#8)",
       "options": [
+        "ಇ (i)",
         "ಆ (aa)",
         "ಅ (a)",
-        "ಇ (i)",
         "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
@@ -198,9 +198,9 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#8)",
       "options": [
+        "ಇ (i)",
         "ಆ (aa)",
         "ಅ (a)",
-        "ಇ (i)",
         "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
@@ -213,10 +213,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#9)",
       "options": [
+        "ಆ (aa)",
         "ಅ (a)",
         "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -224,10 +224,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#9)",
       "options": [
+        "ಆ (aa)",
         "ಅ (a)",
         "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -239,9 +239,9 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#10)",
       "options": [
-        "ಆ (aa)",
         "ಅ (a)",
         "ಈ (ee)",
+        "ಆ (aa)",
         "ಇ (i)"
       ],
       "answer": "ಅ (a)",
@@ -250,9 +250,9 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#10)",
       "options": [
-        "ಆ (aa)",
         "ಅ (a)",
         "ಈ (ee)",
+        "ಆ (aa)",
         "ಇ (i)"
       ],
       "answer": "ಅ (a)",
@@ -265,10 +265,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#11)",
       "options": [
-        "ಆ (aa)",
-        "ಈ (ee)",
         "ಅ (a)",
-        "ಇ (i)"
+        "ಇ (i)",
+        "ಈ (ee)",
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -276,10 +276,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#11)",
       "options": [
-        "ಆ (aa)",
-        "ಈ (ee)",
         "ಅ (a)",
-        "ಇ (i)"
+        "ಇ (i)",
+        "ಈ (ee)",
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -291,10 +291,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#12)",
       "options": [
+        "ಆ (aa)",
         "ಈ (ee)",
         "ಇ (i)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -302,10 +302,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#12)",
       "options": [
+        "ಆ (aa)",
         "ಈ (ee)",
         "ಇ (i)",
-        "ಅ (a)",
-        "ಆ (aa)"
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -318,9 +318,9 @@
       "question": "What is the first vowel in Kannada? (#13)",
       "options": [
         "ಇ (i)",
-        "ಈ (ee)",
         "ಆ (aa)",
-        "ಅ (a)"
+        "ಅ (a)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -329,9 +329,9 @@
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#13)",
       "options": [
         "ಇ (i)",
-        "ಈ (ee)",
         "ಆ (aa)",
-        "ಅ (a)"
+        "ಅ (a)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -343,9 +343,9 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#14)",
       "options": [
+        "ಅ (a)",
         "ಇ (i)",
         "ಈ (ee)",
-        "ಅ (a)",
         "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
@@ -354,9 +354,9 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#14)",
       "options": [
+        "ಅ (a)",
         "ಇ (i)",
         "ಈ (ee)",
-        "ಅ (a)",
         "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
@@ -369,10 +369,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#15)",
       "options": [
-        "ಇ (i)",
         "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಆ (aa)",
+        "ಇ (i)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -380,10 +380,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#15)",
       "options": [
-        "ಇ (i)",
         "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಆ (aa)",
+        "ಇ (i)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -395,10 +395,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#16)",
       "options": [
+        "ಈ (ee)",
         "ಆ (aa)",
-        "ಇ (i)",
         "ಅ (a)",
-        "ಈ (ee)"
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -406,10 +406,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#16)",
       "options": [
+        "ಈ (ee)",
         "ಆ (aa)",
-        "ಇ (i)",
         "ಅ (a)",
-        "ಈ (ee)"
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -421,10 +421,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#17)",
       "options": [
-        "ಇ (i)",
         "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಆ (aa)",
+        "ಇ (i)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -432,10 +432,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#17)",
       "options": [
-        "ಇ (i)",
         "ಅ (a)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಆ (aa)",
+        "ಇ (i)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -447,10 +447,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#18)",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
+        "ಆ (aa)",
         "ಈ (ee)",
-        "ಆ (aa)"
+        "ಇ (i)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -458,10 +458,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#18)",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
+        "ಆ (aa)",
         "ಈ (ee)",
-        "ಆ (aa)"
+        "ಇ (i)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -473,10 +473,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#19)",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
+        "ಈ (ee)",
         "ಆ (aa)",
-        "ಈ (ee)"
+        "ಇ (i)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -484,10 +484,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#19)",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
+        "ಈ (ee)",
         "ಆ (aa)",
-        "ಈ (ee)"
+        "ಇ (i)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -501,8 +501,8 @@
       "options": [
         "ಅ (a)",
         "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಇ (i)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -512,8 +512,8 @@
       "options": [
         "ಅ (a)",
         "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಇ (i)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -525,10 +525,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#21)",
       "options": [
+        "ಅ (a)",
         "ಈ (ee)",
         "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -536,10 +536,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#21)",
       "options": [
+        "ಅ (a)",
         "ಈ (ee)",
         "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -551,10 +551,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#22)",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
         "ಆ (aa)",
-        "ಅ (a)"
+        "ಇ (i)",
+        "ಅ (a)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -562,10 +562,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#22)",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
         "ಆ (aa)",
-        "ಅ (a)"
+        "ಇ (i)",
+        "ಅ (a)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -577,9 +577,9 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#23)",
       "options": [
+        "ಅ (a)",
         "ಇ (i)",
         "ಈ (ee)",
-        "ಅ (a)",
         "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
@@ -588,9 +588,9 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#23)",
       "options": [
+        "ಅ (a)",
         "ಇ (i)",
         "ಈ (ee)",
-        "ಅ (a)",
         "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
@@ -603,10 +603,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#24)",
       "options": [
-        "ಅ (a)",
         "ಆ (aa)",
+        "ಇ (i)",
         "ಈ (ee)",
-        "ಇ (i)"
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -614,10 +614,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#24)",
       "options": [
-        "ಅ (a)",
         "ಆ (aa)",
+        "ಇ (i)",
         "ಈ (ee)",
-        "ಇ (i)"
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -629,10 +629,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#25)",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
         "ಆ (aa)",
-        "ಅ (a)"
+        "ಅ (a)",
+        "ಈ (ee)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -640,10 +640,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#25)",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
         "ಆ (aa)",
-        "ಅ (a)"
+        "ಅ (a)",
+        "ಈ (ee)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -655,10 +655,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#26)",
       "options": [
-        "ಅ (a)",
+        "ಆ (aa)",
         "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಅ (a)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -666,10 +666,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#26)",
       "options": [
-        "ಅ (a)",
+        "ಆ (aa)",
         "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಅ (a)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -681,10 +681,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#27)",
       "options": [
-        "ಈ (ee)",
+        "ಇ (i)",
         "ಆ (aa)",
         "ಅ (a)",
-        "ಇ (i)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -692,10 +692,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#27)",
       "options": [
-        "ಈ (ee)",
+        "ಇ (i)",
         "ಆ (aa)",
         "ಅ (a)",
-        "ಇ (i)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -707,10 +707,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#28)",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
+        "ಈ (ee)",
         "ಆ (aa)",
-        "ಈ (ee)"
+        "ಇ (i)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -718,10 +718,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#28)",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
+        "ಈ (ee)",
         "ಆ (aa)",
-        "ಈ (ee)"
+        "ಇ (i)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -733,10 +733,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#29)",
       "options": [
+        "ಆ (aa)",
         "ಅ (a)",
         "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -744,10 +744,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#29)",
       "options": [
+        "ಆ (aa)",
         "ಅ (a)",
         "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -759,9 +759,9 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#30)",
       "options": [
+        "ಈ (ee)",
         "ಆ (aa)",
         "ಅ (a)",
-        "ಈ (ee)",
         "ಇ (i)"
       ],
       "answer": "ಅ (a)",
@@ -770,9 +770,9 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#30)",
       "options": [
+        "ಈ (ee)",
         "ಆ (aa)",
         "ಅ (a)",
-        "ಈ (ee)",
         "ಇ (i)"
       ],
       "answer": "ಅ (a)",
@@ -785,10 +785,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#31)",
       "options": [
-        "ಈ (ee)",
-        "ಇ (i)",
         "ಆ (aa)",
-        "ಅ (a)"
+        "ಈ (ee)",
+        "ಅ (a)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -796,10 +796,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#31)",
       "options": [
-        "ಈ (ee)",
-        "ಇ (i)",
         "ಆ (aa)",
-        "ಅ (a)"
+        "ಈ (ee)",
+        "ಅ (a)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -811,10 +811,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#32)",
       "options": [
-        "ಇ (i)",
+        "ಈ (ee)",
         "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ಇ (i)",
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -822,10 +822,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#32)",
       "options": [
-        "ಇ (i)",
+        "ಈ (ee)",
         "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ಇ (i)",
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -837,10 +837,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#33)",
       "options": [
-        "ಇ (i)",
         "ಅ (a)",
         "ಈ (ee)",
-        "ಆ (aa)"
+        "ಆ (aa)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -848,10 +848,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#33)",
       "options": [
-        "ಇ (i)",
         "ಅ (a)",
         "ಈ (ee)",
-        "ಆ (aa)"
+        "ಆ (aa)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -863,10 +863,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#34)",
       "options": [
-        "ಆ (aa)",
-        "ಈ (ee)",
+        "ಅ (a)",
         "ಇ (i)",
-        "ಅ (a)"
+        "ಈ (ee)",
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -874,10 +874,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#34)",
       "options": [
-        "ಆ (aa)",
-        "ಈ (ee)",
+        "ಅ (a)",
         "ಇ (i)",
-        "ಅ (a)"
+        "ಈ (ee)",
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -889,8 +889,8 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#35)",
       "options": [
-        "ಆ (aa)",
         "ಈ (ee)",
+        "ಆ (aa)",
         "ಇ (i)",
         "ಅ (a)"
       ],
@@ -900,8 +900,8 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#35)",
       "options": [
-        "ಆ (aa)",
         "ಈ (ee)",
+        "ಆ (aa)",
         "ಇ (i)",
         "ಅ (a)"
       ],
@@ -915,10 +915,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#36)",
       "options": [
-        "ಈ (ee)",
         "ಆ (aa)",
         "ಅ (a)",
-        "ಇ (i)"
+        "ಇ (i)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -926,10 +926,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#36)",
       "options": [
-        "ಈ (ee)",
         "ಆ (aa)",
         "ಅ (a)",
-        "ಇ (i)"
+        "ಇ (i)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -941,10 +941,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#37)",
       "options": [
-        "ಈ (ee)",
-        "ಆ (aa)",
         "ಇ (i)",
-        "ಅ (a)"
+        "ಆ (aa)",
+        "ಅ (a)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -952,10 +952,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#37)",
       "options": [
-        "ಈ (ee)",
-        "ಆ (aa)",
         "ಇ (i)",
-        "ಅ (a)"
+        "ಆ (aa)",
+        "ಅ (a)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -967,10 +967,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#38)",
       "options": [
-        "ಇ (i)",
         "ಅ (a)",
+        "ಈ (ee)",
         "ಆ (aa)",
-        "ಈ (ee)"
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -978,10 +978,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#38)",
       "options": [
-        "ಇ (i)",
         "ಅ (a)",
+        "ಈ (ee)",
         "ಆ (aa)",
-        "ಈ (ee)"
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -993,10 +993,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#39)",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
+        "ಈ (ee)",
         "ಅ (a)",
-        "ಈ (ee)"
+        "ಆ (aa)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1004,10 +1004,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#39)",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
+        "ಈ (ee)",
         "ಅ (a)",
-        "ಈ (ee)"
+        "ಆ (aa)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1020,8 +1020,8 @@
       "question": "What is the first vowel in Kannada? (#40)",
       "options": [
         "ಅ (a)",
-        "ಇ (i)",
         "ಈ (ee)",
+        "ಇ (i)",
         "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
@@ -1031,8 +1031,8 @@
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#40)",
       "options": [
         "ಅ (a)",
-        "ಇ (i)",
         "ಈ (ee)",
+        "ಇ (i)",
         "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
@@ -1045,10 +1045,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#41)",
       "options": [
-        "ಈ (ee)",
-        "ಇ (i)",
+        "ಆ (aa)",
         "ಅ (a)",
-        "ಆ (aa)"
+        "ಈ (ee)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1056,10 +1056,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#41)",
       "options": [
-        "ಈ (ee)",
-        "ಇ (i)",
+        "ಆ (aa)",
         "ಅ (a)",
-        "ಆ (aa)"
+        "ಈ (ee)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1071,10 +1071,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#42)",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
         "ಇ (i)",
-        "ಈ (ee)"
+        "ಈ (ee)",
+        "ಆ (aa)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1082,10 +1082,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#42)",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
         "ಇ (i)",
-        "ಈ (ee)"
+        "ಈ (ee)",
+        "ಆ (aa)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1097,10 +1097,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#43)",
       "options": [
-        "ಆ (aa)",
+        "ಅ (a)",
         "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)"
+        "ಆ (aa)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1108,10 +1108,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#43)",
       "options": [
-        "ಆ (aa)",
+        "ಅ (a)",
         "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)"
+        "ಆ (aa)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1124,9 +1124,9 @@
       "question": "What is the first vowel in Kannada? (#44)",
       "options": [
         "ಅ (a)",
+        "ಆ (aa)",
         "ಈ (ee)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1135,9 +1135,9 @@
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#44)",
       "options": [
         "ಅ (a)",
+        "ಆ (aa)",
         "ಈ (ee)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1149,10 +1149,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#45)",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
         "ಅ (a)",
-        "ಈ (ee)"
+        "ಆ (aa)",
+        "ಈ (ee)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1160,10 +1160,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#45)",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
         "ಅ (a)",
-        "ಈ (ee)"
+        "ಆ (aa)",
+        "ಈ (ee)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1175,9 +1175,9 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#46)",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
         "ಈ (ee)",
+        "ಅ (a)",
+        "ಇ (i)",
         "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
@@ -1186,9 +1186,9 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#46)",
       "options": [
-        "ಇ (i)",
-        "ಅ (a)",
         "ಈ (ee)",
+        "ಅ (a)",
+        "ಇ (i)",
         "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
@@ -1229,8 +1229,8 @@
       "options": [
         "ಈ (ee)",
         "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ಆ (aa)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1240,8 +1240,8 @@
       "options": [
         "ಈ (ee)",
         "ಅ (a)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ಆ (aa)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1253,10 +1253,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#49)",
       "options": [
-        "ಆ (aa)",
         "ಇ (i)",
+        "ಈ (ee)",
         "ಅ (a)",
-        "ಈ (ee)"
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1264,10 +1264,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#49)",
       "options": [
-        "ಆ (aa)",
         "ಇ (i)",
+        "ಈ (ee)",
         "ಅ (a)",
-        "ಈ (ee)"
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1279,9 +1279,9 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#50)",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
         "ಇ (i)",
+        "ಅ (a)",
+        "ಈ (ee)",
         "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
@@ -1290,9 +1290,9 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#50)",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
         "ಇ (i)",
+        "ಅ (a)",
+        "ಈ (ee)",
         "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
@@ -1306,9 +1306,9 @@
       "question": "What is the first vowel in Kannada? (#51)",
       "options": [
         "ಈ (ee)",
-        "ಆ (aa)",
+        "ಅ (a)",
         "ಇ (i)",
-        "ಅ (a)"
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1317,9 +1317,9 @@
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#51)",
       "options": [
         "ಈ (ee)",
-        "ಆ (aa)",
+        "ಅ (a)",
         "ಇ (i)",
-        "ಅ (a)"
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1331,10 +1331,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#52)",
       "options": [
-        "ಆ (aa)",
         "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಆ (aa)",
+        "ಈ (ee)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1342,10 +1342,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#52)",
       "options": [
-        "ಆ (aa)",
         "ಅ (a)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಆ (aa)",
+        "ಈ (ee)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1357,10 +1357,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#53)",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
+        "ಇ (i)",
         "ಈ (ee)",
-        "ಇ (i)"
+        "ಅ (a)",
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1368,10 +1368,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#53)",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
+        "ಇ (i)",
         "ಈ (ee)",
-        "ಇ (i)"
+        "ಅ (a)",
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1383,10 +1383,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#54)",
       "options": [
-        "ಈ (ee)",
+        "ಆ (aa)",
         "ಅ (a)",
         "ಇ (i)",
-        "ಆ (aa)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1394,10 +1394,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#54)",
       "options": [
-        "ಈ (ee)",
+        "ಆ (aa)",
         "ಅ (a)",
         "ಇ (i)",
-        "ಆ (aa)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1409,10 +1409,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#55)",
       "options": [
-        "ಇ (i)",
+        "ಅ (a)",
         "ಆ (aa)",
         "ಈ (ee)",
-        "ಅ (a)"
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1420,10 +1420,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#55)",
       "options": [
-        "ಇ (i)",
+        "ಅ (a)",
         "ಆ (aa)",
         "ಈ (ee)",
-        "ಅ (a)"
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1435,10 +1435,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#56)",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
+        "ಆ (aa)",
         "ಈ (ee)",
-        "ಆ (aa)"
+        "ಇ (i)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1446,10 +1446,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#56)",
       "options": [
-        "ಅ (a)",
-        "ಇ (i)",
+        "ಆ (aa)",
         "ಈ (ee)",
-        "ಆ (aa)"
+        "ಇ (i)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1462,9 +1462,9 @@
       "question": "What is the first vowel in Kannada? (#57)",
       "options": [
         "ಅ (a)",
+        "ಇ (i)",
         "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1473,9 +1473,9 @@
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#57)",
       "options": [
         "ಅ (a)",
+        "ಇ (i)",
         "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1487,10 +1487,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#58)",
       "options": [
-        "ಅ (a)",
         "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಅ (a)",
+        "ಈ (ee)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1498,10 +1498,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#58)",
       "options": [
-        "ಅ (a)",
         "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಅ (a)",
+        "ಈ (ee)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1513,10 +1513,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#59)",
       "options": [
-        "ಆ (aa)",
         "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)"
+        "ಆ (aa)",
+        "ಅ (a)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1524,10 +1524,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#59)",
       "options": [
-        "ಆ (aa)",
         "ಇ (i)",
-        "ಈ (ee)",
-        "ಅ (a)"
+        "ಆ (aa)",
+        "ಅ (a)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1539,10 +1539,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#60)",
       "options": [
-        "ಇ (i)",
+        "ಆ (aa)",
         "ಈ (ee)",
         "ಅ (a)",
-        "ಆ (aa)"
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1550,10 +1550,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#60)",
       "options": [
-        "ಇ (i)",
+        "ಆ (aa)",
         "ಈ (ee)",
         "ಅ (a)",
-        "ಆ (aa)"
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1565,10 +1565,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#61)",
       "options": [
-        "ಆ (aa)",
         "ಈ (ee)",
-        "ಇ (i)",
-        "ಅ (a)"
+        "ಅ (a)",
+        "ಆ (aa)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1576,10 +1576,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#61)",
       "options": [
-        "ಆ (aa)",
         "ಈ (ee)",
-        "ಇ (i)",
-        "ಅ (a)"
+        "ಅ (a)",
+        "ಆ (aa)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1592,8 +1592,8 @@
       "question": "What is the first vowel in Kannada? (#62)",
       "options": [
         "ಆ (aa)",
-        "ಅ (a)",
         "ಇ (i)",
+        "ಅ (a)",
         "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
@@ -1603,8 +1603,8 @@
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#62)",
       "options": [
         "ಆ (aa)",
-        "ಅ (a)",
         "ಇ (i)",
+        "ಅ (a)",
         "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
@@ -1617,9 +1617,9 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#63)",
       "options": [
+        "ಇ (i)",
         "ಅ (a)",
         "ಆ (aa)",
-        "ಇ (i)",
         "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
@@ -1628,9 +1628,9 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#63)",
       "options": [
+        "ಇ (i)",
         "ಅ (a)",
         "ಆ (aa)",
-        "ಇ (i)",
         "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
@@ -1643,10 +1643,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#64)",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
         "ಆ (aa)",
-        "ಅ (a)"
+        "ಅ (a)",
+        "ಇ (i)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1654,10 +1654,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#64)",
       "options": [
-        "ಇ (i)",
-        "ಈ (ee)",
         "ಆ (aa)",
-        "ಅ (a)"
+        "ಅ (a)",
+        "ಇ (i)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1669,10 +1669,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#65)",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
         "ಈ (ee)",
-        "ಅ (a)"
+        "ಆ (aa)",
+        "ಅ (a)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1680,10 +1680,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#65)",
       "options": [
-        "ಇ (i)",
-        "ಆ (aa)",
         "ಈ (ee)",
-        "ಅ (a)"
+        "ಆ (aa)",
+        "ಅ (a)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1695,10 +1695,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#66)",
       "options": [
-        "ಅ (a)",
         "ಈ (ee)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ಅ (a)",
+        "ಆ (aa)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1706,10 +1706,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#66)",
       "options": [
-        "ಅ (a)",
         "ಈ (ee)",
-        "ಇ (i)",
-        "ಆ (aa)"
+        "ಅ (a)",
+        "ಆ (aa)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1721,10 +1721,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#67)",
       "options": [
-        "ಇ (i)",
+        "ಈ (ee)",
         "ಅ (a)",
         "ಆ (aa)",
-        "ಈ (ee)"
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1732,10 +1732,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#67)",
       "options": [
-        "ಇ (i)",
+        "ಈ (ee)",
         "ಅ (a)",
         "ಆ (aa)",
-        "ಈ (ee)"
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1748,9 +1748,9 @@
       "question": "What is the first vowel in Kannada? (#68)",
       "options": [
         "ಅ (a)",
-        "ಈ (ee)",
         "ಇ (i)",
-        "ಆ (aa)"
+        "ಆ (aa)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1759,9 +1759,9 @@
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#68)",
       "options": [
         "ಅ (a)",
-        "ಈ (ee)",
         "ಇ (i)",
-        "ಆ (aa)"
+        "ಆ (aa)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1773,10 +1773,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#69)",
       "options": [
-        "ಆ (aa)",
         "ಈ (ee)",
+        "ಅ (a)",
         "ಇ (i)",
-        "ಅ (a)"
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1784,10 +1784,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#69)",
       "options": [
-        "ಆ (aa)",
         "ಈ (ee)",
+        "ಅ (a)",
         "ಇ (i)",
-        "ಅ (a)"
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1799,10 +1799,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#70)",
       "options": [
-        "ಅ (a)",
         "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಅ (a)",
+        "ಆ (aa)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1810,10 +1810,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#70)",
       "options": [
-        "ಅ (a)",
         "ಇ (i)",
-        "ಈ (ee)",
-        "ಆ (aa)"
+        "ಅ (a)",
+        "ಆ (aa)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1825,10 +1825,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#71)",
       "options": [
-        "ಅ (a)",
+        "ಇ (i)",
         "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಅ (a)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1836,10 +1836,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#71)",
       "options": [
-        "ಅ (a)",
+        "ಇ (i)",
         "ಆ (aa)",
-        "ಈ (ee)",
-        "ಇ (i)"
+        "ಅ (a)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1851,9 +1851,9 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#72)",
       "options": [
-        "ಅ (a)",
         "ಆ (aa)",
         "ಇ (i)",
+        "ಅ (a)",
         "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
@@ -1862,9 +1862,9 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#72)",
       "options": [
-        "ಅ (a)",
         "ಆ (aa)",
         "ಇ (i)",
+        "ಅ (a)",
         "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
@@ -1877,10 +1877,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#73)",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
+        "ಆ (aa)",
         "ಇ (i)",
-        "ಆ (aa)"
+        "ಈ (ee)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1888,10 +1888,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#73)",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
+        "ಆ (aa)",
         "ಇ (i)",
-        "ಆ (aa)"
+        "ಈ (ee)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -1929,10 +1929,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#75)",
       "options": [
-        "ಇ (i)",
         "ಈ (ee)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಇ (i)",
+        "ಅ (a)",
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -1940,10 +1940,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#75)",
       "options": [
-        "ಇ (i)",
         "ಈ (ee)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಇ (i)",
+        "ಅ (a)",
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2008,9 +2008,9 @@
       "question": "What is the first vowel in Kannada? (#78)",
       "options": [
         "ಆ (aa)",
-        "ಈ (ee)",
+        "ಅ (a)",
         "ಇ (i)",
-        "ಅ (a)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -2019,9 +2019,9 @@
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#78)",
       "options": [
         "ಆ (aa)",
-        "ಈ (ee)",
+        "ಅ (a)",
         "ಇ (i)",
-        "ಅ (a)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2033,10 +2033,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#79)",
       "options": [
-        "ಆ (aa)",
         "ಈ (ee)",
-        "ಅ (a)",
-        "ಇ (i)"
+        "ಇ (i)",
+        "ಆ (aa)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -2044,10 +2044,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#79)",
       "options": [
-        "ಆ (aa)",
         "ಈ (ee)",
-        "ಅ (a)",
-        "ಇ (i)"
+        "ಇ (i)",
+        "ಆ (aa)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2060,9 +2060,9 @@
       "question": "What is the first vowel in Kannada? (#80)",
       "options": [
         "ಆ (aa)",
-        "ಇ (i)",
+        "ಅ (a)",
         "ಈ (ee)",
-        "ಅ (a)"
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -2071,9 +2071,9 @@
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#80)",
       "options": [
         "ಆ (aa)",
-        "ಇ (i)",
+        "ಅ (a)",
         "ಈ (ee)",
-        "ಅ (a)"
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2085,10 +2085,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#81)",
       "options": [
-        "ಆ (aa)",
         "ಇ (i)",
+        "ಈ (ee)",
         "ಅ (a)",
-        "ಈ (ee)"
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -2096,10 +2096,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#81)",
       "options": [
-        "ಆ (aa)",
         "ಇ (i)",
+        "ಈ (ee)",
         "ಅ (a)",
-        "ಈ (ee)"
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2111,10 +2111,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#82)",
       "options": [
+        "ಇ (i)",
         "ಈ (ee)",
-        "ಆ (aa)",
         "ಅ (a)",
-        "ಇ (i)"
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -2122,10 +2122,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#82)",
       "options": [
+        "ಇ (i)",
         "ಈ (ee)",
-        "ಆ (aa)",
         "ಅ (a)",
-        "ಇ (i)"
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2137,10 +2137,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#83)",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
         "ಈ (ee)",
-        "ಇ (i)"
+        "ಇ (i)",
+        "ಆ (aa)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -2148,10 +2148,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#83)",
       "options": [
-        "ಅ (a)",
-        "ಆ (aa)",
         "ಈ (ee)",
-        "ಇ (i)"
+        "ಇ (i)",
+        "ಆ (aa)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2163,8 +2163,8 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#84)",
       "options": [
-        "ಈ (ee)",
         "ಅ (a)",
+        "ಈ (ee)",
         "ಆ (aa)",
         "ಇ (i)"
       ],
@@ -2174,8 +2174,8 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#84)",
       "options": [
-        "ಈ (ee)",
         "ಅ (a)",
+        "ಈ (ee)",
         "ಆ (aa)",
         "ಇ (i)"
       ],
@@ -2189,9 +2189,9 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#85)",
       "options": [
+        "ಅ (a)",
         "ಇ (i)",
         "ಆ (aa)",
-        "ಅ (a)",
         "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
@@ -2200,9 +2200,9 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#85)",
       "options": [
+        "ಅ (a)",
         "ಇ (i)",
         "ಆ (aa)",
-        "ಅ (a)",
         "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
@@ -2215,10 +2215,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#86)",
       "options": [
-        "ಅ (a)",
         "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಅ (a)",
+        "ಈ (ee)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -2226,10 +2226,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#86)",
       "options": [
-        "ಅ (a)",
         "ಆ (aa)",
-        "ಇ (i)",
-        "ಈ (ee)"
+        "ಅ (a)",
+        "ಈ (ee)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2242,9 +2242,9 @@
       "question": "What is the first vowel in Kannada? (#87)",
       "options": [
         "ಅ (a)",
-        "ಇ (i)",
         "ಆ (aa)",
-        "ಈ (ee)"
+        "ಈ (ee)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -2253,9 +2253,9 @@
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#87)",
       "options": [
         "ಅ (a)",
-        "ಇ (i)",
         "ಆ (aa)",
-        "ಈ (ee)"
+        "ಈ (ee)",
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2267,10 +2267,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#88)",
       "options": [
-        "ಈ (ee)",
         "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಈ (ee)",
+        "ಅ (a)",
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -2278,10 +2278,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#88)",
       "options": [
-        "ಈ (ee)",
         "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಈ (ee)",
+        "ಅ (a)",
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2293,10 +2293,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#89)",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
+        "ಇ (i)",
         "ಆ (aa)",
-        "ಇ (i)"
+        "ಅ (a)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -2304,10 +2304,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#89)",
       "options": [
-        "ಈ (ee)",
-        "ಅ (a)",
+        "ಇ (i)",
         "ಆ (aa)",
-        "ಇ (i)"
+        "ಅ (a)",
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2319,10 +2319,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#90)",
       "options": [
+        "ಈ (ee)",
         "ಇ (i)",
         "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -2330,10 +2330,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#90)",
       "options": [
+        "ಈ (ee)",
         "ಇ (i)",
         "ಅ (a)",
-        "ಆ (aa)",
-        "ಈ (ee)"
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2345,9 +2345,9 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#91)",
       "options": [
-        "ಅ (a)",
         "ಆ (aa)",
         "ಈ (ee)",
+        "ಅ (a)",
         "ಇ (i)"
       ],
       "answer": "ಅ (a)",
@@ -2356,9 +2356,9 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#91)",
       "options": [
-        "ಅ (a)",
         "ಆ (aa)",
         "ಈ (ee)",
+        "ಅ (a)",
         "ಇ (i)"
       ],
       "answer": "ಅ (a)",
@@ -2372,9 +2372,9 @@
       "question": "What is the first vowel in Kannada? (#92)",
       "options": [
         "ಇ (i)",
+        "ಅ (a)",
         "ಆ (aa)",
-        "ಈ (ee)",
-        "ಅ (a)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -2383,9 +2383,9 @@
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#92)",
       "options": [
         "ಇ (i)",
+        "ಅ (a)",
         "ಆ (aa)",
-        "ಈ (ee)",
-        "ಅ (a)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2397,9 +2397,9 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#93)",
       "options": [
+        "ಅ (a)",
         "ಆ (aa)",
         "ಇ (i)",
-        "ಅ (a)",
         "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
@@ -2408,9 +2408,9 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#93)",
       "options": [
+        "ಅ (a)",
         "ಆ (aa)",
         "ಇ (i)",
-        "ಅ (a)",
         "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
@@ -2449,10 +2449,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#95)",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
         "ಇ (i)",
-        "ಈ (ee)"
+        "ಆ (aa)",
+        "ಈ (ee)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -2460,10 +2460,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#95)",
       "options": [
-        "ಆ (aa)",
-        "ಅ (a)",
         "ಇ (i)",
-        "ಈ (ee)"
+        "ಆ (aa)",
+        "ಈ (ee)",
+        "ಅ (a)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2476,9 +2476,9 @@
       "question": "What is the first vowel in Kannada? (#96)",
       "options": [
         "ಆ (aa)",
-        "ಈ (ee)",
+        "ಅ (a)",
         "ಇ (i)",
-        "ಅ (a)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -2487,9 +2487,9 @@
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#96)",
       "options": [
         "ಆ (aa)",
-        "ಈ (ee)",
+        "ಅ (a)",
         "ಇ (i)",
-        "ಅ (a)"
+        "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2502,8 +2502,8 @@
       "question": "What is the first vowel in Kannada? (#97)",
       "options": [
         "ಇ (i)",
-        "ಆ (aa)",
         "ಈ (ee)",
+        "ಆ (aa)",
         "ಅ (a)"
       ],
       "answer": "ಅ (a)",
@@ -2513,8 +2513,8 @@
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#97)",
       "options": [
         "ಇ (i)",
-        "ಆ (aa)",
         "ಈ (ee)",
+        "ಆ (aa)",
         "ಅ (a)"
       ],
       "answer": "ಅ (a)",
@@ -2527,10 +2527,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#98)",
       "options": [
-        "ಇ (i)",
+        "ಆ (aa)",
         "ಅ (a)",
         "ಈ (ee)",
-        "ಆ (aa)"
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -2538,10 +2538,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#98)",
       "options": [
-        "ಇ (i)",
+        "ಆ (aa)",
         "ಅ (a)",
         "ಈ (ee)",
-        "ಆ (aa)"
+        "ಇ (i)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2553,10 +2553,10 @@
     "en": {
       "question": "What is the first vowel in Kannada? (#99)",
       "options": [
+        "ಅ (a)",
         "ಈ (ee)",
         "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) is the correct grammar rule."
@@ -2564,10 +2564,10 @@
     "kn": {
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#99)",
       "options": [
+        "ಅ (a)",
         "ಈ (ee)",
         "ಇ (i)",
-        "ಆ (aa)",
-        "ಅ (a)"
+        "ಆ (aa)"
       ],
       "answer": "ಅ (a)",
       "reasoning": "ಅ (a) ಸರಿಯಾದ ವ್ಯಾಕರಣ ನಿಯಮ."
@@ -2580,8 +2580,8 @@
       "question": "What is the first vowel in Kannada? (#100)",
       "options": [
         "ಅ (a)",
-        "ಆ (aa)",
         "ಇ (i)",
+        "ಆ (aa)",
         "ಈ (ee)"
       ],
       "answer": "ಅ (a)",
@@ -2591,8 +2591,8 @@
       "question": "ಕನ್ನಡದ ಮೊದಲ ಸ್ವರ ಯಾವುದು? (#100)",
       "options": [
         "ಅ (a)",
-        "ಆ (aa)",
         "ಇ (i)",
+        "ಆ (aa)",
         "ಈ (ee)"
       ],
       "answer": "ಅ (a)",

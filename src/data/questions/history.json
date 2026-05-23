@@ -5,10 +5,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#1)",
       "options": [
-        "Chandragupta",
-        "Shivaji",
         "Ashoka",
-        "Akbar"
+        "Akbar",
+        "Chandragupta",
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -16,10 +16,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#1)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ",
         "ಅಶೋಕ",
-        "ಅಕ್ಬರ್"
+        "ಅಕ್ಬರ್",
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -31,8 +31,8 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#2)",
       "options": [
-        "Ashoka",
         "Chandragupta",
+        "Ashoka",
         "Akbar",
         "Shivaji"
       ],
@@ -42,8 +42,8 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#2)",
       "options": [
-        "ಅಶೋಕ",
         "ಚಂದ್ರಗುಪ್ತ",
+        "ಅಶೋಕ",
         "ಅಕ್ಬರ್",
         "ಶಿವಾಜಿ"
       ],
@@ -58,9 +58,9 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#3)",
       "options": [
         "Shivaji",
+        "Chandragupta",
         "Akbar",
-        "Ashoka",
-        "Chandragupta"
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -69,9 +69,9 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#3)",
       "options": [
         "ಶಿವಾಜಿ",
+        "ಚಂದ್ರಗುಪ್ತ",
         "ಅಕ್ಬರ್",
-        "ಅಶೋಕ",
-        "ಚಂದ್ರಗುಪ್ತ"
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -83,10 +83,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#4)",
       "options": [
-        "Ashoka",
+        "Shivaji",
         "Chandragupta",
         "Akbar",
-        "Shivaji"
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -94,10 +94,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#4)",
       "options": [
-        "ಅಶೋಕ",
+        "ಶಿವಾಜಿ",
         "ಚಂದ್ರಗುಪ್ತ",
         "ಅಕ್ಬರ್",
-        "ಶಿವಾಜಿ"
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -110,9 +110,9 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#5)",
       "options": [
         "Shivaji",
-        "Akbar",
+        "Ashoka",
         "Chandragupta",
-        "Ashoka"
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -121,9 +121,9 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#5)",
       "options": [
         "ಶಿವಾಜಿ",
-        "ಅಕ್ಬರ್",
+        "ಅಶೋಕ",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಶೋಕ"
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -135,10 +135,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#6)",
       "options": [
-        "Shivaji",
         "Chandragupta",
-        "Akbar",
-        "Ashoka"
+        "Shivaji",
+        "Ashoka",
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -146,10 +146,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#6)",
       "options": [
-        "ಶಿವಾಜಿ",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಕ್ಬರ್",
-        "ಅಶೋಕ"
+        "ಶಿವಾಜಿ",
+        "ಅಶೋಕ",
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -161,10 +161,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#7)",
       "options": [
-        "Shivaji",
-        "Chandragupta",
         "Ashoka",
-        "Akbar"
+        "Chandragupta",
+        "Akbar",
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -172,10 +172,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#7)",
       "options": [
-        "ಶಿವಾಜಿ",
-        "ಚಂದ್ರಗುಪ್ತ",
         "ಅಶೋಕ",
-        "ಅಕ್ಬರ್"
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಅಕ್ಬರ್",
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -187,10 +187,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#8)",
       "options": [
-        "Akbar",
-        "Chandragupta",
+        "Shivaji",
         "Ashoka",
-        "Shivaji"
+        "Akbar",
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -198,10 +198,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#8)",
       "options": [
-        "ಅಕ್ಬರ್",
-        "ಚಂದ್ರಗುಪ್ತ",
+        "ಶಿವಾಜಿ",
         "ಅಶೋಕ",
-        "ಶಿವಾಜಿ"
+        "ಅಕ್ಬರ್",
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -213,9 +213,9 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#9)",
       "options": [
+        "Ashoka",
         "Akbar",
         "Chandragupta",
-        "Ashoka",
         "Shivaji"
       ],
       "answer": "Chandragupta",
@@ -224,9 +224,9 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#9)",
       "options": [
+        "ಅಶೋಕ",
         "ಅಕ್ಬರ್",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಶೋಕ",
         "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
@@ -239,10 +239,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#10)",
       "options": [
-        "Akbar",
-        "Ashoka",
         "Shivaji",
-        "Chandragupta"
+        "Chandragupta",
+        "Ashoka",
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -250,10 +250,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#10)",
       "options": [
-        "ಅಕ್ಬರ್",
-        "ಅಶೋಕ",
         "ಶಿವಾಜಿ",
-        "ಚಂದ್ರಗುಪ್ತ"
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಅಶೋಕ",
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -265,10 +265,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#11)",
       "options": [
-        "Shivaji",
         "Ashoka",
-        "Akbar",
-        "Chandragupta"
+        "Chandragupta",
+        "Shivaji",
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -276,10 +276,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#11)",
       "options": [
-        "ಶಿವಾಜಿ",
         "ಅಶೋಕ",
-        "ಅಕ್ಬರ್",
-        "ಚಂದ್ರಗುಪ್ತ"
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -317,10 +317,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#13)",
       "options": [
-        "Akbar",
         "Ashoka",
-        "Chandragupta",
-        "Shivaji"
+        "Akbar",
+        "Shivaji",
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -328,10 +328,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#13)",
       "options": [
-        "ಅಕ್ಬರ್",
         "ಅಶೋಕ",
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ"
+        "ಅಕ್ಬರ್",
+        "ಶಿವಾಜಿ",
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -343,10 +343,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#14)",
       "options": [
-        "Shivaji",
+        "Akbar",
         "Ashoka",
-        "Chandragupta",
-        "Akbar"
+        "Shivaji",
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -354,10 +354,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#14)",
       "options": [
-        "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್",
         "ಅಶೋಕ",
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಕ್ಬರ್"
+        "ಶಿವಾಜಿ",
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -369,10 +369,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#15)",
       "options": [
-        "Shivaji",
         "Chandragupta",
+        "Ashoka",
         "Akbar",
-        "Ashoka"
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -380,10 +380,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#15)",
       "options": [
-        "ಶಿವಾಜಿ",
         "ಚಂದ್ರಗುಪ್ತ",
+        "ಅಶೋಕ",
         "ಅಕ್ಬರ್",
-        "ಅಶೋಕ"
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -396,9 +396,9 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#16)",
       "options": [
         "Akbar",
-        "Ashoka",
+        "Chandragupta",
         "Shivaji",
-        "Chandragupta"
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -407,9 +407,9 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#16)",
       "options": [
         "ಅಕ್ಬರ್",
-        "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ",
         "ಶಿವಾಜಿ",
-        "ಚಂದ್ರಗುಪ್ತ"
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -421,10 +421,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#17)",
       "options": [
-        "Chandragupta",
-        "Shivaji",
         "Ashoka",
-        "Akbar"
+        "Shivaji",
+        "Akbar",
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -432,10 +432,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#17)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ",
         "ಅಶೋಕ",
-        "ಅಕ್ಬರ್"
+        "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್",
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -449,8 +449,8 @@
       "options": [
         "Ashoka",
         "Akbar",
-        "Chandragupta",
-        "Shivaji"
+        "Shivaji",
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -460,8 +460,8 @@
       "options": [
         "ಅಶೋಕ",
         "ಅಕ್ಬರ್",
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ"
+        "ಶಿವಾಜಿ",
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -474,9 +474,9 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#19)",
       "options": [
         "Akbar",
-        "Shivaji",
+        "Chandragupta",
         "Ashoka",
-        "Chandragupta"
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -485,9 +485,9 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#19)",
       "options": [
         "ಅಕ್ಬರ್",
-        "ಶಿವಾಜಿ",
+        "ಚಂದ್ರಗುಪ್ತ",
         "ಅಶೋಕ",
-        "ಚಂದ್ರಗುಪ್ತ"
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -525,9 +525,9 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#21)",
       "options": [
-        "Shivaji",
         "Chandragupta",
         "Akbar",
+        "Shivaji",
         "Ashoka"
       ],
       "answer": "Chandragupta",
@@ -536,9 +536,9 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#21)",
       "options": [
-        "ಶಿವಾಜಿ",
         "ಚಂದ್ರಗುಪ್ತ",
         "ಅಕ್ಬರ್",
+        "ಶಿವಾಜಿ",
         "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
@@ -551,10 +551,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#22)",
       "options": [
-        "Akbar",
         "Chandragupta",
         "Shivaji",
-        "Ashoka"
+        "Ashoka",
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -562,10 +562,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#22)",
       "options": [
-        "ಅಕ್ಬರ್",
         "ಚಂದ್ರಗುಪ್ತ",
         "ಶಿವಾಜಿ",
-        "ಅಶೋಕ"
+        "ಅಶೋಕ",
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -578,9 +578,9 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#23)",
       "options": [
         "Akbar",
-        "Shivaji",
         "Chandragupta",
-        "Ashoka"
+        "Ashoka",
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -589,9 +589,9 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#23)",
       "options": [
         "ಅಕ್ಬರ್",
-        "ಶಿವಾಜಿ",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಶೋಕ"
+        "ಅಶೋಕ",
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -604,9 +604,9 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#24)",
       "options": [
         "Shivaji",
+        "Akbar",
         "Chandragupta",
-        "Ashoka",
-        "Akbar"
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -615,9 +615,9 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#24)",
       "options": [
         "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಶೋಕ",
-        "ಅಕ್ಬರ್"
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -629,10 +629,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#25)",
       "options": [
-        "Chandragupta",
+        "Akbar",
         "Ashoka",
-        "Shivaji",
-        "Akbar"
+        "Chandragupta",
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -640,10 +640,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#25)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
+        "ಅಕ್ಬರ್",
         "ಅಶೋಕ",
-        "ಶಿವಾಜಿ",
-        "ಅಕ್ಬರ್"
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -655,10 +655,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#26)",
       "options": [
-        "Ashoka",
-        "Akbar",
         "Chandragupta",
-        "Shivaji"
+        "Shivaji",
+        "Akbar",
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -666,10 +666,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#26)",
       "options": [
-        "ಅಶೋಕ",
-        "ಅಕ್ಬರ್",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ"
+        "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್",
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -682,9 +682,9 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#27)",
       "options": [
         "Chandragupta",
+        "Shivaji",
         "Ashoka",
-        "Akbar",
-        "Shivaji"
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -693,9 +693,9 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#27)",
       "options": [
         "ಚಂದ್ರಗುಪ್ತ",
+        "ಶಿವಾಜಿ",
         "ಅಶೋಕ",
-        "ಅಕ್ಬರ್",
-        "ಶಿವಾಜಿ"
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -708,9 +708,9 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#28)",
       "options": [
         "Akbar",
+        "Ashoka",
         "Chandragupta",
-        "Shivaji",
-        "Ashoka"
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -719,9 +719,9 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#28)",
       "options": [
         "ಅಕ್ಬರ್",
+        "ಅಶೋಕ",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ",
-        "ಅಶೋಕ"
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -734,9 +734,9 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#29)",
       "options": [
         "Chandragupta",
-        "Akbar",
+        "Shivaji",
         "Ashoka",
-        "Shivaji"
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -745,9 +745,9 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#29)",
       "options": [
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಕ್ಬರ್",
+        "ಶಿವಾಜಿ",
         "ಅಶೋಕ",
-        "ಶಿವಾಜಿ"
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -759,9 +759,9 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#30)",
       "options": [
-        "Chandragupta",
         "Akbar",
         "Ashoka",
+        "Chandragupta",
         "Shivaji"
       ],
       "answer": "Chandragupta",
@@ -770,9 +770,9 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#30)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
         "ಅಕ್ಬರ್",
         "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ",
         "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
@@ -785,10 +785,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#31)",
       "options": [
-        "Chandragupta",
-        "Shivaji",
         "Akbar",
-        "Ashoka"
+        "Shivaji",
+        "Ashoka",
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -796,10 +796,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#31)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ",
         "ಅಕ್ಬರ್",
-        "ಅಶೋಕ"
+        "ಶಿವಾಜಿ",
+        "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -811,10 +811,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#32)",
       "options": [
-        "Ashoka",
-        "Akbar",
+        "Chandragupta",
         "Shivaji",
-        "Chandragupta"
+        "Akbar",
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -822,10 +822,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#32)",
       "options": [
-        "ಅಶೋಕ",
-        "ಅಕ್ಬರ್",
+        "ಚಂದ್ರಗುಪ್ತ",
         "ಶಿವಾಜಿ",
-        "ಚಂದ್ರಗುಪ್ತ"
+        "ಅಕ್ಬರ್",
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -838,9 +838,9 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#33)",
       "options": [
         "Chandragupta",
-        "Akbar",
         "Ashoka",
-        "Shivaji"
+        "Shivaji",
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -849,9 +849,9 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#33)",
       "options": [
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಕ್ಬರ್",
         "ಅಶೋಕ",
-        "ಶಿವಾಜಿ"
+        "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -863,10 +863,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#34)",
       "options": [
-        "Ashoka",
-        "Chandragupta",
+        "Akbar",
         "Shivaji",
-        "Akbar"
+        "Ashoka",
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -874,10 +874,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#34)",
       "options": [
-        "ಅಶೋಕ",
-        "ಚಂದ್ರಗುಪ್ತ",
+        "ಅಕ್ಬರ್",
         "ಶಿವಾಜಿ",
-        "ಅಕ್ಬರ್"
+        "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -889,10 +889,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#35)",
       "options": [
-        "Ashoka",
         "Akbar",
         "Chandragupta",
-        "Shivaji"
+        "Shivaji",
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -900,10 +900,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#35)",
       "options": [
-        "ಅಶೋಕ",
         "ಅಕ್ಬರ್",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ"
+        "ಶಿವಾಜಿ",
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -915,10 +915,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#36)",
       "options": [
-        "Chandragupta",
-        "Ashoka",
         "Shivaji",
-        "Akbar"
+        "Chandragupta",
+        "Akbar",
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -926,10 +926,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#36)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಶೋಕ",
         "ಶಿವಾಜಿ",
-        "ಅಕ್ಬರ್"
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಅಕ್ಬರ್",
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -941,10 +941,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#37)",
       "options": [
-        "Chandragupta",
-        "Shivaji",
+        "Akbar",
         "Ashoka",
-        "Akbar"
+        "Chandragupta",
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -952,10 +952,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#37)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್",
         "ಅಶೋಕ",
-        "ಅಕ್ಬರ್"
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -967,10 +967,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#38)",
       "options": [
-        "Chandragupta",
+        "Ashoka",
         "Shivaji",
         "Akbar",
-        "Ashoka"
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -978,10 +978,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#38)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
+        "ಅಶೋಕ",
         "ಶಿವಾಜಿ",
         "ಅಕ್ಬರ್",
-        "ಅಶೋಕ"
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -993,10 +993,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#39)",
       "options": [
-        "Chandragupta",
-        "Akbar",
         "Ashoka",
-        "Shivaji"
+        "Shivaji",
+        "Akbar",
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1004,10 +1004,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#39)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಕ್ಬರ್",
         "ಅಶೋಕ",
-        "ಶಿವಾಜಿ"
+        "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್",
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1019,10 +1019,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#40)",
       "options": [
+        "Shivaji",
         "Akbar",
-        "Chandragupta",
         "Ashoka",
-        "Shivaji"
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1030,10 +1030,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#40)",
       "options": [
+        "ಶಿವಾಜಿ",
         "ಅಕ್ಬರ್",
-        "ಚಂದ್ರಗುಪ್ತ",
         "ಅಶೋಕ",
-        "ಶಿವಾಜಿ"
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1045,10 +1045,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#41)",
       "options": [
-        "Chandragupta",
-        "Shivaji",
+        "Ashoka",
         "Akbar",
-        "Ashoka"
+        "Shivaji",
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1056,10 +1056,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#41)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ",
+        "ಅಶೋಕ",
         "ಅಕ್ಬರ್",
-        "ಅಶೋಕ"
+        "ಶಿವಾಜಿ",
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1072,8 +1072,8 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#42)",
       "options": [
         "Shivaji",
-        "Chandragupta",
         "Ashoka",
+        "Chandragupta",
         "Akbar"
       ],
       "answer": "Chandragupta",
@@ -1083,8 +1083,8 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#42)",
       "options": [
         "ಶಿವಾಜಿ",
-        "ಚಂದ್ರಗುಪ್ತ",
         "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ",
         "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
@@ -1097,10 +1097,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#43)",
       "options": [
-        "Ashoka",
+        "Akbar",
         "Chandragupta",
         "Shivaji",
-        "Akbar"
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1108,10 +1108,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#43)",
       "options": [
-        "ಅಶೋಕ",
+        "ಅಕ್ಬರ್",
         "ಚಂದ್ರಗುಪ್ತ",
         "ಶಿವಾಜಿ",
-        "ಅಕ್ಬರ್"
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1123,10 +1123,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#44)",
       "options": [
-        "Chandragupta",
         "Akbar",
-        "Ashoka",
-        "Shivaji"
+        "Shivaji",
+        "Chandragupta",
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1134,10 +1134,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#44)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
         "ಅಕ್ಬರ್",
-        "ಅಶೋಕ",
-        "ಶಿವಾಜಿ"
+        "ಶಿವಾಜಿ",
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1151,8 +1151,8 @@
       "options": [
         "Ashoka",
         "Akbar",
-        "Shivaji",
-        "Chandragupta"
+        "Chandragupta",
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1162,8 +1162,8 @@
       "options": [
         "ಅಶೋಕ",
         "ಅಕ್ಬರ್",
-        "ಶಿವಾಜಿ",
-        "ಚಂದ್ರಗುಪ್ತ"
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1175,10 +1175,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#46)",
       "options": [
-        "Akbar",
         "Shivaji",
+        "Ashoka",
         "Chandragupta",
-        "Ashoka"
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1186,10 +1186,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#46)",
       "options": [
-        "ಅಕ್ಬರ್",
         "ಶಿವಾಜಿ",
+        "ಅಶೋಕ",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಶೋಕ"
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1201,10 +1201,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#47)",
       "options": [
-        "Shivaji",
         "Ashoka",
-        "Akbar",
-        "Chandragupta"
+        "Chandragupta",
+        "Shivaji",
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1212,10 +1212,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#47)",
       "options": [
-        "ಶಿವಾಜಿ",
         "ಅಶೋಕ",
-        "ಅಕ್ಬರ್",
-        "ಚಂದ್ರಗುಪ್ತ"
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1227,10 +1227,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#48)",
       "options": [
-        "Ashoka",
+        "Shivaji",
         "Akbar",
         "Chandragupta",
-        "Shivaji"
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1238,10 +1238,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#48)",
       "options": [
-        "ಅಶೋಕ",
+        "ಶಿವಾಜಿ",
         "ಅಕ್ಬರ್",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ"
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1253,10 +1253,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#49)",
       "options": [
-        "Chandragupta",
-        "Ashoka",
         "Akbar",
-        "Shivaji"
+        "Shivaji",
+        "Ashoka",
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1264,10 +1264,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#49)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಶೋಕ",
         "ಅಕ್ಬರ್",
-        "ಶಿವಾಜಿ"
+        "ಶಿವಾಜಿ",
+        "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1280,8 +1280,8 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#50)",
       "options": [
         "Chandragupta",
-        "Shivaji",
         "Akbar",
+        "Shivaji",
         "Ashoka"
       ],
       "answer": "Chandragupta",
@@ -1291,8 +1291,8 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#50)",
       "options": [
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ",
         "ಅಕ್ಬರ್",
+        "ಶಿವಾಜಿ",
         "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
@@ -1305,10 +1305,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#51)",
       "options": [
-        "Shivaji",
+        "Ashoka",
         "Chandragupta",
         "Akbar",
-        "Ashoka"
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1316,10 +1316,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#51)",
       "options": [
-        "ಶಿವಾಜಿ",
+        "ಅಶೋಕ",
         "ಚಂದ್ರಗುಪ್ತ",
         "ಅಕ್ಬರ್",
-        "ಅಶೋಕ"
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1331,10 +1331,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#52)",
       "options": [
-        "Akbar",
         "Chandragupta",
-        "Shivaji",
-        "Ashoka"
+        "Ashoka",
+        "Akbar",
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1342,10 +1342,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#52)",
       "options": [
-        "ಅಕ್ಬರ್",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ",
-        "ಅಶೋಕ"
+        "ಅಶೋಕ",
+        "ಅಕ್ಬರ್",
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1359,8 +1359,8 @@
       "options": [
         "Chandragupta",
         "Shivaji",
-        "Akbar",
-        "Ashoka"
+        "Ashoka",
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1370,8 +1370,8 @@
       "options": [
         "ಚಂದ್ರಗುಪ್ತ",
         "ಶಿವಾಜಿ",
-        "ಅಕ್ಬರ್",
-        "ಅಶೋಕ"
+        "ಅಶೋಕ",
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1383,10 +1383,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#54)",
       "options": [
-        "Ashoka",
         "Shivaji",
-        "Akbar",
-        "Chandragupta"
+        "Ashoka",
+        "Chandragupta",
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1394,10 +1394,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#54)",
       "options": [
-        "ಅಶೋಕ",
         "ಶಿವಾಜಿ",
-        "ಅಕ್ಬರ್",
-        "ಚಂದ್ರಗುಪ್ತ"
+        "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1409,10 +1409,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#55)",
       "options": [
+        "Ashoka",
         "Shivaji",
         "Chandragupta",
-        "Akbar",
-        "Ashoka"
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1420,10 +1420,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#55)",
       "options": [
+        "ಅಶೋಕ",
         "ಶಿವಾಜಿ",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಕ್ಬರ್",
-        "ಅಶೋಕ"
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1435,10 +1435,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#56)",
       "options": [
-        "Shivaji",
         "Akbar",
-        "Ashoka",
-        "Chandragupta"
+        "Chandragupta",
+        "Shivaji",
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1446,10 +1446,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#56)",
       "options": [
-        "ಶಿವಾಜಿ",
         "ಅಕ್ಬರ್",
-        "ಅಶೋಕ",
-        "ಚಂದ್ರಗುಪ್ತ"
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಶಿವಾಜಿ",
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1461,8 +1461,8 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#57)",
       "options": [
-        "Akbar",
         "Shivaji",
+        "Akbar",
         "Ashoka",
         "Chandragupta"
       ],
@@ -1472,8 +1472,8 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#57)",
       "options": [
-        "ಅಕ್ಬರ್",
         "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್",
         "ಅಶೋಕ",
         "ಚಂದ್ರಗುಪ್ತ"
       ],
@@ -1487,8 +1487,8 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#58)",
       "options": [
-        "Akbar",
         "Shivaji",
+        "Akbar",
         "Chandragupta",
         "Ashoka"
       ],
@@ -1498,8 +1498,8 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#58)",
       "options": [
-        "ಅಕ್ಬರ್",
         "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್",
         "ಚಂದ್ರಗುಪ್ತ",
         "ಅಶೋಕ"
       ],
@@ -1513,10 +1513,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#59)",
       "options": [
-        "Akbar",
-        "Ashoka",
+        "Chandragupta",
         "Shivaji",
-        "Chandragupta"
+        "Akbar",
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1524,10 +1524,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#59)",
       "options": [
-        "ಅಕ್ಬರ್",
-        "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ",
         "ಶಿವಾಜಿ",
-        "ಚಂದ್ರಗುಪ್ತ"
+        "ಅಕ್ಬರ್",
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1539,10 +1539,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#60)",
       "options": [
-        "Ashoka",
+        "Chandragupta",
         "Akbar",
-        "Shivaji",
-        "Chandragupta"
+        "Ashoka",
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1550,10 +1550,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#60)",
       "options": [
-        "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ",
         "ಅಕ್ಬರ್",
-        "ಶಿವಾಜಿ",
-        "ಚಂದ್ರಗುಪ್ತ"
+        "ಅಶೋಕ",
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1565,10 +1565,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#61)",
       "options": [
-        "Chandragupta",
         "Akbar",
+        "Ashoka",
         "Shivaji",
-        "Ashoka"
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1576,10 +1576,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#61)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
         "ಅಕ್ಬರ್",
+        "ಅಶೋಕ",
         "ಶಿವಾಜಿ",
-        "ಅಶೋಕ"
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1591,10 +1591,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#62)",
       "options": [
-        "Akbar",
+        "Shivaji",
         "Ashoka",
-        "Chandragupta",
-        "Shivaji"
+        "Akbar",
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1602,10 +1602,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#62)",
       "options": [
-        "ಅಕ್ಬರ್",
+        "ಶಿವಾಜಿ",
         "ಅಶೋಕ",
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ"
+        "ಅಕ್ಬರ್",
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1618,8 +1618,8 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#63)",
       "options": [
         "Akbar",
-        "Chandragupta",
         "Shivaji",
+        "Chandragupta",
         "Ashoka"
       ],
       "answer": "Chandragupta",
@@ -1629,8 +1629,8 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#63)",
       "options": [
         "ಅಕ್ಬರ್",
-        "ಚಂದ್ರಗುಪ್ತ",
         "ಶಿವಾಜಿ",
+        "ಚಂದ್ರಗುಪ್ತ",
         "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
@@ -1643,10 +1643,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#64)",
       "options": [
-        "Ashoka",
+        "Chandragupta",
         "Shivaji",
         "Akbar",
-        "Chandragupta"
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1654,10 +1654,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#64)",
       "options": [
-        "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ",
         "ಶಿವಾಜಿ",
         "ಅಕ್ಬರ್",
-        "ಚಂದ್ರಗುಪ್ತ"
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1670,9 +1670,9 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#65)",
       "options": [
         "Akbar",
-        "Shivaji",
+        "Chandragupta",
         "Ashoka",
-        "Chandragupta"
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1681,9 +1681,9 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#65)",
       "options": [
         "ಅಕ್ಬರ್",
-        "ಶಿವಾಜಿ",
+        "ಚಂದ್ರಗುಪ್ತ",
         "ಅಶೋಕ",
-        "ಚಂದ್ರಗುಪ್ತ"
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1695,10 +1695,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#66)",
       "options": [
-        "Chandragupta",
-        "Shivaji",
         "Akbar",
-        "Ashoka"
+        "Ashoka",
+        "Chandragupta",
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1706,10 +1706,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#66)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ",
         "ಅಕ್ಬರ್",
-        "ಅಶೋಕ"
+        "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1721,9 +1721,9 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#67)",
       "options": [
-        "Akbar",
-        "Shivaji",
         "Chandragupta",
+        "Shivaji",
+        "Akbar",
         "Ashoka"
       ],
       "answer": "Chandragupta",
@@ -1732,9 +1732,9 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#67)",
       "options": [
-        "ಅಕ್ಬರ್",
-        "ಶಿವಾಜಿ",
         "ಚಂದ್ರಗುಪ್ತ",
+        "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್",
         "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
@@ -1747,10 +1747,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#68)",
       "options": [
-        "Chandragupta",
-        "Ashoka",
+        "Akbar",
         "Shivaji",
-        "Akbar"
+        "Chandragupta",
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1758,10 +1758,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#68)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಶೋಕ",
+        "ಅಕ್ಬರ್",
         "ಶಿವಾಜಿ",
-        "ಅಕ್ಬರ್"
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1774,9 +1774,9 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#69)",
       "options": [
         "Chandragupta",
-        "Shivaji",
         "Ashoka",
-        "Akbar"
+        "Akbar",
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1785,9 +1785,9 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#69)",
       "options": [
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ",
         "ಅಶೋಕ",
-        "ಅಕ್ಬರ್"
+        "ಅಕ್ಬರ್",
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1800,9 +1800,9 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#70)",
       "options": [
         "Chandragupta",
-        "Akbar",
+        "Shivaji",
         "Ashoka",
-        "Shivaji"
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1811,9 +1811,9 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#70)",
       "options": [
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಕ್ಬರ್",
+        "ಶಿವಾಜಿ",
         "ಅಶೋಕ",
-        "ಶಿವಾಜಿ"
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1825,10 +1825,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#71)",
       "options": [
-        "Shivaji",
         "Chandragupta",
-        "Akbar",
-        "Ashoka"
+        "Shivaji",
+        "Ashoka",
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1836,10 +1836,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#71)",
       "options": [
-        "ಶಿವಾಜಿ",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಕ್ಬರ್",
-        "ಅಶೋಕ"
+        "ಶಿವಾಜಿ",
+        "ಅಶೋಕ",
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1851,10 +1851,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#72)",
       "options": [
-        "Ashoka",
-        "Chandragupta",
         "Shivaji",
-        "Akbar"
+        "Akbar",
+        "Ashoka",
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1862,10 +1862,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#72)",
       "options": [
-        "ಅಶೋಕ",
-        "ಚಂದ್ರಗುಪ್ತ",
         "ಶಿವಾಜಿ",
-        "ಅಕ್ಬರ್"
+        "ಅಕ್ಬರ್",
+        "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1877,8 +1877,8 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#73)",
       "options": [
-        "Ashoka",
         "Shivaji",
+        "Ashoka",
         "Chandragupta",
         "Akbar"
       ],
@@ -1888,8 +1888,8 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#73)",
       "options": [
-        "ಅಶೋಕ",
         "ಶಿವಾಜಿ",
+        "ಅಶೋಕ",
         "ಚಂದ್ರಗುಪ್ತ",
         "ಅಕ್ಬರ್"
       ],
@@ -1905,8 +1905,8 @@
       "options": [
         "Ashoka",
         "Chandragupta",
-        "Shivaji",
-        "Akbar"
+        "Akbar",
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1916,8 +1916,8 @@
       "options": [
         "ಅಶೋಕ",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ",
-        "ಅಕ್ಬರ್"
+        "ಅಕ್ಬರ್",
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1929,10 +1929,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#75)",
       "options": [
-        "Chandragupta",
-        "Shivaji",
         "Ashoka",
-        "Akbar"
+        "Akbar",
+        "Chandragupta",
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -1940,10 +1940,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#75)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ",
         "ಅಶೋಕ",
-        "ಅಕ್ಬರ್"
+        "ಅಕ್ಬರ್",
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -1955,9 +1955,9 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#76)",
       "options": [
-        "Ashoka",
         "Shivaji",
         "Akbar",
+        "Ashoka",
         "Chandragupta"
       ],
       "answer": "Chandragupta",
@@ -1966,9 +1966,9 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#76)",
       "options": [
-        "ಅಶೋಕ",
         "ಶಿವಾಜಿ",
         "ಅಕ್ಬರ್",
+        "ಅಶೋಕ",
         "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
@@ -1982,32 +1982,6 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#77)",
       "options": [
         "Akbar",
-        "Ashoka",
-        "Chandragupta",
-        "Shivaji"
-      ],
-      "answer": "Chandragupta",
-      "reasoning": "Chandragupta is an important historical figure."
-    },
-    "kn": {
-      "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#77)",
-      "options": [
-        "ಅಕ್ಬರ್",
-        "ಅಶೋಕ",
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ"
-      ],
-      "answer": "ಚಂದ್ರಗುಪ್ತ",
-      "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
-    }
-  },
-  {
-    "id": "his_78",
-    "difficulty": 3,
-    "en": {
-      "question": "Who was the first Emperor of the Maurya Dynasty? (#78)",
-      "options": [
-        "Akbar",
         "Shivaji",
         "Ashoka",
         "Chandragupta"
@@ -2016,7 +1990,7 @@
       "reasoning": "Chandragupta is an important historical figure."
     },
     "kn": {
-      "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#78)",
+      "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#77)",
       "options": [
         "ಅಕ್ಬರ್",
         "ಶಿವಾಜಿ",
@@ -2028,15 +2002,41 @@
     }
   },
   {
+    "id": "his_78",
+    "difficulty": 3,
+    "en": {
+      "question": "Who was the first Emperor of the Maurya Dynasty? (#78)",
+      "options": [
+        "Shivaji",
+        "Chandragupta",
+        "Akbar",
+        "Ashoka"
+      ],
+      "answer": "Chandragupta",
+      "reasoning": "Chandragupta is an important historical figure."
+    },
+    "kn": {
+      "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#78)",
+      "options": [
+        "ಶಿವಾಜಿ",
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಅಕ್ಬರ್",
+        "ಅಶೋಕ"
+      ],
+      "answer": "ಚಂದ್ರಗುಪ್ತ",
+      "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
+    }
+  },
+  {
     "id": "his_79",
     "difficulty": 3,
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#79)",
       "options": [
-        "Shivaji",
-        "Akbar",
         "Chandragupta",
-        "Ashoka"
+        "Shivaji",
+        "Ashoka",
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -2044,10 +2044,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#79)",
       "options": [
-        "ಶಿವಾಜಿ",
-        "ಅಕ್ಬರ್",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಶೋಕ"
+        "ಶಿವಾಜಿ",
+        "ಅಶೋಕ",
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -2059,8 +2059,8 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#80)",
       "options": [
-        "Akbar",
         "Shivaji",
+        "Akbar",
         "Ashoka",
         "Chandragupta"
       ],
@@ -2070,8 +2070,8 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#80)",
       "options": [
-        "ಅಕ್ಬರ್",
         "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್",
         "ಅಶೋಕ",
         "ಚಂದ್ರಗುಪ್ತ"
       ],
@@ -2085,9 +2085,9 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#81)",
       "options": [
-        "Ashoka",
-        "Akbar",
         "Shivaji",
+        "Akbar",
+        "Ashoka",
         "Chandragupta"
       ],
       "answer": "Chandragupta",
@@ -2096,9 +2096,9 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#81)",
       "options": [
-        "ಅಶೋಕ",
-        "ಅಕ್ಬರ್",
         "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್",
+        "ಅಶೋಕ",
         "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
@@ -2111,10 +2111,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#82)",
       "options": [
-        "Akbar",
-        "Chandragupta",
         "Shivaji",
-        "Ashoka"
+        "Akbar",
+        "Ashoka",
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -2122,10 +2122,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#82)",
       "options": [
-        "ಅಕ್ಬರ್",
-        "ಚಂದ್ರಗುಪ್ತ",
         "ಶಿವಾಜಿ",
-        "ಅಶೋಕ"
+        "ಅಕ್ಬರ್",
+        "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -2137,10 +2137,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#83)",
       "options": [
-        "Shivaji",
+        "Akbar",
         "Ashoka",
         "Chandragupta",
-        "Akbar"
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -2148,10 +2148,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#83)",
       "options": [
-        "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್",
         "ಅಶೋಕ",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಕ್ಬರ್"
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -2163,10 +2163,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#84)",
       "options": [
-        "Akbar",
         "Ashoka",
+        "Chandragupta",
         "Shivaji",
-        "Chandragupta"
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -2174,10 +2174,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#84)",
       "options": [
-        "ಅಕ್ಬರ್",
         "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ",
         "ಶಿವಾಜಿ",
-        "ಚಂದ್ರಗುಪ್ತ"
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -2189,10 +2189,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#85)",
       "options": [
-        "Chandragupta",
         "Shivaji",
+        "Akbar",
         "Ashoka",
-        "Akbar"
+        "Chandragupta"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -2200,10 +2200,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#85)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
         "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್",
         "ಅಶೋಕ",
-        "ಅಕ್ಬರ್"
+        "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -2216,8 +2216,8 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#86)",
       "options": [
         "Shivaji",
-        "Chandragupta",
         "Akbar",
+        "Chandragupta",
         "Ashoka"
       ],
       "answer": "Chandragupta",
@@ -2227,8 +2227,8 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#86)",
       "options": [
         "ಶಿವಾಜಿ",
-        "ಚಂದ್ರಗುಪ್ತ",
         "ಅಕ್ಬರ್",
+        "ಚಂದ್ರಗುಪ್ತ",
         "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
@@ -2241,9 +2241,9 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#87)",
       "options": [
-        "Chandragupta",
-        "Ashoka",
         "Akbar",
+        "Ashoka",
+        "Chandragupta",
         "Shivaji"
       ],
       "answer": "Chandragupta",
@@ -2252,9 +2252,9 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#87)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಶೋಕ",
         "ಅಕ್ಬರ್",
+        "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ",
         "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
@@ -2267,10 +2267,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#88)",
       "options": [
-        "Shivaji",
+        "Akbar",
         "Ashoka",
         "Chandragupta",
-        "Akbar"
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -2278,10 +2278,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#88)",
       "options": [
-        "ಶಿವಾಜಿ",
+        "ಅಕ್ಬರ್",
         "ಅಶೋಕ",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಕ್ಬರ್"
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -2293,9 +2293,9 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#89)",
       "options": [
+        "Ashoka",
         "Chandragupta",
         "Shivaji",
-        "Ashoka",
         "Akbar"
       ],
       "answer": "Chandragupta",
@@ -2304,9 +2304,9 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#89)",
       "options": [
+        "ಅಶೋಕ",
         "ಚಂದ್ರಗುಪ್ತ",
         "ಶಿವಾಜಿ",
-        "ಅಶೋಕ",
         "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
@@ -2319,10 +2319,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#90)",
       "options": [
+        "Shivaji",
         "Akbar",
-        "Ashoka",
         "Chandragupta",
-        "Shivaji"
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -2330,10 +2330,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#90)",
       "options": [
+        "ಶಿವಾಜಿ",
         "ಅಕ್ಬರ್",
-        "ಅಶೋಕ",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ"
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -2372,8 +2372,8 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#92)",
       "options": [
         "Shivaji",
-        "Akbar",
         "Chandragupta",
+        "Akbar",
         "Ashoka"
       ],
       "answer": "Chandragupta",
@@ -2383,8 +2383,8 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#92)",
       "options": [
         "ಶಿವಾಜಿ",
-        "ಅಕ್ಬರ್",
         "ಚಂದ್ರಗುಪ್ತ",
+        "ಅಕ್ಬರ್",
         "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
@@ -2397,10 +2397,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#93)",
       "options": [
-        "Akbar",
-        "Ashoka",
         "Chandragupta",
-        "Shivaji"
+        "Shivaji",
+        "Ashoka",
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -2408,10 +2408,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#93)",
       "options": [
-        "ಅಕ್ಬರ್",
-        "ಅಶೋಕ",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ"
+        "ಶಿವಾಜಿ",
+        "ಅಶೋಕ",
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -2423,10 +2423,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#94)",
       "options": [
-        "Shivaji",
         "Akbar",
-        "Ashoka",
-        "Chandragupta"
+        "Chandragupta",
+        "Shivaji",
+        "Ashoka"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -2434,10 +2434,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#94)",
       "options": [
-        "ಶಿವಾಜಿ",
         "ಅಕ್ಬರ್",
-        "ಅಶೋಕ",
-        "ಚಂದ್ರಗುಪ್ತ"
+        "ಚಂದ್ರಗುಪ್ತ",
+        "ಶಿವಾಜಿ",
+        "ಅಶೋಕ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -2449,10 +2449,10 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#95)",
       "options": [
+        "Shivaji",
         "Ashoka",
-        "Akbar",
         "Chandragupta",
-        "Shivaji"
+        "Akbar"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -2460,10 +2460,10 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#95)",
       "options": [
+        "ಶಿವಾಜಿ",
         "ಅಶೋಕ",
-        "ಅಕ್ಬರ್",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಶಿವಾಜಿ"
+        "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -2476,9 +2476,9 @@
       "question": "Who was the first Emperor of the Maurya Dynasty? (#96)",
       "options": [
         "Akbar",
-        "Shivaji",
         "Chandragupta",
-        "Ashoka"
+        "Ashoka",
+        "Shivaji"
       ],
       "answer": "Chandragupta",
       "reasoning": "Chandragupta is an important historical figure."
@@ -2487,9 +2487,9 @@
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#96)",
       "options": [
         "ಅಕ್ಬರ್",
-        "ಶಿವಾಜಿ",
         "ಚಂದ್ರಗುಪ್ತ",
-        "ಅಶೋಕ"
+        "ಅಶೋಕ",
+        "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
       "reasoning": "ಚಂದ್ರಗುಪ್ತ ಒಬ್ಬ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿ."
@@ -2501,9 +2501,9 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#97)",
       "options": [
-        "Ashoka",
-        "Shivaji",
         "Chandragupta",
+        "Shivaji",
+        "Ashoka",
         "Akbar"
       ],
       "answer": "Chandragupta",
@@ -2512,9 +2512,9 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#97)",
       "options": [
-        "ಅಶೋಕ",
-        "ಶಿವಾಜಿ",
         "ಚಂದ್ರಗುಪ್ತ",
+        "ಶಿವಾಜಿ",
+        "ಅಶೋಕ",
         "ಅಕ್ಬರ್"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
@@ -2527,9 +2527,9 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#98)",
       "options": [
-        "Shivaji",
-        "Ashoka",
         "Akbar",
+        "Ashoka",
+        "Shivaji",
         "Chandragupta"
       ],
       "answer": "Chandragupta",
@@ -2538,9 +2538,9 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#98)",
       "options": [
-        "ಶಿವಾಜಿ",
-        "ಅಶೋಕ",
         "ಅಕ್ಬರ್",
+        "ಅಶೋಕ",
+        "ಶಿವಾಜಿ",
         "ಚಂದ್ರಗುಪ್ತ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",
@@ -2579,9 +2579,9 @@
     "en": {
       "question": "Who was the first Emperor of the Maurya Dynasty? (#100)",
       "options": [
-        "Chandragupta",
         "Akbar",
         "Ashoka",
+        "Chandragupta",
         "Shivaji"
       ],
       "answer": "Chandragupta",
@@ -2590,9 +2590,9 @@
     "kn": {
       "question": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ಚಕ್ರವರ್ತಿ ಯಾರು? (#100)",
       "options": [
-        "ಚಂದ್ರಗುಪ್ತ",
         "ಅಕ್ಬರ್",
         "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ",
         "ಶಿವಾಜಿ"
       ],
       "answer": "ಚಂದ್ರಗುಪ್ತ",

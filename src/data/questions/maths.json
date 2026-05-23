@@ -3,364 +3,364 @@
     "id": "maths_1",
     "difficulty": 1,
     "en": {
-      "question": "What is 4 + 14?",
+      "question": "What is 15 + 20?",
       "options": [
-        "17",
-        "19",
-        "20",
-        "18"
+        "37",
+        "35",
+        "36",
+        "34"
       ],
-      "answer": "18",
-      "reasoning": "Adding 4 and 14 gives 18."
+      "answer": "35",
+      "reasoning": "Adding 15 and 20 gives 35."
     },
     "kn": {
-      "question": "4 + 14 ಎಷ್ಟು?",
+      "question": "15 + 20 ಎಷ್ಟು?",
       "options": [
-        "17",
-        "19",
-        "20",
-        "18"
+        "37",
+        "35",
+        "36",
+        "34"
       ],
-      "answer": "18",
-      "reasoning": "4 ಮತ್ತು 14 ಸೇರಿಸಿದರೆ 18 ಆಗುತ್ತದೆ."
+      "answer": "35",
+      "reasoning": "15 ಮತ್ತು 20 ಸೇರಿಸಿದರೆ 35 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_2",
     "difficulty": 1,
     "en": {
-      "question": "What is 7 + 6?",
+      "question": "What is 6 + 34?",
       "options": [
-        "14",
-        "12",
-        "15",
-        "13"
+        "40",
+        "41",
+        "39",
+        "42"
       ],
-      "answer": "13",
-      "reasoning": "Adding 7 and 6 gives 13."
+      "answer": "40",
+      "reasoning": "Adding 6 and 34 gives 40."
     },
     "kn": {
-      "question": "7 + 6 ಎಷ್ಟು?",
+      "question": "6 + 34 ಎಷ್ಟು?",
       "options": [
-        "14",
-        "12",
-        "15",
-        "13"
+        "40",
+        "41",
+        "39",
+        "42"
       ],
-      "answer": "13",
-      "reasoning": "7 ಮತ್ತು 6 ಸೇರಿಸಿದರೆ 13 ಆಗುತ್ತದೆ."
+      "answer": "40",
+      "reasoning": "6 ಮತ್ತು 34 ಸೇರಿಸಿದರೆ 40 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_3",
     "difficulty": 1,
     "en": {
-      "question": "What is 3 + 10?",
+      "question": "What is 20 + 18?",
       "options": [
-        "12",
-        "15",
-        "14",
-        "13"
+        "40",
+        "37",
+        "39",
+        "38"
       ],
-      "answer": "13",
-      "reasoning": "Adding 3 and 10 gives 13."
+      "answer": "38",
+      "reasoning": "Adding 20 and 18 gives 38."
     },
     "kn": {
-      "question": "3 + 10 ಎಷ್ಟು?",
+      "question": "20 + 18 ಎಷ್ಟು?",
       "options": [
-        "12",
-        "15",
-        "14",
-        "13"
+        "40",
+        "37",
+        "39",
+        "38"
       ],
-      "answer": "13",
-      "reasoning": "3 ಮತ್ತು 10 ಸೇರಿಸಿದರೆ 13 ಆಗುತ್ತದೆ."
+      "answer": "38",
+      "reasoning": "20 ಮತ್ತು 18 ಸೇರಿಸಿದರೆ 38 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_4",
     "difficulty": 1,
     "en": {
-      "question": "What is 18 + 7?",
+      "question": "What is 10 + 19?",
       "options": [
-        "26",
-        "24",
-        "25",
-        "27"
+        "30",
+        "28",
+        "29",
+        "31"
       ],
-      "answer": "25",
-      "reasoning": "Adding 18 and 7 gives 25."
+      "answer": "29",
+      "reasoning": "Adding 10 and 19 gives 29."
     },
     "kn": {
-      "question": "18 + 7 ಎಷ್ಟು?",
+      "question": "10 + 19 ಎಷ್ಟು?",
       "options": [
-        "26",
-        "24",
-        "25",
-        "27"
+        "30",
+        "28",
+        "29",
+        "31"
       ],
-      "answer": "25",
-      "reasoning": "18 ಮತ್ತು 7 ಸೇರಿಸಿದರೆ 25 ಆಗುತ್ತದೆ."
+      "answer": "29",
+      "reasoning": "10 ಮತ್ತು 19 ಸೇರಿಸಿದರೆ 29 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_5",
     "difficulty": 1,
     "en": {
-      "question": "What is 15 + 2?",
+      "question": "What is 19 + 35?",
       "options": [
-        "17",
-        "18",
-        "16",
-        "19"
+        "55",
+        "54",
+        "56",
+        "53"
       ],
-      "answer": "17",
-      "reasoning": "Adding 15 and 2 gives 17."
+      "answer": "54",
+      "reasoning": "Adding 19 and 35 gives 54."
     },
     "kn": {
-      "question": "15 + 2 ಎಷ್ಟು?",
+      "question": "19 + 35 ಎಷ್ಟು?",
       "options": [
-        "17",
-        "18",
-        "16",
-        "19"
+        "55",
+        "54",
+        "56",
+        "53"
       ],
-      "answer": "17",
-      "reasoning": "15 ಮತ್ತು 2 ಸೇರಿಸಿದರೆ 17 ಆಗುತ್ತದೆ."
+      "answer": "54",
+      "reasoning": "19 ಮತ್ತು 35 ಸೇರಿಸಿದರೆ 54 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_6",
     "difficulty": 1,
     "en": {
-      "question": "What is 8 + 1?",
+      "question": "What is 10 + 15?",
       "options": [
-        "8",
-        "9",
-        "11",
-        "10"
+        "25",
+        "27",
+        "26",
+        "24"
       ],
-      "answer": "9",
-      "reasoning": "Adding 8 and 1 gives 9."
+      "answer": "25",
+      "reasoning": "Adding 10 and 15 gives 25."
     },
     "kn": {
-      "question": "8 + 1 ಎಷ್ಟು?",
+      "question": "10 + 15 ಎಷ್ಟು?",
       "options": [
-        "8",
-        "9",
-        "11",
-        "10"
+        "25",
+        "27",
+        "26",
+        "24"
       ],
-      "answer": "9",
-      "reasoning": "8 ಮತ್ತು 1 ಸೇರಿಸಿದರೆ 9 ಆಗುತ್ತದೆ."
+      "answer": "25",
+      "reasoning": "10 ಮತ್ತು 15 ಸೇರಿಸಿದರೆ 25 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_7",
     "difficulty": 1,
     "en": {
-      "question": "What is 9 + 11?",
+      "question": "What is 9 + 24?",
       "options": [
-        "19",
-        "20",
-        "22",
-        "21"
+        "34",
+        "32",
+        "33",
+        "35"
       ],
-      "answer": "20",
-      "reasoning": "Adding 9 and 11 gives 20."
+      "answer": "33",
+      "reasoning": "Adding 9 and 24 gives 33."
     },
     "kn": {
-      "question": "9 + 11 ಎಷ್ಟು?",
+      "question": "9 + 24 ಎಷ್ಟು?",
       "options": [
-        "19",
-        "20",
-        "22",
-        "21"
+        "34",
+        "32",
+        "33",
+        "35"
       ],
-      "answer": "20",
-      "reasoning": "9 ಮತ್ತು 11 ಸೇರಿಸಿದರೆ 20 ಆಗುತ್ತದೆ."
+      "answer": "33",
+      "reasoning": "9 ಮತ್ತು 24 ಸೇರಿಸಿದರೆ 33 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_8",
     "difficulty": 1,
     "en": {
-      "question": "What is 8 + 10?",
+      "question": "What is 26 + 28?",
       "options": [
-        "19",
-        "20",
-        "18",
-        "17"
+        "55",
+        "56",
+        "53",
+        "54"
       ],
-      "answer": "18",
-      "reasoning": "Adding 8 and 10 gives 18."
+      "answer": "54",
+      "reasoning": "Adding 26 and 28 gives 54."
     },
     "kn": {
-      "question": "8 + 10 ಎಷ್ಟು?",
+      "question": "26 + 28 ಎಷ್ಟು?",
       "options": [
-        "19",
-        "20",
-        "18",
-        "17"
+        "55",
+        "56",
+        "53",
+        "54"
       ],
-      "answer": "18",
-      "reasoning": "8 ಮತ್ತು 10 ಸೇರಿಸಿದರೆ 18 ಆಗುತ್ತದೆ."
+      "answer": "54",
+      "reasoning": "26 ಮತ್ತು 28 ಸೇರಿಸಿದರೆ 54 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_9",
     "difficulty": 1,
     "en": {
-      "question": "What is 20 + 12?",
+      "question": "What is 31 + 5?",
       "options": [
-        "31",
-        "33",
-        "34",
-        "32"
+        "35",
+        "38",
+        "37",
+        "36"
       ],
-      "answer": "32",
-      "reasoning": "Adding 20 and 12 gives 32."
+      "answer": "36",
+      "reasoning": "Adding 31 and 5 gives 36."
     },
     "kn": {
-      "question": "20 + 12 ಎಷ್ಟು?",
+      "question": "31 + 5 ಎಷ್ಟು?",
       "options": [
-        "31",
-        "33",
-        "34",
-        "32"
+        "35",
+        "38",
+        "37",
+        "36"
       ],
-      "answer": "32",
-      "reasoning": "20 ಮತ್ತು 12 ಸೇರಿಸಿದರೆ 32 ಆಗುತ್ತದೆ."
+      "answer": "36",
+      "reasoning": "31 ಮತ್ತು 5 ಸೇರಿಸಿದರೆ 36 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_10",
     "difficulty": 1,
     "en": {
-      "question": "What is 7 + 10?",
+      "question": "What is 32 + 11?",
       "options": [
-        "18",
-        "17",
-        "16",
-        "19"
+        "44",
+        "42",
+        "43",
+        "45"
       ],
-      "answer": "17",
-      "reasoning": "Adding 7 and 10 gives 17."
+      "answer": "43",
+      "reasoning": "Adding 32 and 11 gives 43."
     },
     "kn": {
-      "question": "7 + 10 ಎಷ್ಟು?",
+      "question": "32 + 11 ಎಷ್ಟು?",
       "options": [
-        "18",
-        "17",
-        "16",
-        "19"
+        "44",
+        "42",
+        "43",
+        "45"
       ],
-      "answer": "17",
-      "reasoning": "7 ಮತ್ತು 10 ಸೇರಿಸಿದರೆ 17 ಆಗುತ್ತದೆ."
+      "answer": "43",
+      "reasoning": "32 ಮತ್ತು 11 ಸೇರಿಸಿದರೆ 43 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_11",
     "difficulty": 1,
     "en": {
-      "question": "What is 4 + 17?",
+      "question": "What is 6 + 28?",
       "options": [
-        "20",
-        "21",
-        "23",
-        "22"
+        "36",
+        "35",
+        "34",
+        "33"
       ],
-      "answer": "21",
-      "reasoning": "Adding 4 and 17 gives 21."
+      "answer": "34",
+      "reasoning": "Adding 6 and 28 gives 34."
     },
     "kn": {
-      "question": "4 + 17 ಎಷ್ಟು?",
+      "question": "6 + 28 ಎಷ್ಟು?",
       "options": [
-        "20",
-        "21",
-        "23",
-        "22"
+        "36",
+        "35",
+        "34",
+        "33"
       ],
-      "answer": "21",
-      "reasoning": "4 ಮತ್ತು 17 ಸೇರಿಸಿದರೆ 21 ಆಗುತ್ತದೆ."
+      "answer": "34",
+      "reasoning": "6 ಮತ್ತು 28 ಸೇರಿಸಿದರೆ 34 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_12",
     "difficulty": 1,
     "en": {
-      "question": "What is 17 + 4?",
+      "question": "What is 33 + 40?",
       "options": [
-        "21",
-        "23",
-        "22",
-        "20"
+        "73",
+        "74",
+        "75",
+        "72"
       ],
-      "answer": "21",
-      "reasoning": "Adding 17 and 4 gives 21."
+      "answer": "73",
+      "reasoning": "Adding 33 and 40 gives 73."
     },
     "kn": {
-      "question": "17 + 4 ಎಷ್ಟು?",
+      "question": "33 + 40 ಎಷ್ಟು?",
       "options": [
-        "21",
-        "23",
-        "22",
-        "20"
+        "73",
+        "74",
+        "75",
+        "72"
       ],
-      "answer": "21",
-      "reasoning": "17 ಮತ್ತು 4 ಸೇರಿಸಿದರೆ 21 ಆಗುತ್ತದೆ."
+      "answer": "73",
+      "reasoning": "33 ಮತ್ತು 40 ಸೇರಿಸಿದರೆ 73 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_13",
     "difficulty": 1,
     "en": {
-      "question": "What is 2 + 3?",
+      "question": "What is 11 + 1?",
       "options": [
-        "6",
-        "7",
-        "5",
-        "4"
+        "12",
+        "13",
+        "11",
+        "14"
       ],
-      "answer": "5",
-      "reasoning": "Adding 2 and 3 gives 5."
+      "answer": "12",
+      "reasoning": "Adding 11 and 1 gives 12."
     },
     "kn": {
-      "question": "2 + 3 ಎಷ್ಟು?",
+      "question": "11 + 1 ಎಷ್ಟು?",
       "options": [
-        "6",
-        "7",
-        "5",
-        "4"
+        "12",
+        "13",
+        "11",
+        "14"
       ],
-      "answer": "5",
-      "reasoning": "2 ಮತ್ತು 3 ಸೇರಿಸಿದರೆ 5 ಆಗುತ್ತದೆ."
+      "answer": "12",
+      "reasoning": "11 ಮತ್ತು 1 ಸೇರಿಸಿದರೆ 12 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_14",
     "difficulty": 1,
     "en": {
-      "question": "What is 12 + 5?",
+      "question": "What is 3 + 16?",
       "options": [
-        "19",
-        "17",
+        "21",
+        "20",
         "18",
-        "16"
+        "19"
       ],
-      "answer": "17",
-      "reasoning": "Adding 12 and 5 gives 17."
+      "answer": "19",
+      "reasoning": "Adding 3 and 16 gives 19."
     },
     "kn": {
-      "question": "12 + 5 ಎಷ್ಟು?",
+      "question": "3 + 16 ಎಷ್ಟು?",
       "options": [
-        "19",
-        "17",
+        "21",
+        "20",
         "18",
-        "16"
+        "19"
       ],
-      "answer": "17",
-      "reasoning": "12 ಮತ್ತು 5 ಸೇರಿಸಿದರೆ 17 ಆಗುತ್ತದೆ."
+      "answer": "19",
+      "reasoning": "3 ಮತ್ತು 16 ಸೇರಿಸಿದರೆ 19 ಆಗುತ್ತದೆ."
     }
   },
   {
@@ -369,10 +369,10 @@
     "en": {
       "question": "What is 14 + 10?",
       "options": [
+        "24",
         "23",
-        "26",
         "25",
-        "24"
+        "26"
       ],
       "answer": "24",
       "reasoning": "Adding 14 and 10 gives 24."
@@ -380,10 +380,10 @@
     "kn": {
       "question": "14 + 10 ಎಷ್ಟು?",
       "options": [
+        "24",
         "23",
-        "26",
         "25",
-        "24"
+        "26"
       ],
       "answer": "24",
       "reasoning": "14 ಮತ್ತು 10 ಸೇರಿಸಿದರೆ 24 ಆಗುತ್ತದೆ."
@@ -393,298 +393,402 @@
     "id": "maths_16",
     "difficulty": 1,
     "en": {
-      "question": "What is 11 + 5?",
+      "question": "What is 25 + 13?",
       "options": [
-        "17",
-        "18",
-        "15",
-        "16"
+        "40",
+        "39",
+        "37",
+        "38"
       ],
-      "answer": "16",
-      "reasoning": "Adding 11 and 5 gives 16."
+      "answer": "38",
+      "reasoning": "Adding 25 and 13 gives 38."
     },
     "kn": {
-      "question": "11 + 5 ಎಷ್ಟು?",
+      "question": "25 + 13 ಎಷ್ಟು?",
       "options": [
-        "17",
-        "18",
-        "15",
-        "16"
+        "40",
+        "39",
+        "37",
+        "38"
       ],
-      "answer": "16",
-      "reasoning": "11 ಮತ್ತು 5 ಸೇರಿಸಿದರೆ 16 ಆಗುತ್ತದೆ."
+      "answer": "38",
+      "reasoning": "25 ಮತ್ತು 13 ಸೇರಿಸಿದರೆ 38 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_17",
     "difficulty": 1,
     "en": {
-      "question": "What is 20 + 14?",
+      "question": "What is 39 + 23?",
       "options": [
-        "36",
-        "35",
-        "34",
-        "33"
+        "61",
+        "63",
+        "62",
+        "64"
       ],
-      "answer": "34",
-      "reasoning": "Adding 20 and 14 gives 34."
+      "answer": "62",
+      "reasoning": "Adding 39 and 23 gives 62."
     },
     "kn": {
-      "question": "20 + 14 ಎಷ್ಟು?",
+      "question": "39 + 23 ಎಷ್ಟು?",
       "options": [
-        "36",
-        "35",
-        "34",
-        "33"
+        "61",
+        "63",
+        "62",
+        "64"
       ],
-      "answer": "34",
-      "reasoning": "20 ಮತ್ತು 14 ಸೇರಿಸಿದರೆ 34 ಆಗುತ್ತದೆ."
+      "answer": "62",
+      "reasoning": "39 ಮತ್ತು 23 ಸೇರಿಸಿದರೆ 62 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_18",
     "difficulty": 1,
     "en": {
-      "question": "What is 15 + 5?",
+      "question": "What is 24 + 35?",
       "options": [
-        "20",
-        "21",
-        "19",
-        "22"
+        "61",
+        "58",
+        "59",
+        "60"
       ],
-      "answer": "20",
-      "reasoning": "Adding 15 and 5 gives 20."
+      "answer": "59",
+      "reasoning": "Adding 24 and 35 gives 59."
     },
     "kn": {
-      "question": "15 + 5 ಎಷ್ಟು?",
+      "question": "24 + 35 ಎಷ್ಟು?",
       "options": [
-        "20",
-        "21",
-        "19",
-        "22"
+        "61",
+        "58",
+        "59",
+        "60"
       ],
-      "answer": "20",
-      "reasoning": "15 ಮತ್ತು 5 ಸೇರಿಸಿದರೆ 20 ಆಗುತ್ತದೆ."
+      "answer": "59",
+      "reasoning": "24 ಮತ್ತು 35 ಸೇರಿಸಿದರೆ 59 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_19",
     "difficulty": 1,
     "en": {
-      "question": "What is 15 + 4?",
+      "question": "What is 16 + 32?",
       "options": [
-        "21",
-        "19",
-        "20",
-        "18"
+        "47",
+        "48",
+        "50",
+        "49"
       ],
-      "answer": "19",
-      "reasoning": "Adding 15 and 4 gives 19."
+      "answer": "48",
+      "reasoning": "Adding 16 and 32 gives 48."
     },
     "kn": {
-      "question": "15 + 4 ಎಷ್ಟು?",
+      "question": "16 + 32 ಎಷ್ಟು?",
       "options": [
-        "21",
-        "19",
-        "20",
-        "18"
+        "47",
+        "48",
+        "50",
+        "49"
       ],
-      "answer": "19",
-      "reasoning": "15 ಮತ್ತು 4 ಸೇರಿಸಿದರೆ 19 ಆಗುತ್ತದೆ."
+      "answer": "48",
+      "reasoning": "16 ಮತ್ತು 32 ಸೇರಿಸಿದರೆ 48 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_20",
     "difficulty": 1,
     "en": {
-      "question": "What is 11 + 4?",
+      "question": "What is 31 + 27?",
       "options": [
-        "16",
-        "17",
-        "14",
-        "15"
+        "60",
+        "58",
+        "57",
+        "59"
       ],
-      "answer": "15",
-      "reasoning": "Adding 11 and 4 gives 15."
+      "answer": "58",
+      "reasoning": "Adding 31 and 27 gives 58."
     },
     "kn": {
-      "question": "11 + 4 ಎಷ್ಟು?",
+      "question": "31 + 27 ಎಷ್ಟು?",
       "options": [
-        "16",
-        "17",
-        "14",
-        "15"
+        "60",
+        "58",
+        "57",
+        "59"
       ],
-      "answer": "15",
-      "reasoning": "11 ಮತ್ತು 4 ಸೇರಿಸಿದರೆ 15 ಆಗುತ್ತದೆ."
+      "answer": "58",
+      "reasoning": "31 ಮತ್ತು 27 ಸೇರಿಸಿದರೆ 58 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_21",
     "difficulty": 1,
     "en": {
-      "question": "What is 16 + 3?",
+      "question": "What is 18 + 16?",
       "options": [
-        "19",
-        "20",
-        "21",
-        "18"
+        "33",
+        "34",
+        "35",
+        "36"
       ],
-      "answer": "19",
-      "reasoning": "Adding 16 and 3 gives 19."
+      "answer": "34",
+      "reasoning": "Adding 18 and 16 gives 34."
     },
     "kn": {
-      "question": "16 + 3 ಎಷ್ಟು?",
+      "question": "18 + 16 ಎಷ್ಟು?",
       "options": [
-        "19",
-        "20",
-        "21",
-        "18"
+        "33",
+        "34",
+        "35",
+        "36"
       ],
-      "answer": "19",
-      "reasoning": "16 ಮತ್ತು 3 ಸೇರಿಸಿದರೆ 19 ಆಗುತ್ತದೆ."
+      "answer": "34",
+      "reasoning": "18 ಮತ್ತು 16 ಸೇರಿಸಿದರೆ 34 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_22",
     "difficulty": 1,
     "en": {
-      "question": "What is 20 + 18?",
+      "question": "What is 26 + 1?",
       "options": [
-        "38",
-        "37",
-        "40",
-        "39"
+        "27",
+        "28",
+        "26",
+        "29"
       ],
-      "answer": "38",
-      "reasoning": "Adding 20 and 18 gives 38."
+      "answer": "27",
+      "reasoning": "Adding 26 and 1 gives 27."
     },
     "kn": {
-      "question": "20 + 18 ಎಷ್ಟು?",
+      "question": "26 + 1 ಎಷ್ಟು?",
       "options": [
-        "38",
-        "37",
-        "40",
-        "39"
+        "27",
+        "28",
+        "26",
+        "29"
       ],
-      "answer": "38",
-      "reasoning": "20 ಮತ್ತು 18 ಸೇರಿಸಿದರೆ 38 ಆಗುತ್ತದೆ."
+      "answer": "27",
+      "reasoning": "26 ಮತ್ತು 1 ಸೇರಿಸಿದರೆ 27 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_23",
     "difficulty": 1,
     "en": {
-      "question": "What is 17 + 2?",
+      "question": "What is 21 + 28?",
       "options": [
-        "19",
-        "20",
-        "18",
-        "21"
+        "49",
+        "48",
+        "51",
+        "50"
       ],
-      "answer": "19",
-      "reasoning": "Adding 17 and 2 gives 19."
+      "answer": "49",
+      "reasoning": "Adding 21 and 28 gives 49."
     },
     "kn": {
-      "question": "17 + 2 ಎಷ್ಟು?",
+      "question": "21 + 28 ಎಷ್ಟು?",
       "options": [
-        "19",
-        "20",
-        "18",
-        "21"
+        "49",
+        "48",
+        "51",
+        "50"
       ],
-      "answer": "19",
-      "reasoning": "17 ಮತ್ತು 2 ಸೇರಿಸಿದರೆ 19 ಆಗುತ್ತದೆ."
+      "answer": "49",
+      "reasoning": "21 ಮತ್ತು 28 ಸೇರಿಸಿದರೆ 49 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_24",
     "difficulty": 1,
     "en": {
-      "question": "What is 6 + 15?",
+      "question": "What is 21 + 20?",
       "options": [
-        "21",
-        "22",
-        "23",
-        "20"
+        "43",
+        "41",
+        "42",
+        "40"
       ],
-      "answer": "21",
-      "reasoning": "Adding 6 and 15 gives 21."
+      "answer": "41",
+      "reasoning": "Adding 21 and 20 gives 41."
     },
     "kn": {
-      "question": "6 + 15 ಎಷ್ಟು?",
+      "question": "21 + 20 ಎಷ್ಟು?",
       "options": [
-        "21",
-        "22",
-        "23",
-        "20"
+        "43",
+        "41",
+        "42",
+        "40"
       ],
-      "answer": "21",
-      "reasoning": "6 ಮತ್ತು 15 ಸೇರಿಸಿದರೆ 21 ಆಗುತ್ತದೆ."
+      "answer": "41",
+      "reasoning": "21 ಮತ್ತು 20 ಸೇರಿಸಿದರೆ 41 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_25",
     "difficulty": 1,
     "en": {
-      "question": "What is 17 + 15?",
+      "question": "What is 4 + 20?",
       "options": [
-        "32",
-        "31",
-        "34",
-        "33"
+        "26",
+        "24",
+        "25",
+        "23"
       ],
-      "answer": "32",
-      "reasoning": "Adding 17 and 15 gives 32."
+      "answer": "24",
+      "reasoning": "Adding 4 and 20 gives 24."
     },
     "kn": {
-      "question": "17 + 15 ಎಷ್ಟು?",
+      "question": "4 + 20 ಎಷ್ಟು?",
       "options": [
-        "32",
-        "31",
-        "34",
-        "33"
+        "26",
+        "24",
+        "25",
+        "23"
       ],
-      "answer": "32",
-      "reasoning": "17 ಮತ್ತು 15 ಸೇರಿಸಿದರೆ 32 ಆಗುತ್ತದೆ."
+      "answer": "24",
+      "reasoning": "4 ಮತ್ತು 20 ಸೇರಿಸಿದರೆ 24 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_26",
     "difficulty": 1,
     "en": {
-      "question": "What is 19 + 13?",
+      "question": "What is 23 + 36?",
       "options": [
-        "34",
-        "32",
-        "33",
-        "31"
+        "60",
+        "58",
+        "59",
+        "61"
       ],
-      "answer": "32",
-      "reasoning": "Adding 19 and 13 gives 32."
+      "answer": "59",
+      "reasoning": "Adding 23 and 36 gives 59."
     },
     "kn": {
-      "question": "19 + 13 ಎಷ್ಟು?",
+      "question": "23 + 36 ಎಷ್ಟು?",
       "options": [
-        "34",
-        "32",
-        "33",
-        "31"
+        "60",
+        "58",
+        "59",
+        "61"
       ],
-      "answer": "32",
-      "reasoning": "19 ಮತ್ತು 13 ಸೇರಿಸಿದರೆ 32 ಆಗುತ್ತದೆ."
+      "answer": "59",
+      "reasoning": "23 ಮತ್ತು 36 ಸೇರಿಸಿದರೆ 59 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_27",
     "difficulty": 1,
     "en": {
+      "question": "What is 23 + 27?",
+      "options": [
+        "52",
+        "50",
+        "49",
+        "51"
+      ],
+      "answer": "50",
+      "reasoning": "Adding 23 and 27 gives 50."
+    },
+    "kn": {
+      "question": "23 + 27 ಎಷ್ಟು?",
+      "options": [
+        "52",
+        "50",
+        "49",
+        "51"
+      ],
+      "answer": "50",
+      "reasoning": "23 ಮತ್ತು 27 ಸೇರಿಸಿದರೆ 50 ಆಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "maths_28",
+    "difficulty": 1,
+    "en": {
+      "question": "What is 23 + 11?",
+      "options": [
+        "34",
+        "35",
+        "33",
+        "36"
+      ],
+      "answer": "34",
+      "reasoning": "Adding 23 and 11 gives 34."
+    },
+    "kn": {
+      "question": "23 + 11 ಎಷ್ಟು?",
+      "options": [
+        "34",
+        "35",
+        "33",
+        "36"
+      ],
+      "answer": "34",
+      "reasoning": "23 ಮತ್ತು 11 ಸೇರಿಸಿದರೆ 34 ಆಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "maths_29",
+    "difficulty": 1,
+    "en": {
+      "question": "What is 24 + 23?",
+      "options": [
+        "49",
+        "48",
+        "46",
+        "47"
+      ],
+      "answer": "47",
+      "reasoning": "Adding 24 and 23 gives 47."
+    },
+    "kn": {
+      "question": "24 + 23 ಎಷ್ಟು?",
+      "options": [
+        "49",
+        "48",
+        "46",
+        "47"
+      ],
+      "answer": "47",
+      "reasoning": "24 ಮತ್ತು 23 ಸೇರಿಸಿದರೆ 47 ಆಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "maths_30",
+    "difficulty": 1,
+    "en": {
+      "question": "What is 13 + 18?",
+      "options": [
+        "31",
+        "32",
+        "30",
+        "33"
+      ],
+      "answer": "31",
+      "reasoning": "Adding 13 and 18 gives 31."
+    },
+    "kn": {
+      "question": "13 + 18 ಎಷ್ಟು?",
+      "options": [
+        "31",
+        "32",
+        "30",
+        "33"
+      ],
+      "answer": "31",
+      "reasoning": "13 ಮತ್ತು 18 ಸೇರಿಸಿದರೆ 31 ಆಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "maths_31",
+    "difficulty": 1,
+    "en": {
       "question": "What is 16 + 11?",
       "options": [
+        "28",
         "26",
-        "29",
         "27",
-        "28"
+        "29"
       ],
       "answer": "27",
       "reasoning": "Adding 16 and 11 gives 27."
@@ -692,277 +796,511 @@
     "kn": {
       "question": "16 + 11 ಎಷ್ಟು?",
       "options": [
+        "28",
         "26",
-        "29",
         "27",
-        "28"
+        "29"
       ],
       "answer": "27",
       "reasoning": "16 ಮತ್ತು 11 ಸೇರಿಸಿದರೆ 27 ಆಗುತ್ತದೆ."
     }
   },
   {
-    "id": "maths_28",
-    "difficulty": 1,
-    "en": {
-      "question": "What is 15 + 17?",
-      "options": [
-        "32",
-        "33",
-        "34",
-        "31"
-      ],
-      "answer": "32",
-      "reasoning": "Adding 15 and 17 gives 32."
-    },
-    "kn": {
-      "question": "15 + 17 ಎಷ್ಟು?",
-      "options": [
-        "32",
-        "33",
-        "34",
-        "31"
-      ],
-      "answer": "32",
-      "reasoning": "15 ಮತ್ತು 17 ಸೇರಿಸಿದರೆ 32 ಆಗುತ್ತದೆ."
-    }
-  },
-  {
-    "id": "maths_29",
-    "difficulty": 1,
-    "en": {
-      "question": "What is 18 + 10?",
-      "options": [
-        "28",
-        "27",
-        "29",
-        "30"
-      ],
-      "answer": "28",
-      "reasoning": "Adding 18 and 10 gives 28."
-    },
-    "kn": {
-      "question": "18 + 10 ಎಷ್ಟು?",
-      "options": [
-        "28",
-        "27",
-        "29",
-        "30"
-      ],
-      "answer": "28",
-      "reasoning": "18 ಮತ್ತು 10 ಸೇರಿಸಿದರೆ 28 ಆಗುತ್ತದೆ."
-    }
-  },
-  {
-    "id": "maths_30",
-    "difficulty": 1,
-    "en": {
-      "question": "What is 13 + 7?",
-      "options": [
-        "22",
-        "19",
-        "20",
-        "21"
-      ],
-      "answer": "20",
-      "reasoning": "Adding 13 and 7 gives 20."
-    },
-    "kn": {
-      "question": "13 + 7 ಎಷ್ಟು?",
-      "options": [
-        "22",
-        "19",
-        "20",
-        "21"
-      ],
-      "answer": "20",
-      "reasoning": "13 ಮತ್ತು 7 ಸೇರಿಸಿದರೆ 20 ಆಗುತ್ತದೆ."
-    }
-  },
-  {
-    "id": "maths_31",
-    "difficulty": 1,
-    "en": {
-      "question": "What is 19 + 10?",
-      "options": [
-        "30",
-        "28",
-        "29",
-        "31"
-      ],
-      "answer": "29",
-      "reasoning": "Adding 19 and 10 gives 29."
-    },
-    "kn": {
-      "question": "19 + 10 ಎಷ್ಟು?",
-      "options": [
-        "30",
-        "28",
-        "29",
-        "31"
-      ],
-      "answer": "29",
-      "reasoning": "19 ಮತ್ತು 10 ಸೇರಿಸಿದರೆ 29 ಆಗುತ್ತದೆ."
-    }
-  },
-  {
     "id": "maths_32",
     "difficulty": 1,
     "en": {
-      "question": "What is 13 + 2?",
+      "question": "What is 24 + 32?",
       "options": [
-        "17",
-        "16",
-        "14",
-        "15"
+        "57",
+        "56",
+        "55",
+        "58"
       ],
-      "answer": "15",
-      "reasoning": "Adding 13 and 2 gives 15."
+      "answer": "56",
+      "reasoning": "Adding 24 and 32 gives 56."
     },
     "kn": {
-      "question": "13 + 2 ಎಷ್ಟು?",
+      "question": "24 + 32 ಎಷ್ಟು?",
       "options": [
-        "17",
-        "16",
-        "14",
-        "15"
+        "57",
+        "56",
+        "55",
+        "58"
       ],
-      "answer": "15",
-      "reasoning": "13 ಮತ್ತು 2 ಸೇರಿಸಿದರೆ 15 ಆಗುತ್ತದೆ."
+      "answer": "56",
+      "reasoning": "24 ಮತ್ತು 32 ಸೇರಿಸಿದರೆ 56 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_33",
     "difficulty": 1,
     "en": {
-      "question": "What is 18 + 11?",
+      "question": "What is 39 + 19?",
       "options": [
-        "30",
-        "28",
-        "31",
-        "29"
+        "57",
+        "59",
+        "60",
+        "58"
       ],
-      "answer": "29",
-      "reasoning": "Adding 18 and 11 gives 29."
+      "answer": "58",
+      "reasoning": "Adding 39 and 19 gives 58."
     },
     "kn": {
-      "question": "18 + 11 ಎಷ್ಟು?",
+      "question": "39 + 19 ಎಷ್ಟು?",
       "options": [
-        "30",
-        "28",
-        "31",
-        "29"
+        "57",
+        "59",
+        "60",
+        "58"
       ],
-      "answer": "29",
-      "reasoning": "18 ಮತ್ತು 11 ಸೇರಿಸಿದರೆ 29 ಆಗುತ್ತದೆ."
+      "answer": "58",
+      "reasoning": "39 ಮತ್ತು 19 ಸೇರಿಸಿದರೆ 58 ಆಗುತ್ತದೆ."
     }
   },
   {
     "id": "maths_34",
     "difficulty": 2,
     "en": {
-      "question": "What is 11 multiplied by 2?",
+      "question": "What is 12 multiplied by 11?",
       "options": [
-        "24",
-        "Option 3",
-        "22",
-        "11"
+        "132",
+        "120",
+        "134",
+        "143"
       ],
-      "answer": "22",
-      "reasoning": "11 times 2 is 22."
+      "answer": "132",
+      "reasoning": "12 times 11 is 132."
     },
     "kn": {
-      "question": "11 ಅನ್ನು 2 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "12 ಅನ್ನು 11 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "24",
-        "ಆಯ್ಕೆ 3",
-        "22",
-        "11"
+        "132",
+        "120",
+        "134",
+        "143"
       ],
-      "answer": "22",
-      "reasoning": "11 ಗುಡ್ಲೆ 2 ಎಂಬುದು 22."
+      "answer": "132",
+      "reasoning": "12 ಗುಡ್ಲೆ 11 ಎಂಬುದು 132."
     }
   },
   {
     "id": "maths_35",
     "difficulty": 2,
     "en": {
-      "question": "What is 7 multiplied by 5?",
+      "question": "What is 9 multiplied by 7?",
       "options": [
-        "28",
-        "37",
-        "35",
-        "40"
+        "70",
+        "63",
+        "65",
+        "54"
       ],
-      "answer": "35",
-      "reasoning": "7 times 5 is 35."
+      "answer": "63",
+      "reasoning": "9 times 7 is 63."
     },
     "kn": {
-      "question": "7 ಅನ್ನು 5 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "9 ಅನ್ನು 7 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "28",
-        "37",
-        "35",
-        "40"
+        "70",
+        "63",
+        "65",
+        "54"
       ],
-      "answer": "35",
-      "reasoning": "7 ಗುಡ್ಲೆ 5 ಎಂಬುದು 35."
+      "answer": "63",
+      "reasoning": "9 ಗುಡ್ಲೆ 7 ಎಂಬುದು 63."
     }
   },
   {
     "id": "maths_36",
     "difficulty": 2,
     "en": {
-      "question": "What is 10 multiplied by 2?",
+      "question": "What is 8 multiplied by 2?",
       "options": [
-        "10",
+        "8",
+        "16",
         "Option 3",
-        "22",
-        "20"
+        "18"
       ],
-      "answer": "20",
-      "reasoning": "10 times 2 is 20."
+      "answer": "16",
+      "reasoning": "8 times 2 is 16."
     },
     "kn": {
-      "question": "10 ಅನ್ನು 2 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "8 ಅನ್ನು 2 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "10",
+        "8",
+        "16",
         "ಆಯ್ಕೆ 3",
-        "22",
-        "20"
+        "18"
       ],
-      "answer": "20",
-      "reasoning": "10 ಗುಡ್ಲೆ 2 ಎಂಬುದು 20."
+      "answer": "16",
+      "reasoning": "8 ಗುಡ್ಲೆ 2 ಎಂಬುದು 16."
     }
   },
   {
     "id": "maths_37",
     "difficulty": 2,
     "en": {
-      "question": "What is 5 multiplied by 4?",
+      "question": "What is 8 multiplied by 9?",
       "options": [
-        "15",
-        "20",
-        "22",
-        "24"
+        "81",
+        "74",
+        "72",
+        "64"
       ],
-      "answer": "20",
-      "reasoning": "5 times 4 is 20."
+      "answer": "72",
+      "reasoning": "8 times 9 is 72."
     },
     "kn": {
-      "question": "5 ಅನ್ನು 4 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "8 ಅನ್ನು 9 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "15",
-        "20",
-        "22",
-        "24"
+        "81",
+        "74",
+        "72",
+        "64"
       ],
-      "answer": "20",
-      "reasoning": "5 ಗುಡ್ಲೆ 4 ಎಂಬುದು 20."
+      "answer": "72",
+      "reasoning": "8 ಗುಡ್ಲೆ 9 ಎಂಬುದು 72."
     }
   },
   {
     "id": "maths_38",
+    "difficulty": 2,
+    "en": {
+      "question": "What is 9 multiplied by 10?",
+      "options": [
+        "90",
+        "100",
+        "81",
+        "92"
+      ],
+      "answer": "90",
+      "reasoning": "9 times 10 is 90."
+    },
+    "kn": {
+      "question": "9 ಅನ್ನು 10 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "options": [
+        "90",
+        "100",
+        "81",
+        "92"
+      ],
+      "answer": "90",
+      "reasoning": "9 ಗುಡ್ಲೆ 10 ಎಂಬುದು 90."
+    }
+  },
+  {
+    "id": "maths_39",
+    "difficulty": 2,
+    "en": {
+      "question": "What is 16 multiplied by 11?",
+      "options": [
+        "160",
+        "187",
+        "178",
+        "176"
+      ],
+      "answer": "176",
+      "reasoning": "16 times 11 is 176."
+    },
+    "kn": {
+      "question": "16 ಅನ್ನು 11 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "options": [
+        "160",
+        "187",
+        "178",
+        "176"
+      ],
+      "answer": "176",
+      "reasoning": "16 ಗುಡ್ಲೆ 11 ಎಂಬುದು 176."
+    }
+  },
+  {
+    "id": "maths_40",
+    "difficulty": 2,
+    "en": {
+      "question": "What is 11 multiplied by 5?",
+      "options": [
+        "55",
+        "44",
+        "60",
+        "57"
+      ],
+      "answer": "55",
+      "reasoning": "11 times 5 is 55."
+    },
+    "kn": {
+      "question": "11 ಅನ್ನು 5 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "options": [
+        "55",
+        "44",
+        "60",
+        "57"
+      ],
+      "answer": "55",
+      "reasoning": "11 ಗುಡ್ಲೆ 5 ಎಂಬುದು 55."
+    }
+  },
+  {
+    "id": "maths_41",
+    "difficulty": 2,
+    "en": {
+      "question": "What is 9 multiplied by 6?",
+      "options": [
+        "45",
+        "56",
+        "60",
+        "54"
+      ],
+      "answer": "54",
+      "reasoning": "9 times 6 is 54."
+    },
+    "kn": {
+      "question": "9 ಅನ್ನು 6 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "options": [
+        "45",
+        "56",
+        "60",
+        "54"
+      ],
+      "answer": "54",
+      "reasoning": "9 ಗುಡ್ಲೆ 6 ಎಂಬುದು 54."
+    }
+  },
+  {
+    "id": "maths_42",
+    "difficulty": 2,
+    "en": {
+      "question": "What is 17 multiplied by 12?",
+      "options": [
+        "216",
+        "206",
+        "187",
+        "204"
+      ],
+      "answer": "204",
+      "reasoning": "17 times 12 is 204."
+    },
+    "kn": {
+      "question": "17 ಅನ್ನು 12 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "options": [
+        "216",
+        "206",
+        "187",
+        "204"
+      ],
+      "answer": "204",
+      "reasoning": "17 ಗುಡ್ಲೆ 12 ಎಂಬುದು 204."
+    }
+  },
+  {
+    "id": "maths_43",
+    "difficulty": 2,
+    "en": {
+      "question": "What is 7 multiplied by 8?",
+      "options": [
+        "64",
+        "49",
+        "58",
+        "56"
+      ],
+      "answer": "56",
+      "reasoning": "7 times 8 is 56."
+    },
+    "kn": {
+      "question": "7 ಅನ್ನು 8 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "options": [
+        "64",
+        "49",
+        "58",
+        "56"
+      ],
+      "answer": "56",
+      "reasoning": "7 ಗುಡ್ಲೆ 8 ಎಂಬುದು 56."
+    }
+  },
+  {
+    "id": "maths_44",
+    "difficulty": 2,
+    "en": {
+      "question": "What is 10 multiplied by 7?",
+      "options": [
+        "70",
+        "60",
+        "77",
+        "72"
+      ],
+      "answer": "70",
+      "reasoning": "10 times 7 is 70."
+    },
+    "kn": {
+      "question": "10 ಅನ್ನು 7 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "options": [
+        "70",
+        "60",
+        "77",
+        "72"
+      ],
+      "answer": "70",
+      "reasoning": "10 ಗುಡ್ಲೆ 7 ಎಂಬುದು 70."
+    }
+  },
+  {
+    "id": "maths_45",
+    "difficulty": 2,
+    "en": {
+      "question": "What is 12 multiplied by 4?",
+      "options": [
+        "48",
+        "50",
+        "36",
+        "52"
+      ],
+      "answer": "48",
+      "reasoning": "12 times 4 is 48."
+    },
+    "kn": {
+      "question": "12 ಅನ್ನು 4 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "options": [
+        "48",
+        "50",
+        "36",
+        "52"
+      ],
+      "answer": "48",
+      "reasoning": "12 ಗುಡ್ಲೆ 4 ಎಂಬುದು 48."
+    }
+  },
+  {
+    "id": "maths_46",
+    "difficulty": 2,
+    "en": {
+      "question": "What is 11 multiplied by 6?",
+      "options": [
+        "72",
+        "66",
+        "68",
+        "55"
+      ],
+      "answer": "66",
+      "reasoning": "11 times 6 is 66."
+    },
+    "kn": {
+      "question": "11 ಅನ್ನು 6 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "options": [
+        "72",
+        "66",
+        "68",
+        "55"
+      ],
+      "answer": "66",
+      "reasoning": "11 ಗುಡ್ಲೆ 6 ಎಂಬುದು 66."
+    }
+  },
+  {
+    "id": "maths_47",
+    "difficulty": 2,
+    "en": {
+      "question": "What is 17 multiplied by 7?",
+      "options": [
+        "126",
+        "102",
+        "121",
+        "119"
+      ],
+      "answer": "119",
+      "reasoning": "17 times 7 is 119."
+    },
+    "kn": {
+      "question": "17 ಅನ್ನು 7 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "options": [
+        "126",
+        "102",
+        "121",
+        "119"
+      ],
+      "answer": "119",
+      "reasoning": "17 ಗುಡ್ಲೆ 7 ಎಂಬುದು 119."
+    }
+  },
+  {
+    "id": "maths_48",
+    "difficulty": 2,
+    "en": {
+      "question": "What is 6 multiplied by 4?",
+      "options": [
+        "24",
+        "28",
+        "18",
+        "26"
+      ],
+      "answer": "24",
+      "reasoning": "6 times 4 is 24."
+    },
+    "kn": {
+      "question": "6 ಅನ್ನು 4 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "options": [
+        "24",
+        "28",
+        "18",
+        "26"
+      ],
+      "answer": "24",
+      "reasoning": "6 ಗುಡ್ಲೆ 4 ಎಂಬುದು 24."
+    }
+  },
+  {
+    "id": "maths_49",
+    "difficulty": 2,
+    "en": {
+      "question": "What is 7 multiplied by 11?",
+      "options": [
+        "70",
+        "88",
+        "79",
+        "77"
+      ],
+      "answer": "77",
+      "reasoning": "7 times 11 is 77."
+    },
+    "kn": {
+      "question": "7 ಅನ್ನು 11 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "options": [
+        "70",
+        "88",
+        "79",
+        "77"
+      ],
+      "answer": "77",
+      "reasoning": "7 ಗುಡ್ಲೆ 11 ಎಂಬುದು 77."
+    }
+  },
+  {
+    "id": "maths_50",
+    "difficulty": 2,
+    "en": {
+      "question": "What is 7 multiplied by 4?",
+      "options": [
+        "28",
+        "21",
+        "32",
+        "30"
+      ],
+      "answer": "28",
+      "reasoning": "7 times 4 is 28."
+    },
+    "kn": {
+      "question": "7 ಅನ್ನು 4 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "options": [
+        "28",
+        "21",
+        "32",
+        "30"
+      ],
+      "answer": "28",
+      "reasoning": "7 ಗುಡ್ಲೆ 4 ಎಂಬುದು 28."
+    }
+  },
+  {
+    "id": "maths_51",
     "difficulty": 2,
     "en": {
       "question": "What is 9 multiplied by 4?",
@@ -988,549 +1326,211 @@
     }
   },
   {
-    "id": "maths_39",
-    "difficulty": 2,
-    "en": {
-      "question": "What is 8 multiplied by 3?",
-      "options": [
-        "26",
-        "27",
-        "16",
-        "24"
-      ],
-      "answer": "24",
-      "reasoning": "8 times 3 is 24."
-    },
-    "kn": {
-      "question": "8 ಅನ್ನು 3 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
-      "options": [
-        "26",
-        "27",
-        "16",
-        "24"
-      ],
-      "answer": "24",
-      "reasoning": "8 ಗುಡ್ಲೆ 3 ಎಂಬುದು 24."
-    }
-  },
-  {
-    "id": "maths_40",
-    "difficulty": 2,
-    "en": {
-      "question": "What is 6 multiplied by 8?",
-      "options": [
-        "42",
-        "50",
-        "48",
-        "56"
-      ],
-      "answer": "48",
-      "reasoning": "6 times 8 is 48."
-    },
-    "kn": {
-      "question": "6 ಅನ್ನು 8 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
-      "options": [
-        "42",
-        "50",
-        "48",
-        "56"
-      ],
-      "answer": "48",
-      "reasoning": "6 ಗುಡ್ಲೆ 8 ಎಂಬುದು 48."
-    }
-  },
-  {
-    "id": "maths_41",
-    "difficulty": 2,
-    "en": {
-      "question": "What is 6 multiplied by 2?",
-      "options": [
-        "12",
-        "6",
-        "14",
-        "Option 3"
-      ],
-      "answer": "12",
-      "reasoning": "6 times 2 is 12."
-    },
-    "kn": {
-      "question": "6 ಅನ್ನು 2 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
-      "options": [
-        "12",
-        "6",
-        "14",
-        "ಆಯ್ಕೆ 3"
-      ],
-      "answer": "12",
-      "reasoning": "6 ಗುಡ್ಲೆ 2 ಎಂಬುದು 12."
-    }
-  },
-  {
-    "id": "maths_42",
-    "difficulty": 2,
-    "en": {
-      "question": "What is 6 multiplied by 5?",
-      "options": [
-        "30",
-        "32",
-        "24",
-        "35"
-      ],
-      "answer": "30",
-      "reasoning": "6 times 5 is 30."
-    },
-    "kn": {
-      "question": "6 ಅನ್ನು 5 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
-      "options": [
-        "30",
-        "32",
-        "24",
-        "35"
-      ],
-      "answer": "30",
-      "reasoning": "6 ಗುಡ್ಲೆ 5 ಎಂಬುದು 30."
-    }
-  },
-  {
-    "id": "maths_43",
-    "difficulty": 2,
-    "en": {
-      "question": "What is 12 multiplied by 9?",
-      "options": [
-        "108",
-        "110",
-        "117",
-        "96"
-      ],
-      "answer": "108",
-      "reasoning": "12 times 9 is 108."
-    },
-    "kn": {
-      "question": "12 ಅನ್ನು 9 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
-      "options": [
-        "108",
-        "110",
-        "117",
-        "96"
-      ],
-      "answer": "108",
-      "reasoning": "12 ಗುಡ್ಲೆ 9 ಎಂಬುದು 108."
-    }
-  },
-  {
-    "id": "maths_44",
-    "difficulty": 2,
-    "en": {
-      "question": "What is 6 multiplied by 8?",
-      "options": [
-        "56",
-        "50",
-        "42",
-        "48"
-      ],
-      "answer": "48",
-      "reasoning": "6 times 8 is 48."
-    },
-    "kn": {
-      "question": "6 ಅನ್ನು 8 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
-      "options": [
-        "56",
-        "50",
-        "42",
-        "48"
-      ],
-      "answer": "48",
-      "reasoning": "6 ಗುಡ್ಲೆ 8 ಎಂಬುದು 48."
-    }
-  },
-  {
-    "id": "maths_45",
-    "difficulty": 2,
-    "en": {
-      "question": "What is 12 multiplied by 2?",
-      "options": [
-        "Option 3",
-        "12",
-        "24",
-        "26"
-      ],
-      "answer": "24",
-      "reasoning": "12 times 2 is 24."
-    },
-    "kn": {
-      "question": "12 ಅನ್ನು 2 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
-      "options": [
-        "ಆಯ್ಕೆ 3",
-        "12",
-        "24",
-        "26"
-      ],
-      "answer": "24",
-      "reasoning": "12 ಗುಡ್ಲೆ 2 ಎಂಬುದು 24."
-    }
-  },
-  {
-    "id": "maths_46",
-    "difficulty": 2,
-    "en": {
-      "question": "What is 8 multiplied by 8?",
-      "options": [
-        "66",
-        "56",
-        "64",
-        "72"
-      ],
-      "answer": "64",
-      "reasoning": "8 times 8 is 64."
-    },
-    "kn": {
-      "question": "8 ಅನ್ನು 8 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
-      "options": [
-        "66",
-        "56",
-        "64",
-        "72"
-      ],
-      "answer": "64",
-      "reasoning": "8 ಗುಡ್ಲೆ 8 ಎಂಬುದು 64."
-    }
-  },
-  {
-    "id": "maths_47",
-    "difficulty": 2,
-    "en": {
-      "question": "What is 7 multiplied by 3?",
-      "options": [
-        "14",
-        "21",
-        "23",
-        "24"
-      ],
-      "answer": "21",
-      "reasoning": "7 times 3 is 21."
-    },
-    "kn": {
-      "question": "7 ಅನ್ನು 3 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
-      "options": [
-        "14",
-        "21",
-        "23",
-        "24"
-      ],
-      "answer": "21",
-      "reasoning": "7 ಗುಡ್ಲೆ 3 ಎಂಬುದು 21."
-    }
-  },
-  {
-    "id": "maths_48",
-    "difficulty": 2,
-    "en": {
-      "question": "What is 5 multiplied by 5?",
-      "options": [
-        "30",
-        "27",
-        "20",
-        "25"
-      ],
-      "answer": "25",
-      "reasoning": "5 times 5 is 25."
-    },
-    "kn": {
-      "question": "5 ಅನ್ನು 5 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
-      "options": [
-        "30",
-        "27",
-        "20",
-        "25"
-      ],
-      "answer": "25",
-      "reasoning": "5 ಗುಡ್ಲೆ 5 ಎಂಬುದು 25."
-    }
-  },
-  {
-    "id": "maths_49",
-    "difficulty": 2,
-    "en": {
-      "question": "What is 11 multiplied by 3?",
-      "options": [
-        "35",
-        "36",
-        "22",
-        "33"
-      ],
-      "answer": "33",
-      "reasoning": "11 times 3 is 33."
-    },
-    "kn": {
-      "question": "11 ಅನ್ನು 3 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
-      "options": [
-        "35",
-        "36",
-        "22",
-        "33"
-      ],
-      "answer": "33",
-      "reasoning": "11 ಗುಡ್ಲೆ 3 ಎಂಬುದು 33."
-    }
-  },
-  {
-    "id": "maths_50",
-    "difficulty": 2,
-    "en": {
-      "question": "What is 9 multiplied by 3?",
-      "options": [
-        "29",
-        "30",
-        "18",
-        "27"
-      ],
-      "answer": "27",
-      "reasoning": "9 times 3 is 27."
-    },
-    "kn": {
-      "question": "9 ಅನ್ನು 3 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
-      "options": [
-        "29",
-        "30",
-        "18",
-        "27"
-      ],
-      "answer": "27",
-      "reasoning": "9 ಗುಡ್ಲೆ 3 ಎಂಬುದು 27."
-    }
-  },
-  {
-    "id": "maths_51",
-    "difficulty": 2,
-    "en": {
-      "question": "What is 11 multiplied by 3?",
-      "options": [
-        "35",
-        "22",
-        "33",
-        "36"
-      ],
-      "answer": "33",
-      "reasoning": "11 times 3 is 33."
-    },
-    "kn": {
-      "question": "11 ಅನ್ನು 3 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
-      "options": [
-        "35",
-        "22",
-        "33",
-        "36"
-      ],
-      "answer": "33",
-      "reasoning": "11 ಗುಡ್ಲೆ 3 ಎಂಬುದು 33."
-    }
-  },
-  {
     "id": "maths_52",
     "difficulty": 2,
     "en": {
-      "question": "What is 8 multiplied by 7?",
+      "question": "What is 13 multiplied by 8?",
       "options": [
-        "58",
-        "56",
-        "63",
-        "48"
+        "106",
+        "104",
+        "91",
+        "112"
       ],
-      "answer": "56",
-      "reasoning": "8 times 7 is 56."
+      "answer": "104",
+      "reasoning": "13 times 8 is 104."
     },
     "kn": {
-      "question": "8 ಅನ್ನು 7 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "13 ಅನ್ನು 8 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "58",
-        "56",
-        "63",
-        "48"
+        "106",
+        "104",
+        "91",
+        "112"
       ],
-      "answer": "56",
-      "reasoning": "8 ಗುಡ್ಲೆ 7 ಎಂಬುದು 56."
+      "answer": "104",
+      "reasoning": "13 ಗುಡ್ಲೆ 8 ಎಂಬುದು 104."
     }
   },
   {
     "id": "maths_53",
     "difficulty": 2,
     "en": {
-      "question": "What is 12 multiplied by 2?",
+      "question": "What is 15 multiplied by 2?",
       "options": [
-        "24",
-        "26",
-        "12",
+        "30",
+        "32",
+        "15",
         "Option 3"
       ],
-      "answer": "24",
-      "reasoning": "12 times 2 is 24."
+      "answer": "30",
+      "reasoning": "15 times 2 is 30."
     },
     "kn": {
-      "question": "12 ಅನ್ನು 2 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "15 ಅನ್ನು 2 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "24",
-        "26",
-        "12",
+        "30",
+        "32",
+        "15",
         "ಆಯ್ಕೆ 3"
       ],
-      "answer": "24",
-      "reasoning": "12 ಗುಡ್ಲೆ 2 ಎಂಬುದು 24."
+      "answer": "30",
+      "reasoning": "15 ಗುಡ್ಲೆ 2 ಎಂಬುದು 30."
     }
   },
   {
     "id": "maths_54",
     "difficulty": 2,
     "en": {
-      "question": "What is 10 multiplied by 4?",
+      "question": "What is 20 multiplied by 7?",
       "options": [
-        "40",
-        "30",
-        "42",
-        "44"
+        "147",
+        "142",
+        "120",
+        "140"
       ],
-      "answer": "40",
-      "reasoning": "10 times 4 is 40."
+      "answer": "140",
+      "reasoning": "20 times 7 is 140."
     },
     "kn": {
-      "question": "10 ಅನ್ನು 4 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "20 ಅನ್ನು 7 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "40",
-        "30",
-        "42",
-        "44"
+        "147",
+        "142",
+        "120",
+        "140"
       ],
-      "answer": "40",
-      "reasoning": "10 ಗುಡ್ಲೆ 4 ಎಂಬುದು 40."
+      "answer": "140",
+      "reasoning": "20 ಗುಡ್ಲೆ 7 ಎಂಬುದು 140."
     }
   },
   {
     "id": "maths_55",
     "difficulty": 2,
     "en": {
-      "question": "What is 10 multiplied by 4?",
+      "question": "What is 9 multiplied by 11?",
       "options": [
-        "40",
-        "30",
-        "42",
-        "44"
+        "101",
+        "90",
+        "99",
+        "110"
       ],
-      "answer": "40",
-      "reasoning": "10 times 4 is 40."
+      "answer": "99",
+      "reasoning": "9 times 11 is 99."
     },
     "kn": {
-      "question": "10 ಅನ್ನು 4 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "9 ಅನ್ನು 11 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "40",
-        "30",
-        "42",
-        "44"
+        "101",
+        "90",
+        "99",
+        "110"
       ],
-      "answer": "40",
-      "reasoning": "10 ಗುಡ್ಲೆ 4 ಎಂಬುದು 40."
+      "answer": "99",
+      "reasoning": "9 ಗುಡ್ಲೆ 11 ಎಂಬುದು 99."
     }
   },
   {
     "id": "maths_56",
     "difficulty": 2,
     "en": {
-      "question": "What is 9 multiplied by 6?",
+      "question": "What is 11 multiplied by 10?",
       "options": [
-        "60",
-        "54",
-        "56",
-        "45"
+        "99",
+        "120",
+        "110",
+        "112"
       ],
-      "answer": "54",
-      "reasoning": "9 times 6 is 54."
+      "answer": "110",
+      "reasoning": "11 times 10 is 110."
     },
     "kn": {
-      "question": "9 ಅನ್ನು 6 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "11 ಅನ್ನು 10 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "60",
-        "54",
-        "56",
-        "45"
+        "99",
+        "120",
+        "110",
+        "112"
       ],
-      "answer": "54",
-      "reasoning": "9 ಗುಡ್ಲೆ 6 ಎಂಬುದು 54."
+      "answer": "110",
+      "reasoning": "11 ಗುಡ್ಲೆ 10 ಎಂಬುದು 110."
     }
   },
   {
     "id": "maths_57",
     "difficulty": 2,
     "en": {
-      "question": "What is 6 multiplied by 2?",
+      "question": "What is 8 multiplied by 6?",
       "options": [
-        "12",
-        "Option 3",
-        "6",
-        "14"
+        "54",
+        "50",
+        "48",
+        "40"
       ],
-      "answer": "12",
-      "reasoning": "6 times 2 is 12."
+      "answer": "48",
+      "reasoning": "8 times 6 is 48."
     },
     "kn": {
-      "question": "6 ಅನ್ನು 2 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "8 ಅನ್ನು 6 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "12",
-        "ಆಯ್ಕೆ 3",
-        "6",
-        "14"
+        "54",
+        "50",
+        "48",
+        "40"
       ],
-      "answer": "12",
-      "reasoning": "6 ಗುಡ್ಲೆ 2 ಎಂಬುದು 12."
+      "answer": "48",
+      "reasoning": "8 ಗುಡ್ಲೆ 6 ಎಂಬುದು 48."
     }
   },
   {
     "id": "maths_58",
     "difficulty": 2,
     "en": {
-      "question": "What is 11 multiplied by 4?",
+      "question": "What is 16 multiplied by 12?",
       "options": [
-        "48",
-        "46",
-        "33",
-        "44"
+        "192",
+        "194",
+        "204",
+        "176"
       ],
-      "answer": "44",
-      "reasoning": "11 times 4 is 44."
+      "answer": "192",
+      "reasoning": "16 times 12 is 192."
     },
     "kn": {
-      "question": "11 ಅನ್ನು 4 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "16 ಅನ್ನು 12 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "48",
-        "46",
-        "33",
-        "44"
+        "192",
+        "194",
+        "204",
+        "176"
       ],
-      "answer": "44",
-      "reasoning": "11 ಗುಡ್ಲೆ 4 ಎಂಬುದು 44."
+      "answer": "192",
+      "reasoning": "16 ಗುಡ್ಲೆ 12 ಎಂಬುದು 192."
     }
   },
   {
     "id": "maths_59",
     "difficulty": 2,
     "en": {
-      "question": "What is 12 multiplied by 5?",
+      "question": "What is 15 multiplied by 5?",
       "options": [
-        "65",
         "60",
-        "48",
-        "62"
+        "80",
+        "75",
+        "77"
       ],
-      "answer": "60",
-      "reasoning": "12 times 5 is 60."
+      "answer": "75",
+      "reasoning": "15 times 5 is 75."
     },
     "kn": {
-      "question": "12 ಅನ್ನು 5 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "15 ಅನ್ನು 5 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "65",
         "60",
-        "48",
-        "62"
+        "80",
+        "75",
+        "77"
       ],
-      "answer": "60",
-      "reasoning": "12 ಗುಡ್ಲೆ 5 ಎಂಬುದು 60."
+      "answer": "75",
+      "reasoning": "15 ಗುಡ್ಲೆ 5 ಎಂಬುದು 75."
     }
   },
   {
@@ -1540,9 +1540,9 @@
       "question": "What is 10 multiplied by 3?",
       "options": [
         "30",
-        "33",
+        "32",
         "20",
-        "32"
+        "33"
       ],
       "answer": "30",
       "reasoning": "10 times 3 is 30."
@@ -1551,9 +1551,9 @@
       "question": "10 ಅನ್ನು 3 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
         "30",
-        "33",
+        "32",
         "20",
-        "32"
+        "33"
       ],
       "answer": "30",
       "reasoning": "10 ಗುಡ್ಲೆ 3 ಎಂಬುದು 30."
@@ -1563,1040 +1563,1040 @@
     "id": "maths_61",
     "difficulty": 2,
     "en": {
-      "question": "What is 7 multiplied by 7?",
+      "question": "What is 9 multiplied by 5?",
       "options": [
-        "42",
-        "51",
-        "49",
-        "56"
+        "47",
+        "50",
+        "36",
+        "45"
       ],
-      "answer": "49",
-      "reasoning": "7 times 7 is 49."
+      "answer": "45",
+      "reasoning": "9 times 5 is 45."
     },
     "kn": {
-      "question": "7 ಅನ್ನು 7 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "9 ಅನ್ನು 5 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "42",
-        "51",
-        "49",
-        "56"
+        "47",
+        "50",
+        "36",
+        "45"
       ],
-      "answer": "49",
-      "reasoning": "7 ಗುಡ್ಲೆ 7 ಎಂಬುದು 49."
+      "answer": "45",
+      "reasoning": "9 ಗುಡ್ಲೆ 5 ಎಂಬುದು 45."
     }
   },
   {
     "id": "maths_62",
     "difficulty": 2,
     "en": {
-      "question": "What is 5 multiplied by 6?",
+      "question": "What is 13 multiplied by 6?",
       "options": [
-        "30",
-        "36",
-        "25",
-        "32"
+        "65",
+        "84",
+        "78",
+        "80"
       ],
-      "answer": "30",
-      "reasoning": "5 times 6 is 30."
+      "answer": "78",
+      "reasoning": "13 times 6 is 78."
     },
     "kn": {
-      "question": "5 ಅನ್ನು 6 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "13 ಅನ್ನು 6 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "30",
-        "36",
-        "25",
-        "32"
+        "65",
+        "84",
+        "78",
+        "80"
       ],
-      "answer": "30",
-      "reasoning": "5 ಗುಡ್ಲೆ 6 ಎಂಬುದು 30."
+      "answer": "78",
+      "reasoning": "13 ಗುಡ್ಲೆ 6 ಎಂಬುದು 78."
     }
   },
   {
     "id": "maths_63",
     "difficulty": 2,
     "en": {
-      "question": "What is 11 multiplied by 2?",
+      "question": "What is 19 multiplied by 7?",
       "options": [
-        "22",
-        "Option 3",
-        "11",
-        "24"
+        "135",
+        "133",
+        "114",
+        "140"
       ],
-      "answer": "22",
-      "reasoning": "11 times 2 is 22."
+      "answer": "133",
+      "reasoning": "19 times 7 is 133."
     },
     "kn": {
-      "question": "11 ಅನ್ನು 2 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "19 ಅನ್ನು 7 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "22",
-        "ಆಯ್ಕೆ 3",
-        "11",
-        "24"
+        "135",
+        "133",
+        "114",
+        "140"
       ],
-      "answer": "22",
-      "reasoning": "11 ಗುಡ್ಲೆ 2 ಎಂಬುದು 22."
+      "answer": "133",
+      "reasoning": "19 ಗುಡ್ಲೆ 7 ಎಂಬುದು 133."
     }
   },
   {
     "id": "maths_64",
     "difficulty": 2,
     "en": {
-      "question": "What is 11 multiplied by 3?",
+      "question": "What is 13 multiplied by 5?",
       "options": [
-        "22",
-        "36",
-        "35",
-        "33"
+        "67",
+        "65",
+        "70",
+        "52"
       ],
-      "answer": "33",
-      "reasoning": "11 times 3 is 33."
+      "answer": "65",
+      "reasoning": "13 times 5 is 65."
     },
     "kn": {
-      "question": "11 ಅನ್ನು 3 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "13 ಅನ್ನು 5 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "22",
-        "36",
-        "35",
-        "33"
+        "67",
+        "65",
+        "70",
+        "52"
       ],
-      "answer": "33",
-      "reasoning": "11 ಗುಡ್ಲೆ 3 ಎಂಬುದು 33."
+      "answer": "65",
+      "reasoning": "13 ಗುಡ್ಲೆ 5 ಎಂಬುದು 65."
     }
   },
   {
     "id": "maths_65",
     "difficulty": 2,
     "en": {
-      "question": "What is 6 multiplied by 7?",
+      "question": "What is 5 multiplied by 2?",
       "options": [
-        "49",
-        "44",
-        "36",
-        "42"
+        "10",
+        "5",
+        "Option 3",
+        "12"
       ],
-      "answer": "42",
-      "reasoning": "6 times 7 is 42."
+      "answer": "10",
+      "reasoning": "5 times 2 is 10."
     },
     "kn": {
-      "question": "6 ಅನ್ನು 7 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "5 ಅನ್ನು 2 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "49",
-        "44",
-        "36",
-        "42"
+        "10",
+        "5",
+        "ಆಯ್ಕೆ 3",
+        "12"
       ],
-      "answer": "42",
-      "reasoning": "6 ಗುಡ್ಲೆ 7 ಎಂಬುದು 42."
+      "answer": "10",
+      "reasoning": "5 ಗುಡ್ಲೆ 2 ಎಂಬುದು 10."
     }
   },
   {
     "id": "maths_66",
     "difficulty": 2,
     "en": {
-      "question": "What is 8 multiplied by 7?",
+      "question": "What is 20 multiplied by 10?",
       "options": [
-        "63",
-        "58",
-        "48",
-        "56"
+        "202",
+        "200",
+        "180",
+        "210"
       ],
-      "answer": "56",
-      "reasoning": "8 times 7 is 56."
+      "answer": "200",
+      "reasoning": "20 times 10 is 200."
     },
     "kn": {
-      "question": "8 ಅನ್ನು 7 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
+      "question": "20 ಅನ್ನು 10 ರಿಂದ ಗುಣಿಸಿದಾಗ ಎಷ್ಟು?",
       "options": [
-        "63",
-        "58",
-        "48",
-        "56"
+        "202",
+        "200",
+        "180",
+        "210"
       ],
-      "answer": "56",
-      "reasoning": "8 ಗುಡ್ಲೆ 7 ಎಂಬುದು 56."
+      "answer": "200",
+      "reasoning": "20 ಗುಡ್ಲೆ 10 ಎಂಬುದು 200."
     }
   },
   {
     "id": "maths_67",
     "difficulty": 3,
     "en": {
-      "question": "If 30 is divided by 2, what is the result?",
+      "question": "If 111 is divided by 3, what is the result?",
       "options": [
-        "17",
-        "15",
-        "16",
-        "14"
+        "36",
+        "37",
+        "39",
+        "38"
       ],
-      "answer": "30",
-      "reasoning": "30 / 2 = 15."
+      "answer": "37",
+      "reasoning": "111 / 3 = 37."
     },
     "kn": {
-      "question": "30 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "111 ಅನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "17",
-        "15",
-        "16",
-        "14"
+        "36",
+        "37",
+        "39",
+        "38"
       ],
-      "answer": "30",
-      "reasoning": "30 / 2 = 15."
+      "answer": "37",
+      "reasoning": "111 / 3 = 37."
     }
   },
   {
     "id": "maths_68",
     "difficulty": 3,
     "en": {
-      "question": "If 132 is divided by 4, what is the result?",
+      "question": "If 60 is divided by 5, what is the result?",
       "options": [
-        "33",
-        "35",
-        "34",
-        "32"
+        "14",
+        "11",
+        "13",
+        "12"
       ],
-      "answer": "132",
-      "reasoning": "132 / 4 = 33."
+      "answer": "12",
+      "reasoning": "60 / 5 = 12."
     },
     "kn": {
-      "question": "132 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "60 ಅನ್ನು 5 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "33",
-        "35",
-        "34",
-        "32"
+        "14",
+        "11",
+        "13",
+        "12"
       ],
-      "answer": "132",
-      "reasoning": "132 / 4 = 33."
+      "answer": "12",
+      "reasoning": "60 / 5 = 12."
     }
   },
   {
     "id": "maths_69",
     "difficulty": 3,
     "en": {
-      "question": "If 28 is divided by 2, what is the result?",
+      "question": "If 84 is divided by 4, what is the result?",
       "options": [
-        "15",
-        "16",
-        "14",
-        "13"
+        "22",
+        "21",
+        "23",
+        "20"
       ],
-      "answer": "28",
-      "reasoning": "28 / 2 = 14."
+      "answer": "21",
+      "reasoning": "84 / 4 = 21."
     },
     "kn": {
-      "question": "28 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "84 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "15",
-        "16",
-        "14",
-        "13"
+        "22",
+        "21",
+        "23",
+        "20"
       ],
-      "answer": "28",
-      "reasoning": "28 / 2 = 14."
+      "answer": "21",
+      "reasoning": "84 / 4 = 21."
     }
   },
   {
     "id": "maths_70",
     "difficulty": 3,
     "en": {
-      "question": "If 172 is divided by 4, what is the result?",
+      "question": "If 126 is divided by 3, what is the result?",
       "options": [
-        "45",
-        "42",
         "43",
-        "44"
+        "44",
+        "41",
+        "42"
       ],
-      "answer": "172",
-      "reasoning": "172 / 4 = 43."
+      "answer": "42",
+      "reasoning": "126 / 3 = 42."
     },
     "kn": {
-      "question": "172 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "126 ಅನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "45",
-        "42",
         "43",
-        "44"
+        "44",
+        "41",
+        "42"
       ],
-      "answer": "172",
-      "reasoning": "172 / 4 = 43."
+      "answer": "42",
+      "reasoning": "126 / 3 = 42."
     }
   },
   {
     "id": "maths_71",
     "difficulty": 3,
     "en": {
-      "question": "If 98 is divided by 2, what is the result?",
+      "question": "If 210 is divided by 5, what is the result?",
       "options": [
-        "51",
-        "48",
-        "49",
-        "50"
+        "41",
+        "43",
+        "42",
+        "44"
       ],
-      "answer": "98",
-      "reasoning": "98 / 2 = 49."
+      "answer": "42",
+      "reasoning": "210 / 5 = 42."
     },
     "kn": {
-      "question": "98 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "210 ಅನ್ನು 5 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "51",
-        "48",
-        "49",
-        "50"
+        "41",
+        "43",
+        "42",
+        "44"
       ],
-      "answer": "98",
-      "reasoning": "98 / 2 = 49."
+      "answer": "42",
+      "reasoning": "210 / 5 = 42."
     }
   },
   {
     "id": "maths_72",
     "difficulty": 3,
     "en": {
-      "question": "If 48 is divided by 2, what is the result?",
+      "question": "If 112 is divided by 4, what is the result?",
       "options": [
-        "24",
-        "26",
-        "23",
-        "25"
+        "27",
+        "29",
+        "28",
+        "30"
       ],
-      "answer": "48",
-      "reasoning": "48 / 2 = 24."
+      "answer": "28",
+      "reasoning": "112 / 4 = 28."
     },
     "kn": {
-      "question": "48 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "112 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "24",
-        "26",
-        "23",
-        "25"
+        "27",
+        "29",
+        "28",
+        "30"
       ],
-      "answer": "48",
-      "reasoning": "48 / 2 = 24."
+      "answer": "28",
+      "reasoning": "112 / 4 = 28."
     }
   },
   {
     "id": "maths_73",
     "difficulty": 3,
     "en": {
-      "question": "If 150 is divided by 5, what is the result?",
+      "question": "If 51 is divided by 3, what is the result?",
       "options": [
-        "32",
-        "29",
-        "31",
-        "30"
+        "17",
+        "16",
+        "18",
+        "19"
       ],
-      "answer": "150",
-      "reasoning": "150 / 5 = 30."
+      "answer": "17",
+      "reasoning": "51 / 3 = 17."
     },
     "kn": {
-      "question": "150 ಅನ್ನು 5 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "51 ಅನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "32",
-        "29",
-        "31",
-        "30"
+        "17",
+        "16",
+        "18",
+        "19"
       ],
-      "answer": "150",
-      "reasoning": "150 / 5 = 30."
+      "answer": "17",
+      "reasoning": "51 / 3 = 17."
     }
   },
   {
     "id": "maths_74",
     "difficulty": 3,
     "en": {
-      "question": "If 220 is divided by 5, what is the result?",
+      "question": "If 128 is divided by 4, what is the result?",
       "options": [
-        "46",
-        "45",
-        "43",
-        "44"
+        "33",
+        "34",
+        "32",
+        "31"
       ],
-      "answer": "220",
-      "reasoning": "220 / 5 = 44."
+      "answer": "32",
+      "reasoning": "128 / 4 = 32."
     },
     "kn": {
-      "question": "220 ಅನ್ನು 5 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "128 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "46",
-        "45",
-        "43",
-        "44"
+        "33",
+        "34",
+        "32",
+        "31"
       ],
-      "answer": "220",
-      "reasoning": "220 / 5 = 44."
+      "answer": "32",
+      "reasoning": "128 / 4 = 32."
     }
   },
   {
     "id": "maths_75",
     "difficulty": 3,
     "en": {
-      "question": "If 128 is divided by 4, what is the result?",
+      "question": "If 34 is divided by 2, what is the result?",
       "options": [
-        "32",
-        "31",
-        "34",
-        "33"
+        "17",
+        "18",
+        "16",
+        "19"
       ],
-      "answer": "128",
-      "reasoning": "128 / 4 = 32."
+      "answer": "17",
+      "reasoning": "34 / 2 = 17."
     },
     "kn": {
-      "question": "128 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "34 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "32",
-        "31",
-        "34",
-        "33"
+        "17",
+        "18",
+        "16",
+        "19"
       ],
-      "answer": "128",
-      "reasoning": "128 / 4 = 32."
+      "answer": "17",
+      "reasoning": "34 / 2 = 17."
     }
   },
   {
     "id": "maths_76",
     "difficulty": 3,
     "en": {
-      "question": "If 112 is divided by 4, what is the result?",
+      "question": "If 54 is divided by 2, what is the result?",
       "options": [
-        "29",
-        "30",
         "27",
-        "28"
+        "26",
+        "28",
+        "29"
       ],
-      "answer": "112",
-      "reasoning": "112 / 4 = 28."
+      "answer": "27",
+      "reasoning": "54 / 2 = 27."
     },
     "kn": {
-      "question": "112 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "54 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "29",
-        "30",
         "27",
-        "28"
+        "26",
+        "28",
+        "29"
       ],
-      "answer": "112",
-      "reasoning": "112 / 4 = 28."
+      "answer": "27",
+      "reasoning": "54 / 2 = 27."
     }
   },
   {
     "id": "maths_77",
     "difficulty": 3,
     "en": {
-      "question": "If 62 is divided by 2, what is the result?",
+      "question": "If 120 is divided by 4, what is the result?",
       "options": [
+        "32",
         "31",
-        "33",
         "30",
-        "32"
+        "29"
       ],
-      "answer": "62",
-      "reasoning": "62 / 2 = 31."
+      "answer": "30",
+      "reasoning": "120 / 4 = 30."
     },
     "kn": {
-      "question": "62 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "120 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
+        "32",
         "31",
-        "33",
         "30",
-        "32"
+        "29"
       ],
-      "answer": "62",
-      "reasoning": "62 / 2 = 31."
+      "answer": "30",
+      "reasoning": "120 / 4 = 30."
     }
   },
   {
     "id": "maths_78",
     "difficulty": 3,
     "en": {
-      "question": "If 26 is divided by 2, what is the result?",
+      "question": "If 123 is divided by 3, what is the result?",
       "options": [
-        "13",
-        "12",
-        "14",
-        "15"
+        "43",
+        "40",
+        "41",
+        "42"
       ],
-      "answer": "26",
-      "reasoning": "26 / 2 = 13."
+      "answer": "41",
+      "reasoning": "123 / 3 = 41."
     },
     "kn": {
-      "question": "26 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "123 ಅನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "13",
-        "12",
-        "14",
-        "15"
+        "43",
+        "40",
+        "41",
+        "42"
       ],
-      "answer": "26",
-      "reasoning": "26 / 2 = 13."
+      "answer": "41",
+      "reasoning": "123 / 3 = 41."
     }
   },
   {
     "id": "maths_79",
     "difficulty": 3,
     "en": {
-      "question": "If 104 is divided by 4, what is the result?",
+      "question": "If 72 is divided by 3, what is the result?",
       "options": [
-        "26",
-        "27",
+        "23",
         "25",
-        "28"
+        "24",
+        "26"
       ],
-      "answer": "104",
-      "reasoning": "104 / 4 = 26."
+      "answer": "24",
+      "reasoning": "72 / 3 = 24."
     },
     "kn": {
-      "question": "104 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "72 ಅನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "26",
-        "27",
+        "23",
         "25",
-        "28"
+        "24",
+        "26"
       ],
-      "answer": "104",
-      "reasoning": "104 / 4 = 26."
+      "answer": "24",
+      "reasoning": "72 / 3 = 24."
     }
   },
   {
     "id": "maths_80",
     "difficulty": 3,
     "en": {
-      "question": "If 116 is divided by 4, what is the result?",
+      "question": "If 44 is divided by 4, what is the result?",
       "options": [
-        "28",
-        "29",
-        "31",
-        "30"
+        "13",
+        "11",
+        "10",
+        "12"
       ],
-      "answer": "116",
-      "reasoning": "116 / 4 = 29."
+      "answer": "11",
+      "reasoning": "44 / 4 = 11."
     },
     "kn": {
-      "question": "116 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "44 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "28",
-        "29",
-        "31",
-        "30"
+        "13",
+        "11",
+        "10",
+        "12"
       ],
-      "answer": "116",
-      "reasoning": "116 / 4 = 29."
+      "answer": "11",
+      "reasoning": "44 / 4 = 11."
     }
   },
   {
     "id": "maths_81",
     "difficulty": 3,
     "en": {
-      "question": "If 120 is divided by 5, what is the result?",
+      "question": "If 160 is divided by 4, what is the result?",
       "options": [
-        "25",
-        "24",
-        "23",
-        "26"
+        "41",
+        "39",
+        "42",
+        "40"
       ],
-      "answer": "120",
-      "reasoning": "120 / 5 = 24."
+      "answer": "40",
+      "reasoning": "160 / 4 = 40."
     },
     "kn": {
-      "question": "120 ಅನ್ನು 5 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "160 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "25",
-        "24",
-        "23",
-        "26"
+        "41",
+        "39",
+        "42",
+        "40"
       ],
-      "answer": "120",
-      "reasoning": "120 / 5 = 24."
+      "answer": "40",
+      "reasoning": "160 / 4 = 40."
     }
   },
   {
     "id": "maths_82",
     "difficulty": 3,
     "en": {
-      "question": "If 72 is divided by 2, what is the result?",
+      "question": "If 28 is divided by 2, what is the result?",
       "options": [
-        "37",
-        "36",
-        "35",
-        "38"
+        "14",
+        "15",
+        "16",
+        "13"
       ],
-      "answer": "72",
-      "reasoning": "72 / 2 = 36."
+      "answer": "14",
+      "reasoning": "28 / 2 = 14."
     },
     "kn": {
-      "question": "72 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "28 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "37",
-        "36",
-        "35",
-        "38"
+        "14",
+        "15",
+        "16",
+        "13"
       ],
-      "answer": "72",
-      "reasoning": "72 / 2 = 36."
+      "answer": "14",
+      "reasoning": "28 / 2 = 14."
     }
   },
   {
     "id": "maths_83",
     "difficulty": 3,
     "en": {
-      "question": "If 70 is divided by 5, what is the result?",
+      "question": "If 188 is divided by 4, what is the result?",
       "options": [
-        "14",
-        "15",
-        "13",
-        "16"
+        "48",
+        "47",
+        "46",
+        "49"
       ],
-      "answer": "70",
-      "reasoning": "70 / 5 = 14."
+      "answer": "47",
+      "reasoning": "188 / 4 = 47."
     },
     "kn": {
-      "question": "70 ಅನ್ನು 5 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "188 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "14",
-        "15",
-        "13",
-        "16"
+        "48",
+        "47",
+        "46",
+        "49"
       ],
-      "answer": "70",
-      "reasoning": "70 / 5 = 14."
+      "answer": "47",
+      "reasoning": "188 / 4 = 47."
     }
   },
   {
     "id": "maths_84",
     "difficulty": 3,
     "en": {
-      "question": "If 64 is divided by 2, what is the result?",
+      "question": "If 78 is divided by 3, what is the result?",
       "options": [
-        "34",
-        "33",
-        "31",
-        "32"
+        "28",
+        "25",
+        "27",
+        "26"
       ],
-      "answer": "64",
-      "reasoning": "64 / 2 = 32."
+      "answer": "26",
+      "reasoning": "78 / 3 = 26."
     },
     "kn": {
-      "question": "64 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "78 ಅನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "34",
-        "33",
-        "31",
-        "32"
+        "28",
+        "25",
+        "27",
+        "26"
       ],
-      "answer": "64",
-      "reasoning": "64 / 2 = 32."
+      "answer": "26",
+      "reasoning": "78 / 3 = 26."
     }
   },
   {
     "id": "maths_85",
     "difficulty": 3,
     "en": {
-      "question": "If 50 is divided by 2, what is the result?",
+      "question": "If 152 is divided by 4, what is the result?",
       "options": [
-        "26",
-        "27",
-        "25",
-        "24"
+        "39",
+        "38",
+        "40",
+        "37"
       ],
-      "answer": "50",
-      "reasoning": "50 / 2 = 25."
+      "answer": "38",
+      "reasoning": "152 / 4 = 38."
     },
     "kn": {
-      "question": "50 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "152 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "26",
-        "27",
-        "25",
-        "24"
+        "39",
+        "38",
+        "40",
+        "37"
       ],
-      "answer": "50",
-      "reasoning": "50 / 2 = 25."
+      "answer": "38",
+      "reasoning": "152 / 4 = 38."
     }
   },
   {
     "id": "maths_86",
     "difficulty": 3,
     "en": {
-      "question": "If 39 is divided by 3, what is the result?",
+      "question": "If 135 is divided by 3, what is the result?",
       "options": [
-        "14",
-        "15",
-        "12",
-        "13"
+        "47",
+        "45",
+        "46",
+        "44"
       ],
-      "answer": "39",
-      "reasoning": "39 / 3 = 13."
+      "answer": "45",
+      "reasoning": "135 / 3 = 45."
     },
     "kn": {
-      "question": "39 ಅನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "135 ಅನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "14",
-        "15",
-        "12",
-        "13"
+        "47",
+        "45",
+        "46",
+        "44"
       ],
-      "answer": "39",
-      "reasoning": "39 / 3 = 13."
+      "answer": "45",
+      "reasoning": "135 / 3 = 45."
     }
   },
   {
     "id": "maths_87",
     "difficulty": 3,
     "en": {
-      "question": "If 38 is divided by 2, what is the result?",
+      "question": "If 64 is divided by 4, what is the result?",
       "options": [
-        "21",
-        "19",
-        "18",
-        "20"
+        "17",
+        "16",
+        "15",
+        "18"
       ],
-      "answer": "38",
-      "reasoning": "38 / 2 = 19."
+      "answer": "16",
+      "reasoning": "64 / 4 = 16."
     },
     "kn": {
-      "question": "38 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "64 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "21",
-        "19",
-        "18",
-        "20"
+        "17",
+        "16",
+        "15",
+        "18"
       ],
-      "answer": "38",
-      "reasoning": "38 / 2 = 19."
+      "answer": "16",
+      "reasoning": "64 / 4 = 16."
     }
   },
   {
     "id": "maths_88",
     "difficulty": 3,
     "en": {
-      "question": "If 56 is divided by 2, what is the result?",
+      "question": "If 54 is divided by 3, what is the result?",
       "options": [
-        "29",
-        "28",
-        "27",
-        "30"
+        "19",
+        "20",
+        "18",
+        "17"
       ],
-      "answer": "56",
-      "reasoning": "56 / 2 = 28."
+      "answer": "18",
+      "reasoning": "54 / 3 = 18."
     },
     "kn": {
-      "question": "56 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "54 ಅನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "29",
-        "28",
-        "27",
-        "30"
+        "19",
+        "20",
+        "18",
+        "17"
       ],
-      "answer": "56",
-      "reasoning": "56 / 2 = 28."
+      "answer": "18",
+      "reasoning": "54 / 3 = 18."
     }
   },
   {
     "id": "maths_89",
     "difficulty": 3,
     "en": {
-      "question": "If 48 is divided by 2, what is the result?",
+      "question": "If 87 is divided by 3, what is the result?",
       "options": [
-        "23",
-        "25",
-        "24",
-        "26"
+        "28",
+        "30",
+        "29",
+        "31"
       ],
-      "answer": "48",
-      "reasoning": "48 / 2 = 24."
+      "answer": "29",
+      "reasoning": "87 / 3 = 29."
     },
     "kn": {
-      "question": "48 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "87 ಅನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "23",
-        "25",
-        "24",
-        "26"
+        "28",
+        "30",
+        "29",
+        "31"
       ],
-      "answer": "48",
-      "reasoning": "48 / 2 = 24."
+      "answer": "29",
+      "reasoning": "87 / 3 = 29."
     }
   },
   {
     "id": "maths_90",
     "difficulty": 3,
     "en": {
-      "question": "If 98 is divided by 2, what is the result?",
+      "question": "If 100 is divided by 4, what is the result?",
       "options": [
-        "49",
-        "50",
-        "48",
-        "51"
+        "26",
+        "24",
+        "25",
+        "27"
       ],
-      "answer": "98",
-      "reasoning": "98 / 2 = 49."
+      "answer": "25",
+      "reasoning": "100 / 4 = 25."
     },
     "kn": {
-      "question": "98 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "100 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "49",
-        "50",
-        "48",
-        "51"
+        "26",
+        "24",
+        "25",
+        "27"
       ],
-      "answer": "98",
-      "reasoning": "98 / 2 = 49."
+      "answer": "25",
+      "reasoning": "100 / 4 = 25."
     }
   },
   {
     "id": "maths_91",
     "difficulty": 3,
     "en": {
-      "question": "If 70 is divided by 2, what is the result?",
+      "question": "If 156 is divided by 4, what is the result?",
       "options": [
-        "37",
-        "36",
-        "35",
-        "34"
+        "39",
+        "40",
+        "38",
+        "41"
       ],
-      "answer": "70",
-      "reasoning": "70 / 2 = 35."
+      "answer": "39",
+      "reasoning": "156 / 4 = 39."
     },
     "kn": {
-      "question": "70 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "156 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "37",
-        "36",
-        "35",
-        "34"
+        "39",
+        "40",
+        "38",
+        "41"
       ],
-      "answer": "70",
-      "reasoning": "70 / 2 = 35."
+      "answer": "39",
+      "reasoning": "156 / 4 = 39."
     }
   },
   {
     "id": "maths_92",
     "difficulty": 3,
     "en": {
-      "question": "If 38 is divided by 2, what is the result?",
+      "question": "If 84 is divided by 2, what is the result?",
       "options": [
-        "20",
-        "21",
-        "18",
-        "19"
+        "43",
+        "41",
+        "42",
+        "44"
       ],
-      "answer": "38",
-      "reasoning": "38 / 2 = 19."
+      "answer": "42",
+      "reasoning": "84 / 2 = 42."
     },
     "kn": {
-      "question": "38 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "84 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "20",
-        "21",
-        "18",
-        "19"
+        "43",
+        "41",
+        "42",
+        "44"
       ],
-      "answer": "38",
-      "reasoning": "38 / 2 = 19."
+      "answer": "42",
+      "reasoning": "84 / 2 = 42."
     }
   },
   {
     "id": "maths_93",
     "difficulty": 3,
     "en": {
-      "question": "If 95 is divided by 5, what is the result?",
+      "question": "If 56 is divided by 2, what is the result?",
       "options": [
-        "19",
-        "18",
-        "21",
-        "20"
+        "28",
+        "27",
+        "29",
+        "30"
       ],
-      "answer": "95",
-      "reasoning": "95 / 5 = 19."
+      "answer": "28",
+      "reasoning": "56 / 2 = 28."
     },
     "kn": {
-      "question": "95 ಅನ್ನು 5 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "56 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "19",
-        "18",
-        "21",
-        "20"
+        "28",
+        "27",
+        "29",
+        "30"
       ],
-      "answer": "95",
-      "reasoning": "95 / 5 = 19."
+      "answer": "28",
+      "reasoning": "56 / 2 = 28."
     }
   },
   {
     "id": "maths_94",
     "difficulty": 3,
     "en": {
-      "question": "If 42 is divided by 2, what is the result?",
+      "question": "If 63 is divided by 3, what is the result?",
       "options": [
+        "22",
         "23",
-        "20",
         "21",
-        "22"
+        "20"
       ],
-      "answer": "42",
-      "reasoning": "42 / 2 = 21."
+      "answer": "21",
+      "reasoning": "63 / 3 = 21."
     },
     "kn": {
-      "question": "42 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "63 ಅನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
+        "22",
         "23",
-        "20",
         "21",
-        "22"
+        "20"
       ],
-      "answer": "42",
-      "reasoning": "42 / 2 = 21."
+      "answer": "21",
+      "reasoning": "63 / 3 = 21."
     }
   },
   {
     "id": "maths_95",
     "difficulty": 3,
     "en": {
-      "question": "If 68 is divided by 2, what is the result?",
+      "question": "If 148 is divided by 4, what is the result?",
       "options": [
-        "34",
-        "33",
+        "38",
         "36",
-        "35"
+        "39",
+        "37"
       ],
-      "answer": "68",
-      "reasoning": "68 / 2 = 34."
+      "answer": "37",
+      "reasoning": "148 / 4 = 37."
     },
     "kn": {
-      "question": "68 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "148 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "34",
-        "33",
+        "38",
         "36",
-        "35"
+        "39",
+        "37"
       ],
-      "answer": "68",
-      "reasoning": "68 / 2 = 34."
+      "answer": "37",
+      "reasoning": "148 / 4 = 37."
     }
   },
   {
     "id": "maths_96",
     "difficulty": 3,
     "en": {
-      "question": "If 84 is divided by 2, what is the result?",
+      "question": "If 88 is divided by 4, what is the result?",
       "options": [
-        "44",
-        "41",
-        "42",
-        "43"
+        "22",
+        "21",
+        "24",
+        "23"
       ],
-      "answer": "84",
-      "reasoning": "84 / 2 = 42."
+      "answer": "22",
+      "reasoning": "88 / 4 = 22."
     },
     "kn": {
-      "question": "84 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "88 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "44",
-        "41",
-        "42",
-        "43"
+        "22",
+        "21",
+        "24",
+        "23"
       ],
-      "answer": "84",
-      "reasoning": "84 / 2 = 42."
+      "answer": "22",
+      "reasoning": "88 / 4 = 22."
     }
   },
   {
     "id": "maths_97",
     "difficulty": 3,
     "en": {
-      "question": "If 40 is divided by 4, what is the result?",
+      "question": "If 48 is divided by 4, what is the result?",
       "options": [
-        "9",
-        "11",
         "12",
-        "10"
+        "11",
+        "14",
+        "13"
       ],
-      "answer": "40",
-      "reasoning": "40 / 4 = 10."
+      "answer": "12",
+      "reasoning": "48 / 4 = 12."
     },
     "kn": {
-      "question": "40 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "48 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "9",
-        "11",
         "12",
-        "10"
+        "11",
+        "14",
+        "13"
       ],
-      "answer": "40",
-      "reasoning": "40 / 4 = 10."
+      "answer": "12",
+      "reasoning": "48 / 4 = 12."
     }
   },
   {
     "id": "maths_98",
     "difficulty": 3,
     "en": {
-      "question": "If 184 is divided by 4, what is the result?",
+      "question": "If 93 is divided by 3, what is the result?",
       "options": [
-        "45",
-        "46",
-        "47",
-        "48"
+        "30",
+        "32",
+        "31",
+        "33"
       ],
-      "answer": "184",
-      "reasoning": "184 / 4 = 46."
+      "answer": "31",
+      "reasoning": "93 / 3 = 31."
     },
     "kn": {
-      "question": "184 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "93 ಅನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "45",
-        "46",
-        "47",
-        "48"
+        "30",
+        "32",
+        "31",
+        "33"
       ],
-      "answer": "184",
-      "reasoning": "184 / 4 = 46."
+      "answer": "31",
+      "reasoning": "93 / 3 = 31."
     }
   },
   {
     "id": "maths_99",
     "difficulty": 3,
     "en": {
-      "question": "If 200 is divided by 4, what is the result?",
+      "question": "If 136 is divided by 4, what is the result?",
       "options": [
-        "50",
-        "52",
-        "51",
-        "49"
+        "36",
+        "33",
+        "35",
+        "34"
       ],
-      "answer": "200",
-      "reasoning": "200 / 4 = 50."
+      "answer": "34",
+      "reasoning": "136 / 4 = 34."
     },
     "kn": {
-      "question": "200 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "136 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "50",
-        "52",
-        "51",
-        "49"
+        "36",
+        "33",
+        "35",
+        "34"
       ],
-      "answer": "200",
-      "reasoning": "200 / 4 = 50."
+      "answer": "34",
+      "reasoning": "136 / 4 = 34."
     }
   },
   {
     "id": "maths_100",
     "difficulty": 3,
     "en": {
-      "question": "If 39 is divided by 3, what is the result?",
+      "question": "If 84 is divided by 3, what is the result?",
       "options": [
-        "13",
-        "15",
-        "14",
-        "12"
+        "30",
+        "28",
+        "29",
+        "27"
       ],
-      "answer": "39",
-      "reasoning": "39 / 3 = 13."
+      "answer": "28",
+      "reasoning": "84 / 3 = 28."
     },
     "kn": {
-      "question": "39 ಅನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
+      "question": "84 ಅನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಉತ್ತರವೇನು?",
       "options": [
-        "13",
-        "15",
-        "14",
-        "12"
+        "30",
+        "28",
+        "29",
+        "27"
       ],
-      "answer": "39",
-      "reasoning": "39 / 3 = 13."
+      "answer": "28",
+      "reasoning": "84 / 3 = 28."
     }
   }
 ]
