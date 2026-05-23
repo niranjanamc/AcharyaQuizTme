@@ -31,7 +31,7 @@ const FloatingAnimation = ({ type, x, y, onComplete }) => {
   );
 };
 
-const GameArea = ({ level, subject, language, onCorrect, onWrong }) => {
+const GameArea = ({ level, classId, subjectId, chapterId, language, onCorrect, onWrong }) => {
   const [questions, setQuestions] = useState([]);
   const [currentQuestion, setCurrentQuestion] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -44,8 +44,8 @@ const GameArea = ({ level, subject, language, onCorrect, onWrong }) => {
     setLoading(true);
     setError(null);
 
-    // Dynamically import the json file for the subject
-    import(`../data/questions/${subject}.json`)
+    // Dynamically import the json file for the chapter
+    import(`../data/questions/${classId}/${subjectId}/${chapterId}.json`)
       .then((module) => {
         if (isMounted) {
           setQuestions(module.default || module);
@@ -55,13 +55,13 @@ const GameArea = ({ level, subject, language, onCorrect, onWrong }) => {
       .catch((err) => {
         console.error("Failed to load questions:", err);
         if (isMounted) {
-          setError(`Failed to load ${subject} questions.`);
+          setError(`Coming Soon! Add questions via CMS.`);
           setLoading(false);
         }
       });
 
     return () => { isMounted = false; };
-  }, [subject]);
+  }, [classId, subjectId, chapterId]);
 
   useEffect(() => {
     if (questions.length > 0 && !loading) {

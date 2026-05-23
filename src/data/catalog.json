@@ -1,0 +1,72 @@
+{
+  "classes": [
+    {
+      "id": "class_5",
+      "name": "Class 5 (5ನೇ ತರಗತಿ)",
+      "subjects": [
+        {
+          "id": "maths",
+          "name": "Maths",
+          "chapters": [
+            { "id": "basic_operations", "name": "Basic Operations" }
+          ]
+        },
+        {
+          "id": "science",
+          "name": "Science",
+          "chapters": [
+            { "id": "fundamentals", "name": "Fundamentals" }
+          ]
+        },
+        {
+          "id": "history",
+          "name": "History",
+          "chapters": [
+            { "id": "timeline", "name": "Historical Timelines" }
+          ]
+        },
+        {
+          "id": "english",
+          "name": "English",
+          "chapters": [
+            { "id": "grammar", "name": "Grammar (Past Tense)" }
+          ]
+        },
+        {
+          "id": "kannada",
+          "name": "Kannada",
+          "chapters": [
+            { "id": "vocabulary", "name": "Vocabulary" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "name": "General & Aptitude",
+      "subjects": [
+        {
+          "id": "gk",
+          "name": "General Knowledge",
+          "chapters": [
+            { "id": "world_capitals", "name": "World Capitals" }
+          ]
+        },
+        {
+          "id": "puzzles",
+          "name": "Aptitude & Puzzles",
+          "chapters": [
+            { "id": "sequences", "name": "Number Sequences" }
+          ]
+        },
+        {
+          "id": "spellbee",
+          "name": "Spell Bee",
+          "chapters": [
+            { "id": "level_1", "name": "Level 1" }
+          ]
+        }
+      ]
+    }
+  ]
+}

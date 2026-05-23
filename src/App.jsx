@@ -13,8 +13,9 @@ function App() {
   
   // New State
   const [language, setLanguage] = useState('en');
-  const [selectedSubjects, setSelectedSubjects] = useState([]);
-  const [subject, setSubject] = useState('');
+  const [classId, setClassId] = useState('');
+  const [subjectId, setSubjectId] = useState('');
+  const [chapterId, setChapterId] = useState('');
   const [stats, setStats] = useState({ attempted: 0, correct: 0, wrong: 0 });
 
   const startGame = (config) => {
@@ -23,13 +24,11 @@ function App() {
     setLives(3);
     setStats({ attempted: 0, correct: 0, wrong: 0 });
     
-    // Support restart without config
     if (config) {
       setLanguage(config.language);
-      setSelectedSubjects(config.subjects);
-      setSubject(config.subjects[0]);
-    } else {
-      setSubject(selectedSubjects[0]);
+      setClassId(config.classId);
+      setSubjectId(config.subjectId);
+      setChapterId(config.chapterId);
     }
     
     setGameState('playing');
@@ -44,9 +43,7 @@ function App() {
     // Level up every 50 points
     if (Math.floor(newScore / 50) > Math.floor(score / 50)) {
       soundEngine.playLevelUp();
-      const newLevel = level + 1;
-      setLevel(newLevel);
-      setSubject(selectedSubjects[(newLevel - 1) % selectedSubjects.length]);
+      setLevel(level + 1);
     }
   };
 
@@ -96,13 +93,15 @@ function App() {
             score={score} 
             level={level} 
             lives={lives} 
-            subject={subject} 
+            subject={`${subjectId}`} 
             onBuyLife={buyLifeFromHeader} 
             language={language}
           />
           <GameArea 
             level={level} 
-            subject={subject} 
+            classId={classId}
+            subjectId={subjectId}
+            chapterId={chapterId}
             language={language}
             onCorrect={handleCorrect} 
             onWrong={handleWrong} 

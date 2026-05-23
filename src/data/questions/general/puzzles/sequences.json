@@ -156,32 +156,6 @@
     }
   },
   {
-    "id": "puz_7",
-    "difficulty": 1,
-    "en": {
-      "question": "What comes next in the sequence: 1, 3, 5, 7, ...?",
-      "options": [
-        "None",
-        "9",
-        "7",
-        "11"
-      ],
-      "answer": "9",
-      "reasoning": "The correct answer is 9."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 1, 3, 5, 7, ...?",
-      "options": [
-        "ಯಾವುದೂ ಅಲ್ಲ",
-        "9",
-        "7",
-        "11"
-      ],
-      "answer": "9",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 9."
-    }
-  },
-  {
     "id": "puz_8",
     "difficulty": 1,
     "en": {
@@ -676,58 +650,6 @@
     }
   },
   {
-    "id": "puz_27",
-    "difficulty": 1,
-    "en": {
-      "question": "What comes next in the sequence: 14, 20, 26, 32, ...?",
-      "options": [
-        "32",
-        "44",
-        "38",
-        "40"
-      ],
-      "answer": "38",
-      "reasoning": "The correct answer is 38."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 14, 20, 26, 32, ...?",
-      "options": [
-        "32",
-        "44",
-        "38",
-        "40"
-      ],
-      "answer": "38",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 38."
-    }
-  },
-  {
-    "id": "puz_28",
-    "difficulty": 1,
-    "en": {
-      "question": "What comes next in the sequence: 11, 18, 25, 32, ...?",
-      "options": [
-        "32",
-        "39",
-        "41",
-        "46"
-      ],
-      "answer": "39",
-      "reasoning": "The correct answer is 39."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 11, 18, 25, 32, ...?",
-      "options": [
-        "32",
-        "39",
-        "41",
-        "46"
-      ],
-      "answer": "39",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 39."
-    }
-  },
-  {
     "id": "puz_29",
     "difficulty": 1,
     "en": {
@@ -751,84 +673,6 @@
       ],
       "answer": "51",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 51."
-    }
-  },
-  {
-    "id": "puz_30",
-    "difficulty": 1,
-    "en": {
-      "question": "What comes next in the sequence: 9, 12, 15, 18, ...?",
-      "options": [
-        "23",
-        "24",
-        "21",
-        "18"
-      ],
-      "answer": "21",
-      "reasoning": "The correct answer is 21."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 9, 12, 15, 18, ...?",
-      "options": [
-        "23",
-        "24",
-        "21",
-        "18"
-      ],
-      "answer": "21",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 21."
-    }
-  },
-  {
-    "id": "puz_31",
-    "difficulty": 1,
-    "en": {
-      "question": "What comes next in the sequence: 14, 23, 32, 41, ...?",
-      "options": [
-        "50",
-        "41",
-        "59",
-        "52"
-      ],
-      "answer": "50",
-      "reasoning": "The correct answer is 50."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 14, 23, 32, 41, ...?",
-      "options": [
-        "50",
-        "41",
-        "59",
-        "52"
-      ],
-      "answer": "50",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 50."
-    }
-  },
-  {
-    "id": "puz_32",
-    "difficulty": 1,
-    "en": {
-      "question": "What comes next in the sequence: 14, 16, 18, 20, ...?",
-      "options": [
-        "None",
-        "22",
-        "20",
-        "24"
-      ],
-      "answer": "22",
-      "reasoning": "The correct answer is 22."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 14, 16, 18, 20, ...?",
-      "options": [
-        "ಯಾವುದೂ ಅಲ್ಲ",
-        "22",
-        "20",
-        "24"
-      ],
-      "answer": "22",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 22."
     }
   },
   {
@@ -910,32 +754,6 @@
     }
   },
   {
-    "id": "puz_36",
-    "difficulty": 2,
-    "en": {
-      "question": "What comes next in the sequence: 11, 13, 15, 17, ...?",
-      "options": [
-        "None",
-        "19",
-        "17",
-        "21"
-      ],
-      "answer": "19",
-      "reasoning": "The correct answer is 19."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 11, 13, 15, 17, ...?",
-      "options": [
-        "ಯಾವುದೂ ಅಲ್ಲ",
-        "19",
-        "17",
-        "21"
-      ],
-      "answer": "19",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 19."
-    }
-  },
-  {
     "id": "puz_37",
     "difficulty": 2,
     "en": {
@@ -959,58 +777,6 @@
       ],
       "answer": "34",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 34."
-    }
-  },
-  {
-    "id": "puz_38",
-    "difficulty": 2,
-    "en": {
-      "question": "What comes next in the sequence: 11, 19, 27, 35, ...?",
-      "options": [
-        "35",
-        "45",
-        "51",
-        "43"
-      ],
-      "answer": "43",
-      "reasoning": "The correct answer is 43."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 11, 19, 27, 35, ...?",
-      "options": [
-        "35",
-        "45",
-        "51",
-        "43"
-      ],
-      "answer": "43",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 43."
-    }
-  },
-  {
-    "id": "puz_39",
-    "difficulty": 2,
-    "en": {
-      "question": "What comes next in the sequence: 11, 18, 25, 32, ...?",
-      "options": [
-        "39",
-        "46",
-        "41",
-        "32"
-      ],
-      "answer": "39",
-      "reasoning": "The correct answer is 39."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 11, 18, 25, 32, ...?",
-      "options": [
-        "39",
-        "46",
-        "41",
-        "32"
-      ],
-      "answer": "39",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 39."
     }
   },
   {
@@ -1144,32 +910,6 @@
     }
   },
   {
-    "id": "puz_45",
-    "difficulty": 2,
-    "en": {
-      "question": "What comes next in the sequence: 9, 14, 19, 24, ...?",
-      "options": [
-        "24",
-        "29",
-        "31",
-        "34"
-      ],
-      "answer": "29",
-      "reasoning": "The correct answer is 29."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 9, 14, 19, 24, ...?",
-      "options": [
-        "24",
-        "29",
-        "31",
-        "34"
-      ],
-      "answer": "29",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 29."
-    }
-  },
-  {
     "id": "puz_46",
     "difficulty": 2,
     "en": {
@@ -1245,32 +985,6 @@
       ],
       "answer": "29",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 29."
-    }
-  },
-  {
-    "id": "puz_49",
-    "difficulty": 2,
-    "en": {
-      "question": "What comes next in the sequence: 16, 21, 26, 31, ...?",
-      "options": [
-        "41",
-        "36",
-        "31",
-        "38"
-      ],
-      "answer": "36",
-      "reasoning": "The correct answer is 36."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 16, 21, 26, 31, ...?",
-      "options": [
-        "41",
-        "36",
-        "31",
-        "38"
-      ],
-      "answer": "36",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 36."
     }
   },
   {
@@ -1482,32 +1196,6 @@
     }
   },
   {
-    "id": "puz_58",
-    "difficulty": 2,
-    "en": {
-      "question": "What comes next in the sequence: 12, 15, 18, 21, ...?",
-      "options": [
-        "27",
-        "26",
-        "21",
-        "24"
-      ],
-      "answer": "24",
-      "reasoning": "The correct answer is 24."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 12, 15, 18, 21, ...?",
-      "options": [
-        "27",
-        "26",
-        "21",
-        "24"
-      ],
-      "answer": "24",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 24."
-    }
-  },
-  {
     "id": "puz_59",
     "difficulty": 2,
     "en": {
@@ -1557,84 +1245,6 @@
       ],
       "answer": "55",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 55."
-    }
-  },
-  {
-    "id": "puz_61",
-    "difficulty": 2,
-    "en": {
-      "question": "What comes next in the sequence: 20, 29, 38, 47, ...?",
-      "options": [
-        "56",
-        "65",
-        "58",
-        "47"
-      ],
-      "answer": "56",
-      "reasoning": "The correct answer is 56."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 20, 29, 38, 47, ...?",
-      "options": [
-        "56",
-        "65",
-        "58",
-        "47"
-      ],
-      "answer": "56",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 56."
-    }
-  },
-  {
-    "id": "puz_62",
-    "difficulty": 2,
-    "en": {
-      "question": "What comes next in the sequence: 9, 14, 19, 24, ...?",
-      "options": [
-        "34",
-        "31",
-        "24",
-        "29"
-      ],
-      "answer": "29",
-      "reasoning": "The correct answer is 29."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 9, 14, 19, 24, ...?",
-      "options": [
-        "34",
-        "31",
-        "24",
-        "29"
-      ],
-      "answer": "29",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 29."
-    }
-  },
-  {
-    "id": "puz_63",
-    "difficulty": 2,
-    "en": {
-      "question": "What comes next in the sequence: 5, 11, 17, 23, ...?",
-      "options": [
-        "35",
-        "29",
-        "31",
-        "23"
-      ],
-      "answer": "29",
-      "reasoning": "The correct answer is 29."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 5, 11, 17, 23, ...?",
-      "options": [
-        "35",
-        "29",
-        "31",
-        "23"
-      ],
-      "answer": "29",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 29."
     }
   },
   {
@@ -1716,32 +1326,6 @@
     }
   },
   {
-    "id": "puz_67",
-    "difficulty": 3,
-    "en": {
-      "question": "What comes next in the sequence: 3, 10, 17, 24, ...?",
-      "options": [
-        "33",
-        "38",
-        "31",
-        "24"
-      ],
-      "answer": "31",
-      "reasoning": "The correct answer is 31."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 3, 10, 17, 24, ...?",
-      "options": [
-        "33",
-        "38",
-        "31",
-        "24"
-      ],
-      "answer": "31",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 31."
-    }
-  },
-  {
     "id": "puz_68",
     "difficulty": 3,
     "en": {
@@ -1791,32 +1375,6 @@
       ],
       "answer": "43",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 43."
-    }
-  },
-  {
-    "id": "puz_70",
-    "difficulty": 3,
-    "en": {
-      "question": "What comes next in the sequence: 5, 15, 25, 35, ...?",
-      "options": [
-        "55",
-        "47",
-        "35",
-        "45"
-      ],
-      "answer": "45",
-      "reasoning": "The correct answer is 45."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 5, 15, 25, 35, ...?",
-      "options": [
-        "55",
-        "47",
-        "35",
-        "45"
-      ],
-      "answer": "45",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 45."
     }
   },
   {
@@ -1924,58 +1482,6 @@
     }
   },
   {
-    "id": "puz_75",
-    "difficulty": 3,
-    "en": {
-      "question": "What comes next in the sequence: 4, 6, 8, 10, ...?",
-      "options": [
-        "12",
-        "14",
-        "10",
-        "None"
-      ],
-      "answer": "12",
-      "reasoning": "The correct answer is 12."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 4, 6, 8, 10, ...?",
-      "options": [
-        "12",
-        "14",
-        "10",
-        "ಯಾವುದೂ ಅಲ್ಲ"
-      ],
-      "answer": "12",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 12."
-    }
-  },
-  {
-    "id": "puz_76",
-    "difficulty": 3,
-    "en": {
-      "question": "What comes next in the sequence: 19, 22, 25, 28, ...?",
-      "options": [
-        "28",
-        "34",
-        "33",
-        "31"
-      ],
-      "answer": "31",
-      "reasoning": "The correct answer is 31."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 19, 22, 25, 28, ...?",
-      "options": [
-        "28",
-        "34",
-        "33",
-        "31"
-      ],
-      "answer": "31",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 31."
-    }
-  },
-  {
     "id": "puz_77",
     "difficulty": 3,
     "en": {
@@ -2054,32 +1560,6 @@
     }
   },
   {
-    "id": "puz_80",
-    "difficulty": 3,
-    "en": {
-      "question": "What comes next in the sequence: 5, 11, 17, 23, ...?",
-      "options": [
-        "29",
-        "31",
-        "23",
-        "35"
-      ],
-      "answer": "29",
-      "reasoning": "The correct answer is 29."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 5, 11, 17, 23, ...?",
-      "options": [
-        "29",
-        "31",
-        "23",
-        "35"
-      ],
-      "answer": "29",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 29."
-    }
-  },
-  {
     "id": "puz_81",
     "difficulty": 3,
     "en": {
@@ -2106,32 +1586,6 @@
     }
   },
   {
-    "id": "puz_82",
-    "difficulty": 3,
-    "en": {
-      "question": "What comes next in the sequence: 15, 19, 23, 27, ...?",
-      "options": [
-        "35",
-        "33",
-        "27",
-        "31"
-      ],
-      "answer": "31",
-      "reasoning": "The correct answer is 31."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 15, 19, 23, 27, ...?",
-      "options": [
-        "35",
-        "33",
-        "27",
-        "31"
-      ],
-      "answer": "31",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 31."
-    }
-  },
-  {
     "id": "puz_83",
     "difficulty": 3,
     "en": {
@@ -2155,58 +1609,6 @@
       ],
       "answer": "44",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 44."
-    }
-  },
-  {
-    "id": "puz_84",
-    "difficulty": 3,
-    "en": {
-      "question": "What comes next in the sequence: 1, 6, 11, 16, ...?",
-      "options": [
-        "16",
-        "21",
-        "26",
-        "23"
-      ],
-      "answer": "21",
-      "reasoning": "The correct answer is 21."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 1, 6, 11, 16, ...?",
-      "options": [
-        "16",
-        "21",
-        "26",
-        "23"
-      ],
-      "answer": "21",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 21."
-    }
-  },
-  {
-    "id": "puz_85",
-    "difficulty": 3,
-    "en": {
-      "question": "What comes next in the sequence: 9, 18, 27, 36, ...?",
-      "options": [
-        "54",
-        "47",
-        "36",
-        "45"
-      ],
-      "answer": "45",
-      "reasoning": "The correct answer is 45."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 9, 18, 27, 36, ...?",
-      "options": [
-        "54",
-        "47",
-        "36",
-        "45"
-      ],
-      "answer": "45",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 45."
     }
   },
   {
@@ -2340,32 +1742,6 @@
     }
   },
   {
-    "id": "puz_91",
-    "difficulty": 3,
-    "en": {
-      "question": "What comes next in the sequence: 18, 27, 36, 45, ...?",
-      "options": [
-        "45",
-        "54",
-        "56",
-        "63"
-      ],
-      "answer": "54",
-      "reasoning": "The correct answer is 54."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 18, 27, 36, 45, ...?",
-      "options": [
-        "45",
-        "54",
-        "56",
-        "63"
-      ],
-      "answer": "54",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 54."
-    }
-  },
-  {
     "id": "puz_92",
     "difficulty": 3,
     "en": {
@@ -2418,84 +1794,6 @@
     }
   },
   {
-    "id": "puz_94",
-    "difficulty": 3,
-    "en": {
-      "question": "What comes next in the sequence: 7, 12, 17, 22, ...?",
-      "options": [
-        "32",
-        "29",
-        "27",
-        "22"
-      ],
-      "answer": "27",
-      "reasoning": "The correct answer is 27."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 7, 12, 17, 22, ...?",
-      "options": [
-        "32",
-        "29",
-        "27",
-        "22"
-      ],
-      "answer": "27",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 27."
-    }
-  },
-  {
-    "id": "puz_95",
-    "difficulty": 3,
-    "en": {
-      "question": "What comes next in the sequence: 16, 21, 26, 31, ...?",
-      "options": [
-        "41",
-        "36",
-        "38",
-        "31"
-      ],
-      "answer": "36",
-      "reasoning": "The correct answer is 36."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 16, 21, 26, 31, ...?",
-      "options": [
-        "41",
-        "36",
-        "38",
-        "31"
-      ],
-      "answer": "36",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 36."
-    }
-  },
-  {
-    "id": "puz_96",
-    "difficulty": 3,
-    "en": {
-      "question": "What comes next in the sequence: 13, 21, 29, 37, ...?",
-      "options": [
-        "47",
-        "37",
-        "53",
-        "45"
-      ],
-      "answer": "45",
-      "reasoning": "The correct answer is 45."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 13, 21, 29, 37, ...?",
-      "options": [
-        "47",
-        "37",
-        "53",
-        "45"
-      ],
-      "answer": "45",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 45."
-    }
-  },
-  {
     "id": "puz_97",
     "difficulty": 3,
     "en": {
@@ -2545,32 +1843,6 @@
       ],
       "answer": "36",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 36."
-    }
-  },
-  {
-    "id": "puz_99",
-    "difficulty": 3,
-    "en": {
-      "question": "What comes next in the sequence: 13, 21, 29, 37, ...?",
-      "options": [
-        "45",
-        "47",
-        "37",
-        "53"
-      ],
-      "answer": "45",
-      "reasoning": "The correct answer is 45."
-    },
-    "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 13, 21, 29, 37, ...?",
-      "options": [
-        "45",
-        "47",
-        "37",
-        "53"
-      ],
-      "answer": "45",
-      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 45."
     }
   },
   {

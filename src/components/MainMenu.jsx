@@ -1,36 +1,51 @@
 import React, { useState } from 'react';
 import { Play, Settings, BookOpen } from 'lucide-react';
 import { soundEngine } from '../utils/AudioEngine';
-
-const SUBJECTS = [
-  { id: 'maths', label: 'Maths / ಗಣಿತ' },
-  { id: 'science', label: 'Science / ವಿಜ್ಞಾನ' },
-  { id: 'kannada', label: 'Kannada / ಕನ್ನಡ' },
-  { id: 'history', label: 'History / ಇತಿಹಾಸ' },
-  { id: 'gk', label: 'GK / ಸಾಮಾನ್ಯ ಜ್ಞಾನ' },
-  { id: 'english', label: 'English / ಇಂಗ್ಲಿಷ್' },
-  { id: 'puzzles', label: 'Puzzles / ಒಗಟುಗಳು' },
-  { id: 'spellbee', label: 'Spell Bee / ಕಾಗುಣಿತ' }
-];
+import catalog from '../data/catalog.json';
 
 const MainMenu = ({ onStart }) => {
-  const [selectedSubjects, setSelectedSubjects] = useState(['maths', 'science', 'kannada', 'history']);
   const [language, setLanguage] = useState('en');
 
-  const toggleSubject = (id) => {
+  // Cascading selections
+  const [selectedClass, setSelectedClass] = useState(catalog.classes[0].id);
+  const classObj = catalog.classes.find(c => c.id === selectedClass);
+  
+  const [selectedSubject, setSelectedSubject] = useState(classObj.subjects[0].id);
+  const subjectObj = classObj.subjects.find(s => s.id === selectedSubject) || classObj.subjects[0];
+  
+  const [selectedChapter, setSelectedChapter] = useState(subjectObj.chapters[0].id);
+
+  const handleClassChange = (e) => {
     soundEngine.playClick();
-    setSelectedSubjects(prev => 
-      prev.includes(id) ? prev.filter(s => s !== id) : [...prev, id]
-    );
+    const newClass = e.target.value;
+    setSelectedClass(newClass);
+    const newClassObj = catalog.classes.find(c => c.id === newClass);
+    const newSubj = newClassObj.subjects[0].id;
+    setSelectedSubject(newSubj);
+    setSelectedChapter(newClassObj.subjects[0].chapters[0].id);
+  };
+
+  const handleSubjectChange = (e) => {
+    soundEngine.playClick();
+    const newSubj = e.target.value;
+    setSelectedSubject(newSubj);
+    const newSubjObj = classObj.subjects.find(s => s.id === newSubj);
+    setSelectedChapter(newSubjObj.chapters[0].id);
+  };
+
+  const handleChapterChange = (e) => {
+    soundEngine.playClick();
+    setSelectedChapter(e.target.value);
   };
 
   const handleStart = () => {
     soundEngine.playClick();
-    if (selectedSubjects.length === 0) {
-      alert("Please select at least one subject!");
-      return;
-    }
-    onStart({ subjects: selectedSubjects, language });
+    onStart({ 
+      language, 
+      classId: selectedClass, 
+      subjectId: selectedSubject, 
+      chapterId: selectedChapter 
+    });
   };
 
   return (
@@ -95,25 +110,30 @@ const MainMenu = ({ onStart }) => {
         </div>
 
         <h3 style={{ margin: '0 0 10px 0', textAlign: 'left', display: 'flex', alignItems: 'center', gap: '5px' }}>
-          <BookOpen size={20}/> Choose Subjects
+          <BookOpen size={20}/> Curriculum
         </h3>
-        <div style={{
-          display: 'grid',
-          gridTemplateColumns: '1fr 1fr',
-          gap: '10px',
-          textAlign: 'left'
-        }}>
-          {SUBJECTS.map(sub => (
-            <label key={sub.id} style={{ display: 'flex', alignItems: 'center', gap: '8px', cursor: 'pointer' }}>
-              <input 
-                type="checkbox" 
-                checked={selectedSubjects.includes(sub.id)}
-                onChange={() => toggleSubject(sub.id)}
-                style={{ width: '18px', height: '18px' }}
-              />
-              <span style={{ fontSize: '0.9rem' }}>{sub.label}</span>
-            </label>
-          ))}
+        
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '10px', textAlign: 'left' }}>
+          <label style={{ display: 'flex', flexDirection: 'column', fontSize: '0.9rem' }}>
+            Class / Category:
+            <select value={selectedClass} onChange={handleClassChange} style={{ padding: '8px', borderRadius: '5px', marginTop: '5px' }}>
+              {catalog.classes.map(c => <option key={c.id} value={c.id}>{c.name}</option>)}
+            </select>
+          </label>
+          
+          <label style={{ display: 'flex', flexDirection: 'column', fontSize: '0.9rem' }}>
+            Subject:
+            <select value={selectedSubject} onChange={handleSubjectChange} style={{ padding: '8px', borderRadius: '5px', marginTop: '5px' }}>
+              {classObj.subjects.map(s => <option key={s.id} value={s.id}>{s.name}</option>)}
+            </select>
+          </label>
+
+          <label style={{ display: 'flex', flexDirection: 'column', fontSize: '0.9rem' }}>
+            Chapter:
+            <select value={selectedChapter} onChange={handleChapterChange} style={{ padding: '8px', borderRadius: '5px', marginTop: '5px' }}>
+              {subjectObj.chapters.map(ch => <option key={ch.id} value={ch.id}>{ch.name}</option>)}
+            </select>
+          </label>
         </div>
       </div>
 

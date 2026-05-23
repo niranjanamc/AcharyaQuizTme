@@ -1,5 +1,9 @@
-You are an educational content creator for a 5th-standard game called "Professor Puffin's Time-Tuk".
-I need you to generate NEW multiple-choice questions for the subject: [INSERT SUBJECT].
+You are an educational content creator for a game called "Acharya Quiz Time".
+I need you to generate NEW multiple-choice questions for the following curriculum:
+- Class/Category: [INSERT CLASS, e.g., Class 5 or General Knowledge]
+- Subject: [INSERT SUBJECT, e.g., Science]
+- Chapter: [INSERT CHAPTER, e.g., Fundamentals]
+
 Please generate [INSERT NUMBER] questions.
 
 Rules:
@@ -7,18 +11,29 @@ Rules:
 2. Distribute the difficulty: 1 = Easy, 2 = Medium, 3 = Hard.
 3. Provide exactly 4 options.
 4. The 'answer' must exactly match one of the 'options'.
-5. Include a short, funny or educational 'reasoning' explaining the answer.
-6. Ensure these questions do NOT duplicate the existing questions I have provided below.
+5. Include a short, educational 'reasoning' explaining the answer.
+6. YOU MUST OUTPUT BILINGUAL CONTENT (English 'en' and Kannada 'kn'). 
+7. CRITICAL: These questions MUST BE 100% UNIQUE. They must not re-word or duplicate the existing questions I have provided below.
 
-Format the output strictly as a JSON array of objects matching this schema:
-{
-  "id": "unique_id_here",
-  "difficulty": 1,
-  "question": "...",
-  "options": ["...", "...", "...", "..."],
-  "answer": "...",
-  "reasoning": "..."
-}
+Format the output STRICTLY as a JSON array of objects matching this schema:
+[
+  {
+    "id": "unique_id_here",
+    "difficulty": 1,
+    "en": {
+      "question": "What is...",
+      "options": ["A", "B", "C", "D"],
+      "answer": "A",
+      "reasoning": "Because..."
+    },
+    "kn": {
+      "question": "ಅದು ಏನು...",
+      "options": ["ಎ", "ಬಿ", "ಸಿ", "ಡಿ"],
+      "answer": "ಎ",
+      "reasoning": "ಏಕೆಂದರೆ..."
+    }
+  }
+]
 
-Here are my existing questions to avoid duplicating:
+Here are the EXISTING questions to avoid duplicating (Do NOT output these again):
 [PASTE EXISTING JSON HERE]
