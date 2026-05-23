@@ -1,1 +1,0 @@
-var e=`subject_difficulty_index`,t=1,n=`Question text here`,r=[`Option A`,`Option B`,`Option C`,`Option D`],i=`Option A`,a=`Explanation of why Option A is correct.`,o={id:e,difficulty:1,question:n,options:r,answer:i,reasoning:a};export{i as answer,o as default,t as difficulty,e as id,r as options,n as question,a as reasoning};
