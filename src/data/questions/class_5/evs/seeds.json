@@ -1,0 +1,162 @@
+[
+  {
+    "id": "c5_evs_sd_1",
+    "difficulty": 1,
+    "en": {
+      "question": "What three things does a seed need to sprout (germinate)?",
+      "options": ["Water, milk, and sugar", "Air, water, and warmth (suitable temperature)", "Soil, darkness, and ice", "Plastic, water, and cold air"],
+      "answer": "Air, water, and warmth (suitable temperature)",
+      "reasoning": "A seed will only sprout if it receives the right amount of air, water, and warmth. Without any one of these, the seed cannot wake up and grow."
+    },
+    "kn": {
+      "question": "ಬೀಜವು ಮೊಳಕೆಯೊಡೆಯಲು ಯಾವ ಮೂರು ವಸ್ತುಗಳ ಅಗತ್ಯವಿದೆ?",
+      "options": ["ನೀರು, ಹಾಲು ಮತ್ತು ಸಕ್ಕರೆ", "ಗಾಳಿ, ನೀರು ಮತ್ತು ಬೆಚ್ಚಗಿನ ವಾತಾವರಣ (ಸೂಕ್ತ ತಾಪಮಾನ)", "ಮಣ್ಣು, ಕತ್ತಲೆ ಮತ್ತು ಮಂಜುಗಡ್ಡೆ", "ಪ್ಲಾಸ್ಟಿಕ್, ನೀರು ಮತ್ತು ತಂಪಾದ ಗಾಳಿ"],
+      "answer": "ಗಾಳಿ, ನೀರು ಮತ್ತು ಬೆಚ್ಚಗಿನ ವಾತಾವರಣ (ಸೂಕ್ತ ತಾಪಮಾನ)",
+      "reasoning": "ಬೀಜವು ಸರಿಯಾದ ಪ್ರಮಾಣದ ಗಾಳಿ, ನೀರು ಮತ್ತು ಬೆಚ್ಚಗಿನ ವಾತಾವರಣವನ್ನು ಪಡೆದರೆ ಮಾತ್ರ ಮೊಳಕೆಯೊಡೆಯುತ್ತದೆ. ಇವುಗಳಲ್ಲಿ ಯಾವುದಾದರೂ ಒಂದು ಇಲ್ಲದಿದ್ದರೂ, ಬೀಜವು ಬೆಳೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_evs_sd_2",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these plants acts like a 'hunter' and traps frogs, insects, and even mice?",
+      "options": ["Rose bush", "Pitcher plant (Nepenthes)", "Tulsi", "Cactus"],
+      "answer": "Pitcher plant (Nepenthes)",
+      "reasoning": "The Pitcher plant has a pitcher-like shape with a leaf covering the mouth. It gives out a pleasant smell to attract insects, which get trapped inside."
+    },
+    "kn": {
+      "question": "'ಬೇಟೆಗಾರ'ನಂತೆ ವರ್ತಿಸುವ ಮತ್ತು ಕಪ್ಪೆಗಳು, ಕೀಟಗಳು ಹಾಗೂ ಇಲಿಗಳನ್ನು ಸಹ ಬಲೆಗೆ ಬೀಳಿಸುವ ಸಸ್ಯ ಯಾವುದು?",
+      "options": ["ಗುಲಾಬಿ ಗಿಡ", "ಹೂಜಿ ಗಿಡ (ಪಿಚರ್ ಪ್ಲಾಂಟ್ - Nepenthes)", "ತುಳಸಿ", "ಕಳ್ಳಿ (ಕ್ಯಾಕ್ಟಸ್)"],
+      "answer": "ಹೂಜಿ ಗಿಡ (ಪಿಚರ್ ಪ್ಲಾಂಟ್ - Nepenthes)",
+      "reasoning": "ಹೂಜಿ ಗಿಡವು ಹೂಜಿಯಂತಹ ಆಕಾರವನ್ನು ಹೊಂದಿದ್ದು, ಬಾಯಿಯನ್ನು ಮುಚ್ಚುವ ಎಲೆಯನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಇದು ಕೀಟಗಳನ್ನು ಆಕರ್ಷಿಸಲು ಆಹ್ಲಾದಕರ ವಾಸನೆಯನ್ನು ನೀಡುತ್ತದೆ ಮತ್ತು ಕೀಟಗಳು ಒಳಗೆ ಸಿಲುಕಿಕೊಳ್ಳುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_evs_sd_3",
+    "difficulty": 3,
+    "en": {
+      "question": "Where is the Pitcher plant (Nepenthes) naturally found in India?",
+      "options": ["Rajasthan", "Kerala", "Meghalaya", "Punjab"],
+      "answer": "Meghalaya",
+      "reasoning": "The Pitcher plant is found in Australia, Indonesia, and in the state of Meghalaya in India."
+    },
+    "kn": {
+      "question": "ಭಾರತದಲ್ಲಿ ಹೂಜಿ ಗಿಡ (Nepenthes) ನೈಸರ್ಗಿಕವಾಗಿ ಎಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ?",
+      "options": ["ರಾಜಸ್ಥಾನ", "ಕೇರಳ", "ಮೇಘಾಲಯ", "ಪಂಜಾಬ್"],
+      "answer": "ಮೇಘಾಲಯ",
+      "reasoning": "ಹೂಜಿ ಗಿಡವು ಆಸ್ಟ್ರೇಲಿಯಾ, ಇಂಡೋನೇಷ್ಯಾ ಮತ್ತು ಭಾರತದ ಮೇಘಾಲಯ ರಾಜ್ಯದಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_sd_4",
+    "difficulty": 2,
+    "en": {
+      "question": "How do plants spread their seeds over long distances without moving themselves?",
+      "options": ["They throw them with their branches", "They rely on wind, water, and animals", "They dig tunnels under the soil", "They ask humans to carry them"],
+      "answer": "They rely on wind, water, and animals",
+      "reasoning": "Seeds are great travelers! They use the wind to fly, float on water, or stick to the fur of animals or our clothes to reach faraway places."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳು ತಾವು ಚಲಿಸದೆ ತಮ್ಮ ಬೀಜಗಳನ್ನು ದೂರದವರೆಗೆ ಹೇಗೆ ಹರಡುತ್ತವೆ?",
+      "options": ["ಅವು ತಮ್ಮ ಕೊಂಬೆಗಳಿಂದ ಅವುಗಳನ್ನು ಎಸೆಯುತ್ತವೆ", "ಅವು ಗಾಳಿ, ನೀರು ಮತ್ತು ಪ್ರಾಣಿಗಳನ್ನು ಅವಲಂಬಿಸಿವೆ", "ಅವು ಮಣ್ಣಿನ ಅಡಿಯಲ್ಲಿ ಸುರಂಗಗಳನ್ನು ತೋಡುತ್ತವೆ", "ಅವುಗಳನ್ನು ಸಾಗಿಸಲು ಮಾನವರನ್ನು ಕೇಳುತ್ತವೆ"],
+      "answer": "ಅವು ಗಾಳಿ, ನೀರು ಮತ್ತು ಪ್ರಾಣಿಗಳನ್ನು ಅವಲಂಬಿಸಿವೆ",
+      "reasoning": "ಬೀಜಗಳು ಉತ್ತಮ ಪ್ರಯಾಣಿಕರು! ಅವು ಹಾರಲು ಗಾಳಿಯನ್ನು ಬಳಸುತ್ತವೆ, ನೀರಿನ ಮೇಲೆ ತೇಲುತ್ತವೆ, ಅಥವಾ ದೂರದ ಸ್ಥಳಗಳನ್ನು ತಲುಪಲು ಪ್ರಾಣಿಗಳ ತುಪ್ಪಳ ಅಥವಾ ನಮ್ಮ ಬಟ್ಟೆಗಳಿಗೆ ಅಂಟಿಕೊಳ್ಳುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_evs_sd_5",
+    "difficulty": 2,
+    "en": {
+      "question": "Who got the idea of making 'Velcro' after seeing tiny seeds sticking to his dog's fur?",
+      "options": ["Albert Einstein", "George de Mestral", "Isaac Newton", "Thomas Edison"],
+      "answer": "George de Mestral",
+      "reasoning": "In 1948, George de Mestral noticed burdock seeds stuck to his clothes and dog. Examining them under a microscope, he saw tiny hooks, which inspired him to invent Velcro."
+    },
+    "kn": {
+      "question": "ತನ್ನ ನಾಯಿಯ ತುಪ್ಪಳಕ್ಕೆ ಸಣ್ಣ ಬೀಜಗಳು ಅಂಟಿಕೊಂಡಿರುವುದನ್ನು ನೋಡಿ 'ವೆಲ್ಕ್ರೋ' (Velcro) ಮಾಡುವ ಕಲ್ಪನೆ ಯಾರಿಗೆ ಬಂತು?",
+      "options": ["ಆಲ್ಬರ್ಟ್ ಐನ್‌ಸ್ಟೈನ್", "ಜಾರ್ಜ್ ಡಿ ಮೆಸ್ಟ್ರಲ್", "ಐಸಾಕ್ ನ್ಯೂಟನ್", "ಥಾಮಸ್ ಎಡಿಸನ್"],
+      "answer": "ಜಾರ್ಜ್ ಡಿ ಮೆಸ್ಟ್ರಲ್",
+      "reasoning": "1948 ರಲ್ಲಿ, ಜಾರ್ಜ್ ಡಿ ಮೆಸ್ಟ್ರಲ್ ತಮ್ಮ ಬಟ್ಟೆ ಮತ್ತು ನಾಯಿಗೆ ಬರ್ಡಾಕ್ ಬೀಜಗಳು ಅಂಟಿಕೊಂಡಿರುವುದನ್ನು ಗಮನಿಸಿದರು. ಅವುಗಳನ್ನು ಸೂಕ್ಷ್ಮದರ್ಶಕದ ಅಡಿಯಲ್ಲಿ ಪರೀಕ್ಷಿಸಿದಾಗ ಅವರು ಸಣ್ಣ ಕೊಕ್ಕೆಗಳನ್ನು ನೋಡಿದರು, ಇದು ವೆಲ್ಕ್ರೋವನ್ನು ಆವಿಷ್ಕರಿಸಲು ಪ್ರೇರಣೆ ನೀಡಿತು."
+    }
+  },
+  {
+    "id": "c5_evs_sd_6",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of these vegetables originally came to India from South America?",
+      "options": ["Cabbage and Peas", "Tomato, Potato and Green Chilli", "Bhindi (Okra)", "Coffee bean"],
+      "answer": "Tomato, Potato and Green Chilli",
+      "reasoning": "Many years ago, traders coming from South America brought tomatoes, potatoes, and green chillies to India."
+    },
+    "kn": {
+      "question": "ಮೂಲತಃ ದಕ್ಷಿಣ ಅಮೆರಿಕದಿಂದ ಭಾರತಕ್ಕೆ ಬಂದ ತರಕಾರಿಗಳು ಯಾವುವು?",
+      "options": ["ಎಲೆಕೋಸು ಮತ್ತು ಬಟಾಣಿ", "ಟೊಮೆಟೊ, ಆಲೂಗಡ್ಡೆ ಮತ್ತು ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ", "ಬೆಂಡೆಕಾಯಿ", "ಕಾಫಿ ಬೀಜ"],
+      "answer": "ಟೊಮೆಟೊ, ಆಲೂಗಡ್ಡೆ ಮತ್ತು ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ",
+      "reasoning": "ಹಲವು ವರ್ಷಗಳ ಹಿಂದೆ ದಕ್ಷಿಣ ಅಮೇರಿಕಾದಿಂದ ಬಂದ ವ್ಯಾಪಾರಿಗಳು ಟೊಮೆಟೊ, ಆಲೂಗಡ್ಡೆ ಮತ್ತು ಹಸಿರು ಮೆಣಸಿನಕಾಯಿಯನ್ನು ಭಾರತಕ್ಕೆ ತಂದರು."
+    }
+  },
+  {
+    "id": "c5_evs_sd_7",
+    "difficulty": 3,
+    "en": {
+      "question": "How are soybean seeds typically dispersed (spread)?",
+      "options": ["They fly in the wind", "They float on water", "The pods burst open and seeds are thrown out", "Animals eat them and carry them away"],
+      "answer": "The pods burst open and seeds are thrown out",
+      "reasoning": "When soybeans ripen, their pods dry and burst open with a 'pop' sound, throwing the seeds out so they can grow in new places."
+    },
+    "kn": {
+      "question": "ಸೋಯಾಬೀನ್ ಬೀಜಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಹೇಗೆ ಪ್ರಸಾರವಾಗುತ್ತವೆ (ಹರಡುತ್ತವೆ)?",
+      "options": ["ಅವು ಗಾಳಿಯಲ್ಲಿ ಹಾರುತ್ತವೆ", "ಅವು ನೀರಿನ ಮೇಲೆ ತೇಲುತ್ತವೆ", "ಕೋಡುಗಳು ಸಿಡಿದು ತೆರೆದುಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ಬೀಜಗಳು ಹೊರಗೆ ಎಸೆಯಲ್ಪಡುತ್ತವೆ", "ಪ್ರಾಣಿಗಳು ಅವುಗಳನ್ನು ತಿಂದು ಒಯ್ಯುತ್ತವೆ"],
+      "answer": "ಕೋಡುಗಳು ಸಿಡಿದು ತೆರೆದುಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ಬೀಜಗಳು ಹೊರಗೆ ಎಸೆಯಲ್ಪಡುತ್ತವೆ",
+      "reasoning": "ಸೋಯಾಬೀನ್‌ಗಳು ಮಾಗಿದಾಗ, ಅವುಗಳ ಕೋಡುಗಳು ಒಣಗುತ್ತವೆ ಮತ್ತು ಸಿಡಿದು ತೆರೆದುಕೊಳ್ಳುತ್ತವೆ, ಬೀಜಗಳನ್ನು ಹೊರಕ್ಕೆ ಎಸೆಯುತ್ತವೆ, ಇದರಿಂದ ಅವು ಹೊಸ ಸ್ಥಳಗಳಲ್ಲಿ ಬೆಳೆಯಬಹುದು."
+    }
+  },
+  {
+    "id": "c5_evs_sd_8",
+    "difficulty": 1,
+    "en": {
+      "question": "Why do seeds kept in an airtight container without moisture fail to sprout?",
+      "options": ["Because they need sunlight", "Because they cannot get water or air", "Because it is too noisy inside the container", "Because seeds hate being in a container"],
+      "answer": "Because they cannot get water or air",
+      "reasoning": "A seed needs a balance of air, water, and warmth. In an airtight, dry container, the seed cannot get the moisture and oxygen required to wake up."
+    },
+    "kn": {
+      "question": "ಗಾಳಿ புகದ ಮತ್ತು ತೇವಾಂಶವಿಲ್ಲದ ಡಬ್ಬಿಯಲ್ಲಿ ಇರಿಸಿದ ಬೀಜಗಳು ಏಕೆ ಮೊಳಕೆಯೊಡೆಯುವುದಿಲ್ಲ?",
+      "options": ["ಏಕೆಂದರೆ ಅವುಗಳಿಗೆ ಸೂರ್ಯನ ಬೆಳಕು ಬೇಕು", "ಏಕೆಂದರೆ ಅವುಗಳಿಗೆ ನೀರು ಅಥವಾ ಗಾಳಿ ಸಿಗುವುದಿಲ್ಲ", "ಏಕೆಂದರೆ ಡಬ್ಬಿಯೊಳಗೆ ತುಂಬಾ ಶಬ್ದವಿರುತ್ತದೆ", "ಏಕೆಂದರೆ ಬೀಜಗಳು ಡಬ್ಬಿಯಲ್ಲಿರಲು ಇಷ್ಟಪಡುವುದಿಲ್ಲ"],
+      "answer": "ಏಕೆಂದರೆ ಅವುಗಳಿಗೆ ನೀರು ಅಥವಾ ಗಾಳಿ ಸಿಗುವುದಿಲ್ಲ",
+      "reasoning": "ಬೀಜಕ್ಕೆ ಗಾಳಿ, ನೀರು ಮತ್ತು ಬೆಚ್ಚಗಿನ ವಾತಾವರಣದ ಸಮತೋಲನದ ಅಗತ್ಯವಿದೆ. ಗಾಳಿ புகದ, ಒಣ ಡಬ್ಬಿಯಲ್ಲಿ, ಬೀಜವು ಎಚ್ಚರಗೊಳ್ಳಲು ಅಗತ್ಯವಾದ ತೇವಾಂಶ ಮತ್ತು ಆಮ್ಲಜನಕವನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_evs_sd_9",
+    "difficulty": 2,
+    "en": {
+      "question": "From which continent did Cabbage and Peas originally travel to India?",
+      "options": ["South America", "Europe", "Africa", "Australia"],
+      "answer": "Europe",
+      "reasoning": "According to the poem 'Did you know this?' in the NCERT book, cabbage and peas came from Europe."
+    },
+    "kn": {
+      "question": "ಎಲೆಕೋಸು ಮತ್ತು ಬಟಾಣಿ ಮೂಲತಃ ಯಾವ ಖಂಡದಿಂದ ಭಾರತಕ್ಕೆ ಬಂದವು?",
+      "options": ["ದಕ್ಷಿಣ ಅಮೇರಿಕಾ", "ಯುರೋಪ್", "ಆಫ್ರಿಕಾ", "ಆಸ್ಟ್ರೇಲಿಯಾ"],
+      "answer": "ಯುರೋಪ್",
+      "reasoning": "NCERT ಪುಸ್ತಕದಲ್ಲಿನ 'ನಿಮಗೆ ಇದು ತಿಳಿದಿದೆಯೇ?' ಕವಿತೆಯ ಪ್ರಕಾರ, ಎಲೆಕೋಸು ಮತ್ತು ಬಟಾಣಿ ಯುರೋಪ್‌ನಿಂದ ಬಂದವು."
+    }
+  },
+  {
+    "id": "c5_evs_sd_10",
+    "difficulty": 3,
+    "en": {
+      "question": "If you look closely inside a chana (chickpea) seed after splitting it open, what tiny structure will you see?",
+      "options": ["A fully grown flower", "A baby plant (embryo/shoot)", "A tiny insect", "Sugar crystals"],
+      "answer": "A baby plant (embryo/shoot)",
+      "reasoning": "Inside the seed coat of a chana, you will find the cotyledons and a tiny baby plant (embryo) waiting for water and air to start growing."
+    },
+    "kn": {
+      "question": "ಕಡಲೆಕಾಳನ್ನು (chana) ಒಡೆದು ಅದರ ಒಳಗೆ ಸೂಕ್ಷ್ಮವಾಗಿ ನೋಡಿದರೆ, ನೀವು ಯಾವ ಸಣ್ಣ ರಚನೆಯನ್ನು ನೋಡುತ್ತೀರಿ?",
+      "options": ["ಸಂಪೂರ್ಣವಾಗಿ ಬೆಳೆದ ಹೂವು", "ಮರಿ ಸಸ್ಯ (ಭ್ರೂಣ / ಕುಡಿ)", "ಸಣ್ಣ ಕೀಟ", "ಸಕ್ಕರೆ ಹರಳುಗಳು"],
+      "answer": "ಮರಿ ಸಸ್ಯ (ಭ್ರೂಣ / ಕುಡಿ)",
+      "reasoning": "ಕಡಲೆಕಾಳಿನ ಬೀಜದ ಹೊದಿಕೆಯ ಒಳಗೆ, ನೀವು ಬೀಜದಳಗಳನ್ನು ಮತ್ತು ಬೆಳೆಯಲು ಪ್ರಾರಂಭಿಸಲು ನೀರು ಮತ್ತು ಗಾಳಿಗಾಗಿ ಕಾಯುತ್ತಿರುವ ಸಣ್ಣ ಮರಿ ಸಸ್ಯವನ್ನು (ಭ್ರೂಣ) ಕಾಣುತ್ತೀರಿ."
+    }
+  }
+]

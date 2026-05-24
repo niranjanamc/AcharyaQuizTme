@@ -1,0 +1,162 @@
+[
+  {
+    "id": "c5_evs_man_1",
+    "difficulty": 1,
+    "en": {
+      "question": "How can you tell if a piece of bread has gotten spoilt?",
+      "options": ["It becomes very hard", "It changes colour and gets a fuzzy, moldy growth", "It smells like fresh flowers", "It tastes sweeter"],
+      "answer": "It changes colour and gets a fuzzy, moldy growth",
+      "reasoning": "Spoilt bread often changes colour, smells bad, and grows a fuzzy fungus (mold) because of moisture and warm conditions."
+    },
+    "kn": {
+      "question": "ಬ್ರೆಡ್ ತುಂಡು ಹಾಳಾಗಿದೆಯೇ ಎಂದು ನೀವು ಹೇಗೆ ಹೇಳಬಲ್ಲಿರಿ?",
+      "options": ["ಅದು ತುಂಬಾ ಗಟ್ಟಿಯಾಗುತ್ತದೆ", "ಅದರ ಬಣ್ಣ ಬದಲಾಗುತ್ತದೆ ಮತ್ತು ಬೂಷ್ಟು ಬೆಳೆಯುತ್ತದೆ", "ಅದು ತಾಜಾ ಹೂವುಗಳಂತೆ ವಾಸನೆ ಬೀರುತ್ತದೆ", "ಅದು ಸಿಹಿಯಾಗುತ್ತದೆ"],
+      "answer": "ಅದರ ಬಣ್ಣ ಬದಲಾಗುತ್ತದೆ ಮತ್ತು ಬೂಷ್ಟು ಬೆಳೆಯುತ್ತದೆ",
+      "reasoning": "ಹಾಳಾದ ಬ್ರೆಡ್‌ನ ಬಣ್ಣ ಬದಲಾಗುತ್ತದೆ, ಕೆಟ್ಟ ವಾಸನೆ ಬರುತ್ತದೆ ಮತ್ತು ತೇವಾಂಶ ಹಾಗೂ ಬೆಚ್ಚಗಿನ ವಾತಾವರಣದಿಂದಾಗಿ ಅದರ ಮೇಲೆ ಬೂಷ್ಟು (ಶಿಲೀಂಧ್ರ) ಬೆಳೆಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_man_2",
+    "difficulty": 2,
+    "en": {
+      "question": "What is 'Mamidi Tandra' commonly known as in Hindi?",
+      "options": ["Aam Papad", "Mango Pickle", "Mango Shake", "Aam Panna"],
+      "answer": "Aam Papad",
+      "reasoning": "Mamidi Tandra is a traditional sweet from Andhra Pradesh made of dried mango pulp, commonly known as Aam Papad in Hindi."
+    },
+    "kn": {
+      "question": "ಹಿಂದಿಯಲ್ಲಿ 'ಮಾಮಿಡಿ ತಾಂಡ್ರ'ವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": ["ಆಮ್ ಪಾಪಡ್", "ಮಾವಿನಕಾಯಿ ಉಪ್ಪಿನಕಾಯಿ", "ಮ್ಯಾಂಗೋ ಶೇಕ್", "ಆಮ್ ಪನ್ನಾ"],
+      "answer": "ಆಮ್ ಪಾಪಡ್",
+      "reasoning": "ಮಾಮಿಡಿ ತಾಂಡ್ರ ಎನ್ನುವುದು ಆಂಧ್ರಪ್ರದೇಶದ ಸಾಂಪ್ರದಾಯಿಕ ಸಿಹಿತಿಂಡಿಯಾಗಿದ್ದು, ಇದನ್ನು ಒಣಗಿಸಿದ ಮಾವಿನ ಹಣ್ಣಿನ ತಿರುಳಿನಿಂದ ತಯಾರಿಸಲಾಗುತ್ತದೆ. ಇದನ್ನು ಹಿಂದಿಯಲ್ಲಿ ಆಮ್ ಪಾಪಡ್ ಎಂದು ಕರೆಯುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c5_evs_man_3",
+    "difficulty": 2,
+    "en": {
+      "question": "How long does it typically take to prepare 'Mamidi Tandra' by adding layer upon layer of mango pulp?",
+      "options": ["Four days", "Four weeks", "Four months", "One year"],
+      "answer": "Four weeks",
+      "reasoning": "Preparing Mamidi Tandra requires four weeks of hard work, constantly adding and drying layers of sweet mango pulp under the sun."
+    },
+    "kn": {
+      "question": "ಮಾವಿನ ಹಣ್ಣಿನ ತಿರುಳಿನ ಪದರಗಳ ಮೇಲೆ ಪದರಗಳನ್ನು ಸೇರಿಸುವ ಮೂಲಕ 'ಮಾಮಿಡಿ ತಾಂಡ್ರ' ತಯಾರಿಸಲು ಸಾಮಾನ್ಯವಾಗಿ ಎಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ?",
+      "options": ["ನಾಲ್ಕು ದಿನಗಳು", "ನಾಲ್ಕು ವಾರಗಳು", "ನಾಲ್ಕು ತಿಂಗಳುಗಳು", "ಒಂದು ವರ್ಷ"],
+      "answer": "ನಾಲ್ಕು ವಾರಗಳು",
+      "reasoning": "ಮಾಮಿಡಿ ತಾಂಡ್ರವನ್ನು ತಯಾರಿಸಲು ನಾಲ್ಕು ವಾರಗಳ ಕಠಿಣ ಪರಿಶ್ರಮ ಬೇಕಾಗುತ್ತದೆ, ಸಿಹಿ ಮಾವಿನ ತಿರುಳಿನ ಪದರಗಳನ್ನು ನಿರಂತರವಾಗಿ ಸೇರಿಸುತ್ತಾ ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸಬೇಕು."
+    }
+  },
+  {
+    "id": "c5_evs_man_4",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of these is a method used to preserve raw mangoes for a long time?",
+      "options": ["Making mango shake", "Making pickles (achaar)", "Keeping them in water", "Leaving them in the sun"],
+      "answer": "Making pickles (achaar)",
+      "reasoning": "Pickling is a traditional method of preserving food. Adding salt and oil prevents fungus from growing, allowing mangoes to be eaten throughout the year."
+    },
+    "kn": {
+      "question": "ಕಚ್ಚಾ ಮಾವಿನಕಾಯಿಯನ್ನು ದೀರ್ಘಕಾಲದವರೆಗೆ ಸಂರಕ್ಷಿಸಲು ಬಳಸುವ ವಿಧಾನ ಯಾವುದು?",
+      "options": ["ಮ್ಯಾಂಗೋ ಶೇಕ್ ಮಾಡುವುದು", "ಉಪ್ಪಿನಕಾಯಿ (ಅಚಾರ್) ಮಾಡುವುದು", "ಅವುಗಳನ್ನು ನೀರಿನಲ್ಲಿ ಇಡುವುದು", "ಅವುಗಳನ್ನು ಬಿಸಿಲಿನಲ್ಲಿ ಬಿಡುವುದು"],
+      "answer": "ಉಪ್ಪಿನಕಾಯಿ (ಅಚಾರ್) ಮಾಡುವುದು",
+      "reasoning": "ಉಪ್ಪಿನಕಾಯಿ ಹಾಕುವುದು ಆಹಾರವನ್ನು ಸಂರಕ್ಷಿಸುವ ಸಾಂಪ್ರದಾಯಿಕ ವಿಧಾನವಾಗಿದೆ. ಉಪ್ಪು ಮತ್ತು ಎಣ್ಣೆಯನ್ನು ಸೇರಿಸುವುದರಿಂದ ಬೂಷ್ಟು ಬೆಳೆಯುವುದನ್ನು ತಡೆಯುತ್ತದೆ, ಇದರಿಂದಾಗಿ ಮಾವಿನಕಾಯಿಯನ್ನು ವರ್ಷಪೂರ್ತಿ ತಿನ್ನಬಹುದು."
+    }
+  },
+  {
+    "id": "c5_evs_man_5",
+    "difficulty": 3,
+    "en": {
+      "question": "Why are glass jars and bottles dried well in the sun before filling them with pickles?",
+      "options": ["To make the glass shine", "To remove all moisture so the pickle does not spoil", "To make the jar warmer", "To kill ants inside the jar"],
+      "answer": "To remove all moisture so the pickle does not spoil",
+      "reasoning": "Even a little bit of moisture (water) left in the jar can cause fungus to grow and completely spoil the pickle."
+    },
+    "kn": {
+      "question": "ಉಪ್ಪಿನಕಾಯಿಯನ್ನು ತುಂಬುವ ಮೊದಲು ಗಾಜಿನ ಜಾಡಿಗಳು ಮತ್ತು ಬಾಟಲಿಗಳನ್ನು ಬಿಸಿಲಿನಲ್ಲಿ ಏಕೆ ಚೆನ್ನಾಗಿ ಒಣಗಿಸಲಾಗುತ್ತದೆ?",
+      "options": ["ಗಾಜು ಹೊಳೆಯುವಂತೆ ಮಾಡಲು", "ಉಪ್ಪಿನಕಾಯಿ ಹಾಳಾಗದಂತೆ ಸಂಪೂರ್ಣ ತೇವಾಂಶವನ್ನು ತೆಗೆದುಹಾಕಲು", "ಜಾಡಿಯನ್ನು ಬೆಚ್ಚಗಾಗಿಸಲು", "ಜಾಡಿಯೊಳಗಿನ ಇರುವೆಗಳನ್ನು ಕೊಲ್ಲಲು"],
+      "answer": "ಉಪ್ಪಿನಕಾಯಿ ಹಾಳಾಗದಂತೆ ಸಂಪೂರ್ಣ ತೇವಾಂಶವನ್ನು ತೆಗೆದುಹಾಕಲು",
+      "reasoning": "ಜಾಡಿಯಲ್ಲಿ ಸ್ವಲ್ಪ ತೇವಾಂಶ (ನೀರು) ಉಳಿದಿದ್ದರೂ ಅದು ಬೂಷ್ಟು ಬೆಳೆಯಲು ಕಾರಣವಾಗುತ್ತದೆ ಮತ್ತು ಉಪ್ಪಿನಕಾಯಿಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಹಾಳುಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_man_6",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the difference between food getting 'spoilt' and food being 'wasted'?",
+      "options": ["They mean the same thing", "Spoilt food is safe to eat, wasted food is not", "Spoilt food is bad due to fungus/bacteria, wasted food is good food thrown away", "Wasted food smells worse than spoilt food"],
+      "answer": "Spoilt food is bad due to fungus/bacteria, wasted food is good food thrown away",
+      "reasoning": "Food gets spoilt when it goes bad naturally due to fungus or bacteria. Wasting food happens when good, edible food is thrown in the dustbin instead of being eaten."
+    },
+    "kn": {
+      "question": "ಆಹಾರ 'ಹಾಳಾಗುವುದು' ಮತ್ತು ಆಹಾರ 'ಪೋಲಾಗುವುದು' (ವ್ಯರ್ಥ) ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": ["ಎರಡಕ್ಕೂ ಒಂದೇ ಅರ್ಥವಿದೆ", "ಹಾಳಾದ ಆಹಾರ ತಿನ್ನಲು ಸುರಕ್ಷಿತ, ಪೋಲಾದ ಆಹಾರ ಸುರಕ್ಷಿತವಲ್ಲ", "ಶಿಲೀಂಧ್ರ/ಬ್ಯಾಕ್ಟೀರಿಯಾದಿಂದ ಆಹಾರ ಹಾಳಾಗುತ್ತದೆ, ಪೋಲಾಗುವುದು ಎಂದರೆ ಒಳ್ಳೆಯ ಆಹಾರವನ್ನು ಬಿಸಾಡುವುದು", "ಪೋಲಾದ ಆಹಾರ ಹಾಳಾದ ಆಹಾರಕ್ಕಿಂತ ಕೆಟ್ಟ ವಾಸನೆ ಬೀರುತ್ತದೆ"],
+      "answer": "ಶಿಲೀಂಧ್ರ/ಬ್ಯಾಕ್ಟೀರಿಯಾದಿಂದ ಆಹಾರ ಹಾಳಾಗುತ್ತದೆ, ಪೋಲಾಗುವುದು ಎಂದರೆ ಒಳ್ಳೆಯ ಆಹಾರವನ್ನು ಬಿಸಾಡುವುದು",
+      "reasoning": "ಶಿಲೀಂಧ್ರ ಅಥವಾ ಬ್ಯಾಕ್ಟೀರಿಯಾದಿಂದ ಆಹಾರ ನೈಸರ್ಗಿಕವಾಗಿ ಕೆಟ್ಟಾಗ ಅದು ಹಾಳಾಗುತ್ತದೆ. ತಿನ್ನಲು ಯೋಗ್ಯವಾದ ಒಳ್ಳೆಯ ಆಹಾರವನ್ನು ಡಸ್ಟ್‌ಬಿನ್‌ಗೆ ಎಸೆದಾಗ ಆಹಾರ ವ್ಯರ್ಥವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_man_7",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of these foods spoils the FASTEST at normal room temperature?",
+      "options": ["Rice grain", "Milk", "Potato chips", "Dry sugar"],
+      "answer": "Milk",
+      "reasoning": "Milk is a perishable liquid that spoils very quickly within a day or two if not boiled or refrigerated."
+    },
+    "kn": {
+      "question": "ಸಾಮಾನ್ಯ ಕೊಠಡಿಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ ಇವುಗಳಲ್ಲಿ ಯಾವ ಆಹಾರವು ಅತಿ ವೇಗವಾಗಿ ಹಾಳಾಗುತ್ತದೆ?",
+      "options": ["ಅಕ್ಕಿ", "ಹಾಲು", "ಆಲೂಗಡ್ಡೆ ಚಿಪ್ಸ್", "ಒಣ ಸಕ್ಕರೆ"],
+      "answer": "ಹಾಲು",
+      "reasoning": "ಹಾಲು ಬೇಗನೆ ಹಾಳಾಗುವ ದ್ರವವಾಗಿದ್ದು, ಅದನ್ನು ಕುದಿಸದಿದ್ದರೆ ಅಥವಾ ಫ್ರಿಡ್ಜ್‌ನಲ್ಲಿ ಇಡದಿದ್ದರೆ ಒಂದು ಅಥವಾ ಎರಡು ದಿನಗಳಲ್ಲಿ ಬಹಳ ಬೇಗನೆ ಹಾಳಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_man_8",
+    "difficulty": 3,
+    "en": {
+      "question": "To keep onions and garlic fresh for a few days without a fridge, where should you keep them?",
+      "options": ["Soaked in a bowl of water", "Wrapped in a wet cloth", "In a dry, open place", "Boiled in a pot"],
+      "answer": "In a dry, open place",
+      "reasoning": "Onions and garlic rot quickly if exposed to moisture. Keeping them in a dry, open space helps preserve them for longer without refrigeration."
+    },
+    "kn": {
+      "question": "ಫ್ರಿಡ್ಜ್ ಇಲ್ಲದೆ ಈರುಳ್ಳಿ ಮತ್ತು ಬೆಳ್ಳುಳ್ಳಿಯನ್ನು ಕೆಲವು ದಿನಗಳವರೆಗೆ ತಾಜಾವಾಗಿಡಲು, ಅವುಗಳನ್ನು ಎಲ್ಲಿಡಬೇಕು?",
+      "options": ["ನೀರಿನ ಬಟ್ಟಲಿನಲ್ಲಿ ನೆನೆಸಿ", "ಒದ್ದೆಯಾದ ಬಟ್ಟೆಯಲ್ಲಿ ಸುತ್ತಿ", "ಶುಷ್ಕ (ಒಣ), ತೆರೆದ ಸ್ಥಳದಲ್ಲಿ", "ಮಡಕೆಯಲ್ಲಿ ಕುದಿಸಿ"],
+      "answer": "ಶುಷ್ಕ (ಒಣ), ತೆರೆದ ಸ್ಥಳದಲ್ಲಿ",
+      "reasoning": "ಈರುಳ್ಳಿ ಮತ್ತು ಬೆಳ್ಳುಳ್ಳಿಗೆ ತೇವಾಂಶ ತಗುಲಿದರೆ ಬೇಗನೆ ಕೊಳೆಯುತ್ತವೆ. ಶುಷ್ಕ, ತೆರೆದ ಜಾಗದಲ್ಲಿ ಅವುಗಳನ್ನು ಇಡುವುದರಿಂದ ಫ್ರಿಡ್ಜ್ ಇಲ್ಲದೆಯೂ ಹೆಚ್ಚು ಕಾಲ ಸಂರಕ್ಷಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_man_9",
+    "difficulty": 2,
+    "en": {
+      "question": "In the process of making Mamidi Tandra, why is jaggery and sugar mixed into the mango pulp?",
+      "options": ["To change the colour of the pulp to green", "To make it spicy", "To sweeten it and help preserve it as a thick jelly layer", "To make it dry instantly"],
+      "answer": "To sweeten it and help preserve it as a thick jelly layer",
+      "reasoning": "Jaggery and sugar add sweetness to the ripe mango pulp and also act as natural preservatives as it dries in the sun layer by layer."
+    },
+    "kn": {
+      "question": "ಮಾಮಿಡಿ ತಾಂಡ್ರ ಮಾಡುವ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ, ಮಾವಿನ ತಿರುಳಿಗೆ ಬೆಲ್ಲ ಮತ್ತು ಸಕ್ಕರೆಯನ್ನು ಏಕೆ ಸೇರಿಸಲಾಗುತ್ತದೆ?",
+      "options": ["ತಿರುಳಿನ ಬಣ್ಣವನ್ನು ಹಸಿರು ಬಣ್ಣಕ್ಕೆ ಬದಲಾಯಿಸಲು", "ಅದನ್ನು ಮಸಾಲೆಯುಕ್ತವಾಗಿಸಲು", "ಅದನ್ನು ಸಿಹಿಗೊಳಿಸಲು ಮತ್ತು ದಪ್ಪ ಜೆಲ್ಲಿ ಪದರವಾಗಿ ಸಂರಕ್ಷಿಸಲು", "ಅದು ತಕ್ಷಣ ಒಣಗುವಂತೆ ಮಾಡಲು"],
+      "answer": "ಅದನ್ನು ಸಿಹಿಗೊಳಿಸಲು ಮತ್ತು ದಪ್ಪ ಜೆಲ್ಲಿ ಪದರವಾಗಿ ಸಂರಕ್ಷಿಸಲು",
+      "reasoning": "ಬೆಲ್ಲ ಮತ್ತು ಸಕ್ಕರೆಯು ಹಣ್ಣಾದ ಮಾವಿನ ತಿರುಳಿಗೆ ಸಿಹಿಯನ್ನು ಸೇರಿಸುತ್ತವೆ ಮತ್ತು ಇದು ಬಿಸಿಲಿನಲ್ಲಿ ಪದರ-ಪದರವಾಗಿ ಒಣಗುವಾಗ ನೈಸರ್ಗಿಕ ಸಂರಕ್ಷಕಗಳಾಗಿಯೂ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_evs_man_10",
+    "difficulty": 1,
+    "en": {
+      "question": "What information should you always check on a packed food packet before buying it?",
+      "options": ["The manufacturing and expiry dates", "Only the pictures on the box", "The colour of the text", "The name of the shopkeeper"],
+      "answer": "The manufacturing and expiry dates",
+      "reasoning": "It is important to check the date of manufacture and expiry dates on packets to ensure the food is safe to eat and hasn't gone bad."
+    },
+    "kn": {
+      "question": "ಪ್ಯಾಕ್ ಮಾಡಿದ ಆಹಾರದ ಪೊಟ್ಟಣವನ್ನು ಖರೀದಿಸುವ ಮೊದಲು ನೀವು ಯಾವ ಮಾಹಿತಿಯನ್ನು ಯಾವಾಗಲೂ ಪರಿಶೀಲಿಸಬೇಕು?",
+      "options": ["ತಯಾರಿಸಿದ ಮತ್ತು ಅವಧಿ ಮುಗಿಯುವ (ಎಕ್ಸ್‌ಪೈರಿ) ದಿನಾಂಕಗಳು", "ಪೆಟ್ಟಿಗೆಯ ಮೇಲಿನ ಚಿತ್ರಗಳನ್ನು ಮಾತ್ರ", "ಪಠ್ಯದ ಬಣ್ಣ", "ಅಂಗಡಿಯವನ ಹೆಸರು"],
+      "answer": "ತಯಾರಿಸಿದ ಮತ್ತು ಅವಧಿ ಮುಗಿಯುವ (ಎಕ್ಸ್‌ಪೈರಿ) ದಿನಾಂಕಗಳು",
+      "reasoning": "ಆಹಾರವು ತಿನ್ನಲು ಸುರಕ್ಷಿತವಾಗಿದೆ ಮತ್ತು ಹಾಳಾಗಿಲ್ಲ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಪ್ಯಾಕೆಟ್‌ಗಳ ಮೇಲೆ ತಯಾರಿಸಿದ ದಿನಾಂಕ ಮತ್ತು ಅವಧಿ ಮುಗಿಯುವ ದಿನಾಂಕವನ್ನು ಪರಿಶೀಲಿಸುವುದು ಬಹಳ ಮುಖ್ಯ."
+    }
+  }
+]
