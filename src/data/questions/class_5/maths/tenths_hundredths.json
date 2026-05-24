@@ -1,0 +1,162 @@
+[
+  {
+    "id": "c5_mat_th_1",
+    "difficulty": 1,
+    "en": {
+      "question": "If 1 centimetre (cm) is equal to 10 millimetres (mm), how many millimetres are in 2 cm?",
+      "options": ["2 mm", "12 mm", "20 mm", "200 mm"],
+      "answer": "20 mm",
+      "reasoning": "Since 1 cm = 10 mm, you multiply by 10. So, 2 cm = 2 × 10 = 20 mm."
+    },
+    "kn": {
+      "question": "1 ಸೆಂಟಿಮೀಟರ್ (ಸೆಂ.ಮೀ) 10 ಮಿಲಿಮೀಟರ್ (ಮಿ.ಮೀ) ಗಳಿಗೆ ಸಮನಾಗಿದ್ದರೆ, 2 ಸೆಂ.ಮೀ ನಲ್ಲಿ ಎಷ್ಟು ಮಿಲಿಮೀಟರ್‌ಗಳಿವೆ?",
+      "options": ["2 ಮಿ.ಮೀ", "12 ಮಿ.ಮೀ", "20 ಮಿ.ಮೀ", "200 ಮಿ.ಮೀ"],
+      "answer": "20 ಮಿ.ಮೀ",
+      "reasoning": "1 ಸೆಂ.ಮೀ = 10 ಮಿ.ಮೀ ಆಗಿರುವುದರಿಂದ, ನೀವು 10 ರಿಂದ ಗುಣಿಸಬೇಕು. ಆದ್ದರಿಂದ, 2 ಸೆಂ.ಮೀ = 2 × 10 = 20 ಮಿ.ಮೀ."
+    }
+  },
+  {
+    "id": "c5_mat_th_2",
+    "difficulty": 2,
+    "en": {
+      "question": "How do you write 3 millimetres (mm) in centimetres (cm) using decimals?",
+      "options": ["3.0 cm", "0.3 cm", "0.03 cm", "30 cm"],
+      "answer": "0.3 cm",
+      "reasoning": "1 mm is one-tenth of a cm (1/10 cm). Therefore, 3 mm is 3/10 cm, which is written as 0.3 cm."
+    },
+    "kn": {
+      "question": "ದಶಮಾಂಶಗಳನ್ನು (decimals) ಬಳಸಿ 3 ಮಿಲಿಮೀಟರ್ (ಮಿ.ಮೀ) ಅನ್ನು ಸೆಂಟಿಮೀಟರ್‌ಗಳಲ್ಲಿ (ಸೆಂ.ಮೀ) ಹೇಗೆ ಬರೆಯುತ್ತೀರಿ?",
+      "options": ["3.0 ಸೆಂ.ಮೀ", "0.3 ಸೆಂ.ಮೀ", "0.03 ಸೆಂ.ಮೀ", "30 ಸೆಂ.ಮೀ"],
+      "answer": "0.3 ಸೆಂ.ಮೀ",
+      "reasoning": "1 ಮಿ.ಮೀ ಎಂದರೆ ಸೆಂ.ಮೀ ನ ಹತ್ತನೇ ಒಂದು ಭಾಗ (1/10 ಸೆಂ.ಮೀ). ಆದ್ದರಿಂದ, 3 ಮಿ.ಮೀ ಎಂದರೆ 3/10 ಸೆಂ.ಮೀ, ಇದನ್ನು 0.3 ಸೆಂ.ಮೀ ಎಂದು ಬರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_mat_th_3",
+    "difficulty": 2,
+    "en": {
+      "question": "If you have 1 Rupee and 50 paise, how do you write it using a decimal point?",
+      "options": ["₹ 1.05", "₹ 1.50", "₹ 15.0", "₹ 150"],
+      "answer": "₹ 1.50",
+      "reasoning": "There are 100 paise in a Rupee. 50 paise is 50 hundredths (50/100) of a Rupee, which is 0.50. So, 1 Rupee and 50 paise is ₹ 1.50."
+    },
+    "kn": {
+      "question": "ನಿಮ್ಮ ಬಳಿ 1 ರೂಪಾಯಿ ಮತ್ತು 50 ಪೈಸೆ ಇದ್ದರೆ, ಅದನ್ನು ದಶಮಾಂಶ ಬಿಂದು (decimal point) ಬಳಸಿ ಹೇಗೆ ಬರೆಯುತ್ತೀರಿ?",
+      "options": ["₹ 1.05", "₹ 1.50", "₹ 15.0", "₹ 150"],
+      "answer": "₹ 1.50",
+      "reasoning": "ಒಂದು ರೂಪಾಯಿಯಲ್ಲಿ 100 ಪೈಸೆಗಳಿವೆ. 50 ಪೈಸೆ ಎಂದರೆ ಒಂದು ರೂಪಾಯಿಯ 100 ರಲ್ಲಿ 50 ಭಾಗ (50/100), ಇದು 0.50 ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ, 1 ರೂಪಾಯಿ 50 ಪೈಸೆ ಎಂದರೆ ₹ 1.50."
+    }
+  },
+  {
+    "id": "c5_mat_th_4",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the decimal equivalent of the fraction 7/100?",
+      "options": ["0.7", "7.0", "0.07", "0.007"],
+      "answer": "0.07",
+      "reasoning": "7/100 means 7 hundredths. In decimals, the hundredths place is two places right of the decimal point, so it is 0.07."
+    },
+    "kn": {
+      "question": "7/100 ಭಿನ್ನರಾಶಿಗೆ (fraction) ಸಮಾನವಾದ ದಶಮಾಂಶ (decimal) ಯಾವುದು?",
+      "options": ["0.7", "7.0", "0.07", "0.007"],
+      "answer": "0.07",
+      "reasoning": "7/100 ಎಂದರೆ 7 ನೂರನೇ ಭಾಗ. ದಶಮಾಂಶಗಳಲ್ಲಿ, ನೂರನೇ ಭಾಗವು ದಶಮಾಂಶ ಬಿಂದುವಿನಿಂದ ಬಲಭಾಗದ ಎರಡನೇ ಸ್ಥಾನದಲ್ಲಿದೆ, ಆದ್ದರಿಂದ ಇದು 0.07."
+    }
+  },
+  {
+    "id": "c5_mat_th_5",
+    "difficulty": 1,
+    "en": {
+      "question": "Which is longer: 0.5 cm or 0.9 cm?",
+      "options": ["0.5 cm", "0.9 cm", "They are equal", "Cannot be compared"],
+      "answer": "0.9 cm",
+      "reasoning": "0.9 cm represents 9 millimetres, which is more than 0.5 cm (which represents 5 millimetres)."
+    },
+    "kn": {
+      "question": "ಯಾವುದು ಉದ್ದವಾಗಿದೆ: 0.5 ಸೆಂ.ಮೀ ಅಥವಾ 0.9 ಸೆಂ.ಮೀ?",
+      "options": ["0.5 ಸೆಂ.ಮೀ", "0.9 ಸೆಂ.ಮೀ", "ಎರಡೂ ಸಮ", "ಹೋಲಿಸಲಾಗುವುದಿಲ್ಲ"],
+      "answer": "0.9 ಸೆಂ.ಮೀ",
+      "reasoning": "0.9 ಸೆಂ.ಮೀ 9 ಮಿಲಿಮೀಟರ್‌ಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು 0.5 ಸೆಂ.ಮೀ ಗಿಂತ (ಇದು 5 ಮಿಲಿಮೀಟರ್‌ಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ) ಉದ್ದವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_mat_th_6",
+    "difficulty": 3,
+    "en": {
+      "question": "The temperature in City A is 35.2°C and in City B is 35.8°C. What is the difference in temperature between the two cities?",
+      "options": ["0.6°C", "0.4°C", "1.0°C", "6.0°C"],
+      "answer": "0.6°C",
+      "reasoning": "To find the difference, subtract the smaller number from the larger one: 35.8 - 35.2 = 0.6°C."
+    },
+    "kn": {
+      "question": "ನಗರ A ದಲ್ಲಿ ತಾಪಮಾನ 35.2°C ಮತ್ತು ನಗರ B ಯಲ್ಲಿ 35.8°C ಇದೆ. ಎರಡು ನಗರಗಳ ತಾಪಮಾನದಲ್ಲಿನ ವ್ಯತ್ಯಾಸವೆಷ್ಟು?",
+      "options": ["0.6°C", "0.4°C", "1.0°C", "6.0°C"],
+      "answer": "0.6°C",
+      "reasoning": "ವ್ಯತ್ಯಾಸವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ದೊಡ್ಡ ಸಂಖ್ಯೆಯಿಂದ ಚಿಕ್ಕ ಸಂಖ್ಯೆಯನ್ನು ಕಳೆಯಿರಿ: 35.8 - 35.2 = 0.6°C."
+    }
+  },
+  {
+    "id": "c5_mat_th_7",
+    "difficulty": 2,
+    "en": {
+      "question": "A pencil measures 4 cm and 5 mm. How do you write its length purely in centimetres?",
+      "options": ["4.5 cm", "45 cm", "0.45 cm", "4.05 cm"],
+      "answer": "4.5 cm",
+      "reasoning": "5 mm is equal to 0.5 cm. So, 4 cm + 0.5 cm = 4.5 cm."
+    },
+    "kn": {
+      "question": "ಒಂದು ಪೆನ್ಸಿಲ್ 4 ಸೆಂ.ಮೀ ಮತ್ತು 5 ಮಿ.ಮೀ ಉದ್ದವಿದೆ. ಅದರ ಉದ್ದವನ್ನು ಕೇವಲ ಸೆಂಟಿಮೀಟರ್‌ಗಳಲ್ಲಿ ಹೇಗೆ ಬರೆಯುತ್ತೀರಿ?",
+      "options": ["4.5 ಸೆಂ.ಮೀ", "45 ಸೆಂ.ಮೀ", "0.45 ಸೆಂ.ಮೀ", "4.05 ಸೆಂ.ಮೀ"],
+      "answer": "4.5 ಸೆಂ.ಮೀ",
+      "reasoning": "5 ಮಿ.ಮೀ ಅಂದರೆ 0.5 ಸೆಂ.ಮೀ ಗೆ ಸಮ. ಆದ್ದರಿಂದ, 4 ಸೆಂ.ಮೀ + 0.5 ಸೆಂ.ಮೀ = 4.5 ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c5_mat_th_8",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of these decimals is the largest?",
+      "options": ["0.1", "0.09", "0.15", "0.099"],
+      "answer": "0.15",
+      "reasoning": "Compare the tenths place first: 0.1 and 0.15 both have 1 in the tenths place. Comparing the hundredths place, 0.15 has 5, while 0.10 has 0. So 0.15 is the largest."
+    },
+    "kn": {
+      "question": "ಈ ದಶಮಾಂಶಗಳಲ್ಲಿ ಯಾವುದು ಅತಿ ದೊಡ್ಡದು?",
+      "options": ["0.1", "0.09", "0.15", "0.099"],
+      "answer": "0.15",
+      "reasoning": "ಮೊದಲು ಹತ್ತನೇ ಭಾಗವನ್ನು (tenths place) ಹೋಲಿಸಿ: 0.1 ಮತ್ತು 0.15 ಎರಡರಲ್ಲೂ ಹತ್ತನೇ ಭಾಗದಲ್ಲಿ 1 ಇದೆ. ನೂರನೇ ಭಾಗವನ್ನು (hundredths place) ಹೋಲಿಸಿದರೆ, 0.15 ರಲ್ಲಿ 5 ಇದೆ, ಆದರೆ 0.10 ರಲ್ಲಿ 0 ಇದೆ. ಆದ್ದರಿಂದ 0.15 ಅತಿ ದೊಡ್ಡದು."
+    }
+  },
+  {
+    "id": "c5_mat_th_9",
+    "difficulty": 2,
+    "en": {
+      "question": "How do you write 5 Rupees and 5 paise in decimals?",
+      "options": ["₹ 5.5", "₹ 5.50", "₹ 5.05", "₹ 55"],
+      "answer": "₹ 5.05",
+      "reasoning": "5 paise is 5/100 of a Rupee, which is written as 0.05. Therefore, 5 Rupees and 5 paise is written as ₹ 5.05."
+    },
+    "kn": {
+      "question": "ದಶಮಾಂಶಗಳಲ್ಲಿ 5 ರೂಪಾಯಿ ಮತ್ತು 5 ಪೈಸೆಗಳನ್ನು ಹೇಗೆ ಬರೆಯುತ್ತೀರಿ?",
+      "options": ["₹ 5.5", "₹ 5.50", "₹ 5.05", "₹ 55"],
+      "answer": "₹ 5.05",
+      "reasoning": "5 ಪೈಸೆ ಎಂದರೆ ರೂಪಾಯಿಯ 5/100 ಭಾಗ, ಇದನ್ನು 0.05 ಎಂದು ಬರೆಯಲಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, 5 ರೂಪಾಯಿ 5 ಪೈಸೆಯನ್ನು ₹ 5.05 ಎಂದು ಬರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_mat_th_10",
+    "difficulty": 1,
+    "en": {
+      "question": "If you have a 1 meter scale, it has 100 centimetres. What fraction of a meter is 1 centimetre?",
+      "options": ["1/10", "1/100", "1/1000", "1/2"],
+      "answer": "1/100",
+      "reasoning": "Since there are exactly 100 centimetres in one meter, one single centimetre is 1 out of 100, or 1/100 of a meter."
+    },
+    "kn": {
+      "question": "ನಿಮ್ಮ ಬಳಿ 1 ಮೀಟರ್ ಮಾಪಕ (scale) ಇದ್ದರೆ, ಅದು 100 ಸೆಂಟಿಮೀಟರ್‌ಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. 1 ಸೆಂಟಿಮೀಟರ್ ಮೀಟರ್‌ನ ಯಾವ ಭಾಗ (fraction) ಆಗಿದೆ?",
+      "options": ["1/10", "1/100", "1/1000", "1/2"],
+      "answer": "1/100",
+      "reasoning": "ಒಂದು ಮೀಟರ್‌ನಲ್ಲಿ ನಿಖರವಾಗಿ 100 ಸೆಂಟಿಮೀಟರ್‌ಗಳು ಇರುವುದರಿಂದ, ಒಂದು ಸೆಂಟಿಮೀಟರ್ 100 ರಲ್ಲಿ 1 ಭಾಗ, ಅಥವಾ ಮೀಟರ್‌ನ 1/100 ಭಾಗವಾಗಿರುತ್ತದೆ."
+    }
+  }
+]
