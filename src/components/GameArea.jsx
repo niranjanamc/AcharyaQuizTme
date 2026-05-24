@@ -160,8 +160,9 @@ const GameArea = ({ level, selectedChapters, language, onCorrect, onWrong, onLev
   return (
     <div style={{ 
       flex: 1, 
-      padding: '20px', 
-      overflowY: 'auto',
+      padding: '16px',
+      paddingBottom: '0',
+      overflow: 'hidden',
       display: 'flex',
       flexDirection: 'column',
       position: 'relative'
@@ -177,11 +178,13 @@ const GameArea = ({ level, selectedChapters, language, onCorrect, onWrong, onLev
       ))}
 
       {currentQuestion && currentQuestion[language] ? (
-        <QuizComponent 
-          questionData={{ ...currentQuestion[language], type: currentQuestion.type }} 
-          language={language}
-          onAnswer={handleAnswer} 
-        />
+        <div style={{ flex: 1, overflow: 'hidden', display: 'flex', flexDirection: 'column' }}>
+          <QuizComponent 
+            questionData={{ ...currentQuestion[language], type: currentQuestion.type }} 
+            language={language}
+            onAnswer={handleAnswer} 
+          />
+        </div>
       ) : (
         <div style={{ color: 'white', textAlign: 'center' }}>Loading question data...</div>
       )}
