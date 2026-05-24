@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import QuizComponent from './QuizComponent';
 import { Loader2 } from 'lucide-react';
 
@@ -38,6 +38,15 @@ const GameArea = ({ level, selectedChapters, language, onCorrect, onWrong, onLev
   const [error, setError] = useState(null);
   const [seenQuestions, setSeenQuestions] = useState(new Set());
   const [animations, setAnimations] = useState([]);
+  const containerRef = useRef(null);
+
+  useEffect(() => {
+    // Reset scroll positions when question changes to ensure user sees the top of the new question
+    window.scrollTo(0, 0);
+    if (containerRef.current) {
+      containerRef.current.scrollTop = 0;
+    }
+  }, [currentQuestion]);
 
   useEffect(() => {
     let isMounted = true;
@@ -158,18 +167,21 @@ const GameArea = ({ level, selectedChapters, language, onCorrect, onWrong, onLev
   }
 
   return (
-    <div style={{ 
-      flex: 1,
-      padding: '16px',
-      /* Extra bottom clearance so Next button is never hidden by browser chrome */
-      paddingBottom: 'calc(16px + env(safe-area-inset-bottom, 12px))',
-      overflowY: 'auto',
-      WebkitOverflowScrolling: 'touch',
-      display: 'flex',
-      flexDirection: 'column',
-      position: 'relative',
-      minHeight: 0,
-    }}>
+    <div 
+      ref={containerRef}
+      style={{ 
+        flex: 1,
+        padding: '16px',
+        /* Extra bottom clearance so Next button is never hidden by browser chrome */
+        paddingBottom: 'calc(16px + env(safe-area-inset-bottom, 12px))',
+        overflowY: 'auto',
+        WebkitOverflowScrolling: 'touch',
+        display: 'flex',
+        flexDirection: 'column',
+        position: 'relative',
+        minHeight: 0,
+      }}
+    >
       {animations.map(anim => (
         <FloatingAnimation 
           key={anim.id} 
