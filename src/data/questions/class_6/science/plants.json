@@ -982,7 +982,7 @@
     "type": "multiple",
     "difficulty": 2,
     "en": {
-      "question": "Which of the following plants are examples of shrubs?",
+      "question": "Identify plants that have woody stems but are shorter than trees (shrubs):",
       "options": [
         "Rose",
         "Lemon",
@@ -996,7 +996,7 @@
       "reasoning": "Rose and lemon plants have hard stems branching near the base, making them shrubs. Wheat is a herb and pumpkin is a creeper."
     },
     "kn": {
-      "question": "ಈ ಕೆಳಗಿನ ಸಸ್ಯಗಳಲ್ಲಿ ಯಾವುವು ಪೊದೆಗಳಿಗೆ (shrubs) ಉದಾಹರಣೆಗಳಾಗಿವೆ?",
+      "question": "ಮರಗಳಿಗಿಂತ ಕಡಿಮೆ ಎತ್ತರದ ಮರ ಕಾಂಡಗಳನ್ನು ಹೊಂದಿರುವ ಗಿಡಗಳನ್ನು (ಪೊದೆಗಿಡ) ಗುರುತಿಸಿ:",
       "options": [
         "ಗುಲಾಬಿ",
         "ನಿಂಬೆ",

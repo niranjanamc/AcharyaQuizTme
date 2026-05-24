@@ -1,0 +1,624 @@
+[
+  {
+    "id": "c5_sci_health_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which internal organ pumps blood to all parts of the human body?",
+      "options": ["Lungs", "Brain", "Heart", "Stomach"],
+      "answer": "Heart",
+      "reasoning": "The heart is a muscular organ that pumps oxygenated and nutrient-rich blood throughout the body via blood vessels."
+    },
+    "kn": {
+      "question": "ಮಾನವ ದೇಹದ ಎಲ್ಲಾ ಭಾಗಗಳಿಗೆ ರಕ್ತವನ್ನು ಪಂಪ್ ಮಾಡುವ ಆಂತರಿಕ ಅಂಗ ಯಾವುದು?",
+      "options": ["ಶ್ವಾಸಕೋಶಗಳು", "ಮೆದುಳು", "ಹೃದಯ", "ಜಠರ"],
+      "answer": "ಹೃದಯ",
+      "reasoning": "ಹೃದಯವು ಒಂದು ಸ್ನಾಯು ಅಂಗವಾಗಿದ್ದು, ಇದು ರಕ್ತನಾಳಗಳ ಮೂಲಕ ದೇಹದಾದ್ಯಂತ ಆಮ್ಲಜನಕ ಮತ್ತು ಪೋಷಕಾಂಶಯುಕ್ತ ರಕ್ತವನ್ನು ಪಂಪ್ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "How many sense organs do humans have to perceive the world around them?",
+      "options": ["Four", "Five", "Six", "Seven"],
+      "answer": "Five",
+      "reasoning": "Humans have five sense organs: eyes (sight), ears (hearing), nose (smell), tongue (taste), and skin (touch)."
+    },
+    "kn": {
+      "question": "ಮಾನವರು ತಮ್ಮ ಸುತ್ತಲಿನ ಪ್ರಪಂಚವನ್ನು ಗ್ರಹಿಸಲು ಎಷ್ಟು ಜ್ಞಾನೇಂದ್ರಿಯಗಳನ್ನು ಹೊಂದಿದ್ದಾರೆ?",
+      "options": ["ನಾಲ್ಕು", "ಐದು", "ಆರು", "ಏಳು"],
+      "answer": "ಐದು",
+      "reasoning": "ಮಾನವರು ಐದು ಜ್ಞಾನೇಂದ್ರಿಯಗಳನ್ನು ಹೊಂದಿದ್ದಾರೆ: ಕಣ್ಣುಗಳು (ದೃಷ್ಟಿ), ಕಿವಿಗಳು (ಕೇಳುವಿಕೆ), ಮೂಗು (ವಾಸನೆ), ನಾಲಿಗೆ (ರುಚಿ) ಮತ್ತು ಚರ್ಮ (ಸ್ಪರ್ಶ)."
+    }
+  },
+  {
+    "id": "c5_sci_health_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which pair of organs helps us in breathing and gas exchange?",
+      "options": ["Kidneys", "Lungs", "Intestines", "Livers"],
+      "answer": "Lungs",
+      "reasoning": "Lungs are the primary organs of the respiratory system that take in oxygen and release carbon dioxide."
+    },
+    "kn": {
+      "question": "ಯಾವ ಜೋಡಿ ಆಂತರಿಕ ಅಂಗಗಳು ನಮಗೆ ಉಸಿರಾಡಲು ಮತ್ತು ಅನಿಲ ವಿನಿಮಯಕ್ಕೆ ಸಹಾಯ ಮಾಡುತ್ತವೆ?",
+      "options": ["ಮೂತ್ರಪಿಂಡಗಳು", "ಶ್ವಾಸಕೋಶಗಳು", "ಕರುಳುಗಳು", "ಯಕೃತ್ತುಗಳು"],
+      "answer": "ಶ್ವಾಸಕೋಶಗಳು",
+      "reasoning": "ಶ್ವಾಸಕೋಶಗಳು ಉಸಿರಾಟದ ವ್ಯವಸ್ಥೆಯ ಪ್ರಮುಖ ಅಂಗಗಳಾಗಿದ್ದು, ಇವು ಆಮ್ಲಜನಕವನ್ನು ಒಳಗೆ ತೆಗೆದುಕೊಂಡು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಹೊರಹಾಕುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which nutrient is known as the primary 'energy-giving food' for our daily activities?",
+      "options": ["Proteins", "Vitamins", "Carbohydrates", "Minerals"],
+      "answer": "Carbohydrates",
+      "reasoning": "Carbohydrates (found in rice, wheat, potatoes) are broken down into glucose, providing immediate energy to the body."
+    },
+    "kn": {
+      "question": "ನಮ್ಮ ದೈನಂದಿನ ಚಟುವಟಿಕೆಗಳಿಗೆ ಪ್ರಾಥಮಿಕವಾಗಿ 'ಶಕ್ತಿ ನೀಡುವ ಆಹಾರ' ಎಂದು ಯಾವ ಪೋಷಕಾಂಶವನ್ನು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": ["ಪ್ರೋಟೀನ್‌ಗಳು", "ಜೀವಸತ್ವಗಳು", "ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳು (ಪಿಷ್ಟ)", "ಖನಿಜಗಳು"],
+      "answer": "ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳು (ಪಿಷ್ಟ)",
+      "reasoning": "ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳು (ಅಕ್ಕಿ, ಗೋಧಿ, ಆಲೂಗಡ್ಡೆಯಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ) ಗ್ಲುಕೋಸ್ ಆಗಿ ವಿಭಜನೆಗೊಂಡು ದೇಹಕ್ಕೆ ತಕ್ಷಣದ ಶಕ್ತಿಯನ್ನು ಒದಗಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which nutrient is essential for the growth, repair of damaged cells, and body-building?",
+      "options": ["Carbohydrates", "Fats", "Proteins", "Water"],
+      "answer": "Proteins",
+      "reasoning": "Proteins are the building blocks of life, needed for growth, muscle building, and repairing damaged tissues."
+    },
+    "kn": {
+      "question": "ದೇಹದ ಬೆಳವಣಿಗೆಗೆ, ಹಾನಿಗೊಳಗಾದ ಜೀವಕೋಶಗಳ ದುರಸ್ತಿಗೆ ಮತ್ತು ದೇಹದಾರ್ಢ್ಯತೆಗೆ ಯಾವ ಪೋಷಕಾಂಶ ಅಗತ್ಯವಾಗಿದೆ?",
+      "options": ["ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳು", "ಕೊಬ್ಬು", "ಪ್ರೋಟೀನ್‌ಗಳು (ಸಾರಜನಕಜನ್ಯಗಳು)", "ನೀರು"],
+      "answer": "ಪ್ರೋಟೀನ್‌ಗಳು (ಸಾರಜನಕಜನ್ಯಗಳು)",
+      "reasoning": "ಪ್ರೋಟೀನ್‌ಗಳು ಜೀವಕೋಶಗಳ ನಿರ್ಮಾಣಕ್ಕೆ ಅಗತ್ಯವಾಗಿದ್ದು, ಇವು ಸ್ನಾಯುಗಳ ಬೆಳವಣಿಗೆ ಹಾಗೂ ಹಾನಿಗೊಳಗಾದ ಅಂಗಾಂಶಗಳ ದುರಸ್ತಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "A deficiency of Vitamin A in the diet leads to which disease?",
+      "options": ["Scurvy", "Rickets", "Night blindness", "Beriberi"],
+      "answer": "Night blindness",
+      "reasoning": "Vitamin A is crucial for good eyesight. Its deficiency causes night blindness, where a person cannot see clearly in dim light."
+    },
+    "kn": {
+      "question": "ಆಹಾರದಲ್ಲಿ ಜೀವಸತ್ವ 'ಎ' (Vitamin A) ಕೊರತೆಯಿಂದ ಯಾವ ರೋಗ ಬರುತ್ತದೆ?",
+      "options": ["ಸ್ಕರ್ವಿ", "ರಿಕೇಟ್ಸ್", "ಇರುಳು ಕುರುಡುತನ", "ಬೆರಿಬೆರಿ"],
+      "answer": "ಇರುಳು ಕುರುಡುತನ",
+      "reasoning": "ಜೀವಸತ್ವ 'ಎ' ಉತ್ತಮ ದೃಷ್ಟಿಗೆ ಅತ್ಯಗತ್ಯ. ಇದರ ಕೊರತೆಯಿಂದ ಇರುಳು ಕುರುಡುತನ ಉಂಟಾಗುತ್ತದೆ, ಇದರಿಂದ ಮಸುಕು ಬೆಳಕಿನಲ್ಲಿ ವ್ಯಕ್ತಿಗೆ ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣಿಸುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_sci_health_007",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which organ acts as the control center of the nervous system and the entire human body?",
+      "options": ["Heart", "Lungs", "Brain", "Kidney"],
+      "answer": "Brain",
+      "reasoning": "The brain receives information from sense organs, processes it, and directs the body to respond, making it the control center."
+    },
+    "kn": {
+      "question": "ನರಮಂಡಲ ಮತ್ತು ಇಡೀ ಮಾನವ ದೇಹದ ನಿಯಂತ್ರಣ ಕೇಂದ್ರವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಅಂಗ ಯಾವುದು?",
+      "options": ["ಹೃದಯ", "ಶ್ವಾಸಕೋಶಗಳು", "ಮೆದುಳು", "ಮೂತ್ರಪಿಂಡ"],
+      "answer": "ಮೆದುಳು",
+      "reasoning": "ಮೆದುಳು ಜ್ಞಾನೇಂದ್ರಿಯಗಳಿಂದ ಮಾಹಿತಿಯನ್ನು ಪಡೆದು, ಅದನ್ನು ಸಂಸ್ಕರಿಸಿ ದೇಹಕ್ಕೆ ಪ್ರತಿಕ್ರಿಯಿಸಲು ನಿರ್ದೇಶಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ ಇದು ನಿಯಂತ್ರಣ ಕೇಂದ್ರವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_008",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which disease is transmitted to humans by the bite of an infected female Anopheles mosquito?",
+      "options": ["Dengue", "Malaria", "Cholera", "Tuberculosis"],
+      "answer": "Malaria",
+      "reasoning": "Malaria is caused by a protozoan parasite called Plasmodium, which is spread through the bite of female Anopheles mosquitoes."
+    },
+    "kn": {
+      "question": "ಸೋಂಕಿತ ಹೆಣ್ಣು ಅನಾಫಿಲಿಸ್ ಸೊಳ್ಳೆಯ ಕಡಿತದಿಂದ ಮಾನವರಿಗೆ ಹರಡುವ ರೋಗ ಯಾವುದು?",
+      "options": ["ಡೆಂಗ್ಯೂ", "ಮಲೇರಿಯಾ", "ಕಾಲರಾ", "ಕ್ಷಯರೋಗ (ಟಿಬಿ)"],
+      "answer": "ಮಲೇರಿಯಾ",
+      "reasoning": "ಮಲೇರಿಯಾ ರೋಗವು ಪ್ಲಾಸ್ಮೋಡಿಯಂ ಎಂಬ ಪರಾವಲಂಬಿ ಜೀವಿಯಿಂದ ಬರುತ್ತದೆ, ಇದು ಹೆಣ್ಣು ಅನಾಫಿಲಿಸ್ ಸೊಳ್ಳೆಯ ಕಡಿತದ ಮೂಲಕ ಹರಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which organ system is responsible for removing liquid waste products (urine) from the human body?",
+      "options": ["Digestive system", "Excretory system", "Circulatory system", "Nervous system"],
+      "answer": "Excretory system",
+      "reasoning": "The excretory system, primarily consisting of the kidneys, filters waste from blood and removes it in the form of urine."
+    },
+    "kn": {
+      "question": "ಮಾನವ ದೇಹದಿಂದ ದ್ರವ ರೂಪದ ತ್ಯಾಜ್ಯವನ್ನು (ಮೂತ್ರ) ಹೊರಹಾಕಲು ಯಾವ ಅಂಗವ್ಯೂಹ ಕಾರಣವಾಗಿದೆ?",
+      "options": ["ಜೀರ್ಣಾಂಗ ವ್ಯೂಹ", "ವಿಸರ್ಜನಾಂಗ ವ್ಯೂಹ", "ರಕ್ತಪರಿಚಲನಾ ವ್ಯೂಹ", "ನರಮಂಡಲ ವ್ಯೂಹ"],
+      "answer": "ವಿಸರ್ಜನಾಂಗ ವ್ಯೂಹ",
+      "reasoning": "ಮೂತ್ರಪಿಂಡಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ವಿಸರ್ಜನಾಂಗ ವ್ಯೂಹವು ರಕ್ತದಿಂದ ತ್ಯಾಜ್ಯವನ್ನು ಶೋಧಿಸಿ ಮೂತ್ರದ ರೂಪದಲ್ಲಿ ದೇಹದಿಂದ ಹೊರಹಾಕುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which group of nutrients does not provide energy but protects our body against infections and diseases?",
+      "options": ["Carbohydrates and Fats", "Vitamins and Minerals", "Proteins and Water", "Starch and Sugar"],
+      "answer": "Vitamins and Minerals",
+      "reasoning": "Vitamins and minerals are protective nutrients that help build immunity and defend the body against various diseases."
+    },
+    "kn": {
+      "question": "ಯಾವ ಪೋಷಕಾಂಶಗಳ ಗುಂಪು ಶಕ್ತಿಯನ್ನು ನೀಡದಿದ್ದರೂ, ವಿವಿಧ ರೋಗಗಳು ಮತ್ತು ಸೋಂಕುಗಳ ವಿರುದ್ಧ ಹೋರಾಡಿ ದೇಹವನ್ನು ರಕ್ಷಿಸುತ್ತದೆ?",
+      "options": ["ಕಾರ್ಬೋಹೈಡ್ರೇಟ್ಸ್ ಮತ್ತು ಕೊಬ್ಬು", "ಜೀವಸತ್ವಗಳು ಮತ್ತು ಖನಿಜಗಳು", "ಪ್ರೋಟೀನ್ಸ್ ಮತ್ತು ನೀರು", "ಪಿಷ್ಟ ಮತ್ತು ಸಕ್ಕರೆ"],
+      "answer": "ಜೀವಸತ್ವಗಳು ಮತ್ತು ಖನಿಜಗಳು",
+      "reasoning": "ಜೀವಸತ್ವಗಳು ಮತ್ತು ಖನಿಜಗಳು ರಕ್ಷಣಾತ್ಮಕ ಪೋಷಕಾಂಶಗಳಾಗಿದ್ದು, ಇವು ರೋಗನಿರೋಧಕ ಶಕ್ತಿಯನ್ನು ಹೆಚ್ಚಿಸಿ ದೇಹಕ್ಕೆ ರೋಗಗಳು ಬರದಂತೆ ತಡೆಯುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Lack of iron in the daily diet causes a deficiency disease known as:",
+      "options": ["Goitre", "Scurvy", "Anaemia", "Rickets"],
+      "answer": "Anaemia",
+      "reasoning": "Iron is needed to make hemoglobin, which carries oxygen in blood. Its deficiency results in anaemia, causing tiredness and pale skin."
+    },
+    "kn": {
+      "question": "ದೈನಂದಿನ ಆಹಾರದಲ್ಲಿ ಕಬ್ಬಿಣದ ಅಂಶದ ಕೊರತೆಯಿಂದ ಬರುವ ಕೊರತೆ ರೋಗ ಯಾವುದು?",
+      "options": ["ಗಾಯ್ಟರ್ (ಗಳಗಂಡ)", "ಸ್ಕರ್ವಿ", "ರಕ್ತಹೀನತೆ (ಅನಿಮಿಯಾ)", "ರಿಕೇಟ್ಸ್"],
+      "answer": "ರಕ್ತಹೀನತೆ (ಅನಿಮಿಯಾ)",
+      "reasoning": "ರಕ್ತದಲ್ಲಿ ಆಮ್ಲಜನಕವನ್ನು ಸಾಗಿಸುವ ಹಿಮೋಗ್ಲೋಬಿನ್ ತಯಾರಿಕೆಗೆ ಕಬ್ಬಿಣದ ಅಗತ್ಯವಿದೆ. ಇದರ ಕೊರತೆಯಿಂದ ರಕ್ತಹೀನತೆ ಉಂಟಾಗಿ ಸುಸ್ತು ಮತ್ತು ಆಯಾಸವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which digestive organ secretes acid and enzymes to break down food into a liquid paste?",
+      "options": ["Large intestine", "Windpipe", "Stomach", "Kidney"],
+      "answer": "Stomach",
+      "reasoning": "The stomach produces hydrochloric acid and digestive enzymes that churn and break food down into a semi-liquid paste."
+    },
+    "kn": {
+      "question": "ಆಹಾರವನ್ನು ದ್ರವ ರೂಪದ ಪೇಸ್ಟ್ ಆಗಿ ವಿಭಜಿಸಲು ಆಮ್ಲ ಮತ್ತು ಕಿಣ್ವಗಳನ್ನು ಸ್ರವಿಸುವ ಜೀರ್ಣಾಂಗ ಯಾವುದು?",
+      "options": ["ದೊಡ್ಡ ಕರುಳು", "ಶ್ವಾಸನಾಳ", "ಜಠರ (ಹೊಟ್ಟೆ)", "ಮೂತ್ರಪಿಂಡ"],
+      "answer": "ಜಠರ (ಹೊಟ್ಟೆ)",
+      "reasoning": "ಜಠರವು ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ ಮತ್ತು ಜೀರ್ಣಕಾರಿ ಕಿಣ್ವಗಳನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ, ಇದು ಆಹಾರವನ್ನು ಮಥಿಸಿ ಅರೆ-ದ್ರವ ಪೇಸ್ಟ್ ಆಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which disease is caused by the deficiency of Vitamin C, characterized by bleeding gums and delayed wound healing?",
+      "options": ["Rickets", "Beriberi", "Scurvy", "Night blindness"],
+      "answer": "Scurvy",
+      "reasoning": "Scurvy is caused by Vitamin C deficiency, which is found in citrus fruits like oranges and lemons."
+    },
+    "kn": {
+      "question": "ಮಸಡಿನಲ್ಲಿ ರಕ್ತ ಸೋರುವುದು ಮತ್ತು ಗಾಯಗಳು ಬೇಗನೆ ಒಣಗದಿರುವ ಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿರುವ, ಜೀವಸತ್ವ ಸಿ (Vitamin C) ಕೊರತೆಯಿಂದ ಬರುವ ರೋಗ ಯಾವುದು?",
+      "options": ["ರಿಕೇಟ್ಸ್", "ಬೆರಿಬೆರಿ", "ಸ್ಕರ್ವಿ", "ಇರುಳು ಕುರುಡುತನ"],
+      "answer": "ಸ್ಕರ್ವಿ",
+      "reasoning": "ಕಿತ್ತಳೆ ಮತ್ತು ನಿಂಬೆಯಂತಹ ಸಿಟ್ರಸ್ ಹಣ್ಣುಗಳಲ್ಲಿ ಕಂಡುಬರುವ ಜೀವಸತ್ವ 'ಸಿ' ಕೊರತೆಯಿಂದ ಸ್ಕರ್ವಿ ರೋಗವು ಬರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "A diet that contains all essential nutrients, roughage, and water in the correct proportion is called a:",
+      "options": ["Rich diet", "Fatty diet", "Balanced diet", "Protein diet"],
+      "answer": "Balanced diet",
+      "reasoning": "A balanced diet provides all necessary nutrients, dietary fibers (roughage), and water in proper amounts for healthy body function."
+    },
+    "kn": {
+      "question": "ಎಲ್ಲಾ ಅಗತ್ಯ ಪೋಷಕಾಂಶಗಳು, ನಾರು ಪದಾರ್ಥಗಳು ಮತ್ತು ನೀರನ್ನು ಸರಿಯಾದ ಪ್ರಮಾಣದಲ್ಲಿ ಒಳಗೊಂಡಿರುವ ಆಹಾರವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಶ್ರೀಮಂತ ಆಹಾರ", "ಕೊಬ್ಬಿನ ಆಹಾರ", "ಸಮತೋಲನ ಆಹಾರ", "ಪ್ರೋಟೀನ್ ಆಹಾರ"],
+      "answer": "ಸಮತೋಲನ ಆಹಾರ",
+      "reasoning": "ಸಮತೋಲನ ಆಹಾರವು ದೇಹದ ಆರೋಗ್ಯಕರ ಕಾರ್ಯನಿರ್ವಹಣೆಗೆ ಅಗತ್ಯವಾದ ಎಲ್ಲಾ ಪೋಷಕಾಂಶಗಳು, ನಾರಿನಂಶ ಮತ್ತು ನೀರನ್ನು ಸರಿಯಾದ ಪ್ರಮಾಣದಲ್ಲಿ ಒದಗಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the primary function of Red Blood Cells (RBCs) in the human circulatory system?",
+      "options": [
+        "To fight against germs and diseases",
+        "To carry oxygen from lungs to all cells of the body",
+        "To help in the clotting of blood at wounds",
+        "To filter nitrogenous waste from the body"
+      ],
+      "answer": "To carry oxygen from lungs to all cells of the body",
+      "reasoning": "RBCs contain hemoglobin, a protein that binds to oxygen molecules and transports them from lungs to all cells."
+    },
+    "kn": {
+      "question": "ಮಾನವ ರಕ್ತಪರಿಚಲನಾ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಕೆಂಪು ರಕ್ತಕಣಗಳ (RBC) ಪ್ರಮುಖ ಕಾರ್ಯವೇನು?",
+      "options": [
+        "ರೋಗಾಣುಗಳು ಮತ್ತು ರೋಗಗಳ ವಿರುದ್ಧ ಹೋರಾಡುವುದು",
+        "ಶ್ವಾಸಕೋಶದಿಂದ ದೇಹದ ಎಲ್ಲಾ ಜೀವಕೋಶಗಳಿಗೆ ಆಮ್ಲಜನಕವನ್ನು ಸಾಗಿಸುವುದು",
+        "ಗಾಯಗಳಾದಾಗ ರಕ್ತ ಹೆಪ್ಪುಗಟ್ಟಲು ಸಹಾಯ ಮಾಡುವುದು",
+        "ದೇಹದಿಂದ ಸಾರಜನಕಯುಕ್ತ ತ್ಯಾಜ್ಯವನ್ನು ಶೋಧಿಸುವುದು"
+      ],
+      "answer": "ಶ್ವಾಸಕೋಶದಿಂದ ದೇಹದ ಎಲ್ಲಾ ಜೀವಕೋಶಗಳಿಗೆ ಆಮ್ಲಜನಕವನ್ನು ಸಾಗಿಸುವುದು",
+      "reasoning": "ಕೆಂಪು ರಕ್ತಕಣಗಳಲ್ಲಿ ಹಿಮೋಗ್ಲೋಬಿನ್ ಎಂಬ ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ, ಇದು ಆಮ್ಲಜನಕದೊಂದಿಗೆ ಬಂಧಿತವಾಗಿ ಅದನ್ನು ಶ್ವಾಸಕೋಶದಿಂದ ಎಲ್ಲಾ ಜೀವಕೋಶಗಳಿಗೆ ಸಾಗಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following is NOT a function of the skeletal system?",
+      "options": [
+        "Providing shape and support to the body",
+        "Protecting internal organs like the brain and lungs",
+        "Pumping blood to various parts of the body",
+        "Producing blood cells in the bone marrow"
+      ],
+      "answer": "Pumping blood to various parts of the body",
+      "reasoning": "Pumping blood is the function of the heart (circulatory system), not the bones (skeletal system)."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಅಸ್ಥಿಪಂಜರ ವ್ಯವಸ್ಥೆಯ (skeletal system) ಕಾರ್ಯವಲ್ಲ?",
+      "options": [
+        "ದೇಹಕ್ಕೆ ಆಕಾರ ಮತ್ತು ಆಧಾರವನ್ನು ನೀಡುವುದು",
+        "ಮೆದುಳು ಮತ್ತು ಶ್ವಾಸಕೋಶದಂತಹ ಆಂತರಿಕ ಅಂಗಗಳನ್ನು ರಕ್ಷಿಸುವುದು",
+        "ದೇಹದ ವಿವಿಧ ಭಾಗಗಳಿಗೆ ರಕ್ತವನ್ನು ಪಂಪ್ ಮಾಡುವುದು",
+        "ಮೂಳೆಯ ಮಜ್ಜೆಯಲ್ಲಿ (bone marrow) ರಕ್ತಕಣಗಳನ್ನು ಉತ್ಪಾದಿಸುವುದು"
+      ],
+      "answer": "ದೇಹದ ವಿವಿಧ ಭಾಗಗಳಿಗೆ ರಕ್ತವನ್ನು ಪಂಪ್ ಮಾಡುವುದು",
+      "reasoning": "ರಕ್ತವನ್ನು ಪಂಪ್ ಮಾಡುವುದು ಹೃದಯದ (ರಕ್ತಪರಿಚಲನಾ ವ್ಯವಸ್ಥೆ) ಕೆಲಸವಾಗಿದೆ, ಮೂಳೆಗಳ (ಅಸ್ಥಿಪಂಜರ ವ್ಯವಸ್ಥೆ) ಕೆಲಸವಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_sci_health_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How do vaccines protect our body against dangerous infectious diseases?",
+      "options": [
+        "They kill bacteria in our digestive system instantly",
+        "They stimulate the body to produce antibodies and build immunity",
+        "They provide immediate carbohydrates for energy",
+        "They clean the kidneys and purify the blood"
+      ],
+      "answer": "They stimulate the body to produce antibodies and build immunity",
+      "reasoning": "Vaccines introduce weakened or dead germs into the body, training the immune system to produce antibodies to fight future infections."
+    },
+    "kn": {
+      "question": "ಲಸಿಕೆಗಳು ಅಪಾಯಕಾರಿ ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ವಿರುದ್ಧ ನಮ್ಮ ದೇಹವನ್ನು ಹೇಗೆ ರಕ್ಷಿಸುತ್ತವೆ?",
+      "options": [
+        "ಅವು ಜೀರ್ಣಾಂಗ ವ್ಯವಸ್ಥೆಯಲ್ಲಿನ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳನ್ನು ತಕ್ಷಣವೇ ಕೊಲ್ಲುತ್ತವೆ",
+        "ಅವು ದೇಹದಲ್ಲಿ ರೋಗನಿರೋಧಕ ಶಕ್ತಿಯನ್ನು ನೀಡುವ ಪ್ರತಿಕಾಯಗಳನ್ನು (antibodies) ಉತ್ಪತ್ತಿ ಮಾಡಲು ಪ್ರೇರೇಪಿಸುತ್ತವೆ",
+        "ಅವು ತಕ್ಷಣದ ಶಕ್ತಿಗಾಗಿ ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳನ್ನು ಒದಗಿಸುತ್ತವೆ",
+        "ಅವು ಮೂತ್ರಪಿಂಡಗಳನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಿ ರಕ್ತವನ್ನು ಶುದ್ಧೀಕರಿಸುತ್ತವೆ"
+      ],
+      "answer": "ಅವು ದೇಹದಲ್ಲಿ ರೋಗನಿರೋಧಕ ಶಕ್ತಿಯನ್ನು ನೀಡುವ ಪ್ರತಿಕಾಯಗಳನ್ನು (antibodies) ಉತ್ಪತ್ತಿ ಮಾಡಲು ಪ್ರೇರೇಪಿಸುತ್ತವೆ",
+      "reasoning": "ಲಸಿಕೆಗಳು ದುರ್ಬಲಗೊಂಡ ಅಥವಾ ಸತ್ತ ರೋಗಾಣುಗಳನ್ನು ದೇಹಕ್ಕೆ ಪರಿಚಯಿಸುತ್ತವೆ, ಇದು ಭವಿಷ್ಯದ ಸೋಂಕುಗಳ ವಿರುದ್ಧ ಹೋರಾಡಲು ಪ್ರತಿಕಾಯಗಳನ್ನು ತಯಾರಿಸಲು ರೋಗನಿರೋಧಕ ವ್ಯವಸ್ಥೆಗೆ ತರಬೇತಿ ನೀಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_018",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which mineral, found abundantly in dairy products, is essential for building and maintaining strong bones and teeth?",
+      "options": ["Iron", "Calcium", "Iodine", "Sodium"],
+      "answer": "Calcium",
+      "reasoning": "Calcium is the primary mineral constituent of bones and teeth, making them hard and strong."
+    },
+    "kn": {
+      "question": "ಡೈರಿ ಉತ್ಪನ್ನಗಳಲ್ಲಿ (ಹಾಲು ಇತ್ಯಾದಿ) ಹೇರಳವಾಗಿ ಕಂಡುಬರುವ ಯಾವ ಖನಿಜವು ಬಲವಾದ ಮೂಳೆಗಳು ಮತ್ತು ಹಲ್ಲುಗಳ ನಿರ್ಮಾಣಕ್ಕೆ ಅತ್ಯಗತ್ಯ?",
+      "options": ["ಕಬ್ಬಿಣ", "ಕ್ಯಾಲ್ಸಿಯಂ", "ಅಯೋಡಿನ್", "ಸೋಡಿಯಂ"],
+      "answer": "ಕ್ಯಾಲ್ಸಿಯಂ",
+      "reasoning": "ಕ್ಯಾಲ್ಸಿಯಂ ಮೂಳೆಗಳು ಮತ್ತು ಹಲ್ಲುಗಳ ಪ್ರಮುಖ ಖನಿಜ ಘಟಕಾಂಶವಾಗಿದ್ದು, ಅವುಗಳನ್ನು ಗಟ್ಟಿಯಾಗಿ ಮತ್ತು ಬಲವಾಗಿ ಇಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_019",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the primary role of roughage (dietary fiber) in our digestive process?",
+      "options": [
+        "It provides proteins to the body",
+        "It helps in easy movement of food through the digestive tract and prevents constipation",
+        "It dissolves fats and converts them into water",
+        "It increases the digestion speed by ten times"
+      ],
+      "answer": "It helps in easy movement of food through the digestive tract and prevents constipation",
+      "reasoning": "Roughage is indigestible plant fiber that adds bulk to feces, helping them pass through the digestive system smoothly."
+    },
+    "kn": {
+      "question": "ನಮ್ಮ ಜೀರ್ಣಕ್ರಿಯೆಯಲ್ಲಿ ನಾರಿನಂಶದ (roughage) ಪ್ರಮುಖ ಪಾತ್ರವೇನು?",
+      "options": [
+        "ಇದು ದೇಹಕ್ಕೆ ಪ್ರೋಟೀನ್‌ಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ",
+        "ಇದು ಜೀರ್ಣನಾಳದ ಮೂಲಕ ಆಹಾರವು ಸುಲಭವಾಗಿ ಚಲಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ ಮತ್ತು ಮಲಬದ್ಧತೆಯನ್ನು ತಡೆಯುತ್ತದೆ",
+        "ಇದು ಕೊಬ್ಬನ್ನು ಕರಗಿಸಿ ನೀರಾಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ",
+        "ಇದು ಜೀರ್ಣಕ್ರಿಯೆಯ ವೇಗವನ್ನು ಹತ್ತು ಪಟ್ಟು ಹೆಚ್ಚಿಸುತ್ತದೆ"
+      ],
+      "answer": "ಇದು ಜೀರ್ಣನಾಳದ ಮೂಲಕ ಆಹಾರವು ಸುಲಭವಾಗಿ ಚಲಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ ಮತ್ತು ಮಲಬದ್ಧತೆಯನ್ನು ತಡೆಯುತ್ತದೆ",
+      "reasoning": "ನಾರಿನಂಶವು ಜೀರ್ಣವಾಗದ ಸಸ್ಯ ನಾರಾಗಿದ್ದು, ಇದು ಮಲಕ್ಕೆ ಗಾತ್ರವನ್ನು ಒದಗಿಸಿ ಜೀರ್ಣಾಂಗ ವ್ಯವಸ್ಥೆಯ ಮೂಲಕ ಸುಲಭವಾಗಿ ಹೊರಹೋಗಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_020",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which specific part of the human brain controls voluntary actions like walking, talking, and learning?",
+      "options": ["Cerebrum", "Cerebellum", "Medulla Oblongata", "Spinal Cord"],
+      "answer": "Cerebrum",
+      "reasoning": "The cerebrum is the largest part of the brain and controls voluntary activities, memory, speech, and learning."
+    },
+    "kn": {
+      "question": "ಮಾನವ ಮೆದುಳಿನ ಯಾವ ನಿರ್ದಿಷ್ಟ ಭಾಗವು ನಡೆಯುವುದು, ಮಾತನಾಡುವುದು ಮತ್ತು ಕಲಿಯುವಿಕೆಯಂತಹ ಸ್ವಯಂಪ್ರೇರಿತ ಕ್ರಿಯೆಗಳನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ?",
+      "options": ["ಮಹಾಮಸ್ತಿಷ್ಕ (Cerebrum)", "ಅನುಮಸ್ತಿಷ್ಕ (Cerebellum)", "ಮಜ್ಜಾವಿಲಾಸ (Medulla)", "ಬೆನ್ನುಹುರಿ"],
+      "answer": "ಮಹಾಮಸ್ತಿಷ್ಕ (Cerebrum)",
+      "reasoning": "ಮಹಾಮಸ್ತಿಷ್ಕವು ಮೆದುಳಿನ ಅತ್ಯಂತ ದೊಡ್ಡ ಭಾಗವಾಗಿದ್ದು, ಇದು ಸ್ವಯಂಪ್ರೇರಿತ ಕ್ರಿಯೆಗಳು, ಸ್ಮರಣ ಶಕ್ತಿ, ಮಾತು ಮತ್ತು ಕಲಿಕೆಯನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_021",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following are part of the five human sense organs?",
+      "options": ["Skin", "Brain", "Tongue", "Heart"],
+      "answer": ["Skin", "Tongue"],
+      "reasoning": "Skin (touch) and tongue (taste) are sense organs. Brain and heart are internal organs but not sense organs."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಮಾನವನ ಐದು ಜ್ಞಾನೇಂದ್ರಿಯಗಳ ಭಾಗವಾಗಿವೆ?",
+      "options": ["ಚರ್ಮ", "ಮೆದುಳು", "ನಾಲಿಗೆ", "ಹೃದಯ"],
+      "answer": ["ಚರ್ಮ", "ನಾಲಿಗೆ"],
+      "reasoning": "ಚರ್ಮ (ಸ್ಪರ್ಶ) ಮತ್ತು ನಾಲಿಗೆ (ರುಚಿ) ಜ್ಞಾನೇಂದ್ರಿಯಗಳಾಗಿವೆ. ಮೆದುಳು ಮತ್ತು ಹೃದಯವು ಆಂತರಿಕ ಅಂಗಗಳಾಗಿದ್ದರೂ ಜ್ಞಾನೇಂದ್ರಿಯಗಳಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_sci_health_022",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following are communicable diseases (diseases that can spread from person to person)?",
+      "options": ["Common Cold", "Tuberculosis", "Diabetes", "Scurvy"],
+      "answer": ["Common Cold", "Tuberculosis"],
+      "reasoning": "Common cold (caused by viruses) and tuberculosis (caused by bacteria) can spread through air or contact. Diabetes and scurvy are non-communicable."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳಾಗಿವೆ (ಒಬ್ಬ ವ್ಯಕ್ತಿಯಿಂದ ಇನ್ನೊಬ್ಬರಿಗೆ ಹರಡುವ ರೋಗಗಳು)?",
+      "options": ["ನೆಗಡಿ", "ಕ್ಷಯರೋಗ (ಟಿಬಿ)", "ಮಧುಮೇಹ (ಡಯಾಬಿಟಿಸ್)", "ಸ್ಕರ್ವಿ"],
+      "answer": ["ನೆಗಡಿ", "ಕ್ಷಯರೋಗ (ಟಿಬಿ)"],
+      "reasoning": "ನೆಗಡಿ (ವೈರಸ್‌ನಿಂದ) ಮತ್ತು ಕ್ಷಯರೋಗ (ಬ್ಯಾಕ್ಟೀರಿಯಾದಿಂದ) ಗಾಳಿ ಅಥವಾ ಸಂಪರ್ಕದ ಮೂಲಕ ಹರಡಬಹುದು. ಮಧುಮೇಹ ಮತ್ತು ಸ್ಕರ್ವಿ ಸಾಂಕ್ರಾಮಿಕವಲ್ಲದ ರೋಗಗಳು."
+    }
+  },
+  {
+    "id": "c5_sci_health_023",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these organs play a major role in the human digestive system?",
+      "options": ["Stomach", "Small Intestine", "Kidneys", "Lungs"],
+      "answer": ["Stomach", "Small Intestine"],
+      "reasoning": "The stomach churns food and the small intestine completes digestion and absorbs nutrients. Kidneys belong to excretory system and lungs to respiratory system."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಯಾವ ಅಂಗಗಳು ಮಾನವನ ಜೀರ್ಣಾಂಗ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತವೆ?",
+      "options": ["ಜಠರ (ಹೊಟ್ಟೆ)", "ಸಣ್ಣ ಕರುಳು", "ಮೂತ್ರಪಿಂಡಗಳು", "ಶ್ವಾಸಕೋಶಗಳು"],
+      "answer": ["ಜಠರ (ಹೊಟ್ಟೆ)", "ಸಣ್ಣ ಕರುಳು"],
+      "reasoning": "ಜಠರ ಆಹಾರವನ್ನು ಮಥಿಸುತ್ತದೆ ಮತ್ತು ಸಣ್ಣ ಕರುಳು ಜೀರ್ಣಕ್ರಿಯೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ ಪೋಷಕಾಂಶಗಳನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ. ಮೂತ್ರಪಿಂಡಗಳು ವಿಸರ್ಜನಾಂಗ ಮತ್ತು ಶ್ವಾಸಕೋಶಗಳು ಉಸಿರಾಟ ವ್ಯವಸ್ಥೆಗೆ ಸೇರಿವೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_024",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following statements are correct about deficiency diseases?",
+      "options": [
+        "They are caused due to the lack of nutrients in the diet over a long period",
+        "They can easily spread from one person to another through physical touch",
+        "They can be cured by eating a balanced diet rich in the missing nutrients",
+        "They are caused by microorganisms like viruses and bacteria"
+      ],
+      "answer": [
+        "They are caused due to the lack of nutrients in the diet over a long period",
+        "They can be cured by eating a balanced diet rich in the missing nutrients"
+      ],
+      "reasoning": "Deficiency diseases are non-communicable. They result from nutrient deficits and can be cured by proper balanced nutrition."
+    },
+    "kn": {
+      "question": "ಕೊರತೆ ರೋಗಗಳ ಬಗ್ಗೆ (deficiency diseases) ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ?",
+      "options": [
+        "ಇವು ದೀರ್ಘಕಾಲದವರೆಗೆ ಆಹಾರದಲ್ಲಿ ಪೋಷಕಾಂಶಗಳ ಕೊರತೆಯಿಂದ ಉಂಟಾಗುತ್ತವೆ",
+        "ಇವು ದೈಹಿಕ ಸ್ಪರ್ಶದಿಂದ ಒಬ್ಬ ವ್ಯಕ್ತಿಯಿಂದ ಇನ್ನೊಬ್ಬರಿಗೆ ಸುಲಭವಾಗಿ ಹರಡುತ್ತವೆ",
+        "ಕೊರತೆಯಿರುವ ಪೋಷಕಾಂಶಗಳನ್ನು ಹೊಂದಿರುವ ಸಮತೋಲಿತ ಆಹಾರವನ್ನು ಸೇವಿಸುವುದರಿಂದ ಇವುಗಳನ್ನು ಗುಣಪಡಿಸಬಹುದು",
+        "ಇವು ವೈರಸ್ ಮತ್ತು ಬ್ಯಾಕ್ಟೀರಿಯಾದಂತಹ ಸೂಕ್ಷ್ಮಾಣುಜೀವಿಗಳಿಂದ ಬರುತ್ತವೆ"
+      ],
+      "answer": [
+        "ಇವು ದೀರ್ಘಕಾಲದವರೆಗೆ ಆಹಾರದಲ್ಲಿ ಪೋಷಕಾಂಶಗಳ ಕೊರತೆಯಿಂದ ಉಂಟಾಗುತ್ತವೆ",
+        "ಕೊರತೆಯಿರುವ ಪೋಷಕಾಂಶಗಳನ್ನು ಹೊಂದಿರುವ ಸಮತೋಲಿತ ಆಹಾರವನ್ನು ಸೇವಿಸುವುದರಿಂದ ಇವುಗಳನ್ನು ಗುಣಪಡಿಸಬಹುದು"
+      ],
+      "reasoning": "ಕೊರತೆ ರೋಗಗಳು ಸಾಂಕ್ರಾಮಿಕವಲ್ಲ. ಇವು ಪೋಷಕಾಂಶಗಳ ಕೊರತೆಯಿಂದ ಬರುತ್ತವೆ ಮತ್ತು ಸರಿಯಾದ ಸಮತೋಲನ ಆಹಾರ ಸೇವಿಸುವುದರಿಂದ ನಿವಾರಣೆಯಾಗುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_025",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Identify the practices that help prevent the spread of infectious (communicable) diseases:",
+      "options": [
+        "Drinking boiled and filtered water",
+        "Letting dirty water stagnate around the house",
+        "Washing hands with soap and water before meals",
+        "Sharing personal towels and clothes with an infected person"
+      ],
+      "answer": [
+        "Drinking boiled and filtered water",
+        "Washing hands with soap and water before meals"
+      ],
+      "reasoning": "Boiling water kills pathogens, and washing hands removes germs, preventing disease transmission. Stagnant water and sharing towels promote germ spread."
+    },
+    "kn": {
+      "question": "ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳು ಹರಡುವುದನ್ನು ತಡೆಯಲು ಸಹಾಯ ಮಾಡುವ ಅಭ್ಯಾಸಗಳನ್ನು ಗುರುತಿಸಿ:",
+      "options": [
+        "ಕಾಯಿಸಿ ಆರಿಸಿದ ಮತ್ತು ಶೋಧಿಸಿದ ನೀರನ್ನು ಕುಡಿಯುವುದು",
+        "ಮನೆಯ ಸುತ್ತಲೂ ಕೊಳಕು ನೀರು ನಿಲ್ಲಲು ಬಿಡುವುದು",
+        "ಊಟಕ್ಕೆ ಮುಂಚಿತವಾಗಿ ಸೋಪು ಮತ್ತು ನೀರಿನಿಂದ ಕೈಗಳನ್ನು ತೊಳೆಯುವುದು",
+        "ಸೋಂಕಿತ ವ್ಯಕ್ತಿಯ ವೈಯಕ್ತಿಕ ಟವೆಲ್ ಮತ್ತು ಬಟ್ಟೆಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದು"
+      ],
+      "answer": [
+        "ಕಾಯಿಸಿ ಆರಿಸಿದ ಮತ್ತು ಶೋಧಿಸಿದ ನೀರನ್ನು ಕುಡಿಯುವುದು",
+        "ಊಟಕ್ಕೆ ಮುಂಚಿತವಾಗಿ ಸೋಪು ಮತ್ತು ನೀರಿನಿಂದ ಕೈಗಳನ್ನು ತೊಳೆಯುವುದು"
+      ],
+      "reasoning": "ನೀರನ್ನು ಕಾಯಿಸುವುದರಿಂದ ರೋಗಾಣುಗಳು ಸಾಯುತ್ತವೆ ಮತ್ತು ಕೈ ತೊಳೆಯುವುದರಿಂದ ರೋಗಾಣುಗಳು ನಿವಾರಣೆಯಾಗಿ ರೋಗ ಹರಡುವುದು ತಡೆಯಲ್ಪಡುತ್ತದೆ. ನಿಂತ ನೀರು ಮತ್ತು ಟವೆಲ್ ಹಂಚಿಕೊಳ್ಳುವುದು ರೋಗ ಹರಡಲು ಕಾರಣವಾಗುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_026",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the human sense organs with their primary sensory functions:",
+      "pairs": [
+        {"left": "Eyes", "right": "Visualizing colors and shapes"},
+        {"left": "Ears", "right": "Hearing sounds"},
+        {"left": "Tongue", "right": "Tasting sweet and sour food"},
+        {"left": "Skin", "right": "Feeling hot and cold objects"}
+      ],
+      "reasoning": "Eyes see shapes, ears hear sounds, tongue tastes food, and skin senses temperature."
+    },
+    "kn": {
+      "question": "ಮಾನವ ಜ್ಞಾನೇಂದ್ರಿಯಗಳನ್ನು ಅವುಗಳ ಪ್ರಮುಖ ಸಂವೇದನಾ ಕಾರ್ಯಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಕಣ್ಣುಗಳು", "right": "ಬಣ್ಣ ಮತ್ತು ಆಕಾರಗಳನ್ನು ನೋಡುವುದು"},
+        {"left": "ಕಿವಿಗಳು", "right": "ಶಬ್ದಗಳನ್ನು ಕೇಳುವುದು"},
+        {"left": "ನಾಲಿಗೆ", "right": "ಸಿಹಿ ಮತ್ತು ಹುಳಿ ಆಹಾರವನ್ನು ಸವಿಯುವುದು"},
+        {"left": "ಚರ್ಮ", "right": "ಬಿಸಿ ಮತ್ತು ತಣ್ಣನೆಯ ವಸ್ತುಗಳನ್ನು ಗ್ರಹಿಸುವುದು"}
+      ],
+      "reasoning": "ಕಣ್ಣುಗಳು ನೋಡಲು, ಕಿವಿಗಳು ಕೇಳಲು, ನಾಲಿಗೆ ರುಚಿ ನೋಡಲು ಮತ್ತು ಚರ್ಮವು ತಾಪಮಾನವನ್ನು ಗ್ರಹಿಸಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_027",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the vitamins with the deficiency diseases caused by their lack:",
+      "pairs": [
+        {"left": "Vitamin A", "right": "Night blindness"},
+        {"left": "Vitamin B1", "right": "Beriberi"},
+        {"left": "Vitamin C", "right": "Scurvy"},
+        {"left": "Vitamin D", "right": "Rickets"}
+      ],
+      "reasoning": "Lack of Vit A causes night blindness, Vit B1 causes beriberi, Vit C causes scurvy, and Vit D causes rickets."
+    },
+    "kn": {
+      "question": "ಜೀವಸತ್ವಗಳನ್ನು ಅವುಗಳ ಕೊರತೆಯಿಂದ ಬರುವ ರೋಗಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಜೀವಸತ್ವ ಎ", "right": "ಇರುಳು ಕುರುಡುತನ"},
+        {"left": "ಜೀವಸತ್ವ ಬಿ೧", "right": "ಬೆರಿಬೆರಿ"},
+        {"left": "ಜೀವಸತ್ವ ಸಿ", "right": "ಸ್ಕರ್ವಿ"},
+        {"left": "ಜೀವಸತ್ವ ಡಿ", "right": "ರಿಕೇಟ್ಸ್"}
+      ],
+      "reasoning": "ಜೀವಸತ್ವ ಎ ಇರುಳು ಕುರುಡುತನಕ್ಕೂ, ಬಿ೧ ಬೆರಿಬೆರಿಗೂ, ಸಿ ಸ್ಕರ್ವಿಗೂ ಮತ್ತು ಡಿ ರಿಕೆಟ್ಸ್ ಕಾಯಿಲೆಗೂ ಕಾರಣವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_028",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the internal organs with the body systems they belong to:",
+      "pairs": [
+        {"left": "Heart", "right": "Circulatory system"},
+        {"left": "Stomach", "right": "Digestive system"},
+        {"left": "Kidneys", "right": "Excretory system"},
+        {"left": "Spinal Cord", "right": "Nervous system"}
+      ],
+      "reasoning": "Heart belongs to circulatory, stomach to digestive, kidneys to excretory, and spinal cord to nervous system."
+    },
+    "kn": {
+      "question": "ಆಂತರಿಕ ಅಂಗಗಳನ್ನು ಅವುಗಳು ಸೇರಿರುವ ಅಂಗವ್ಯೂಹಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಹೃದಯ", "right": "ರಕ್ತಪರಿಚಲನಾ ವ್ಯೂಹ"},
+        {"left": "ಜಠರ (ಹೊಟ್ಟೆ)", "right": "ಜೀರ್ಣಾಂಗ ವ್ಯೂಹ"},
+        {"left": "ಮೂತ್ರಪಿಂಡಗಳು", "right": "ವಿಸರ್ಜನಾಂಗ ವ್ಯೂಹ"},
+        {"left": "ಬೆನ್ನುಹುರಿ", "right": "ನರಮಂಡಲ ವ್ಯೂಹ"}
+      ],
+      "reasoning": "ಹೃದಯ ರಕ್ತಪರಿಚಲನೆಗೂ, ಜಠರ ಜೀರ್ಣಕ್ರಿಯೆಗೂ, ಮೂತ್ರಪಿಂಡ ವಿಸರ್ಜನೆಗೂ ಮತ್ತು ಬೆನ್ನುಹುರಿ ನರಮಂಡಲಕ್ಕೂ ಸೇರಿವೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_029",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the nutrients with their best food sources:",
+      "pairs": [
+        {"left": "Carbohydrates", "right": "Rice, Potato, and Wheat"},
+        {"left": "Proteins", "right": "Milk, Pulses, and Fish"},
+        {"left": "Fats", "right": "Butter, Ghee, and Nuts"},
+        {"left": "Iron", "right": "Spinach, Apples, and Liver"}
+      ],
+      "reasoning": "Rice/potatoes are rich in carbs, pulses/fish are rich in protein, butter/nuts are rich in fats, and spinach/apples provide iron."
+    },
+    "kn": {
+      "question": "ಪೋಷಕಾಂಶಗಳನ್ನು ಅವುಗಳು ಹೆಚ್ಚಾಗಿ ದೊರೆಯುವ ಆಹಾರ ಮೂಲಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳು", "right": "ಅಕ್ಕಿ, ಆಲೂಗಡ್ಡೆ ಮತ್ತು ಗೋಧಿ"},
+        {"left": "ಪ್ರೋಟೀನ್‌ಗಳು", "right": "ಹಾಲು, ಬೇಳೆಕಾಲುಗಳು ಮತ್ತು ಮೀನು"},
+        {"left": "ಕೊಬ್ಬು", "right": "ಬೆಣ್ಣೆ, ತುಪ್ಪ ಮತ್ತು ಬೀಜಗಳು"},
+        {"left": "ಕಬ್ಬಿಣದ ಅಂಶ", "right": "ಪಾಲಕ್ ಸೊಪ್ಪು, ಸೇಬು ಮತ್ತು ಯಕೃತ್ತು"}
+      ],
+      "reasoning": "ಅಕ್ಕಿ/ಆಲೂಗಡ್ಡೆಯಲ್ಲಿ ಕಾರ್ಬೋಹೈಡ್ರೇಟ್ಸ್, ಬೇಳೆಕಾಳುಗಳಲ್ಲಿ ಪ್ರೋಟೀನ್, ಬೆಣ್ಣೆಯಲ್ಲಿ ಕೊಬ್ಬು ಮತ್ತು ಸೊಪ್ಪಿನಲ್ಲಿ ಕಬ್ಬಿಣದ ಅಂಶ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_health_030",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the nerve functions with their correct anatomical terms:",
+      "pairs": [
+        {"left": "Sensory nerves", "right": "Carry messages to the brain"},
+        {"left": "Motor nerves", "right": "Carry commands from the brain"},
+        {"left": "Reflex action", "right": "Sudden automatic response"},
+        {"left": "Cerebellum", "right": "Controls body balance"}
+      ],
+      "reasoning": "Sensory nerves carry sensory messages, motor nerves carry movement commands, reflex action is automatic, and cerebellum coordinates balance."
+    },
+    "kn": {
+      "question": "ನರಮಂಡಲದ ಕಾರ್ಯಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಅಂಗರಚನಾ ಪದಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಸಂವೇದಿ ನರಗಳು", "right": "ಮೆದುಳಿಗೆ ಸಂದೇಶಗಳನ್ನು ಕೊಂಡೊಯ್ಯುತ್ತವೆ"},
+        {"left": "ಚಾಲಕ ನರಗಳು", "right": "ಮೆದುಳಿನಿಂದ ಆದೇಶಗಳನ್ನು ತರುತ್ತವೆ"},
+        {"left": "ಪ್ರತಿಕ್ರಿಯೆ ಕ್ರಿಯೆ (Reflex)", "right": "ತಕ್ಷಣದ ಸ್ವಯಂಚಾಲಿತ ಪ್ರತಿಕ್ರಿಯೆ"},
+        {"left": "ಅನುಮಸ್ತಿಷ್ಕ (Cerebellum)", "right": "ದೇಹದ ಸಮತೋಲನವನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ"}
+      ],
+      "reasoning": "ಸಂವೇದಿ ನರಗಳು ಮೆದುಳಿಗೆ ಸಂದೇಶ ನೀಡುತ್ತವೆ, ಚಾಲಕ ನರಗಳು ಮೆದುಳಿನಿಂದ ಸಂದೇಶಗಳನ್ನು ತರುತ್ತವೆ, ಪ್ರತಿಕ್ರಿಯೆ ಕ್ರಿಯೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿರುತ್ತದೆ ಮತ್ತು ಅನುಮಸ್ತಿಷ್ಕವು ದೇಹದ ಸಮತೋಲನ ಕಾಯ್ದುಕೊಳ್ಳುತ್ತದೆ."
+    }
+  }
+]

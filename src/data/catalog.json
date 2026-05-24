@@ -39,28 +39,55 @@
           "id": "science",
           "name": "Science (Legacy)",
           "chapters": [
-            { "id": "fundamentals", "name": "Fundamentals" }
+            { "id": "fundamentals", "name": "Fundamentals" },
+            { "id": "force_energy", "name": "Force, Work and Energy" },
+            { "id": "properties_matter", "name": "Properties of Matter" },
+            { "id": "human_health", "name": "Human Organs and Health" },
+            { "id": "adaptations", "name": "Animal and Plant Adaptations" },
+            { "id": "simple_machines", "name": "Simple Machines" }
           ]
         },
         {
           "id": "history",
           "name": "History (Legacy)",
           "chapters": [
-            { "id": "timeline", "name": "Historical Timelines" }
+            { "id": "timeline", "name": "Historical Timelines" },
+            { "id": "early_humans", "name": "Early Humans & Stone Age" },
+            { "id": "indus_valley", "name": "The Indus Valley Civilization" },
+            { "id": "ancient_empires", "name": "Ancient Empires of India" },
+            { "id": "freedom_movement", "name": "Freedom Movement of India" },
+            { "id": "monuments", "name": "Historic Forts & Monuments" }
           ]
         },
         {
           "id": "english",
           "name": "English",
           "chapters": [
-            { "id": "grammar", "name": "Grammar (Past Tense)" }
+            { "id": "grammar", "name": "Grammar (Past Tense)" },
+            { "id": "icecream_waste", "name": "Ice-cream Man & Wonderful Waste!" },
+            { "id": "teamwork_flying", "name": "Teamwork & Flying Together" },
+            { "id": "shadow_crusoe", "name": "My Shadow & Robinson Crusoe" },
+            { "id": "crying_brother", "name": "Crying & My Elder Brother" },
+            { "id": "lazy_rip", "name": "Rip Van Winkle & The Lazy Frog" },
+            { "id": "discussion_barber", "name": "Class Discussion & Talkative Barber" },
+            { "id": "gulliver_travels", "name": "Gulliver's Travels & Topsy-turvy Land" },
+            { "id": "friend_bully", "name": "Nobody's Friend & The Little Bully" },
+            { "id": "world_people", "name": "Around the World & Sing a Song of People" },
+            { "id": "ningthou_malu", "name": "Who Will be Ningthou? & Malu Bhalu" }
           ]
         },
         {
           "id": "kannada",
           "name": "Kannada",
           "chapters": [
-            { "id": "vocabulary", "name": "Vocabulary" }
+            { "id": "vocabulary", "name": "Vocabulary" },
+            { "id": "ottige_baluva", "name": "ಒಟ್ಟಿಗೆ ಬಾಳುವ ಆನಂದ (Joy of Living Together)" },
+            { "id": "nadiya_alalu", "name": "ನದಿಯ ಅಳಲು (Lament of the River)" },
+            { "id": "swatantryada_hanate", "name": "ಸ್ವಾತಂತ್ರ್ಯದ ಹಣತೆ (Lamp of Freedom)" },
+            { "id": "dheera_senani", "name": "ಧೀರ ಸೇನಾನಿ ಮತ್ತು ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ" },
+            { "id": "parisara_samrakshane", "name": "ಪರಿಸರ ಸಂರಕ್ಷಣೆ (Environmental Care)" },
+            { "id": "vachanagalu", "name": "ಶರಣರ ವಚನಗಳು (Sayings of Saints)" },
+            { "id": "kannada_nudi", "name": "ಕನ್ನಡ ನುಡಿ (The Kannada Language)" }
           ]
         }
       ]

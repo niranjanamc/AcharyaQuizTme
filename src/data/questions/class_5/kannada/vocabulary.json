@@ -355,7 +355,7 @@
     "type": "single",
     "difficulty": 1,
     "en": {
-      "question": "What is the Kannada word for 'Horse'?",
+      "question": "Select the Kannada word for 'Nose':",
       "options": [
         "ಒಂಟೆ",
         "ಆನೆ",
@@ -366,7 +366,7 @@
       "reasoning": "The correct answer is ಕುದುರೆ."
     },
     "kn": {
-      "question": "'Horse' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "question": "'ಮೂಗು' ಎಂಬ ಅರ್ಥ ಬರುವ ಕನ್ನಡ ಪದ ಆಯ್ಕೆ ಮಾಡಿ:",
       "options": [
         "ಒಂಟೆ",
         "ಆನೆ",
@@ -436,7 +436,7 @@
     "type": "single",
     "difficulty": 1,
     "en": {
-      "question": "What is the Kannada word for 'Blue'?",
+      "question": "Which Kannada word means 'Leg' (lower limb)?",
       "options": [
         "ಕಪ್ಪು",
         "ನೀಲಿ",
@@ -447,7 +447,7 @@
       "reasoning": "The correct answer is ನೀಲಿ."
     },
     "kn": {
-      "question": "'Blue' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "question": "ಕನ್ನಡದಲ್ಲಿ ಕಾಲು (ಕೆಳ ಅಂಗ) ಎಂಬ ಅರ್ಥ ಬರುವ ಪದ ಯಾವುದು?",
       "options": [
         "ಕಪ್ಪು",
         "ನೀಲಿ",
@@ -598,7 +598,7 @@
     "type": "single",
     "difficulty": 1,
     "en": {
-      "question": "What is the Kannada word for 'Ear'?",
+      "question": "Which Kannada word represents the organ used for hearing?",
       "options": [
         "ಕಿವಿ",
         "ತಲೆ",
@@ -609,7 +609,7 @@
       "reasoning": "The correct answer is ಕಿವಿ."
     },
     "kn": {
-      "question": "'Ear' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "question": "ಕೇಳುವ ಅಂಗಕ್ಕೆ ಕನ್ನಡದಲ್ಲಿ ಯಾವ ಪದ ಬಳಸುತ್ತೇವೆ?",
       "options": [
         "ಕಿವಿ",
         "ತಲೆ",
@@ -652,7 +652,7 @@
     "type": "single",
     "difficulty": 1,
     "en": {
-      "question": "What is the Kannada word for 'Mouth'?",
+      "question": "Which Kannada word means 'Mother'?",
       "options": [
         "ತಲೆ",
         "ಮೂಗು",
@@ -663,7 +663,7 @@
       "reasoning": "The correct answer is ಬಾಯಿ."
     },
     "kn": {
-      "question": "'Mouth' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "question": "ಕನ್ನಡದಲ್ಲಿ 'ತಾಯಿ' ಅಥವಾ 'ಅಮ್ಮ' ಅರ್ಥ ಬರುವ ಪದ ಯಾವುದು?",
       "options": [
         "ತಲೆ",
         "ಮೂಗು",
@@ -679,7 +679,7 @@
     "type": "single",
     "difficulty": 1,
     "en": {
-      "question": "What is the Kannada word for 'Hand'?",
+      "question": "Which Kannada word represents the upper limb of the body?",
       "options": [
         "ಕಿವಿ",
         "ಕಾಲು",
@@ -690,7 +690,7 @@
       "reasoning": "The correct answer is ಕೈ."
     },
     "kn": {
-      "question": "'Hand' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "question": "ದೇಹದ ಮೇಲ್ಭಾಗದ ಅಂಗಕ್ಕೆ ಕನ್ನಡದಲ್ಲಿ ಯಾವ ಪದ ಬಳಸುತ್ತೇವೆ?",
       "options": [
         "ಕಿವಿ",
         "ಕಾಲು",
@@ -733,7 +733,7 @@
     "type": "single",
     "difficulty": 1,
     "en": {
-      "question": "What is the Kannada word for 'Head'?",
+      "question": "Which Kannada word means 'Head' (the top part of the body)?",
       "options": [
         "ಕಣ್ಣು",
         "ಕೂದಲು",
@@ -744,7 +744,7 @@
       "reasoning": "The correct answer is ತಲೆ."
     },
     "kn": {
-      "question": "'Head' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "question": "ದೇಹದ ಮೇಲ್ಭಾಗ (ತಲೆ) ಗೆ ಕನ್ನಡದಲ್ಲಿ ಯಾವ ಪದ ಬಳಸುತ್ತೇವೆ?",
       "options": [
         "ಕಣ್ಣು",
         "ಕೂದಲು",
@@ -787,7 +787,7 @@
     "type": "single",
     "difficulty": 1,
     "en": {
-      "question": "What is the Kannada word for 'Mother'?",
+      "question": "Which Kannada word refers to a male sibling?",
       "options": [
         "ಅಜ್ಜಿ",
         "ತಂದೆ",
@@ -798,7 +798,7 @@
       "reasoning": "The correct answer is ತಾಯಿ."
     },
     "kn": {
-      "question": "'Mother' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "question": "ಗಂಡು ಒಡಹುಟ್ಟಿದವನಿಗೆ ಕನ್ನಡದಲ್ಲಿ ಯಾವ ಪದ ಬಳಸುತ್ತೇವೆ?",
       "options": [
         "ಅಜ್ಜಿ",
         "ತಂದೆ",

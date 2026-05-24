@@ -2026,7 +2026,7 @@
     "type": "match",
     "difficulty": 3,
     "en": {
-      "question": "Match the data collection scenario with the most suitable representation.",
+      "question": "Match each real-world situation with the most appropriate data representation:",
       "pairs": [
         {
           "left": "Comparing population of 5 countries in millions",
@@ -2058,7 +2058,7 @@
       "reasoning": "Bar graphs are great for large comparisons. Tally marks are best for live counting. Pictographs are highly visual."
     },
     "kn": {
-      "question": "ದತ್ತಾಂಶ ಸಂಗ್ರಹಣೆ ಸನ್ನಿವೇಶವನ್ನು ಹೆಚ್ಚು ಸೂಕ್ತವಾದ ಪ್ರಾತಿನಿಧ್ಯದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "question": "ಪ್ರತಿಯೊಂದು ನೈಜ-ಜೀವನ ಸನ್ನಿವೇಶವನ್ನು ಅತ್ಯಂತ ಸೂಕ್ತ ದತ್ತಾಂಶ ನಿರೂಪಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
       "pairs": [
         {
           "left": "5 ದೇಶಗಳ ಜನಸಂಖ್ಯೆಯನ್ನು ದಶಲಕ್ಷಗಳಲ್ಲಿ ಹೋಲಿಸುವುದು",

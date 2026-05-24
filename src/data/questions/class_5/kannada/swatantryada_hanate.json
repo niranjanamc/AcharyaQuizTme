@@ -1,0 +1,789 @@
+[
+  {
+    "id": "c5_kan_unit3_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the meaning of the word 'ಹಣತೆ' (Hanate) in Kannada?",
+      "options": [
+        "Gold ring",
+        "Clay lamp",
+        "Wooden box",
+        "Paper flag"
+      ],
+      "answer": "Clay lamp",
+      "reasoning": "A 'Hanate' is a traditional small clay oil lamp lit during festivals and special occasions."
+    },
+    "kn": {
+      "question": "'ಹಣತೆ' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಚಿನ್ನದ ಉಂಗುರ",
+        "ಮಣ್ಣಿನ ದೀಪ",
+        "ಮರದ ಪೆಟ್ಟಿಗೆ",
+        "ಕಾಗದದ ಧ್ವಜ"
+      ],
+      "answer": "ಮಣ್ಣಿನ ದೀಪ",
+      "reasoning": "'ಹಣತೆ' ಎಂದರೆ ಮಣ್ಣಿನಿಂದ ಮಾಡಿದ ಸಣ್ಣ ಎಣ್ಣೆಯ ದೀಪವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "On which day does India celebrate Independence Day?",
+      "options": [
+        "January 26",
+        "August 15",
+        "October 2",
+        "November 1"
+      ],
+      "answer": "August 15",
+      "reasoning": "India achieved independence from British rule on August 15, 1947, celebrated annually as Independence Day."
+    },
+    "kn": {
+      "question": "ಭಾರತವು ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯನ್ನು ಯಾವ ದಿನ ಆಚರಿಸುತ್ತದೆ?",
+      "options": [
+        "ಜನವರಿ 26",
+        "ಆಗಸ್ಟ್ 15",
+        "ಅಕ್ಟೋಬರ್ 2",
+        "ನವೆಂಬರ್ 1"
+      ],
+      "answer": "ಆಗಸ್ಟ್ 15",
+      "reasoning": "ಭಾರತಕ್ಕೆ ಆಗಸ್ಟ್ 15, 1947 ರಂದು ಬ್ರಿಟಿಷರಿಂದ ಸ್ವಾತಂತ್ರ್ಯ ದೊರೆತ ನೆನಪಿಗಾಗಿ ಪ್ರತಿವರ್ಷ ಸ್ವಾತಂತ್ರ್ಯ ದಿನವನ್ನು ಆಚರಿಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who is revered as the Father of the Nation in India?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Subhash Chandra Bose",
+        "Mahatma Gandhi",
+        "Bhagat Singh"
+      ],
+      "answer": "Mahatma Gandhi",
+      "reasoning": "Mahatma Gandhi is known as the Father of the Nation ('Rashtrapita') due to his leadership in the non-violent struggle for independence."
+    },
+    "kn": {
+      "question": "ಭಾರತದ 'ರಾಷ್ಟ್ರಪಿತ' ಎಂದು ಯಾರನ್ನು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಜವಾಹರಲಾಲ್ ನೆಹರು",
+        "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್",
+        "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+        "ಭಗತ್ ಸಿಂಗ್"
+      ],
+      "answer": "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+      "reasoning": "ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮದ ನೇತೃತ್ವ ವಹಿಸಿ ಅಹಿಂಸಾತ್ಮಕ ಹೋರಾಟ ನಡೆಸಿದ ಮಹಾತ್ಮ ಗಾಂಧೀಜಿಯವರನ್ನು ರಾಷ್ಟ್ರಪಿತ ಎಂದು ಕರೆಯುತ್ತೇವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the color of the middle band of the Indian National Flag?",
+      "options": [
+        "Saffron",
+        "Green",
+        "White",
+        "Blue"
+      ],
+      "answer": "White",
+      "reasoning": "The Indian National Flag is a tricolor; the top is saffron, the middle is white (with Ashoka Chakra), and the bottom is green."
+    },
+    "kn": {
+      "question": "ಭಾರತದ ರಾಷ್ಟ್ರಧ್ವಜದ ಮಧ್ಯದ ಪಟ್ಟಿಯ ಬಣ್ಣ ಯಾವುದು?",
+      "options": [
+        "ಕೇಸರಿ",
+        "ಹಸಿರು",
+        "ಬಿಳಿ",
+        "ನೀಲಿ"
+      ],
+      "answer": "ಬಿಳಿ",
+      "reasoning": "ನಮ್ಮ ತ್ರಿವರ್ಣ ಧ್ವಜದ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಕೇಸರಿ, ಮಧ್ಯದಲ್ಲಿ ಬಿಳಿ ಮತ್ತು ಕೆಳಭಾಗದಲ್ಲಿ ಹಸಿರು ಬಣ್ಣ ಇರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the opposite of the word 'ಸ್ವಾತಂತ್ರ್ಯ' (Swatantrya - Freedom) in Kannada?",
+      "options": [
+        "Paratantrya",
+        "Mukti",
+        "Rajya",
+        "Desha"
+      ],
+      "answer": "Paratantrya",
+      "reasoning": "The antonym of 'Swatantrya' (independence/freedom) is 'Paratantrya' (slavery/dependence)."
+    },
+    "kn": {
+      "question": "'ಸ್ವಾತಂತ್ರ್ಯ' ಪದದ ವಿರುದ್ಧ ಪದ ಯಾವುದು?",
+      "options": [
+        "ಪಾರತಂತ್ರ್ಯ",
+        "ಮುಕ್ತಿ",
+        "ರಾಜ್ಯ",
+        "ದೇಶ"
+      ],
+      "answer": "ಪಾರತಂತ್ರ್ಯ",
+      "reasoning": "'ಸ್ವಾತಂತ್ರ್ಯ' (ಸ್ವಂತ ಆಳ್ವಿಕೆ) ಪದದ ವಿರುದ್ಧ ಅರ್ಥ ಕೊಡುವ ಪದ 'ಪಾರತಂತ್ರ್ಯ' (ಪರರ ಆಳ್ವಿಕೆ/ಗುಲಾಮಗಿರಿ)."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Identify another Kannada word that means 'Flag'.",
+      "options": [
+        "Giri",
+        "Bavuta",
+        "Jala",
+        "Kaadu"
+      ],
+      "answer": "Bavuta",
+      "reasoning": "'Bavuta' (ಬಾವುಟ) is the common Kannada synonym for 'Dhwaja' (flag)."
+    },
+    "kn": {
+      "question": "'ಧ್ವಜ' ಎಂಬ ಪದಕ್ಕೆ ಸಮಾನವಾದ ಮತ್ತೊಂದು ಕನ್ನಡ ಪದ ಯಾವುದು?",
+      "options": [
+        "ಗಿರಿ",
+        "ಬಾವುಟ",
+        "ಜಲ",
+        "ಕಾಡು"
+      ],
+      "answer": "ಬಾವುಟ",
+      "reasoning": "'ಧ್ವಜ' ಮತ್ತು 'ಬಾವುಟ' ಎಂಬವು ಒಂದೇ ಅರ್ಥವನ್ನು (Flag) ನೀಡುವ ಕನ್ನಡ ಪದಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_007",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who wrote the National Anthem of India, 'Jana Gana Mana'?",
+      "options": [
+        "Bankim Chandra Chatterjee",
+        "Rabindranath Tagore",
+        "Kuvempu",
+        "Sarojini Naidu"
+      ],
+      "answer": "Rabindranath Tagore",
+      "reasoning": "Gurudev Rabindranath Tagore composed the national anthem 'Jana Gana Mana' originally in Bengali."
+    },
+    "kn": {
+      "question": "ಭಾರತದ ರಾಷ್ಟ್ರಗೀತೆ 'ಜನ ಗಣ ಮನ' ಬರೆದವರು ಯಾರು?",
+      "options": [
+        "ಬಂಕಿಮ ಚಂದ್ರ ಚಟರ್ಜಿ",
+        "ರವೀಂದ್ರನಾಥ ಠಾಗೋರ್",
+        "ಕುವೆಂಪು",
+        "ಸರೋಜಿನಿ ನಾಯ್ಡು"
+      ],
+      "answer": "ರವೀಂದ್ರನಾಥ ಠಾಗೋರ್",
+      "reasoning": "ವಿಶ್ವಕವಿ ರವೀಂದ್ರನಾಥ ಠಾಗೋರ್ ಅವರು ನಮ್ಮ ದೇಶದ ರಾಷ್ಟ್ರಗೀತೆಯಾದ 'ಜನ ಗಣ ಮನ' ಗೀತೆಯನ್ನು ರಚಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_008",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What does the saffron color (Kesari) in the Indian national flag symbolize?",
+      "options": [
+        "Peace and Truth",
+        "Growth and Prosperity",
+        "Courage and Sacrifice",
+        "Unity and Justice"
+      ],
+      "answer": "Courage and Sacrifice",
+      "reasoning": "Saffron represents the bravery, courage, and selflessness of the freedom fighters who sacrificed for the country."
+    },
+    "kn": {
+      "question": "ನಮ್ಮ ರಾಷ್ಟ್ರಧ್ವಜದಲ್ಲಿರುವ ಕೇಸರಿ ಬಣ್ಣವು ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": [
+        "ಶಾಂತಿ ಮತ್ತು ಸತ್ಯ",
+        "ಬೆಳವಣಿಗೆ ಮತ್ತು ಹಸಿರು",
+        "ಧೈರ್ಯ ಮತ್ತು ತ್ಯಾಗ",
+        "ಒಗ್ಗಟ್ಟು ಮತ್ತು ನ್ಯಾಯ"
+      ],
+      "answer": "ಧೈರ್ಯ ಮತ್ತು ತ್ಯಾಗ",
+      "reasoning": "ರಾಷ್ಟ್ರಧ್ವಜದ ಕೇಸರಿ ಬಣ್ಣವು ದೇಶಕ್ಕಾಗಿ ಪ್ರಾಣಕೊಟ್ಟ ವೀರರ ಶೌರ್ಯ, ಧೈರ್ಯ ಮತ್ತು ತ್ಯಾಗವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What does the metaphor 'Hanate' (lamp) represent in the lesson/poem?",
+      "options": [
+        "A regular household object",
+        "The light and preservation of freedom",
+        "Warmth during winter",
+        "A source of electrical power"
+      ],
+      "answer": "The light and preservation of freedom",
+      "reasoning": "The 'Hanate' of freedom symbolizes the continuous flame of freedom that must be protected and kept burning by all citizens."
+    },
+    "kn": {
+      "question": "ಕವಿತೆಯ ಸಂದರ್ಭದಲ್ಲಿ ಸ್ವಾತಂತ್ರ್ಯದ 'ಹಣತೆ' ಏನನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ?",
+      "options": [
+        "ಸಾಮಾನ್ಯ ಗೃಹೋಪಯೋಗಿ ವಸ್ತು",
+        "ಸ್ವಾತಂತ್ರ್ಯದ ಬೆಳಕು ಮತ್ತು ಅದನ್ನು ಕಾಪಾಡುವುದು",
+        "ಚಳಿಗಾಲದ ಬೆಚ್ಚಗಿನ ವಾತಾವರಣ",
+        "ವಿದ್ಯುತ್ ಶಕ್ತಿಯ ಮೂಲ"
+      ],
+      "answer": "ಸ್ವಾತಂತ್ರ್ಯದ ಬೆಳಕು ಮತ್ತು ಅದನ್ನು ಕಾಪಾಡುವುದು",
+      "reasoning": "ಪಡೆದ ಸ್ವಾತಂತ್ರ್ಯವೆಂಬ ಬೆಳಕನ್ನು (ಹಣತೆ) ಆರಿಹೋಗದಂತೆ ಸದಾ ಜಾಗರೂಕರಾಗಿ ಕಾಪಾಡಿಕೊಳ್ಳುವುದನ್ನು ಇದು ಸಂಕೇತಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who was the first historical queen in Karnataka to lead an armed rebellion against the British East India Company?",
+      "options": [
+        "Rani Abbakka",
+        "Kittur Rani Chennamma",
+        "Onake Obavva",
+        "Jhansi Rani Lakshmi Bai"
+      ],
+      "answer": "Kittur Rani Chennamma",
+      "reasoning": "Kittur Rani Chennamma led a famous armed rebellion in 1824 against British rule in Kittur, Karnataka."
+    },
+    "kn": {
+      "question": "ಕರ್ನಾಟಕದಲ್ಲಿ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಸಶಸ್ತ್ರ ಬಂಡಾಯ ಹೂಡಿದ ಮೊದಲ ವೀರ ಮಹಿಳೆ ಯಾರು?",
+      "options": [
+        "ರಾಣಿ ಅಬ್ಬಕ್ಕ",
+        "ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮ",
+        "ಒನಕೆ ಓಬವ್ವ",
+        "ಝಾನ್ಸಿ ರಾಣಿ ಲಕ್ಷ್ಮೀ ಬಾಯಿ"
+      ],
+      "answer": "ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮ",
+      "reasoning": "ಕಿತ್ತೂರು ಸಂಸ್ಥಾನದ ರಾಣಿ ಚೆನ್ನಮ್ಮ ಬ್ರಿಟಿಷರ 'ದತ್ತು ಮಕ್ಕಳಿಗೆ ಹಕ್ಕಿಲ್ಲ' ನೀತಿಯ ವಿರುದ್ಧ 1824 ರಲ್ಲಿಯೇ ಸಶಸ್ತ್ರ ಬಂಡಾಯ ಸಾರಿದರು."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Identify the correct Kannada synonym for the word 'ದೇಶ' (Country).",
+      "options": [
+        "Naadu",
+        "Kere",
+        "Giri",
+        "Salila"
+      ],
+      "answer": "Naadu",
+      "reasoning": "'Naadu' (ನಾಡು) or 'Rashtra' are standard Kannada synonyms for country/nation."
+    },
+    "kn": {
+      "question": "'ದೇಶ' ಪದದ ಸರಿಯಾದ ಕನ್ನಡ ಸಮಾನಾರ್ಥಕ ಪದವನ್ನು ಗುರುತಿಸಿ.",
+      "options": [
+        "ನಾಡು",
+        "ಕೆರೆ",
+        "ಗಿರಿ",
+        "ಸಲಿಲ"
+      ],
+      "answer": "ನಾಡು",
+      "reasoning": "'ದೇಶ' ಮತ್ತು 'ನಾಡು' ಎಂಬ ಪದಗಳು ಒಂದೇ ಅರ್ಥವನ್ನು ನೀಡುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In the phrase 'ಬೆಳಗಲಿ ಹಣತೆ', what is the grammatical form of the verb 'ಬೆಳಗಲಿ'?",
+      "options": [
+        "Bhoothakala",
+        "Vidyarthaka Kriyapada",
+        "Sambhavyathaka Kriyapada",
+        "Nishedhaka Kriyapada"
+      ],
+      "answer": "Vidyarthaka Kriyapada",
+      "reasoning": "'Belagali' expresses a wish or command ('let it shine/burn'), which falls under Vidyarthaka Kriyapada in Kannada."
+    },
+    "kn": {
+      "question": "\"ಬೆಳಗಲಿ ಹಣತೆ\" ಎಂಬಲ್ಲಿ 'ಬೆಳಗಲಿ' ಯಾವ ವ್ಯಾಕರಣ ರೂಪದಲ್ಲಿದೆ?",
+      "options": [
+        "ಭೂತಕಾಲ",
+        "ವಿದ್ಯರ್ಥಕ ಕ್ರಿಯಾಪದ",
+        "ಸಂಭಾವ್ಯಾರ್ಥಕ ಕ್ರಿಯಾಪದ",
+        "ನಿಷೇಧಾರ್ಥಕ ಕ್ರಿಯಾಪದ"
+      ],
+      "answer": "ವಿದ್ಯರ್ಥಕ ಕ್ರಿಯಾಪದ",
+      "reasoning": "ಒಂದು ಕೆಲಸ ನಡೆಯಲಿ ಎಂಬ ಆಶೀರ್ವಾದ, ಆಜ್ಞೆ ಅಥವಾ ಇಚ್ಛೆಯನ್ನು ಸೂಚಿಸುವ ಕ್ರಿಯಾಪದವನ್ನು 'ವಿದ್ಯರ್ಥಕ ಕ್ರಿಯಾಪದ' ಎನ್ನಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_013",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How many spokes are there in the Ashoka Chakra of the Indian National Flag?",
+      "options": [
+        "12",
+        "24",
+        "30",
+        "36"
+      ],
+      "answer": "24",
+      "reasoning": "The navy blue Ashoka Chakra in the center of the flag contains 24 spokes, representing 24 hours of the day and progress."
+    },
+    "kn": {
+      "question": "ಭಾರತದ ರಾಷ್ಟ್ರಧ್ವಜದ ಮಧ್ಯದಲ್ಲಿರುವ ಅಶೋಕ ಚಕ್ರದಲ್ಲಿ ಎಷ್ಟು ಅರೆಗಳು (ಗೆರೆಗಳು) ಇವೆ?",
+      "options": [
+        "12",
+        "24",
+        "30",
+        "36"
+      ],
+      "answer": "24",
+      "reasoning": "ಅಶೋಕ ಚಕ್ರದಲ್ಲಿರುವ 24 ಗೆರೆಗಳು ದಿನದ 24 ಗಂಟೆಗಳನ್ನು ಹಾಗೂ ನಿರಂತರ ಪ್ರಗತಿಯನ್ನು ಸೂಚಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_014",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Identify the Sandhi in the word 'ಸ್ವಾತಂತ್ರ್ಯೋತ್ಸವ' (Swatantryotsava).",
+      "options": [
+        "Savarnadeergha Sandhi",
+        "Guna Sandhi",
+        "Vriddhi Sandhi",
+        "Yan Sandhi"
+      ],
+      "answer": "Guna Sandhi",
+      "reasoning": "'Swatantrya + Utsava' combines to form 'Swatantryotsava'. When 'a/aa' is followed by 'u/uu', they combine to form 'o', which is Guna Sandhi."
+    },
+    "kn": {
+      "question": "'ಸ್ವಾತಂತ್ರ್ಯೋತ್ಸವ' ಪದದಲ್ಲಿರುವ ಸಂಧಿ ಯಾವುದು?",
+      "options": [
+        "ಸವರ್ಣದೀರ್ಘ ಸಂಧಿ",
+        "ಗುಣಸಂಧಿ",
+        "ವೃದ್ಧಿಸಂಧಿ",
+        "ಯಣ್ ಸಂಧಿ"
+      ],
+      "answer": "ಗುಣಸಂಧಿ",
+      "reasoning": "ಸ್ವಾತಂತ್ರ್ಯ + ಉತ್ಸವ = ಸ್ವಾತಂತ್ರ್ಯೋತ್ಸವ. ಅ ಕಾರಕ್ಕೆ ಉ ಕಾರ ಪರವಾದಾಗ ಓ ಕಾರ ಬಂದಿರುವುದರಿಂದ ಇದು ಗುಣಸಂಧಿಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Who composed the patriotic Urdu song 'Sare Jahan Se Achha'?",
+      "options": [
+        "Muhammad Iqbal",
+        "Mirza Ghalib",
+        "Bahadur Shah Zafar",
+        "Rabindranath Tagore"
+      ],
+      "answer": "Muhammad Iqbal",
+      "reasoning": "Poet Muhammad Iqbal composed the famous patriotic song 'Sare Jahan Se Achha Hindostan Hamara' in 1904."
+    },
+    "kn": {
+      "question": "'ಸಾರೇ ಜಹಾನ್ ಸೆ ಅಚ್ಚಾ' ದೇಶಭಕ್ತಿ ಗೀತೆಯನ್ನು ರಚಿಸಿದವರು ಯಾರು?",
+      "options": [
+        "ಮುಹಮ್ಮದ್ ಇಕ್ಬಾಲ್",
+        "ಮಿರ್ಜಾ ಗಾಲಿಬ್",
+        "ಬಹದ್ದೂರ್ ಶಾ ಜಫರ್",
+        "ರವೀಂದ್ರನಾಥ ಠಾಗೋರ್"
+      ],
+      "answer": "ಮುಹಮ್ಮದ್ ಇಕ್ಬಾಲ್",
+      "reasoning": "ಪ್ರಸಿದ್ಧ ಕವಿ ಮುಹಮ್ಮದ್ ಇಕ್ಬಾಲ್ ಅವರು 'ಸಾರೇ ಜಹಾನ್ ಸೆ ಅಚ್ಚಾ ಹಿಂದೂಸ್ತಾನ್ ಹಮಾರಾ' ಗೀತೆಯನ್ನು ಬರೆದರು."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the main duty of citizens to protect the 'Hanate' (lamp) of freedom?",
+      "options": [
+        "Work only for personal gain",
+        "Live in harmony, work unitedly, and protect the nation's integrity",
+        "Allow external forces to take decisions",
+        "Forget the sacrifices of history"
+      ],
+      "answer": "Live in harmony, work unitedly, and protect the nation's integrity",
+      "reasoning": "Preserving freedom requires national unity, social harmony, and active participation in nation building."
+    },
+    "kn": {
+      "question": "ಸ್ವಾತಂತ್ರ್ಯದ 'ಹಣತೆ'ಯನ್ನು ರಕ್ಷಿಸಲು ಪ್ರತಿಯೊಬ್ಬ ನಾಗರಿಕನ ಮುಖ್ಯ ಕರ್ತವ್ಯವೇನು?",
+      "options": [
+        "ಕೇವಲ ಸ್ವಂತ ಲಾಭಕ್ಕಾಗಿ ಕೆಲಸ ಮಾಡುವುದು",
+        "ಒಗ್ಗಟ್ಟಿನಿಂದ ಬಾಳುವುದು, ದೇಶದ ಏಕತೆ ಮತ್ತು ಸಮಗ್ರತೆಯನ್ನು ಕಾಪಾಡುವುದು",
+        "ನಿರ್ಧಾರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ಹೊರಗಿನವರಿಗೆ ಬಿಡುವುದು",
+        "ಇತಿಹಾಸದ ತ್ಯಾಗ ಬಲಿದಾನಗಳನ್ನು ಮರೆತುಬಿಡುವುದು"
+      ],
+      "answer": "ಒಗ್ಗಟ್ಟಿನಿಂದ ಬಾಳುವುದು, ದೇಶದ ಏಕತೆ ಮತ್ತು ಸಮಗ್ರತೆಯನ್ನು ಕಾಪಾಡುವುದು",
+      "reasoning": "ಪರಸ್ಪರ ಒಡನಾಟ, ಭ್ರಾತೃತ್ವ ಮತ್ತು ಒಗ್ಗಟ್ಟಿನಿಂದ ಬಾಳುವ ಮೂಲಕ ದೇಶದ ಏಕತೆಯನ್ನು ರಕ್ಷಿಸುವುದು ಪ್ರತಿಯೊಬ್ಬರ ಕರ್ತವ್ಯ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Identify the compound word (Samasa) in the Kannada word 'ವೀರಪುತ್ರ' (Veeraputra).",
+      "options": [
+        "Karmadharaya Samasa",
+        "Tatpurusha Samasa",
+        "Dwigu Samasa",
+        "Dvandva Samasa"
+      ],
+      "answer": "Tatpurusha Samasa",
+      "reasoning": "'Veeranada + putra' or 'Veerara + putra' refers to Tatpurusha Samasa where the meaning of the second word (Uttarapada) is primary."
+    },
+    "kn": {
+      "question": "\"ವೀರಪುತ್ರ\" ಪದದಲ್ಲಿರುವ ಸಮಾಸ ಯಾವುದು?",
+      "options": [
+        "ಕರ್ಮಧಾರಯ ಸಮಾಸ",
+        "ತತ್ಪುರುಷ ಸಮಾಸ",
+        "ದ್ವಿಗು ಸಮಾಸ",
+        "ದ್ವಂದ್ವ ಸಮಾಸ"
+      ],
+      "answer": "ತತ್ಪುರುಷ ಸಮಾಸ",
+      "reasoning": "ವೀರನ ಮಗ (ವೀರನ+ಪುತ್ರ) ಎಂಬಲ್ಲಿ ಉತ್ತರ ಪದದ (ಪುತ್ರ) ಅರ್ಥವು ಪ್ರಧಾನವಾಗಿದ್ದು, ಇದು ತತ್ಪುರುಷ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_018",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following colors are in the main horizontal bands of the Indian National Flag?",
+      "options": [
+        "Saffron",
+        "Blue",
+        "Green",
+        "Red"
+      ],
+      "answer": [
+        "Saffron",
+        "Green"
+      ],
+      "reasoning": "The main horizontal bands are Saffron (top), White (middle), and Green (bottom). Blue is present only in the central Ashoka Chakra."
+    },
+    "kn": {
+      "question": "ಭಾರತದ ರಾಷ್ಟ್ರಧ್ವಜದ ಮುಖ್ಯ ಸಮಾನಾಂತರ ಪಟ್ಟಿಗಳಲ್ಲಿರುವ ಬಣ್ಣಗಳು ಯಾವುವು?",
+      "options": [
+        "ಕೇಸರಿ",
+        "ನೀಲಿ",
+        "ಹಸಿರು",
+        "ಕೆಂಪು"
+      ],
+      "answer": [
+        "ಕೇಸರಿ",
+        "ಹಸಿರು"
+      ],
+      "reasoning": "ಧ್ವಜದ ಮೂರು ಮುಖ್ಯ ಪಟ್ಟಿಗಳಲ್ಲಿ ಕೇಸರಿ, ಬಿಳಿ ಮತ್ತು ಹಸಿರು ಇವೆ. ನೀಲಿ ಬಣ್ಣವು ಕೇವಲ ಅಶೋಕ ಚಕ್ರದಲ್ಲಿದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Who among the following were prominent leaders in India's struggle for independence?",
+      "options": [
+        "Subhash Chandra Bose",
+        "Bhagat Singh",
+        "Robert Clive",
+        "Lord Mountbatten"
+      ],
+      "answer": [
+        "Subhash Chandra Bose",
+        "Bhagat Singh"
+      ],
+      "reasoning": "Subhash Chandra Bose and Bhagat Singh were Indian freedom fighters, while Clive and Mountbatten were British rulers."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವರಲ್ಲಿ ಯಾರು ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟದ ಪ್ರಮುಖ ನಾಯಕರಾಗಿದ್ದರು?",
+      "options": [
+        "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್",
+        "ಭಗತ್ ಸಿಂಗ್",
+        "ರಾಬರ್ಟ್ ಕ್ಲೈವ್",
+        "ಮೌಂಟ್‌ಬ್ಯಾಟನ್ ಪ್ರಭು"
+      ],
+      "answer": [
+        "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್",
+        "ಭಗತ್ ಸಿಂಗ್"
+      ],
+      "reasoning": "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್ ಮತ್ತು ಭಗತ್ ಸಿಂಗ್ ದೇಶಭಕ್ತ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರಾಗಿದ್ದರು. ಉಳಿದಿಬ್ಬರು ಬ್ರಿಟಿಷ್ ಅಧಿಕಾರಿಗಳು."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_020",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following are national festivals (Rashtriya Habbagalu) of India?",
+      "options": [
+        "Republic Day",
+        "Deepavali",
+        "Independence Day",
+        "Ugadi"
+      ],
+      "answer": [
+        "Republic Day",
+        "Independence Day"
+      ],
+      "reasoning": "Republic Day and Independence Day are celebrated nationally, whereas Deepavali and Ugadi are religious/cultural festivals."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಭಾರತದ ರಾಷ್ಟ್ರೀಯ ಹಬ್ಬಗಳಾಗಿವೆ?",
+      "options": [
+        "ಗಣರಾಜ್ಯೋತ್ಸವ",
+        "ದೀಪಾವಳಿ",
+        "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "ಯುಗಾದಿ"
+      ],
+      "answer": [
+        "ಗಣರಾಜ್ಯೋತ್ಸವ",
+        "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ"
+      ],
+      "reasoning": "ದೇಶದ ಎಲ್ಲಾ ನಾಗರಿಕರು ಒಟ್ಟಾಗಿ ಆಚರಿಸುವ ಗಣರಾಜ್ಯೋತ್ಸವ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಗಳು ಭಾರತದ ಅಧಿಕೃತ ರಾಷ್ಟ್ರೀಯ ಹಬ್ಬಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_021",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following statements about Kittur Rani Chennamma are correct?",
+      "options": [
+        "She was the queen of the Kittur kingdom",
+        "She supported the British annexation policies",
+        "She fought bravely against British forces in 1824",
+        "She was born and raised in Delhi"
+      ],
+      "answer": [
+        "She was the queen of the Kittur kingdom",
+        "She fought bravely against British forces in 1824"
+      ],
+      "reasoning": "She was the queen of Kittur (in Karnataka) and led a brave resistance, refusing to yield to the British."
+    },
+    "kn": {
+      "question": "ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮ ಅವರ ಬಗ್ಗೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ?",
+      "options": [
+        "ಇವರು ಕಿತ್ತೂರು ಸಂಸ್ಥಾನದ ರಾಣಿಯಾಗಿದ್ದರು",
+        "ಇವರು ಬ್ರಿಟಿಷರ ದತ್ತು ನೀತಿಯನ್ನು ಬೆಂಬಲಿಸಿದರು",
+        "ಇವರು 1824 ರಲ್ಲಿ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಧೈರ್ಯದಿಂದ ಹೋರಾಡಿದರು",
+        "ಇವರು ದೆಹಲಿಯಲ್ಲಿ ಹುಟ್ಟಿ ಬೆಳೆದರು"
+      ],
+      "answer": [
+        "ಇವರು ಕಿತ್ತೂರು ಸಂಸ್ಥಾನದ ರಾಣಿಯಾಗಿದ್ದರು",
+        "ಇವರು 1824 ರಲ್ಲಿ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಧೈರ್ಯದಿಂದ ಹೋರಾಡಿದರು"
+      ],
+      "reasoning": "ಚೆನ್ನಮ್ಮ ಕಿತ್ತೂರಿನ ರಾಣಿಯಾಗಿದ್ದು, ಬ್ರಿಟಿಷರ ದಬ್ಬಾಳಿಕೆಯ ವಿರುದ್ಧ ಸಶಸ್ತ್ರ ಹೋರಾಟ ನಡೆಸಿದ ವೀರ ವನಿತೆಯಾಗಿದ್ದಾರೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_022",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the National Symbols of India with their respective names.",
+      "pairs": [
+        {
+          "left": "ರಾಷ್ಟ್ರಪಕ್ಷಿ (National Bird)",
+          "right": "ನವಿಲು (Peacock)"
+        },
+        {
+          "left": "ರಾಷ್ಟ್ರಪ್ರಾಣಿ (National Animal)",
+          "right": "ಹುಲಿ (Tiger)"
+        },
+        {
+          "left": "ರಾಷ್ಟ್ರಪುಷ್ಪ (National Flower)",
+          "right": "ಕಮಲ (Lotus)"
+        },
+        {
+          "left": "ರಾಷ್ಟ್ರವೃಕ್ಷ (National Tree)",
+          "right": "ಆಲದ ಮರ (Banyan Tree)"
+        }
+      ],
+      "reasoning": "Correctly matches India's designated national flora and fauna symbols."
+    },
+    "kn": {
+      "question": "ಭಾರತದ ರಾಷ್ಟ್ರೀಯ ಚಿಹ್ನೆಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಹೆಸರಿನೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.",
+      "pairs": [
+        {
+          "left": "ರಾಷ್ಟ್ರಪಕ್ಷಿ",
+          "right": "ನವಿಲು"
+        },
+        {
+          "left": "ರಾಷ್ಟ್ರಪ್ರಾಣಿ",
+          "right": "ಹುಲಿ"
+        },
+        {
+          "left": "ರಾಷ್ಟ್ರಪುಷ್ಪ",
+          "right": "ಕಮಲ"
+        },
+        {
+          "left": "ರಾಷ್ಟ್ರವೃಕ್ಷ",
+          "right": "ಆಲದ ಮರ"
+        }
+      ],
+      "reasoning": "ಭಾರತ ಸರ್ಕಾರವು ಅಧಿಕೃತವಾಗಿ ಘೋಷಿಸಿರುವ ರಾಷ್ಟ್ರೀಯ ಜೀವಿಗಳು ಮತ್ತು ಚಿಹ್ನೆಗಳನ್ನು ಹೊಂದಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_023",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the freedom fighters with their famous slogans or titles.",
+      "pairs": [
+        {
+          "left": "ನೇತಾಜಿ (Netaji)",
+          "right": "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್ (Subhash Chandra Bose)"
+        },
+        {
+          "left": "ಗಾಂಧೀಜಿ (Gandhiji)",
+          "right": "ಶಾಂತಿ ಮತ್ತು ಅಹಿಂಸೆ (Peace and Non-violence)"
+        },
+        {
+          "left": "ಲಾಲಾ ಲಜಪತ ರಾಯ್ (Lala Lajpat Rai)",
+          "right": "ಪಂಜಾಬ್ ಕೇಸರಿ (Punjab Kesari)"
+        },
+        {
+          "left": "ಬಾಲ ಗಂಗಾಧರ ತಿಲಕ್ (Bal Gangadhar Tilak)",
+          "right": "ಸ್ವರಾಜ್ಯ ನನ್ನ ಜನ್ಮಸಿದ್ಧ ಹಕ್ಕು (Swaraj is my birthright)"
+        }
+      ],
+      "reasoning": "Links historical Indian leaders with their well-known slogans or honorary titles."
+    },
+    "kn": {
+      "question": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರನ್ನು ಅವರ ಘೋಷಣೆ ಅಥವಾ ಬಿರುದುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.",
+      "pairs": [
+        {
+          "left": "ನೇತಾಜಿ",
+          "right": "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್"
+        },
+        {
+          "left": "ಗಾಂಧೀಜಿ",
+          "right": "ಶಾಂತಿ ಮತ್ತು ಅಹಿಂಸೆ"
+        },
+        {
+          "left": "ಲಾಲಾ ಲಜಪತ ರಾಯ್",
+          "right": "ಪಂಜಾಬ್ ಕೇಸರಿ"
+        },
+        {
+          "left": "ಬಾಲ ಗಂಗಾಧರ ತಿಲಕ್",
+          "right": "ಸ್ವರಾಜ್ಯ ನನ್ನ ಜನ್ಮಸಿದ್ಧ ಹಕ್ಕು"
+        }
+      ],
+      "reasoning": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರು ನೀಡಿದ ಘೋಷಣೆಗಳು ಹಾಗೂ ಜನಪ್ರಿಯ ಬಿರುದುಗಳನ್ನು ಸರಿಯಾಗಿ ಹೊಂದಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_024",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the Kannada words with their correct opposites (Viruddha Padagalu).",
+      "pairs": [
+        {
+          "left": "ಸ್ವಾತಂತ್ರ್ಯ (Freedom)",
+          "right": "ಪಾರತಂತ್ರ್ಯ (Slavery)"
+        },
+        {
+          "left": "ದೇಶಿ (Domestic)",
+          "right": "ವಿದೇಶಿ (Foreign)"
+        },
+        {
+          "left": "ಯಶಸ್ಸು (Success)",
+          "right": "ಅಪಜಯ (Failure)"
+        },
+        {
+          "left": "ಧರ್ಮ (Righteousness)",
+          "right": "ಅಧರ್ಮ (Unrighteousness)"
+        }
+      ],
+      "reasoning": "Standard antonym pairings related to the theme of freedom and values."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿರುದ್ಧ ಪದಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.",
+      "pairs": [
+        {
+          "left": "ಸ್ವಾತಂತ್ರ್ಯ",
+          "right": "ಪಾರತಂತ್ರ್ಯ"
+        },
+        {
+          "left": "ದೇಶಿ",
+          "right": "ವಿದೇಶಿ"
+        },
+        {
+          "left": "ಯಶಸ್ಸು",
+          "right": "ಅಪಜಯ"
+        },
+        {
+          "left": "ಧರ್ಮ",
+          "right": "ಅಧರ್ಮ"
+        }
+      ],
+      "reasoning": "ದೇಶಭಕ್ತಿ ಹಾಗೂ ಮೌಲ್ಯಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಪದಗಳ ವಿರುದ್ಧಾರ್ಥಕ ರೂಪಗಳನ್ನು ಜೋಡಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit3_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the patriotic terms with their correct Kannada descriptions.",
+      "pairs": [
+        {
+          "left": "ತ್ಯಾಗ (Sacrifice)",
+          "right": "ದೇಶಕ್ಕಾಗಿ ಪ್ರಾಣ ಅರ್ಪಿಸುವುದು (Sacrificing life for country)"
+        },
+        {
+          "left": "ದೇಶಭಕ್ತಿ (Patriotism)",
+          "right": "ಮಾತೃಭೂಮಿಯ ಮೇಲಿನ ಪ್ರೀತಿ (Love for motherland)"
+        },
+        {
+          "left": "ವೀರಮರಣ (Martyrdom)",
+          "right": "ಯುದ್ಧದಲ್ಲಿ ವೀರ ಸಾವು (Heroic death in war)"
+        },
+        {
+          "left": "ಅಖಂಡತೆ (Integrity)",
+          "right": "ಒಗ್ಗಟ್ಟು ಮತ್ತು ಏಕತೆ (Unity and oneness)"
+        }
+      ],
+      "reasoning": "Helps students understand patriotic values and their definitions in Kannada."
+    },
+    "kn": {
+      "question": "ದೇಶಭಕ್ತಿಗೆ ಸಂಬಂಧಿಸಿದ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿವರಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.",
+      "pairs": [
+        {
+          "left": "ತ್ಯಾಗ",
+          "right": "ದೇಶಕ್ಕಾಗಿ ಪ್ರಾಣ ಅರ್ಪಿಸುವುದು"
+        },
+        {
+          "left": "ದೇಶಭಕ್ತಿ",
+          "right": "ಮಾತೃಭೂಮಿಯ ಮೇಲಿನ ಪ್ರೀತಿ"
+        },
+        {
+          "left": "ವೀರಮರಣ",
+          "right": "ಯುದ್ಧದಲ್ಲಿ ವೀರ ಸಾವು"
+        },
+        {
+          "left": "ಅಖಂಡತೆ",
+          "right": "ಒಗ್ಗಟ್ಟು ಮತ್ತು ಏಕತೆ"
+        }
+      ],
+      "reasoning": "ರಾಷ್ಟ್ರಪ್ರೇಮಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಮುಖ ಪರಿಕಲ್ಪನೆಗಳ ನಿಖರ ಅರ್ಥಗಳನ್ನು ಹೊಂದಿಸಲಾಗಿದೆ."
+    }
+  }
+]

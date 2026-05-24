@@ -1,0 +1,952 @@
+[
+  {
+    "id": "c5_his_humans_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What were early humans who moved from place to place in search of food and water called?",
+      "options": [
+        "Nomads",
+        "Traders",
+        "Farmers",
+        "Monks"
+      ],
+      "answer": "Nomads",
+      "reasoning": "Early humans did not have a settled life; they moved from one place to another in search of food and water, which is why they were called nomads."
+    },
+    "kn": {
+      "question": "ಆಹಾರ ಮತ್ತು ನೀರನ್ನು ಹುಡುಕುತ್ತಾ ಒಂದು ಸ್ಥಳದಿಂದ ಮತ್ತೊಂದು ಸ್ಥಳಕ್ಕೆ ಅಲೆಯುತ್ತಿದ್ದ ಆರಂಭಿಕ ಮಾನವರನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಅಲೆಮಾರಿಗಳು",
+        "ವ್ಯಾಪಾರಿಗಳು",
+        "ರೈತರು",
+        "ಸನ್ಯಾಸಿಗಳು"
+      ],
+      "answer": "ಅಲೆಮಾರಿಗಳು",
+      "reasoning": "ಆರಂಭಿಕ ಮಾನವರು ಒಂದೇ ಕಡೆ ನೆಲೆಸುತ್ತಿರಲಿಲ್ಲ; ಅವರು ಆಹಾರ ಮತ್ತು ನೀರಿಗಾಗಿ ಅಲೆಯುತ್ತಿದ್ದರು, ಆದ್ದರಿಂದ ಅವರನ್ನು ಅಲೆಮಾರಿಗಳು ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_his_humans_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which was the first animal to be domesticated (tamed) by early humans?",
+      "options": [
+        "Dog",
+        "Cow",
+        "Horse",
+        "Elephant"
+      ],
+      "answer": "Dog",
+      "reasoning": "The wild ancestor of the dog was the first animal to be tamed and domesticated by early humans, helping them in hunting and guarding."
+    },
+    "kn": {
+      "question": "ಆರಂಭಿಕ ಮಾನವರು ಸಾಕುಮಾಡಿದ (ಪಳಗಿಸಿದ) ಮೊದಲ ಪ್ರಾಣಿ ಯಾವುದು?",
+      "options": [
+        "ನಾಯಿ",
+        "ಹಸು",
+        "ಕುದುರೆ",
+        "ಆನೆ"
+      ],
+      "answer": "ನಾಯಿ",
+      "reasoning": "ನಾಯಿಯ ಕಾಡು ಪೂರ್ವಜರನ್ನು ಮಾನವರು ಮೊದಲು ಪಳಗಿಸಿದರು. ಇದು ಅವರಿಗೆ ಬೇಟೆಯಾಡಲು ಮತ್ತು ರಕ್ಷಣೆ ಪಡೆಯಲು ಸಹಾಯ ಮಾಡಿತು."
+    }
+  },
+  {
+    "id": "c5_his_humans_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What material did early humans primarily use to make their tools and weapons?",
+      "options": [
+        "Stone",
+        "Iron",
+        "Bronze",
+        "Plastic"
+      ],
+      "answer": "Stone",
+      "reasoning": "Early humans used stones to make tools for hunting and scraping skins, which is why this period is known as the Stone Age."
+    },
+    "kn": {
+      "question": "ಆರಂಭಿಕ ಮಾನವರು ತಮ್ಮ ಉಪಕರಣಗಳು ಮತ್ತು ಆಯುಧಗಳನ್ನು ತಯಾರಿಸಲು ಪ್ರಮುಖವಾಗಿ ಯಾವ ವಸ್ತುವನ್ನು ಬಳಸುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಕಲ್ಲು",
+        "ಕಬ್ಬಿಣ",
+        "ಕಂಚು",
+        "ಪ್ಲಾಸ್ಟಿಕ್"
+      ],
+      "answer": "ಕಲ್ಲು",
+      "reasoning": "ಬೇಟೆಯಾಡಲು ಮತ್ತು ಪ್ರಾಣಿಗಳ ಚರ್ಮ ಸುಲಿಯಲು ಆರಂಭಿಕ ಮಾನವರು ಕಲ್ಲುಗಳನ್ನು ಬಳಸುತ್ತಿದ್ದರು, ಆದ್ದರಿಂದ ಈ ಕಾಲವನ್ನು ಶಿಲಾಯುಗ ಎನ್ನಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_his_humans_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "The discovery of which of the following provided early humans with warmth, light, and protection from wild animals?",
+      "options": [
+        "Fire",
+        "Iron",
+        "Paper",
+        "Cloth"
+      ],
+      "answer": "Fire",
+      "reasoning": "The discovery of fire was a turning point. It kept them warm in winter, lit up dark caves, and scared away dangerous wild animals."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಯಾವುದರ ಆವಿಷ್ಕಾರವು ಆರಂಭಿಕ ಮಾನವರಿಗೆ ಶಾಖ, ಬೆಳಕು ಮತ್ತು ಕಾಡು ಪ್ರಾಣಿಗಳಿಂದ ರಕ್ಷಣೆ ನೀಡಿತು?",
+      "options": [
+        "ಬೆಂಕಿ",
+        "ಕಬ್ಬಿಣ",
+        "ಕಾಗದ",
+        "ಬಟ್ಟೆ"
+      ],
+      "answer": "ಬೆಂಕಿ",
+      "reasoning": "ಬೆಂಕಿಯ ಆವಿಷ್ಕಾರವು ಒಂದು ದೊಡ್ಡ ತಿರುವಾಗಿತ್ತು. ಇದು ಚಳಿಗಾಲದಲ್ಲಿ ಶಾಖ ನೀಡಿತು, ಗುಹೆಗಳನ್ನು ಬೆಳಗಿಸಿತು ಮತ್ತು ಕಾಡು ಪ್ರಾಣಿಗಳನ್ನು ಹೆದರಿಸಿ ಓಡಿಸಿತು."
+    }
+  },
+  {
+    "id": "c5_his_humans_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What did early humans wear to cover and protect their bodies?",
+      "options": [
+        "Animal skins and leaves",
+        "Silk clothes",
+        "Cotton shirts",
+        "Woolen coats"
+      ],
+      "answer": "Animal skins and leaves",
+      "reasoning": "Before the invention of weaving cloth, early humans used the skins of hunted animals, tree bark, and large leaves to cover themselves."
+    },
+    "kn": {
+      "question": "ಆರಂಭಿಕ ಮಾನವರು ತಮ್ಮ ದೇಹವನ್ನು ಮುಚ್ಚಿಕೊಳ್ಳಲು ಮತ್ತು ರಕ್ಷಿಸಲು ಏನನ್ನು ಧರಿಸುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಪ್ರಾಣಿಗಳ ಚರ್ಮ ಮತ್ತು ಎಲೆಗಳು",
+        "ರೇಷ್ಮೆ ಬಟ್ಟೆಗಳು",
+        "ಹತ್ತಿ ಅಂಗಿಗಳು",
+        "ಉಣ್ಣೆಯ ಕೋಟುಗಳು"
+      ],
+      "answer": "ಪ್ರಾಣಿಗಳ ಚರ್ಮ ಮತ್ತು ಎಲೆಗಳು",
+      "reasoning": "ಬಟ್ಟೆ ನೇಯುವ ಕಲೆ ತಿಳಿಯುವ ಮೊದಲು, ಹಳೆಯ ಮಾನವರು ಬೇಟೆಯಾಡಿದ ಪ್ರಾಣಿಗಳ ಚರ್ಮ, ಮರದ ತೊಗಟೆ ಮತ್ತು ಎಲೆಗಳನ್ನು ಧರಿಸುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c5_his_humans_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Where did early humans live to protect themselves from rain, cold weather, and wild animals?",
+      "options": [
+        "Caves",
+        "Brick houses",
+        "Wooden huts",
+        "Tents"
+      ],
+      "answer": "Caves",
+      "reasoning": "Early humans did not know how to build houses, so they took shelter in natural rock caves and under rock cliffs."
+    },
+    "kn": {
+      "question": "ಮಳೆ, ಚಳಿ ಮತ್ತು ಕಾಡು ಪ್ರಾಣಿಗಳಿಂದ ರಕ್ಷಿಸಿಕೊಳ್ಳಲು ಆರಂಭಿಕ ಮಾನವರು ಎಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಗುಹೆಗಳು",
+        "ಇಟ್ಟಿಗೆ ಮನೆಗಳು",
+        "ಮರದ ಗುಡಿಸಲುಗಳು",
+        "ಡೇರೆಗಳು"
+      ],
+      "answer": "ಗುಹೆಗಳು",
+      "reasoning": "ಆರಂಭಿಕ ಮಾನವರಿಗೆ ಮನೆಗಳನ್ನು ಕಟ್ಟಲು ತಿಳಿದಿರಲಿಲ್ಲ, ಆದ್ದರಿಂದ ಅವರು ನೈಸರ್ಗಿಕ ಬಂಡೆ ಗುಹೆಗಳಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c5_his_humans_007",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which invention made transportation and moving heavy loads much easier for early humans?",
+      "options": [
+        "Wheel",
+        "Compass",
+        "Boat",
+        "Lever"
+      ],
+      "answer": "Wheel",
+      "reasoning": "The invention of the wheel allowed early humans to roll heavy loads easily and build carts for traveling long distances."
+    },
+    "kn": {
+      "question": "ಯಾವ ಆವಿಷ್ಕಾರವು ಆರಂಭಿಕ ಮಾನವರಿಗೆ ಸಾರಿಗೆ ಮತ್ತು ಭಾರವಾದ ವಸ್ತುಗಳನ್ನು ಸಾಗಿಸುವುದನ್ನು ಸುಲಭಗೊಳಿಸಿತು?",
+      "options": [
+        "ಚಕ್ರ",
+        "ದಿಕ್ಸೂಚಿ",
+        "ದೋಣಿ",
+        "ಸನ್ನೆಕೋಲು"
+      ],
+      "answer": "ಚಕ್ರ",
+      "reasoning": "ಚಕ್ರದ ಆವಿಷ್ಕಾರವು ಭಾರವಾದ ವಸ್ತುಗಳನ್ನು ಸುಲಭವಾಗಿ ಉರುಳಿಸಲು ಮತ್ತು ದೂರದ ಪ್ರಯಾಣಕ್ಕಾಗಿ ಬಂಡಿಗಳನ್ನು ತಯಾರಿಸಲು ಸಹಾಯ ಮಾಡಿತು."
+    }
+  },
+  {
+    "id": "c5_his_humans_008",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In which present-day Indian state is the famous prehistoric cave painting site 'Bhimbetka' located?",
+      "options": [
+        "Madhya Pradesh",
+        "Karnataka",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "answer": "Madhya Pradesh",
+      "reasoning": "Bhimbetka rock shelters are located in Madhya Pradesh, featuring paintings of animals and scenes of daily life from the Stone Age."
+    },
+    "kn": {
+      "question": "ಪ್ರಸಿದ್ಧ ಇತಿಹಾಸಪೂರ್ವ ಗುಹೆ ವರ್ಣಚಿತ್ರಗಳ ತಾಣವಾದ 'ಭೀಮ್‌ಬೆಟ್ಕಾ' ಭಾರತದ ಪ್ರಸ್ತುತ ಯಾವ ರಾಜ್ಯದಲ್ಲಿದೆ?",
+      "options": [
+        "ಮಧ್ಯಪ್ರದೇಶ",
+        "ಕರ್ನಾಟಕ",
+        "ಮಹಾರಾಷ್ಟ್ರ",
+        "ತಮಿಳುನಾಡು"
+      ],
+      "answer": "ಮಧ್ಯಪ್ರದೇಶ",
+      "reasoning": "ಭೀಮ್‌ಬೆಟ್ಕಾ ಶಿಲಾ ಗುಹೆಗಳು ಮಧ್ಯಪ್ರದೇಶದಲ್ಲಿದ್ದು, ಇವು ಶಿಲಾಯುಗದ ಪ್ರಾಣಿಗಳು ಮತ್ತು ದೈನಂದಿನ ಜೀವನದ ಚಿತ್ರಗಳನ್ನು ಹೊಂದಿವೆ."
+    }
+  },
+  {
+    "id": "c5_his_humans_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What major shift marked the transition of humans from hunter-gatherers to food producers?",
+      "options": [
+        "Beginning of farming",
+        "Discovery of fire",
+        "Sailing across oceans",
+        "Use of iron weapons"
+      ],
+      "answer": "Beginning of farming",
+      "reasoning": "Farming (agriculture) and domestication of animals during the Neolithic Age enabled humans to settle down and grow their own food."
+    },
+    "kn": {
+      "question": "ಬೇಟೆಗಾರ-ಸಂಗ್ರಹಕಾರರಾಗಿದ್ದ ಮಾನವರು ಆಹಾರ ಉತ್ಪಾದಕರಾಗಿ ಬದಲಾಗಲು ಕಾರಣವಾದ ಪ್ರಮುಖ ಬದಲಾವಣೆ ಯಾವುದು?",
+      "options": [
+        "ವ್ಯವಸಾಯದ ಆರಂಭ",
+        "ಬೆಂಕಿಯ ಆವಿಷ್ಕಾರ",
+        "ಸಮುದ್ರಯಾನದ ಆರಂಭ",
+        "ಕಬ್ಬಿಣದ ಆಯುಧಗಳ ಬಳಕೆ"
+      ],
+      "answer": "ವ್ಯವಸಾಯದ ಆರಂಭ",
+      "reasoning": "ನವಶಿಲಾಯುಗದಲ್ಲಿ ಕೃಷಿ ಮತ್ತು ಪ್ರಾಣಿ ಸಾಕಣೆಯು ಮಾನವರು ಒಂದೆಡೆ ನೆಲೆಸಲು ಮತ್ತು ಸ್ವಂತ ಆಹಾರ ಬೆಳೆಯಲು ನೆರವಾಯಿತು."
+    }
+  },
+  {
+    "id": "c5_his_humans_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the scientific term used for the Old Stone Age?",
+      "options": [
+        "Paleolithic Age",
+        "Mesolithic Age",
+        "Neolithic Age",
+        "Iron Age"
+      ],
+      "answer": "Paleolithic Age",
+      "reasoning": "'Paleolithic' comes from Greek words 'palaios' (old) and 'lithos' (stone), referring to the earliest and longest part of the Stone Age."
+    },
+    "kn": {
+      "question": "ಹಳೆಯ ಶಿಲಾಯುಗಕ್ಕೆ ಬಳಸುವ ವೈಜ್ಞಾನಿಕ ಪದ ಯಾವುದು?",
+      "options": [
+        "ಪ್ರಾಚೀನ ಶಿಲಾಯುಗ (Paleolithic)",
+        "ಮಧ್ಯಶಿಲಾಯುಗ (Mesolithic)",
+        "ನವಶಿಲಾಯುಗ (Neolithic)",
+        "ಕಬ್ಬಿಣದ ಯುಗ"
+      ],
+      "answer": "ಪ್ರಾಚೀನ ಶಿಲಾಯುಗ (Paleolithic)",
+      "reasoning": "'ಪ್ಯಾಲಿಯೊಲಿಥಿಕ್' ಎಂಬುದು ಗ್ರೀಕ್ ಪದಗಳಾದ 'ಪ್ಯಾಲಿಯೋಸ್' (ಹಳೆಯ) ಮತ್ತು 'ಲಿಥೋಸ್' (ಕಲ್ಲು) ನಿಂದ ಬಂದಿದೆ, ಇದು ಶಿಲಾಯುಗದ ಆರಂಭಿಕ ಹಂತವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_his_humans_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why did early humans paint on the walls of caves?",
+      "options": [
+        "To depict wild animals, hunting scenes, and express their life",
+        "To sell them to other tribes",
+        "To write codes for modern historians",
+        "To decorate their bedrooms"
+      ],
+      "answer": "To depict wild animals, hunting scenes, and express their life",
+      "reasoning": "Cave paintings show animals like bison, deer, and hunters. They were likely drawn to record successful hunts or perform religious ceremonies."
+    },
+    "kn": {
+      "question": "ಆರಂಭಿಕ ಮಾನವರು ಗುಹೆಗಳ ಗೋಡೆಗಳ ಮೇಲೆ ಏಕೆ ಚಿತ್ರಗಳನ್ನು ಬಿಡಿಸುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಕಾಡು ಪ್ರಾಣಿಗಳು, ಬೇಟೆಯ ದೃಶ್ಯಗಳು ಮತ್ತು ತಮ್ಮ ಜೀವನವನ್ನು ಚಿತ್ರಿಸಲು",
+        "ಅವುಗಳನ್ನು ಇತರ ಪಂಗಡಗಳಿಗೆ ಮಾರಾಟ ಮಾಡಲು",
+        "ಇತಿಹಾಸಕಾರರಿಗೆ ಸಂಕೇತಗಳನ್ನು ಬರೆಯಲು",
+        "ಮಲಗುವ ಕೋಣೆಯನ್ನು ಅಲಂಕರಿಸಲು"
+      ],
+      "answer": "ಕಾಡು ಪ್ರಾಣಿಗಳು, ಬೇಟೆಯ ದೃಶ್ಯಗಳು ಮತ್ತು ತಮ್ಮ ಜೀವನವನ್ನು ಚಿತ್ರಿಸಲು",
+      "reasoning": "ಗುಹೆ ವರ್ಣಚಿತ್ರಗಳು ಕಾಡುಕೋಣ, ಜಿಂಕೆ ಮತ್ತು ಬೇಟೆಗಾರರನ್ನು ಚಿತ್ರಿಸುತ್ತವೆ. ಇವು ಅವರ ದೈನಂದಿನ ಜೀವನ ಮತ್ತು ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳನ್ನು ಬಿಂಬಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_his_humans_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What were the tiny, sharp stone tools used in the Mesolithic (Middle Stone) Age called?",
+      "options": [
+        "Microliths",
+        "Hand axes",
+        "Iron swords",
+        "Plows"
+      ],
+      "answer": "Microliths",
+      "reasoning": "Microliths were very small stone tools, often mounted on wooden or bone handles to make spears, arrows, and sickles."
+    },
+    "kn": {
+      "question": "ಮಧ್ಯಶಿಲಾಯುಗದಲ್ಲಿ (Mesolithic) ಬಳಸುತ್ತಿದ್ದ ಸಣ್ಣ ಮತ್ತು ಚೂಪಾದ ಕಲ್ಲಿನ ಉಪಕರಣಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಮೈಕ್ರೋಲಿತ್ಸ್ (ಸೂಕ್ಷ್ಮಶಿಲೆಗಳು)",
+        "ಕೈ ಕೊಡಲಿಗಳು",
+        "ಕಬ್ಬಿಣದ ಕತ್ತಿಗಳು",
+        "ನೇಗಿಲುಗಳು"
+      ],
+      "answer": "ಮೈಕ್ರೋಲಿತ್ಸ್ (ಸೂಕ್ಷ್ಮಶಿಲೆಗಳು)",
+      "reasoning": "ಮೈಕ್ರೋಲಿತ್ಸ್‌ಗಳು ಚಿಕ್ಕದಾದ ಕಲ್ಲಿನ ಆಯುಧಗಳಾಗಿದ್ದು, ಇವುಗಳನ್ನು ಮರದ ಅಥವಾ ಮೂಳೆಯ ಹಿಡಿಕೆಗಳಿಗೆ ಸಿಕ್ಕಿಸಿ ಈಟಿ ಮತ್ತು ಬಾಣಗಳನ್ನು ತಯಾರಿಸುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c5_his_humans_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which metal was the first to be discovered and used by humans at the end of the Stone Age?",
+      "options": [
+        "Copper",
+        "Iron",
+        "Gold",
+        "Steel"
+      ],
+      "answer": "Copper",
+      "reasoning": "Copper was the first metal discovered by humans. Its mix with stone tools gave rise to the Chalcolithic (Copper-Stone) Age."
+    },
+    "kn": {
+      "question": "ಶಿಲಾಯುಗದ ಕೊನೆಯಲ್ಲಿ ಮಾನವರು ಮೊದಲು ಕಂಡುಹಿಡಿದು ಬಳಸಿದ ಲೋಹ ಯಾವುದು?",
+      "options": [
+        "ತಾಮ್ರ",
+        "ಕಬ್ಬಿಣ",
+        "ಚಿನ್ನ",
+        "ಉಕ್ಕು"
+      ],
+      "answer": "ತಾಮ್ರ",
+      "reasoning": "ತಾಮ್ರವು ಮಾನವರು ಕಂಡುಹಿಡಿದ ಮೊದಲ ಲೋಹವಾಗಿದೆ. ಕಲ್ಲಿನೊಂದಿಗೆ ತಾಮ್ರದ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿದ ಈ ಕಾಲವನ್ನು ತಾಮ್ರಶಿಲಾಯುಗ ಎನ್ನಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_his_humans_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "How did the practice of agriculture change the lifestyle of early humans?",
+      "options": [
+        "They started living a settled life near water sources",
+        "They traveled faster and became nomads",
+        "They stopped using stone tools",
+        "They built large concrete cities"
+      ],
+      "answer": "They started living a settled life near water sources",
+      "reasoning": "Since crops needed constant care like watering and weeding, humans stopped wandering and settled in villages near rivers."
+    },
+    "kn": {
+      "question": "ಕೃಷಿ ಪದ್ಧತಿಯು ಆರಂಭಿಕ ಮಾನವರ ಜೀವನಶೈಲಿಯನ್ನು ಹೇಗೆ ಬದಲಾಯಿಸಿತು?",
+      "options": [
+        "ಅವರು ನೀರಿನ ಮೂಲಗಳ ಬಳಿ ಒಂದೆಡೆ ನೆಲೆಸಲು ಆರಂಭಿಸಿದರು",
+        "ಅವರು ಹೆಚ್ಚು ಸಂಚರಿಸಿ ಅಲೆಮಾರಿಗಳಾದರು",
+        "ಅವರು ಕಲ್ಲಿನ ಉಪಕರಣಗಳ ಬಳಕೆಯನ್ನು ನಿಲ್ಲಿಸಿದರು",
+        "ಅವರು ದೊಡ್ಡ ಕಾಂಕ್ರೀಟ್ ನಗರಗಳನ್ನು ಕಟ್ಟಿದರು"
+      ],
+      "answer": "ಅವರು ನೀರಿನ ಮೂಲಗಳ ಬಳಿ ಒಂದೆಡೆ ನೆಲೆಸಲು ಆರಂಭಿಸಿದರು",
+      "reasoning": "ಬೆಳೆಗಳಿಗೆ ನಿಯಮಿತವಾಗಿ ನೀರು ಹಾಯಿಸುವುದು ಮತ್ತು ರಕ್ಷಣೆ ಬೇಕಾಗಿದ್ದರಿಂದ, ಮಾನವರು ಅಲೆದಾಡುವುದನ್ನು ಬಿಟ್ಟು ನದಿ ತೀರದಲ್ಲಿ ನೆಲೆಸಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_humans_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which specific period of the Stone Age is characterized by polished, sharp tools, and the emergence of woven clothes?",
+      "options": [
+        "Neolithic Age",
+        "Paleolithic Age",
+        "Mesolithic Age",
+        "Bronze Age"
+      ],
+      "answer": "Neolithic Age",
+      "reasoning": "The Neolithic (New Stone) Age introduced advanced polished stone tools, pottery, and basic weaving using cotton or wool."
+    },
+    "kn": {
+      "question": "ನಯಗೊಳಿಸಿದ ಮತ್ತು ಚೂಪಾದ ಉಪಕರಣಗಳು ಹಾಗೂ ನೇಯ್ದ ಬಟ್ಟೆಗಳ ಬಳಕೆ ಆರಂಭವಾದ ಶಿಲಾಯುಗದ ನಿರ್ದಿಷ್ಟ ಕಾಲ ಯಾವುದು?",
+      "options": [
+        "ನವಶಿಲಾಯುಗ",
+        "ಪ್ರಾಚೀನ ಶಿಲಾಯುಗ",
+        "ಮಧ್ಯಶಿಲಾಯುಗ",
+        "ಕಂಚಿನ ಯುಗ"
+      ],
+      "answer": "ನವಶಿಲಾಯುಗ",
+      "reasoning": "ನವಶಿಲಾಯುಗದಲ್ಲಿ (ಹೊಸ ಶಿಲಾಯುಗ) ಅತ್ಯಂತ ನಯವಾದ ಉಪಕರಣಗಳು, ಮಣ್ಣಿನ ಮಡಕೆಗಳು ಮತ್ತು ಹತ್ತಿ/ಉಣ್ಣೆಯಿಂದ ಬಟ್ಟೆ ನೇಯುವ ಕಲೆ ಜಾರಿಗೆ ಬಂದವು."
+    }
+  },
+  {
+    "id": "c5_his_humans_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How did early humans first produce fire manually?",
+      "options": [
+        "By rubbing two flint stones together",
+        "By focusing sunlight through a glass piece",
+        "By using matchsticks",
+        "By using chemical powders"
+      ],
+      "answer": "By rubbing two flint stones together",
+      "reasoning": "Striking or rubbing two flint stones together created sparks that could ignite dry leaves or grass, allowing early humans to start fires."
+    },
+    "kn": {
+      "question": "ಆರಂಭಿಕ ಮಾನವರು ಮೊದಲ ಬಾರಿಗೆ ಸ್ವತಃ ಬೆಂಕಿಯನ್ನು ಹೇಗೆ ಉತ್ಪಾದಿಸಿದರು?",
+      "options": [
+        "ಎರಡು ಚಕಮಕಿ ಕಲ್ಲುಗಳನ್ನು ಪರಸ್ಪರ ಉಜ್ಜುವ ಮೂಲಕ",
+        "ಗಾಜಿನ ತುಂಡಿನ ಮೂಲಕ ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಕೇಂದ್ರೀಕರಿಸಿ",
+        "ಬೆಂಕಿಪೆಟ್ಟಿಗೆ ಕಡ್ಡಿಗಳನ್ನು ಬಳಸಿ",
+        "ರಾಸಾಯನಿಕ ಪುಡಿಗಳನ್ನು ಬಳಸಿ"
+      ],
+      "answer": "ಎರಡು ಚಕಮಕಿ ಕಲ್ಲುಗಳನ್ನು ಪರಸ್ಪರ ಉಜ್ಜುವ ಮೂಲಕ",
+      "reasoning": "ಎರಡು ಚಕಮಕಿ (ಫ್ಲಿಂಟ್) ಕಲ್ಲುಗಳನ್ನು ಪರಸ್ಪರ ಜೋರಾಗಿ ಉಜ್ಜಿದಾಗ ಉಂಟಾದ ಕಿಡಿಗಳು ಒಣ ಎಲೆಗಳನ್ನು ಸುಟ್ಟು ಬೆಂಕಿ ನೀಡಿದವು."
+    }
+  },
+  {
+    "id": "c5_his_humans_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "In which Stone Age period did the Earth's climate become warmer, leading to an increase in grasslands and animals?",
+      "options": [
+        "Mesolithic Age",
+        "Paleolithic Age",
+        "Neolithic Age",
+        "Chalcolithic Age"
+      ],
+      "answer": "Mesolithic Age",
+      "reasoning": "Around 12,000 years ago, major climate changes warmed the Earth. This led to the growth of grasslands, which increased the population of herbivorous animals."
+    },
+    "kn": {
+      "question": "ಭೂಮಿಯ ಹವಾಮಾನವು ಬೆಚ್ಚಗಾಗಿ, ಹುಲ್ಲುಗಾವಲುಗಳು ಮತ್ತು ಪ್ರಾಣಿಗಳ ಸಂಖ್ಯೆ ಹೆಚ್ಚಾಗಲು ಕಾರಣವಾದ ಶಿಲಾಯುಗದ ಕಾಲ ಯಾವುದು?",
+      "options": [
+        "ಮಧ್ಯಶಿಲಾಯುಗ (Mesolithic)",
+        "ಪ್ರಾಚೀನ ಶಿಲಾಯುಗ (Paleolithic)",
+        "ನವಶಿಲಾಯುಗ (Neolithic)",
+        "ತಾಮ್ರಶಿಲಾಯುಗ"
+      ],
+      "answer": "ಮಧ್ಯಶಿಲಾಯುಗ (Mesolithic)",
+      "reasoning": "ಸುಮಾರು 12,000 ವರ್ಷಗಳ ಹಿಂದೆ ಭೂಮಿಯ ಹವಾಮಾನದಲ್ಲಿ ಪ್ರಮುಖ ಬದಲಾವಣೆಯಾಗಿ ತಾಪಮಾನ ಹೆಚ್ಚಾಯಿತು. ಇದು ಹುಲ್ಲುಗಾವಲುಗಳು ಬೆಳೆಯಲು ಕಾರಣವಾಯಿತು."
+    }
+  },
+  {
+    "id": "c5_his_humans_018",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of these archaeological sites in India has provided significant evidence of paleolithic stone tools in Karnataka?",
+      "options": [
+        "Hunsgi",
+        "Bhimbetka",
+        "Mehrgarh",
+        "Burzahom"
+      ],
+      "answer": "Hunsgi",
+      "reasoning": "Hunsgi, located in Yadgir district of Karnataka, was a major Paleolithic site where large numbers of stone tools made of limestone were found."
+    },
+    "kn": {
+      "question": "ಕರ್ನಾಟಕದಲ್ಲಿ ಪ್ರಾಚೀನ ಶಿಲಾಯುಗದ ಕಲ್ಲಿನ ಉಪಕರಣಗಳ ಮಹತ್ವದ ಪುರಾವೆಗಳನ್ನು ಒದಗಿಸಿದ ಪುರಾತತ್ವ ತಾಣ ಯಾವುದು?",
+      "options": [
+        "ಹುಣಸಗಿ (Hunsgi)",
+        "ಭೀಮ್‌ಬೆಟ್ಕಾ",
+        "ಮೆಹರ್‌ಗಢ್",
+        "ಬುರ್ಜಾಹೋಮ್"
+      ],
+      "answer": "ಹುಣಸಗಿ (Hunsgi)",
+      "reasoning": "ಕರ್ನಾಟಕದ ಯಾದಗಿರಿ ಜಿಲ್ಲೆಯಲ್ಲಿರುವ ಹುಣಸಗಿಯು ಪ್ರಮುಖ ಪ್ರಾಚೀನ ಶಿಲಾಯುಗದ ತಾಣವಾಗಿದೆ, ಇಲ್ಲಿ ಸುಣ್ಣದಕಲ್ಲಿನಿಂದ ಮಾಡಿದ ಉಪಕರಣಗಳು ಸಿಕ್ಕಿವೆ."
+    }
+  },
+  {
+    "id": "c5_his_humans_019",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which cave site in Andhra Pradesh shows traces of ash, proving that Paleolithic people knew how to control fire?",
+      "options": [
+        "Kurnool Caves",
+        "Edakkal Caves",
+        "Ellora Caves",
+        "Ajanta Caves"
+      ],
+      "answer": "Kurnool Caves",
+      "reasoning": "Traces of ash have been found in the Kurnool caves in Andhra Pradesh, indicating that early humans used fire for cooking and protection."
+    },
+    "kn": {
+      "question": "ಆಂಧ್ರಪ್ರದೇಶದ ಯಾವ ಗುಹೆಗಳಲ್ಲಿ ಬೂದಿಯ ಕುರುಹುಗಳು ಪತ್ತೆಯಾಗಿವೆ, ಇದು ಪ್ರಾಚೀನ ಶಿಲಾಯುಗದ ಮಾನವರು ಬೆಂಕಿಯ ಬಳಕೆ ಕಲಿತಿದ್ದರು ಎಂಬುದನ್ನು ಸಾಬೀತುಪಡಿಸುತ್ತದೆ?",
+      "options": [
+        "ಕರ್ನೂಲ್ ಗುಹೆಗಳು",
+        "ಎಡಕ್ಕಲ್ ಗುಹೆಗಳು",
+        "ಎಲ್ಲೋರಾ ಗುಹೆಗಳು",
+        "ಅಜಂತಾ ಗುಹೆಗಳು"
+      ],
+      "answer": "ಕರ್ನೂಲ್ ಗುಹೆಗಳು",
+      "reasoning": "ಆಂಧ್ರಪ್ರದೇಶದ ಕರ್ನೂಲ್ ಗುಹೆಗಳಲ್ಲಿ ಬೂದಿಯ ಕುರುಹುಗಳು ಸಿಕ್ಕಿವೆ. ಇದರಿಂದ ಅವರು ಆಹಾರ ಬೇಯಿಸಲು ಬೆಂಕಿ ಬಳಸುತ್ತಿದ್ದರು ಎಂದು ತಿಳಿದುಬರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_his_humans_020",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why did early humans make clay pots in the Neolithic period, which they did not do in the Paleolithic period?",
+      "options": [
+        "To store surplus grains and cook liquid food",
+        "To decoration their cave entrances",
+        "To use as shields in battle",
+        "To export to neighboring countries"
+      ],
+      "answer": "To store surplus grains and cook liquid food",
+      "reasoning": "Farming produced surplus food grains that needed to be stored safely. Pots were also used for cooking rice, wheat, and boiling water."
+    },
+    "kn": {
+      "question": "ಆರಂಭಿಕ ಮಾನವರು ನವಶಿಲಾಯುಗದಲ್ಲಿ ಮಣ್ಣಿನ ಮಡಕೆಗಳನ್ನು ತಯಾರಿಸಲು ಮುಖ್ಯ ಕಾರಣವೇನು?",
+      "options": [
+        "ಹೆಚ್ಚುವರಿ ಧಾನ್ಯಗಳನ್ನು ಸಂಗ್ರಹಿಸಲು ಮತ್ತು ಆಹಾರ ಬೇಯಿಸಲು",
+        "ತಮ್ಮ ಗುಹೆಗಳ ಪ್ರವೇಶದ್ವಾರಗಳನ್ನು ಅಲಂಕರಿಸಲು",
+        "ಯುದ್ಧದಲ್ಲಿ ಗುರಾಣಿಯಾಗಿ ಬಳಸಲು",
+        "ನೆರೆಯ ದೇಶಗಳಿಗೆ ರಫ್ತು ಮಾಡಲು"
+      ],
+      "answer": "ಹೆಚ್ಚುವರಿ ಧಾನ್ಯಗಳನ್ನು ಸಂಗ್ರಹಿಸಲು ಮತ್ತು ಆಹಾರ ಬೇಯಿಸಲು",
+      "reasoning": "ಕೃಷಿಯಿಂದಾಗಿ ಲಭ್ಯವಾದ ಹೆಚ್ಚುವರಿ ಧಾನ್ಯಗಳನ್ನು ಸಂಗ್ರಹಿಸಲು ಮತ್ತು ಅಕ್ಕಿ, ಗೋಧಿಯಂತಹ ಧಾನ್ಯಗಳನ್ನು ಬೇಯಿಸಲು ಮಡಕೆಗಳು ಬೇಕಾಗಿದ್ದವು."
+    }
+  },
+  {
+    "id": "c5_his_humans_021",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following foods were consumed by Paleolithic humans before agriculture was invented?",
+      "options": [
+        "Wild fruits and roots",
+        "Raw animal meat",
+        "Baked bread",
+        "Cooked rice"
+      ],
+      "answer": [
+        "Wild fruits and roots",
+        "Raw animal meat"
+      ],
+      "reasoning": "Paleolithic humans were hunter-gatherers. They did not grow crops, so they ate wild fruits, roots, and hunted wild animals for raw or roasted meat."
+    },
+    "kn": {
+      "question": "ಕೃಷಿಯ ಆವಿಷ್ಕಾರಕ್ಕೆ ಮೊದಲು ಪ್ರಾಚೀನ ಶಿಲಾಯುಗದ ಮಾನವರು ಯಾವ ಆಹಾರಗಳನ್ನು ಸೇವಿಸುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಕಾಡು ಹಣ್ಣುಗಳು ಮತ್ತು ಗೆಡ್ಡೆಗೆಣಸುಗಳು",
+        "ಪ್ರಾಣಿಗಳ ಹಸಿ ಮಾಂಸ",
+        "ಬೇಯಿಸಿದ ಬ್ರೆಡ್",
+        "ಬೇಯಿಸಿದ ಅನ್ನ"
+      ],
+      "answer": [
+        "ಕಾಡು ಹಣ್ಣುಗಳು ಮತ್ತು ಗೆಡ್ಡೆಗೆಣಸುಗಳು",
+        "ಪ್ರಾಣಿಗಳ ಹಸಿ ಮಾಂಸ"
+      ],
+      "reasoning": "ಅವರು ಕೃಷಿ ಮಾಡುತ್ತಿರಲಿಲ್ಲ, ಕೇವಲ ಕಾಡಿನಿಂದ ಸಿಗುವ ಹಣ್ಣು, ಗೆಡ್ಡೆಗಳು ಮತ್ತು ಬೇಟೆಯಾಡಿದ ಪ್ರಾಣಿಗಳ ಮಾಂಸವನ್ನು ತಿನ್ನುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c5_his_humans_022",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following animals were commonly domesticated by humans during the Neolithic Period?",
+      "options": [
+        "Sheep and Goats",
+        "Cows and Oxen",
+        "Lions",
+        "Tigers"
+      ],
+      "answer": [
+        "Sheep and Goats",
+        "Cows and Oxen"
+      ],
+      "reasoning": "Humans tamed gentle, herbivorous animals like sheep, goats, cows, and oxen to get milk, meat, wool, and to help in farming."
+    },
+    "kn": {
+      "question": "ನವಶಿಲಾಯುಗದಲ್ಲಿ ಮಾನವರು ಸಾಮಾನ್ಯವಾಗಿ ಸಾಕುಪ್ರಾಣಿಗಳಾಗಿ ಪಳಗಿಸಿದ ಪ್ರಾಣಿಗಳು ಯಾವುವು?",
+      "options": [
+        "ಕುರಿಗಳು ಮತ್ತು ಮೇಕೆಗಳು",
+        "ಹಸುಗಳು ಮತ್ತು ಎತ್ತುಗಳು",
+        "ಸಿಂಹಗಳು",
+        "ಹುಲಿಗಳು"
+      ],
+      "answer": [
+        "ಕುರಿಗಳು ಮತ್ತು ಮೇಕೆಗಳು",
+        "ಹಸುಗಳು ಮತ್ತು ಎತ್ತುಗಳು"
+      ],
+      "reasoning": "ಹಾಲು, ಮಾಂಸ, ಉಣ್ಣೆ ಪಡೆಯಲು ಮತ್ತು ಕೃಷಿ ಕೆಲಸಗಳಿಗಾಗಿ ಹಸು, ಎತ್ತು, ಮೇಕೆ ಹಾಗೂ ಕುರಿಗಳಂತಹ ಸಾಧು ಪ್ರಾಣಿಗಳನ್ನು ಸಾಕಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_humans_023",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following periods are considered major divisions of the prehistoric Stone Age?",
+      "options": [
+        "Paleolithic Age",
+        "Neolithic Age",
+        "Iron Age",
+        "Information Age"
+      ],
+      "answer": [
+        "Paleolithic Age",
+        "Neolithic Age"
+      ],
+      "reasoning": "The Stone Age is divided into Paleolithic (Old), Mesolithic (Middle), and Neolithic (New) ages based on tool technology. Iron Age is a metal age."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಯಾವ ಅವಧಿಗಳನ್ನು ಇತಿಹಾಸಪೂರ್ವ ಶಿಲಾಯುಗದ ಪ್ರಮುಖ ವಿಭಾಗಗಳೆಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಪ್ರಾಚೀನ ಶಿಲಾಯುಗ (Paleolithic)",
+        "ನವಶಿಲಾಯುಗ (Neolithic)",
+        "ಕಬ್ಬಿಣದ ಯುಗ",
+        "ಮಾಹಿತಿ ತಂತ್ರಜ್ಞಾನ ಯುಗ"
+      ],
+      "answer": [
+        "ಪ್ರಾಚೀನ ಶಿಲಾಯುಗ (Paleolithic)",
+        "ನವಶಿಲಾಯುಗ (Neolithic)"
+      ],
+      "reasoning": "ಶಿಲಾಯುಗವನ್ನು ಆಯುಧಗಳ ತಂತ್ರಜ್ಞಾನದ ಆಧಾರದಲ್ಲಿ ಪ್ರಾಚೀನ (ಹಳೆಯ), ಮಧ್ಯ ಮತ್ತು ನವ (ಹೊಸ) ಶಿಲಾಯುಗ ಎಂದು ವಿಂಗಡಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_his_humans_024",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Identify the major inventions/advancements of the Neolithic Age that led to human settlements:",
+      "options": [
+        "Discovery of Agriculture",
+        "Invention of the Wheel",
+        "Use of steam engines",
+        "Making of plastic containers"
+      ],
+      "answer": [
+        "Discovery of Agriculture",
+        "Invention of the Wheel"
+      ],
+      "reasoning": "Agriculture provided steady food, and the wheel improved travel, heavy lifting, and pottery. Steam engines and plastic were invented recently."
+    },
+    "kn": {
+      "question": "ಮಾನವ ವಸಾಹತುಗಳಿಗೆ ಕಾರಣವಾದ ನವಶಿಲಾಯುಗದ ಪ್ರಮುಖ ಆವಿಷ್ಕಾರಗಳು/ಪ್ರಗತಿಗಳನ್ನು ಗುರುತಿಸಿ:",
+      "options": [
+        "ಕೃಷಿಯ ಸಂಶೋಧನೆ",
+        "ಚಕ್ರದ ಆವಿಷ್ಕಾರ",
+        "ಹಬೆಯಂತ್ರಗಳ ಬಳಕೆ",
+        "ಪ್ಲಾಸ್ಟಿಕ್ ಪಾತ್ರೆಗಳ ತಯಾರಿಕೆ"
+      ],
+      "answer": [
+        "ಕೃಷಿಯ ಸಂಶೋಧನೆ",
+        "ಚಕ್ರದ ಆವಿಷ್ಕಾರ"
+      ],
+      "reasoning": "ಕೃಷಿಯು ಆಹಾರ ಭದ್ರತೆಯನ್ನು ನೀಡಿತು ಮತ್ತು ಚಕ್ರವು ಪ್ರಯಾಣ ಮತ್ತು ಭಾರ ಹೊರುವಿಕೆಯನ್ನು ಸುಲಭಗೊಳಿಸಿತು. ಹಬೆಯಂತ್ರಗಳು ಆಧುನಿಕ ಆವಿಷ್ಕಾರಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_his_humans_025",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following archaeological sites in India are famous for prehistoric rock shelters and cave paintings?",
+      "options": [
+        "Bhimbetka",
+        "Lakudiyar (Uttarakhand)",
+        "Taj Mahal",
+        "Red Fort"
+      ],
+      "answer": [
+        "Bhimbetka",
+        "Lakudiyar (Uttarakhand)"
+      ],
+      "reasoning": "Bhimbetka in Madhya Pradesh and Lakudiyar in Uttarakhand are famous sites with paintings drawn by early humans. Taj Mahal and Red Fort are medieval monuments."
+    },
+    "kn": {
+      "question": "ಭಾರತದ ಕೆಳಗಿನ ಯಾವ ಪುರಾತತ್ವ ತಾಣಗಳು ಇತಿಹಾಸಪೂರ್ವ ಬಂಡೆ ಗುಹೆಗಳು ಮತ್ತು ವರ್ಣಚಿತ್ರಗಳಿಗೆ ಪ್ರಸಿದ್ಧವಾಗಿವೆ?",
+      "options": [
+        "ಭೀಮ್‌ಬೆಟ್ಕಾ",
+        "ಲಕುಡಿಯಾರ್ (ಉತ್ತರಾಖಂಡ)",
+        "ತಾಜ್ ಮಹಲ್",
+        "ಕೆಂಪು ಕೋಟೆ"
+      ],
+      "answer": [
+        "ಭೀಮ್‌ಬೆಟ್ಕಾ",
+        "ಲಕುಡಿಯಾರ್ (ಉತ್ತರಾಖಂಡ)"
+      ],
+      "reasoning": "ಮಧ್ಯಪ್ರದೇಶದ ಭೀಮ್‌ಬೆಟ್ಕಾ ಮತ್ತು ಉತ್ತರಾಖಂಡದ ಲಕುಡಿಯಾರ್ ಆರಂಭಿಕ ಮಾನವರು ಚಿತ್ರಿಸಿದ ಗುಹೆಗಳಾಗಿವೆ. ತಾಜ್ ಮಹಲ್ ಮತ್ತು ಕೆಂಪು ಕೋಟೆಗಳು ಮಧ್ಯಕಾಲೀನ ಸ್ಮಾರಕಗಳು."
+    }
+  },
+  {
+    "id": "c5_his_humans_026",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the Stone Age periods with their common English names:",
+      "pairs": [
+        {
+          "left": "Paleolithic Age",
+          "right": "Old Stone Age"
+        },
+        {
+          "left": "Mesolithic Age",
+          "right": "Middle Stone Age"
+        },
+        {
+          "left": "Neolithic Age",
+          "right": "New Stone Age"
+        },
+        {
+          "left": "Chalcolithic Age",
+          "right": "Copper-Stone Age"
+        }
+      ],
+      "reasoning": "These Greek-derived historical terms describe the stages of human technological advancement using stone and copper."
+    },
+    "kn": {
+      "question": "ಶಿಲಾಯುಗದ ಅವಧಿಗಳನ್ನು ಅವುಗಳ ಸಾಮಾನ್ಯ ಕನ್ನಡ ಹೆಸರುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಪ್ರಾಚೀನ ಶಿಲಾಯುಗ (Paleolithic)",
+          "right": "ಹಳೆಯ ಶಿಲಾಯುಗ"
+        },
+        {
+          "left": "ಮಧ್ಯಶಿಲಾಯುಗ (Mesolithic)",
+          "right": "ಮಧ್ಯ ಶಿಲಾಯುಗ"
+        },
+        {
+          "left": "ನವಶಿಲಾಯುಗ (Neolithic)",
+          "right": "ಹೊಸ ಶಿಲಾಯುಗ"
+        },
+        {
+          "left": "ತಾಮ್ರಶಿಲಾಯುಗ (Chalcolithic)",
+          "right": "ತಾಮ್ರ ಮತ್ತು ಕಲ್ಲಿನ ಯುಗ"
+        }
+      ],
+      "reasoning": "ಗ್ರೀಕ್ ಮೂಲದ ಈ ಪದಗಳು ಕಲ್ಲು ಮತ್ತು ಲೋಹಗಳ ಬಳಕೆಯನ್ನು ಆಧರಿಸಿ ಮಾನವನ ತಾಂತ್ರಿಕ ಬೆಳವಣಿಗೆಯ ಹಂತಗಳನ್ನು ವಿವರಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_his_humans_027",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the items used by early humans with their primary purposes:",
+      "pairs": [
+        {
+          "left": "Animal skins",
+          "right": "Clothing to cover bodies"
+        },
+        {
+          "left": "Sharp stone tools",
+          "right": "Hunting animals and scraping skins"
+        },
+        {
+          "left": "Natural caves",
+          "right": "Shelter from cold and rain"
+        },
+        {
+          "left": "Wild seeds",
+          "right": "Planting and starting agriculture"
+        }
+      ],
+      "reasoning": "Early humans adapted to their environment using animal skins for clothes, stones for weapons, caves for homes, and seeds for food."
+    },
+    "kn": {
+      "question": "ಆರಂಭಿಕ ಮಾನವರು ಬಳಸುತ್ತಿದ್ದ ವಸ್ತುಗಳನ್ನು ಅವುಗಳ ಮುಖ್ಯ ಉದ್ದೇಶದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಪ್ರಾಣಿಗಳ ಚರ್ಮ",
+          "right": "ದೇಹವನ್ನು ಮುಚ್ಚುವ ಬಟ್ಟೆ"
+        },
+        {
+          "left": "ಚೂಪಾದ ಕಲ್ಲುಗಳು",
+          "right": "ಬೇಟೆ ಮತ್ತು ಚರ್ಮ ಸುಲಿಯುವುದು"
+        },
+        {
+          "left": "ನೈಸರ್ಗಿಕ ಗುಹೆಗಳು",
+          "right": "ಚಳಿ ಮತ್ತು ಮಳೆಯಿಂದ ಆಶ್ರಯ"
+        },
+        {
+          "left": "ಕಾಡು ಬೀಜಗಳು",
+          "right": "ಕೃಷಿಯನ್ನು ಪ್ರಾರಂಭಿಸುವುದು"
+        }
+      ],
+      "reasoning": "ಆರಂಭಿಕ ಮಾನವರು ತಮ್ಮ ಪರಿಸರಕ್ಕೆ ಹೊಂದಿಕೊಳ್ಳಲು ಚರ್ಮವನ್ನು ಬಟ್ಟೆಯಾಗಿಯೂ, ಕಲ್ಲನ್ನು ಆಯುಧವಾಗಿಯೂ, ಗುಹೆಗಳನ್ನು ಮನೆಯಾಗಿಯೂ ಬಳಸಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_humans_028",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the prehistoric discoveries with the key benefits they brought to human life:",
+      "pairs": [
+        {
+          "left": "Controlled Fire",
+          "right": "Cooking food and scaring animals"
+        },
+        {
+          "left": "Wooden/Stone Wheel",
+          "right": "Easier transport and pottery"
+        },
+        {
+          "left": "Clay Pottery",
+          "right": "Storing excess grains and water"
+        },
+        {
+          "left": "Animal Domestication",
+          "right": "Help in farming and milk supply"
+        }
+      ],
+      "reasoning": "Fire, wheels, pots, and animal taming were milestones that transformed wild hunter-gatherers into settled community builders."
+    },
+    "kn": {
+      "question": "ಇತಿಹಾಸಪೂರ್ವ ಆವಿಷ್ಕಾರಗಳನ್ನು ಅವು ಮಾನವನ ಜೀವನಕ್ಕೆ ತಂದ ಪ್ರಮುಖ ಪ್ರಯೋಜನಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ನಿಯಂತ್ರಿತ ಬೆಂಕಿ",
+          "right": "ಆಹಾರ ಬೇಯಿಸುವುದು ಮತ್ತು ಪ್ರಾಣಿ ಹೆದರಿಸುವುದು"
+        },
+        {
+          "left": "ಮರ/ಕಲ್ಲಿನ ಚಕ್ರ",
+          "right": "ಸಾರಿಗೆ ಮತ್ತು ಮಡಕೆ ತಯಾರಿಕೆ"
+        },
+        {
+          "left": "ಮಣ್ಣಿನ ಮಡಕೆಗಳು",
+          "right": "ಧಾನ್ಯ ಮತ್ತು ನೀರು ಶೇಖರಣೆ"
+        },
+        {
+          "left": "ಪ್ರಾಣಿಗಳನ್ನು ಪಳಗಿಸುವುದು",
+          "right": "ಕೃಷಿಗೆ ಸಹಾಯ ಮತ್ತು ಹಾಲಿನ ಪೂರೈಕೆ"
+        }
+      ],
+      "reasoning": "ಬೆಂಕಿ, ಚಕ್ರ, ಮಡಕೆಗಳು ಮತ್ತು ಪ್ರಾಣಿ ಸಂಗೋಪನೆಯು ಅಲೆಮಾರಿ ಮಾನವರನ್ನು ಸಂಘಟಿತ ಸಮಾಜದ ಸ್ಥಾಪಕರನ್ನಾಗಿ ಪರಿವರ್ತಿಸಿದವು."
+    }
+  },
+  {
+    "id": "c5_his_humans_029",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the major archaeological sites in India with their historic findings:",
+      "pairs": [
+        {
+          "left": "Bhimbetka",
+          "right": "Cave art showing community dancing"
+        },
+        {
+          "left": "Kurnool",
+          "right": "Ash remnants of fire usage"
+        },
+        {
+          "left": "Mehrgarh",
+          "right": "Earliest wheat and barley crops"
+        },
+        {
+          "left": "Hunsgi",
+          "right": "Habitation-cum-tool factory site"
+        }
+      ],
+      "reasoning": "Archaeologists map the evolution of human life using findings like paintings at Bhimbetka, ash at Kurnool, seeds at Mehrgarh, and tool workshops at Hunsgi."
+    },
+    "kn": {
+      "question": "ಭಾರತದ ಪ್ರಮುಖ ಪುರಾತತ್ವ ತಾಣಗಳನ್ನು ಅಲ್ಲಿನ ಐತಿಹಾಸಿಕ ಸಂಶೋಧನೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಭೀಮ್‌ಬೆಟ್ಕಾ",
+          "right": "ಸಾಮೂಹಿಕ ನೃತ್ಯ ಬಿಂಬಿಸುವ ಗುಹೆ ಕಲೆ"
+        },
+        {
+          "left": "ಕರ್ನೂಲ್",
+          "right": "ಬೆಂಕಿ ಬಳಕೆಯ ಬೂದಿಯ ಅವಶೇಷಗಳು"
+        },
+        {
+          "left": "ಮೆಹರ್‌ಗಢ್",
+          "right": "ಅತಿ ಹಳೆಯ ಗೋಧಿ ಮತ್ತು ಬಾರ್ಲಿ ಬೆಳೆಗಳು"
+        },
+        {
+          "left": "ಹುಣಸಗಿ",
+          "right": "ವಸತಿ ಮತ್ತು ಕಲ್ಲಿನ ಆಯುಧ ಕಾರ್ಖಾನೆ"
+        }
+      ],
+      "reasoning": "ಭೀಮ್‌ಬೆಟ್ಕಾದಲ್ಲಿ ಚಿತ್ರಗಳು, ಕರ್ನೂಲ್‌ನಲ್ಲಿ ಬೂದಿ, ಮೆಹರ್‌ಗಢ್‌ನಲ್ಲಿ ಬೀಜಗಳು ಮತ್ತು ಹುಣಸಗಿಯಲ್ಲಿ ಆಯುಧ ಕಾರ್ಖಾನೆ ಪತ್ತೆಯಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_his_humans_030",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the prehistoric tool types with their specific characteristics:",
+      "pairs": [
+        {
+          "left": "Hand axe",
+          "right": "Heavy Paleolithic stone for chopping wood"
+        },
+        {
+          "left": "Microliths",
+          "right": "Tiny Mesolithic blades mounted on bone shafts"
+        },
+        {
+          "left": "Polished tools",
+          "right": "Fine-edged Neolithic axes with smooth finish"
+        },
+        {
+          "left": "Copper sickles",
+          "right": "Early metal blades for harvesting wild grasses"
+        }
+      ],
+      "reasoning": "Stone and metal tools evolved over thousands of years from crude heavy hand axes to tiny sharp microliths, and later to metal blades."
+    },
+    "kn": {
+      "question": "ಇತಿಹಾಸಪೂರ್ವ ಆಯುಧಗಳ ಪ್ರಕಾರಗಳನ್ನು ಅವುಗಳ ನಿರ್ದಿಷ್ಟ ಲಕ್ಷಣಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಕೈ ಕೊಡಲಿ",
+          "right": "ಮರ ಕಡಿಯಲು ಬಳಸುತ್ತಿದ್ದ ಭಾರೀ ಕಲ್ಲುಗಳು"
+        },
+        {
+          "left": "ಮೈಕ್ರೋಲಿತ್ಸ್",
+          "right": "ಮೂಳೆಗೆ ಸಿಕ್ಕಿಸಿದ ಸಣ್ಣ ಸೂಕ್ಷ್ಮ ಕಲ್ಲುಗಳು"
+        },
+        {
+          "left": "ನಯಗೊಳಿಸಿದ ಕೊಡಲಿಗಳು",
+          "right": "ಮೃದುವಾಗಿ ಸಿದ್ಧಪಡಿಸಿದ ನವಶಿಲಾಯುಗದ ಆಯುಧಗಳು"
+        },
+        {
+          "left": "ತಾಮ್ರದ ಕುಡುಗೋಲುಗಳು",
+          "right": "ಹುಲ್ಲು ಕಟಾವು ಮಾಡಲು ಬಳಸಿದ ಆರಂಭಿಕ ಲೋಹದ ಬ್ಲೇಡ್"
+        }
+      ],
+      "reasoning": "ಶಿಲಾಯುಗದ ಆಯುಧಗಳು ನಿರಂತರವಾಗಿ ವಿಕಸನಗೊಂಡು ದೊಡ್ಡ ಕೈಕೊಡಲಿಗಳಿಂದ ಹಿಡಿದು ಸೂಕ್ಷ್ಮಶಿಲೆಗಳವರೆಗೆ ಮತ್ತು ನಂತರ ಲೋಹದ ಬ್ಲೇಡ್‌ಗಳಾಗಿ ಮಾರ್ಪಟ್ಟವು."
+    }
+  }
+]

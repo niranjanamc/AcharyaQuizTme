@@ -832,51 +832,47 @@
     "difficulty": 2,
     "en": {
       "question": "Match the English letter with its type of line symmetry:",
-      "options": {
-        "left": [
-          "A",
-          "B",
-          "H",
-          "F"
-        ],
-        "right": [
-          "Vertical only",
-          "Horizontal only",
-          "Both vertical and horizontal",
-          "No line symmetry"
-        ]
-      },
-      "answer": {
-        "A": "Vertical only",
-        "B": "Horizontal only",
-        "H": "Both vertical and horizontal",
-        "F": "No line symmetry"
-      },
-      "reasoning": "A is vertical, B is horizontal, H is both, F has none."
+      "reasoning": "A is vertical, B is horizontal, H is both, F has none.",
+      "pairs": [
+        {
+          "left": "A",
+          "right": "Vertical only"
+        },
+        {
+          "left": "B",
+          "right": "Horizontal only"
+        },
+        {
+          "left": "H",
+          "right": "Both vertical and horizontal"
+        },
+        {
+          "left": "F",
+          "right": "No line symmetry"
+        }
+      ]
     },
     "kn": {
       "question": "ಇಂಗ್ಲಿಷ್ ಅಕ್ಷರವನ್ನು ಅದರ ಸಮಮಿತಿ ರೇಖೆಯ ಪ್ರಕಾರದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "options": {
-        "left": [
-          "A",
-          "B",
-          "H",
-          "F"
-        ],
-        "right": [
-          "ಲಂಬ ಮಾತ್ರ",
-          "ಅಡ್ಡ ಮಾತ್ರ",
-          "ಲಂಬ ಮತ್ತು ಅಡ್ಡ ಎರಡೂ",
-          "ಸಮಮಿತಿ ರೇಖೆಯಿಲ್ಲ"
-        ]
-      },
-      "answer": {
-        "A": "ಲಂಬ ಮಾತ್ರ",
-        "B": "ಅಡ್ಡ ಮಾತ್ರ",
-        "H": "ಲಂಬ ಮತ್ತು ಅಡ್ಡ ಎರಡೂ",
-        "F": "ಸಮಮಿತಿ ರೇಖೆಯಿಲ್ಲ"
-      },
-      "reasoning": "A ಗೆ ಲಂಬವಿದೆ, B ಗೆ ಅಡ್ಡವಿದೆ, H ಗೆ ಎರಡೂ ಇವೆ, F ಗೆ ಇಲ್ಲ."
+      "reasoning": "A ಗೆ ಲಂಬವಿದೆ, B ಗೆ ಅಡ್ಡವಿದೆ, H ಗೆ ಎರಡೂ ಇವೆ, F ಗೆ ಇಲ್ಲ.",
+      "pairs": [
+        {
+          "left": "A",
+          "right": "ಲಂಬ ಮಾತ್ರ"
+        },
+        {
+          "left": "B",
+          "right": "ಅಡ್ಡ ಮಾತ್ರ"
+        },
+        {
+          "left": "H",
+          "right": "ಲಂಬ ಮತ್ತು ಅಡ್ಡ ಎರಡೂ"
+        },
+        {
+          "left": "F",
+          "right": "ಸಮಮಿತಿ ರೇಖೆಯಿಲ್ಲ"
+        }
+      ]
     }
   },
   {
@@ -885,51 +881,47 @@
     "difficulty": 3,
     "en": {
       "question": "Match the shape with its number of lines of symmetry:",
-      "options": {
-        "left": [
-          "Square",
-          "Rectangle",
-          "Equilateral Triangle",
-          "Regular Hexagon"
-        ],
-        "right": [
-          "3",
-          "4",
-          "2",
-          "6"
-        ]
-      },
-      "answer": {
-        "Square": "4",
-        "Rectangle": "2",
-        "Equilateral Triangle": "3",
-        "Regular Hexagon": "6"
-      },
-      "reasoning": "Square: 4, Rectangle: 2, Equilateral: 3, Hexagon: 6."
+      "reasoning": "Square: 4, Rectangle: 2, Equilateral: 3, Hexagon: 6.",
+      "pairs": [
+        {
+          "left": "Square",
+          "right": "3"
+        },
+        {
+          "left": "Rectangle",
+          "right": "4"
+        },
+        {
+          "left": "Equilateral Triangle",
+          "right": "2"
+        },
+        {
+          "left": "Regular Hexagon",
+          "right": "6"
+        }
+      ]
     },
     "kn": {
       "question": "ಆಕಾರವನ್ನು ಅದರ ಸಮಮಿತಿ ರೇಖೆಗಳ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "options": {
-        "left": [
-          "ಚೌಕ",
-          "ಆಯತ",
-          "ಸಮಬಾಹು ತ್ರಿಕೋನ",
-          "ನಿಯಮಿತ ಷಡ್ಭುಜಾಕೃತಿ"
-        ],
-        "right": [
-          "3",
-          "4",
-          "2",
-          "6"
-        ]
-      },
-      "answer": {
-        "ಚೌಕ": "4",
-        "ಆಯತ": "2",
-        "ಸಮಬಾಹು ತ್ರಿಕೋನ": "3",
-        "ನಿಯಮಿತ ಷಡ್ಭುಜಾಕೃತಿ": "6"
-      },
-      "reasoning": "ಚೌಕ: 4, ಆಯತ: 2, ಸಮಬಾಹು: 3, ಷಡ್ಭುಜಾಕೃತಿ: 6."
+      "reasoning": "ಚೌಕ: 4, ಆಯತ: 2, ಸಮಬಾಹು: 3, ಷಡ್ಭುಜಾಕೃತಿ: 6.",
+      "pairs": [
+        {
+          "left": "ಚೌಕ",
+          "right": "3"
+        },
+        {
+          "left": "ಆಯತ",
+          "right": "4"
+        },
+        {
+          "left": "ಸಮಬಾಹು ತ್ರಿಕೋನ",
+          "right": "2"
+        },
+        {
+          "left": "ನಿಯಮಿತ ಷಡ್ಭುಜಾಕೃತಿ",
+          "right": "6"
+        }
+      ]
     }
   },
   {
@@ -938,51 +930,47 @@
     "difficulty": 1,
     "en": {
       "question": "Match the term with its definition:",
-      "options": {
-        "left": [
-          "Line of Symmetry",
-          "Symmetrical",
-          "Asymmetrical",
-          "Reflection"
-        ],
-        "right": [
-          "A line that divides a figure into two mirrored halves",
-          "Having matching halves",
-          "Not having matching halves",
-          "The mirrored image of a shape"
-        ]
-      },
-      "answer": {
-        "Line of Symmetry": "A line that divides a figure into two mirrored halves",
-        "Symmetrical": "Having matching halves",
-        "Asymmetrical": "Not having matching halves",
-        "Reflection": "The mirrored image of a shape"
-      },
-      "reasoning": "Definitions of symmetry concepts."
+      "reasoning": "Definitions of symmetry concepts.",
+      "pairs": [
+        {
+          "left": "Line of Symmetry",
+          "right": "A line that divides a figure into two mirrored halves"
+        },
+        {
+          "left": "Symmetrical",
+          "right": "Having matching halves"
+        },
+        {
+          "left": "Asymmetrical",
+          "right": "Not having matching halves"
+        },
+        {
+          "left": "Reflection",
+          "right": "The mirrored image of a shape"
+        }
+      ]
     },
     "kn": {
       "question": "ಪದವನ್ನು ಅದರ ವ್ಯಾಖ್ಯಾನದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "options": {
-        "left": [
-          "ಸಮಮಿತಿ ರೇಖೆ",
-          "ಸಮಮಿತೀಯ",
-          "ಅಸಮಮಿತೀಯ",
-          "ಪ್ರತಿಫಲನ"
-        ],
-        "right": [
-          "ಚಿತ್ರವನ್ನು ಎರಡು ಕನ್ನಡಿ ಭಾಗಗಳಾಗಿ ವಿಭಜಿಸುವ ರೇಖೆ",
-          "ಹೊಂದಿಕೆಯಾಗುವ ಭಾಗಗಳನ್ನು ಹೊಂದಿರುವುದು",
-          "ಹೊಂದಿಕೆಯಾಗುವ ಭಾಗಗಳನ್ನು ಹೊಂದಿಲ್ಲದಿರುವುದು",
-          "ಆಕಾರದ ಕನ್ನಡಿ ಪ್ರತಿಬಿಂಬ"
-        ]
-      },
-      "answer": {
-        "ಸಮಮಿತಿ ರೇಖೆ": "ಚಿತ್ರವನ್ನು ಎರಡು ಕನ್ನಡಿ ಭಾಗಗಳಾಗಿ ವಿಭಜಿಸುವ ರೇಖೆ",
-        "ಸಮಮಿತೀಯ": "ಹೊಂದಿಕೆಯಾಗುವ ಭಾಗಗಳನ್ನು ಹೊಂದಿರುವುದು",
-        "ಅಸಮಮಿತೀಯ": "ಹೊಂದಿಕೆಯಾಗುವ ಭಾಗಗಳನ್ನು ಹೊಂದಿಲ್ಲದಿರುವುದು",
-        "ಪ್ರತಿಫಲನ": "ಆಕಾರದ ಕನ್ನಡಿ ಪ್ರತಿಬಿಂಬ"
-      },
-      "reasoning": "ಸಮಮಿತಿ ಪರಿಕಲ್ಪನೆಗಳ ವ್ಯಾಖ್ಯಾನಗಳು."
+      "reasoning": "ಸಮಮಿತಿ ಪರಿಕಲ್ಪನೆಗಳ ವ್ಯಾಖ್ಯಾನಗಳು.",
+      "pairs": [
+        {
+          "left": "ಸಮಮಿತಿ ರೇಖೆ",
+          "right": "ಚಿತ್ರವನ್ನು ಎರಡು ಕನ್ನಡಿ ಭಾಗಗಳಾಗಿ ವಿಭಜಿಸುವ ರೇಖೆ"
+        },
+        {
+          "left": "ಸಮಮಿತೀಯ",
+          "right": "ಹೊಂದಿಕೆಯಾಗುವ ಭಾಗಗಳನ್ನು ಹೊಂದಿರುವುದು"
+        },
+        {
+          "left": "ಅಸಮಮಿತೀಯ",
+          "right": "ಹೊಂದಿಕೆಯಾಗುವ ಭಾಗಗಳನ್ನು ಹೊಂದಿಲ್ಲದಿರುವುದು"
+        },
+        {
+          "left": "ಪ್ರತಿಫಲನ",
+          "right": "ಆಕಾರದ ಕನ್ನಡಿ ಪ್ರತಿಬಿಂಬ"
+        }
+      ]
     }
   },
   {
@@ -991,45 +979,39 @@
     "difficulty": 3,
     "en": {
       "question": "Match the triangle type with its lines of symmetry:",
-      "options": {
-        "left": [
-          "Equilateral",
-          "Isosceles",
-          "Scalene"
-        ],
-        "right": [
-          "3 lines",
-          "1 line",
-          "0 lines"
-        ]
-      },
-      "answer": {
-        "Equilateral": "3 lines",
-        "Isosceles": "1 line",
-        "Scalene": "0 lines"
-      },
-      "reasoning": "Equilateral (3 sides equal = 3 lines). Isosceles (2 sides equal = 1 line). Scalene (0 equal = 0 lines)."
+      "reasoning": "Equilateral (3 sides equal = 3 lines). Isosceles (2 sides equal = 1 line). Scalene (0 equal = 0 lines).",
+      "pairs": [
+        {
+          "left": "Equilateral",
+          "right": "3 lines"
+        },
+        {
+          "left": "Isosceles",
+          "right": "1 line"
+        },
+        {
+          "left": "Scalene",
+          "right": "0 lines"
+        }
+      ]
     },
     "kn": {
       "question": "ತ್ರಿಕೋನದ ಪ್ರಕಾರವನ್ನು ಅದರ ಸಮಮಿತಿ ರೇಖೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "options": {
-        "left": [
-          "ಸಮಬಾಹು",
-          "ಸಮದ್ವಿಬಾಹು",
-          "ಅಸಮಬಾಹು"
-        ],
-        "right": [
-          "3 ರೇಖೆಗಳು",
-          "1 ರೇಖೆ",
-          "0 ರೇಖೆಗಳು"
-        ]
-      },
-      "answer": {
-        "ಸಮಬಾಹು": "3 ರೇಖೆಗಳು",
-        "ಸಮದ್ವಿಬಾಹು": "1 ರೇಖೆ",
-        "ಅಸಮಬಾಹು": "0 ರೇಖೆಗಳು"
-      },
-      "reasoning": "ಸಮಬಾಹು (3 ರೇಖೆಗಳು), ಸಮದ್ವಿಬಾಹು (1 ರೇಖೆ), ಅಸಮಬಾಹು (0 ರೇಖೆಗಳು)."
+      "reasoning": "ಸಮಬಾಹು (3 ರೇಖೆಗಳು), ಸಮದ್ವಿಬಾಹು (1 ರೇಖೆ), ಅಸಮಬಾಹು (0 ರೇಖೆಗಳು).",
+      "pairs": [
+        {
+          "left": "ಸಮಬಾಹು",
+          "right": "3 ರೇಖೆಗಳು"
+        },
+        {
+          "left": "ಸಮದ್ವಿಬಾಹು",
+          "right": "1 ರೇಖೆ"
+        },
+        {
+          "left": "ಅಸಮಬಾಹು",
+          "right": "0 ರೇಖೆಗಳು"
+        }
+      ]
     }
   },
   {
@@ -1038,51 +1020,47 @@
     "difficulty": 2,
     "en": {
       "question": "Match the real-world object to its typical number of lines of symmetry:",
-      "options": {
-        "left": [
-          "Perfect Snowflake",
-          "Standard Playing Card",
-          "Human Face",
-          "Circle"
-        ],
-        "right": [
-          "6",
-          "2",
-          "1",
-          "Infinite"
-        ]
-      },
-      "answer": {
-        "Perfect Snowflake": "6",
-        "Standard Playing Card": "2",
-        "Human Face": "1",
-        "Circle": "Infinite"
-      },
-      "reasoning": "Snowflake has 6, Card has 2 (ignoring face value), Human face 1, Circle infinite."
+      "reasoning": "Snowflake has 6, Card has 2 (ignoring face value), Human face 1, Circle infinite.",
+      "pairs": [
+        {
+          "left": "Perfect Snowflake",
+          "right": "6"
+        },
+        {
+          "left": "Standard Playing Card",
+          "right": "2"
+        },
+        {
+          "left": "Human Face",
+          "right": "1"
+        },
+        {
+          "left": "Circle",
+          "right": "Infinite"
+        }
+      ]
     },
     "kn": {
       "question": "ನೈಜ-ಪ್ರಪಂಚದ ವಸ್ತುವನ್ನು ಅದರ ವಿಶಿಷ್ಟವಾದ ಸಮಮಿತಿ ರೇಖೆಗಳ ಸಂಖ್ಯೆಗೆ ಹೊಂದಿಸಿ:",
-      "options": {
-        "left": [
-          "ಪರಿಪೂರ್ಣ ಮಂಜಿನ ಚೂರು",
-          "ಪ್ರಮಾಣಿತ ಪ್ಲೇಯಿಂಗ್ ಕಾರ್ಡ್",
-          "ಮನುಷ್ಯನ ಮುಖ",
-          "ವೃತ್ತ"
-        ],
-        "right": [
-          "6",
-          "2",
-          "1",
-          "ಅನಂತ"
-        ]
-      },
-      "answer": {
-        "ಪರಿಪೂರ್ಣ ಮಂಜಿನ ಚೂರು": "6",
-        "ಪ್ರಮಾಣಿತ ಪ್ಲೇಯಿಂಗ್ ಕಾರ್ಡ್": "2",
-        "ಮನುಷ್ಯನ ಮುಖ": "1",
-        "ವೃತ್ತ": "ಅನಂತ"
-      },
-      "reasoning": "ಮಂಜಿನ ಚೂರು 6, ಕಾರ್ಡ್ 2, ಮುಖ 1, ವೃತ್ತ ಅನಂತ."
+      "reasoning": "ಮಂಜಿನ ಚೂರು 6, ಕಾರ್ಡ್ 2, ಮುಖ 1, ವೃತ್ತ ಅನಂತ.",
+      "pairs": [
+        {
+          "left": "ಪರಿಪೂರ್ಣ ಮಂಜಿನ ಚೂರು",
+          "right": "6"
+        },
+        {
+          "left": "ಪ್ರಮಾಣಿತ ಪ್ಲೇಯಿಂಗ್ ಕಾರ್ಡ್",
+          "right": "2"
+        },
+        {
+          "left": "ಮನುಷ್ಯನ ಮುಖ",
+          "right": "1"
+        },
+        {
+          "left": "ವೃತ್ತ",
+          "right": "ಅನಂತ"
+        }
+      ]
     }
   }
 ]

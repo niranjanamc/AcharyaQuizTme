@@ -1,0 +1,459 @@
+[
+  {
+    "id": "c5_eng_unit6_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In the poem 'Class Discussion', who is the quiet child in the class who hardly says a word?",
+      "options": ["Jane", "Harry", "Sultan", "The Barber"],
+      "answer": "Jane",
+      "reasoning": "In the poem 'Class Discussion', Jane is the quiet student who sits and stares in silence while others discuss ideas."
+    },
+    "kn": {
+      "question": "'ಕ್ಲಾಸ್ ಡಿಸ್ಕಷನ್' (ತರಗತಿ ಚರ್ಚೆ) ಪದ್ಯದಲ್ಲಿ, ಒಂದು ಪದವನ್ನೂ ಆಡದೆ ಸುಮ್ಮನೆ ಕುಳಿತುಕೊಳ್ಳುವ ಮಗು ಯಾರು?",
+      "options": ["ಜೇನ್", "ಹ್ಯಾರಿ", "ಸುಲ್ತಾನ್", "ಕ್ಷೌರಿಕ"],
+      "answer": "ಜೇನ್",
+      "reasoning": "'ಕ್ಲಾಸ್ ಡಿಸ್ಕಷನ್' ಪದ್ಯದಲ್ಲಿ, ಇತರರು ತಮ್ಮ ಅಭಿಪ್ರಾಯಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುತ್ತಿರುವಾಗ ಜೇನ್ ಮಾತ್ರ ಯಾವುದೇ ಮಾತನಾಡದೆ ಸುಮ್ಮನೆ ಕುಳಿತಿರುತ್ತಾಳೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who was talking constantly and delaying his work in the story 'The Talkative Barber'?",
+      "options": ["The Sultan", "The Barber", "The Sultan's advisor", "The Barber's brother"],
+      "answer": "The Barber",
+      "reasoning": "The Barber was extremely talkative. Instead of shaving the Sultan's head, he kept talking and wasted time."
+    },
+    "kn": {
+      "question": "'ದ ಟಾಕೇಟಿವ್ ಬಾರ್ಬರ್' (ಮಾತಿನ ಮಲ್ಲ ಕ್ಷೌರಿಕ) ಕಥೆಯಲ್ಲಿ, ಸತತವಾಗಿ ಮಾತನಾಡುತ್ತಾ ತನ್ನ ಕೆಲಸವನ್ನು ವಿಳಂಬಗೊಳಿಸುತ್ತಿದ್ದವರು ಯಾರು?",
+      "options": ["ಸುಲ್ತಾನ್", "ಕ್ಷೌರಿಕ", "ಸುಲ್ತಾನನ ಸಲಹೆಗಾರ", "ಕ್ಷೌರಿಕನ ಸಹೋದರ"],
+      "answer": "ಕ್ಷೌರಿಕ",
+      "reasoning": "ಕ್ಷೌರಿಕನು ತುಂಬಾ ಹರಟೆ ಹೊಡೆಯುವವನಾಗಿದ್ದನು. ಸುಲ್ತಾನನ ತಲೆ ಕ್ಷೌರ ಮಾಡುವ ಬದಲು ಆತ ಮಾತನಾಡುತ್ತಾ ಸಮಯ ವ್ಯರ್ಥ ಮಾಡುತ್ತಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What was the Barber supposed to do to the Sultan?",
+      "options": ["Cut his nails", "Shave his head", "Make a new dress", "Cook dinner"],
+      "answer": "Shave his head",
+      "reasoning": "The Sultan had called the Barber to shave his head."
+    },
+    "kn": {
+      "question": "ಕ್ಷೌರಿಕನು ಸುಲ್ತಾನನಿಗೆ ಏನು ಮಾಡಬೇಕಾಗಿತ್ತು?",
+      "options": ["ನಖಗಳನ್ನು ಕತ್ತರಿಸುವುದು", "ತಲೆ ಕ್ಷೌರ ಮಾಡುವುದು", "ಹೊಸ ಬಟ್ಟೆ ಹೊಲಿಯುವುದು", "ರಾತ್ರಿಯ ಊಟ ತಯಾರಿಸುವುದು"],
+      "answer": "ತಲೆ ಕ್ಷೌರ ಮಾಡುವುದು",
+      "reasoning": "ಸುಲ್ತಾನನು ತನ್ನ ತಲೆಯ ಕ್ಷೌರವನ್ನು ಮಾಡಿಸಿಕೊಳ್ಳಲು ಕ್ಷೌರಿಕನನ್ನು ಕರೆಸಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In the poem 'Class Discussion', what did the teacher and children do during the discussion?",
+      "options": ["Shared and discussed ideas", "Played outdoor games", "Slept in class", "Drew paintings"],
+      "answer": "Shared and discussed ideas",
+      "reasoning": "During the class discussion, everyone except Jane was active, sharing and airing their opinions."
+    },
+    "kn": {
+      "question": "'ಕ್ಲಾಸ್ ಡಿಸ್ಕಷನ್' ಪದ್ಯದಲ್ಲಿ, ಚರ್ಚೆಯ ಸಮಯದಲ್ಲಿ ಶಿಕ್ಷಕರು ಮತ್ತು ಮಕ್ಕಳು ಏನು ಮಾಡಿದರು?",
+      "options": ["ವಿಚಾರಗಳನ್ನು ಹಂಚಿಕೊಂಡು ಚರ್ಚಿಸಿದರು", "ಹೊರಾಂಗಣ ಆಟಗಳನ್ನು ಆಡಿದರು", "ತರಗತಿಯಲ್ಲಿ ನಿದ್ರಿಸಿದರು", "ಚಿತ್ರಗಳನ್ನು ಬಿಡಿಸಿದರು"],
+      "answer": "ವಿಚಾರಗಳನ್ನು ಹಂಚಿಕೊಂಡು ಚರ್ಚಿಸಿದರು",
+      "reasoning": "ತರಗತಿ ಚರ್ಚೆಯ ಸಮಯದಲ್ಲಿ, ಜೇನ್ ಹೊರತುಪಡಿಸಿ ಉಳಿದೆಲ್ಲರೂ ಸಕ್ರಿಯವಾಗಿ ತಮ್ಮ ಅಭಿಪ್ರಾಯಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In which city did the Sultan, who was tired of the talkative barber, rule?",
+      "options": ["Cashgar", "Baghdad", "Delhi", "Cairo"],
+      "answer": "Cashgar",
+      "reasoning": "The story mentions that the Sultan ruled in a city called Cashgar."
+    },
+    "kn": {
+      "question": "ಮಾತಿನ ಮಲ್ಲ ಕ್ಷೌರಿಕನಿಂದ ಬೇಸತ್ತಿದ್ದ ಸುಲ್ತಾನನು ಯಾವ ನಗರವನ್ನು ಆಳುತ್ತಿದ್ದನು?",
+      "options": ["ಕಾಶ್ಗರ್", "ಬಾಗ್ದಾದ್", "ದೆಹಲಿ", "ಕೈರೋ"],
+      "answer": "ಕಾಶ್ಗರ್",
+      "reasoning": "ಕಥೆಯಲ್ಲಿ ಉಲ್ಲೇಖಿಸಿರುವಂತೆ ಸುಲ್ತಾನನು ಕಾಶ್ಗರ್ ಎಂಬ ನಗರವನ್ನು ಆಳುತ್ತಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "How many brothers did the talkative barber have in the story?",
+      "options": ["Three", "Four", "Five", "Six"],
+      "answer": "Six",
+      "reasoning": "The Barber mentions that he has six brothers, each with different physical characteristics."
+    },
+    "kn": {
+      "question": "ಕಥೆಯಲ್ಲಿ ಮಾತಿನ ಮಲ್ಲ ಕ್ಷೌರಿಕನಿಗೆ ಎಷ್ಟು ಜನ ಸಹೋದರರಿದ್ದರು?",
+      "options": ["ಮೂರು", "ನಾಲ್ಕು", "ಐದು", "ಆರು"],
+      "answer": "ಆರು",
+      "reasoning": "ಕ್ಷೌರಿಕನು ತನಗೆ ಆರು ಜನ ಸಹೋದರರಿದ್ದಾರೆ ಎಂದು ಸುಲ್ತಾನನಿಗೆ ತಿಳಿಸುತ್ತಾನೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_007",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What reason did Jane give for being quiet during the class discussion?",
+      "options": ["She was afraid of the teacher", "There are many people in the world who are quiet", "She did not know the answers", "She was feeling sick"],
+      "answer": "There are many people in the world who are quiet",
+      "reasoning": "Jane explained that she was naturally quiet and that there are many people in the world who do not talk much."
+    },
+    "kn": {
+      "question": "ತರಗತಿ ಚರ್ಚೆಯ ಸಮಯದಲ್ಲಿ ತಾನು ಶಾಂತವಾಗಿದ್ದಕ್ಕೆ ಜೇನ್ ನೀಡಿದ ಕಾರಣವೇನು?",
+      "options": ["ಅವಳಿಗೆ ಶಿಕ್ಷಕರನ್ನು ಕಂಡರೆ ಭಯವಿತ್ತು", "ಜಗತ್ತಿನಲ್ಲಿ ಮೌನವಾಗಿರುವ ಅನೇಕ ಜನರಿದ್ದಾರೆ", "ಅವಳಿಗೆ ಉತ್ತರಗಳು ತಿಳಿದಿರಲಿಲ್ಲ", "ಅವಳಿಗೆ ಹುಷಾರಿರಲಿಲ್ಲ"],
+      "answer": "ಜಗತ್ತಿನಲ್ಲಿ ಮೌನವಾಗಿರುವ ಅನೇಕ ಜನರಿದ್ದಾರೆ",
+      "reasoning": "ಜಗತ್ತಿನಲ್ಲಿ ಸ್ವಭಾವತಃ ಕಡಿಮೆ ಮಾತನಾಡುವ ಅನೇಕ ಜನರಿದ್ದಾರೆ ಎಂದು ಜೇನ್ ಶಿಕ್ಷಕರಿಗೆ ಶಾಂತವಾಗಿ ವಿವರಿಸುತ್ತಾಳೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_008",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why did the Sultan give three gold coins to the Barber?",
+      "options": ["Because he liked his stories", "To get rid of him and make him leave quickly", "As a reward for a perfect shave", "To help him buy new clothes"],
+      "answer": "To get rid of him and make him leave quickly",
+      "reasoning": "The Sultan wanted to get rid of the Barber because he was talking too much instead of shaving, so he paid him to leave."
+    },
+    "kn": {
+      "question": "ಸುಲ್ತಾನನು ಕ್ಷೌರಿಕನಿಗೆ ಮೂರು ಚಿನ್ನದ ನಾಣ್ಯಗಳನ್ನು ಏಕೆ ನೀಡಿದನು?",
+      "options": ["ಆತನ ಕಥೆಗಳು ಇಷ್ಟವಾದ ಕಾರಣ", "ಆತನನ್ನು ಅಲ್ಲಿಂದ ಕಳುಹಿಸಿ ಮುಕ್ತಿ ಪಡೆಯಲು", "ಅತ್ಯುತ್ತಮ ಕ್ಷೌರಕ್ಕಾಗಿ ಬಹುಮಾನವಾಗಿ", "ಹೊಸ ಬಟ್ಟೆಗಳನ್ನು ಖರೀದಿಸಲು ಸಹಾಯ ಮಾಡಲು"],
+      "answer": "ಆತನನ್ನು ಅಲ್ಲಿಂದ ಕಳುಹಿಸಿ ಮುಕ್ತಿ ಪಡೆಯಲು",
+      "reasoning": "ಕ್ಷೌರಿಕನು ತಲೆ ಕ್ಷೌರ ಮಾಡುವ ಬದಲು ಅತಿಯಾಗಿ ಮಾತನಾಡುತ್ತಿದ್ದುದರಿಂದ ಸುಲ್ತಾನನು ಬೇಸತ್ತು ಆತನನ್ನು ಕಳುಹಿಸಲು ಹಣ ನೀಡಿದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In the story, what did the Barber do repeatedly that made the Sultan very angry?",
+      "options": ["He fell asleep while holding the razor", "He kept stopping his work to talk and tell stories", "He refused to touch the Sultan's head", "He started singing loudly in the palace"],
+      "answer": "He kept stopping his work to talk and tell stories",
+      "reasoning": "The Barber kept stopping the shave to tell stories and talk about his family, which made the Sultan lose patience."
+    },
+    "kn": {
+      "question": "ಕಥೆಯಲ್ಲಿ ಕ್ಷೌರಿಕನು ಪದೇ ಪದೇ ಮಾಡುತ್ತಿದ್ದ ಯಾವ ಕೆಲಸ ಸುಲ್ತಾನನಿಗೆ ತೀವ್ರ ಕೋಪ ತರಿಸಿತು?",
+      "options": ["ಕ್ಷೌರ ಮಾಡುವಾಗ ನಿದ್ರಿಸುತ್ತಿದ್ದನು", "ಮಾತನಾಡಲು ಮತ್ತು ಕಥೆ ಹೇಳಲು ಕೆಲಸವನ್ನು ಪದೇ ಪದೇ ನಿಲ್ಲಿಸುತ್ತಿದ್ದನು", "ಸುಲ್ತಾನನ ತಲೆಯನ್ನು ಮುಟ್ಟಲು ನಿರಾಕರಿಸಿದನು", "ಅರಮನೆಯಲ್ಲಿ ಜೋರಾಗಿ ಹಾಡಲು ಪ್ರಾರಂಭಿಸಿದನು"],
+      "answer": "ಮಾತನಾಡಲು ಮತ್ತು ಕಥೆ ಹೇಳಲು ಕೆಲಸವನ್ನು ಪದೇ ಪದೇ ನಿಲ್ಲಿಸುತ್ತಿದ್ದನು",
+      "reasoning": "ಕ್ಷೌರಿಕನು ಪದೇ ಪದೇ ಕ್ಷೌರ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸಿ ತನ್ನ ಕಥೆಗಳನ್ನು ಹೇಳಲಾರಂಭಿಸಿದ್ದರಿಂದ ಸುಲ್ತಾನನಿಗೆ ಕೋಪ ಬಂದಿತು."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these words is the exact opposite of the word 'talkative'?",
+      "options": ["Quiet", "Chatty", "Loud", "Active"],
+      "answer": "Quiet",
+      "reasoning": "'Talkative' means talking a lot. Its opposite is 'quiet' or 'silent', which means talking very little."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು 'ಟಾಕೇಟಿವ್' (ಹೆಚ್ಚು ಮಾತನಾಡುವ) ಪದದ ವಿರುದ್ಧಾರ್ಥಕ ಪದವಾಗಿದೆ?",
+      "options": ["ಕ್ವಯೆಟ್ (ಶಾಂತ/ಮೌನ)", "ಚಾಟಿ (ಹರಟೆ ಹೊಡೆಯುವ)", "ಲೌಡ್ (ಜೋರಾದ)", "ಆಕ್ಟಿವ್ (ಸಕ್ರಿಯ)"],
+      "answer": "ಕ್ವಯೆಟ್ (ಶಾಂತ/ಮೌನ)",
+      "reasoning": "'ಟಾಕೇಟಿವ್' ಎಂದರೆ ಹೆಚ್ಚು ಮಾತನಾಡುವ ಸ್ವಭಾವ. ಇದಕ್ಕೆ ವಿರುದ್ಧ ಪದ 'ಕ್ವಯೆಟ್' ಅಂದರೆ ಮೌನ ಅಥವಾ ಶಾಂತವಾಗಿರುವುದು."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following defects is NOT mentioned as belonging to one of the Barber's brothers?",
+      "options": ["Humpbacked", "Quite blind", "Deaf", "Fully paralyzed"],
+      "answer": "Fully paralyzed",
+      "reasoning": "The brothers were humpbacked, toothless, half blind, quite blind, deaf, and speech-impaired. None of them was fully paralyzed."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಯಾವ ದೋಷವನ್ನು ಕ್ಷೌರಿಕನ ಸಹೋದರರ ದೋಷಗಳಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾಗಿಲ್ಲ?",
+      "options": ["ಕೂನು ಬೆನ್ನು", "ಸಂಪೂರ್ಣ ಕುರುಡು", "ಕಿವುಡು", "ಪಾರ್ಶ್ವವಾಯು (ಪಾರ್ಶ್ವವಾಯು ಪೀಡಿತ)"],
+      "answer": "ಪಾರ್ಶ್ವವಾಯು (ಪಾರ್ಶ್ವವಾಯು ಪೀಡಿತ)",
+      "reasoning": "ಕ್ಷೌರಿಕನ ಸಹೋದರರಲ್ಲಿ ಕೆಲವರು ಕೂನು ಬೆನ್ನುಳ್ಳವರು, ಕುರುಡರು, ಕಿವುಡರು ಮತ್ತು ಮೂಕರಾಗಿದ್ದರು. ಆದರೆ ಯಾರಿಗೂ ಪಾರ್ಶ್ವವಾಯು ಇರಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What did the Sultan promise to give the Barber to eat when the Barber refused to shave without food?",
+      "options": ["All the food prepared for his feast", "A bowl of rice and soup", "Some bread and milk", "Only sweet fruits"],
+      "answer": "All the food prepared for his feast",
+      "reasoning": "The Sultan had invited some friends for a feast, and out of desperation, he offered all that food to the Barber."
+    },
+    "kn": {
+      "question": "ಆಹಾರವಿಲ್ಲದೆ ಕ್ಷೌರ ಮಾಡಲು ನಿರಾಕರಿಸಿದಾಗ ಸುಲ್ತಾನನು ಕ್ಷೌರಿಕನಿಗೆ ಏನನ್ನು ನೀಡಲು ಒಪ್ಪಿದನು?",
+      "options": ["ಔತಣಕೂಟಕ್ಕಾಗಿ ಸಿದ್ಧಪಡಿಸಿದ ಎಲ್ಲಾ ಆಹಾರ", "ಒಂದು ಬಟ್ಟಲು ಅನ್ನ ಮತ್ತು ಸೂಪ್", "ಸ್ವಲ್ಪ ರೊಟ್ಟಿ ಮತ್ತು ಹಾಲು", "ಕೇವಲ ಸಿಹಿ ಹಣ್ಣುಗಳು"],
+      "answer": "ಔತಣಕೂಟಕ್ಕಾಗಿ ಸಿದ್ಧಪಡಿಸಿದ ಎಲ್ಲಾ ಆಹಾರ",
+      "reasoning": "ಸುಲ್ತಾನನು ತನ್ನ ಸ್ನೇಹಿತರಿಗಾಗಿ ಒಂದು ಔತಣಕೂಟವನ್ನು ಏರ್ಪಡಿಸಿದ್ದನು ಮತ್ತು ಆತ ಬೇಗ ಕ್ಷೌರ ಮುಗಿಸಲು ಆ ಎಲ್ಲಾ ಆಹಾರವನ್ನು ಕ್ಷೌರಿಕನಿಗೆ ನೀಡಲು ಒಪ್ಪಿದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_013",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Identify the correct meaning of the word 'chatterer' as used in the story 'The Talkative Barber'.",
+      "options": ["Someone who talks constantly and rapidly", "A silent person who listens carefully", "A professional palace barber", "A royal guard who protects the Sultan"],
+      "answer": "Someone who talks constantly and rapidly",
+      "reasoning": "A chatterer is a person who talks constantly, often about unimportant things, which perfectly describes the Barber."
+    },
+    "kn": {
+      "question": "'ದ ಟಾಕೇಟಿವ್ ಬಾರ್ಬರ್' ಕಥೆಯಲ್ಲಿ ಬಳಸಲಾದ 'ಚಾಟರರ್' (ಹರಟೆಗಾರ) ಪದದ ಸರಿಯಾದ ಅರ್ಥವೇನು?",
+      "options": ["ಸತತವಾಗಿ ಮತ್ತು ವೇಗವಾಗಿ ಮಾತನಾಡುವ ವ್ಯಕ್ತಿ", "ಗಮನವಿಟ್ಟು ಕೇಳುವ ಮೌನ ವ್ಯಕ್ತಿ", "ಅರಮನೆಯ ವೃತ್ತಿಪರ ಕ್ಷೌರಿಕ", "ಸುಲ್ತಾನನನ್ನು ರಕ್ಷಿಸುವ ರಾಜ ಕಾವಲುಗಾರ"],
+      "answer": "ಸತತವಾಗಿ ಮತ್ತು ವೇಗವಾಗಿ ಮಾತನಾಡುವ ವ್ಯಕ್ತಿ",
+      "reasoning": "'ಚಾಟರರ್' ಎಂದರೆ ಅನಗತ್ಯವಾಗಿ ಮತ್ತು ನಿರಂತರವಾಗಿ ಮಾತನಾಡುವ ಹರಟೆಗಾರ ಎಂದರ್ಥ."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_014",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "In the poem 'Class Discussion', what does the teacher mean by saying 'please be plain' to Jane?",
+      "options": ["Speak clearly and honestly", "Do not wear fancy clothes", "Draw a flat line on the board", "Sit quietly in the corner"],
+      "answer": "Speak clearly and honestly",
+      "reasoning": "The teacher is asking Jane to be direct, open, and clear about why she is not speaking in class."
+    },
+    "kn": {
+      "question": "'ಕ್ಲಾಸ್ ಡಿಸ್ಕಷನ್' ಪದ್ಯದಲ್ಲಿ, ಶಿಕ್ಷಕರು ಜೇನ್‌ಗೆ 'ಪ್ಲೀಸ್ ಬಿ ಪ್ಲೇನ್' ಎಂದು ಹೇಳುವ ಅರ್ಥವೇನು?",
+      "options": ["ಸ್ಪಷ್ಟವಾಗಿ ಮತ್ತು ಪ್ರಾಮಾಣಿಕವಾಗಿ ಮಾತನಾಡು", "ಅಲಂಕಾರಿಕ ಬಟ್ಟೆಗಳನ್ನು ಧರಿಸಬೇಡ", "ಕಪ್ಪುಹಲಗೆಯ ಮೇಲೆ ನೇರ ರೇಖೆ ಎಳಿ", "ಮೂಲೆಯಲ್ಲಿ ಸುಮ್ಮನೆ ಕುಳಿತುಕೋ"],
+      "answer": "ಸ್ಪಷ್ಟವಾಗಿ ಮತ್ತು ಪ್ರಾಮಾಣಿಕವಾಗಿ ಮಾತನಾಡು",
+      "reasoning": "ಶಿಕ್ಷಕರು ಜೇನ್ ಬಳಿ ಅವಳು ತರಗತಿಯಲ್ಲಿ ಏಕೆ ಸುಮ್ಮನೆ ಕುಳಿತಿದ್ದಾಳೆ ಎಂಬುದನ್ನು ನೇರವಾಗಿ ಮತ್ತು ಸ್ಪಷ್ಟವಾಗಿ ಹೇಳಲು ಕೇಳುತ್ತಿದ್ದಾರೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why did the Barber stop shaving the Sultan's head to inspect the food offered to him?",
+      "options": ["To see if there was enough variety and if dessert was included", "To check if the food was poisoned by enemies", "To pack it in containers for his family first", "To see if he could sell it in the market later"],
+      "answer": "To see if there was enough variety and if dessert was included",
+      "reasoning": "The Barber was very demanding and wanted to verify if there were enough dishes and especially if fruits/dessert were provided."
+    },
+    "kn": {
+      "question": "ಕ್ಷೌರಿಕನು ತನಗೆ ನೀಡಿದ ಆಹಾರವನ್ನು ಪರೀಕ್ಷಿಸಲು ಸುಲ್ತಾನನ ತಲೆ ಕ್ಷೌರ ಮಾಡುವುದನ್ನು ಏಕೆ ನಿಲ್ಲಿಸಿದನು?",
+      "options": ["ಸಾಕಷ್ಟು ವೈವಿಧ್ಯಮಯ ಅಡುಗೆಗಳು ಮತ್ತು ಸಿಹಿ ತಿನಿಸುಗಳು ಇವೆಯೇ ಎಂದು ನೋಡಲು", "ಆಹಾರದಲ್ಲಿ ವಿಷ ಬೆರೆಸಲಾಗಿದೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಲು", "ಅದನ್ನು ತನ್ನ ಕುಟುಂಬಕ್ಕಾಗಿ ಮೊದಲೇ ಪ್ಯಾಕ್ ಮಾಡಲು", "ನಂತರ ಅದನ್ನು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಮಾರಾಟ ಮಾಡಲು"],
+      "answer": "ಸಾಕಷ್ಟು ವೈವಿಧ್ಯಮಯ ಅಡುಗೆಗಳು ಮತ್ತು ಸಿಹಿ ತಿನಿಸುಗಳು ಇವೆಯೇ ಎಂದು ನೋಡಲು",
+      "reasoning": "ಕ್ಷೌರಿಕನು ತನಗೆ ನೀಡಿದ ಆಹಾರದಲ್ಲಿ ಸಿಹಿತಿಂಡಿ ಮತ್ತು ಹಣ್ಣುಗಳು ಇವೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಲು ಕೆಲಸವನ್ನು ಮಧ್ಯದಲ್ಲೇ ನಿಲ್ಲಿಸಿದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following verbs from the poem 'Class Discussion' means 'to express or publicize an opinion'?",
+      "options": ["Air", "Stare", "Chatter", "Plain"],
+      "answer": "Air",
+      "reasoning": "To 'air' opinions means to express them openly in public so that others can hear them."
+    },
+    "kn": {
+      "question": "'ಕ್ಲಾಸ್ ಡಿಸ್ಕಷನ್' ಪದ್ಯದಲ್ಲಿ ಬಳಸಲಾದ ಯಾವ ಪದವು 'ಅಭಿಪ್ರಾಯವನ್ನು ವ್ಯಕ್ತಪಡಿಸುವುದು' ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುತ್ತದೆ?",
+      "options": ["ಏರ್ (Air)", "ಸ್ಟೇರ್ (Stare)", "ಚಾಟರ್ (Chatter)", "ಪ್ಲೇನ್ (Plain)"],
+      "answer": "ಏರ್ (Air)",
+      "reasoning": "'ಏರ್' ಎಂದರೆ ಇಲ್ಲಿ ತನ್ನ ಅನಿಸಿಕೆ ಅಥವಾ ಅಭಿಪ್ರಾಯವನ್ನು ತರಗತಿಯಲ್ಲಿ ಎಲ್ಲರ ಮುಂದೆ ಹಂಚಿಕೊಳ್ಳುವುದು ಎಂದರ್ಥ."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why did the Barber claim that he was the 'quietest' among all his brothers?",
+      "options": ["Because he believed his brothers talked much more than he did", "Because he could not speak at all due to a speech defect", "Because he never spoke a single word to the Sultan", "Because the Sultan had ordered him to stay silent in court"],
+      "answer": "Because he believed his brothers talked much more than he did",
+      "reasoning": "The Barber was in denial about his own talkative nature, claiming his six brothers were great talkers while he was quiet."
+    },
+    "kn": {
+      "question": "ತನ್ನ ಎಲ್ಲಾ ಸಹೋದರರಲ್ಲಿ ತಾನೇ ಅತ್ಯಂತ 'ಶಾಂತ ಸ್ವಭಾವದವನು' ಎಂದು ಕ್ಷೌರಿಕನು ಪ್ರತಿಪಾದಿಸಲು ಕಾರಣವೇನು?",
+      "options": ["ತನ್ನ ಸಹೋದರರು ತನಗಿಂತ ಹೆಚ್ಚು ಮಾತನಾಡುತ್ತಾರೆ ಎಂದು ಅವನು ನಂಬಿದ್ದರಿಂದ", "ಭಾಷಣ ದೋಷದಿಂದಾಗಿ ಅವನಿಗೆ ಮಾತನಾಡಲು ಬರುತ್ತಿರಲಿಲ್ಲ", "ಅವನು ಸುಲ್ತಾನನೊಂದಿಗೆ ಒಂದೇ ಒಂದು ಪದವನ್ನೂ ಮಾತನಾಡಿರಲಿಲ್ಲ", "ಅರಮನೆಯಲ್ಲಿ ಮೌನವಾಗಿರಲು ಸುಲ್ತಾನನು ಆಜ್ಞಾಪಿಸಿದ್ದರಿಂದ"],
+      "answer": "ತನ್ನ ಸಹೋದರರು ತನಗಿಂತ ಹೆಚ್ಚು ಮಾತನಾಡುತ್ತಾರೆ ಎಂದು ಅವನು ನಂಬಿದ್ದರಿಂದ",
+      "reasoning": "ಕ್ಷೌರಿಕನು ತಾನು ಅತಿಯಾಗಿ ಮಾತನಾಡುತ್ತಿರುವುದನ್ನು ಒಪ್ಪಿಕೊಳ್ಳದೆ, ತನ್ನ ಸಹೋದರರು ಇನ್ನೂ ಹೆಚ್ಚು ಹರಟೆ ಹೊಡೆಯುತ್ತಾರೆ ಎಂದು ಭಾವಿಸಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_018",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following things did the Sultan offer or give to the Barber to complete the shave?",
+      "options": ["Gold coins", "All the prepared food", "Fruits and dessert", "A royal crown"],
+      "answer": ["Gold coins", "All the prepared food", "Fruits and dessert"],
+      "reasoning": "The Sultan gave the Barber three gold coins first, and later promised all the prepared food, and finally ordered fruits to be brought."
+    },
+    "kn": {
+      "question": "ಕ್ಷೌರವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಸುಲ್ತಾನನು ಕ್ಷೌರಿಕನಿಗೆ ಕೆಳಗಿನ ಯಾವ ವಸ್ತುಗಳನ್ನು ನೀಡಲು ಒಪ್ಪಿದನು ಅಥವಾ ನೀಡಿದನು?",
+      "options": ["ಚಿನ್ನದ ನಾಣ್ಯಗಳು", "ಸಿದ್ಧಪಡಿಸಿದ ಎಲ್ಲಾ ಆಹಾರ", "ಹಣ್ಣುಗಳು ಮತ್ತು ಸಿಹಿ ತಿನಿಸುಗಳು", "ರಾಜ ಕಿರೀಟ"],
+      "answer": ["ಚಿನ್ನದ ನಾಣ್ಯಗಳು", "ಸಿದ್ಧಪಡಿಸಿದ ಎಲ್ಲಾ ಆಹಾರ", "ಹಣ್ಣುಗಳು ಮತ್ತು ಸಿಹಿ ತಿನಿಸುಗಳು"],
+      "reasoning": "ಸುಲ್ತಾನನು ಮೊದಲು ಮೂರು ಚಿನ್ನದ ನಾಣ್ಯಗಳನ್ನು ನೀಡಿದನು, ನಂತರ ಅಡುಗೆಯನ್ನು ಮತ್ತು ಕೊನೆಯದಾಗಿ ಹಣ್ಣುಗಳನ್ನು ತರಿಸಲು ಆಜ್ಞಾಪಿಸಿದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these words describe the personality of the Barber as seen in the story?",
+      "options": ["Talkative", "Boastful", "Time-wasting", "Silent and shy"],
+      "answer": ["Talkative", "Boastful", "Time-wasting"],
+      "reasoning": "The Barber is talkative (chats constantly), boastful (calls himself the quietest), and wastes time instead of doing his job."
+    },
+    "kn": {
+      "question": "ಕಥೆಯಲ್ಲಿ ಕಂಡುಬರುವಂತೆ ಕ್ಷೌರಿಕನ ವ್ಯಕ್ತಿತ್ವವನ್ನು ಕೆಳಗಿನ ಯಾವ ಪದಗಳು ವಿವರಿಸುತ್ತವೆ?",
+      "options": ["ಟಾಕೇಟಿವ್ (ಅತಿಯಾಗಿ ಮಾತನಾಡುವ)", "ಬೋಸ್ಟ್‌ಫುಲ್ (ಕಡಾಯಿ ಕೊಚ್ಚಿಕೊಳ್ಳುವ)", "ಟೈಮ್-ವೇಸ್ಟಿಂಗ್ (ಸಮಯ ವ್ಯರ್ಥ ಮಾಡುವ)", "ಸೈಲೆಂಟ್ ಆಂಡ್ ಶೈ (ಮೌನ ಮತ್ತು ನಾಚಿಕೆ ಸ್ವಭಾವದ)"],
+      "answer": ["ಟಾಕೇಟಿವ್ (ಅತಿಯಾಗಿ ಮಾತನಾಡುವ)", "ಬೋಸ್ಟ್‌ಫುಲ್ (ಕಡಾಯಿ ಕೊಚ್ಚಿಕೊಳ್ಳುವ)", "ಟೈಮ್-ವೇಸ್ಟಿಂಗ್ (ಸಮಯ ವ್ಯರ್ಥ ಮಾಡುವ)"],
+      "reasoning": "ಕ್ಷೌರಿಕನು ಅತಿಯಾಗಿ ಮಾತನಾಡುತ್ತಿದ್ದನು, ತಾನೇ ಅತ್ಯಂತ ಬುದ್ಧಿವಂತ ಮತ್ತು ಮೌನಿ ಎಂದು ಡಂಬಾಚಾರ ಮಾಡುತ್ತಿದ್ದನು ಮತ್ತು ಕ್ಷೌರ ಮಾಡದೆ ಸಮಯ ವ್ಯರ್ಥ ಮಾಡುತ್ತಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_020",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "In the poem 'Class Discussion', what did the active children and the teacher do?",
+      "options": ["Aired their opinions", "Discussed various topics", "Spoke and chattered", "Sat in absolute silence"],
+      "answer": ["Aired their opinions", "Discussed various topics", "Spoke and chattered"],
+      "reasoning": "The class was full of noise because the children and the teacher were actively discussing ideas and talking."
+    },
+    "kn": {
+      "question": "'ಕ್ಲಾಸ್ ಡಿಸ್ಕಷನ್' ಪದ್ಯದಲ್ಲಿ, ಸಕ್ರಿಯರಾಗಿದ್ದ ಮಕ್ಕಳು ಮತ್ತು ಶಿಕ್ಷಕರು ಏನು ಮಾಡಿದರು?",
+      "options": ["ತಮ್ಮ ಅಭಿಪ್ರಾಯಗಳನ್ನು ಹಂಚಿಕೊಂಡರು", "ವಿವಿಧ ವಿಷಯಗಳನ್ನು ಚರ್ಚಿಸಿದರು", "ಮಾತನಾಡಿದರು ಮತ್ತು ಹರಟೆ ಹೊಡೆದರು", "ಸಂಪೂರ್ಣ ಮೌನವಾಗಿ ಕುಳಿತರು"],
+      "answer": ["ತಮ್ಮ ಅಭಿಪ್ರಾಯಗಳನ್ನು ಹಂಚಿಕೊಂಡರು", "ವಿವಿಧ ವಿಷಯಗಳನ್ನು ಚರ್ಚಿಸಿದರು", "ಮಾತನಾಡಿದರು ಮತ್ತು ಹರಟೆ ಹೊಡೆದರು"],
+      "reasoning": "ತರಗತಿಯಲ್ಲಿದ್ದ ಉಳಿದ ಮಕ್ಕಳು ತಮ್ಮ ಅಭಿಪ್ರಾಯಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುತ್ತಾ, ವಿಷಯಗಳನ್ನು ಸಕ್ರಿಯವಾಗಿ ಚರ್ಚಿಸುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_021",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "According to the Barber's descriptions, which defects did some of his brothers have?",
+      "options": ["Humpbacked", "Deaf", "Toothless", "Perfectly healthy"],
+      "answer": ["Humpbacked", "Deaf", "Toothless"],
+      "reasoning": "The Barber listed various defects of his brothers: one was humpbacked, one deaf, one toothless, and others had vision or speech issues."
+    },
+    "kn": {
+      "question": "ಕ್ಷೌರಿಕನ ವಿವರಣೆಯ ಪ್ರಕಾರ, ಅವನ ಕೆಲವು ಸಹೋದರರಿಗೆ ಯಾವ ದೋಷಗಳಿದ್ದವು?",
+      "options": ["ಕೂನು ಬೆನ್ನು", "ಕಿವುಡುತನ", "ಹಲ್ಲಿಲ್ಲದಿರುವುದು (Toothless)", "ಸಂಪೂರ್ಣ ಆರೋಗ್ಯವಂತ"],
+      "answer": ["ಕೂನು ಬೆನ್ನು", "ಕಿವುಡುತನ", "ಹಲ್ಲಿಲ್ಲದಿರುವುದು (Toothless)"],
+      "reasoning": "ಕ್ಷೌರಿಕನ ಸಹೋದರರಲ್ಲಿ ಒಬ್ಬನಿಗೆ ಕೂನು ಬೆನ್ನು ಇತ್ತು, ಮತ್ತೊಬ್ಬನಿಗೆ ಕಿವಿಕೇಳಿಸುತ್ತಿರಲಿಲ್ಲ ಮತ್ತು ಇನ್ನೊಬ್ಬನಿಗೆ ಹಲ್ಲುಗಳು ಇರಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_022",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the words from the poem 'Class Discussion' with their correct meanings:",
+      "pairs": [
+        {"left": "Discussion", "right": "Talking together in a group"},
+        {"left": "Barely", "right": "Only just"},
+        {"left": "Stared", "right": "Looked fixedly"},
+        {"left": "Plain", "right": "Clear and direct"}
+      ],
+      "reasoning": "These are the vocabulary terms from the poem and their standard meanings."
+    },
+    "kn": {
+      "question": "'ಕ್ಲಾಸ್ ಡಿಸ್ಕಷನ್' ಪದ್ಯದ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಅರ್ಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {"left": "Discussion (ಚರ್ಚೆ)", "right": "ಗುಂಪಿನಲ್ಲಿ ಒಟ್ಟಾಗಿ ಮಾತನಾಡುವುದು"},
+        {"left": "Barely (ಅಷ್ಟಕ್ಕಷ್ಟೆ)", "right": "ಕಷ್ಟದಿಂದ ಅಥವಾ ಕೇವಲ ಅಲ್ಪ ಮಾತ್ರ"},
+        {"left": "Stared (ರೆಪ್ಪೆ ಇಕ್ಕದೆ ನೋಡು)", "right": "ಏಕಾಗ್ರತೆಯಿಂದ ದಿಟ್ಟಿಸಿ ನೋಡುವುದು"},
+        {"left": "Plain (ಸ್ಪಷ್ಟ)", "right": "ನೇರ ಮತ್ತು ಸರಳವಾದ"}
+      ],
+      "reasoning": "ಪದ್ಯದಲ್ಲಿ ಬಳಸಲಾದ ಪದಗಳ ಸರಿಯಾದ ಅರ್ಥಗಳು ಇವಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_023",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the words from 'The Talkative Barber' with their descriptions:",
+      "pairs": [
+        {"left": "Shaving", "right": "Cutting hair close to the skin"},
+        {"left": "Clamour", "right": "Loud noise or demand"},
+        {"left": "Exhausted", "right": "Extremely tired"},
+        {"left": "Dessert", "right": "Sweet dish eaten after a meal"}
+      ],
+      "reasoning": "These words are key vocabulary in the story of the Talkative Barber."
+    },
+    "kn": {
+      "question": "'ದ ಟಾಕೇಟಿವ್ ಬಾರ್ಬರ್' ಕಥೆಯ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿವರಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {"left": "Shaving (ಕ್ಷೌರ)", "right": "ಕೂದಲನ್ನು ಚರ್ಮಕ್ಕೆ ಹತ್ತಿರವಾಗಿ ಕತ್ತರಿಸುವುದು"},
+        {"left": "Clamour (ಕೂಗಾಟ)", "right": "ಜೋರಾದ ಗದ್ದಲ ಅಥವಾ ಒತ್ತಾಯದ ಧ್ವನಿ"},
+        {"left": "Exhausted (ದಣಿದ)", "right": "ತುಂಬಾ ದಣಿದ ಅಥವಾ ಆಯಾಸಗೊಂಡಿರುವ"},
+        {"left": "Dessert (ಸಿಹಿ ತಿನಿಸು)", "right": "ಊಟದ ನಂತರ ತಿನ್ನುವ ಸಿಹಿ ಅಡುಗೆ"}
+      ],
+      "reasoning": "ಕಥೆಯಲ್ಲಿ ಬಳಸಲಾದ ಪ್ರಮುಖ ಪದಗಳ ಅರ್ಥಗಳು ಇವಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the character with their respective quotes or statements:",
+      "pairs": [
+        {"left": "Jane", "right": "There are many people in this world who are rather quiet"},
+        {"left": "The Sultan", "right": "Shave me this instant or you shall suffer!"},
+        {"left": "The Barber", "right": "I am not a chatterer, I am called the Silent"},
+        {"left": "The Teacher", "right": "Now tell me, and please be plain, is there anything the matter?"}
+      ],
+      "reasoning": "These dialogue lines represent each character's attitude and role in the lessons."
+    },
+    "kn": {
+      "question": "ಪಾತ್ರಗಳನ್ನು ಅವುಗಳ ಹೇಳಿಕೆಗಳು ಅಥವಾ ಮಾತುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {"left": "ಜೇನ್", "right": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ಮೌನವಾಗಿರಲು ಇಷ್ಟಪಡುವ ಅನೇಕ ಜನರಿದ್ದಾರೆ"},
+        {"left": "ಸುಲ್ತಾನ್", "right": "ಈ ಕ್ಷಣದಲ್ಲೇ ಕ್ಷೌರ ಮಾಡು, ಇಲ್ಲದಿದ್ದರೆ ಶಿಕ್ಷೆ ಅನುಭವಿಸು!"},
+        {"left": "ಕ್ಷೌರಿಕ", "right": "ನಾನು ಹರಟೆಗಾರನಲ್ಲ, ನನ್ನನ್ನು 'ಮೌನಿ' ಎಂದು ಕರೆಯುತ್ತಾರೆ"},
+        {"left": "ಶಿಕ್ಷಕರು", "right": "ಈಗ ನನಗೆ ನೇರವಾಗಿ ಹೇಳು, ಏನಾದರೂ ತೊಂದರೆ ಇದೆಯೇ?"}
+      ],
+      "reasoning": "ಆಯಾ ಪಾತ್ರಗಳು ಪಾಠಗಳಲ್ಲಿ ಆಡುವ ಪ್ರಮುಖ ಮಾತುಗಳು ಇವಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit6_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the words with their opposite prefixes to create antonyms:",
+      "pairs": [
+        {"left": "Patient", "right": "Impatient"},
+        {"left": "Active", "right": "Inactive"},
+        {"left": "Pleasant", "right": "Unpleasant"},
+        {"left": "Believe", "right": "Disbelieve"}
+      ],
+      "reasoning": "Prefixes like im-, in-, un-, and dis- are used to construct opposite words."
+    },
+    "kn": {
+      "question": "ಪದಗಳನ್ನು ಅವುಗಳಿಗೆ ವಿರುದ್ಧಾರ್ಥಕ ಪದಗಳನ್ನು ನೀಡುವ ಮುprefixಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {"left": "Patient (ತಾಳ್ಮೆ)", "right": "Impatient (ತಾಳ್ಮೆ ಇಲ್ಲದ)"},
+        {"left": "Active (ಸಕ್ರಿಯ)", "right": "Inactive (ನಿಷ್ಕ್ರಿಯ)"},
+        {"left": "Pleasant (ಹಿತಕರ)", "right": "Unpleasant (ಅಹಿತಕರ)"},
+        {"left": "Believe (ನಂಬು)", "right": "Disbelieve (ನಂಬದಿರು)"}
+      ],
+      "reasoning": "ವಿವಿಧ ಮುತ್ಯಯಗಳು (prefixes) ಪದಗಳ ಮೂಲ ಅರ್ಥವನ್ನು ಬದಲಾಯಿಸಿ ವಿರುದ್ಧ ಪದಗಳನ್ನಾಗಿ ಮಾಡುತ್ತವೆ."
+    }
+  }
+]

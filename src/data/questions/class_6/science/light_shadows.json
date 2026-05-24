@@ -486,47 +486,47 @@
     "difficulty": 2,
     "en": {
       "question": "Match the type of object to its property of allowing light to pass:",
-      "options": [
-        "Opaque",
-        "Transparent",
-        "Translucent",
-        "Luminous"
-      ],
-      "matches": [
-        "Allows partial light to pass",
-        "Allows all light to pass",
-        "Emits its own light",
-        "Blocks all light"
-      ],
-      "answer": {
-        "Opaque": "Blocks all light",
-        "Transparent": "Allows all light to pass",
-        "Translucent": "Allows partial light to pass",
-        "Luminous": "Emits its own light"
-      },
-      "reasoning": "Different materials interact with light in different ways based on their physical properties."
+      "reasoning": "Different materials interact with light in different ways based on their physical properties.",
+      "pairs": [
+        {
+          "left": "Opaque",
+          "right": "Blocks all light"
+        },
+        {
+          "left": "Transparent",
+          "right": "Allows all light to pass"
+        },
+        {
+          "left": "Translucent",
+          "right": "Allows partial light to pass"
+        },
+        {
+          "left": "Luminous",
+          "right": "Emits its own light"
+        }
+      ]
     },
     "kn": {
       "question": "ವಸ್ತುವಿನ ಪ್ರಕಾರವನ್ನು ಬೆಳಕನ್ನು ಹಾದುಹೋಗಲು ಅನುಮತಿಸುವ ಅದರ ಗುಣಲಕ್ಷಣಕ್ಕೆ ಹೊಂದಿಸಿ:",
-      "options": [
-        "ಅಪಾರದರ್ಶಕ (Opaque)",
-        "ಪಾರದರ್ಶಕ (Transparent)",
-        "ಅರೆಪಾರದರ್ಶಕ (Translucent)",
-        "ಪ್ರಕಾಶಮಾನವಾದ (Luminous)"
-      ],
-      "matches": [
-        "ಭಾಗಶಃ ಬೆಳಕನ್ನು ಹಾದುಹೋಗಲು ಬಿಡುತ್ತದೆ",
-        "ಎಲ್ಲಾ ಬೆಳಕನ್ನು ಹಾದುಹೋಗಲು ಬಿಡುತ್ತದೆ",
-        "ತನ್ನದೇ ಆದ ಬೆಳಕನ್ನು ಹೊರಸೂಸುತ್ತದೆ",
-        "ಎಲ್ಲಾ ಬೆಳಕನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತದೆ"
-      ],
-      "answer": {
-        "ಅಪಾರದರ್ಶಕ (Opaque)": "ಎಲ್ಲಾ ಬೆಳಕನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತದೆ",
-        "ಪಾರದರ್ಶಕ (Transparent)": "ಎಲ್ಲಾ ಬೆಳಕನ್ನು ಹಾದುಹೋಗಲು ಬಿಡುತ್ತದೆ",
-        "ಅರೆಪಾರದರ್ಶಕ (Translucent)": "ಭಾಗಶಃ ಬೆಳಕನ್ನು ಹಾದುಹೋಗಲು ಬಿಡುತ್ತದೆ",
-        "ಪ್ರಕಾಶಮಾನವಾದ (Luminous)": "ತನ್ನದೇ ಆದ ಬೆಳಕನ್ನು ಹೊರಸೂಸುತ್ತದೆ"
-      },
-      "reasoning": "ವಿವಿಧ ವಸ್ತುಗಳು ತಮ್ಮ ಭೌತಿಕ ಗುಣಲಕ್ಷಣಗಳ ಆಧಾರದ ಮೇಲೆ ವಿವಿಧ ರೀತಿಯಲ್ಲಿ ಬೆಳಕಿನೊಂದಿಗೆ ಸಂವಹನ ನಡೆಸುತ್ತವೆ."
+      "reasoning": "ವಿವಿಧ ವಸ್ತುಗಳು ತಮ್ಮ ಭೌತಿಕ ಗುಣಲಕ್ಷಣಗಳ ಆಧಾರದ ಮೇಲೆ ವಿವಿಧ ರೀತಿಯಲ್ಲಿ ಬೆಳಕಿನೊಂದಿಗೆ ಸಂವಹನ ನಡೆಸುತ್ತವೆ.",
+      "pairs": [
+        {
+          "left": "ಅಪಾರದರ್ಶಕ (Opaque)",
+          "right": "ಎಲ್ಲಾ ಬೆಳಕನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತದೆ"
+        },
+        {
+          "left": "ಪಾರದರ್ಶಕ (Transparent)",
+          "right": "ಎಲ್ಲಾ ಬೆಳಕನ್ನು ಹಾದುಹೋಗಲು ಬಿಡುತ್ತದೆ"
+        },
+        {
+          "left": "ಅರೆಪಾರದರ್ಶಕ (Translucent)",
+          "right": "ಭಾಗಶಃ ಬೆಳಕನ್ನು ಹಾದುಹೋಗಲು ಬಿಡುತ್ತದೆ"
+        },
+        {
+          "left": "ಪ್ರಕಾಶಮಾನವಾದ (Luminous)",
+          "right": "ತನ್ನದೇ ಆದ ಬೆಳಕನ್ನು ಹೊರಸೂಸುತ್ತದೆ"
+        }
+      ]
     }
   },
   {
@@ -624,47 +624,47 @@
     "difficulty": 1,
     "en": {
       "question": "Match the materials to their types based on light transmission:",
-      "options": [
-        "Wooden door",
-        "Clear window glass",
-        "Tracing paper",
-        "Cardboard"
-      ],
-      "matches": [
-        "Transparent",
-        "Translucent",
-        "Opaque",
-        "Opaque (thick)"
-      ],
-      "answer": {
-        "Wooden door": "Opaque (thick)",
-        "Clear window glass": "Transparent",
-        "Tracing paper": "Translucent",
-        "Cardboard": "Opaque"
-      },
-      "reasoning": "Materials are classified based on how much light they allow to pass through."
+      "reasoning": "Materials are classified based on how much light they allow to pass through.",
+      "pairs": [
+        {
+          "left": "Wooden door",
+          "right": "Opaque (thick)"
+        },
+        {
+          "left": "Clear window glass",
+          "right": "Transparent"
+        },
+        {
+          "left": "Tracing paper",
+          "right": "Translucent"
+        },
+        {
+          "left": "Cardboard",
+          "right": "Opaque"
+        }
+      ]
     },
     "kn": {
       "question": "ಬೆಳಕಿನ ಪ್ರಸರಣದ ಆಧಾರದ ಮೇಲೆ ವಸ್ತುಗಳನ್ನು ಅವುಗಳ ಪ್ರಕಾರಗಳಿಗೆ ಹೊಂದಿಸಿ:",
-      "options": [
-        "ಮರದ ಬಾಗಿಲು",
-        "ಸ್ಪಷ್ಟವಾದ ಕಿಟಕಿ ಗಾಜು",
-        "ಟ್ರೇಸಿಂಗ್ ಪೇಪರ್ (Tracing paper)",
-        "ರಟ್ಟು (Cardboard)"
-      ],
-      "matches": [
-        "ಪಾರದರ್ಶಕ (Transparent)",
-        "ಅರೆಪಾರದರ್ಶಕ (Translucent)",
-        "ಅಪಾರದರ್ಶಕ",
-        "ಅಪಾರದರ್ಶಕ (ದಪ್ಪ)"
-      ],
-      "answer": {
-        "ಮರದ ಬಾಗಿಲು": "ಅಪಾರದರ್ಶಕ (ದಪ್ಪ)",
-        "ಸ್ಪಷ್ಟವಾದ ಕಿಟಕಿ ಗಾಜು": "ಪಾರದರ್ಶಕ (Transparent)",
-        "ಟ್ರೇಸಿಂಗ್ ಪೇಪರ್ (Tracing paper)": "ಅರೆಪಾರದರ್ಶಕ (Translucent)",
-        "ರಟ್ಟು (Cardboard)": "ಅಪಾರದರ್ಶಕ"
-      },
-      "reasoning": "ವಸ್ತುಗಳು ಎಷ್ಟು ಬೆಳಕನ್ನು ಹಾದುಹೋಗಲು ಬಿಡುತ್ತವೆ ಎಂಬುದರ ಆಧಾರದ ಮೇಲೆ ಅವುಗಳನ್ನು ವರ್ಗೀಕರಿಸಲಾಗಿದೆ."
+      "reasoning": "ವಸ್ತುಗಳು ಎಷ್ಟು ಬೆಳಕನ್ನು ಹಾದುಹೋಗಲು ಬಿಡುತ್ತವೆ ಎಂಬುದರ ಆಧಾರದ ಮೇಲೆ ಅವುಗಳನ್ನು ವರ್ಗೀಕರಿಸಲಾಗಿದೆ.",
+      "pairs": [
+        {
+          "left": "ಮರದ ಬಾಗಿಲು",
+          "right": "ಅಪಾರದರ್ಶಕ (ದಪ್ಪ)"
+        },
+        {
+          "left": "ಸ್ಪಷ್ಟವಾದ ಕಿಟಕಿ ಗಾಜು",
+          "right": "ಪಾರದರ್ಶಕ (Transparent)"
+        },
+        {
+          "left": "ಟ್ರೇಸಿಂಗ್ ಪೇಪರ್ (Tracing paper)",
+          "right": "ಅರೆಪಾರದರ್ಶಕ (Translucent)"
+        },
+        {
+          "left": "ರಟ್ಟು (Cardboard)",
+          "right": "ಅಪಾರದರ್ಶಕ"
+        }
+      ]
     }
   },
   {
@@ -789,47 +789,47 @@
     "difficulty": 2,
     "en": {
       "question": "Match the phenomenon or object with its result:",
-      "options": [
-        "Pinhole camera",
-        "Plane mirror",
-        "Opaque object",
-        "Translucent object"
-      ],
-      "matches": [
-        "Inverted image",
-        "Clear reflection",
-        "Dark shadow",
-        "Faint or blurry shadow"
-      ],
-      "answer": {
-        "Pinhole camera": "Inverted image",
-        "Plane mirror": "Clear reflection",
-        "Opaque object": "Dark shadow",
-        "Translucent object": "Faint or blurry shadow"
-      },
-      "reasoning": "Each object or device interacts with light to produce a specific optical effect."
+      "reasoning": "Each object or device interacts with light to produce a specific optical effect.",
+      "pairs": [
+        {
+          "left": "Pinhole camera",
+          "right": "Inverted image"
+        },
+        {
+          "left": "Plane mirror",
+          "right": "Clear reflection"
+        },
+        {
+          "left": "Opaque object",
+          "right": "Dark shadow"
+        },
+        {
+          "left": "Translucent object",
+          "right": "Faint or blurry shadow"
+        }
+      ]
     },
     "kn": {
       "question": "ವಿದ್ಯಮಾನ ಅಥವಾ ವಸ್ತುವನ್ನು ಅದರ ಫಲಿತಾಂಶದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "options": [
-        "ಪಿನ್‌ಹೋಲ್ ಕ್ಯಾಮೆರಾ",
-        "ಸಮತಲ ಕನ್ನಡಿ",
-        "ಅಪಾರದರ್ಶಕ ವಸ್ತು",
-        "ಅರೆಪಾರದರ್ಶಕ ವಸ್ತು"
-      ],
-      "matches": [
-        "ತಲೆಕೆಳಗಾದ ಚಿತ್ರ",
-        "ಸ್ಪಷ್ಟವಾದ ಪ್ರತಿಫಲನ",
-        "ಕಡು ನೆರಳು",
-        "ಮಸುಕಾದ ನೆರಳು"
-      ],
-      "answer": {
-        "ಪಿನ್‌ಹೋಲ್ ಕ್ಯಾಮೆರಾ": "ತಲೆಕೆಳಗಾದ ಚಿತ್ರ",
-        "ಸಮತಲ ಕನ್ನಡಿ": "ಸ್ಪಷ್ಟವಾದ ಪ್ರತಿಫಲನ",
-        "ಅಪಾರದರ್ಶಕ ವಸ್ತು": "ಕಡು ನೆರಳು",
-        "ಅರೆಪಾರದರ್ಶಕ ವಸ್ತು": "ಮಸುಕಾದ ನೆರಳು"
-      },
-      "reasoning": "ಪ್ರತಿಯೊಂದು ವಸ್ತು ಅಥವಾ ಸಾಧನವು ನಿರ್ದಿಷ್ಟ ಆಪ್ಟಿಕಲ್ ಪರಿಣಾಮವನ್ನು ಉಂಟುಮಾಡಲು ಬೆಳಕಿನೊಂದಿಗೆ ಸಂವಹನ ನಡೆಸುತ್ತದೆ."
+      "reasoning": "ಪ್ರತಿಯೊಂದು ವಸ್ತು ಅಥವಾ ಸಾಧನವು ನಿರ್ದಿಷ್ಟ ಆಪ್ಟಿಕಲ್ ಪರಿಣಾಮವನ್ನು ಉಂಟುಮಾಡಲು ಬೆಳಕಿನೊಂದಿಗೆ ಸಂವಹನ ನಡೆಸುತ್ತದೆ.",
+      "pairs": [
+        {
+          "left": "ಪಿನ್‌ಹೋಲ್ ಕ್ಯಾಮೆರಾ",
+          "right": "ತಲೆಕೆಳಗಾದ ಚಿತ್ರ"
+        },
+        {
+          "left": "ಸಮತಲ ಕನ್ನಡಿ",
+          "right": "ಸ್ಪಷ್ಟವಾದ ಪ್ರತಿಫಲನ"
+        },
+        {
+          "left": "ಅಪಾರದರ್ಶಕ ವಸ್ತು",
+          "right": "ಕಡು ನೆರಳು"
+        },
+        {
+          "left": "ಅರೆಪಾರದರ್ಶಕ ವಸ್ತು",
+          "right": "ಮಸುಕಾದ ನೆರಳು"
+        }
+      ]
     }
   },
   {
@@ -989,47 +989,47 @@
     "difficulty": 2,
     "en": {
       "question": "Match the time of day with the general length of the shadow formed by sunlight:",
-      "options": [
-        "Morning",
-        "Noon",
-        "Late Afternoon",
-        "Pitch dark night"
-      ],
-      "matches": [
-        "Long shadow (pointing West)",
-        "Shortest shadow",
-        "Long shadow (pointing East)",
-        "No shadow"
-      ],
-      "answer": {
-        "Morning": "Long shadow (pointing West)",
-        "Noon": "Shortest shadow",
-        "Late Afternoon": "Long shadow (pointing East)",
-        "Pitch dark night": "No shadow"
-      },
-      "reasoning": "Shadow length and direction depend on the angle of the sun in the sky."
+      "reasoning": "Shadow length and direction depend on the angle of the sun in the sky.",
+      "pairs": [
+        {
+          "left": "Morning",
+          "right": "Long shadow (pointing West)"
+        },
+        {
+          "left": "Noon",
+          "right": "Shortest shadow"
+        },
+        {
+          "left": "Late Afternoon",
+          "right": "Long shadow (pointing East)"
+        },
+        {
+          "left": "Pitch dark night",
+          "right": "No shadow"
+        }
+      ]
     },
     "kn": {
       "question": "ಸೂರ್ಯನ ಬೆಳಕಿನಿಂದ ರೂಪುಗೊಳ್ಳುವ ನೆರಳಿನ ಸಾಮಾನ್ಯ ಉದ್ದದೊಂದಿಗೆ ದಿನದ ಸಮಯವನ್ನು ಹೊಂದಿಸಿ:",
-      "options": [
-        "ಬೆಳಿಗ್ಗೆ",
-        "ಮಧ್ಯಾಹ್ನ",
-        "ಮಧ್ಯಾಹ್ನದ ನಂತರ",
-        "ಕಗ್ಗತ್ತಲ ರಾತ್ರಿ"
-      ],
-      "matches": [
-        "ಉದ್ದವಾದ ನೆರಳು (ಪಶ್ಚಿಮಕ್ಕೆ)",
-        "ಅತ್ಯಂತ ಚಿಕ್ಕ ನೆರಳು",
-        "ಉದ್ದವಾದ ನೆರಳು (ಪೂರ್ವಕ್ಕೆ)",
-        "ನೆರಳು ಇರುವುದಿಲ್ಲ"
-      ],
-      "answer": {
-        "ಬೆಳಿಗ್ಗೆ": "ಉದ್ದವಾದ ನೆರಳು (ಪಶ್ಚಿಮಕ್ಕೆ)",
-        "ಮಧ್ಯಾಹ್ನ": "ಅತ್ಯಂತ ಚಿಕ್ಕ ನೆರಳು",
-        "ಮಧ್ಯಾಹ್ನದ ನಂತರ": "ಉದ್ದವಾದ ನೆರಳು (ಪೂರ್ವಕ್ಕೆ)",
-        "ಕಗ್ಗತ್ತಲ ರಾತ್ರಿ": "ನೆರಳು ಇರುವುದಿಲ್ಲ"
-      },
-      "reasoning": "ನೆರಳಿನ ಉದ್ದ ಮತ್ತು ದಿಕ್ಕು ಆಕಾಶದಲ್ಲಿ ಸೂರ್ಯನ ಕೋನವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ."
+      "reasoning": "ನೆರಳಿನ ಉದ್ದ ಮತ್ತು ದಿಕ್ಕು ಆಕಾಶದಲ್ಲಿ ಸೂರ್ಯನ ಕೋನವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ.",
+      "pairs": [
+        {
+          "left": "ಬೆಳಿಗ್ಗೆ",
+          "right": "ಉದ್ದವಾದ ನೆರಳು (ಪಶ್ಚಿಮಕ್ಕೆ)"
+        },
+        {
+          "left": "ಮಧ್ಯಾಹ್ನ",
+          "right": "ಅತ್ಯಂತ ಚಿಕ್ಕ ನೆರಳು"
+        },
+        {
+          "left": "ಮಧ್ಯಾಹ್ನದ ನಂತರ",
+          "right": "ಉದ್ದವಾದ ನೆರಳು (ಪೂರ್ವಕ್ಕೆ)"
+        },
+        {
+          "left": "ಕಗ್ಗತ್ತಲ ರಾತ್ರಿ",
+          "right": "ನೆರಳು ಇರುವುದಿಲ್ಲ"
+        }
+      ]
     }
   },
   {
@@ -1125,47 +1125,47 @@
     "difficulty": 3,
     "en": {
       "question": "Match the term to its correct definition or description:",
-      "options": [
-        "Eclipse",
-        "Reflection",
-        "Shadow",
-        "Image"
-      ],
-      "matches": [
-        "Shadow of a celestial body",
-        "Bouncing back of light",
-        "Dark region formed when light is blocked",
-        "Formed by reflection in a mirror"
-      ],
-      "answer": {
-        "Eclipse": "Shadow of a celestial body",
-        "Reflection": "Bouncing back of light",
-        "Shadow": "Dark region formed when light is blocked",
-        "Image": "Formed by reflection in a mirror"
-      },
-      "reasoning": "These are core definitions related to light phenomena."
+      "reasoning": "These are core definitions related to light phenomena.",
+      "pairs": [
+        {
+          "left": "Eclipse",
+          "right": "Shadow of a celestial body"
+        },
+        {
+          "left": "Reflection",
+          "right": "Bouncing back of light"
+        },
+        {
+          "left": "Shadow",
+          "right": "Dark region formed when light is blocked"
+        },
+        {
+          "left": "Image",
+          "right": "Formed by reflection in a mirror"
+        }
+      ]
     },
     "kn": {
       "question": "ಪದವನ್ನು ಅದರ ಸರಿಯಾದ ವ್ಯಾಖ್ಯಾನ ಅಥವಾ ವಿವರಣೆಗೆ ಹೊಂದಿಸಿ:",
-      "options": [
-        "ಗ್ರಹಣ (Eclipse)",
-        "ಪ್ರತಿಫಲನ (Reflection)",
-        "ನೆರಳು (Shadow)",
-        "ಚಿತ್ರ (Image)"
-      ],
-      "matches": [
-        "ಖಗೋಳ ವಸ್ತುವಿನ ನೆರಳು",
-        "ಬೆಳಕು ಹಿಂದಕ್ಕೆ ಬೌನ್ಸ್ ಆಗುವುದು",
-        "ಬೆಳಕನ್ನು ನಿರ್ಬಂಧಿಸಿದಾಗ ರೂಪುಗೊಳ್ಳುವ ಕತ್ತಲ ಪ್ರದೇಶ",
-        "ಕನ್ನಡಿಯಲ್ಲಿ ಪ್ರತಿಫಲನದಿಂದ ರೂಪುಗೊಳ್ಳುತ್ತದೆ"
-      ],
-      "answer": {
-        "ಗ್ರಹಣ (Eclipse)": "ಖಗೋಳ ವಸ್ತುವಿನ ನೆರಳು",
-        "ಪ್ರತಿಫಲನ (Reflection)": "ಬೆಳಕು ಹಿಂದಕ್ಕೆ ಬೌನ್ಸ್ ಆಗುವುದು",
-        "ನೆರಳು (Shadow)": "ಬೆಳಕನ್ನು ನಿರ್ಬಂಧಿಸಿದಾಗ ರೂಪುಗೊಳ್ಳುವ ಕತ್ತಲ ಪ್ರದೇಶ",
-        "ಚಿತ್ರ (Image)": "ಕನ್ನಡಿಯಲ್ಲಿ ಪ್ರತಿಫಲನದಿಂದ ರೂಪುಗೊಳ್ಳುತ್ತದೆ"
-      },
-      "reasoning": "ಇವು ಬೆಳಕಿನ ವಿದ್ಯಮಾನಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಮುಖ ವ್ಯಾಖ್ಯಾನಗಳಾಗಿವೆ."
+      "reasoning": "ಇವು ಬೆಳಕಿನ ವಿದ್ಯಮಾನಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಮುಖ ವ್ಯಾಖ್ಯಾನಗಳಾಗಿವೆ.",
+      "pairs": [
+        {
+          "left": "ಗ್ರಹಣ (Eclipse)",
+          "right": "ಖಗೋಳ ವಸ್ತುವಿನ ನೆರಳು"
+        },
+        {
+          "left": "ಪ್ರತಿಫಲನ (Reflection)",
+          "right": "ಬೆಳಕು ಹಿಂದಕ್ಕೆ ಬೌನ್ಸ್ ಆಗುವುದು"
+        },
+        {
+          "left": "ನೆರಳು (Shadow)",
+          "right": "ಬೆಳಕನ್ನು ನಿರ್ಬಂಧಿಸಿದಾಗ ರೂಪುಗೊಳ್ಳುವ ಕತ್ತಲ ಪ್ರದೇಶ"
+        },
+        {
+          "left": "ಚಿತ್ರ (Image)",
+          "right": "ಕನ್ನಡಿಯಲ್ಲಿ ಪ್ರತಿಫಲನದಿಂದ ರೂಪುಗೊಳ್ಳುತ್ತದೆ"
+        }
+      ]
     }
   },
   {

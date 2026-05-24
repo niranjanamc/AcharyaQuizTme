@@ -889,7 +889,7 @@
     "type": "match",
     "difficulty": 2,
     "en": {
-      "question": "Match the term to its definition:",
+      "question": "Match the electrical term to its correct definition:",
       "pairs": [
         {
           "left": "Electric Cell",
@@ -911,7 +911,7 @@
       "reasoning": "Definitions of key electrical terms from the chapter."
     },
     "kn": {
-      "question": "ಪದವನ್ನು ಅದರ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ಹೊಂದಿಸಿ:",
+      "question": "ವಿದ್ಯುತ್ ಪದವನ್ನು ಅದರ ಸರಿಯಾದ ವ್ಯಾಖ್ಯಾನದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
       "pairs": [
         {
           "left": "ವಿದ್ಯುತ್ ಕೋಶ",

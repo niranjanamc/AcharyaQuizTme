@@ -4,13 +4,23 @@
     "difficulty": 1,
     "en": {
       "question": "What is the next number in the pattern: 2, 4, 6, 8, ...?",
-      "options": ["9", "10", "12", "14"],
+      "options": [
+        "9",
+        "10",
+        "12",
+        "14"
+      ],
       "answer": "10",
       "reasoning": "The pattern is formed by adding 2 to the previous number (even numbers). 8 + 2 = 10."
     },
     "kn": {
       "question": "ಈ ವಿನ್ಯಾಸದಲ್ಲಿ (pattern) ಮುಂದಿನ ಸಂಖ್ಯೆ ಯಾವುದು: 2, 4, 6, 8, ...?",
-      "options": ["9", "10", "12", "14"],
+      "options": [
+        "9",
+        "10",
+        "12",
+        "14"
+      ],
       "answer": "10",
       "reasoning": "ಹಿಂದಿನ ಸಂಖ್ಯೆಗೆ 2 ಅನ್ನು ಸೇರಿಸುವ ಮೂಲಕ (ಸರಿ ಸಂಖ್ಯೆಗಳು) ಈ ವಿನ್ಯಾಸ ರೂಪುಗೊಂಡಿದೆ. 8 + 2 = 10."
     }
@@ -20,13 +30,23 @@
     "difficulty": 1,
     "en": {
       "question": "Find the missing number in the sequence: 5, 10, 15, ___, 25.",
-      "options": ["16", "20", "22", "30"],
+      "options": [
+        "16",
+        "20",
+        "22",
+        "30"
+      ],
       "answer": "20",
       "reasoning": "This is a sequence of multiples of 5. The rule is adding 5 each time. So, 15 + 5 = 20."
     },
     "kn": {
       "question": "ಈ ಅನುಕ್ರಮದಲ್ಲಿ (sequence) ಬಿಟ್ಟುಹೋದ ಸಂಖ್ಯೆಯನ್ನು ಹುಡುಕಿ: 5, 10, 15, ___, 25.",
-      "options": ["16", "20", "22", "30"],
+      "options": [
+        "16",
+        "20",
+        "22",
+        "30"
+      ],
       "answer": "20",
       "reasoning": "ಇದು 5 ರ ಗುಣಕಗಳ (multiples) ಅನುಕ್ರಮವಾಗಿದೆ. ಪ್ರತಿ ಬಾರಿಯೂ 5 ಅನ್ನು ಸೇರಿಸುವುದು ಇದರ ನಿಯಮ. ಆದ್ದರಿಂದ, 15 + 5 = 20."
     }
@@ -36,13 +56,23 @@
     "difficulty": 2,
     "en": {
       "question": "What is the rule for the pattern: 3, 6, 12, 24, 48?",
-      "options": ["Add 3", "Multiply by 2", "Multiply by 3", "Add 6"],
+      "options": [
+        "Add 3",
+        "Multiply by 2",
+        "Multiply by 3",
+        "Add 6"
+      ],
       "answer": "Multiply by 2",
       "reasoning": "Each number is double the previous number. 3x2=6, 6x2=12, 12x2=24, and so on."
     },
     "kn": {
       "question": "ಈ ವಿನ್ಯಾಸದ ನಿಯಮವೇನು: 3, 6, 12, 24, 48?",
-      "options": ["3 ಅನ್ನು ಸೇರಿಸಿ", "2 ರಿಂದ ಗುಣಿಸಿ", "3 ರಿಂದ ಗುಣಿಸಿ", "6 ಅನ್ನು ಸೇರಿಸಿ"],
+      "options": [
+        "3 ಅನ್ನು ಸೇರಿಸಿ",
+        "2 ರಿಂದ ಗುಣಿಸಿ",
+        "3 ರಿಂದ ಗುಣಿಸಿ",
+        "6 ಅನ್ನು ಸೇರಿಸಿ"
+      ],
       "answer": "2 ರಿಂದ ಗುಣಿಸಿ",
       "reasoning": "ಪ್ರತಿ ಸಂಖ್ಯೆಯು ಹಿಂದಿನ ಸಂಖ್ಯೆಯ ದುಪ್ಪಟ್ಟಾಗಿದೆ. 3x2=6, 6x2=12, 12x2=24, ಹೀಗೆ ಮುಂದುವರಿಯುತ್ತದೆ."
     }
@@ -52,13 +82,23 @@
     "difficulty": 2,
     "en": {
       "question": "Identify the next term in the sequence: 100, 90, 80, 70, ...",
-      "options": ["50", "60", "65", "80"],
+      "options": [
+        "50",
+        "60",
+        "65",
+        "80"
+      ],
       "answer": "60",
       "reasoning": "The pattern is decreasing by 10 each time. So, 70 - 10 = 60."
     },
     "kn": {
       "question": "ಈ ಅನುಕ್ರಮದಲ್ಲಿ (sequence) ಮುಂದಿನ ಪದವನ್ನು ಗುರುತಿಸಿ: 100, 90, 80, 70, ...",
-      "options": ["50", "60", "65", "80"],
+      "options": [
+        "50",
+        "60",
+        "65",
+        "80"
+      ],
       "answer": "60",
       "reasoning": "ಈ ವಿನ್ಯಾಸವು ಪ್ರತಿ ಬಾರಿಯೂ 10 ರಷ್ಟು ಕಡಿಮೆಯಾಗುತ್ತಿದೆ. ಆದ್ದರಿಂದ, 70 - 10 = 60."
     }
@@ -68,13 +108,23 @@
     "difficulty": 3,
     "en": {
       "question": "What comes next in the pattern: 1, 4, 9, 16, 25, ...?",
-      "options": ["30", "36", "49", "50"],
+      "options": [
+        "30",
+        "36",
+        "49",
+        "50"
+      ],
       "answer": "36",
       "reasoning": "These are perfect squares: 1x1=1, 2x2=4, 3x3=9, 4x4=16, 5x5=25. The next is 6x6=36."
     },
     "kn": {
       "question": "ಈ ವಿನ್ಯಾಸದಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 1, 4, 9, 16, 25, ...?",
-      "options": ["30", "36", "49", "50"],
+      "options": [
+        "30",
+        "36",
+        "49",
+        "50"
+      ],
       "answer": "36",
       "reasoning": "ಇವು ಪರಿಪೂರ್ಣ ವರ್ಗಗಳಾಗಿವೆ (perfect squares): 1x1=1, 2x2=4, 3x3=9, 4x4=16, 5x5=25. ಮುಂದಿನದು 6x6=36."
     }
@@ -84,13 +134,23 @@
     "difficulty": 2,
     "en": {
       "question": "A pattern goes: Triangle, Square, Pentagon, Hexagon. What shape comes next?",
-      "options": ["Circle", "Octagon", "Heptagon (7 sides)", "Rectangle"],
+      "options": [
+        "Circle",
+        "Octagon",
+        "Heptagon (7 sides)",
+        "Rectangle"
+      ],
       "answer": "Heptagon (7 sides)",
       "reasoning": "The shapes have 3 sides, then 4, then 5, then 6. The next shape must have 7 sides, which is a heptagon."
     },
     "kn": {
       "question": "ಒಂದು ವಿನ್ಯಾಸ ಹೀಗಿದೆ: ತ್ರಿಕೋನ (3 ಬದಿ), ಚೌಕ (4 ಬದಿ), ಪಂಚಭುಜಾಕೃತಿ (5 ಬದಿ), ಷಡ್ಭುಜಾಕೃತಿ (6 ಬದಿ). ಮುಂದೆ ಯಾವ ಆಕಾರ ಬರುತ್ತದೆ?",
-      "options": ["ವೃತ್ತ (Circle)", "ಅಷ್ಟಭುಜಾಕೃತಿ (Octagon)", "ಸಪ್ತಭುಜಾಕೃತಿ (Heptagon / 7 ಬದಿಗಳು)", "ಆಯತ (Rectangle)"],
+      "options": [
+        "ವೃತ್ತ (Circle)",
+        "ಅಷ್ಟಭುಜಾಕೃತಿ (Octagon)",
+        "ಸಪ್ತಭುಜಾಕೃತಿ (Heptagon / 7 ಬದಿಗಳು)",
+        "ಆಯತ (Rectangle)"
+      ],
       "answer": "ಸಪ್ತಭುಜಾಕೃತಿ (Heptagon / 7 ಬದಿಗಳು)",
       "reasoning": "ಆಕಾರಗಳು 3 ಬದಿಗಳನ್ನು ಹೊಂದಿವೆ, ನಂತರ 4, ನಂತರ 5, ನಂತರ 6. ಮುಂದಿನ ಆಕಾರವು 7 ಬದಿಗಳನ್ನು ಹೊಂದಿರಬೇಕು, ಅಂದರೆ ಸಪ್ತಭುಜಾಕೃತಿ."
     }
@@ -100,13 +160,23 @@
     "difficulty": 3,
     "en": {
       "question": "Find the missing number: 2, 5, 11, 23, ___",
-      "options": ["46", "47", "34", "45"],
+      "options": [
+        "46",
+        "47",
+        "34",
+        "45"
+      ],
       "answer": "47",
       "reasoning": "The rule is 'multiply by 2 and add 1'. (2x2)+1=5. (5x2)+1=11. (11x2)+1=23. So, (23x2)+1 = 46+1 = 47."
     },
     "kn": {
       "question": "ಬಿಟ್ಟುಹೋದ ಸಂಖ್ಯೆಯನ್ನು ಹುಡುಕಿ: 2, 5, 11, 23, ___",
-      "options": ["46", "47", "34", "45"],
+      "options": [
+        "46",
+        "47",
+        "34",
+        "45"
+      ],
       "answer": "47",
       "reasoning": "ನಿಯಮವೆಂದರೆ '2 ರಿಂದ ಗುಣಿಸಿ ಮತ್ತು 1 ಅನ್ನು ಸೇರಿಸಿ'. (2x2)+1=5. (5x2)+1=11. (11x2)+1=23. ಆದ್ದರಿಂದ, (23x2)+1 = 46+1 = 47."
     }
@@ -116,13 +186,23 @@
     "difficulty": 2,
     "en": {
       "question": "Which sequence correctly follows the rule 'Start at 10, subtract 2, then add 4' repeatedly?",
-      "options": ["10, 8, 12, 10, 14", "10, 12, 16, 14", "10, 8, 4, 6", "10, 8, 6, 4"],
+      "options": [
+        "10, 8, 12, 10, 14",
+        "10, 12, 16, 14",
+        "10, 8, 4, 6",
+        "10, 8, 6, 4"
+      ],
       "answer": "10, 8, 12, 10, 14",
       "reasoning": "Start at 10. Subtract 2: 10 - 2 = 8. Add 4: 8 + 4 = 12. Subtract 2: 12 - 2 = 10. Add 4: 10 + 4 = 14. The sequence is 10, 8, 12, 10, 14."
     },
     "kn": {
       "question": "'10 ರಿಂದ ಪ್ರಾರಂಭಿಸಿ, 2 ಅನ್ನು ಕಳೆಯಿರಿ (subtract), ನಂತರ 4 ಅನ್ನು ಸೇರಿಸಿ' ಎಂಬ ನಿಯಮವನ್ನು ಪದೇ ಪದೇ ಅನುಸರಿಸುವ ಅನುಕ್ರಮ (sequence) ಯಾವುದು?",
-      "options": ["10, 8, 12, 10, 14", "10, 12, 16, 14", "10, 8, 4, 6", "10, 8, 6, 4"],
+      "options": [
+        "10, 8, 12, 10, 14",
+        "10, 12, 16, 14",
+        "10, 8, 4, 6",
+        "10, 8, 6, 4"
+      ],
       "answer": "10, 8, 12, 10, 14",
       "reasoning": "10 ರಿಂದ ಪ್ರಾರಂಭಿಸಿ. 2 ನ್ನು ಕಳೆಯಿರಿ: 10 - 2 = 8. 4 ನ್ನು ಸೇರಿಸಿ: 8 + 4 = 12. 2 ನ್ನು ಕಳೆಯಿರಿ: 12 - 2 = 10. 4 ನ್ನು ಸೇರಿಸಿ: 10 + 4 = 14. ಅನುಕ್ರಮವು 10, 8, 12, 10, 14 ಆಗಿದೆ."
     }
@@ -132,13 +212,23 @@
     "difficulty": 3,
     "en": {
       "question": "What is the 10th term of the sequence: 3, 6, 9, 12, ...?",
-      "options": ["27", "30", "33", "36"],
+      "options": [
+        "27",
+        "30",
+        "33",
+        "36"
+      ],
       "answer": "30",
       "reasoning": "This is the multiplication table of 3. The rule for the 'n-th' term is 3 x n. So the 10th term is 3 x 10 = 30."
     },
     "kn": {
       "question": "ಈ ಅನುಕ್ರಮದ 10ನೇ ಪದ (term) ಯಾವುದು: 3, 6, 9, 12, ...?",
-      "options": ["27", "30", "33", "36"],
+      "options": [
+        "27",
+        "30",
+        "33",
+        "36"
+      ],
       "answer": "30",
       "reasoning": "ಇದು 3 ರ ಗುಣಾಕಾರದ (ಮಗ್ಗಿ) ಪಟ್ಟಿಯಾಗಿದೆ. 'n-ನೇ' ಪದದ ನಿಯಮ 3 x n. ಆದ್ದರಿಂದ 10ನೇ ಪದವು 3 x 10 = 30."
     }
@@ -148,13 +238,23 @@
     "difficulty": 3,
     "en": {
       "question": "Look at the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13... What is the next number?",
-      "options": ["18", "20", "21", "24"],
+      "options": [
+        "18",
+        "20",
+        "21",
+        "24"
+      ],
       "answer": "21",
       "reasoning": "In the Fibonacci sequence, each number is the sum of the two preceding ones. 5+8=13. So the next is 8+13 = 21."
     },
     "kn": {
       "question": "ಫೈಬೊನಾಕಿ (Fibonacci) ಅನುಕ್ರಮವನ್ನು ನೋಡಿ: 1, 1, 2, 3, 5, 8, 13... ಮುಂದಿನ ಸಂಖ್ಯೆ ಯಾವುದು?",
-      "options": ["18", "20", "21", "24"],
+      "options": [
+        "18",
+        "20",
+        "21",
+        "24"
+      ],
       "answer": "21",
       "reasoning": "ಫೈಬೊನಾಕಿ ಅನುಕ್ರಮದಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ಸಂಖ್ಯೆಯು ಅದರ ಹಿಂದಿನ ಎರಡು ಸಂಖ್ಯೆಗಳ ಮೊತ್ತವಾಗಿರುತ್ತದೆ. 5+8=13. ಆದ್ದರಿಂದ ಮುಂದಿನದು 8+13 = 21."
     }
@@ -164,13 +264,23 @@
     "difficulty": 1,
     "en": {
       "question": "If an alternating pattern is A, B, A, B, A, B... what will be the 9th letter?",
-      "options": ["A", "B", "C", "It cannot be determined"],
+      "options": [
+        "A",
+        "B",
+        "C",
+        "It cannot be determined"
+      ],
       "answer": "A",
       "reasoning": "Odd positions (1st, 3rd, 5th...) are A. Even positions (2nd, 4th, 6th...) are B. Since 9 is an odd number, the 9th letter will be A."
     },
     "kn": {
       "question": "ಒಂದು ಪರ್ಯಾಯ ವಿನ್ಯಾಸವು (alternating pattern) A, B, A, B, A, B... ಆಗಿದ್ದರೆ, 9ನೇ ಅಕ್ಷರ ಯಾವುದಾಗಿರುತ್ತದೆ?",
-      "options": ["A", "B", "C", "ನಿರ್ಧರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ"],
+      "options": [
+        "A",
+        "B",
+        "C",
+        "ನಿರ್ಧರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ"
+      ],
       "answer": "A",
       "reasoning": "ಬೆಸ (Odd) ಸ್ಥಾನಗಳು (1, 3, 5...) A ಆಗಿವೆ. ಸರಿ (Even) ಸ್ಥಾನಗಳು (2, 4, 6...) B ಆಗಿವೆ. 9 ಬೆಸ ಸಂಖ್ಯೆಯಾಗಿರುವುದರಿಂದ, 9ನೇ ಅಕ್ಷರ A ಆಗಿರುತ್ತದೆ."
     }
@@ -180,13 +290,23 @@
     "difficulty": 2,
     "en": {
       "question": "Find the odd one out in this pattern: 10, 20, 30, 45, 50, 60.",
-      "options": ["20", "30", "45", "50"],
+      "options": [
+        "20",
+        "30",
+        "45",
+        "50"
+      ],
       "answer": "45",
       "reasoning": "All the numbers are multiples of 10 (ending in 0), except 45, which breaks the pattern of adding 10."
     },
     "kn": {
       "question": "ಈ ವಿನ್ಯಾಸದಲ್ಲಿ ಗುಂಪಿಗೆ ಸೇರದ ಸಂಖ್ಯೆಯನ್ನು (odd one out) ಹುಡುಕಿ: 10, 20, 30, 45, 50, 60.",
-      "options": ["20", "30", "45", "50"],
+      "options": [
+        "20",
+        "30",
+        "45",
+        "50"
+      ],
       "answer": "45",
       "reasoning": "ಎಲ್ಲಾ ಸಂಖ್ಯೆಗಳು 10 ರ ಗುಣಕಗಳಾಗಿವೆ (0 ಯಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುತ್ತವೆ), 45 ಅನ್ನು ಹೊರತುಪಡಿಸಿ. ಇದು 10 ಅನ್ನು ಸೇರಿಸುವ ವಿನ್ಯಾಸವನ್ನು ಮುರಿಯುತ್ತದೆ."
     }
@@ -196,13 +316,23 @@
     "difficulty": 3,
     "en": {
       "question": "In a 3x3 Magic Square, the sum of numbers in every row, column, and diagonal is always:",
-      "options": ["Different", "The same (a constant)", "Zero", "A multiple of 10"],
+      "options": [
+        "Different",
+        "The same (a constant)",
+        "Zero",
+        "A multiple of 10"
+      ],
       "answer": "The same (a constant)",
       "reasoning": "The defining property of a magic square is that the numbers are arranged so that every row, column, and main diagonal adds up to the exact same constant sum."
     },
     "kn": {
       "question": "3x3 ಮ್ಯಾಜಿಕ್ ಸ್ಕ್ವೇರ್‌ನಲ್ಲಿ (ಮಾಂತ್ರಿಕ ಚೌಕ), ಪ್ರತಿಯೊಂದು ಅಡ್ಡಸಾಲು (row), ಕಂಬಸಾಲು (column) ಮತ್ತು ಕರ್ಣದಲ್ಲಿರುವ (diagonal) ಸಂಖ್ಯೆಗಳ ಮೊತ್ತವು ಯಾವಾಗಲೂ:",
-      "options": ["ವಿಭಿನ್ನವಾಗಿರುತ್ತದೆ", "ಒಂದೇ ಆಗಿರುತ್ತದೆ (ಸ್ಥಿರಾಂಕ / a constant)", "ಸೊನ್ನೆ (Zero) ಆಗಿರುತ್ತದೆ", "10 ರ ಗುಣಕವಾಗಿರುತ್ತದೆ"],
+      "options": [
+        "ವಿಭಿನ್ನವಾಗಿರುತ್ತದೆ",
+        "ಒಂದೇ ಆಗಿರುತ್ತದೆ (ಸ್ಥಿರಾಂಕ / a constant)",
+        "ಸೊನ್ನೆ (Zero) ಆಗಿರುತ್ತದೆ",
+        "10 ರ ಗುಣಕವಾಗಿರುತ್ತದೆ"
+      ],
       "answer": "ಒಂದೇ ಆಗಿರುತ್ತದೆ (ಸ್ಥಿರಾಂಕ / a constant)",
       "reasoning": "ಮ್ಯಾಜಿಕ್ ಚೌಕದ ವ್ಯಾಖ್ಯಾನಿಸುವ ಲಕ್ಷಣವೆಂದರೆ, ಪ್ರತಿಯೊಂದು ಅಡ್ಡಸಾಲು, ಕಂಬಸಾಲು ಮತ್ತು ಮುಖ್ಯ ಕರ್ಣಗಳು ನಿಖರವಾಗಿ ಒಂದೇ ಸ್ಥಿರ ಮೊತ್ತವನ್ನು ನೀಡುವಂತೆ ಸಂಖ್ಯೆಗಳನ್ನು ಜೋಡಿಸಲಾಗಿರುತ್ತದೆ."
     }
@@ -212,13 +342,23 @@
     "difficulty": 2,
     "en": {
       "question": "Complete the alphabetical pattern: Z, X, V, T, ___",
-      "options": ["S", "R", "Q", "P"],
+      "options": [
+        "S",
+        "R",
+        "Q",
+        "P"
+      ],
       "answer": "R",
       "reasoning": "The pattern skips one letter backwards in the English alphabet. Z (skip Y) -> X (skip W) -> V (skip U) -> T (skip S) -> R."
     },
     "kn": {
       "question": "ಅಕ್ಷರಗಳ ವಿನ್ಯಾಸವನ್ನು (alphabetical pattern) ಪೂರ್ಣಗೊಳಿಸಿ: Z, X, V, T, ___",
-      "options": ["S", "R", "Q", "P"],
+      "options": [
+        "S",
+        "R",
+        "Q",
+        "P"
+      ],
       "answer": "R",
       "reasoning": "ಈ ವಿನ್ಯಾಸವು ಇಂಗ್ಲಿಷ್ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಹಿಂದಕ್ಕೆ ಒಂದು ಅಕ್ಷರವನ್ನು ಬಿಟ್ಟುಬರುತ್ತದೆ. Z (Y ಬಿಟ್ಟು) -> X (W ಬಿಟ್ಟು) -> V (U ಬಿಟ್ಟು) -> T (S ಬಿಟ್ಟು) -> R."
     }
@@ -228,13 +368,23 @@
     "difficulty": 3,
     "en": {
       "question": "Consider the triangular numbers: 1, 3, 6, 10... What is the rule to get the next triangular number?",
-      "options": ["Multiply the previous by 3", "Add 2, then add 3, then add 4, and so on", "Square the position number", "Just add 5"],
+      "options": [
+        "Multiply the previous by 3",
+        "Add 2, then add 3, then add 4, and so on",
+        "Square the position number",
+        "Just add 5"
+      ],
       "answer": "Add 2, then add 3, then add 4, and so on",
       "reasoning": "Triangular numbers represent a triangle of dots. 1 (+2) = 3 (+3) = 6 (+4) = 10 (+5) = 15. The amount you add increases by 1 each time."
     },
     "kn": {
       "question": "ತ್ರಿಕೋನ ಸಂಖ್ಯೆಗಳನ್ನು (triangular numbers) ಗಮನಿಸಿ: 1, 3, 6, 10... ಮುಂದಿನ ತ್ರಿಕೋನ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯುವ ನಿಯಮವೇನು?",
-      "options": ["ಹಿಂದಿನದನ್ನು 3 ರಿಂದ ಗುಣಿಸಿ", "2 ನ್ನು ಸೇರಿಸಿ, ನಂತರ 3 ನ್ನು ಸೇರಿಸಿ, ನಂತರ 4 ನ್ನು ಸೇರಿಸಿ, ಹೀಗೆ ಮುಂದುವರಿಯಿರಿ", "ಸ್ಥಾನದ ಸಂಖ್ಯೆಯನ್ನು ವರ್ಗಗೊಳಿಸಿ (square)", "ಕೇವಲ 5 ನ್ನು ಸೇರಿಸಿ"],
+      "options": [
+        "ಹಿಂದಿನದನ್ನು 3 ರಿಂದ ಗುಣಿಸಿ",
+        "2 ನ್ನು ಸೇರಿಸಿ, ನಂತರ 3 ನ್ನು ಸೇರಿಸಿ, ನಂತರ 4 ನ್ನು ಸೇರಿಸಿ, ಹೀಗೆ ಮುಂದುವರಿಯಿರಿ",
+        "ಸ್ಥಾನದ ಸಂಖ್ಯೆಯನ್ನು ವರ್ಗಗೊಳಿಸಿ (square)",
+        "ಕೇವಲ 5 ನ್ನು ಸೇರಿಸಿ"
+      ],
       "answer": "2 ನ್ನು ಸೇರಿಸಿ, ನಂತರ 3 ನ್ನು ಸೇರಿಸಿ, ನಂತರ 4 ನ್ನು ಸೇರಿಸಿ, ಹೀಗೆ ಮುಂದುವರಿಯಿರಿ",
       "reasoning": "ತ್ರಿಕೋನ ಸಂಖ್ಯೆಗಳು ಚುಕ್ಕೆಗಳ ತ್ರಿಕೋನವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. 1 (+2) = 3 (+3) = 6 (+4) = 10 (+5) = 15. ನೀವು ಸೇರಿಸುವ ಪ್ರಮಾಣವು ಪ್ರತಿ ಬಾರಿಯೂ 1 ರಷ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ."
     }
@@ -245,14 +395,30 @@
     "difficulty": 1,
     "en": {
       "question": "Which of the following numbers belong to the pattern: 4, 8, 12, 16, ...?",
-      "options": ["20", "22", "24", "26"],
-      "answer": ["20", "24"],
+      "options": [
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "answer": [
+        "20",
+        "24"
+      ],
       "reasoning": "The pattern is multiples of 4. 20 and 24 are multiples of 4."
     },
     "kn": {
       "question": "ಈ ಕೆಳಗಿನ ಯಾವ ಸಂಖ್ಯೆಗಳು 4, 8, 12, 16, ... ವಿನ್ಯಾಸಕ್ಕೆ ಸೇರಿವೆ?",
-      "options": ["20", "22", "24", "26"],
-      "answer": ["20", "24"],
+      "options": [
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "answer": [
+        "20",
+        "24"
+      ],
       "reasoning": "ವಿನ್ಯಾಸವು 4 ರ ಗುಣಕಗಳಾಗಿವೆ. 20 ಮತ್ತು 24, 4 ರ ಗುಣಕಗಳಾಗಿವೆ."
     }
   },
@@ -262,27 +428,47 @@
     "difficulty": 2,
     "en": {
       "question": "Match the pattern with its rule:",
-      "left": ["5, 10, 15", "2, 4, 8", "10, 8, 6", "1, 4, 9"],
-      "right": ["Multiply by 2", "Squares", "Add 5", "Subtract 2"],
-      "answer": {
-        "5, 10, 15": "Add 5",
-        "2, 4, 8": "Multiply by 2",
-        "10, 8, 6": "Subtract 2",
-        "1, 4, 9": "Squares"
-      },
-      "reasoning": "Matching sequences with their generating rules."
+      "reasoning": "Matching sequences with their generating rules.",
+      "pairs": [
+        {
+          "left": "5, 10, 15",
+          "right": "Multiply by 2"
+        },
+        {
+          "left": "2, 4, 8",
+          "right": "Squares"
+        },
+        {
+          "left": "10, 8, 6",
+          "right": "Add 5"
+        },
+        {
+          "left": "1, 4, 9",
+          "right": "Subtract 2"
+        }
+      ]
     },
     "kn": {
       "question": "ವಿನ್ಯಾಸವನ್ನು ಅದರ ನಿಯಮದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "left": ["5, 10, 15", "2, 4, 8", "10, 8, 6", "1, 4, 9"],
-      "right": ["2 ರಿಂದ ಗುಣಿಸಿ", "ವರ್ಗಗಳು (Squares)", "5 ಅನ್ನು ಸೇರಿಸಿ", "2 ಅನ್ನು ಕಳೆಯಿರಿ"],
-      "answer": {
-        "5, 10, 15": "5 ಅನ್ನು ಸೇರಿಸಿ",
-        "2, 4, 8": "2 ರಿಂದ ಗುಣಿಸಿ",
-        "10, 8, 6": "2 ಅನ್ನು ಕಳೆಯಿರಿ",
-        "1, 4, 9": "ವರ್ಗಗಳು (Squares)"
-      },
-      "reasoning": "ಅನುಕ್ರಮಗಳನ್ನು ಅವುಗಳ ಉತ್ಪಾದನಾ ನಿಯಮಗಳೊಂದಿಗೆ ಹೊಂದಿಸುವುದು."
+      "reasoning": "ಅನುಕ್ರಮಗಳನ್ನು ಅವುಗಳ ಉತ್ಪಾದನಾ ನಿಯಮಗಳೊಂದಿಗೆ ಹೊಂದಿಸುವುದು.",
+      "pairs": [
+        {
+          "left": "5, 10, 15",
+          "right": "2 ರಿಂದ ಗುಣಿಸಿ"
+        },
+        {
+          "left": "2, 4, 8",
+          "right": "ವರ್ಗಗಳು (Squares)"
+        },
+        {
+          "left": "10, 8, 6",
+          "right": "5 ಅನ್ನು ಸೇರಿಸಿ"
+        },
+        {
+          "left": "1, 4, 9",
+          "right": "2 ಅನ್ನು ಕಳೆಯಿರಿ"
+        }
+      ]
     }
   },
   {
@@ -291,13 +477,23 @@
     "difficulty": 1,
     "en": {
       "question": "What is the next term in the pattern: A, C, E, G, ...?",
-      "options": ["H", "I", "J", "K"],
+      "options": [
+        "H",
+        "I",
+        "J",
+        "K"
+      ],
       "answer": "I",
       "reasoning": "Skip one letter in the alphabet: A (B) C (D) E (F) G (H) I."
     },
     "kn": {
       "question": "ಈ ವಿನ್ಯಾಸದಲ್ಲಿ ಮುಂದಿನ ಪದ ಯಾವುದು: A, C, E, G, ...?",
-      "options": ["H", "I", "J", "K"],
+      "options": [
+        "H",
+        "I",
+        "J",
+        "K"
+      ],
       "answer": "I",
       "reasoning": "ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಒಂದು ಅಕ್ಷರವನ್ನು ಬಿಟ್ಟುಬನ್ನಿ: A (B) C (D) E (F) G (H) I."
     }
@@ -308,14 +504,30 @@
     "difficulty": 2,
     "en": {
       "question": "Identify the numbers that complete the pattern: 3, 6, ___, 12, ___",
-      "options": ["8", "9", "14", "15"],
-      "answer": ["9", "15"],
+      "options": [
+        "8",
+        "9",
+        "14",
+        "15"
+      ],
+      "answer": [
+        "9",
+        "15"
+      ],
       "reasoning": "Multiples of 3: 3, 6, 9, 12, 15."
     },
     "kn": {
       "question": "ಈ ವಿನ್ಯಾಸವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವ ಸಂಖ್ಯೆಗಳನ್ನು ಗುರುತಿಸಿ: 3, 6, ___, 12, ___",
-      "options": ["8", "9", "14", "15"],
-      "answer": ["9", "15"],
+      "options": [
+        "8",
+        "9",
+        "14",
+        "15"
+      ],
+      "answer": [
+        "9",
+        "15"
+      ],
       "reasoning": "3 ರ ಗುಣಕಗಳು: 3, 6, 9, 12, 15."
     }
   },
@@ -325,13 +537,23 @@
     "difficulty": 2,
     "en": {
       "question": "Find the missing number: 1, 8, 27, ___, 125",
-      "options": ["36", "64", "81", "100"],
+      "options": [
+        "36",
+        "64",
+        "81",
+        "100"
+      ],
       "answer": "64",
       "reasoning": "These are perfect cubes: 1^3, 2^3, 3^3, 4^3 = 64, 5^3."
     },
     "kn": {
       "question": "ಬಿಟ್ಟುಹೋದ ಸಂಖ್ಯೆಯನ್ನು ಹುಡುಕಿ: 1, 8, 27, ___, 125",
-      "options": ["36", "64", "81", "100"],
+      "options": [
+        "36",
+        "64",
+        "81",
+        "100"
+      ],
       "answer": "64",
       "reasoning": "ಇವು ಪರಿಪೂರ್ಣ ಘನಗಳು (perfect cubes): 1^3, 2^3, 3^3, 4^3 = 64, 5^3."
     }
@@ -341,26 +563,40 @@
     "type": "match",
     "difficulty": 1,
     "en": {
-      "question": "Match the sequence with its next term:",
-      "left": ["10, 20, 30", "1, 3, 5", "100, 95, 90"],
-      "right": ["7", "40", "85"],
-      "answer": {
-        "10, 20, 30": "40",
-        "1, 3, 5": "7",
-        "100, 95, 90": "85"
-      },
-      "reasoning": "Match according to the pattern rules."
+      "question": "Match the arithmetic sequence with its next term:",
+      "reasoning": "Match according to the pattern rules.",
+      "pairs": [
+        {
+          "left": "10, 20, 30",
+          "right": "7"
+        },
+        {
+          "left": "1, 3, 5",
+          "right": "40"
+        },
+        {
+          "left": "100, 95, 90",
+          "right": "85"
+        }
+      ]
     },
     "kn": {
       "question": "ಅನುಕ್ರಮವನ್ನು ಅದರ ಮುಂದಿನ ಪದದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "left": ["10, 20, 30", "1, 3, 5", "100, 95, 90"],
-      "right": ["7", "40", "85"],
-      "answer": {
-        "10, 20, 30": "40",
-        "1, 3, 5": "7",
-        "100, 95, 90": "85"
-      },
-      "reasoning": "ವಿನ್ಯಾಸದ ನಿಯಮಗಳ ಪ್ರಕಾರ ಹೊಂದಿಸಿ."
+      "reasoning": "ವಿನ್ಯಾಸದ ನಿಯಮಗಳ ಪ್ರಕಾರ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "10, 20, 30",
+          "right": "7"
+        },
+        {
+          "left": "1, 3, 5",
+          "right": "40"
+        },
+        {
+          "left": "100, 95, 90",
+          "right": "85"
+        }
+      ]
     }
   },
   {
@@ -369,13 +605,23 @@
     "difficulty": 3,
     "en": {
       "question": "What is the 7th term of the sequence: 2, 4, 8, 16, ...?",
-      "options": ["32", "64", "128", "256"],
+      "options": [
+        "32",
+        "64",
+        "128",
+        "256"
+      ],
       "answer": "128",
       "reasoning": "Multiply by 2. Terms are: 2, 4, 8, 16, 32, 64, 128."
     },
     "kn": {
       "question": "ಈ ಅನುಕ್ರಮದ 7ನೇ ಪದ ಯಾವುದು: 2, 4, 8, 16, ...?",
-      "options": ["32", "64", "128", "256"],
+      "options": [
+        "32",
+        "64",
+        "128",
+        "256"
+      ],
       "answer": "128",
       "reasoning": "2 ರಿಂದ ಗುಣಿಸಿ. ಪದಗಳು: 2, 4, 8, 16, 32, 64, 128."
     }
@@ -386,14 +632,30 @@
     "difficulty": 2,
     "en": {
       "question": "Which sequences are decreasing?",
-      "options": ["10, 8, 6, 4", "1, 2, 3, 4", "50, 40, 30", "5, 10, 5, 10"],
-      "answer": ["10, 8, 6, 4", "50, 40, 30"],
+      "options": [
+        "10, 8, 6, 4",
+        "1, 2, 3, 4",
+        "50, 40, 30",
+        "5, 10, 5, 10"
+      ],
+      "answer": [
+        "10, 8, 6, 4",
+        "50, 40, 30"
+      ],
       "reasoning": "A decreasing sequence gets smaller with each term."
     },
     "kn": {
       "question": "ಯಾವ ಅನುಕ್ರಮಗಳು ಕಡಿಮೆಯಾಗುತ್ತಿವೆ (decreasing)?",
-      "options": ["10, 8, 6, 4", "1, 2, 3, 4", "50, 40, 30", "5, 10, 5, 10"],
-      "answer": ["10, 8, 6, 4", "50, 40, 30"],
+      "options": [
+        "10, 8, 6, 4",
+        "1, 2, 3, 4",
+        "50, 40, 30",
+        "5, 10, 5, 10"
+      ],
+      "answer": [
+        "10, 8, 6, 4",
+        "50, 40, 30"
+      ],
       "reasoning": "ಕಡಿಮೆಯಾಗುವ ಅನುಕ್ರಮವು ಪ್ರತಿ ಪದದೊಂದಿಗೆ ಚಿಕ್ಕದಾಗುತ್ತದೆ."
     }
   },
@@ -403,13 +665,23 @@
     "difficulty": 1,
     "en": {
       "question": "Look at the pattern: 🔴, 🔵, 🔴, 🔵, ... What comes next?",
-      "options": ["🔴", "🔵", "🟡", "🟢"],
+      "options": [
+        "🔴",
+        "🔵",
+        "🟡",
+        "🟢"
+      ],
       "answer": "🔴",
       "reasoning": "The pattern alternates between red and blue."
     },
     "kn": {
       "question": "ಈ ವಿನ್ಯಾಸವನ್ನು ನೋಡಿ: 🔴, 🔵, 🔴, 🔵, ... ಮುಂದೆ ಏನು ಬರುತ್ತದೆ?",
-      "options": ["🔴", "🔵", "🟡", "🟢"],
+      "options": [
+        "🔴",
+        "🔵",
+        "🟡",
+        "🟢"
+      ],
       "answer": "🔴",
       "reasoning": "ವಿನ್ಯಾಸವು ಕೆಂಪು ಮತ್ತು ನೀಲಿ ಬಣ್ಣಗಳ ನಡುವೆ ಬದಲಾಗುತ್ತದೆ."
     }
@@ -420,27 +692,47 @@
     "difficulty": 3,
     "en": {
       "question": "Match the sequence to its 5th term:",
-      "left": ["3, 6, 9, 12, ...", "1, 4, 9, 16, ...", "10, 20, 30, 40, ...", "2, 4, 8, 16, ..."],
-      "right": ["25", "50", "32", "15"],
-      "answer": {
-        "3, 6, 9, 12, ...": "15",
-        "1, 4, 9, 16, ...": "25",
-        "10, 20, 30, 40, ...": "50",
-        "2, 4, 8, 16, ...": "32"
-      },
-      "reasoning": "Find the 5th term by continuing the pattern rule."
+      "reasoning": "Find the 5th term by continuing the pattern rule.",
+      "pairs": [
+        {
+          "left": "3, 6, 9, 12, ...",
+          "right": "25"
+        },
+        {
+          "left": "1, 4, 9, 16, ...",
+          "right": "50"
+        },
+        {
+          "left": "10, 20, 30, 40, ...",
+          "right": "32"
+        },
+        {
+          "left": "2, 4, 8, 16, ...",
+          "right": "15"
+        }
+      ]
     },
     "kn": {
       "question": "ಅನುಕ್ರಮವನ್ನು ಅದರ 5ನೇ ಪದದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "left": ["3, 6, 9, 12, ...", "1, 4, 9, 16, ...", "10, 20, 30, 40, ...", "2, 4, 8, 16, ..."],
-      "right": ["25", "50", "32", "15"],
-      "answer": {
-        "3, 6, 9, 12, ...": "15",
-        "1, 4, 9, 16, ...": "25",
-        "10, 20, 30, 40, ...": "50",
-        "2, 4, 8, 16, ...": "32"
-      },
-      "reasoning": "ವಿನ್ಯಾಸದ ನಿಯಮವನ್ನು ಮುಂದುವರಿಸುವ ಮೂಲಕ 5ನೇ ಪದವನ್ನು ಹುಡುಕಿ."
+      "reasoning": "ವಿನ್ಯಾಸದ ನಿಯಮವನ್ನು ಮುಂದುವರಿಸುವ ಮೂಲಕ 5ನೇ ಪದವನ್ನು ಹುಡುಕಿ.",
+      "pairs": [
+        {
+          "left": "3, 6, 9, 12, ...",
+          "right": "25"
+        },
+        {
+          "left": "1, 4, 9, 16, ...",
+          "right": "50"
+        },
+        {
+          "left": "10, 20, 30, 40, ...",
+          "right": "32"
+        },
+        {
+          "left": "2, 4, 8, 16, ...",
+          "right": "15"
+        }
+      ]
     }
   },
   {
@@ -449,13 +741,23 @@
     "difficulty": 2,
     "en": {
       "question": "What is the missing letter: Z, W, T, ___, N?",
-      "options": ["P", "Q", "R", "S"],
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
       "answer": "Q",
       "reasoning": "Skip 2 letters backwards: Z(Y,X), W(V,U), T(S,R), Q(P,O), N."
     },
     "kn": {
       "question": "ಬಿಟ್ಟುಹೋದ ಅಕ್ಷರ ಯಾವುದು: Z, W, T, ___, N?",
-      "options": ["P", "Q", "R", "S"],
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
       "answer": "Q",
       "reasoning": "ಹಿಂದಕ್ಕೆ 2 ಅಕ್ಷರಗಳನ್ನು ಬಿಟ್ಟುಬನ್ನಿ: Z(Y,X), W(V,U), T(S,R), Q(P,O), N."
     }
@@ -466,14 +768,30 @@
     "difficulty": 3,
     "en": {
       "question": "Which of these are Fibonacci numbers?",
-      "options": ["2", "4", "8", "13"],
-      "answer": ["2", "13"],
+      "options": [
+        "2",
+        "4",
+        "8",
+        "13"
+      ],
+      "answer": [
+        "2",
+        "13"
+      ],
       "reasoning": "Fibonacci: 1, 1, 2, 3, 5, 8, 13..."
     },
     "kn": {
       "question": "ಇವುಗಳಲ್ಲಿ ಯಾವುವು ಫೈಬೊನಾಕಿ (Fibonacci) ಸಂಖ್ಯೆಗಳು?",
-      "options": ["2", "4", "8", "13"],
-      "answer": ["2", "13"],
+      "options": [
+        "2",
+        "4",
+        "8",
+        "13"
+      ],
+      "answer": [
+        "2",
+        "13"
+      ],
       "reasoning": "ಫೈಬೊನಾಕಿ: 1, 1, 2, 3, 5, 8, 13..."
     }
   },
@@ -483,13 +801,23 @@
     "difficulty": 1,
     "en": {
       "question": "If the rule is 'Add 10', what is the next number after 45?",
-      "options": ["50", "55", "60", "65"],
+      "options": [
+        "50",
+        "55",
+        "60",
+        "65"
+      ],
       "answer": "55",
       "reasoning": "45 + 10 = 55."
     },
     "kn": {
       "question": "ನಿಯಮ '10 ನ್ನು ಸೇರಿಸಿ' ಎಂದಾಗಿದ್ದರೆ, 45 ರ ನಂತರದ ಸಂಖ್ಯೆ ಯಾವುದು?",
-      "options": ["50", "55", "60", "65"],
+      "options": [
+        "50",
+        "55",
+        "60",
+        "65"
+      ],
       "answer": "55",
       "reasoning": "45 + 10 = 55."
     }
@@ -500,25 +828,39 @@
     "difficulty": 2,
     "en": {
       "question": "Match the alternating sequence with its next term:",
-      "left": ["1, 0, 1, 0", "A, B, A, B", "Up, Down, Up"],
-      "right": ["Down", "1", "A"],
-      "answer": {
-        "1, 0, 1, 0": "1",
-        "A, B, A, B": "A",
-        "Up, Down, Up": "Down"
-      },
-      "reasoning": "Alternating patterns repeat their elements."
+      "reasoning": "Alternating patterns repeat their elements.",
+      "pairs": [
+        {
+          "left": "1, 0, 1, 0",
+          "right": "Down"
+        },
+        {
+          "left": "A, B, A, B",
+          "right": "1"
+        },
+        {
+          "left": "Up, Down, Up",
+          "right": "A"
+        }
+      ]
     },
     "kn": {
       "question": "ಪರ್ಯಾಯ ಅನುಕ್ರಮವನ್ನು (alternating sequence) ಅದರ ಮುಂದಿನ ಪದದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "left": ["1, 0, 1, 0", "A, B, A, B", "ಮೇಲೆ, ಕೆಳಗೆ, ಮೇಲೆ"],
-      "right": ["ಕೆಳಗೆ", "1", "A"],
-      "answer": {
-        "1, 0, 1, 0": "1",
-        "A, B, A, B": "A",
-        "ಮೇಲೆ, ಕೆಳಗೆ, ಮೇಲೆ": "ಕೆಳಗೆ"
-      },
-      "reasoning": "ಪರ್ಯಾಯ ವಿನ್ಯಾಸಗಳು ಅವುಗಳ ಅಂಶಗಳನ್ನು ಪುನರಾವರ್ತಿಸುತ್ತವೆ."
+      "reasoning": "ಪರ್ಯಾಯ ವಿನ್ಯಾಸಗಳು ಅವುಗಳ ಅಂಶಗಳನ್ನು ಪುನರಾವರ್ತಿಸುತ್ತವೆ.",
+      "pairs": [
+        {
+          "left": "1, 0, 1, 0",
+          "right": "ಕೆಳಗೆ"
+        },
+        {
+          "left": "A, B, A, B",
+          "right": "1"
+        },
+        {
+          "left": "ಮೇಲೆ, ಕೆಳಗೆ, ಮೇಲೆ",
+          "right": "A"
+        }
+      ]
     }
   },
   {
@@ -527,13 +869,23 @@
     "difficulty": 3,
     "en": {
       "question": "What is the pattern rule: 100, 50, 25, 12.5?",
-      "options": ["Subtract 50", "Divide by 2", "Subtract 25", "Multiply by 0.25"],
+      "options": [
+        "Subtract 50",
+        "Divide by 2",
+        "Subtract 25",
+        "Multiply by 0.25"
+      ],
       "answer": "Divide by 2",
       "reasoning": "Each number is half of the previous number."
     },
     "kn": {
       "question": "ವಿನ್ಯಾಸದ ನಿಯಮವೇನು: 100, 50, 25, 12.5?",
-      "options": ["50 ಅನ್ನು ಕಳೆಯಿರಿ", "2 ರಿಂದ ಭಾಗಿಸಿ", "25 ಅನ್ನು ಕಳೆಯಿರಿ", "0.25 ರಿಂದ ಗುಣಿಸಿ"],
+      "options": [
+        "50 ಅನ್ನು ಕಳೆಯಿರಿ",
+        "2 ರಿಂದ ಭಾಗಿಸಿ",
+        "25 ಅನ್ನು ಕಳೆಯಿರಿ",
+        "0.25 ರಿಂದ ಗುಣಿಸಿ"
+      ],
       "answer": "2 ರಿಂದ ಭಾಗಿಸಿ",
       "reasoning": "ಪ್ರತಿಯೊಂದು ಸಂಖ್ಯೆಯು ಹಿಂದಿನ ಸಂಖ್ಯೆಯ ಅರ್ಧದಷ್ಟಿದೆ."
     }
@@ -544,14 +896,30 @@
     "difficulty": 2,
     "en": {
       "question": "Which of these are triangular numbers?",
-      "options": ["3", "5", "6", "9"],
-      "answer": ["3", "6"],
+      "options": [
+        "3",
+        "5",
+        "6",
+        "9"
+      ],
+      "answer": [
+        "3",
+        "6"
+      ],
       "reasoning": "Triangular numbers are 1, 3, 6, 10, 15..."
     },
     "kn": {
       "question": "ಇವುಗಳಲ್ಲಿ ತ್ರಿಕೋನ ಸಂಖ್ಯೆಗಳು (triangular numbers) ಯಾವುವು?",
-      "options": ["3", "5", "6", "9"],
-      "answer": ["3", "6"],
+      "options": [
+        "3",
+        "5",
+        "6",
+        "9"
+      ],
+      "answer": [
+        "3",
+        "6"
+      ],
       "reasoning": "ತ್ರಿಕೋನ ಸಂಖ್ಯೆಗಳು 1, 3, 6, 10, 15..."
     }
   },
@@ -561,13 +929,23 @@
     "difficulty": 1,
     "en": {
       "question": "What number is missing: 11, 22, 33, ___, 55?",
-      "options": ["40", "44", "45", "50"],
+      "options": [
+        "40",
+        "44",
+        "45",
+        "50"
+      ],
       "answer": "44",
       "reasoning": "Multiples of 11. 33 + 11 = 44."
     },
     "kn": {
       "question": "ಬಿಟ್ಟುಹೋದ ಸಂಖ್ಯೆ ಯಾವುದು: 11, 22, 33, ___, 55?",
-      "options": ["40", "44", "45", "50"],
+      "options": [
+        "40",
+        "44",
+        "45",
+        "50"
+      ],
       "answer": "44",
       "reasoning": "11 ರ ಗುಣಕಗಳು. 33 + 11 = 44."
     }
@@ -577,28 +955,48 @@
     "type": "match",
     "difficulty": 3,
     "en": {
-      "question": "Match the sequence with its missing middle term:",
-      "left": ["2, 4, ___, 16", "10, 20, ___, 40", "1, 4, ___, 16", "5, 10, ___, 20"],
-      "right": ["8", "30", "9", "15"],
-      "answer": {
-        "2, 4, ___, 16": "8",
-        "10, 20, ___, 40": "30",
-        "1, 4, ___, 16": "9",
-        "5, 10, ___, 20": "15"
-      },
-      "reasoning": "Identify the pattern to find the missing term."
+      "question": "Match the arithmetic sequence with its missing middle term:",
+      "reasoning": "Identify the pattern to find the missing term.",
+      "pairs": [
+        {
+          "left": "2, 4, ___, 16",
+          "right": "8"
+        },
+        {
+          "left": "10, 20, ___, 40",
+          "right": "30"
+        },
+        {
+          "left": "1, 4, ___, 16",
+          "right": "9"
+        },
+        {
+          "left": "5, 10, ___, 20",
+          "right": "15"
+        }
+      ]
     },
     "kn": {
       "question": "ಅನುಕ್ರಮವನ್ನು ಅದರ ಮಧ್ಯದ ಬಿಟ್ಟುಹೋದ ಪದದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "left": ["2, 4, ___, 16", "10, 20, ___, 40", "1, 4, ___, 16", "5, 10, ___, 20"],
-      "right": ["8", "30", "9", "15"],
-      "answer": {
-        "2, 4, ___, 16": "8",
-        "10, 20, ___, 40": "30",
-        "1, 4, ___, 16": "9",
-        "5, 10, ___, 20": "15"
-      },
-      "reasoning": "ಬಿಟ್ಟುಹೋದ ಪದವನ್ನು ಹುಡುಕಲು ವಿನ್ಯಾಸವನ್ನು ಗುರುತಿಸಿ."
+      "reasoning": "ಬಿಟ್ಟುಹೋದ ಪದವನ್ನು ಹುಡುಕಲು ವಿನ್ಯಾಸವನ್ನು ಗುರುತಿಸಿ.",
+      "pairs": [
+        {
+          "left": "2, 4, ___, 16",
+          "right": "8"
+        },
+        {
+          "left": "10, 20, ___, 40",
+          "right": "30"
+        },
+        {
+          "left": "1, 4, ___, 16",
+          "right": "9"
+        },
+        {
+          "left": "5, 10, ___, 20",
+          "right": "15"
+        }
+      ]
     }
   },
   {
@@ -607,13 +1005,23 @@
     "difficulty": 2,
     "en": {
       "question": "Complete the pattern: 1, 2, 4, 7, 11, ___",
-      "options": ["14", "15", "16", "17"],
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
       "answer": "16",
       "reasoning": "Add 1, then 2, then 3, then 4, then 5. 11 + 5 = 16."
     },
     "kn": {
       "question": "ವಿನ್ಯಾಸವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ: 1, 2, 4, 7, 11, ___",
-      "options": ["14", "15", "16", "17"],
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
       "answer": "16",
       "reasoning": "1 ಅನ್ನು ಸೇರಿಸಿ, ನಂತರ 2, ನಂತರ 3, ನಂತರ 4, ನಂತರ 5. 11 + 5 = 16."
     }
@@ -624,14 +1032,30 @@
     "difficulty": 3,
     "en": {
       "question": "Which of these rules generate an increasing sequence?",
-      "options": ["Add 5", "Subtract 3", "Multiply by 2", "Divide by 4"],
-      "answer": ["Add 5", "Multiply by 2"],
+      "options": [
+        "Add 5",
+        "Subtract 3",
+        "Multiply by 2",
+        "Divide by 4"
+      ],
+      "answer": [
+        "Add 5",
+        "Multiply by 2"
+      ],
       "reasoning": "Addition and multiplication (by positive integers > 1) increase the numbers."
     },
     "kn": {
       "question": "ಇವುಗಳಲ್ಲಿ ಯಾವ ನಿಯಮಗಳು ಹೆಚ್ಚಾಗುತ್ತಿರುವ (increasing) ಅನುಕ್ರಮವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ?",
-      "options": ["5 ನ್ನು ಸೇರಿಸಿ", "3 ನ್ನು ಕಳೆಯಿರಿ", "2 ರಿಂದ ಗುಣಿಸಿ", "4 ರಿಂದ ಭಾಗಿಸಿ"],
-      "answer": ["5 ನ್ನು ಸೇರಿಸಿ", "2 ರಿಂದ ಗುಣಿಸಿ"],
+      "options": [
+        "5 ನ್ನು ಸೇರಿಸಿ",
+        "3 ನ್ನು ಕಳೆಯಿರಿ",
+        "2 ರಿಂದ ಗುಣಿಸಿ",
+        "4 ರಿಂದ ಭಾಗಿಸಿ"
+      ],
+      "answer": [
+        "5 ನ್ನು ಸೇರಿಸಿ",
+        "2 ರಿಂದ ಗುಣಿಸಿ"
+      ],
       "reasoning": "ಸಂಕಲನ ಮತ್ತು ಗುಣಾಕಾರ (ಧನ ಪೂರ್ಣಾಂಕಗಳಿಂದ > 1) ಸಂಖ್ಯೆಗಳನ್ನು ಹೆಚ್ಚಿಸುತ್ತವೆ."
     }
   },
@@ -641,13 +1065,23 @@
     "difficulty": 1,
     "en": {
       "question": "What is the next shape: Square, Square, Circle, Square, Square, ___",
-      "options": ["Square", "Circle", "Triangle", "Star"],
+      "options": [
+        "Square",
+        "Circle",
+        "Triangle",
+        "Star"
+      ],
       "answer": "Circle",
       "reasoning": "The pattern is 2 Squares followed by 1 Circle."
     },
     "kn": {
       "question": "ಮುಂದಿನ ಆಕಾರ ಯಾವುದು: ಚೌಕ, ಚೌಕ, ವೃತ್ತ, ಚೌಕ, ಚೌಕ, ___",
-      "options": ["ಚೌಕ", "ವೃತ್ತ", "ತ್ರಿಕೋನ", "ನಕ್ಷತ್ರ"],
+      "options": [
+        "ಚೌಕ",
+        "ವೃತ್ತ",
+        "ತ್ರಿಕೋನ",
+        "ನಕ್ಷತ್ರ"
+      ],
       "answer": "ವೃತ್ತ",
       "reasoning": "ವಿನ್ಯಾಸವು 2 ಚೌಕಗಳ ನಂತರ 1 ವೃತ್ತವಾಗಿದೆ."
     }

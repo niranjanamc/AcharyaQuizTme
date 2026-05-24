@@ -1,0 +1,618 @@
+[
+  {
+    "id": "c5_sci_machines_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "A simple tool that helps us do work faster, with less effort, and in a convenient way is called a:",
+      "options": ["Complex machine", "Simple machine", "Engine", "Generator"],
+      "answer": "Simple machine",
+      "reasoning": "Simple machines are basic mechanical devices that make work easier by multiplying or redirecting force."
+    },
+    "kn": {
+      "question": "ಕಡಿಮೆ ಶ್ರಮದಿಂದ ಮತ್ತು ಅನುಕೂಲಕರ ರೀತಿಯಲ್ಲಿ ಕೆಲಸವನ್ನು ವೇಗವಾಗಿ ಮಾಡಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುವ ಸರಳ ಸಾಧನವನ್ನು ಏನೆನ್ನುತ್ತಾರೆ?",
+      "options": ["ಸಂಕೀರ್ಣ ಯಂತ್ರ", "ಸರಳ ಯಂತ್ರ", "ಎಂಜಿನ್", "ಜನರೇಟರ್"],
+      "answer": "ಸರಳ ಯಂತ್ರ",
+      "reasoning": "ಸರಳ ಯಂತ್ರಗಳು ಮೂಲಭೂತ ಯಾಂತ್ರಿಕ ಸಾಧನಗಳಾಗಿದ್ದು, ಬಲವನ್ನು ಹೆಚ್ಚಿಸುವ ಅಥವಾ ಅದರ ದಿಕ್ಕನ್ನು ಬದಲಾಯಿಸುವ ಮೂಲಕ ಕೆಲಸವನ್ನು ಸುಲಭಗೊಳಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "How many basic types of simple machines are recognized in science?",
+      "options": ["Four", "Five", "Six", "Eight"],
+      "answer": "Six",
+      "reasoning": "There are six basic simple machines: lever, pulley, wheel and axle, inclined plane, wedge, and screw."
+    },
+    "kn": {
+      "question": "ವಿಜ್ಞಾನದಲ್ಲಿ ಎಷ್ಟು ಮೂಲಭೂತ ಸರಳ ಯಂತ್ರಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ?",
+      "options": ["ನಾಲ್ಕು", "ಐದು", "ಆರು", "ಎಂಟು"],
+      "answer": "ಆರು",
+      "reasoning": "ಆರು ಮೂಲಭೂತ ಸರಳ ಯಂತ್ರಗಳಿವೆ: ಸೀರುಂಡೆ (ಲಿವರ್), ಕಪ್ಪಿ (ಪುಲ್ಲಿ), ಚಕ್ರ ಮತ್ತು ಇರುಸು (ವೀಲ್ ಆಂಡ್ ಆಕ್ಸಲ್), ಇಳಿಜಾರು ತಲ, ಆಣೆ (ವೆಡ್ಜ್) ಮತ್ತು ತಿರುಪು (ಸ್ಕ್ರೂ)."
+    }
+  },
+  {
+    "id": "c5_sci_machines_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "A slanting surface or ramp used to slide heavy boxes into a truck is an example of which simple machine?",
+      "options": ["Lever", "Inclined plane", "Wedge", "Screw"],
+      "answer": "Inclined plane",
+      "reasoning": "An inclined plane is a flat slanting surface that helps move heavy loads upward with less effort compared to lifting them straight up."
+    },
+    "kn": {
+      "question": "ಭಾರವಾದ ಪೆಟ್ಟಿಗೆಗಳನ್ನು ಟ್ರಕ್‌ಗೆ ಸುಲಭವಾಗಿ ತಳ್ಳಲು ಬಳಸುವ ಇಳಿಜಾರಾದ ಮೇಲ್ಮೈ ಅಥವಾ ರ‍್ಯಾಂಪ್ ಯಾವ ಸರಳ ಯಂತ್ರಕ್ಕೆ ಉದಾಹರಣೆಯಾಗಿದೆ?",
+      "options": ["ಲಿವರ್ (ಸೀರುಂಡೆ)", "ಇಳಿಜಾರು ತಲ", "ಆಣೆ (ವೆಡ್ಜ್)", "ತಿರುಪು (ಸ್ಕ್ರೂ)"],
+      "answer": "ಇಳಿಜಾರು ತಲ",
+      "reasoning": "ಇಳಿಜಾರು ತಲವು ಚಪ್ಪಟೆಯಾದ ಇಳಿಜಾರಾದ ಮೇಲ್ಮೈಯಾಗಿದ್ದು, ಇದು ಭಾರವಾದ ವಸ್ತುಗಳನ್ನು ನೇರವಾಗಿ ಮೇಲಕ್ಕೆ ಎತ್ತುವುದಕ್ಕಿಂತ ಕಡಿಮೆ ಶ್ರಮದಿಂದ ತಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which simple machine consists of a wheel with a grooved rim and a rope running along the groove?",
+      "options": ["Wedge", "Wheel and axle", "Pulley", "Lever"],
+      "answer": "Pulley",
+      "reasoning": "A pulley is a grooved wheel with a rope around it, used to lift heavy objects by changing the direction of the force applied."
+    },
+    "kn": {
+      "question": "ಗೆರೆಯಿರುವ ಅಂಚನ್ನು ಹೊಂದಿರುವ ಚಕ್ರ ಮತ್ತು ಆ ಗೆರೆಯಲ್ಲಿ ಚಲಿಸುವ ಹಗ್ಗವನ್ನು ಒಳಗೊಂಡಿರುವ ಸರಳ ಯಂತ್ರ ಯಾವುದು?",
+      "options": ["ಆಣೆ (ವೆಡ್ಜ್)", "ಚಕ್ರ ಮತ್ತು ಇರುಸು", "ಕಪ್ಪಿ (Pulley)", "ಲಿವರ್ (ಸೀರುಂಡೆ)"],
+      "answer": "ಕಪ್ಪಿ (Pulley)",
+      "reasoning": "ಕಪ್ಪಿಯು ಗೆರೆಯಿರುವ ಚಕ್ರ ಮತ್ತು ಹಗ್ಗವನ್ನು ಹೊಂದಿದ್ದು, ಅನ್ವಯಿಸುವ ಬಲದ ದಿಕ್ಕನ್ನು ಬದಲಾಯಿಸುವ ಮೂಲಕ ಭಾರವಾದ ವಸ್ತುಗಳನ್ನು ಎತ್ತಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "A rigid bar that is free to turn or rotate about a fixed point is called a:",
+      "options": ["Lever", "Wedge", "Inclined plane", "Screw"],
+      "answer": "Lever",
+      "reasoning": "A lever is a stiff rod or bar that rests and turns on a support called a fulcrum."
+    },
+    "kn": {
+      "question": "ಒಂದು ನಿರ್ದಿಷ್ಟ ಸ್ಥಿರ ಬಿಂದುವಿನ ಸುತ್ತಲೂ ಮುಕ್ತವಾಗಿ ತಿರುಗಬಲ್ಲ ಗಟ್ಟಿಯಾದ ಸರಳನ್ನು ಏನೆನ್ನುತ್ತಾರೆ?",
+      "options": ["ಲಿವರ್ (ಸೀರುಂಡೆ)", "ಆಣೆ (ವೆಡ್ಜ್)", "ಇಳಿಜಾರು ತಲ", "ತಿರುಪು (ಸ್ಕ್ರೂ)"],
+      "answer": "ಲಿವರ್ (ಸೀರುಂಡೆ)",
+      "reasoning": "ಲಿವರ್ ಎನ್ನುವುದು ಗಟ್ಟಿಯಾದ ಕಡ್ಡಿ ಅಥವಾ ಸರಳಾಗಿದ್ದು, ಇದು ಆಧಾರ ಬಿಂದು (ಫಲ್ಕ್ರಮ್) ಎಂಬ ಆಧಾರದ ಮೇಲೆ ತಿರುಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the fixed support point about which a lever turns or pivots called?",
+      "options": ["Load", "Effort", "Fulcrum", "Axle"],
+      "answer": "Fulcrum",
+      "reasoning": "The fulcrum is the fixed point of support on which a lever rotates or pivots."
+    },
+    "kn": {
+      "question": "ಲಿವರ್ ತಿರುಗಲು ಆಧಾರವಾಗಿರುವ ಸ್ಥಿರ ಬಿಂದುವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಭಾರ (Load)", "ಪ್ರಯಾಸ (Effort)", "ಆಧಾರ ಬಿಂದು (Fulcrum)", "ಇರುಸು (Axle)"],
+      "answer": "ಆಧಾರ ಬಿಂದು (Fulcrum)",
+      "reasoning": "ಆಧಾರ ಬಿಂದು (ಫಲ್ಕ್ರಮ್) ಎಂದರೆ ಲಿವರ್ ತಿರುಗಲು ಅಥವಾ ನಿಲ್ಲಲು ಬಳಸುವ ಸ್ಥಿರ ಬಿಂದುವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_007",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which type of simple machine, consisting of two back-to-back inclined planes, is used for cutting wood or splitting objects?",
+      "options": ["Screw", "Wedge", "Pulley", "Wheel and axle"],
+      "answer": "Wedge",
+      "reasoning": "A wedge has at least one slanting side ending in a sharp edge (like an axe or knife), used to cut, split, or pierce materials."
+    },
+    "kn": {
+      "question": "ಮರವನ್ನು ಕತ್ತರಿಸಲು ಅಥವಾ ವಸ್ತುಗಳನ್ನು ಸೀಳಲು ಬಳಸುವ, ಎರಡು ಇಳಿಜಾರು ತಲಗಳನ್ನು ಬೆನ್ನಿಗೆ ಬೆನ್ನು ಸೇರಿಸಿ ರಚಿಸಿದ ಸರಳ ಯಂತ್ರ ಯಾವುದು?",
+      "options": ["ತಿರುಪು (ಸ್ಕ್ರೂ)", "ಆಣೆ (Wedge)", "ಕಪ್ಪಿ", "ಚಕ್ರ ಮತ್ತು ಇರುಸು"],
+      "answer": "ಆಣೆ (Wedge)",
+      "reasoning": "ಆಣೆಯು (ವೆಡ್ಜ್) ಕನಿಷ್ಠ ಒಂದು ಇಳಿಜಾರು ಬದಿಯನ್ನು ಹೊಂದಿದ್ದು ಚೂಪಾದ ಅಂಚಿನಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ (ಕೊಡಲಿ ಅಥವಾ ಚಾಕುವಿನಂತೆ). ಇದನ್ನು ವಸ್ತುಗಳನ್ನು ಸೀಳಲು ಅಥವಾ ಕತ್ತರಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_008",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "A screw is actually an inclined plane wrapped around a central:",
+      "options": ["Cube", "Sphere", "Cylinder", "Cone"],
+      "answer": "Cylinder",
+      "reasoning": "A screw is a modified inclined plane wrapped around a cylindrical shaft in the form of ridges called threads."
+    },
+    "kn": {
+      "question": "ತಿರುಪು (ಸ್ಕ್ರೂ) ಎಂಬುದು ವಾಸ್ತವವಾಗಿ ಕೆಳಗಿನ ಯಾವುದರ ಸುತ್ತಲೂ ಸುತ್ತಲ್ಪಟ್ಟ ಇಳಿಜಾರು ತಲವಾಗಿದೆ?",
+      "options": ["ಘನಕೃತಿ (Cube)", "ಗೋಳ (Sphere)", "ಸಿಲಿಂಡರ್ (Cylinder)", "ಶಂಕು (Cone)"],
+      "answer": "ಸಿಲಿಂಡರ್ (Cylinder)",
+      "reasoning": "ತಿರುಪು ಎಂಬುದು ಸಿಲಿಂಡರಾಕಾರದ ನಳಿಕೆಯ ಸುತ್ತಲೂ ಸುರುಳಿಯಾಕಾರದಲ್ಲಿ ಸುತ್ತಿರುವ ಇಳಿಜಾರು ತಲವಾಗಿದೆ. ಇವುಗಳ ಮೇಲಿನ ಗೆರೆಗಳನ್ನು ಥ್ರೆಡ್ಸ್ ಎನ್ನಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "A see-saw in a children's playground is an example of which class of lever?",
+      "options": ["First-class lever", "Second-class lever", "Third-class lever", "Fourth-class lever"],
+      "answer": "First-class lever",
+      "reasoning": "In a see-saw, the fulcrum (pivot point) is in the middle, between the load (one child) and the effort (the other child), which is the definition of a first-class lever."
+    },
+    "kn": {
+      "question": "ಮಕ್ಕಳ ಆಟದ ಮೈದಾನದಲ್ಲಿರುವ ಸೀ-ಸಾ (see-saw) ಯಾವ ವರ್ಗದ ಲಿವರ್‌ಗೆ ಉದಾಹರಣೆಯಾಗಿದೆ?",
+      "options": ["ಪ್ರಥಮ ವರ್ಗದ ಲಿವರ್", "ದ್ವಿತೀಯ ವರ್ಗದ ಲಿವರ್", "ತೃತೀಯ ವರ್ಗದ ಲಿವರ್", "ಚತುರ್ಥ ವರ್ಗದ ಲಿವರ್"],
+      "answer": "ಪ್ರಥಮ ವರ್ಗದ ಲಿವರ್",
+      "reasoning": "ಸೀ-ಸಾದಲ್ಲಿ ಆಧಾರ ಬಿಂದುವು ಮಧ್ಯದಲ್ಲಿದ್ದು, ಭಾರ ಮತ್ತು ಪ್ರಯಾಸಗಳು ಎರಡೂ ಬದಿಗಳಲ್ಲಿರುತ್ತವೆ. ಇದು ಪ್ರಥಮ ವರ್ಗದ ಲಿವರ್‌ನ ಲಕ್ಷಣವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In a second-class lever, which of the three components is located in the middle?",
+      "options": ["Fulcrum", "Load", "Effort", "Axle"],
+      "answer": "Load",
+      "reasoning": "In a second-class lever, the load is in the middle, with the fulcrum at one end and the effort applied at the other end."
+    },
+    "kn": {
+      "question": "ದ್ವಿತೀಯ ವರ್ಗದ ಲಿವರ್‌ನಲ್ಲಿ, ಕೆಳಗಿನ ಮೂರು ಘಟಕಗಳಲ್ಲಿ ಯಾವುದು ಮಧ್ಯದಲ್ಲಿರುತ್ತದೆ?",
+      "options": ["ಆಧಾರ ಬಿಂದು (Fulcrum)", "ಭಾರ (Load)", "ಪ್ರಯಾಸ (Effort)", "ಇರುಸು (Axle)"],
+      "answer": "ಭಾರ (Load)",
+      "reasoning": "ದ್ವಿತೀಯ ವರ್ಗದ ಲಿವರ್‌ನಲ್ಲಿ ಭಾರವು ಮಧ್ಯದಲ್ಲಿರುತ್ತದೆ, ಆಧಾರ ಬಿಂದು ಒಂದು ಕೊನೆಯಲ್ಲಿದ್ದರೆ, ಪ್ರಯಾಸವನ್ನು ಇನ್ನೊಂದು ಕೊನೆಯಲ್ಲಿ ಹಾಕಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "A wheelbarrow, used to carry soil or waste, is an example of which class of lever?",
+      "options": ["First-class lever", "Second-class lever", "Third-class lever", "None of the above"],
+      "answer": "Second-class lever",
+      "reasoning": "In a wheelbarrow, the wheel acts as the fulcrum at one end, the handles are where the effort is applied at the other end, and the heavy load is carried in the middle."
+    },
+    "kn": {
+      "question": "ಮಣ್ಣು ಅಥವಾ ಕಸವನ್ನು ಸಾಗಿಸಲು ಬಳಸುವ ತಳ್ಳುಗಾಡಿ (wheelbarrow) ಯಾವ ವರ್ಗದ ಲಿವರ್‌ಗೆ ಉದಾಹರಣೆಯಾಗಿದೆ?",
+      "options": ["ಪ್ರಥಮ ವರ್ಗದ ಲಿವರ್", "ದ್ವಿತೀಯ ವರ್ಗದ ಲಿವರ್", "ತೃತೀಯ ವರ್ಗದ ಲಿವರ್", "ಮೇಲಿನ ಯಾವುದೂ ಅಲ್ಲ"],
+      "answer": "ದ್ವಿತೀಯ ವರ್ಗದ ಲಿವರ್",
+      "reasoning": "ತಳ್ಳುಗಾಡಿಯಲ್ಲಿ ಚಕ್ರವು ಆಧಾರ ಬಿಂದುವಾಗಿ ಕೊನೆಯಲ್ಲಿದೆ, ಹಿಡಿಕೆಗಳು ಪ್ರಯಾಸ ಹಾಕುವ ಕೊನೆಯಲ್ಲಿದೆ ಮತ್ತು ಭಾರವನ್ನು ಮಧ್ಯದಲ್ಲಿ ಇಡಲಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ ಇದು ದ್ವಿತೀಯ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In which class of lever is the effort applied in the middle, between the fulcrum and the load?",
+      "options": ["First-class lever", "Second-class lever", "Third-class lever", "All of the above"],
+      "answer": "Third-class lever",
+      "reasoning": "A third-class lever has the effort in the middle, with the fulcrum at one end and the load at the other end."
+    },
+    "kn": {
+      "question": "ಯಾವ ವರ್ಗದ ಲಿವರ್‌ನಲ್ಲಿ ಆಧಾರ ಬಿಂದು ಮತ್ತು ಭಾರದ ನಡುವೆ ಮಧ್ಯದಲ್ಲಿ ಪ್ರಯಾಸವನ್ನು (Effort) ಹಾಕಲಾಗುತ್ತದೆ?",
+      "options": ["ಪ್ರಥಮ ವರ್ಗದ ಲಿವರ್", "ದ್ವಿತೀಯ ವರ್ಗದ ಲಿವರ್", "ತೃತೀಯ ವರ್ಗದ ಲಿವರ್", "ಮೇಲಿನ ಎಲ್ಲಾ"],
+      "answer": "ತೃತೀಯ ವರ್ಗದ ಲಿವರ್",
+      "reasoning": "ತೃತೀಯ ವರ್ಗದ ಲಿವರ್‌ನಲ್ಲಿ ಪ್ರಯಾಸವು ಮಧ್ಯದಲ್ಲಿದ್ದು, ಆಧಾರ ಬಿಂದು ಒಂದು ತುದಿಯಲ್ಲಿ ಮತ್ತು ಭಾರ ಮತ್ತೊಂದು ತುದಿಯಲ್ಲಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "A pair of tongs (used to pick up hot coal) or tweezers are examples of which class of lever?",
+      "options": ["First-class lever", "Second-class lever", "Third-class lever", "First and second class"],
+      "answer": "Third-class lever",
+      "reasoning": "With tongs, the joined end is the fulcrum, the fingers apply effort in the middle, and the object being held at the tip is the load (third-class lever)."
+    },
+    "kn": {
+      "question": "ಬಿಸಿ ಇದ್ದಿಲನ್ನು ಎತ್ತಲು ಬಳಸುವ ಇಕ್ಕಳ (tongs) ಅಥವಾ ಚಿಮುಟ (tweezers) ಯಾವ ವರ್ಗದ ಲಿವರ್‌ಗೆ ಉದಾಹರಣೆಯಾಗಿದೆ?",
+      "options": ["ಪ್ರಥಮ ವರ್ಗದ ಲಿವರ್", "ದ್ವಿತೀಯ ವರ್ಗದ ಲಿವರ್", "ತೃತೀಯ ವರ್ಗದ ಲಿವರ್", "ಪ್ರಥಮ ಮತ್ತು ದ್ವಿತೀಯ ವರ್ಗ"],
+      "answer": "ತೃತೀಯ ವರ್ಗದ ಲಿವರ್",
+      "reasoning": "ಇಕ್ಕಳದಲ್ಲಿ ಜಂಟಿಯಾಗಿರುವ ಕೊನೆಯು ಆಧಾರ ಬಿಂದುವಾಗಿದ್ದು, ಬೆರಳುಗಳಿಂದ ಮಧ್ಯದಲ್ಲಿ ಪ್ರಯಾಸ ಹಾಕಲಾಗುತ್ತದೆ ಮತ್ತು ತುದಿಯಲ್ಲಿ ಭಾರವನ್ನು (ವಸ್ತುವನ್ನು) ಹಿಡಿಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "To hoist a flag to the top of a tall flagpole, which simple machine is fixed at the top of the pole?",
+      "options": ["Inclined plane", "Fixed pulley", "Wedge", "Lever"],
+      "answer": "Fixed pulley",
+      "reasoning": "A fixed pulley at the top of a flagpole allows someone to pull the rope downward to raise the flag upward."
+    },
+    "kn": {
+      "question": "ಎತ್ತರದ ಕಂಬದ ತುದಿಗೆ ಧ್ವಜವನ್ನು ಹಾರಿಸಲು, ಕಂಬದ ತುದಿಯಲ್ಲಿ ಯಾವ ಸರಳ ಯಂತ್ರವನ್ನು ಅಳವಡಿಸಲಾಗಿರುತ್ತದೆ?",
+      "options": ["ಇಳಿಜಾರು ತಲ", "ಸ್ಥಿರ ಕಪ್ಪಿ (Fixed pulley)", "ಆಣೆ (Wedge)", "ಲಿವರ್ (ಸೀರುಂಡೆ)"],
+      "answer": "ಸ್ಥಿರ ಕಪ್ಪಿ (Fixed pulley)",
+      "reasoning": "ಕಂಬದ ತುದಿಯಲ್ಲಿರುವ ಸ್ಥಿರ ಕಪ್ಪಿಯು ಹಗ್ಗವನ್ನು ಕೆಳಕ್ಕೆ ಎಳೆಯುವ ಮೂಲಕ ಧ್ವಜವನ್ನು ಮೇಲಕ್ಕೆ ಹಾರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why is it much easier to drive a screw into a wooden block than to push a nail of the same size straight in?",
+      "options": [
+        "A screw is made of a much softer metal",
+        "A screw represents a longer inclined plane wrapped around, which reduces the effort needed",
+        "Nails have greater gravitational force acting on them",
+        "Screws eliminate friction completely"
+      ],
+      "answer": "A screw represents a longer inclined plane wrapped around, which reduces the effort needed",
+      "reasoning": "The threads of a screw act as a spiraled inclined plane. Traveling a longer spiral distance reduces the force (effort) required to insert it."
+    },
+    "kn": {
+      "question": "ಒಂದೇ ಗಾತ್ರದ ಮೊಳೆಯನ್ನು ನೇರವಾಗಿ ಮರಕ್ಕೆ ಬಡಿಯುವುದಕ್ಕಿಂತ ತಿರುಪನ್ನು (screw) ತಿರುಗಿಸಿ ನುಗ್ಗಿಸುವುದು ಸುಲಭ ಏಕೆ?",
+      "options": [
+        "ತಿರುಪನ್ನು ಮೃದುವಾದ ಲೋಹದಿಂದ ತಯಾರಿಸಲಾಗಿರುತ್ತದೆ",
+        "ತಿರುಪು ಸಿಲಿಂಡರ್ ಸುತ್ತಲೂ ಸುತ್ತಿರುವ ಉದ್ದನೆಯ ಇಳಿಜಾರು ತಲವಾಗಿದ್ದು, ಇದು ಬೇಕಾಗುವ ಪ್ರಯಾಸವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ",
+        "ಮೊಳೆಗಳ ಮೇಲೆ ಹೆಚ್ಚಿನ ಗುರುತ್ವಾಕರ್ಷಣ ಬಲ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ",
+        "ತಿರುಪುಗಳು ಘರ್ಷಣೆಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಇಲ್ಲವಾಗಿಸುತ್ತವೆ"
+      ],
+      "answer": "ತಿರುಪು ಸಿಲಿಂಡರ್ ಸುತ್ತಲೂ ಸುತ್ತಿರುವ ಉದ್ದನೆಯ ಇಳಿಜಾರು ತಲವಾಗಿದ್ದು, ಇದು ಬೇಕಾಗುವ ಪ್ರಯಾಸವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ",
+      "reasoning": "ತಿರುಪಿನ ಮೇಲಿನ ಗೆರೆಗಳು ಸುರುಳಿಯಾಕಾರದ ಇಳಿಜಾರು ತಲದಂತೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ. ದೀರ್ಘ ದೂರದ ಸುರುಳಿಯಲ್ಲಿ ಚಲಿಸುವುದರಿಂದ ಅದನ್ನು ನುಗ್ಗಿಸಲು ಬೇಕಾದ ಬಲದ (ಪ್ರಯಾಸ) ಪ್ರಮಾಣ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the primary advantage of using a single fixed pulley, even though it does not reduce the effort needed to lift a load?",
+      "options": [
+        "It increases the mass of the load",
+        "It changes the direction of the applied force to a more convenient direction",
+        "It reduces the distance the load has to travel",
+        "It increases the speed of lifting by five times"
+      ],
+      "answer": "It changes the direction of the applied force to a more convenient direction",
+      "reasoning": "A single fixed pulley has a mechanical advantage of 1 (no force reduction), but pulling down (with gravity's help) is much easier than lifting up."
+    },
+    "kn": {
+      "question": "ಸ್ಥಿರ ಕಪ್ಪಿಯು ಭಾರವನ್ನು ಎತ್ತಲು ಬೇಕಾದ ಶ್ರಮವನ್ನು ಕಡಿಮೆ ಮಾಡದಿದ್ದರೂ, ಅದರ ಬಳಕೆಯಿಂದ ಆಗುವ ಪ್ರಮುಖ ಪ್ರಯೋಜನವೇನು?",
+      "options": [
+        "ಇದು ಭಾರದ ದ್ರವ್ಯರಾಶಿಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ",
+        "ಇದು ಪ್ರಯೋಗಿಸುವ ಬಲದ ದಿಕ್ಕನ್ನು ಹೆಚ್ಚು ಅನುಕೂಲಕರವಾದ ದಿಕ್ಕಿಗೆ ಬದಲಾಯಿಸುತ್ತದೆ",
+        "ಇದು ಭಾರವು ಚಲಿಸಬೇಕಾದ ದೂರವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ",
+        "ಇದು ಭಾರ ಎತ್ತುವ ವೇಗವನ್ನು ಐದು ಪಟ್ಟು ಹೆಚ್ಚಿಸುತ್ತದೆ"
+      ],
+      "answer": "ಇದು ಪ್ರಯೋಗಿಸುವ ಬಲದ ದಿಕ್ಕನ್ನು ಹೆಚ್ಚು ಅನುಕೂಲಕರವಾದ ದಿಕ್ಕಿಗೆ ಬದಲಾಯಿಸುತ್ತದೆ",
+      "reasoning": "ಸ್ಥಿರ ಕಪ್ಪಿಯು ಬಲದ ಪ್ರಮಾಣವನ್ನು ತಗ್ಗಿಸುವುದಿಲ್ಲ, ಆದರೆ ಗುರುತ್ವಾಕರ್ಷಣೆಯ ಸಹಾಯದಿಂದ ಹಗ್ಗವನ್ನು ಕೆಳಕ್ಕೆ ಎಳೆಯುವುದು ಮೇಲಕ್ಕೆ ಎತ್ತುವುದಕ್ಕಿಂತ ಸುಲಭವಾದ್ದರಿಂದ ಇದು ದಿಕ್ಕನ್ನು ಬದಲಾಯಿಸಿ ನೆರವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Heavy construction cranes use a system of multiple fixed and movable pulleys combined together. What is this pulley system called?",
+      "options": ["Compound lever", "Block and tackle", "Double wedge", "Axle driver"],
+      "answer": "Block and tackle",
+      "reasoning": "A block and tackle is a system of two or more pulleys with a rope threaded between them, used to lift heavy loads with very little effort."
+    },
+    "kn": {
+      "question": "ಭಾರವಾದ ನಿರ್ಮಾಣ ಕ್ರೇನ್‌ಗಳು ಒಟ್ಟಿಗೆ ಜೋಡಿಸಲಾದ ಹಲವಾರು ಸ್ಥಿರ ಮತ್ತು ಚಲಿಸುವ ಕಪ್ಪಿಗಳ ವ್ಯವಸ್ಥೆಯನ್ನು ಬಳಸುತ್ತವೆ. ಈ ವ್ಯವಸ್ಥೆಯನ್ನು ಏನೆನ್ನುತ್ತಾರೆ?",
+      "options": ["ಸಂಯುಕ್ತ ಲಿವರ್", "ಬ್ಲಾಕ್ ಮತ್ತು ಟ್ಯಾಕಲ್ (Block and tackle)", "ದ್ವಿಮುಖ ಆಣೆ (Double wedge)", "ಆಕ್ಸಲ್ ಡ್ರೈವರ್"],
+      "answer": "ಬ್ಲಾಕ್ ಮತ್ತು ಟ್ಯಾಕಲ್ (Block and tackle)",
+      "reasoning": "ಬ್ಲಾಕ್ ಮತ್ತು ಟ್ಯಾಕಲ್ ಎಂಬುದು ಎರಡು ಅಥವಾ ಹೆಚ್ಚಿನ ಕಪ್ಪಿಗಳನ್ನು ಹಗ್ಗದಿಂದ ಜೋಡಿಸಿದ ವ್ಯವಸ್ಥೆಯಾಗಿದ್ದು, ಇದನ್ನು ಅತಿ ಕಡಿಮೆ ಶ್ರಮದಿಂದ ಭಾರಿ ತೂಕ ಎತ್ತಲು ಬಳಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_018",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "To increase the mechanical advantage of an inclined plane (making it easier to push a heavy cart up), what should be done?",
+      "options": [
+        "Make the ramp shorter and steeper",
+        "Increase the length of the ramp while keeping the height same",
+        "Increase the height of the ramp while keeping the length same",
+        "Polish the ramp to make it rough"
+      ],
+      "answer": "Increase the length of the ramp while keeping the height same",
+      "reasoning": "Increasing the length of the ramp decreases its slope. A gentler slope requires less force to push the cart up, although the distance traveled is longer."
+    },
+    "kn": {
+      "question": "ಇಳಿಜಾರು ತಲದ ಯಾಂತ್ರಿಕ ಪ್ರಯೋಜನವನ್ನು ಹೆಚ್ಚಿಸಲು (ಭಾರವಾದ ಬಂಡಿಯನ್ನು ತಳ್ಳುವುದನ್ನು ಸುಲಭಗೊಳಿಸಲು) ಏನು ಮಾಡಬೇಕು?",
+      "options": [
+        "ರ‍್ಯಾಂಪ್ ಅನ್ನು ಕಿರಿದಾಗಿಸಿ ಮತ್ತು ಕಡಿದಾಗಿಸಬೇಕು",
+        "ಎತ್ತರವನ್ನು ಹಾಗೇ ಉಳಿಸಿಕೊಂಡು ಇಳಿಜಾರಿನ ಉದ್ದವನ್ನು ಹೆಚ್ಚಿಸಬೇಕು",
+        "ಉದ್ದವನ್ನು ಹಾಗೇ ಉಳಿಸಿಕೊಂಡು ಇಳಿಜಾರಿನ ಎತ್ತರವನ್ನು ಹೆಚ್ಚಿಸಬೇಕು",
+        "ಇಳಿಜಾರನ್ನು ಒರಟಾಗಿಸಲು ಪಾಲಿಶ್ ಮಾಡಬೇಕು"
+      ],
+      "answer": "ಎತ್ತರವನ್ನು ಹಾಗೇ ಉಳಿಸಿಕೊಂಡು ಇಳಿಜಾರಿನ ಉದ್ದವನ್ನು ಹೆಚ್ಚಿಸಬೇಕು",
+      "reasoning": "ಇಳಿಜಾರಿನ ಉದ್ದವನ್ನು ಹೆಚ್ಚಿಸಿದಾಗ ಅದರ ಇಳಿಜಾರಿನ ಕೋನ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಕಡಿಮೆ ಇಳಿಜಾರು ಇದ್ದಾಗ ಬಂಡಿ ತಳ್ಳಲು ಕಡಿಮೆ ಬಲ ಸಾಕಾಗುತ್ತದೆ, ಆದರೂ ಚಲಿಸುವ ದೂರ ಹೆಚ್ಚಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_019",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "A pair of scissors is a compound machine that combines which of the following simple machines?",
+      "options": [
+        "Two first-class levers with wedges as blades",
+        "Two second-class levers with screws as blades",
+        "A pulley and an inclined plane",
+        "Two third-class levers with wedges as blades"
+      ],
+      "answer": "Two first-class levers with wedges as blades",
+      "reasoning": "A pair of scissors has the pivot (fulcrum) in the middle (first-class lever) and uses sharp wedge blades to cut material."
+    },
+    "kn": {
+      "question": "ಕತ್ತರಿಯು ಒಂದು ಸಂಯುಕ್ತ ಯಂತ್ರವಾಗಿದ್ದು, ಅದು ಕೆಳಗಿನ ಯಾವ ಸರಳ ಯಂತ್ರಗಳನ್ನು ಒಳಗೊಂಡಿದೆ?",
+      "options": [
+        "ಬ್ಲೇಡ್‌ಗಳಾಗಿ ಆಣೆಯನ್ನು ಹೊಂದಿರುವ ಎರಡು ಪ್ರಥಮ ವರ್ಗದ ಲಿವರ್‌ಗಳು",
+        "ಬ್ಲೇಡ್‌ಗಳಾಗಿ ತಿರುಪನ್ನು ಹೊಂದಿರುವ ಎರಡು ದ್ವಿತೀಯ ವರ್ಗದ ಲಿವರ್‌ಗಳು",
+        "ಒಂದು ಕಪ್ಪಿ ಮತ್ತು ಒಂದು ಇಳಿಜಾರು ತಲ",
+        "ಬ್ಲೇಡ್‌ಗಳಾಗಿ ಆಣೆಯನ್ನು ಹೊಂದಿರುವ ಎರಡು ತೃತೀಯ ವರ್ಗದ ಲಿವರ್‌ಗಳು"
+      ],
+      "answer": "ಬ್ಲೇಡ್‌ಗಳಾಗಿ ಆಣೆಯನ್ನು ಹೊಂದಿರುವ ಎರಡು ಪ್ರಥಮ ವರ್ಗದ ಲಿವರ್‌ಗಳು",
+      "reasoning": "ಕತ್ತರಿಯಲ್ಲಿ ಆಧಾರ ಬಿಂದು ಮಧ್ಯದಲ್ಲಿದೆ (ಪ್ರಥಮ ವರ್ಗದ ಲಿವರ್) ಮತ್ತು ಕತ್ತರಿಸಲು ಚೂಪಾದ ಆಣೆಗಳನ್ನು (ವೆಡ್ಜ್ ಬ್ಲೇಡ್ಸ್) ಬಳಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_020",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How does a wheel and axle system (like a steering wheel or doorknob) make work easier?",
+      "options": [
+        "By increasing the friction of the shaft",
+        "By applying a small effort on the larger wheel to turn the smaller axle with greater force",
+        "By changing the gravitational pull of the rotating axle",
+        "By converting mechanical energy into chemical energy"
+      ],
+      "answer": "By applying a small effort on the larger wheel to turn the smaller axle with greater force",
+      "reasoning": "Applying force to the larger wheel multiplies the force on the smaller axle, making it easier to turn things like doors or car steering systems."
+    },
+    "kn": {
+      "question": "ಚಕ್ರ ಮತ್ತು ಇರುಸು ವ್ಯವಸ್ಥೆಯು (ಸ್ಟೀರಿಂಗ್ ಚಕ್ರ ಅಥವಾ ಬಾಗಿಲಿನ ಹಿಡಿಕೆ) ಕೆಲಸವನ್ನು ಹೇಗೆ ಸುಲಭಗೊಳಿಸುತ್ತದೆ?",
+      "options": [
+        "ದಂಡದ ಘರ್ಷಣೆಯನ್ನು ಹೆಚ್ಚಿಸುವ ಮೂಲಕ",
+        "ದೊಡ್ಡ ಚಕ್ರದ ಮೇಲೆ ಸಣ್ಣ ಪ್ರಯಾಸ ಹಾಕುವ ಮೂಲಕ ಸಣ್ಣ ಇರುಸನ್ನು ಹೆಚ್ಚಿನ ಬಲದೊಂದಿಗೆ ತಿರುಗಿಸುವುದು",
+        "ತಿರುಗುವ ಇರುಸಿನ ಗುರುತ್ವಾಕರ್ಷಣೆಯ ಸೆಳೆತವನ್ನು ಬದಲಾಯಿಸುವ ಮೂಲಕ",
+        "ಯಾಂತ್ರಿಕ ಶಕ್ತಿಯನ್ನು ರಾಸಾಯನಿಕ ಶಕ್ತಿಯನ್ನಾಗಿ ಪರಿವರ್ತಿಸುವ ಮೂಲಕ"
+      ],
+      "answer": "ದೊಡ್ಡ ಚಕ್ರದ ಮೇಲೆ ಸಣ್ಣ ಪ್ರಯಾಸ ಹಾಕುವ ಮೂಲಕ ಸಣ್ಣ ಇರುಸನ್ನು ಹೆಚ್ಚಿನ ಬಲದೊಂದಿಗೆ ತಿರುಗಿಸುವುದು",
+      "reasoning": "ದೊಡ್ಡದಾದ ಚಕ್ರಕ್ಕೆ ಬಲ ಪ್ರಯೋಗಿಸಿದಾಗ, ಅದು ಸಣ್ಣದಾದ ಇರುಸಿನ ಮೇಲೆ ಬಲವನ್ನು ಮಲ್ಟಿಪ್ಲೈ ಮಾಡುತ್ತದೆ. ಇದರಿಂದ ಬಾಗಿಲು ತೆರೆಯುವುದು ಅಥವಾ ಸ್ಟೀರಿಂಗ್ ತಿರುಗಿಸುವುದು ಸುಲಭವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_021",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following are types of simple machines?",
+      "options": ["Lever", "Electric Motor", "Pulley", "Wedge"],
+      "answer": ["Lever", "Pulley", "Wedge"],
+      "reasoning": "Lever, pulley, and wedge are simple machines. An electric motor is a complex machine consisting of many parts and electricity."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಸರಳ ಯಂತ್ರಗಳ ವಿಧಗಳಾಗಿವೆ?",
+      "options": ["ಲಿವರ್ (ಸೀರುಂಡೆ)", "ವಿದ್ಯುತ್ ಮೋಟಾರ್", "ಕಪ್ಪಿ (Pulley)", "ಆಣೆ (Wedge)"],
+      "answer": ["ಲಿವರ್ (ಸೀರುಂಡೆ)", "ಕಪ್ಪಿ (Pulley)", "ಆಣೆ (Wedge)"],
+      "reasoning": "ಲಿವರ್, ಕಪ್ಪಿ ಮತ್ತು ಆಣೆ ಸರಳ ಯಂತ್ರಗಳಾಗಿವೆ. ವಿದ್ಯುತ್ ಮೋಟಾರ್ ಅನೇಕ ಭಾಗಗಳನ್ನು ಹೊಂದಿರುವ ಸಂಕೀರ್ಣ ಯಂತ್ರವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_022",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Select all tools from the options below that represent third-class levers (effort is in the middle):",
+      "options": ["A pair of tweezers", "A bottle opener", "A broom used for sweeping", "A nutcracker"],
+      "answer": ["A pair of tweezers", "A broom used for sweeping"],
+      "reasoning": "Tweezers and brooms have the effort in the middle (third class). A bottle opener and a nutcracker are second-class levers (load in the middle)."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಆಯ್ಕೆಗಳಿಂದ ತೃತೀಯ ವರ್ಗದ ಲಿವರ್‌ಗಳನ್ನು (ಪ್ರಯಾಸ ಮಧ್ಯದಲ್ಲಿರುವುದು) ಪ್ರತಿನಿಧಿಸುವ ಸಾಧನಗಳನ್ನು ಆರಿಸಿ:",
+      "options": ["ಒಂದು ಚಿಮುಟ (tweezers)", "ಸೀಸೆ ಮುಚ್ಚಳ ತೆಗೆಯುವ ಸಾಧನ (bottle opener)", "ಕಸ ಗುಡಿಸಲು ಬಳಸುವ ಪೊರಕೆ", "ಅಡಿಕೆ ಕತ್ತರಿ (nutcracker)"],
+      "answer": ["ಒಂದು ಚಿಮುಟ (tweezers)", "ಕಸ ಗುಡಿಸಲು ಬಳಸುವ ಪೊರಕೆ"],
+      "reasoning": "ಚಿಮುಟ ಮತ್ತು ಪೊರಕೆಗಳಲ್ಲಿ ಪ್ರಯಾಸ ಮಧ್ಯದಲ್ಲಿ ಬರುತ್ತದೆ (ತೃತೀಯ ವರ್ಗ). ಬಾಟಲ್ ಓಪನರ್ ಮತ್ತು ಅಡಿಕೆ ಕತ್ತರಿ ದ್ವಿತೀಯ ವರ್ಗದ ಲಿವರ್‌ಗಳಾಗಿವೆ (ಭಾರ ಮಧ್ಯದಲ್ಲಿದೆ)."
+    }
+  },
+  {
+    "id": "c5_sci_machines_023",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following everyday tools are applications of the wheel and axle simple machine?",
+      "options": ["A door knob", "A screwdriver", "A slide in a park", "A knife blade"],
+      "answer": ["A door knob", "A screwdriver"],
+      "reasoning": "A door knob and a screwdriver use a larger circular handle (wheel) to turn a smaller shaft (axle). A slide is an inclined plane, and a knife is a wedge."
+    },
+    "kn": {
+      "question": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಬಳಸುವ ಕೆಳಗಿನ ಯಾವ ಉಪಕರಣಗಳು ಚಕ್ರ ಮತ್ತು ಇರುಸು ಸರಳ ಯಂತ್ರಕ್ಕೆ ಉದಾಹರಣೆಗಳಾಗಿವೆ?",
+      "options": ["ಬಾಗಿಲಿನ ದುಂಡು ಹಿಡಿಕೆ (door knob)", "ತಿರುಪುಳಿ (screwdriver)", "ಉದ್ಯಾನವನದ ಜಾರುಬಂಡೆ", "ಚಾಕುವಿನ ಬ್ಲೇಡ್"],
+      "answer": ["ಬಾಗಿಲಿನ ದುಂಡು ಹಿಡಿಕೆ (door knob)", "ತಿರುಪುಳಿ (screwdriver)"],
+      "reasoning": "ಡೋರ್ ನಾಬ್ ಮತ್ತು ಸ್ಕ್ರೂಡ್ರೈವರ್ ದೊಡ್ಡ ಹಿಡಿಕೆಯನ್ನು (ಚಕ್ರ) ಬಳಸಿ ಸಣ್ಣ ದಂಡವನ್ನು (ಇರುಸು) ತಿರುಗಿಸುತ್ತವೆ. ಜಾರುಬಂಡೆ ಇಳಿಜಾರು ತಲವಾಗಿದೆ ಮತ್ತು ಚಾಕು ಆಣೆಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_024",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following statements about simple machines are correct?",
+      "options": [
+        "They reduce the total amount of work that needs to be done",
+        "They can change the direction of the force applied",
+        "They can multiply the force applied, making heavy tasks easier",
+        "They work without losing any energy to friction"
+      ],
+      "answer": [
+        "They can change the direction of the force applied",
+        "They can multiply the force applied, making heavy tasks easier"
+      ],
+      "reasoning": "Simple machines multiply force or change direction, but they do not decrease the total work done. Some energy is always lost as heat due to friction."
+    },
+    "kn": {
+      "question": "ಸರಳ ಯಂತ್ರಗಳ ಬಗ್ಗೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ?",
+      "options": [
+        "ಅವು ಮಾಡಬೇಕಾದ ಒಟ್ಟು ಕೆಲಸದ ಪ್ರಮಾಣವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತವೆ",
+        "ಅವು ಪ್ರಯೋಗಿಸುವ ಬಲದ ದಿಕ್ಕನ್ನು ಬದಲಾಯಿಸಬಲ್ಲವು",
+        "ಅವು ಪ್ರಯೋಗಿಸುವ ಬಲವನ್ನು ಹೆಚ್ಚಿಸಿ ಭಾರವಾದ ಕೆಲಸಗಳನ್ನು ಸುಲಭಗೊಳಿಸಬಲ್ಲವು",
+        "ಅವು ಘರ್ಷಣೆಯಿಂದ ಯಾವುದೇ ಶಕ್ತಿಯನ್ನು ಕಳೆದುಕೊಳ್ಳದೆ ಕೆಲಸ ಮಾಡುತ್ತವೆ"
+      ],
+      "answer": [
+        "ಅವು ಪ್ರಯೋಗಿಸುವ ಬಲದ ದಿಕ್ಕನ್ನು ಬದಲಾಯಿಸಬಲ್ಲವು",
+        "ಅವು ಪ್ರಯೋಗಿಸುವ ಬಲವನ್ನು ಹೆಚ್ಚಿಸಿ ಭಾರವಾದ ಕೆಲಸಗಳನ್ನು ಸುಲಭಗೊಳಿಸಬಲ್ಲವು"
+      ],
+      "reasoning": "ಸರಳ ಯಂತ್ರಗಳು ಬಲವನ್ನು ಹೆಚ್ಚಿಸುತ್ತವೆ ಅಥವಾ ದಿಕ್ಕನ್ನು ಬದಲಾಯಿಸುತ್ತವೆ, ಆದರೆ ಒಟ್ಟು ಕೆಲಸವನ್ನು ತಗ್ಗಿಸುವುದಿಲ್ಲ. ಘರ್ಷಣೆಯಿಂದಾಗಿ ಯಾವಾಗಲೂ ಸ್ವಲ್ಪ ಶಕ್ತಿ ವ್ಯರ್ಥವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_025",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Identify which of the following tools act as a wedge (used for splitting or cutting):",
+      "options": ["An axe blade", "A wood chisel", "A crane hook", "A car steering wheel"],
+      "answer": ["An axe blade", "A wood chisel"],
+      "reasoning": "Axes and chisels have sharp, sloping edges designed to split or cut materials, which defines a wedge. Crane hook is a pulley system, steering wheel is wheel and axle."
+    },
+    "kn": {
+      "question": "ಸೀಳಲು ಅಥವಾ ಕತ್ತರಿಸಲು ಬಳಸುವ ಆಣೆ (wedge) ಆಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಸಾಧನಗಳನ್ನು ಗುರುತಿಸಿ:",
+      "options": ["ಕೊಡಲಿಯ ಬ್ಲೇಡ್", "ಮರ ಕೆತ್ತಲು ಬಳಸುವ ಉಳಿ (chisel)", "ಕ್ರೇನ್ ಕೊಕ್ಕೆ", "ಕಾರಿನ ಸ್ಟೀರಿಂಗ್ ಚಕ್ರ"],
+      "answer": ["ಕೊಡಲಿಯ ಬ್ಲೇಡ್", "ಮರ ಕೆತ್ತಲು ಬಳಸುವ ಉಳಿ (chisel)"],
+      "reasoning": "ಕೊಡಲಿ ಮತ್ತು ಉಳಿಗಳು ವಸ್ತುಗಳನ್ನು ಕತ್ತರಿಸಲು ಅಥವಾ ಸೀಳಲು ಚೂಪಾದ ಇಳಿಜಾರು ಅಂಚನ್ನು ಹೊಂದಿದ್ದು, ಇವು ಆಣೆಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ. ಕ್ರೇನ್ ಕೊಕ್ಕೆ ಕಪ್ಪಿ ವ್ಯವಸ್ಥೆಯಾಗಿದೆ ಮತ್ತು ಸ್ಟೀರಿಂಗ್ ಚಕ್ರ ಚಕ್ರ-ಇರುಸಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_026",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the simple machines with their common practical examples:",
+      "pairs": [
+        {"left": "Lever", "right": "Crowbar used to lift rocks"},
+        {"left": "Inclined Plane", "right": "Ramp for wheelchairs"},
+        {"left": "Wedge", "right": "Axe used to split logs"},
+        {"left": "Screw", "right": "Metal bolt"}
+      ],
+      "reasoning": "Crowbar is a lever, wheelchair ramp is an inclined plane, axe is a wedge, and metal bolt is a screw."
+    },
+    "kn": {
+      "question": "ಸರಳ ಯಂತ್ರಗಳನ್ನು ಅವುಗಳ ಸಾಮಾನ್ಯ ಉದಾಹರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಲಿವರ್ (ಸೀರುಂಡೆ)", "right": "ಕಲ್ಲುಗಳನ್ನು ಎತ್ತಲು ಬಳಸುವ ಕಾಗೆಬಾರ"},
+        {"left": "ಇಳಿಜಾರು ತಲ", "right": "ಚಕ್ರಕುರ್ಚಿಗಳ ಓಡಾಟದ ಇಳಿಜಾರು ರ‍್ಯಾಂಪ್"},
+        {"left": "ಆಣೆ (Wedge)", "right": "ಮರ ಸೀಳಲು ಬಳಸುವ ಕೊಡಲಿ"},
+        {"left": "ತಿರುಪು (Screw)", "right": "ಲೋಹದ ಬೋಲ್ಟ್"}
+      ],
+      "reasoning": "ಕಾಗೆಬಾರ ಲಿವರ್ ಆಗಿದೆ, ರ‍್ಯಾಂಪ್ ಇಳಿಜಾರು ತಲವಾಗಿದೆ, ಕೊಡಲಿ ಆಣೆಯಾಗಿದೆ ಮತ್ತು ಬೋಲ್ಟ್ ತಿರುಪಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_027",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the classes of levers with the component positioned in the middle:",
+      "pairs": [
+        {"left": "First-class lever", "right": "Fulcrum in the middle"},
+        {"left": "Second-class lever", "right": "Load in the middle"},
+        {"left": "Third-class lever", "right": "Effort in the middle"},
+        {"left": "Pulley", "right": "Grooved wheel with rope"}
+      ],
+      "reasoning": "First class has fulcrum in middle, second class has load in middle, third class has effort in middle, and pulley is a grooved wheel."
+    },
+    "kn": {
+      "question": "ಲಿವರ್‌ಗಳ ವರ್ಗಗಳನ್ನು ಅವುಗಳಲ್ಲಿ ಮಧ್ಯದಲ್ಲಿರುವ ಘಟಕದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಪ್ರಥಮ ವರ್ಗದ ಲಿವರ್", "right": "ಆಧಾರ ಬಿಂದು ಮಧ್ಯದಲ್ಲಿರುತ್ತದೆ"},
+        {"left": "ದ್ವಿತೀಯ ವರ್ಗದ ಲಿವರ್", "right": "ಭಾರ ಮಧ್ಯದಲ್ಲಿರುತ್ತದೆ"},
+        {"left": "ತೃತೀಯ ವರ್ಗದ ಲಿವರ್", "right": "ಪ್ರಯಾಸ ಮಧ್ಯದಲ್ಲಿರುತ್ತದೆ"},
+        {"left": "ಕಪ್ಪಿ", "right": "ಹಗ್ಗವಿರುವ ಗೆರೆಯುಳ್ಳ ಚಕ್ರ"}
+      ],
+      "reasoning": "ಪ್ರಥಮ ವರ್ಗದಲ್ಲಿ ಆಧಾರ ಬಿಂದು, ದ್ವಿತೀಯ ವರ್ಗದಲ್ಲಿ ಭಾರ, ತೃತೀಯ ವರ್ಗದಲ್ಲಿ ಪ್ರಯಾಸ ಮಧ್ಯದಲ್ಲಿರುತ್ತವೆ ಮತ್ತು ಕಪ್ಪಿಯು ಗೆರೆಗಳಿರುವ ಚಕ್ರವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_028",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the tools with their correct classification of simple machines:",
+      "pairs": [
+        {"left": "Pliers", "right": "First-class lever"},
+        {"left": "Nutcracker", "right": "Second-class lever"},
+        {"left": "Sugar tongs", "right": "Third-class lever"},
+        {"left": "Stairs", "right": "Inclined plane"}
+      ],
+      "reasoning": "Pliers are first class, nutcracker is second class, sugar tongs are third class, and stairs represent an inclined plane."
+    },
+    "kn": {
+      "question": "ಉಪಕರಣಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಸರಳ ಯಂತ್ರದ ವರ್ಗೀಕರಣದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಇಕ್ಕಳ (Pliers)", "right": "ಪ್ರಥಮ ವರ್ಗದ ಲಿವರ್"},
+        {"left": "ಅಡಿಕೆ ಕತ್ತರಿ", "right": "ದ್ವಿತೀಯ ವರ್ಗದ ಲಿವರ್"},
+        {"left": "ಸಕ್ಕರೆ ಚಿಮುಟ", "right": "ತೃತೀಯ ವರ್ಗದ ಲಿವರ್"},
+        {"left": "ಮೆಟ್ಟಿಲುಗಳು", "right": "ಇಳಿಜಾರು ತಲ"}
+      ],
+      "reasoning": "ಪ್ಲೈಯರ್ಸ್ ಪ್ರಥಮ ವರ್ಗ, ಅಡಿಕೆ ಕತ್ತರಿ ದ್ವಿತೀಯ ವರ್ಗ, ಸಕ್ಕರೆ ಚಿಮುಟ ತೃತೀಯ ವರ್ಗ ಮತ್ತು ಮೆಟ್ಟಿಲುಗಳು ಇಳಿಜಾರು ತಲದ ವರ್ಗಕ್ಕೆ ಸೇರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_029",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the pulley configurations with their mechanical functions:",
+      "pairs": [
+        {"left": "Single Fixed Pulley", "right": "Changes direction of force only"},
+        {"left": "Single Movable Pulley", "right": "Reduces effort needed by half"},
+        {"left": "Block and Tackle", "right": "System of multiple pulleys"},
+        {"left": "Winding staircase", "right": "Helps walk up high using less force"}
+      ],
+      "reasoning": "Fixed pulley changes direction, movable pulley halves effort, block & tackle combines pulleys, and winding stairs are like an inclined plane."
+    },
+    "kn": {
+      "question": "ಕಪ್ಪಿಯ ಸಂಯೋಜನೆಗಳನ್ನು ಅವುಗಳ ಯಾಂತ್ರಿಕ ಕಾರ್ಯಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಸ್ಥಿರ ಕಪ್ಪಿ", "right": "ಬಲದ ದಿಕ್ಕನ್ನು ಮಾತ್ರ ಬದಲಾಯಿಸುತ್ತದೆ"},
+        {"left": "ಚಲಿಸುವ ಕಪ್ಪಿ", "right": "ಅಗತ್ಯವಿರುವ ಶ್ರಮವನ್ನು ಅರ್ಧದಷ್ಟು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ"},
+        {"left": "ಬ್ಲಾಕ್ ಮತ್ತು ಟ್ಯಾಕಲ್", "right": "ಅನೇಕ ಕಪ್ಪಿಗಳನ್ನು ಹೊಂದಿರುವ ವ್ಯವಸ್ಥೆ"},
+        {"left": "ಸುರುಳಿ ಮೆಟ್ಟಿಲುಗಳು", "right": "ಕಡಿಮೆ ಬಲ ಬಳಸಿ ಎತ್ತರ ಹತ್ತಲು ನೆರವಾಗುತ್ತದೆ"}
+      ],
+      "reasoning": "ಸ್ಥಿರ ಕಪ್ಪಿ ದಿಕ್ಕನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ, ಚಲಿಸುವ ಕಪ್ಪಿ ಶ್ರಮವನ್ನು ಅರ್ಧದಷ್ಟು ತಗ್ಗಿಸುತ್ತದೆ, ಬ್ಲಾಕ್ ಆಂಡ್ ಟ್ಯಾಕಲ್ ಬಹು ಕಪ್ಪಿಗಳ ಸಮೂಹ ಮತ್ತು ಸುರುಳಿ ಮೆಟ್ಟಿಲು ಇಳಿಜಾರಿನಂತೆ ನೆರವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_sci_machines_030",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the complex daily tasks with the simple machine that solves them:",
+      "pairs": [
+        {"left": "Holding wooden pieces together", "right": "Screw"},
+        {"left": "Steering a large ship", "right": "Wheel and axle"},
+        {"left": "Lifting heavy cement bags to roof", "right": "Pulley"},
+        {"left": "Splitting a large block of stone", "right": "Wedge"}
+      ],
+      "reasoning": "Screw holds pieces, wheel & axle steers ship, pulley lifts bags, and wedge splits stone."
+    },
+    "kn": {
+      "question": "ದೈನಂದಿನ ಸಂಕೀರ್ಣ ಕಾರ್ಯಗಳನ್ನು ಅವುಗಳನ್ನು ಪರಿಹರಿಸುವ ಸರಳ ಯಂತ್ರಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಮರದ ತುಂಡುಗಳನ್ನು ಒಟ್ಟಿಗೆ ಜೋಡಿಸಿಡುವುದು", "right": "ತಿರುಪು (Screw)"},
+        {"left": "ದೊಡ್ಡ ಹಡಗನ್ನು ನಿಯಂತ್ರಿಸುವುದು (ಸ್ಟೀರಿಂಗ್)", "right": "ಚಕ್ರ ಮತ್ತು ಇರುಸು"},
+        {"left": "ಸಿಮೆಂಟ್ ಚೀಲಗಳನ್ನು ಛಾವಣಿಗೆ ಎತ್ತುವುದು", "right": "ಕಪ್ಪಿ (Pulley)"},
+        {"left": "ದೊಡ್ಡ ಕಲ್ಲು ಬಂಡೆಯನ್ನು ಸೀಳುವುದು", "right": "ಆಣೆ (Wedge)"}
+      ],
+      "reasoning": "ತಿರುಪು ವಸ್ತುಗಳನ್ನು ಹಿಡಿದಿಡಲು, ಚಕ್ರ-ಇರುಸು ಹಡಗು ಚಲಾಯಿಸಲು, ಕಪ್ಪಿ ಭಾರ ಎತ್ತಲು ಮತ್ತು ಆಣೆ ಕಲ್ಲು ಸೀಳಲು ಬಳಕೆಯಾಗುತ್ತದೆ."
+    }
+  }
+]

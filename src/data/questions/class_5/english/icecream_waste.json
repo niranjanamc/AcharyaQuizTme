@@ -1,0 +1,793 @@
+[
+  {
+    "id": "c5_eng_unit1_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What does the Ice-cream Man sell from his cart?",
+      "options": [
+        "Ice-cream and chilled drinks",
+        "Fruits and vegetables",
+        "Toys and balloons",
+        "Hot tea and samosas"
+      ],
+      "answer": "Ice-cream and chilled drinks",
+      "reasoning": "According to the poem 'Ice-cream Man', he sells ice-cream and bottles of frosty-fizz (chilled drinks)."
+    },
+    "kn": {
+      "question": "ಐಸ್‌ಕ್ರೀಮ್ ಮ್ಯಾನ್ ತನ್ನ ಗಾಡಿಯಿಂದ ಏನನ್ನು ಮಾರುತ್ತಾನೆ?",
+      "options": [
+        "ಐಸ್‌ಕ್ರೀಮ್ ಮತ್ತು ತಣ್ಣನೆಯ ಪಾನೀಯಗಳು",
+        "ಹಣ್ಣುಗಳು ಮತ್ತು ತರಕಾರಿಗಳು",
+        "ಆಟಿಕೆಗಳು ಮತ್ತು ಬಲೂನುಗಳು",
+        "ಬಿಸಿ ಚಹಾ ಮತ್ತು ಸಮೋಸಾಗಳು"
+      ],
+      "answer": "ಐಸ್‌ಕ್ರೀಮ್ ಮತ್ತು ತಣ್ಣನೆಯ ಪಾನೀಯಗಳು",
+      "reasoning": "'ಐಸ್‌ಕ್ರೀಮ್ ಮ್ಯಾನ್' ಕವಿತೆಯ ಪ್ರಕಾರ, ಅವನು ಐಸ್‌ಕ್ರೀಮ್ ಮತ್ತು ತಣ್ಣನೆಯ ಪಾನೀಯಗಳನ್ನು (ಫ್ರಾಸ್ಟಿ-ಫಿಜ್) ಮಾರುತ್ತಾನೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In which season is the Ice-cream Man most welcome?",
+      "options": [
+        "Summer",
+        "Winter",
+        "Monsoon",
+        "Autumn"
+      ],
+      "answer": "Summer",
+      "reasoning": "Ice-cream is a popular and refreshing treat during the hot summer season."
+    },
+    "kn": {
+      "question": "ಯಾವ ಋತುವಿನಲ್ಲಿ ಐಸ್‌ಕ್ರೀಮ್ ಮ್ಯಾನ್ ಅತ್ಯಂತ ಹೆಚ್ಚು ಸ್ವಾಗತಾರ್ಹನಾಗುತ್ತಾನೆ?",
+      "options": [
+        "ಬೇಸಿಗೆ ಕಾಲ",
+        "ಚಳಿಗಾಲ",
+        "ಮಳೆಗಾಲ",
+        "ಶರತ್ಕಾಲ"
+      ],
+      "answer": "ಬೇಸಿಗೆ ಕಾಲ",
+      "reasoning": "ಬಿಸಿಲಿನ ಬೇಸಿಗೆಯ ಸಮಯದಲ್ಲಿ ಐಸ್‌ಕ್ರೀಮ್ ತಿನ್ನಲು ಎಲ್ಲರೂ ಇಷ್ಟಪಡುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the shape of the umbrella over the Ice-cream Man's cart?",
+      "options": [
+        "Round",
+        "Square",
+        "Triangle",
+        "Heart-shaped"
+      ],
+      "answer": "Round",
+      "reasoning": "The poem states, 'Beneath his round umbrella, Oh, what a joyful sight!'."
+    },
+    "kn": {
+      "question": "ಐಸ್‌ಕ್ರೀಮ್ ಮ್ಯಾನ್‌ನ ಗಾಡಿಯ ಮೇಲಿರುವ ಛತ್ರಿಯ ಆಕಾರ ಯಾವುದು?",
+      "options": [
+        "ದುಂಡಗಿನ",
+        "ಚೌಕಾಕಾರದ",
+        "ತ್ರಿಕೋನಾಕಾರದ",
+        "ಹೃದಯಾಕಾರದ"
+      ],
+      "answer": "ದುಂಡಗಿನ",
+      "reasoning": "ಕವಿತೆಯಲ್ಲಿ 'Beneath his round umbrella' (ಅವನ ದುಂಡಗಿನ ಛತ್ರಿಯ ಕೆಳಗೆ) ಎಂದು ಹೇಳಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In which Indian state did the dish 'Avial' originate?",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "answer": "Kerala",
+      "reasoning": "Avial is a traditional dish from Kerala made using vegetable scraps and coconut."
+    },
+    "kn": {
+      "question": "'ಅವಿಯಲ್' ಎಂಬ ಖಾದ್ಯವು ಭಾರತದ ಯಾವ ರಾಜ್ಯದಲ್ಲಿ ಹುಟ್ಟಿಕೊಂಡಿತು?",
+      "options": [
+        "ಕೇರಳ",
+        "ತಮಿಳುನಾಡು",
+        "ಕರ್ನಾಟಕ",
+        "ಮಹಾರಾಷ್ಟ್ರ"
+      ],
+      "answer": "ಕೇರಳ",
+      "reasoning": "ಅವಿಯಲ್ ಎಂಬುದು ಕೇರಳದ ಸಾಂಪ್ರದಾಯಿಕ ಅಡುಗೆಯಾಗಿದ್ದು, ಇದನ್ನು ತರಕಾರಿ ಚೂರುಗಳು ಮತ್ತು ತೆಂಗಿನಕಾಯಿಯಿಂದ ತಯಾರಿಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who ordered the grand dinner in his palace in the story 'Wonderful Waste!'?",
+      "options": [
+        "The Maharaja of Travancore",
+        "The King of Mysore",
+        "The Emperor of Delhi",
+        "The Zamindar of Cochin"
+      ],
+      "answer": "The Maharaja of Travancore",
+      "reasoning": "The story 'Wonderful Waste!' begins with the Maharaja of Travancore ordering a grand dinner in his palace."
+    },
+    "kn": {
+      "question": "'ಅದ್ಭುತ ವ್ಯರ್ಥ!' (Wonderful Waste!) ಕಥೆಯಲ್ಲಿ ತನ್ನ ಅರಮನೆಯಲ್ಲಿ ಭರ್ಜರಿ ಔತಣಕೂಟಕ್ಕೆ ಆದೇಶ ನೀಡಿದವರು ಯಾರು?",
+      "options": [
+        "ತಿರುವಾಂಕೂರಿನ ಮಹಾರಾಜ",
+        "ಮೈಸೂರಿನ ಮಹಾರಾಜ",
+        "ದೆಹಲಿಯ ಚಕ್ರವರ್ತಿ",
+        "ಕೊಚ್ಚಿಯ ಜಮೀನ್ದಾರ್"
+      ],
+      "answer": "ತಿರುವಾಂಕೂರಿನ ಮಹಾರಾಜ",
+      "reasoning": "'ಅದ್ಭುತ ವ್ಯರ್ಥ!' ಕಥೆಯು ತಿರುವಾಂಕೂರಿನ ಮಹಾರಾಜರು ತಮ್ಮ ಅರಮನೆಯಲ್ಲಿ ಭರ್ಜರಿ ಔತಣಕೂಟಕ್ಕೆ ಆದೇಶಿಸುವುದರೊಂದಿಗೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What did the Maharaja notice in the basket when he entered the kitchen?",
+      "options": [
+        "Vegetable scraps",
+        "Fresh fruits",
+        "Gold coins",
+        "Dirty dishes"
+      ],
+      "answer": "Vegetable scraps",
+      "reasoning": "He noticed a basket full of vegetable scraps that the cook was planning to throw away."
+    },
+    "kn": {
+      "question": "ಮಹಾರಾಜರು ಅಡುಗೆಮನೆಗೆ ಪ್ರವೇಶಿಸಿದಾಗ ಬುಟ್ಟಿಯಲ್ಲಿ ಏನನ್ನು ಗಮನಿಸಿದರು?",
+      "options": [
+        "ತರಕಾರಿ ಚೂರುಗಳು",
+        "ತಾಜಾ ಹಣ್ಣುಗಳು",
+        "ಚಿನ್ನದ ನಾಣ್ಯಗಳು",
+        "ಕೊdirty ಪಾತ್ರೆಗಳು"
+      ],
+      "answer": "ತರಕಾರಿ ಚೂರುಗಳು",
+      "reasoning": "ಅಡುಗೆಯವನು ಎಸೆಯಲು ಯೋಜಿಸುತ್ತಿದ್ದ ತರಕಾರಿ ತುಂಡುಗಳಿಂದ ತುಂಬಿದ ಬುಟ್ಟಿಯನ್ನು ಮಹಾರಾಜರು ಗಮನಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_007",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following ice-cream flavours are mentioned in the poem 'Ice-cream Man'?",
+      "options": [
+        "Vanilla",
+        "Chocolate",
+        "Strawberry",
+        "Mango"
+      ],
+      "answer": [
+        "Vanilla",
+        "Chocolate",
+        "Strawberry"
+      ],
+      "reasoning": "The poem mentions: 'Vanilla, chocolate, strawberry, Or chilly things to drink...'"
+    },
+    "kn": {
+      "question": "'ಐಸ್‌ಕ್ರೀಮ್ ಮ್ಯಾನ್' ಕವಿತೆಯಲ್ಲಿ ಕೆಳಗಿನ ಯಾವ ಐಸ್‌ಕ್ರೀಮ್ ರುಚಿಗಳನ್ನು (flavours) ಹೆಸರಿಸಲಾಗಿದೆ?",
+      "options": [
+        "ವೆನಿಲ್ಲಾ",
+        "ಚಾಕೊಲೇಟ್",
+        "ಸ್ಟ್ರಾಬೆರಿ",
+        "ಮಾವಿನ ಹಣ್ಣು"
+      ],
+      "answer": [
+        "ವೆನಿಲ್ಲಾ",
+        "ಚಾಕೊಲೇಟ್",
+        "ಸ್ಟ್ರಾಬೆರಿ"
+      ],
+      "reasoning": "ಕವಿತೆಯಲ್ಲಿ 'ವೆನಿಲ್ಲಾ, ಚಾಕೊಲೇಟ್, ಸ್ಟ್ರಾಬೆರಿ' ಎಂಬ ಮೂರು ರುಚಿಗಳನ್ನು ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_008",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the character or item from the story/poem to its correct description:",
+      "pairs": [
+        {
+          "left": "Maharaja",
+          "right": "Ordered the feast"
+        },
+        {
+          "left": "Cook",
+          "right": "Created the dish Avial"
+        },
+        {
+          "left": "Ice-cream Man",
+          "right": "Brings joy to children in summer"
+        },
+        {
+          "left": "Vegetable scraps",
+          "right": "Turned into wonderful waste"
+        }
+      ],
+      "reasoning": "The Maharaja ordered the feast, the cook invented Avial, the Ice-cream Man delights kids, and scraps became the dish."
+    },
+    "kn": {
+      "question": "ಕಥೆ/ಕವಿತೆಯ ಪಾತ್ರಗಳು ಅಥವಾ ವಸ್ತುಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿವರಣೆಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಮಹಾರಾಜ",
+          "right": "ಔತಣಕೂಟಕ್ಕೆ ಆದೇಶ ನೀಡಿದವರು"
+        },
+        {
+          "left": "ಅಡುಗೆಯವನು",
+          "right": "ಅವಿಯಲ್ ಖಾದ್ಯವನ್ನು ಸೃಷ್ಟಿಸಿದವನು"
+        },
+        {
+          "left": "ಐಸ್‌ಕ್ರೀಮ್ ಮ್ಯಾನ್",
+          "right": "ಬೇಸಿಗೆಯಲ್ಲಿ ಮಕ್ಕಳಿಗೆ ಸಂತೋಷ ತರುವವನು"
+        },
+        {
+          "left": "ತರಕಾರಿ ಚೂರುಗಳು",
+          "right": "ಅದ್ಭುತ ವ್ಯರ್ಥವಾಗಿ ಮಾರ್ಪಟ್ಟವು"
+        }
+      ],
+      "reasoning": "ಮಹಾರಾಜರು ಔತಣಕೂಟಕ್ಕೆ ಆದೇಶಿಸಿದರು, ಅಡುಗೆಯವನು ಅವಿಯಲ್ ಸೃಷ್ಟಿಸಿದನು, ಐಸ್‌ಕ್ರೀಮ್ ಮ್ಯಾನ್ ಮಕ್ಕಳಿಗೆ ಸಂತೋಷ ನೀಡುತ್ತಾನೆ, ಮತ್ತು ತರಕಾರಿ ಚೂರುಗಳಿಂದ ಹೊಸ ಖಾದ್ಯ ತಯಾರಾಯಿತು."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What does the poet compare the Ice-cream Man's cart to?",
+      "options": [
+        "A flower bed",
+        "A toy shop",
+        "A small house",
+        "A moving train"
+      ],
+      "answer": "A flower bed",
+      "reasoning": "The poet says: 'His cart might be a flower bed, Of roses and sweet peas...'"
+    },
+    "kn": {
+      "question": "ಕವಿ ಐಸ್‌ಕ್ರೀಮ್ ಮ್ಯಾನ್‌ನ ಗಾಡಿಯನ್ನು ಯಾವುದಕ್ಕೆ ಹೋಲಿಸುತ್ತಾನೆ?",
+      "options": [
+        "ಹೂವಿನ ಹಾಸಿಗೆ",
+        "ಆಟಿಕೆ ಅಂಗಡಿ",
+        "ಚಿಕ್ಕ ಮನೆ",
+        "ಚಲಿಸುವ ರೈಲು"
+      ],
+      "answer": "ಹೂವಿನ ಹಾಸಿಗೆ",
+      "reasoning": "ಕವಿತೆಯಲ್ಲಿ 'His cart might be a flower bed' ಅಂದರೆ ಅವನ ಗಾಡಿಯು ಗುಲಾಬಿ ಮತ್ತು ಸಿಹಿ ಬಟಾಣಿ ಹೂವುಗಳ ಹಾಸಿಗೆಯಂತೆ ಇರಬಹುದು ಎಂದು ಹೋಲಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "According to the poem, how do children cluster round the ice-cream cart?",
+      "options": [
+        "As thick as honeybees",
+        "Like birds in a nest",
+        "Like ants on sugar",
+        "Like frogs in rain"
+      ],
+      "answer": "As thick as honeybees",
+      "reasoning": "The poem says: 'The way the children cluster round, As thick as honeybees.'"
+    },
+    "kn": {
+      "question": "ಕವಿತೆಯ ಪ್ರಕಾರ, ಮಕ್ಕಳು ಐಸ್‌ಕ್ರೀಮ್ ಗಾಡಿಯ ಸುತ್ತ ಹೇಗೆ ಗುಂಪುಗೂಡುತ್ತಾರೆ?",
+      "options": [
+        "ಜೇನುನೊಣಗಳಷ್ಟು ದಟ್ಟವಾಗಿ",
+        "ಗೂಡಿನಲ್ಲಿರುವ ಹಕ್ಕಿಗಳಂತೆ",
+        "ಸಕ್ಕರೆಯ ಮೇಲಿನ ಇರುವೆಗಳಂತೆ",
+        "ಮಳೆಯಲ್ಲಿನ ಕಪ್ಪೆಗಳಂತೆ"
+      ],
+      "answer": "ಜೇನುನೊಣಗಳಷ್ಟು ದಟ್ಟವಾಗಿ",
+      "reasoning": "ಕವಿತೆಯ ಕೊನೆಯ ಸಾಲುಗಳಲ್ಲಿ ಮಕ್ಕಳು ಜೇನುನೊಣಗಳಂತೆ ದಟ್ಟವಾಗಿ ಗಾಡಿಯ ಸುತ್ತ ಸೇರುತ್ತಾರೆ ಎಂದು ಬರೆಯಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why did the Maharaja command the cook not to throw away the vegetable scraps?",
+      "options": [
+        "He wanted the cook to find a way to use them",
+        "He wanted to feed them to the royal horses",
+        "He wanted to sell them in the market",
+        "He wanted to use them as manure for the garden"
+      ],
+      "answer": "He wanted the cook to find a way to use them",
+      "reasoning": "The Maharaja sternly told the cook that he cannot waste food and must find a way to use the scraps."
+    },
+    "kn": {
+      "question": "ಮಹಾರಾಜರು ತರಕಾರಿ ಚೂರುಗಳನ್ನು ಎಸೆಯದಂತೆ ಅಡುಗೆಯವನಿಗೆ ಏಕೆ ಆಜ್ಞಾಪಿಸಿದರು?",
+      "options": [
+        "ಅವುಗಳನ್ನು ಬಳಸಲು ಒಂದು ಮಾರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕೆಂದು ಬಯಸಿದ್ದರು",
+        "ಅವುಗಳನ್ನು ಅರಮನೆಯ ಕುದುರೆಗಳಿಗೆ ತಿನ್ನಿಸಲು ಬಯಸಿದ್ದರು",
+        "ಅವುಗಳನ್ನು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಮಾರಾಟ ಮಾಡಲು ಬಯಸಿದ್ದರು",
+        "ಅವುಗಳನ್ನು ತೋಟಕ್ಕೆ ಗೊಬ್ಬರವಾಗಿ ಬಳಸಲು ಬಯಸಿದ್ದರು"
+      ],
+      "answer": "ಅವುಗಳನ್ನು ಬಳಸಲು ಒಂದು ಮಾರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕೆಂದು ಬಯಸಿದ್ದರು",
+      "reasoning": "ಆಹಾರವನ್ನು ವ್ಯರ್ಥ ಮಾಡಬಾರದು ಮತ್ತು ಅವುಗಳನ್ನು ಬಳಸಲು ಏನಾದರೂ ಉಪಾಯ ಮಾಡಬೇಕೆಂದು ಮಹಾರಾಜರು ಗಂಭೀರವಾಗಿ ಆದೇಶಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the meaning of the phrase 'in a fix' as used in the story 'Wonderful Waste!'?",
+      "options": [
+        "In a difficult situation",
+        "Repairing something broken",
+        "Standing in one place",
+        "Feeling very happy"
+      ],
+      "answer": "In a difficult situation",
+      "reasoning": "The cook was 'in a fix' because he did not know how to reuse the vegetable waste and could not disobey the king."
+    },
+    "kn": {
+      "question": "'ಅದ್ಭುತ ವ್ಯರ್ಥ!' ಕಥೆಯಲ್ಲಿ ಬಳಕೆಯಾಗಿರುವ 'in a fix' ಎಂಬ ನುಡಿಗಟ್ಟಿನ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಕಷ್ಟದ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ಸಿಲುಕುವುದು",
+        "ಮುರಿದದ್ದನ್ನು ಸರಿಪಡಿಸುವುದು",
+        "ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ ನಿಲ್ಲುವುದು",
+        "ತುಂಬಾ ಸಂತೋಷವಾಗಿರುವುದು"
+      ],
+      "answer": "ಕಷ್ಟದ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ಸಿಲುಕುವುದು",
+      "reasoning": "ಅಡುಗೆಯವನಿಗೆ ತರಕಾರಿ ಚೂರುಗಳನ್ನು ಏನು ಮಾಡಬೇಕೆಂದು ತಿಳಿಯದೆ ಮತ್ತು ರಾಜನ ಆಜ್ಞೆಯನ್ನು ಮೀರುವಂತಿಲ್ಲದೆ ಕಷ್ಟದ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ಸಿಲುಕಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What did the cook do first with the vegetable scraps after washing them thoroughly?",
+      "options": [
+        "Cut them into long strips",
+        "Boil them in salty water",
+        "Grind them into a paste",
+        "Fry them in hot oil"
+      ],
+      "answer": "Cut them into long strips",
+      "reasoning": "The cook washed the vegetables, cleaned them, and then cut them into long strips before putting them into a huge pot."
+    },
+    "kn": {
+      "question": "ಅಡುಗೆಯವನು ತರಕಾರಿ ಚೂರುಗಳನ್ನು ಚೆನ್ನಾಗಿ ತೊಳೆದ ನಂತರ ಮೊದಲು ಏನು ಮಾಡಿದನು?",
+      "options": [
+        "ಅವುಗಳನ್ನು ಉದ್ದನೆಯ ಪಟ್ಟಿಗಳಾಗಿ ಕತ್ತರಿಸಿದನು",
+        "ಅವುಗಳನ್ನು ಉಪ್ಪು ನೀರಿನಲ್ಲಿ ಬೇಯಿಸಿದನು",
+        "ಅವುಗಳನ್ನು ನುಣ್ಣಗೆ ರುಬ್ಬಿದನು",
+        "ಅವುಗಳನ್ನು ಬಿಸಿ ಎಣ್ಣೆಯಲ್ಲಿ ಹುರಿದನು"
+      ],
+      "answer": "ಅವುಗಳನ್ನು ಉದ್ದನೆಯ ಪಟ್ಟಿಗಳಾಗಿ ಕತ್ತರಿಸಿದನು",
+      "reasoning": "ಅಡುಗೆಯವನು ಮೊದಲು ತರಕಾರಿಗಳನ್ನು ತೊಳೆದು ಸ್ವಚ್ಛಗೊಳಿಸಿ, ನಂತರ ಅವುಗಳನ್ನು ಉದ್ದನೆಯ ಚೂರುಗಳಾಗಿ ಕತ್ತರಿಸಿ ದೊಡ್ಡ ಪಾತ್ರೆಗೆ ಹಾಕಿದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What did the cook use to garnish the final dish, Avial?",
+      "options": [
+        "Curry leaves",
+        "Coriander leaves",
+        "Mint leaves",
+        "Fried onions"
+      ],
+      "answer": "Curry leaves",
+      "reasoning": "The cook decorated or garnished the new dish with curry leaves before serving it to the guests."
+    },
+    "kn": {
+      "question": "ಅಡುಗೆಯವನು ಸಿದ್ಧಪಡಿಸಿದ ಹೊಸ ಖಾದ್ಯವಾದ 'ಅವಿಯಲ್' ಅನ್ನು ಅಲಂಕರಿಸಲು ಏನನ್ನು ಬಳಸಿದನು?",
+      "options": [
+        "ಕರಿಬೇವು",
+        "ಕೊತ್ತಂಬರಿ ಸೊಪ್ಪು",
+        "ಪುದೀನಾ ಸೊಪ್ಪು",
+        "ಹುರಿದ ಈರುಳ್ಳಿ"
+      ],
+      "answer": "ಕರಿಬೇವು",
+      "reasoning": "ಅತಿಥಿಗಳಿಗೆ ಬಡಿಸುವ ಮುನ್ನ ಅಡುಗೆಯವನು ಆ ಹೊಸ ಖಾದ್ಯವನ್ನು ಕರಿಬೇವಿನಲ್ಲಿ ಅಲಂಕರಿಸಿದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_015",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these ingredients did the cook paste/ground together to add to Avial?",
+      "options": [
+        "Coconut",
+        "Green chillies",
+        "Garlic",
+        "Ginger"
+      ],
+      "answer": [
+        "Coconut",
+        "Green chillies",
+        "Garlic"
+      ],
+      "reasoning": "The story mentions: 'He ground some fresh coconut, green chillies and garlic together.'"
+    },
+    "kn": {
+      "question": "ಅವಿಯಲ್‌ಗೆ ಸೇರಿಸಲು ಅಡುಗೆಯವನು ಈ ಕೆಳಗಿನ ಯಾವ ಪದಾರ್ಥಗಳನ್ನು ಒಟ್ಟಿಗೆ ರುಬ್ಬಿದನು?",
+      "options": [
+        "ತೆಂಗಿನಕಾಯಿ",
+        "ಹಸಿಮೆಣಸಿನಕಾಯಿ",
+        "ಬೆಳ್ಳುಳ್ಳಿ",
+        "ಶುಂಠಿ"
+      ],
+      "answer": [
+        "ತೆಂಗಿನಕಾಯಿ",
+        "ಹಸಿಮೆಣಸಿನಕಾಯಿ",
+        "ಬೆಳ್ಳುಳ್ಳಿ"
+      ],
+      "reasoning": "ಕಥೆಯಲ್ಲಿ 'ಅವನು ಸ್ವಲ್ಪ ಹಸಿ ತೆಂಗಿನಕಾಯಿ, ಹಸಿಮೆಣಸಿನಕಾಯಿ ಮತ್ತು ಬೆಳ್ಳುಳ್ಳಿಯನ್ನು ಒಟ್ಟಿಗೆ ರುಬ್ಬಿದನು' ಎಂದು ಹೇಳಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_016",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "What things did the Ice-cream Man have in his cart for sale?",
+      "options": [
+        "Ice-cream cones",
+        "Bottles of frosty-fizz",
+        "Hot tea",
+        "Chocolate cakes"
+      ],
+      "answer": [
+        "Ice-cream cones",
+        "Bottles of frosty-fizz"
+      ],
+      "reasoning": "The poem mentions that he fills cones with mounds of ice-cream and sells bottles of green, orange, white, or pink frosty-fizz."
+    },
+    "kn": {
+      "question": "ಐಸ್‌ಕ್ರೀಮ್ ಮ್ಯಾನ್ ತನ್ನ ಗಾಡಿಯಲ್ಲಿ ಮಾರಾಟ ಮಾಡಲು ಯಾವ ವಸ್ತುಗಳನ್ನು ಹೊಂದಿದ್ದನು?",
+      "options": [
+        "ಐಸ್‌ಕ್ರೀಮ್ ಕೋನ್‌ಗಳು",
+        "ತಣ್ಣನೆಯ ಬುರುಗಿನ ಪಾನೀಯದ ಸೀಸೆಗಳು (frosty-fizz)",
+        "ಬಿಸಿ ಚಹಾ",
+        "ಚಾಕೊಲೇಟ್ ಕೇಕ್"
+      ],
+      "answer": [
+        "ಐಸ್‌ಕ್ರೀಮ್ ಕೋನ್‌ಗಳು",
+        "ತಣ್ಣನೆಯ ಬುರುಗಿನ ಪಾನೀಯದ ಸೀಸೆಗಳು (frosty-fizz)"
+      ],
+      "reasoning": "ಕವಿತೆಯಲ್ಲಿ ಅವನು ಕೋನ್‌ಗಳಲ್ಲಿ ಐಸ್‌ಕ್ರೀಮ್ ತುಂಬಿಸುತ್ತಾನೆ ಮತ್ತು ಹಸಿರು, ಕಿತ್ತಳೆ, ಬಿಳಿ ಅಥವಾ ಗುಲಾಬಿ ಬಣ್ಣದ ತಂಪು ಪಾನೀಯಗಳನ್ನು ಮಾರುತ್ತಾನೆ ಎಂದು ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_017",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the vocabulary words from Unit 1 (Ice-cream Man & Wonderful Waste) with their correct meanings:",
+      "pairs": [
+        {
+          "left": "Trudge",
+          "right": "Walk slowly and heavily"
+        },
+        {
+          "left": "Mounds",
+          "right": "Heaps or piles"
+        },
+        {
+          "left": "Frosty-fizz",
+          "right": "Chilled, bubbling drink"
+        },
+        {
+          "left": "In a fix",
+          "right": "A difficult situation"
+        }
+      ],
+      "reasoning": "Trudge is slow walking, mounds are heaps, frosty-fizz is a cold fizzy drink, and in a fix means in difficulty."
+    },
+    "kn": {
+      "question": "ಘಟಕ 1 ರ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಅರ್ಥಗಳಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Trudge",
+          "right": "ಕಷ್ಟಪಟ್ಟು ನಿಧಾನವಾಗಿ ಹೆಜ್ಜೆ ಹಾಕುವುದು"
+        },
+        {
+          "left": "Mounds",
+          "right": "ದಿಬ್ಬ ಅಥವಾ ರಾಶಿಗಳು"
+        },
+        {
+          "left": "Frosty-fizz",
+          "right": "ತಣ್ಣನೆಯ ಬುರುಗಿನ ಪಾನೀಯ"
+        },
+        {
+          "left": "In a fix",
+          "right": "ಗೊಂದಲಮಯ ಕಷ್ಟದ ಪರಿಸ್ಥಿತಿ"
+        }
+      ],
+      "reasoning": "Trudge ಅಂದರೆ ಕಷ್ಟಪಟ್ಟು ನಡೆಯುವುದು, Mounds ಅಂದರೆ ರಾಶಿ, Frosty-fizz ಅಂದರೆ ತಂಪು ಪಾನೀಯ, ಮತ್ತು In a fix ಅಂದರೆ ಕಷ್ಟದ ಪರಿಸ್ಥಿತಿ."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_018",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why is the sight of the Ice-cream Man filling the cones called a 'joyful sight'?",
+      "options": [
+        "Because it brings cool relief and happiness on a hot summer day",
+        "Because the ice-cream is free for everyone",
+        "Because the cones are very large and colorful",
+        "Because the Ice-cream Man plays loud music"
+      ],
+      "answer": "Because it brings cool relief and happiness on a hot summer day",
+      "reasoning": "Watching the Ice-cream Man fill cones with cool, sweet mounds in the scorching summer heat makes everyone feel happy and relieved."
+    },
+    "kn": {
+      "question": "ಐಸ್‌ಕ್ರೀಮ್ ಮ್ಯಾನ್ ಕೋನ್‌ಗಳನ್ನು ತುಂಬಿಸುವ ದೃಶ್ಯವನ್ನು 'joyful sight' (ಸಂತೋಷದ ದೃಶ್ಯ) ಎಂದು ಏಕೆ ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಏಕೆಂದರೆ ಇದು ಬಿಸಿಲಿನ ಬೇಸಿಗೆಯ ದಿನದಲ್ಲಿ ತಂಪು ಮತ್ತು ಸಂತೋಷವನ್ನು ನೀಡುತ್ತದೆ",
+        "ಏಕೆಂದರೆ ಐಸ್‌ಕ್ರೀಮ್ ಎಲ್ಲರಿಗೂ ಉಚಿತವಾಗಿರುತ್ತದೆ",
+        "ಏಕೆಂದರೆ ಕೋನ್‌ಗಳು ತುಂಬಾ ದೊಡ್ಡದಾಗಿ ಮತ್ತು ಬಣ್ಣ ಬಣ್ಣವಾಗಿರುತ್ತವೆ",
+        "ಏಕೆಂದರೆ ಐಸ್‌ಕ್ರೀಮ್ ಮ್ಯಾನ್ ಜೋರಾಗಿ ಸಂಗೀತ ನುಡಿಸುತ್ತಾನೆ"
+      ],
+      "answer": "ಏಕೆಂದರೆ ಇದು ಬಿಸಿಲಿನ ಬೇಸಿಗೆಯ ದಿನದಲ್ಲಿ ತಂಪು ಮತ್ತು ಸಂತೋಷವನ್ನು ನೀಡುತ್ತದೆ",
+      "reasoning": "ಬೇಸಿಗೆಯ ಬಿಸಿಲಿನಲ್ಲಿ ತಣ್ಣನೆಯ, ಸಿಹಿಯಾದ ಐಸ್‌ಕ್ರೀಮ್ ಅನ್ನು ಕೋನ್‌ಗಳಲ್ಲಿ ತುಂಬಿಸುವುದನ್ನು ನೋಡುವುದೇ ಮನಸ್ಸಿಗೆ ತಂಪು ಮತ್ತು ಆನಂದವನ್ನು ನೀಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_019",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why did the Maharaja enter the kitchen in the afternoon before the feast?",
+      "options": [
+        "To inspect the dishes that had been prepared for the grand dinner",
+        "To cook a special dish himself for his guests",
+        "To punish the cook for making a mess",
+        "To eat his lunch early"
+      ],
+      "answer": "To inspect the dishes that had been prepared for the grand dinner",
+      "reasoning": "The Maharaja entered the kitchen to survey (inspect) the dishes prepared for the royal feast."
+    },
+    "kn": {
+      "question": "ಔತಣಕೂಟದ ದಿನ ಮಧ್ಯಾಹ್ನ ಮಹಾರಾಜರು ಅಡುಗೆಮನೆಗೆ ಏಕೆ ಬಂದರು?",
+      "options": [
+        "ಭರ್ಜರಿ ಊಟಕ್ಕೆ ಸಿದ್ಧಪಡಿಸಲಾದ ಅಡುಗೆಗಳನ್ನು ಪರಿಶೀಲಿಸಲು",
+        "ಅತಿಥಿಗಳಿಗಾಗಿ ಸ್ವತಃ ತಾವೇ ಒಂದು ವಿಶೇಷ ಅಡುಗೆ ಮಾಡಲು",
+        "ಅಡುಗೆಮನೆಯನ್ನು ಗಲೀಜು ಮಾಡಿದ್ದಕ್ಕಾಗಿ ಅಡುಗೆಯವನನ್ನು ಶಿಕ್ಷಿಸಲು",
+        "ತಮ್ಮ ಮಧ್ಯಾಹ್ನದ ಊಟವನ್ನು ಬೇಗನೆ ತಿನ್ನಲು"
+      ],
+      "answer": "ಭರ್ಜರಿ ಊಟಕ್ಕೆ ಸಿದ್ಧಪಡಿಸಲಾದ ಅಡುಗೆಗಳನ್ನು ಪರಿಶೀಲಿಸಲು",
+      "reasoning": "ಅರಮನೆಯ ಔತಣಕೂಟಕ್ಕಾಗಿ ಸಿದ್ಧಪಡಿಸಲಾಗಿದ್ದ ಖಾದ್ಯಗಳನ್ನು ಹತ್ತಿರದಿಂದ ಪರಿಶೀಲಿಸಲು (survey) ಮಹಾರಾಜರು ಅಡುಗೆಮನೆಗೆ ಬಂದರು."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_020",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How did the cook feel and act right after the Maharaja ordered him to reuse the scraps?",
+      "options": [
+        "He stared at the scraps in contemplation, feeling stuck",
+        "He was happy and immediately started dancing",
+        "He threw the scraps out of the window secretly",
+        "He resigned from his job immediately"
+      ],
+      "answer": "He stared at the scraps in contemplation, feeling stuck",
+      "reasoning": "The cook was in a fix and kept staring at the vegetable scraps for some time, trying to think of an idea."
+    },
+    "kn": {
+      "question": "ತರಕಾರಿ ಚೂರುಗಳನ್ನು ಮರುಬಳಕೆ ಮಾಡುವಂತೆ ಮಹಾರಾಜರು ಆದೇಶಿಸಿದ ತಕ್ಷಣ ಅಡುಗೆಯವನು ಏನು ಮಾಡಿದನು?",
+      "options": [
+        "ಅವನು ಏನು ಮಾಡಬೇಕೆಂದು ತೋಚದೆ ಆ ಚೂರುಗಳನ್ನು ದಿಟ್ಟಿಸುತ್ತಾ ಯೋಚಿಸತೊಡಗಿದನು",
+        "ಅವನು ಸಂತೋಷಗೊಂಡು ತಕ್ಷಣ ನೃತ್ಯ ಮಾಡಲು ಪ್ರಾರಂಭಿಸಿದನು",
+        "ಅವನು ರಹಸ್ಯವಾಗಿ ಆ ಚೂರುಗಳನ್ನು ಕಿಟಕಿಯಿಂದ ಹೊರಗೆ ಎಸೆದನು",
+        "ಅವನು ತಕ್ಷಣವೇ ತನ್ನ ಕೆಲಸಕ್ಕೆ ರಾಜೀನಾಮೆ ನೀಡಿದನು"
+      ],
+      "answer": "ಅವನು ಏನು ಮಾಡಬೇಕೆಂದು ತೋಚದೆ ಆ ಚೂರುಗಳನ್ನು ದಿಟ್ಟಿಸುತ್ತಾ ಯೋಚಿಸತೊಡಗಿದನು",
+      "reasoning": "ಅಡುಗೆಯವನಿಗೆ ತಕ್ಷಣವೇ ಯಾವುದೇ ಉಪಾಯ ಹೊಳೆಯದ ಕಾರಣ, ಅವನು ಆ ತರಕಾರಿ ಚೂರುಗಳನ್ನು ದಿಟ್ಟಿಸಿ ನೋಡುತ್ತಾ ಗಂಭೀರವಾಗಿ ಯೋಚಿಸುತ್ತಾ ನಿಂತನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_021",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the figure of speech used in the line: 'His cart might be a flower bed'?",
+      "options": [
+        "Metaphor",
+        "Simile",
+        "Alliteration",
+        "Personification"
+      ],
+      "answer": "Metaphor",
+      "reasoning": "A metaphor directly compares one thing to another without using 'like' or 'as'. Here, the cart is directly called a flower bed."
+    },
+    "kn": {
+      "question": "'His cart might be a flower bed' ಎಂಬ ಸಾಲಿನಲ್ಲಿ ಬಳಕೆಯಾಗಿರುವ ಅಲಂಕಾರ (figure of speech) ಯಾವುದು?",
+      "options": [
+        "ರೂಪಕ ಅಲಂಕಾರ (Metaphor)",
+        "ಉಪಮಾ ಅಲಂಕಾರ (Simile)",
+        "ಅನುಪ್ರಾಸ ಅಲಂಕಾರ (Alliteration)",
+        "ಮಾನವೀಕರಣ ಅಲಂಕಾರ (Personification)"
+      ],
+      "answer": "ರೂಪಕ ಅಲಂಕಾರ (Metaphor)",
+      "reasoning": "'Like' ಅಥವಾ 'As' ಬಳಸದೆ ನೇರವಾಗಿ ಹೋಲಿಸುವುದನ್ನು ಇಂಗ್ಲಿಷ್‌ನಲ್ಲಿ 'Metaphor' (ರೂಪಕ) ಎನ್ನಲಾಗುತ್ತದೆ. ಇಲ್ಲಿ ಗಾಡಿಯನ್ನು ನೇರವಾಗಿ ಹೂವಿನ ಹಾಸಿಗೆ ಎನ್ನಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_022",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the main learning or lesson from the story 'Wonderful Waste!'?",
+      "options": [
+        "We should be creative and not waste things that can be reused",
+        "We should always cook vegetable scraps for dinner",
+        "Maharajas are very strict about their kitchen rules",
+        "We should only eat traditional food from Kerala"
+      ],
+      "answer": "We should be creative and not waste things that can be reused",
+      "reasoning": "The story teaches us that with creativity, even waste materials can be turned into something useful and wonderful."
+    },
+    "kn": {
+      "question": "'ಅದ್ಭುತ ವ್ಯರ್ಥ!' ಕಥೆಯಿಂದ ನಾವು ಕಲಿಯುವ ಮುಖ್ಯ ಪಾಠವೇನು?",
+      "options": [
+        "ನಾವು ಸೃಜನಶೀಲರಾಗಿರಬೇಕು ಮತ್ತು ಮರುಬಳಕೆ ಮಾಡಬಹುದಾದ ವಸ್ತುಗಳನ್ನು ವ್ಯರ್ಥ ಮಾಡಬಾರದು",
+        "ನಾವು ಯಾವಾಗಲೂ ರಾತ್ರಿಯ ಊಟಕ್ಕೆ ತರಕಾರಿ ಚೂರುಗಳನ್ನು ಬೇಯಿಸಬೇಕು",
+        "ಮಹಾರಾಜರು ತಮ್ಮ ಅಡುಗೆಮನೆಯ ನಿಯಮಗಳ ಬಗ್ಗೆ ಬಹಳ ಕಟ್ಟುನಿಟ್ಟಾಗಿರುತ್ತಾರೆ",
+        "ನಾವು ಕೇರಳದ ಸಾಂಪ್ರದಾಯಿಕ ಆಹಾರವನ್ನು ಮಾತ್ರ ಸೇವಿಸಬೇಕು"
+      ],
+      "answer": "ನಾವು ಸೃಜನಶೀಲರಾಗಿರಬೇಕು ಮತ್ತು ಮರುಬಳಕೆ ಮಾಡಬಹುದಾದ ವಸ್ತುಗಳನ್ನು ವ್ಯರ್ಥ ಮಾಡಬಾರದು",
+      "reasoning": "ನಮ್ಮ ಸೃಜನಶೀಲತೆಯಿಂದ ವ್ಯರ್ಥ ವಸ್ತುಗಳನ್ನು ಕೂಡ ಉಪಯುಕ್ತ ಹಾಗೂ ಅತ್ಯದ್ಭುತವಾದ ವಸ್ತುವನ್ನಾಗಿ ಪರಿವರ್ತಿಸಬಹುದು ಎಂಬುದನ್ನು ಈ ಕಥೆ ಕಲಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_023",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Identify which of the following statements are TRUE based on Unit 1 (poem and story):",
+      "options": [
+        "The Ice-cream Man's cart is compared to a flower bed of roses and sweet peas.",
+        "Avial became a popular dish in Tamil Nadu after the feast.",
+        "The cook added whipped curd and coconut oil to the dish Avial.",
+        "The Ice-cream Man sells hot coffee to children."
+      ],
+      "answer": [
+        "The Ice-cream Man's cart is compared to a flower bed of roses and sweet peas.",
+        "The cook added whipped curd and coconut oil to the dish Avial."
+      ],
+      "reasoning": "Statement 1 is true from the poem, and Statement 3 is true as the cook whipped curd and added coconut oil to garnish Avial. Statement 2 is false (Kerala, not Tamil Nadu) and 4 is false (cold drinks, not coffee)."
+    },
+    "kn": {
+      "question": "ಘಟಕ 1 ರ (ಕವಿತೆ ಮತ್ತು ಕಥೆ) ಆಧಾರದ ಮೇಲೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ ಎಂದು ಗುರುತಿಸಿ:",
+      "options": [
+        "ಐಸ್‌ಕ್ರೀಮ್ ಮ್ಯಾನ್‌ನ ಗಾಡಿಯನ್ನು गुಲಾಬಿ ಮತ್ತು ಸಿಹಿ ಬಟಾಣಿ ಹೂವಿನ ಹಾಸಿಗೆಗೆ ಹೋಲಿಸಲಾಗಿದೆ.",
+        "ಔತಣಕೂಟದ ನಂತರ ಅವಿಯಲ್ ತಮಿಳುನಾಡಿನಲ್ಲಿ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಖಾದ್ಯವಾಯಿತು.",
+        "ಅಡುಗೆಯವನು ಅವಿಯಲ್ ಖಾದ್ಯಕ್ಕೆ ಮೊಸರು ಮತ್ತು ತೆಂಗಿನ ಎಣ್ಣೆಯನ್ನು ಸೇರಿಸಿದನು.",
+        "ಐಸ್‌ಕ್ರೀಮ್ ಮ್ಯಾನ್ ಮಕ್ಕಳಿಗೆ ಬಿಸಿ ಕಾಫಿಯನ್ನು ಮಾರುತ್ತಾನೆ."
+      ],
+      "answer": [
+        "ಐಸ್‌ಕ್ರೀಮ್ ಮ್ಯಾನ್‌ನ ಗಾಡಿಯನ್ನು गुಲಾಬಿ ಮತ್ತು ಸಿಹಿ ಬಟಾಣಿ ಹೂವಿನ ಹಾಸಿಗೆಗೆ ಹೋಲಿಸಲಾಗಿದೆ.",
+        "ಅಡುಗೆಯವನು ಅವಿಯಲ್ ಖಾದ್ಯಕ್ಕೆ ಮೊಸರು ಮತ್ತು ತೆಂಗಿನ ಎಣ್ಣೆಯನ್ನು ಸೇರಿಸಿದನು."
+      ],
+      "reasoning": "ಕವಿತೆಯಲ್ಲಿ ಗಾಡಿಯನ್ನು ಹೂವಿನ ಹಾಸಿಗೆಗೆ ಹೋಲಿಸಿದ್ದು ನಿಜ, ಮತ್ತು ಅಡುಗೆಯವನು ಅವಿಯಲ್‌ಗೆ ಮೊಸರು ಮತ್ತು ತೆಂಗಿನ ಎಣ್ಣೆ ಹಾಕಿದ್ದು ನಿಜ. ಅವಿಯಲ್ ಕೇರಳದಲ್ಲಿ ಪ್ರಸಿದ್ಧವಾಯಿತು (ತಮಿಳುನಾಡಲ್ಲ) ಮತ್ತು ಅವನು ತಂಪು ಪಾನೀಯ ಮಾರುತ್ತಾನೆ (ಕಾಫಿ ಅಲ್ಲ)."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the words with their closest synonyms (meanings in context):",
+      "pairs": [
+        {
+          "left": "Survey",
+          "right": "Inspect or examine"
+        },
+        {
+          "left": "Sternly",
+          "right": "Strictly or seriously"
+        },
+        {
+          "left": "Contemplate",
+          "right": "Think deeply"
+        },
+        {
+          "left": "Garnished",
+          "right": "Decorated"
+        }
+      ],
+      "reasoning": "Survey means inspect, sternly means strictly, contemplate means think deeply, and garnished means decorated."
+    },
+    "kn": {
+      "question": "ಪದಗಳನ್ನು ಅವುಗಳ ಸಮಾನಾರ್ಥಕ ಪದಗಳಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Survey",
+          "right": "ಪರಿಶೀಲಿಸು ಅಥವಾ ವೀಕ್ಷಿಸು"
+        },
+        {
+          "left": "Sternly",
+          "right": "ಕಟ್ಟುನಿಟ್ಟಾಗಿ ಅಥವಾ ಗಂಭೀರವಾಗಿ"
+        },
+        {
+          "left": "Contemplate",
+          "right": "ಆಳವಾಗಿ ಯೋಚಿಸು"
+        },
+        {
+          "left": "Garnished",
+          "right": "ಅಲಂಕರಿಸಲ್ಪಟ್ಟ"
+        }
+      ],
+      "reasoning": "Survey ಅಂದರೆ ಪರಿಶೀಲಿಸುವುದು, Sternly ಅಂದರೆ ಗಂಭೀರವಾಗಿ, Contemplate ಅಂದರೆ ಚಿಂತಿಸುವುದು, ಮತ್ತು Garnished ಅಂದರೆ ಅಲಂಕರಿಸುವುದು."
+    }
+  },
+  {
+    "id": "c5_eng_unit1_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the describing adjectives from Unit 1 (Ice-cream Man) to their corresponding nouns:",
+      "pairs": [
+        {
+          "left": "Joyful",
+          "right": "Sight"
+        },
+        {
+          "left": "Frosty",
+          "right": "Fizz"
+        },
+        {
+          "left": "Tempting",
+          "right": "Smell"
+        },
+        {
+          "left": "Grand",
+          "right": "Dinner"
+        }
+      ],
+      "reasoning": "Joyful describes sight, frosty describes fizz, tempting describes smell, and grand describes dinner in the unit's texts."
+    },
+    "kn": {
+      "question": "ಘಟಕ 1 ರಲ್ಲಿ ಬಳಸಲಾದ ನಾಮವಿಶೇಷಣಗಳನ್ನು (adjectives) ಅವುಗಳ ನಾಮಪದಗಳಿಗೆ (nouns) ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Joyful (ಸಂತೋಷದ)",
+          "right": "Sight (ದೃಶ್ಯ)"
+        },
+        {
+          "left": "Frosty (ತಣ್ಣನೆಯ)",
+          "right": "Fizz (ಬುರುಗಿನ ಪಾನೀಯ)"
+        },
+        {
+          "left": "Tempting (ಆಕರ್ಷಕ)",
+          "right": "Smell (ಸುವಾಸನೆ)"
+        },
+        {
+          "left": "Grand (ಭರ್ಜರಿ)",
+          "right": "Dinner (ಊಟ)"
+        }
+      ],
+      "reasoning": "ಪಠ್ಯದ ಪ್ರಕಾರ: Joyful sight, Frosty fizz, Tempting smell, ಮತ್ತು Grand dinner ಎಂದು ಬಳಸಲಾಗಿದೆ."
+    }
+  }
+]

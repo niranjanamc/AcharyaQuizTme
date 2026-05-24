@@ -1,0 +1,789 @@
+[
+  {
+    "id": "c5_kan_unit2_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Where is the river born in the lesson 'Nadiya Alalu'?",
+      "options": [
+        "In the desert",
+        "In the mountains",
+        "In the ocean",
+        "In the city pond"
+      ],
+      "answer": "In the mountains",
+      "reasoning": "A river is typically born in high mountains and hills, flowing downwards towards plains and oceans."
+    },
+    "kn": {
+      "question": "'ನದಿಯ ಅಳಲು' ಪಾಠದಲ್ಲಿ ನದಿಯು ಎಲ್ಲಿ ಜನಿಸುತ್ತದೆ?",
+      "options": [
+        "ಮರುಭೂಮಿಯಲ್ಲಿ",
+        "ಪರ್ವತಗಳಲ್ಲಿ (ಬೆಟ್ಟಗಳಲ್ಲಿ)",
+        "ಮಹಾಸಾಗರದಲ್ಲಿ",
+        "ನಗರದ ಕೆರೆಯಲ್ಲಿ"
+      ],
+      "answer": "ಪರ್ವತಗಳಲ್ಲಿ (ಬೆಟ್ಟಗಳಲ್ಲಿ)",
+      "reasoning": "ನದಿಯು ಪರ್ವತ ಅಥವಾ ಬೆಟ್ಟದ ತಪ್ಪಲಿನಲ್ಲಿ ಜನ್ಮತಾಳಿ, ಕೆಳಮುಖವಾಗಿ ಹರಿಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who is crying and sharing their pain in the lesson 'Nadiya Alalu'?",
+      "options": [
+        "A forest",
+        "The river",
+        "The air",
+        "An animal"
+      ],
+      "answer": "The river",
+      "reasoning": "The lesson 'Nadiya Alalu' (The Lament of the River) features the river talking about its suffering and pollution."
+    },
+    "kn": {
+      "question": "'ನದಿಯ ಅಳಲು' ಪಾಠದಲ್ಲಿ ಯಾರು ತಮ್ಮ ಗೋಳು/ದುಃಖವನ್ನು ತೋಡಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ?",
+      "options": [
+        "ಕಾಡು",
+        "ನದಿ",
+        "ಗಾಳಿ",
+        "ಪ್ರಾಣಿ"
+      ],
+      "answer": "ನದಿ",
+      "reasoning": "ಈ ಪಾಠದಲ್ಲಿ ನದಿಯು ಮನುಷ್ಯರು ಮಾಡುತ್ತಿರುವ ಮಾಲಿನ್ಯದಿಂದ ತನಗಾಗುತ್ತಿರುವ ತೊಂದರೆಗಳನ್ನು ವಿವರಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What makes the river dirty when it enters towns and cities?",
+      "options": [
+        "Forest leaves",
+        "Sewage and garbage",
+        "Rainwater",
+        "Fish swimming"
+      ],
+      "answer": "Sewage and garbage",
+      "reasoning": "Human settlements dump sewage, plastic, and garbage into the river, polluting it."
+    },
+    "kn": {
+      "question": "ನದಿಯು ಪಟ್ಟಣ ಮತ್ತು ನಗರಗಳನ್ನು ಪ್ರವೇಶಿಸಿದಾಗ ಅದನ್ನು ಕೊಳಕು ಮಾಡುವುದು ಯಾವುದು?",
+      "options": [
+        "ಕಾಡಿನ ಎಲೆಗಳು",
+        "ಕೊಳಚೆ ನೀರು ಮತ್ತು ಕಸ",
+        "ಮಳೆ ನೀರು",
+        "ಮೀನುಗಳು ಈಜುವುದು"
+      ],
+      "answer": "ಕೊಳಚೆ ನೀರು ಮತ್ತು ಕಸ",
+      "reasoning": "ನಗರಗಳ ಜನರು ಕೊಳಚೆ ನೀರು ಮತ್ತು ಪ್ಲಾಸ್ಟಿಕ್ ಕಸವನ್ನು ನದಿಗೆ ಬಿಡುವುದರಿಂದ ನದಿ ನೀರು ಕಲುಷಿತಗೊಳ್ಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which day is celebrated worldwide as World Water Day?",
+      "options": [
+        "June 5",
+        "March 22",
+        "August 15",
+        "October 2"
+      ],
+      "answer": "March 22",
+      "reasoning": "World Water Day is observed on March 22 every year to raise awareness about water conservation."
+    },
+    "kn": {
+      "question": "ವಿಶ್ವ ಜಲ ದಿನವನ್ನು (World Water Day) ಎಂದು ಆಚರಿಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಜೂನ್ 5",
+        "ಮಾರ್ಚ್ 22",
+        "ಆಗಸ್ಟ್ 15",
+        "ಅಕ್ಟೋಬರ್ 2"
+      ],
+      "answer": "ಮಾರ್ಚ್ 22",
+      "reasoning": "ನೀರಿನ ಪ್ರಾಮುಖ್ಯತೆ ಮತ್ತು ಉಳಿತಾಯದ ಜಾಗೃತಿಗಾಗಿ ಪ್ರತಿವರ್ಷ ಮಾರ್ಚ್ 22 ರಂದು ವಿಶ್ವ ಜಲ ದಿನವನ್ನಾಗಿ ಆಚರಿಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the opposite of the Kannada word 'ಸ್ವಚ್ಛ' (Shvachchha - Clean)?",
+      "options": [
+        "Nirmala",
+        "Galiju",
+        "Shubhra",
+        "Pavitra"
+      ],
+      "answer": "Galiju",
+      "reasoning": "The opposite of clean ('ಸ್ವಚ್ಛ') is dirty ('ಗಲೀಜು') or impure."
+    },
+    "kn": {
+      "question": "'ಸ್ವಚ್ಛ' ಪದದ ವಿರುದ್ಧ ಪದ ಯಾವುದು?",
+      "options": [
+        "ನಿರ್ಮಲ",
+        "ಗಲೀಜು",
+        "ಶುಭ್ರ",
+        "ಪವಿತ್ರ"
+      ],
+      "answer": "ಗಲೀಜು",
+      "reasoning": "'ಸ್ವಚ್ಛ' (ಶುದ್ಧವಾದದ್ದು) ಪದದ ವಿರುದ್ಧ ಅರ್ಥ ಕೊಡುವ ಪದ 'ಗಲೀಜು' (ಅಶುದ್ಧವಾದದ್ದು)."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Identify the Kannada word that means 'Water'.",
+      "options": [
+        "Jala",
+        "Anila",
+        "Giri",
+        "Kavana"
+      ],
+      "answer": "Jala",
+      "reasoning": "'Jala' (ಜಲ) is a standard synonym for water ('ನೀರು') in Kannada."
+    },
+    "kn": {
+      "question": "'ನೀರು' ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಕನ್ನಡ ಪದವನ್ನು ಗುರುತಿಸಿ.",
+      "options": [
+        "ಜಲ",
+        "ಅನಿಲ",
+        "ಗಿರಿ",
+        "ಕವನ"
+      ],
+      "answer": "ಜಲ",
+      "reasoning": "'ಜಲ' ಎಂದರೆ ನೀರು ಎಂದರ್ಥ. 'ಅನಿಲ' ಎಂದರೆ ಗಾಳಿ, 'ಗಿರಿ' ಎಂದರೆ ಬೆಟ್ಟ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_007",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why are fish and other aquatic creatures dying in the river?",
+      "options": [
+        "Due to chemical pollution and lack of oxygen",
+        "Because the water is too cold",
+        "Because of heavy rain",
+        "Due to natural old age"
+      ],
+      "answer": "Due to chemical pollution and lack of oxygen",
+      "reasoning": "Industrial chemical waste dumped in rivers reduces dissolved oxygen, poisoning and killing aquatic life."
+    },
+    "kn": {
+      "question": "ನದಿಯಲ್ಲಿ ಮೀನುಗಳು ಮತ್ತು ಇತರ ಜಲಚರಗಳು ಏಕೆ ಸಾಯುತ್ತಿವೆ?",
+      "options": [
+        "ರಾಸಾಯನಿಕ ಮಾಲಿನ್ಯ ಮತ್ತು ಆಮ್ಲಜನಕದ ಕೊರತೆಯಿಂದಾಗಿ",
+        "ನೀರು ತೀರಾ ತಂಪಾಗಿರುವುದರಿಂದ",
+        "ಭಾರೀ ಮಳೆಯಿಂದಾಗಿ",
+        "ನೈಸರ್ಗಿಕ ವಯಸ್ಸಾಗುವಿಕೆಯಿಂದಾಗಿ"
+      ],
+      "answer": "ರಾಸಾಯನಿಕ ಮಾಲಿನ್ಯ ಮತ್ತು ಆಮ್ಲಜನಕದ ಕೊರತೆಯಿಂದಾಗಿ",
+      "reasoning": "ಕಾರ್ಖಾನೆಗಳ ರಾಸಾಯನಿಕ ತ್ಯಾಜ್ಯ ನೀರಿಗೆ ಸೇರುವುದರಿಂದ ನೀರಿನಲ್ಲಿ ಆಮ್ಲಜನಕ ಕಡಿಮೆಯಾಗಿ ಜಲಚರಗಳು ಸಾಯುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_008",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the main message of the lesson 'Nadiya Alalu'?",
+      "options": [
+        "Rivers should not flow through cities",
+        "Do not pollute water sources and protect nature",
+        "Fish should not live in rivers",
+        "Factories are more important than rivers"
+      ],
+      "answer": "Do not pollute water sources and protect nature",
+      "reasoning": "The lesson urges humans to stop polluting rivers and to protect water sources for future generations."
+    },
+    "kn": {
+      "question": "'ನದಿಯ ಅಳಲು' ಪಾಠದ ಮುಖ್ಯ ಸಂದೇಶವೇನು?",
+      "options": [
+        "ನದಿಗಳು ನಗರಗಳಲ್ಲಿ ಹರಿಯಬಾರದು",
+        "ಜಲಮೂಲಗಳನ್ನು ಕಲುಷಿತಗೊಳಿಸಬೇಡಿ ಮತ್ತು ಪ್ರಕೃತಿಯನ್ನು ರಕ್ಷಿಸಿ",
+        "ಮೀನುಗಳು ನದಿಗಳಲ್ಲಿ ವಾಸಿಸಬಾರದು",
+        "ನದಿಗಳಿಗಿಂತ ಕಾರ್ಖಾನೆಗಳು ಮುಖ್ಯ"
+      ],
+      "answer": "ಜಲಮೂಲಗಳನ್ನು ಕಲುಷಿತಗೊಳಿಸಬೇಡಿ ಮತ್ತು ಪ್ರಕೃತಿಯನ್ನು ರಕ್ಷಿಸಿ",
+      "reasoning": "ನದಿ ನೀರನ್ನು ಕಲುಷಿತಗೊಳಿಸದೆ, ನೀರಿನ ಮೂಲಗಳನ್ನು ಮತ್ತು ಪರಿಸರವನ್ನು ಕಾಪಾಡುವುದು ಮಾನವನ ಕರ್ತವ್ಯ ಎಂದು ತಿಳಿಸುವುದು ಈ ಪಾಠದ ಮುಖ್ಯ ಸಂದೇಶ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Identify the correct Kannada synonym for the word 'ಪರ್ವತ' (Mountain).",
+      "options": [
+        "Nadi",
+        "Betta",
+        "Kere",
+        "Sagara"
+      ],
+      "answer": "Betta",
+      "reasoning": "'Betta' (ಬೆಟ್ಟ) or 'Giri' are standard synonyms for mountain ('ಪರ್ವತ') in Kannada."
+    },
+    "kn": {
+      "question": "'ಪರ್ವತ' ಪದದ ಸರಿಯಾದ ಕನ್ನಡ ಸಮಾನಾರ್ಥಕ ಪದವನ್ನು ಗುರುತಿಸಿ.",
+      "options": [
+        "ನದಿ",
+        "ಬೆಟ್ಟ",
+        "ಕೆರೆ",
+        "ಸಾಗರ"
+      ],
+      "answer": "ಬೆಟ್ಟ",
+      "reasoning": "'ಪರ್ವತ' ಮತ್ತು 'ಬೆಟ್ಟ' ಒಂದೇ ಅರ್ಥವನ್ನು ಕೊಡುವ ಸಮಾನಾರ್ಥಕ ಪದಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In the sentence 'ನದಿಯು ಸರಸರನೆ ಹರಿಯುತ್ತದೆ', what type of word is 'ಸರಸರನೆ'?",
+      "options": [
+        "Jodunudi",
+        "Anukaranavyaya",
+        "Dvirukti",
+        "Sarvanama"
+      ],
+      "answer": "Anukaranavyaya",
+      "reasoning": "'Sarasarane' mimics the sound or style of river flow without containing semantic meaning on its own, making it an Anukaranavyaya."
+    },
+    "kn": {
+      "question": "\"ನದಿಯು ಸರಸರನೆ ಹರಿಯುತ್ತದೆ\" ಈ ವಾಕ್ಯದಲ್ಲಿ 'ಸರಸರನೆ' ಯಾವ ರೀತಿಯ ಪದವಾಗಿದೆ?",
+      "options": [
+        "ಜೋಡುನುಡಿ",
+        "ಅನುಕರಣಾವ್ಯಯ",
+        "ದ್ವಿರುಕ್ತಿ",
+        "ಸರ್ವನಾಮ"
+      ],
+      "answer": "ಅನುಕರಣಾವ್ಯಯ",
+      "reasoning": "ನದಿಯ ಹರಿವಿನ ಶಬ್ದ ಅಥವಾ ಶೈಲಿಯನ್ನು ಅನುಕರಣೆ ಮಾಡಿ ಹೇಳುವ 'ಸರಸರನೆ' ಪದವು ಅನುಕರಣಾವ್ಯಯವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "How should we dispose of waste instead of throwing it into rivers?",
+      "options": [
+        "Bury it in the forest",
+        "Throw it in dustbins or send it for recycling",
+        "Burn it on the streets",
+        "Throw it in school playground"
+      ],
+      "answer": "Throw it in dustbins or send it for recycling",
+      "reasoning": "Using waste bins and recycling protects water bodies and keeps the environment clean."
+    },
+    "kn": {
+      "question": "ಕಸವನ್ನು ನದಿಗೆ ಎಸೆಯುವ ಬದಲಾಗಿ ನಾವು ಏನು ಮಾಡಬೇಕು?",
+      "options": [
+        "ಕಾಡಿನಲ್ಲಿ ಹೂತುಹಾಕಬೇಕು",
+        "ಕಸದ ಬುಟ್ಟಿಗಳಿಗೆ ಹಾಕಿ ಮರುಬಳಕೆಗೆ ಕಳುಹಿಸಬೇಕು",
+        "ಬೀದಿಗಳಲ್ಲಿ ಸುಡಬೇಕು",
+        "ಶಾಲಾ ಮೈದಾನದಲ್ಲಿ ಎಸೆಯಬೇಕು"
+      ],
+      "answer": "ಕಸದ ಬುಟ್ಟಿಗಳಿಗೆ ಹಾಕಿ ಮರುಬಳಕೆಗೆ ಕಳುಹಿಸಬೇಕು",
+      "reasoning": "ಕಸವನ್ನು ಜಲಮೂಲಗಳಿಗೆ ಎಸೆಯದೆ ಸರಿಯಾದ ಕಸದ ತೊಟ್ಟಿಗಳಿಗೆ ಹಾಕಿ ಸಂಸ್ಕರಿಸುವುದು ಪರಿಸರ ಸ್ನೇಹಿ ಕ್ರಮವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the meaning of the Kannada word 'ಅಳಲು' (Alalu)?",
+      "options": [
+        "Joy",
+        "Sorrow or Lament",
+        "Running",
+        "Laughing"
+      ],
+      "answer": "Sorrow or Lament",
+      "reasoning": "'Alalu' (ಅಳಲು) means crying, sorrow, or lamenting over pain."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡದಲ್ಲಿ 'ಅಳಲು' ಪದದ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಸಂತೋಷ",
+        "ಗೋಳು ಅಥವಾ ದುಃಖ",
+        "ಓಡುವುದು",
+        "ನಗುವುದು"
+      ],
+      "answer": "ಗೋಳು ಅಥವಾ ದುಃಖ",
+      "reasoning": "'ಅಳಲು' ಎಂದರೆ ಅಳುವುದು, ಕಣ್ಣೀರು ಹಾಕುವುದು ಅಥವಾ ಗೋಳು ಮತ್ತು ಕಷ್ಟವನ್ನು ತೋಡಿಕೊಳ್ಳುವುದು ಎಂದರ್ಥ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_013",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which river is popularly called the lifeline (Jivanadi) of South Karnataka?",
+      "options": [
+        "Ganga",
+        "Cauvery",
+        "Yamuna",
+        "Narmada"
+      ],
+      "answer": "Cauvery",
+      "reasoning": "The Cauvery river originates in Kodagu and is the major drinking water and agricultural source for South Karnataka."
+    },
+    "kn": {
+      "question": "ದಕ್ಷಿಣ ಕರ್ನಾಟಕದ ಜೀವನದಿ ಎಂದು ಯಾವ ನದಿಯನ್ನು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಗಂಗಾ",
+        "ಕಾವೇರಿ",
+        "ಯಮುನಾ",
+        "ನರ್ಮದಾ"
+      ],
+      "answer": "ಕಾವೇರಿ",
+      "reasoning": "ಕೊಡಗಿನ ತಲಕಾವೇರಿಯಲ್ಲಿ ಉಗಮಿಸುವ ಕಾವೇರಿ ನದಿಯು ದಕ್ಷಿಣ ಕರ್ನಾಟಕದ ಕೃಷಿ ಮತ್ತು ಕುಡಿಯುವ ನೀರಿನ ಪ್ರಮುಖ ಆಧಾರವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_014",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Identify the Sandhi in the word 'ನದಿಯಳಲು' (Nadiyalalu).",
+      "options": [
+        "Lopa Sandhi",
+        "Yakaragama Sandhi",
+        "Vakaragama Sandhi",
+        "Adesa Sandhi"
+      ],
+      "answer": "Yakaragama Sandhi",
+      "reasoning": "'Nadi + alalu' combines to make 'Nadiyalalu'. Since the letter 'ya' is newly inserted, it is Yakaragama Sandhi."
+    },
+    "kn": {
+      "question": "'ನದಿಯಳಲು' ಪದದಲ್ಲಿರುವ ಸಂಧಿ ಯಾವುದು?",
+      "options": [
+        "ಲೋಪ ಸಂಧಿ",
+        "ಯಕಾರಾಗಮ ಸಂಧಿ",
+        "ವಕಾರಾಗಮ ಸಂಧಿ",
+        "ಆದೇಶ ಸಂಧಿ"
+      ],
+      "answer": "ಯಕಾರಾಗಮ ಸಂಧಿ",
+      "reasoning": "ನದಿ + ಅಳಲು = ನದಿಯಳಲು. ಸಂಧಿ ಕಾರ್ಯ ನಡೆದಾಗ ಹೊಸದಾಗಿ 'ಯ್' (ಯಕಾರ) ಕಾರವು ಆಗಮಿಸಿರುವುದರಿಂದ ಇದು ಯಕಾರಾಗಮ ಸಂಧಿಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What happens to the soil when trees are cut along the riverbanks?",
+      "options": [
+        "Soil becomes stronger",
+        "Soil erosion takes place",
+        "New minerals are formed",
+        "Nothing happens"
+      ],
+      "answer": "Soil erosion takes place",
+      "reasoning": "Tree roots hold the soil together. Cutting them down makes the soil loose, causing soil erosion during rains."
+    },
+    "kn": {
+      "question": "ನದಿ ದಡದಲ್ಲಿರುವ ಮರಗಳನ್ನು ಕತ್ತರಿಸಿದಾಗ ಮಣ್ಣಿಗೆ ಏನಾಗುತ್ತದೆ?",
+      "options": [
+        "ಮಣ್ಣು ಗಟ್ಟಿಯಾಗುತ್ತದೆ",
+        "ಮಣ್ಣಿನ ಸವೆತ ಉಂಟಾಗುತ್ತದೆ",
+        "ಹೊಸ ಖನಿಜಗಳು ಬಿಡುಗಡೆಯಾಗುತ್ತವೆ",
+        "ಏನೂ ಆಗುವುದಿಲ್ಲ"
+      ],
+      "answer": "ಮಣ್ಣಿನ ಸವೆತ ಉಂಟಾಗುತ್ತದೆ",
+      "reasoning": "ಮರಗಳ ಬೇರುಗಳು ಮಣ್ಣನ್ನು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದಿಟ್ಟಿರುತ್ತವೆ. ಮರ ಕತ್ತರಿಸುವುದರಿಂದ ಮಣ್ಣು ಸಡಿಲಗೊಂಡು ನೀರಿನಲ್ಲಿ ಕೊಚ್ಚಿಹೋಗುತ್ತದೆ (ಮಣ್ಣಿನ ಸವೆತ)."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the primary source of drinking water for major cities like Bengaluru and Mysuru?",
+      "options": [
+        "Well water",
+        "Cauvery River",
+        "Ocean water",
+        "Rainwater tanks"
+      ],
+      "answer": "Cauvery River",
+      "reasoning": "Bengaluru and Mysuru depend extensively on the Cauvery river pipeline for public drinking water supply."
+    },
+    "kn": {
+      "question": "ಬೆಂಗಳೂರು ಮತ್ತು ಮೈಸೂರಿನಂತಹ ದೊಡ್ಡ ನಗರಗಳಿಗೆ ಕುಡಿಯುವ ನೀರಿನ ಪ್ರಮುಖ ಮೂಲ ಯಾವುದು?",
+      "options": [
+        "ಬಾವಿ ನೀರು",
+        "ಕಾವೇರಿ ನದಿ",
+        "ಸಮುದ್ರದ ನೀರು",
+        "ಮಳೆ ನೀರಿನ ತೊಟ್ಟಿಗಳು"
+      ],
+      "answer": "ಕಾವೇರಿ ನದಿ",
+      "reasoning": "ಬೆಂಗಳೂರು ಮತ್ತು ಮೈಸೂರು ನಗರಗಳಿಗೆ ಕಾವೇರಿ ನದಿಯಿಂದ ದಿನನಿತ್ಯ ಲಕ್ಷಾಂತರ ಲೀಟರ್ ಕುಡಿಯುವ ನೀರನ್ನು ಪೂರೈಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Identify the adjective (Gunavachaka) in the phrase: 'ಸ್ವಚ್ಛವಾದ ಜಲ' (Clean water).",
+      "options": [
+        "Jala",
+        "Shvachchhavada",
+        "Ada",
+        "Jalavada"
+      ],
+      "answer": "Shvachchhavada",
+      "reasoning": "'Shvachchhavada' describes the quality of water (Jala), so it is an adjective (Gunavachaka)."
+    },
+    "kn": {
+      "question": "\"ಸ್ವಚ್ಛವಾದ ಜಲ\" ಈ ನುಡಿಗಟ್ಟಿನಲ್ಲಿ ಗುಣವಾಚಕವನ್ನು ಗುರುತಿಸಿ.",
+      "options": [
+        "ಜಲ",
+        "ಸ್ವಚ್ಛವಾದ",
+        "ಆದ",
+        "ಜಲವಾದ"
+      ],
+      "answer": "ಸ್ವಚ್ಛವಾದ",
+      "reasoning": "'ಜಲ' (ನೀರು) ಎಂಬ ನಾಮಪದದ ಗುಣವನ್ನು ವರ್ಣಿಸುವ 'ಸ್ವಚ್ಛವಾದ' ಎಂಬ ಪದವು ಗುಣವಾಚಕವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_018",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of these are major rivers flowing in Karnataka?",
+      "options": [
+        "Cauvery",
+        "Ganga",
+        "Krishna",
+        "Yamuna"
+      ],
+      "answer": [
+        "Cauvery",
+        "Krishna"
+      ],
+      "reasoning": "Cauvery and Krishna flow extensively through Karnataka, whereas Ganga and Yamuna flow in North India."
+    },
+    "kn": {
+      "question": "ಕರ್ನಾಟಕದಲ್ಲಿ ಹರಿಯುವ ಪ್ರಮುಖ ನದಿಗಳು ಯಾವುವು?",
+      "options": [
+        "ಕಾವೇರಿ",
+        "ಗಂಗಾ",
+        "ಕೃಷ್ಣಾ",
+        "ಯಮುನಾ"
+      ],
+      "answer": [
+        "ಕಾವೇರಿ",
+        "ಕೃಷ್ಣಾ"
+      ],
+      "reasoning": "ಕಾವೇರಿ ಮತ್ತು ಕೃಷ್ಣಾ ನದಿಗಳು ಕರ್ನಾಟಕದ ವಿಶಾಲ ಪ್ರದೇಶದಲ್ಲಿ ಹರಿಯುತ್ತವೆ. ಗಂಗಾ ಮತ್ತು ಯಮುನಾ ಉತ್ತರ ಭಾರತದ ನದಿಗಳು."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following substances severely pollute the river water?",
+      "options": [
+        "Plastic bags",
+        "Chemical waste",
+        "Dry leaves",
+        "Flowers"
+      ],
+      "answer": [
+        "Plastic bags",
+        "Chemical waste"
+      ],
+      "reasoning": "Plastics are non-biodegradable and chemical waste contains toxins, both harmful to the river, unlike natural leaves and flowers."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವ ವಸ್ತುಗಳು ನದಿಯ ನೀರನ್ನು ಕಲುಷಿತಗೊಳಿಸುತ್ತವೆ?",
+      "options": [
+        "ಪ್ಲಾಸ್ಟಿಕ್ ಚೀಲಗಳು",
+        "ರಾಸಾಯನಿಕ ತ್ಯಾಜ್ಯ",
+        "ಒಣ ಎಲೆಗಳು",
+        "ಹೂಗಳು"
+      ],
+      "answer": [
+        "ಪ್ಲಾಸ್ಟಿಕ್ ಚೀಲಗಳು",
+        "ರಾಸಾಯನಿಕ ತ್ಯಾಜ್ಯ"
+      ],
+      "reasoning": "ಪ್ಲಾಸ್ಟಿಕ್ ಮತ್ತು ಕಾರ್ಖಾನೆಯ ರಾಸಾಯನಿಕ ವಿಷಗಳು ನೀರನ್ನು ಹೆಚ್ಚು ಮಲೀನಗೊಳಿಸುತ್ತವೆ. ಒಣ ಎಲೆ ಮತ್ತು ಹೂವುಗಳು ನೈಸರ್ಗಿಕವಾಗಿದ್ದು ಕೊಳೆಯುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_020",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "What are the benefits of planting trees on riverbanks?",
+      "options": [
+        "Prevents soil erosion",
+        "Increases river pollution",
+        "Keeps the surrounding air clean",
+        "Stops the river flow completely"
+      ],
+      "answer": [
+        "Prevents soil erosion",
+        "Keeps the surrounding air clean"
+      ],
+      "reasoning": "Trees hold the bank soil, preventing landslide/erosion, and enrich oxygen content in the air."
+    },
+    "kn": {
+      "question": "ನದಿಯ ದಡದಲ್ಲಿ ಮರಗಳನ್ನು ನೆಡುವುದರಿಂದ ಆಗುವ ಪ್ರಯೋಜನಗಳು ಯಾವುವು?",
+      "options": [
+        "ಮಣ್ಣಿನ ಸವೆತವನ್ನು ತಡೆಯುತ್ತದೆ",
+        "ನದಿಯ ಮಾಲಿನ್ಯವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ",
+        "ಸುತ್ತಮುತ್ತಲಿನ ಗಾಳಿಯನ್ನು ಸ್ವಚ್ಛವಾಗಿಡುತ್ತದೆ",
+        "ನದಿಯ ಹರಿವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನಿಲ್ಲಿಸುತ್ತದೆ"
+      ],
+      "answer": [
+        "ಮಣ್ಣಿನ ಸವೆತವನ್ನು ತಡೆಯುತ್ತದೆ",
+        "ಸುತ್ತಮುತ್ತಲಿನ ಗಾಳಿಯನ್ನು ಸ್ವಚ್ಛವಾಗಿಡುತ್ತದೆ"
+      ],
+      "reasoning": "ಮರಗಳ ಬೇರುಗಳು ಮಣ್ಣನ್ನು ಸವೆಯದಂತೆ ಹಿಡಿದಿಡುತ್ತವೆ ಮತ್ತು ಅವು ಪರಿಸರದ ಗಾಳಿಯನ್ನು ಶುದ್ಧೀಕರಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_021",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following words are synonyms of 'ನೀರು' (Water) in Kannada?",
+      "options": [
+        "Udaka",
+        "Pavana",
+        "Salila",
+        "Anila"
+      ],
+      "answer": [
+        "Udaka",
+        "Salila"
+      ],
+      "reasoning": "'Udaka' and 'Salila' mean water, while 'Pavana' and 'Anila' mean wind/air."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವ ಪದಗಳು 'ನೀರು' ಪದದ ಸಮಾನಾರ್ಥಕಗಳಾಗಿವೆ?",
+      "options": [
+        "ಉದಕ",
+        "ಪವನ",
+        "ಸಲಿಲ",
+        "ಅನಿಲ"
+      ],
+      "answer": [
+        "ಉದಕ",
+        "ಸಲಿಲ"
+      ],
+      "reasoning": "'ಉದಕ' ಮತ್ತು 'ಸಲಿಲ' ಎಂದರೆ ನೀರು ಎಂದರ್ಥ. 'ಪವನ' ಮತ್ತು 'ಅನಿಲ' ಎಂದರೆ ಗಾಳಿ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_022",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the human actions with their impact on rivers.",
+      "pairs": [
+        {
+          "left": "ಕಸ ಎಸೆಯುವುದು (Throwing garbage)",
+          "right": "ಮಾಲಿನ್ಯ (Pollution)"
+        },
+        {
+          "left": "ಮರ ನೆಡುವುದು (Planting trees)",
+          "right": "ಸಂರಕ್ಷಣೆ (Conservation)"
+        },
+        {
+          "left": "ಫ್ಯಾಕ್ಟರಿ ತ್ಯಾಜ್ಯ (Factory waste)",
+          "right": "ರಾಸಾಯನಿಕಗಳು (Chemicals)"
+        },
+        {
+          "left": "ಮಳೆ ನೀರು ಕೊಯ್ಲು (Rainwater harvesting)",
+          "right": "ಜಲ ಉಳಿತಾಯ (Water saving)"
+        }
+      ],
+      "reasoning": "Links human interactions with positive and negative environmental consequences."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಮಾನವ ಚಟುವಟಿಕೆಗಳನ್ನು ಪರಿಸರದ ಮೇಲಾಗುವ ಪರಿಣಾಮಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.",
+      "pairs": [
+        {
+          "left": "ಕಸ ಎಸೆಯುವುದು",
+          "right": "ಮಾಲಿನ್ಯ"
+        },
+        {
+          "left": "ಮರ ನೆಡುವುದು",
+          "right": "ಸಂರಕ್ಷಣೆ"
+        },
+        {
+          "left": "ಫ್ಯಾಕ್ಟರಿ ತ್ಯಾಜ್ಯ",
+          "right": "ರಾಸಾಯನಿಕಗಳು"
+        },
+        {
+          "left": "ಮಳೆ ನೀರು ಕೊಯ್ಲು",
+          "right": "ಜಲ ಉಳಿತಾಯ"
+        }
+      ],
+      "reasoning": "ಮನುಷ್ಯರ ವಿವಿಧ ಕ್ರಿಯೆಗಳು ಜಲಮೂಲಗಳ ಮೇಲೆ ಹೇಗೆ ಒಳ್ಳೆಯ ಅಥವಾ ಕೆಟ್ಟ ಪರಿಣಾಮಗಳನ್ನು ಬೀರುತ್ತವೆ ಎಂಬುದನ್ನು ಹೊಂದಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_023",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the Kannada vocabulary words with their meanings.",
+      "pairs": [
+        {
+          "left": "ಉಗಮ (Ugama)",
+          "right": "ಹುಟ್ಟು (Origin/Birth)"
+        },
+        {
+          "left": "ಸಲಿಲ (Salila)",
+          "right": "ನೀರು (Water)"
+        },
+        {
+          "left": "ಅರಣ್ಯ (Aranya)",
+          "right": "ಕಾಡು (Forest)"
+        },
+        {
+          "left": "ತೀರ (Teera)",
+          "right": "ದಂಡೆ (Bank/Shore)"
+        }
+      ],
+      "reasoning": "Aligns traditional Kannada literary terms with their simpler synonyms."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡದ ಗ್ರಾಂಥಿಕ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಳ ಕನ್ನಡ ಅರ್ಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.",
+      "pairs": [
+        {
+          "left": "ಉಗಮ",
+          "right": "ಹುಟ್ಟು"
+        },
+        {
+          "left": "ಸಲಿಲ",
+          "right": "ನೀರು"
+        },
+        {
+          "left": "ಅರಣ್ಯ",
+          "right": "ಕಾಡು"
+        },
+        {
+          "left": "ತೀರ",
+          "right": "ದಂಡೆ"
+        }
+      ],
+      "reasoning": "ಕನ್ನಡದ ಕಾವ್ಯ/ಪಾಠಗಳಲ್ಲಿ ಬಳಸುವ ಪದಗಳನ್ನು ದಿನನಿತ್ಯದ ಸರಳ ಅರ್ಥಗಳಿಗೆ ಹೊಂದಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_024",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the rivers with their origin/distinction in Karnataka.",
+      "pairs": [
+        {
+          "left": "ಕಾವೇರಿ (Cauvery)",
+          "right": "ತಲಕಾವೇರಿ (Talakaveri)"
+        },
+        {
+          "left": "ಶರಾವತಿ (Sharavathi)",
+          "right": "ಜೋಗ್ ಜಲಪಾತ (Jog Falls)"
+        },
+        {
+          "left": "ಕೃಷ್ಣಾ (Krishna)",
+          "right": "ಮಹಾಬಲೇಶ್ವರ (Mahabaleshwar)"
+        },
+        {
+          "left": "ನೇತ್ರಾವತಿ (Netravathi)",
+          "right": "ಪಶ್ಚಿಮಕ್ಕೆ ಹರಿಯುವ ನದಿ (West flowing river)"
+        }
+      ],
+      "reasoning": "Correctly links major rivers of Karnataka with their landmarks or sources."
+    },
+    "kn": {
+      "question": "ಕರ್ನಾಟಕದ ನದಿಗಳನ್ನು ಅವುಗಳ ಉಗಮಸ್ಥಾನ/ವಿಶೇಷತೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.",
+      "pairs": [
+        {
+          "left": "ಕಾವೇರಿ",
+          "right": "ತಲಕಾವೇರಿ"
+        },
+        {
+          "left": "ಶರಾವತಿ",
+          "right": "ಜೋಗ್ ಜಲಪಾತ"
+        },
+        {
+          "left": "ಕೃಷ್ಣಾ",
+          "right": "ಮಹಾಬಲೇಶ್ವರ"
+        },
+        {
+          "left": "ನೇತ್ರಾವತಿ",
+          "right": "ಪಶ್ಚಿಮಕ್ಕೆ ಹರಿಯುವ ನದಿ"
+        }
+      ],
+      "reasoning": "ಕರ್ನಾಟಕದ ಪ್ರಸಿದ್ಧ ನದಿಗಳನ್ನು ಅವುಗಳ ಮೂಲ ಅಥವಾ ಪ್ರಸಿದ್ಧ ಜಲಪಾತ/ಹರಿವಿನ ದಿಕ್ಕಿಗೆ ಹೊಂದಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_unit2_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the noun types with their Kannada grammatical classification.",
+      "pairs": [
+        {
+          "left": "ಕಾವೇರಿ (Cauvery)",
+          "right": "ಅಂಕಿತನಾಮ (Proper Noun)"
+        },
+        {
+          "left": "ನದಿ (River)",
+          "right": "ರೂಢನಾಮ (Common Noun)"
+        },
+        {
+          "left": "ಬುದ್ಧಿವಂತಿಕೆ (Wisdom)",
+          "right": "ಭಾವನಾಮ (Abstract Noun)"
+        },
+        {
+          "left": "ಅವರು (They)",
+          "right": "ಸರ್ವನಾಮ (Pronoun)"
+        }
+      ],
+      "reasoning": "Tests the student's understanding of Kannada noun (Namapada) classification with examples."
+    },
+    "kn": {
+      "question": "ನಾಮಪದದ ವಿಧಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಕನ್ನಡ ವ್ಯಾಕರಣ ಉದಾಹರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.",
+      "pairs": [
+        {
+          "left": "ಕಾವೇರಿ",
+          "right": "ಅಂಕಿತನಾಮ"
+        },
+        {
+          "left": "ನದಿ",
+          "right": "ರೂಢನಾಮ"
+        },
+        {
+          "left": "ಬುದ್ಧಿವಂತಿಕೆ",
+          "right": "ಭಾವನಾಮ"
+        },
+        {
+          "left": "ಅವರು",
+          "right": "ಸರ್ವನಾಮ"
+        }
+      ],
+      "reasoning": "ನಾಮಪದದಲ್ಲಿನ ವಿವಿಧ ಪ್ರಕಾರಗಳಾದ ಅಂಕಿತನಾಮ, ರೂಢನಾಮ, ಭಾವನಾಮ ಮತ್ತು ಸರ್ವನಾಮಗಳಿಗೆ ಸೂಕ್ತ ಉದಾಹಣೆಗಳನ್ನು ಜೋಡಿಸಲಾಗಿದೆ."
+    }
+  }
+]

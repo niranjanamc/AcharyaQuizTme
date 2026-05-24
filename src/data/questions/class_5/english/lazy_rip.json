@@ -1,0 +1,797 @@
+[
+  {
+    "id": "c5_eng_unit5_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the name of the lazy frog in the poem?",
+      "options": [
+        "Fred",
+        "John",
+        "Harry",
+        "Sam"
+      ],
+      "answer": "Fred",
+      "reasoning": "The poem starts with the line: 'Fred is a very lazy frog Who lolls all day upon a log.'"
+    },
+    "kn": {
+      "question": "ಕವಿತೆಯಲ್ಲಿರುವ ಸೋಮಾರಿ ಕಪ್ಪೆಯ ಹೆಸರೇನು?",
+      "options": [
+        "ಫ್ರೆಡ್",
+        "ಜಾನ್",
+        "ಹ್ಯಾರಿ",
+        "ಸ್ಯಾಮ್"
+      ],
+      "answer": "ಫ್ರೆಡ್",
+      "reasoning": "ಕವಿತೆಯ ಮೊದಲ ಸಾಲಿನಲ್ಲಿ 'ಫ್ರೆಡ್ ಒಬ್ಬ ಸೋಮಾರಿ ಕಪ್ಪೆ, ಅವನು ದಿನವಿಡೀ ಮರದ ದಿಮ್ಮಿಯ ಮೇಲೆ ಬಿದ್ದಿರುತ್ತಾನೆ' ಎಂದು ಹೇಳಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Where does the lazy frog loll all day?",
+      "options": [
+        "Upon a log",
+        "In a deep pond",
+        "Under a green leaf",
+        "Inside a muddy hole"
+      ],
+      "answer": "Upon a log",
+      "reasoning": "The poem states that Fred lolls (lies around lazily) all day upon a wooden log."
+    },
+    "kn": {
+      "question": "ಸೋಮಾರಿ ಕಪ್ಪೆಯು ದಿನವಿಡೀ ಎಲ್ಲಿ ಬಿದ್ದಿರುತ್ತದೆ?",
+      "options": [
+        "ಮರದ ದಿಮ್ಮಿಯ ಮೇಲೆ (log)",
+        "ಆಳವಾದ ಕೊಳದಲ್ಲಿ",
+        "ಹಸಿರು ಎಲೆಯ ಕೆಳಗೆ",
+        "ಕೆಸರು ತುಂಬಿದ ಹಳ್ಳದಲ್ಲಿ"
+      ],
+      "answer": "ಮರದ ದಿಮ್ಮಿಯ ಮೇಲೆ (log)",
+      "reasoning": "ಕವಿತೆಯಲ್ಲಿ ಫ್ರೆಡ್ ದಿನವಿಡೀ ಮರದ ದಿಮ್ಮಿಯ ಮೇಲೆ ಸೋಮಾರಿಯಾಗಿ ಬಿದ್ದಿರುತ್ತಾನೆ ಎಂದು ಹೇಳಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What kind of man was Rip Van Winkle?",
+      "options": [
+        "Simple, kind, and lazy",
+        "Cruel, hard-working, and rich",
+        "Clever, angry, and active",
+        "Proud, quiet, and studious"
+      ],
+      "answer": "Simple, kind, and lazy",
+      "reasoning": "The story describes Rip Van Winkle as a simple, good-natured, kind neighbor who was also very lazy."
+    },
+    "kn": {
+      "question": "ರಾಬಿನ್ಸನ್ ಕ್ರೂಸೋನಂತೆ, ರಿಪ್ ವ್ಯಾನ್ ವಿಂಕಲ್ ಎಂತಹ ಮನುಷ್ಯನಾಗಿದ್ದನು?",
+      "options": [
+        "ಸರಳ, ದಯಾಳು ಮತ್ತು ಸೋಮಾರಿ",
+        "ಕ್ರೂರ, ಕಷ್ಟಪಟ್ಟು ಕೆಲಸ ಮಾಡುವ ಮತ್ತು ಶ್ರೀಮಂತ",
+        "ಬುದ್ಧಿವಂತ, ಕೋಪಿಷ್ಟ ಮತ್ತು ಚುರುಕಾದ",
+        "ಹೆಮ್ಮೆಯ, ಮೂಕ ಮತ್ತು ಅಭ್ಯಾಸಶೀಲ"
+      ],
+      "answer": "ಸರಳ, ದಯಾಳು ಮತ್ತು ಸೋಮಾರಿ",
+      "reasoning": "ಕಥೆಯಲ್ಲಿ ರಿಪ್ ವ್ಯಾನ್ ವಿಂಕಲ್‌ನನ್ನು ಸರಳ, ಸೌಮ್ಯ ಸ್ವಭಾವದ, ದಯಾಳು ನೆರೆಹೊರೆಯವ ಆದರೆ ತುಂಬಾ ಸೋಮಾರಿ ಎಂದು ಬಣ್ಣಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What was the name of Rip Van Winkle's constant dog companion?",
+      "options": [
+        "Wolf",
+        "Tiger",
+        "Jack",
+        "Bruno"
+      ],
+      "answer": "Wolf",
+      "reasoning": "Rip's only companion on his walks and farm was his dog named Wolf."
+    },
+    "kn": {
+      "question": "ರಿಪ್ ವ್ಯಾನ್ ವಿಂಕಲ್ ಜೊತೆಗಿದ್ದ ನಂಬಿಕಸ್ಥ ನಾಯಿಯ ಹೆಸರೇನು?",
+      "options": [
+        "ವುಲ್ಫ್ (Wolf)",
+        "ಟೈಗರ್",
+        "ಜಾಕ್",
+        "ಬ್ರೂನೋ"
+      ],
+      "answer": "ವುಲ್ಫ್ (Wolf)",
+      "reasoning": "ರಿಪ್‌ನ ಜೊತೆಗಾರ ಮತ್ತು ಪ್ರೀತಿಯ ನಾಯಿಯ ಹೆಸರು ವುಲ್ಫ್ ಎಂದಾಗಿತ್ತು."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Near which mountains was Rip Van Winkle's village situated?",
+      "options": [
+        "Kaatskill mountains",
+        "Himalaya mountains",
+        "Alps mountains",
+        "Andes mountains"
+      ],
+      "answer": "Kaatskill mountains",
+      "reasoning": "The story mentions that Rip lived in a little village at the foothills of the Kaatskill (Catskill) mountains."
+    },
+    "kn": {
+      "question": "ರಿಪ್ ವ್ಯಾನ್ ವಿಂಕಲ್‌ನ ಹಳ್ಳಿಯು ಯಾವ ಪರ್ವತಗಳ ತಪ್ಪಲಿನಲ್ಲಿತ್ತು?",
+      "options": [
+        "ಕ್ಯಾಟ್‌ಸ್ಕಿಲ್ ಪರ್ವತಗಳು (Kaatskill)",
+        "ಹಿಮಾಲಯ ಪರ್ವತಗಳು",
+        "ಆಲ್ಪ್ಸ್ ಪರ್ವತಗಳು",
+        "ಆಂಡಿಸ್ ಪರ್ವತಗಳು"
+      ],
+      "answer": "ಕ್ಯಾಟ್‌ಸ್ಕಿಲ್ ಪರ್ವತಗಳು (Kaatskill)",
+      "reasoning": "ಕಥೆಯ ಆರಂಭದಲ್ಲಿ ರಿಪ್‌ನ ಹಳ್ಳಿಯು ಕ್ಯಾಟ್‌ಸ್ಕಿಲ್ (Kaatskill) ಪರ್ವತಗಳ ತಪ್ಪಲಿನಲ್ಲಿದೆ ಎಂದು ವಿವರಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "For how many years did Rip Van Winkle sleep after drinking the strange liquid?",
+      "options": [
+        "Twenty years",
+        "Ten years",
+        "Fifty years",
+        "One year"
+      ],
+      "answer": "Twenty years",
+      "reasoning": "Rip slept for twenty years in the mountains and woke up to find his village and family completely changed."
+    },
+    "kn": {
+      "question": "ವಿಚಿತ್ರ ಪಾನೀಯವನ್ನು ಕುಡಿದ ನಂತರ ರಿಪ್ ವ್ಯಾನ್ ವಿಂಕಲ್ ಎಷ್ಟು ವರ್ಷಗಳ ಕಾಲ ಮಲಗಿದ್ದನು?",
+      "options": [
+        "ಇಪ್ಪತ್ತು ವರ್ಷಗಳು",
+        "ಹತ್ತು ವರ್ಷಗಳು",
+        "ಐವತ್ತು ವರ್ಷಗಳು",
+        "ಒಂದು ವರ್ಷ"
+      ],
+      "answer": "ಇಪ್ಪತ್ತು ವರ್ಷಗಳು",
+      "reasoning": "ರಿಪ್ ಪರ್ವತದಲ್ಲಿ ಇಪ್ಪತ್ತು ವರ್ಷಗಳ ಕಾಲ ಮಲಗಿದ್ದನು. ಅವನು ಎದ್ದಾಗ ಅವನ ಹಳ್ಳಿ ಮತ್ತು ಪ್ರಪಂಚ ಬದಲಾಗಿತ್ತು."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_007",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Why did the children of the village shout with joy whenever they saw Rip Van Winkle?",
+      "options": [
+        "He played games like marbles with them.",
+        "He taught them to fly paper kites.",
+        "He told them long, interesting stories.",
+        "He gave them pocket money every day."
+      ],
+      "answer": [
+        "He played games like marbles with them.",
+        "He taught them to fly paper kites.",
+        "He told them long, interesting stories."
+      ],
+      "reasoning": "Rip was a favorite of the children because he played marbles, flew kites, and told them stories, but he did not give them pocket money."
+    },
+    "kn": {
+      "question": "ಹಳ್ಳಿಯ ಮಕ್ಕಳು ರಿಪ್ ವ್ಯಾನ್ ವಿಂಕಲ್‌ನನ್ನು ಕಂಡ ತಕ್ಷಣ ಏಕೆ ಸಂತೋಷದಿಂದ ಕೂಗುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಅವನು ಅವರೊಂದಿಗೆ ಗೋಲಿಗಳ ಆಟವಾಡುತ್ತಿದ್ದನು.",
+        "ಅವನು ಅವರಿಗೆ ಕಾಗದದ ಗಾಳಿಪಟ ಹಾರಿಸಲು ಕಲಿಸುತ್ತಿದ್ದನು.",
+        "ಅವನು ಅವರಿಗೆ ಆಸಕ್ತಿದಾಯಕ ಕಥೆಗಳನ್ನು ಹೇಳುತ್ತಿದ್ದನು.",
+        "ಅವನು ಅವರಿಗೆ ಪ್ರತಿದಿನ ಜೇಬಿಗೆ ಹಣ ನೀಡುತ್ತಿದ್ದನು."
+      ],
+      "answer": [
+        "ಅವನು ಅವರೊಂದಿಗೆ ಗೋಲಿಗಳ ಆಟವಾಡುತ್ತಿದ್ದನು.",
+        "ಅವನು ಅವರಿಗೆ ಕಾಗದದ ಗಾಳಿಪಟ ಹಾರಿಸಲು ಕಲಿಸುತ್ತಿದ್ದನು.",
+        "ಅವನು ಅವರಿಗೆ ಆಸಕ್ತಿದಾಯಕ ಕಥೆಗಳನ್ನು ಹೇಳುತ್ತಿದ್ದನು."
+      ],
+      "reasoning": "ಮಕ್ಕಳಿಗೆ ರಿಪ್ ಇಷ್ಟವಾಗಲು ಅವನು ಗೋಲಿ ಆಡಿಸುವುದು, ಗಾಳಿಪಟ ಹಾರಿಸುವುದು ಮತ್ತು ಕಥೆಗಳನ್ನು ಹೇಳುತ್ತಿದ್ದುದು ಕಾರಣವಾಗಿತ್ತು, ಆದರೆ ಅವನು ಹಣ ನೀಡುತ್ತಿರಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_008",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the characters from Unit 5 to their respective descriptions:",
+      "pairs": [
+        {
+          "left": "Fred",
+          "right": "A very lazy frog who lolls on a log"
+        },
+        {
+          "left": "Rip Van Winkle",
+          "right": "A kind but lazy man who slept 20 years"
+        },
+        {
+          "left": "Wolf",
+          "right": "Rip's dog companion who went to the mountains"
+        },
+        {
+          "left": "Judith",
+          "right": "Rip's daughter who welcomed him home"
+        }
+      ],
+      "reasoning": "Fred is the lazy frog, Rip slept 20 years, Wolf is the dog, and Judith is Rip's daughter."
+    },
+    "kn": {
+      "question": "ಘಟಕ 5 ರ ಪಾತ್ರಗಳನ್ನು ಅವುಗಳ ವಿವರಣೆಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಫ್ರೆಡ್",
+          "right": "ದಿಮ್ಮಿಯ ಮೇಲೆ ಬಿದ್ದಿರುವ ಸೋಮಾರಿ ಕಪ್ಪೆ"
+        },
+        {
+          "left": "ರಿಪ್ ವ್ಯಾನ್ ವಿಂಕಲ್",
+          "right": "೨೦ ವರ್ಷ ಮಲಗಿದ ದಯಾಳು ಸೋಮಾರಿ ಮನುಷ್ಯ"
+        },
+        {
+          "left": "ವುಲ್ಫ್ (ನಾಯಿ)",
+          "right": "ರಿಪ್‌ನೊಂದಿಗೆ ಬೆಟ್ಟಕ್ಕೆ ಹೋದ ನಾಯಿ ಜೊತೆಗಾರ"
+        },
+        {
+          "left": "ಜುಡಿತ್ (Judith)",
+          "right": "ಮನೆಗೆ ಸ್ವಾಗತಿಸಿದ ರಿಪ್‌ನ ಮಗಳು"
+        }
+      ],
+      "reasoning": "ಫ್ರೆಡ್ ಸೋಮಾರಿ ಕಪ್ಪೆ, ರಿಪ್ ೨೦ ವರ್ಷ ಮಲಗಿದ ನಾಯಕ, ವುಲ್ಫ್ ಅವನ ಜೊತೆಗಿದ್ದ ನಾಯಿ, ಮತ್ತು ಜುಡಿತ್ ಕೊನೆಯಲ್ಲಿ ಸಿಕ್ಕ ಮಗಳು."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "How does the lazy frog Fred behave when his mother calls him to do some work?",
+      "options": [
+        "He pretends to be deaf and sleeps in a heap",
+        "He immediately jumps to help her",
+        "He runs away to play with other frogs",
+        "He starts singing a loud song"
+      ],
+      "answer": "He pretends to be deaf and sleeps in a heap",
+      "reasoning": "The poem states: 'If his poor old mother calls him in, \"Come and help!\" he does not bother To move two inches... he prefers to be extremely hard-of-hearing.'"
+    },
+    "kn": {
+      "question": "ಕೆಲಸ ಮಾಡಲು ತಾಯಿ ಕೂಗಿದಾಗ ಸೋಮಾರಿ ಕಪ್ಪೆ ಫ್ರೆಡ್ ಹೇಗೆ ವರ್ತಿಸುತ್ತಾನೆ?",
+      "options": [
+        "ಅವನು ಕಿವುಡನಂತೆ ನಟಿಸಿ ಅಲ್ಲೇ ಮುದುಡಿಕೊಂಡು ಮಲಗುತ್ತಾನೆ",
+        "ಅವನು ತಕ್ಷಣವೇ ತಾಯಿಗೆ ಸಹಾಯ ಮಾಡಲು ಓಡುತ್ತಾನೆ",
+        "ಅವನು ಇತರ ಕಪ್ಪೆಗಳೊಂದಿಗೆ ಆಟವಾಡಲು ಓಡಿಹೋಗುತ್ತಾನೆ",
+        "ಅವನು ಜೋರಾಗಿ ಹಾಡು ಹಾಡಲು ಪ್ರಾರಂಭಿಸುತ್ತಾನೆ"
+      ],
+      "answer": "ಅವನು ಕಿವುಡನಂತೆ ನಟಿಸಿ ಅಲ್ಲೇ ಮುದುಡಿಕೊಂಡು ಮಲಗುತ್ತಾನೆ",
+      "reasoning": "ಕವಿತೆಯಲ್ಲಿ ತಾಯಿ ಕೆಲಸಕ್ಕೆ ಕರೆದಾಗ ಫ್ರೆಡ್ ಎರಡು ಇಂಚು ಕೂಡ ಕದಲುವುದಿಲ್ಲ ಮತ್ತು ಕಿವುಡನಂತೆ ನಟಿಸುತ್ತಾನೆ ಎಂದು ಬರೆಯಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is Fred's reaction when a lady frog passes by him?",
+      "options": [
+        "He does not even open one eye to look at her",
+        "He gets up, bows, and helps her on her way",
+        "He jumps into the water to escape her",
+        "He calls out to her for help"
+      ],
+      "answer": "He does not even open one eye to look at her",
+      "reasoning": "The poem describes that even when a lady frog passes by, Fred lies still and does not open even one eye."
+    },
+    "kn": {
+      "question": "ತನ್ನ ಪಕ್ಕದಲ್ಲಿ ಹೆಣ್ಣು ಕಪ್ಪೆ (lady frog) ಹಾದುಹೋದಾಗ ಫ್ರೆಡ್‌ನ ಪ್ರತಿಕ್ರಿಯೆ ಏನಾಗಿರುತ್ತದೆ?",
+      "options": [
+        "ಅವನು ಅವಳನ್ನು ನೋಡಲು ಒಂದು ಕಣ್ಣನ್ನೂ ತೆರೆಯುವುದಿಲ್ಲ",
+        "ಅವನು ಎದ್ದು ನಿಂತು ಗೌರವ ಸಲ್ಲಿಸಿ ಅವಳಿಗೆ ದಾರಿ ತೋರಿಸುತ್ತಾನೆ",
+        "ಅವಳಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ನೀರಿನಲ್ಲಿ ಜಿಗಿಯುತ್ತಾನೆ",
+        "ಅವಳನ್ನು ಸಹಾಯಕ್ಕಾಗಿ ಕೂಗಿ ಕರೆಯುತ್ತಾನೆ"
+      ],
+      "answer": "ಅವನು ಅವಳನ್ನು ನೋಡಲು ಒಂದು ಕಣ್ಣನ್ನೂ ತೆರೆಯುವುದಿಲ್ಲ",
+      "reasoning": "ಹೆಣ್ಣು ಕಪ್ಪೆ ಹಾದುಹೋದರೂ ಕೂಡ ಫ್ರೆಡ್ ಎದ್ದು ನಿಲ್ಲುವುದಿಲ್ಲ ಅಥವಾ ಒಂದು ಕಣ್ಣನ್ನೂ ಸಹ ತೆರೆದು ನೋಡುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What was Rip Van Winkle's biggest problem or flaw in life?",
+      "options": [
+        "He was lazy and did no work on his own farm",
+        "He was very greedy and stole gold",
+        "He was rude and fought with children",
+        "He had no friends and lived alone"
+      ],
+      "answer": "He was lazy and did no work on his own farm",
+      "reasoning": "Rip was kind to neighbors but very lazy when it came to his own work, leaving his farm to ruin."
+    },
+    "kn": {
+      "question": "ರಿಪ್ ವ್ಯಾನ್ ವಿಂಕಲ್‌ನ ಜೀವನದ ಅತಿ ದೊಡ್ಡ ದೋಷ ಅಥವಾ ಸಮಸ್ಯೆ ಏನಾಗಿತ್ತು?",
+      "options": [
+        "ಅವನು ಸೋಮಾರಿಯಾಗಿದ್ದನು ಮತ್ತು ತನ್ನ ಸ್ವಂತ ಜಮೀನಿನಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿರಲಿಲ್ಲ",
+        "ಅವನು ಅತಿಯಾದ ದುರಾಶೆ ಹೊಂದಿದ್ದು ಚಿನ್ನ ಕದಿಯುತ್ತಿದ್ದನು",
+        "ಅವನು ಅಸಭ್ಯನಾಗಿದ್ದನು ಮತ್ತು ಮಕ್ಕಳೊಂದಿಗೆ ಜಗಳವಾಡುತ್ತಿದ್ದನು",
+        "ಅವನಿಗೆ ಯಾವುದೇ ಸ್ನೇಹಿತರಿರಲಿಲ್ಲ ಮತ್ತು ಒಂಟಿಯಾಗಿ ಬದುಕುತ್ತಿದ್ದನು"
+      ],
+      "answer": "ಅವನು ಸೋಮಾರಿಯಾಗಿದ್ದನು ಮತ್ತು ತನ್ನ ಸ್ವಂತ ಜಮೀನಿನಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿರಲಿಲ್ಲ",
+      "reasoning": "ರಿಪ್ ಇತರರ ಕೆಲಸಕ್ಕೆ ಯಾವಾಗಲೂ ಸಿದ್ಧನಾಗಿರುತ್ತಿದ್ದ ಆದರೆ ತನ್ನ ಸ್ವಂತ ಜಮೀನನ್ನು ಸೋಮಾರಿತನದಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ಹಾಳು ಮಾಡಿಕೊಂಡಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What were the strange short men doing when Rip met them in the mountain hollow?",
+      "options": [
+        "Playing a game called ninepins",
+        "Farming and planting trees",
+        "Singing and dancing in a circle",
+        "Searching for lost treasure"
+      ],
+      "answer": "Playing a game called ninepins",
+      "reasoning": "The strange short men with serious faces were playing a game called ninepins (similar to bowling)."
+    },
+    "kn": {
+      "question": "ಪರ್ವತದ ಕಣಿವೆಯಲ್ಲಿ ರಿಪ್ ಭೇಟಿಯಾದ ವಿಚಿತ್ರ ಗಿಡ್ಡ ಮನುಷ್ಯರು ಏನು ಮಾಡುತ್ತಿದ್ದರು?",
+      "options": [
+        "ನೈನ್‌ಪಿನ್ಸ್ (ninepins) ಎಂಬ ಆಟವನ್ನು ಆಡುತ್ತಿದ್ದರು",
+        "ವ್ಯವಸಾಯ ಮತ್ತು ಮರಗಳನ್ನು ನೆಡುತ್ತಿದ್ದರು",
+        "ಸುತ್ತಲೂ ನಿಂತು ಹಾಡುತ್ತಾ ನೃತ್ಯ ಮಾಡುತ್ತಿದ್ದರು",
+        "ಕಳೆದುಹೋದ ಖಜಾನೆಯನ್ನು ಹುಡುಕುತ್ತಿದ್ದರು"
+      ],
+      "answer": "ನೈನ್‌ಪಿನ್ಸ್ (ninepins) ಎಂಬ ಆಟವನ್ನು ಆಡುತ್ತಿದ್ದರು",
+      "reasoning": "ಕಥೆಯಲ್ಲಿ ಗಂಭೀರ ಮುಖಭಾವದ ಆ ಗಿಡ್ಡ ಮನುಷ್ಯರು ನೈನ್‌ಪಿನ್ಸ್ ಎಂಬ ಆಟವನ್ನು ಆಡುತ್ತಿದ್ದರು ಎಂದು ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why did Rip drink the liquid from the barrel carried by the short men?",
+      "options": [
+        "Because he was very thirsty and drank it secretly/greedily",
+        "Because the short men forced him to drink it",
+        "Because he thought it was medicine for his leg",
+        "Because his dog Wolf started drinking it"
+      ],
+      "answer": "Because he was very thirsty and drank it secretly/greedily",
+      "reasoning": "Rip was trembling with fear initially, but being thirsty, he drank several cups of the liquid when he was unsupervised."
+    },
+    "kn": {
+      "question": "ಗಿಡ್ಡ ಮನುಷ್ಯರು ತಂದಿದ್ದ ಬ್ಯಾರೆಲ್‌ನಲ್ಲಿದ್ದ ದ್ರವವನ್ನು ರಿಪ್ ಏಕೆ ಕುಡಿದನು?",
+      "options": [
+        "ಏಕೆಂದರೆ ಅವನಿಗೆ ತುಂಬಾ ಬಾಯಾರಿಕೆಯಾಗಿತ್ತು ಮತ್ತು ಅವನು ರಹಸ್ಯವಾಗಿ ಕುಡಿದನು",
+        "ಏಕೆಂದರೆ ಗಿಡ್ಡ ಮನುಷ್ಯರು ಅವನಿಗೆ ಬಲವಂತವಾಗಿ ಕುಡಿಸಿದರು",
+        "ಏಕೆಂದರೆ ಅದು ತನ್ನ ಕಾಲಿನ ನೋವಿಗೆ ಔಷಧ ಎಂದು ಅವನು ಭಾವಿಸಿದನು",
+        "ಏಕೆಂದರೆ ಅವನ ನಾಯಿ ವುಲ್ಫ್ ಅದನ್ನು ಕುಡಿಯಲು ಪ್ರಾರಂಭಿಸಿತು"
+      ],
+      "answer": "ಏಕೆಂದರೆ ಅವನಿಗೆ ತುಂಬಾ ಬಾಯಾರಿಕೆಯಾಗಿತ್ತು ಮತ್ತು ಅವನು ರಹಸ್ಯವಾಗಿ ಕುಡಿದನು",
+      "reasoning": "ರಿಪ್‌ಗೆ ಕಾಡಿನಲ್ಲಿ ಬಹಳ ಬಾಯಾರಿಕೆಯಾಗಿದ್ದರಿಂದ, ಇತರರು ನೋಡದಾಗ ಆ ಬ್ಯಾರೆಲ್‌ನಲ್ಲಿದ್ದ ಪಾನೀಯವನ್ನು ಹಲವಾರು ಕಪ್ ಕುಡಿದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What physical change did Rip notice about himself as soon as he woke up?",
+      "options": [
+        "His beard had grown a foot long and was grey",
+        "He had lost his teeth and could not speak",
+        "His hair had turned golden and long",
+        "He had grown taller and stronger than before"
+      ],
+      "answer": "His beard had grown a foot long and was grey",
+      "reasoning": "When Rip stroked his chin upon waking, he found that his beard was a foot long and had turned grey."
+    },
+    "kn": {
+      "question": "ಮಲಗಿ ಎದ್ದ ತಕ್ಷಣ ರಿಪ್ ತನ್ನ ದೇಹದಲ್ಲಿ ಯಾವ ಭೌತಿಕ ಬದಲಾವಣೆಯನ್ನು ಗಮನಿಸಿದನು?",
+      "options": [
+        "ಅವನ ಗಡ್ಡವು ಒಂದು ಅಡಿ ಉದ್ದ ಬೆಳೆದು ಬಿಳಿಯಾಗಿತ್ತು",
+        "ಅವನ ಹಲ್ಲುಗಳು ಬಿದ್ದುಹೋಗಿ ಮಾತನಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತಿರಲಿಲ್ಲ",
+        "ಅವನ ತಲೆಕೂದಲು ಚಿನ್ನದ ಬಣ್ಣದ್ದಾಗಿ ಉದ್ದವಾಗಿತ್ತು",
+        "ಅವನು ಮೊದಲಿಗಿಂತ ಎತ್ತರವಾಗಿ ಮತ್ತು ಬಲಶಾಲಿಯಾಗಿದ್ದನು"
+      ],
+      "answer": "ಅವನ ಗಡ್ಡವು ಒಂದು ಅಡಿ ಉದ್ದ ಬೆಳೆದು ಬಿಳಿಯಾಗಿತ್ತು",
+      "reasoning": "ಎದ್ದ ಮೇಲೆ ರಿಪ್ ತನ್ನ ಗಲ್ಲವನ್ನು ಮುಟ್ಟಿಕೊಂಡಾಗ, ಗಡ್ಡವು ಒಂದು ಅಡಿ ಬೆಳೆದು ಬಿಳಿಯಾಗಿರುವುದು ಕಂಡು ಆಶ್ಚರ್ಯಚಕಿತನಾದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_015",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these lines show Fred's laziness in the poem 'The Lazy Frog'?",
+      "options": [
+        "He lolls all day upon a log.",
+        "He does not do a single stroke of work.",
+        "He runs very fast to catch flies.",
+        "He pretends to be hard of hearing when called."
+      ],
+      "answer": [
+        "He lolls all day upon a log.",
+        "He does not do a single stroke of work.",
+        "He pretends to be hard of hearing when called."
+      ],
+      "reasoning": "Fred lolls on a log, does no work, and pretends to be deaf to avoid work. He does not run fast to catch flies."
+    },
+    "kn": {
+      "question": "'ದಿ ಲೇಜಿ ಫ್ರಾಗ್' ಕವಿತೆಯಲ್ಲಿ ಫ್ರೆಡ್‌ನ ಸೋಮಾರಿತನವನ್ನು ತೋರಿಸುವ ಸಾಲುಗಳು ಯಾವುವು?",
+      "options": [
+        "ಅವನು ದಿನವಿಡೀ ಮರದ ದಿಮ್ಮಿಯ ಮೇಲೆ ಬಿದ್ದಿರುತ್ತಾನೆ.",
+        "ಅವನು ಒಂದು ಸಣ್ಣ ಕೆಲಸವನ್ನೂ ಮಾಡುವುದಿಲ್ಲ.",
+        "ಅವನು ನೊಣಗಳನ್ನು ಹಿಡಿಯಲು ಬಹಳ ವೇಗವಾಗಿ ಓಡುತ್ತಾನೆ.",
+        "ಕರೆದಾಗ ತನಗೆ ಕೇಳಿಸುವುದಿಲ್ಲ ಎಂದು ನಟಿಸುತ್ತಾನೆ."
+      ],
+      "answer": [
+        "ಅವನು ದಿನವಿಡೀ ಮರದ ದಿಮ್ಮಿಯ ಮೇಲೆ ಬಿದ್ದಿರುತ್ತಾನೆ.",
+        "ಅವನು ಒಂದು ಸಣ್ಣ ಕೆಲಸವನ್ನೂ ಮಾಡುವುದಿಲ್ಲ.",
+        "ಕರೆದಾಗ ತನಗೆ ಕೇಳಿಸುವುದಿಲ್ಲ ಎಂದು ನಟಿಸುತ್ತಾನೆ."
+      ],
+      "reasoning": "ಕವನದ ಪ್ರಕಾರ ಅವನು ದಿಮ್ಮಿಯ ಮೇಲೆ ಮಲಗಿರುತ್ತಾನೆ, ಕೆಲಸ ಮಾಡುವುದಿಲ್ಲ ಮತ್ತು ಕರೆದಾಗ ಕಿವುಡನಂತೆ ಇರುತ್ತಾನೆ. ಅವನು ಬೇಟೆಯಾಡಲು ವೇಗವಾಗಿ ಓಡುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_016",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "What did Rip find when he reached his village after waking up from his long sleep?",
+      "options": [
+        "His house was empty, and the roof had fallen down.",
+        "He saw many new faces that he had never seen before.",
+        "His dog Wolf was waiting for him at his house door.",
+        "The old village inn was replaced by a building with a new flag."
+      ],
+      "answer": [
+        "His house was empty, and the roof had fallen down.",
+        "He saw many new faces that he had never seen before.",
+        "The old village inn was replaced by a building with a new flag."
+      ],
+      "reasoning": "His house was ruined, people were strangers, and the inn was replaced by the Union Hotel. Wolf was gone and did not return to him."
+    },
+    "kn": {
+      "question": "ದೀರ್ಘ ನಿದ್ರೆಯಿಂದ ಎದ್ದು ತನ್ನ ಹಳ್ಳಿಗೆ ಬಂದಾಗ ರಿಪ್‌ಗೆ ಕಂಡುಬಂದ ಸಂಗತಿಗಳು ಯಾವುವು?",
+      "options": [
+        "ಅವನ ಮನೆ ಖಾಲಿಯಾಗಿತ್ತು ಮತ್ತು ಮೇಲ್ಛಾವಣಿ ಬಿದ್ದುಹೋಗಿತ್ತು.",
+        "ಅವನು ಎಂದೂ ನೋಡಿರದ ಅನೇಕ ಹೊಸ ಮುಖಗಳನ್ನು ನೋಡಿದನು.",
+        "ಅವನ ನಾಯಿ ವುಲ್ಫ್ ಮನೆಯ ಬಾಗಿಲಿನಲ್ಲಿ ಅವನಿಗಾಗಿ ಕಾಯುತ್ತಿತ್ತು.",
+        "ಹಳೆಯ ಹಳ್ಳಿಯ ಹೋಟೆಲ್ ಜಾಗದಲ್ಲಿ ಹೊಸ ಧ್ವಜವಿರುವ ಕಟ್ಟಡ ಬಂದಿತ್ತು."
+      ],
+      "answer": [
+        "ಅವನ ಮನೆ ಖಾಲಿಯಾಗಿತ್ತು ಮತ್ತು ಮೇಲ್ಛಾವಣಿ ಬಿದ್ದುಹೋಗಿತ್ತು.",
+        "ಅವನು ಎಂದೂ ನೋಡಿರದ ಅನೇಕ ಹೊಸ ಮುಖಗಳನ್ನು ನೋಡಿದನು.",
+        "ಹಳೆಯ ಹಳ್ಳಿಯ ಹೋಟೆಲ್ ಜಾಗದಲ್ಲಿ ಹೊಸ ಧ್ವಜವಿರುವ ಕಟ್ಟಡ ಬಂದಿತ್ತು."
+      ],
+      "reasoning": "ಅವನ ಮನೆ ಹಾಳಾಗಿತ್ತು, ಜನರೆಲ್ಲಾ ಹೊಸಬರಾಗಿದ್ದರು ಮತ್ತು ಹಳೆಯ ಹೋಟೆಲ್ ಜಾಗದಲ್ಲಿ 'ಯೂನಿಯನ್ ಹೋಟೆಲ್' ಬಂದಿತ್ತು. ಅವನ ನಾಯಿ ಅಲ್ಲಿರಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_017",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the words from Unit 5 to their correct meanings:",
+      "pairs": [
+        {
+          "left": "Lolls",
+          "right": "Lies around lazily"
+        },
+        {
+          "left": "Astray",
+          "right": "Away from the correct path"
+        },
+        {
+          "left": "Grizzled",
+          "right": "Grey or partly grey hair"
+        },
+        {
+          "left": "Hollow",
+          "right": "An empty space or basin"
+        }
+      ],
+      "reasoning": "Lolls is lazy lying, astray is off path, grizzled is grey, and hollow is empty basin."
+    },
+    "kn": {
+      "question": "ಘಟಕ 5 ರ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಅರ್ಥಕ್ಕೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Lolls",
+          "right": "ಸೋಮಾರಿಯಾಗಿ ಅತ್ತಿತ್ತ ಬಿದ್ದಿರುವುದು"
+        },
+        {
+          "left": "Astray",
+          "right": "ಸರಿಯಾದ ದಾರಿಯಿಂದ ತಪ್ಪಿ ಹೋಗುವುದು"
+        },
+        {
+          "left": "Grizzled",
+          "right": "ಬಿಳಿಕೂದಲು ಅಥವಾ ನರೆತ ಕೂದಲಿನ"
+        },
+        {
+          "left": "Hollow",
+          "right": "ಗುಳಿ ಅಥವಾ ಮರದೊಳಗಿನ ಖಾಲಿ ಜಾಗ"
+        }
+      ],
+      "reasoning": "Lolls ಅಂದರೆ ಸೋಮಾರಿಯಾಗಿ ಬೀಳುವುದು, Astray ಅಂದರೆ ದಾರಿ ತಪ್ಪುವುದು, Grizzled ಅಂದರೆ ನರೆತ ಗಡ್ಡ/ಕೂದಲು, Hollow ಅಂದರೆ ಕಣಿವೆ ಅಥವಾ ಗುಳಿ."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_018",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why is the lazy frog Fred's behavior considered extremely impolite to lady frogs?",
+      "options": [
+        "Because it is expected of gentlemen frogs to stand and bow when a lady passes, but Fred doesn't even open one eye",
+        "Because Fred throws water at the lady frogs when they pass by",
+        "Because Fred speaks rudely to the lady frogs when they ask for help",
+        "Because Fred jumps away to avoid talking to them"
+      ],
+      "answer": "Because it is expected of gentlemen frogs to stand and bow when a lady passes, but Fred doesn't even open one eye",
+      "reasoning": "The poem states: 'If a lady frog hops past, You'd think he would get up at last, To bow, and help her on her way. But no... he doesn't open one eye!'"
+    },
+    "kn": {
+      "question": "ಹೆಣ್ಣು ಕಪ್ಪೆಗಳು ಹಾದುಹೋದಾಗ ಫ್ರೆಡ್‌ನ ವರ್ತನೆಯನ್ನು ಏಕೆ ಅಸಭ್ಯವೆಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಏಕೆಂದರೆ ಹೆಣ್ಣು ಕಪ್ಪೆ ಬಂದಾಗ ಎದ್ದು ನಿಂತು ಗೌರವಿಸುವುದು ಶಿಷ್ಟಾಚಾರ, ಆದರೆ ಫ್ರೆಡ್ ಕಣ್ಣನ್ನೂ ತೆರೆಯುವುದಿಲ್ಲ",
+        "ಏಕೆಂದರೆ ಫ್ರೆಡ್ ಹಾದುಹೋಗುವ ಹೆಣ್ಣು ಕಪ್ಪೆಗಳ ಮೇಲೆ ನೀರು ಎರಚುತ್ತಾನೆ",
+        "ಏಕೆಂದರೆ ಹೆಣ್ಣು ಕಪ್ಪೆಗಳು ಸಹಾಯ ಕೇಳಿದಾಗ ಫ್ರೆಡ್ ಅಸಭ್ಯವಾಗಿ ಮಾತನಾಡುತ್ತಾನೆ",
+        "ಏಕೆಂದರೆ ಫ್ರೆಡ್ ಅವುಗಳೊಂದಿಗೆ ಮಾತನಾಡುವುದನ್ನು ತಪ್ಪಿಸಲು ದೂರ ಜಿಗಿಯುತ್ತಾನೆ"
+      ],
+      "answer": "ಏಕೆಂದರೆ ಹೆಣ್ಣು ಕಪ್ಪೆ ಬಂದಾಗ ಎದ್ದು ನಿಂತು ಗೌರವಿಸುವುದು ಶಿಷ್ಟಾಚಾರ, ಆದರೆ ಫ್ರೆಡ್ ಕಣ್ಣನ್ನೂ ತೆರೆಯುವುದಿಲ್ಲ",
+      "reasoning": "ಸಾಮಾನ್ಯವಾಗಿ ಹೆಣ್ಣು ಕಪ್ಪೆ ಬಂದಾಗ ಎದ್ದು ಗೌರವಿಸುವುದು ಕಪ್ಪೆಗಳ ಲೋಕದ ನಡವಳಿಕೆ, ಆದರೆ ಫ್ರೆಡ್ ಅತಿಯಾದ ಸೋಮಾರಿತನದಿಂದ ಕಣ್ಣು ಕೂಡ ಬಿಡುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_019",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why did Rip Van Winkle help the strange short man carry the heavy barrel even though they did not know each other?",
+      "options": [
+        "Because he was always ready to help others, even strangers, in need",
+        "Because the short man threatened him with a weapon",
+        "Because he wanted to drink the contents of the barrel from the start",
+        "Because his dog Wolf barked and forced him to help"
+      ],
+      "answer": "Because he was always ready to help others, even strangers, in need",
+      "reasoning": "Rip was a kind and good-natured man who always helped his neighbors and couldn't refuse a person in distress."
+    },
+    "kn": {
+      "question": "ರಿಪ್ ವ್ಯಾನ್ ವಿಂಕಲ್ ತನಗೆ ಪರಿಚಯವಿಲ್ಲದಿದ್ದರೂ ಆ ಗಿಡ್ಡ ಮನುಷ್ಯನಿಗೆ ಬ್ಯಾರೆಲ್ ಹೊರಲು ಏಕೆ ಸಹಾಯ ಮಾಡಿದನು?",
+      "options": [
+        "ಏಕೆಂದರೆ ಅವನು ಯಾವಾಗಲೂ ಇತರರಿಗೆ, ಅಪರಿಚಿತರಿಗಾದರೂ ಸಹಾಯ ಮಾಡಲು ಸಿದ್ಧನಾಗುತ್ತಿದ್ದನು",
+        "ಏಕೆಂದರೆ ಆ ಗಿಡ್ಡ ಮನುಷ್ಯನು ಅವನಿಗೆ ಆಯುಧದಿಂದ ಬೆದರಿಸಿದನು",
+        "ಏಕೆಂದರೆ ಅವನು ಮೊದಲಿನಿಂದಲೂ ಆ ಬ್ಯಾರೆಲ್‌ನಲ್ಲಿದ್ದ ದ್ರವವನ್ನು ಕುಡಿಯಲು ಬಯಸಿದ್ದನು",
+        "ಏಕೆಂದರೆ ಅವನ ನಾಯಿ ವುಲ್ಫ್ ಬೊಗಳಿ ಅವನನ್ನು ಸಹಾಯ ಮಾಡಲು ಒತ್ತಾಯಿಸಿತು"
+      ],
+      "answer": "ಏಕೆಂದರೆ ಅವನು ಯಾವಾಗಲೂ ಇತರರಿಗೆ, ಅಪರಿಚಿತರಿಗಾದರೂ ಸಹಾಯ ಮಾಡಲು ಸಿದ್ಧನಾಗುತ್ತಿದ್ದನು",
+      "reasoning": "ರಿಪ್ ಸ್ವಭಾವತಃ ಅತ್ಯಂತ ದಯಾಳುವಾಗಿದ್ದರಿಂದ ಕಷ್ಟದಲ್ಲಿದ್ದ ಅಪರಿಚಿತ ಗಿಡ್ಡ ಮನುಷ್ಯನಿಗೆ ಸಹಾಯ ಮಾಡಲು ಒಪ್ಪಿದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_020",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why did Rip Van Winkle's own farm go to ruin, with fences falling and weeds growing?",
+      "options": [
+        "Because he spent all his time doing others' work and was lazy on his own farm",
+        "Because there was a severe drought on his farm for twenty years",
+        "Because wild animals came and destroyed his crops every night",
+        "Because his wife Dame Van Winkle refused to let him work on the farm"
+      ],
+      "answer": "Because he spent all his time doing others' work and was lazy on his own farm",
+      "reasoning": "Rip's major flaw was his laziness regarding his own work. He neglected his farm but gladly ran errands and did chores for others."
+    },
+    "kn": {
+      "question": "ರಿಪ್ ವ್ಯಾನ್ ವಿಂಕಲ್‌ನ ಸ್ವಂತ ಜಮೀನು ಕಳೆಗಳಿಂದ ತುಂಬಿ ಏಕೆ ಹಾಳಾಯಿತು?",
+      "options": [
+        "ಏಕೆಂದರೆ ಅವನು ತನ್ನ ಸ್ವಂತ ಜಮೀನಿನ ಕೆಲಸವನ್ನು ಬದಿಗಿಟ್ಟು ಬೇರೆಯವರ ಕೆಲಸ ಮಾಡಲು ಓಡುತ್ತಿದ್ದನು",
+        "ಏಕೆಂದರೆ ಇಪ್ಪತ್ತು ವರ್ಷಗಳ ಕಾಲ ಅವನ ಜಮೀನಿನಲ್ಲಿ ತೀವ್ರ ಬರಗಾಲವಿತ್ತು",
+        "ಏಕೆಂದರೆ ಕಾಡು ಪ್ರಾಣಿಗಳು ಬಂದು ಪ್ರತಿ ರಾತ್ರಿ ಅವನ ಬೆಳೆಗಳನ್ನು ನಾಶಪಡಿಸುತ್ತಿದ್ದವು",
+        "ಏಕೆಂದರೆ ಅವನ ಹೆಂಡತಿ ಡೇಮ್ ವ್ಯಾನ್ ವಿಂಕಲ್ ಅವನಿಗೆ ಜಮೀನಿನಲ್ಲಿ ಕೆಲಸ ಮಾಡಲು ಬಿಡುತ್ತಿರಲಿಲ್ಲ"
+      ],
+      "answer": "ಏಕೆಂದರೆ ಅವನು ತನ್ನ ಸ್ವಂತ ಜಮೀನಿನ ಕೆಲಸವನ್ನು ಬದಿಗಿಟ್ಟು ಬೇರೆಯವರ ಕೆಲಸ ಮಾಡಲು ಓಡುತ್ತಿದ್ದನು",
+      "reasoning": "ರಿಪ್ ತನ್ನ ಜಮೀನಿನ ಕೆಲಸ ಮಾಡಲು ಸೋಮಾರಿಯಾಗಿದ್ದ ಮತ್ತು ಇಡೀ ಹಳ್ಳಿಯ ಜನರ ಕೆಲಸಕ್ಕೆ ಸಹಾಯ ಮಾಡುತ್ತಾ ತನ್ನ ಸ್ವಂತ ಹೊಲವನ್ನು ಕಡೆಗಣಿಸಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_021",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Who finally recognized Rip Van Winkle when he returned to the village as an old man?",
+      "options": [
+        "An old woman who had been his neighbor twenty years ago",
+        "His dog Wolf, who came running to him barking",
+        "His daughter Judith, who remembered his face perfectly",
+        "The new schoolmaster of the village inn"
+      ],
+      "answer": "An old woman who had been his neighbor twenty years ago",
+      "reasoning": "An old woman looked at his face closely, recognized him as her old neighbor Rip, and welcomed him back."
+    },
+    "kn": {
+      "question": "ವೃದ್ಧನಾಗಿ ಮರಳಿದ ರಿಪ್ ವ್ಯಾನ್ ವಿಂಕಲ್‌ನನ್ನು ಕೊನೆಗೆ ಯಾರು ಗುರುತಿಸಿದರು?",
+      "options": [
+        "ಇಪ್ಪತ್ತು ವರ್ಷಗಳ ಹಿಂದೆ ಅವನ ನೆರೆಹೊರೆಯವಳಾಗಿದ್ದ ಒಬ್ಬ ವೃದ್ಧ ಮಹಿಳೆ",
+        "ಅವನ ನಾಯಿ ವುಲ್ಫ್, ಬೊಗಳುತ್ತಾ ಅವನ ಬಳಿಗೆ ಓಡಿಬಂದಿತು",
+        "ಅವನ ಮಗಳು ಜುಡಿತ್, ಅವಳಿಗೆ ಅವನ ಮುಖ ನೆನಪಿತ್ತು",
+        "ಹಳ್ಳಿಯ ಶಾಲೆಯ ಹೊಸ ಮುಖ್ಯೋಪಾಧ್ಯಾಯರು"
+      ],
+      "answer": "ಇಪ್ಪತ್ತು ವರ್ಷಗಳ ಹಿಂದೆ ಅವನ ನೆರೆಹೊರೆಯವಳಾಗಿದ್ದ ಒಬ್ಬ ವೃದ್ಧ ಮಹಿಳೆ",
+      "reasoning": "ಒಬ್ಬ ವೃದ್ಧ ಮಹಿಳೆ ಅವನನ್ನು ಹತ್ತಿರದಿಂದ ನೋಡಿ 'ಇವನು ನಮ್ಮ ಹಳೆಯ ನೆರೆಯವನಾದ ರಿಪ್ ವ್ಯಾನ್ ವಿಂಕಲ್!' ಎಂದು ಗುರುತಿಸಿ ಸ್ವಾಗತಿಸಿದಳು."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_022",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the indirect moral message behind the poem 'The Lazy Frog'?",
+      "options": [
+        "Laziness makes a person selfish and useless to their family and society",
+        "Frogs should learn to swim instead of sleeping on logs",
+        "We should never invite lady frogs to our house",
+        "Mothers should not ask their children for help in the afternoon"
+      ],
+      "answer": "Laziness makes a person selfish and useless to their family and society",
+      "reasoning": "Fred's laziness represents how neglecting duties makes one unresponsive to parents and impolite to guests, showing the negative impact of being lazy."
+    },
+    "kn": {
+      "question": "'ದಿ ಲೇಜಿ ಫ್ರಾಗ್' ಕವಿತೆಯ ಹಿಂದೆ ಇರುವ ಪರೋಕ್ಷ ಸಂದೇಶವೇನು?",
+      "options": [
+        "ಸೋಮಾರಿತನವು ಮನುಷ್ಯನನ್ನು ಸ್ವಾರ್ಥಿಯನ್ನಾಗಿ ಮತ್ತು ಕುಟುಂಬ ಹಾಗೂ ಸಮಾಜಕ್ಕೆ ನಿರುಪಯುಕ್ತನನ್ನಾಗಿ ಮಾಡುತ್ತದೆ",
+        "ಕಪ್ಪೆಗಳು ಮರದ ದಿಮ್ಮಿಗಳ ಮೇಲೆ ಮಲಗುವ ಬದಲು ಈಜುವುದನ್ನು ಕಲಿಯಬೇಕು",
+        "ನಾವು ಎಂದಿಗೂ ಹೆಣ್ಣು ಕಪ್ಪೆಗಳನ್ನು ನಮ್ಮ ಮನೆಗೆ ಆಹ್ವಾನಿಸಬಾರದು",
+        "ತಾಯಂದಿರು ಮಧ್ಯಾಹ್ನ ತಮ್ಮ ಮಕ್ಕಳ ಬಳಿ ಸಹಾಯ ಕೇಳಬಾರದು"
+      ],
+      "answer": "ಸೋಮಾರಿತನವು ಮನುಷ್ಯನನ್ನು ಸ್ವಾರ್ಥಿಯನ್ನಾಗಿ ಮತ್ತು ಕುಟುಂಬ ಹಾಗೂ ಸಮಾಜಕ್ಕೆ ನಿರುಪಯುಕ್ತನನ್ನಾಗಿ ಮಾಡುತ್ತದೆ",
+      "reasoning": "ಫ್ರೆಡ್‌ನ ಸೋಮಾರಿತನದಿಂದ ಅವನು ಹೆತ್ತ ತಾಯಿಯ ಮಾತಿಗೂ ಬೆಲೆ ಕೊಡುವುದಿಲ್ಲ ಮತ್ತು ಯಾರಿಗೂ ನೆರವಾಗುವುದಿಲ್ಲ, ಇದು ಸೋಮಾರಿತನದ ಕೆಟ್ಟ ಪರಿಣಾಮಗಳನ್ನು ತೋರಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_023",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Select all the correct statements regarding the changes Rip faced after sleeping for 20 years:",
+      "options": [
+        "His wife Dame Van Winkle had died and was no longer there to scold him.",
+        "His daughter Judith had grown up and had a house and a child of her own.",
+        "The United States was now a free country, and people talked about elections.",
+        "His dog Wolf was still alive and waiting at his house."
+      ],
+      "answer": [
+        "His wife Dame Van Winkle had died and was no longer there to scold him.",
+        "His daughter Judith had grown up and had a house and a child of her own.",
+        "The United States was now a free country, and people talked about elections."
+      ],
+      "reasoning": "His wife had passed away, Judith was married with a child, and the country had become independent (represented by King George's portrait replaced by George Washington). Wolf was no longer there."
+    },
+    "kn": {
+      "question": "೨೦ ವರ್ಷ ಮಲಗಿದ ನಂತರ ರಿಪ್ ಎದುರಿಸಿದ ಬದಲಾವಣೆಗಳ ಕುರಿತು ಸರಿಯಾದ ಹೇಳಿಕೆಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "ಅವನ ಹೆಂಡತಿ ಡೇಮ್ ವ್ಯಾನ್ ವಿಂಕಲ್ ತೀರಿಕೊಂಡಿದ್ದಳು ಮತ್ತು ಬೈಯಲು ಅಲ್ಲಿರಲಿಲ್ಲ.",
+        "ಅವನ ಮಗಳು ಜುಡಿತ್ ಬೆಳೆದು ಅವಳಿಗೆ ಸ್ವಂತ ಮನೆ ಮತ್ತು ಮಗು ಇತ್ತು.",
+        "ಅಮೆರಿಕ ದೇಶವು ಈಗ ಸ್ವತಂತ್ರವಾಗಿತ್ತು ಮತ್ತು ಜನರು ಚುನಾವಣೆಗಳ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತಿದ್ದರು.",
+        "ಅವನ ನಾಯಿ ವುಲ್ಫ್ ಇನ್ನೂ ಬದುಕಿದ್ದು ಅವನ ಮನೆಬಾಗಿಲಲ್ಲಿ ಕಾಯುತ್ತಿತ್ತು."
+      ],
+      "answer": [
+        "ಅವನ ಹೆಂಡತಿ ಡೇಮ್ ವ್ಯಾನ್ ವಿಂಕಲ್ ತೀರಿಕೊಂಡಿದ್ದಳು ಮತ್ತು ಬೈಯಲು ಅಲ್ಲಿರಲಿಲ್ಲ.",
+        "ಅವನ ಮಗಳು ಜುಡಿತ್ ಬೆಳೆದು ಅವಳಿಗೆ ಸ್ವಂತ ಮನೆ ಮತ್ತು ಮಗು ಇತ್ತು.",
+        "ಅಮೆರಿಕ ದೇಶವು ಈಗ ಸ್ವತಂತ್ರವಾಗಿತ್ತು ಮತ್ತು ಜನರು ಚುನಾವಣೆಗಳ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತಿದ್ದರು."
+      ],
+      "reasoning": "೨೦ ವರ್ಷಗಳಲ್ಲಿ ಅವನ ಹೆಂಡತಿ ಮೃತಪಟ್ಟಿದ್ದಳು, ಮಗಳು ಮದುವೆಯಾಗಿದ್ದಳು ಮತ್ತು ಅಮೆರಿಕ ಸ್ವತಂತ್ರವಾಗಿ ಜಾರ್ಜ್ ವಾಷಿಂಗ್ಟನ್ ಚಿತ್ರ ಬಂದಿತ್ತು. ನಾಯಿ ವುಲ್ಫ್ ಬದುಕಿರಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the words from Unit 5 with their synonyms or near meanings:",
+      "pairs": [
+        {
+          "left": "Astray",
+          "right": "Lost or off track"
+        },
+        {
+          "left": "Companion",
+          "right": "Partner or associate"
+        },
+        {
+          "left": "Grizzled",
+          "right": "Partially grey-haired"
+        },
+        {
+          "left": "Bother",
+          "right": "Trouble or take effort"
+        }
+      ],
+      "reasoning": "Astray is lost, companion is partner, grizzled is grey-haired, and bother is take effort."
+    },
+    "kn": {
+      "question": "ಘಟಕ 5 ರ ಪದಗಳನ್ನು ಅವುಗಳ ಸಮಾನಾರ್ಥಕ ಪದಗಳಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Astray (ದಾರಿತಪ್ಪಿದ)",
+          "right": "ಕಳೆದುಹೋದ ಅಥವಾ ಮಾರ್ಗ ತಪ್ಪಿದ"
+        },
+        {
+          "left": "Companion (ಸಹವರ್ತಿ)",
+          "right": "ಜೊತೆಗಾರ ಅಥವಾ ಸ್ನೇಹಿತ"
+        },
+        {
+          "left": "Grizzled (ನರೆತ)",
+          "right": "ಭಾಗಶಃ ನರೆತ ಕೂದಲಿನ"
+        },
+        {
+          "left": "Bother (ತಲೆಕೆಡಿಸಿಕೊಳ್ಳು)",
+          "right": "ಪ್ರಯತ್ನ ಮಾಡು ಅಥವಾ ಕಾಳಜಿ ವಹಿಸು"
+        }
+      ],
+      "reasoning": "Astray ಎಂದರೆ ದಾರಿತಪ್ಪಿದ, Companion ಎಂದರೆ ಜೊತೆಗಾರ, Grizzled ಎಂದರೆ ನರೆತ, ಮತ್ತು Bother ಎಂದರೆ ಶ್ರಮ ಪಡುವುದು."
+    }
+  },
+  {
+    "id": "c5_eng_unit5_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the describing adjectives from Unit 5 (Rip Van Winkle & The Lazy Frog) with their corresponding nouns:",
+      "pairs": [
+        {
+          "left": "Lazy",
+          "right": "Frog"
+        },
+        {
+          "left": "Constant",
+          "right": "Companion"
+        },
+        {
+          "left": "Rusty",
+          "right": "Gun"
+        },
+        {
+          "left": "Sunny",
+          "right": "Morning"
+        }
+      ],
+      "reasoning": "Lazy frog, constant companion, rusty gun, and sunny morning are correct adjective-noun collocations in the unit."
+    },
+    "kn": {
+      "question": "ಘಟಕ 5 ರ ವಿಶೇಷಣಗಳನ್ನು ಅವುಗಳ ಸೂಕ್ತ ನಾಮಪದಗಳಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Lazy (ಸೋಮಾರಿ)",
+          "right": "Frog (ಕಪ್ಪೆ)"
+        },
+        {
+          "left": "Constant (ಸ್ಥಿರ/ಸದಾ ಜೊತೆಯಿರುವ)",
+          "right": "Companion (ಜೊತೆಗಾರ)"
+        },
+        {
+          "left": "Rusty (ತುಕ್ಕು ಹಿಡಿದ)",
+          "right": "Gun (ಕೋವಿ)"
+        },
+        {
+          "left": "Sunny (ಬಿಸಿಲಿನಿಂದ ಕೂಡಿದ)",
+          "right": "Morning (ಮುಂಜಾನೆ)"
+        }
+      ],
+      "reasoning": "ಪಠ್ಯದ ಪ್ರಕಾರ: Lazy frog, Constant companion, Rusty gun, ಮತ್ತು Sunny morning ಎಂದು ಬಳಸಲಾಗಿದೆ."
+    }
+  }
+]

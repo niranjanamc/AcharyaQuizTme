@@ -459,22 +459,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the type of material with its example:",
-      "pairs": {
-        "Magnetic material": "Cobalt",
-        "Non-magnetic material": "Leather",
-        "Natural magnet": "Magnetite",
-        "Magnetic device": "Compass"
-      },
+      "pairs": [
+        {
+          "left": "Magnetic material",
+          "right": "Cobalt"
+        },
+        {
+          "left": "Non-magnetic material",
+          "right": "Leather"
+        },
+        {
+          "left": "Natural magnet",
+          "right": "Magnetite"
+        },
+        {
+          "left": "Magnetic device",
+          "right": "Compass"
+        }
+      ],
       "reasoning": "Cobalt is attracted to magnets, leather is not, magnetite occurs naturally, and a compass uses a magnetic needle."
     },
     "kn": {
       "question": "ವಸ್ತುವಿನ ಪ್ರಕಾರವನ್ನು ಅದರ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "ಕಾಂತೀಯ ವಸ್ತು (Magnetic material)": "ಕೋಬಾಲ್ಟ್",
-        "ಕಾಂತೀಯವಲ್ಲದ ವಸ್ತು (Non-magnetic material)": "ಚರ್ಮ (Leather)",
-        "ನೈಸರ್ಗಿಕ ಕಾಂತ (Natural magnet)": "ಮ್ಯಾಗ್ನೆಟೈಟ್",
-        "ಕಾಂತೀಯ ಸಾಧನ (Magnetic device)": "ದಿಕ್ಸೂಚಿ (Compass)"
-      },
+      "pairs": [
+        {
+          "left": "ಕಾಂತೀಯ ವಸ್ತು (Magnetic material)",
+          "right": "ಕೋಬಾಲ್ಟ್"
+        },
+        {
+          "left": "ಕಾಂತೀಯವಲ್ಲದ ವಸ್ತು (Non-magnetic material)",
+          "right": "ಚರ್ಮ (Leather)"
+        },
+        {
+          "left": "ನೈಸರ್ಗಿಕ ಕಾಂತ (Natural magnet)",
+          "right": "ಮ್ಯಾಗ್ನೆಟೈಟ್"
+        },
+        {
+          "left": "ಕಾಂತೀಯ ಸಾಧನ (Magnetic device)",
+          "right": "ದಿಕ್ಸೂಚಿ (Compass)"
+        }
+      ],
       "reasoning": "ಕೋಬಾಲ್ಟ್ ಕಾಂತಗಳಿಗೆ ಆಕರ್ಷಿತವಾಗುತ್ತದೆ, ಚರ್ಮ ಆಕರ್ಷಿತವಾಗುವುದಿಲ್ಲ, ಮ್ಯಾಗ್ನೆಟೈಟ್ ನೈಸರ್ಗಿಕವಾಗಿ ದೊರೆಯುತ್ತದೆ ಮತ್ತು ದಿಕ್ಸೂಚಿ ಕಾಂತೀಯ ಸೂಜಿಯನ್ನು ಬಳಸುತ್ತದೆ."
     }
   },
@@ -575,22 +599,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the magnet shape with its description:",
-      "pairs": {
-        "Bar magnet": "A straight rectangular piece",
-        "Horseshoe magnet": "U-shaped",
-        "Cylindrical magnet": "Shaped like a tube or cylinder",
-        "Ball-ended magnet": "Has spherical ends"
-      },
+      "pairs": [
+        {
+          "left": "Bar magnet",
+          "right": "A straight rectangular piece"
+        },
+        {
+          "left": "Horseshoe magnet",
+          "right": "U-shaped"
+        },
+        {
+          "left": "Cylindrical magnet",
+          "right": "Shaped like a tube or cylinder"
+        },
+        {
+          "left": "Ball-ended magnet",
+          "right": "Has spherical ends"
+        }
+      ],
       "reasoning": "Artificial magnets are made in different shapes for different purposes, such as bar, horseshoe, cylindrical, or ball-ended shapes."
     },
     "kn": {
       "question": "ಕಾಂತದ ಆಕಾರವನ್ನು ಅದರ ವಿವರಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "ದಂಡಕಾಂತ (Bar magnet)": "ನೇರವಾದ ಆಯತಾಕಾರದ ತುಂಡು",
-        "ಲಾಳದ ಆಕಾರದ ಕಾಂತ (Horseshoe magnet)": "U-ಆಕಾರದಲ್ಲಿದೆ",
-        "ಸಿಲಿಂಡರ್ ಆಕಾರದ ಕಾಂತ (Cylindrical magnet)": "ಕೊಳವೆ ಅಥವಾ ಸಿಲಿಂಡರ್ ಆಕಾರದಲ್ಲಿದೆ",
-        "ಗೋಳಾಕಾರದ ತುದಿಗಳಿರುವ ಕಾಂತ (Ball-ended magnet)": "ಗೋಳಾಕಾರದ ತುದಿಗಳನ್ನು ಹೊಂದಿದೆ"
-      },
+      "pairs": [
+        {
+          "left": "ದಂಡಕಾಂತ (Bar magnet)",
+          "right": "ನೇರವಾದ ಆಯತಾಕಾರದ ತುಂಡು"
+        },
+        {
+          "left": "ಲಾಳದ ಆಕಾರದ ಕಾಂತ (Horseshoe magnet)",
+          "right": "U-ಆಕಾರದಲ್ಲಿದೆ"
+        },
+        {
+          "left": "ಸಿಲಿಂಡರ್ ಆಕಾರದ ಕಾಂತ (Cylindrical magnet)",
+          "right": "ಕೊಳವೆ ಅಥವಾ ಸಿಲಿಂಡರ್ ಆಕಾರದಲ್ಲಿದೆ"
+        },
+        {
+          "left": "ಗೋಳಾಕಾರದ ತುದಿಗಳಿರುವ ಕಾಂತ (Ball-ended magnet)",
+          "right": "ಗೋಳಾಕಾರದ ತುದಿಗಳನ್ನು ಹೊಂದಿದೆ"
+        }
+      ],
       "reasoning": "ಕೃತಕ ಕಾಂತಗಳನ್ನು ವಿವಿಧ ಉದ್ದೇಶಗಳಿಗಾಗಿ ದಂಡ, ಲಾಳ, ಸಿಲಿಂಡರಾಕಾರದ ಅಥವಾ ಗೋಳಾಕಾರದ ತುದಿಗಳಂತಹ ವಿಭಿನ್ನ ಆಕಾರಗಳಲ್ಲಿ ತಯಾರಿಸಲಾಗುತ್ತದೆ."
     }
   },
@@ -691,22 +739,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the action with its corresponding magnetic interaction:",
-      "pairs": {
-        "North pole brought near North pole": "Repulsion",
-        "South pole brought near South pole": "Repulsion",
-        "North pole brought near South pole": "Attraction",
-        "South pole brought near North pole": "Attraction"
-      },
+      "pairs": [
+        {
+          "left": "North pole brought near North pole",
+          "right": "Repulsion"
+        },
+        {
+          "left": "South pole brought near South pole",
+          "right": "Repulsion"
+        },
+        {
+          "left": "North pole brought near South pole",
+          "right": "Attraction"
+        },
+        {
+          "left": "South pole brought near North pole",
+          "right": "Attraction"
+        }
+      ],
       "reasoning": "Like poles (N-N or S-S) repel each other, whereas unlike poles (N-S or S-N) attract each other."
     },
     "kn": {
       "question": "ಕ್ರಿಯೆಯನ್ನು ಅದರ ಅನುಗುಣವಾದ ಕಾಂತೀಯ ಪರಸ್ಪರ ಕ್ರಿಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "ಉತ್ತರ ಧ್ರುವವನ್ನು ಉತ್ತರ ಧ್ರುವದ ಹತ್ತಿರ ತಂದಾಗ": "ವಿಕರ್ಷಣೆ (Repulsion)",
-        "ದಕ್ಷಿಣ ಧ್ರುವವನ್ನು ದಕ್ಷಿಣ ಧ್ರುವದ ಹತ್ತಿರ ತಂದಾಗ": "ವಿಕರ್ಷಣೆ (Repulsion)",
-        "ಉತ್ತರ ಧ್ರುವವನ್ನು ದಕ್ಷಿಣ ಧ್ರುವದ ಹತ್ತಿರ ತಂದಾಗ": "ಆಕರ್ಷಣೆ (Attraction)",
-        "ದಕ್ಷಿಣ ಧ್ರುವವನ್ನು ಉತ್ತರ ಧ್ರುವದ ಹತ್ತಿರ ತಂದಾಗ": "ಆಕರ್ಷಣೆ (Attraction)"
-      },
+      "pairs": [
+        {
+          "left": "ಉತ್ತರ ಧ್ರುವವನ್ನು ಉತ್ತರ ಧ್ರುವದ ಹತ್ತಿರ ತಂದಾಗ",
+          "right": "ವಿಕರ್ಷಣೆ (Repulsion)"
+        },
+        {
+          "left": "ದಕ್ಷಿಣ ಧ್ರುವವನ್ನು ದಕ್ಷಿಣ ಧ್ರುವದ ಹತ್ತಿರ ತಂದಾಗ",
+          "right": "ವಿಕರ್ಷಣೆ (Repulsion)"
+        },
+        {
+          "left": "ಉತ್ತರ ಧ್ರುವವನ್ನು ದಕ್ಷಿಣ ಧ್ರುವದ ಹತ್ತಿರ ತಂದಾಗ",
+          "right": "ಆಕರ್ಷಣೆ (Attraction)"
+        },
+        {
+          "left": "ದಕ್ಷಿಣ ಧ್ರುವವನ್ನು ಉತ್ತರ ಧ್ರುವದ ಹತ್ತಿರ ತಂದಾಗ",
+          "right": "ಆಕರ್ಷಣೆ (Attraction)"
+        }
+      ],
       "reasoning": "ಸಮಾನ ಧ್ರುವಗಳು (N-N ಅಥವಾ S-S) ಪರಸ್ಪರ ವಿಕರ್ಷಿಸುತ್ತವೆ, ಆದರೆ ವಿರುದ್ಧ ಧ್ರುವಗಳು (N-S ಅಥವಾ S-N) ಪರಸ್ಪರ ಆಕರ್ಷಿಸುತ್ತವೆ."
     }
   },
@@ -832,22 +904,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the items with whether they are magnetic or non-magnetic:",
-      "pairs": {
-        "Iron nail": "Magnetic",
-        "Copper wire": "Non-magnetic",
-        "Nickel coin": "Magnetic",
-        "Rubber eraser": "Non-magnetic"
-      },
+      "pairs": [
+        {
+          "left": "Iron nail",
+          "right": "Magnetic"
+        },
+        {
+          "left": "Copper wire",
+          "right": "Non-magnetic"
+        },
+        {
+          "left": "Nickel coin",
+          "right": "Magnetic"
+        },
+        {
+          "left": "Rubber eraser",
+          "right": "Non-magnetic"
+        }
+      ],
       "reasoning": "Iron and nickel are attracted to magnets (magnetic), while copper and rubber are not (non-magnetic)."
     },
     "kn": {
       "question": "ವಸ್ತುಗಳನ್ನು ಅವು ಕಾಂತೀಯ ಅಥವಾ ಕಾಂತೀಯವಲ್ಲದ ಗುಣಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "ಕಬ್ಬಿಣದ ಮೊಳೆ (Iron nail)": "ಕಾಂತೀಯ (Magnetic)",
-        "ತಾಮ್ರದ ತಂತಿ (Copper wire)": "ಕಾಂತೀಯವಲ್ಲದ (Non-magnetic)",
-        "ನಿಕಲ್ ನಾಣ್ಯ (Nickel coin)": "ಕಾಂತೀಯ (Magnetic)",
-        "ರಬ್ಬರ್ ಅಳಿಸುವ ಸಾಧನ (Eraser)": "ಕಾಂತೀಯವಲ್ಲದ (Non-magnetic)"
-      },
+      "pairs": [
+        {
+          "left": "ಕಬ್ಬಿಣದ ಮೊಳೆ (Iron nail)",
+          "right": "ಕಾಂತೀಯ (Magnetic)"
+        },
+        {
+          "left": "ತಾಮ್ರದ ತಂತಿ (Copper wire)",
+          "right": "ಕಾಂತೀಯವಲ್ಲದ (Non-magnetic)"
+        },
+        {
+          "left": "ನಿಕಲ್ ನಾಣ್ಯ (Nickel coin)",
+          "right": "ಕಾಂತೀಯ (Magnetic)"
+        },
+        {
+          "left": "ರಬ್ಬರ್ ಅಳಿಸುವ ಸಾಧನ (Eraser)",
+          "right": "ಕಾಂತೀಯವಲ್ಲದ (Non-magnetic)"
+        }
+      ],
       "reasoning": "ಕಬ್ಬಿಣ ಮತ್ತು ನಿಕಲ್ ಕಾಂತಗಳಿಗೆ ಆಕರ್ಷಿತವಾಗುತ್ತವೆ (ಕಾಂತೀಯ), ಆದರೆ ತಾಮ್ರ ಮತ್ತು ರಬ್ಬರ್ ಆಕರ್ಷಿತವಾಗುವುದಿಲ್ಲ (ಕಾಂತೀಯವಲ್ಲದ)."
     }
   },
@@ -983,22 +1079,46 @@
     "difficulty": 3,
     "en": {
       "question": "Match the magnet care technique to the reason:",
-      "pairs": {
-        "Keep away from mobiles/TV": "To prevent corrupting electronic components",
-        "Store with soft iron keepers": "To prevent self-demagnetization over time",
-        "Do not drop from a height": "To prevent disruption of internal magnetic domains",
-        "Keep unlike poles on same side during storage": "To form a complete magnetic circuit with keepers"
-      },
+      "pairs": [
+        {
+          "left": "Keep away from mobiles/TV",
+          "right": "To prevent corrupting electronic components"
+        },
+        {
+          "left": "Store with soft iron keepers",
+          "right": "To prevent self-demagnetization over time"
+        },
+        {
+          "left": "Do not drop from a height",
+          "right": "To prevent disruption of internal magnetic domains"
+        },
+        {
+          "left": "Keep unlike poles on same side during storage",
+          "right": "To form a complete magnetic circuit with keepers"
+        }
+      ],
       "reasoning": "Proper care involves preventing physical shock, using keepers to form closed loops, and keeping them away from sensitive electronics."
     },
     "kn": {
       "question": "ಕಾಂತದ ಆರೈಕೆ ತಂತ್ರವನ್ನು ಅದರ ಕಾರಣದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "ಮೊಬೈಲ್/ಟಿವಿಗಳಿಂದ ದೂರವಿಡಿ": "ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಘಟಕಗಳು ಹಾಳಾಗುವುದನ್ನು ತಡೆಯಲು",
-        "ಮೃದುವಾದ ಕಬ್ಬಿಣದ ಕೀಪರ್‌ಗಳೊಂದಿಗೆ ಸಂಗ್ರಹಿಸಿ": "ಕಾಲಾನಂತರದಲ್ಲಿ ಸ್ವಯಂ-ಕಾಂತೀಯತೆ ಕಳೆದುಕೊಳ್ಳುವುದನ್ನು ತಡೆಯಲು",
-        "ಎತ್ತರದಿಂದ ಕೆಳಗೆ ಬೀಳಿಸಬೇಡಿ": "ಆಂತರಿಕ ಕಾಂತೀಯ ಡೊಮೇನ್‌ಗಳ ಅಡ್ಡಿಪಡಿಸುವಿಕೆಯನ್ನು ತಡೆಯಲು",
-        "ಸಂಗ್ರಹಿಸುವಾಗ ವಿರುದ್ಧ ಧ್ರುವಗಳನ್ನು ಒಂದೇ ಬದಿಯಲ್ಲಿಡಿ": "ಕೀಪರ್‌ಗಳೊಂದಿಗೆ ಸಂಪೂರ್ಣ ಕಾಂತೀಯ ಸರ್ಕ್ಯೂಟ್ (loop) ರೂಪಿಸಲು"
-      },
+      "pairs": [
+        {
+          "left": "ಮೊಬೈಲ್/ಟಿವಿಗಳಿಂದ ದೂರವಿಡಿ",
+          "right": "ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಘಟಕಗಳು ಹಾಳಾಗುವುದನ್ನು ತಡೆಯಲು"
+        },
+        {
+          "left": "ಮೃದುವಾದ ಕಬ್ಬಿಣದ ಕೀಪರ್‌ಗಳೊಂದಿಗೆ ಸಂಗ್ರಹಿಸಿ",
+          "right": "ಕಾಲಾನಂತರದಲ್ಲಿ ಸ್ವಯಂ-ಕಾಂತೀಯತೆ ಕಳೆದುಕೊಳ್ಳುವುದನ್ನು ತಡೆಯಲು"
+        },
+        {
+          "left": "ಎತ್ತರದಿಂದ ಕೆಳಗೆ ಬೀಳಿಸಬೇಡಿ",
+          "right": "ಆಂತರಿಕ ಕಾಂತೀಯ ಡೊಮೇನ್‌ಗಳ ಅಡ್ಡಿಪಡಿಸುವಿಕೆಯನ್ನು ತಡೆಯಲು"
+        },
+        {
+          "left": "ಸಂಗ್ರಹಿಸುವಾಗ ವಿರುದ್ಧ ಧ್ರುವಗಳನ್ನು ಒಂದೇ ಬದಿಯಲ್ಲಿಡಿ",
+          "right": "ಕೀಪರ್‌ಗಳೊಂದಿಗೆ ಸಂಪೂರ್ಣ ಕಾಂತೀಯ ಸರ್ಕ್ಯೂಟ್ (loop) ರೂಪಿಸಲು"
+        }
+      ],
       "reasoning": "ಸರಿಯಾದ ಆರೈಕೆಯು ಭೌತಿಕ ಆಘಾತವನ್ನು ತಡೆಯುವುದು, ಮುಚ್ಚಿದ ಲೂಪ್‌ಗಳನ್ನು ರೂಪಿಸಲು ಕೀಪರ್‌ಗಳನ್ನು ಬಳಸುವುದು ಮತ್ತು ಸೂಕ್ಷ್ಮ ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್‌ನಿಂದ ದೂರವಿಡುವುದನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ."
     }
   },
@@ -1095,22 +1215,46 @@
     "difficulty": 1,
     "en": {
       "question": "Match the word to its definition:",
-      "pairs": {
-        "Compass": "Device to find directions",
-        "Magnetite": "Natural magnet",
-        "Poles": "Ends of a magnet where force is strongest",
-        "Attraction": "Pulling force between unlike poles"
-      },
+      "pairs": [
+        {
+          "left": "Compass",
+          "right": "Device to find directions"
+        },
+        {
+          "left": "Magnetite",
+          "right": "Natural magnet"
+        },
+        {
+          "left": "Poles",
+          "right": "Ends of a magnet where force is strongest"
+        },
+        {
+          "left": "Attraction",
+          "right": "Pulling force between unlike poles"
+        }
+      ],
       "reasoning": "These are fundamental concepts: compass for direction, magnetite is natural, poles have max force, and attraction happens between opposites."
     },
     "kn": {
       "question": "ಪದವನ್ನು ಅದರ ವ್ಯಾಖ್ಯಾನದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "ದಿಕ್ಸೂಚಿ (Compass)": "ದಿಕ್ಕುಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸಾಧನ",
-        "ಮ್ಯಾಗ್ನೆಟೈಟ್ (Magnetite)": "ನೈಸರ್ಗಿಕ ಕಾಂತ",
-        "ಧ್ರುವಗಳು (Poles)": "ಶಕ್ತಿಯು ಪ್ರಬಲವಾಗಿರುವ ಕಾಂತದ ತುದಿಗಳು",
-        "ಆಕರ್ಷಣೆ (Attraction)": "ವಿರುದ್ಧ ಧ್ರುವಗಳ ನಡುವಿನ ಎಳೆಯುವ ಶಕ್ತಿ"
-      },
+      "pairs": [
+        {
+          "left": "ದಿಕ್ಸೂಚಿ (Compass)",
+          "right": "ದಿಕ್ಕುಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸಾಧನ"
+        },
+        {
+          "left": "ಮ್ಯಾಗ್ನೆಟೈಟ್ (Magnetite)",
+          "right": "ನೈಸರ್ಗಿಕ ಕಾಂತ"
+        },
+        {
+          "left": "ಧ್ರುವಗಳು (Poles)",
+          "right": "ಶಕ್ತಿಯು ಪ್ರಬಲವಾಗಿರುವ ಕಾಂತದ ತುದಿಗಳು"
+        },
+        {
+          "left": "ಆಕರ್ಷಣೆ (Attraction)",
+          "right": "ವಿರುದ್ಧ ಧ್ರುವಗಳ ನಡುವಿನ ಎಳೆಯುವ ಶಕ್ತಿ"
+        }
+      ],
       "reasoning": "ಇವು ಮೂಲಭೂತ ಪರಿಕಲ್ಪನೆಗಳು: ದಿಕ್ಕಿಗಾಗಿ ದಿಕ್ಸೂಚಿ, ಮ್ಯಾಗ್ನೆಟೈಟ್ ನೈಸರ್ಗಿಕ, ಧ್ರುವಗಳು ಗರಿಷ್ಠ ಶಕ್ತಿಯನ್ನು ಹೊಂದಿವೆ ಮತ್ತು ಆಕರ್ಷಣೆಯು ವಿರುದ್ಧ ಧ್ರುವಗಳ ನಡುವೆ ಸಂಭವಿಸುತ್ತದೆ."
     }
   }

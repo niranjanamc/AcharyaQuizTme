@@ -219,7 +219,7 @@
     "type": "single",
     "difficulty": 2,
     "en": {
-      "question": "Find the past tense verb: 'The bird ____ in the sky.'",
+      "question": "Which of the following is the correct past tense form of 'sleep'?",
       "options": [
         "flew",
         "flies",
@@ -230,7 +230,7 @@
       "reasoning": "The past tense of 'fly' is 'flew'."
     },
     "kn": {
-      "question": "ಭೂತಕಾಲದ ಕ್ರಿಯಾಪದವನ್ನು ಹುಡುಕಿ: 'The bird ____ in the sky.'",
+      "question": "'Sleep' ಕ್ರಿಯಾಪದದ ಭೂತಕಾಲದ ಸರಿಯಾದ ರೂಪ ಯಾವುದು?",
       "options": [
         "flew",
         "flies",
@@ -408,7 +408,7 @@
     "type": "single",
     "difficulty": 2,
     "en": {
-      "question": "What is the past tense of 'sleep'?",
+      "question": "Which verb correctly shows the past tense of 'sleep'?",
       "options": [
         "sleeped",
         "sleeping",
@@ -419,7 +419,7 @@
       "reasoning": "'Sleep' becomes 'slept' in the past tense."
     },
     "kn": {
-      "question": "'sleep' ಪದದ ಭೂತಕಾಲವೇನು?",
+      "question": "'Sleep' ಕ್ರಿಯಾಪದದ ಭೂತಕಾಲ ರೂಪ ಯಾವುದು?",
       "options": [
         "sleeped",
         "sleeping",
@@ -901,22 +901,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the present tense verbs with their regular past tense forms.",
-      "pairs": {
-        "walk": "walked",
-        "jump": "jumped",
-        "play": "played",
-        "look": "looked"
-      },
+      "pairs": [
+        {
+          "left": "walk",
+          "right": "walked"
+        },
+        {
+          "left": "jump",
+          "right": "jumped"
+        },
+        {
+          "left": "play",
+          "right": "played"
+        },
+        {
+          "left": "look",
+          "right": "looked"
+        }
+      ],
       "reasoning": "Regular verbs add '-ed' to form the past tense."
     },
     "kn": {
       "question": "ವರ್ತಮಾನ ಕಾಲದ ಕ್ರಿಯಾಪದಗಳನ್ನು ಅವುಗಳ ಸಾಮಾನ್ಯ ಭೂತಕಾಲದ ರೂಪಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
-      "pairs": {
-        "walk": "walked",
-        "jump": "jumped",
-        "play": "played",
-        "look": "looked"
-      },
+      "pairs": [
+        {
+          "left": "walk",
+          "right": "walked"
+        },
+        {
+          "left": "jump",
+          "right": "jumped"
+        },
+        {
+          "left": "play",
+          "right": "played"
+        },
+        {
+          "left": "look",
+          "right": "looked"
+        }
+      ],
       "reasoning": "ಸಾಮಾನ್ಯ ಕ್ರಿಯಾಪದಗಳು ಭೂತಕಾಲವನ್ನು ರೂಪಿಸಲು '-ed' ಅನ್ನು ಸೇರಿಸುತ್ತವೆ."
     }
   },
@@ -925,23 +949,47 @@
     "type": "match",
     "difficulty": 3,
     "en": {
-      "question": "Match the present tense verbs with their irregular past tense forms.",
-      "pairs": {
-        "go": "went",
-        "eat": "ate",
-        "see": "saw",
-        "run": "ran"
-      },
+      "question": "Match the verbs with their IRREGULAR past tense forms (not the standard -ed pattern):",
+      "pairs": [
+        {
+          "left": "go",
+          "right": "went"
+        },
+        {
+          "left": "eat",
+          "right": "ate"
+        },
+        {
+          "left": "see",
+          "right": "saw"
+        },
+        {
+          "left": "run",
+          "right": "ran"
+        }
+      ],
       "reasoning": "These are irregular verbs and change their form completely in the past tense."
     },
     "kn": {
-      "question": "ವರ್ತಮಾನ ಕಾಲದ ಕ್ರಿಯಾಪದಗಳನ್ನು ಅವುಗಳ ಅನಿಯಮಿತ ಭೂತಕಾಲದ ರೂಪಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
-      "pairs": {
-        "go": "went",
-        "eat": "ate",
-        "see": "saw",
-        "run": "ran"
-      },
+      "question": "ಕ್ರಿಯಾಪದಗಳನ್ನು ಅವುಗಳ ಅನಿಯಮಿತ ಭೂತಕಾಲ ರೂಪಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ (–ed ಮಾದರಿ ಅನ್ವಯಿಸುವುದಿಲ್ಲ):",
+      "pairs": [
+        {
+          "left": "go",
+          "right": "went"
+        },
+        {
+          "left": "eat",
+          "right": "ate"
+        },
+        {
+          "left": "see",
+          "right": "saw"
+        },
+        {
+          "left": "run",
+          "right": "ran"
+        }
+      ],
       "reasoning": "ಇವು ಅನಿಯಮಿತ ಕ್ರಿಯಾಪದಗಳು ಮತ್ತು ಭೂತಕಾಲದಲ್ಲಿ ತಮ್ಮ ರೂಪವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬದಲಾಯಿಸುತ್ತವೆ."
     }
   },
@@ -951,22 +999,46 @@
     "difficulty": 3,
     "en": {
       "question": "Match the verbs with their past tense.",
-      "pairs": {
-        "take": "took",
-        "give": "gave",
-        "buy": "bought",
-        "catch": "caught"
-      },
+      "pairs": [
+        {
+          "left": "take",
+          "right": "took"
+        },
+        {
+          "left": "give",
+          "right": "gave"
+        },
+        {
+          "left": "buy",
+          "right": "bought"
+        },
+        {
+          "left": "catch",
+          "right": "caught"
+        }
+      ],
       "reasoning": "These verbs change completely to form the past tense."
     },
     "kn": {
       "question": "ಕ್ರಿಯಾಪದಗಳನ್ನು ಅವುಗಳ ಭೂತಕಾಲದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
-      "pairs": {
-        "take": "took",
-        "give": "gave",
-        "buy": "bought",
-        "catch": "caught"
-      },
+      "pairs": [
+        {
+          "left": "take",
+          "right": "took"
+        },
+        {
+          "left": "give",
+          "right": "gave"
+        },
+        {
+          "left": "buy",
+          "right": "bought"
+        },
+        {
+          "left": "catch",
+          "right": "caught"
+        }
+      ],
       "reasoning": "ಈ ಕ್ರಿಯಾಪದಗಳು ಭೂತಕಾಲವನ್ನು ರೂಪಿಸಲು ಸಂಪೂರ್ಣವಾಗಿ ಬದಲಾಗುತ್ತವೆ."
     }
   },
@@ -976,22 +1048,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the pronouns to the correct past continuous helping verbs.",
-      "pairs": {
-        "I": "was",
-        "You": "were",
-        "He / She": "was",
-        "They": "were"
-      },
+      "pairs": [
+        {
+          "left": "I",
+          "right": "was"
+        },
+        {
+          "left": "You",
+          "right": "were"
+        },
+        {
+          "left": "He / She",
+          "right": "was"
+        },
+        {
+          "left": "They",
+          "right": "were"
+        }
+      ],
       "reasoning": "Singular subjects use 'was' and plural subjects (including 'you') use 'were'."
     },
     "kn": {
-      "question": "ಸರ್ವನಾಮಗಳನ್ನು ಸರಿಯಾದ ಅಪೂರ್ಣ ಭೂತಕಾಲದ ಸಹಾಯಕ ಕ್ರಿಯಾಪದಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
-      "pairs": {
-        "I": "was",
-        "You": "were",
-        "He / She": "was",
-        "They": "were"
-      },
+      "question": "ಸರ್ვನಾಮಗಳನ್ನು ಸರಿಯಾದ ಅಪೂರ್ಣ ಭೂತಕಾಲದ ಸಹಾಯಕ ಕ್ರಿಯಾಪದಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "I",
+          "right": "was"
+        },
+        {
+          "left": "You",
+          "right": "were"
+        },
+        {
+          "left": "He / She",
+          "right": "was"
+        },
+        {
+          "left": "They",
+          "right": "were"
+        }
+      ],
       "reasoning": "ಏಕವಚನ ವಿಷಯಗಳು 'was' ಅನ್ನು ಬಳಸುತ್ತವೆ ಮತ್ತು ಬಹುವಚನ ವಿಷಯಗಳು ('you' ಸೇರಿದಂತೆ) 'were' ಅನ್ನು ಬಳಸುತ್ತವೆ."
     }
   },
@@ -1001,22 +1097,46 @@
     "difficulty": 3,
     "en": {
       "question": "Match the present tense verbs with their past tense forms.",
-      "pairs": {
-        "sleep": "slept",
-        "fly": "flew",
-        "write": "wrote",
-        "sing": "sang"
-      },
+      "pairs": [
+        {
+          "left": "sleep",
+          "right": "slept"
+        },
+        {
+          "left": "fly",
+          "right": "flew"
+        },
+        {
+          "left": "write",
+          "right": "wrote"
+        },
+        {
+          "left": "sing",
+          "right": "sang"
+        }
+      ],
       "reasoning": "Each verb has a unique irregular past tense form."
     },
     "kn": {
       "question": "ವರ್ತಮಾನ ಕಾಲದ ಕ್ರಿಯಾಪದಗಳನ್ನು ಅವುಗಳ ಭೂತಕಾಲದ ರೂಪಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
-      "pairs": {
-        "sleep": "slept",
-        "fly": "flew",
-        "write": "wrote",
-        "sing": "sang"
-      },
+      "pairs": [
+        {
+          "left": "sleep",
+          "right": "slept"
+        },
+        {
+          "left": "fly",
+          "right": "flew"
+        },
+        {
+          "left": "write",
+          "right": "wrote"
+        },
+        {
+          "left": "sing",
+          "right": "sang"
+        }
+      ],
       "reasoning": "ಪ್ರತಿಯೊಂದು ಕ್ರಿಯಾಪದವು ವಿಶಿಷ್ಟವಾದ ಅನಿಯಮಿತ ಭೂತಕಾಲದ ರೂಪವನ್ನು ಹೊಂದಿದೆ."
     }
   }

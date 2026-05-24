@@ -31,7 +31,7 @@
     "type": "single",
     "difficulty": 1,
     "en": {
-      "question": "Choose the correctly spelled word:",
+      "question": "Choose the correctly spelled word: (Achieve / Acheive)",
       "options": [
         "Achieve",
         "Acheive",
@@ -42,7 +42,7 @@
       "reasoning": "The rule is 'i before e except after c', so it is 'Achieve'."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ:",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ: (Achieve / Acheive)",
       "options": [
         "Achieve",
         "Acheive",
@@ -85,7 +85,7 @@
     "type": "multiple",
     "difficulty": 2,
     "en": {
-      "question": "Select all the correctly spelled words:",
+      "question": "Select all the correctly spelled words: (Argument / Arguement)",
       "options": [
         "Argument",
         "Arguement",
@@ -99,7 +99,7 @@
       "reasoning": "'Argument' drops the 'e' from 'argue', and 'Business' has 'i' instead of 'y' from 'busy'."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಎಲ್ಲಾ ಪದಗಳನ್ನು ಆರಿಸಿ:",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಎಲ್ಲಾ ಪದಗಳನ್ನು ಆರಿಸಿ: (Argument / Arguement)",
       "options": [
         "Argument",
         "Arguement",
@@ -118,7 +118,7 @@
     "type": "single",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word:",
+      "question": "Choose the correctly spelled word: (Calender / Calendar)",
       "options": [
         "Calender",
         "Calendar",
@@ -129,7 +129,7 @@
       "reasoning": "'Calendar' ends with 'dar', not 'der'."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ:",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ: (Calender / Calendar)",
       "options": [
         "Calender",
         "Calendar",
@@ -146,22 +146,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the misspelled word to its correct spelling:",
-      "pairs": {
-        "Definate": "Definite",
-        "Tommorow": "Tomorrow",
-        "Wierd": "Weird",
-        "Occaision": "Occasion"
-      },
+      "pairs": [
+        {
+          "left": "Definate",
+          "right": "Definite"
+        },
+        {
+          "left": "Tommorow",
+          "right": "Tomorrow"
+        },
+        {
+          "left": "Wierd",
+          "right": "Weird"
+        },
+        {
+          "left": "Occaision",
+          "right": "Occasion"
+        }
+      ],
       "reasoning": "Each incorrectly spelled word on the left matches its standard spelling on the right."
     },
     "kn": {
       "question": "ತಪ್ಪಾಗಿ ಬರೆದ ಪದವನ್ನು ಅದರ ಸರಿಯಾದ ಕಾಗುಣಿತಕ್ಕೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "Definate": "Definite",
-        "Tommorow": "Tomorrow",
-        "Wierd": "Weird",
-        "Occaision": "Occasion"
-      },
+      "pairs": [
+        {
+          "left": "Definate",
+          "right": "Definite"
+        },
+        {
+          "left": "Tommorow",
+          "right": "Tomorrow"
+        },
+        {
+          "left": "Wierd",
+          "right": "Weird"
+        },
+        {
+          "left": "Occaision",
+          "right": "Occasion"
+        }
+      ],
       "reasoning": "ಎಡಭಾಗದಲ್ಲಿರುವ ಪ್ರತಿಯೊಂದು ತಪ್ಪಾದ ಪದವೂ ಬಲಭಾಗದಲ್ಲಿರುವ ಸರಿಯಾದ ಕಾಗುಣಿತಕ್ಕೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆ."
     }
   },
@@ -170,7 +194,7 @@
     "type": "single",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word:",
+      "question": "Choose the correctly spelled word: (Embarass / Embarrass)",
       "options": [
         "Embarass",
         "Embarrass",
@@ -181,7 +205,7 @@
       "reasoning": "The word 'Embarrass' contains double 'r' and double 's'."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ:",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ: (Embarass / Embarrass)",
       "options": [
         "Embarass",
         "Embarrass",
@@ -230,7 +254,7 @@
     "type": "single",
     "difficulty": 1,
     "en": {
-      "question": "Choose the correct spelling:",
+      "question": "Choose the correct spelling: (Existance / Existence)",
       "options": [
         "Existance",
         "Existence",
@@ -241,7 +265,7 @@
       "reasoning": "'Existence' ends with 'ence', not 'ance'."
     },
     "kn": {
-      "question": "ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ:",
+      "question": "ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ: (Existance / Existence)",
       "options": [
         "Existance",
         "Existence",
@@ -257,7 +281,7 @@
     "type": "single",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correct spelling:",
+      "question": "Choose the correct spelling: (Facinating / Fascinating)",
       "options": [
         "Facinating",
         "Fascinating",
@@ -268,7 +292,7 @@
       "reasoning": "The correct spelling includes 'sc' before 'in'."
     },
     "kn": {
-      "question": "ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ:",
+      "question": "ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ: (Facinating / Fascinating)",
       "options": [
         "Facinating",
         "Fascinating",
@@ -285,22 +309,46 @@
     "difficulty": 3,
     "en": {
       "question": "Match the missing letters to the word fragments:",
-      "pairs": {
-        "F _ _ eign": "or",
-        "G _ _ ge": "au",
-        "G _ _ rantee": "ua",
-        "H _ _ ass": "ar"
-      },
+      "pairs": [
+        {
+          "left": "F _ _ eign",
+          "right": "or"
+        },
+        {
+          "left": "G _ _ ge",
+          "right": "au"
+        },
+        {
+          "left": "G _ _ rantee",
+          "right": "ua"
+        },
+        {
+          "left": "H _ _ ass",
+          "right": "ar"
+        }
+      ],
       "reasoning": "Foreign (or), Gauge (au), Guarantee (ua), Harass (ar)."
     },
     "kn": {
       "question": "ಕಾಣೆಯಾದ ಅಕ್ಷರಗಳನ್ನು ಪದದ ಭಾಗಗಳಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "F _ _ eign": "or",
-        "G _ _ ge": "au",
-        "G _ _ rantee": "ua",
-        "H _ _ ass": "ar"
-      },
+      "pairs": [
+        {
+          "left": "F _ _ eign",
+          "right": "or"
+        },
+        {
+          "left": "G _ _ ge",
+          "right": "au"
+        },
+        {
+          "left": "G _ _ rantee",
+          "right": "ua"
+        },
+        {
+          "left": "H _ _ ass",
+          "right": "ar"
+        }
+      ],
       "reasoning": "Foreign (or), Gauge (au), Guarantee (ua), Harass (ar) ಸರಿಯಾದ ಪದಗಳು."
     }
   },
@@ -369,7 +417,7 @@
     "type": "single",
     "difficulty": 1,
     "en": {
-      "question": "Choose the correctly spelled word:",
+      "question": "Choose the correctly spelled word: (Librery / Libary)",
       "options": [
         "Librery",
         "Libary",
@@ -380,7 +428,7 @@
       "reasoning": "The correct spelling is 'Library'."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ:",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ: (Librery / Libary)",
       "options": [
         "Librery",
         "Libary",
@@ -424,22 +472,46 @@
     "difficulty": 3,
     "en": {
       "question": "Match the word to its correct spelling:",
-      "pairs": {
-        "Milennium": "Millennium",
-        "Mispell": "Misspell",
-        "Noticable": "Noticeable",
-        "Occured": "Occurred"
-      },
+      "pairs": [
+        {
+          "left": "Milennium",
+          "right": "Millennium"
+        },
+        {
+          "left": "Mispell",
+          "right": "Misspell"
+        },
+        {
+          "left": "Noticable",
+          "right": "Noticeable"
+        },
+        {
+          "left": "Occured",
+          "right": "Occurred"
+        }
+      ],
       "reasoning": "Double letters and retained 'e's are common spelling traps in these words."
     },
     "kn": {
       "question": "ಪದವನ್ನು ಅದರ ಸರಿಯಾದ ಕಾಗುಣಿತಕ್ಕೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "Milennium": "Millennium",
-        "Mispell": "Misspell",
-        "Noticable": "Noticeable",
-        "Occured": "Occurred"
-      },
+      "pairs": [
+        {
+          "left": "Milennium",
+          "right": "Millennium"
+        },
+        {
+          "left": "Mispell",
+          "right": "Misspell"
+        },
+        {
+          "left": "Noticable",
+          "right": "Noticeable"
+        },
+        {
+          "left": "Occured",
+          "right": "Occurred"
+        }
+      ],
       "reasoning": "ಈ ಪದಗಳಲ್ಲಿ ದ್ವಿಗುಣ ಅಕ್ಷರಗಳು ಮತ್ತು ಉಳಿಸಿಕೊಂಡ 'e' ಅಕ್ಷರಗಳು ಸಾಮಾನ್ಯವಾಗಿ ತಪ್ಪುಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ."
     }
   },
@@ -448,7 +520,7 @@
     "type": "single",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word:",
+      "question": "Choose the correctly spelled word: (Pastime / Passtime)",
       "options": [
         "Pastime",
         "Passtime",
@@ -459,7 +531,7 @@
       "reasoning": "'Pastime' has only one 's' and one 't'."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ:",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ: (Pastime / Passtime)",
       "options": [
         "Pastime",
         "Passtime",
@@ -508,7 +580,7 @@
     "type": "single",
     "difficulty": 3,
     "en": {
-      "question": "Which of these is correctly spelled?",
+      "question": "Which of these is correctly spelled? (Pronounciation / Pronunciation)",
       "options": [
         "Pronounciation",
         "Pronunciation",
@@ -519,7 +591,7 @@
       "reasoning": "There is no 'o' in the middle part; it is 'nun', not 'noun'."
     },
     "kn": {
-      "question": "ಇವುಗಳಲ್ಲಿ ಯಾವುದು ಸರಿಯಾಗಿ ಬರೆಯಲ್ಪಟ್ಟಿದೆ?",
+      "question": "ಇವುಗಳಲ್ಲಿ ಯಾವುದು ಸರಿಯಾಗಿ ಬರೆಯಲ್ಪಟ್ಟಿದೆ? (Pronounciation / Pronunciation)",
       "options": [
         "Pronounciation",
         "Pronunciation",
@@ -535,7 +607,7 @@
     "type": "single",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word:",
+      "question": "Choose the correctly spelled word: (Publically / Publicly)",
       "options": [
         "Publically",
         "Publicly",
@@ -546,7 +618,7 @@
       "reasoning": "'Publicly' is an exception and does not end in '-ally'."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ:",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ: (Publically / Publicly)",
       "options": [
         "Publically",
         "Publicly",
@@ -563,22 +635,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the word to its incorrect counterpart (misspelling):",
-      "pairs": {
-        "Receive": "Recieve",
-        "Recommend": "Recomend",
-        "Referred": "Refered",
-        "Rhythm": "Rythm"
-      },
+      "pairs": [
+        {
+          "left": "Receive",
+          "right": "Recieve"
+        },
+        {
+          "left": "Recommend",
+          "right": "Recomend"
+        },
+        {
+          "left": "Referred",
+          "right": "Refered"
+        },
+        {
+          "left": "Rhythm",
+          "right": "Rythm"
+        }
+      ],
       "reasoning": "These are common misspellings of standard English words."
     },
     "kn": {
       "question": "ಪದವನ್ನು ಅದರ ತಪ್ಪಾದ ಕಾಗುಣಿತಕ್ಕೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "Receive": "Recieve",
-        "Recommend": "Recomend",
-        "Referred": "Refered",
-        "Rhythm": "Rythm"
-      },
+      "pairs": [
+        {
+          "left": "Receive",
+          "right": "Recieve"
+        },
+        {
+          "left": "Recommend",
+          "right": "Recomend"
+        },
+        {
+          "left": "Referred",
+          "right": "Refered"
+        },
+        {
+          "left": "Rhythm",
+          "right": "Rythm"
+        }
+      ],
       "reasoning": "ಇವು ಸಾಮಾನ್ಯ ಇಂಗ್ಲಿಷ್ ಪದಗಳ ಸಾಮಾನ್ಯ ಕಾಗುಣಿತ ತಪ್ಪುಗಳು."
     }
   },
@@ -587,7 +683,7 @@
     "type": "single",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correctly spelled word:",
+      "question": "Choose the correctly spelled word: (Seperate / Separate)",
       "options": [
         "Seperate",
         "Separate",
@@ -598,7 +694,7 @@
       "reasoning": "There is 'a rat' in 'separate'."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ:",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ: (Seperate / Separate)",
       "options": [
         "Seperate",
         "Separate",
@@ -647,7 +743,7 @@
     "type": "single",
     "difficulty": 3,
     "en": {
-      "question": "Choose the correctly spelled word:",
+      "question": "Choose the correctly spelled word: (Vacuum / Vaccum)",
       "options": [
         "Vacuum",
         "Vaccum",
@@ -658,7 +754,7 @@
       "reasoning": "'Vacuum' has one 'c' and double 'u'."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ:",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ: (Vacuum / Vaccum)",
       "options": [
         "Vacuum",
         "Vaccum",
@@ -674,7 +770,7 @@
     "type": "single",
     "difficulty": 2,
     "en": {
-      "question": "Which of these is correctly spelled?",
+      "question": "Which of these is correctly spelled? (Acknowledge / Aknowlege)",
       "options": [
         "Acknowledge",
         "Aknowlege",
@@ -685,7 +781,7 @@
       "reasoning": "It contains 'know' and ends with 'ledge'."
     },
     "kn": {
-      "question": "ಇವುಗಳಲ್ಲಿ ಯಾವುದು ಸರಿಯಾಗಿ ಬರೆಯಲ್ಪಟ್ಟಿದೆ?",
+      "question": "ಇವುಗಳಲ್ಲಿ ಯಾವುದು ಸರಿಯಾಗಿ ಬರೆಯಲ್ಪಟ್ಟಿದೆ? (Acknowledge / Aknowlege)",
       "options": [
         "Acknowledge",
         "Aknowlege",
@@ -702,22 +798,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the word to its missing letters:",
-      "pairs": {
-        "A _ _ a r e n t": "pp",
-        "C o _ _ i t t e e": "mm",
-        "D i _ _ a p p e a r": "s",
-        "N e c e _ _ a r y": "ss"
-      },
+      "pairs": [
+        {
+          "left": "A _ _ a r e n t",
+          "right": "pp"
+        },
+        {
+          "left": "C o _ _ i t t e e",
+          "right": "mm"
+        },
+        {
+          "left": "D i _ _ a p p e a r",
+          "right": "s"
+        },
+        {
+          "left": "N e c e _ _ a r y",
+          "right": "ss"
+        }
+      ],
       "reasoning": "Apparent (pp), Committee (mm), Disappear (s), Necessary (ss)."
     },
     "kn": {
       "question": "ಪದವನ್ನು ಅದರ ಕಾಣೆಯಾದ ಅಕ್ಷರಗಳಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "A _ _ a r e n t": "pp",
-        "C o _ _ i t t e e": "mm",
-        "D i _ _ a p p e a r": "s",
-        "N e c e _ _ a r y": "ss"
-      },
+      "pairs": [
+        {
+          "left": "A _ _ a r e n t",
+          "right": "pp"
+        },
+        {
+          "left": "C o _ _ i t t e e",
+          "right": "mm"
+        },
+        {
+          "left": "D i _ _ a p p e a r",
+          "right": "s"
+        },
+        {
+          "left": "N e c e _ _ a r y",
+          "right": "ss"
+        }
+      ],
       "reasoning": "Apparent (pp), Committee (mm), Disappear (s), Necessary (ss) ಸರಿಯಾದ ಅಕ್ಷರಗಳು."
     }
   },
@@ -759,7 +879,7 @@
     "type": "single",
     "difficulty": 2,
     "en": {
-      "question": "Choose the correct spelling:",
+      "question": "Choose the correct spelling: (Definately / Definitly)",
       "options": [
         "Definately",
         "Definitly",
@@ -770,7 +890,7 @@
       "reasoning": "The root word is 'definite'."
     },
     "kn": {
-      "question": "ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ:",
+      "question": "ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ: (Definately / Definitly)",
       "options": [
         "Definately",
         "Definitly",
@@ -813,7 +933,7 @@
     "type": "multiple",
     "difficulty": 2,
     "en": {
-      "question": "Select all the correctly spelled words:",
+      "question": "Select all the correctly spelled words: (Experience / Expirience)",
       "options": [
         "Experience",
         "Expirience",
@@ -827,7 +947,7 @@
       "reasoning": "Both use 'eri' in the middle, not 'iri' or 'era'."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಎಲ್ಲಾ ಪದಗಳನ್ನು ಆರಿಸಿ:",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಎಲ್ಲಾ ಪದಗಳನ್ನು ಆರಿಸಿ: (Experience / Expirience)",
       "options": [
         "Experience",
         "Expirience",
@@ -846,23 +966,47 @@
     "type": "match",
     "difficulty": 2,
     "en": {
-      "question": "Match the misspelled word to its correct spelling:",
-      "pairs": {
-        "Gaurantee": "Guarantee",
-        "Humerous": "Humorous",
-        "Ignoranse": "Ignorance",
-        "Immediatly": "Immediately"
-      },
+      "question": "Match the misspelled word to its correct spelling: [Gaurantee]",
+      "pairs": [
+        {
+          "left": "Gaurantee",
+          "right": "Guarantee"
+        },
+        {
+          "left": "Humerous",
+          "right": "Humorous"
+        },
+        {
+          "left": "Ignoranse",
+          "right": "Ignorance"
+        },
+        {
+          "left": "Immediatly",
+          "right": "Immediately"
+        }
+      ],
       "reasoning": "These matches reflect standard corrections for common errors."
     },
     "kn": {
-      "question": "ತಪ್ಪಾಗಿ ಬರೆದ ಪದವನ್ನು ಅದರ ಸರಿಯಾದ ಕಾಗುಣಿತಕ್ಕೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "Gaurantee": "Guarantee",
-        "Humerous": "Humorous",
-        "Ignoranse": "Ignorance",
-        "Immediatly": "Immediately"
-      },
+      "question": "ತಪ್ಪಾಗಿ ಬರೆದ ಪದವನ್ನು ಅದರ ಸರಿಯಾದ ಕಾಗುಣಿತಕ್ಕೆ ಹೊಂದಿಸಿ: [Gaurantee]",
+      "pairs": [
+        {
+          "left": "Gaurantee",
+          "right": "Guarantee"
+        },
+        {
+          "left": "Humerous",
+          "right": "Humorous"
+        },
+        {
+          "left": "Ignoranse",
+          "right": "Ignorance"
+        },
+        {
+          "left": "Immediatly",
+          "right": "Immediately"
+        }
+      ],
       "reasoning": "ಈ ಹೊಂದಾಣಿಕೆಗಳು ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳ ಪ್ರಮಾಣಿತ ತಿದ್ದುಪಡಿಗಳನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತವೆ."
     }
   },
@@ -871,7 +1015,7 @@
     "type": "single",
     "difficulty": 1,
     "en": {
-      "question": "Choose the correctly spelled word:",
+      "question": "Choose the correctly spelled word: (Jewelry / Jewellry)",
       "options": [
         "Jewelry",
         "Jewellry",
@@ -882,7 +1026,7 @@
       "reasoning": "In American English, it is spelled 'Jewelry' (or 'Jewellery' in British English). 'Jewelry' is correct here."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ:",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ: (Jewelry / Jewellry)",
       "options": [
         "Jewelry",
         "Jewellry",
@@ -898,7 +1042,7 @@
     "type": "single",
     "difficulty": 3,
     "en": {
-      "question": "Which of these is correctly spelled?",
+      "question": "Which of these is correctly spelled? (Lietenant / Lieutenant)",
       "options": [
         "Lietenant",
         "Lieutenant",
@@ -909,7 +1053,7 @@
       "reasoning": "Remember 'lieu' + 'tenant'."
     },
     "kn": {
-      "question": "ಇವುಗಳಲ್ಲಿ ಯಾವುದು ಸರಿಯಾಗಿ ಬರೆಯಲ್ಪಟ್ಟಿದೆ?",
+      "question": "ಇವುಗಳಲ್ಲಿ ಯಾವುದು ಸರಿಯಾಗಿ ಬರೆಯಲ್ಪಟ್ಟಿದೆ? (Lietenant / Lieutenant)",
       "options": [
         "Lietenant",
         "Lieutenant",
@@ -958,23 +1102,47 @@
     "type": "match",
     "difficulty": 3,
     "en": {
-      "question": "Match the word to its missing letters:",
-      "pairs": {
-        "O c c _ _ r e d": "ur",
-        "P e r s _ _ e r e": "ev",
-        "P r e c _ _ i n g": "ed",
-        "R e s t a u r _ _ t": "an"
-      },
+      "question": "Match the word to its missing letters: [O c c _ _ r e d]",
+      "pairs": [
+        {
+          "left": "O c c _ _ r e d",
+          "right": "ur"
+        },
+        {
+          "left": "P e r s _ _ e r e",
+          "right": "ev"
+        },
+        {
+          "left": "P r e c _ _ i n g",
+          "right": "ed"
+        },
+        {
+          "left": "R e s t a u r _ _ t",
+          "right": "an"
+        }
+      ],
       "reasoning": "Occurred (ur), Persevere (ev), Preceding (ed), Restaurant (an)."
     },
     "kn": {
-      "question": "ಪದವನ್ನು ಅದರ ಕಾಣೆಯಾದ ಅಕ್ಷರಗಳಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "O c c _ _ r e d": "ur",
-        "P e r s _ _ e r e": "ev",
-        "P r e c _ _ i n g": "ed",
-        "R e s t a u r _ _ t": "an"
-      },
+      "question": "ಪದವನ್ನು ಅದರ ಕಾಣೆಯಾದ ಅಕ್ಷರಗಳಿಗೆ ಹೊಂದಿಸಿ: [O c c _ _ r e d]",
+      "pairs": [
+        {
+          "left": "O c c _ _ r e d",
+          "right": "ur"
+        },
+        {
+          "left": "P e r s _ _ e r e",
+          "right": "ev"
+        },
+        {
+          "left": "P r e c _ _ i n g",
+          "right": "ed"
+        },
+        {
+          "left": "R e s t a u r _ _ t",
+          "right": "an"
+        }
+      ],
       "reasoning": "Occurred (ur), Persevere (ev), Preceding (ed), Restaurant (an) ಸರಿಯಾದ ಅಕ್ಷರಗಳು."
     }
   },
@@ -983,7 +1151,7 @@
     "type": "single",
     "difficulty": 1,
     "en": {
-      "question": "Choose the correctly spelled word:",
+      "question": "Choose the correctly spelled word: (Wendesday / Wednesday)",
       "options": [
         "Wendesday",
         "Wednesday",
@@ -994,7 +1162,7 @@
       "reasoning": "It includes a silent 'd' and 'e'."
     },
     "kn": {
-      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ:",
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ: (Wendesday / Wednesday)",
       "options": [
         "Wendesday",
         "Wednesday",

@@ -3,7 +3,7 @@
     "id": "puz_1",
     "difficulty": 1,
     "en": {
-      "question": "What comes next in the sequence: 14, 20, 26, 32, ...?",
+      "question": "Find the next term: 14, 20, 26, 32, ___",
       "options": [
         "32",
         "44",
@@ -14,7 +14,7 @@
       "reasoning": "The correct answer is 38."
     },
     "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 14, 20, 26, 32, ...?",
+      "question": "ಮುಂದಿನ ಪದ ಹುಡುಕಿ: 14, 20, 26, 32, ___",
       "options": [
         "32",
         "44",
@@ -133,7 +133,7 @@
     "id": "puz_35",
     "difficulty": 2,
     "en": {
-      "question": "What comes next in the sequence: 1, 6, 11, 16, ...?",
+      "question": "Find the next number: 1, 6, 11, 16, ___",
       "options": [
         "16",
         "21",
@@ -144,7 +144,7 @@
       "reasoning": "The correct answer is 21."
     },
     "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 1, 6, 11, 16, ...?",
+      "question": "ಮುಂದಿನ ಸಂಖ್ಯೆ ಹುಡುಕಿ: 1, 6, 11, 16, ___",
       "options": [
         "16",
         "21",
@@ -481,7 +481,7 @@
     "type": "single",
     "difficulty": 2,
     "en": {
-      "question": "What comes next in the sequence: 2, 4, 8, 16, ...?",
+      "question": "Find the next term: 2, 4, 8, 16, ___",
       "options": [
         "32",
         "64",
@@ -492,7 +492,7 @@
       "reasoning": "The pattern multiplies by 2 each time."
     },
     "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 2, 4, 8, 16, ...?",
+      "question": "ಮುಂದಿನ ಪದ ಹುಡುಕಿ: 2, 4, 8, 16, ___",
       "options": [
         "32",
         "64",
@@ -1567,7 +1567,7 @@
     "type": "single",
     "difficulty": 1,
     "en": {
-      "question": "What comes next in the sequence: 1, 8, 15, 22, ...?",
+      "question": "Identify the next number: 31, 28, 25, 22, ___",
       "options": [
         "29",
         "30",
@@ -1578,7 +1578,7 @@
       "reasoning": "The pattern adds 7 each time."
     },
     "kn": {
-      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದೆ ಏನು ಬರುತ್ತದೆ: 1, 8, 15, 22, ...?",
+      "question": "ಮುಂದಿನ ಸಂಖ್ಯೆ ಗುರುತಿಸಿ: 31, 28, 25, 22, ___",
       "options": [
         "29",
         "30",

@@ -459,22 +459,46 @@
     "difficulty": 1,
     "en": {
       "question": "Match the fraction type with its definition:",
-      "pairs": {
-        "Proper Fraction": "Numerator is less than denominator",
-        "Improper Fraction": "Numerator is greater than or equal to denominator",
-        "Mixed Fraction": "Combination of a whole number and a proper fraction",
-        "Like Fractions": "Fractions with the same denominator"
-      },
+      "pairs": [
+        {
+          "left": "Proper Fraction",
+          "right": "Numerator is less than denominator"
+        },
+        {
+          "left": "Improper Fraction",
+          "right": "Numerator is greater than or equal to denominator"
+        },
+        {
+          "left": "Mixed Fraction",
+          "right": "Combination of a whole number and a proper fraction"
+        },
+        {
+          "left": "Like Fractions",
+          "right": "Fractions with the same denominator"
+        }
+      ],
       "reasoning": "These are the standard definitions of different types of fractions."
     },
     "kn": {
       "question": "ಭಿನ್ನರಾಶಿಯ ಪ್ರಕಾರವನ್ನು ಅದರ ವ್ಯಾಖ್ಯಾನದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "ಸಮ ಭಿನ್ನರಾಶಿ (Proper Fraction)": "ಅಂಶವು ಛೇದಕ್ಕಿಂತ ಚಿಕ್ಕದಾಗಿದೆ",
-        "ವಿಷಮ ಭಿನ್ನರಾಶಿ (Improper Fraction)": "ಅಂಶವು ಛೇದಕ್ಕಿಂತ ದೊಡ್ಡದಾಗಿದೆ ಅಥವಾ ಸಮಾನವಾಗಿದೆ",
-        "ಮಿಶ್ರ ಭಿನ್ನರಾಶಿ (Mixed Fraction)": "ಪೂರ್ಣ ಸಂಖ್ಯೆ ಮತ್ತು ಸಮ ಭಿನ್ನರಾಶಿಯ ಸಂಯೋಜನೆ",
-        "ಸಜಾತಿ ಭಿನ್ನರಾಶಿಗಳು (Like Fractions)": "ಒಂದೇ ಛೇದವನ್ನು ಹೊಂದಿರುವ ಭಿನ್ನರಾಶಿಗಳು"
-      },
+      "pairs": [
+        {
+          "left": "ಸಮ ಭಿನ್ನರಾಶಿ (Proper Fraction)",
+          "right": "ಅಂಶವು ಛೇದಕ್ಕಿಂತ ಚಿಕ್ಕದಾಗಿದೆ"
+        },
+        {
+          "left": "ವಿಷಮ ಭಿನ್ನರಾಶಿ (Improper Fraction)",
+          "right": "ಅಂಶವು ಛೇದಕ್ಕಿಂತ ದೊಡ್ಡದಾಗಿದೆ ಅಥವಾ ಸಮಾನವಾಗಿದೆ"
+        },
+        {
+          "left": "ಮಿಶ್ರ ಭಿನ್ನರಾಶಿ (Mixed Fraction)",
+          "right": "ಪೂರ್ಣ ಸಂಖ್ಯೆ ಮತ್ತು ಸಮ ಭಿನ್ನರಾಶಿಯ ಸಂಯೋಜನೆ"
+        },
+        {
+          "left": "ಸಜಾತಿ ಭಿನ್ನರಾಶಿಗಳು (Like Fractions)",
+          "right": "ಒಂದೇ ಛೇದವನ್ನು ಹೊಂದಿರುವ ಭಿನ್ನರಾಶಿಗಳು"
+        }
+      ],
       "reasoning": "ಇವುಗಳು ಭಿನ್ನರಾಶಿಗಳ ವಿವಿಧ ಪ್ರಕಾರಗಳ ಪ್ರಮಾಣಿತ ವ್ಯಾಖ್ಯಾನಗಳಾಗಿವೆ."
     }
   },
@@ -548,22 +572,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the improper fraction to its mixed fraction equivalent:",
-      "pairs": {
-        "15/4": "3 3/4",
-        "22/5": "4 2/5",
-        "17/3": "5 2/3",
-        "9/2": "4 1/2"
-      },
+      "pairs": [
+        {
+          "left": "15/4",
+          "right": "3 3/4"
+        },
+        {
+          "left": "22/5",
+          "right": "4 2/5"
+        },
+        {
+          "left": "17/3",
+          "right": "5 2/3"
+        },
+        {
+          "left": "9/2",
+          "right": "4 1/2"
+        }
+      ],
       "reasoning": "Divide the numerator by the denominator. The quotient becomes the whole number, and the remainder is the new numerator."
     },
     "kn": {
       "question": "ವಿಷಮ ಭಿನ್ನರಾಶಿಯನ್ನು ಅದರ ಸಮಾನವಾದ ಮಿಶ್ರ ಭಿನ್ನರಾಶಿಯೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "15/4": "3 3/4",
-        "22/5": "4 2/5",
-        "17/3": "5 2/3",
-        "9/2": "4 1/2"
-      },
+      "pairs": [
+        {
+          "left": "15/4",
+          "right": "3 3/4"
+        },
+        {
+          "left": "22/5",
+          "right": "4 2/5"
+        },
+        {
+          "left": "17/3",
+          "right": "5 2/3"
+        },
+        {
+          "left": "9/2",
+          "right": "4 1/2"
+        }
+      ],
       "reasoning": "ಅಂಶವನ್ನು ಛೇದದಿಂದ ಭಾಗಿಸಿ. ಭಾಗಲಬ್ಧವು ಪೂರ್ಣ ಸಂಖ್ಯೆಯಾಗುತ್ತದೆ ಮತ್ತು ಶೇಷವು ಹೊಸ ಅಂಶವಾಗುತ್ತದೆ."
     }
   },
@@ -664,22 +712,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the fractions to their simplest forms:",
-      "pairs": {
-        "12/16": "3/4",
-        "15/25": "3/5",
-        "18/24": "3/4",
-        "20/30": "2/3"
-      },
+      "pairs": [
+        {
+          "left": "12/16",
+          "right": "3/4"
+        },
+        {
+          "left": "15/25",
+          "right": "3/5"
+        },
+        {
+          "left": "18/24",
+          "right": "3/4"
+        },
+        {
+          "left": "20/30",
+          "right": "2/3"
+        }
+      ],
       "reasoning": "Divide the numerator and denominator by their highest common factor."
     },
     "kn": {
       "question": "ಭಿನ್ನರಾಶಿಗಳನ್ನು ಅವುಗಳ ಸರಳ ರೂಪಗಳಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "12/16": "3/4",
-        "15/25": "3/5",
-        "18/24": "3/4",
-        "20/30": "2/3"
-      },
+      "pairs": [
+        {
+          "left": "12/16",
+          "right": "3/4"
+        },
+        {
+          "left": "15/25",
+          "right": "3/5"
+        },
+        {
+          "left": "18/24",
+          "right": "3/4"
+        },
+        {
+          "left": "20/30",
+          "right": "2/3"
+        }
+      ],
       "reasoning": "ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಅವುಗಳ ಗರಿಷ್ಠ ಸಾಮಾನ್ಯ ಅಪವರ್ತನದಿಂದ ಭಾಗಿಸಿ."
     }
   },
@@ -807,22 +879,46 @@
     "difficulty": 3,
     "en": {
       "question": "Match the operation with its result:",
-      "pairs": {
-        "1/5 + 2/5": "3/5",
-        "7/8 - 3/8": "1/2",
-        "5/9 + 4/9": "1",
-        "4/7 - 2/7": "2/7"
-      },
+      "pairs": [
+        {
+          "left": "1/5 + 2/5",
+          "right": "3/5"
+        },
+        {
+          "left": "7/8 - 3/8",
+          "right": "1/2"
+        },
+        {
+          "left": "5/9 + 4/9",
+          "right": "1"
+        },
+        {
+          "left": "4/7 - 2/7",
+          "right": "2/7"
+        }
+      ],
       "reasoning": "Perform the addition or subtraction on the numerators while keeping the denominator same."
     },
     "kn": {
       "question": "ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಅದರ ಫಲಿತಾಂಶದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "1/5 + 2/5": "3/5",
-        "7/8 - 3/8": "1/2",
-        "5/9 + 4/9": "1",
-        "4/7 - 2/7": "2/7"
-      },
+      "pairs": [
+        {
+          "left": "1/5 + 2/5",
+          "right": "3/5"
+        },
+        {
+          "left": "7/8 - 3/8",
+          "right": "1/2"
+        },
+        {
+          "left": "5/9 + 4/9",
+          "right": "1"
+        },
+        {
+          "left": "4/7 - 2/7",
+          "right": "2/7"
+        }
+      ],
       "reasoning": "ಛೇದವನ್ನು ಹಾಗೆಯೇ ಇಟ್ಟುಕೊಂಡು ಅಂಶಗಳ ಸಂಕಲನ ಅಥವಾ ವ್ಯವಕಲನವನ್ನು ಮಾಡಿ."
     }
   },
@@ -923,22 +1019,46 @@
     "difficulty": 3,
     "en": {
       "question": "Match the visual representation to the fraction (assuming a pizza cut into equal slices):",
-      "pairs": {
-        "3 slices out of 4": "3/4",
-        "1 slice out of 2": "1/2",
-        "5 slices out of 8": "5/8",
-        "2 slices out of 6": "1/3"
-      },
+      "pairs": [
+        {
+          "left": "3 slices out of 4",
+          "right": "3/4"
+        },
+        {
+          "left": "1 slice out of 2",
+          "right": "1/2"
+        },
+        {
+          "left": "5 slices out of 8",
+          "right": "5/8"
+        },
+        {
+          "left": "2 slices out of 6",
+          "right": "1/3"
+        }
+      ],
       "reasoning": "The number of taken slices is the numerator and total slices is the denominator. 2/6 simplifies to 1/3."
     },
     "kn": {
       "question": "ದೃಶ್ಯ ಪ್ರಾತಿನಿಧ್ಯವನ್ನು ಭಿನ್ನರಾಶಿಗೆ ಹೊಂದಿಸಿ (ಪಿಜ್ಜಾವನ್ನು ಸಮಾನ ತುಂಡುಗಳಾಗಿ ಕತ್ತರಿಸಲಾಗಿದೆ ಎಂದು ಭಾವಿಸಿ):",
-      "pairs": {
-        "4 ರಲ್ಲಿ 3 ತುಂಡುಗಳು": "3/4",
-        "2 ರಲ್ಲಿ 1 ತುಂಡು": "1/2",
-        "8 ರಲ್ಲಿ 5 ತುಂಡುಗಳು": "5/8",
-        "6 ರಲ್ಲಿ 2 ತುಂಡುಗಳು": "1/3"
-      },
+      "pairs": [
+        {
+          "left": "4 ರಲ್ಲಿ 3 ತುಂಡುಗಳು",
+          "right": "3/4"
+        },
+        {
+          "left": "2 ರಲ್ಲಿ 1 ತುಂಡು",
+          "right": "1/2"
+        },
+        {
+          "left": "8 ರಲ್ಲಿ 5 ತುಂಡುಗಳು",
+          "right": "5/8"
+        },
+        {
+          "left": "6 ರಲ್ಲಿ 2 ತುಂಡುಗಳು",
+          "right": "1/3"
+        }
+      ],
       "reasoning": "ತೆಗೆದುಕೊಂಡ ತುಂಡುಗಳ ಸಂಖ್ಯೆಯು ಅಂಶವಾಗಿದೆ ಮತ್ತು ಒಟ್ಟು ತುಂಡುಗಳು ಛೇದವಾಗಿದೆ. 2/6 ಸರಳೀಕೃತಗೊಂಡು 1/3 ಆಗುತ್ತದೆ."
     }
   },
@@ -1047,22 +1167,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the fractions to their sum or difference:",
-      "pairs": {
-        "2/5 + 1/5": "3/5",
-        "8/9 - 2/9": "6/9",
-        "3/7 + 4/7": "1",
-        "5/12 - 1/12": "4/12"
-      },
+      "pairs": [
+        {
+          "left": "2/5 + 1/5",
+          "right": "3/5"
+        },
+        {
+          "left": "8/9 - 2/9",
+          "right": "6/9"
+        },
+        {
+          "left": "3/7 + 4/7",
+          "right": "1"
+        },
+        {
+          "left": "5/12 - 1/12",
+          "right": "4/12"
+        }
+      ],
       "reasoning": "Add or subtract the numerators while keeping the denominators the same."
     },
     "kn": {
       "question": "ಭಿನ್ನರಾಶಿಗಳನ್ನು ಅವುಗಳ ಮೊತ್ತ ಅಥವಾ ವ್ಯತ್ಯಾಸದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "2/5 + 1/5": "3/5",
-        "8/9 - 2/9": "6/9",
-        "3/7 + 4/7": "1",
-        "5/12 - 1/12": "4/12"
-      },
+      "pairs": [
+        {
+          "left": "2/5 + 1/5",
+          "right": "3/5"
+        },
+        {
+          "left": "8/9 - 2/9",
+          "right": "6/9"
+        },
+        {
+          "left": "3/7 + 4/7",
+          "right": "1"
+        },
+        {
+          "left": "5/12 - 1/12",
+          "right": "4/12"
+        }
+      ],
       "reasoning": "ಛೇದಗಳನ್ನು ಹಾಗೆಯೇ ಇಟ್ಟುಕೊಂಡು ಅಂಶಗಳನ್ನು ಸೇರಿಸಿ ಅಥವಾ ಕಳೆಯಿರಿ."
     }
   },
@@ -1163,22 +1307,46 @@
     "difficulty": 1,
     "en": {
       "question": "Match the visual diagram to its fraction equivalent:",
-      "pairs": {
-        "A circle divided into 2 equal parts, 1 shaded": "1/2",
-        "A rectangle divided into 4 equal parts, 3 shaded": "3/4",
-        "A square divided into 3 equal parts, 2 shaded": "2/3",
-        "A pizza with 8 slices, 1 slice eaten": "1/8"
-      },
+      "pairs": [
+        {
+          "left": "A circle divided into 2 equal parts, 1 shaded",
+          "right": "1/2"
+        },
+        {
+          "left": "A rectangle divided into 4 equal parts, 3 shaded",
+          "right": "3/4"
+        },
+        {
+          "left": "A square divided into 3 equal parts, 2 shaded",
+          "right": "2/3"
+        },
+        {
+          "left": "A pizza with 8 slices, 1 slice eaten",
+          "right": "1/8"
+        }
+      ],
       "reasoning": "The shaded or taken parts represent the numerator and the total equal parts represent the denominator."
     },
     "kn": {
       "question": "ದೃಶ್ಯ ರೇಖಾಚಿತ್ರವನ್ನು ಅದರ ಸಮಾನ ಭಿನ್ನರಾಶಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "ವೃತ್ತವನ್ನು 2 ಸಮಾನ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಿ, 1 ಛಾಯೆಗೊಳಿಸಲಾಗಿದೆ": "1/2",
-        "ಆಯತವನ್ನು 4 ಸಮಾನ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಿ, 3 ಛಾಯೆಗೊಳಿಸಲಾಗಿದೆ": "3/4",
-        "ಚೌಕವನ್ನು 3 ಸಮಾನ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಿ, 2 ಛಾಯೆಗೊಳಿಸಲಾಗಿದೆ": "2/3",
-        "8 ತುಂಡುಗಳಿರುವ ಪಿಜ್ಜಾ, 1 ತುಂಡು ತಿಂದಿದೆ": "1/8"
-      },
+      "pairs": [
+        {
+          "left": "ವೃತ್ತವನ್ನು 2 ಸಮಾನ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಿ, 1 ಛಾಯೆಗೊಳಿಸಲಾಗಿದೆ",
+          "right": "1/2"
+        },
+        {
+          "left": "ಆಯತವನ್ನು 4 ಸಮಾನ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಿ, 3 ಛಾಯೆಗೊಳಿಸಲಾಗಿದೆ",
+          "right": "3/4"
+        },
+        {
+          "left": "ಚೌಕವನ್ನು 3 ಸಮಾನ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಿ, 2 ಛಾಯೆಗೊಳಿಸಲಾಗಿದೆ",
+          "right": "2/3"
+        },
+        {
+          "left": "8 ತುಂಡುಗಳಿರುವ ಪಿಜ್ಜಾ, 1 ತುಂಡು ತಿಂದಿದೆ",
+          "right": "1/8"
+        }
+      ],
       "reasoning": "ಛಾಯೆಗೊಳಿಸಿದ ಅಥವಾ ತೆಗೆದುಕೊಂಡ ಭಾಗಗಳು ಅಂಶವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ ಮತ್ತು ಒಟ್ಟು ಸಮಾನ ಭಾಗಗಳು ಛೇದವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ."
     }
   },

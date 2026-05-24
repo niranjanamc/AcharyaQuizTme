@@ -804,7 +804,7 @@
     "type": "single",
     "difficulty": 2,
     "en": {
-      "question": "What is the capital of Iraq?",
+      "question": "Baghdad is the capital city of which country?",
       "options": [
         "Colombo",
         "Pretoria",
@@ -815,7 +815,7 @@
       "reasoning": "The correct answer is Baghdad."
     },
     "kn": {
-      "question": "ಇರಾಕ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "question": "ಬಾಗ್ದಾದ್ ಯಾವ ದೇಶದ ರಾಜಧಾನಿ ನಗರ?",
       "options": [
         "ಕೊಲಂಬೊ",
         "ಪ್ರಿಟೋರಿಯಾ",
@@ -831,7 +831,7 @@
     "type": "single",
     "difficulty": 2,
     "en": {
-      "question": "What is the capital of Israel?",
+      "question": "Baghdad is the capital of which country?",
       "options": [
         "Tehran",
         "Jerusalem",
@@ -842,7 +842,7 @@
       "reasoning": "The correct answer is Jerusalem."
     },
     "kn": {
-      "question": "ಇಸ್ರೇಲ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "question": "ಬಾಗ್ದಾದ್ ಯಾವ ದೇಶದ ರಾಜಧಾನಿ?",
       "options": [
         "ಟೆಹ್ರಾನ್",
         "ಜೆರುಸಲೆಮ್",
@@ -1344,7 +1344,7 @@
     "type": "match",
     "difficulty": 2,
     "en": {
-      "question": "Match the following countries with their capitals:",
+      "question": "Match the following countries with their capitals: (China, Russia...)",
       "pairs": [
         {
           "left": "China",
@@ -1366,7 +1366,7 @@
       "reasoning": "These are the correct capitals for the given countries."
     },
     "kn": {
-      "question": "ಕೆಳಗಿನ ದೇಶಗಳನ್ನು ಅವುಗಳ ರಾಜಧಾನಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "question": "ಕೆಳಗಿನ ದೇಶಗಳನ್ನು ಅವುಗಳ ರಾಜಧಾನಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ: (ಚೀನಾ, ರಷ್ಯಾ...)",
       "pairs": [
         {
           "left": "ಚೀನಾ",
@@ -1393,7 +1393,7 @@
     "type": "match",
     "difficulty": 2,
     "en": {
-      "question": "Match the following countries with their capitals:",
+      "question": "Match the following countries with their capitals: (Thailand, Indonesia...)",
       "pairs": [
         {
           "left": "Thailand",
@@ -1415,7 +1415,7 @@
       "reasoning": "These are the correct capitals for the given countries."
     },
     "kn": {
-      "question": "ಕೆಳಗಿನ ದೇಶಗಳನ್ನು ಅವುಗಳ ರಾಜಧಾನಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "question": "ಕೆಳಗಿನ ದೇಶಗಳನ್ನು ಅವುಗಳ ರಾಜಧಾನಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ: (ಥೈಲ್ಯಾಂಡ್, ಇಂಡೋನೇಷ್ಯಾ...)",
       "pairs": [
         {
           "left": "ಥೈಲ್ಯಾಂಡ್",
@@ -1442,7 +1442,7 @@
     "type": "match",
     "difficulty": 2,
     "en": {
-      "question": "Match the following countries with their capitals:",
+      "question": "Match the following countries with their capitals: (Switzerland, Sweden...)",
       "pairs": [
         {
           "left": "Switzerland",
@@ -1464,7 +1464,7 @@
       "reasoning": "These are the correct capitals for the given countries."
     },
     "kn": {
-      "question": "ಕೆಳಗಿನ ದೇಶಗಳನ್ನು ಅವುಗಳ ರಾಜಧಾನಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "question": "ಕೆಳಗಿನ ದೇಶಗಳನ್ನು ಅವುಗಳ ರಾಜಧಾನಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ: (ಸ್ವಿಟ್ಜರ್ಲೆಂಡ್, ಸ್ವೀಡನ್...)",
       "pairs": [
         {
           "left": "ಸ್ವಿಟ್ಜರ್ಲೆಂಡ್",
@@ -1491,7 +1491,7 @@
     "type": "match",
     "difficulty": 2,
     "en": {
-      "question": "Match the following countries with their capitals:",
+      "question": "Match the following countries with their capitals: (Kenya, Nigeria...)",
       "pairs": [
         {
           "left": "Kenya",
@@ -1513,7 +1513,7 @@
       "reasoning": "These are the correct capitals for the given countries."
     },
     "kn": {
-      "question": "ಕೆಳಗಿನ ದೇಶಗಳನ್ನು ಅವುಗಳ ರಾಜಧಾನಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "question": "ಕೆಳಗಿನ ದೇಶಗಳನ್ನು ಅವುಗಳ ರಾಜಧಾನಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ: (ಕೀನ್ಯಾ, ನೈಜೀರಿಯಾ...)",
       "pairs": [
         {
           "left": "ಕೀನ್ಯಾ",
@@ -1540,7 +1540,7 @@
     "type": "match",
     "difficulty": 2,
     "en": {
-      "question": "Match the following countries with their capitals:",
+      "question": "Match the following countries with their capitals: (Nepal, Afghanistan...)",
       "pairs": [
         {
           "left": "Nepal",
@@ -1562,7 +1562,7 @@
       "reasoning": "These are the correct capitals for the given countries."
     },
     "kn": {
-      "question": "ಕೆಳಗಿನ ದೇಶಗಳನ್ನು ಅವುಗಳ ರಾಜಧಾನಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "question": "ಕೆಳಗಿನ ದೇಶಗಳನ್ನು ಅವುಗಳ ರಾಜಧಾನಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ: (ನೇಪಾಳ, ಅಫ್ಘಾನಿಸ್ತಾನ...)",
       "pairs": [
         {
           "left": "ನೇಪಾಳ",

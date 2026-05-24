@@ -499,22 +499,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the property difference used for separation to the correct method:",
-      "pairs": {
-        "Difference in size": "Sieving",
-        "Difference in weight": "Winnowing",
-        "Solubility in water": "Evaporation",
-        "Heavier insoluble particles settling down": "Sedimentation"
-      },
+      "pairs": [
+        {
+          "left": "Difference in size",
+          "right": "Sieving"
+        },
+        {
+          "left": "Difference in weight",
+          "right": "Winnowing"
+        },
+        {
+          "left": "Solubility in water",
+          "right": "Evaporation"
+        },
+        {
+          "left": "Heavier insoluble particles settling down",
+          "right": "Sedimentation"
+        }
+      ],
       "reasoning": "Each separation method relies on a specific physical property. Sieving uses size differences, winnowing uses weight, evaporation uses state changes of solvents, and sedimentation relies on dense solids settling in a liquid."
     },
     "kn": {
       "question": "ಬೇರ್ಪಡಿಸಲು ಬಳಸುವ ಗುಣಲಕ್ಷಣದ ವ್ಯತ್ಯಾಸವನ್ನು ಸರಿಯಾದ ವಿಧಾನಕ್ಕೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "ಗಾತ್ರದಲ್ಲಿನ ವ್ಯತ್ಯಾಸ": "ಜರಡಿ ಹಿಡಿಯುವುದು (Sieving)",
-        "ತೂಕದಲ್ಲಿನ ವ್ಯತ್ಯಾಸ": "ತೂರುವುದು (Winnowing)",
-        "ನೀರಿನಲ್ಲಿ ಕರಗುವಿಕೆ": "ಆವಿಯಾಗುವಿಕೆ (Evaporation)",
-        "ಭಾರವಾದ ಕರಗದ ಕಣಗಳು ತಳವೂರುವುದು": "ತಳವೂರಲು ಬಿಡುವುದು (Sedimentation)"
-      },
+      "pairs": [
+        {
+          "left": "ಗಾತ್ರದಲ್ಲಿನ ವ್ಯತ್ಯಾಸ",
+          "right": "ಜರಡಿ ಹಿಡಿಯುವುದು (Sieving)"
+        },
+        {
+          "left": "ತೂಕದಲ್ಲಿನ ವ್ಯತ್ಯಾಸ",
+          "right": "ತೂರುವುದು (Winnowing)"
+        },
+        {
+          "left": "ನೀರಿನಲ್ಲಿ ಕರಗುವಿಕೆ",
+          "right": "ಆವಿಯಾಗುವಿಕೆ (Evaporation)"
+        },
+        {
+          "left": "ಭಾರವಾದ ಕರಗದ ಕಣಗಳು ತಳವೂರುವುದು",
+          "right": "ತಳವೂರಲು ಬಿಡುವುದು (Sedimentation)"
+        }
+      ],
       "reasoning": "ಪ್ರತಿ ಬೇರ್ಪಡಿಸುವ ವಿಧಾನವು ನಿರ್ದಿಷ್ಟ ಭೌತಿಕ ಗುಣಲಕ್ಷಣವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ. ಜರಡಿಯು ಗಾತ್ರದ ವ್ಯತ್ಯಾಸಗಳನ್ನು ಬಳಸುತ್ತದೆ, ತೂರುವುದು ತೂಕವನ್ನು ಬಳಸುತ್ತದೆ, ಆವಿಯಾಗುವಿಕೆಯು ದ್ರಾವಕಗಳ ಸ್ಥಿತಿಯ ಬದಲಾವಣೆಗಳನ್ನು ಬಳಸುತ್ತದೆ, ಮತ್ತು ಸೆಡಿಮೆಂಟೇಶನ್ ದ್ರವದಲ್ಲಿ ನೆಲೆಗೊಳ್ಳುವ ದಟ್ಟವಾದ ಘನವಸ್ತುಗಳನ್ನು ಅವಲಂಬಿಸಿದೆ."
     }
   },
@@ -613,22 +637,46 @@
     "difficulty": 3,
     "en": {
       "question": "Match the mixture with the best method to separate it:",
-      "pairs": {
-        "Salt and water": "Evaporation",
-        "Mud and water": "Filtration",
-        "Wheat grains and husk": "Winnowing",
-        "Stones from rice": "Handpicking"
-      },
+      "pairs": [
+        {
+          "left": "Salt and water",
+          "right": "Evaporation"
+        },
+        {
+          "left": "Mud and water",
+          "right": "Filtration"
+        },
+        {
+          "left": "Wheat grains and husk",
+          "right": "Winnowing"
+        },
+        {
+          "left": "Stones from rice",
+          "right": "Handpicking"
+        }
+      ],
       "reasoning": "Evaporation separates dissolved solids. Filtration removes insoluble fine solids. Winnowing uses wind for weight difference. Handpicking removes visible impurities by hand."
     },
     "kn": {
       "question": "ಮಿಶ್ರಣವನ್ನು ಬೇರ್ಪಡಿಸಲು ಉತ್ತಮ ವಿಧಾನದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "ಉಪ್ಪು ಮತ್ತು ನೀರು": "ಆವಿಯಾಗುವಿಕೆ (Evaporation)",
-        "ಮಣ್ಣು ಮತ್ತು ನೀರು": "ಸೋಸುವಿಕೆ (Filtration)",
-        "ಗೋಧಿ ಕಾಳುಗಳು ಮತ್ತು ಹೊಟ್ಟು": "ತೂರುವುದು (Winnowing)",
-        "ಅಕ್ಕಿಯಿಂದ ಕಲ್ಲುಗಳು": "ಕೈಯಿಂದ ಆರಿಸುವುದು (Handpicking)"
-      },
+      "pairs": [
+        {
+          "left": "ಉಪ್ಪು ಮತ್ತು ನೀರು",
+          "right": "ಆವಿಯಾಗುವಿಕೆ (Evaporation)"
+        },
+        {
+          "left": "ಮಣ್ಣು ಮತ್ತು ನೀರು",
+          "right": "ಸೋಸುವಿಕೆ (Filtration)"
+        },
+        {
+          "left": "ಗೋಧಿ ಕಾಳುಗಳು ಮತ್ತು ಹೊಟ್ಟು",
+          "right": "ತೂರುವುದು (Winnowing)"
+        },
+        {
+          "left": "ಅಕ್ಕಿಯಿಂದ ಕಲ್ಲುಗಳು",
+          "right": "ಕೈಯಿಂದ ಆರಿಸುವುದು (Handpicking)"
+        }
+      ],
       "reasoning": "ಆವಿಯಾಗುವಿಕೆಯು ಕರಗಿದ ಘನವಸ್ತುಗಳನ್ನು ಬೇರ್ಪಡಿಸುತ್ತದೆ. ಫಿಲ್ಟರೇಶನ್ ಕರಗದ ಸೂಕ್ಷ್ಮ ಘನವಸ್ತುಗಳನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ. ತೂರುವುದು ತೂಕದ ವ್ಯತ್ಯಾಸಕ್ಕಾಗಿ ಗಾಳಿಯನ್ನು ಬಳಸುತ್ತದೆ. ಕೈಯಿಂದ ಆರಿಸುವುದು ಗೋಚರಿಸುವ ಕಲ್ಮಶಗಳನ್ನು ಕೈಯಿಂದ ತೆಗೆದುಹಾಕುತ್ತದೆ."
     }
   },
@@ -731,22 +779,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the term to its definition:",
-      "pairs": {
-        "Saturated Solution": "A solution in which no more substance can be dissolved.",
-        "Solute": "The substance that is dissolved.",
-        "Solvent": "The liquid in which a substance dissolves.",
-        "Filtrate": "The clear liquid obtained after filtration."
-      },
+      "pairs": [
+        {
+          "left": "Saturated Solution",
+          "right": "A solution in which no more substance can be dissolved."
+        },
+        {
+          "left": "Solute",
+          "right": "The substance that is dissolved."
+        },
+        {
+          "left": "Solvent",
+          "right": "The liquid in which a substance dissolves."
+        },
+        {
+          "left": "Filtrate",
+          "right": "The clear liquid obtained after filtration."
+        }
+      ],
       "reasoning": "Understanding these terms is key to chemistry basics in separating substances."
     },
     "kn": {
       "question": "ಪದವನ್ನು ಅದರ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "ಪರ್ಯಾಪ್ತ ದ್ರಾವಣ (Saturated Solution)": "ಇನ್ನಷ್ಟು ವಸ್ತುವನ್ನು ಕರಗಿಸಲು ಸಾಧ್ಯವಿಲ್ಲದ ದ್ರಾವಣ.",
-        "ದ್ರಾವ್ಯ (Solute)": "ಕರಗುವ ವಸ್ತು.",
-        "ದ್ರಾವಕ (Solvent)": "ವಸ್ತುವು ಕರಗುವ ದ್ರವ.",
-        "ಶುದ್ಧೀಕರಿಸಿದ ದ್ರವ (Filtrate)": "ಸೋಸುವಿಕೆಯ ನಂತರ ಪಡೆಯಲಾದ ತಿಳಿಯಾದ ದ್ರವ."
-      },
+      "pairs": [
+        {
+          "left": "ಪರ್ಯಾಪ್ತ ದ್ರಾವಣ (Saturated Solution)",
+          "right": "ಇನ್ನಷ್ಟು ವಸ್ತುವನ್ನು ಕರಗಿಸಲು ಸಾಧ್ಯವಿಲ್ಲದ ದ್ರಾವಣ."
+        },
+        {
+          "left": "ದ್ರಾವ್ಯ (Solute)",
+          "right": "ಕರಗುವ ವಸ್ತು."
+        },
+        {
+          "left": "ದ್ರಾವಕ (Solvent)",
+          "right": "ವಸ್ತುವು ಕರಗುವ ದ್ರವ."
+        },
+        {
+          "left": "ಶುದ್ಧೀಕರಿಸಿದ ದ್ರವ (Filtrate)",
+          "right": "ಸೋಸುವಿಕೆಯ ನಂತರ ಪಡೆಯಲಾದ ತಿಳಿಯಾದ ದ್ರವ."
+        }
+      ],
       "reasoning": "ವಸ್ತುಗಳನ್ನು ಬೇರ್ಪಡಿಸುವ ಮೂಲಭೂತ ರಸಾಯನಶಾಸ್ತ್ರವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಈ ಪದಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಪ್ರಮುಖವಾಗಿದೆ."
     }
   },
@@ -897,22 +969,46 @@
     "difficulty": 1,
     "en": {
       "question": "Match the tool/substance with the separation process it's used for:",
-      "pairs": {
-        "Sieve": "Sieving",
-        "Filter paper": "Filtration",
-        "Magnet": "Magnetic separation",
-        "Wind/Air": "Winnowing"
-      },
+      "pairs": [
+        {
+          "left": "Sieve",
+          "right": "Sieving"
+        },
+        {
+          "left": "Filter paper",
+          "right": "Filtration"
+        },
+        {
+          "left": "Magnet",
+          "right": "Magnetic separation"
+        },
+        {
+          "left": "Wind/Air",
+          "right": "Winnowing"
+        }
+      ],
       "reasoning": "These are common tools or natural elements used for separating different types of mixtures."
     },
     "kn": {
       "question": "ಉಪಕರಣ/ವಸ್ತುವನ್ನು ಅದು ಬಳಸುವ ಬೇರ್ಪಡಿಸುವ ಪ್ರಕ್ರಿಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "ಜರಡಿ (Sieve)": "ಜರಡಿ ಹಿಡಿಯುವುದು (Sieving)",
-        "ಫಿಲ್ಟರ್ ಪೇಪರ್": "ಸೋಸುವಿಕೆ (Filtration)",
-        "ಕಾಂತ (Magnet)": "ಕಾಂತೀಯ ಬೇರ್ಪಡಿಸುವಿಕೆ",
-        "ಗಾಳಿ/ವಾಯು": "ತೂರುವುದು (Winnowing)"
-      },
+      "pairs": [
+        {
+          "left": "ಜರಡಿ (Sieve)",
+          "right": "ಜರಡಿ ಹಿಡಿಯುವುದು (Sieving)"
+        },
+        {
+          "left": "ಫಿಲ್ಟರ್ ಪೇಪರ್",
+          "right": "ಸೋಸುವಿಕೆ (Filtration)"
+        },
+        {
+          "left": "ಕಾಂತ (Magnet)",
+          "right": "ಕಾಂತೀಯ ಬೇರ್ಪಡಿಸುವಿಕೆ"
+        },
+        {
+          "left": "ಗಾಳಿ/ವಾಯು",
+          "right": "ತೂರುವುದು (Winnowing)"
+        }
+      ],
       "reasoning": "ಇವು ವಿವಿಧ ರೀತಿಯ ಮಿಶ್ರಣಗಳನ್ನು ಬೇರ್ಪಡಿಸಲು ಬಳಸುವ ಸಾಮಾನ್ಯ ಉಪಕರಣಗಳು ಅಥವಾ ನೈಸರ್ಗಿಕ ಅಂಶಗಳಾಗಿವೆ."
     }
   },

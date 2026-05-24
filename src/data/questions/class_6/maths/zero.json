@@ -548,22 +548,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the daily life situation with the correct integer:",
-      "pairs": {
-        "A profit of ₹100": "+100",
-        "A loss of ₹50": "-50",
-        "10°C below zero": "-10",
-        "20m above sea level": "+20"
-      },
+      "pairs": [
+        {
+          "left": "A profit of ₹100",
+          "right": "+100"
+        },
+        {
+          "left": "A loss of ₹50",
+          "right": "-50"
+        },
+        {
+          "left": "10°C below zero",
+          "right": "-10"
+        },
+        {
+          "left": "20m above sea level",
+          "right": "+20"
+        }
+      ],
       "reasoning": "Profits and heights above sea level are positive. Losses and depths/temperatures below zero are negative."
     },
     "kn": {
       "question": "ದೈನಂದಿನ ಜೀವನದ ಸನ್ನಿವೇಶವನ್ನು ಸರಿಯಾದ ಪೂರ್ಣಾಂಕದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "₹100 ಲಾಭ": "+100",
-        "₹50 ನಷ್ಟ": "-50",
-        "ಸೊನ್ನೆಗಿಂತ 10°C ಕಡಿಮೆ ತಾಪಮಾನ": "-10",
-        "ಸಮುದ್ರ ಮಟ್ಟದಿಂದ 20m ಮೇಲೆ": "+20"
-      },
+      "pairs": [
+        {
+          "left": "₹100 ಲಾಭ",
+          "right": "+100"
+        },
+        {
+          "left": "₹50 ನಷ್ಟ",
+          "right": "-50"
+        },
+        {
+          "left": "ಸೊನ್ನೆಗಿಂತ 10°C ಕಡಿಮೆ ತಾಪಮಾನ",
+          "right": "-10"
+        },
+        {
+          "left": "ಸಮುದ್ರ ಮಟ್ಟದಿಂದ 20m ಮೇಲೆ",
+          "right": "+20"
+        }
+      ],
       "reasoning": "ಲಾಭ ಮತ್ತು ಸಮುದ್ರ ಮಟ್ಟದಿಂದ ಮೇಲಿರುವ ಎತ್ತರಗಳು ಧನಾತ್ಮಕವಾಗಿರುತ್ತವೆ. ನಷ್ಟ ಮತ್ತು ಸೊನ್ನೆಗಿಂತ ಕೆಳಗಿನ ಆಳ/ತಾಪಮಾನಗಳು ಋಣಾತ್ಮಕವಾಗಿರುತ್ತವೆ."
     }
   },
@@ -573,22 +597,46 @@
     "difficulty": 3,
     "en": {
       "question": "Match the opposite actions:",
-      "pairs": {
-        "Deposit": "Withdrawal",
-        "Moving Right": "Moving Left",
-        "Above": "Below",
-        "Profit": "Loss"
-      },
+      "pairs": [
+        {
+          "left": "Deposit",
+          "right": "Withdrawal"
+        },
+        {
+          "left": "Moving Right",
+          "right": "Moving Left"
+        },
+        {
+          "left": "Above",
+          "right": "Below"
+        },
+        {
+          "left": "Profit",
+          "right": "Loss"
+        }
+      ],
       "reasoning": "In mathematics, these pairs represent opposite directions on the number line (positive vs negative)."
     },
     "kn": {
       "question": "ವಿರುದ್ಧ ಕ್ರಿಯೆಗಳನ್ನು ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "ಠೇವಣಿ (Deposit)": "ಹಿಂಪಡೆಯುವಿಕೆ (Withdrawal)",
-        "ಬಲಕ್ಕೆ ಚಲಿಸುವುದು": "ಎಡಕ್ಕೆ ಚಲಿಸುವುದು",
-        "ಮೇಲೆ (Above)": "ಕೆಳಗೆ (Below)",
-        "ಲಾಭ (Profit)": "ನಷ್ಟ (Loss)"
-      },
+      "pairs": [
+        {
+          "left": "ಠೇವಣಿ (Deposit)",
+          "right": "ಹಿಂಪಡೆಯುವಿಕೆ (Withdrawal)"
+        },
+        {
+          "left": "ಬಲಕ್ಕೆ ಚಲಿಸುವುದು",
+          "right": "ಎಡಕ್ಕೆ ಚಲಿಸುವುದು"
+        },
+        {
+          "left": "ಮೇಲೆ (Above)",
+          "right": "ಕೆಳಗೆ (Below)"
+        },
+        {
+          "left": "ಲಾಭ (Profit)",
+          "right": "ನಷ್ಟ (Loss)"
+        }
+      ],
       "reasoning": "ಗಣಿತಶಾಸ್ತ್ರದಲ್ಲಿ, ಈ ಜೋಡಿಗಳು ಸಂಖ್ಯಾರೇಖೆಯಲ್ಲಿ ವಿರುದ್ಧ ದಿಕ್ಕುಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ (ಧನಾತ್ಮಕ ವಿರುದ್ಧ ಋಣಾತ್ಮಕ)."
     }
   },
@@ -718,22 +766,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match each number with its description:",
-      "pairs": {
-        "0": "Neither positive nor negative",
-        "-5": "A negative integer",
-        "7": "A positive integer",
-        "-1": "Greatest negative integer"
-      },
+      "pairs": [
+        {
+          "left": "0",
+          "right": "Neither positive nor negative"
+        },
+        {
+          "left": "-5",
+          "right": "A negative integer"
+        },
+        {
+          "left": "7",
+          "right": "A positive integer"
+        },
+        {
+          "left": "-1",
+          "right": "Greatest negative integer"
+        }
+      ],
       "reasoning": "0 has no sign. -1 is the closest negative integer to zero, making it the greatest negative integer."
     },
     "kn": {
       "question": "ಪ್ರತಿ ಸಂಖ್ಯೆಯನ್ನು ಅದರ ವಿವರಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "0": "ಧನಾತ್ಮಕವೂ ಅಲ್ಲ, ಋಣಾತ್ಮಕವೂ ಅಲ್ಲ",
-        "-5": "ಒಂದು ಋಣಾತ್ಮಕ ಪೂರ್ಣಾಂಕ",
-        "7": "ಒಂದು ಧನಾತ್ಮಕ ಪೂರ್ಣಾಂಕ",
-        "-1": "ಅತಿ ದೊಡ್ಡ ಋಣಾತ್ಮಕ ಪೂರ್ಣಾಂಕ"
-      },
+      "pairs": [
+        {
+          "left": "0",
+          "right": "ಧನಾತ್ಮಕವೂ ಅಲ್ಲ, ಋಣಾತ್ಮಕವೂ ಅಲ್ಲ"
+        },
+        {
+          "left": "-5",
+          "right": "ಒಂದು ಋಣಾತ್ಮಕ ಪೂರ್ಣಾಂಕ"
+        },
+        {
+          "left": "7",
+          "right": "ಒಂದು ಧನಾತ್ಮಕ ಪೂರ್ಣಾಂಕ"
+        },
+        {
+          "left": "-1",
+          "right": "ಅತಿ ದೊಡ್ಡ ಋಣಾತ್ಮಕ ಪೂರ್ಣಾಂಕ"
+        }
+      ],
       "reasoning": "0 ಚಿಹ್ನೆಯನ್ನು ಹೊಂದಿಲ್ಲ. -1 ಸೊನ್ನೆಗೆ ಹತ್ತಿರವಿರುವ ಋಣಾತ್ಮಕ ಪೂರ್ಣಾಂಕವಾಗಿದೆ, ಆದ್ದರಿಂದ ಇದು ಅತಿ ದೊಡ್ಡ ಋಣಾತ್ಮಕ ಪೂರ್ಣಾಂಕವಾಗಿದೆ."
     }
   },
@@ -807,22 +879,46 @@
     "difficulty": 1,
     "en": {
       "question": "Match the integer with its distance from zero:",
-      "pairs": {
-        "-3": "3",
-        "5": "5",
-        "-10": "10",
-        "0": "0"
-      },
+      "pairs": [
+        {
+          "left": "-3",
+          "right": "3"
+        },
+        {
+          "left": "5",
+          "right": "5"
+        },
+        {
+          "left": "-10",
+          "right": "10"
+        },
+        {
+          "left": "0",
+          "right": "0"
+        }
+      ],
       "reasoning": "The distance from zero is always positive. This is called the absolute value."
     },
     "kn": {
       "question": "ಪೂರ್ಣಾಂಕವನ್ನು ಸೊನ್ನೆಯಿಂದ ಅದರ ದೂರದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "-3": "3",
-        "5": "5",
-        "-10": "10",
-        "0": "0"
-      },
+      "pairs": [
+        {
+          "left": "-3",
+          "right": "3"
+        },
+        {
+          "left": "5",
+          "right": "5"
+        },
+        {
+          "left": "-10",
+          "right": "10"
+        },
+        {
+          "left": "0",
+          "right": "0"
+        }
+      ],
       "reasoning": "ಸೊನ್ನೆಯಿಂದ ದೂರವು ಯಾವಾಗಲೂ ಧನಾತ್ಮಕವಾಗಿರುತ್ತದೆ. ಇದನ್ನು ನಿರಪೇಕ್ಷ ಮೌಲ್ಯ (absolute value) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
     }
   },
@@ -946,22 +1042,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the direction on the number line:",
-      "pairs": {
-        "Moving right from 0": "Positive numbers",
-        "Moving left from 0": "Negative numbers",
-        "Moving right from -3": "Increasing value",
-        "Moving left from 5": "Decreasing value"
-      },
+      "pairs": [
+        {
+          "left": "Moving right from 0",
+          "right": "Positive numbers"
+        },
+        {
+          "left": "Moving left from 0",
+          "right": "Negative numbers"
+        },
+        {
+          "left": "Moving right from -3",
+          "right": "Increasing value"
+        },
+        {
+          "left": "Moving left from 5",
+          "right": "Decreasing value"
+        }
+      ],
       "reasoning": "Moving right always means the numbers get larger, and moving left means they get smaller."
     },
     "kn": {
       "question": "ಸಂಖ್ಯಾರೇಖೆಯಲ್ಲಿನ ದಿಕ್ಕನ್ನು ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "0 ಯಿಂದ ಬಲಕ್ಕೆ ಚಲಿಸುವುದು": "ಧನಾತ್ಮಕ ಸಂಖ್ಯೆಗಳು",
-        "0 ಯಿಂದ ಎಡಕ್ಕೆ ಚಲಿಸುವುದು": "ಋಣಾತ್ಮಕ ಸಂಖ್ಯೆಗಳು",
-        "-3 ರಿಂದ ಬಲಕ್ಕೆ ಚಲಿಸುವುದು": "ಮೌಲ್ಯ ಹೆಚ್ಚಾಗುವುದು",
-        "5 ರಿಂದ ಎಡಕ್ಕೆ ಚಲಿಸುವುದು": "ಮೌಲ್ಯ ಕಡಿಮೆಯಾಗುವುದು"
-      },
+      "pairs": [
+        {
+          "left": "0 ಯಿಂದ ಬಲಕ್ಕೆ ಚಲಿಸುವುದು",
+          "right": "ಧನಾತ್ಮಕ ಸಂಖ್ಯೆಗಳು"
+        },
+        {
+          "left": "0 ಯಿಂದ ಎಡಕ್ಕೆ ಚಲಿಸುವುದು",
+          "right": "ಋಣಾತ್ಮಕ ಸಂಖ್ಯೆಗಳು"
+        },
+        {
+          "left": "-3 ರಿಂದ ಬಲಕ್ಕೆ ಚಲಿಸುವುದು",
+          "right": "ಮೌಲ್ಯ ಹೆಚ್ಚಾಗುವುದು"
+        },
+        {
+          "left": "5 ರಿಂದ ಎಡಕ್ಕೆ ಚಲಿಸುವುದು",
+          "right": "ಮೌಲ್ಯ ಕಡಿಮೆಯಾಗುವುದು"
+        }
+      ],
       "reasoning": "ಬಲಕ್ಕೆ ಚಲಿಸುವುದು ಎಂದರೆ ಸಂಖ್ಯೆಗಳು ದೊಡ್ಡದಾಗುತ್ತವೆ ಮತ್ತು ಎಡಕ್ಕೆ ಚಲಿಸುವುದು ಎಂದರೆ ಅವು ಚಿಕ್ಕದಾಗುತ್ತವೆ."
     }
   },
@@ -1029,22 +1149,46 @@
     "difficulty": 2,
     "en": {
       "question": "Match the sequence of operations:",
-      "pairs": {
-        "Start at 0, move right 3": "3",
-        "Start at 2, move left 5": "-3",
-        "Start at -1, move right 2": "1",
-        "Start at -4, move left 1": "-5"
-      },
+      "pairs": [
+        {
+          "left": "Start at 0, move right 3",
+          "right": "3"
+        },
+        {
+          "left": "Start at 2, move left 5",
+          "right": "-3"
+        },
+        {
+          "left": "Start at -1, move right 2",
+          "right": "1"
+        },
+        {
+          "left": "Start at -4, move left 1",
+          "right": "-5"
+        }
+      ],
       "reasoning": "Moving right is adding, moving left is subtracting."
     },
     "kn": {
       "question": "ಕಾರ್ಯಾಚರಣೆಗಳ ಅನುಕ್ರಮವನ್ನು ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "0 ದಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಬಲಕ್ಕೆ 3 ಚಲಿಸಿ": "3",
-        "2 ರಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಎಡಕ್ಕೆ 5 ಚಲಿಸಿ": "-3",
-        "-1 ರಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಬಲಕ್ಕೆ 2 ಚಲಿಸಿ": "1",
-        "-4 ರಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಎಡಕ್ಕೆ 1 ಚಲಿಸಿ": "-5"
-      },
+      "pairs": [
+        {
+          "left": "0 ದಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಬಲಕ್ಕೆ 3 ಚಲಿಸಿ",
+          "right": "3"
+        },
+        {
+          "left": "2 ರಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಎಡಕ್ಕೆ 5 ಚಲಿಸಿ",
+          "right": "-3"
+        },
+        {
+          "left": "-1 ರಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಬಲಕ್ಕೆ 2 ಚಲಿಸಿ",
+          "right": "1"
+        },
+        {
+          "left": "-4 ರಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಎಡಕ್ಕೆ 1 ಚಲಿಸಿ",
+          "right": "-5"
+        }
+      ],
       "reasoning": "ಬಲಕ್ಕೆ ಚಲಿಸುವುದು ಎಂದರೆ ಸೇರಿಸುವುದು, ಎಡಕ್ಕೆ ಚಲಿಸುವುದು ಎಂದರೆ ಕಳೆಯುವುದು."
     }
   },
@@ -1141,22 +1285,46 @@
     "difficulty": 3,
     "en": {
       "question": "Match the mathematical expression with its result:",
-      "pairs": {
-        "(-3) + (-2)": "-5",
-        "(-3) - (-2)": "-1",
-        "4 + (-4)": "0",
-        "5 - (-1)": "6"
-      },
+      "pairs": [
+        {
+          "left": "(-3) + (-2)",
+          "right": "-5"
+        },
+        {
+          "left": "(-3) - (-2)",
+          "right": "-1"
+        },
+        {
+          "left": "4 + (-4)",
+          "right": "0"
+        },
+        {
+          "left": "5 - (-1)",
+          "right": "6"
+        }
+      ],
       "reasoning": "Follow integer addition and subtraction rules carefully."
     },
     "kn": {
       "question": "ಗಣಿತದ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಅದರ ಫಲಿತಾಂಶದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-      "pairs": {
-        "(-3) + (-2)": "-5",
-        "(-3) - (-2)": "-1",
-        "4 + (-4)": "0",
-        "5 - (-1)": "6"
-      },
+      "pairs": [
+        {
+          "left": "(-3) + (-2)",
+          "right": "-5"
+        },
+        {
+          "left": "(-3) - (-2)",
+          "right": "-1"
+        },
+        {
+          "left": "4 + (-4)",
+          "right": "0"
+        },
+        {
+          "left": "5 - (-1)",
+          "right": "6"
+        }
+      ],
       "reasoning": "ಪೂರ್ಣಾಂಕದ ಸೇರ್ಪಡೆ ಮತ್ತು ವ್ಯವಕಲನ ನಿಯಮಗಳನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಅನುಸರಿಸಿ."
     }
   },

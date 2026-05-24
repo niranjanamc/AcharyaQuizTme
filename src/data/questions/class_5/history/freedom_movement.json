@@ -1,0 +1,626 @@
+[
+  {
+    "id": "c5_his_freedom_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who is fondly called the 'Father of the Nation' (Rashtrapita) in India for his leadership in the non-violent struggle?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose", "Bal Gangadhar Tilak"],
+      "answer": "Mahatma Gandhi",
+      "reasoning": "Mahatma Gandhi led major national movements using truth and non-violence (Satyagraha) to free India, earning him the title Father of the Nation."
+    },
+    "kn": {
+      "question": "ಅಹಿಂಸಾತ್ಮಕ ಹೋರಾಟದಲ್ಲಿ ತಮ್ಮ ನಾಯಕತ್ವಕ್ಕಾಗಿ ಭಾರತದಲ್ಲಿ ಯಾರನ್ನು 'ರಾಷ್ಟ್ರಪಿತ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": ["ಮಹಾತ್ಮ ಗಾಂಧಿ", "ಜವಾಹರಲಾಲ್ ನೆಹರು", "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್", "ಬಾಲ ಗಂಗಾಧರ ತಿಲಕ್"],
+      "answer": "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+      "reasoning": "ಮಹಾತ್ಮ ಗಾಂಧಿಯವರು ಸತ್ಯ ಮತ್ತು ಅಹಿಂಸಾ ಮಾರ್ಗದ (ಸತ್ಯಾಗ್ರಹ) ಮೂಲಕ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮದ ನಾಯಕತ್ವ ವಹಿಸಿದ್ದರಿಂದ ಅವರನ್ನು ರಾಷ್ಟ್ರಪಿತ ಎನ್ನಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_his_freedom_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In which historic year did India finally gain Independence from British colonial rule?",
+      "options": ["1947", "1950", "1942", "1857"],
+      "answer": "1947",
+      "reasoning": "India became an independent country on August 15, 1947, ending nearly two hundred years of British rule."
+    },
+    "kn": {
+      "question": "ಯಾವ ಐತಿಹಾಸಿಕ ವರ್ಷದಲ್ಲಿ ಭಾರತವು ಬ್ರಿಟಿಷ್ ವಸಾಹತುಶಾಹಿ ಆಳ್ವಿಕೆಯಿಂದ ಅಂತಿಮವಾಗಿ ಸ್ವಾತಂತ್ರ್ಯ ಪಡೆಯಿತು?",
+      "options": ["1947", "1950", "1942", "1857"],
+      "answer": "1947",
+      "reasoning": "ಭಾರತವು ಆಗಸ್ಟ್ 15, 1947 ರಂದು ಸ್ವತಂತ್ರ ದೇಶವಾಯಿತು, ಇದರೊಂದಿಗೆ ಸುಮಾರು ಇನ್ನೂರು ವರ್ಷಗಳ ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆ ಕೊನೆಗೊಂಡಿತು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who was chosen as the first Prime Minister of independent India in 1947?",
+      "options": ["Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Lal Bahadur Shastri", "Dr. B.R. Ambedkar"],
+      "answer": "Jawaharlal Nehru",
+      "reasoning": "Pandit Jawaharlal Nehru took office as the first Prime Minister of India on August 15, 1947, and delivered the famous 'Tryst with Destiny' speech."
+    },
+    "kn": {
+      "question": "1947 ರಲ್ಲಿ ಸ್ವತಂತ್ರ ಭಾರತದ ಮೊದಲ ಪ್ರಧಾನ ಮಂತ್ರಿಯಾಗಿ ಯಾರು ಆಯ್ಕೆಯಾದರು?",
+      "options": ["ಜವಾಹರಲಾಲ್ ನೆಹರು", "ಸರ್ದಾರ್ ವಲ್ಲಭಭಾಯಿ ಪಟೇಲ್", "ಲಾಲ್ ಬಹದ್ದೂರ್ ಶಾಸ್ತ್ರಿ", "ಡಾ. ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕರ್"],
+      "answer": "ಜವಾಹರಲಾಲ್ ನೆಹರು",
+      "reasoning": "ಪಂಡಿತ್ ಜವಾಹರಲಾಲ್ ನೆಹರು ಅವರು ಆಗಸ್ಟ್ 15, 1947 ರಂದು ಭಾರತದ ಮೊದಲ ಪ್ರಧಾನಿಯಾಗಿ ಅಧಿಕಾರ ವಹಿಸಿಕೊಂಡರು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What powerful slogan did Mahatma Gandhi give to Indians during the Quit India Movement in 1942?",
+      "options": ["Do or Die", "Jai Hind", "Inquilab Zindabad", "Satyamev Jayate"],
+      "answer": "Do or Die",
+      "reasoning": "During the Quit India Movement, Gandhi urged the people to make a final effort to free India, declaring 'We shall either free India or die in the attempt'."
+    },
+    "kn": {
+      "question": "1942 ರ ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳುವಳಿಯ ಸಂದರ್ಭದಲ್ಲಿ ಮಹಾತ್ಮ ಗಾಂಧಿಯವರು ಭಾರತೀಯರಿಗೆ ನೀಡಿದ ಪ್ರಬಲ ಘೋಷಣೆ ಯಾವುದು?",
+      "options": ["ಮಾಡು ಇಲ್ಲವೇ ಮಡಿ", "ಜೈ ಹಿಂದ್", "ಇಂಕ್ವಿಲಾಬ್ ಜಿಂದಾಬಾದ್", "ಸತ್ಯಮೇವ ಜಯತೇ"],
+      "answer": "ಮಾಡು ಇಲ್ಲವೇ ಮಡಿ",
+      "reasoning": "ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳುವಳಿಯಲ್ಲಿ ಗಾಂಧಿಯವರು ಭಾರತವನ್ನು ಸ್ವತಂತ್ರಗೊಳಿಸಲು ಕೊನೆಯ ಪ್ರಯತ್ನವಾಗಿ 'ಮಾಡು ಇಲ್ಲವೇ ಮಡಿ' ಎಂಬ ಕರೆ ನೀಡಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which brave queen of Jhansi died fighting the British forces during the Great Revolt of 1857?",
+      "options": ["Rani Laxmibai", "Rani Chennamma", "Begum Hazrat Mahal", "Kasturba Gandhi"],
+      "answer": "Rani Laxmibai",
+      "reasoning": "Rani Laxmibai of Jhansi was a key leader in the Revolt of 1857, fighting courageously on horseback against the British to protect her state."
+    },
+    "kn": {
+      "question": "1857 ರ ಮಹಾ ದಂಗೆಯಲ್ಲಿ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಹೋರಾಡುತ್ತಾ ಹುತಾತ್ಮರಾದ ಜಾನ್ಸಿಯ ವೀರ ರಾಣಿ ಯಾರು?",
+      "options": ["ರಾಣಿ ಲಕ್ಷ್ಮೀಬಾಯಿ", "ರಾಣಿ ಚೆನ್ನಮ್ಮ", "ಬೇಗಂ ಹಜರತ್ ಮಹಲ್", "ಕಸ್ತೂರಬಾ ಗಾಂಧಿ"],
+      "answer": "ರಾಣಿ ಲಕ್ಷ್ಮೀಬಾಯಿ",
+      "reasoning": "ಜಾನ್ಸಿಯ ರಾಣಿ ಲಕ್ಷ್ಮೀಬಾಯಿ 1857 ರ ದಂಗೆಯಲ್ಲಿ ಬ್ರಿಟಿಷ್ ಪಡೆಗಳ ವಿರುದ್ಧ ಕುದುರೆಯನ್ನೇರಿ ಧೈರ್ಯದಿಂದ ಹೋರಾಡಿದ ಪ್ರಮುಖ ನಾಯಕಿಯಾಗಿದ್ದಾರೆ."
+    }
+  },
+  {
+    "id": "c5_his_freedom_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who served as the first President of the Republic of India?",
+      "options": ["Dr. Rajendra Prasad", "Dr. S. Radhakrishnan", "Jawaharlal Nehru", "Sardar Patel"],
+      "answer": "Dr. Rajendra Prasad",
+      "reasoning": "Dr. Rajendra Prasad was the president of the Constituent Assembly and later became India's first President when India became a Republic in 1950."
+    },
+    "kn": {
+      "question": "ಸ್ವತಂತ್ರ ಭಾರತದ ಪ್ರಪಥಮ ರಾಷ್ಟ್ರಪತಿಯಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸಿದವರು ಯಾರು?",
+      "options": ["ಡಾ. ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್", "ಡಾ. ಎಸ್. ರಾಧಾಕೃಷ್ಣನ್", "ಜವಾಹರಲಾಲ್ ನೆಹರು", "ಸರ್ದಾರ್ ಪಟೇಲ್"],
+      "answer": "ಡಾ. ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್",
+      "reasoning": "ಡಾ. ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್ ಅವರು ಸಂವಿಧಾನ ರಚನಾ ಸಭೆಯ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದರು ಮತ್ತು 1950 ರಲ್ಲಿ ಭಾರತವು ಗಣರಾಜ್ಯವಾದಾಗ ಮೊದಲ ರಾಷ್ಟ್ರಪತಿಯಾದರು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_007",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who wrote the inspiring patriotic song 'Vande Mataram', which became the National Song of India?",
+      "options": ["Bankim Chandra Chattopadhyay", "Rabindranath Tagore", "Sarojini Naidu", "Subhas Chandra Bose"],
+      "answer": "Bankim Chandra Chattopadhyay",
+      "reasoning": "Bankim Chandra Chattopadhyay wrote the song in Sanskrit in his novel 'Anandamath', which filled freedom fighters with courage."
+    },
+    "kn": {
+      "question": "ಭಾರತದ ರಾಷ್ಟ್ರೀಯ ಗೀತೆಯಾದ (National Song) 'ವಂದೇ ಮಾತರಂ' ಅನ್ನು ಬರೆದವರು ಯಾರು?",
+      "options": ["ಬಂಕಿಮ ಚಂದ್ರ ಚಟರ್ಜಿ", "ರವೀಂದ್ರನಾಥ ಠಾಗೋರ್", "ಸರೋಜಿನಿ ನಾಯ್ಡು", "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್"],
+      "answer": "ಬಂಕಿಮ ಚಂದ್ರ ಚಟರ್ಜಿ",
+      "reasoning": "ಬಂಕಿಮ ಚಂದ್ರ ಚಟರ್ಜಿಯವರು ತಮ್ಮ 'ಆನಂದಮಠ' ಕಾದಂಬರಿಯಲ್ಲಿ ಈ ಗೀತೆಯನ್ನು ರಚಿಸಿದರು. ಇದು ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರಲ್ಲಿ ದೇಶಪ್ರೇಮ ಉಕ್ಕಿಸಿತು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_008",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What was the main purpose of Mahatma Gandhi's 24-day 'Dandi March' (Salt Satyagraha) in 1930?",
+      "options": [
+        "To break the British monopoly and tax on making salt",
+        "To demand the partition of India",
+        "To support the British in World War II",
+        "To elect a new prime minister"
+      ],
+      "answer": "To break the British monopoly and tax on making salt",
+      "reasoning": "The British laws made it a crime for Indians to collect or make salt from the sea, forcing them to buy taxed salt. Gandhi broke this law at Dandi."
+    },
+    "kn": {
+      "question": "1930 ರಲ್ಲಿ ಮಹಾತ್ಮ ಗಾಂಧಿಯವರು 24 ದಿನಗಳ 'ದಂಡಿ ಸತ್ಯಾಗ್ರಹ' (ಉಪ್ಪಿನ ಸತ್ಯಾಗ್ರಹ) ಹಮ್ಮಿಕೊಳ್ಳಲು ಮುಖ್ಯ ಕಾರಣವೇನು?",
+      "options": [
+        "ಉಪ್ಪು ತಯಾರಿಕೆಯ ಮೇಲಿನ ಬ್ರಿಟಿಷರ ಏಕಸ್ವಾಮ್ಯ ಮತ್ತು ತೆರಿಗೆಯನ್ನು ಉಲ್ಲಂಘಿಸಲು",
+        "ಭಾರತದ ವಿಭಜನೆಗಾಗಿ ಒತ್ತಾಯಿಸಲು",
+        "ಎರಡನೇ ಜಾಗತಿಕ ಯುದ್ಧದಲ್ಲಿ ಬ್ರಿಟಿಷರನ್ನು ಬೆಂಬಲಿಸಲು",
+        "ಹೊಸ ಪ್ರಧಾನ ಮಂತ್ರಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಲು"
+      ],
+      "answer": "ಉಪ್ಪು ತಯಾರಿಕೆಯ ಮೇಲಿನ ಬ್ರಿಟಿಷರ ಏಕಸ್ವಾಮ್ಯ ಮತ್ತು ತೆರಿಗೆಯನ್ನು ಉಲ್ಲಂಘಿಸಲು",
+      "reasoning": "ಬ್ರಿಟಿಷರ ಕಾಯ್ದೆಯ ಪ್ರಕಾರ ಭಾರತೀಯರು ಸ್ವತಃ ಉಪ್ಪು ತಯಾರಿಸುವಂತಿರಲಿಲ್ಲ. ಇದನ್ನು ವಿರೋಧಿಸಿ ಗಾಂಧಿಯವರು ದಂಡಿ ಕಡಲತೀರದಲ್ಲಿ ಕಾನೂನು ಮುರಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which dynamic leader is known for forming the Indian National Army (Azad Hind Fauj) to fight the British outside India?",
+      "options": ["Subhas Chandra Bose", "Bhagat Singh", "Chandra Shekhar Azad", "Lala Lajpat Rai"],
+      "answer": "Subhas Chandra Bose",
+      "reasoning": "Subhas Chandra Bose, called Netaji, believed in using armed force against the British and rallied Indian soldiers in Southeast Asia to march towards Delhi."
+    },
+    "kn": {
+      "question": "ಭಾರತದ ಹೊರಗಿನಿಂದ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಹೋರಾಡಲು ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಸೈನ್ಯವನ್ನು (Azad Hind Fauj) ಕಟ್ಟಿದ ಪ್ರಸಿದ್ಧ ನಾಯಕ ಯಾರು?",
+      "options": ["ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್", "ಭಗತ್ ಸಿಂಗ್", "ಚಂದ್ರಶೇಖರ್ ಆಜಾದ್", "ಲಾಲಾ ಲಜಪತ್ ರಾಯ್"],
+      "answer": "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್",
+      "reasoning": "ನೇತಾಜಿ ಎಂದು ಕರೆಯಲ್ಪಡುವ ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್ ಅವರು ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಸಶಸ್ತ್ರ ಹೋರಾಟ ನಡೆಸಲು ಆಗ್ನೇಯ ಏಷ್ಯಾದಲ್ಲಿ ಭಾರತೀಯ ಸೈನಿಕರನ್ನು ಸಂಘಟಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In which city did the Jallianwala Bagh massacre occur, where British troops fired on a peaceful assembly?",
+      "options": ["Amritsar", "Delhi", "Lahore", "Meerut"],
+      "answer": "Amritsar",
+      "reasoning": "The massacre occurred in Amritsar, Punjab, on April 13, 1919, when British troops blocked the exit of Jallianwala Bagh and opened fire."
+    },
+    "kn": {
+      "question": "ಬ್ರಿಟಿಷ್ ಸೈನ್ಯವು ಶಾಂತಿಯುತವಾಗಿ ಸೇರಿದ್ದ ಜನರ ಮೇಲೆ ಗುಂಡು ಹಾರಿಸಿದ ಜಲಿಯನ್ ವಾಲಾಬಾಗ್ ದುರಂತ ನಡೆದ ನಗರ ಯಾವುದು?",
+      "options": ["ಅಮೃತಸರ", "ದೆಹಲಿ", "ಲಾಹೋರ್", "ಮೀರತ್"],
+      "answer": "ಅಮೃತಸರ",
+      "reasoning": "ಏಪ್ರಿಲ್ 13, 1919 ರಂದು ಪಂಜಾಬ್‌ನ ಅಮೃತಸರ ನಗರದಲ್ಲಿ ಬ್ರಿಟಿಷರು ಜಲಿಯನ್ ವಾಲಾಬಾಗ್ ಮೈದಾನದ ದಾರಿಯನ್ನು ಮುಚ್ಚಿ ನಿರಾಯುಧ ಜನರ ಮೇಲೆ ಗುಂಡಿನ ದಾಳಿ ನಡೆಸಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who is known as the 'Iron Man of India' for successfully uniting more than 500 princely states into the Indian Union?",
+      "options": ["Sardar Vallabhbhai Patel", "Jawaharlal Nehru", "Lal Bahadur Shastri", "Bipin Chandra Pal"],
+      "answer": "Sardar Vallabhbhai Patel",
+      "reasoning": "Sardar Patel, India's first Home Minister, used political skill and firmness to convince the princely rulers to merge with India, creating a united nation."
+    },
+    "kn": {
+      "question": "500 ಕ್ಕೂ ಹೆಚ್ಚು ಸ್ವತಂತ್ರ ಸಂಸ್ಥಾನಗಳನ್ನು ಭಾರತ ಒಕ್ಕೂಟದಲ್ಲಿ ವಿಲೀನಗೊಳಿಸಿ ದೇಶವನ್ನು ಒಟ್ಟುಗೂಡಿಸಿದ್ದಕ್ಕಾಗಿ ಯಾರನ್ನು 'ಭಾರತದ ಉಕ್ಕಿನ ಮನುಷ್ಯ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": ["ಸರ್ದಾರ್ ವಲ್ಲಭಭಾಯಿ ಪಟೇಲ್", "ಜವಾಹರಲಾಲ್ ನೆಹರು", "ಲಾಲ್ ಬಹದ್ದೂರ್ ಶಾಸ್ತ್ರಿ", "ಬಿಪಿನ್ ಚಂದ್ರ ಪಾಲ್"],
+      "answer": "ಸರ್ದಾರ್ ವಲ್ಲಭಭಾಯಿ ಪಟೇಲ್",
+      "reasoning": "ಮೊದಲ ಗೃಹ ಮಂತ್ರಿಯಾಗಿದ್ದ ಸರ್ದಾರ್ ಪಟೇಲ್ ತಮ್ಮ ದೃಢ ನಿರ್ಧಾರಗಳು ಮತ್ತು ರಾಜತಾಂತ್ರಿಕತೆಯಿಂದ ನೂರಾರು ರಾಜಮನೆತನಗಳನ್ನು ಭಾರತದೊಂದಿಗೆ ವಿಲೀನಗೊಳಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which Indian sepoy (soldier) rebelled in Barrackpore, triggering the events of the Revolt of 1857?",
+      "options": ["Mangal Pandey", "Tatya Tope", "Nana Saheb", "Kunwar Singh"],
+      "answer": "Mangal Pandey",
+      "reasoning": "Mangal Pandey refused to use greased cartridges containing animal fat and mutinied against his British officers on March 29, 1857."
+    },
+    "kn": {
+      "question": "ಬ್ಯಾರಕ್‌ಪುರದಲ್ಲಿ ದಂಗೆ ಎದ್ದು 1857 ರ ಮಹಾ ದಂಗೆಯ ಆರಂಭಕ್ಕೆ ಕಾರಣವಾದ ಭಾರತೀಯ ಸಿಪಾಯಿ ಯಾರು?",
+      "options": ["ಮಂಗಲ್ ಪಾಂಡೆ", "ತಾತ್ಯಾ ಟೋಪಿ", "ನಾನಾ ಸಾಹೇಬ್", "ಕುನ್ವರ್ ಸಿಂಗ್"],
+      "answer": "ಮಂಗಲ್ ಪಾಂಡೆ",
+      "reasoning": "ಪ್ರಾಣಿಗಳ ಕೊಬ್ಬು ಸವರಿದ್ದ ಕಾರ್ತೂಸುಗಳನ್ನು ಬಳಸಲು ನಿರಾಕರಿಸಿದ ಮಂಗಲ್ ಪಾಂಡೆ, ಮಾರ್ಚ್ 29, 1857 ರಂದು ಬ್ರಿಟಿಷ್ ಅಧಿಕಾರಿಗಳ ವಿರುದ್ಧ ದಂಗೆ ಎದ್ದರು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which extremist freedom leader was called 'Lokmanya' and famously declared: 'Swaraj is my birthright and I shall have it!'?",
+      "options": ["Bal Gangadhar Tilak", "Lala Lajpat Rai", "Gopal Krishna Gokhale", "Dadabhai Naoroji"],
+      "answer": "Bal Gangadhar Tilak",
+      "reasoning": "Bal Gangadhar Tilak was a popular nationalist leader who used festivals like Ganesh Utsav to unite people and inspire them to seek self-rule (Swaraj)."
+    },
+    "kn": {
+      "question": "'ಸ್ವರಾಜ್ಯ ನನ್ನ ಜನ್ಮಸಿದ್ಧ ಹಕ್ಕು ಮತ್ತು ಅದನ್ನು ನಾನು ಪಡೆದೇ ತೀರುತ್ತೇನೆ!' ಎಂದು ಘರ್ಜಿಸಿದ 'ಲೋಕಮಾನ್ಯ' ಎಂಬ ಬಿರುದುಳ್ಳ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ ಯಾರು?",
+      "options": ["ಬಾಲ ಗಂಗಾಧರ ತಿಲಕ್", "ಲಾಲಾ ಲಜಪತ್ ರಾಯ್", "ಗೋಪಾಲ ಕೃಷ್ಣ ಗೋಖಲೆ", "ದಾದಾಭಾಯಿ ನವರೋಜಿ"],
+      "answer": "ಬಾಲ ಗಂಗಾಧರ ತಿಲಕ್",
+      "reasoning": "ಬಾಲ ಗಂಗಾಧರ ತಿಲಕರು ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ತೀವ್ರ ಹೋರಾಟ ಪ್ರತಿಪಾದಿಸಿದರು. ಇವರು ಗಣೇಶ ಹಬ್ಬವನ್ನು ಜನರನ್ನು ಸಂಘಟಿಸಲು ಬಳಸಿಕೊಂಡರು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who was the Chairman of the Drafting Committee of the Indian Constitution, recognized as the chief architect of the Constitution?",
+      "options": ["Dr. B.R. Ambedkar", "Dr. Rajendra Prasad", "Jawaharlal Nehru", "Sarojini Naidu"],
+      "answer": "Dr. B.R. Ambedkar",
+      "reasoning": "Dr. Bhimrao Ramji Ambedkar led the committee that drafted the Constitution of India, ensuring laws that protected rights and equality."
+    },
+    "kn": {
+      "question": "ಭಾರತೀಯ ಸಂವಿಧಾನದ ಕರಡು ಸಮಿತಿಯ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದ ಮತ್ತು ಸಂವಿಧಾನದ ಮುಖ್ಯ ಶಿಲ್ಪಿ ಎಂದು ಗುರುತಿಸಲ್ಪಟ್ಟವರು ಯಾರು?",
+      "options": ["ಡಾ. ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕರ್", "ಡಾ. ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್", "ಜವಾಹರಲಾಲ್ ನೆಹರು", "ಸರೋಜಿನಿ ನಾಯ್ಡು"],
+      "answer": "ಡಾ. ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕರ್",
+      "reasoning": "ಡಾ. ಭೀಮರಾವ್ ರಾಮ್‌ಜಿ ಅಂಬೇಡ್ಕರ್ ಅವರು ಭಾರತದ ಸಂವಿಧಾನ ಕರಡು ರಚನೆಯ ನೇತೃತ್ವ ವಹಿಸಿ, ಸಮಾನತೆ ಮತ್ತು ಹಕ್ಕುಗಳನ್ನು ನೀಡುವ ಸಂವಿಧಾನ ನೀಡಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "In which year did the partition of Bengal take place under Viceroy Lord Curzon, triggering the nationwide Swadeshi Movement?",
+      "options": ["1905", "1911", "1919", "1885"],
+      "answer": "1905",
+      "reasoning": "The partition was implemented in 1905 to divide Bengal along religious lines, leading to protests and a call to boycott British goods."
+    },
+    "kn": {
+      "question": "ರಾಷ್ಟ್ರವ್ಯಾಪಿ ಸ್ವದೇಶಿ ಚಳುವಳಿಗೆ ಕಾರಣವಾದ ಬಂಗಾಳ ವಿಭಜನೆಯು ವೈಸರಾಯ್ ಲಾರ್ಡ್ ಕರ್ಜನ್ ಅವರಿಂದ ಯಾವ ವರ್ಷದಲ್ಲಿ ಜಾರಿಗೆ ಬಂದಿತು?",
+      "options": ["1905", "1911", "1919", "1885"],
+      "answer": "1905",
+      "reasoning": "1905 ರಲ್ಲಿ ಧರ್ಮದ ಆಧಾರದಲ್ಲಿ ಬಂಗಾಳವನ್ನು ವಿಭಜಿಸಲಾಯಿತು. ಇದನ್ನು ಪ್ರತಿಭಟಿಸಿ ಭಾರತೀಯರು ವಿದೇಶಿ ಸರಕುಗಳನ್ನು ಬಹಿಷ್ಕರಿಸುವ ಚಳುವಳಿ ಆರಂಭಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What was the name of the British policy introduced by Lord Dalhousie that allowed the British to take control of any Indian state if the ruler died without a natural male heir?",
+      "options": ["Doctrine of Lapse", "Subsidiary Alliance", "Rowlatt Act", "Regulating Act"],
+      "answer": "Doctrine of Lapse",
+      "reasoning": "The 'Doctrine of Lapse' allowed the British to annex states like Jhansi, Satara, and Nagpur, causing deep anger among Indian royal rulers."
+    },
+    "kn": {
+      "question": "ರಾಜನಿಗೆ ಗಂಡು ಮಗನಿಲ್ಲದಿದ್ದರೆ ಸಂಸ್ಥಾನವನ್ನು ಬ್ರಿಟಿಷ್ ಸಾಮ್ರಾಜ್ಯಕ್ಕೆ ಸೇರಿಸಿಕೊಳ್ಳುವ ಯಾವ ನಿಯಮವನ್ನು ಲಾರ್ಡ್ ಡಾಲ್‌ಹೌಸಿ ಜಾರಿಗೆ ತಂದನು?",
+      "options": ["ದತ್ತು ಮಕ್ಕಳಿಗೆ ಹಕ್ಕಿಲ್ಲ ಸಿದ್ಧಾಂತ (Doctrine of Lapse)", "ಸಹಾಯಕ ಸೈನ್ಯ ಪದ್ಧತಿ", "ರೌಲತ್ ಕಾಯ್ದೆ", "ನಿಯಂತ್ರಣ ಕಾಯ್ದೆ"],
+      "answer": "ದತ್ತು ಮಕ್ಕಳಿಗೆ ಹಕ್ಕಿಲ್ಲ ಸಿದ್ಧಾಂತ (Doctrine of Lapse)",
+      "reasoning": "ಈ ಸಿದ್ಧಾಂತದ ಅಡಿಯಲ್ಲಿ ಬ್ರಿಟಿಷರು ಝಾನ್ಸಿ, ಸತಾರಾ ಮುಂತಾದ ರಾಜ್ಯಗಳನ್ನು ವಶಪಡಿಸಿಕೊಂಡರು. ಇದು ರಾಜಮನೆತನಗಳಲ್ಲಿ ತೀವ್ರ ಅಸಮಾಧಾನ ಮೂಡಿಸಿತು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Who was the British social reformer and supporter of Indian self-rule who became the first female President of the Indian National Congress in 1917?",
+      "options": ["Annie Besant", "Sarojini Naidu", "Aruna Asaf Ali", "Nellie Sengupta"],
+      "answer": "Annie Besant",
+      "reasoning": "Dr. Annie Besant founded the Home Rule League in India and was elected the President of the Congress at the Calcutta session in 1917."
+    },
+    "kn": {
+      "question": "1917 ರಲ್ಲಿ ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್‌ನ ಪ್ರಪ್ರಥಮ ಮಹಿಳಾ ಅಧ್ಯಕ್ಷರಾದ ಬ್ರಿಟಿಷ್ ಸಮಾಜ ಸುಧಾರಕಿ ಯಾರು?",
+      "options": ["ಆನಿ ಬೆಸೆಂಟ್", "ಸರೋಜಿನಿ ನಾಯ್ಡು", "ಅರುಣಾ ಅಸಫ್ ಅಲಿ", "ನೆಲ್ಲಿ ಸೇನ್‌ಗುಪ್ತ"],
+      "answer": "ಆನಿ ಬೆಸೆಂಟ್",
+      "reasoning": "ಆನಿ ಬೆಸೆಂಟ್ ಅವರು ಹೋಮ್ ರೂಲ್ ಚಳುವಳಿಯನ್ನು ಪ್ರಾರಂಭಿಸಿದರು ಮತ್ತು 1917 ರಲ್ಲಿ ಕಲ್ಕತ್ತಾದ ಕಾಂಗ್ರೆಸ್ ಅಧಿವೇಶನಕ್ಕೆ ಮೊದಲ ಮಹಿಳಾ ಅಧ್ಯಕ್ಷರಾಗಿ ಆಯ್ಕೆಯಾದರು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_018",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which young revolutionary, along with Batukeshwar Dutt, threw harmless smoke bombs in the Central Legislative Assembly in 1929 to protest against British laws?",
+      "options": ["Bhagat Singh", "Chandra Shekhar Azad", "Rajguru", "Ram Prasad Bismil"],
+      "answer": "Bhagat Singh",
+      "reasoning": "Bhagat Singh threw bombs that did not kill anyone, intending to 'make the deaf hear' about Indian demands, and threw leaflets before getting arrested."
+    },
+    "kn": {
+      "question": "ಬ್ರಿಟಿಷ್ ಕಾಯ್ದೆಗಳನ್ನು ಪ್ರತಿಭಟಿಸಲು 1929 ರಲ್ಲಿ ಬಟುಕೇಶ್ವರ್ ದತ್ ಅವರೊಂದಿಗೆ ದೆಹಲಿಯ ಕೇಂದ್ರೀಯ ಶಾಸನ ಸಭೆಯಲ್ಲಿ ಬಾಂಬ್ ಎಸೆದ ಕ್ರಾಂತಿಕಾರಿ ಯಾರು?",
+      "options": ["ಭಗತ್ ಸಿಂಗ್", "ಚಂದ್ರಶೇಖರ್ ಆಜಾದ್", "ರಾಜಗುರು", "ರಾಮ್ ಪ್ರಸಾದ್ ಬಿಸ್ಮಿಲ್"],
+      "answer": "ಭಗತ್ ಸಿಂಗ್",
+      "reasoning": "ಯಾರನ್ನೂ ಕೊಲ್ಲುವ ಉದ್ದೇಶವಿಲ್ಲದೆ ಬ್ರಿಟಿಷರಿಗೆ ಎಚ್ಚರಿಕೆ ನೀಡಲು ಭಗತ್ ಸಿಂಗ್ ಬಾಂಬ್ ಎಸೆದು, ತಾವಾಗಿಯೇ ಬಂಧನಕ್ಕೊಳಗಾದರು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_019",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which British military officer ordered the soldiers to close the exits and open fire on unarmed families gathered at Jallianwala Bagh?",
+      "options": ["General Dyer", "Lord Curzon", "Lord Mountbatten", "General Havelock"],
+      "answer": "General Dyer",
+      "reasoning": "Brigadier-General Reginald Dyer ordered the firing on the peaceful gathering without warning, killing hundreds of innocent people."
+    },
+    "kn": {
+      "question": "ಜಲಿಯನ್ ವಾಲಾಬಾಗ್‌ನ ದ್ವಾರಗಳನ್ನು ಮುಚ್ಚಿ ನಿರಾಯುಧ ಜನರ ಮೇಲೆ ಗುಂಡು ಹಾರಿಸಲು ಆದೇಶಿಸಿದ ಬ್ರಿಟಿಷ್ ಮಿಲಿಟರಿ ಅಧಿಕಾರಿ ಯಾರು?",
+      "options": ["ಜನರಲ್ ಡೈಯರ್", "ಲಾರ್ಡ್ ಕರ್ಜನ್", "ಲಾರ್ಡ್ ಮೌಂಟ್‌ಬ್ಯಾಟನ್", "ಜನರಲ್ ಹ್ಯಾವ್‌ಲಾಕ್"],
+      "answer": "ಜನರಲ್ ಡೈಯರ್",
+      "reasoning": "ಬ್ರಿಗೇಡಿಯರ್-ಜನರಲ್ ರೆಜಿನಾಲ್ಡ್ ಡೈಯರ್ ಯಾವುದೇ ಮುನ್ನೆಚ್ಚರಿಕೆ ನೀಡದೆ ಗುಂಡು ಹಾರಿಸಲು ಆದೇಶಿಸಿ ನೂರಾರು ಮುಗ್ಧ ಜನರ ಸಾವಿಗೆ ಕಾರಣನಾದನು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_020",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which queen of Karnataka led an armed rebellion against the British East India Company in 1824 when her adopted son was rejected as heir?",
+      "options": ["Rani Chennamma of Kittur", "Rani Abbakka Chowta", "Keladi Chennamma", "Onake Obavva"],
+      "answer": "Rani Chennamma of Kittur",
+      "reasoning": "Rani Chennamma of Kittur led one of the earliest armed rebellions in India against British rule in 1824, fighting to defend her kingdom."
+    },
+    "kn": {
+      "question": "ತನ್ನ ದತ್ತು ಮಗನ ಹಕ್ಕನ್ನು ನಿರಾಕರಿಸಿದ ಬ್ರಿಟಿಷ್ ಈಸ್ಟ್ ಇಂಡಿಯಾ ಕಂಪನಿಯ ವಿರುದ್ಧ 1824 ರಲ್ಲಿ ಸಶಸ್ತ್ರ ದಂಗೆಯನ್ನು ಮುನ್ನಡೆಸಿದ ಕರ್ನಾಟಕದ ವೀರ ರಾಣಿ ಯಾರು?",
+      "options": ["ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮ", "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಚೌಟ", "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ", "ಓಬವ್ವ"],
+      "answer": "ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮ",
+      "reasoning": "ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಸಶಸ್ತ್ರ ದಂಗೆಯನ್ನು ಮುನ್ನಡೆಸಿದ ಭಾರತದ ಪ್ರಥಮ ಮಹಿಳಾ ಹೋರಾಟಗಾರರಲ್ಲಿ ಒಬ್ಬರಾಗಿದ್ದಾರೆ."
+    }
+  },
+  {
+    "id": "c5_his_freedom_021",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following peaceful methods did Mahatma Gandhi use to protest against British rule?",
+      "options": [
+        "Non-violent protests (Satyagraha)",
+        "Boycotting British goods and offices",
+        "Throwing bombs at police stations",
+        "Building hidden army camps"
+      ],
+      "answer": [
+        "Non-violent protests (Satyagraha)",
+        "Boycotting British goods and offices"
+      ],
+      "reasoning": "Gandhi strongly opposed violence. He used peaceful non-cooperation, boycotts, hunger strikes, and civil disobedience to fight the British."
+    },
+    "kn": {
+      "question": "ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯ ವಿರುದ್ಧ ಮಹಾತ್ಮ ಗಾಂಧಿಯವರು ಬಳಸಿದ ಅಹಿಂಸಾತ್ಮಕ ಹೋರಾಟದ ವಿಧಾನಗಳು ಯಾವುವು?",
+      "options": [
+        "ಅಹಿಂಸಾತ್ಮಕ ಪ್ರತಿಭಟನೆ (ಸತ್ಯಾಗ್ರಹ)",
+        "ಬ್ರಿಟಿಷ್ ಸರಕುಗಳು ಮತ್ತು ಕಚೇರಿಗಳ ಬಹಿಷ್ಕಾರ",
+        "ಪೊಲೀಸ್ ಠಾಣೆಗಳ ಮೇಲೆ ಬಾಂಬ್ ಎಸೆಯುವುದು",
+        "ರಹಸ್ಯ ಸೇನಾ ಶಿಬಿರಗಳನ್ನು ಕಟ್ಟುವುದು"
+      ],
+      "answer": [
+        "ಅಹಿಂಸಾತ್ಮಕ ಪ್ರತಿಭಟನೆ (ಸತ್ಯಾಗ್ರಹ)",
+        "ಬ್ರಿಟಿಷ್ ಸರಕುಗಳು ಮತ್ತು ಕಚೇರಿಗಳ ಬಹಿಷ್ಕಾರ"
+      ],
+      "reasoning": "ಗಾಂಧಿಯವರು ಹಿಂಸಾಚಾರವನ್ನು ತೀವ್ರವಾಗಿ ವಿರೋಧಿಸುತ್ತಿದ್ದರು. ಅವರು ಅಸಹಕಾರ, ಉಪವಾಸ ಸತ್ಯಾಗ್ರಹ ಮತ್ತು ಬಹಿಷ್ಕಾರಗಳನ್ನು ಪ್ರಮುಖ ಅಸ್ತ್ರಗಳನ್ನಾಗಿ ಬಳಸಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_022",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following national leaders were part of the famous radical trio known as 'Lal-Bal-Pal'?",
+      "options": [
+        "Lala Lajpat Rai",
+        "Bal Gangadhar Tilak",
+        "Jawaharlal Nehru",
+        "Sardar Patel"
+      ],
+      "answer": [
+        "Lala Lajpat Rai",
+        "Bal Gangadhar Tilak"
+      ],
+      "reasoning": "Lal-Bal-Pal consisted of Lala Lajpat Rai (Punjab), Bal Gangadhar Tilak (Maharashtra), and Bipin Chandra Pal (Bengal), representing the assertive nationalist group."
+    },
+    "kn": {
+      "question": "ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮದ ತೀವ್ರಗಾಮಿ ನಾಯಕರಾಗಿದ್ದ 'ಲಾಲ್-ಬಾಲ್-ಪಾಲ್' ತ್ರಯರಲ್ಲಿ ಕೆಳಗಿನ ಯಾವ ನಾಯಕರಿದ್ದರು?",
+      "options": [
+        "ಲಾಲಾ ಲಜಪತ್ ರಾಯ್",
+        "ಬಾಲ ಗಂಗಾಧರ ತಿಲಕ್",
+        "ಜವಾಹರಲಾಲ್ ನೆಹರು",
+        "ಸರ್ದಾರ್ ಪಟೇಲ್"
+      ],
+      "answer": [
+        "ಲಾಲಾ ಲಜಪತ್ ರಾಯ್",
+        "ಬಾಲ ಗಂಗಾಧರ ತಿಲಕ್"
+      ],
+      "reasoning": "ಲಾಲ್-ಬಾಲ್-ಪಾಲ್ ಎಂದರೆ ಲಾಲಾ ಲಜಪತ್ ರಾಯ್, ಬಾಲ ಗಂಗಾಧರ ತಿಲಕ್ ಮತ್ತು ಬಿಪಿನ್ ಚಂದ್ರ ಪಾಲ್. ಇವರು ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ದೃಢವಾದ ಹೋರಾಟ ಪ್ರತಿಪಾದಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_023",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following major mass movements were directly led by Mahatma Gandhi during the Indian struggle?",
+      "options": [
+        "Non-Cooperation Movement (1920)",
+        "Civil Disobedience Movement (1930)",
+        "Revolt of 1857",
+        "Swadeshi Movement (1905)"
+      ],
+      "answer": [
+        "Non-Cooperation Movement (1920)",
+        "Civil Disobedience Movement (1930)"
+      ],
+      "reasoning": "Gandhi led the Non-Cooperation and Civil Disobedience movements. The Revolt of 1857 and Swadeshi Movement happened before he took command of the struggle."
+    },
+    "kn": {
+      "question": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟದ ಸಂದರ್ಭದಲ್ಲಿ ಮಹಾತ್ಮ ಗಾಂಧಿಯವರು ನೇರವಾಗಿ ಮುನ್ನಡೆಸಿದ ಪ್ರಮುಖ ಚಳುವಳಿಗಳು ಯಾವುವು?",
+      "options": [
+        "ಅಸಹಕಾರ ಚಳುವಳಿ (1920)",
+        "ನಾಗರಿಕ ಕಾನೂನು ಭಂಗ ಚಳುವಳಿ (1930)",
+        "1857 ರ ಮಹಾ ದಂಗೆ",
+        "ಸ್ವದೇಶಿ ಚಳುವಳಿ (1905)"
+      ],
+      "answer": [
+        "ಅಸಹಕಾರ ಚಳುವಳಿ (1920)",
+        "ನಾಗರಿಕ ಕಾನೂನು ಭಂಗ ಚಳುವಳಿ (1930)"
+      ],
+      "reasoning": "ಗಾಂಧಿಯವರು 1920 ರ ಅಸಹಕಾರ ಮತ್ತು 1930 ರ ನಾಗರಿಕ ಕಾಯ್ದೆ ಭಂಗ ಚಳುವಳಿಗಳನ್ನು ಮುನ್ನಡೆಸಿದರು. 1857 ಮತ್ತು 1905 ರ ಘಟನೆಗಳು ಅವರು ಭಾರತಕ್ಕೆ ಬರುವ ಮೊದಲೇ ನಡೆದಿದ್ದವು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_024",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following revolutionaries were sentenced to death and hanged by the British on March 23, 1931, in Lahore jail?",
+      "options": ["Bhagat Singh", "Sukhdev Thapar", "Subhas Chandra Bose", "Mahatma Gandhi"],
+      "answer": ["Bhagat Singh", "Sukhdev Thapar"],
+      "reasoning": "Bhagat Singh, Sukhdev, and Rajguru were hanged together on March 23, 1931, for their involvement in the Lahore Conspiracy Case (killing Officer Saunders)."
+    },
+    "kn": {
+      "question": "ಲಾಹೋರ್ ಜೈಲಿನಲ್ಲಿ ಮಾರ್ಚ್ 23, 1931 ರಂದು ಬ್ರಿಟಿಷರಿಂದ ಗಲ್ಲು ಶಿಕ್ಷೆಗೆ ಒಳಗಾದ ಭಾರತದ ಕ್ರಾಂತಿಕಾರಿಗಳು ಯಾರು?",
+      "options": ["ಭಗತ್ ಸಿಂಗ್", "ಸುಖ್‌ದೇವ್ ಥಾಪರ್", "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್", "ಮಹಾತ್ಮ ಗಾಂಧಿ"],
+      "answer": ["ಭಗತ್ ಸಿಂಗ್", "ಸುಖ್‌ದೇವ್ ಥಾಪರ್"],
+      "reasoning": "ಭಗತ್ ಸಿಂಗ್, ಸುಖ್‌ದೇವ್ ಮತ್ತು ರಾಜ್‌ಗುರು ಅವರನ್ನು 1931 ರ ಮಾರ್ಚ್ 23 ರಂದು ಗಲ್ಲಿಗೇರಿಸಲಾಯಿತು. ಈ ದಿನವನ್ನು ಶಹೀದ್ ದಿವಸ್ (ಹುತಾತ್ಮರ ದಿನ) ಎನ್ನಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_his_freedom_025",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following factors were major causes for the outbreak of the Revolt of 1857?",
+      "options": [
+        "Introduction of gunpowder cartridges greased with pig and cow fat",
+        "Anger of kings due to British annexation policies like Doctrine of Lapse",
+        "Introduction of internet and railway travel by the British",
+        "Forced space travel for Indian royal children"
+      ],
+      "answer": [
+        "Introduction of gunpowder cartridges greased with pig and cow fat",
+        "Anger of kings due to British annexation policies like Doctrine of Lapse"
+      ],
+      "reasoning": "Cartridges greased with fat offended both Hindu and Muslim soldiers. Annexation of states made Indian kings and queens furious."
+    },
+    "kn": {
+      "question": "1857 ರ ಪ್ರಥಮ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮ (ಸಿಪಾಯಿ ದಂಗೆ) ಭುಗಿಲೇಳಲು ಪ್ರಮುಖ ಕಾರಣಗಳು ಯಾವುವು?",
+      "options": [
+        "ಹಂದಿ ಮತ್ತು ಹಸುವಿನ ಕೊಬ್ಬು ಸವರಿದ್ದ ಹಲ್ಲುಗಳಿಂದ ಕಚ್ಚುವ ಕಾರ್ತೂಸುಗಳ ಬಳಕೆ",
+        "ದತ್ತು ಮಕ್ಕಳಿಗೆ ಹಕ್ಕಿಲ್ಲ ಸಿದ್ಧಾಂತದಂತಹ ನೀತಿಯಿಂದ ರಾಜರನ್ನು ಪದಚ್ಯುತಗೊಳಿಸಿದ್ದು",
+        "ಬ್ರಿಟಿಷರು ಇಂಟರ್ನೆಟ್ ಮತ್ತು ರೈಲು ಪ್ರಯಾಣವನ್ನು ಪರಿಚಯಿಸಿದ್ದು",
+        "ಭಾರತೀಯ ರಾಜಮನೆತನದ ಮಕ್ಕಳಿಗೆ ಬಾಹ್ಯಾಕಾಶ ಪ್ರಯಾಣ ಕಡ್ಡಾಯಗೊಳಿಸಿದ್ದು"
+      ],
+      "answer": [
+        "ಹಂದಿ ಮತ್ತು ಹಸುವಿನ ಕೊಬ್ಬು ಸವರಿದ್ದ ಹಲ್ಲುಗಳಿಂದ ಕಚ್ಚುವ ಕಾರ್ತೂಸುಗಳ ಬಳಕೆ",
+        "ದತ್ತು ಮಕ್ಕಳಿಗೆ ಹಕ್ಕಿಲ್ಲ ಸಿದ್ಧಾಂತದಂತಹ ನೀತಿಯಿಂದ ರಾಜರನ್ನು ಪದಚ್ಯುತಗೊಳಿಸಿದ್ದು"
+      ],
+      "reasoning": "ಕೊಬ್ಬು ಸವರಿದ ಸೋಟುಗಳು ಹಿಂದೂ ಮತ್ತು ಮುಸ್ಲಿಂ ಸೈನಿಕರ ಧಾರ್ಮಿಕ ಭಾವನೆಗೆ ಧಕ್ಕೆ ತಂದವು. ದತ್ತು ನೀತಿಯು ರಾಜರನ್ನು ಕೆರಳಿಸಿತು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_026",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the prominent Indian freedom fighters with their popular titles/names:",
+      "pairs": [
+        {"left": "Mahatma Gandhi", "right": "Father of the Nation"},
+        {"left": "Subhas Chandra Bose", "right": "Netaji"},
+        {"left": "Sardar Vallabhbhai Patel", "right": "Iron Man of India"},
+        {"left": "Jawaharlal Nehru", "right": "Chacha"}
+      ],
+      "reasoning": "These titles were affectionately given to the leaders by the public due to their unique character and leadership style."
+    },
+    "kn": {
+      "question": "ಭಾರತದ ಪ್ರಮುಖ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರನ್ನು ಅವರ ಪ್ರಸಿದ್ಧ ಬಿರುದುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಮಹಾತ್ಮ ಗಾಂಧಿ", "right": "ರಾಷ್ಟ್ರಪಿತ"},
+        {"left": "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್", "right": "ನೇತಾಜಿ"},
+        {"left": "ಸರ್ದಾರ್ ವಲ್ಲಭಭಾಯಿ ಪಟೇಲ್", "right": "ಭಾರತದ ಉಕ್ಕಿನ ಮನುಷ್ಯ"},
+        {"left": "ಜವಾಹರಲಾಲ್ ನೆಹರು", "right": "ಚಾಚಾ"}
+      ],
+      "reasoning": "ಈ ಬಿರುದುಗಳನ್ನು ಅವರ ನಾಯಕತ್ವ ಮತ್ತು ಕೊಡುಗೆಗಳನ್ನು ಗೌರವಿಸಿ ದೇಶದ ಜನತೆ ಪ್ರೀತಿಯಿಂದ ನೀಡಿದ್ದಾರೆ."
+    }
+  },
+  {
+    "id": "c5_his_freedom_027",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the national patriotic symbols with their creators/composers:",
+      "pairs": [
+        {"left": "National Anthem", "right": "Rabindranath Tagore"},
+        {"left": "National Song", "right": "Bankim Chandra Chattopadhyay"},
+        {"left": "National Flag Design", "right": "Pingali Venkayya"},
+        {"left": "National Emblem Lions", "right": "Emperor Ashoka"}
+      ],
+      "reasoning": "Rabindranath Tagore composed the Anthem, Bankim wrote the Song, Pingali designed the Tricolor flag, and Ashoka built the Sarnath pillar."
+    },
+    "kn": {
+      "question": "ರಾಷ್ಟ್ರೀಯ ಸಂಕೇತಗಳನ್ನು ಅವುಗಳನ್ನು ರಚಿಸಿದ/ವಿನ್ಯಾಸಗೊಳಿಸಿದ ವ್ಯಕ್ತಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ರಾಷ್ಟ್ರಗೀತೆ (ಜನ ಗಣ ಮನ)", "right": "ರವೀಂದ್ರನಾಥ ಠಾಗೋರ್"},
+        {"left": "ರಾಷ್ಟ್ರೀಯ ಹಾಡು (ವಂದೇ ಮಾತರಂ)", "right": "ಬಂಕಿಮ ಚಂದ್ರ ಚಟರ್ಜಿ"},
+        {"left": "ರಾಷ್ಟ್ರಧ್ವಜದ ವಿನ್ಯಾಸ", "right": "ಪಿಂಗಾಳಿ ವೆಂಕಯ್ಯ"},
+        {"left": "ರಾಷ್ಟ್ರ ಲಾಂಛನ (ಸಿಂಹಗಳು)", "right": "ಸಾಮ್ರಾಟ್ ಅಶೋಕ"}
+      ],
+      "reasoning": "ಠಾಗೋರ್ ರಾಷ್ಟ್ರಗೀತೆ ಬರೆದರು, ಚಟರ್ಜಿ ವಂದೇ ಮಾತರಂ ಬರೆದರು, ವೆಂಕಯ್ಯ ಧ್ವಜ ವಿನ್ಯಾಸಗೊಳಿಸಿದರು ಮತ್ತು ಅಶೋಕ ಸಾರನಾಥ ಸ್ತಂಭ ನಿರ್ಮಿಸಿದನು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_028",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the major milestones of the Indian freedom movement with the years they began:",
+      "pairs": [
+        {"left": "First War of Independence", "right": "1857"},
+        {"left": "Non-Cooperation Movement", "right": "1920"},
+        {"left": "Dandi Salt March", "right": "1930"},
+        {"left": "Quit India Movement", "right": "1942"}
+      ],
+      "reasoning": "The revolt began in 1857, Non-Cooperation started in 1920, Salt march took place in 1930, and Quit India movement launched in 1942."
+    },
+    "kn": {
+      "question": "ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮದ ಪ್ರಮುಖ ಮೈಲಿಗಲ್ಲುಗಳನ್ನು ಅವುಗಳು ಪ್ರಾರಂಭವಾದ ವರ್ಷಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಪ್ರಥಮ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮ", "right": "1857"},
+        {"left": "ಅಸಹಕಾರ ಚಳುವಳಿ", "right": "1920"},
+        {"left": "ದಂಡಿ ಸತ್ಯಾಗ್ರಹ", "right": "1930"},
+        {"left": "ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳುವಳಿ", "right": "1942"}
+      ],
+      "reasoning": "ದಂಗೆಯ ಆರಂಭ 1857, ಅಸಹಕಾರ ಚಳುವಳಿ 1920, ದಂಡಿ ಸತ್ಯಾಗ್ರಹ 1930 ಮತ್ತು ಕೊನೆಯದಾಗಿ ಬ್ರಿಟಿಷರಿಗೆ ಎಚ್ಚರಿಕೆ ನೀಡಿದ ಕ್ವಿಟ್ ಇಂಡಿಯಾ 1942 ರಲ್ಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_029",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the historical events of the freedom struggle with their geographically significant locations:",
+      "pairs": [
+        {"left": "Jallianwala Bagh shooting", "right": "Amritsar (Punjab)"},
+        {"left": "Salt Law violation", "right": "Dandi beach (Gujarat)"},
+        {"left": "Chauri Chaura violence", "right": "Gorakhpur (Uttar Pradesh)"},
+        {"left": "First Sepoy Revolt outbreak", "right": "Meerut cantonment (UP)"}
+      ],
+      "reasoning": "Massacre happened in Amritsar, Salt law was broken in Dandi, police station was burned in Gorakhpur, and sepoys marched from Meerut."
+    },
+    "kn": {
+      "question": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟದ ಪ್ರಮುಖ ಘಟನೆಗಳನ್ನು ಅವುಗಳು ಸಂಭವಿಸಿದ ಐತಿಹಾಸಿಕ ಸ್ಥಳಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಜಲಿಯನ್ ವಾಲಾಬಾಗ್ ಹತ್ಯಾಕಾಂಡ", "right": "ಅಮೃತಸರ (ಪಂಜಾಬ್)"},
+        {"left": "ಉಪ್ಪಿನ ಕಾಯ್ದೆ ಉಲ್ಲಂಘನೆ", "right": "ದಂಡಿ ಕಡಲತೀರ (ಗುಜರಾತ್)"},
+        {"left": "ಚೌರಿ ಚೌರಾ ಹಿಂಸಾಚಾರ", "right": "ಗೋರಖ್‌ಪುರ (ಉತ್ತರಪ್ರದೇಶ)"},
+        {"left": "ಮೊದಲ ಸಿಪಾಯಿ ದಂಗೆಯ ಆರಂಭ", "right": "ಮೀರತ್ ಸೇನಾ ಕಾವಲು (ಯುಪಿ)"}
+      ],
+      "reasoning": "ಹತ್ಯಾಕಾಂಡ ಅಮೃತಸರದಲ್ಲಿ, ಉಪ್ಪಿನ ಕಾಯ್ದೆ ಭಂಗ ದಂಡಿಯಲ್ಲಿ, ಠಾಣೆ ದಹನ ಚೌರಿ ಚೌರಾದಲ್ಲಿ ಮತ್ತು ದಂಗೆಯು ಮೀರತ್‌ನಿಂದ ಆರಂಭವಾಯಿತು."
+    }
+  },
+  {
+    "id": "c5_his_freedom_030",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the freedom fighters and national figures with their specific contributions/actions:",
+      "pairs": [
+        {"left": "Dr. B.R. Ambedkar", "right": "Drafted the Constitution of Republic India"},
+        {"left": "Bhagat Singh", "right": "Threw smoke bomb in Legislative Assembly"},
+        {"left": "Mangal Pandey", "right": "First soldier to revolt in Barrackpore"},
+        {"left": "Rani Chennamma", "right": "Led Kittur rebellion against adoption policy"}
+      ],
+      "reasoning": "Ambedkar created the legal code, Bhagat Singh protested via the assembly bomb, Mangal Pandey rebelled in 1857, and Chennamma defended Kittur in 1824."
+    },
+    "kn": {
+      "question": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರು ಮತ್ತು ಪ್ರಮುಖ ವ್ಯಕ್ತಿಗಳನ್ನು ಅವರ ನಿರ್ದಿಷ್ಟ ಕೊಡುಗೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಡಾ. ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕರ್", "right": "ಸ್ವತಂತ್ರ ಭಾರತದ ಸಂವಿಧಾನ ರಚಿಸಿದರು"},
+        {"left": "ಭಗತ್ ಸಿಂಗ್", "right": "ಶಾಸನ ಸಭೆಯಲ್ಲಿ ಹೊಗೆ ಬಾಂಬ್ ಎಸೆದರು"},
+        {"left": "ಮಂಗಲ್ ಪಾಂಡೆ", "right": "ಬ್ಯಾರಕ್‌ಪುರದಲ್ಲಿ ದಂಗೆಯೆದ್ದ ಪ್ರಥಮ ಸೈನಿಕ"},
+        {"left": "ರಾಣಿ ಚೆನ್ನಮ್ಮ", "right": "ದತ್ತು ನೀತಿಯ ವಿರುದ್ಧ ಕಿತ್ತೂರು ಬಂಡಾಯ ನಡೆಸಿದರು"}
+      ],
+      "reasoning": "ಅಂಬೇಡ್ಕರ್ ಸಂವಿಧಾನ ನೀಡಿದರು, ಭಗತ್ ಸಿಂಗ್ ಬಾಂಬ್ ಎಸೆದರು, ಮಂಗಲ್ ಪಾಂಡೆ 1857 ಕ್ಕೆ ನಾಂದಿ ಹಾಡಿದರು ಮತ್ತು ಚೆನ್ನಮ್ಮ 1824 ರಲ್ಲಿ ಕಿತ್ತೂರು ರಕ್ಷಿಸಲು ಹೋರಾಡಿದರು."
+    }
+  }
+]
