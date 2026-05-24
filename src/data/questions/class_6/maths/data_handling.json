@@ -1,0 +1,242 @@
+[
+  {
+    "id": "c6_math_dh_1",
+    "difficulty": 1,
+    "en": {
+      "question": "Information collected in the form of numbers to give some details or answer a specific question is called:",
+      "options": ["A chart", "A graph", "Data", "A tally"],
+      "answer": "Data",
+      "reasoning": "Data refers to raw facts, figures, or information collected together for reference or analysis."
+    },
+    "kn": {
+      "question": "ಕೆಲವು ವಿವರಗಳನ್ನು ನೀಡಲು ಅಥವಾ ನಿರ್ದಿಷ್ಟ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಲು ಸಂಖ್ಯೆಗಳ ರೂಪದಲ್ಲಿ ಸಂಗ್ರಹಿಸಲಾದ ಮಾಹಿತಿಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಚಾರ್ಟ್", "ಗ್ರಾಫ್", "ದತ್ತಾಂಶ (Data)", "ಟ್ಯಾಲಿ (Tally)"],
+      "answer": "ದತ್ತಾಂಶ (Data)",
+      "reasoning": "ದತ್ತಾಂಶವು (Data) ಉಲ್ಲೇಖ ಅಥವಾ ವಿಶ್ಲೇಷಣೆಗಾಗಿ ಒಟ್ಟಿಗೆ ಸಂಗ್ರಹಿಸಲಾದ ಕಚ್ಚಾ ಸಂಗತಿಗಳು, ಅಂಕಿಅಂಶಗಳು ಅಥವಾ ಮಾಹಿತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_math_dh_2",
+    "difficulty": 1,
+    "en": {
+      "question": "Which method uses vertical lines grouped in fives (with the fifth line drawn diagonally across the first four) to quickly count data?",
+      "options": ["Bar graph", "Pictograph", "Tally marks", "Pie chart"],
+      "answer": "Tally marks",
+      "reasoning": "Tally marks are a quick way of keeping track of numbers in groups of five. Four vertical lines are drawn, and the fifth is a diagonal 'slash' across them (|||| with a slash)."
+    },
+    "kn": {
+      "question": "ದತ್ತಾಂಶವನ್ನು (data) ತ್ವರಿತವಾಗಿ ಎಣಿಸಲು, ಐದರ ಗುಂಪುಗಳಲ್ಲಿ ಲಂಬ ರೇಖೆಗಳನ್ನು (ಮೊದಲ ನಾಲ್ಕರಲ್ಲಿ ಐದನೇ ರೇಖೆಯನ್ನು ಅಡ್ಡಲಾಗಿ ಎಳೆಯಲಾಗುತ್ತದೆ) ಬಳಸುವ ವಿಧಾನ ಯಾವುದು?",
+      "options": ["ಬಾರ್ ಗ್ರಾಫ್ (Bar graph)", "ಚಿತ್ರರೇಖೆ (Pictograph)", "ಟ್ಯಾಲಿ ಗುರುತುಗಳು (Tally marks)", "ಪೈ ಚಾರ್ಟ್ (Pie chart)"],
+      "answer": "ಟ್ಯಾಲಿ ಗುರುತುಗಳು (Tally marks)",
+      "reasoning": "ಐದರ ಗುಂಪುಗಳಲ್ಲಿ ಸಂಖ್ಯೆಗಳನ್ನು ತ್ವರಿತವಾಗಿ ಎಣಿಸಲು ಟ್ಯಾಲಿ ಗುರುತುಗಳು ಸರಳ ಮಾರ್ಗವಾಗಿದೆ. ನಾಲ್ಕು ಲಂಬ ರೇಖೆಗಳನ್ನು ಎಳೆಯಲಾಗುತ್ತದೆ ಮತ್ತು ಐದನೆಯದು ಅವುಗಳಾದ್ಯಂತ ಅಡ್ಡ 'ಸ್ಲ್ಯಾಷ್' ಆಗಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_math_dh_3",
+    "difficulty": 2,
+    "en": {
+      "question": "If a tally mark shows two full groups of five and three extra vertical lines, what number does it represent?",
+      "options": ["8", "13", "18", "23"],
+      "answer": "13",
+      "reasoning": "Two full groups of five = 2 x 5 = 10. Plus 3 extra lines = 10 + 3 = 13."
+    },
+    "kn": {
+      "question": "ಒಂದು ಟ್ಯಾಲಿ ಗುರುತು ಐದರ ಎರಡು ಪೂರ್ಣ ಗುಂಪುಗಳನ್ನು ಮತ್ತು ಮೂರು ಹೆಚ್ಚುವರಿ ಲಂಬ ರೇಖೆಗಳನ್ನು ತೋರಿಸಿದರೆ, ಅದು ಯಾವ ಸಂಖ್ಯೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ?",
+      "options": ["8", "13", "18", "23"],
+      "answer": "13",
+      "reasoning": "ಐದರ ಎರಡು ಪೂರ್ಣ ಗುಂಪುಗಳು = 2 x 5 = 10. ಜೊತೆಗೆ 3 ಹೆಚ್ಚುವರಿ ಸಾಲುಗಳು = 10 + 3 = 13."
+    }
+  },
+  {
+    "id": "c6_math_dh_4",
+    "difficulty": 1,
+    "en": {
+      "question": "A representation of data using pictures or symbols is called a:",
+      "options": ["Bar graph", "Tally table", "Pictograph", "Line graph"],
+      "answer": "Pictograph",
+      "reasoning": "A pictograph (or pictogram) uses images or symbols to represent data points, making it visually easy to understand."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರಗಳು ಅಥವಾ ಚಿಹ್ನೆಗಳನ್ನು ಬಳಸಿ ದತ್ತಾಂಶವನ್ನು (data) ಪ್ರತಿನಿಧಿಸುವುದನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಬಾರ್ ಗ್ರಾಫ್ (Bar graph)", "ಟ್ಯಾಲಿ ಟೇಬಲ್", "ಚಿತ್ರರೇಖೆ (Pictograph)", "ಲೈನ್ ಗ್ರಾಫ್ (Line graph)"],
+      "answer": "ಚಿತ್ರರೇಖೆ (Pictograph)",
+      "reasoning": "ಚಿತ್ರರೇಖೆ (ಚಿತ್ರ-ನಕ್ಷೆ) ದತ್ತಾಂಶಗಳನ್ನು ಪ್ರತಿನಿಧಿಸಲು ಚಿತ್ರಗಳು ಅಥವಾ ಚಿಹ್ನೆಗಳನ್ನು ಬಳಸುತ್ತದೆ, ಇದು ದೃಷ್ಟಿಗೋಚರವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸುಲಭಗೊಳಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_math_dh_5",
+    "difficulty": 2,
+    "en": {
+      "question": "In a pictograph, one picture of a book represents 10 actual books. If the pictograph shows 4 and a half books for Monday, how many books were sold on Monday?",
+      "options": ["4", "14", "45", "40"],
+      "answer": "45",
+      "reasoning": "4 full books = 4 x 10 = 40 books. Half a book represents 10 ÷ 2 = 5 books. Total = 40 + 5 = 45 books."
+    },
+    "kn": {
+      "question": "ಒಂದು ಚಿತ್ರರೇಖೆಯಲ್ಲಿ (pictograph), ಒಂದು ಪುಸ್ತಕದ ಚಿತ್ರವು 10 ನೈಜ ಪುಸ್ತಕಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಸೋಮವಾರದಂದು ಚಿತ್ರರೇಖೆಯು 4 ಮತ್ತು ಅರ್ಧ ಪುಸ್ತಕಗಳನ್ನು ತೋರಿಸಿದರೆ, ಸೋಮವಾರದಂದು ಎಷ್ಟು ಪುಸ್ತಕಗಳು ಮಾರಾಟವಾಗಿವೆ?",
+      "options": ["4", "14", "45", "40"],
+      "answer": "45",
+      "reasoning": "4 ಪೂರ್ಣ ಪುಸ್ತಕಗಳು = 4 x 10 = 40 ಪುಸ್ತಕಗಳು. ಅರ್ಧ ಪುಸ್ತಕವು 10 ÷ 2 = 5 ಪುಸ್ತಕಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಒಟ್ಟು = 40 + 5 = 45 ಪುಸ್ತಕಗಳು."
+    }
+  },
+  {
+    "id": "c6_math_dh_6",
+    "difficulty": 2,
+    "en": {
+      "question": "A display of information using rectangular bars of uniform width, where their heights or lengths are proportional to the values they represent, is called a:",
+      "options": ["Pictograph", "Bar Graph", "Pie Chart", "Tally chart"],
+      "answer": "Bar Graph",
+      "reasoning": "A bar graph uses solid bars to compare quantities in different categories. The taller or longer the bar, the larger the value."
+    },
+    "kn": {
+      "question": "ಏಕರೂಪದ ಅಗಲದ ಆಯತಾಕಾರದ ಬಾರ್‌ಗಳನ್ನು (bars) ಬಳಸಿ ಮಾಹಿತಿಯ ಪ್ರದರ್ಶನವನ್ನು ಮಾಡುವುದು, ಅಲ್ಲಿ ಬಾರ್‌ಗಳ ಎತ್ತರ ಅಥವಾ ಉದ್ದವು ಅವು ಪ್ರತಿನಿಧಿಸುವ ಮೌಲ್ಯಗಳಿಗೆ ಅನುಪಾತದಲ್ಲಿರುತ್ತದೆ, ಇದನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಚಿತ್ರರೇಖೆ (Pictograph)", "ಬಾರ್ ಗ್ರಾಫ್ (Bar Graph)", "ಪೈ ಚಾರ್ಟ್", "ಟ್ಯಾಲಿ ಚಾರ್ಟ್"],
+      "answer": "ಬಾರ್ ಗ್ರಾಫ್ (Bar Graph)",
+      "reasoning": "ಬಾರ್ ಗ್ರಾಫ್ ವಿಭಿನ್ನ ವರ್ಗಗಳಲ್ಲಿನ ಪ್ರಮಾಣಗಳನ್ನು ಹೋಲಿಸಲು ಘನ ಬಾರ್‌ಗಳನ್ನು ಬಳಸುತ್ತದೆ. ಬಾರ್ ಎಷ್ಟು ಎತ್ತರ ಅಥವಾ ಉದ್ದವಿದೆಯೋ, ಮೌಲ್ಯವು ಅಷ್ಟು ದೊಡ್ಡದಾಗಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_math_dh_7",
+    "difficulty": 3,
+    "en": {
+      "question": "On a bar graph showing student marks, the Y-axis has a scale: '1 unit length = 5 marks'. If a student's bar is 7 units tall, how many marks did they score?",
+      "options": ["7", "12", "35", "75"],
+      "answer": "35",
+      "reasoning": "If 1 unit represents 5 marks, then 7 units represent 7 x 5 = 35 marks."
+    },
+    "kn": {
+      "question": "ವಿದ್ಯಾರ್ಥಿಗಳ ಅಂಕಗಳನ್ನು ತೋರಿಸುವ ಬಾರ್ ಗ್ರಾಫ್‌ನಲ್ಲಿ, Y-ಅಕ್ಷವು (Y-axis) ಒಂದು ಅಳತೆಯನ್ನು ಹೊಂದಿದೆ: '1 ಯುನಿಟ್ ಉದ್ದ = 5 ಅಂಕಗಳು'. ವಿದ್ಯಾರ್ಥಿಯ ಬಾರ್ 7 ಯುನಿಟ್ ಎತ್ತರವಿದ್ದರೆ, ಅವರು ಎಷ್ಟು ಅಂಕಗಳನ್ನು ಗಳಿಸಿದ್ದಾರೆ?",
+      "options": ["7", "12", "35", "75"],
+      "answer": "35",
+      "reasoning": "1 ಯುನಿಟ್ 5 ಅಂಕಗಳನ್ನು ಪ್ರತಿನಿಧಿಸಿದರೆ, 7 ಯುನಿಟ್‌ಗಳು 7 x 5 = 35 ಅಂಕಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_math_dh_8",
+    "difficulty": 1,
+    "en": {
+      "question": "In a bar graph, can the bars be drawn horizontally instead of vertically?",
+      "options": ["No, they must always be vertical", "Yes, they can be drawn both vertically and horizontally", "Only in special math books", "No, horizontal bars are called lines"],
+      "answer": "Yes, they can be drawn both vertically and horizontally",
+      "reasoning": "Bar graphs can be either vertical (column graphs) or horizontal. Both are valid ways to present categorical data."
+    },
+    "kn": {
+      "question": "ಬಾರ್ ಗ್ರಾಫ್‌ನಲ್ಲಿ, ಬಾರ್‌ಗಳನ್ನು ಲಂಬವಾಗಿ (vertically) ಎಳೆಯುವ ಬದಲು ಅಡ್ಡಲಾಗಿ (horizontally) ಎಳೆಯಬಹುದೇ?",
+      "options": ["ಇಲ್ಲ, ಅವು ಯಾವಾಗಲೂ ಲಂಬವಾಗಿರಬೇಕು", "ಹೌದು, ಅವುಗಳನ್ನು ಲಂಬವಾಗಿ ಮತ್ತು ಅಡ್ಡಲಾಗಿ ಎರಡೂ ಎಳೆಯಬಹುದು", "ವಿಶೇಷ ಗಣಿತ ಪುಸ್ತಕಗಳಲ್ಲಿ ಮಾತ್ರ", "ಇಲ್ಲ, ಅಡ್ಡ ಬಾರ್‌ಗಳನ್ನು ರೇಖೆಗಳು (lines) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ"],
+      "answer": "ಹೌದು, ಅವುಗಳನ್ನು ಲಂಬವಾಗಿ ಮತ್ತು ಅಡ್ಡಲಾಗಿ ಎರಡೂ ಎಳೆಯಬಹುದು",
+      "reasoning": "ಬಾರ್ ಗ್ರಾಫ್‌ಗಳು ಲಂಬವಾಗಿ (column graphs) ಅಥವಾ ಅಡ್ಡಲಾಗಿ ಇರಬಹುದು. ಇವೆರಡೂ ದತ್ತಾಂಶಗಳನ್ನು ಪ್ರಸ್ತುತಪಡಿಸುವ ಮಾನ್ಯವಾದ ಮಾರ್ಗಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c6_math_dh_9",
+    "difficulty": 2,
+    "en": {
+      "question": "Why do we use 'scale' when drawing a pictograph or a bar graph?",
+      "options": ["To make the drawing colourful", "Because we cannot always draw large numbers of pictures or very long bars, so one unit represents a larger number", "To measure the weight of the data", "Because it is a rule to use a ruler"],
+      "answer": "Because we cannot always draw large numbers of pictures or very long bars, so one unit represents a larger number",
+      "reasoning": "If a factory produces 5000 cars, drawing 5000 individual car symbols is impossible. A scale (e.g., 1 symbol = 1000 cars) makes it fit on a page."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರರೇಖೆ (pictograph) ಅಥವಾ ಬಾರ್ ಗ್ರಾಫ್ ಅನ್ನು ಎಳೆಯುವಾಗ ನಾವು 'ಅಳತೆ' (scale) ಯನ್ನು ಏಕೆ ಬಳಸುತ್ತೇವೆ?",
+      "options": ["ಚಿತ್ರವನ್ನು ವರ್ಣರಂಜಿತವಾಗಿಸಲು", "ಏಕೆಂದರೆ ನಾವು ಯಾವಾಗಲೂ ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಯ ಚಿತ್ರಗಳನ್ನು ಅಥವಾ ಉದ್ದವಾದ ಬಾರ್‌ಗಳನ್ನು ಎಳೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ, ಆದ್ದರಿಂದ ಒಂದು ಘಟಕವು (unit) ದೊಡ್ಡ ಸಂಖ್ಯೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ", "ದತ್ತಾಂಶದ ತೂಕವನ್ನು ಅಳೆಯಲು", "ಏಕೆಂದರೆ ಮಾಪಕವನ್ನು (ruler) ಬಳಸುವುದು ಒಂದು ನಿಯಮವಾಗಿದೆ"],
+      "answer": "ಏಕೆಂದರೆ ನಾವು ಯಾವಾಗಲೂ ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಯ ಚಿತ್ರಗಳನ್ನು ಅಥವಾ ಉದ್ದವಾದ ಬಾರ್‌ಗಳನ್ನು ಎಳೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ, ಆದ್ದರಿಂದ ಒಂದು ಘಟಕವು (unit) ದೊಡ್ಡ ಸಂಖ್ಯೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ",
+      "reasoning": "ಒಂದು ಕಾರ್ಖಾನೆಯು 5000 ಕಾರುಗಳನ್ನು ಉತ್ಪಾದಿಸಿದರೆ, 5000 ಪ್ರತ್ಯೇಕ ಕಾರಿನ ಚಿಹ್ನೆಗಳನ್ನು ಎಳೆಯುವುದು ಅಸಾಧ್ಯ. ಒಂದು ಅಳತೆ (ಉದಾಹರಣೆಗೆ, 1 ಚಿಹ್ನೆ = 1000 ಕಾರುಗಳು) ಅದನ್ನು ಪುಟದಲ್ಲಿ ಹೊಂದಿಕೊಳ್ಳುವಂತೆ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_math_dh_10",
+    "difficulty": 3,
+    "en": {
+      "question": "There are 40 students in a class. 10 like cricket, 15 like football, 5 like tennis, and 10 like basketball. If you draw a bar graph with the scale '1 unit = 5 students', how tall will the bar for 'football' be?",
+      "options": ["5 units", "2 units", "3 units", "15 units"],
+      "answer": "3 units",
+      "reasoning": "15 students like football. The scale is 1 unit = 5 students. Number of units needed = 15 ÷ 5 = 3 units."
+    },
+    "kn": {
+      "question": "ಒಂದು ತರಗತಿಯಲ್ಲಿ 40 ವಿದ್ಯಾರ್ಥಿಗಳಿದ್ದಾರೆ. 10 ಜನರಿಗೆ ಕ್ರಿಕೆಟ್, 15 ಜನರಿಗೆ ಫುಟ್ಬಾಲ್, 5 ಜನರಿಗೆ ಟೆನಿಸ್, ಮತ್ತು 10 ಜನರಿಗೆ ಬಾಸ್ಕೆಟ್‌ಬಾಲ್ ಇಷ್ಟ. ನೀವು '1 ಯುನಿಟ್ = 5 ವಿದ್ಯಾರ್ಥಿಗಳು' ಅಳತೆಯೊಂದಿಗೆ ಬಾರ್ ಗ್ರಾಫ್ ಅನ್ನು ಎಳೆದರೆ, 'ಫುಟ್ಬಾಲ್' ಗಾಗಿ ಬಾರ್ ಎಷ್ಟು ಎತ್ತರವಿರುತ್ತದೆ?",
+      "options": ["5 ಯುನಿಟ್‌ಗಳು", "2 ಯುನಿಟ್‌ಗಳು", "3 ಯುನಿಟ್‌ಗಳು", "15 ಯುನಿಟ್‌ಗಳು"],
+      "answer": "3 ಯುನಿಟ್‌ಗಳು",
+      "reasoning": "15 ವಿದ್ಯಾರ್ಥಿಗಳು ಫುಟ್ಬಾಲ್ ಅನ್ನು ಇಷ್ಟಪಡುತ್ತಾರೆ. ಅಳತೆಯು 1 ಯುನಿಟ್ = 5 ವಿದ್ಯಾರ್ಥಿಗಳು. ಅಗತ್ಯವಿರುವ ಯುನಿಟ್‌ಗಳ ಸಂಖ್ಯೆ = 15 ÷ 5 = 3 ಯುನಿಟ್‌ಗಳು."
+    }
+  },
+  {
+    "id": "c6_math_dh_11",
+    "difficulty": 2,
+    "en": {
+      "question": "The number of times a particular entry or observation occurs in a set of data is called its:",
+      "options": ["Tally", "Range", "Frequency", "Average"],
+      "answer": "Frequency",
+      "reasoning": "Frequency refers to how often a specific value appears. For example, if 4 students got an 'A' grade, the frequency of 'A' is 4."
+    },
+    "kn": {
+      "question": "ದತ್ತಾಂಶಗಳ (data) ಗುಂಪಿನಲ್ಲಿ ಒಂದು ನಿರ್ದಿಷ್ಟ ನಮೂದು ಅಥವಾ ವೀಕ್ಷಣೆ (observation) ಸಂಭವಿಸುವ ಸಂಖ್ಯೆಯನ್ನು (ಎಷ್ಟು ಬಾರಿ ಬರುತ್ತದೆ ಎಂಬುದನ್ನು) ಅದರ ___ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ:",
+      "options": ["ಟ್ಯಾಲಿ", "ವ್ಯಾಪ್ತಿ (Range)", "ಆವರ್ತನ (Frequency)", "ಸರಾಸರಿ (Average)"],
+      "answer": "ಆವರ್ತನ (Frequency)",
+      "reasoning": "ಆವರ್ತನವು (Frequency) ನಿರ್ದಿಷ್ಟ ಮೌಲ್ಯವು ಎಷ್ಟು ಬಾರಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, 4 ವಿದ್ಯಾರ್ಥಿಗಳು 'A' ಗ್ರೇಡ್ ಪಡೆದರೆ, 'A' ನ ಆವರ್ತನವು 4 ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_math_dh_12",
+    "difficulty": 1,
+    "en": {
+      "question": "In a tally mark representation, what do four vertical lines crossed by one diagonal line (|||| /) stand for?",
+      "options": ["4", "5", "6", "10"],
+      "answer": "5",
+      "reasoning": "The diagonal slash acts as the 5th mark, bundling the previous 4 lines together into a convenient group of 5."
+    },
+    "kn": {
+      "question": "ಟ್ಯಾಲಿ ಗುರುತಿನ ಪ್ರಾತಿನಿಧ್ಯದಲ್ಲಿ, ಒಂದು ಕರ್ಣೀಯ ರೇಖೆಯಿಂದ (diagonal line) ದಾಟಿದ ನಾಲ್ಕು ಲಂಬ ರೇಖೆಗಳು (|||| /) ಏನನ್ನು ಸೂಚಿಸುತ್ತವೆ?",
+      "options": ["4", "5", "6", "10"],
+      "answer": "5",
+      "reasoning": "ಕರ್ಣೀಯ ರೇಖೆಯು 5ನೇ ಗುರುತಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ, ಇದು ಹಿಂದಿನ 4 ಸಾಲುಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ 5 ರ ಅನುಕೂಲಕರ ಗುಂಪನ್ನಾಗಿ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_math_dh_13",
+    "difficulty": 3,
+    "en": {
+      "question": "To represent the population of 4 cities (in millions: 12, 8, 15, 5) using a bar graph, which scale would be most appropriate?",
+      "options": ["1 unit length = 1 person", "1 unit length = 100 people", "1 unit length = 2 million people", "1 unit length = 100 million people"],
+      "answer": "1 unit length = 2 million people",
+      "reasoning": "1 unit = 2 million is manageable. The bars would be 6, 4, 7.5, and 2.5 units tall, which easily fits on a standard graph paper."
+    },
+    "kn": {
+      "question": "ಬಾರ್ ಗ್ರಾಫ್ ಬಳಸಿ 4 ನಗರಗಳ ಜನಸಂಖ್ಯೆಯನ್ನು (ದಶಲಕ್ಷಗಳಲ್ಲಿ / millions: 12, 8, 15, 5) ಪ್ರತಿನಿಧಿಸಲು, ಯಾವ ಅಳತೆಯು (scale) ಹೆಚ್ಚು ಸೂಕ್ತವಾಗಿರುತ್ತದೆ?",
+      "options": ["1 ಯುನಿಟ್ ಉದ್ದ = 1 ವ್ಯಕ್ತಿ", "1 ಯುನಿಟ್ ಉದ್ದ = 100 ಜನರು", "1 ಯುನಿಟ್ ಉದ್ದ = 2 ದಶಲಕ್ಷ ಜನರು (2 million)", "1 ಯುನಿಟ್ ಉದ್ದ = 100 ದಶಲಕ್ಷ ಜನರು"],
+      "answer": "1 ಯುನಿಟ್ ಉದ್ದ = 2 ದಶಲಕ್ಷ ಜನರು (2 million)",
+      "reasoning": "1 ಯುನಿಟ್ = 2 ಮಿಲಿಯನ್ ಸೂಕ್ತವಾಗಿದೆ. ಬಾರ್‌ಗಳು 6, 4, 7.5, ಮತ್ತು 2.5 ಯುನಿಟ್‌ಗಳಷ್ಟು ಎತ್ತರವಿರುತ್ತವೆ, ಇದು ಪ್ರಮಾಣಿತ ಗ್ರಾಫ್ ಪೇಪರ್‌ನಲ್ಲಿ ಸುಲಭವಾಗಿ ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_math_dh_14",
+    "difficulty": 2,
+    "en": {
+      "question": "When organizing raw data into a tabular form to easily count frequencies, which tool is most commonly used in the middle column?",
+      "options": ["Fractions", "Tally Marks", "Decimals", "Alphabets"],
+      "answer": "Tally Marks",
+      "reasoning": "A frequency distribution table typically has three columns: Category, Tally Marks (to count as you go), and Frequency (the final count)."
+    },
+    "kn": {
+      "question": "ಆವರ್ತನಗಳನ್ನು (frequencies) ಸುಲಭವಾಗಿ ಎಣಿಸಲು ಕಚ್ಚಾ ದತ್ತಾಂಶವನ್ನು ಕೋಷ್ಟಕ ರೂಪದಲ್ಲಿ (tabular form) ಆಯೋಜಿಸುವಾಗ, ಮಧ್ಯದ ಕಾಲಮ್‌ನಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಾಧನವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "options": ["ಭಿನ್ನರಾಶಿಗಳು (Fractions)", "ಟ್ಯಾಲಿ ಗುರುತುಗಳು (Tally Marks)", "ದಶಮಾಂಶಗಳು (Decimals)", "ವರ್ಣಮಾಲೆಗಳು (Alphabets)"],
+      "answer": "ಟ್ಯಾಲಿ ಗುರುತುಗಳು (Tally Marks)",
+      "reasoning": "ಆವರ್ತನ ವಿತರಣಾ ಕೋಷ್ಟಕವು ವಿಶಿಷ್ಟವಾಗಿ ಮೂರು ಕಾಲಮ್‌ಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ: ವರ್ಗ (Category), ಟ್ಯಾಲಿ ಗುರುತುಗಳು (ಎಣಿಸಲು), ಮತ್ತು ಆವರ್ತನ (ಅಂತಿಮ ಎಣಿಕೆ)."
+    }
+  },
+  {
+    "id": "c6_math_dh_15",
+    "difficulty": 3,
+    "en": {
+      "question": "If you throw a dice 30 times and want to record how many times each number (1 to 6) appears, which method is the best way to record the results LIVE as you throw?",
+      "options": ["Draw a bar graph instantly after each throw", "Use a tally mark table, adding a mark for the number after every throw", "Remember it in your head until the end", "Use a pie chart"],
+      "answer": "Use a tally mark table, adding a mark for the number after every throw",
+      "reasoning": "Tally marks are specifically designed for 'live' counting. It's much faster to strike a tally line than to erase and redraw a bar graph 30 times."
+    },
+    "kn": {
+      "question": "ನೀವು ದಾಳವನ್ನು (dice) 30 ಬಾರಿ ಎಸೆದು ಪ್ರತಿ ಸಂಖ್ಯೆ (1 ರಿಂದ 6) ಎಷ್ಟು ಬಾರಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ ಎಂಬುದನ್ನು ದಾಖಲಿಸಲು ಬಯಸಿದರೆ, ನೀವು ಎಸೆಯುತ್ತಿರುವಾಗಲೇ ಫಲಿತಾಂಶಗಳನ್ನು ನೇರವಾಗಿ (LIVE) ದಾಖಲಿಸಲು ಉತ್ತಮ ವಿಧಾನ ಯಾವುದು?",
+      "options": ["ಪ್ರತಿ ಎಸೆತದ ನಂತರ ತಕ್ಷಣವೇ ಬಾರ್ ಗ್ರಾಫ್ ಅನ್ನು ಎಳೆಯುವುದು", "ಪ್ರತಿ ಎಸೆತದ ನಂತರ ಆ ಸಂಖ್ಯೆಗೆ ಒಂದು ಗುರುತನ್ನು ಸೇರಿಸುತ್ತಾ, ಟ್ಯಾಲಿ ಮಾರ್ಕ್ ಟೇಬಲ್ ಅನ್ನು ಬಳಸುವುದು", "ಕೊನೆಯವರೆಗೂ ಅದನ್ನು ನಿಮ್ಮ ತಲೆಯಲ್ಲಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು", "ಪೈ ಚಾರ್ಟ್ ಅನ್ನು ಬಳಸುವುದು"],
+      "answer": "ಪ್ರತಿ ಎಸೆತದ ನಂತರ ಆ ಸಂಖ್ಯೆಗೆ ಒಂದು ಗುರುತನ್ನು ಸೇರಿಸುತ್ತಾ, ಟ್ಯಾಲಿ ಮಾರ್ಕ್ ಟೇಬಲ್ ಅನ್ನು ಬಳಸುವುದು",
+      "reasoning": "ಟ್ಯಾಲಿ ಗುರುತುಗಳನ್ನು ನಿರ್ದಿಷ್ಟವಾಗಿ 'ನೇರ' (live) ಎಣಿಕೆಗಾಗಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ. ಬಾರ್ ಗ್ರಾಫ್ ಅನ್ನು 30 ಬಾರಿ ಅಳಿಸಿ ಮತ್ತೆ ಎಳೆಯುವುದಕ್ಕಿಂತ ಟ್ಯಾಲಿ ರೇಖೆಯನ್ನು ಎಳೆಯುವುದು ಹೆಚ್ಚು ವೇಗವಾಗಿರುತ್ತದೆ."
+    }
+  }
+]
