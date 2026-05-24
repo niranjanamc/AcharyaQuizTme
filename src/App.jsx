@@ -123,7 +123,7 @@ function App() {
   };
 
   return (
-    <div style={{ width: '100%', height: '100%', display: 'flex', flexDirection: 'column' }}>
+    <div style={{ width: '100%', flex: 1, display: 'flex', flexDirection: 'column', minHeight: 0 }}>
       {gameState === 'menu' && <MainMenu onStart={startGame} />}
       
       {(gameState === 'playing' || gameState === 'buylife') && (

@@ -159,13 +159,16 @@ const GameArea = ({ level, selectedChapters, language, onCorrect, onWrong, onLev
 
   return (
     <div style={{ 
-      flex: 1, 
+      flex: 1,
       padding: '16px',
-      paddingBottom: '0',
-      overflow: 'hidden',
+      /* Extra bottom clearance so Next button is never hidden by browser chrome */
+      paddingBottom: 'calc(16px + env(safe-area-inset-bottom, 12px))',
+      overflowY: 'auto',
+      WebkitOverflowScrolling: 'touch',
       display: 'flex',
       flexDirection: 'column',
-      position: 'relative'
+      position: 'relative',
+      minHeight: 0,
     }}>
       {animations.map(anim => (
         <FloatingAnimation 
@@ -178,13 +181,11 @@ const GameArea = ({ level, selectedChapters, language, onCorrect, onWrong, onLev
       ))}
 
       {currentQuestion && currentQuestion[language] ? (
-        <div style={{ flex: 1, overflow: 'hidden', display: 'flex', flexDirection: 'column' }}>
-          <QuizComponent 
-            questionData={{ ...currentQuestion[language], type: currentQuestion.type }} 
-            language={language}
-            onAnswer={handleAnswer} 
-          />
-        </div>
+        <QuizComponent 
+          questionData={{ ...currentQuestion[language], type: currentQuestion.type }} 
+          language={language}
+          onAnswer={handleAnswer} 
+        />
       ) : (
         <div style={{ color: 'white', textAlign: 'center' }}>Loading question data...</div>
       )}

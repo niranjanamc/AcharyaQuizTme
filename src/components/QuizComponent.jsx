@@ -95,19 +95,11 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
       borderRadius: '20px',
       boxShadow: 'var(--shadow-md)',
       color: 'var(--text-dark)',
-      position: 'relative',
+      padding: '20px',
       maxWidth: '600px',
       margin: '0 auto',
       width: '100%',
-      display: 'flex',
-      flexDirection: 'column',
-      /* Fill the parent flex container so sticky works */
-      flex: 1,
-      overflow: 'hidden',
-      minHeight: 0,
     }}>
-      {/* Scrollable content area */}
-      <div style={{ overflowY: 'auto', flex: 1, padding: '20px', paddingBottom: '8px', WebkitOverflowScrolling: 'touch' }}>
       <h2 style={{ fontSize: '1.4rem', marginBottom: '20px', lineHeight: '1.4' }}>
         {questionData.question}
       </h2>
@@ -267,7 +259,7 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
         </div>
       )}
 
-      {/* REASONING (scrollable, inside the scroll area) */}
+      {/* REASONING & NEXT QUESTION */}
       {showReasoning && (
         <div style={{
           marginTop: '20px', padding: '15px',
@@ -279,41 +271,13 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
             {isCorrect ? <Check size={20}/> : (isPartiallyCorrect ? <Check size={20}/> : <X size={20}/>)} 
             {isCorrect ? labels.correct : (isPartiallyCorrect ? labels.partial : labels.wrong)}
           </h3>
-          <p style={{ margin: 0, fontSize: '0.95rem', lineHeight: '1.5' }}>
+          <p style={{ margin: '0 0 15px 0', fontSize: '0.95rem', lineHeight: '1.5' }}>
             <strong><Lightbulb size={16} style={{display: 'inline', verticalAlign: 'text-bottom'}}/> {labels.reasoning}:</strong> {questionData.reasoning}
           </p>
-        </div>
-      )}
-
-      {/* Close scrollable area */}
-      </div>
-
-      {/* NEXT QUESTION — sticky footer, always visible above browser chrome */}
-      {showReasoning && (
-        <div style={{
-          position: 'sticky',
-          bottom: 0,
-          backgroundColor: 'rgba(255, 255, 255, 0.98)',
-          backdropFilter: 'blur(8px)',
-          WebkitBackdropFilter: 'blur(8px)',
-          padding: '12px 20px',
-          paddingBottom: 'calc(12px + env(safe-area-inset-bottom, 0px))',
-          borderTop: '1px solid rgba(0,0,0,0.07)',
-          borderRadius: '0 0 20px 20px',
-          zIndex: 10,
-        }}>
           <button 
             className="btn btn-secondary" 
             onClick={handleNext}
-            style={{
-              width: '100%',
-              display: 'flex',
-              justifyContent: 'center',
-              alignItems: 'center',
-              gap: '10px',
-              fontSize: '1.05rem',
-              padding: '14px',
-            }}
+            style={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '10px', fontSize: '1.05rem', padding: '14px' }}
           >
             {labels.next} <ArrowRight size={20} />
           </button>
