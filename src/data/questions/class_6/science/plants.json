@@ -1,0 +1,242 @@
+[
+  {
+    "id": "c6_sci_pl_1",
+    "difficulty": 1,
+    "en": {
+      "question": "Plants with green and tender stems, which are usually short and may not have many branches, are called:",
+      "options": ["Trees", "Shrubs", "Herbs", "Creepers"],
+      "answer": "Herbs",
+      "reasoning": "Herbs are small plants with soft, green stems. Examples include coriander, tomato, and mint."
+    },
+    "kn": {
+      "question": "ಹಸಿರು ಮತ್ತು ಮೃದುವಾದ ಕಾಂಡಗಳನ್ನು ಹೊಂದಿರುವ, ಸಾಮಾನ್ಯವಾಗಿ ಗಿಡ್ಡವಾಗಿರುವ ಮತ್ತು ಹೆಚ್ಚು ಕೊಂಬೆಗಳನ್ನು ಹೊಂದಿರದ ಸಸ್ಯಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಮರಗಳು (Trees)", "ಪೊದೆಗಳು (Shrubs)", "ಗಿಡಮೂಲಿಕೆಗಳು / ಸಣ್ಣ ಗಿಡಗಳು (Herbs)", "ತೆವಳುವ ಸಸ್ಯಗಳು (Creepers)"],
+      "answer": "ಗಿಡಮೂಲಿಕೆಗಳು / ಸಣ್ಣ ಗಿಡಗಳು (Herbs)",
+      "reasoning": "ಗಿಡಮೂಲಿಕೆಗಳು (Herbs) ಮೃದುವಾದ, ಹಸಿರು ಕಾಂಡಗಳನ್ನು ಹೊಂದಿರುವ ಸಣ್ಣ ಸಸ್ಯಗಳಾಗಿವೆ. ಕೊತ್ತಂಬರಿ, ಟೊಮೆಟೊ ಮತ್ತು ಪುದೀನ ಇದಕ್ಕೆ ಉದಾಹರಣೆಗಳು."
+    }
+  },
+  {
+    "id": "c6_sci_pl_2",
+    "difficulty": 2,
+    "en": {
+      "question": "Plants that have a hard but not very thick stem, with branches developing near the base of the stem, are known as:",
+      "options": ["Herbs", "Shrubs", "Trees", "Climbers"],
+      "answer": "Shrubs",
+      "reasoning": "Shrubs are medium-sized plants (like rose or lemon) where the branching starts very close to the ground, giving them a bushy appearance."
+    },
+    "kn": {
+      "question": "ಗಟ್ಟಿಯಾದ ಆದರೆ ಹೆಚ್ಚು ದಪ್ಪವಿಲ್ಲದ ಕಾಂಡವನ್ನು ಹೊಂದಿರುವ, ಕಾಂಡದ ತಳದ ಬಳಿಯೇ ಕೊಂಬೆಗಳು ಬೆಳೆಯುವ ಸಸ್ಯಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಸಣ್ಣ ಗಿಡಗಳು (Herbs)", "ಪೊದೆಗಳು (Shrubs)", "ಮರಗಳು (Trees)", "ಬಳ್ಳಿಗಳು (Climbers)"],
+      "answer": "ಪೊದೆಗಳು (Shrubs)",
+      "reasoning": "ಪೊದೆಗಳು (Shrubs) ಮಧ್ಯಮ ಗಾತ್ರದ ಸಸ್ಯಗಳಾಗಿವೆ (ಗುಲಾಬಿ ಅಥವಾ ನಿಂಬೆಯಂತೆ), ಇವುಗಳಲ್ಲಿ ಕೊಂಬೆಗಳು ನೆಲದ ಸಮೀಪದಿಂದಲೇ ಪ್ರಾರಂಭವಾಗುವುದರಿಂದ ಅವು ಪೊದೆಯಂತೆ ಕಾಣುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_pl_3",
+    "difficulty": 1,
+    "en": {
+      "question": "Plants with weak stems that cannot stand upright and spread on the ground are called:",
+      "options": ["Trees", "Climbers", "Creepers", "Shrubs"],
+      "answer": "Creepers",
+      "reasoning": "Creepers (like pumpkin or watermelon) have very weak stems and grow by creeping horizontally along the ground."
+    },
+    "kn": {
+      "question": "ದುರ್ಬಲ ಕಾಂಡಗಳನ್ನು ಹೊಂದಿರುವ ಕಾರಣ ನೆಟ್ಟಗೆ ನಿಲ್ಲಲಾಗದೆ ನೆಲದ ಮೇಲೆ ಹರಡುವ ಸಸ್ಯಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಮರಗಳು", "ಹಬ್ಬುವ ಬಳ್ಳಿಗಳು (Climbers)", "ತೆವಳುವ ಸಸ್ಯಗಳು (Creepers)", "ಪೊದೆಗಳು"],
+      "answer": "ತೆವಳುವ ಸಸ್ಯಗಳು (Creepers)",
+      "reasoning": "ತೆವಳುವ ಸಸ್ಯಗಳು (ಕುಂಬಳಕಾಯಿ ಅಥವಾ ಕಲ್ಲಂಗಡಿಯಂತೆ) ಬಹಳ ದುರ್ಬಲವಾದ ಕಾಂಡಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ ಮತ್ತು ನೆಲದ ಉದ್ದಕ್ಕೂ ಅಡ್ಡಲಾಗಿ ತೆವಳುವ ಮೂಲಕ ಬೆಳೆಯುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_pl_4",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the primary function of a plant's stem?",
+      "options": ["To absorb sunlight", "To conduct water and minerals from roots to leaves", "To absorb water from the soil", "To attract insects"],
+      "answer": "To conduct water and minerals from roots to leaves",
+      "reasoning": "The stem acts like a pipe, carrying water and dissolved minerals upwards from the roots to the leaves and other parts of the plant."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯದ ಕಾಂಡದ (stem) ಪ್ರಾಥಮಿಕ ಕಾರ್ಯವೇನು?",
+      "options": ["ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಹೀರಿಕೊಳ್ಳುವುದು", "ಬೇರುಗಳಿಂದ ಎಲೆಗಳಿಗೆ ನೀರು ಮತ್ತು ಖನಿಜಗಳನ್ನು ಸಾಗಿಸುವುದು", "ಮಣ್ಣಿನಿಂದ ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುವುದು", "ಕೀಟಗಳನ್ನು ಆಕರ್ಷಿಸುವುದು"],
+      "answer": "ಬೇರುಗಳಿಂದ ಎಲೆಗಳಿಗೆ ನೀರು ಮತ್ತು ಖನಿಜಗಳನ್ನು ಸಾಗಿಸುವುದು",
+      "reasoning": "ಕಾಂಡವು ಪೈಪ್‌ನಂತೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ, ಬೇರುಗಳಿಂದ ಎಲೆಗಳು ಮತ್ತು ಸಸ್ಯದ ಇತರ ಭಾಗಗಳಿಗೆ ನೀರು ಮತ್ತು ಕರಗಿದ ಖನಿಜಗಳನ್ನು ಮೇಲಕ್ಕೆ ಸಾಗಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_pl_5",
+    "difficulty": 3,
+    "en": {
+      "question": "The part of a leaf by which it is attached to the stem is called the:",
+      "options": ["Lamina", "Vein", "Petiole", "Midrib"],
+      "answer": "Petiole",
+      "reasoning": "The petiole is the short stalk that connects the broad, green part of the leaf (the lamina) to the main stem."
+    },
+    "kn": {
+      "question": "ಎಲೆಯು ಕಾಂಡಕ್ಕೆ ಅಂಟಿಕೊಂಡಿರುವ ಭಾಗವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಲಮಿನಾ (Lamina / ಎಲೆಯ ದಳ)", "ಸಿರೆ (Vein)", "ತೊಟ್ಟು (Petiole)", "ಮಧ್ಯಸಿರೆ (Midrib)"],
+      "answer": "ತೊಟ್ಟು (Petiole)",
+      "reasoning": "ತೊಟ್ಟು (petiole) ಎನ್ನುವುದು ಸಣ್ಣ ಕಾಂಡವಾಗಿದ್ದು, ಇದು ಎಲೆಯ ಅಗಲವಾದ, ಹಸಿರು ಭಾಗವನ್ನು (ಲಮಿನಾ) ಮುಖ್ಯ ಕಾಂಡಕ್ಕೆ ಸಂಪರ್ಕಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_pl_6",
+    "difficulty": 2,
+    "en": {
+      "question": "If the design made by veins in a leaf is net-like on both sides of the midrib, the venation is:",
+      "options": ["Parallel venation", "Reticulate venation", "Circular venation", "Linear venation"],
+      "answer": "Reticulate venation",
+      "reasoning": "A net-like web of veins (as seen in mango or hibiscus leaves) is called reticulate venation."
+    },
+    "kn": {
+      "question": "ಎಲೆಯಲ್ಲಿರುವ ಸಿರೆಗಳ (veins) ವಿನ್ಯಾಸವು ಮಧ್ಯಸಿರೆಯ ಎರಡೂ ಬದಿಗಳಲ್ಲಿ ಬಲೆಯ (net) ನಂತಿದ್ದರೆ, ಆ ಸಿರೆಗಳ ವಿನ್ಯಾಸವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಸಮಾನಾಂತರ ಸಿರೆ ವಿನ್ಯಾಸ (Parallel venation)", "ಜಾಲರಿ ಸಿರೆ ವಿನ್ಯಾಸ (Reticulate venation)", "ವೃತ್ತಾಕಾರದ ಸಿರೆ ವಿನ್ಯಾಸ", "ರೇಖಾತ್ಮಕ ಸಿರೆ ವಿನ್ಯಾಸ"],
+      "answer": "ಜಾಲರಿ ಸಿರೆ ವಿನ್ಯಾಸ (Reticulate venation)",
+      "reasoning": "ಸಿರೆಗಳ ಬಲೆಯಂತಹ ವಿನ್ಯಾಸವನ್ನು (ಮಾವಿನ ಅಥವಾ ದಾಸವಾಳದ ಎಲೆಗಳಲ್ಲಿ ಕಾಣುವಂತೆ) ಜಾಲರಿ ಸಿರೆ ವಿನ್ಯಾಸ (reticulate venation) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_pl_7",
+    "difficulty": 3,
+    "en": {
+      "question": "Water comes out of leaves in the form of vapour by a process called:",
+      "options": ["Photosynthesis", "Respiration", "Transpiration", "Condensation"],
+      "answer": "Transpiration",
+      "reasoning": "Transpiration is the process where plants release excess water into the atmosphere as water vapour through tiny pores in their leaves."
+    },
+    "kn": {
+      "question": "ಯಾವ ಪ್ರಕ್ರಿಯೆಯ ಮೂಲಕ ಎಲೆಗಳಿಂದ ನೀರು ಆವಿಯ (vapour) ರೂಪದಲ್ಲಿ ಹೊರಬರುತ್ತದೆ?",
+      "options": ["ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ (Photosynthesis)", "ಉಸಿರಾಟ (Respiration)", "ಬಾಷ್ಪೀಭವನ (Transpiration)", "ಸಾಂದ್ರೀಕರಣ (Condensation)"],
+      "answer": "ಬಾಷ್ಪೀಭವನ (Transpiration)",
+      "reasoning": "ಬಾಷ್ಪೀಭವನ (Transpiration) ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ಸಸ್ಯಗಳು ತಮ್ಮ ಎಲೆಗಳಲ್ಲಿರುವ ಸಣ್ಣ ರಂಧ್ರಗಳ ಮೂಲಕ ಹೆಚ್ಚುವರಿ ನೀರನ್ನು ವಾತಾವರಣಕ್ಕೆ ಆವಿಯಾಗಿ ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_pl_8",
+    "difficulty": 1,
+    "en": {
+      "question": "Leaves prepare their food using water, carbon dioxide, and a green pigment in the presence of sunlight. This process is called:",
+      "options": ["Transpiration", "Photosynthesis", "Digestion", "Absorption"],
+      "answer": "Photosynthesis",
+      "reasoning": "Photosynthesis is the process by which green plants make their own food (starch/sugar) using sunlight, water, and carbon dioxide."
+    },
+    "kn": {
+      "question": "ಎಲೆಗಳು ನೀರು, ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ಹಸಿರು ವರ್ಣದ್ರವ್ಯವನ್ನು ಬಳಸಿ ಸೂರ್ಯನ ಬೆಳಕಿನ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ತಮ್ಮ ಆಹಾರವನ್ನು ತಯಾರಿಸುತ್ತವೆ. ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಬಾಷ್ಪೀಭವನ (Transpiration)", "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ (Photosynthesis)", "ಜೀರ್ಣಕ್ರಿಯೆ", "ಹೀರಿಕೊಳ್ಳುವಿಕೆ (Absorption)"],
+      "answer": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ (Photosynthesis)",
+      "reasoning": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ (Photosynthesis) ಎನ್ನುವುದು ಹಸಿರು ಸಸ್ಯಗಳು ಸೂರ್ಯನ ಬೆಳಕು, ನೀರು ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಬಳಸಿ ತಮ್ಮದೇ ಆದ ಆಹಾರವನ್ನು (ಪಿಷ್ಟ/ಸಕ್ಕರೆ) ತಯಾರಿಸುವ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_pl_9",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the main function of roots in a plant?",
+      "options": ["To produce food", "To absorb water and minerals from the soil and anchor the plant firmly", "To release oxygen", "To attract bees"],
+      "answer": "To absorb water and minerals from the soil and anchor the plant firmly",
+      "reasoning": "Roots hold the plant tightly in the soil (anchorage) and absorb necessary water and dissolved minerals from the ground."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯದಲ್ಲಿನ ಬೇರುಗಳ (roots) ಮುಖ್ಯ ಕಾರ್ಯವೇನು?",
+      "options": ["ಆಹಾರವನ್ನು ಉತ್ಪಾದಿಸುವುದು", "ಮಣ್ಣಿನಿಂದ ನೀರು ಮತ್ತು ಖನಿಜಗಳನ್ನು ಹೀರಿಕೊಳ್ಳುವುದು ಮತ್ತು ಸಸ್ಯವನ್ನು ಭದ್ರವಾಗಿ ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವುದು", "ಆಮ್ಲಜನಕವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವುದು", "ಜೇನುನೊಣಗಳನ್ನು ಆಕರ್ಷಿಸುವುದು"],
+      "answer": "ಮಣ್ಣಿನಿಂದ ನೀರು ಮತ್ತು ಖನಿಜಗಳನ್ನು ಹೀರಿಕೊಳ್ಳುವುದು ಮತ್ತು ಸಸ್ಯವನ್ನು ಭದ್ರವಾಗಿ ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವುದು",
+      "reasoning": "ಬೇರುಗಳು ಸಸ್ಯವನ್ನು ಮಣ್ಣಿನಲ್ಲಿ ಭದ್ರವಾಗಿ ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ನೆಲದಿಂದ ಅಗತ್ಯವಾದ ನೀರು ಮತ್ತು ಕರಗಿದ ಖನಿಜಗಳನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_pl_10",
+    "difficulty": 3,
+    "en": {
+      "question": "A root system that has one main thick root going deep, with smaller lateral roots, is called a:",
+      "options": ["Fibrous root", "Taproot", "Aerial root", "Creeping root"],
+      "answer": "Taproot",
+      "reasoning": "A taproot system (like in carrots or mango trees) consists of a single primary root that grows straight down, from which smaller side roots emerge."
+    },
+    "kn": {
+      "question": "ಒಂದು ಮುಖ್ಯ ದಪ್ಪ ಬೇರು ಆಳವಾಗಿ ಹೋಗಿ, ಅದರ ಜೊತೆ ಸಣ್ಣ ಪಾರ್ಶ್ವ ಬೇರುಗಳನ್ನು (lateral roots) ಹೊಂದಿರುವ ಬೇರಿನ ವ್ಯವಸ್ಥೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ತಂತು ಬೇರು (Fibrous root)", "ತಾಯಿ ಬೇರು (Taproot)", "ವಾಯು ಬೇರು (Aerial root)", "ತೆವಳುವ ಬೇರು"],
+      "answer": "ತಾಯಿ ಬೇರು (Taproot)",
+      "reasoning": "ತಾಯಿ ಬೇರು ವ್ಯವಸ್ಥೆಯು (ಕ್ಯಾರೆಟ್ ಅಥವಾ ಮಾವಿನ ಮರಗಳಂತೆ) ನೇರವಾಗಿ ಕೆಳಗೆ ಬೆಳೆಯುವ ಒಂದೇ ಪ್ರಾಥಮಿಕ ಬೇರನ್ನು ಹೊಂದಿರುತ್ತದೆ, ಇದರಿಂದ ಸಣ್ಣ ಅಡ್ಡ ಬೇರುಗಳು ಹೊರಹೊಮ್ಮುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_pl_11",
+    "difficulty": 3,
+    "en": {
+      "question": "If a plant has leaves with parallel venation (like grass or wheat), what kind of roots will it typically have?",
+      "options": ["Taproots", "Fibrous roots", "No roots", "Water roots"],
+      "answer": "Fibrous roots",
+      "reasoning": "There is a strong connection in nature: plants with parallel venation almost always have fibrous roots (a bunch of similar-sized roots), not a taproot."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯವು ಸಮಾನಾಂತರ ಸಿರೆ ವಿನ್ಯಾಸವಿರುವ (parallel venation - ಹುಲ್ಲು ಅಥವಾ ಗೋಧಿಯಂತೆ) ಎಲೆಗಳನ್ನು ಹೊಂದಿದ್ದರೆ, ಅದು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ರೀತಿಯ ಬೇರುಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ?",
+      "options": ["ತಾಯಿ ಬೇರುಗಳು (Taproots)", "ತಂತು ಬೇರುಗಳು (Fibrous roots)", "ಬೇರುಗಳಿಲ್ಲ", "ನೀರಿನ ಬೇರುಗಳು"],
+      "answer": "ತಂತು ಬೇರುಗಳು (Fibrous roots)",
+      "reasoning": "ಪ್ರಕೃತಿಯಲ್ಲಿ ಒಂದು ಬಲವಾದ ಸಂಬಂಧವಿದೆ: ಸಮಾನಾಂತರ ಸಿರೆ ವಿನ್ಯಾಸ ಹೊಂದಿರುವ ಸಸ್ಯಗಳು ಬಹುತೇಕ ಯಾವಾಗಲೂ ತಂತು ಬೇರುಗಳನ್ನು (ಒಂದೇ ಗಾತ್ರದ ಬೇರುಗಳ ಗುಂಪು) ಹೊಂದಿರುತ್ತವೆ, ತಾಯಿ ಬೇರನ್ನಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_sci_pl_12",
+    "difficulty": 2,
+    "en": {
+      "question": "The prominent, often colourful parts of an open flower are called:",
+      "options": ["Sepals", "Petals", "Roots", "Stems"],
+      "answer": "Petals",
+      "reasoning": "Petals are the bright, colourful, and often fragrant parts of the flower designed to attract insects for pollination."
+    },
+    "kn": {
+      "question": "ತೆರೆದ ಹೂವಿನ ಪ್ರಮುಖ, ಹೆಚ್ಚಾಗಿ ವರ್ಣರಂಜಿತವಾಗಿರುವ ಭಾಗಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಪುಷ್ಪಪಾತ್ರೆ / ಸೀಪಲ್ಸ್ (Sepals)", "ದಳಗಳು (Petals)", "ಬೇರುಗಳು", "ಕಾಂಡಗಳು"],
+      "answer": "ದಳಗಳು (Petals)",
+      "reasoning": "ದಳಗಳು (Petals) ಹೂವಿನ ಪ್ರಕಾಶಮಾನವಾದ, ವರ್ಣರಂಜಿತವಾದ ಮತ್ತು ಸುಗಂಧಭರಿತ ಭಾಗಗಳಾಗಿದ್ದು, ಪರಾಗಸ್ಪರ್ಶಕ್ಕಾಗಿ ಕೀಟಗಳನ್ನು ಆಕರ್ಷಿಸಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_pl_13",
+    "difficulty": 3,
+    "en": {
+      "question": "The small leaf-like structures that enclose and protect the flower while it is still a bud are called:",
+      "options": ["Petals", "Sepals", "Stamens", "Pistils"],
+      "answer": "Sepals",
+      "reasoning": "Sepals form the outermost green, leaf-like ring of the flower. They protect the flower bud before it opens."
+    },
+    "kn": {
+      "question": "ಹೂವು ಮೊಗ್ಗಿನ (bud) ಹಂತದಲ್ಲಿದ್ದಾಗ ಅದನ್ನು ಆವರಿಸಿ ರಕ್ಷಿಸುವ ಸಣ್ಣ ಎಲೆಯಂತಹ ರಚನೆಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ದಳಗಳು (Petals)", "ಪುಷ್ಪಪಾತ್ರೆ / ಸೀಪಲ್ಸ್ (Sepals)", "ಕೇಸರಗಳು (Stamens)", "ಶಲಾಕೆಗಳು (Pistils)"],
+      "answer": "ಪುಷ್ಪಪಾತ್ರೆ / ಸೀಪಲ್ಸ್ (Sepals)",
+      "reasoning": "ಸೀಪಲ್ಸ್ (Sepals) ಹೂವಿನ ಹೊರಗಿನ ಹಸಿರು, ಎಲೆಯಂತಹ ಉಂಗುರವನ್ನು ರೂಪಿಸುತ್ತವೆ. ಅವು ಹೂವು ಅರಳುವ ಮೊದಲು ಹೂವಿನ ಮೊಗ್ಗನ್ನು ರಕ್ಷಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_pl_14",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the innermost part of a flower called (the female reproductive part)?",
+      "options": ["Stamen", "Pistil", "Petal", "Anther"],
+      "answer": "Pistil",
+      "reasoning": "The pistil is located in the very center of the flower. It consists of the stigma, style, and ovary."
+    },
+    "kn": {
+      "question": "ಹೂವಿನ ಒಳಭಾಗವನ್ನು (ಹೆಣ್ಣು ಸಂತಾನೋತ್ಪತ್ತಿ ಭಾಗ) ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಕೇಸರ (Stamen)", "ಶಲಾಕೆ / ಪಿಸ್ಟಿಲ್ (Pistil)", "ದಳ (Petal)", "ಪರಾಗಕೋಶ (Anther)"],
+      "answer": "ಶಲಾಕೆ / ಪಿಸ್ಟಿಲ್ (Pistil)",
+      "reasoning": "ಪಿಸ್ಟಿಲ್ ಹೂವಿನ ಮಧ್ಯಭಾಗದಲ್ಲಿದೆ. ಇದು ಕಳಂಕ (stigma), ಶೈಲಿ (style) ಮತ್ತು ಅಂಡಾಶಯವನ್ನು (ovary) ಒಳಗೊಂಡಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_pl_15",
+    "difficulty": 3,
+    "en": {
+      "question": "If you cut open the swollen, lower-most part of the pistil (the ovary), what small bead-like structures will you find inside?",
+      "options": ["Pollen grains", "Ovules", "Anthers", "Nectar"],
+      "answer": "Ovules",
+      "reasoning": "The ovary contains tiny bead-like structures called ovules, which eventually develop into seeds after fertilization."
+    },
+    "kn": {
+      "question": "ಪಿಸ್ಟಿಲ್‌ನ ಊದಿಕೊಂಡ ಅತ್ಯಂತ ಕೆಳಗಿನ ಭಾಗವನ್ನು (ಅಂಡಾಶಯ / ovary) ಕತ್ತರಿಸಿ ನೋಡಿದರೆ, ಒಳಗೆ ಯಾವ ಸಣ್ಣ ಮಣಿಯಂತಹ ರಚನೆಗಳು ಕಂಡುಬರುತ್ತವೆ?",
+      "options": ["ಪರಾಗದ ಕಣಗಳು (Pollen grains)", "ಅಂಡಕಗಳು (Ovules)", "ಪರಾಗಕೋಶಗಳು (Anthers)", "ಮಕರಂದ (Nectar)"],
+      "answer": "ಅಂಡಕಗಳು (Ovules)",
+      "reasoning": "ಅಂಡಾಶಯವು (ovary) ಅಂಡಕಗಳು (ovules) ಎಂಬ ಸಣ್ಣ ಮಣಿಯಂತಹ ರಚನೆಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ, ಇವು ಫಲೀಕರಣದ (fertilization) ನಂತರ ಬೀಜಗಳಾಗಿ ಬೆಳೆಯುತ್ತವೆ."
+    }
+  }
+]
