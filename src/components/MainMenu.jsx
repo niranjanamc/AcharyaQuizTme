@@ -63,20 +63,31 @@ const MainMenu = ({ onStart }) => {
   return (
     <div style={{
       display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
-      height: '100%', padding: '20px', color: 'white', overflowY: 'auto'
+      height: '100%', padding: '20px', color: 'var(--text-dark)', overflowY: 'auto'
     }}>
       <div style={{ animation: 'bounce 2s infinite ease-in-out', marginBottom: '1rem', textAlign: 'center' }}>
-        <h1 style={{ fontSize: '2.5rem', textShadow: '2px 4px 0px rgba(0,0,0,0.2)', margin: 0 }}>Acharya</h1>
-        <h2 style={{ fontSize: '3.5rem', color: 'var(--accent-color)', textShadow: '3px 6px 0px rgba(0,0,0,0.2)', margin: '-10px 0 0 0' }}>QUIZ TIME</h2>
+        <h1 style={{ fontSize: '2.8rem', textShadow: '2px 4px 0px rgba(13, 71, 161, 0.1)', color: 'var(--text-dark)', margin: 0, fontWeight: '700' }}>
+          {language === 'kn' ? 'ಭಗೀರಥ' : 'Bhagiratha'}
+        </h1>
+        <h2 style={{ fontSize: '3.5rem', color: 'var(--accent-color)', textShadow: '3px 6px 0px rgba(13, 71, 161, 0.15)', margin: '-10px 0 0 0', fontWeight: '700' }}>
+          {language === 'kn' ? 'ರಸಪ್ರಶ್ನೆ' : 'QUIZ'}
+        </h2>
       </div>
 
       <div style={{
-        backgroundColor: 'rgba(38, 70, 83, 0.6)', padding: '20px', borderRadius: '15px',
-        marginBottom: '1rem', backdropFilter: 'blur(5px)', width: '100%', maxWidth: '500px'
+        backgroundColor: 'rgba(255, 255, 255, 0.95)', 
+        padding: '25px', 
+        borderRadius: '20px',
+        marginBottom: '1.2rem', 
+        boxShadow: 'var(--shadow-md)', 
+        color: 'var(--text-dark)',
+        width: '100%', 
+        maxWidth: '500px',
+        backdropFilter: 'blur(10px)'
       }}>
         {/* Language Selection */}
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '15px' }}>
-          <h3 style={{ margin: 0, display: 'flex', alignItems: 'center', gap: '5px' }}>
+          <h3 style={{ margin: 0, display: 'flex', alignItems: 'center', gap: '5px', color: 'var(--text-dark)', fontSize: '1.1rem' }}>
             <Settings size={20}/> Language / ಭಾಷೆ
           </h3>
           <div style={{ display: 'flex', gap: '10px' }}>
@@ -90,14 +101,16 @@ const MainMenu = ({ onStart }) => {
         </div>
 
         {/* Curriculum Tree */}
-        <h3 style={{ margin: '0 0 10px 0', textAlign: 'left', display: 'flex', alignItems: 'center', gap: '5px' }}>
+        <h3 style={{ margin: '0 0 10px 0', textAlign: 'left', display: 'flex', alignItems: 'center', gap: '5px', color: 'var(--text-dark)', fontSize: '1.1rem' }}>
           <BookOpen size={20}/> {language === 'kn' ? 'ಪಠ್ಯಕ್ರಮದ ಆಯ್ಕೆ' : 'Curriculum Selection'}
         </h3>
         
         <div style={{ 
           display: 'flex', flexDirection: 'column', gap: '5px', textAlign: 'left', 
-          maxHeight: '300px', overflowY: 'auto', backgroundColor: 'rgba(0,0,0,0.2)', 
-          padding: '10px', borderRadius: '8px' 
+          maxHeight: '300px', overflowY: 'auto', 
+          backgroundColor: 'rgba(13, 71, 161, 0.05)', 
+          border: '1px solid rgba(13, 71, 161, 0.1)',
+          padding: '12px', borderRadius: '12px' 
         }}>
           {catalog.classes.map(cls => {
             const classPaths = [];
@@ -107,14 +120,14 @@ const MainMenu = ({ onStart }) => {
             return (
               <div key={cls.id} style={{ marginBottom: '5px' }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                  <span onClick={() => toggleExpand(cls.id)} style={{ cursor: 'pointer' }}>
+                  <span onClick={() => toggleExpand(cls.id)} style={{ cursor: 'pointer', display: 'flex', alignItems: 'center' }}>
                     {expanded.has(cls.id) ? <ChevronDown size={18} /> : <ChevronRight size={18} />}
                   </span>
                   <Checkbox 
                     checked={clsState.checked} indeterminate={clsState.indeterminate} 
                     onClick={() => toggleNode(classPaths, !clsState.checked)} 
                   />
-                  <strong style={{ fontSize: '1.1rem' }}>
+                  <strong style={{ fontSize: '1.1rem', color: 'var(--text-dark)' }}>
                     {language === 'kn' ? (menuTranslations[cls.id] || cls.name) : cls.name}
                   </strong>
                 </div>
@@ -128,14 +141,14 @@ const MainMenu = ({ onStart }) => {
                       return (
                         <div key={sub.id}>
                           <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                            <span onClick={() => toggleExpand(sub.id)} style={{ cursor: 'pointer' }}>
+                            <span onClick={() => toggleExpand(sub.id)} style={{ cursor: 'pointer', display: 'flex', alignItems: 'center' }}>
                               {expanded.has(sub.id) ? <ChevronDown size={16} /> : <ChevronRight size={16} />}
                             </span>
                             <Checkbox 
                               checked={subState.checked} indeterminate={subState.indeterminate} 
                               onClick={() => toggleNode(subPaths, !subState.checked)} 
                             />
-                            <span>
+                            <span style={{ fontWeight: '600', color: 'var(--text-dark)' }}>
                               {language === 'kn' ? (menuTranslations[`${cls.id}/${sub.id}`] || sub.name) : sub.name}
                             </span>
                           </div>
@@ -151,7 +164,7 @@ const MainMenu = ({ onStart }) => {
                                       checked={chChecked} 
                                       onClick={() => toggleNode([chPath], !chChecked)} 
                                     />
-                                    <span style={{ fontSize: '0.9rem', color: '#ddd' }}>
+                                    <span style={{ fontSize: '0.95rem', color: 'rgba(13, 71, 161, 0.8)', fontWeight: '500' }}>
                                       {language === 'kn' ? (menuTranslations[ch.id] || ch.name) : ch.name}
                                     </span>
                                   </div>
@@ -171,7 +184,7 @@ const MainMenu = ({ onStart }) => {
       </div>
 
       <button className="btn btn-primary" onClick={handleStart}
-        style={{ display: 'flex', alignItems: 'center', gap: '10px', fontSize: '1.5rem', width: '100%', maxWidth: '400px', justifyContent: 'center' }}>
+        style={{ display: 'flex', alignItems: 'center', gap: '10px', fontSize: '1.4rem', width: '100%', maxWidth: '400px', justifyContent: 'center' }}>
         <Play size={24} fill="currentColor" /> {language === 'kn' ? `ರಸಪ್ರಶ್ನೆ ಪ್ರಾರಂಭಿಸಿ (${selected.size} ಅಧ್ಯಾಯಗಳು)` : `START QUIZ (${selected.size} chapters)`}
       </button>
     </div>

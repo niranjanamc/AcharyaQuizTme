@@ -136,13 +136,13 @@ function App() {
     }).join(', ');
 
     const textToShare = language === 'kn'
-      ? `ನಾನು ಆಚಾರ್ಯ ರಸಪ್ರಶ್ನೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ್ದೇನೆ!\n\n📚 ವಿಷಯಗಳು: ${chapterNames}\n🏆 ಅಂಕಗಳು: ${score}\n🎯 ಸರಿಯಾದ ಉತ್ತರಗಳು: ${stats.correct}/${stats.attempted}\n\nಇಲ್ಲೇ ಆಡಿ: ${window.location.href}`
-      : `I just completed a quiz on Acharya Quiz Time!\n\n📚 Topics: ${chapterNames}\n🏆 Score: ${score}\n🎯 Correct: ${stats.correct}/${stats.attempted}\n\nPlay now at: ${window.location.href}`;
+      ? `ನಾನು ಭಗೀರಥ ರಸಪ್ರಶ್ನೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ್ದೇನೆ!\n\n📚 ವಿಷಯಗಳು: ${chapterNames}\n🏆 ಅಂಕಗಳು: ${score}\n🎯 ಸರಿಯಾದ ಉತ್ತರಗಳು: ${stats.correct}/${stats.attempted}\n\nಇಲ್ಲೇ ಆಡಿ: ${window.location.href}`
+      : `I just completed a quiz on Bhagiratha Quiz!\n\n📚 Topics: ${chapterNames}\n🏆 Score: ${score}\n🎯 Correct: ${stats.correct}/${stats.attempted}\n\nPlay now at: ${window.location.href}`;
 
     if (navigator.share) {
       try {
         await navigator.share({
-          title: 'Acharya Quiz Time',
+          title: 'Bhagiratha Quiz',
           text: textToShare
         });
       } catch (err) {
