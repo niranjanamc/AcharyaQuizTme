@@ -1,0 +1,242 @@
+[
+  {
+    "id": "c6_sci_fm_1",
+    "difficulty": 1,
+    "en": {
+      "question": "According to legend, who discovered the first natural magnet?",
+      "options": ["A scientist named Newton", "An astronaut", "A shepherd named Magnes in ancient Greece", "A king in India"],
+      "answer": "A shepherd named Magnes in ancient Greece",
+      "reasoning": "The legend says a Greek shepherd named Magnes discovered the natural magnet (magnetite) when the iron tip of his stick stuck to a dark rock on a mountain."
+    },
+    "kn": {
+      "question": "ದಂತಕಥೆಯ ಪ್ರಕಾರ, ಮೊದಲ ನೈಸರ್ಗಿಕ ಕಾಂತವನ್ನು (magnet) ಕಂಡುಹಿಡಿದವರು ಯಾರು?",
+      "options": ["ನ್ಯೂಟನ್ ಎಂಬ ವಿಜ್ಞಾನಿ", "ಒಬ್ಬ ಗಗನಯಾತ್ರಿ", "ಪ್ರಾಚೀನ ಗ್ರೀಸ್‌ನ ಮ್ಯಾಗ್ನೆಸ್ ಎಂಬ ಕುರುಬ", "ಭಾರತದ ಒಬ್ಬ ರಾಜ"],
+      "answer": "ಪ್ರಾಚೀನ ಗ್ರೀಸ್‌ನ ಮ್ಯಾಗ್ನೆಸ್ ಎಂಬ ಕುರುಬ",
+      "reasoning": "ಪ್ರಾಚೀನ ಗ್ರೀಸ್‌ನ ಮ್ಯಾಗ್ನೆಸ್ ಎಂಬ ಕುರುಬ ತನ್ನ ಕೋಲಿನ ಕಬ್ಬಿಣದ ತುದಿಯು ಪರ್ವತದ ಮೇಲಿನ ಕಪ್ಪು ಬಂಡೆಗೆ ಅಂಟಿಕೊಂಡಾಗ ನೈಸರ್ಗಿಕ ಕಾಂತವನ್ನು (ಮ್ಯಾಗ್ನೆಟೈಟ್ / magnetite) ಕಂಡುಹಿಡಿದನು ಎಂದು ದಂತಕಥೆ ಹೇಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_fm_2",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the natural rock that has magnetic properties called?",
+      "options": ["Granite", "Magnetite", "Limestone", "Marble"],
+      "answer": "Magnetite",
+      "reasoning": "Magnetite is an iron ore and is the most magnetic of all the naturally occurring minerals on Earth."
+    },
+    "kn": {
+      "question": "ಕಾಂತೀಯ ಗುಣಗಳನ್ನು (magnetic properties) ಹೊಂದಿರುವ ನೈಸರ್ಗಿಕ ಬಂಡೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಗ್ರಾನೈಟ್", "ಮ್ಯಾಗ್ನೆಟೈಟ್ (Magnetite)", "ಸುಣ್ಣದಕಲ್ಲು (Limestone)", "ಅಮೃತಶಿಲೆ (Marble)"],
+      "answer": "ಮ್ಯಾಗ್ನೆಟೈಟ್ (Magnetite)",
+      "reasoning": "ಮ್ಯಾಗ್ನೆಟೈಟ್ ಕಬ್ಬಿಣದ ಅದಿರು ಆಗಿದ್ದು, ಭೂಮಿಯ ಮೇಲೆ ನೈಸರ್ಗಿಕವಾಗಿ ಕಂಡುಬರುವ ಎಲ್ಲಾ ಖನಿಜಗಳಲ್ಲಿ ಅತ್ಯಂತ ಹೆಚ್ಚು ಕಾಂತೀಯ ಶಕ್ತಿಯನ್ನು ಹೊಂದಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_fm_3",
+    "difficulty": 1,
+    "en": {
+      "question": "Materials that get attracted towards a magnet are known as:",
+      "options": ["Insulators", "Magnetic materials", "Non-magnetic materials", "Conductors"],
+      "answer": "Magnetic materials",
+      "reasoning": "Substances like iron, nickel, and cobalt that are pulled by a magnet are categorized as magnetic materials."
+    },
+    "kn": {
+      "question": "ಕಾಂತದ (magnet) ಕಡೆಗೆ ಆಕರ್ಷಿತವಾಗುವ (attracted) ವಸ್ತುಗಳನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": ["ನಿರೋಧಕಗಳು", "ಕಾಂತೀಯ ವಸ್ತುಗಳು (Magnetic materials)", "ಕಾಂತೀಯವಲ್ಲದ ವಸ್ತುಗಳು", "ವಾಹಕಗಳು"],
+      "answer": "ಕಾಂತೀಯ ವಸ್ತುಗಳು (Magnetic materials)",
+      "reasoning": "ಕಬ್ಬಿಣ, ನಿಕಲ್ ಮತ್ತು ಕೋಬಾಲ್ಟ್‌ನಂತಹ ಕಾಂತದಿಂದ ಎಳೆಯಲ್ಪಡುವ ವಸ್ತುಗಳನ್ನು ಕಾಂತೀಯ ವಸ್ತುಗಳು ಎಂದು ವರ್ಗೀಕರಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_fm_4",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these materials is NON-MAGNETIC?",
+      "options": ["Iron nail", "Cobalt metal", "Nickel coin", "Plastic ruler"],
+      "answer": "Plastic ruler",
+      "reasoning": "Plastic does not get attracted to a magnet. Only certain metals like iron, cobalt, and nickel exhibit strong magnetic properties."
+    },
+    "kn": {
+      "question": "ಈ ವಸ್ತುಗಳಲ್ಲಿ ಯಾವುದು 'ಕಾಂತೀಯವಲ್ಲದ' (NON-MAGNETIC) ವಸ್ತುವಾಗಿದೆ?",
+      "options": ["ಕಬ್ಬಿಣದ ಮೊಳೆ", "ಕೋಬಾಲ್ಟ್ ಲೋಹ", "ನಿಕಲ್ ನಾಣ್ಯ", "ಪ್ಲಾಸ್ಟಿಕ್ ಮಾಪಕ (Plastic ruler)"],
+      "answer": "ಪ್ಲಾಸ್ಟಿಕ್ ಮಾಪಕ (Plastic ruler)",
+      "reasoning": "ಪ್ಲಾಸ್ಟಿಕ್ ಕಾಂತಕ್ಕೆ ಆಕರ್ಷಿತವಾಗುವುದಿಲ್ಲ. ಕಬ್ಬಿಣ, ಕೋಬಾಲ್ಟ್ ಮತ್ತು ನಿಕಲ್‌ನಂತಹ ಕೆಲವು ಲೋಹಗಳು ಮಾತ್ರ ಬಲವಾದ ಕಾಂತೀಯ ಗುಣಗಳನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_fm_5",
+    "difficulty": 2,
+    "en": {
+      "question": "Where is the magnetic force the strongest on a bar magnet?",
+      "options": ["Exactly in the middle", "Only on the top surface", "At the two ends (poles)", "Equally strong everywhere"],
+      "answer": "At the two ends (poles)",
+      "reasoning": "If you roll a bar magnet in iron filings, the maximum amount of filings will stick to the two ends. These ends are the poles, where the magnetic pull is strongest."
+    },
+    "kn": {
+      "question": "ದಂಡಕಾಂತದ (bar magnet) ಮೇಲೆ ಕಾಂತೀಯ ಶಕ್ತಿಯು ಎಲ್ಲಿ ಪ್ರಬಲವಾಗಿರುತ್ತದೆ?",
+      "options": ["ನಿಖರವಾಗಿ ಮಧ್ಯದಲ್ಲಿ", "ಮೇಲ್ಭಾಗದಲ್ಲಿ ಮಾತ್ರ", "ಎರಡು ತುದಿಗಳಲ್ಲಿ (ಧ್ರುವಗಳು / poles)", "ಎಲ್ಲೆಡೆಯೂ ಸಮಾನವಾಗಿ ಪ್ರಬಲವಾಗಿರುತ್ತದೆ"],
+      "answer": "ಎರಡು ತುದಿಗಳಲ್ಲಿ (ಧ್ರುವಗಳು / poles)",
+      "reasoning": "ನೀವು ಕಬ್ಬಿಣದ ಪುಡಿಯಲ್ಲಿ ದಂಡಕಾಂತವನ್ನು ಉರುಳಿಸಿದರೆ, ಗರಿಷ್ಠ ಪ್ರಮಾಣದ ಪುಡಿ ಎರಡು ತುದಿಗಳಿಗೆ ಅಂಟಿಕೊಳ್ಳುತ್ತದೆ. ಈ ತುದಿಗಳೇ ಧ್ರುವಗಳು, ಇಲ್ಲಿ ಕಾಂತೀಯ ಎಳೆತವು ಪ್ರಬಲವಾಗಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_fm_6",
+    "difficulty": 2,
+    "en": {
+      "question": "What are the two poles of a magnet called?",
+      "options": ["East and West poles", "Up and Down poles", "North and South poles", "Positive and Negative poles"],
+      "answer": "North and South poles",
+      "reasoning": "Every magnet, regardless of its shape, has two poles designated as the North (N) pole and the South (S) pole."
+    },
+    "kn": {
+      "question": "ಕಾಂತದ (magnet) ಎರಡು ಧ್ರುವಗಳನ್ನು (poles) ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಪೂರ್ವ ಮತ್ತು ಪಶ್ಚಿಮ ಧ್ರುವಗಳು", "ಮೇಲಿನ ಮತ್ತು ಕೆಳಗಿನ ಧ್ರುವಗಳು", "ಉತ್ತರ ಮತ್ತು ದಕ್ಷಿಣ ಧ್ರುವಗಳು (North and South poles)", "ಧನಾತ್ಮಕ ಮತ್ತು ಋಣಾತ್ಮಕ ಧ್ರುವಗಳು"],
+      "answer": "ಉತ್ತರ ಮತ್ತು ದಕ್ಷಿಣ ಧ್ರುವಗಳು (North and South poles)",
+      "reasoning": "ಪ್ರತಿಯೊಂದು ಕಾಂತವು, ಅದರ ಆಕಾರವನ್ನು ಲೆಕ್ಕಿಸದೆ, ಉತ್ತರ (N) ಧ್ರುವ ಮತ್ತು ದಕ್ಷಿಣ (S) ಧ್ರುವ ಎಂದು ಎರಡು ಧ್ರುವಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_fm_7",
+    "difficulty": 3,
+    "en": {
+      "question": "If you suspend a bar magnet freely in the air using a thread, in which direction will it finally come to rest?",
+      "options": ["East-West direction", "North-South direction", "It will keep spinning forever", "Any random direction"],
+      "answer": "North-South direction",
+      "reasoning": "A freely suspended magnet always aligns itself along the Earth's geographic North-South direction. This property has been used for centuries to find directions."
+    },
+    "kn": {
+      "question": "ನೀವು ದಾರವನ್ನು ಬಳಸಿ ದಂಡಕಾಂತವನ್ನು ಗಾಳಿಯಲ್ಲಿ ಮುಕ್ತವಾಗಿ ತೂಗುಹಾಕಿದರೆ, ಅದು ಅಂತಿಮವಾಗಿ ಯಾವ ದಿಕ್ಕಿನಲ್ಲಿ ನಿಲ್ಲುತ್ತದೆ?",
+      "options": ["ಪೂರ್ವ-ಪಶ್ಚಿಮ ದಿಕ್ಕು", "ಉತ್ತರ-ದಕ್ಷಿಣ ದಿಕ್ಕು (North-South direction)", "ಅದು ಶಾಶ್ವತವಾಗಿ ತಿರುಗುತ್ತಲೇ ಇರುತ್ತದೆ", "ಯಾವುದಾದರೂ ಯಾದೃಚ್ಛಿಕ (random) ದಿಕ್ಕು"],
+      "answer": "ಉತ್ತರ-ದಕ್ಷಿಣ ದಿಕ್ಕು (North-South direction)",
+      "reasoning": "ಮುಕ್ತವಾಗಿ ತೂಗುಹಾಕಲಾದ ಕಾಂತವು ಯಾವಾಗಲೂ ಭೂಮಿಯ ಭೌಗೋಳಿಕ ಉತ್ತರ-ದಕ್ಷಿಣ ದಿಕ್ಕಿನ ಉದ್ದಕ್ಕೂ ತನ್ನನ್ನು ತಾನು ಹೊಂದಿಸಿಕೊಳ್ಳುತ್ತದೆ. ದಿಕ್ಕುಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು ಈ ಗುಣಲಕ್ಷಣವನ್ನು ಶತಮಾನಗಳಿಂದ ಬಳಸಲಾಗುತ್ತಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_fm_8",
+    "difficulty": 1,
+    "en": {
+      "question": "Which device uses a small magnetic needle to help travelers and sailors find directions?",
+      "options": ["A telescope", "A compass", "A thermometer", "A barometer"],
+      "answer": "A compass",
+      "reasoning": "A compass consists of a magnetized needle pivoted inside a tiny box. Because of the Earth's magnetic field, the needle always points North-South."
+    },
+    "kn": {
+      "question": "ಪ್ರಯಾಣಿಕರು ಮತ್ತು ನಾವಿಕರಿಗೆ ದಿಕ್ಕುಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸಹಾಯ ಮಾಡಲು ಸಣ್ಣ ಕಾಂತೀಯ ಸೂಜಿಯನ್ನು ಬಳಸುವ ಸಾಧನ ಯಾವುದು?",
+      "options": ["ದೂರದರ್ಶಕ (Telescope)", "ದಿಕ್ಸೂಚಿ (Compass)", "ತಾಪಮಾಪಕ (Thermometer)", "ಬಾರೋಮೀಟರ್"],
+      "answer": "ದಿಕ್ಸೂಚಿ (Compass)",
+      "reasoning": "ದಿಕ್ಸೂಚಿಯು ಸಣ್ಣ ಪೆಟ್ಟಿಗೆಯೊಳಗೆ ತಿರುಗುವ ಕಾಂತೀಯ ಸೂಜಿಯನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ. ಭೂಮಿಯ ಕಾಂತಕ್ಷೇತ್ರದ ಕಾರಣದಿಂದಾಗಿ, ಸೂಜಿಯು ಯಾವಾಗಲೂ ಉತ್ತರ-ದಕ್ಷಿಣವನ್ನು ತೋರಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_fm_9",
+    "difficulty": 2,
+    "en": {
+      "question": "What happens when you bring the North pole of one magnet close to the North pole of another magnet?",
+      "options": ["They attract each other and stick together", "They repel (push away) each other", "They lose their magnetism immediately", "They catch fire"],
+      "answer": "They repel (push away) each other",
+      "reasoning": "The fundamental rule of magnetism is: 'Like poles repel, unlike poles attract'. Since North and North are 'like' poles, they push each other away."
+    },
+    "kn": {
+      "question": "ಒಂದು ಕಾಂತದ ಉತ್ತರ ಧ್ರುವವನ್ನು (North pole) ಇನ್ನೊಂದು ಕಾಂತದ ಉತ್ತರ ಧ್ರುವದ ಹತ್ತಿರ ತಂದಾಗ ಏನಾಗುತ್ತದೆ?",
+      "options": ["ಅವು ಪರಸ್ಪರ ಆಕರ್ಷಿಸುತ್ತವೆ ಮತ್ತು ಅಂಟಿಕೊಳ್ಳುತ್ತವೆ", "ಅವು ಪರಸ್ಪರ ವಿಕರ್ಷಿಸುತ್ತವೆ (repel / ದೂರ ತಳ್ಳುತ್ತವೆ)", "ಅವು ತಕ್ಷಣ ತಮ್ಮ ಕಾಂತೀಯತೆಯನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತವೆ", "ಅವು ಬೆಂಕಿಯನ್ನು ಹಿಡಿಯುತ್ತವೆ"],
+      "answer": "ಅವು ಪರಸ್ಪರ ವಿಕರ್ಷಿಸುತ್ತವೆ (repel / ದೂರ ತಳ್ಳುತ್ತವೆ)",
+      "reasoning": "ಕಾಂತೀಯತೆಯ ಮೂಲಭೂತ ನಿಯಮವೆಂದರೆ: 'ಸಮಾನ ಧ್ರುವಗಳು ವಿಕರ್ಷಿಸುತ್ತವೆ (repel), ವಿರುದ್ಧ ಧ್ರುವಗಳು ಆಕರ್ಷಿಸುತ್ತವೆ'. ಉತ್ತರ ಮತ್ತು ಉತ್ತರ 'ಸಮಾನ' ಧ್ರುವಗಳಾಗಿರುವುದರಿಂದ, ಅವು ಪರಸ್ಪರ ದೂರ ತಳ್ಳುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_fm_10",
+    "difficulty": 3,
+    "en": {
+      "question": "What will happen if you bring the South pole of a magnet near the North pole of a second magnet?",
+      "options": ["They will repel each other", "They will attract and pull towards each other", "Nothing will happen", "They will spin around"],
+      "answer": "They will attract and pull towards each other",
+      "reasoning": "South and North are 'unlike' or opposite poles. According to the laws of magnetism, unlike poles always attract each other."
+    },
+    "kn": {
+      "question": "ಒಂದು ಕಾಂತದ ದಕ್ಷಿಣ ಧ್ರುವವನ್ನು ಎರಡನೇ ಕಾಂತದ ಉತ್ತರ ಧ್ರುವದ ಹತ್ತಿರ ತಂದರೆ ಏನಾಗುತ್ತದೆ?",
+      "options": ["ಅವು ಪರಸ್ಪರ ವಿಕರ್ಷಿಸುತ್ತವೆ (repel)", "ಅವು ಆಕರ್ಷಿಸುತ್ತವೆ ಮತ್ತು ಪರಸ್ಪರ ಎಳೆದುಕೊಳ್ಳುತ್ತವೆ", "ಏನೂ ಆಗುವುದಿಲ್ಲ", "ಅವು ಸುತ್ತಲೂ ತಿರುಗುತ್ತವೆ"],
+      "answer": "ಅವು ಆಕರ್ಷಿಸುತ್ತವೆ ಮತ್ತು ಪರಸ್ಪರ ಎಳೆದುಕೊಳ್ಳುತ್ತವೆ",
+      "reasoning": "ದಕ್ಷಿಣ ಮತ್ತು ಉತ್ತರ 'ವಿರುದ್ಧ' ಧ್ರುವಗಳಾಗಿವೆ. ಕಾಂತೀಯತೆಯ ನಿಯಮಗಳ ಪ್ರಕಾರ, ವಿರುದ್ಧ ಧ್ರುವಗಳು ಯಾವಾಗಲೂ ಪರಸ್ಪರ ಆಕರ್ಷಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_fm_11",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of these actions can cause a magnet to lose its magnetic properties (become demagnetized)?",
+      "options": ["Keeping it in a cool place", "Painting it red", "Heating it strongly, hitting it with a hammer, or dropping it from a height", "Washing it with water"],
+      "answer": "Heating it strongly, hitting it with a hammer, or dropping it from a height",
+      "reasoning": "Magnets are delicate. Strong physical shocks (like hammering or dropping) or high heat mess up the internal alignment of their atoms, destroying their magnetism."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಯಾವ ಕ್ರಿಯೆಯು ಕಾಂತವು (magnet) ತನ್ನ ಕಾಂತೀಯ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳುವಂತೆ (demagnetized) ಮಾಡುತ್ತದೆ?",
+      "options": ["ಅದನ್ನು ತಂಪಾದ ಸ್ಥಳದಲ್ಲಿ ಇಡುವುದು", "ಅದಕ್ಕೆ ಕೆಂಪು ಬಣ್ಣ ಬಳಿಯುವುದು", "ಅದನ್ನು ಬಲವಾಗಿ ಬಿಸಿ ಮಾಡುವುದು, ಸುತ್ತಿಗೆಯಿಂದ ಬಡಿಯುವುದು, ಅಥವಾ ಎತ್ತರದಿಂದ ಕೆಳಗೆ ಬೀಳಿಸುವುದು", "ಅದನ್ನು ನೀರಿನಿಂದ ತೊಳೆಯುವುದು"],
+      "answer": "ಅದನ್ನು ಬಲವಾಗಿ ಬಿಸಿ ಮಾಡುವುದು, ಸುತ್ತಿಗೆಯಿಂದ ಬಡಿಯುವುದು, ಅಥವಾ ಎತ್ತರದಿಂದ ಕೆಳಗೆ ಬೀಳಿಸುವುದು",
+      "reasoning": "ಕಾಂತಗಳು ಸೂಕ್ಷ್ಮವಾಗಿರುತ್ತವೆ. ಬಲವಾದ ಭೌತಿಕ ಆಘಾತಗಳು (ಬಡಿಯುವುದು ಅಥವಾ ಬೀಳಿಸುವುದು) ಅಥವಾ ಹೆಚ್ಚಿನ ಶಾಖವು ಅವುಗಳ ಪರಮಾಣುಗಳ ಆಂತರಿಕ ಜೋಡಣೆಯನ್ನು ಹಾಳುಮಾಡುತ್ತದೆ, ಇದರಿಂದ ಅವುಗಳ ಕಾಂತೀಯತೆ ನಾಶವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_fm_12",
+    "difficulty": 2,
+    "en": {
+      "question": "To keep bar magnets safe and preserve their magnetism, how should they be stored?",
+      "options": ["Buried in sand", "In pairs with unlike poles on the same side, separated by wood, and with soft iron keepers across their ends", "Floating in water", "With their North poles tied together tightly"],
+      "answer": "In pairs with unlike poles on the same side, separated by wood, and with soft iron keepers across their ends",
+      "reasoning": "Storing magnets with 'keepers' (soft iron pieces) creates a closed magnetic loop, which prevents them from self-demagnetizing over time."
+    },
+    "kn": {
+      "question": "ದಂಡಕಾಂತಗಳನ್ನು (bar magnets) ಸುರಕ್ಷಿತವಾಗಿರಿಸಲು ಮತ್ತು ಅವುಗಳ ಕಾಂತೀಯತೆಯನ್ನು ಸಂರಕ್ಷಿಸಲು, ಅವುಗಳನ್ನು ಹೇಗೆ ಸಂಗ್ರಹಿಸಬೇಕು (store)?",
+      "options": ["ಮರಳಿನಲ್ಲಿ ಹೂತುಹಾಕಬೇಕು", "ವಿರುದ್ಧ ಧ್ರುವಗಳು ಒಂದೇ ಬದಿಯಲ್ಲಿರುವಂತೆ ಜೋಡಿಯಾಗಿ, ಮರದಿಂದ ಬೇರ್ಪಡಿಸಿ, ಮತ್ತು ಅವುಗಳ ತುದಿಗಳಲ್ಲಿ ಮೃದುವಾದ ಕಬ್ಬಿಣದ ಕೀಪರ್‌ಗಳನ್ನು (keepers) ಇಟ್ಟು", "ನೀರಿನಲ್ಲಿ ತೇಲುವಂತೆ ಇಡಬೇಕು", "ಅವುಗಳ ಉತ್ತರ ಧ್ರುವಗಳನ್ನು ಒಟ್ಟಿಗೆ ಬಿಗಿಯಾಗಿ ಕಟ್ಟಿ"],
+      "answer": "ವಿರುದ್ಧ ಧ್ರುವಗಳು ಒಂದೇ ಬದಿಯಲ್ಲಿರುವಂತೆ ಜೋಡಿಯಾಗಿ, ಮರದಿಂದ ಬೇರ್ಪಡಿಸಿ, ಮತ್ತು ಅವುಗಳ ತುದಿಗಳಲ್ಲಿ ಮೃದುವಾದ ಕಬ್ಬಿಣದ ಕೀಪರ್‌ಗಳನ್ನು (keepers) ಇಟ್ಟು",
+      "reasoning": "'ಕೀಪರ್‌ಗಳೊಂದಿಗೆ' (ಮೃದುವಾದ ಕಬ್ಬಿಣದ ತುಂಡುಗಳು) ಕಾಂತಗಳನ್ನು ಸಂಗ್ರಹಿಸುವುದು ಮುಚ್ಚಿದ ಕಾಂತೀಯ ಲೂಪ್ ಅನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ, ಇದು ಕಾಲಾನಂತರದಲ್ಲಿ ಅವುಗಳ ಕಾಂತೀಯತೆ ಕಳೆದುಕೊಳ್ಳುವುದನ್ನು ತಡೆಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_fm_13",
+    "difficulty": 3,
+    "en": {
+      "question": "Can you make an ordinary iron nail into a temporary magnet? If yes, how?",
+      "options": ["No, it is impossible", "Yes, by boiling the iron nail in water", "Yes, by repeatedly rubbing one pole of a bar magnet along the length of the nail in the same direction", "Yes, by painting it black and white"],
+      "answer": "Yes, by repeatedly rubbing one pole of a bar magnet along the length of the nail in the same direction",
+      "reasoning": "This is the 'single touch method'. Rubbing the magnet in one consistent direction aligns the magnetic domains inside the iron nail, turning it into a temporary magnet."
+    },
+    "kn": {
+      "question": "ನೀವು ಸಾಮಾನ್ಯ ಕಬ್ಬಿಣದ ಮೊಳೆಯನ್ನು ತಾತ್ಕಾಲಿಕ ಕಾಂತವನ್ನಾಗಿ (temporary magnet) ಮಾಡಬಹುದೇ? ಹೌದು ಎಂದಾದರೆ, ಹೇಗೆ?",
+      "options": ["ಇಲ್ಲ, ಅದು ಅಸಾಧ್ಯ", "ಹೌದು, ಕಬ್ಬಿಣದ ಮೊಳೆಯನ್ನು ನೀರಿನಲ್ಲಿ ಕುದಿಸುವ ಮೂಲಕ", "ಹೌದು, ದಂಡಕಾಂತದ ಒಂದು ಧ್ರುವವನ್ನು ಮೊಳೆಯ ಉದ್ದಕ್ಕೂ ಒಂದೇ ದಿಕ್ಕಿನಲ್ಲಿ ಪದೇ ಪದೇ ಉಜ್ಜುವ ಮೂಲಕ", "ಹೌದು, ಅದಕ್ಕೆ ಕಪ್ಪು ಮತ್ತು ಬಿಳಿ ಬಣ್ಣವನ್ನು ಬಳಿಯುವ ಮೂಲಕ"],
+      "answer": "ಹೌದು, ದಂಡಕಾಂತದ ಒಂದು ಧ್ರುವವನ್ನು ಮೊಳೆಯ ಉದ್ದಕ್ಕೂ ಒಂದೇ ದಿಕ್ಕಿನಲ್ಲಿ ಪದೇ ಪದೇ ಉಜ್ಜುವ ಮೂಲಕ",
+      "reasoning": "ಇದು 'ಸಿಂಗಲ್ ಟಚ್ ವಿಧಾನ' (single touch method). ಒಂದೇ ದಿಕ್ಕಿನಲ್ಲಿ ಕಾಂತವನ್ನು ಉಜ್ಜುವುದರಿಂದ ಕಬ್ಬಿಣದ ಮೊಳೆಯ ಒಳಗಿನ ಕಾಂತೀಯ ಡೊಮೇನ್‌ಗಳು ಜೋಡಣೆಯಾಗುತ್ತವೆ, ಇದು ತಾತ್ಕಾಲಿಕ ಕಾಂತವಾಗಿ ಬದಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_fm_14",
+    "difficulty": 2,
+    "en": {
+      "question": "Why is it advised to keep magnets away from televisions, mobiles, and computers?",
+      "options": ["Because magnets will catch fire", "Because the magnets will get charged up too much", "Because these devices use magnetic memory and components that strong magnets can damage or erase", "Because magnets make the screens dirty"],
+      "answer": "Because these devices use magnetic memory and components that strong magnets can damage or erase",
+      "reasoning": "Many electronic items, screens, and hard drives rely on delicate magnetic fields to store data or display pictures. A strong external magnet can severely corrupt this data or distort the display."
+    },
+    "kn": {
+      "question": "ಟೆಲಿವಿಷನ್, ಮೊಬೈಲ್ ಮತ್ತು ಕಂಪ್ಯೂಟರ್‌ಗಳಿಂದ ಕಾಂತಗಳನ್ನು ದೂರವಿಡಲು ಏಕೆ ಸಲಹೆ ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": ["ಏಕೆಂದರೆ ಕಾಂತಗಳು ಬೆಂಕಿಯನ್ನು ಹಿಡಿಯುತ್ತವೆ", "ಏಕೆಂದರೆ ಕಾಂತಗಳು ಹೆಚ್ಚು ಚಾರ್ಜ್ ಆಗುತ್ತವೆ", "ಏಕೆಂದರೆ ಈ ಸಾಧನಗಳು ಕಾಂತೀಯ ಮೆಮೊರಿ ಮತ್ತು ಘಟಕಗಳನ್ನು ಬಳಸುತ್ತವೆ, ಬಲವಾದ ಕಾಂತಗಳು ಅವುಗಳನ್ನು ಹಾನಿಗೊಳಿಸಬಹುದು ಅಥವಾ ಅಳಿಸಬಹುದು", "ಏಕೆಂದರೆ ಕಾಂತಗಳು ಪರದೆಗಳನ್ನು ಕೊಳಕು ಮಾಡುತ್ತವೆ"],
+      "answer": "ಏಕೆಂದರೆ ಈ ಸಾಧನಗಳು ಕಾಂತೀಯ ಮೆಮೊರಿ ಮತ್ತು ಘಟಕಗಳನ್ನು ಬಳಸುತ್ತವೆ, ಬಲವಾದ ಕಾಂತಗಳು ಅವುಗಳನ್ನು ಹಾನಿಗೊಳಿಸಬಹುದು ಅಥವಾ ಅಳಿಸಬಹುದು",
+      "reasoning": "ಅನೇಕ ಎಲೆಕ್ಟ್ರಾನಿಕ್ ವಸ್ತುಗಳು, ಪರದೆಗಳು ಮತ್ತು ಹಾರ್ಡ್ ಡ್ರೈವ್‌ಗಳು ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸಲು ಅಥವಾ ಚಿತ್ರಗಳನ್ನು ಪ್ರದರ್ಶಿಸಲು ಸೂಕ್ಷ್ಮ ಕಾಂತಕ್ಷೇತ್ರಗಳನ್ನು ಅವಲಂಬಿಸಿವೆ. ಬಲವಾದ ಬಾಹ್ಯ ಕಾಂತವು ಈ ಡೇಟಾವನ್ನು ತೀವ್ರವಾಗಿ ಭ್ರಷ್ಟಗೊಳಿಸಬಹುದು ಅಥವಾ ಪ್ರದರ್ಶನವನ್ನು ವಿರೂಪಗೊಳಿಸಬಹುದು."
+    }
+  },
+  {
+    "id": "c6_sci_fm_15",
+    "difficulty": 1,
+    "en": {
+      "question": "If a magnet is broken into two halves, what happens to its poles?",
+      "options": ["One half becomes only a North pole and the other only a South pole", "Both halves lose their magnetism completely", "Each broken half instantly forms a new North and South pole, becoming two separate complete magnets", "The broken pieces become non-magnetic iron"],
+      "answer": "Each broken half instantly forms a new North and South pole, becoming two separate complete magnets",
+      "reasoning": "You cannot isolate a single magnetic pole (a 'monopole'). If you break a magnet, new poles appear at the broken ends, giving you two smaller but complete magnets."
+    },
+    "kn": {
+      "question": "ಒಂದು ಕಾಂತವನ್ನು ಎರಡು ಭಾಗಗಳಾಗಿ ಮುರಿದರೆ, ಅದರ ಧ್ರುವಗಳಿಗೆ ಏನಾಗುತ್ತದೆ?",
+      "options": ["ಒಂದು ಭಾಗವು ಕೇವಲ ಉತ್ತರ ಧ್ರುವವಾಗುತ್ತದೆ ಮತ್ತು ಇನ್ನೊಂದು ಕೇವಲ ದಕ್ಷಿಣ ಧ್ರುವವಾಗುತ್ತದೆ", "ಎರಡೂ ಭಾಗಗಳು ತಮ್ಮ ಕಾಂತೀಯತೆಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಕಳೆದುಕೊಳ್ಳುತ್ತವೆ", "ಪ್ರತಿ ಮುರಿದ ಭಾಗವು ತಕ್ಷಣವೇ ಹೊಸ ಉತ್ತರ ಮತ್ತು ದಕ್ಷಿಣ ಧ್ರುವವನ್ನು ರೂಪಿಸುತ್ತದೆ, ಮತ್ತು ಎರಡು ಪ್ರತ್ಯೇಕ ಸಂಪೂರ್ಣ ಕಾಂತಗಳಾಗುತ್ತವೆ", "ಮುರಿದ ತುಂಡುಗಳು ಕಾಂತೀಯವಲ್ಲದ ಕಬ್ಬಿಣವಾಗುತ್ತವೆ"],
+      "answer": "ಪ್ರತಿ ಮುರಿದ ಭಾಗವು ತಕ್ಷಣವೇ ಹೊಸ ಉತ್ತರ ಮತ್ತು ದಕ್ಷಿಣ ಧ್ರುವವನ್ನು ರೂಪಿಸುತ್ತದೆ, ಮತ್ತು ಎರಡು ಪ್ರತ್ಯೇಕ ಸಂಪೂರ್ಣ ಕಾಂತಗಳಾಗುತ್ತವೆ",
+      "reasoning": "ನೀವು ಒಂದೇ ಕಾಂತೀಯ ಧ್ರುವವನ್ನು ('ಮೊನೊಪೋಲ್') ಪ್ರತ್ಯೇಕಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ನೀವು ಕಾಂತವನ್ನು ಮುರಿದರೆ, ಒಡೆದ ತುದಿಗಳಲ್ಲಿ ಹೊಸ ಧ್ರುವಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ, ಮತ್ತು ಎರಡು ಸಣ್ಣ ಆದರೆ ಸಂಪೂರ್ಣ ಕಾಂತಗಳು ಸೃಷ್ಟಿಯಾಗುತ್ತವೆ."
+    }
+  }
+]
