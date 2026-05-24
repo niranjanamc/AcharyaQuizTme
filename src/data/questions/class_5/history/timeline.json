@@ -23,7 +23,8 @@
       ],
       "answer": "1800",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 1800."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "his_12",
@@ -49,7 +50,8 @@
       ],
       "answer": "1811",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 1811."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "his_23",
@@ -75,7 +77,8 @@
       ],
       "answer": "1822",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 1822."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "his_34",
@@ -101,7 +104,8 @@
       ],
       "answer": "1833",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 1833."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "his_45",
@@ -127,7 +131,8 @@
       ],
       "answer": "1844",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 1844."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "his_56",
@@ -153,7 +158,8 @@
       ],
       "answer": "1855",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 1855."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "his_67",
@@ -179,7 +185,8 @@
       ],
       "answer": "1866",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 1866."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "his_78",
@@ -205,7 +212,8 @@
       ],
       "answer": "1877",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 1877."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "his_89",
@@ -231,7 +239,8 @@
       ],
       "answer": "1888",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 1888."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "his_100",
@@ -257,6 +266,1704 @@
       ],
       "answer": "1899",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ 1899."
+    },
+    "type": "single"
+  },
+  {
+    "id": "c5_his_tl_01",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In which year did India gain independence from British rule?",
+      "options": [
+        "1947",
+        "1950",
+        "1857",
+        "1942"
+      ],
+      "answer": "1947",
+      "reasoning": "India became an independent nation on August 15, 1947."
+    },
+    "kn": {
+      "question": "ಭಾರತವು ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯಿಂದ ಯಾವ ವರ್ಷದಲ್ಲಿ ಸ್ವಾತಂತ್ರ್ಯ ಪಡೆಯಿತು?",
+      "options": [
+        "1947",
+        "1950",
+        "1857",
+        "1942"
+      ],
+      "answer": "1947",
+      "reasoning": "ಭಾರತವು ಆಗಸ್ಟ್ 15, 1947 ರಂದು ಸ್ವತಂತ್ರ ರಾಷ್ಟ್ರವಾಯಿತು."
+    }
+  },
+  {
+    "id": "c5_his_tl_02",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "When did the first war of Indian Independence (Sepoy Mutiny) take place?",
+      "options": [
+        "1857",
+        "1757",
+        "1947",
+        "1885"
+      ],
+      "answer": "1857",
+      "reasoning": "The Revolt of 1857 is considered the first major uprising against British rule."
+    },
+    "kn": {
+      "question": "ಭಾರತದ ಪ್ರಥಮ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮ (ಸಿಪಾಯಿ ದಂಗೆ) ಯಾವಾಗ ನಡೆಯಿತು?",
+      "options": [
+        "1857",
+        "1757",
+        "1947",
+        "1885"
+      ],
+      "answer": "1857",
+      "reasoning": "1857 ರ ದಂಗೆಯನ್ನು ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯ ವಿರುದ್ಧದ ಮೊದಲ ದೊಡ್ಡ ದಂಗೆ ಎಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_his_tl_03",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In which year was the Indian National Congress (INC) founded?",
+      "options": [
+        "1885",
+        "1905",
+        "1919",
+        "1857"
+      ],
+      "answer": "1885",
+      "reasoning": "The Indian National Congress was founded in 1885 by A.O. Hume."
+    },
+    "kn": {
+      "question": "ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್ (INC) ಯಾವ ವರ್ಷದಲ್ಲಿ ಸ್ಥಾಪನೆಯಾಯಿತು?",
+      "options": [
+        "1885",
+        "1905",
+        "1919",
+        "1857"
+      ],
+      "answer": "1885",
+      "reasoning": "ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್ ಅನ್ನು 1885 ರಲ್ಲಿ ಎ.ಒ. ಹ್ಯೂಮ್ ಸ್ಥಾಪಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_tl_04",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "When did the Jallianwala Bagh massacre occur?",
+      "options": [
+        "1919",
+        "1920",
+        "1942",
+        "1905"
+      ],
+      "answer": "1919",
+      "reasoning": "The tragic Jallianwala Bagh massacre took place on April 13, 1919, in Amritsar."
+    },
+    "kn": {
+      "question": "ಜಲಿಯನ್ ವಾಲಾಬಾಗ್ ಹತ್ಯಾಕಾಂಡ ಯಾವಾಗ ನಡೆಯಿತು?",
+      "options": [
+        "1919",
+        "1920",
+        "1942",
+        "1905"
+      ],
+      "answer": "1919",
+      "reasoning": "ದುರಂತವಾದ ಜಲಿಯನ್ ವಾಲಾಬಾಗ್ ಹತ್ಯಾಕಾಂಡವು ಏಪ್ರಿಲ್ 13, 1919 ರಂದು ಅಮೃತಸರದಲ್ಲಿ ನಡೆಯಿತು."
+    }
+  },
+  {
+    "id": "c5_his_tl_05",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In which year did Mahatma Gandhi lead the Dandi March (Salt Satyagraha)?",
+      "options": [
+        "1930",
+        "1920",
+        "1942",
+        "1915"
+      ],
+      "answer": "1930",
+      "reasoning": "The Dandi March started in March 1930 as a protest against the British salt tax."
+    },
+    "kn": {
+      "question": "ಮಹಾತ್ಮ ಗಾಂಧಿಯವರು ದಂಡಿ ಸತ್ಯಾಗ್ರಹವನ್ನು (ಉಪ್ಪಿನ ಸತ್ಯಾಗ್ರಹ) ಯಾವ ವರ್ಷದಲ್ಲಿ ಮುನ್ನಡೆಸಿದರು?",
+      "options": [
+        "1930",
+        "1920",
+        "1942",
+        "1915"
+      ],
+      "answer": "1930",
+      "reasoning": "ಬ್ರಿಟಿಷರ ಉಪ್ಪಿನ ಮೇಲಿನ ತೆರಿಗೆಯನ್ನು ವಿರೋಧಿಸಿ 1930 ರ ಮಾರ್ಚ್‌ನಲ್ಲಿ ದಂಡಿ ಸತ್ಯಾಗ್ರಹ ಪ್ರಾರಂಭವಾಯಿತು."
+    }
+  },
+  {
+    "id": "c5_his_tl_06",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "When was the Quit India Movement launched?",
+      "options": [
+        "1942",
+        "1930",
+        "1920",
+        "1947"
+      ],
+      "answer": "1942",
+      "reasoning": "The Quit India Movement was launched in August 1942, demanding an end to British rule."
+    },
+    "kn": {
+      "question": "ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ ಚಳುವಳಿಯನ್ನು (ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳುವಳಿ) ಯಾವಾಗ ಪ್ರಾರಂಭಿಸಲಾಯಿತು?",
+      "options": [
+        "1942",
+        "1930",
+        "1920",
+        "1947"
+      ],
+      "answer": "1942",
+      "reasoning": "ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯನ್ನು ಕೊನೆಗೊಳಿಸಬೇಕೆಂದು ಒತ್ತಾಯಿಸಿ ಆಗಸ್ಟ್ 1942 ರಲ್ಲಿ ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳುವಳಿಯನ್ನು ಪ್ರಾರಂಭಿಸಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c5_his_tl_07",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "In which year was the Battle of Plassey fought, marking the beginning of British political power in India?",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1600"
+      ],
+      "answer": "1757",
+      "reasoning": "The Battle of Plassey was fought in 1757, establishing British East India Company's rule in Bengal."
+    },
+    "kn": {
+      "question": "ಭಾರತದಲ್ಲಿ ಬ್ರಿಟಿಷರ ರಾಜಕೀಯ ಅಧಿಕಾರದ ಆರಂಭವನ್ನು ಗುರುತಿಸುವ ಪ್ಲಾಸಿ ಕದನವು ಯಾವ ವರ್ಷದಲ್ಲಿ ನಡೆಯಿತು?",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1600"
+      ],
+      "answer": "1757",
+      "reasoning": "1757 ರಲ್ಲಿ ಪ್ಲಾಸಿ ಕದನ ನಡೆಯಿತು, ಇದು ಬಂಗಾಳದಲ್ಲಿ ಬ್ರಿಟಿಷ್ ಈಸ್ಟ್ ಇಂಡಿಯಾ ಕಂಪನಿಯ ಆಳ್ವಿಕೆಯನ್ನು ಸ್ಥಾಪಿಸಿತು."
+    }
+  },
+  {
+    "id": "c5_his_tl_08",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "When did Vasco da Gama discover the sea route to India?",
+      "options": [
+        "1498",
+        "1492",
+        "1526",
+        "1600"
+      ],
+      "answer": "1498",
+      "reasoning": "Vasco da Gama reached Calicut (Kozhikode) in 1498, discovering a direct sea route from Europe to India."
+    },
+    "kn": {
+      "question": "ವಾಸ್ಕೋ ಡ ಗಾಮ ಭಾರತಕ್ಕೆ ಸಮುದ್ರ ಮಾರ್ಗವನ್ನು ಯಾವಾಗ ಕಂಡುಹಿಡಿದನು?",
+      "options": [
+        "1498",
+        "1492",
+        "1526",
+        "1600"
+      ],
+      "answer": "1498",
+      "reasoning": "ವಾಸ್ಕೋ ಡ ಗಾಮ 1498 ರಲ್ಲಿ ಕ್ಯಾಲಿಕಟ್ (ಕೋಝಿಕ್ಕೋಡ್) ತಲುಪಿದನು, ಯುರೋಪ್‌ನಿಂದ ಭಾರತಕ್ಕೆ ನೇರ ಸಮುದ್ರ ಮಾರ್ಗವನ್ನು ಕಂಡುಹಿಡಿದನು."
+    }
+  },
+  {
+    "id": "c5_his_tl_09",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In which year did the First Battle of Panipat take place, establishing the Mughal Empire?",
+      "options": [
+        "1526",
+        "1556",
+        "1761",
+        "1191"
+      ],
+      "answer": "1526",
+      "reasoning": "Babur defeated Ibrahim Lodi in 1526 at the First Battle of Panipat, marking the start of the Mughal Empire."
+    },
+    "kn": {
+      "question": "ಮೊಘಲ್ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಸ್ಥಾಪಿಸಿದ ಮೊದಲ ಪಾಣಿಪತ್ ಕದನವು ಯಾವ ವರ್ಷದಲ್ಲಿ ನಡೆಯಿತು?",
+      "options": [
+        "1526",
+        "1556",
+        "1761",
+        "1191"
+      ],
+      "answer": "1526",
+      "reasoning": "1526 ರ ಮೊದಲ ಪಾಣಿಪತ್ ಕದನದಲ್ಲಿ ಬಾಬರ್ ಇಬ್ರಾಹಿಂ ಲೋದಿಯನ್ನು ಸೋಲಿಸಿದನು, ಇದು ಮೊಘಲ್ ಸಾಮ್ರಾಜ್ಯದ ಆರಂಭವನ್ನು ಗುರುತಿಸಿತು."
+    }
+  },
+  {
+    "id": "c5_his_tl_10",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "When did Emperor Ashoka fight the Kalinga War?",
+      "options": [
+        "261 BCE",
+        "321 BCE",
+        "326 BCE",
+        "185 BCE"
+      ],
+      "answer": "261 BCE",
+      "reasoning": "The Kalinga War was fought around 261 BCE, after which Ashoka embraced Buddhism."
+    },
+    "kn": {
+      "question": "ಸಾಮ್ರಾಟ್ ಅಶೋಕನು ಕಳಿಂಗ ಯುದ್ಧವನ್ನು ಯಾವಾಗ ಮಾಡಿದನು?",
+      "options": [
+        "ಕ್ರಿ.ಪೂ. 261",
+        "ಕ್ರಿ.ಪೂ. 321",
+        "ಕ್ರಿ.ಪೂ. 326",
+        "ಕ್ರಿ.ಪೂ. 185"
+      ],
+      "answer": "ಕ್ರಿ.ಪೂ. 261",
+      "reasoning": "ಕಳಿಂಗ ಯುದ್ಧವು ಸುಮಾರು ಕ್ರಿ.ಪೂ. 261 ರಲ್ಲಿ ನಡೆಯಿತು, ಅದರ ನಂತರ ಅಶೋಕನು ಬೌದ್ಧ ಧರ್ಮವನ್ನು ಸ್ವೀಕರಿಸಿದನು."
+    }
+  },
+  {
+    "id": "c5_his_tl_11",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "When did Alexander the Great invade India?",
+      "options": [
+        "326 BCE",
+        "321 BCE",
+        "261 BCE",
+        "540 BCE"
+      ],
+      "answer": "326 BCE",
+      "reasoning": "Alexander invaded the north-western part of India in 326 BCE and fought King Porus in the Battle of the Hydaspes."
+    },
+    "kn": {
+      "question": "ಅಲೆಕ್ಸಾಂಡರ್ ದಿ ಗ್ರೇಟ್ ಭಾರತದ ಮೇಲೆ ಯಾವಾಗ ದಂಡೆತ್ತಿ ಬಂದನು?",
+      "options": [
+        "ಕ್ರಿ.ಪೂ. 326",
+        "ಕ್ರಿ.ಪೂ. 321",
+        "ಕ್ರಿ.ಪೂ. 261",
+        "ಕ್ರಿ.ಪೂ. 540"
+      ],
+      "answer": "ಕ್ರಿ.ಪೂ. 326",
+      "reasoning": "ಅಲೆಕ್ಸಾಂಡರ್ ಕ್ರಿ.ಪೂ. 326 ರಲ್ಲಿ ಭಾರತದ ವಾಯುವ್ಯ ಭಾಗದ ಮೇಲೆ ಆಕ್ರಮಣ ಮಾಡಿದನು ಮತ್ತು ಹೈಡಾಸ್ಪೆಸ್ ಕದನದಲ್ಲಿ ಪೋರಸ್ ರಾಜನೊಂದಿಗೆ ಹೋರಾಡಿದನು."
+    }
+  },
+  {
+    "id": "c5_his_tl_12",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "When did India's Constitution come into effect, making it a Republic?",
+      "options": [
+        "January 26, 1950",
+        "August 15, 1947",
+        "January 26, 1947",
+        "November 26, 1949"
+      ],
+      "answer": "January 26, 1950",
+      "reasoning": "The Constitution of India came into effect on January 26, 1950, celebrated as Republic Day."
+    },
+    "kn": {
+      "question": "ಭಾರತದ ಸಂವಿಧಾನವು ಯಾವಾಗ ಜಾರಿಗೆ ಬಂತು ಮತ್ತು ಭಾರತವು ಗಣರಾಜ್ಯವಾಯಿತು?",
+      "options": [
+        "ಜನವರಿ 26, 1950",
+        "ಆಗಸ್ಟ್ 15, 1947",
+        "ಜನವರಿ 26, 1947",
+        "ನವೆಂಬರ್ 26, 1949"
+      ],
+      "answer": "ಜನವರಿ 26, 1950",
+      "reasoning": "ಭಾರತದ ಸಂವಿಧಾನವು ಜನವರಿ 26, 1950 ರಂದು ಜಾರಿಗೆ ಬಂದಿತು, ಇದನ್ನು ಗಣರಾಜ್ಯೋತ್ಸವ ಎಂದು ಆಚರಿಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_his_tl_13",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In which year did the partition of Bengal take place?",
+      "options": [
+        "1905",
+        "1947",
+        "1911",
+        "1885"
+      ],
+      "answer": "1905",
+      "reasoning": "Lord Curzon partitioned Bengal in 1905, which led to widespread protests and the Swadeshi movement."
+    },
+    "kn": {
+      "question": "ಬಂಗಾಳದ ವಿಭಜನೆ ಯಾವ ವರ್ಷದಲ್ಲಿ ನಡೆಯಿತು?",
+      "options": [
+        "1905",
+        "1947",
+        "1911",
+        "1885"
+      ],
+      "answer": "1905",
+      "reasoning": "ಕರ್ಜನ್ ಪ್ರಭುವು 1905 ರಲ್ಲಿ ಬಂಗಾಳವನ್ನು ವಿಭಜಿಸಿದನು, ಇದು ವ್ಯಾಪಕ ಪ್ರತಿಭಟನೆ ಮತ್ತು ಸ್ವದೇಶಿ ಚಳುವಳಿಗೆ ಕಾರಣವಾಯಿತು."
+    }
+  },
+  {
+    "id": "c5_his_tl_14",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "When was the Gateway of India built to commemorate the visit of King George V?",
+      "options": [
+        "1911",
+        "1905",
+        "1947",
+        "1857"
+      ],
+      "answer": "1911",
+      "reasoning": "The Gateway of India was built in 1911 in Bombay (Mumbai) to welcome King George V and Queen Mary."
+    },
+    "kn": {
+      "question": "ಕಿಂಗ್ ಜಾರ್ಜ್ V ರವರ ಭೇಟಿಯ ನೆನಪಿಗಾಗಿ ಗೇಟ್ ವೇ ಆಫ್ ಇಂಡಿಯಾವನ್ನು ಯಾವಾಗ ನಿರ್ಮಿಸಲಾಯಿತು?",
+      "options": [
+        "1911",
+        "1905",
+        "1947",
+        "1857"
+      ],
+      "answer": "1911",
+      "reasoning": "ಕಿಂಗ್ ಜಾರ್ಜ್ V ಮತ್ತು ಕ್ವೀನ್ ಮೇರಿ ಅವರನ್ನು ಸ್ವಾಗತಿಸಲು 1911 ರಲ್ಲಿ ಬಾಂಬೆಯಲ್ಲಿ (ಮುಂಬೈ) ಗೇಟ್ ವೇ ಆಫ್ ಇಂಡಿಯಾವನ್ನು ನಿರ್ಮಿಸಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c5_his_tl_15",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In which year did the Non-Cooperation Movement begin?",
+      "options": [
+        "1920",
+        "1930",
+        "1942",
+        "1919"
+      ],
+      "answer": "1920",
+      "reasoning": "Mahatma Gandhi launched the Non-Cooperation Movement in 1920 to resist British rule non-violently."
+    },
+    "kn": {
+      "question": "ಅಸಹಕಾರ ಚಳುವಳಿ ಯಾವ ವರ್ಷದಲ್ಲಿ ಪ್ರಾರಂಭವಾಯಿತು?",
+      "options": [
+        "1920",
+        "1930",
+        "1942",
+        "1919"
+      ],
+      "answer": "1920",
+      "reasoning": "ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯನ್ನು ಅಹಿಂಸಾತ್ಮಕವಾಗಿ ವಿರೋಧಿಸಲು ಮಹಾತ್ಮ ಗಾಂಧಿಯವರು 1920 ರಲ್ಲಿ ಅಸಹಕಾರ ಚಳುವಳಿಯನ್ನು ಪ್ರಾರಂಭಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_tl_16",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these historical events occurred during the 20th century (1900-1999)?",
+      "options": [
+        "Quit India Movement",
+        "Indian Independence",
+        "Battle of Plassey",
+        "First Battle of Panipat"
+      ],
+      "answer": [
+        "Quit India Movement",
+        "Indian Independence"
+      ],
+      "reasoning": "Quit India Movement (1942) and Independence (1947) happened in the 20th century. Plassey (1757) and Panipat (1526) happened earlier."
+    },
+    "kn": {
+      "question": "ಈ ಐತಿಹಾಸಿಕ ಘಟನೆಗಳಲ್ಲಿ ಯಾವುದು 20 ನೇ ಶತಮಾನದಲ್ಲಿ (1900-1999) ಸಂಭವಿಸಿದೆ?",
+      "options": [
+        "ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳುವಳಿ",
+        "ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ",
+        "ಪ್ಲಾಸಿ ಕದನ",
+        "ಮೊದಲ ಪಾಣಿಪತ್ ಕದನ"
+      ],
+      "answer": [
+        "ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳುವಳಿ",
+        "ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ"
+      ],
+      "reasoning": "ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳುವಳಿ (1942) ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯ (1947) 20 ನೇ ಶತಮಾನದಲ್ಲಿ ನಡೆದವು. ಪ್ಲಾಸಿ (1757) ಮತ್ತು ಪಾಣಿಪತ್ (1526) ಮೊದಲೇ ನಡೆದವು."
+    }
+  },
+  {
+    "id": "c5_his_tl_17",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of these empires ruled India during Ancient times?",
+      "options": [
+        "Mauryan Empire",
+        "Gupta Empire",
+        "Mughal Empire",
+        "British Empire"
+      ],
+      "answer": [
+        "Mauryan Empire",
+        "Gupta Empire"
+      ],
+      "reasoning": "The Mauryan and Gupta empires were prominent during Ancient Indian history. The Mughal and British empires came later."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಚೀನ ಕಾಲದಲ್ಲಿ ಯಾವ ಸಾಮ್ರಾಜ್ಯಗಳು ಭಾರತವನ್ನು ಆಳಿದವು?",
+      "options": [
+        "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ",
+        "ಗುಪ್ತ ಸಾಮ್ರಾಜ್ಯ",
+        "ಮೊಘಲ್ ಸಾಮ್ರಾಜ್ಯ",
+        "ಬ್ರಿಟಿಷ್ ಸಾಮ್ರಾಜ್ಯ"
+      ],
+      "answer": [
+        "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ",
+        "ಗುಪ್ತ ಸಾಮ್ರಾಜ್ಯ"
+      ],
+      "reasoning": "ಮೌರ್ಯ ಮತ್ತು ಗುಪ್ತ ಸಾಮ್ರಾಜ್ಯಗಳು ಪ್ರಾಚೀನ ಭಾರತೀಯ ಇತಿಹಾಸದಲ್ಲಿ ಪ್ರಮುಖವಾಗಿವೆ. ಮೊಘಲ್ ಮತ್ತು ಬ್ರಿಟಿಷ್ ಸಾಮ್ರಾಜ್ಯಗಳು ನಂತರ ಬಂದವು."
+    }
+  },
+  {
+    "id": "c5_his_tl_18",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following events were part of the Indian Freedom Struggle led by Mahatma Gandhi?",
+      "options": [
+        "Dandi March",
+        "Non-Cooperation Movement",
+        "Kalinga War",
+        "First Battle of Tarain"
+      ],
+      "answer": [
+        "Dandi March",
+        "Non-Cooperation Movement"
+      ],
+      "reasoning": "Gandhi led the Dandi March and Non-Cooperation Movement. The Kalinga War and Tarain were ancient and medieval conflicts."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಯಾವ ಘಟನೆಗಳು ಮಹಾತ್ಮ ಗಾಂಧಿಯವರ ನೇತೃತ್ವದ ಭಾರತೀಯ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮದ ಭಾಗವಾಗಿದ್ದವು?",
+      "options": [
+        "ದಂಡಿ ಸತ್ಯಾಗ್ರಹ",
+        "ಅಸಹಕಾರ ಚಳುವಳಿ",
+        "ಕಳಿಂಗ ಯುದ್ಧ",
+        "ಮೊದಲ ತರೈನ್ ಕದನ"
+      ],
+      "answer": [
+        "ದಂಡಿ ಸತ್ಯಾಗ್ರಹ",
+        "ಅಸಹಕಾರ ಚಳುವಳಿ"
+      ],
+      "reasoning": "ಗಾಂಧಿಯವರು ದಂಡಿ ಸತ್ಯಾಗ್ರಹ ಮತ್ತು ಅಸಹಕಾರ ಚಳುವಳಿಯನ್ನು ಮುನ್ನಡೆಸಿದರು. ಕಳಿಂಗ ಯುದ್ಧ ಮತ್ತು ತರೈನ್ ಕದನಗಳು ಪ್ರಾಚೀನ ಮತ್ತು ಮಧ್ಯಕಾಲೀನ ಘರ್ಷಣೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_his_tl_19",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following events took place before 1000 CE (AD)?",
+      "options": [
+        "Harappan Civilization",
+        "Rule of Emperor Ashoka",
+        "Revolt of 1857",
+        "Vasco da Gama's arrival in India"
+      ],
+      "answer": [
+        "Harappan Civilization",
+        "Rule of Emperor Ashoka"
+      ],
+      "reasoning": "The Harappan Civilization and Ashoka's rule date back to BCE times, long before 1000 CE."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವ ಘಟನೆಗಳು 1000 CE (ಕ್ರಿ.ಶ) ಗಿಂತ ಮೊದಲು ನಡೆದವು?",
+      "options": [
+        "ಹರಪ್ಪಾ ನಾಗರಿಕತೆ",
+        "ಸಾಮ್ರಾಟ್ ಅಶೋಕನ ಆಳ್ವಿಕೆ",
+        "1857 ರ ದಂಗೆ",
+        "ವಾಸ್ಕೋ ಡ ಗಾಮನ ಭಾರತ ಆಗಮನ"
+      ],
+      "answer": [
+        "ಹರಪ್ಪಾ ನಾಗರಿಕತೆ",
+        "ಸಾಮ್ರಾಟ್ ಅಶೋಕನ ಆಳ್ವಿಕೆ"
+      ],
+      "reasoning": "ಹರಪ್ಪಾ ನಾಗರಿಕತೆ ಮತ್ತು ಅಶೋಕನ ಆಳ್ವಿಕೆಯು ಕ್ರಿ.ಪೂ. ಕಾಲಕ್ಕೆ ಸೇರಿದೆ, ಇದು 1000 CE ಗಿಂತ ಬಹಳ ಹಿಂದೆಯೇ ಇತ್ತು."
+    }
+  },
+  {
+    "id": "c5_his_tl_20",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following individuals were active during India's struggle for independence?",
+      "options": [
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Chandragupta Maurya",
+        "Akbar"
+      ],
+      "answer": [
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose"
+      ],
+      "reasoning": "Gandhi and Bose were key figures in the freedom struggle. Chandragupta and Akbar ruled centuries earlier."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವರಲ್ಲಿ ಯಾರು ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟದ ಸಮಯದಲ್ಲಿ ಸಕ್ರಿಯರಾಗಿದ್ದರು?",
+      "options": [
+        "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+        "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್",
+        "ಚಂದ್ರಗುಪ್ತ ಮೌರ್ಯ",
+        "ಅಕ್ಬರ್"
+      ],
+      "answer": [
+        "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+        "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್"
+      ],
+      "reasoning": "ಗಾಂಧಿ ಮತ್ತು ಬೋಸ್ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟದ ಪ್ರಮುಖ ವ್ಯಕ್ತಿಗಳು. ಚಂದ್ರಗುಪ್ತ ಮತ್ತು ಅಕ್ಬರ್ ಶತಮಾನಗಳ ಹಿಂದೆ ಆಳಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_tl_21",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of these developments are associated with the Indus Valley (Harappan) Civilization?",
+      "options": [
+        "Well-planned cities",
+        "Great Bath at Mohenjo-Daro",
+        "Introduction of Railways",
+        "Taj Mahal construction"
+      ],
+      "answer": [
+        "Well-planned cities",
+        "Great Bath at Mohenjo-Daro"
+      ],
+      "reasoning": "The Harappan civilization is known for its urban planning and the Great Bath. Railways were introduced by the British, and the Taj Mahal was built by the Mughals."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಯಾವ ಬೆಳವಣಿಗೆಗಳು ಸಿಂಧೂ ಕಣಿವೆ (ಹರಪ್ಪಾ) ನಾಗರಿಕತೆಗೆ ಸಂಬಂಧಿಸಿವೆ?",
+      "options": [
+        "ಉತ್ತಮವಾಗಿ ಯೋಜಿಸಲಾದ ನಗರಗಳು",
+        "ಮೊಹೆಂಜೊ-ದಾರೋದಲ್ಲಿನ ದೊಡ್ಡ ಸ್ನಾನಗೃಹ (Great Bath)",
+        "ರೈಲ್ವೆ ಪರಿಚಯ",
+        "ತಾಜ್ ಮಹಲ್ ನಿರ್ಮಾಣ"
+      ],
+      "answer": [
+        "ಉತ್ತಮವಾಗಿ ಯೋಜಿಸಲಾದ ನಗರಗಳು",
+        "ಮೊಹೆಂಜೊ-ದಾರೋದಲ್ಲಿನ ದೊಡ್ಡ ಸ್ನಾನಗೃಹ (Great Bath)"
+      ],
+      "reasoning": "ಹರಪ್ಪಾ ನಾಗರಿಕತೆಯು ತನ್ನ ನಗರ ಯೋಜನೆ ಮತ್ತು ದೊಡ್ಡ ಸ್ನಾನಗೃಹಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ. ರೈಲ್ವೆಗಳನ್ನು ಬ್ರಿಟಿಷರು ಪರಿಚಯಿಸಿದರು ಮತ್ತು ತಾಜ್ ಮಹಲ್ ಅನ್ನು ಮೊಘಲರು ನಿರ್ಮಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_tl_22",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following architectural monuments were built during the Mughal era?",
+      "options": [
+        "Taj Mahal",
+        "Red Fort",
+        "Sanchi Stupa",
+        "Gateway of India"
+      ],
+      "answer": [
+        "Taj Mahal",
+        "Red Fort"
+      ],
+      "reasoning": "The Taj Mahal and Red Fort were built by Mughal Emperor Shah Jahan. The Sanchi Stupa is from ancient India, and the Gateway of India is from the British era."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಯಾವ ವಾಸ್ತುಶಿಲ್ಪದ ಸ್ಮಾರಕಗಳನ್ನು ಮೊಘಲ್ ಯುಗದಲ್ಲಿ ನಿರ್ಮಿಸಲಾಯಿತು?",
+      "options": [
+        "ತಾಜ್ ಮಹಲ್",
+        "ಕೆಂಪು ಕೋಟೆ (Red Fort)",
+        "ಸಾಂಚಿ ಸ್ತೂಪ",
+        "ಗೇಟ್ ವೇ ಆಫ್ ಇಂಡಿಯಾ"
+      ],
+      "answer": [
+        "ತಾಜ್ ಮಹಲ್",
+        "ಕೆಂಪು ಕೋಟೆ (Red Fort)"
+      ],
+      "reasoning": "ತಾಜ್ ಮಹಲ್ ಮತ್ತು ಕೆಂಪು ಕೋಟೆಯನ್ನು ಮೊಘಲ್ ಚಕ್ರವರ್ತಿ ಷಹಜಹಾನ್ ನಿರ್ಮಿಸಿದನು. ಸಾಂಚಿ ಸ್ತೂಪವು ಪ್ರಾಚೀನ ಭಾರತದ್ದಾಗಿದೆ ಮತ್ತು ಗೇಟ್ ವೇ ಆಫ್ ಇಂಡಿಯಾ ಬ್ರಿಟಿಷ್ ಯುಗದ್ದಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_his_tl_23",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of these events happened in the 1900s?",
+      "options": [
+        "Partition of Bengal (1905)",
+        "Independence of India (1947)",
+        "First Battle of Panipat (1526)",
+        "Vasco da Gama's arrival (1498)"
+      ],
+      "answer": [
+        "Partition of Bengal (1905)",
+        "Independence of India (1947)"
+      ],
+      "reasoning": "The Partition of Bengal and Independence happened in the 20th century (1900s)."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಯಾವ ಘಟನೆಗಳು 1900 ರ ದಶಕದಲ್ಲಿ ಸಂಭವಿಸಿದವು?",
+      "options": [
+        "ಬಂಗಾಳದ ವಿಭಜನೆ (1905)",
+        "ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ (1947)",
+        "ಮೊದಲ ಪಾಣಿಪತ್ ಕದನ (1526)",
+        "ವಾಸ್ಕೋ ಡ ಗಾಮನ ಆಗಮನ (1498)"
+      ],
+      "answer": [
+        "ಬಂಗಾಳದ ವಿಭಜನೆ (1905)",
+        "ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ (1947)"
+      ],
+      "reasoning": "ಬಂಗಾಳದ ವಿಭಜನೆ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯವು 20 ನೇ ಶತಮಾನದಲ್ಲಿ (1900 ರ ದಶಕದಲ್ಲಿ) ಸಂಭವಿಸಿದವು."
+    }
+  },
+  {
+    "id": "c5_his_tl_24",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the important Indian historical event to the year it occurred.",
+      "pairs": [
+        {
+          "left": "First War of Independence",
+          "right": "1857"
+        },
+        {
+          "left": "Jallianwala Bagh Massacre",
+          "right": "1919"
+        },
+        {
+          "left": "Dandi March",
+          "right": "1930"
+        },
+        {
+          "left": "Quit India Movement",
+          "right": "1942"
+        }
+      ],
+      "answer": [
+        {
+          "left": "First War of Independence",
+          "right": "1857"
+        },
+        {
+          "left": "Jallianwala Bagh Massacre",
+          "right": "1919"
+        },
+        {
+          "left": "Dandi March",
+          "right": "1930"
+        },
+        {
+          "left": "Quit India Movement",
+          "right": "1942"
+        }
+      ],
+      "reasoning": "These are key milestones in the Indian freedom struggle."
+    },
+    "kn": {
+      "question": "ಪ್ರಮುಖ ಭಾರತೀಯ ಐತಿಹಾಸಿಕ ಘಟನೆಯನ್ನು ಅದು ಸಂಭವಿಸಿದ ವರ್ಷದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಪ್ರಥಮ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮ",
+          "right": "1857"
+        },
+        {
+          "left": "ಜಲಿಯನ್ ವಾಲಾಬಾಗ್ ಹತ್ಯಾಕಾಂಡ",
+          "right": "1919"
+        },
+        {
+          "left": "ದಂಡಿ ಸತ್ಯಾಗ್ರಹ",
+          "right": "1930"
+        },
+        {
+          "left": "ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳುವಳಿ",
+          "right": "1942"
+        }
+      ],
+      "answer": [
+        {
+          "left": "ಪ್ರಥಮ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮ",
+          "right": "1857"
+        },
+        {
+          "left": "ಜಲಿಯನ್ ವಾಲಾಬಾಗ್ ಹತ್ಯಾಕಾಂಡ",
+          "right": "1919"
+        },
+        {
+          "left": "ದಂಡಿ ಸತ್ಯಾಗ್ರಹ",
+          "right": "1930"
+        },
+        {
+          "left": "ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳುವಳಿ",
+          "right": "1942"
+        }
+      ],
+      "reasoning": "ಇವು ಭಾರತೀಯ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮದ ಪ್ರಮುಖ ಮೈಲಿಗಲ್ಲುಗಳು."
+    }
+  },
+  {
+    "id": "c5_his_tl_25",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the ancient or medieval ruler with their corresponding empire.",
+      "pairs": [
+        {
+          "left": "Ashoka",
+          "right": "Mauryan Empire"
+        },
+        {
+          "left": "Chandragupta II",
+          "right": "Gupta Empire"
+        },
+        {
+          "left": "Akbar",
+          "right": "Mughal Empire"
+        },
+        {
+          "left": "Rajaraja Chola",
+          "right": "Chola Empire"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Ashoka",
+          "right": "Mauryan Empire"
+        },
+        {
+          "left": "Chandragupta II",
+          "right": "Gupta Empire"
+        },
+        {
+          "left": "Akbar",
+          "right": "Mughal Empire"
+        },
+        {
+          "left": "Rajaraja Chola",
+          "right": "Chola Empire"
+        }
+      ],
+      "reasoning": "These rulers are famous for expanding and governing their respective empires."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಚೀನ ಅಥವಾ ಮಧ್ಯಕಾಲೀನ ಆಡಳಿತಗಾರನನ್ನು ಅವರ ಅನುಗುಣವಾದ ಸಾಮ್ರಾಜ್ಯದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಅಶೋಕ",
+          "right": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ"
+        },
+        {
+          "left": "ಚಂದ್ರಗುಪ್ತ II",
+          "right": "ಗುಪ್ತ ಸಾಮ್ರಾಜ್ಯ"
+        },
+        {
+          "left": "ಅಕ್ಬರ್",
+          "right": "ಮೊಘಲ್ ಸಾಮ್ರಾಜ್ಯ"
+        },
+        {
+          "left": "ರಾಜರಾಜ ಚೋಳ",
+          "right": "ಚೋಳ ಸಾಮ್ರಾಜ್ಯ"
+        }
+      ],
+      "answer": [
+        {
+          "left": "ಅಶೋಕ",
+          "right": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ"
+        },
+        {
+          "left": "ಚಂದ್ರಗುಪ್ತ II",
+          "right": "ಗುಪ್ತ ಸಾಮ್ರಾಜ್ಯ"
+        },
+        {
+          "left": "ಅಕ್ಬರ್",
+          "right": "ಮೊಘಲ್ ಸಾಮ್ರಾಜ್ಯ"
+        },
+        {
+          "left": "ರಾಜರಾಜ ಚೋಳ",
+          "right": "ಚೋಳ ಸಾಮ್ರಾಜ್ಯ"
+        }
+      ],
+      "reasoning": "ಈ ಆಡಳಿತಗಾರರು ತಮ್ಮ ಸಾಮ್ರಾಜ್ಯಗಳನ್ನು ವಿಸ್ತರಿಸಲು ಮತ್ತು ಆಳಲು ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ."
+    }
+  },
+  {
+    "id": "c5_his_tl_26",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the historical figure to their popular title.",
+      "pairs": [
+        {
+          "left": "Mahatma Gandhi",
+          "right": "Father of the Nation"
+        },
+        {
+          "left": "Jawaharlal Nehru",
+          "right": "Chacha Nehru"
+        },
+        {
+          "left": "Subhas Chandra Bose",
+          "right": "Netaji"
+        },
+        {
+          "left": "Vallabhbhai Patel",
+          "right": "Iron Man of India"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Mahatma Gandhi",
+          "right": "Father of the Nation"
+        },
+        {
+          "left": "Jawaharlal Nehru",
+          "right": "Chacha Nehru"
+        },
+        {
+          "left": "Subhas Chandra Bose",
+          "right": "Netaji"
+        },
+        {
+          "left": "Vallabhbhai Patel",
+          "right": "Iron Man of India"
+        }
+      ],
+      "reasoning": "These leaders were given affectionate or honorable titles for their contributions to India."
+    },
+    "kn": {
+      "question": "ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿಯನ್ನು ಅವರ ಜನಪ್ರಿಯ ಬಿರುದುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+          "right": "ರಾಷ್ಟ್ರಪಿತ"
+        },
+        {
+          "left": "ಜವಾಹರಲಾಲ್ ನೆಹರು",
+          "right": "ಚಾಚಾ ನೆಹರು"
+        },
+        {
+          "left": "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್",
+          "right": "ನೇತಾಜಿ"
+        },
+        {
+          "left": "ವಲ್ಲಭಭಾಯ್ ಪಟೇಲ್",
+          "right": "ಭಾರತದ ಉಕ್ಕಿನ ಮನುಷ್ಯ"
+        }
+      ],
+      "answer": [
+        {
+          "left": "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+          "right": "ರಾಷ್ಟ್ರಪಿತ"
+        },
+        {
+          "left": "ಜವಾಹರಲಾಲ್ ನೆಹರು",
+          "right": "ಚಾಚಾ ನೆಹರು"
+        },
+        {
+          "left": "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್",
+          "right": "ನೇತಾಜಿ"
+        },
+        {
+          "left": "ವಲ್ಲಭಭಾಯ್ ಪಟೇಲ್",
+          "right": "ಭಾರತದ ಉಕ್ಕಿನ ಮನುಷ್ಯ"
+        }
+      ],
+      "reasoning": "ಈ ನಾಯಕರಿಗೆ ಭಾರತಕ್ಕೆ ನೀಡಿದ ಕೊಡುಗೆಗಳಿಗಾಗಿ ಪ್ರೀತಿಯ ಅಥವಾ ಗೌರವಾನ್ವಿತ ಬಿರುದುಗಳನ್ನು ನೀಡಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c5_his_tl_27",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the historical period to the correct description.",
+      "pairs": [
+        {
+          "left": "Harappan Civilization",
+          "right": "Ancient urban planning and drainage"
+        },
+        {
+          "left": "Vedic Period",
+          "right": "Composition of the Vedas"
+        },
+        {
+          "left": "Mauryan Empire",
+          "right": "Ruled by Chandragupta and Ashoka"
+        },
+        {
+          "left": "Gupta Empire",
+          "right": "Golden Age of India"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Harappan Civilization",
+          "right": "Ancient urban planning and drainage"
+        },
+        {
+          "left": "Vedic Period",
+          "right": "Composition of the Vedas"
+        },
+        {
+          "left": "Mauryan Empire",
+          "right": "Ruled by Chandragupta and Ashoka"
+        },
+        {
+          "left": "Gupta Empire",
+          "right": "Golden Age of India"
+        }
+      ],
+      "reasoning": "These descriptions represent the key highlights of the respective historical periods."
+    },
+    "kn": {
+      "question": "ಐತಿಹಾಸಿಕ ಅವಧಿಯನ್ನು ಸರಿಯಾದ ವಿವರಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಹರಪ್ಪಾ ನಾಗರಿಕತೆ",
+          "right": "ಪ್ರಾಚೀನ ನಗರ ಯೋಜನೆ ಮತ್ತು ಒಳಚರಂಡಿ"
+        },
+        {
+          "left": "ವೇದಗಳ ಕಾಲ",
+          "right": "ವೇದಗಳ ಸಂಯೋಜನೆ"
+        },
+        {
+          "left": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ",
+          "right": "ಚಂದ್ರಗುಪ್ತ ಮತ್ತು ಅಶೋಕನ ಆಳ್ವಿಕೆ"
+        },
+        {
+          "left": "ಗುಪ್ತ ಸಾಮ್ರಾಜ್ಯ",
+          "right": "ಭಾರತದ ಸುವರ್ಣ ಯುಗ"
+        }
+      ],
+      "answer": [
+        {
+          "left": "ಹರಪ್ಪಾ ನಾಗರಿಕತೆ",
+          "right": "ಪ್ರಾಚೀನ ನಗರ ಯೋಜನೆ ಮತ್ತು ಒಳಚರಂಡಿ"
+        },
+        {
+          "left": "ವೇದಗಳ ಕಾಲ",
+          "right": "ವೇದಗಳ ಸಂಯೋಜನೆ"
+        },
+        {
+          "left": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ",
+          "right": "ಚಂದ್ರಗುಪ್ತ ಮತ್ತು ಅಶೋಕನ ಆಳ್ವಿಕೆ"
+        },
+        {
+          "left": "ಗುಪ್ತ ಸಾಮ್ರಾಜ್ಯ",
+          "right": "ಭಾರತದ ಸುವರ್ಣ ಯುಗ"
+        }
+      ],
+      "reasoning": "ಈ ವಿವರಣೆಗಳು ಆಯಾ ಐತಿಹಾಸಿಕ ಅವಧಿಗಳ ಪ್ರಮುಖ ಮುಖ್ಯಾಂಶಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_his_tl_28",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the famous battles to the year they were fought.",
+      "pairs": [
+        {
+          "left": "First Battle of Panipat",
+          "right": "1526"
+        },
+        {
+          "left": "Second Battle of Panipat",
+          "right": "1556"
+        },
+        {
+          "left": "Battle of Haldighati",
+          "right": "1576"
+        },
+        {
+          "left": "Battle of Plassey",
+          "right": "1757"
+        }
+      ],
+      "answer": [
+        {
+          "left": "First Battle of Panipat",
+          "right": "1526"
+        },
+        {
+          "left": "Second Battle of Panipat",
+          "right": "1556"
+        },
+        {
+          "left": "Battle of Haldighati",
+          "right": "1576"
+        },
+        {
+          "left": "Battle of Plassey",
+          "right": "1757"
+        }
+      ],
+      "reasoning": "These are crucial battles that shaped the course of Indian history."
+    },
+    "kn": {
+      "question": "ಪ್ರಸಿದ್ಧ ಯುದ್ಧಗಳನ್ನು ಅವು ನಡೆದ ವರ್ಷದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಮೊದಲ ಪಾಣಿಪತ್ ಕದನ",
+          "right": "1526"
+        },
+        {
+          "left": "ಎರಡನೇ ಪಾಣಿಪತ್ ಕದನ",
+          "right": "1556"
+        },
+        {
+          "left": "ಹಲ್ದಿಘಾಟಿ ಕದನ",
+          "right": "1576"
+        },
+        {
+          "left": "ಪ್ಲಾಸಿ ಕದನ",
+          "right": "1757"
+        }
+      ],
+      "answer": [
+        {
+          "left": "ಮೊದಲ ಪಾಣಿಪತ್ ಕದನ",
+          "right": "1526"
+        },
+        {
+          "left": "ಎರಡನೇ ಪಾಣಿಪತ್ ಕದನ",
+          "right": "1556"
+        },
+        {
+          "left": "ಹಲ್ದಿಘಾಟಿ ಕದನ",
+          "right": "1576"
+        },
+        {
+          "left": "ಪ್ಲಾಸಿ ಕದನ",
+          "right": "1757"
+        }
+      ],
+      "reasoning": "ಇವು ಭಾರತೀಯ ಇತಿಹಾಸದ ಹಾದಿಯನ್ನು ರೂಪಿಸಿದ ನಿರ್ಣಾಯಕ ಯುದ್ಧಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_his_tl_29",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who was the first Prime Minister of independent India?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Dr. B. R. Ambedkar",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Jawaharlal Nehru",
+      "reasoning": "Jawaharlal Nehru took office as the first Prime Minister of India in 1947."
+    },
+    "kn": {
+      "question": "ಸ್ವತಂತ್ರ ಭಾರತದ ಮೊದಲ ಪ್ರಧಾನಿ ಯಾರು?",
+      "options": [
+        "ಜವಾಹರಲಾಲ್ ನೆಹರು",
+        "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+        "ಡಾ. ಬಿ. ಆರ್. ಅಂಬೇಡ್ಕರ್",
+        "ಸರ್ದಾರ್ ವಲ್ಲಭಭಾಯ್ ಪಟೇಲ್"
+      ],
+      "answer": "ಜವಾಹರಲಾಲ್ ನೆಹರು",
+      "reasoning": "ಜವಾಹರಲಾಲ್ ನೆಹರು ಅವರು 1947 ರಲ್ಲಿ ಭಾರತದ ಮೊದಲ ಪ್ರಧಾನಿಯಾಗಿ ಅಧಿಕಾರ ವಹಿಸಿಕೊಂಡರು."
+    }
+  },
+  {
+    "id": "c5_his_tl_30",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who is known as the principal architect of the Constitution of India?",
+      "options": [
+        "Dr. B. R. Ambedkar",
+        "Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Sardar Patel"
+      ],
+      "answer": "Dr. B. R. Ambedkar",
+      "reasoning": "Dr. B. R. Ambedkar was the Chairman of the Drafting Committee of the Constituent Assembly."
+    },
+    "kn": {
+      "question": "ಭಾರತದ ಸಂವಿಧಾನದ ಪ್ರಮುಖ ಶಿಲ್ಪಿ ಎಂದು ಯಾರನ್ನು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಡಾ. ಬಿ. ಆರ್. ಅಂಬೇಡ್ಕರ್",
+        "ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್",
+        "ಜವಾಹರಲಾಲ್ ನೆಹರು",
+        "ಸರ್ದಾರ್ ಪಟೇಲ್"
+      ],
+      "answer": "ಡಾ. ಬಿ. ಆರ್. ಅಂಬೇಡ್ಕರ್",
+      "reasoning": "ಡಾ. ಬಿ. ಆರ್. ಅಂಬೇಡ್ಕರ್ ಅವರು ಸಂವಿಧಾನ ರಚನಾ ಸಭೆಯ ಕರಡು ಸಮಿತಿಯ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c5_his_tl_31",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the event to the correct date/year of celebration in India.",
+      "pairs": [
+        {
+          "left": "Independence Day",
+          "right": "August 15, 1947"
+        },
+        {
+          "left": "Republic Day",
+          "right": "January 26, 1950"
+        },
+        {
+          "left": "Gandhi Jayanti",
+          "right": "October 2"
+        },
+        {
+          "left": "Children's Day",
+          "right": "November 14"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Independence Day",
+          "right": "August 15, 1947"
+        },
+        {
+          "left": "Republic Day",
+          "right": "January 26, 1950"
+        },
+        {
+          "left": "Gandhi Jayanti",
+          "right": "October 2"
+        },
+        {
+          "left": "Children's Day",
+          "right": "November 14"
+        }
+      ],
+      "reasoning": "These are significant national days celebrated across India."
+    },
+    "kn": {
+      "question": "ಭಾರತದಲ್ಲಿ ಆಚರಣೆಯ ಸರಿಯಾದ ದಿನಾಂಕ/ವರ್ಷದೊಂದಿಗೆ ಘಟನೆಯನ್ನು ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+          "right": "ಆಗಸ್ಟ್ 15, 1947"
+        },
+        {
+          "left": "ಗಣರಾಜ್ಯೋತ್ಸವ",
+          "right": "ಜನವರಿ 26, 1950"
+        },
+        {
+          "left": "ಗಾಂಧಿ ಜಯಂತಿ",
+          "right": "ಅಕ್ಟೋಬರ್ 2"
+        },
+        {
+          "left": "ಮಕ್ಕಳ ದಿನಾಚರಣೆ",
+          "right": "ನವೆಂಬರ್ 14"
+        }
+      ],
+      "answer": [
+        {
+          "left": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+          "right": "ಆಗಸ್ಟ್ 15, 1947"
+        },
+        {
+          "left": "ಗಣರಾಜ್ಯೋತ್ಸವ",
+          "right": "ಜನವರಿ 26, 1950"
+        },
+        {
+          "left": "ಗಾಂಧಿ ಜಯಂತಿ",
+          "right": "ಅಕ್ಟೋಬರ್ 2"
+        },
+        {
+          "left": "ಮಕ್ಕಳ ದಿನಾಚರಣೆ",
+          "right": "ನವೆಂಬರ್ 14"
+        }
+      ],
+      "reasoning": "ಇವು ಭಾರತದಾದ್ಯಂತ ಆಚರಿಸಲಾಗುವ ಪ್ರಮುಖ ರಾಷ್ಟ್ರೀಯ ದಿನಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_his_tl_32",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "In which period were the famous rock-cut temples of Ellora built?",
+      "options": [
+        "Rashtrakuta dynasty",
+        "Mauryan dynasty",
+        "Mughal Empire",
+        "British rule"
+      ],
+      "answer": "Rashtrakuta dynasty",
+      "reasoning": "The Ellora caves were largely built by the Rashtrakuta and Yadava dynasties."
+    },
+    "kn": {
+      "question": "ಎಲ್ಲೋರಾದ ಪ್ರಸಿದ್ಧ ಕಲ್ಲಿನ ದೇವಾಲಯಗಳನ್ನು ಯಾವ ಅವಧಿಯಲ್ಲಿ ನಿರ್ಮಿಸಲಾಯಿತು?",
+      "options": [
+        "ರಾಷ್ಟ್ರಕೂಟ ರಾಜವಂಶ",
+        "ಮೌರ್ಯ ರಾಜವಂಶ",
+        "ಮೊಘಲ್ ಸಾಮ್ರಾಜ್ಯ",
+        "ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆ"
+      ],
+      "answer": "ರಾಷ್ಟ್ರಕೂಟ ರಾಜವಂಶ",
+      "reasoning": "ಎಲ್ಲೋರಾ ಗುಹೆಗಳನ್ನು ಹೆಚ್ಚಾಗಿ ರಾಷ್ಟ್ರಕೂಟ ಮತ್ತು ಯಾದವ ರಾಜವಂಶಗಳು ನಿರ್ಮಿಸಿವೆ."
+    }
+  },
+  {
+    "id": "c5_his_tl_33",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these leaders were extremists (Garam Dal) in the Indian National Congress?",
+      "options": [
+        "Bal Gangadhar Tilak",
+        "Bipin Chandra Pal",
+        "Gopal Krishna Gokhale",
+        "A. O. Hume"
+      ],
+      "answer": [
+        "Bal Gangadhar Tilak",
+        "Bipin Chandra Pal"
+      ],
+      "reasoning": "Lal-Bal-Pal (Lala Lajpat Rai, Bal Gangadhar Tilak, Bipin Chandra Pal) were the key extremist leaders."
+    },
+    "kn": {
+      "question": "ಈ ನಾಯಕರಲ್ಲಿ ಯಾರು ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್‌ನಲ್ಲಿ ತೀವ್ರಗಾಮಿಗಳಾಗಿದ್ದರು (ಗರಮ್ ದಳ)?",
+      "options": [
+        "ಬಾಲ ಗಂಗಾಧರ ತಿಲಕ್",
+        "ಬಿಪಿನ್ ಚಂದ್ರ ಪಾಲ್",
+        "ಗೋಪಾಲ ಕೃಷ್ಣ ಗೋಖಲೆ",
+        "ಎ. ಒ. ಹ್ಯೂಮ್"
+      ],
+      "answer": [
+        "ಬಾಲ ಗಂಗಾಧರ ತಿಲಕ್",
+        "ಬಿಪಿನ್ ಚಂದ್ರ ಪಾಲ್"
+      ],
+      "reasoning": "ಲಾಲ್-ಬಾಲ್-ಪಾಲ್ (ಲಾಲಾ ಲಜಪತ್ ರಾಯ್, ಬಾಲ ಗಂಗಾಧರ ತಿಲಕ್, ಬಿಪಿನ್ ಚಂದ್ರ ಪಾಲ್) ಪ್ರಮುಖ ತೀವ್ರಗಾಮಿ ನಾಯಕರಾಗಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c5_his_tl_34",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which ruler built the famous Sanchi Stupa?",
+      "options": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Harshavardhana",
+        "Kanishka"
+      ],
+      "answer": "Ashoka",
+      "reasoning": "The Great Stupa at Sanchi was originally commissioned by the Mauryan emperor Ashoka in the 3rd century BCE."
+    },
+    "kn": {
+      "question": "ಪ್ರಸಿದ್ಧ ಸಾಂಚಿ ಸ್ತೂಪವನ್ನು ಯಾವ ಆಡಳಿತಗಾರ ನಿರ್ಮಿಸಿದನು?",
+      "options": [
+        "ಅಶೋಕ",
+        "ಚಂದ್ರಗುಪ್ತ ಮೌರ್ಯ",
+        "ಹರ್ಷವರ್ಧನ",
+        "ಕನಿಷ್ಕ"
+      ],
+      "answer": "ಅಶೋಕ",
+      "reasoning": "ಸಾಂಚಿಯಲ್ಲಿರುವ ದೊಡ್ಡ ಸ್ತೂಪವನ್ನು ಮೂಲತಃ ಕ್ರಿ.ಪೂ. 3 ನೇ ಶತಮಾನದಲ್ಲಿ ಮೌರ್ಯ ಚಕ್ರವರ್ತಿ ಅಶೋಕನು ನಿಯೋಜಿಸಿದನು."
+    }
+  },
+  {
+    "id": "c5_his_tl_35",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "During whose reign did the Chinese traveler Xuanzang (Hiuen Tsang) visit India?",
+      "options": [
+        "Harshavardhana",
+        "Chandragupta II",
+        "Ashoka",
+        "Akbar"
+      ],
+      "answer": "Harshavardhana",
+      "reasoning": "Xuanzang visited India during the reign of King Harshavardhana to study Buddhism."
+    },
+    "kn": {
+      "question": "ಚೀನಾದ ಪ್ರವಾಸಿ ಹ್ಯುಯೆನ್ ತ್ಸಾಂಗ್ ಯಾರ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಭಾರತಕ್ಕೆ ಭೇಟಿ ನೀಡಿದ್ದನು?",
+      "options": [
+        "ಹರ್ಷವರ್ಧನ",
+        "ಚಂದ್ರಗುಪ್ತ II",
+        "ಅಶೋಕ",
+        "ಅಕ್ಬರ್"
+      ],
+      "answer": "ಹರ್ಷವರ್ಧನ",
+      "reasoning": "ಹ್ಯುಯೆನ್ ತ್ಸಾಂಗ್ ಬೌದ್ಧಧರ್ಮವನ್ನು ಅಧ್ಯಯನ ಮಾಡಲು ಹರ್ಷವರ್ಧನ ರಾಜನ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಭಾರತಕ್ಕೆ ಭೇಟಿ ನೀಡಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c5_his_tl_36",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these regions were key centers of the Harappan civilization?",
+      "options": [
+        "Harappa",
+        "Mohenjo-Daro",
+        "Pataliputra",
+        "Madurai"
+      ],
+      "answer": [
+        "Harappa",
+        "Mohenjo-Daro"
+      ],
+      "reasoning": "Harappa and Mohenjo-Daro were the major urban centers of the Indus Valley Civilization. Pataliputra and Madurai were centers of later empires."
+    },
+    "kn": {
+      "question": "ಈ ಪ್ರದೇಶಗಳಲ್ಲಿ ಯಾವುದು ಹರಪ್ಪಾ ನಾಗರಿಕತೆಯ ಪ್ರಮುಖ ಕೇಂದ್ರಗಳಾಗಿದ್ದವು?",
+      "options": [
+        "ಹರಪ್ಪಾ",
+        "ಮೊಹೆಂಜೊ-ದಾರೋ",
+        "ಪಾಟಲೀಪುತ್ರ",
+        "ಮಧುರೈ"
+      ],
+      "answer": [
+        "ಹರಪ್ಪಾ",
+        "ಮೊಹೆಂಜೊ-ದಾರೋ"
+      ],
+      "reasoning": "ಹರಪ್ಪಾ ಮತ್ತು ಮೊಹೆಂಜೊ-ದಾರೋ ಸಿಂಧೂ ಕಣಿವೆ ನಾಗರಿಕತೆಯ ಪ್ರಮುಖ ನಗರ ಕೇಂದ್ರಗಳಾಗಿದ್ದವು. ಪಾಟಲೀಪುತ್ರ ಮತ್ತು ಮಧುರೈ ನಂತರದ ಸಾಮ್ರಾಜ್ಯಗಳ ಕೇಂದ್ರಗಳಾಗಿದ್ದವು."
+    }
+  },
+  {
+    "id": "c5_his_tl_37",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the traveler/scholar to the era or ruler they are associated with.",
+      "pairs": [
+        {
+          "left": "Megasthenes",
+          "right": "Chandragupta Maurya"
+        },
+        {
+          "left": "Fa-Hien",
+          "right": "Chandragupta II (Gupta)"
+        },
+        {
+          "left": "Xuanzang",
+          "right": "Harshavardhana"
+        },
+        {
+          "left": "Ibn Battuta",
+          "right": "Muhammad bin Tughlaq"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Megasthenes",
+          "right": "Chandragupta Maurya"
+        },
+        {
+          "left": "Fa-Hien",
+          "right": "Chandragupta II (Gupta)"
+        },
+        {
+          "left": "Xuanzang",
+          "right": "Harshavardhana"
+        },
+        {
+          "left": "Ibn Battuta",
+          "right": "Muhammad bin Tughlaq"
+        }
+      ],
+      "reasoning": "These foreign travelers provided valuable accounts of India during the reigns of these respective rulers."
+    },
+    "kn": {
+      "question": "ಪ್ರವಾಸಿ/ವಿದ್ವಾಂಸರನ್ನು ಅವರು ಸಂಬಂಧಿಸಿರುವ ಯುಗ ಅಥವಾ ಆಡಳಿತಗಾರನೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಮೆಗಾಸ್ತನೀಸ್",
+          "right": "ಚಂದ್ರಗುಪ್ತ ಮೌರ್ಯ"
+        },
+        {
+          "left": "ಫಾ-ಹಿಯಾನ್",
+          "right": "ಚಂದ್ರಗುಪ್ತ II (ಗುಪ್ತ)"
+        },
+        {
+          "left": "ಹ್ಯುಯೆನ್ ತ್ಸಾಂಗ್",
+          "right": "ಹರ್ಷವರ್ಧನ"
+        },
+        {
+          "left": "ಇಬ್ನ್ ಬತೂತ",
+          "right": "ಮುಹಮ್ಮದ್ ಬಿನ್ ತುಘಲಕ್"
+        }
+      ],
+      "answer": [
+        {
+          "left": "ಮೆಗಾಸ್ತನೀಸ್",
+          "right": "ಚಂದ್ರಗುಪ್ತ ಮೌರ್ಯ"
+        },
+        {
+          "left": "ಫಾ-ಹಿಯಾನ್",
+          "right": "ಚಂದ್ರಗುಪ್ತ II (ಗುಪ್ತ)"
+        },
+        {
+          "left": "ಹ್ಯುಯೆನ್ ತ್ಸಾಂಗ್",
+          "right": "ಹರ್ಷವರ್ಧನ"
+        },
+        {
+          "left": "ಇಬ್ನ್ ಬತೂತ",
+          "right": "ಮುಹಮ್ಮದ್ ಬಿನ್ ತುಘಲಕ್"
+        }
+      ],
+      "reasoning": "ಈ ವಿದೇಶಿ ಪ್ರವಾಸಿಗರು ಆಯಾ ಆಡಳಿತಗಾರರ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಭಾರತದ ಬಗ್ಗೆ ಮೌಲ್ಯಯುತವಾದ ವಿವರಣೆಗಳನ್ನು ನೀಡಿದ್ದಾರೆ."
+    }
+  },
+  {
+    "id": "c5_his_tl_38",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which movement was started by Mahatma Gandhi against the salt tax?",
+      "options": [
+        "Dandi March",
+        "Quit India Movement",
+        "Non-Cooperation Movement",
+        "Khilafat Movement"
+      ],
+      "answer": "Dandi March",
+      "reasoning": "The Dandi March (Salt Satyagraha) was specifically targeted against the British monopoly and tax on salt."
+    },
+    "kn": {
+      "question": "ಉಪ್ಪಿನ ಮೇಲಿನ ತೆರಿಗೆಯ ವಿರುದ್ಧ ಮಹಾತ್ಮ ಗಾಂಧಿಯವರು ಯಾವ ಚಳುವಳಿಯನ್ನು ಪ್ರಾರಂಭಿಸಿದರು?",
+      "options": [
+        "ದಂಡಿ ಸತ್ಯಾಗ್ರಹ",
+        "ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳುವಳಿ",
+        "ಅಸಹಕಾರ ಚಳುವಳಿ",
+        "ಖಿಲಾಫತ್ ಚಳುವಳಿ"
+      ],
+      "answer": "ದಂಡಿ ಸತ್ಯಾಗ್ರಹ",
+      "reasoning": "ದಂಡಿ ಸತ್ಯಾಗ್ರಹವು (ಉಪ್ಪಿನ ಸತ್ಯಾಗ್ರಹ) ನಿರ್ದಿಷ್ಟವಾಗಿ ಉಪ್ಪಿನ ಮೇಲಿನ ಬ್ರಿಟಿಷರ ಏಕಸ್ವಾಮ್ಯ ಮತ್ತು ತೆರಿಗೆಯ ವಿರುದ್ಧ ಗುರಿಯಾಗಿತ್ತು."
+    }
+  },
+  {
+    "id": "c5_his_tl_39",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who founded the Maurya Empire after overthrowing the Nanda Dynasty?",
+      "options": [
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Bindusara",
+        "Chanakya"
+      ],
+      "answer": "Chandragupta Maurya",
+      "reasoning": "Chandragupta Maurya founded the Mauryan Empire with the help of his mentor, Chanakya."
+    },
+    "kn": {
+      "question": "ನಂದ ರಾಜವಂಶವನ್ನು ಉರುಳಿಸಿದ ನಂತರ ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಸ್ಥಾಪಿಸಿದವರು ಯಾರು?",
+      "options": [
+        "ಚಂದ್ರಗುಪ್ತ ಮೌರ್ಯ",
+        "ಅಶೋಕ",
+        "ಬಿಂದುಸಾರ",
+        "ಚಾಣಕ್ಯ"
+      ],
+      "answer": "ಚಂದ್ರಗುಪ್ತ ಮೌರ್ಯ",
+      "reasoning": "ಚಂದ್ರಗುಪ್ತ ಮೌರ್ಯನು ತನ್ನ ಮಾರ್ಗದರ್ಶಕ ಚಾಣಕ್ಯನ ಸಹಾಯದಿಂದ ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಸ್ಥಾಪಿಸಿದನು."
+    }
+  },
+  {
+    "id": "c5_his_tl_40",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these states were ruled by powerful Maratha kings?",
+      "options": [
+        "Maharashtra",
+        "Gujarat",
+        "Kerala",
+        "Assam"
+      ],
+      "answer": [
+        "Maharashtra",
+        "Gujarat"
+      ],
+      "reasoning": "The Maratha Empire covered large parts of Western and Central India, notably Maharashtra and Gujarat."
+    },
+    "kn": {
+      "question": "ಈ ರಾಜ್ಯಗಳಲ್ಲಿ ಯಾವುವು ಪ್ರಬಲ ಮರಾಠ ರಾಜರ ಆಳ್ವಿಕೆಯಲ್ಲಿದ್ದವು?",
+      "options": [
+        "ಮಹಾರಾಷ್ಟ್ರ",
+        "ಗುಜರಾತ್",
+        "ಕೇರಳ",
+        "ಅಸ್ಸಾಂ"
+      ],
+      "answer": [
+        "ಮಹಾರಾಷ್ಟ್ರ",
+        "ಗುಜರಾತ್"
+      ],
+      "reasoning": "ಮರಾಠಾ ಸಾಮ್ರಾಜ್ಯವು ಪಶ್ಚಿಮ ಮತ್ತು ಮಧ್ಯ ಭಾರತದ ದೊಡ್ಡ ಭಾಗಗಳನ್ನು, ವಿಶೇಷವಾಗಿ ಮಹಾರಾಷ್ಟ್ರ ಮತ್ತು ಗುಜರಾತ್ ಅನ್ನು ಆವರಿಸಿದೆ."
+    }
+  },
+  {
+    "id": "c5_his_tl_41",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the dynasty to their famous capital city.",
+      "pairs": [
+        {
+          "left": "Mauryan Empire",
+          "right": "Pataliputra"
+        },
+        {
+          "left": "Vijayanagara Empire",
+          "right": "Hampi"
+        },
+        {
+          "left": "Mughal Empire (early)",
+          "right": "Agra"
+        },
+        {
+          "left": "Chola Empire",
+          "right": "Thanjavur"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Mauryan Empire",
+          "right": "Pataliputra"
+        },
+        {
+          "left": "Vijayanagara Empire",
+          "right": "Hampi"
+        },
+        {
+          "left": "Mughal Empire (early)",
+          "right": "Agra"
+        },
+        {
+          "left": "Chola Empire",
+          "right": "Thanjavur"
+        }
+      ],
+      "reasoning": "These cities served as the centers of power for these mighty empires."
+    },
+    "kn": {
+      "question": "ರಾಜವಂಶವನ್ನು ಅವರ ಪ್ರಸಿದ್ಧ ರಾಜಧಾನಿ ನಗರದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ",
+          "right": "ಪಾಟಲೀಪುತ್ರ"
+        },
+        {
+          "left": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ",
+          "right": "ಹಂಪಿ"
+        },
+        {
+          "left": "ಮೊಘಲ್ ಸಾಮ್ರಾಜ್ಯ (ಆರಂಭಿಕ)",
+          "right": "ಆಗ್ರಾ"
+        },
+        {
+          "left": "ಚೋಳ ಸಾಮ್ರಾಜ್ಯ",
+          "right": "ತಂಜಾವೂರು"
+        }
+      ],
+      "answer": [
+        {
+          "left": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ",
+          "right": "ಪಾಟಲೀಪುತ್ರ"
+        },
+        {
+          "left": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ",
+          "right": "ಹಂಪಿ"
+        },
+        {
+          "left": "ಮೊಘಲ್ ಸಾಮ್ರಾಜ್ಯ (ಆರಂಭಿಕ)",
+          "right": "ಆಗ್ರಾ"
+        },
+        {
+          "left": "ಚೋಳ ಸಾಮ್ರಾಜ್ಯ",
+          "right": "ತಂಜಾವೂರು"
+        }
+      ],
+      "reasoning": "ಈ ನಗರಗಳು ಈ ಪ್ರಬಲ ಸಾಮ್ರಾಜ್ಯಗಳ ಅಧಿಕಾರದ ಕೇಂದ್ರಗಳಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿದವು."
+    }
+  },
+  {
+    "id": "c5_his_tl_42",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "During the Indian independence movement, who gave the slogan 'Give me blood, and I shall give you freedom'?",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Bhagat Singh",
+        "Lala Lajpat Rai"
+      ],
+      "answer": "Subhas Chandra Bose",
+      "reasoning": "Subhas Chandra Bose used this famous slogan to inspire Indians to join the Indian National Army (INA)."
+    },
+    "kn": {
+      "question": "ಭಾರತೀಯ ಸ್ವಾತಂತ್ರ್ಯ ಚಳುವಳಿಯ ಸಮಯದಲ್ಲಿ, 'ನೀವು ನನಗೆ ರಕ್ತ ಕೊಡಿ, ನಾನು ನಿಮಗೆ ಸ್ವಾತಂತ್ರ್ಯ ಕೊಡುತ್ತೇನೆ' ಎಂದು ಘೋಷಣೆ ನೀಡಿದವರು ಯಾರು?",
+      "options": [
+        "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್",
+        "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+        "ಭಗತ್ ಸಿಂಗ್",
+        "ಲಾಲಾ ಲಜಪತ್ ರಾಯ್"
+      ],
+      "answer": "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್",
+      "reasoning": "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್ ಅವರು ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಸೇನೆಯನ್ನು (INA) ಸೇರಲು ಭಾರತೀಯರನ್ನು ಪ್ರೇರೇಪಿಸಲು ಈ ಪ್ರಸಿದ್ಧ ಘೋಷಣೆಯನ್ನು ಬಳಸಿದರು."
+    }
+  },
+  {
+    "id": "c5_his_tl_43",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of these events took place during British rule in India?",
+      "options": [
+        "Introduction of the Railway system",
+        "Building of the Gateway of India",
+        "Construction of Qutub Minar",
+        "Battle of Kurukshetra"
+      ],
+      "answer": [
+        "Introduction of the Railway system",
+        "Building of the Gateway of India"
+      ],
+      "reasoning": "Railways and the Gateway of India were built during British rule. Qutub Minar is from the Delhi Sultanate period, and Kurukshetra is a mythical/ancient epic battle."
+    },
+    "kn": {
+      "question": "ಭಾರತದಲ್ಲಿ ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯ ಸಮಯದಲ್ಲಿ ಈ ಯಾವ ಘಟನೆಗಳು ನಡೆದವು?",
+      "options": [
+        "ರೈಲ್ವೆ ವ್ಯವಸ್ಥೆಯ ಪರಿಚಯ",
+        "ಗೇಟ್ ವೇ ಆಫ್ ಇಂಡಿಯಾದ ನಿರ್ಮಾಣ",
+        "ಕುತುಬ್ ಮಿನಾರ್ ನಿರ್ಮಾಣ",
+        "ಕುರುಕ್ಷೇತ್ರ ಯುದ್ಧ"
+      ],
+      "answer": [
+        "ರೈಲ್ವೆ ವ್ಯವಸ್ಥೆಯ ಪರಿಚಯ",
+        "ಗೇಟ್ ವೇ ಆಫ್ ಇಂಡಿಯಾದ ನಿರ್ಮಾಣ"
+      ],
+      "reasoning": "ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯಲ್ಲಿ ರೈಲ್ವೆ ಮತ್ತು ಗೇಟ್ ವೇ ಆಫ್ ಇಂಡಿಯಾವನ್ನು ನಿರ್ಮಿಸಲಾಯಿತು. ಕುತುಬ್ ಮಿನಾರ್ ದೆಹಲಿ ಸುಲ್ತಾನರ ಕಾಲದ್ದು ಮತ್ತು ಕುರುಕ್ಷೇತ್ರವು ಪುರಾಣದ/ಪ್ರಾಚೀನ ಮಹಾಕಾವ್ಯದ ಯುದ್ಧವಾಗಿದೆ."
     }
   }
 ]

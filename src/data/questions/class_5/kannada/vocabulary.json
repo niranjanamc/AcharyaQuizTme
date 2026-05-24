@@ -23,7 +23,8 @@
       ],
       "answer": "ಮರ",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮರ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "kan_2",
@@ -49,7 +50,8 @@
       ],
       "answer": "ನೀರು",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೀರು."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "kan_3",
@@ -75,7 +77,8 @@
       ],
       "answer": "ಸೂರ್ಯ",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸೂರ್ಯ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "kan_4",
@@ -101,7 +104,8 @@
       ],
       "answer": "ಚಂದ್ರ",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಚಂದ್ರ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "kan_5",
@@ -127,7 +131,8 @@
       ],
       "answer": "ಮನೆ",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮನೆ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "kan_6",
@@ -153,7 +158,8 @@
       ],
       "answer": "ಪುಸ್ತಕ",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪುಸ್ತಕ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "kan_7",
@@ -179,7 +185,8 @@
       ],
       "answer": "ನಾಯಿ",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನಾಯಿ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "kan_8",
@@ -205,7 +212,8 @@
       ],
       "answer": "ಬೆಕ್ಕು",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬೆಕ್ಕು."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "kan_9",
@@ -231,7 +239,8 @@
       ],
       "answer": "ಹಕ್ಕಿ",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹಕ್ಕಿ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "kan_10",
@@ -257,6 +266,1854 @@
       ],
       "answer": "ಮೀನು",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮೀನು."
+    },
+    "type": "single"
+  },
+  {
+    "id": "c5_kan_voc_s_1",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Tiger'?",
+      "options": [
+        "ಕುದುರೆ",
+        "ಸಿಂಹ",
+        "ಆನೆ",
+        "ಹುಲಿ"
+      ],
+      "answer": "ಹುಲಿ",
+      "reasoning": "The correct answer is ಹುಲಿ."
+    },
+    "kn": {
+      "question": "'Tiger' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಕುದುರೆ",
+        "ಸಿಂಹ",
+        "ಆನೆ",
+        "ಹುಲಿ"
+      ],
+      "answer": "ಹುಲಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹುಲಿ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_2",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Lion'?",
+      "options": [
+        "ನಾಯಿ",
+        "ಹುಲಿ",
+        "ಕರಡಿ",
+        "ಸಿಂಹ"
+      ],
+      "answer": "ಸಿಂಹ",
+      "reasoning": "The correct answer is ಸಿಂಹ."
+    },
+    "kn": {
+      "question": "'Lion' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ನಾಯಿ",
+        "ಹುಲಿ",
+        "ಕರಡಿ",
+        "ಸಿಂಹ"
+      ],
+      "answer": "ಸಿಂಹ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸಿಂಹ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_3",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Elephant'?",
+      "options": [
+        "ಜಿಂಕೆ",
+        "ಆನೆ",
+        "ಹಸು",
+        "ಮೊಲ"
+      ],
+      "answer": "ಆನೆ",
+      "reasoning": "The correct answer is ಆನೆ."
+    },
+    "kn": {
+      "question": "'Elephant' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಜಿಂಕೆ",
+        "ಆನೆ",
+        "ಹಸು",
+        "ಮೊಲ"
+      ],
+      "answer": "ಆನೆ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಆನೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_4",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Horse'?",
+      "options": [
+        "ಒಂಟೆ",
+        "ಆನೆ",
+        "ಕತ್ತೆ",
+        "ಕುದುರೆ"
+      ],
+      "answer": "ಕುದುರೆ",
+      "reasoning": "The correct answer is ಕುದುರೆ."
+    },
+    "kn": {
+      "question": "'Horse' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಒಂಟೆ",
+        "ಆನೆ",
+        "ಕತ್ತೆ",
+        "ಕುದುರೆ"
+      ],
+      "answer": "ಕುದುರೆ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕುದುರೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_5",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Cow'?",
+      "options": [
+        "ಹಸು",
+        "ಎಮ್ಮೆ",
+        "ಮೇಕೆ",
+        "ಕುರಿ"
+      ],
+      "answer": "ಹಸು",
+      "reasoning": "The correct answer is ಹಸು."
+    },
+    "kn": {
+      "question": "'Cow' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಹಸು",
+        "ಎಮ್ಮೆ",
+        "ಮೇಕೆ",
+        "ಕುರಿ"
+      ],
+      "answer": "ಹಸು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹಸು."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_6",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Red'?",
+      "options": [
+        "ಕೆಂಪು",
+        "ಹಳದಿ",
+        "ನೀಲಿ",
+        "ಹಸಿರು"
+      ],
+      "answer": "ಕೆಂಪು",
+      "reasoning": "The correct answer is ಕೆಂಪು."
+    },
+    "kn": {
+      "question": "'Red' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಕೆಂಪು",
+        "ಹಳದಿ",
+        "ನೀಲಿ",
+        "ಹಸಿರು"
+      ],
+      "answer": "ಕೆಂಪು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕೆಂಪು."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_7",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Blue'?",
+      "options": [
+        "ಕಪ್ಪು",
+        "ನೀಲಿ",
+        "ಬಿಳಿ",
+        "ಕೆಂಪು"
+      ],
+      "answer": "ನೀಲಿ",
+      "reasoning": "The correct answer is ನೀಲಿ."
+    },
+    "kn": {
+      "question": "'Blue' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಕಪ್ಪು",
+        "ನೀಲಿ",
+        "ಬಿಳಿ",
+        "ಕೆಂಪು"
+      ],
+      "answer": "ನೀಲಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೀಲಿ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_8",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Green'?",
+      "options": [
+        "ಹಸಿರು",
+        "ಕಿತ್ತಳೆ",
+        "ಕಂದು",
+        "ಗುಲಾಬಿ"
+      ],
+      "answer": "ಹಸಿರು",
+      "reasoning": "The correct answer is ಹಸಿರು."
+    },
+    "kn": {
+      "question": "'Green' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಹಸಿರು",
+        "ಕಿತ್ತಳೆ",
+        "ಕಂದು",
+        "ಗುಲಾಬಿ"
+      ],
+      "answer": "ಹಸಿರು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹಸಿರು."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_9",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Yellow'?",
+      "options": [
+        "ನೀಲಿ",
+        "ಹಸಿರು",
+        "ಹಳದಿ",
+        "ಬಿಳಿ"
+      ],
+      "answer": "ಹಳದಿ",
+      "reasoning": "The correct answer is ಹಳದಿ."
+    },
+    "kn": {
+      "question": "'Yellow' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ನೀಲಿ",
+        "ಹಸಿರು",
+        "ಹಳದಿ",
+        "ಬಿಳಿ"
+      ],
+      "answer": "ಹಳದಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹಳದಿ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_10",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Black'?",
+      "options": [
+        "ಬಿಳಿ",
+        "ಕಪ್ಪು",
+        "ಕೆಂಪು",
+        "ಹಳದಿ"
+      ],
+      "answer": "ಕಪ್ಪು",
+      "reasoning": "The correct answer is ಕಪ್ಪು."
+    },
+    "kn": {
+      "question": "'Black' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಬಿಳಿ",
+        "ಕಪ್ಪು",
+        "ಕೆಂಪು",
+        "ಹಳದಿ"
+      ],
+      "answer": "ಕಪ್ಪು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕಪ್ಪು."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_11",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'White'?",
+      "options": [
+        "ಕಪ್ಪು",
+        "ಹಸಿರು",
+        "ನೀಲಿ",
+        "ಬಿಳಿ"
+      ],
+      "answer": "ಬಿಳಿ",
+      "reasoning": "The correct answer is ಬಿಳಿ."
+    },
+    "kn": {
+      "question": "'White' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಕಪ್ಪು",
+        "ಹಸಿರು",
+        "ನೀಲಿ",
+        "ಬಿಳಿ"
+      ],
+      "answer": "ಬಿಳಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬಿಳಿ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_12",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Eye'?",
+      "options": [
+        "ಕಿವಿ",
+        "ಬಾಯಿ",
+        "ಮೂಗು",
+        "ಕಣ್ಣು"
+      ],
+      "answer": "ಕಣ್ಣು",
+      "reasoning": "The correct answer is ಕಣ್ಣು."
+    },
+    "kn": {
+      "question": "'Eye' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಕಿವಿ",
+        "ಬಾಯಿ",
+        "ಮೂಗು",
+        "ಕಣ್ಣು"
+      ],
+      "answer": "ಕಣ್ಣು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕಣ್ಣು."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_13",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Ear'?",
+      "options": [
+        "ಕಿವಿ",
+        "ತಲೆ",
+        "ಕಣ್ಣು",
+        "ಕೈ"
+      ],
+      "answer": "ಕಿವಿ",
+      "reasoning": "The correct answer is ಕಿವಿ."
+    },
+    "kn": {
+      "question": "'Ear' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಕಿವಿ",
+        "ತಲೆ",
+        "ಕಣ್ಣು",
+        "ಕೈ"
+      ],
+      "answer": "ಕಿವಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕಿವಿ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_14",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Nose'?",
+      "options": [
+        "ಬಾಯಿ",
+        "ಕೂದಲು",
+        "ಮೂಗು",
+        "ಕಾಲು"
+      ],
+      "answer": "ಮೂಗು",
+      "reasoning": "The correct answer is ಮೂಗು."
+    },
+    "kn": {
+      "question": "'Nose' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಬಾಯಿ",
+        "ಕೂದಲು",
+        "ಮೂಗು",
+        "ಕಾಲು"
+      ],
+      "answer": "ಮೂಗು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮೂಗು."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_15",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Mouth'?",
+      "options": [
+        "ತಲೆ",
+        "ಮೂಗು",
+        "ಕಣ್ಣು",
+        "ಬಾಯಿ"
+      ],
+      "answer": "ಬಾಯಿ",
+      "reasoning": "The correct answer is ಬಾಯಿ."
+    },
+    "kn": {
+      "question": "'Mouth' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ತಲೆ",
+        "ಮೂಗು",
+        "ಕಣ್ಣು",
+        "ಬಾಯಿ"
+      ],
+      "answer": "ಬಾಯಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬಾಯಿ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_16",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Hand'?",
+      "options": [
+        "ಕಿವಿ",
+        "ಕಾಲು",
+        "ಬೆರಳು",
+        "ಕೈ"
+      ],
+      "answer": "ಕೈ",
+      "reasoning": "The correct answer is ಕೈ."
+    },
+    "kn": {
+      "question": "'Hand' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಕಿವಿ",
+        "ಕಾಲು",
+        "ಬೆರಳು",
+        "ಕೈ"
+      ],
+      "answer": "ಕೈ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕೈ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_17",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Leg'?",
+      "options": [
+        "ಬಾಯಿ",
+        "ಕಾಲು",
+        "ತಲೆ",
+        "ಕೈ"
+      ],
+      "answer": "ಕಾಲು",
+      "reasoning": "The correct answer is ಕಾಲು."
+    },
+    "kn": {
+      "question": "'Leg' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಬಾಯಿ",
+        "ಕಾಲು",
+        "ತಲೆ",
+        "ಕೈ"
+      ],
+      "answer": "ಕಾಲು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕಾಲು."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_18",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Head'?",
+      "options": [
+        "ಕಣ್ಣು",
+        "ಕೂದಲು",
+        "ತಲೆ",
+        "ಮೂಗು"
+      ],
+      "answer": "ತಲೆ",
+      "reasoning": "The correct answer is ತಲೆ."
+    },
+    "kn": {
+      "question": "'Head' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಕಣ್ಣು",
+        "ಕೂದಲು",
+        "ತಲೆ",
+        "ಮೂಗು"
+      ],
+      "answer": "ತಲೆ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ತಲೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_19",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Father'?",
+      "options": [
+        "ಅಣ್ಣ",
+        "ತಾಯಿ",
+        "ತಾತ",
+        "ತಂದೆ"
+      ],
+      "answer": "ತಂದೆ",
+      "reasoning": "The correct answer is ತಂದೆ."
+    },
+    "kn": {
+      "question": "'Father' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಅಣ್ಣ",
+        "ತಾಯಿ",
+        "ತಾತ",
+        "ತಂದೆ"
+      ],
+      "answer": "ತಂದೆ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ತಂದೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_20",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Mother'?",
+      "options": [
+        "ಅಜ್ಜಿ",
+        "ತಂದೆ",
+        "ತಾಯಿ",
+        "ಅಕ್ಕ"
+      ],
+      "answer": "ತಾಯಿ",
+      "reasoning": "The correct answer is ತಾಯಿ."
+    },
+    "kn": {
+      "question": "'Mother' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಅಜ್ಜಿ",
+        "ತಂದೆ",
+        "ತಾಯಿ",
+        "ಅಕ್ಕ"
+      ],
+      "answer": "ತಾಯಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ತಾಯಿ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_21",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Brother'?",
+      "options": [
+        "ಸಹೋದರ",
+        "ತಾತ",
+        "ಸಹೋದರಿ",
+        "ತಂದೆ"
+      ],
+      "answer": "ಸಹೋದರ",
+      "reasoning": "The correct answer is ಸಹೋದರ."
+    },
+    "kn": {
+      "question": "'Brother' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಸಹೋದರ",
+        "ತಾತ",
+        "ಸಹೋದರಿ",
+        "ತಂದೆ"
+      ],
+      "answer": "ಸಹೋದರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸಹೋದರ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_22",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Sister'?",
+      "options": [
+        "ಸಹೋದರಿ",
+        "ಅಜ್ಜಿ",
+        "ಸಹೋದರ",
+        "ತಾಯಿ"
+      ],
+      "answer": "ಸಹೋದರಿ",
+      "reasoning": "The correct answer is ಸಹೋದರಿ."
+    },
+    "kn": {
+      "question": "'Sister' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಸಹೋದರಿ",
+        "ಅಜ್ಜಿ",
+        "ಸಹೋದರ",
+        "ತಾಯಿ"
+      ],
+      "answer": "ಸಹೋದರಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸಹೋದರಿ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_23",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Milk'?",
+      "options": [
+        "ಮೊಸರು",
+        "ಮಜ್ಜಿಗೆ",
+        "ಹಾಲು",
+        "ನೀರು"
+      ],
+      "answer": "ಹಾಲು",
+      "reasoning": "The correct answer is ಹಾಲು."
+    },
+    "kn": {
+      "question": "'Milk' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಮೊಸರು",
+        "ಮಜ್ಜಿಗೆ",
+        "ಹಾಲು",
+        "ನೀರು"
+      ],
+      "answer": "ಹಾಲು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹಾಲು."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_24",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Fruit'?",
+      "options": [
+        "ಅನ್ನ",
+        "ತರಕಾರಿ",
+        "ಹಾಲು",
+        "ಹಣ್ಣು"
+      ],
+      "answer": "ಹಣ್ಣು",
+      "reasoning": "The correct answer is ಹಣ್ಣು."
+    },
+    "kn": {
+      "question": "'Fruit' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಅನ್ನ",
+        "ತರಕಾರಿ",
+        "ಹಾಲು",
+        "ಹಣ್ಣು"
+      ],
+      "answer": "ಹಣ್ಣು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹಣ್ಣು."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_25",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Vegetable'?",
+      "options": [
+        "ಹಣ್ಣು",
+        "ಬೇಳೆ",
+        "ಕಾಳು",
+        "ತರಕಾರಿ"
+      ],
+      "answer": "ತರಕಾರಿ",
+      "reasoning": "The correct answer is ತರಕಾರಿ."
+    },
+    "kn": {
+      "question": "'Vegetable' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಹಣ್ಣು",
+        "ಬೇಳೆ",
+        "ಕಾಳು",
+        "ತರಕಾರಿ"
+      ],
+      "answer": "ತರಕಾರಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ತರಕಾರಿ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_26",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Mountain'?",
+      "options": [
+        "ಮರ",
+        "ಬೆಟ್ಟ",
+        "ಸಮುದ್ರ",
+        "ನದಿ"
+      ],
+      "answer": "ಬೆಟ್ಟ",
+      "reasoning": "The correct answer is ಬೆಟ್ಟ."
+    },
+    "kn": {
+      "question": "'Mountain' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಮರ",
+        "ಬೆಟ್ಟ",
+        "ಸಮುದ್ರ",
+        "ನದಿ"
+      ],
+      "answer": "ಬೆಟ್ಟ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬೆಟ್ಟ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_27",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'River'?",
+      "options": [
+        "ಕೆರೆ",
+        "ಬೆಟ್ಟ",
+        "ನದಿ",
+        "ಬಾವಿ"
+      ],
+      "answer": "ನದಿ",
+      "reasoning": "The correct answer is ನದಿ."
+    },
+    "kn": {
+      "question": "'River' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಕೆರೆ",
+        "ಬೆಟ್ಟ",
+        "ನದಿ",
+        "ಬಾವಿ"
+      ],
+      "answer": "ನದಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನದಿ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_28",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Cloud'?",
+      "options": [
+        "ಬಿಸಿಲು",
+        "ಮಳೆ",
+        "ಮೋಡ",
+        "ಗಾಳಿ"
+      ],
+      "answer": "ಮೋಡ",
+      "reasoning": "The correct answer is ಮೋಡ."
+    },
+    "kn": {
+      "question": "'Cloud' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಬಿಸಿಲು",
+        "ಮಳೆ",
+        "ಮೋಡ",
+        "ಗಾಳಿ"
+      ],
+      "answer": "ಮೋಡ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮೋಡ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_29",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Rain'?",
+      "options": [
+        "ಮೋಡ",
+        "ಗಾಳಿ",
+        "ಮಳೆ",
+        "ನದಿ"
+      ],
+      "answer": "ಮಳೆ",
+      "reasoning": "The correct answer is ಮಳೆ."
+    },
+    "kn": {
+      "question": "'Rain' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಮೋಡ",
+        "ಗಾಳಿ",
+        "ಮಳೆ",
+        "ನದಿ"
+      ],
+      "answer": "ಮಳೆ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮಳೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_30",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Sky'?",
+      "options": [
+        "ಸೂರ್ಯ",
+        "ಆಕಾಶ",
+        "ಭೂಮಿ",
+        "ಚಂದ್ರ"
+      ],
+      "answer": "ಆಕಾಶ",
+      "reasoning": "The correct answer is ಆಕಾಶ."
+    },
+    "kn": {
+      "question": "'Sky' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಸೂರ್ಯ",
+        "ಆಕಾಶ",
+        "ಭೂಮಿ",
+        "ಚಂದ್ರ"
+      ],
+      "answer": "ಆಕಾಶ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಆಕಾಶ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_s_31",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the Kannada word for 'Star'?",
+      "options": [
+        "ಮೋಡ",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ನಕ್ಷತ್ರ"
+      ],
+      "answer": "ನಕ್ಷತ್ರ",
+      "reasoning": "The correct answer is ನಕ್ಷತ್ರ."
+    },
+    "kn": {
+      "question": "'Star' ಪದದ ಕನ್ನಡ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಮೋಡ",
+        "ಚಂದ್ರ",
+        "ಸೂರ್ಯ",
+        "ನಕ್ಷತ್ರ"
+      ],
+      "answer": "ನಕ್ಷತ್ರ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನಕ್ಷತ್ರ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_m_1",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following are animals?",
+      "options": [
+        "Water",
+        "Red",
+        "Lion",
+        "Tiger"
+      ],
+      "answer": [
+        "Tiger",
+        "Lion"
+      ],
+      "reasoning": "These are the correct choices based on their meanings."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಪ್ರಾಣಿಗಳು?",
+      "options": [
+        "ನೀರು (Water)",
+        "ಕೆಂಪು (Red)",
+        "ಸಿಂಹ (Lion)",
+        "ಹುಲಿ (Tiger)"
+      ],
+      "answer": [
+        "ಹುಲಿ (Tiger)",
+        "ಸಿಂಹ (Lion)"
+      ],
+      "reasoning": "ಅರ್ಥಗಳ ಆಧಾರದ ಮೇಲೆ ಇವು ಸರಿಯಾದ ಆಯ್ಕೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_m_2",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following are colors?",
+      "options": [
+        "Green",
+        "House",
+        "Dog",
+        "Blue"
+      ],
+      "answer": [
+        "Green",
+        "Blue"
+      ],
+      "reasoning": "These are the correct choices based on their meanings."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಬಣ್ಣಗಳು?",
+      "options": [
+        "ಹಸಿರು (Green)",
+        "ಮನೆ (House)",
+        "ನಾಯಿ (Dog)",
+        "ನೀಲಿ (Blue)"
+      ],
+      "answer": [
+        "ಹಸಿರು (Green)",
+        "ನೀಲಿ (Blue)"
+      ],
+      "reasoning": "ಅರ್ಥಗಳ ಆಧಾರದ ಮೇಲೆ ಇವು ಸರಿಯಾದ ಆಯ್ಕೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_m_3",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following are body parts?",
+      "options": [
+        "Eye",
+        "Sky",
+        "Ear",
+        "River"
+      ],
+      "answer": [
+        "Eye",
+        "Ear"
+      ],
+      "reasoning": "These are the correct choices based on their meanings."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ದೇಹದ ಭಾಗಗಳು?",
+      "options": [
+        "ಕಣ್ಣು (Eye)",
+        "ಆಕಾಶ (Sky)",
+        "ಕಿವಿ (Ear)",
+        "ನದಿ (River)"
+      ],
+      "answer": [
+        "ಕಣ್ಣು (Eye)",
+        "ಕಿವಿ (Ear)"
+      ],
+      "reasoning": "ಅರ್ಥಗಳ ಆಧಾರದ ಮೇಲೆ ಇವು ಸರಿಯಾದ ಆಯ್ಕೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_m_4",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following are found in nature?",
+      "options": [
+        "Mountain",
+        "Pen",
+        "River",
+        "Book"
+      ],
+      "answer": [
+        "Mountain",
+        "River"
+      ],
+      "reasoning": "These are the correct choices based on their meanings."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಪ್ರಕೃತಿಯಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ?",
+      "options": [
+        "ಬೆಟ್ಟ (Mountain)",
+        "ಪೆನ್ (Pen)",
+        "ನದಿ (River)",
+        "ಪುಸ್ತಕ (Book)"
+      ],
+      "answer": [
+        "ಬೆಟ್ಟ (Mountain)",
+        "ನದಿ (River)"
+      ],
+      "reasoning": "ಅರ್ಥಗಳ ಆಧಾರದ ಮೇಲೆ ಇವು ಸರಿಯಾದ ಆಯ್ಕೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_m_5",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following are family members?",
+      "options": [
+        "Mother",
+        "Tree",
+        "Father",
+        "Sun"
+      ],
+      "answer": [
+        "Father",
+        "Mother"
+      ],
+      "reasoning": "These are the correct choices based on their meanings."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಕುಟುಂಬದ ಸದಸ್ಯರು?",
+      "options": [
+        "ತಾಯಿ (Mother)",
+        "ಮರ (Tree)",
+        "ತಂದೆ (Father)",
+        "ಸೂರ್ಯ (Sun)"
+      ],
+      "answer": [
+        "ತಂದೆ (Father)",
+        "ತಾಯಿ (Mother)"
+      ],
+      "reasoning": "ಅರ್ಥಗಳ ಆಧಾರದ ಮೇಲೆ ಇವು ಸರಿಯಾದ ಆಯ್ಕೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_m_6",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following are related to weather?",
+      "options": [
+        "Leg",
+        "Cloud",
+        "Cow",
+        "Rain"
+      ],
+      "answer": [
+        "Rain",
+        "Cloud"
+      ],
+      "reasoning": "These are the correct choices based on their meanings."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಹವಾಮಾನಕ್ಕೆ ಸಂಬಂಧಿಸಿವೆ?",
+      "options": [
+        "ಕಾಲು (Leg)",
+        "ಮೋಡ (Cloud)",
+        "ಹಸು (Cow)",
+        "ಮಳೆ (Rain)"
+      ],
+      "answer": [
+        "ಮಳೆ (Rain)",
+        "ಮೋಡ (Cloud)"
+      ],
+      "reasoning": "ಅರ್ಥಗಳ ಆಧಾರದ ಮೇಲೆ ಇವು ಸರಿಯಾದ ಆಯ್ಕೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_m_7",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following can you eat or drink?",
+      "options": [
+        "Milk",
+        "Star",
+        "Fruit",
+        "Mountain"
+      ],
+      "answer": [
+        "Fruit",
+        "Milk"
+      ],
+      "reasoning": "These are the correct choices based on their meanings."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ನೀವು ಯಾವುದನ್ನು ತಿನ್ನಬಹುದು ಅಥವಾ ಕುಡಿಯಬಹುದು?",
+      "options": [
+        "ಹಾಲು (Milk)",
+        "ನಕ್ಷತ್ರ (Star)",
+        "ಹಣ್ಣು (Fruit)",
+        "ಬೆಟ್ಟ (Mountain)"
+      ],
+      "answer": [
+        "ಹಣ್ಣು (Fruit)",
+        "ಹಾಲು (Milk)"
+      ],
+      "reasoning": "ಅರ್ಥಗಳ ಆಧಾರದ ಮೇಲೆ ಇವು ಸರಿಯಾದ ಆಯ್ಕೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_m_8",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following are animals that can be kept as pets?",
+      "options": [
+        "Cat",
+        "Dog",
+        "Tiger",
+        "Lion"
+      ],
+      "answer": [
+        "Dog",
+        "Cat"
+      ],
+      "reasoning": "These are the correct choices based on their meanings."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವ ಪ್ರಾಣಿಗಳನ್ನು ಸಾಕುಪ್ರಾಣಿಗಳಾಗಿ ಇಡಬಹುದು?",
+      "options": [
+        "ಬೆಕ್ಕು (Cat)",
+        "ನಾಯಿ (Dog)",
+        "ಹುಲಿ (Tiger)",
+        "ಸಿಂಹ (Lion)"
+      ],
+      "answer": [
+        "ನಾಯಿ (Dog)",
+        "ಬೆಕ್ಕು (Cat)"
+      ],
+      "reasoning": "ಅರ್ಥಗಳ ಆಧಾರದ ಮೇಲೆ ಇವು ಸರಿಯಾದ ಆಯ್ಕೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_m_9",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following are birds?",
+      "options": [
+        "Fish",
+        "Peacock",
+        "Crow",
+        "Dog"
+      ],
+      "answer": [
+        "Crow",
+        "Peacock"
+      ],
+      "reasoning": "These are the correct choices based on their meanings."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಪಕ್ಷಿಗಳು?",
+      "options": [
+        "ಮೀನು (Fish)",
+        "ನವಿಲು (Peacock)",
+        "ಕಾಗೆ (Crow)",
+        "ನಾಯಿ (Dog)"
+      ],
+      "answer": [
+        "ಕಾಗೆ (Crow)",
+        "ನವಿಲು (Peacock)"
+      ],
+      "reasoning": "ಅರ್ಥಗಳ ಆಧಾರದ ಮೇಲೆ ಇವು ಸರಿಯಾದ ಆಯ್ಕೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_m_10",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following are vehicles?",
+      "options": [
+        "Car",
+        "Tree",
+        "House",
+        "Bus"
+      ],
+      "answer": [
+        "Car",
+        "Bus"
+      ],
+      "reasoning": "These are the correct choices based on their meanings."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ವಾಹನಗಳು?",
+      "options": [
+        "ಕಾರು (Car)",
+        "ಮರ (Tree)",
+        "ಮನೆ (House)",
+        "ಬಸ್ಸು (Bus)"
+      ],
+      "answer": [
+        "ಕಾರು (Car)",
+        "ಬಸ್ಸು (Bus)"
+      ],
+      "reasoning": "ಅರ್ಥಗಳ ಆಧಾರದ ಮೇಲೆ ಇವು ಸರಿಯಾದ ಆಯ್ಕೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_ma_1",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the animals to their Kannada names.",
+      "pairs": [
+        {
+          "left": "Rabbit",
+          "right": "ಮೊಲ"
+        },
+        {
+          "left": "Horse",
+          "right": "ಕುದುರೆ"
+        },
+        {
+          "left": "Tiger",
+          "right": "ಹುಲಿ"
+        },
+        {
+          "left": "Elephant",
+          "right": "ಆನೆ"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Tiger",
+          "right": "ಹುಲಿ"
+        },
+        {
+          "left": "Elephant",
+          "right": "ಆನೆ"
+        },
+        {
+          "left": "Horse",
+          "right": "ಕುದುರೆ"
+        },
+        {
+          "left": "Rabbit",
+          "right": "ಮೊಲ"
+        }
+      ],
+      "reasoning": "The words on the left translate to the words on the right."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಣಿಗಳನ್ನು ಅವುಗಳ ಕನ್ನಡ ಹೆಸರುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "Rabbit",
+          "right": "ಮೊಲ"
+        },
+        {
+          "left": "Tiger",
+          "right": "ಹುಲಿ"
+        },
+        {
+          "left": "Horse",
+          "right": "ಕುದುರೆ"
+        },
+        {
+          "left": "Elephant",
+          "right": "ಆನೆ"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Tiger",
+          "right": "ಹುಲಿ"
+        },
+        {
+          "left": "Elephant",
+          "right": "ಆನೆ"
+        },
+        {
+          "left": "Horse",
+          "right": "ಕುದುರೆ"
+        },
+        {
+          "left": "Rabbit",
+          "right": "ಮೊಲ"
+        }
+      ],
+      "reasoning": "ಎಡಭಾಗದಲ್ಲಿರುವ ಪದಗಳು ಬಲಭಾಗದಲ್ಲಿರುವ ಪದಗಳಿಗೆ ಅನುವಾದಗೊಳ್ಳುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_ma_2",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the colors to their Kannada names.",
+      "pairs": [
+        {
+          "left": "Yellow",
+          "right": "ಹಳದಿ"
+        },
+        {
+          "left": "White",
+          "right": "ಬಿಳಿ"
+        },
+        {
+          "left": "Black",
+          "right": "ಕಪ್ಪು"
+        },
+        {
+          "left": "Red",
+          "right": "ಕೆಂಪು"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Red",
+          "right": "ಕೆಂಪು"
+        },
+        {
+          "left": "Yellow",
+          "right": "ಹಳದಿ"
+        },
+        {
+          "left": "Black",
+          "right": "ಕಪ್ಪು"
+        },
+        {
+          "left": "White",
+          "right": "ಬಿಳಿ"
+        }
+      ],
+      "reasoning": "The words on the left translate to the words on the right."
+    },
+    "kn": {
+      "question": "ಬಣ್ಣಗಳನ್ನು ಅವುಗಳ ಕನ್ನಡ ಹೆಸರುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "Black",
+          "right": "ಕಪ್ಪು"
+        },
+        {
+          "left": "White",
+          "right": "ಬಿಳಿ"
+        },
+        {
+          "left": "Yellow",
+          "right": "ಹಳದಿ"
+        },
+        {
+          "left": "Red",
+          "right": "ಕೆಂಪು"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Red",
+          "right": "ಕೆಂಪು"
+        },
+        {
+          "left": "Yellow",
+          "right": "ಹಳದಿ"
+        },
+        {
+          "left": "Black",
+          "right": "ಕಪ್ಪು"
+        },
+        {
+          "left": "White",
+          "right": "ಬಿಳಿ"
+        }
+      ],
+      "reasoning": "ಎಡಭಾಗದಲ್ಲಿರುವ ಪದಗಳು ಬಲಭಾಗದಲ್ಲಿರುವ ಪದಗಳಿಗೆ ಅನುವಾದಗೊಳ್ಳುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_ma_3",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the body parts to their Kannada names.",
+      "pairs": [
+        {
+          "left": "Mouth",
+          "right": "ಬಾಯಿ"
+        },
+        {
+          "left": "Head",
+          "right": "ತಲೆ"
+        },
+        {
+          "left": "Nose",
+          "right": "ಮೂಗು"
+        },
+        {
+          "left": "Hand",
+          "right": "ಕೈ"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Nose",
+          "right": "ಮೂಗು"
+        },
+        {
+          "left": "Mouth",
+          "right": "ಬಾಯಿ"
+        },
+        {
+          "left": "Hand",
+          "right": "ಕೈ"
+        },
+        {
+          "left": "Head",
+          "right": "ತಲೆ"
+        }
+      ],
+      "reasoning": "The words on the left translate to the words on the right."
+    },
+    "kn": {
+      "question": "ದೇಹದ ಭಾಗಗಳನ್ನು ಅವುಗಳ ಕನ್ನಡ ಹೆಸರುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "Head",
+          "right": "ತಲೆ"
+        },
+        {
+          "left": "Mouth",
+          "right": "ಬಾಯಿ"
+        },
+        {
+          "left": "Hand",
+          "right": "ಕೈ"
+        },
+        {
+          "left": "Nose",
+          "right": "ಮೂಗು"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Nose",
+          "right": "ಮೂಗು"
+        },
+        {
+          "left": "Mouth",
+          "right": "ಬಾಯಿ"
+        },
+        {
+          "left": "Hand",
+          "right": "ಕೈ"
+        },
+        {
+          "left": "Head",
+          "right": "ತಲೆ"
+        }
+      ],
+      "reasoning": "ಎಡಭಾಗದಲ್ಲಿರುವ ಪದಗಳು ಬಲಭಾಗದಲ್ಲಿರುವ ಪದಗಳಿಗೆ ಅನುವಾದಗೊಳ್ಳುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_ma_4",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the nature terms to their Kannada names.",
+      "pairs": [
+        {
+          "left": "Sky",
+          "right": "ಆಕಾಶ"
+        },
+        {
+          "left": "Wind",
+          "right": "ಗಾಳಿ"
+        },
+        {
+          "left": "Star",
+          "right": "ನಕ್ಷತ್ರ"
+        },
+        {
+          "left": "Earth",
+          "right": "ಭೂಮಿ"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Sky",
+          "right": "ಆಕಾಶ"
+        },
+        {
+          "left": "Star",
+          "right": "ನಕ್ಷತ್ರ"
+        },
+        {
+          "left": "Wind",
+          "right": "ಗಾಳಿ"
+        },
+        {
+          "left": "Earth",
+          "right": "ಭೂಮಿ"
+        }
+      ],
+      "reasoning": "The words on the left translate to the words on the right."
+    },
+    "kn": {
+      "question": "ಪ್ರಕೃತಿಯ ಪದಗಳನ್ನು ಅವುಗಳ ಕನ್ನಡ ಹೆಸರುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "Earth",
+          "right": "ಭೂಮಿ"
+        },
+        {
+          "left": "Sky",
+          "right": "ಆಕಾಶ"
+        },
+        {
+          "left": "Star",
+          "right": "ನಕ್ಷತ್ರ"
+        },
+        {
+          "left": "Wind",
+          "right": "ಗಾಳಿ"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Sky",
+          "right": "ಆಕಾಶ"
+        },
+        {
+          "left": "Star",
+          "right": "ನಕ್ಷತ್ರ"
+        },
+        {
+          "left": "Wind",
+          "right": "ಗಾಳಿ"
+        },
+        {
+          "left": "Earth",
+          "right": "ಭೂಮಿ"
+        }
+      ],
+      "reasoning": "ಎಡಭಾಗದಲ್ಲಿರುವ ಪದಗಳು ಬಲಭಾಗದಲ್ಲಿರುವ ಪದಗಳಿಗೆ ಅನುವಾದಗೊಳ್ಳುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_ma_5",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the foods to their Kannada names.",
+      "pairs": [
+        {
+          "left": "Milk",
+          "right": "ಹಾಲು"
+        },
+        {
+          "left": "Water",
+          "right": "ನೀರು"
+        },
+        {
+          "left": "Fruit",
+          "right": "ಹಣ್ಣು"
+        },
+        {
+          "left": "Rice",
+          "right": "ಅನ್ನ"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Rice",
+          "right": "ಅನ್ನ"
+        },
+        {
+          "left": "Milk",
+          "right": "ಹಾಲು"
+        },
+        {
+          "left": "Water",
+          "right": "ನೀರು"
+        },
+        {
+          "left": "Fruit",
+          "right": "ಹಣ್ಣು"
+        }
+      ],
+      "reasoning": "The words on the left translate to the words on the right."
+    },
+    "kn": {
+      "question": "ಆಹಾರ ಪದಾರ್ಥಗಳನ್ನು ಅವುಗಳ ಕನ್ನಡ ಹೆಸರುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "Water",
+          "right": "ನೀರು"
+        },
+        {
+          "left": "Rice",
+          "right": "ಅನ್ನ"
+        },
+        {
+          "left": "Fruit",
+          "right": "ಹಣ್ಣು"
+        },
+        {
+          "left": "Milk",
+          "right": "ಹಾಲು"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Rice",
+          "right": "ಅನ್ನ"
+        },
+        {
+          "left": "Milk",
+          "right": "ಹಾಲು"
+        },
+        {
+          "left": "Water",
+          "right": "ನೀರು"
+        },
+        {
+          "left": "Fruit",
+          "right": "ಹಣ್ಣು"
+        }
+      ],
+      "reasoning": "ಎಡಭಾಗದಲ್ಲಿರುವ ಪದಗಳು ಬಲಭಾಗದಲ್ಲಿರುವ ಪದಗಳಿಗೆ ಅನುವಾದಗೊಳ್ಳುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_ma_6",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the family members to their Kannada names.",
+      "pairs": [
+        {
+          "left": "Sister",
+          "right": "ಸಹೋದರಿ"
+        },
+        {
+          "left": "Grandmother",
+          "right": "ಅಜ್ಜಿ"
+        },
+        {
+          "left": "Brother",
+          "right": "ಸಹೋದರ"
+        },
+        {
+          "left": "Grandfather",
+          "right": "ತಾತ"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Grandfather",
+          "right": "ತಾತ"
+        },
+        {
+          "left": "Grandmother",
+          "right": "ಅಜ್ಜಿ"
+        },
+        {
+          "left": "Brother",
+          "right": "ಸಹೋದರ"
+        },
+        {
+          "left": "Sister",
+          "right": "ಸಹೋದರಿ"
+        }
+      ],
+      "reasoning": "The words on the left translate to the words on the right."
+    },
+    "kn": {
+      "question": "ಕುಟುಂಬದ ಸದಸ್ಯರನ್ನು ಅವುಗಳ ಕನ್ನಡ ಹೆಸರುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "Grandfather",
+          "right": "ತಾತ"
+        },
+        {
+          "left": "Sister",
+          "right": "ಸಹೋದರಿ"
+        },
+        {
+          "left": "Grandmother",
+          "right": "ಅಜ್ಜಿ"
+        },
+        {
+          "left": "Brother",
+          "right": "ಸಹೋದರ"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Grandfather",
+          "right": "ತಾತ"
+        },
+        {
+          "left": "Grandmother",
+          "right": "ಅಜ್ಜಿ"
+        },
+        {
+          "left": "Brother",
+          "right": "ಸಹೋದರ"
+        },
+        {
+          "left": "Sister",
+          "right": "ಸಹೋದರಿ"
+        }
+      ],
+      "reasoning": "ಎಡಭಾಗದಲ್ಲಿರುವ ಪದಗಳು ಬಲಭಾಗದಲ್ಲಿರುವ ಪದಗಳಿಗೆ ಅನುವಾದಗೊಳ್ಳುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_ma_7",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the numbers to their Kannada names.",
+      "pairs": [
+        {
+          "left": "One",
+          "right": "ಒಂದು"
+        },
+        {
+          "left": "Four",
+          "right": "ನಾಲ್ಕು"
+        },
+        {
+          "left": "Two",
+          "right": "ಎರಡು"
+        },
+        {
+          "left": "Three",
+          "right": "ಮೂರು"
+        }
+      ],
+      "answer": [
+        {
+          "left": "One",
+          "right": "ಒಂದು"
+        },
+        {
+          "left": "Two",
+          "right": "ಎರಡು"
+        },
+        {
+          "left": "Three",
+          "right": "ಮೂರು"
+        },
+        {
+          "left": "Four",
+          "right": "ನಾಲ್ಕು"
+        }
+      ],
+      "reasoning": "The words on the left translate to the words on the right."
+    },
+    "kn": {
+      "question": "ಸಂಖ್ಯೆಗಳನ್ನು ಅವುಗಳ ಕನ್ನಡ ಹೆಸರುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "Four",
+          "right": "ನಾಲ್ಕು"
+        },
+        {
+          "left": "Three",
+          "right": "ಮೂರು"
+        },
+        {
+          "left": "One",
+          "right": "ಒಂದು"
+        },
+        {
+          "left": "Two",
+          "right": "ಎರಡು"
+        }
+      ],
+      "answer": [
+        {
+          "left": "One",
+          "right": "ಒಂದು"
+        },
+        {
+          "left": "Two",
+          "right": "ಎರಡು"
+        },
+        {
+          "left": "Three",
+          "right": "ಮೂರು"
+        },
+        {
+          "left": "Four",
+          "right": "ನಾಲ್ಕು"
+        }
+      ],
+      "reasoning": "ಎಡಭಾಗದಲ್ಲಿರುವ ಪದಗಳು ಬಲಭಾಗದಲ್ಲಿರುವ ಪದಗಳಿಗೆ ಅನುವಾದಗೊಳ್ಳುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_kan_voc_ma_8",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the fruits to their Kannada names.",
+      "pairs": [
+        {
+          "left": "Grapes",
+          "right": "ದ್ರಾಕ್ಷಿ"
+        },
+        {
+          "left": "Mango",
+          "right": "ಮಾವಿನಹಣ್ಣು"
+        },
+        {
+          "left": "Apple",
+          "right": "ಸೇಬು"
+        },
+        {
+          "left": "Banana",
+          "right": "ಬಾಳೆಹಣ್ಣು"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Apple",
+          "right": "ಸೇಬು"
+        },
+        {
+          "left": "Banana",
+          "right": "ಬಾಳೆಹಣ್ಣು"
+        },
+        {
+          "left": "Mango",
+          "right": "ಮಾವಿನಹಣ್ಣು"
+        },
+        {
+          "left": "Grapes",
+          "right": "ದ್ರಾಕ್ಷಿ"
+        }
+      ],
+      "reasoning": "The words on the left translate to the words on the right."
+    },
+    "kn": {
+      "question": "ಹಣ್ಣುಗಳನ್ನು ಅವುಗಳ ಕನ್ನಡ ಹೆಸರುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "Grapes",
+          "right": "ದ್ರಾಕ್ಷಿ"
+        },
+        {
+          "left": "Mango",
+          "right": "ಮಾವಿನಹಣ್ಣು"
+        },
+        {
+          "left": "Banana",
+          "right": "ಬಾಳೆಹಣ್ಣು"
+        },
+        {
+          "left": "Apple",
+          "right": "ಸೇಬು"
+        }
+      ],
+      "answer": [
+        {
+          "left": "Apple",
+          "right": "ಸೇಬು"
+        },
+        {
+          "left": "Banana",
+          "right": "ಬಾಳೆಹಣ್ಣು"
+        },
+        {
+          "left": "Mango",
+          "right": "ಮಾವಿನಹಣ್ಣು"
+        },
+        {
+          "left": "Grapes",
+          "right": "ದ್ರಾಕ್ಷಿ"
+        }
+      ],
+      "reasoning": "ಎಡಭಾಗದಲ್ಲಿರುವ ಪದಗಳು ಬಲಭಾಗದಲ್ಲಿರುವ ಪದಗಳಿಗೆ ಅನುವಾದಗೊಳ್ಳುತ್ತವೆ."
     }
   }
 ]

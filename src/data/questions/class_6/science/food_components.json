@@ -238,5 +238,425 @@
       "answer": "ಕ್ಯಾಲ್ಸಿಯಂ (Calcium)",
       "reasoning": "ಕ್ಯಾಲ್ಸಿಯಂ (ವಿಟಮಿನ್ ಡಿ ಯ ಜೊತೆಗೆ) ಬಲವಾದ ಮೂಳೆಗಳು ಮತ್ತು ಹಲ್ಲುಗಳನ್ನು ನಿರ್ಮಿಸಲು ಮತ್ತು ಕಾಪಾಡಿಕೊಳ್ಳಲು ಸಂಪೂರ್ಣವಾಗಿ ಅವಶ್ಯಕವಾಗಿದೆ."
     }
+  },
+  {
+    "id": "c6_sci_cf_16",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which of the following is not a nutrient?",
+      "options": ["Carbohydrates", "Proteins", "Water", "Fats"],
+      "answer": "Water",
+      "reasoning": "Water is essential for our body, but it is not classified as a nutrient like carbohydrates, proteins, and fats."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಪೋಷಕಾಂಶವಲ್ಲ?",
+      "options": ["ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳು", "ಪ್ರೋಟೀನ್‌ಗಳು", "ನೀರು", "ಕೊಬ್ಬುಗಳು"],
+      "answer": "ನೀರು",
+      "reasoning": "ನೀರು ನಮ್ಮ ದೇಹಕ್ಕೆ ಅತ್ಯಗತ್ಯ, ಆದರೆ ಇದನ್ನು ಕಾರ್ಬೋಹೈಡ್ರೇಟ್, ಪ್ರೋಟೀನ್ ಮತ್ತು ಕೊಬ್ಬಿನಂತಹ ಪೋಷಕಾಂಶಗಳೆಂದು ವರ್ಗೀಕರಿಸಲಾಗಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_17",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following foods are rich in proteins? (Select all that apply)",
+      "options": ["Pulses (Dal)", "Meat", "Rice", "Fish", "Sugar"],
+      "answer": ["Pulses (Dal)", "Meat", "Fish"],
+      "reasoning": "Pulses, meat, and fish are excellent sources of proteins. Rice and sugar are primarily sources of carbohydrates."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಯಾವ ಆಹಾರಗಳಲ್ಲಿ ಪ್ರೋಟೀನ್‌ಗಳು ಸಮೃದ್ಧವಾಗಿವೆ?",
+      "options": ["ಬೇಳೆಕಾಳುಗಳು (Dal)", "ಮಾಂಸ", "ಅಕ್ಕಿ", "ಮೀನು", "ಸಕ್ಕರೆ"],
+      "answer": ["ಬೇಳೆಕಾಳುಗಳು (Dal)", "ಮಾಂಸ", "ಮೀನು"],
+      "reasoning": "ಬೇಳೆಕಾಳುಗಳು, ಮಾಂಸ ಮತ್ತು ಮೀನುಗಳು ಪ್ರೋಟೀನ್‌ಗಳ ಅತ್ಯುತ್ತಮ ಮೂಲಗಳಾಗಿವೆ. ಅಕ್ಕಿ ಮತ್ತು ಸಕ್ಕರೆ ಮುಖ್ಯವಾಗಿ ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳ ಮೂಲಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_18",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the nutrient with its primary function in the body:",
+      "pairs": [
+        { "left": "Carbohydrates", "right": "Provide energy" },
+        { "left": "Proteins", "right": "Body building and repair" },
+        { "left": "Vitamins", "right": "Protect from diseases" },
+        { "left": "Dietary Fibre", "right": "Helps remove undigested food" }
+      ],
+      "reasoning": "Each nutrient plays a specific role. Carbohydrates give energy, proteins build the body, vitamins protect from diseases, and dietary fibres aid digestion."
+    },
+    "kn": {
+      "question": "ಪೋಷಕಾಂಶವನ್ನು ದೇಹದಲ್ಲಿ ಅದರ ಪ್ರಾಥಮಿಕ ಕಾರ್ಯದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        { "left": "ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳು", "right": "ಶಕ್ತಿಯನ್ನು ಒದಗಿಸುತ್ತವೆ" },
+        { "left": "ಪ್ರೋಟೀನ್‌ಗಳು", "right": "ದೇಹ ನಿರ್ಮಾಣ ಮತ್ತು ದುರಸ್ತಿ" },
+        { "left": "ಜೀವಸತ್ವಗಳು (Vitamins)", "right": "ರೋಗಗಳಿಂದ ರಕ್ಷಿಸುತ್ತವೆ" },
+        { "left": "ಆಹಾರದ ನಾರು (Fibre)", "right": "ಜೀರ್ಣವಾಗದ ಆಹಾರವನ್ನು ತೆಗೆದುಹಾಕಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ" }
+      ],
+      "reasoning": "ಪ್ರತಿಯೊಂದು ಪೋಷಕಾಂಶವು ನಿರ್ದಿಷ್ಟ ಪಾತ್ರವನ್ನು ವಹಿಸುತ್ತದೆ. ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳು ಶಕ್ತಿಯನ್ನು ನೀಡುತ್ತವೆ, ಪ್ರೋಟೀನ್‌ಗಳು ದೇಹವನ್ನು ನಿರ್ಮಿಸುತ್ತವೆ, ಜೀವಸತ್ವಗಳು ರೋಗಗಳಿಂದ ರಕ್ಷಿಸುತ್ತವೆ ಮತ್ತು ನಾರಿನಾಂಶವು ಜೀರ್ಣಕ್ರಿಯೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_19",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Identify the plant sources of fats from the list below:",
+      "options": ["Groundnuts", "Butter", "Mustard oil", "Milk", "Sunflower oil"],
+      "answer": ["Groundnuts", "Mustard oil", "Sunflower oil"],
+      "reasoning": "Groundnuts, mustard oil, and sunflower oil are obtained from plants, whereas butter and milk are animal sources of fats."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಪಟ್ಟಿಯಿಂದ ಕೊಬ್ಬಿನ ಸಸ್ಯ ಮೂಲಗಳನ್ನು (plant sources) ಗುರುತಿಸಿ:",
+      "options": ["ಕಡಲೆಕಾಯಿ", "ಬೆಣ್ಣೆ", "ಸಾಸಿವೆ ಎಣ್ಣೆ", "ಹಾಲು", "ಸೂರ್ಯಕಾಂತಿ ಎಣ್ಣೆ"],
+      "answer": ["ಕಡಲೆಕಾಯಿ", "ಸಾಸಿವೆ ಎಣ್ಣೆ", "ಸೂರ್ಯಕಾಂತಿ ಎಣ್ಣೆ"],
+      "reasoning": "ಕಡಲೆಕಾಯಿ, ಸಾಸಿವೆ ಎಣ್ಣೆ ಮತ್ತು ಸೂರ್ಯಕಾಂತಿ ಎಣ್ಣೆಯನ್ನು ಸಸ್ಯಗಳಿಂದ ಪಡೆಯಲಾಗುತ್ತದೆ, ಆದರೆ ಬೆಣ್ಣೆ ಮತ್ತು ಹಾಲು ಪ್ರಾಣಿ ಮೂಲದ ಕೊಬ್ಬುಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_20",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which vitamin gets easily destroyed by heat during cooking?",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "answer": "Vitamin C",
+      "reasoning": "Vitamin C is very sensitive to heat and is easily destroyed when food containing it is cooked."
+    },
+    "kn": {
+      "question": "ಅಡುಗೆ ಮಾಡುವಾಗ ಶಾಖದಿಂದ ಯಾವ ವಿಟಮಿನ್ ಸುಲಭವಾಗಿ ನಾಶವಾಗುತ್ತದೆ?",
+      "options": ["ವಿಟಮಿನ್ A", "ವಿಟಮಿನ್ B", "ವಿಟಮಿನ್ C", "ವಿಟಮಿನ್ D"],
+      "answer": "ವಿಟಮಿನ್ C",
+      "reasoning": "ವಿಟಮಿನ್ C ಶಾಖಕ್ಕೆ ಬಹಳ ಸೂಕ್ಷ್ಮವಾಗಿರುತ್ತದೆ ಮತ್ತು ಅದನ್ನು ಒಳಗೊಂಡಿರುವ ಆಹಾರವನ್ನು ಬೇಯಿಸಿದಾಗ ಸುಲಭವಾಗಿ ನಾಶವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_21",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the deficiency disease with the missing nutrient:",
+      "pairs": [
+        { "left": "Scurvy", "right": "Vitamin C" },
+        { "left": "Goiter", "right": "Iodine" },
+        { "left": "Anaemia", "right": "Iron" },
+        { "left": "Rickets", "right": "Vitamin D" }
+      ],
+      "reasoning": "Lack of specific vitamins or minerals causes specific diseases: Vitamin C (Scurvy), Iodine (Goiter), Iron (Anaemia), Vitamin D (Rickets)."
+    },
+    "kn": {
+      "question": "ಕೊರತೆಯಿಂದ ಬರುವ ರೋಗವನ್ನು (deficiency disease) ಕಾಣೆಯಾದ ಪೋಷಕಾಂಶದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        { "left": "ಸ್ಕರ್ವಿ (Scurvy)", "right": "ವಿಟಮಿನ್ C" },
+        { "left": "ಗಾಯಿಟರ್ (Goiter)", "right": "ಅಯೋಡಿನ್" },
+        { "left": "ರಕ್ತಹೀನತೆ (Anaemia)", "right": "ಕಬ್ಬಿಣ" },
+        { "left": "ರಿಕೆಟ್ಸ್ (Rickets)", "right": "ವಿಟಮಿನ್ D" }
+      ],
+      "reasoning": "ನಿರ್ದಿಷ್ಟ ಜೀವಸತ್ವಗಳು ಅಥವಾ ಖನಿಜಗಳ ಕೊರತೆಯು ನಿರ್ದಿಷ್ಟ ರೋಗಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ: ವಿಟಮಿನ್ ಸಿ (ಸ್ಕರ್ವಿ), ಅಯೋಡಿನ್ (ಗಾಯಿಟರ್), ಕಬ್ಬಿಣ (ರಕ್ತಹೀನತೆ), ವಿಟಮಿನ್ ಡಿ (ರಿಕೆಟ್ಸ್)."
+    }
+  },
+  {
+    "id": "c6_sci_cf_22",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of these are functions of water in our body?",
+      "options": ["Absorb nutrients from food", "Provide energy", "Throw out wastes as urine and sweat", "Build muscles"],
+      "answer": ["Absorb nutrients from food", "Throw out wastes as urine and sweat"],
+      "reasoning": "Water helps the body absorb nutrients and excrete waste products like urine and sweat. It does not provide energy or build muscles."
+    },
+    "kn": {
+      "question": "ನಮ್ಮ ದೇಹದಲ್ಲಿ ನೀರಿನ ಕಾರ್ಯಗಳು ಯಾವುವು?",
+      "options": ["ಆಹಾರದಿಂದ ಪೋಷಕಾಂಶಗಳನ್ನು ಹೀರಿಕೊಳ್ಳುವುದು", "ಶಕ್ತಿಯನ್ನು ಒದಗಿಸುವುದು", "ಮೂತ್ರ ಮತ್ತು ಬೆವರಿನ ಮೂಲಕ ತ್ಯಾಜ್ಯಗಳನ್ನು ಹೊರಹಾಕುವುದು", "ಸ್ನಾಯುಗಳನ್ನು ಬೆಳೆಸುವುದು"],
+      "answer": ["ಆಹಾರದಿಂದ ಪೋಷಕಾಂಶಗಳನ್ನು ಹೀರಿಕೊಳ್ಳುವುದು", "ಮೂತ್ರ ಮತ್ತು ಬೆವರಿನ ಮೂಲಕ ತ್ಯಾಜ್ಯಗಳನ್ನು ಹೊರಹಾಕುವುದು"],
+      "reasoning": "ಪೋಷಕಾಂಶಗಳನ್ನು ಹೀರಿಕೊಳ್ಳಲು ಮತ್ತು ಮೂತ್ರ ಮತ್ತು ಬೆವರಿನಂತಹ ತ್ಯಾಜ್ಯ ಉತ್ಪನ್ನಗಳನ್ನು ಹೊರಹಾಕಲು ನೀರು ದೇಹಕ್ಕೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಇದು ಶಕ್ತಿಯನ್ನು ಒದಗಿಸುವುದಿಲ್ಲ ಅಥವಾ ಸ್ನಾಯುಗಳನ್ನು ನಿರ್ಮಿಸುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_23",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which test is used to detect the presence of proteins in food?",
+      "options": ["Iodine test", "Copper sulphate and Caustic soda test", "Paper rubbing test", "Litmus test"],
+      "answer": "Copper sulphate and Caustic soda test",
+      "reasoning": "Adding a few drops of copper sulphate and caustic soda solutions to a food paste turns it violet if proteins are present."
+    },
+    "kn": {
+      "question": "ಆಹಾರದಲ್ಲಿ ಪ್ರೋಟೀನ್‌ಗಳ ಉಪಸ್ಥಿತಿಯನ್ನು ಪತ್ತೆಹಚ್ಚಲು ಯಾವ ಪರೀಕ್ಷೆಯನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "options": ["ಅಯೋಡಿನ್ ಪರೀಕ್ಷೆ", "ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಮತ್ತು ಕಾಸ್ಟಿಕ್ ಸೋಡಾ ಪರೀಕ್ಷೆ", "ಪೇಪರ್ ಉಜ್ಜುವ ಪರೀಕ್ಷೆ", "ಲಿಟ್ಮಸ್ ಪರೀಕ್ಷೆ"],
+      "answer": "ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಮತ್ತು ಕಾಸ್ಟಿಕ್ ಸೋಡಾ ಪರೀಕ್ಷೆ",
+      "reasoning": "ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಮತ್ತು ಕಾಸ್ಟಿಕ್ ಸೋಡಾ ದ್ರಾವಣಗಳ ಕೆಲವು ಹನಿಗಳನ್ನು ಆಹಾರದ ಪೇಸ್ಟ್‌ಗೆ ಸೇರಿಸಿದಾಗ ಪ್ರೋಟೀನ್‌ಗಳಿದ್ದರೆ ಅದು ನೇರಳೆ (violet) ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_24",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Dietary fibres are also known as:",
+      "options": ["Roughage", "Proteins", "Starch", "Vitamins"],
+      "answer": "Roughage",
+      "reasoning": "Dietary fibres are commonly called roughage. They add bulk to the food and help in bowel movements."
+    },
+    "kn": {
+      "question": "ಆಹಾರದ ನಾರುಗಳನ್ನು (Dietary fibres) ಹೀಗೆಂದೂ ಕರೆಯುತ್ತಾರೆ:",
+      "options": ["ರಫೇಜ್ (Roughage)", "ಪ್ರೋಟೀನ್‌ಗಳು", "ಪಿಷ್ಟ (Starch)", "ಜೀವಸತ್ವಗಳು"],
+      "answer": "ರಫೇಜ್ (Roughage)",
+      "reasoning": "ಆಹಾರದ ನಾರುಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ರಫೇಜ್ (roughage) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಅವು ಆಹಾರಕ್ಕೆ ಗಾತ್ರವನ್ನು ಸೇರಿಸುತ್ತವೆ ಮತ್ತು ಕರುಳಿನ ಚಲನೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_25",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the test result with the nutrient it indicates:",
+      "pairs": [
+        { "left": "Blue-black colour with iodine", "right": "Starch" },
+        { "left": "Violet colour with copper sulphate", "right": "Proteins" },
+        { "left": "Translucent patch on paper", "right": "Fats" }
+      ],
+      "reasoning": "These are standard tests: Iodine for starch, Copper sulphate/Caustic soda for proteins, and paper patch test for fats."
+    },
+    "kn": {
+      "question": "ಪರೀಕ್ಷೆಯ ಫಲಿತಾಂಶವನ್ನು ಅದು ಸೂಚಿಸುವ ಪೋಷಕಾಂಶದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        { "left": "ಅಯೋಡಿನ್‌ನೊಂದಿಗೆ ನೀಲಿ-ಕಪ್ಪು ಬಣ್ಣ", "right": "ಪಿಷ್ಟ (Starch)" },
+        { "left": "ತಾಮ್ರದ ಸಲ್ಫೇಟ್‌ನೊಂದಿಗೆ ನೇರಳೆ ಬಣ್ಣ", "right": "ಪ್ರೋಟೀನ್‌ಗಳು" },
+        { "left": "ಕಾಗದದ ಮೇಲೆ ಅರೆಪಾರದರ್ಶಕ ಕಲೆ", "right": "ಕೊಬ್ಬುಗಳು (Fats)" }
+      ],
+      "reasoning": "ಇವು ಪ್ರಮಾಣಿತ ಪರೀಕ್ಷೆಗಳಾಗಿವೆ: ಪಿಷ್ಟಕ್ಕಾಗಿ ಅಯೋಡಿನ್, ಪ್ರೋಟೀನ್‌ಗಳಿಗಾಗಿ ತಾಮ್ರದ ಸಲ್ಫೇಟ್/ಕಾಸ್ಟಿಕ್ ಸೋಡಾ ಮತ್ತು ಕೊಬ್ಬುಗಳಿಗಾಗಿ ಪೇಪರ್ ಪ್ಯಾಚ್ ಪರೀಕ್ಷೆ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_26",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of these are symptoms of Beriberi (Vitamin B1 deficiency)?",
+      "options": ["Weak muscles", "Bleeding gums", "Very little energy to work", "Swollen neck glands"],
+      "answer": ["Weak muscles", "Very little energy to work"],
+      "reasoning": "Beriberi is characterized by weak muscles and very little energy. Bleeding gums is Scurvy, and swollen glands is Goiter."
+    },
+    "kn": {
+      "question": "ಇವುಗಳಲ್ಲಿ ಬೆರಿಬೆರಿ (ವಿಟಮಿನ್ ಬಿ1 ಕೊರತೆ) ಯ ಲಕ್ಷಣಗಳು ಯಾವುವು?",
+      "options": ["ದುರ್ಬಲ ಸ್ನಾಯುಗಳು", "ರಕ್ತಸ್ರಾವವಾಗುವ ಒಸಡುಗಳು", "ಕೆಲಸ ಮಾಡಲು ಶಕ್ತಿ ಇಲ್ಲದಿರುವುದು", "ಊದಿಕೊಂಡ ಕುತ್ತಿಗೆಯ ಗ್ರಂಥಿಗಳು"],
+      "answer": ["ದುರ್ಬಲ ಸ್ನಾಯುಗಳು", "ಕೆಲಸ ಮಾಡಲು ಶಕ್ತಿ ಇಲ್ಲದಿರುವುದು"],
+      "reasoning": "ದುರ್ಬಲ ಸ್ನಾಯುಗಳು ಮತ್ತು ಕೆಲಸ ಮಾಡಲು ಶಕ್ತಿ ಇಲ್ಲದಿರುವುದು ಬೆರಿಬೆರಿಯ ಲಕ್ಷಣಗಳಾಗಿವೆ. ಒಸಡುಗಳಲ್ಲಿ ರಕ್ತಸ್ರಾವವಾಗುವುದು ಸ್ಕರ್ವಿ, ಮತ್ತು ಊದಿಕೊಂಡ ಗ್ರಂಥಿಗಳು ಗಾಯಿಟರ್."
+    }
+  },
+  {
+    "id": "c6_sci_cf_27",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "The main carbohydrate found in our food is in the form of:",
+      "options": ["Starch and Sugars", "Cellulose", "Glycogen", "Glucose only"],
+      "answer": "Starch and Sugars",
+      "reasoning": "The carbohydrates in our food are mostly in the form of starch and sugars."
+    },
+    "kn": {
+      "question": "ನಮ್ಮ ಆಹಾರದಲ್ಲಿ ಕಂಡುಬರುವ ಮುಖ್ಯ ಕಾರ್ಬೋಹೈಡ್ರೇಟ್ ಯಾವ ರೂಪದಲ್ಲಿರುತ್ತದೆ?",
+      "options": ["ಪಿಷ್ಟ (Starch) ಮತ್ತು ಸಕ್ಕರೆಗಳು", "ಸೆಲ್ಯುಲೋಸ್", "ಗ್ಲೈಕೋಜನ್", "ಗ್ಲೂಕೋಸ್ ಮಾತ್ರ"],
+      "answer": "ಪಿಷ್ಟ (Starch) ಮತ್ತು ಸಕ್ಕರೆಗಳು",
+      "reasoning": "ನಮ್ಮ ಆಹಾರದಲ್ಲಿರುವ ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳು ಹೆಚ್ಚಾಗಿ ಪಿಷ್ಟ ಮತ್ತು ಸಕ್ಕರೆಯ ರೂಪದಲ್ಲಿರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_28",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following foods provide a good amount of roughage?",
+      "options": ["Whole grains", "Fresh fruits", "Cheese", "Vegetables", "Meat"],
+      "answer": ["Whole grains", "Fresh fruits", "Vegetables"],
+      "reasoning": "Roughage is mainly provided by plant products in our diets, such as whole grains, pulses, potatoes, fresh fruits, and vegetables. Meat and cheese do not contain roughage."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಯಾವ ಆಹಾರಗಳು ಉತ್ತಮ ಪ್ರಮಾಣದ ರಫೇಜ್ (ನಾರಿನಾಂಶ) ಒದಗಿಸುತ್ತವೆ?",
+      "options": ["ಸಿರಿಧಾನ್ಯಗಳು (Whole grains)", "ತಾಜಾ ಹಣ್ಣುಗಳು", "ಚೀಸ್", "ತರಕಾರಿಗಳು", "ಮಾಂಸ"],
+      "answer": ["ಸಿರಿಧಾನ್ಯಗಳು (Whole grains)", "ತಾಜಾ ಹಣ್ಣುಗಳು", "ತರಕಾರಿಗಳು"],
+      "reasoning": "ನಮ್ಮ ಆಹಾರದಲ್ಲಿ ರಫೇಜ್ ಅನ್ನು ಮುಖ್ಯವಾಗಿ ಧಾನ್ಯಗಳು, ಕಾಳುಗಳು, ತಾಜಾ ಹಣ್ಣುಗಳು ಮತ್ತು ತರಕಾರಿಗಳಂತಹ ಸಸ್ಯ ಉತ್ಪನ್ನಗಳಿಂದ ಒದಗಿಸಲಾಗುತ್ತದೆ. ಮಾಂಸ ಮತ್ತು ಚೀಸ್ ನಾರಿನಾಂಶವನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_29",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the nutrient with its good food source:",
+      "pairs": [
+        { "left": "Vitamin A", "right": "Carrot, Papaya, Mango" },
+        { "left": "Vitamin C", "right": "Amla, Tomato, Orange" },
+        { "left": "Calcium", "right": "Milk, Eggs" },
+        { "left": "Iron", "right": "Spinach, Liver, Apple" }
+      ],
+      "reasoning": "Carrots are rich in Vitamin A, amla in Vitamin C, milk in calcium, and spinach in iron."
+    },
+    "kn": {
+      "question": "ಪೋಷಕಾಂಶವನ್ನು ಅದರ ಉತ್ತಮ ಆಹಾರ ಮೂಲದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        { "left": "ವಿಟಮಿನ್ A", "right": "ಕ್ಯಾರೆಟ್, ಪಪ್ಪಾಯಿ, ಮಾವು" },
+        { "left": "ವಿಟಮಿನ್ C", "right": "ನೆಲ್ಲಿಕಾಯಿ, ಟೊಮೆಟೊ, ಕಿತ್ತಳೆ" },
+        { "left": "ಕ್ಯಾಲ್ಸಿಯಂ", "right": "ಹಾಲು, ಮೊಟ್ಟೆ" },
+        { "left": "ಕಬ್ಬಿಣ (Iron)", "right": "ಪಾಲಕ್, ಯಕೃತ್ತು (Liver), ಸೇಬು" }
+      ],
+      "reasoning": "ಕ್ಯಾರೆಟ್‌ನಲ್ಲಿ ವಿಟಮಿನ್ ಎ, ನೆಲ್ಲಿಕಾಯಿಯಲ್ಲಿ ವಿಟಮಿನ್ ಸಿ, ಹಾಲಿನಲ್ಲಿ ಕ್ಯಾಲ್ಸಿಯಂ ಮತ್ತು ಪಾಲಕ್‌ನಲ್ಲಿ ಕಬ್ಬಿಣಾಂಶ ಹೇರಳವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_30",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What happens if a child suffers from a deficiency of both proteins and carbohydrates for a long time?",
+      "options": ["Their growth stops completely", "They become very fat", "They develop night blindness", "Their bones become very hard"],
+      "answer": "Their growth stops completely",
+      "reasoning": "If both proteins and carbohydrates are missing, the growth may stop completely, and the person becomes very lean and thin, and may not even be able to move."
+    },
+    "kn": {
+      "question": "ಮಗುವು ದೀರ್ಘಕಾಲದವರೆಗೆ ಪ್ರೋಟೀನ್ ಮತ್ತು ಕಾರ್ಬೋಹೈಡ್ರೇಟ್ ಎರಡರ ಕೊರತೆಯಿಂದ ಬಳಲುತ್ತಿದ್ದರೆ ಏನಾಗುತ್ತದೆ?",
+      "options": ["ಅವರ ಬೆಳವಣಿಗೆ ಸಂಪೂರ್ಣವಾಗಿ ನಿಲ್ಲುತ್ತದೆ", "ಅವರು ತುಂಬಾ ದಪ್ಪಗಾಗುತ್ತಾರೆ", "ಅವರಿಗೆ ಇರುಳುಗುರುಡುತನ ಬರುತ್ತದೆ", "ಅವರ ಮೂಳೆಗಳು ತುಂಬಾ ಗಟ್ಟಿಯಾಗುತ್ತವೆ"],
+      "answer": "ಅವರ ಬೆಳವಣಿಗೆ ಸಂಪೂರ್ಣವಾಗಿ ನಿಲ್ಲುತ್ತದೆ",
+      "reasoning": "ಪ್ರೋಟೀನ್ ಮತ್ತು ಕಾರ್ಬೋಹೈಡ್ರೇಟ್ ಎರಡೂ ಇಲ್ಲದಿದ್ದರೆ, ಬೆಳವಣಿಗೆಯು ಸಂಪೂರ್ಣವಾಗಿ ನಿಲ್ಲಬಹುದು, ವ್ಯಕ್ತಿ ತುಂಬಾ ತೆಳ್ಳಗಾಗುತ್ತಾನೆ ಮತ್ತು ಚಲಿಸಲು ಸಹ ಸಾಧ್ಯವಾಗದಿರಬಹುದು."
+    }
+  },
+  {
+    "id": "c6_sci_cf_31",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of these practices can lead to the loss of nutrients from food?",
+      "options": ["Washing cut vegetables and fruits", "Overcooking food", "Using too much water during cooking and throwing it away", "Eating raw fruits"],
+      "answer": ["Washing cut vegetables and fruits", "Overcooking food", "Using too much water during cooking and throwing it away"],
+      "reasoning": "Washing after cutting, overcooking, or throwing away excess cooking water washes away water-soluble vitamins and minerals."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಯಾವ ಅಭ್ಯಾಸಗಳು ಆಹಾರದಿಂದ ಪೋಷಕಾಂಶಗಳ ನಷ್ಟಕ್ಕೆ ಕಾರಣವಾಗಬಹುದು?",
+      "options": ["ಕತ್ತರಿಸಿದ ತರಕಾರಿಗಳು ಮತ್ತು ಹಣ್ಣುಗಳನ್ನು ತೊಳೆಯುವುದು", "ಆಹಾರವನ್ನು ಅತಿಯಾಗಿ ಬೇಯಿಸುವುದು", "ಅಡುಗೆ ಮಾಡುವಾಗ ಹೆಚ್ಚು ನೀರನ್ನು ಬಳಸಿ ನಂತರ ಅದನ್ನು ಎಸೆಯುವುದು", "ಹಸಿ ಹಣ್ಣುಗಳನ್ನು ತಿನ್ನುವುದು"],
+      "answer": ["ಕತ್ತರಿಸಿದ ತರಕಾರಿಗಳು ಮತ್ತು ಹಣ್ಣುಗಳನ್ನು ತೊಳೆಯುವುದು", "ಆಹಾರವನ್ನು ಅತಿಯಾಗಿ ಬೇಯಿಸುವುದು", "ಅಡುಗೆ ಮಾಡುವಾಗ ಹೆಚ್ಚು ನೀರನ್ನು ಬಳಸಿ ನಂತರ ಅದನ್ನು ಎಸೆಯುವುದು"],
+      "reasoning": "ಕತ್ತರಿಸಿದ ನಂತರ ತೊಳೆಯುವುದು, ಅತಿಯಾಗಿ ಬೇಯಿಸುವುದು ಅಥವಾ ಬೇಯಿಸಿದ ನೀರನ್ನು ಎಸೆಯುವುದರಿಂದ ನೀರಿನಲ್ಲಿ ಕರಗುವ ಜೀವಸತ್ವಗಳು ಮತ್ತು ಖನಿಜಗಳು ನಷ್ಟವಾಗುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_32",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Excessive intake of fat-rich foods over time can lead to a condition called:",
+      "options": ["Obesity", "Anaemia", "Beriberi", "Scurvy"],
+      "answer": "Obesity",
+      "reasoning": "Eating too much fat-rich food like fried items and sweets can lead to excessive weight gain, a condition known as obesity."
+    },
+    "kn": {
+      "question": "ಕಾಲಾನಂತರದಲ್ಲಿ ಕೊಬ್ಬು-ಭರಿತ ಆಹಾರಗಳ ಅತಿಯಾದ ಸೇವನೆಯು ಯಾವ ಸ್ಥಿತಿಗೆ ಕಾರಣವಾಗಬಹುದು?",
+      "options": ["ಬೊಜ್ಜು (Obesity)", "ರಕ್ತಹೀನತೆ", "ಬೆರಿಬೆರಿ", "ಸ್ಕರ್ವಿ"],
+      "answer": "ಬೊಜ್ಜು (Obesity)",
+      "reasoning": "ಕರಿದ ಪದಾರ್ಥಗಳು ಮತ್ತು ಸಿಹಿತಿಂಡಿಗಳಂತಹ ಕೊಬ್ಬಿನಂಶವಿರುವ ಆಹಾರವನ್ನು ಅತಿಯಾಗಿ ತಿನ್ನುವುದರಿಂದ ಅತಿಯಾದ ತೂಕ ಹೆಚ್ಚಾಗಬಹುದು, ಈ ಸ್ಥಿತಿಯನ್ನು ಬೊಜ್ಜು (Obesity) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_33",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the symptom with its likely deficiency disease:",
+      "pairs": [
+        { "left": "Bones become soft and bent", "right": "Rickets" },
+        { "left": "Wounds take longer to heal", "right": "Scurvy" },
+        { "left": "Poor vision in dim light", "right": "Night blindness" },
+        { "left": "Glands in neck appear swollen", "right": "Goiter" }
+      ],
+      "reasoning": "Soft bones indicate Rickets (Vitamin D). Slow healing indicates Scurvy (Vitamin C). Poor dim-light vision is Night Blindness (Vitamin A). Swollen neck is Goiter (Iodine)."
+    },
+    "kn": {
+      "question": "ರೋಗದ ಲಕ್ಷಣವನ್ನು ಅದರ ಕೊರತೆಯ ರೋಗದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        { "left": "ಮೂಳೆಗಳು ಮೃದುವಾಗಿ ಬಾಗುತ್ತವೆ", "right": "ರಿಕೆಟ್ಸ್" },
+        { "left": "ಗಾಯಗಳು ಗುಣವಾಗಲು ಹೆಚ್ಚು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ", "right": "ಸ್ಕರ್ವಿ" },
+        { "left": "ಮಂದ ಬೆಳಕಿನಲ್ಲಿ ಕಳಪೆ ದೃಷ್ಟಿ", "right": "ಇರುಳುಗುರುಡು" },
+        { "left": "ಕತ್ತಿನ ಗ್ರಂಥಿಗಳು ಊದಿಕೊಂಡಂತೆ ಕಾಣುತ್ತವೆ", "right": "ಗಾಯಿಟರ್" }
+      ],
+      "reasoning": "ಮೃದುವಾದ ಮೂಳೆಗಳು ರಿಕೆಟ್ಸ್ (ವಿಟಮಿನ್ ಡಿ) ಅನ್ನು ಸೂಚಿಸುತ್ತವೆ. ನಿಧಾನವಾಗಿ ಗುಣವಾಗುವುದು ಸ್ಕರ್ವಿ (ವಿಟಮಿನ್ ಸಿ). ಮಂದ ಬೆಳಕಿನಲ್ಲಿ ಕಳಪೆ ದೃಷ್ಟಿ ಎಂದರೆ ಇರುಳುಗುರುಡು (ವಿಟಮಿನ್ ಎ). ಊದಿಕೊಂಡ ಕುತ್ತಿಗೆ ಗಾಯಿಟರ್ (ಅಯೋಡಿನ್)."
+    }
+  },
+  {
+    "id": "c6_sci_cf_34",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following are sources of Vitamin D?",
+      "options": ["Sunlight", "Milk", "Fish", "Butter", "Cabbage"],
+      "answer": ["Sunlight", "Milk", "Fish", "Butter"],
+      "reasoning": "Our body produces Vitamin D in sunlight, and dietary sources include milk, fish, eggs, and butter. Cabbage is not a primary source."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ವಿಟಮಿನ್ ಡಿ ಯ ಮೂಲಗಳು ಯಾವುವು?",
+      "options": ["ಸೂರ್ಯನ ಬೆಳಕು", "ಹಾಲು", "ಮೀನು", "ಬೆಣ್ಣೆ", "ಎಲೆಕೋಸು"],
+      "answer": ["ಸೂರ್ಯನ ಬೆಳಕು", "ಹಾಲು", "ಮೀನು", "ಬೆಣ್ಣೆ"],
+      "reasoning": "ನಮ್ಮ ದೇಹವು ಸೂರ್ಯನ ಬೆಳಕಿನಲ್ಲಿ ವಿಟಮಿನ್ ಡಿ ಅನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ ಮತ್ತು ಆಹಾರದ ಮೂಲಗಳಲ್ಲಿ ಹಾಲು, ಮೀನು, ಮೊಟ್ಟೆ ಮತ್ತು ಬೆಣ್ಣೆ ಸೇರಿವೆ. ಎಲೆಕೋಸು ಪ್ರಾಥಮಿಕ ಮೂಲವಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_35",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Repeated washing of rice and pulses may remove some:",
+      "options": ["Vitamins and Minerals", "Carbohydrates", "Fats", "Proteins"],
+      "answer": "Vitamins and Minerals",
+      "reasoning": "Repeatedly washing rice and pulses can wash away the water-soluble vitamins and minerals present on their surface."
+    },
+    "kn": {
+      "question": "ಅಕ್ಕಿ ಮತ್ತು ಕಾಳುಗಳನ್ನು ಪದೇ ಪದೇ ತೊಳೆಯುವುದರಿಂದ ಯಾವುದು ನಷ್ಟವಾಗಬಹುದು?",
+      "options": ["ಜೀವಸತ್ವಗಳು ಮತ್ತು ಖನಿಜಗಳು (Vitamins & Minerals)", "ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳು", "ಕೊಬ್ಬುಗಳು", "ಪ್ರೋಟೀನ್‌ಗಳು"],
+      "answer": "ಜೀವಸತ್ವಗಳು ಮತ್ತು ಖನಿಜಗಳು (Vitamins & Minerals)",
+      "reasoning": "ಅಕ್ಕಿ ಮತ್ತು ಕಾಳುಗಳನ್ನು ಪದೇ ಪದೇ ತೊಳೆಯುವುದರಿಂದ ಅವುಗಳ ಮೇಲ್ಮೈಯಲ್ಲಿರುವ ನೀರಿನಲ್ಲಿ ಕರಗುವ ಜೀವಸತ್ವಗಳು ಮತ್ತು ಖನಿಜಗಳು ನಾಶವಾಗುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_36",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the missing nutrient with its role in the body:",
+      "pairs": [
+        { "left": "Lack of Calcium", "right": "Bone and tooth decay" },
+        { "left": "Lack of Iron", "right": "Weakness due to Anaemia" },
+        { "left": "Lack of Vitamin A", "right": "Loss of vision" },
+        { "left": "Lack of Vitamin B1", "right": "Weak muscles and very little energy" }
+      ],
+      "reasoning": "Calcium maintains bones and teeth, Iron prevents anaemia, Vitamin A is for eyes, and B1 gives muscle strength."
+    },
+    "kn": {
+      "question": "ಕಾಣೆಯಾದ ಪೋಷಕಾಂಶವನ್ನು ದೇಹದಲ್ಲಿನ ಅದರ ಪಾತ್ರದೊಂದಿಗೆ (ಅಥವಾ ಪರಿಣಾಮದೊಂದಿಗೆ) ಹೊಂದಿಸಿ:",
+      "pairs": [
+        { "left": "ಕ್ಯಾಲ್ಸಿಯಂ ಕೊರತೆ", "right": "ಮೂಳೆ ಮತ್ತು ಹಲ್ಲಿನ ಸವೆತ" },
+        { "left": "ಕಬ್ಬಿಣದ ಕೊರತೆ", "right": "ರಕ್ತಹೀನತೆಯಿಂದ ದೌರ್ಬಲ್ಯ" },
+        { "left": "ವಿಟಮಿನ್ ಎ ಕೊರತೆ", "right": "ದೃಷ್ಟಿ ಕಳೆದುಕೊಳ್ಳುವುದು" },
+        { "left": "ವಿಟಮಿನ್ ಬಿ1 ಕೊರತೆ", "right": "ದುರ್ಬಲ ಸ್ನಾಯುಗಳು ಮತ್ತು ಕಡಿಮೆ ಶಕ್ತಿ" }
+      ],
+      "reasoning": "ಕ್ಯಾಲ್ಸಿಯಂ ಮೂಳೆಗಳು ಮತ್ತು ಹಲ್ಲುಗಳನ್ನು ಕಾಪಾಡುತ್ತದೆ, ಕಬ್ಬಿಣವು ರಕ್ತಹೀನತೆಯನ್ನು ತಡೆಯುತ್ತದೆ, ವಿಟಮಿನ್ ಎ ಕಣ್ಣುಗಳಿಗೆ ಮತ್ತು ಬಿ 1 ಸ್ನಾಯುವಿನ ಶಕ್ತಿಯನ್ನು ನೀಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_cf_37",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of these are animal sources of proteins?",
+      "options": ["Paneer", "Meat", "Fish", "Beans", "Peas"],
+      "answer": ["Paneer", "Meat", "Fish"],
+      "reasoning": "Paneer (milk product), meat, and fish come from animals. Beans and peas are plant sources of proteins."
+    },
+    "kn": {
+      "question": "ಇವುಗಳಲ್ಲಿ ಪ್ರೋಟೀನ್‌ಗಳ ಪ್ರಾಣಿ ಮೂಲಗಳು ಯಾವುವು?",
+      "options": ["ಪನೀರ್", "ಮಾಂಸ", "ಮೀನು", "ಬೀನ್ಸ್", "ಬಟಾಣಿ"],
+      "answer": ["ಪನೀರ್", "ಮಾಂಸ", "ಮೀನು"],
+      "reasoning": "ಪನೀರ್ (ಹಾಲಿನ ಉತ್ಪನ್ನ), ಮಾಂಸ ಮತ್ತು ಮೀನುಗಳು ಪ್ರಾಣಿಗಳಿಂದ ಬರುತ್ತವೆ. ಬೀನ್ಸ್ ಮತ್ತು ಬಟಾಣಿ ಪ್ರೋಟೀನ್‌ಗಳ ಸಸ್ಯ ಮೂಲಗಳಾಗಿವೆ."
+    }
   }
 ]

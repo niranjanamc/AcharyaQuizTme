@@ -238,5 +238,368 @@
       "answer": "ಬೆಸ ಸ್ಥಾನಗಳಲ್ಲಿರುವ (odd places) ಮತ್ತು ಸರಿ ಸ್ಥಾನಗಳಲ್ಲಿರುವ (even places) ಅಂಕೆಗಳ ಮೊತ್ತದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ; ಅದು 0 ಅಥವಾ 11 ರ ಗುಣಕವಾಗಿರಬೇಕು",
       "reasoning": "1,331 ಕ್ಕೆ: ಬೆಸ ಸ್ಥಾನಗಳ ಮೊತ್ತ (1 ನೇ, 3 ನೇ) = 1+3=4. ಸರಿ ಸ್ಥಾನಗಳ ಮೊತ್ತ (2 ನೇ, 4 ನೇ) = 3+1=4. ವ್ಯತ್ಯಾಸ = 4 - 4 = 0. ವ್ಯತ್ಯಾಸವು 0 ಆಗಿರುವುದರಿಂದ, 1331 ನ್ನು 11 ರಿಂದ ಭಾಗಿಸಬಹುದು."
     }
+  },
+  {
+    "id": "c6_math_np_16",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following are prime numbers?",
+      "options": ["2", "9", "11", "15", "19"],
+      "answer": ["2", "11", "19"],
+      "reasoning": "Prime numbers have only two factors: 1 and themselves. 9 and 15 have more factors."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು (prime numbers)?",
+      "options": ["2", "9", "11", "15", "19"],
+      "answer": ["2", "11", "19"],
+      "reasoning": "ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು ಕೇವಲ ಎರಡು ಅಪವರ್ತನಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ: 1 ಮತ್ತು ಅದೇ ಸಂಖ್ಯೆ. 9 ಮತ್ತು 15 ಹೆಚ್ಚು ಅಪವರ್ತನಗಳನ್ನು ಹೊಂದಿವೆ."
+    }
+  },
+  {
+    "id": "c6_math_np_17",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Select all the factors of 18 from the list below.",
+      "options": ["2", "3", "4", "6", "9", "12"],
+      "answer": ["2", "3", "6", "9"],
+      "reasoning": "Factors of 18 are 1, 2, 3, 6, 9, 18. 4 and 12 do not divide 18 evenly."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಪಟ್ಟಿಯಿಂದ 18 ರ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ.",
+      "options": ["2", "3", "4", "6", "9", "12"],
+      "answer": ["2", "3", "6", "9"],
+      "reasoning": "18 ರ ಅಪವರ್ತನಗಳು 1, 2, 3, 6, 9, 18. 4 ಮತ್ತು 12 18 ಅನ್ನು ನಿಖರವಾಗಿ ಭಾಗಿಸುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_math_np_18",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the number with its property.",
+      "pairs": [
+        {"left": "2", "right": "Smallest even prime number"},
+        {"left": "1", "right": "Neither prime nor composite"},
+        {"left": "4", "right": "Smallest composite number"},
+        {"left": "9", "right": "Smallest odd composite number"}
+      ],
+      "reasoning": "2 is the only even prime. 1 is a unique number. 4 has factors 1, 2, 4. 9 has factors 1, 3, 9."
+    },
+    "kn": {
+      "question": "ಸಂಖ್ಯೆಯನ್ನು ಅದರ ಗುಣಲಕ್ಷಣದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "2", "right": "ಅತ್ಯಂತ ಚಿಕ್ಕ ಸರಿ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ (even prime number)"},
+        {"left": "1", "right": "ಅವಿಭಾಜ್ಯವೂ ಅಲ್ಲ ಭಾಜ್ಯವೂ ಅಲ್ಲ"},
+        {"left": "4", "right": "ಅತ್ಯಂತ ಚಿಕ್ಕ ಭಾಜ್ಯ ಸಂಖ್ಯೆ (composite number)"},
+        {"left": "9", "right": "ಅತ್ಯಂತ ಚಿಕ್ಕ ಬೆಸ ಭಾಜ್ಯ ಸಂಖ್ಯೆ (odd composite number)"}
+      ],
+      "reasoning": "2 ಏಕೈಕ ಸರಿ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ. 1 ಒಂದು ವಿಶಿಷ್ಟ ಸಂಖ್ಯೆ. 4 ರ ಅಪವರ್ತನಗಳು 1, 2, 4. 9 ರ ಅಪವರ್ತನಗಳು 1, 3, 9."
+    }
+  },
+  {
+    "id": "c6_math_np_19",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of these numbers is a perfect number?",
+      "options": ["6", "8", "10", "12"],
+      "answer": "6",
+      "reasoning": "A perfect number is a number for which sum of all its factors is equal to twice the number. Factors of 6 are 1, 2, 3, 6. Sum = 1+2+3+6 = 12 = 2*6."
+    },
+    "kn": {
+      "question": "ಈ ಸಂಖ್ಯೆಗಳಲ್ಲಿ ಯಾವುದು ಪರಿಪೂರ್ಣ ಸಂಖ್ಯೆ (perfect number)?",
+      "options": ["6", "8", "10", "12"],
+      "answer": "6",
+      "reasoning": "ಪರಿಪೂರ್ಣ ಸಂಖ್ಯೆಯೆಂದರೆ ಅದರ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳ ಮೊತ್ತವು ಆ ಸಂಖ್ಯೆಯ ಎರಡರಷ್ಟಿರುತ್ತದೆ. 6 ರ ಅಪವರ್ತನಗಳು 1, 2, 3, 6. ಮೊತ್ತ = 1+2+3+6 = 12 = 2*6."
+    }
+  },
+  {
+    "id": "c6_math_np_20",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following numbers are co-prime?",
+      "options": ["2 and 4", "15 and 18", "4 and 9", "12 and 16"],
+      "answer": "4 and 9",
+      "reasoning": "Two numbers having only 1 as a common factor are called co-prime numbers. Factors of 4 are 1, 2, 4 and 9 are 1, 3, 9. Common factor is only 1."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಯಾವ ಸಂಖ್ಯೆಗಳು ಸಹ-ಅವಿಭಾಜ್ಯ (co-prime) ಆಗಿವೆ?",
+      "options": ["2 ಮತ್ತು 4", "15 ಮತ್ತು 18", "4 ಮತ್ತು 9", "12 ಮತ್ತು 16"],
+      "answer": "4 ಮತ್ತು 9",
+      "reasoning": "ಕೇವಲ 1 ಅನ್ನು ಮಾತ್ರ ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿ ಹೊಂದಿರುವ ಎರಡು ಸಂಖ್ಯೆಗಳನ್ನು ಸಹ-ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. 4 ರ ಅಪವರ್ತನಗಳು 1, 2, 4 ಮತ್ತು 9 ರ ಅಪವರ್ತನಗಳು 1, 3, 9. ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ಕೇವಲ 1."
+    }
+  },
+  {
+    "id": "c6_math_np_21",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Select all numbers that are multiples of both 3 and 4.",
+      "options": ["12", "18", "24", "30", "36"],
+      "answer": ["12", "24", "36"],
+      "reasoning": "A number is a multiple of both 3 and 4 if it is a multiple of their LCM, which is 12."
+    },
+    "kn": {
+      "question": "3 ಮತ್ತು 4 ಎರಡರ ಗುಣಕವಾಗಿರುವ ಎಲ್ಲಾ ಸಂಖ್ಯೆಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ.",
+      "options": ["12", "18", "24", "30", "36"],
+      "answer": ["12", "24", "36"],
+      "reasoning": "ಒಂದು ಸಂಖ್ಯೆಯು 3 ಮತ್ತು 4 ಎರಡರ ಗುಣಕವಾಗಿದ್ದರೆ ಅದು ಅವುಗಳ ಲ.ಸಾ.ಅ (LCM) 12 ರ ಗುಣಕವಾಗಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_math_np_22",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the Greatest Common Divisor (GCD) of 12 and 16?",
+      "options": ["2", "4", "6", "8"],
+      "answer": "4",
+      "reasoning": "Factors of 12: 1, 2, 3, 4, 6, 12. Factors of 16: 1, 2, 4, 8, 16. Common factors: 1, 2, 4. The greatest is 4."
+    },
+    "kn": {
+      "question": "12 ಮತ್ತು 16 ರ ಗರಿಷ್ಠ ಸಾಮಾನ್ಯ ಭಾಜಕ (ಮ.ಸಾ.ಅ / GCD) ಯಾವುದು?",
+      "options": ["2", "4", "6", "8"],
+      "answer": "4",
+      "reasoning": "12 ರ ಅಪವರ್ತನಗಳು: 1, 2, 3, 4, 6, 12. 16 ರ ಅಪವರ್ತನಗಳು: 1, 2, 4, 8, 16. ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳು: 1, 2, 4. ಗರಿಷ್ಠ ಭಾಜಕ 4."
+    }
+  },
+  {
+    "id": "c6_math_np_23",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the Least Common Multiple (LCM) of 8 and 12?",
+      "options": ["16", "24", "48", "96"],
+      "answer": "24",
+      "reasoning": "Multiples of 8: 8, 16, 24, 32... Multiples of 12: 12, 24, 36... The lowest common multiple is 24."
+    },
+    "kn": {
+      "question": "8 ಮತ್ತು 12 ರ ಕನಿಷ್ಠ ಸಾಮಾನ್ಯ ಗುಣಕ (ಲ.ಸಾ.ಅ / LCM) ಯಾವುದು?",
+      "options": ["16", "24", "48", "96"],
+      "answer": "24",
+      "reasoning": "8 ರ ಗುಣಕಗಳು: 8, 16, 24, 32... 12 ರ ಗುಣಕಗಳು: 12, 24, 36... ಕನಿಷ್ಠ ಸಾಮಾನ್ಯ ಗುಣಕ 24."
+    }
+  },
+  {
+    "id": "c6_math_np_24",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the divisibility rule with its number.",
+      "pairs": [
+        {"left": "Sum of digits is divisible by 9", "right": "Divisibility by 9"},
+        {"left": "Ends in 0 or 5", "right": "Divisibility by 5"},
+        {"left": "Last two digits form a number divisible by 4", "right": "Divisibility by 4"},
+        {"left": "Divisible by both 2 and 3", "right": "Divisibility by 6"}
+      ],
+      "reasoning": "These are the standard divisibility rules for 9, 5, 4, and 6."
+    },
+    "kn": {
+      "question": "ಭಾಜ್ಯತೆಯ ನಿಯಮವನ್ನು (divisibility rule) ಅದರ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಅಂಕೆಗಳ ಮೊತ್ತವನ್ನು 9 ರಿಂದ ಭಾಗಿಸಬಹುದು", "right": "9 ರಿಂದ ಭಾಜ್ಯತೆ"},
+        {"left": "0 ಅಥವಾ 5 ರಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ", "right": "5 ರಿಂದ ಭಾಜ್ಯತೆ"},
+        {"left": "ಕೊನೆಯ ಎರಡು ಅಂಕೆಗಳು 4 ರಿಂದ ಭಾಗಿಸಲ್ಪಡುವ ಸಂಖ್ಯೆಯನ್ನು ರೂಪಿಸುತ್ತವೆ", "right": "4 ರಿಂದ ಭಾಜ್ಯತೆ"},
+        {"left": "2 ಮತ್ತು 3 ಎರಡರಿಂದಲೂ ಭಾಗಿಸಬಹುದು", "right": "6 ರಿಂದ ಭಾಜ್ಯತೆ"}
+      ],
+      "reasoning": "ಇವು 9, 5, 4, ಮತ್ತು 6 ರ ಪ್ರಮಾಣಿತ ಭಾಜ್ಯತೆಯ ನಿಯಮಗಳು."
+    }
+  },
+  {
+    "id": "c6_math_np_25",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of these are composite numbers?",
+      "options": ["4", "7", "10", "13", "15"],
+      "answer": ["4", "10", "15"],
+      "reasoning": "Composite numbers have more than two factors. 4, 10, and 15 are composite. 7 and 13 are prime."
+    },
+    "kn": {
+      "question": "ಇವುಗಳಲ್ಲಿ ಯಾವುವು ಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು (composite numbers)?",
+      "options": ["4", "7", "10", "13", "15"],
+      "answer": ["4", "10", "15"],
+      "reasoning": "ಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು ಎರಡಕ್ಕಿಂತ ಹೆಚ್ಚು ಅಪವರ್ತನಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ. 4, 10 ಮತ್ತು 15 ಭಾಜ್ಯ. 7 ಮತ್ತು 13 ಅವಿಭಾಜ್ಯ."
+    }
+  },
+  {
+    "id": "c6_math_np_26",
+    "difficulty": 2,
+    "en": {
+      "question": "If a number is exactly divisible by 12, by which other numbers will it also be divisible?",
+      "options": ["Only 2 and 6", "1, 2, 3, 4, and 6", "1, 2, 4, and 8", "1, 2, and 3"],
+      "answer": "1, 2, 3, 4, and 6",
+      "reasoning": "A number divisible by 12 is also divisible by all the factors of 12."
+    },
+    "kn": {
+      "question": "ಒಂದು ಸಂಖ್ಯೆಯನ್ನು 12 ರಿಂದ ನಿಖರವಾಗಿ ಭಾಗಿಸಬಹುದಾದರೆ, ಅದನ್ನು ಬೇರೆ ಯಾವ ಸಂಖ್ಯೆಗಳಿಂದಲೂ ಭಾಗಿಸಬಹುದು?",
+      "options": ["ಕೇವಲ 2 ಮತ್ತು 6", "1, 2, 3, 4, ಮತ್ತು 6", "1, 2, 4, ಮತ್ತು 8", "1, 2, ಮತ್ತು 3"],
+      "answer": "1, 2, 3, 4, ಮತ್ತು 6",
+      "reasoning": "12 ರಿಂದ ಭಾಗಿಸಬಹುದಾದ ಸಂಖ್ಯೆಯನ್ನು 12 ರ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳಿಂದಲೂ ಭಾಗಿಸಬಹುದು."
+    }
+  },
+  {
+    "id": "c6_math_np_27",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the HCF (Highest Common Factor) of two co-prime numbers?",
+      "options": ["0", "1", "Their product", "Their sum"],
+      "answer": "1",
+      "reasoning": "By definition, two co-prime numbers have no common factor other than 1. So their HCF is 1."
+    },
+    "kn": {
+      "question": "ಎರಡು ಸಹ-ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳ ಮ.ಸಾ.ಅ (HCF) ಎಷ್ಟು?",
+      "options": ["0", "1", "ಅವುಗಳ ಗುಣಲಬ್ಧ", "ಅವುಗಳ ಮೊತ್ತ"],
+      "answer": "1",
+      "reasoning": "ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ, ಎರಡು ಸಹ-ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು 1 ನ್ನು ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಅಪವರ್ತನವನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ. ಹಾಗಾಗಿ ಅವುಗಳ ಮ.ಸಾ.ಅ 1."
+    }
+  },
+  {
+    "id": "c6_math_np_28",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Select all numbers divisible by 8.",
+      "options": ["1000", "2016", "3104", "4004", "5012"],
+      "answer": ["1000", "2016", "3104"],
+      "reasoning": "A number is divisible by 8 if the number formed by its last three digits is divisible by 8. 000, 016, 104 are divisible by 8."
+    },
+    "kn": {
+      "question": "8 ರಿಂದ ಭಾಗಿಸಲ್ಪಡುವ ಎಲ್ಲಾ ಸಂಖ್ಯೆಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ.",
+      "options": ["1000", "2016", "3104", "4004", "5012"],
+      "answer": ["1000", "2016", "3104"],
+      "reasoning": "ಒಂದು ಸಂಖ್ಯೆಯ ಕೊನೆಯ ಮೂರು ಅಂಕೆಗಳಿಂದ ರೂಪುಗೊಂಡ ಸಂಖ್ಯೆಯನ್ನು 8 ರಿಂದ ಭಾಗಿಸಬಹುದಾದರೆ, ಆ ಸಂಖ್ಯೆಯನ್ನು 8 ರಿಂದ ಭಾಗಿಸಬಹುದು. 000, 016, 104 ಗಳನ್ನು 8 ರಿಂದ ಭಾಗಿಸಬಹುದು."
+    }
+  },
+  {
+    "id": "c6_math_np_29",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the pairs of numbers with their type.",
+      "pairs": [
+        {"left": "3 and 5", "right": "Twin primes"},
+        {"left": "8 and 9", "right": "Co-primes"},
+        {"left": "2 and 4", "right": "Even numbers"},
+        {"left": "1 and 3", "right": "Odd numbers"}
+      ],
+      "reasoning": "Twin primes are prime numbers with a difference of 2. Co-primes have only 1 as a common factor."
+    },
+    "kn": {
+      "question": "ಸಂಖ್ಯೆಗಳ ಜೋಡಿಗಳನ್ನು ಅವುಗಳ ಪ್ರಕಾರದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "3 ಮತ್ತು 5", "right": "ಅವಳಿ ಅವಿಭಾಜ್ಯಗಳು (Twin primes)"},
+        {"left": "8 ಮತ್ತು 9", "right": "ಸಹ-ಅವಿಭಾಜ್ಯಗಳು (Co-primes)"},
+        {"left": "2 ಮತ್ತು 4", "right": "ಸರಿ ಸಂಖ್ಯೆಗಳು"},
+        {"left": "1 ಮತ್ತು 3", "right": "ಬೆಸ ಸಂಖ್ಯೆಗಳು"}
+      ],
+      "reasoning": "ಅವಳಿ ಅವಿಭಾಜ್ಯಗಳೆಂದರೆ 2 ರ ವ್ಯತ್ಯಾಸವಿರುವ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು. ಸಹ-ಅವಿಭಾಜ್ಯಗಳು 1 ನ್ನು ಮಾತ್ರ ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿ ಹೊಂದಿರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_math_np_30",
+    "difficulty": 3,
+    "en": {
+      "question": "The product of the LCM and HCF of two numbers is equal to:",
+      "options": ["The sum of the numbers", "The difference of the numbers", "The product of the numbers", "The quotient of the numbers"],
+      "answer": "The product of the numbers",
+      "reasoning": "For any two numbers a and b, LCM(a,b) × HCF(a,b) = a × b."
+    },
+    "kn": {
+      "question": "ಎರಡು ಸಂಖ್ಯೆಗಳ ಲ.ಸಾ.ಅ ಮತ್ತು ಮ.ಸಾ.ಅ ಗಳ ಗುಣಲಬ್ಧವು ಇದಕ್ಕೆ ಸಮಾನವಾಗಿರುತ್ತದೆ:",
+      "options": ["ಸಂಖ್ಯೆಗಳ ಮೊತ್ತ", "ಸಂಖ್ಯೆಗಳ ವ್ಯತ್ಯಾಸ", "ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧ", "ಸಂಖ್ಯೆಗಳ ಭಾಗಲಬ್ಧ"],
+      "answer": "ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧ",
+      "reasoning": "ಯಾವುದೇ ಎರಡು ಸಂಖ್ಯೆಗಳಾದ a ಮತ್ತು b ಗಳಿಗೆ, ಲ.ಸಾ.ಅ(a,b) × ಮ.ಸಾ.ಅ(a,b) = a × b."
+    }
+  },
+  {
+    "id": "c6_math_np_31",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these pairs of numbers are twin primes?",
+      "options": ["3, 5", "5, 7", "7, 9", "11, 13", "13, 15"],
+      "answer": ["3, 5", "5, 7", "11, 13"],
+      "reasoning": "Twin primes are prime numbers whose difference is 2. (7, 9) has 9 which is composite. (13, 15) has 15 which is composite."
+    },
+    "kn": {
+      "question": "ಈ ಸಂಖ್ಯೆಗಳ ಜೋಡಿಗಳಲ್ಲಿ ಯಾವುವು ಅವಳಿ ಅವಿಭಾಜ್ಯಗಳು (twin primes)?",
+      "options": ["3, 5", "5, 7", "7, 9", "11, 13", "13, 15"],
+      "answer": ["3, 5", "5, 7", "11, 13"],
+      "reasoning": "ಅವಳಿ ಅವಿಭಾಜ್ಯಗಳೆಂದರೆ 2 ರ ವ್ಯತ್ಯಾಸವಿರುವ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು. (7, 9) ರಲ್ಲಿ 9 ಭಾಜ್ಯ. (13, 15) ರಲ್ಲಿ 15 ಭಾಜ್ಯ."
+    }
+  },
+  {
+    "id": "c6_math_np_32",
+    "difficulty": 2,
+    "en": {
+      "question": "Express 24 as the sum of two odd primes.",
+      "options": ["11 + 13", "5 + 19", "7 + 17", "All of the above"],
+      "answer": "All of the above",
+      "reasoning": "11, 13, 5, 19, 7, and 17 are all odd prime numbers. Their respective sums equal 24."
+    },
+    "kn": {
+      "question": "24 ಅನ್ನು ಎರಡು ಬೆಸ ಅವಿಭಾಜ್ಯಗಳ ಮೊತ್ತವಾಗಿ ವ್ಯಕ್ತಪಡಿಸಿ.",
+      "options": ["11 + 13", "5 + 19", "7 + 17", "ಮೇಲಿನ ಎಲ್ಲವೂ"],
+      "answer": "ಮೇಲಿನ ಎಲ್ಲವೂ",
+      "reasoning": "11, 13, 5, 19, 7, ಮತ್ತು 17 ಎಲ್ಲವೂ ಬೆಸ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು. ಅವುಗಳ ಮೊತ್ತವು 24 ಕ್ಕೆ ಸಮಾನವಾಗಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_math_np_33",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the property with the concept.",
+      "pairs": [
+        {"left": "Product of prime factors", "right": "Prime Factorisation"},
+        {"left": "Common multiples", "right": "LCM"},
+        {"left": "Common factors", "right": "HCF"},
+        {"left": "Exactly two factors", "right": "Prime number"}
+      ],
+      "reasoning": "These are definitions of key concepts in Number Play."
+    },
+    "kn": {
+      "question": "ಗುಣಲಕ್ಷಣವನ್ನು ಪರಿಕಲ್ಪನೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳ ಗುಣಲಬ್ಧ", "right": "ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ (Prime Factorisation)"},
+        {"left": "ಸಾಮಾನ್ಯ ಗುಣಕಗಳು", "right": "ಲ.ಸಾ.ಅ (LCM)"},
+        {"left": "ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳು", "right": "ಮ.ಸಾ.ಅ (HCF)"},
+        {"left": "ನಿಖರವಾಗಿ ಎರಡು ಅಪವರ್ತನಗಳು", "right": "ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ (Prime number)"}
+      ],
+      "reasoning": "ಇವು ಸಂಖ್ಯೆಗಳ ಆಟದಲ್ಲಿನ (Number Play) ಪ್ರಮುಖ ಪರಿಕಲ್ಪನೆಗಳ ವ್ಯಾಖ್ಯಾನಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c6_math_np_34",
+    "difficulty": 1,
+    "en": {
+      "question": "A number is a multiple of itself. True or False?",
+      "options": ["True", "False"],
+      "answer": "True",
+      "reasoning": "Every number is a multiple of itself (e.g., 5 x 1 = 5)."
+    },
+    "kn": {
+      "question": "ಪ್ರತಿಯೊಂದು ಸಂಖ್ಯೆಯು ತನ್ನದೇ ಆದ ಗುಣಕವಾಗಿದೆ. ಹೌದೋ ಅಥವಾ ತಪ್ಪೋ?",
+      "options": ["ಹೌದು (True)", "ತಪ್ಪು (False)"],
+      "answer": "ಹೌದು (True)",
+      "reasoning": "ಪ್ರತಿಯೊಂದು ಸಂಖ್ಯೆಯು ತನ್ನದೇ ಆದ ಗುಣಕವಾಗಿದೆ (ಉದಾಹರಣೆಗೆ, 5 x 1 = 5)."
+    }
+  },
+  {
+    "id": "c6_math_np_35",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Identify the statements that are TRUE.",
+      "options": ["The sum of two odd numbers is always even", "The sum of two even numbers is always odd", "The product of two even numbers is always even", "The product of two odd numbers is always even"],
+      "answer": ["The sum of two odd numbers is always even", "The product of two even numbers is always even"],
+      "reasoning": "Odd + Odd = Even (e.g., 3+5=8). Even * Even = Even (e.g., 2*4=8). The others are false."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾದ (TRUE) ಹೇಳಿಕೆಗಳನ್ನು ಗುರುತಿಸಿ.",
+      "options": ["ಎರಡು ಬೆಸ ಸಂಖ್ಯೆಗಳ ಮೊತ್ತ ಯಾವಾಗಲೂ ಸರಿ ಸಂಖ್ಯೆಯಾಗಿರುತ್ತದೆ", "ಎರಡು ಸರಿ ಸಂಖ್ಯೆಗಳ ಮೊತ್ತ ಯಾವಾಗಲೂ ಬೆಸ ಸಂಖ್ಯೆಯಾಗಿರುತ್ತದೆ", "ಎರಡು ಸರಿ ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧ ಯಾವಾಗಲೂ ಸರಿ ಸಂಖ್ಯೆಯಾಗಿರುತ್ತದೆ", "ಎರಡು ಬೆಸ ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧ ಯಾವಾಗಲೂ ಸರಿ ಸಂಖ್ಯೆಯಾಗಿರುತ್ತದೆ"],
+      "answer": ["ಎರಡು ಬೆಸ ಸಂಖ್ಯೆಗಳ ಮೊತ್ತ ಯಾವಾಗಲೂ ಸರಿ ಸಂಖ್ಯೆಯಾಗಿರುತ್ತದೆ", "ಎರಡು ಸರಿ ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧ ಯಾವಾಗಲೂ ಸರಿ ಸಂಖ್ಯೆಯಾಗಿರುತ್ತದೆ"],
+      "reasoning": "ಬೆಸ + ಬೆಸ = ಸರಿ (ಉದಾ. 3+5=8). ಸರಿ * ಸರಿ = ಸರಿ (ಉದಾ. 2*4=8). ಉಳಿದವು ತಪ್ಪು."
+    }
   }
 ]

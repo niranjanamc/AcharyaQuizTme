@@ -4,239 +4,976 @@
     "difficulty": 1,
     "en": {
       "question": "Which method is used to separate slightly larger sized impurities like pieces of dirt, stone, and husk from wheat, rice or pulses?",
-      "options": ["Evaporation", "Handpicking", "Filtration", "Condensation"],
+      "options": [
+        "Evaporation",
+        "Handpicking",
+        "Filtration",
+        "Condensation"
+      ],
       "answer": "Handpicking",
       "reasoning": "When the quantity of impurities is not very large and the pieces are easily visible, they can be separated simply by picking them out by hand."
     },
     "kn": {
       "question": "ಗೋಧಿ, ಅಕ್ಕಿ ಅಥವಾ ಬೇಳೆಕಾಳುಗಳಿಂದ ಕೊಳೆ, ಕಲ್ಲು ಮತ್ತು ಹೊಟ್ಟಿನಂತಹ (husk) ಸ್ವಲ್ಪ ದೊಡ್ಡ ಗಾತ್ರದ ಕಲ್ಮಶಗಳನ್ನು ಬೇರ್ಪಡಿಸಲು ಯಾವ ವಿಧಾನವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
-      "options": ["ಆವಿಯಾಗುವಿಕೆ (Evaporation)", "ಕೈಯಿಂದ ಆರಿಸುವುದು (Handpicking)", "ಸೋಸುವಿಕೆ (Filtration)", "ಸಾಂದ್ರೀಕರಣ (Condensation)"],
+      "options": [
+        "ಆವಿಯಾಗುವಿಕೆ (Evaporation)",
+        "ಕೈಯಿಂದ ಆರಿಸುವುದು (Handpicking)",
+        "ಸೋಸುವಿಕೆ (Filtration)",
+        "ಸಾಂದ್ರೀಕರಣ (Condensation)"
+      ],
       "answer": "ಕೈಯಿಂದ ಆರಿಸುವುದು (Handpicking)",
       "reasoning": "ಕಲ್ಮಶಗಳ ಪ್ರಮಾಣವು ತುಂಬಾ ದೊಡ್ಡದಾಗಿರದಿದ್ದಾಗ ಮತ್ತು ತುಂಡುಗಳು ಸುಲಭವಾಗಿ ಗೋಚರಿಸಿದಾಗ, ಅವುಗಳನ್ನು ಕೈಯಿಂದ ಆರಿಸುವ ಮೂಲಕ ಸರಳವಾಗಿ ಬೇರ್ಪಡಿಸಬಹುದು."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "c6_sci_ss_2",
     "difficulty": 2,
     "en": {
       "question": "What is the process of beating stalks to free the grain seeds called?",
-      "options": ["Winnowing", "Threshing", "Sieving", "Sedimentation"],
+      "options": [
+        "Winnowing",
+        "Threshing",
+        "Sieving",
+        "Sedimentation"
+      ],
       "answer": "Threshing",
       "reasoning": "Threshing is the process where harvested crop stalks are beaten against a hard surface to detach the grain seeds from them."
     },
     "kn": {
       "question": "ಧಾನ್ಯದ ಬೀಜಗಳನ್ನು ಮುಕ್ತಗೊಳಿಸಲು ಕಾಂಡಗಳನ್ನು (stalks) ಬಡಿಯುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
-      "options": ["ತೂರುವುದು (Winnowing)", "ಒಕ್ಕಣೆ ಮಾಡುವುದು (Threshing)", "ಜರಡಿ ಹಿಡಿಯುವುದು (Sieving)", "ತಳವೂರಲು ಬಿಡುವುದು (Sedimentation)"],
+      "options": [
+        "ತೂರುವುದು (Winnowing)",
+        "ಒಕ್ಕಣೆ ಮಾಡುವುದು (Threshing)",
+        "ಜರಡಿ ಹಿಡಿಯುವುದು (Sieving)",
+        "ತಳವೂರಲು ಬಿಡುವುದು (Sedimentation)"
+      ],
       "answer": "ಒಕ್ಕಣೆ ಮಾಡುವುದು (Threshing)",
       "reasoning": "ಒಕ್ಕಣೆ (Threshing) ಮಾಡುವುದು ಎಂದರೆ ಕೊಯ್ಲು ಮಾಡಿದ ಬೆಳೆಯ ಕಾಂಡಗಳನ್ನು ಗಟ್ಟಿಯಾದ ಮೇಲ್ಮೈಗೆ ಬಡಿದು ಧಾನ್ಯದ ಬೀಜಗಳನ್ನು ಬೇರ್ಪಡಿಸುವ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "c6_sci_ss_3",
     "difficulty": 2,
     "en": {
       "question": "Which method is used to separate heavier and lighter components of a mixture by wind or by blowing air?",
-      "options": ["Threshing", "Handpicking", "Winnowing", "Decantation"],
+      "options": [
+        "Threshing",
+        "Handpicking",
+        "Winnowing",
+        "Decantation"
+      ],
       "answer": "Winnowing",
       "reasoning": "Winnowing uses the wind to blow away lighter particles (like husk) while the heavier particles (like grains) fall straight down."
     },
     "kn": {
       "question": "ಗಾಳಿ ಅಥವಾ ಗಾಳಿಯನ್ನು ಬೀಸುವ ಮೂಲಕ ಮಿಶ್ರಣದ ಭಾರವಾದ ಮತ್ತು ಹಗುರವಾದ ಘಟಕಗಳನ್ನು ಬೇರ್ಪಡಿಸಲು ಯಾವ ವಿಧಾನವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
-      "options": ["ಒಕ್ಕಣೆ ಮಾಡುವುದು (Threshing)", "ಕೈಯಿಂದ ಆರಿಸುವುದು (Handpicking)", "ತೂರುವುದು (Winnowing)", "ಬಗ್ಗಿಸುವುದು (Decantation)"],
+      "options": [
+        "ಒಕ್ಕಣೆ ಮಾಡುವುದು (Threshing)",
+        "ಕೈಯಿಂದ ಆರಿಸುವುದು (Handpicking)",
+        "ತೂರುವುದು (Winnowing)",
+        "ಬಗ್ಗಿಸುವುದು (Decantation)"
+      ],
       "answer": "ತೂರುವುದು (Winnowing)",
       "reasoning": "ತೂರುವುದು (Winnowing) ಎಂಬುದು ಹಗುರವಾದ ಕಣಗಳನ್ನು (ಹೊಟ್ಟಿನಂತೆ) ಹಾರಿಹೋಗುವಂತೆ ಮಾಡಲು ಗಾಳಿಯನ್ನು ಬಳಸುತ್ತದೆ, ಆದರೆ ಭಾರವಾದ ಕಣಗಳು (ಧಾನ್ಯಗಳಂತೆ) ನೇರವಾಗಿ ಕೆಳಗೆ ಬೀಳುತ್ತವೆ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "c6_sci_ss_4",
     "difficulty": 1,
     "en": {
       "question": "If you want to separate fine flour particles from bigger bran particles, which tool will you use?",
-      "options": ["A sieve", "A magnet", "A knife", "A filter paper"],
+      "options": [
+        "A sieve",
+        "A magnet",
+        "A knife",
+        "A filter paper"
+      ],
       "answer": "A sieve",
       "reasoning": "Sieving allows fine flour particles to pass through the holes of the sieve while the bigger impurities (bran) remain on the sieve."
     },
     "kn": {
       "question": "ನೀವು ದೊಡ್ಡ ಹೊಟ್ಟಿನ (bran) ಕಣಗಳಿಂದ ಸೂಕ್ಷ್ಮವಾದ ಹಿಟ್ಟಿನ ಕಣಗಳನ್ನು ಬೇರ್ಪಡಿಸಲು ಬಯಸಿದರೆ, ನೀವು ಯಾವ ಉಪಕರಣವನ್ನು ಬಳಸುತ್ತೀರಿ?",
-      "options": ["ಜರಡಿ (sieve)", "ಕಾಂತ (magnet)", "ಚಾಕು (knife)", "ಫಿಲ್ಟರ್ ಪೇಪರ್"],
+      "options": [
+        "ಜರಡಿ (sieve)",
+        "ಕಾಂತ (magnet)",
+        "ಚಾಕು (knife)",
+        "ಫಿಲ್ಟರ್ ಪೇಪರ್"
+      ],
       "answer": "ಜರಡಿ (sieve)",
       "reasoning": "ಜರಡಿ ಹಿಡಿಯುವಿಕೆಯು ಜರಡಿಯ ರಂಧ್ರಗಳ ಮೂಲಕ ಸೂಕ್ಷ್ಮವಾದ ಹಿಟ್ಟಿನ ಕಣಗಳು ಹಾದುಹೋಗಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ, ಆದರೆ ದೊಡ್ಡ ಕಲ್ಮಶಗಳು (ಹೊಟ್ಟು) ಜರಡಿಯ ಮೇಲೆಯೇ ಉಳಿಯುತ್ತವೆ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "c6_sci_ss_5",
     "difficulty": 3,
     "en": {
       "question": "When the heavier component in a mixture settles after water is added to it, the process is called:",
-      "options": ["Filtration", "Sedimentation", "Evaporation", "Condensation"],
+      "options": [
+        "Filtration",
+        "Sedimentation",
+        "Evaporation",
+        "Condensation"
+      ],
       "answer": "Sedimentation",
       "reasoning": "Sedimentation occurs when heavy, insoluble particles (like dirt or sand) sink and settle at the bottom of a liquid."
     },
     "kn": {
       "question": "ನೀರು ಸೇರಿಸಿದ ನಂತರ ಮಿಶ್ರಣದಲ್ಲಿರುವ ಭಾರವಾದ ಘಟಕವು ತಳಭಾಗದಲ್ಲಿ ನೆಲೆಗೊಂಡಾಗ, ಆ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
-      "options": ["ಸೋಸುವಿಕೆ (Filtration)", "ತಳವೂರಲು ಬಿಡುವುದು (Sedimentation)", "ಆವಿಯಾಗುವಿಕೆ (Evaporation)", "ಸಾಂದ್ರೀಕರಣ (Condensation)"],
+      "options": [
+        "ಸೋಸುವಿಕೆ (Filtration)",
+        "ತಳವೂರಲು ಬಿಡುವುದು (Sedimentation)",
+        "ಆವಿಯಾಗುವಿಕೆ (Evaporation)",
+        "ಸಾಂದ್ರೀಕರಣ (Condensation)"
+      ],
       "answer": "ತಳವೂರಲು ಬಿಡುವುದು (Sedimentation)",
       "reasoning": "ಭಾರವಾದ, ಕರಗದ ಕಣಗಳು (ಮಣ್ಣು ಅಥವಾ ಮರಳಿನಂತೆ) ದ್ರವದ ತಳದಲ್ಲಿ ಮುಳುಗಿ ನೆಲೆಗೊಂಡಾಗ ತಳವೂರುವುದು (Sedimentation) ಸಂಭವಿಸುತ್ತದೆ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "c6_sci_ss_6",
     "difficulty": 2,
     "en": {
       "question": "After sedimentation, the process of gently pouring out the clear water (along with the dust) without disturbing the sediment is called:",
-      "options": ["Sieving", "Decantation", "Winnowing", "Threshing"],
+      "options": [
+        "Sieving",
+        "Decantation",
+        "Winnowing",
+        "Threshing"
+      ],
       "answer": "Decantation",
       "reasoning": "Decantation is the careful pouring off of the top layer of liquid to separate it from the settled solid particles below."
     },
     "kn": {
       "question": "ತಳವೂರಲು ಬಿಟ್ಟ (sedimentation) ನಂತರ, ತಳಭಾಗದಲ್ಲಿರುವ ಘನವಸ್ತುಗಳಿಗೆ (sediment) ತೊಂದರೆಯಾಗದಂತೆ, ತಿಳಿಯಾದ ನೀರನ್ನು (ಧೂಳಿನ ಜೊತೆ) ನಿಧಾನವಾಗಿ ಹೊರಗೆ ಸುರಿಯುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
-      "options": ["ಜರಡಿ ಹಿಡಿಯುವುದು", "ಬಗ್ಗಿಸುವುದು (Decantation)", "ತೂರುವುದು", "ಒಕ್ಕಣೆ ಮಾಡುವುದು"],
+      "options": [
+        "ಜರಡಿ ಹಿಡಿಯುವುದು",
+        "ಬಗ್ಗಿಸುವುದು (Decantation)",
+        "ತೂರುವುದು",
+        "ಒಕ್ಕಣೆ ಮಾಡುವುದು"
+      ],
       "answer": "ಬಗ್ಗಿಸುವುದು (Decantation)",
       "reasoning": "ಬಗ್ಗಿಸುವುದು (Decantation) ಎಂದರೆ ಕೆಳಗೆ ನೆಲೆಗೊಂಡಿರುವ ಘನ ಕಣಗಳಿಂದ ದ್ರವವನ್ನು ಬೇರ್ಪಡಿಸಲು ಮೇಲಿನ ಪದರದ ದ್ರವವನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಸುರಿಯುವುದಾಗಿದೆ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "c6_sci_ss_7",
     "difficulty": 3,
     "en": {
       "question": "To get perfectly clear water from muddy water, which method is more effective than decantation?",
-      "options": ["Handpicking", "Filtration using a filter paper", "Boiling", "Freezing"],
+      "options": [
+        "Handpicking",
+        "Filtration using a filter paper",
+        "Boiling",
+        "Freezing"
+      ],
       "answer": "Filtration using a filter paper",
       "reasoning": "A filter paper has very fine pores that can trap even the smallest mud particles which might not settle during sedimentation."
     },
     "kn": {
       "question": "ಮಣ್ಣಿನ ನೀರಿನಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ತಿಳಿಯಾದ ನೀರನ್ನು ಪಡೆಯಲು, ಬಗ್ಗಿಸುವ (decantation) ವಿಧಾನಕ್ಕಿಂತ ಯಾವುದು ಹೆಚ್ಚು ಪರಿಣಾಮಕಾರಿಯಾಗಿದೆ?",
-      "options": ["ಕೈಯಿಂದ ಆರಿಸುವುದು", "ಫಿಲ್ಟರ್ ಪೇಪರ್ ಬಳಸಿ ಸೋಸುವುದು (Filtration)", "ಕುದಿಸುವುದು", "ಹೆಪ್ಪುಗಟ್ಟಿಸುವುದು"],
+      "options": [
+        "ಕೈಯಿಂದ ಆರಿಸುವುದು",
+        "ಫಿಲ್ಟರ್ ಪೇಪರ್ ಬಳಸಿ ಸೋಸುವುದು (Filtration)",
+        "ಕುದಿಸುವುದು",
+        "ಹೆಪ್ಪುಗಟ್ಟಿಸುವುದು"
+      ],
       "answer": "ಫಿಲ್ಟರ್ ಪೇಪರ್ ಬಳಸಿ ಸೋಸುವುದು (Filtration)",
       "reasoning": "ಫಿಲ್ಟರ್ ಪೇಪರ್ ಅತ್ಯಂತ ಸೂಕ್ಷ್ಮವಾದ ರಂಧ್ರಗಳನ್ನು ಹೊಂದಿದ್ದು, ಅದು ಸೆಡಿಮೆಂಟೇಶನ್ ಸಮಯದಲ್ಲಿ ತಳವೂರದ ಚಿಕ್ಕ ಮಣ್ಣಿನ ಕಣಗಳನ್ನು ಸಹ ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "c6_sci_ss_8",
     "difficulty": 1,
     "en": {
       "question": "What process is used to separate salt from sea water?",
-      "options": ["Filtration", "Handpicking", "Evaporation", "Sieving"],
+      "options": [
+        "Filtration",
+        "Handpicking",
+        "Evaporation",
+        "Sieving"
+      ],
       "answer": "Evaporation",
       "reasoning": "When sea water is heated or left in the sun, the water evaporates into gas, leaving the solid salt crystals behind."
     },
     "kn": {
       "question": "ಸಮುದ್ರದ ನೀರಿನಿಂದ ಉಪ್ಪನ್ನು ಬೇರ್ಪಡಿಸಲು ಯಾವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
-      "options": ["ಸೋಸುವಿಕೆ", "ಕೈಯಿಂದ ಆರಿಸುವುದು", "ಆವಿಯಾಗುವಿಕೆ (Evaporation)", "ಜರಡಿ ಹಿಡಿಯುವುದು"],
+      "options": [
+        "ಸೋಸುವಿಕೆ",
+        "ಕೈಯಿಂದ ಆರಿಸುವುದು",
+        "ಆವಿಯಾಗುವಿಕೆ (Evaporation)",
+        "ಜರಡಿ ಹಿಡಿಯುವುದು"
+      ],
       "answer": "ಆವಿಯಾಗುವಿಕೆ (Evaporation)",
       "reasoning": "ಸಮುದ್ರದ ನೀರನ್ನು ಬಿಸಿಮಾಡಿದಾಗ ಅಥವಾ ಬಿಸಿಲಿನಲ್ಲಿ ಬಿಟ್ಟಾಗ, ನೀರು ಆವಿಯಾಗಿ ಹೋಗುತ್ತದೆ, ಘನ ಉಪ್ಪಿನ ಹರಳುಗಳು (crystals) ಉಳಿಯುತ್ತವೆ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "c6_sci_ss_9",
     "difficulty": 2,
     "en": {
       "question": "The process of conversion of water vapour into its liquid form (like water drops on a cold plate) is called:",
-      "options": ["Condensation", "Evaporation", "Sublimation", "Melting"],
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Sublimation",
+        "Melting"
+      ],
       "answer": "Condensation",
       "reasoning": "When hot water vapour touches a cool surface, it cools down and turns back into liquid water. This is condensation."
     },
     "kn": {
       "question": "ನೀರಿನ ಆವಿಯು ದ್ರವ ರೂಪಕ್ಕೆ ಬದಲಾಗುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು (ಉದಾಹರಣೆಗೆ ತಣ್ಣನೆಯ ತಟ್ಟೆಯ ಮೇಲಿನ ನೀರಿನ ಹನಿಗಳು) ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
-      "options": ["ಸಾಂದ್ರೀಕರಣ (Condensation)", "ಆವಿಯಾಗುವಿಕೆ (Evaporation)", "ಉತ್ಪತನ (Sublimation)", "ಕರಗುವಿಕೆ (Melting)"],
+      "options": [
+        "ಸಾಂದ್ರೀಕರಣ (Condensation)",
+        "ಆವಿಯಾಗುವಿಕೆ (Evaporation)",
+        "ಉತ್ಪತನ (Sublimation)",
+        "ಕರಗುವಿಕೆ (Melting)"
+      ],
       "answer": "ಸಾಂದ್ರೀಕರಣ (Condensation)",
       "reasoning": "ಬಿಸಿ ನೀರಿನ ಆವಿಯು ತಂಪಾದ ಮೇಲ್ಮೈಯನ್ನು ಸ್ಪರ್ಶಿಸಿದಾಗ, ಅದು ತಣ್ಣಗಾಗಿ ಮತ್ತೆ ದ್ರವ ನೀರಾಗಿ ಬದಲಾಗುತ್ತದೆ. ಇದೇ ಸಾಂದ್ರೀಕರಣ (condensation)."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "c6_sci_ss_10",
     "difficulty": 3,
     "en": {
       "question": "If you keep adding salt to a glass of water and stirring, eventually the salt stops dissolving and settles at the bottom. The solution is now:",
-      "options": ["An unsaturated solution", "A saturated solution", "A pure solution", "A boiled solution"],
+      "options": [
+        "An unsaturated solution",
+        "A saturated solution",
+        "A pure solution",
+        "A boiled solution"
+      ],
       "answer": "A saturated solution",
       "reasoning": "A saturated solution is one in which no more of that substance can be dissolved at that temperature."
     },
     "kn": {
       "question": "ನೀವು ಒಂದು ಲೋಟ ನೀರಿಗೆ ಉಪ್ಪನ್ನು ಸೇರಿಸುತ್ತಲೇ ಇದ್ದರೆ ಮತ್ತು ಕಲಕುತ್ತಿದ್ದರೆ, ಅಂತಿಮವಾಗಿ ಉಪ್ಪು ಕರಗುವುದನ್ನು ನಿಲ್ಲಿಸುತ್ತದೆ ಮತ್ತು ತಳದಲ್ಲಿ ನೆಲೆಗೊಳ್ಳುತ್ತದೆ. ಆ ದ್ರಾವಣ (solution) ಈಗ ಏನಾಗಿದೆ?",
-      "options": ["ಅಪರ್ಯಾಪ್ತ ದ್ರಾವಣ (unsaturated solution)", "ಪರ್ಯಾಪ್ತ ದ್ರಾವಣ (saturated solution)", "ಶುದ್ಧ ದ್ರಾವಣ", "ಕುದಿಸಿದ ದ್ರಾವಣ"],
+      "options": [
+        "ಅಪರ್ಯಾಪ್ತ ದ್ರಾವಣ (unsaturated solution)",
+        "ಪರ್ಯಾಪ್ತ ದ್ರಾವಣ (saturated solution)",
+        "ಶುದ್ಧ ದ್ರಾವಣ",
+        "ಕುದಿಸಿದ ದ್ರಾವಣ"
+      ],
       "answer": "ಪರ್ಯಾಪ್ತ ದ್ರಾವಣ (saturated solution)",
       "reasoning": "ಪರ್ಯಾಪ್ತ ದ್ರಾವಣ (saturated solution) ಎಂದರೆ ಆ ನಿರ್ದಿಷ್ಟ ತಾಪಮಾನದಲ್ಲಿ ಆ ವಸ್ತುವನ್ನು ಇನ್ನಷ್ಟು ಕರಗಿಸಲು ಸಾಧ್ಯವಿಲ್ಲದ ದ್ರಾವಣವಾಗಿದೆ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "c6_sci_ss_11",
     "difficulty": 2,
     "en": {
       "question": "How can you dissolve MORE salt into a solution that is already saturated at room temperature?",
-      "options": ["By cooling the water", "By filtering the water", "By heating the water", "By adding sand to the water"],
+      "options": [
+        "By cooling the water",
+        "By filtering the water",
+        "By heating the water",
+        "By adding sand to the water"
+      ],
       "answer": "By heating the water",
       "reasoning": "Heating a solvent (like water) usually increases its capacity to dissolve solutes (like salt). So, hot water can hold more dissolved salt than cold water."
     },
     "kn": {
       "question": "ಕೊಠಡಿಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ (room temperature) ಈಗಾಗಲೇ ಪರ್ಯಾಪ್ತಗೊಂಡಿರುವ (saturated) ದ್ರಾವಣದಲ್ಲಿ ನೀವು ಹೆಚ್ಚು ಉಪ್ಪನ್ನು ಹೇಗೆ ಕರಗಿಸಬಹುದು?",
-      "options": ["ನೀರನ್ನು ತಂಪಾಗಿಸುವ ಮೂಲಕ", "ನೀರನ್ನು ಸೋಸುವ ಮೂಲಕ", "ನೀರನ್ನು ಬಿಸಿಮಾಡುವ ಮೂಲಕ", "ನೀರಿಗೆ ಮರಳನ್ನು ಸೇರಿಸುವ ಮೂಲಕ"],
+      "options": [
+        "ನೀರನ್ನು ತಂಪಾಗಿಸುವ ಮೂಲಕ",
+        "ನೀರನ್ನು ಸೋಸುವ ಮೂಲಕ",
+        "ನೀರನ್ನು ಬಿಸಿಮಾಡುವ ಮೂಲಕ",
+        "ನೀರಿಗೆ ಮರಳನ್ನು ಸೇರಿಸುವ ಮೂಲಕ"
+      ],
       "answer": "ನೀರನ್ನು ಬಿಸಿಮಾಡುವ ಮೂಲಕ",
       "reasoning": "ದ್ರಾವಕವನ್ನು (ನೀರಿನಂತೆ) ಬಿಸಿಮಾಡುವುದರಿಂದ ಸಾಮಾನ್ಯವಾಗಿ ಕರಗುವ (ಉಪ್ಪಿನಂತೆ) ಸಾಮರ್ಥ್ಯ ಹೆಚ್ಚಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಬಿಸಿ ನೀರು ತಣ್ಣೀರಿಗಿಂತ ಹೆಚ್ಚು ಕರಗಿದ ಉಪ್ಪನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "c6_sci_ss_12",
     "difficulty": 2,
     "en": {
       "question": "To separate tea leaves from prepared tea, which method is best?",
-      "options": ["Decantation", "Filtration using a strainer", "Winnowing", "Evaporation"],
+      "options": [
+        "Decantation",
+        "Filtration using a strainer",
+        "Winnowing",
+        "Evaporation"
+      ],
       "answer": "Filtration using a strainer",
       "reasoning": "A tea strainer acts as a filter, allowing the liquid tea to pass through while catching the solid tea leaves."
     },
     "kn": {
       "question": "ತಯಾರಿಸಿದ ಚಹಾದಿಂದ ಚಹಾ ಎಲೆಗಳನ್ನು (tea leaves) ಬೇರ್ಪಡಿಸಲು ಯಾವ ವಿಧಾನವು ಉತ್ತಮವಾಗಿದೆ?",
-      "options": ["ಬಗ್ಗಿಸುವುದು (Decantation)", "ಸ್ಟ್ರೈನರ್ (ಸೋಸುವ ಜಾಲರಿ) ಬಳಸಿ ಸೋಸುವುದು", "ತೂರುವುದು", "ಆವಿಯಾಗುವಿಕೆ"],
+      "options": [
+        "ಬಗ್ಗಿಸುವುದು (Decantation)",
+        "ಸ್ಟ್ರೈನರ್ (ಸೋಸುವ ಜಾಲರಿ) ಬಳಸಿ ಸೋಸುವುದು",
+        "ತೂರುವುದು",
+        "ಆವಿಯಾಗುವಿಕೆ"
+      ],
       "answer": "ಸ್ಟ್ರೈನರ್ (ಸೋಸುವ ಜಾಲರಿ) ಬಳಸಿ ಸೋಸುವುದು",
       "reasoning": "ಚಹಾ ಸೋಸುವ ಜಾಲರಿಯು ಫಿಲ್ಟರ್‌ನಂತೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ, ದ್ರವ ಚಹಾವು ಹಾದುಹೋಗಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ ಮತ್ತು ಘನ ಚಹಾ ಎಲೆಗಳನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "c6_sci_ss_13",
     "difficulty": 3,
     "en": {
       "question": "How would you separate a mixture of sand and salt?",
-      "options": ["Handpick the sand", "Use a magnet", "Mix with water, filter the sand, then evaporate the water to get salt", "Winnowing"],
+      "options": [
+        "Handpick the sand",
+        "Use a magnet",
+        "Mix with water, filter the sand, then evaporate the water to get salt",
+        "Winnowing"
+      ],
       "answer": "Mix with water, filter the sand, then evaporate the water to get salt",
       "reasoning": "Salt dissolves in water, sand does not. Filter the mixture to remove the solid sand. Then, heat the remaining saltwater until the water evaporates, leaving the salt."
     },
     "kn": {
       "question": "ಮರಳು ಮತ್ತು ಉಪ್ಪಿನ ಮಿಶ್ರಣವನ್ನು ನೀವು ಹೇಗೆ ಬೇರ್ಪಡಿಸುತ್ತೀರಿ?",
-      "options": ["ಕೈಯಿಂದ ಮರಳನ್ನು ಆರಿಸುವುದು", "ಕಾಂತವನ್ನು ಬಳಸುವುದು", "ನೀರಿನೊಂದಿಗೆ ಬೆರೆಸಿ, ಮರಳನ್ನು ಸೋಸಿ (filter), ನಂತರ ಉಪ್ಪನ್ನು ಪಡೆಯಲು ನೀರನ್ನು ಆವಿಯಾಗಿಸುವುದು", "ತೂರುವುದು (Winnowing)"],
+      "options": [
+        "ಕೈಯಿಂದ ಮರಳನ್ನು ಆರಿಸುವುದು",
+        "ಕಾಂತವನ್ನು ಬಳಸುವುದು",
+        "ನೀರಿನೊಂದಿಗೆ ಬೆರೆಸಿ, ಮರಳನ್ನು ಸೋಸಿ (filter), ನಂತರ ಉಪ್ಪನ್ನು ಪಡೆಯಲು ನೀರನ್ನು ಆವಿಯಾಗಿಸುವುದು",
+        "ತೂರುವುದು (Winnowing)"
+      ],
       "answer": "ನೀರಿನೊಂದಿಗೆ ಬೆರೆಸಿ, ಮರಳನ್ನು ಸೋಸಿ (filter), ನಂತರ ಉಪ್ಪನ್ನು ಪಡೆಯಲು ನೀರನ್ನು ಆವಿಯಾಗಿಸುವುದು",
       "reasoning": "ಉಪ್ಪು ನೀರಿನಲ್ಲಿ ಕರಗುತ್ತದೆ, ಮರಳು ಕರಗುವುದಿಲ್ಲ. ಘನ ಮರಳನ್ನು ತೆಗೆದುಹಾಕಲು ಮಿಶ್ರಣವನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಿ. ನಂತರ, ನೀರು ಆವಿಯಾಗುವವರೆಗೆ ಉಳಿದ ಉಪ್ಪುನೀರನ್ನು ಬಿಸಿಮಾಡಿ, ಉಪ್ಪನ್ನು ಪಡೆಯಿರಿ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "c6_sci_ss_14",
     "difficulty": 1,
     "en": {
       "question": "Why is it necessary to separate substances in a mixture?",
-      "options": ["To remove harmful or non-useful substances", "To change the colour of the mixture", "To make the mixture heavier", "To increase the temperature"],
+      "options": [
+        "To remove harmful or non-useful substances",
+        "To change the colour of the mixture",
+        "To make the mixture heavier",
+        "To increase the temperature"
+      ],
       "answer": "To remove harmful or non-useful substances",
       "reasoning": "We separate components to remove impurities (like stones in rice), or to separate two useful components (like churning milk to get butter)."
     },
     "kn": {
       "question": "ಮಿಶ್ರಣದಲ್ಲಿರುವ ವಸ್ತುಗಳನ್ನು ಬೇರ್ಪಡಿಸುವುದು ಏಕೆ ಅಗತ್ಯ?",
-      "options": ["ಹಾನಿಕಾರಕ ಅಥವಾ ಉಪಯೋಗವಿಲ್ಲದ ವಸ್ತುಗಳನ್ನು ತೆಗೆದುಹಾಕಲು", "ಮಿಶ್ರಣದ ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸಲು", "ಮಿಶ್ರಣವನ್ನು ಭಾರವಾಗಿಸಲು", "ತಾಪಮಾನವನ್ನು ಹೆಚ್ಚಿಸಲು"],
+      "options": [
+        "ಹಾನಿಕಾರಕ ಅಥವಾ ಉಪಯೋಗವಿಲ್ಲದ ವಸ್ತುಗಳನ್ನು ತೆಗೆದುಹಾಕಲು",
+        "ಮಿಶ್ರಣದ ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸಲು",
+        "ಮಿಶ್ರಣವನ್ನು ಭಾರವಾಗಿಸಲು",
+        "ತಾಪಮಾನವನ್ನು ಹೆಚ್ಚಿಸಲು"
+      ],
       "answer": "ಹಾನಿಕಾರಕ ಅಥವಾ ಉಪಯೋಗವಿಲ್ಲದ ವಸ್ತುಗಳನ್ನು ತೆಗೆದುಹಾಕಲು",
       "reasoning": "ಕಲ್ಮಶಗಳನ್ನು (ಅಕ್ಕಿಯಲ್ಲಿರುವ ಕಲ್ಲುಗಳಂತೆ) ತೆಗೆದುಹಾಕಲು ಅಥವಾ ಎರಡು ಉಪಯುಕ್ತ ಘಟಕಗಳನ್ನು (ಬೆಣ್ಣೆ ಪಡೆಯಲು ಹಾಲನ್ನು ಕಡೆಯುವಂತೆ) ಬೇರ್ಪಡಿಸಲು ನಾವು ಘಟಕಗಳನ್ನು ಬೇರ್ಪಡಿಸುತ್ತೇವೆ."
-    }
+    },
+    "type": "single"
   },
   {
     "id": "c6_sci_ss_15",
     "difficulty": 2,
     "en": {
       "question": "When separating paneer (cottage cheese) from milk, lemon juice is added to boiling milk to make it curdle. How is the solid paneer then separated from the liquid?",
-      "options": ["By evaporation", "By using a magnet", "By filtration using a fine cloth or strainer", "By sedimentation"],
+      "options": [
+        "By evaporation",
+        "By using a magnet",
+        "By filtration using a fine cloth or strainer",
+        "By sedimentation"
+      ],
       "answer": "By filtration using a fine cloth or strainer",
       "reasoning": "The curdled milk is poured through a fine cloth. The cloth acts as a filter, trapping the solid paneer while letting the liquid whey pass through."
     },
     "kn": {
       "question": "ಹಾಲಿನಿಂದ ಪನೀರ್ ಅನ್ನು ಬೇರ್ಪಡಿಸುವಾಗ, ಕುದಿಯುವ ಹಾಲನ್ನು ಒಡೆಯಲು ನಿಂಬೆ ರಸವನ್ನು ಸೇರಿಸಲಾಗುತ್ತದೆ. ನಂತರ ಘನ ಪನೀರ್ ಅನ್ನು ದ್ರವದಿಂದ ಹೇಗೆ ಬೇರ್ಪಡಿಸಲಾಗುತ್ತದೆ?",
-      "options": ["ಆವಿಯಾಗಿಸುವ ಮೂಲಕ", "ಕಾಂತವನ್ನು ಬಳಸುವ ಮೂಲಕ", "ಒಂದು ಉತ್ತಮವಾದ ಬಟ್ಟೆ ಅಥವಾ ಜಾಲರಿ (strainer) ಬಳಸಿ ಸೋಸುವ ಮೂಲಕ", "ತಳವೂರಲು ಬಿಡುವ ಮೂಲಕ (sedimentation)"],
+      "options": [
+        "ಆವಿಯಾಗಿಸುವ ಮೂಲಕ",
+        "ಕಾಂತವನ್ನು ಬಳಸುವ ಮೂಲಕ",
+        "ಒಂದು ಉತ್ತಮವಾದ ಬಟ್ಟೆ ಅಥವಾ ಜಾಲರಿ (strainer) ಬಳಸಿ ಸೋಸುವ ಮೂಲಕ",
+        "ತಳವೂರಲು ಬಿಡುವ ಮೂಲಕ (sedimentation)"
+      ],
       "answer": "ಒಂದು ಉತ್ತಮವಾದ ಬಟ್ಟೆ ಅಥವಾ ಜಾಲರಿ (strainer) ಬಳಸಿ ಸೋಸುವ ಮೂಲಕ",
       "reasoning": "ಒಡೆದ ಹಾಲನ್ನು ಉತ್ತಮವಾದ ಬಟ್ಟೆಯ ಮೂಲಕ ಸುರಿಯಲಾಗುತ್ತದೆ. ಬಟ್ಟೆಯು ಫಿಲ್ಟರ್‌ನಂತೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ, ದ್ರವವನ್ನು ಹಾದುಹೋಗಲು ಬಿಟ್ಟು ಘನ ಪನೀರ್ ಅನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ."
+    },
+    "type": "single"
+  },
+  {
+    "id": "c6_sci_ss_16",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which method is used to separate butter from milk?",
+      "options": [
+        "Churning",
+        "Filtration",
+        "Decantation",
+        "Winnowing"
+      ],
+      "answer": "Churning",
+      "reasoning": "Churning is a process of shaking or stirring milk or cream continuously to separate the lighter butter from the liquid buttermilk."
+    },
+    "kn": {
+      "question": "ಹಾಲಿನಿಂದ ಬೆಣ್ಣೆಯನ್ನು ಬೇರ್ಪಡಿಸಲು ಯಾವ ವಿಧಾನವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಕಡೆಯುವುದು (Churning)",
+        "ಸೋಸುವಿಕೆ",
+        "ಬಗ್ಗಿಸುವುದು",
+        "ತೂರುವುದು"
+      ],
+      "answer": "ಕಡೆಯುವುದು (Churning)",
+      "reasoning": "ಹಗುರವಾದ ಬೆಣ್ಣೆಯನ್ನು ದ್ರವ ಮಜ್ಜಿಗೆಯಿಂದ ಬೇರ್ಪಡಿಸಲು ಹಾಲು ಅಥವಾ ಕೆನೆಯನ್ನು ನಿರಂತರವಾಗಿ ಕಡೆಯುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು (Churning) ಬಳಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ss_17",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "A mixture of oil and water can be separated by which of the following methods?",
+      "options": [
+        "Filtration",
+        "Decantation",
+        "Evaporation",
+        "Sieving"
+      ],
+      "answer": "Decantation",
+      "reasoning": "Oil and water form two separate layers because oil is lighter than water. The top layer (oil) can be separated by decantation."
+    },
+    "kn": {
+      "question": "ಎಣ್ಣೆ ಮತ್ತು ನೀರಿನ ಮಿಶ್ರಣವನ್ನು ಕೆಳಗಿನ ಯಾವ ವಿಧಾನದಿಂದ ಬೇರ್ಪಡಿಸಬಹುದು?",
+      "options": [
+        "ಸೋಸುವಿಕೆ",
+        "ಬಗ್ಗಿಸುವುದು (Decantation)",
+        "ಆವಿಯಾಗುವಿಕೆ",
+        "ಜರಡಿ ಹಿಡಿಯುವುದು"
+      ],
+      "answer": "ಬಗ್ಗಿಸುವುದು (Decantation)",
+      "reasoning": "ಎಣ್ಣೆಯು ನೀರಿಗಿಂತ ಹಗುರವಾಗಿರುವುದರಿಂದ ಎಣ್ಣೆ ಮತ್ತು ನೀರು ಎರಡು ಪ್ರತ್ಯೇಕ ಪದರಗಳನ್ನು ರೂಪಿಸುತ್ತವೆ. ಮೇಲಿನ ಪದರವನ್ನು (ಎಣ್ಣೆ) ಬಗ್ಗಿಸುವ ಮೂಲಕ (decantation) ಬೇರ್ಪಡಿಸಬಹುದು."
+    }
+  },
+  {
+    "id": "c6_sci_ss_18",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following mixtures can be separated using filtration?",
+      "options": [
+        "Sand and water",
+        "Salt and water",
+        "Tea leaves and prepared tea",
+        "Chalk powder and water"
+      ],
+      "answer": [
+        "Sand and water",
+        "Tea leaves and prepared tea",
+        "Chalk powder and water"
+      ],
+      "reasoning": "Filtration is used to separate solid, insoluble particles from a liquid. Salt and water cannot be separated this way because salt dissolves completely."
+    },
+    "kn": {
+      "question": "ಸೋಸುವಿಕೆಯ (filtration) ಮೂಲಕ ಕೆಳಗಿನ ಯಾವ ಮಿಶ್ರಣಗಳನ್ನು ಬೇರ್ಪಡಿಸಬಹುದು?",
+      "options": [
+        "ಮರಳು ಮತ್ತು ನೀರು",
+        "ಉಪ್ಪು ಮತ್ತು ನೀರು",
+        "ಚಹಾ ಎಲೆಗಳು ಮತ್ತು ತಯಾರಿಸಿದ ಚಹಾ",
+        "ಸೀಮೆಸುಣ್ಣದ ಪುಡಿ (Chalk powder) ಮತ್ತು ನೀರು"
+      ],
+      "answer": [
+        "ಮರಳು ಮತ್ತು ನೀರು",
+        "ಚಹಾ ಎಲೆಗಳು ಮತ್ತು ತಯಾರಿಸಿದ ಚಹಾ",
+        "ಸೀಮೆಸುಣ್ಣದ ಪುಡಿ (Chalk powder) ಮತ್ತು ನೀರು"
+      ],
+      "reasoning": "ಕರಗದ ಘನ ಕಣಗಳನ್ನು ದ್ರವದಿಂದ ಬೇರ್ಪಡಿಸಲು ಸೋಸುವಿಕೆಯನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಉಪ್ಪು ನೀರಿನಲ್ಲಿ ಸಂಪೂರ್ಣವಾಗಿ ಕರಗುವುದರಿಂದ ಉಪ್ಪು ಮತ್ತು ನೀರನ್ನು ಈ ರೀತಿ ಬೇರ್ಪಡಿಸಲಾಗುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_sci_ss_19",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the property difference used for separation to the correct method:",
+      "pairs": {
+        "Difference in size": "Sieving",
+        "Difference in weight": "Winnowing",
+        "Solubility in water": "Evaporation",
+        "Heavier insoluble particles settling down": "Sedimentation"
+      },
+      "reasoning": "Each separation method relies on a specific physical property. Sieving uses size differences, winnowing uses weight, evaporation uses state changes of solvents, and sedimentation relies on dense solids settling in a liquid."
+    },
+    "kn": {
+      "question": "ಬೇರ್ಪಡಿಸಲು ಬಳಸುವ ಗುಣಲಕ್ಷಣದ ವ್ಯತ್ಯಾಸವನ್ನು ಸರಿಯಾದ ವಿಧಾನಕ್ಕೆ ಹೊಂದಿಸಿ:",
+      "pairs": {
+        "ಗಾತ್ರದಲ್ಲಿನ ವ್ಯತ್ಯಾಸ": "ಜರಡಿ ಹಿಡಿಯುವುದು (Sieving)",
+        "ತೂಕದಲ್ಲಿನ ವ್ಯತ್ಯಾಸ": "ತೂರುವುದು (Winnowing)",
+        "ನೀರಿನಲ್ಲಿ ಕರಗುವಿಕೆ": "ಆವಿಯಾಗುವಿಕೆ (Evaporation)",
+        "ಭಾರವಾದ ಕರಗದ ಕಣಗಳು ತಳವೂರುವುದು": "ತಳವೂರಲು ಬಿಡುವುದು (Sedimentation)"
+      },
+      "reasoning": "ಪ್ರತಿ ಬೇರ್ಪಡಿಸುವ ವಿಧಾನವು ನಿರ್ದಿಷ್ಟ ಭೌತಿಕ ಗುಣಲಕ್ಷಣವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ. ಜರಡಿಯು ಗಾತ್ರದ ವ್ಯತ್ಯಾಸಗಳನ್ನು ಬಳಸುತ್ತದೆ, ತೂರುವುದು ತೂಕವನ್ನು ಬಳಸುತ್ತದೆ, ಆವಿಯಾಗುವಿಕೆಯು ದ್ರಾವಕಗಳ ಸ್ಥಿತಿಯ ಬದಲಾವಣೆಗಳನ್ನು ಬಳಸುತ್ತದೆ, ಮತ್ತು ಸೆಡಿಮೆಂಟೇಶನ್ ದ್ರವದಲ್ಲಿ ನೆಲೆಗೊಳ್ಳುವ ದಟ್ಟವಾದ ಘನವಸ್ತುಗಳನ್ನು ಅವಲಂಬಿಸಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ss_20",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following are considered 'mixtures'?",
+      "options": [
+        "Sea water",
+        "Air",
+        "Pure gold",
+        "Soil"
+      ],
+      "answer": [
+        "Sea water",
+        "Air",
+        "Soil"
+      ],
+      "reasoning": "Sea water, air, and soil consist of more than one substance mixed together. Pure gold consists of only one type of substance."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು 'ಮಿಶ್ರಣಗಳು' ಎಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ?",
+      "options": [
+        "ಸಮುದ್ರದ ನೀರು",
+        "ಗಾಳಿ",
+        "ಶುದ್ಧ ಚಿನ್ನ",
+        "ಮಣ್ಣು"
+      ],
+      "answer": [
+        "ಸಮುದ್ರದ ನೀರು",
+        "ಗಾಳಿ",
+        "ಮಣ್ಣು"
+      ],
+      "reasoning": "ಸಮುದ್ರದ ನೀರು, ಗಾಳಿ ಮತ್ತು ಮಣ್ಣು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ವಸ್ತುಗಳನ್ನು ಒಟ್ಟಿಗೆ ಬೆರೆಸಿರುತ್ತವೆ. ಶುದ್ಧ ಚಿನ್ನವು ಕೇವಲ ಒಂದು ರೀತಿಯ ವಸ್ತುವನ್ನು ಹೊಂದಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ss_21",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "The substance that dissolves in a liquid is called a:",
+      "options": [
+        "Solvent",
+        "Solute",
+        "Solution",
+        "Sediment"
+      ],
+      "answer": "Solute",
+      "reasoning": "The solute is the substance being dissolved (e.g., salt), and the solvent is the liquid it dissolves in (e.g., water)."
+    },
+    "kn": {
+      "question": "ದ್ರವದಲ್ಲಿ ಕರಗುವ ವಸ್ತುವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ದ್ರಾವಕ (Solvent)",
+        "ದ್ರಾವ್ಯ (Solute)",
+        "ದ್ರಾವಣ (Solution)",
+        "ಘನವಸ್ತು (Sediment)"
+      ],
+      "answer": "ದ್ರಾವ್ಯ (Solute)",
+      "reasoning": "ದ್ರಾವ್ಯವು (solute) ಕರಗುತ್ತಿರುವ ವಸ್ತುವಾಗಿದೆ (ಉದಾ: ಉಪ್ಪು), ಮತ್ತು ದ್ರಾವಕವು (solvent) ಅದು ಕರಗುವ ದ್ರವವಾಗಿದೆ (ಉದಾ: ನೀರು)."
+    }
+  },
+  {
+    "id": "c6_sci_ss_22",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "A mixture of iron filings and sulphur powder can be separated by:",
+      "options": [
+        "Handpicking",
+        "Winnowing",
+        "Using a magnet",
+        "Filtration"
+      ],
+      "answer": "Using a magnet",
+      "reasoning": "Iron filings are magnetic and will be attracted to the magnet, leaving the non-magnetic sulphur powder behind."
+    },
+    "kn": {
+      "question": "ಕಬ್ಬಿಣದ ಪುಡಿ (iron filings) ಮತ್ತು ಸಲ್ಫರ್ ಪುಡಿಯ ಮಿಶ್ರಣವನ್ನು ಇದರಿಂದ ಬೇರ್ಪಡಿಸಬಹುದು:",
+      "options": [
+        "ಕೈಯಿಂದ ಆರಿಸುವುದು",
+        "ತೂರುವುದು",
+        "ಕಾಂತವನ್ನು (magnet) ಬಳಸುವುದು",
+        "ಸೋಸುವಿಕೆ"
+      ],
+      "answer": "ಕಾಂತವನ್ನು (magnet) ಬಳಸುವುದು",
+      "reasoning": "ಕಬ್ಬಿಣದ ತುಣುಕುಗಳು ಕಾಂತೀಯವಾಗಿವೆ ಮತ್ತು ಕಾಂತಕ್ಕೆ ಆಕರ್ಷಿತವಾಗುತ್ತವೆ, ಕಾಂತೀಯವಲ್ಲದ ಸಲ್ಫರ್ ಪುಡಿಯನ್ನು ಹಾಗೆ ಉಳಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ss_23",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the mixture with the best method to separate it:",
+      "pairs": {
+        "Salt and water": "Evaporation",
+        "Mud and water": "Filtration",
+        "Wheat grains and husk": "Winnowing",
+        "Stones from rice": "Handpicking"
+      },
+      "reasoning": "Evaporation separates dissolved solids. Filtration removes insoluble fine solids. Winnowing uses wind for weight difference. Handpicking removes visible impurities by hand."
+    },
+    "kn": {
+      "question": "ಮಿಶ್ರಣವನ್ನು ಬೇರ್ಪಡಿಸಲು ಉತ್ತಮ ವಿಧಾನದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": {
+        "ಉಪ್ಪು ಮತ್ತು ನೀರು": "ಆವಿಯಾಗುವಿಕೆ (Evaporation)",
+        "ಮಣ್ಣು ಮತ್ತು ನೀರು": "ಸೋಸುವಿಕೆ (Filtration)",
+        "ಗೋಧಿ ಕಾಳುಗಳು ಮತ್ತು ಹೊಟ್ಟು": "ತೂರುವುದು (Winnowing)",
+        "ಅಕ್ಕಿಯಿಂದ ಕಲ್ಲುಗಳು": "ಕೈಯಿಂದ ಆರಿಸುವುದು (Handpicking)"
+      },
+      "reasoning": "ಆವಿಯಾಗುವಿಕೆಯು ಕರಗಿದ ಘನವಸ್ತುಗಳನ್ನು ಬೇರ್ಪಡಿಸುತ್ತದೆ. ಫಿಲ್ಟರೇಶನ್ ಕರಗದ ಸೂಕ್ಷ್ಮ ಘನವಸ್ತುಗಳನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ. ತೂರುವುದು ತೂಕದ ವ್ಯತ್ಯಾಸಕ್ಕಾಗಿ ಗಾಳಿಯನ್ನು ಬಳಸುತ್ತದೆ. ಕೈಯಿಂದ ಆರಿಸುವುದು ಗೋಚರಿಸುವ ಕಲ್ಮಶಗಳನ್ನು ಕೈಯಿಂದ ತೆಗೆದುಹಾಕುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ss_24",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which factors can increase the amount of sugar that can dissolve in a glass of water?",
+      "options": [
+        "Heating the water",
+        "Stirring the water continuously",
+        "Cooling the water",
+        "Adding more water"
+      ],
+      "answer": [
+        "Heating the water",
+        "Adding more water"
+      ],
+      "reasoning": "Heating the solvent or adding more solvent (water) increases the capacity to dissolve a solute. Stirring only makes it dissolve faster, but doesn't increase the total amount that can dissolve."
+    },
+    "kn": {
+      "question": "ಒಂದು ಲೋಟ ನೀರಿನಲ್ಲಿ ಕರಗುವ ಸಕ್ಕರೆಯ ಪ್ರಮಾಣವನ್ನು ಯಾವ ಅಂಶಗಳು ಹೆಚ್ಚಿಸಬಹುದು?",
+      "options": [
+        "ನೀರನ್ನು ಬಿಸಿಮಾಡುವುದು",
+        "ನೀರನ್ನು ನಿರಂತರವಾಗಿ ಕಲಕುವುದು",
+        "ನೀರನ್ನು ತಂಪಾಗಿಸುವುದು",
+        "ಹೆಚ್ಚು ನೀರನ್ನು ಸೇರಿಸುವುದು"
+      ],
+      "answer": [
+        "ನೀರನ್ನು ಬಿಸಿಮಾಡುವುದು",
+        "ಹೆಚ್ಚು ನೀರನ್ನು ಸೇರಿಸುವುದು"
+      ],
+      "reasoning": "ದ್ರಾವಕವನ್ನು ಬಿಸಿಮಾಡುವುದು ಅಥವಾ ಹೆಚ್ಚು ದ್ರಾವಕವನ್ನು (ನೀರು) ಸೇರಿಸುವುದು ದ್ರಾವ್ಯವನ್ನು ಕರಗಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ. ಕಲಕುವುದು ಕೇವಲ ವೇಗವಾಗಿ ಕರಗುವಂತೆ ಮಾಡುತ್ತದೆ, ಆದರೆ ಕರಗಬಲ್ಲ ಒಟ್ಟು ಪ್ರಮಾಣವನ್ನು ಹೆಚ್ಚಿಸುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_sci_ss_25",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Water droplets forming on the outer surface of a glass containing ice-cold water is an example of:",
+      "options": [
+        "Evaporation",
+        "Condensation",
+        "Sublimation",
+        "Boiling"
+      ],
+      "answer": "Condensation",
+      "reasoning": "Water vapour from the air touches the cold surface of the glass, cools down, and converts back into liquid water droplets. This is condensation."
+    },
+    "kn": {
+      "question": "ಮಂಜುಗಡ್ಡೆಯ ತಣ್ಣನೆಯ ನೀರಿರುವ ಲೋಟದ ಹೊರಮೈಯಲ್ಲಿ ನೀರಿನ ಹನಿಗಳು ರೂಪುಗೊಳ್ಳುವುದು ಇದಕ್ಕೆ ಉದಾಹರಣೆಯಾಗಿದೆ:",
+      "options": [
+        "ಆವಿಯಾಗುವಿಕೆ",
+        "ಸಾಂದ್ರೀಕರಣ (Condensation)",
+        "ಉತ್ಪತನ",
+        "ಕುದಿಯುವಿಕೆ"
+      ],
+      "answer": "ಸಾಂದ್ರೀಕರಣ (Condensation)",
+      "reasoning": "ಗಾಳಿಯಲ್ಲಿರುವ ನೀರಿನ ಆವಿಯು ಗಾಜಿನ ತಂಪಾದ ಮೇಲ್ಮೈಯನ್ನು ಸ್ಪರ್ಶಿಸುತ್ತದೆ, ತಣ್ಣಗಾಗುತ್ತದೆ ಮತ್ತು ಮರಳಿ ದ್ರವ ನೀರಿನ ಹನಿಗಳಾಗಿ ಬದಲಾಗುತ್ತದೆ. ಇದೇ ಸಾಂದ್ರೀಕರಣ."
+    }
+  },
+  {
+    "id": "c6_sci_ss_26",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following scenarios involve evaporation?",
+      "options": [
+        "Drying of wet clothes in the sun",
+        "Obtaining salt from sea water",
+        "Dew drops on grass in the morning",
+        "Melting of ice"
+      ],
+      "answer": [
+        "Drying of wet clothes in the sun",
+        "Obtaining salt from sea water"
+      ],
+      "reasoning": "Evaporation is the conversion of liquid water into vapour. Wet clothes dry because water evaporates, and salt is obtained by evaporating sea water. Dew drops are condensation, and melting is solid to liquid."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಯಾವ ಸನ್ನಿವೇಶಗಳಲ್ಲಿ ಆವಿಯಾಗುವಿಕೆ (evaporation) ಒಳಗೊಂಡಿರುತ್ತದೆ?",
+      "options": [
+        "ಒದ್ದೆಯಾದ ಬಟ್ಟೆಗಳನ್ನು ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸುವುದು",
+        "ಸಮುದ್ರದ ನೀರಿನಿಂದ ಉಪ್ಪನ್ನು ಪಡೆಯುವುದು",
+        "ಬೆಳಿಗ್ಗೆ ಹುಲ್ಲಿನ ಮೇಲಿನ ಇಬ್ಬನಿ ಹನಿಗಳು",
+        "ಮಂಜುಗಡ್ಡೆ ಕರಗುವುದು"
+      ],
+      "answer": [
+        "ಒದ್ದೆಯಾದ ಬಟ್ಟೆಗಳನ್ನು ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸುವುದು",
+        "ಸಮುದ್ರದ ನೀರಿನಿಂದ ಉಪ್ಪನ್ನು ಪಡೆಯುವುದು"
+      ],
+      "reasoning": "ಆವಿಯಾಗುವಿಕೆ ಎಂದರೆ ದ್ರವ ನೀರನ್ನು ಆವಿಯಾಗಿ ಪರಿವರ್ತಿಸುವುದು. ನೀರು ಆವಿಯಾಗುವುದರಿಂದ ಒದ್ದೆಯಾದ ಬಟ್ಟೆಗಳು ಒಣಗುತ್ತವೆ ಮತ್ತು ಸಮುದ್ರದ ನೀರನ್ನು ಆವಿಯಾಗಿಸುವ ಮೂಲಕ ಉಪ್ಪನ್ನು ಪಡೆಯಲಾಗುತ್ತದೆ. ಇಬ್ಬನಿ ಹನಿಗಳು ಸಾಂದ್ರೀಕರಣವಾಗಿದೆ, ಮತ್ತು ಕರಗುವಿಕೆ ಎಂದರೆ ಘನದಿಂದ ದ್ರವಕ್ಕೆ ಬದಲಾಗುವುದು."
+    }
+  },
+  {
+    "id": "c6_sci_ss_27",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the term to its definition:",
+      "pairs": {
+        "Saturated Solution": "A solution in which no more substance can be dissolved.",
+        "Solute": "The substance that is dissolved.",
+        "Solvent": "The liquid in which a substance dissolves.",
+        "Filtrate": "The clear liquid obtained after filtration."
+      },
+      "reasoning": "Understanding these terms is key to chemistry basics in separating substances."
+    },
+    "kn": {
+      "question": "ಪದವನ್ನು ಅದರ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ಹೊಂದಿಸಿ:",
+      "pairs": {
+        "ಪರ್ಯಾಪ್ತ ದ್ರಾವಣ (Saturated Solution)": "ಇನ್ನಷ್ಟು ವಸ್ತುವನ್ನು ಕರಗಿಸಲು ಸಾಧ್ಯವಿಲ್ಲದ ದ್ರಾವಣ.",
+        "ದ್ರಾವ್ಯ (Solute)": "ಕರಗುವ ವಸ್ತು.",
+        "ದ್ರಾವಕ (Solvent)": "ವಸ್ತುವು ಕರಗುವ ದ್ರವ.",
+        "ಶುದ್ಧೀಕರಿಸಿದ ದ್ರವ (Filtrate)": "ಸೋಸುವಿಕೆಯ ನಂತರ ಪಡೆಯಲಾದ ತಿಳಿಯಾದ ದ್ರವ."
+      },
+      "reasoning": "ವಸ್ತುಗಳನ್ನು ಬೇರ್ಪಡಿಸುವ ಮೂಲಭೂತ ರಸಾಯನಶಾಸ್ತ್ರವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಈ ಪದಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಪ್ರಮುಖವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ss_28",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Peanuts are separated from a mixture of roasted peanuts and their red skins by:",
+      "options": [
+        "Winnowing",
+        "Handpicking",
+        "Sieving",
+        "Sedimentation"
+      ],
+      "answer": "Winnowing",
+      "reasoning": "The skin of roasted peanuts is very light, so gently blowing or winnowing removes the skin easily from the heavier peanuts."
+    },
+    "kn": {
+      "question": "ಹುರಿದ ಕಡಲೆಕಾಯಿಗಳು ಮತ್ತು ಅವುಗಳ ಕೆಂಪು ಸಿಪ್ಪೆಗಳ ಮಿಶ್ರಣದಿಂದ ಕಡಲೆಕಾಯಿಗಳನ್ನು ಇದರಿಂದ ಬೇರ್ಪಡಿಸಲಾಗುತ್ತದೆ:",
+      "options": [
+        "ತೂರುವುದು (Winnowing)",
+        "ಕೈಯಿಂದ ಆರಿಸುವುದು",
+        "ಜರಡಿ ಹಿಡಿಯುವುದು",
+        "ತಳವೂರಲು ಬಿಡುವುದು"
+      ],
+      "answer": "ತೂರುವುದು (Winnowing)",
+      "reasoning": "ಹುರಿದ ಕಡಲೆಕಾಯಿಯ ಸಿಪ್ಪೆಯು ತುಂಬಾ ಹಗುರವಾಗಿರುತ್ತದೆ, ಆದ್ದರಿಂದ ನಿಧಾನವಾಗಿ ಊದುವುದು ಅಥವಾ ತೂರುವುದು ಭಾರವಾದ ಕಡಲೆಕಾಯಿಗಳಿಂದ ಸಿಪ್ಪೆಯನ್ನು ಸುಲಭವಾಗಿ ತೆಗೆದುಹಾಕುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ss_29",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "If a mixture contains salt, sand, and iron filings, which methods will you use to completely separate all three components, and in what order?",
+      "options": [
+        "Use a magnet, then dissolve in water, filter, and evaporate.",
+        "Dissolve in water, filter, use a magnet, and evaporate.",
+        "Evaporate, filter, and use a magnet.",
+        "Winnowing, sieving, and handpicking."
+      ],
+      "answer": [
+        "Use a magnet, then dissolve in water, filter, and evaporate."
+      ],
+      "reasoning": "First, the magnet removes the iron filings. Then, mixing with water dissolves the salt. Filtration removes the sand. Finally, evaporation recovers the salt from the water."
+    },
+    "kn": {
+      "question": "ಒಂದು ಮಿಶ್ರಣವು ಉಪ್ಪು, ಮರಳು ಮತ್ತು ಕಬ್ಬಿಣದ ಪುಡಿಯನ್ನು ಹೊಂದಿದ್ದರೆ, ಈ ಮೂರು ಘಟಕಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬೇರ್ಪಡಿಸಲು ನೀವು ಯಾವ ವಿಧಾನಗಳನ್ನು ಮತ್ತು ಯಾವ ಕ್ರಮದಲ್ಲಿ ಬಳಸುತ್ತೀರಿ?",
+      "options": [
+        "ಕಾಂತವನ್ನು (magnet) ಬಳಸಿ, ನಂತರ ನೀರಿನಲ್ಲಿ ಕರಗಿಸಿ, ಸೋಸಿ, ಮತ್ತು ಆವಿಯಾಗಿಸಿ.",
+        "ನೀರಿನಲ್ಲಿ ಕರಗಿಸಿ, ಸೋಸಿ, ಕಾಂತವನ್ನು ಬಳಸಿ, ಮತ್ತು ಆವಿಯಾಗಿಸಿ.",
+        "ಆವಿಯಾಗಿಸಿ, ಸೋಸಿ, ಮತ್ತು ಕಾಂತವನ್ನು ಬಳಸಿ.",
+        "ತೂರುವುದು, ಜರಡಿ ಹಿಡಿಯುವುದು ಮತ್ತು ಕೈಯಿಂದ ಆರಿಸುವುದು."
+      ],
+      "answer": [
+        "ಕಾಂತವನ್ನು (magnet) ಬಳಸಿ, ನಂತರ ನೀರಿನಲ್ಲಿ ಕರಗಿಸಿ, ಸೋಸಿ, ಮತ್ತು ಆವಿಯಾಗಿಸಿ."
+      ],
+      "reasoning": "ಮೊದಲನೆಯದಾಗಿ, ಕಾಂತವು ಕಬ್ಬಿಣದ ತುಣುಕುಗಳನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ. ನಂತರ, ನೀರಿನೊಂದಿಗೆ ಬೆರೆಸುವುದರಿಂದ ಉಪ್ಪು ಕರಗುತ್ತದೆ. ಸೋಸುವಿಕೆಯು ಮರಳನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಆವಿಯಾಗುವಿಕೆಯು ನೀರಿನಿಂದ ಉಪ್ಪನ್ನು ಮರಳಿ ಪಡೆಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ss_30",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "While preparing lemonade, it is easier to dissolve sugar in cold water rather than warm water. Is this statement true or false?",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "reasoning": "Sugar dissolves much faster and in greater quantities in warm or hot water compared to cold water due to increased solubility at higher temperatures."
+    },
+    "kn": {
+      "question": "ನಿಂಬೆ ಪಾನಕವನ್ನು ತಯಾರಿಸುವಾಗ, ಬಿಸಿ ನೀರಿಗಿಂತ ತಣ್ಣೀರಿನಲ್ಲಿ ಸಕ್ಕರೆಯನ್ನು ಕರಗಿಸುವುದು ಸುಲಭ. ಈ ಹೇಳಿಕೆ ನಿಜವೋ ಅಥವಾ ಸುಳ್ಳೋ?",
+      "options": [
+        "ನಿಜ (True)",
+        "ಸುಳ್ಳು (False)"
+      ],
+      "answer": "ಸುಳ್ಳು (False)",
+      "reasoning": "ಹೆಚ್ಚಿನ ತಾಪಮಾನದಲ್ಲಿ ಕರಗುವಿಕೆ ಹೆಚ್ಚಾಗುವುದರಿಂದ ತಣ್ಣೀರಿಗಿಂತ ಬೆಚ್ಚಗಿನ ಅಥವಾ ಬಿಸಿ ನೀರಿನಲ್ಲಿ ಸಕ್ಕರೆಯು ಹೆಚ್ಚು ವೇಗವಾಗಿ ಮತ್ತು ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದಲ್ಲಿ ಕರಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ss_31",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the process of pouring out liquid from a vessel leaving behind the heavier solid particles called?",
+      "options": [
+        "Decantation",
+        "Filtration",
+        "Evaporation",
+        "Condensation"
+      ],
+      "answer": "Decantation",
+      "reasoning": "Decantation happens after sedimentation; the clear liquid is carefully poured off without disturbing the sediment at the bottom."
+    },
+    "kn": {
+      "question": "ಭಾರವಾದ ಘನ ಕಣಗಳನ್ನು ಪಾತ್ರೆಯ ತಳದಲ್ಲಿ ಉಳಿಸಿ ದ್ರವವನ್ನು ಸುರಿಯುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ಬಗ್ಗಿಸುವುದು (Decantation)",
+        "ಸೋಸುವಿಕೆ",
+        "ಆವಿಯಾಗುವಿಕೆ",
+        "ಸಾಂದ್ರೀಕರಣ"
+      ],
+      "answer": "ಬಗ್ಗಿಸುವುದು (Decantation)",
+      "reasoning": "ಬಗ್ಗಿಸುವುದು ತಳವೂರಲು ಬಿಟ್ಟ (sedimentation) ನಂತರ ಸಂಭವಿಸುತ್ತದೆ; ತಳದಲ್ಲಿರುವ ಘನವಸ್ತುವಿಗೆ ತೊಂದರೆಯಾಗದಂತೆ ತಿಳಿಯಾದ ದ್ರವವನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಸುರಿಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ss_32",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these are combinations of separation methods often used together?",
+      "options": [
+        "Sedimentation and Decantation",
+        "Evaporation and Condensation",
+        "Handpicking and Winnowing",
+        "Threshing and Evaporation"
+      ],
+      "answer": [
+        "Sedimentation and Decantation",
+        "Evaporation and Condensation"
+      ],
+      "reasoning": "Sedimentation is naturally followed by decantation to remove the liquid. Evaporation and condensation are used together to purify and recover a solvent (like distilling water)."
+    },
+    "kn": {
+      "question": "ಇವುಗಳಲ್ಲಿ ಯಾವುದು ಆಗಾಗ್ಗೆ ಒಟ್ಟಿಗೆ ಬಳಸಲಾಗುವ ಬೇರ್ಪಡಿಸುವ ವಿಧಾನಗಳ ಸಂಯೋಜನೆಗಳಾಗಿವೆ?",
+      "options": [
+        "ತಳವೂರಲು ಬಿಡುವುದು (Sedimentation) ಮತ್ತು ಬಗ್ಗಿಸುವುದು (Decantation)",
+        "ಆವಿಯಾಗುವಿಕೆ ಮತ್ತು ಸಾಂದ್ರೀಕರಣ",
+        "ಕೈಯಿಂದ ಆರಿಸುವುದು ಮತ್ತು ತೂರುವುದು",
+        "ಒಕ್ಕಣೆ ಮಾಡುವುದು ಮತ್ತು ಆವಿಯಾಗುವಿಕೆ"
+      ],
+      "answer": [
+        "ತಳವೂರಲು ಬಿಡುವುದು (Sedimentation) ಮತ್ತು ಬಗ್ಗಿಸುವುದು (Decantation)",
+        "ಆವಿಯಾಗುವಿಕೆ ಮತ್ತು ಸಾಂದ್ರೀಕರಣ"
+      ],
+      "reasoning": "ದ್ರವವನ್ನು ತೆಗೆದುಹಾಕಲು ಸೆಡಿಮೆಂಟೇಶನ್ ನಂತರ ನೈಸರ್ಗಿಕವಾಗಿ ಬಗ್ಗಿಸುವುದು (decantation) ನಡೆಯುತ್ತದೆ. ದ್ರಾವಕವನ್ನು ಶುದ್ಧೀಕರಿಸಲು ಮತ್ತು ಮರಳಿ ಪಡೆಯಲು (ನೀರನ್ನು ಬಟ್ಟಿ ಇಳಿಸುವಂತೆ) ಆವಿಯಾಗುವಿಕೆ ಮತ್ತು ಸಾಂದ್ರೀಕರಣವನ್ನು ಒಟ್ಟಿಗೆ ಬಳಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ss_33",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the tool/substance with the separation process it's used for:",
+      "pairs": {
+        "Sieve": "Sieving",
+        "Filter paper": "Filtration",
+        "Magnet": "Magnetic separation",
+        "Wind/Air": "Winnowing"
+      },
+      "reasoning": "These are common tools or natural elements used for separating different types of mixtures."
+    },
+    "kn": {
+      "question": "ಉಪಕರಣ/ವಸ್ತುವನ್ನು ಅದು ಬಳಸುವ ಬೇರ್ಪಡಿಸುವ ಪ್ರಕ್ರಿಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": {
+        "ಜರಡಿ (Sieve)": "ಜರಡಿ ಹಿಡಿಯುವುದು (Sieving)",
+        "ಫಿಲ್ಟರ್ ಪೇಪರ್": "ಸೋಸುವಿಕೆ (Filtration)",
+        "ಕಾಂತ (Magnet)": "ಕಾಂತೀಯ ಬೇರ್ಪಡಿಸುವಿಕೆ",
+        "ಗಾಳಿ/ವಾಯು": "ತೂರುವುದು (Winnowing)"
+      },
+      "reasoning": "ಇವು ವಿವಿಧ ರೀತಿಯ ಮಿಶ್ರಣಗಳನ್ನು ಬೇರ್ಪಡಿಸಲು ಬಳಸುವ ಸಾಮಾನ್ಯ ಉಪಕರಣಗಳು ಅಥವಾ ನೈಸರ್ಗಿಕ ಅಂಶಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ss_34",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "If you want to quickly separate a mixture of chalk powder and water, which method is the MOST efficient?",
+      "options": [
+        "Filtration",
+        "Decantation",
+        "Handpicking",
+        "Evaporation"
+      ],
+      "answer": "Filtration",
+      "reasoning": "Chalk powder does not dissolve in water. While it can settle down for decantation, filtration using a filter paper provides a much quicker and clearer separation."
+    },
+    "kn": {
+      "question": "ನೀವು ಸೀಮೆಸುಣ್ಣದ ಪುಡಿ (chalk powder) ಮತ್ತು ನೀರಿನ ಮಿಶ್ರಣವನ್ನು ತ್ವರಿತವಾಗಿ ಬೇರ್ಪಡಿಸಲು ಬಯಸಿದರೆ, ಯಾವ ವಿಧಾನವು ಹೆಚ್ಚು ಪರಿಣಾಮಕಾರಿಯಾಗಿದೆ?",
+      "options": [
+        "ಸೋಸುವಿಕೆ (Filtration)",
+        "ಬಗ್ಗಿಸುವುದು (Decantation)",
+        "ಕೈಯಿಂದ ಆರಿಸುವುದು",
+        "ಆವಿಯಾಗುವಿಕೆ"
+      ],
+      "answer": "ಸೋಸುವಿಕೆ (Filtration)",
+      "reasoning": "ಸೀಮೆಸುಣ್ಣದ ಪುಡಿ ನೀರಿನಲ್ಲಿ ಕರಗುವುದಿಲ್ಲ. ಬಗ್ಗಿಸಲು ಅದು ತಳವೂರಬಹುದು, ಆದರೆ ಫಿಲ್ಟರ್ ಪೇಪರ್ ಬಳಸಿ ಸೋಸುವಿಕೆಯು ಹೆಚ್ಚು ವೇಗವಾಗಿ ಮತ್ತು ಸ್ಪಷ್ಟವಾದ ಬೇರ್ಪಡಿಸುವಿಕೆಯನ್ನು ಒದಗಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ss_35",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "To recover both the dissolved salt and the water from a saltwater solution, which processes are required?",
+      "options": [
+        "Evaporation",
+        "Condensation",
+        "Filtration",
+        "Winnowing"
+      ],
+      "answer": [
+        "Evaporation",
+        "Condensation"
+      ],
+      "reasoning": "Evaporation is used to boil the water and separate the salt. The evaporated water vapor must then be cooled through condensation to recover the liquid water."
+    },
+    "kn": {
+      "question": "ಉಪ್ಪುನೀರಿನ ದ್ರಾವಣದಿಂದ ಕರಗಿದ ಉಪ್ಪು ಮತ್ತು ನೀರು ಎರಡನ್ನೂ ಮರಳಿ ಪಡೆಯಲು, ಯಾವ ಪ್ರಕ್ರಿಯೆಗಳು ಬೇಕಾಗುತ್ತವೆ?",
+      "options": [
+        "ಆವಿಯಾಗುವಿಕೆ (Evaporation)",
+        "ಸಾಂದ್ರೀಕರಣ (Condensation)",
+        "ಸೋಸುವಿಕೆ",
+        "ತೂರುವುದು"
+      ],
+      "answer": [
+        "ಆವಿಯಾಗುವಿಕೆ (Evaporation)",
+        "ಸಾಂದ್ರೀಕರಣ (Condensation)"
+      ],
+      "reasoning": "ನೀರನ್ನು ಕುದಿಸಲು ಮತ್ತು ಉಪ್ಪನ್ನು ಬೇರ್ಪಡಿಸಲು ಆವಿಯಾಗುವಿಕೆಯನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ನಂತರ ಆವಿಯಾದ ನೀರಿನ ಆವಿಯನ್ನು ದ್ರವ ನೀರಾಗಿ ಮರಳಿ ಪಡೆಯಲು ಸಾಂದ್ರೀಕರಣದ ಮೂಲಕ ತಂಪಾಗಿಸಬೇಕು."
     }
   }
 ]

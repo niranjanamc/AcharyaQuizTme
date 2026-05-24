@@ -188,7 +188,7 @@
       "question": "ಬೀಜದಿಂದ ಸಂತಾನೋತ್ಪತ್ತಿ ಆಗುವುದಕ್ಕೆ ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಉದಾಹರಣೆಯಾಗಿದೆ?",
       "options": ["ನಾಯಿ ಮರಿಗಳಿಗೆ ಜನ್ಮ ನೀಡುವುದು", "ಕೋಳಿ ಮೊಟ್ಟೆಯಿಡುವುದು", "ಮಾವಿನ ಓಟೆಯಿಂದ (ಬೀಜ) ಮಾವಿನ ಮರ ಬೆಳೆಯುವುದು", "ಹಲ್ಲಿ ಹೊಸ ಬಾಲವನ್ನು ಬೆಳೆಸುವುದು"],
       "answer": "ಮಾವಿನ ಓಟೆಯಿಂದ (ಬೀಜ) ಮಾವಿನ ಮರ ಬೆಳೆಯುವುದು",
-      "reasoning": "ಮಾವಿನ ಓಟೆ (pit) ಒಂದು ದೊಡ್ಡ ಬೀಜವಾಗಿದೆ. ಅದನ್ನು ನೆಟ್ಟಾಗ, ಅದು ಮೊಳಕೆಯೊಡೆಯುತ್ತದೆ ಮತ್ತು ಹೊಸ ಮಾವಿನ ಮರವಾಗಿ ಬೆಳೆಯುತ್ತದೆ, ಇದು ಸಸ್ಯ ಸಂತಾನೋತ್ಪತ್ತಿಯ ಒಂದು ರೂಪವಾಗಿದೆ."
+      "reasoning": "ಮಾವಿನ ಓಟೆ (pit) ಒಂದು ದೊಡ್ಡ ಬೀಜವಾಗಿದೆ. ಅದನ್ನು ನೆಟ್ಟಾಗ, ಅದು ಮೊಳಕೆಯೊಡೆಯುತ್ತದೆ ಮತ್ತು ಹೊಸ ಮಾವಿನ ಮರ ಬೆಳೆಯುತ್ತದೆ."
     }
   },
   {
@@ -204,7 +204,7 @@
       "question": "ಉಸಿರಾಟದ (respiration) ಸಮಯದಲ್ಲಿ, ಜೀವಿಗಳು ಯಾವ ಅನಿಲವನ್ನು ಮುಖ್ಯವಾಗಿ ತ್ಯಾಜ್ಯವಾಗಿ ಹೊರಹಾಕುತ್ತವೆ?",
       "options": ["ಆಮ್ಲಜನಕ (Oxygen)", "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (Carbon dioxide)", "ಸಾರಜನಕ (Nitrogen)", "ಜಲಜನಕ (Hydrogen)"],
       "answer": "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (Carbon dioxide)",
-      "reasoning": "ಉಸಿರಾಟವು ಆಹಾರವನ್ನು ಒಡೆಯಲು ಮತ್ತು ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸಲು ಆಮ್ಲಜನಕವನ್ನು ಬಳಸುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ತ್ಯಾಜ್ಯ ಅನಿಲವಾಗಿ ಸೃಷ್ಟಿಸುತ್ತದೆ, ನಂತರ ಅದನ್ನು ಉಸಿರಿನ ಮೂಲಕ ಹೊರಹಾಕಲಾಗುತ್ತದೆ."
+      "reasoning": "ಉಸಿರಾಟವು ಆಹಾರವನ್ನು ಒಡೆಯಲು ಮತ್ತು ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸಲು ಆಮ್ಲಜನಕವನ್ನು ಬಳಸುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ತ್ಯಾಜ್ಯ ಅನಿಲವಾಗಿ ಸೃಷ್ಟಿಸುತ್ತದೆ."
     }
   },
   {
@@ -230,13 +230,445 @@
       "question": "Is a dry bean seed a living thing?",
       "options": ["No, it is just a rock", "Yes, because if planted in soil and watered, it can respire, grow, and become a new plant", "No, because it does not have legs", "Yes, but it is dead"],
       "answer": "Yes, because if planted in soil and watered, it can respire, grow, and become a new plant",
-      "reasoning": "A dry seed is dormant but very much alive. It respires slowly. When given the right conditions (soil, water, warmth), it demonstrates all signs of life by growing into a plant."
+      "reasoning": "A dry seed is dormant but very much alive. It respires slowly. When given the right conditions, it demonstrates all signs of life by growing into a plant."
     },
     "kn": {
       "question": "ಒಣಗಿದ ಹುರುಳಿ ಬೀಜವು (bean seed) ಜೀವಿಯೇ?",
       "options": ["ಇಲ್ಲ, ಅದು ಕೇವಲ ಒಂದು ಕಲ್ಲು", "ಹೌದು, ಏಕೆಂದರೆ ಅದನ್ನು ಮಣ್ಣಿನಲ್ಲಿ ನೆಟ್ಟು ನೀರು ಹಾಕಿದರೆ, ಅದು ಉಸಿರಾಡುತ್ತದೆ, ಬೆಳೆಯುತ್ತದೆ ಮತ್ತು ಹೊಸ ಸಸ್ಯವಾಗಬಹುದು", "ಇಲ್ಲ, ಏಕೆಂದರೆ ಅದಕ್ಕೆ ಕಾಲುಗಳಿಲ್ಲ", "ಹೌದು, ಆದರೆ ಅದು ಸತ್ತಿದೆ"],
       "answer": "ಹೌದು, ಏಕೆಂದರೆ ಅದನ್ನು ಮಣ್ಣಿನಲ್ಲಿ ನೆಟ್ಟು ನೀರು ಹಾಕಿದರೆ, ಅದು ಉಸಿರಾಡುತ್ತದೆ, ಬೆಳೆಯುತ್ತದೆ ಮತ್ತು ಹೊಸ ಸಸ್ಯವಾಗಬಹುದು",
-      "reasoning": "ಒಣಗಿದ ಬೀಜವು ಸುಪ್ತಾವಸ್ಥೆಯಲ್ಲಿದ್ದರೂ ಜೀವಂತವಾಗಿರುತ್ತದೆ. ಅದು ನಿಧಾನವಾಗಿ ಉಸಿರಾಡುತ್ತದೆ. ಸರಿಯಾದ ಪರಿಸ್ಥಿತಿಗಳನ್ನು (ಮಣ್ಣು, ನೀರು, ಬೆಚ್ಚಗಿನ ವಾತಾವರಣ) ನೀಡಿದಾಗ, ಅದು ಸಸ್ಯವಾಗಿ ಬೆಳೆಯುವ ಮೂಲಕ ಜೀವದ ಎಲ್ಲಾ ಲಕ್ಷಣಗಳನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ."
+      "reasoning": "ಒಣಗಿದ ಬೀಜವು ಸುಪ್ತಾವಸ್ಥೆಯಲ್ಲಿದ್ದರೂ ಜೀವಂತವಾಗಿರುತ್ತದೆ. ಸರಿಯಾದ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ನೀಡಿದಾಗ, ಅದು ಸಸ್ಯವಾಗಿ ಬೆಳೆಯುವ ಮೂಲಕ ಜೀವದ ಎಲ್ಲಾ ಲಕ್ಷಣಗಳನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_16",
+    "type": "mcq",
+    "difficulty": 1,
+    "en": {
+      "question": "What do we call the surroundings where organisms live?",
+      "options": ["Adaptation", "Habitat", "Ecosystem", "Environment"],
+      "answer": "Habitat",
+      "reasoning": "The place where organisms live and get their food, water, and shelter is called their habitat."
+    },
+    "kn": {
+      "question": "ಜೀವಿಗಳು ವಾಸಿಸುವ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರದೇಶವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಹೊಂದಾಣಿಕೆ", "ಆವಾಸಸ್ಥಾನ", "ಪರಿಸರ ವ್ಯವಸ್ಥೆ", "ಪರಿಸರ"],
+      "answer": "ಆವಾಸಸ್ಥಾನ",
+      "reasoning": "ಜೀವಿಗಳು ವಾಸಿಸುವ ಮತ್ತು ತಮ್ಮ ಆಹಾರ, ನೀರು, ಆಶ್ರಯ ಪಡೆಯುವ ಸ್ಥಳವನ್ನು ಅವುಗಳ ಆವಾಸಸ್ಥಾನ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_17",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following are examples of terrestrial habitats?",
+      "options": ["Forests", "Oceans", "Grasslands", "Deserts", "Ponds"],
+      "answer": ["Forests", "Grasslands", "Deserts"],
+      "reasoning": "Terrestrial habitats are on land. Forests, grasslands, and deserts are on land, while oceans and ponds are aquatic habitats."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಭೂಮಿಯ ಮೇಲಿನ ಆವಾಸಸ್ಥಾನಗಳಿಗೆ (terrestrial habitats) ಉದಾಹರಣೆಗಳಾಗಿವೆ?",
+      "options": ["ಕಾಡುಗಳು", "ಸಾಗರಗಳು", "ಹುಲ್ಲುಗಾವಲುಗಳು", "ಮರುಭೂಮಿಗಳು", "ಕೊಳಗಳು"],
+      "answer": ["ಕಾಡುಗಳು", "ಹುಲ್ಲುಗಾವಲುಗಳು", "ಮರುಭೂಮಿಗಳು"],
+      "reasoning": "ಭೂಮಿಯ ಮೇಲಿನ ಆವಾಸಸ್ಥಾನಗಳು ಭೂಮಿಯ ಮೇಲಿರುತ್ತವೆ. ಕಾಡುಗಳು, ಹುಲ್ಲುಗಾವಲುಗಳು ಮತ್ತು ಮರುಭೂಮಿಗಳು ಭೂಮಿಯ ಮೇಲಿವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_18",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the habitats with the organisms commonly found there:",
+      "options": ["Desert", "Pond", "Mountain", "Forest"],
+      "matches": ["Camel", "Frog", "Snow Leopard", "Tiger"],
+      "answer": {
+        "Desert": "Camel",
+        "Pond": "Frog",
+        "Mountain": "Snow Leopard",
+        "Forest": "Tiger"
+      },
+      "reasoning": "Animals are adapted to live in specific habitats."
+    },
+    "kn": {
+      "question": "ಆವಾಸಸ್ಥಾನಗಳನ್ನು ಅಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಕಂಡುಬರುವ ಜೀವಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "options": ["ಮರುಭೂಮಿ", "ಕೊಳ", "ಪರ್ವತ", "ಕಾಡು"],
+      "matches": ["ಒಂಟೆ", "ಕಪ್ಪೆ", "ಹಿಮ ಚಿರತೆ", "ಹುಲಿ"],
+      "answer": {
+        "ಮರುಭೂಮಿ": "ಒಂಟೆ",
+        "ಕೊಳ": "ಕಪ್ಪೆ",
+        "ಪರ್ವತ": "ಹಿಮ ಚಿರತೆ",
+        "ಕಾಡು": "ಹುಲಿ"
+      },
+      "reasoning": "ಪ್ರಾಣಿಗಳು ನಿರ್ದಿಷ್ಟ ಆವಾಸಸ್ಥಾನಗಳಲ್ಲಿ ವಾಸಿಸಲು ಹೊಂದಿಕೊಳ್ಳುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_19",
+    "type": "mcq",
+    "difficulty": 2,
+    "en": {
+      "question": "The presence of specific features or certain habits which enable a plant or an animal to live in its surroundings is called:",
+      "options": ["Habitat", "Adaptation", "Evolution", "Acclimatization"],
+      "answer": "Adaptation",
+      "reasoning": "Adaptation refers to the specific traits that help organisms survive and thrive in their particular habitats."
+    },
+    "kn": {
+      "question": "ಒಂದು ಸಸ್ಯ ಅಥವಾ ಪ್ರಾಣಿಗೆ ಅದರ ಸುತ್ತಮುತ್ತಲಿನ ಪರಿಸರದಲ್ಲಿ ವಾಸಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುವ ನಿರ್ದಿಷ್ಟ ಲಕ್ಷಣಗಳು ಅಥವಾ ಅಭ್ಯಾಸಗಳ ಉಪಸ್ಥಿತಿಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಆವಾಸಸ್ಥಾನ", "ಹೊಂದಾಣಿಕೆ", "ವಿಕಾಸ", "ಒಗ್ಗಿಕೊಳ್ಳುವಿಕೆ"],
+      "answer": "ಹೊಂದಾಣಿಕೆ",
+      "reasoning": "ಹೊಂದಾಣಿಕೆ (Adaptation) ಎಂದರೆ ಜೀವಿಗಳು ತಮ್ಮ ನಿರ್ದಿಷ್ಟ ಆವಾಸಸ್ಥಾನಗಳಲ್ಲಿ ಬದುಕಲು ಮತ್ತು ಅಭಿವೃದ್ಧಿ ಹೊಂದಲು ಸಹಾಯ ಮಾಡುವ ನಿರ್ದಿಷ್ಟ ಲಕ್ಷಣಗಳು."
+    }
+  },
+  {
+    "id": "c6_sci_dl_20",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of these adaptations help a cactus survive in the desert?",
+      "options": ["Leaves modified into spines", "Stem performs photosynthesis", "Deep roots", "Broad leaves", "Gills"],
+      "answer": ["Leaves modified into spines", "Stem performs photosynthesis", "Deep roots"],
+      "reasoning": "Spines reduce water loss, the stem stores water and makes food, and deep roots absorb water from deep underground."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಯಾವ ಹೊಂದಾಣಿಕೆಗಳು ಕಳ್ಳಿ (cactus) ಸಸ್ಯವು ಮರುಭೂಮಿಯಲ್ಲಿ ಬದುಕಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ?",
+      "options": ["ಮುಳ್ಳುಗಳಾಗಿ ಮಾರ್ಪಟ್ಟ ಎಲೆಗಳು", "ಕಾಂಡವು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯನ್ನು ನಿರ್ವಹಿಸುತ್ತದೆ", "ಆಳವಾದ ಬೇರುಗಳು", "ಅಗಲವಾದ ಎಲೆಗಳು", "ಕಿವಿರುಗಳು"],
+      "answer": ["ಮುಳ್ಳುಗಳಾಗಿ ಮಾರ್ಪಟ್ಟ ಎಲೆಗಳು", "ಕಾಂಡವು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯನ್ನು ನಿರ್ವಹಿಸುತ್ತದೆ", "ಆಳವಾದ ಬೇರುಗಳು"],
+      "reasoning": "ಮುಳ್ಳುಗಳು ನೀರಿನ ನಷ್ಟವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತವೆ, ಕಾಂಡವು ನೀರನ್ನು ಸಂಗ್ರಹಿಸುತ್ತದೆ ಮತ್ತು ಆಹಾರವನ್ನು ತಯಾರಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_21",
+    "type": "mcq",
+    "difficulty": 3,
+    "en": {
+      "question": "Small changes that take place in the body of a single organism over short periods to overcome small problems due to changes in surroundings are called:",
+      "options": ["Adaptation", "Acclimatization", "Mutation", "Growth"],
+      "answer": "Acclimatization",
+      "reasoning": "Acclimatization is a temporary, rapid change, like getting used to high altitudes, which is different from long-term adaptation."
+    },
+    "kn": {
+      "question": "ಸುತ್ತಮುತ್ತಲಿನ ಬದಲಾವಣೆಗಳಿಂದಾಗಿ ಉಂಟಾಗುವ ಸಣ್ಣ ಸಮಸ್ಯೆಗಳನ್ನು ನಿವಾರಿಸಲು ಅಲ್ಪಾವಧಿಯಲ್ಲಿಯೇ ಒಂದೇ ಜೀವಿಯ ದೇಹದಲ್ಲಿ ನಡೆಯುವ ಸಣ್ಣ ಬದಲಾವಣೆಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಹೊಂದಾಣಿಕೆ", "ಒಗ್ಗಿಕೊಳ್ಳುವಿಕೆ (Acclimatization)", "ರೂಪಾಂತರ", "ಬೆಳವಣಿಗೆ"],
+      "answer": "ಒಗ್ಗಿಕೊಳ್ಳುವಿಕೆ (Acclimatization)",
+      "reasoning": "ಒಗ್ಗಿಕೊಳ್ಳುವಿಕೆಯು ತಾತ್ಕಾಲಿಕ, ಕ್ಷಿಪ್ರ ಬದಲಾವಣೆಯಾಗಿದೆ, ಉದಾಹರಣೆಗೆ ಹೆಚ್ಚಿನ ಎತ್ತರದ ಪ್ರದೇಶಗಳಿಗೆ ಒಗ್ಗಿಕೊಳ್ಳುವುದು."
+    }
+  },
+  {
+    "id": "c6_sci_dl_22",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the plants with their adaptations:",
+      "options": ["Cactus", "Lotus", "Pine tree"],
+      "matches": ["Spines instead of leaves", "Hollow and light stem", "Sloping branches and needle-like leaves"],
+      "answer": {
+        "Cactus": "Spines instead of leaves",
+        "Lotus": "Hollow and light stem",
+        "Pine tree": "Sloping branches and needle-like leaves"
+      },
+      "reasoning": "Cactus is a desert plant, lotus is an aquatic plant, and pine tree is a mountain plant."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳನ್ನು ಅವುಗಳ ಹೊಂದಾಣಿಕೆಗಳೊಂದಿಗೆ (adaptations) ಹೊಂದಿಸಿ:",
+      "options": ["ಕಳ್ಳಿ", "ಕಮಲ", "ಪೈನ್ ಮರ"],
+      "matches": ["ಎಲೆಗಳ ಬದಲಿಗೆ ಮುಳ್ಳುಗಳು", "ೊಳ್ಳಾದ ಮತ್ತು ಹಗುರವಾದ ಕಾಂಡ", "ಇಳಿಜಾರಾದ ಕೊಂಬೆಗಳು ಮತ್ತು ಸೂಜಿಯಂತಹ ಎಲೆಗಳು"],
+      "answer": {
+        "ಕಳ್ಳಿ": "ಎಲೆಗಳ ಬದಲಿಗೆ ಮುಳ್ಳುಗಳು",
+        "ಕಮಲ": "ೊಳ್ಳಾದ ಮತ್ತು ಹಗುರವಾದ ಕಾಂಡ",
+        "ಪೈನ್ ಮರ": "ಇಳಿಜಾರಾದ ಕೊಂಬೆಗಳು ಮತ್ತು ಸೂಜಿಯಂತಹ ಎಲೆಗಳು"
+      },
+      "reasoning": "ಕಳ್ಳಿ ಒಂದು ಮರುಭೂಮಿ ಸಸ್ಯ, ಕಮಲ ಒಂದು ಜಲಸಸ್ಯ, ಮತ್ತು ಪೈನ್ ಮರ ಒಂದು ಪರ್ವತ ಸಸ್ಯ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_23",
+    "type": "mcq",
+    "difficulty": 1,
+    "en": {
+      "question": "What are the living components of a habitat called?",
+      "options": ["Abiotic components", "Biotic components", "Physical components", "Chemical components"],
+      "answer": "Biotic components",
+      "reasoning": "Biotic components include all the living things in a habitat, such as plants, animals, and microorganisms."
+    },
+    "kn": {
+      "question": "ಆವಾಸಸ್ಥಾನದ ಜೀವಂತ ಘಟಕಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಅಜೈವಿಕ ಘಟಕಗಳು (Abiotic components)", "ಜೈವಿಕ ಘಟಕಗಳು (Biotic components)", "ಭೌತಿಕ ಘಟಕಗಳು", "ರಾಸಾಯನಿಕ ಘಟಕಗಳು"],
+      "answer": "ಜೈವಿಕ ಘಟಕಗಳು (Biotic components)",
+      "reasoning": "ಜೈವಿಕ ಘಟಕಗಳು (Biotic components) ಆವಾಸಸ್ಥಾನದಲ್ಲಿರುವ ಎಲ್ಲಾ ಜೀವಿಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತವೆ, ಉದಾಹರಣೆಗೆ ಸಸ್ಯಗಳು ಮತ್ತು ಪ್ರಾಣಿಗಳು."
+    }
+  },
+  {
+    "id": "c6_sci_dl_24",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following are abiotic components of a habitat?",
+      "options": ["Soil", "Water", "Plants", "Air", "Animals", "Sunlight"],
+      "answer": ["Soil", "Water", "Air", "Sunlight"],
+      "reasoning": "Abiotic components are the non-living things in an environment, like soil, water, air, sunlight, and rocks."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಆವಾಸಸ್ಥಾನದ ಅಜೈವಿಕ (abiotic) ಘಟಕಗಳಾಗಿವೆ?",
+      "options": ["ಮಣ್ಣು", "ನೀರು", "ಸಸ್ಯಗಳು", "ಗಾಳಿ", "ಪ್ರಾಣಿಗಳು", "ಸೂರ್ಯನ ಬೆಳಕು"],
+      "answer": ["ಮಣ್ಣು", "ನೀರು", "ಗಾಳಿ", "ಸೂರ್ಯನ ಬೆಳಕು"],
+      "reasoning": "ಅಜೈವಿಕ ಘಟಕಗಳು ಎಂದರೆ ಮಣ್ಣು, ನೀರು, ಗಾಳಿ, ಸೂರ್ಯನ ಬೆಳಕು ಮತ್ತು ಕಲ್ಲುಗಳಂತಹ ಪರಿಸರದಲ್ಲಿರುವ ನಿರ್ಜೀವ ವಸ್ತುಗಳು."
+    }
+  },
+  {
+    "id": "c6_sci_dl_25",
+    "type": "mcq",
+    "difficulty": 2,
+    "en": {
+      "question": "Animals like rats and snakes survive in deserts by:",
+      "options": ["Drinking lots of water", "Staying in deep burrows during the day", "Having a thick layer of fat", "Sweating constantly"],
+      "answer": "Staying in deep burrows during the day",
+      "reasoning": "To escape the intense heat of the desert sun, many animals stay in deep burrows in the sand during the daytime."
+    },
+    "kn": {
+      "question": "ಇಲಿಗಳು ಮತ್ತು ಹಾವುಗಳಂತಹ ಪ್ರಾಣಿಗಳು ಮರುಭೂಮಿಯಲ್ಲಿ ಹೇಗೆ ಬದುಕುತ್ತವೆ?",
+      "options": ["ಬಹಳಷ್ಟು ನೀರು ಕುಡಿಯುವ ಮೂಲಕ", "ಹಗಲಿನಲ್ಲಿ ಆಳವಾದ ಬಿಲಗಳಲ್ಲಿ ಉಳಿಯುವ ಮೂಲಕ", "ಕೊಬ್ಬಿನ ದಪ್ಪ ಪದರವನ್ನು ಹೊಂದುವ ಮೂಲಕ", "ನಿರಂತರವಾಗಿ ಬೆವರುವ ಮೂಲಕ"],
+      "answer": "ಹಗಲಿನಲ್ಲಿ ಆಳವಾದ ಬಿಲಗಳಲ್ಲಿ ಉಳಿಯುವ ಮೂಲಕ",
+      "reasoning": "ಮರುಭೂಮಿಯ ಸೂರ್ಯನ ತೀವ್ರವಾದ ಶಾಖದಿಂದ ಪಾರಾಗಲು, ಅನೇಕ ಪ್ರಾಣಿಗಳು ಹಗಲಿನ ವೇಳೆಯಲ್ಲಿ ಮರಳಿನಲ್ಲಿ ಆಳವಾದ ಬಿಲಗಳಲ್ಲಿ ಇರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_26",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which adaptations help a fish to swim comfortably in water?",
+      "options": ["Streamlined body shape", "Fins", "Gills", "Scales on the body", "Lungs"],
+      "answer": ["Streamlined body shape", "Fins", "Scales on the body"],
+      "reasoning": "Streamlined shape reduces water resistance, fins help in movement, and scales protect the body and aid in easy movement."
+    },
+    "kn": {
+      "question": "ಮೀನುಗಳಿಗೆ ನೀರಿನಲ್ಲಿ ಆರಾಮವಾಗಿ ಈಜಲು ಯಾವ ಹೊಂದಾಣಿಕೆಗಳು ಸಹಾಯ ಮಾಡುತ್ತವೆ?",
+      "options": ["ಸ್ಟ್ರೀಮ್ಲೈನ್ಡ್ ದೇಹದ ಆಕಾರ", "ರೆಕ್ಕೆಗಳು (Fins)", "ಕಿವಿರುಗಳು", "ದೇಹದ ಮೇಲಿನ ಮಾಪಕಗಳು (Scales)", "ಶ್ವಾಸಕೋಶಗಳು"],
+      "answer": ["ಸ್ಟ್ರೀಮ್ಲೈನ್ಡ್ ದೇಹದ ಆಕಾರ", "ರೆಕ್ಕೆಗಳು (Fins)", "ದೇಹದ ಮೇಲಿನ ಮಾಪಕಗಳು (Scales)"],
+      "reasoning": "ಸ್ಟ್ರೀಮ್ಲೈನ್ಡ್ ಆಕಾರವು ನೀರಿನ ಪ್ರತಿರೋಧವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ, ರೆಕ್ಕೆಗಳು ಚಲನೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತವೆ, ಮತ್ತು ಮಾಪಕಗಳು ದೇಹವನ್ನು ರಕ್ಷಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_27",
+    "type": "mcq",
+    "difficulty": 2,
+    "en": {
+      "question": "Why do trees in mountain regions generally have a cone shape?",
+      "options": ["To absorb more sunlight", "To let rainwater and snow slide off easily", "To attract animals", "To prevent animals from eating them"],
+      "answer": "To let rainwater and snow slide off easily",
+      "reasoning": "The cone shape and sloping branches of mountain trees allow rainwater and snow to slide off quickly without damaging the branches."
+    },
+    "kn": {
+      "question": "ಪರ್ವತ ಪ್ರದೇಶಗಳಲ್ಲಿನ ಮರಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಶಂಕುವಿನ ಆಕಾರವನ್ನು (cone shape) ಏಕೆ ಹೊಂದಿರುತ್ತವೆ?",
+      "options": ["ಹೆಚ್ಚು ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಹೀರಿಕೊಳ್ಳಲು", "ಮಳೆನೀರು ಮತ್ತು ಹಿಮ ಸುಲಭವಾಗಿ ಜಾರಲು", "ಪ್ರಾಣಿಗಳನ್ನು ಆಕರ್ಷಿಸಲು", "ಪ್ರಾಣಿಗಳು ಅವುಗಳನ್ನು ತಿನ್ನುವುದನ್ನು ತಡೆಯಲು"],
+      "answer": "ಮಳೆನೀರು ಮತ್ತು ಹಿಮ ಸುಲಭವಾಗಿ ಜಾರಲು",
+      "reasoning": "ಪರ್ವತ ಮರಗಳ ಶಂಕುವಿನ ಆಕಾರ ಮತ್ತು ಇಳಿಜಾರಾದ ಕೊಂಬೆಗಳು ಮಳೆನೀರು ಮತ್ತು ಹಿಮವು ಕೊಂಬೆಗಳಿಗೆ ಹಾನಿಯಾಗದಂತೆ ತ್ವರಿತವಾಗಿ ಜಾರಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_28",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the animal to its unique feature for survival:",
+      "options": ["Yak", "Lion", "Squid", "Deer"],
+      "matches": ["Long hair to keep warm", "Light brown colour to hide in dry grasslands", "Uses a streamlined shape only when moving fast", "Strong teeth and long ears to hear predators"],
+      "answer": {
+        "Yak": "Long hair to keep warm",
+        "Lion": "Light brown colour to hide in dry grasslands",
+        "Squid": "Uses a streamlined shape only when moving fast",
+        "Deer": "Strong teeth and long ears to hear predators"
+      },
+      "reasoning": "Each animal has specific adaptations to survive in its particular environment."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಣಿಯನ್ನು ಅದರ ಉಳಿವಿಗಾಗಿ ಇರುವ ವಿಶಿಷ್ಟ ಲಕ್ಷಣದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "options": ["ಯಾಕ್ (Yak)", "ಸಿಂಹ", "ಸ್ಕ್ವಿಡ್ (Squid)", "ಜಿಂಕೆ"],
+      "matches": ["ಬೆಚ್ಚಗಿಡಲು ಉದ್ದನೆಯ ಕೂದಲು", "ಒಣ ಹುಲ್ಲುಗಾವಲುಗಳಲ್ಲಿ ಅಡಗಿಕೊಳ್ಳಲು ತಿಳಿ ಕಂದು ಬಣ್ಣ", "ವೇಗವಾಗಿ ಚಲಿಸುವಾಗ ಮಾತ್ರ ಸ್ಟ್ರೀಮ್ಲೈನ್ಡ್ ಆಕಾರವನ್ನು ಬಳಸುತ್ತದೆ", "ಬಲವಾದ ಹಲ್ಲುಗಳು ಮತ್ತು ಪರಭಕ್ಷಕಗಳನ್ನು ಕೇಳಲು ಉದ್ದವಾದ ಕಿವಿಗಳು"],
+      "answer": {
+        "ಯಾಕ್ (Yak)": "ಬೆಚ್ಚಗಿಡಲು ಉದ್ದನೆಯ ಕೂದಲು",
+        "ಸಿಂಹ": "ಒಣ ಹುಲ್ಲುಗಾವಲುಗಳಲ್ಲಿ ಅಡಗಿಕೊಳ್ಳಲು ತಿಳಿ ಕಂದು ಬಣ್ಣ",
+        "ಸ್ಕ್ವಿಡ್ (Squid)": "ವೇಗವಾಗಿ ಚಲಿಸುವಾಗ ಮಾತ್ರ ಸ್ಟ್ರೀಮ್ಲೈನ್ಡ್ ಆಕಾರವನ್ನು ಬಳಸುತ್ತದೆ",
+        "ಜಿಂಕೆ": "ಬಲವಾದ ಹಲ್ಲುಗಳು ಮತ್ತು ಪರಭಕ್ಷಕಗಳನ್ನು ಕೇಳಲು ಉದ್ದವಾದ ಕಿವಿಗಳು"
+      },
+      "reasoning": "ಪ್ರತಿಯೊಂದು ಪ್ರಾಣಿಯು ಅದರ ನಿರ್ದಿಷ್ಟ ಪರಿಸರದಲ್ಲಿ ಬದುಕಲು ನಿರ್ದಿಷ್ಟ ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಹೊಂದಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_29",
+    "type": "mcq",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following aquatic plants have roots totally submerged in water and leaves floating on the surface?",
+      "options": ["Hydrilla", "Lotus", "Cactus", "Pine"],
+      "answer": "Lotus",
+      "reasoning": "Lotus plants have roots fixed in the soil at the bottom of the pond, while their leaves and flowers float on the surface."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಯಾವ ಜಲಸಸ್ಯಗಳು ನೀರಿನಲ್ಲಿ ಸಂಪೂರ್ಣವಾಗಿ ಮುಳುಗಿರುವ ಬೇರುಗಳನ್ನು ಮತ್ತು ಮೇಲ್ಮೈಯಲ್ಲಿ ತೇಲುವ ಎಲೆಗಳನ್ನು ಹೊಂದಿವೆ?",
+      "options": ["ಹೈಡ್ರಿಲ್ಲಾ", "ಕಮಲ", "ಕಳ್ಳಿ", "ಪೈನ್"],
+      "answer": "ಕಮಲ",
+      "reasoning": "ಕಮಲದ ಗಿಡಗಳು ಕೊಳದ ತಳದಲ್ಲಿರುವ ಮಣ್ಣಿನಲ್ಲಿ ಬೇರುಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ, ಆದರೆ ಅವುಗಳ ಎಲೆಗಳು ಮತ್ತು ಹೂವುಗಳು ಮೇಲ್ಮೈಯಲ್ಲಿ ತೇಲುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_30",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which characteristics are typical of fully submerged aquatic plants?",
+      "options": ["Highly divided leaves", "Stems that are hollow and light", "Roots that are almost absent or very small", "Leaves modified into spines"],
+      "answer": ["Highly divided leaves", "Roots that are almost absent or very small"],
+      "reasoning": "Submerged plants often have highly divided leaves to allow water to flow through without damaging them, and their roots are much reduced in size."
+    },
+    "kn": {
+      "question": "ಸಂಪೂರ್ಣವಾಗಿ ಮುಳುಗಿರುವ ಜಲಸಸ್ಯಗಳ ವಿಶಿಷ್ಟ ಲಕ್ಷಣಗಳು ಯಾವುವು?",
+      "options": ["ಹೆಚ್ಚು ವಿಭಜಿತ ಎಲೆಗಳು", "ೊಳ್ಳಾದ ಮತ್ತು ಹಗುರವಾದ ಕಾಂಡಗಳು", "ಬಹುತೇಕ ಇಲ್ಲದಿರುವ ಅಥವಾ ತುಂಬಾ ಚಿಕ್ಕದಾದ ಬೇರುಗಳು", "ಮುಳ್ಳುಗಳಾಗಿ ಮಾರ್ಪಟ್ಟ ಎಲೆಗಳು"],
+      "answer": ["ಹೆಚ್ಚು ವಿಭಜಿತ ಎಲೆಗಳು", "ಬಹುತೇಕ ಇಲ್ಲದಿರುವ ಅಥವಾ ತುಂಬಾ ಚಿಕ್ಕದಾದ ಬೇರುಗಳು"],
+      "reasoning": "ನೀರಿನಲ್ಲಿ ಮುಳುಗಿರುವ ಸಸ್ಯಗಳು ಹೆಚ್ಚಾಗಿ ಹೆಚ್ಚು ವಿಭಜಿತ ಎಲೆಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ, ಇದರಿಂದ ನೀರು ಹಾನಿಯಾಗದಂತೆ ಹರಿಯಬಹುದು."
+    }
+  },
+  {
+    "id": "c6_sci_dl_31",
+    "type": "mcq",
+    "difficulty": 2,
+    "en": {
+      "question": "How do dolphins and whales breathe?",
+      "options": ["Through gills", "Through their skin", "Through blowholes located on the upper parts of their heads", "Through their fins"],
+      "answer": "Through blowholes located on the upper parts of their heads",
+      "reasoning": "Dolphins and whales do not have gills. They breathe in air through nostrils or blowholes located on their heads when they swim near the surface."
+    },
+    "kn": {
+      "question": "ಡಾಲ್ಫಿನ್ಗಳು ಮತ್ತು ತಿಮಿಂಗಿಲಗಳು ಹೇಗೆ ಉಸಿರಾಡುತ್ತವೆ?",
+      "options": ["ಕಿವಿರುಗಳ ಮೂಲಕ", "ತಮ್ಮ ಚರ್ಮದ ಮೂಲಕ", "ತಮ್ಮ ತಲೆಯ ಮೇಲಿನ ಭಾಗದಲ್ಲಿರುವ ಬ್ಲೋಹೋಲ್ಗಳ (blowholes) ಮೂಲಕ", "ತಮ್ಮ ರೆಕ್ಕೆಗಳ ಮೂಲಕ"],
+      "answer": "ತಮ್ಮ ತಲೆಯ ಮೇಲಿನ ಭಾಗದಲ್ಲಿರುವ ಬ್ಲೋಹೋಲ್ಗಳ (blowholes) ಮೂಲಕ",
+      "reasoning": "ಡಾಲ್ಫಿನ್ಗಳು ಮತ್ತು ತಿಮಿಂಗಿಲಗಳು ಕಿವಿರುಗಳನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ. ಅವು ಮೇಲ್ಮೈ ಹತ್ತಿರ ಈಜುವಾಗ ತಮ್ಮ ತಲೆಯ ಮೇಲಿರುವ ಮೂಗಿನ ಹೊಳ್ಳೆಗಳು ಅಥವಾ ಬ್ಲೋಹೋಲ್ಗಳ ಮೂಲಕ ಗಾಳಿಯನ್ನು ಉಸಿರಾಡುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_32",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following describes the process of respiration?",
+      "options": ["Taking in oxygen", "Giving out carbon dioxide", "Producing energy from food", "Releasing water from leaves"],
+      "answer": ["Taking in oxygen", "Giving out carbon dioxide", "Producing energy from food"],
+      "reasoning": "Respiration is the overall process of breathing in oxygen, using it to release energy from food, and breathing out carbon dioxide."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಉಸಿರಾಟದ (respiration) ಪ್ರಕ್ರಿಯೆಯನ್ನು ವಿವರಿಸುತ್ತದೆ?",
+      "options": ["ಆಮ್ಲಜನಕವನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದು", "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಹೊರಹಾಕುವುದು", "ಆಹಾರದಿಂದ ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸುವುದು", "ಎಲೆಗಳಿಂದ ನೀರನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವುದು"],
+      "answer": ["ಆಮ್ಲಜನಕವನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದು", "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಹೊರಹಾಕುವುದು", "ಆಹಾರದಿಂದ ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸುವುದು"],
+      "reasoning": "ಉಸಿರಾಟವು ಆಮ್ಲಜನಕವನ್ನು ಉಸಿರಾಡುವ, ಆಹಾರದಿಂದ ಶಕ್ತಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡಲು ಅದನ್ನು ಬಳಸುವ ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಹೊರಹಾಕುವ ಒಟ್ಟಾರೆ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_33",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the living organism with how it takes in air/oxygen:",
+      "options": ["Earthworm", "Fish", "Humans", "Plants"],
+      "matches": ["Through their skin", "Through gills", "Through lungs", "Through stomata on leaves"],
+      "answer": {
+        "Earthworm": "Through their skin",
+        "Fish": "Through gills",
+        "Humans": "Through lungs",
+        "Plants": "Through stomata on leaves"
+      },
+      "reasoning": "Different organisms have evolved different mechanisms for gas exchange."
+    },
+    "kn": {
+      "question": "ಜೀವಿಗಳನ್ನು ಅವು ಹೇಗೆ ಗಾಳಿ/ಆಮ್ಲಜನಕವನ್ನು ಒಳಗೆ ತೆಗೆದುಕೊಳ್ಳುತ್ತವೆ ಎಂಬುದರೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "options": ["ಎರೆಹುಳು", "ಮೀನು", "ಮನುಷ್ಯರು", "ಸಸ್ಯಗಳು"],
+      "matches": ["ತಮ್ಮ ಚರ್ಮದ ಮೂಲಕ", "ಕಿವಿರುಗಳ ಮೂಲಕ", "ಶ್ವಾಸಕೋಶಗಳ ಮೂಲಕ", "ಎಲೆಗಳ ಮೇಲಿನ ಸ್ಟೊಮಾಟಾ (stomata) ಮೂಲಕ"],
+      "answer": {
+        "ಎರೆಹುಳು": "ತಮ್ಮ ಚರ್ಮದ ಮೂಲಕ",
+        "ಮೀನು": "ಕಿವಿರುಗಳ ಮೂಲಕ",
+        "ಮನುಷ್ಯರು": "ಶ್ವಾಸಕೋಶಗಳ ಮೂಲಕ",
+        "ಸಸ್ಯಗಳು": "ಎಲೆಗಳ ಮೇಲಿನ ಸ್ಟೊಮಾಟಾ (stomata) ಮೂಲಕ"
+      },
+      "reasoning": "ವಿವಿಧ ಜೀವಿಗಳು ಅನಿಲ ವಿನಿಮಯಕ್ಕಾಗಿ ವಿಭಿನ್ನ ಕಾರ್ಯವಿಧಾನಗಳನ್ನು ವಿಕಸನಗೊಳಿಸಿವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_34",
+    "type": "mcq",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the process by which plants make their own food?",
+      "options": ["Respiration", "Excretion", "Photosynthesis", "Reproduction"],
+      "answer": "Photosynthesis",
+      "reasoning": "Plants use sunlight, water, and carbon dioxide to synthesize their own food in a process called photosynthesis."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳು ತಮ್ಮದೇ ಆದ ಆಹಾರವನ್ನು ತಯಾರಿಸುವ ಪ್ರಕ್ರಿಯೆ ಯಾವುದು?",
+      "options": ["ಉಸಿರಾಟ", "ವಿಸರ್ಜನೆ", "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ (Photosynthesis)", "ಸಂತಾನೋತ್ಪತ್ತಿ"],
+      "answer": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ (Photosynthesis)",
+      "reasoning": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ಎಂಬ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ಸಸ್ಯಗಳು ತಮ್ಮದೇ ಆದ ಆಹಾರವನ್ನು ಸಂಶ್ಲೇಷಿಸಲು ಸೂರ್ಯನ ಬೆಳಕು, ನೀರು ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಬಳಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_35",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "What do plants need for photosynthesis?",
+      "options": ["Sunlight", "Carbon dioxide", "Oxygen", "Water", "Soil"],
+      "answer": ["Sunlight", "Carbon dioxide", "Water"],
+      "reasoning": "Photosynthesis requires sunlight as energy, carbon dioxide from the air, and water from the soil."
+    },
+    "kn": {
+      "question": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಗೆ (photosynthesis) ಸಸ್ಯಗಳಿಗೆ ಏನು ಬೇಕು?",
+      "options": ["ಸೂರ್ಯನ ಬೆಳಕು", "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್", "ಆಮ್ಲಜನಕ", "ನೀರು", "ಮಣ್ಣು"],
+      "answer": ["ಸೂರ್ಯನ ಬೆಳಕು", "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್", "ನೀರು"],
+      "reasoning": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಗೆ ಶಕ್ತಿಯಾಗಿ ಸೂರ್ಯನ ಬೆಳಕು, ಗಾಳಿಯಿಂದ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ಮಣ್ಣಿನಿಂದ ನೀರು ಬೇಕಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_36",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the organism to its method of reproduction:",
+      "options": ["Mango tree", "Bird", "Cat", "Potato"],
+      "matches": ["Through seeds", "Lays eggs", "Gives birth to young ones", "Through a part of the stem (tuber)"],
+      "answer": {
+        "Mango tree": "Through seeds",
+        "Bird": "Lays eggs",
+        "Cat": "Gives birth to young ones",
+        "Potato": "Through a part of the stem (tuber)"
+      },
+      "reasoning": "Organisms reproduce in many different ways, including seeds, eggs, giving birth, and vegetative propagation."
+    },
+    "kn": {
+      "question": "ಜೀವಿಯನ್ನು ಅದರ ಸಂತಾನೋತ್ಪತ್ತಿ ವಿಧಾನಕ್ಕೆ ಹೊಂದಿಸಿ:",
+      "options": ["ಮಾವಿನ ಮರ", "ಹಕ್ಕಿ", "ಬೆಕ್ಕು", "ಆಲೂಗಡ್ಡೆ"],
+      "matches": ["ಬೀಜಗಳ ಮೂಲಕ", "ಮೊಟ್ಟೆಗಳನ್ನು ಇಡುತ್ತದೆ", "ಮರಿಗಳಿಗೆ ಜನ್ಮ ನೀಡುತ್ತದೆ", "ಕಾಂಡದ ಒಂದು ಭಾಗದ ಮೂಲಕ (ಗೆಡ್ಡೆ)"],
+      "answer": {
+        "ಮಾವಿನ ಮರ": "ಬೀಜಗಳ ಮೂಲಕ",
+        "ಹಕ್ಕಿ": "ಮೊಟ್ಟೆಗಳನ್ನು ಇಡುತ್ತದೆ",
+        "ಬೆಕ್ಕು": "ಮರಿಗಳಿಗೆ ಜನ್ಮ ನೀಡುತ್ತದೆ",
+        "ಆಲೂಗಡ್ಡೆ": "ಕಾಂಡದ ಒಂದು ಭಾಗದ ಮೂಲಕ (ಗೆಡ್ಡೆ)"
+      },
+      "reasoning": "ಜೀವಿಗಳು ಬೀಜಗಳು, ಮೊಟ್ಟೆಗಳು, ಜನ್ಮ ನೀಡುವುದು ಮತ್ತು ಸಸ್ಯಕ ಪ್ರಸರಣ ಸೇರಿದಂತೆ ಹಲವು ವಿಭಿನ್ನ ರೀತಿಯಲ್ಲಿ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_37",
+    "type": "mcq",
+    "difficulty": 2,
+    "en": {
+      "question": "An organism that consists of only a single cell is called:",
+      "options": ["Multicellular", "Unicellular", "Non-living", "Plant"],
+      "answer": "Unicellular",
+      "reasoning": "Organisms made up of a single cell, like amoeba or bacteria, are called unicellular organisms."
+    },
+    "kn": {
+      "question": "ಕೇವಲ ಒಂದೇ ಜೀವಕೋಶದಿಂದ (single cell) ಮಾಡಲ್ಪಟ್ಟ ಜೀವಿಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಬಹುಕೋಶೀಯ (Multicellular)", "ಏಕಕೋಶೀಯ (Unicellular)", "ನಿರ್ಜೀವ", "ಸಸ್ಯ"],
+      "answer": "ಏಕಕೋಶೀಯ (Unicellular)",
+      "reasoning": "ಅಮೀಬಾ ಅಥವಾ ಬ್ಯಾಕ್ಟೀರಿಯಾದಂತಹ ಒಂದೇ ಜೀವಕೋಶದಿಂದ ಮಾಡಲ್ಪಟ್ಟ ಜೀವಿಗಳನ್ನು ಏಕಕೋಶೀಯ ಜೀವಿಗಳು ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
     }
   }
 ]

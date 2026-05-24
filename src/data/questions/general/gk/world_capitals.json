@@ -258,5 +258,1515 @@
       "answer": "ಬ್ರೆಸಿಲಿಯಾ",
       "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬ್ರೆಸಿಲಿಯಾ."
     }
+  },
+  {
+    "id": "gen_gk_cap_single_1",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the capital of China?",
+      "options": [
+        "Havana",
+        "Beijing",
+        "Pretoria",
+        "Santiago"
+      ],
+      "answer": "Beijing",
+      "reasoning": "The correct answer is Beijing."
+    },
+    "kn": {
+      "question": "ಚೀನಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಹವಾನಾ",
+        "ಬೀಜಿಂಗ್",
+        "ಪ್ರಿಟೋರಿಯಾ",
+        "ಸ್ಯಾಂಟಿಯಾಗೊ"
+      ],
+      "answer": "ಬೀಜಿಂಗ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬೀಜಿಂಗ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_2",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the capital of Russia?",
+      "options": [
+        "Moscow",
+        "Helsinki",
+        "Stockholm",
+        "Islamabad"
+      ],
+      "answer": "Moscow",
+      "reasoning": "The correct answer is Moscow."
+    },
+    "kn": {
+      "question": "ರಷ್ಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಮಾಸ್ಕೋ",
+        "ಹೆಲ್ಸಿಂಕಿ",
+        "ಸ್ಟಾಕ್ಹೋಮ್",
+        "ಇಸ್ಲಾಮಾಬಾದ್"
+      ],
+      "answer": "ಮಾಸ್ಕೋ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮಾಸ್ಕೋ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_3",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the capital of South Korea?",
+      "options": [
+        "Seoul",
+        "Buenos Aires",
+        "Nairobi",
+        "Copenhagen"
+      ],
+      "answer": "Seoul",
+      "reasoning": "The correct answer is Seoul."
+    },
+    "kn": {
+      "question": "ದಕ್ಷಿಣ ಕೊರಿಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಸಿಯೋಲ್",
+        "ಬ್ಯೂನಸ್ ಐರಿಸ್",
+        "ನೈರೋಬಿ",
+        "ಕೋಪನ್ ಹ್ಯಾಗನ್"
+      ],
+      "answer": "ಸಿಯೋಲ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸಿಯೋಲ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_4",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the capital of Spain?",
+      "options": [
+        "Bangkok",
+        "Mexico City",
+        "Madrid",
+        "Helsinki"
+      ],
+      "answer": "Madrid",
+      "reasoning": "The correct answer is Madrid."
+    },
+    "kn": {
+      "question": "ಸ್ಪೇನ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಬ್ಯಾಂಕಾಕ್",
+        "ಮೆಕ್ಸಿಕೋ ಸಿಟಿ",
+        "ಮ್ಯಾಡ್ರಿಡ್",
+        "ಹೆಲ್ಸಿಂಕಿ"
+      ],
+      "answer": "ಮ್ಯಾಡ್ರಿಡ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮ್ಯಾಡ್ರಿಡ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_5",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the capital of Egypt?",
+      "options": [
+        "Amsterdam",
+        "Cairo",
+        "Pretoria",
+        "Dhaka"
+      ],
+      "answer": "Cairo",
+      "reasoning": "The correct answer is Cairo."
+    },
+    "kn": {
+      "question": "ಈಜಿಪ್ಟ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಆಮ್ಸ್ಟರ್ಡ್ಯಾಮ್",
+        "ಕೈರೋ",
+        "ಪ್ರಿಟೋರಿಯಾ",
+        "ಢಾಕಾ"
+      ],
+      "answer": "ಕೈರೋ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕೈರೋ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_6",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the capital of South Africa?",
+      "options": [
+        "Pretoria",
+        "Amsterdam",
+        "Bangkok",
+        "Seoul"
+      ],
+      "answer": "Pretoria",
+      "reasoning": "The correct answer is Pretoria."
+    },
+    "kn": {
+      "question": "ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಪ್ರಿಟೋರಿಯಾ",
+        "ಆಮ್ಸ್ಟರ್ಡ್ಯಾಮ್",
+        "ಬ್ಯಾಂಕಾಕ್",
+        "ಸಿಯೋಲ್"
+      ],
+      "answer": "ಪ್ರಿಟೋರಿಯಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಪ್ರಿಟೋರಿಯಾ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_7",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the capital of Argentina?",
+      "options": [
+        "Cairo",
+        "Baghdad",
+        "Buenos Aires",
+        "Ankara"
+      ],
+      "answer": "Buenos Aires",
+      "reasoning": "The correct answer is Buenos Aires."
+    },
+    "kn": {
+      "question": "ಅರ್ಜೆಂಟೀನಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಕೈರೋ",
+        "ಬಾಗ್ದಾದ್",
+        "ಬ್ಯೂನಸ್ ಐರಿಸ್",
+        "ಅಂಕಾರಾ"
+      ],
+      "answer": "ಬ್ಯೂನಸ್ ಐರಿಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬ್ಯೂನಸ್ ಐರಿಸ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_8",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the capital of Mexico?",
+      "options": [
+        "Jakarta",
+        "Mexico City",
+        "Manila",
+        "Jerusalem"
+      ],
+      "answer": "Mexico City",
+      "reasoning": "The correct answer is Mexico City."
+    },
+    "kn": {
+      "question": "ಮೆಕ್ಸಿಕೋ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಜಕಾರ್ತಾ",
+        "ಮೆಕ್ಸಿಕೋ ಸಿಟಿ",
+        "ಮನಿಲಾ",
+        "ಜೆರುಸಲೆಮ್"
+      ],
+      "answer": "ಮೆಕ್ಸಿಕೋ ಸಿಟಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮೆಕ್ಸಿಕೋ ಸಿಟಿ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_9",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the capital of Saudi Arabia?",
+      "options": [
+        "Jakarta",
+        "Riyadh",
+        "Wellington",
+        "Brussels"
+      ],
+      "answer": "Riyadh",
+      "reasoning": "The correct answer is Riyadh."
+    },
+    "kn": {
+      "question": "ಸೌದಿ ಅರೇಬಿಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಜಕಾರ್ತಾ",
+        "ರಿಯಾದ್",
+        "ವೆಲ್ಲಿಂಗ್ಟನ್",
+        "ಬ್ರಸೆಲ್ಸ್"
+      ],
+      "answer": "ರಿಯಾದ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ರಿಯಾದ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_10",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the capital of Turkey?",
+      "options": [
+        "Ankara",
+        "Jerusalem",
+        "Cairo",
+        "Mexico City"
+      ],
+      "answer": "Ankara",
+      "reasoning": "The correct answer is Ankara."
+    },
+    "kn": {
+      "question": "ಟರ್ಕಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಅಂಕಾರಾ",
+        "ಜೆರುಸಲೆಮ್",
+        "ಕೈರೋ",
+        "ಮೆಕ್ಸಿಕೋ ಸಿಟಿ"
+      ],
+      "answer": "ಅಂಕಾರಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಅಂಕಾರಾ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_11",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the capital of Thailand?",
+      "options": [
+        "Bangkok",
+        "Abuja",
+        "Lima",
+        "Bogota"
+      ],
+      "answer": "Bangkok",
+      "reasoning": "The correct answer is Bangkok."
+    },
+    "kn": {
+      "question": "ಥೈಲ್ಯಾಂಡ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಬ್ಯಾಂಕಾಕ್",
+        "ಅಬುಜಾ",
+        "ಲಿಮಾ",
+        "ಬೊಗೋಟಾ"
+      ],
+      "answer": "ಬ್ಯಾಂಕಾಕ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬ್ಯಾಂಕಾಕ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_12",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the capital of Indonesia?",
+      "options": [
+        "Santiago",
+        "Jakarta",
+        "Oslo",
+        "Colombo"
+      ],
+      "answer": "Jakarta",
+      "reasoning": "The correct answer is Jakarta."
+    },
+    "kn": {
+      "question": "ಇಂಡೋನೇಷ್ಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಸ್ಯಾಂಟಿಯಾಗೊ",
+        "ಜಕಾರ್ತಾ",
+        "ಓಸ್ಲೋ",
+        "ಕೊಲಂಬೊ"
+      ],
+      "answer": "ಜಕಾರ್ತಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಜಕಾರ್ತಾ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_13",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the capital of Vietnam?",
+      "options": [
+        "Hanoi",
+        "Baghdad",
+        "Havana",
+        "Islamabad"
+      ],
+      "answer": "Hanoi",
+      "reasoning": "The correct answer is Hanoi."
+    },
+    "kn": {
+      "question": "ವಿಯೆಟ್ನಾಂ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಹನೋಯಿ",
+        "ಬಾಗ್ದಾದ್",
+        "ಹವಾನಾ",
+        "ಇಸ್ಲಾಮಾಬಾದ್"
+      ],
+      "answer": "ಹನೋಯಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹನೋಯಿ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_14",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the capital of Malaysia?",
+      "options": [
+        "Colombo",
+        "Manila",
+        "Kuala Lumpur",
+        "Beijing"
+      ],
+      "answer": "Kuala Lumpur",
+      "reasoning": "The correct answer is Kuala Lumpur."
+    },
+    "kn": {
+      "question": "ಮಲೇಷ್ಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಕೊಲಂಬೊ",
+        "ಮನಿಲಾ",
+        "ಕೌಲಾಲಂಪುರ್",
+        "ಬೀಜಿಂಗ್"
+      ],
+      "answer": "ಕೌಲಾಲಂಪುರ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕೌಲಾಲಂಪುರ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_15",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the capital of Pakistan?",
+      "options": [
+        "Islamabad",
+        "Cairo",
+        "Beijing",
+        "Wellington"
+      ],
+      "answer": "Islamabad",
+      "reasoning": "The correct answer is Islamabad."
+    },
+    "kn": {
+      "question": "ಪಾಕಿಸ್ತಾನ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಇಸ್ಲಾಮಾಬಾದ್",
+        "ಕೈರೋ",
+        "ಬೀಜಿಂಗ್",
+        "ವೆಲ್ಲಿಂಗ್ಟನ್"
+      ],
+      "answer": "ಇಸ್ಲಾಮಾಬಾದ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಇಸ್ಲಾಮಾಬಾದ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_16",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Bangladesh?",
+      "options": [
+        "Cairo",
+        "Islamabad",
+        "Abuja",
+        "Dhaka"
+      ],
+      "answer": "Dhaka",
+      "reasoning": "The correct answer is Dhaka."
+    },
+    "kn": {
+      "question": "ಬಾಂಗ್ಲಾದೇಶ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಕೈರೋ",
+        "ಇಸ್ಲಾಮಾಬಾದ್",
+        "ಅಬುಜಾ",
+        "ಢಾಕಾ"
+      ],
+      "answer": "ಢಾಕಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಢಾಕಾ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_17",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Sri Lanka?",
+      "options": [
+        "Wellington",
+        "Oslo",
+        "Colombo",
+        "Bangkok"
+      ],
+      "answer": "Colombo",
+      "reasoning": "The correct answer is Colombo."
+    },
+    "kn": {
+      "question": "ಶ್ರೀಲಂಕಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ವೆಲ್ಲಿಂಗ್ಟನ್",
+        "ಓಸ್ಲೋ",
+        "ಕೊಲಂಬೊ",
+        "ಬ್ಯಾಂಕಾಕ್"
+      ],
+      "answer": "ಕೊಲಂಬೊ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕೊಲಂಬೊ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_18",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Nepal?",
+      "options": [
+        "Kathmandu",
+        "Helsinki",
+        "Brussels",
+        "Amsterdam"
+      ],
+      "answer": "Kathmandu",
+      "reasoning": "The correct answer is Kathmandu."
+    },
+    "kn": {
+      "question": "ನೇಪಾಳ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಕಠ್ಮಂಡು",
+        "ಹೆಲ್ಸಿಂಕಿ",
+        "ಬ್ರಸೆಲ್ಸ್",
+        "ಆಮ್ಸ್ಟರ್ಡ್ಯಾಮ್"
+      ],
+      "answer": "ಕಠ್ಮಂಡು",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕಠ್ಮಂಡು."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_19",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Afghanistan?",
+      "options": [
+        "Dhaka",
+        "Jerusalem",
+        "Kabul",
+        "Oslo"
+      ],
+      "answer": "Kabul",
+      "reasoning": "The correct answer is Kabul."
+    },
+    "kn": {
+      "question": "ಅಫ್ಘಾನಿಸ್ತಾನ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಢಾಕಾ",
+        "ಜೆರುಸಲೆಮ್",
+        "ಕಾಬೂಲ್",
+        "ಓಸ್ಲೋ"
+      ],
+      "answer": "ಕಾಬೂಲ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕಾಬೂಲ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_20",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Iran?",
+      "options": [
+        "Santiago",
+        "Tehran",
+        "Buenos Aires",
+        "Beijing"
+      ],
+      "answer": "Tehran",
+      "reasoning": "The correct answer is Tehran."
+    },
+    "kn": {
+      "question": "ಇರಾನ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಸ್ಯಾಂಟಿಯಾಗೊ",
+        "ಟೆಹ್ರಾನ್",
+        "ಬ್ಯೂನಸ್ ಐರಿಸ್",
+        "ಬೀಜಿಂಗ್"
+      ],
+      "answer": "ಟೆಹ್ರಾನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಟೆಹ್ರಾನ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_21",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Iraq?",
+      "options": [
+        "Colombo",
+        "Pretoria",
+        "Baghdad",
+        "Mexico City"
+      ],
+      "answer": "Baghdad",
+      "reasoning": "The correct answer is Baghdad."
+    },
+    "kn": {
+      "question": "ಇರಾಕ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಕೊಲಂಬೊ",
+        "ಪ್ರಿಟೋರಿಯಾ",
+        "ಬಾಗ್ದಾದ್",
+        "ಮೆಕ್ಸಿಕೋ ಸಿಟಿ"
+      ],
+      "answer": "ಬಾಗ್ದಾದ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬಾಗ್ದಾದ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_22",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Israel?",
+      "options": [
+        "Tehran",
+        "Jerusalem",
+        "Cairo",
+        "Lisbon"
+      ],
+      "answer": "Jerusalem",
+      "reasoning": "The correct answer is Jerusalem."
+    },
+    "kn": {
+      "question": "ಇಸ್ರೇಲ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಟೆಹ್ರಾನ್",
+        "ಜೆರುಸಲೆಮ್",
+        "ಕೈರೋ",
+        "ಲಿಸ್ಬನ್"
+      ],
+      "answer": "ಜೆರುಸಲೆಮ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಜೆರುಸಲೆಮ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_23",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Greece?",
+      "options": [
+        "Abuja",
+        "Pretoria",
+        "Beijing",
+        "Athens"
+      ],
+      "answer": "Athens",
+      "reasoning": "The correct answer is Athens."
+    },
+    "kn": {
+      "question": "ಗ್ರೀಸ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಅಬುಜಾ",
+        "ಪ್ರಿಟೋರಿಯಾ",
+        "ಬೀಜಿಂಗ್",
+        "ಏಥೆನ್ಸ್"
+      ],
+      "answer": "ಏಥೆನ್ಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಏಥೆನ್ಸ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_24",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Switzerland?",
+      "options": [
+        "Cairo",
+        "Bern",
+        "Bangkok",
+        "Santiago"
+      ],
+      "answer": "Bern",
+      "reasoning": "The correct answer is Bern."
+    },
+    "kn": {
+      "question": "ಸ್ವಿಟ್ಜರ್ಲೆಂಡ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಕೈರೋ",
+        "ಬರ್ನ್",
+        "ಬ್ಯಾಂಕಾಕ್",
+        "ಸ್ಯಾಂಟಿಯಾಗೊ"
+      ],
+      "answer": "ಬರ್ನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬರ್ನ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_25",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Sweden?",
+      "options": [
+        "Stockholm",
+        "Buenos Aires",
+        "Bogota",
+        "Colombo"
+      ],
+      "answer": "Stockholm",
+      "reasoning": "The correct answer is Stockholm."
+    },
+    "kn": {
+      "question": "ಸ್ವೀಡನ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಸ್ಟಾಕ್ಹೋಮ್",
+        "ಬ್ಯೂನಸ್ ಐರಿಸ್",
+        "ಬೊಗೋಟಾ",
+        "ಕೊಲಂಬೊ"
+      ],
+      "answer": "ಸ್ಟಾಕ್ಹೋಮ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸ್ಟಾಕ್ಹೋಮ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_26",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Norway?",
+      "options": [
+        "Oslo",
+        "Lisbon",
+        "Ankara",
+        "Tehran"
+      ],
+      "answer": "Oslo",
+      "reasoning": "The correct answer is Oslo."
+    },
+    "kn": {
+      "question": "ನಾರ್ವೆ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಓಸ್ಲೋ",
+        "ಲಿಸ್ಬನ್",
+        "ಅಂಕಾರಾ",
+        "ಟೆಹ್ರಾನ್"
+      ],
+      "answer": "ಓಸ್ಲೋ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಓಸ್ಲೋ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_27",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Denmark?",
+      "options": [
+        "Moscow",
+        "Copenhagen",
+        "Baghdad",
+        "Brussels"
+      ],
+      "answer": "Copenhagen",
+      "reasoning": "The correct answer is Copenhagen."
+    },
+    "kn": {
+      "question": "ಡೆನ್ಮಾರ್ಕ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಮಾಸ್ಕೋ",
+        "ಕೋಪನ್ ಹ್ಯಾಗನ್",
+        "ಬಾಗ್ದಾದ್",
+        "ಬ್ರಸೆಲ್ಸ್"
+      ],
+      "answer": "ಕೋಪನ್ ಹ್ಯಾಗನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಕೋಪನ್ ಹ್ಯಾಗನ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_28",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Finland?",
+      "options": [
+        "Amsterdam",
+        "Wellington",
+        "Helsinki",
+        "Tehran"
+      ],
+      "answer": "Helsinki",
+      "reasoning": "The correct answer is Helsinki."
+    },
+    "kn": {
+      "question": "ಫಿನ್ಲ್ಯಾಂಡ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಆಮ್ಸ್ಟರ್ಡ್ಯಾಮ್",
+        "ವೆಲ್ಲಿಂಗ್ಟನ್",
+        "ಹೆಲ್ಸಿಂಕಿ",
+        "ಟೆಹ್ರಾನ್"
+      ],
+      "answer": "ಹೆಲ್ಸಿಂಕಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹೆಲ್ಸಿಂಕಿ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_29",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Netherlands?",
+      "options": [
+        "Moscow",
+        "Amsterdam",
+        "Athens",
+        "Madrid"
+      ],
+      "answer": "Amsterdam",
+      "reasoning": "The correct answer is Amsterdam."
+    },
+    "kn": {
+      "question": "ನೆದರ್ಲ್ಯಾಂಡ್ಸ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಮಾಸ್ಕೋ",
+        "ಆಮ್ಸ್ಟರ್ಡ್ಯಾಮ್",
+        "ಏಥೆನ್ಸ್",
+        "ಮ್ಯಾಡ್ರಿಡ್"
+      ],
+      "answer": "ಆಮ್ಸ್ಟರ್ಡ್ಯಾಮ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಆಮ್ಸ್ಟರ್ಡ್ಯಾಮ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_30",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Belgium?",
+      "options": [
+        "Brussels",
+        "Amsterdam",
+        "Hanoi",
+        "Santiago"
+      ],
+      "answer": "Brussels",
+      "reasoning": "The correct answer is Brussels."
+    },
+    "kn": {
+      "question": "ಬೆಲ್ಜಿಯಂ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಬ್ರಸೆಲ್ಸ್",
+        "ಆಮ್ಸ್ಟರ್ಡ್ಯಾಮ್",
+        "ಹನೋಯಿ",
+        "ಸ್ಯಾಂಟಿಯಾಗೊ"
+      ],
+      "answer": "ಬ್ರಸೆಲ್ಸ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬ್ರಸೆಲ್ಸ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_31",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Austria?",
+      "options": [
+        "Havana",
+        "Vienna",
+        "Bogota",
+        "Lima"
+      ],
+      "answer": "Vienna",
+      "reasoning": "The correct answer is Vienna."
+    },
+    "kn": {
+      "question": "ಆಸ್ಟ್ರಿಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಹವಾನಾ",
+        "ವಿಯೆನ್ನಾ",
+        "ಬೊಗೋಟಾ",
+        "ಲಿಮಾ"
+      ],
+      "answer": "ವಿಯೆನ್ನಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ವಿಯೆನ್ನಾ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_32",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of New Zealand?",
+      "options": [
+        "Ankara",
+        "Wellington",
+        "Jerusalem",
+        "Riyadh"
+      ],
+      "answer": "Wellington",
+      "reasoning": "The correct answer is Wellington."
+    },
+    "kn": {
+      "question": "ನ್ಯೂಜಿಲೆಂಡ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಅಂಕಾರಾ",
+        "ವೆಲ್ಲಿಂಗ್ಟನ್",
+        "ಜೆರುಸಲೆಮ್",
+        "ರಿಯಾದ್"
+      ],
+      "answer": "ವೆಲ್ಲಿಂಗ್ಟನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ವೆಲ್ಲಿಂಗ್ಟನ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_33",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Kenya?",
+      "options": [
+        "Helsinki",
+        "Abuja",
+        "Nairobi",
+        "Bern"
+      ],
+      "answer": "Nairobi",
+      "reasoning": "The correct answer is Nairobi."
+    },
+    "kn": {
+      "question": "ಕೀನ್ಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಹೆಲ್ಸಿಂಕಿ",
+        "ಅಬುಜಾ",
+        "ನೈರೋಬಿ",
+        "ಬರ್ನ್"
+      ],
+      "answer": "ನೈರೋಬಿ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ನೈರೋಬಿ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_34",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Nigeria?",
+      "options": [
+        "Seoul",
+        "Brussels",
+        "Abuja",
+        "Athens"
+      ],
+      "answer": "Abuja",
+      "reasoning": "The correct answer is Abuja."
+    },
+    "kn": {
+      "question": "ನೈಜೀರಿಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಸಿಯೋಲ್",
+        "ಬ್ರಸೆಲ್ಸ್",
+        "ಅಬುಜಾ",
+        "ಏಥೆನ್ಸ್"
+      ],
+      "answer": "ಅಬುಜಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಅಬುಜಾ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_35",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Peru?",
+      "options": [
+        "Lima",
+        "Abuja",
+        "Lisbon",
+        "Wellington"
+      ],
+      "answer": "Lima",
+      "reasoning": "The correct answer is Lima."
+    },
+    "kn": {
+      "question": "ಪೆರು ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಲಿಮಾ",
+        "ಅಬುಜಾ",
+        "ಲಿಸ್ಬನ್",
+        "ವೆಲ್ಲಿಂಗ್ಟನ್"
+      ],
+      "answer": "ಲಿಮಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಲಿಮಾ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_36",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Chile?",
+      "options": [
+        "Stockholm",
+        "Santiago",
+        "Madrid",
+        "Riyadh"
+      ],
+      "answer": "Santiago",
+      "reasoning": "The correct answer is Santiago."
+    },
+    "kn": {
+      "question": "ಚಿಲಿ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಸ್ಟಾಕ್ಹೋಮ್",
+        "ಸ್ಯಾಂಟಿಯಾಗೊ",
+        "ಮ್ಯಾಡ್ರಿಡ್",
+        "ರಿಯಾದ್"
+      ],
+      "answer": "ಸ್ಯಾಂಟಿಯಾಗೊ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಸ್ಯಾಂಟಿಯಾಗೊ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_37",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Colombia?",
+      "options": [
+        "Nairobi",
+        "Lisbon",
+        "Bogota",
+        "Bern"
+      ],
+      "answer": "Bogota",
+      "reasoning": "The correct answer is Bogota."
+    },
+    "kn": {
+      "question": "ಕೊಲಂಬಿಯಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ನೈರೋಬಿ",
+        "ಲಿಸ್ಬನ್",
+        "ಬೊಗೋಟಾ",
+        "ಬರ್ನ್"
+      ],
+      "answer": "ಬೊಗೋಟಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಬೊಗೋಟಾ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_38",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Cuba?",
+      "options": [
+        "Ankara",
+        "Nairobi",
+        "Havana",
+        "Kuala Lumpur"
+      ],
+      "answer": "Havana",
+      "reasoning": "The correct answer is Havana."
+    },
+    "kn": {
+      "question": "ಕ್ಯೂಬಾ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಅಂಕಾರಾ",
+        "ನೈರೋಬಿ",
+        "ಹವಾನಾ",
+        "ಕೌಲಾಲಂಪುರ್"
+      ],
+      "answer": "ಹವಾನಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಹವಾನಾ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_39",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Philippines?",
+      "options": [
+        "Lima",
+        "Beijing",
+        "Islamabad",
+        "Manila"
+      ],
+      "answer": "Manila",
+      "reasoning": "The correct answer is Manila."
+    },
+    "kn": {
+      "question": "ಫಿಲಿಪೈನ್ಸ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಲಿಮಾ",
+        "ಬೀಜಿಂಗ್",
+        "ಇಸ್ಲಾಮಾಬಾದ್",
+        "ಮನಿಲಾ"
+      ],
+      "answer": "ಮನಿಲಾ",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಮನಿಲಾ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_single_40",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the capital of Portugal?",
+      "options": [
+        "Manila",
+        "Helsinki",
+        "Lisbon",
+        "Athens"
+      ],
+      "answer": "Lisbon",
+      "reasoning": "The correct answer is Lisbon."
+    },
+    "kn": {
+      "question": "ಪೋರ್ಚುಗಲ್ ದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "options": [
+        "ಮನಿಲಾ",
+        "ಹೆಲ್ಸಿಂಕಿ",
+        "ಲಿಸ್ಬನ್",
+        "ಏಥೆನ್ಸ್"
+      ],
+      "answer": "ಲಿಸ್ಬನ್",
+      "reasoning": "ಸರಿಯಾದ ಉತ್ತರ ಲಿಸ್ಬನ್."
+    }
+  },
+  {
+    "id": "gen_gk_cap_match_1",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the following countries with their capitals:",
+      "pairs": [
+        {
+          "left": "China",
+          "right": "Beijing"
+        },
+        {
+          "left": "Russia",
+          "right": "Moscow"
+        },
+        {
+          "left": "Spain",
+          "right": "Madrid"
+        },
+        {
+          "left": "Egypt",
+          "right": "Cairo"
+        }
+      ],
+      "reasoning": "These are the correct capitals for the given countries."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ದೇಶಗಳನ್ನು ಅವುಗಳ ರಾಜಧಾನಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಚೀನಾ",
+          "right": "ಬೀಜಿಂಗ್"
+        },
+        {
+          "left": "ರಷ್ಯಾ",
+          "right": "ಮಾಸ್ಕೋ"
+        },
+        {
+          "left": "ಸ್ಪೇನ್",
+          "right": "ಮ್ಯಾಡ್ರಿಡ್"
+        },
+        {
+          "left": "ಈಜಿಪ್ಟ್",
+          "right": "ಕೈರೋ"
+        }
+      ],
+      "reasoning": "ಇವು ನೀಡಲಾದ ದೇಶಗಳಿಗೆ ಸರಿಯಾದ ರಾಜಧಾನಿಗಳು."
+    }
+  },
+  {
+    "id": "gen_gk_cap_match_2",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the following countries with their capitals:",
+      "pairs": [
+        {
+          "left": "Thailand",
+          "right": "Bangkok"
+        },
+        {
+          "left": "Indonesia",
+          "right": "Jakarta"
+        },
+        {
+          "left": "Vietnam",
+          "right": "Hanoi"
+        },
+        {
+          "left": "Malaysia",
+          "right": "Kuala Lumpur"
+        }
+      ],
+      "reasoning": "These are the correct capitals for the given countries."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ದೇಶಗಳನ್ನು ಅವುಗಳ ರಾಜಧಾನಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಥೈಲ್ಯಾಂಡ್",
+          "right": "ಬ್ಯಾಂಕಾಕ್"
+        },
+        {
+          "left": "ಇಂಡೋನೇಷ್ಯಾ",
+          "right": "ಜಕಾರ್ತಾ"
+        },
+        {
+          "left": "ವಿಯೆಟ್ನಾಂ",
+          "right": "ಹನೋಯಿ"
+        },
+        {
+          "left": "ಮಲೇಷ್ಯಾ",
+          "right": "ಕೌಲಾಲಂಪುರ್"
+        }
+      ],
+      "reasoning": "ಇವು ನೀಡಲಾದ ದೇಶಗಳಿಗೆ ಸರಿಯಾದ ರಾಜಧಾನಿಗಳು."
+    }
+  },
+  {
+    "id": "gen_gk_cap_match_3",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the following countries with their capitals:",
+      "pairs": [
+        {
+          "left": "Switzerland",
+          "right": "Bern"
+        },
+        {
+          "left": "Sweden",
+          "right": "Stockholm"
+        },
+        {
+          "left": "Norway",
+          "right": "Oslo"
+        },
+        {
+          "left": "Denmark",
+          "right": "Copenhagen"
+        }
+      ],
+      "reasoning": "These are the correct capitals for the given countries."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ದೇಶಗಳನ್ನು ಅವುಗಳ ರಾಜಧಾನಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಸ್ವಿಟ್ಜರ್ಲೆಂಡ್",
+          "right": "ಬರ್ನ್"
+        },
+        {
+          "left": "ಸ್ವೀಡನ್",
+          "right": "ಸ್ಟಾಕ್ಹೋಮ್"
+        },
+        {
+          "left": "ನಾರ್ವೆ",
+          "right": "ಓಸ್ಲೋ"
+        },
+        {
+          "left": "ಡೆನ್ಮಾರ್ಕ್",
+          "right": "ಕೋಪನ್ ಹ್ಯಾಗನ್"
+        }
+      ],
+      "reasoning": "ಇವು ನೀಡಲಾದ ದೇಶಗಳಿಗೆ ಸರಿಯಾದ ರಾಜಧಾನಿಗಳು."
+    }
+  },
+  {
+    "id": "gen_gk_cap_match_4",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the following countries with their capitals:",
+      "pairs": [
+        {
+          "left": "Kenya",
+          "right": "Nairobi"
+        },
+        {
+          "left": "Nigeria",
+          "right": "Abuja"
+        },
+        {
+          "left": "Peru",
+          "right": "Lima"
+        },
+        {
+          "left": "Chile",
+          "right": "Santiago"
+        }
+      ],
+      "reasoning": "These are the correct capitals for the given countries."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ದೇಶಗಳನ್ನು ಅವುಗಳ ರಾಜಧಾನಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಕೀನ್ಯಾ",
+          "right": "ನೈರೋಬಿ"
+        },
+        {
+          "left": "ನೈಜೀರಿಯಾ",
+          "right": "ಅಬುಜಾ"
+        },
+        {
+          "left": "ಪೆರು",
+          "right": "ಲಿಮಾ"
+        },
+        {
+          "left": "ಚಿಲಿ",
+          "right": "ಸ್ಯಾಂಟಿಯಾಗೊ"
+        }
+      ],
+      "reasoning": "ಇವು ನೀಡಲಾದ ದೇಶಗಳಿಗೆ ಸರಿಯಾದ ರಾಜಧಾನಿಗಳು."
+    }
+  },
+  {
+    "id": "gen_gk_cap_match_5",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the following countries with their capitals:",
+      "pairs": [
+        {
+          "left": "Nepal",
+          "right": "Kathmandu"
+        },
+        {
+          "left": "Afghanistan",
+          "right": "Kabul"
+        },
+        {
+          "left": "Iran",
+          "right": "Tehran"
+        },
+        {
+          "left": "Iraq",
+          "right": "Baghdad"
+        }
+      ],
+      "reasoning": "These are the correct capitals for the given countries."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ದೇಶಗಳನ್ನು ಅವುಗಳ ರಾಜಧಾನಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ನೇಪಾಳ",
+          "right": "ಕಠ್ಮಂಡು"
+        },
+        {
+          "left": "ಅಫ್ಘಾನಿಸ್ತಾನ",
+          "right": "ಕಾಬೂಲ್"
+        },
+        {
+          "left": "ಇರಾನ್",
+          "right": "ಟೆಹ್ರಾನ್"
+        },
+        {
+          "left": "ಇರಾಕ್",
+          "right": "ಬಾಗ್ದಾದ್"
+        }
+      ],
+      "reasoning": "ಇವು ನೀಡಲಾದ ದೇಶಗಳಿಗೆ ಸರಿಯಾದ ರಾಜಧಾನಿಗಳು."
+    }
+  },
+  {
+    "id": "gen_gk_cap_mult_1",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following are capital cities in Asia?",
+      "options": [
+        "Beijing",
+        "Seoul",
+        "Madrid",
+        "Cairo",
+        "Tokyo"
+      ],
+      "answer": [
+        "Beijing",
+        "Seoul",
+        "Tokyo"
+      ],
+      "reasoning": "Beijing, Seoul, and Tokyo are located in Asia."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಏಷ್ಯಾದ ರಾಜಧಾನಿ ನಗರಗಳು?",
+      "options": [
+        "ಬೀಜಿಂಗ್",
+        "ಸಿಯೋಲ್",
+        "ಮ್ಯಾಡ್ರಿಡ್",
+        "ಕೈರೋ",
+        "ಟೋಕಿಯೋ"
+      ],
+      "answer": [
+        "ಬೀಜಿಂಗ್",
+        "ಸಿಯೋಲ್",
+        "ಟೋಕಿಯೋ"
+      ],
+      "reasoning": "ಬೀಜಿಂಗ್, ಸಿಯೋಲ್ ಮತ್ತು ಟೋಕಿಯೋ ಏಷ್ಯಾದಲ್ಲಿವೆ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_mult_2",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following are capital cities in Europe?",
+      "options": [
+        "Paris",
+        "Berlin",
+        "Nairobi",
+        "Abuja",
+        "Madrid"
+      ],
+      "answer": [
+        "Paris",
+        "Berlin",
+        "Madrid"
+      ],
+      "reasoning": "Paris, Berlin, and Madrid are in Europe."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಯುರೋಪಿನ ರಾಜಧಾನಿ ನಗರಗಳು?",
+      "options": [
+        "ಪ್ಯಾರಿಸ್",
+        "ಬರ್ಲಿನ್",
+        "ನೈರೋಬಿ",
+        "ಅಬುಜಾ",
+        "ಮ್ಯಾಡ್ರಿಡ್"
+      ],
+      "answer": [
+        "ಪ್ಯಾರಿಸ್",
+        "ಬರ್ಲಿನ್",
+        "ಮ್ಯಾಡ್ರಿಡ್"
+      ],
+      "reasoning": "ಪ್ಯಾರಿಸ್, ಬರ್ಲಿನ್ ಮತ್ತು ಮ್ಯಾಡ್ರಿಡ್ ಯುರೋಪಿನಲ್ಲಿವೆ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_mult_3",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of these are capitals of South American countries?",
+      "options": [
+        "Buenos Aires",
+        "Lima",
+        "Bogota",
+        "Oslo",
+        "Helsinki"
+      ],
+      "answer": [
+        "Buenos Aires",
+        "Lima",
+        "Bogota"
+      ],
+      "reasoning": "Buenos Aires, Lima, and Bogota are in South America."
+    },
+    "kn": {
+      "question": "ಇವುಗಳಲ್ಲಿ ಯಾವುದು ದಕ್ಷಿಣ ಅಮೆರಿಕಾದ ದೇಶಗಳ ರಾಜಧಾನಿಗಳು?",
+      "options": [
+        "ಬ್ಯೂನಸ್ ಐರಿಸ್",
+        "ಲಿಮಾ",
+        "ಬೊಗೋಟಾ",
+        "ಓಸ್ಲೋ",
+        "ಹೆಲ್ಸಿಂಕಿ"
+      ],
+      "answer": [
+        "ಬ್ಯೂನಸ್ ಐರಿಸ್",
+        "ಲಿಮಾ",
+        "ಬೊಗೋಟಾ"
+      ],
+      "reasoning": "ಬ್ಯೂನಸ್ ಐರಿಸ್, ಲಿಮಾ ಮತ್ತು ಬೊಗೋಟಾ ದಕ್ಷಿಣ ಅಮೆರಿಕಾದಲ್ಲಿವೆ."
+    }
+  },
+  {
+    "id": "gen_gk_cap_mult_4",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Select the cities that are capitals of Nordic/Scandinavian countries:",
+      "options": [
+        "Stockholm",
+        "Oslo",
+        "Copenhagen",
+        "Rome",
+        "Athens"
+      ],
+      "answer": [
+        "Stockholm",
+        "Oslo",
+        "Copenhagen"
+      ],
+      "reasoning": "Stockholm, Oslo, and Copenhagen are Nordic capitals."
+    },
+    "kn": {
+      "question": "ನಾರ್ಡಿಕ್/ಸ್ಕ್ಯಾಂಡಿನೇವಿಯನ್ ದೇಶಗಳ ರಾಜಧಾನಿಗಳಾದ ನಗರಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ:",
+      "options": [
+        "ಸ್ಟಾಕ್ಹೋಮ್",
+        "ಓಸ್ಲೋ",
+        "ಕೋಪನ್ ಹ್ಯಾಗನ್",
+        "ರೋಮ್",
+        "ಏಥೆನ್ಸ್"
+      ],
+      "answer": [
+        "ಸ್ಟಾಕ್ಹೋಮ್",
+        "ಓಸ್ಲೋ",
+        "ಕೋಪನ್ ಹ್ಯಾಗನ್"
+      ],
+      "reasoning": "ಸ್ಟಾಕ್ಹೋಮ್, ಓಸ್ಲೋ ಮತ್ತು ಕೋಪನ್ ಹ್ಯಾಗನ್ ನಾರ್ಡಿಕ್ ರಾಜಧಾನಿಗಳು."
+    }
+  },
+  {
+    "id": "gen_gk_cap_mult_5",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following are capitals of countries bordering the Indian Ocean?",
+      "options": [
+        "Colombo",
+        "Jakarta",
+        "Nairobi",
+        "Vienna",
+        "Bern"
+      ],
+      "answer": [
+        "Colombo",
+        "Jakarta",
+        "Nairobi"
+      ],
+      "reasoning": "Colombo, Jakarta, and Nairobi belong to countries near the Indian Ocean."
+    },
+    "kn": {
+      "question": "ಹಿಂದೂ ಮಹಾಸಾಗರದ ಗಡಿಯಲ್ಲಿರುವ ದೇಶಗಳ ರಾಜಧಾನಿಗಳು ಯಾವುವು?",
+      "options": [
+        "ಕೊಲಂಬೊ",
+        "ಜಕಾರ್ತಾ",
+        "ನೈರೋಬಿ",
+        "ವಿಯೆನ್ನಾ",
+        "ಬರ್ನ್"
+      ],
+      "answer": [
+        "ಕೊಲಂಬೊ",
+        "ಜಕಾರ್ತಾ",
+        "ನೈರೋಬಿ"
+      ],
+      "reasoning": "ಕೊಲಂಬೊ, ಜಕಾರ್ತಾ ಮತ್ತು ನೈರೋಬಿ ಹಿಂದೂ ಮಹಾಸಾಗರದ ಸಮೀಪವಿರುವ ದೇಶಗಳಿಗೆ ಸೇರಿವೆ."
+    }
   }
 ]

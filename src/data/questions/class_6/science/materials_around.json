@@ -238,5 +238,377 @@
       "answer": "ಏಕೆಂದರೆ ಬಟ್ಟೆ ನೀರನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವುದಿಲ್ಲ; ನೀರು ಸೋರಿಕೆಯಾಗುತ್ತದೆ",
       "reasoning": "ವಸ್ತುಗಳ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಆಧರಿಸಿ ನಾವು ವಸ್ತುಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡುತ್ತೇವೆ. ಬಟ್ಟೆಯು ರಂಧ್ರಯುಕ್ತವಾಗಿದ್ದು, ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ ಅಥವಾ ಸೋರಿಕೆಯಾಗುವಂತೆ ಮಾಡುತ್ತದೆ, ಆದ್ದರಿಂದ ಇದನ್ನು ಕುಡಿಯುವ ಲೋಟವಾಗಿ ಬಳಸಲಾಗುವುದಿಲ್ಲ."
     }
+  },
+  {
+    "id": "c6_sci_ma_16",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of these materials is considered 'soft'?",
+      "options": ["Iron", "Wood", "Sponge", "Glass"],
+      "answer": "Sponge",
+      "reasoning": "Materials that can be easily compressed or scratched are called soft. A sponge can be easily compressed."
+    },
+    "kn": {
+      "question": "ಈ ವಸ್ತುಗಳಲ್ಲಿ ಯಾವುದನ್ನು 'ಮೃದುವಾದ' (soft) ವಸ್ತು ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ?",
+      "options": ["ಕಬ್ಬಿಣ", "ಮರ", "ಸ್ಪಾಂಜ್", "ಗಾಜು"],
+      "answer": "ಸ್ಪಾಂಜ್",
+      "reasoning": "ಸುಲಭವಾಗಿ ಸಂಕುಚಿತಗೊಳಿಸಬಹುದಾದ ಅಥವಾ ಗೀಚಬಹುದಾದ ವಸ್ತುಗಳನ್ನು ಮೃದುವಾದ ವಸ್ತುಗಳು ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಸ್ಪಾಂಜ್ ಅನ್ನು ಸುಲಭವಾಗಿ ಸಂಕುಚಿತಗೊಳಿಸಬಹುದು."
+    }
+  },
+  {
+    "id": "c6_sci_ma_17",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What happens when you add chalk powder to water?",
+      "options": ["It dissolves completely", "It floats and then dissolves", "It does not dissolve and settles at the bottom", "It turns the water red"],
+      "answer": "It does not dissolve and settles at the bottom",
+      "reasoning": "Chalk powder is insoluble in water. It remains suspended for a while and then settles down at the bottom of the container."
+    },
+    "kn": {
+      "question": "ನೀರಿಗೆ ಸೀಮೆಸುಣ್ಣದ (ಚಾಕ್) ಪುಡಿಯನ್ನು ಸೇರಿಸಿದಾಗ ಏನಾಗುತ್ತದೆ?",
+      "options": ["ಅದು ಸಂಪೂರ್ಣವಾಗಿ ಕರಗುತ್ತದೆ", "ಅದು ತೇಲುತ್ತದೆ ಮತ್ತು ನಂತರ ಕರಗುತ್ತದೆ", "ಅದು ಕರಗುವುದಿಲ್ಲ ಮತ್ತು ತಳದಲ್ಲಿ ನೆಲೆಗೊಳ್ಳುತ್ತದೆ", "ಅದು ನೀರನ್ನು ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿಸುತ್ತದೆ"],
+      "answer": "ಅದು ಕರಗುವುದಿಲ್ಲ ಮತ್ತು ತಳದಲ್ಲಿ ನೆಲೆಗೊಳ್ಳುತ್ತದೆ",
+      "reasoning": "ಸೀಮೆಸುಣ್ಣದ ಪುಡಿಯು ನೀರಿನಲ್ಲಿ ಕರಗುವುದಿಲ್ಲ. ಇದು ಸ್ವಲ್ಪ ಸಮಯದವರೆಗೆ ತೇಲಾಡುತ್ತದೆ ಮತ್ತು ನಂತರ ಪಾತ್ರೆಯ ತಳದಲ್ಲಿ ನೆಲೆಗೊಳ್ಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ma_18",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following are opaque materials?",
+      "options": ["Wood", "Clear glass", "Cardboard", "Water"],
+      "answer": ["Wood", "Cardboard"],
+      "reasoning": "Opaque materials do not allow light to pass through them. Wood and cardboard completely block light."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಅಪಾರದರ್ಶಕ (opaque) ವಸ್ತುಗಳು ಯಾವುವು?",
+      "options": ["ಮರ", "ಸ್ಪಷ್ಟವಾದ ಗಾಜು", "ರಟ್ಟು (Cardboard)", "ನೀರು"],
+      "answer": ["ಮರ", "ರಟ್ಟು (Cardboard)"],
+      "reasoning": "ಅಪಾರದರ್ಶಕ ವಸ್ತುಗಳು ಬೆಳಕನ್ನು ತಮ್ಮ ಮೂಲಕ ಹಾದುಹೋಗಲು ಬಿಡುವುದಿಲ್ಲ. ಮರ ಮತ್ತು ರಟ್ಟು (cardboard) ಬೆಳಕನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತಡೆಯುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ma_19",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following substances are soluble in water?",
+      "options": ["Sugar", "Sand", "Salt", "Sawdust"],
+      "answer": ["Sugar", "Salt"],
+      "reasoning": "Sugar and salt dissolve completely in water, making them soluble. Sand and sawdust do not dissolve."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಯಾವ ವಸ್ತುಗಳು ನೀರಿನಲ್ಲಿ ಕರಗುತ್ತವೆ (soluble)?",
+      "options": ["ಸಕ್ಕರೆ", "ಮರಳು", "ಉಪ್ಪು", "ಮರದ ಪುಡಿ (Sawdust)"],
+      "answer": ["ಸಕ್ಕರೆ", "ಉಪ್ಪು"],
+      "reasoning": "ಸಕ್ಕರೆ ಮತ್ತು ಉಪ್ಪು ನೀರಿನಲ್ಲಿ ಸಂಪೂರ್ಣವಾಗಿ ಕರಗುತ್ತವೆ, ಆದ್ದರಿಂದ ಅವು ಕರಗಬಲ್ಲವು. ಮರಳು ಮತ್ತು ಮರದ ಪುಡಿ ಕರಗುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_sci_ma_20",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the material to its physical property.",
+      "pairs": [
+        {"left": "Wood", "right": "Opaque"},
+        {"left": "Clear Glass", "right": "Transparent"},
+        {"left": "Butter Paper", "right": "Translucent"},
+        {"left": "Sponge", "right": "Soft"}
+      ],
+      "reasoning": "Wood blocks light (opaque), glass allows light (transparent), butter paper allows partial light (translucent), and sponge is easily compressed (soft)."
+    },
+    "kn": {
+      "question": "ವಸ್ತುವನ್ನು ಅದರ ಭೌತಿಕ ಗುಣಲಕ್ಷಣದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಮರ", "right": "ಅಪಾರದರ್ಶಕ (Opaque)"},
+        {"left": "ಸ್ಪಷ್ಟವಾದ ಗಾಜು", "right": "ಪಾರದರ್ಶಕ (Transparent)"},
+        {"left": "ಬೆಣ್ಣೆ ಕಾಗದ", "right": "ಅರೆಪಾರದರ್ಶಕ (Translucent)"},
+        {"left": "ಸ್ಪಾಂಜ್", "right": "ಮೃದು (Soft)"}
+      ],
+      "reasoning": "ಮರ ಬೆಳಕನ್ನು ತಡೆಯುತ್ತದೆ (ಅಪಾರದರ್ಶಕ), ಗಾಜು ಬೆಳಕನ್ನು ಬಿಡುತ್ತದೆ (ಪಾರದರ್ಶಕ), ಬೆಣ್ಣೆ ಕಾಗದವು ಸ್ವಲ್ಪ ಬೆಳಕನ್ನು ಬಿಡುತ್ತದೆ (ಅರೆಪಾರದರ್ಶಕ), ಮತ್ತು ಸ್ಪಾಂಜ್ ಅನ್ನು ಸುಲಭವಾಗಿ ಸಂಕುಚಿತಗೊಳಿಸಬಹುದು (ಮೃದು)."
+    }
+  },
+  {
+    "id": "c6_sci_ma_21",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the common object to the material it is usually made of.",
+      "pairs": [
+        {"left": "Book", "right": "Paper"},
+        {"left": "Tumbler", "right": "Glass or Metal"},
+        {"left": "Chair", "right": "Wood or Plastic"},
+        {"left": "Shoes", "right": "Leather or Rubber"}
+      ],
+      "reasoning": "Objects are made from materials that suit their purpose. Books need flexible paper, while chairs need sturdy wood or plastic."
+    },
+    "kn": {
+      "question": "ಸಾಮಾನ್ಯ ವಸ್ತುವನ್ನು ಅದು ಸಾಮಾನ್ಯವಾಗಿ ಮಾಡಲಾದ ವಸ್ತುವಿನೊಂದಿಗೆ (material) ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಪುಸ್ತಕ", "right": "ಕಾಗದ"},
+        {"left": "ಲೋಟ (Tumbler)", "right": "ಗಾಜು ಅಥವಾ ಲೋಹ"},
+        {"left": "ಕುರ್ಚಿ", "right": "ಮರ ಅಥವಾ ಪ್ಲಾಸ್ಟಿಕ್"},
+        {"left": "ಶೂಗಳು", "right": "ಚರ್ಮ ಅಥವಾ ರಬ್ಬರ್"}
+      ],
+      "reasoning": "ವಸ್ತುಗಳನ್ನು ಅವುಗಳ ಉದ್ದೇಶಕ್ಕೆ ಸರಿಹೊಂದುವ ಮೂಲವಸ್ತುಗಳಿಂದ ತಯಾರಿಸಲಾಗುತ್ತದೆ. ಪುಸ್ತಕಗಳಿಗೆ ಹೊಂದಿಕೊಳ್ಳುವ ಕಾಗದದ ಅಗತ್ಯವಿದೆ, ಆದರೆ ಕುರ್ಚಿಗಳಿಗೆ ಗಟ್ಟಿಮುಟ್ಟಾದ ಮರ ಅಥವಾ ಪ್ಲಾಸ್ಟಿಕ್ ಅಗತ್ಯವಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ma_22",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why are the handles of cooking utensils usually made of plastic or wood?",
+      "options": ["They look beautiful", "They are cheap", "They do not conduct heat and keep our hands safe", "They are transparent"],
+      "answer": "They do not conduct heat and keep our hands safe",
+      "reasoning": "Wood and plastic are bad conductors of heat, meaning they don't get hot when the pan is heated. This prevents our hands from burning."
+    },
+    "kn": {
+      "question": "ಅಡುಗೆ ಪಾತ್ರೆಗಳ ಹಿಡಿಕೆಗಳನ್ನು (handles) ಸಾಮಾನ್ಯವಾಗಿ ಪ್ಲಾಸ್ಟಿಕ್ ಅಥವಾ ಮರದಿಂದ ಏಕೆ ತಯಾರಿಸಲಾಗುತ್ತದೆ?",
+      "options": ["ಅವು ಸುಂದರವಾಗಿ ಕಾಣುತ್ತವೆ", "ಅವು ಅಗ್ಗವಾಗಿವೆ", "ಅವು ಶಾಖವನ್ನು ಹರಿಯಲು ಬಿಡುವುದಿಲ್ಲ ಮತ್ತು ನಮ್ಮ ಕೈಗಳನ್ನು ಸುರಕ್ಷಿತವಾಗಿರಿಸುತ್ತವೆ", "ಅವು ಪಾರದರ್ಶಕವಾಗಿವೆ"],
+      "answer": "ಅವು ಶಾಖವನ್ನು ಹರಿಯಲು ಬಿಡುವುದಿಲ್ಲ ಮತ್ತು ನಮ್ಮ ಕೈಗಳನ್ನು ಸುರಕ್ಷಿತವಾಗಿರಿಸುತ್ತವೆ",
+      "reasoning": "ಮರ ಮತ್ತು ಪ್ಲಾಸ್ಟಿಕ್ ಶಾಖದ ಕಳಪೆ ವಾಹಕಗಳಾಗಿವೆ, ಅಂದರೆ ಬಾಣಲೆ ಬಿಸಿಯಾದಾಗ ಅವು ಬಿಸಿಯಾಗುವುದಿಲ್ಲ. ಇದು ನಮ್ಮ ಕೈಗಳು ಸುಡುವುದನ್ನು ತಡೆಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ma_23",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of these materials is a metal?",
+      "options": ["Glass", "Copper", "Plastic", "Wood"],
+      "answer": "Copper",
+      "reasoning": "Copper is a metal. It is hard, has lustre, and conducts heat and electricity well."
+    },
+    "kn": {
+      "question": "ಈ ವಸ್ತುಗಳಲ್ಲಿ ಯಾವುದು ಲೋಹವಾಗಿದೆ?",
+      "options": ["ಗಾಜು", "ತಾಮ್ರ", "ಪ್ಲಾಸ್ಟಿಕ್", "ಮರ"],
+      "answer": "ತಾಮ್ರ",
+      "reasoning": "ತಾಮ್ರವು (Copper) ಒಂದು ಲೋಹವಾಗಿದೆ. ಇದು ಗಟ್ಟಿಯಾಗಿದೆ, ಹೊಳಪನ್ನು ಹೊಂದಿದೆ ಮತ್ತು ಶಾಖ ಹಾಗೂ ವಿದ್ಯುತ್ ಅನ್ನು ಚೆನ್ನಾಗಿ ಹರಿಯಲು ಬಿಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ma_24",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these objects will float on water?",
+      "options": ["Iron nail", "Dry leaf", "Plastic toy", "Stone"],
+      "answer": ["Dry leaf", "Plastic toy"],
+      "reasoning": "Objects that are lighter (less dense) than water, like dry leaves and hollow plastic toys, will float."
+    },
+    "kn": {
+      "question": "ಈ ವಸ್ತುಗಳಲ್ಲಿ ಯಾವುದು ನೀರಿನ ಮೇಲೆ ತೇಲುತ್ತದೆ?",
+      "options": ["ಕಬ್ಬಿಣದ ಮೊಳೆ", "ಒಣಗಿದ ಎಲೆ", "ಪ್ಲಾಸ್ಟಿಕ್ ಆಟಿಕೆ", "ಕಲ್ಲು"],
+      "answer": ["ಒಣಗಿದ ಎಲೆ", "ಪ್ಲಾಸ್ಟಿಕ್ ಆಟಿಕೆ"],
+      "reasoning": "ಒಣಗಿದ ಎಲೆಗಳು ಮತ್ತು ಟೊಳ್ಳಾದ ಪ್ಲಾಸ್ಟಿಕ್ ಆಟಿಕೆಗಳಂತೆ ನೀರಿಗಿಂತ ಹಗುರವಾದ (ಕಡಿಮೆ ಸಾಂದ್ರತೆಯ) ವಸ್ತುಗಳು ತೇಲುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ma_25",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these materials will sink in water?",
+      "options": ["A coin", "A feather", "Sand", "An iron key"],
+      "answer": ["A coin", "Sand", "An iron key"],
+      "reasoning": "Objects that are heavier (denser) than water, such as metals (coins, keys) and sand, will sink to the bottom."
+    },
+    "kn": {
+      "question": "ಈ ವಸ್ತುಗಳಲ್ಲಿ ಯಾವುದು ನೀರಿನಲ್ಲಿ ಮುಳುಗುತ್ತದೆ?",
+      "options": ["ಒಂದು ನಾಣ್ಯ", "ಗರಿ (Feather)", "ಮರಳು", "ಕಬ್ಬಿಣದ ಕೀ (ಬೀಗದ ಕೈ)"],
+      "answer": ["ಒಂದು ನಾಣ್ಯ", "ಮರಳು", "ಕಬ್ಬಿಣದ ಕೀ (ಬೀಗದ ಕೈ)"],
+      "reasoning": "ಲೋಹಗಳು (ನಾಣ್ಯಗಳು, ಕೀಗಳು) ಮತ್ತು ಮರಳಿನಂತಹ ನೀರಿಗಿಂತ ಭಾರವಾದ (ಹೆಚ್ಚು ಸಾಂದ್ರತೆಯ) ವಸ್ತುಗಳು ತಳಕ್ಕೆ ಮುಳುಗುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ma_26",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these liquids is immiscible (does not mix) in water?",
+      "options": ["Lemon juice", "Vinegar", "Mustard oil", "Milk"],
+      "answer": "Mustard oil",
+      "reasoning": "Oils are immiscible in water. If you mix mustard oil and water, they form separate layers because the oil floats on top."
+    },
+    "kn": {
+      "question": "ಈ ದ್ರವಗಳಲ್ಲಿ ಯಾವುದು ನೀರಿನಲ್ಲಿ ಬೆರೆಯುವುದಿಲ್ಲ (immiscible)?",
+      "options": ["ನಿಂಬೆ ರಸ", "ವಿನೆಗರ್", "ಸಾಸಿವೆ ಎಣ್ಣೆ", "ಹಾಲು"],
+      "answer": "ಸಾಸಿವೆ ಎಣ್ಣೆ",
+      "reasoning": "ಎಣ್ಣೆಗಳು ನೀರಿನಲ್ಲಿ ಬೆರೆಯುವುದಿಲ್ಲ (immiscible). ನೀವು ಸಾಸಿವೆ ಎಣ್ಣೆ ಮತ್ತು ನೀರನ್ನು ಬೆರೆಸಿದರೆ, ಅವು ಪ್ರತ್ಯೇಕ ಪದರಗಳನ್ನು ರೂಪಿಸುತ್ತವೆ ಏಕೆಂದರೆ ಎಣ್ಣೆಯು ಮೇಲ್ಭಾಗದಲ್ಲಿ ತೇಲುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ma_27",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the liquid with its miscibility (mixing ability) in water.",
+      "pairs": [
+        {"left": "Vinegar", "right": "Mixes well"},
+        {"left": "Mustard oil", "right": "Does not mix"},
+        {"left": "Lemon juice", "right": "Mixes well"},
+        {"left": "Kerosene", "right": "Does not mix"}
+      ],
+      "reasoning": "Vinegar and lemon juice mix completely with water. Mustard oil and kerosene are oils/fuels that do not mix and float on water."
+    },
+    "kn": {
+      "question": "ದ್ರವವನ್ನು ನೀರಿನಲ್ಲಿ ಅದರ ಬೆರೆಯುವ ಸಾಮರ್ಥ್ಯದೊಂದಿಗೆ (miscibility) ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ವಿನೆಗರ್", "right": "ಚೆನ್ನಾಗಿ ಬೆರೆಯುತ್ತದೆ"},
+        {"left": "ಸಾಸಿವೆ ಎಣ್ಣೆ", "right": "ಬೆರೆಯುವುದಿಲ್ಲ"},
+        {"left": "ನಿಂಬೆ ರಸ", "right": "ಚೆನ್ನಾಗಿ ಬೆರೆಯುತ್ತದೆ"},
+        {"left": "ಸೀಮೆಎಣ್ಣೆ", "right": "ಬೆರೆಯುವುದಿಲ್ಲ"}
+      ],
+      "reasoning": "ವಿನೆಗರ್ ಮತ್ತು ನಿಂಬೆ ರಸ ನೀರಿನೊಂದಿಗೆ ಸಂಪೂರ್ಣವಾಗಿ ಬೆರೆಯುತ್ತವೆ. ಸಾಸಿವೆ ಎಣ್ಣೆ ಮತ್ತು ಸೀಮೆಎಣ್ಣೆಗಳು ಎಣ್ಣೆಗಳು/ಇಂಧನಗಳಾಗಿದ್ದು ಅವು ಬೆರೆಯುವುದಿಲ್ಲ ಮತ್ತು ನೀರಿನ ಮೇಲೆ ತೇಲುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ma_28",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In a mixture of salt and water, what is the water called?",
+      "options": ["Solute", "Solvent", "Solution", "Insoluble"],
+      "answer": "Solvent",
+      "reasoning": "The substance in which another substance dissolves is called a solvent. Water is an excellent solvent."
+    },
+    "kn": {
+      "question": "ಉಪ್ಪು ಮತ್ತು ನೀರಿನ ಮಿಶ್ರಣದಲ್ಲಿ, ನೀರನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಕರಗುವ ವಸ್ತು (Solute)", "ದ್ರಾವಕ (Solvent)", "ದ್ರಾವಣ (Solution)", "ಕರಗದ (Insoluble)"],
+      "answer": "ದ್ರಾವಕ (Solvent)",
+      "reasoning": "ಮತ್ತೊಂದು ವಸ್ತು ಕರಗುವ ವಸ್ತುವನ್ನು ದ್ರಾವಕ (solvent) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ನೀರು ಅತ್ಯುತ್ತಮ ದ್ರಾವಕವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ma_29",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In a mixture of sugar and water, what is the sugar called?",
+      "options": ["Solvent", "Solution", "Solute", "Liquid"],
+      "answer": "Solute",
+      "reasoning": "The substance that dissolves in a liquid is called a solute. Here, sugar dissolves, so it is the solute."
+    },
+    "kn": {
+      "question": "ಸಕ್ಕರೆ ಮತ್ತು ನೀರಿನ ಮಿಶ್ರಣದಲ್ಲಿ, ಸಕ್ಕರೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ದ್ರಾವಕ (Solvent)", "ದ್ರಾವಣ (Solution)", "ಕರಗುವ ವಸ್ತು (Solute)", "ದ್ರವ (Liquid)"],
+      "answer": "ಕರಗುವ ವಸ್ತು (Solute)",
+      "reasoning": "ದ್ರವದಲ್ಲಿ ಕರಗುವ ವಸ್ತುವನ್ನು ವಿಲೇಯ ಅಥವಾ ಕರಗುವ ವಸ್ತು (solute) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇಲ್ಲಿ, ಸಕ್ಕರೆ ಕರಗುತ್ತದೆ, ಆದ್ದರಿಂದ ಅದು solute ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ma_30",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these everyday objects can be made from plastics?",
+      "options": ["Buckets", "Jewellery", "Toys", "Coins"],
+      "answer": ["Buckets", "Toys"],
+      "reasoning": "Plastics are lightweight and durable, making them ideal for buckets and toys. Coins and traditional jewellery are usually made of metals."
+    },
+    "kn": {
+      "question": "ದೈನಂದಿನ ಬಳಕೆಯ ಈ ವಸ್ತುಗಳಲ್ಲಿ ಯಾವುದನ್ನು ಪ್ಲಾಸ್ಟಿಕ್‌ನಿಂದ ತಯಾರಿಸಬಹುದು?",
+      "options": ["ಬಕೆಟ್‌ಗಳು", "ಆಭರಣ", "ಆಟಿಕೆಗಳು", "ನಾಣ್ಯಗಳು"],
+      "answer": ["ಬಕೆಟ್‌ಗಳು", "ಆಟಿಕೆಗಳು"],
+      "reasoning": "ಪ್ಲಾಸ್ಟಿಕ್‌ಗಳು ಹಗುರವಾದ ಮತ್ತು ಬಾಳಿಕೆ ಬರುವಂತಹವುಗಳಾಗಿವೆ, ಇದು ಬಕೆಟ್‌ಗಳು ಮತ್ತು ಆಟಿಕೆಗಳಿಗೆ ಸೂಕ್ತವಾಗಿದೆ. ನಾಣ್ಯಗಳು ಮತ್ತು ಸಾಂಪ್ರದಾಯಿಕ ಆಭರಣಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಲೋಹಗಳಿಂದ ತಯಾರಿಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ma_31",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "If you want to make a pan for cooking on a stove, which material is best?",
+      "options": ["Plastic", "Paper", "Wood", "Metal"],
+      "answer": "Metal",
+      "reasoning": "Metals like iron or aluminium conduct heat very well and do not burn or melt easily on a stove."
+    },
+    "kn": {
+      "question": "ನೀವು ಒಲೆಯ ಮೇಲೆ ಅಡುಗೆ ಮಾಡಲು ಪ್ಯಾನ್ (ಬಾಣಲೆ) ಮಾಡಲು ಬಯಸಿದರೆ, ಯಾವ ವಸ್ತು ಉತ್ತಮವಾಗಿದೆ?",
+      "options": ["ಪ್ಲಾಸ್ಟಿಕ್", "ಕಾಗದ", "ಮರ", "ಲೋಹ (Metal)"],
+      "answer": "ಲೋಹ (Metal)",
+      "reasoning": "ಕಬ್ಬಿಣ ಅಥವಾ ಅಲ್ಯೂಮಿನಿಯಂನಂತಹ ಲೋಹಗಳು ಶಾಖವನ್ನು ಚೆನ್ನಾಗಿ ಹರಿಯಲು ಬಿಡುತ್ತವೆ ಮತ್ತು ಒಲೆಯ ಮೇಲೆ ಸುಲಭವಾಗಿ ಸುಡುವುದಿಲ್ಲ ಅಥವಾ ಕರಗುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_sci_ma_32",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following materials typically have lustre (shine)?",
+      "options": ["Gold", "Wood", "Copper", "Paper"],
+      "answer": ["Gold", "Copper"],
+      "reasoning": "Metals like gold and copper have a natural shine on their freshly cut surfaces, which is known as lustre. Wood and paper do not."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಯಾವ ವಸ್ತುಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಹೊಳಪನ್ನು (lustre) ಹೊಂದಿರುತ್ತವೆ?",
+      "options": ["ಚಿನ್ನ", "ಮರ", "ತಾಮ್ರ", "ಕಾಗದ"],
+      "answer": ["ಚಿನ್ನ", "ತಾಮ್ರ"],
+      "reasoning": "ಚಿನ್ನ ಮತ್ತು ತಾಮ್ರದಂತಹ ಲೋಹಗಳು ತಮ್ಮ ಹೊಸದಾಗಿ ಕತ್ತರಿಸಿದ ಮೇಲ್ಮೈಗಳಲ್ಲಿ ನೈಸರ್ಗಿಕ ಹೊಳಪನ್ನು ಹೊಂದಿರುತ್ತವೆ, ಇದನ್ನು ಹೊಳಪು (lustre) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಮರ ಮತ್ತು ಕಾಗದ ಹಾಗೆ ಹೊಳೆಯುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_sci_ma_33",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the object with its transparency property.",
+      "pairs": [
+        {"left": "Mirror", "right": "Opaque and Reflective"},
+        {"left": "Clear Window", "right": "Transparent"},
+        {"left": "Stone Wall", "right": "Opaque"},
+        {"left": "Oiled Paper", "right": "Translucent"}
+      ],
+      "reasoning": "A mirror reflects light and is opaque. Clear windows let all light through (transparent). Stones block all light (opaque), and oiled paper lets partial light through (translucent)."
+    },
+    "kn": {
+      "question": "ವಸ್ತುವನ್ನು ಅದರ ಪಾರದರ್ಶಕತೆ ಗುಣಲಕ್ಷಣದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಕನ್ನಡಿ", "right": "ಅಪಾರದರ್ಶಕ ಮತ್ತು ಪ್ರತಿಫಲಿಸುವ"},
+        {"left": "ಸ್ಪಷ್ಟವಾದ ಕಿಟಕಿ", "right": "ಪಾರದರ್ಶಕ"},
+        {"left": "ಕಲ್ಲಿನ ಗೋಡೆ", "right": "ಅಪಾರದರ್ಶಕ"},
+        {"left": "ಎಣ್ಣೆ ಹಚ್ಚಿದ ಕಾಗದ", "right": "ಅರೆಪಾರದರ್ಶಕ"}
+      ],
+      "reasoning": "ಕನ್ನಡಿ ಬೆಳಕನ್ನು ಪ್ರತಿಫಲಿಸುತ್ತದೆ ಮತ್ತು ಅಪಾರದರ್ಶಕವಾಗಿರುತ್ತದೆ. ಸ್ಪಷ್ಟವಾದ ಕಿಟಕಿಗಳು ಎಲ್ಲಾ ಬೆಳಕನ್ನು ಒಳಗೆ ಬಿಡುತ್ತವೆ (ಪಾರದರ್ಶಕ). ಕಲ್ಲುಗಳು ಎಲ್ಲಾ ಬೆಳಕನ್ನು ತಡೆಯುತ್ತವೆ (ಅಪಾರದರ್ಶಕ), ಮತ್ತು ಎಣ್ಣೆ ಹಚ್ಚಿದ ಕಾಗದವು ಸ್ವಲ್ಪ ಬೆಳಕನ್ನು ಮಾತ್ರ ಬಿಡುತ್ತದೆ (ಅರೆಪಾರದರ್ಶಕ)."
+    }
+  },
+  {
+    "id": "c6_sci_ma_34",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Some materials completely lose their shine and appear dull when exposed to air and moisture for a long time. What is this process called?",
+      "options": ["Rusting / Tarnishing", "Melting", "Evaporating", "Dissolving"],
+      "answer": "Rusting / Tarnishing",
+      "reasoning": "Metals like iron or copper lose their lustre due to the action of air and moisture on them, causing rusting or tarnishing."
+    },
+    "kn": {
+      "question": "ಕೆಲವು ವಸ್ತುಗಳು ದೀರ್ಘಕಾಲದವರೆಗೆ ಗಾಳಿ ಮತ್ತು ತೇವಾಂಶಕ್ಕೆ ಒಡ್ಡಿಕೊಂಡಾಗ ತಮ್ಮ ಹೊಳಪನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಕಳೆದುಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ಮಂಕಾಗಿ ಕಾಣುತ್ತವೆ. ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ತುಕ್ಕು ಹಿಡಿಯುವುದು / ಕಳೆಗುಂದುವುದು", "ಕರಗುವುದು (Melting)", "ಆವಿಯಾಗುವುದು", "ಕರಗುವಿಕೆ (Dissolving)"],
+      "answer": "ತುಕ್ಕು ಹಿಡಿಯುವುದು / ಕಳೆಗುಂದುವುದು",
+      "reasoning": "ಕಬ್ಬಿಣ ಅಥವಾ ತಾಮ್ರದಂತಹ ಲೋಹಗಳು ಗಾಳಿ ಮತ್ತು ತೇವಾಂಶದ ಕ್ರಿಯೆಯಿಂದ ತಮ್ಮ ಹೊಳಪನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತವೆ, ಇದರಿಂದಾಗಿ ತುಕ್ಕು ಅಥವಾ ಕಳೆಗುಂದುವಿಕೆ (tarnishing) ಉಂಟಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ma_35",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the primary reason we group objects in a shop?",
+      "options": ["To make the shop look big", "To make it easy to find them", "To hide the price", "To confuse the customers"],
+      "answer": "To make it easy to find them",
+      "reasoning": "Just like in science, we group objects in a shop (e.g., all soaps together, all biscuits together) for convenience so they are easy to locate."
+    },
+    "kn": {
+      "question": "ಅಂಗಡಿಯಲ್ಲಿ ನಾವು ವಸ್ತುಗಳನ್ನು ಗುಂಪು ಮಾಡುವುದಕ್ಕೆ (ವರ್ಗೀಕರಿಸಲು) ಪ್ರಾಥಮಿಕ ಕಾರಣವೇನು?",
+      "options": ["ಅಂಗಡಿಯು ದೊಡ್ಡದಾಗಿ ಕಾಣುವಂತೆ ಮಾಡಲು", "ಅವುಗಳನ್ನು ಸುಲಭವಾಗಿ ಹುಡುಕಲು", "ಬೆಲೆಯನ್ನು ಬಚ್ಚಿಡಲು", "ಗ್ರಾಹಕರಿಗೆ ಗೊಂದಲವನ್ನುಂಟು ಮಾಡಲು"],
+      "answer": "ಅವುಗಳನ್ನು ಸುಲಭವಾಗಿ ಹುಡುಕಲು",
+      "reasoning": "ವಿಜ್ಞಾನದಲ್ಲಿರುವಂತೆಯೇ, ನಾವು ಅಂಗಡಿಯಲ್ಲಿರುವ ವಸ್ತುಗಳನ್ನು (ಉದಾಹರಣೆಗೆ, ಎಲ್ಲಾ ಸಾಬೂನುಗಳು ಒಟ್ಟಿಗೆ, ಎಲ್ಲಾ ಬಿಸ್ಕತ್ತುಗಳು ಒಟ್ಟಿಗೆ) ಅನುಕೂಲಕ್ಕಾಗಿ ಗುಂಪು ಮಾಡುತ್ತೇವೆ, ಇದರಿಂದ ಅವುಗಳನ್ನು ಪತ್ತೆಹಚ್ಚಲು ಸುಲಭವಾಗುತ್ತದೆ."
+    }
   }
 ]
