@@ -25,7 +25,8 @@ const Header = ({ score, level, lives, subject, onBuyLife, language }) => {
     gk: language === 'kn' ? 'ಸಾ. ಜ್ಞಾನ' : 'GK',
     english: language === 'kn' ? 'ಇಂಗ್ಲಿಷ್' : 'English',
     puzzles: language === 'kn' ? 'ಒಗಟುಗಳು' : 'Puzzles',
-    spellbee: language === 'kn' ? 'ಕಾಗುಣಿತ' : 'Spell Bee'
+    spellbee: language === 'kn' ? 'ಕಾಗುಣಿತ' : 'Spell Bee',
+    mixed: language === 'kn' ? 'ಮಿಶ್ರ ಪಠ್ಯಕ್ರಮ' : 'Mixed Curriculum'
   };
 
   return (

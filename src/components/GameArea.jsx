@@ -31,7 +31,7 @@ const FloatingAnimation = ({ type, x, y, onComplete }) => {
   );
 };
 
-const GameArea = ({ level, classId, subjectId, chapterId, language, onCorrect, onWrong }) => {
+const GameArea = ({ level, selectedChapters, language, onCorrect, onWrong }) => {
   const [questions, setQuestions] = useState([]);
   const [currentQuestion, setCurrentQuestion] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -44,24 +44,40 @@ const GameArea = ({ level, classId, subjectId, chapterId, language, onCorrect, o
     setLoading(true);
     setError(null);
 
-    // Dynamically import the json file for the chapter
-    import(`../data/questions/${classId}/${subjectId}/${chapterId}.json`)
-      .then((module) => {
-        if (isMounted) {
-          setQuestions(module.default || module);
-          setLoading(false);
-        }
-      })
-      .catch((err) => {
-        console.error("Failed to load questions:", err);
-        if (isMounted) {
+    if (!selectedChapters || selectedChapters.length === 0) {
+      if (isMounted) {
+        setError("No chapters selected.");
+        setLoading(false);
+      }
+      return;
+    }
+
+    // Load ALL selected chapters in parallel
+    const loadPromises = selectedChapters.map(ch => 
+      import(`../data/questions/${ch.classId}/${ch.subjectId}/${ch.chapterId}.json`)
+        .then(module => module.default || module)
+        .catch(err => {
+          console.warn(`Failed to load ${ch.chapterId}:`, err);
+          return []; // Return empty array for missing chapters so Promise.all doesn't fail
+        })
+    );
+
+    Promise.all(loadPromises).then((results) => {
+      if (isMounted) {
+        // Flatten the array of arrays
+        const mergedQuestions = results.flat();
+        
+        if (mergedQuestions.length === 0) {
           setError(`Coming Soon! Add questions via CMS.`);
-          setLoading(false);
+        } else {
+          setQuestions(mergedQuestions);
         }
-      });
+        setLoading(false);
+      }
+    });
 
     return () => { isMounted = false; };
-  }, [classId, subjectId, chapterId]);
+  }, [selectedChapters]);
 
   useEffect(() => {
     if (questions.length > 0 && !loading) {

@@ -1,148 +1,171 @@
 import React, { useState } from 'react';
-import { Play, Settings, BookOpen } from 'lucide-react';
+import { Play, Settings, BookOpen, ChevronDown, ChevronRight, CheckSquare, Square } from 'lucide-react';
 import { soundEngine } from '../utils/AudioEngine';
 import catalog from '../data/catalog.json';
 
+const Checkbox = ({ checked, indeterminate, onClick }) => {
+  if (checked) return <CheckSquare size={18} fill="var(--accent-color)" stroke="white" onClick={onClick} style={{ cursor: 'pointer' }} />;
+  if (indeterminate) return <CheckSquare size={18} fill="#ccc" stroke="#333" onClick={onClick} style={{ cursor: 'pointer', opacity: 0.7 }} />;
+  return <Square size={18} onClick={onClick} style={{ cursor: 'pointer' }} />;
+};
+
 const MainMenu = ({ onStart }) => {
   const [language, setLanguage] = useState('en');
+  // Store selected chapters as strings: "classId/subjectId/chapterId"
+  const [selected, setSelected] = useState(new Set());
+  const [expanded, setExpanded] = useState(new Set([catalog.classes[0].id]));
 
-  // Cascading selections
-  const [selectedClass, setSelectedClass] = useState(catalog.classes[0].id);
-  const classObj = catalog.classes.find(c => c.id === selectedClass);
-  
-  const [selectedSubject, setSelectedSubject] = useState(classObj.subjects[0].id);
-  const subjectObj = classObj.subjects.find(s => s.id === selectedSubject) || classObj.subjects[0];
-  
-  const [selectedChapter, setSelectedChapter] = useState(subjectObj.chapters[0].id);
-
-  const handleClassChange = (e) => {
+  const toggleExpand = (id) => {
     soundEngine.playClick();
-    const newClass = e.target.value;
-    setSelectedClass(newClass);
-    const newClassObj = catalog.classes.find(c => c.id === newClass);
-    const newSubj = newClassObj.subjects[0].id;
-    setSelectedSubject(newSubj);
-    setSelectedChapter(newClassObj.subjects[0].chapters[0].id);
+    const newExp = new Set(expanded);
+    if (newExp.has(id)) newExp.delete(id);
+    else newExp.add(id);
+    setExpanded(newExp);
   };
 
-  const handleSubjectChange = (e) => {
+  const toggleNode = (nodePaths, forceState) => {
     soundEngine.playClick();
-    const newSubj = e.target.value;
-    setSelectedSubject(newSubj);
-    const newSubjObj = classObj.subjects.find(s => s.id === newSubj);
-    setSelectedChapter(newSubjObj.chapters[0].id);
+    const newSel = new Set(selected);
+    nodePaths.forEach(path => {
+      if (forceState) newSel.add(path);
+      else newSel.delete(path);
+    });
+    setSelected(newSel);
   };
 
-  const handleChapterChange = (e) => {
-    soundEngine.playClick();
-    setSelectedChapter(e.target.value);
+  const getSelectionState = (nodePaths) => {
+    let checkedCount = 0;
+    nodePaths.forEach(p => {
+      if (selected.has(p)) checkedCount++;
+    });
+    if (checkedCount === 0) return { checked: false, indeterminate: false };
+    if (checkedCount === nodePaths.length) return { checked: true, indeterminate: false };
+    return { checked: false, indeterminate: true };
   };
 
   const handleStart = () => {
     soundEngine.playClick();
-    onStart({ 
-      language, 
-      classId: selectedClass, 
-      subjectId: selectedSubject, 
-      chapterId: selectedChapter 
+    if (selected.size === 0) {
+      alert("Please select at least one chapter!");
+      return;
+    }
+    
+    // Parse selected paths back into objects
+    const selectedChapters = Array.from(selected).map(path => {
+      const [classId, subjectId, chapterId] = path.split('/');
+      return { classId, subjectId, chapterId };
     });
+
+    onStart({ language, selectedChapters });
   };
 
   return (
     <div style={{
-      display: 'flex',
-      flexDirection: 'column',
-      alignItems: 'center',
-      justifyContent: 'center',
-      height: '100%',
-      padding: '20px',
-      textAlign: 'center',
-      color: 'white',
-      overflowY: 'auto'
+      display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
+      height: '100%', padding: '20px', color: 'white', overflowY: 'auto'
     }}>
-      <div style={{ animation: 'bounce 2s infinite ease-in-out', marginBottom: '1rem' }}>
-        <h1 style={{ 
-          fontSize: '2.5rem', 
-          textShadow: '2px 4px 0px rgba(0,0,0,0.2)',
-          margin: 0
-        }}>
-          Acharya
-        </h1>
-        <h2 style={{
-          fontSize: '3.5rem',
-          color: 'var(--accent-color)',
-          textShadow: '3px 6px 0px rgba(0,0,0,0.2)',
-          margin: '-10px 0 0 0'
-        }}>
-          QUIZ TIME
-        </h2>
+      <div style={{ animation: 'bounce 2s infinite ease-in-out', marginBottom: '1rem', textAlign: 'center' }}>
+        <h1 style={{ fontSize: '2.5rem', textShadow: '2px 4px 0px rgba(0,0,0,0.2)', margin: 0 }}>Acharya</h1>
+        <h2 style={{ fontSize: '3.5rem', color: 'var(--accent-color)', textShadow: '3px 6px 0px rgba(0,0,0,0.2)', margin: '-10px 0 0 0' }}>QUIZ TIME</h2>
       </div>
 
       <div style={{
-        backgroundColor: 'rgba(38, 70, 83, 0.6)',
-        padding: '20px',
-        borderRadius: '15px',
-        marginBottom: '1rem',
-        backdropFilter: 'blur(5px)',
-        width: '100%',
-        maxWidth: '400px'
+        backgroundColor: 'rgba(38, 70, 83, 0.6)', padding: '20px', borderRadius: '15px',
+        marginBottom: '1rem', backdropFilter: 'blur(5px)', width: '100%', maxWidth: '500px'
       }}>
+        {/* Language Selection */}
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '15px' }}>
           <h3 style={{ margin: 0, display: 'flex', alignItems: 'center', gap: '5px' }}>
             <Settings size={20}/> Language / ಭಾಷೆ
           </h3>
           <div style={{ display: 'flex', gap: '10px' }}>
-            <button 
-              className={`btn ${language === 'en' ? 'btn-secondary' : 'btn-disabled'}`}
+            <button className={`btn ${language === 'en' ? 'btn-secondary' : 'btn-disabled'}`}
               onClick={() => { soundEngine.playClick(); setLanguage('en'); }}
-              style={{ padding: '5px 15px', fontSize: '1rem' }}
-            >
-              ENG
-            </button>
-            <button 
-              className={`btn ${language === 'kn' ? 'btn-secondary' : 'btn-disabled'}`}
+              style={{ padding: '5px 15px', fontSize: '1rem' }}>ENG</button>
+            <button className={`btn ${language === 'kn' ? 'btn-secondary' : 'btn-disabled'}`}
               onClick={() => { soundEngine.playClick(); setLanguage('kn'); }}
-              style={{ padding: '5px 15px', fontSize: '1rem' }}
-            >
-              ಕನ್ನಡ
-            </button>
+              style={{ padding: '5px 15px', fontSize: '1rem' }}>ಕನ್ನಡ</button>
           </div>
         </div>
 
+        {/* Curriculum Tree */}
         <h3 style={{ margin: '0 0 10px 0', textAlign: 'left', display: 'flex', alignItems: 'center', gap: '5px' }}>
-          <BookOpen size={20}/> Curriculum
+          <BookOpen size={20}/> Curriculum Selection
         </h3>
         
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '10px', textAlign: 'left' }}>
-          <label style={{ display: 'flex', flexDirection: 'column', fontSize: '0.9rem' }}>
-            Class / Category:
-            <select value={selectedClass} onChange={handleClassChange} style={{ padding: '8px', borderRadius: '5px', marginTop: '5px' }}>
-              {catalog.classes.map(c => <option key={c.id} value={c.id}>{c.name}</option>)}
-            </select>
-          </label>
-          
-          <label style={{ display: 'flex', flexDirection: 'column', fontSize: '0.9rem' }}>
-            Subject:
-            <select value={selectedSubject} onChange={handleSubjectChange} style={{ padding: '8px', borderRadius: '5px', marginTop: '5px' }}>
-              {classObj.subjects.map(s => <option key={s.id} value={s.id}>{s.name}</option>)}
-            </select>
-          </label>
+        <div style={{ 
+          display: 'flex', flexDirection: 'column', gap: '5px', textAlign: 'left', 
+          maxHeight: '300px', overflowY: 'auto', backgroundColor: 'rgba(0,0,0,0.2)', 
+          padding: '10px', borderRadius: '8px' 
+        }}>
+          {catalog.classes.map(cls => {
+            const classPaths = [];
+            cls.subjects.forEach(sub => sub.chapters.forEach(ch => classPaths.push(`${cls.id}/${sub.id}/${ch.id}`)));
+            const clsState = getSelectionState(classPaths);
 
-          <label style={{ display: 'flex', flexDirection: 'column', fontSize: '0.9rem' }}>
-            Chapter:
-            <select value={selectedChapter} onChange={handleChapterChange} style={{ padding: '8px', borderRadius: '5px', marginTop: '5px' }}>
-              {subjectObj.chapters.map(ch => <option key={ch.id} value={ch.id}>{ch.name}</option>)}
-            </select>
-          </label>
+            return (
+              <div key={cls.id} style={{ marginBottom: '5px' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  <span onClick={() => toggleExpand(cls.id)} style={{ cursor: 'pointer' }}>
+                    {expanded.has(cls.id) ? <ChevronDown size={18} /> : <ChevronRight size={18} />}
+                  </span>
+                  <Checkbox 
+                    checked={clsState.checked} indeterminate={clsState.indeterminate} 
+                    onClick={() => toggleNode(classPaths, !clsState.checked)} 
+                  />
+                  <strong style={{ fontSize: '1.1rem' }}>{cls.name}</strong>
+                </div>
+
+                {expanded.has(cls.id) && (
+                  <div style={{ paddingLeft: '25px', marginTop: '5px', display: 'flex', flexDirection: 'column', gap: '5px' }}>
+                    {cls.subjects.map(sub => {
+                      const subPaths = sub.chapters.map(ch => `${cls.id}/${sub.id}/${ch.id}`);
+                      const subState = getSelectionState(subPaths);
+
+                      return (
+                        <div key={sub.id}>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                            <span onClick={() => toggleExpand(sub.id)} style={{ cursor: 'pointer' }}>
+                              {expanded.has(sub.id) ? <ChevronDown size={16} /> : <ChevronRight size={16} />}
+                            </span>
+                            <Checkbox 
+                              checked={subState.checked} indeterminate={subState.indeterminate} 
+                              onClick={() => toggleNode(subPaths, !subState.checked)} 
+                            />
+                            <span>{sub.name}</span>
+                          </div>
+
+                          {expanded.has(sub.id) && (
+                            <div style={{ paddingLeft: '25px', marginTop: '5px', display: 'flex', flexDirection: 'column', gap: '4px' }}>
+                              {sub.chapters.map(ch => {
+                                const chPath = `${cls.id}/${sub.id}/${ch.id}`;
+                                const chChecked = selected.has(chPath);
+                                return (
+                                  <div key={ch.id} style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                                    <Checkbox 
+                                      checked={chChecked} 
+                                      onClick={() => toggleNode([chPath], !chChecked)} 
+                                    />
+                                    <span style={{ fontSize: '0.9rem', color: '#ddd' }}>{ch.name}</span>
+                                  </div>
+                                );
+                              })}
+                            </div>
+                          )}
+                        </div>
+                      );
+                    })}
+                  </div>
+                )}
+              </div>
+            );
+          })}
         </div>
       </div>
 
-      <button 
-        className="btn btn-primary" 
-        onClick={handleStart}
-        style={{ display: 'flex', alignItems: 'center', gap: '10px', fontSize: '1.5rem', width: '100%', maxWidth: '400px', justifyContent: 'center' }}
-      >
-        <Play size={24} fill="currentColor" /> START QUIZ
+      <button className="btn btn-primary" onClick={handleStart}
+        style={{ display: 'flex', alignItems: 'center', gap: '10px', fontSize: '1.5rem', width: '100%', maxWidth: '400px', justifyContent: 'center' }}>
+        <Play size={24} fill="currentColor" /> START QUIZ ({selected.size} chapters)
       </button>
     </div>
   );

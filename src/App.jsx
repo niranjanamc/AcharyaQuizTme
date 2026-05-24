@@ -11,11 +11,8 @@ function App() {
   const [level, setLevel] = useState(1);
   const [lives, setLives] = useState(3);
   
-  // New State
   const [language, setLanguage] = useState('en');
-  const [classId, setClassId] = useState('');
-  const [subjectId, setSubjectId] = useState('');
-  const [chapterId, setChapterId] = useState('');
+  const [selectedChapters, setSelectedChapters] = useState([]);
   const [stats, setStats] = useState({ attempted: 0, correct: 0, wrong: 0 });
 
   const startGame = (config) => {
@@ -26,9 +23,7 @@ function App() {
     
     if (config) {
       setLanguage(config.language);
-      setClassId(config.classId);
-      setSubjectId(config.subjectId);
-      setChapterId(config.chapterId);
+      setSelectedChapters(config.selectedChapters);
     }
     
     setGameState('playing');
@@ -93,15 +88,13 @@ function App() {
             score={score} 
             level={level} 
             lives={lives} 
-            subject={`${subjectId}`} 
+            subject={selectedChapters.length > 1 ? 'mixed' : selectedChapters[0]?.subjectId} 
             onBuyLife={buyLifeFromHeader} 
             language={language}
           />
           <GameArea 
             level={level} 
-            classId={classId}
-            subjectId={subjectId}
-            chapterId={chapterId}
+            selectedChapters={selectedChapters}
             language={language}
             onCorrect={handleCorrect} 
             onWrong={handleWrong} 

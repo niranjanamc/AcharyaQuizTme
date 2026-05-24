@@ -1,0 +1,34 @@
+[
+  {
+    "id": "c6_sci_dl_1",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following habitats is best suited for a camel?",
+      "options": ["Rainforest", "Desert", "Ocean", "Tundra"],
+      "answer": "Desert",
+      "reasoning": "Camels have adaptations like long legs, padded feet, and hump to store fat, making them well-suited for hot, arid deserts."
+    },
+    "kn": {
+      "question": "ಒಂಟೆಗೆ ಈ ಕೆಳಗಿನ ಯಾವ ಆವಾಸಸ್ಥಾನವು ಹೆಚ್ಚು ಸೂಕ್ತವಾಗಿದೆ?",
+      "options": ["ಮಳೆಕಾಡು", "ಮರುಭೂಮಿ", "ಸಾಗರ", "ಟಂಡ್ರಾ"],
+      "answer": "ಮರುಭೂಮಿ",
+      "reasoning": "ಒಂಟೆಗಳು ಉದ್ದವಾದ ಕಾಲುಗಳು, ಪ್ಯಾಡ್ ಮಾಡಿದ ಪಾದಗಳು ಮತ್ತು ಕೊಬ್ಬನ್ನು ಸಂಗ್ರಹಿಸುವ ಡುಬ್ಬವನ್ನು ಹೊಂದಿದ್ದು, ಮರುಭೂಮಿಗೆ ಸೂಕ್ತವಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c6_sci_dl_2",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the primary function of roots in a terrestrial plant?",
+      "options": ["Absorb sunlight", "Produce seeds", "Absorb water and minerals", "Attract insects"],
+      "answer": "Absorb water and minerals",
+      "reasoning": "Roots anchor the plant into the soil and absorb essential water and minerals required for survival and growth."
+    },
+    "kn": {
+      "question": "ಭೂಮಿಯ ಮೇಲಿನ ಸಸ್ಯದಲ್ಲಿ ಬೇರುಗಳ ಪ್ರಾಥಮಿಕ ಕಾರ್ಯವೇನು?",
+      "options": ["ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಹೀರಿಕೊಳ್ಳುವುದು", "ಬೀಜಗಳನ್ನು ಉತ್ಪಾದಿಸುವುದು", "ನೀರು ಮತ್ತು ಖನಿಜಗಳನ್ನು ಹೀರಿಕೊಳ್ಳುವುದು", "ಕೀಟಗಳನ್ನು ಆಕರ್ಷಿಸುವುದು"],
+      "answer": "ನೀರು ಮತ್ತು ಖನಿಜಗಳನ್ನು ಹೀರಿಕೊಳ್ಳುವುದು",
+      "reasoning": "ಬೇರುಗಳು ಸಸ್ಯವನ್ನು ಮಣ್ಣಿನಲ್ಲಿ ಹಿಡಿದಿಡುತ್ತವೆ ಮತ್ತು ಬದುಕುಳಿಯಲು ಅಗತ್ಯವಾದ ನೀರು ಮತ್ತು ಖನಿಜಗಳನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ."
+    }
+  }
+]

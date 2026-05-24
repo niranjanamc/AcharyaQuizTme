@@ -2,25 +2,49 @@
   "classes": [
     {
       "id": "class_5",
-      "name": "Class 5 (5ನೇ ತರಗತಿ)",
+      "name": "Class 5 (NCERT)",
       "subjects": [
         {
           "id": "maths",
-          "name": "Maths",
+          "name": "Mathematics (Math-Magic)",
           "chapters": [
-            { "id": "basic_operations", "name": "Basic Operations" }
+            { "id": "basic_operations", "name": "Basic Operations (Legacy)" },
+            { "id": "shapes_angles", "name": "Shapes and Angles" },
+            { "id": "how_many_squares", "name": "How Many Squares?" },
+            { "id": "parts_wholes", "name": "Parts and Wholes" },
+            { "id": "patterns", "name": "Can You See the Pattern?" },
+            { "id": "mapping", "name": "Mapping Your Way" },
+            { "id": "tenths_hundredths", "name": "Tenths and Hundredths" },
+            { "id": "area_boundary", "name": "Area and its Boundary" },
+            { "id": "smart_charts", "name": "Smart Charts" }
+          ]
+        },
+        {
+          "id": "evs",
+          "name": "EVS (Looking Around)",
+          "chapters": [
+            { "id": "super_senses", "name": "Super Senses" },
+            { "id": "snake_charmer", "name": "A Snake Charmer’s Story" },
+            { "id": "tasting_digesting", "name": "From Tasting to Digesting" },
+            { "id": "mangoes", "name": "Mangoes Round the Year" },
+            { "id": "seeds", "name": "Seeds and Seeds" },
+            { "id": "every_drop", "name": "Every Drop Counts" },
+            { "id": "experiments_water", "name": "Experiments with Water" },
+            { "id": "mosquitoes", "name": "A Treat for Mosquitoes" },
+            { "id": "space", "name": "Sunita in Space" },
+            { "id": "earth_shook", "name": "When the Earth Shook!" }
           ]
         },
         {
           "id": "science",
-          "name": "Science",
+          "name": "Science (Legacy)",
           "chapters": [
             { "id": "fundamentals", "name": "Fundamentals" }
           ]
         },
         {
           "id": "history",
-          "name": "History",
+          "name": "History (Legacy)",
           "chapters": [
             { "id": "timeline", "name": "Historical Timelines" }
           ]
@@ -37,6 +61,44 @@
           "name": "Kannada",
           "chapters": [
             { "id": "vocabulary", "name": "Vocabulary" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "class_6",
+      "name": "Class 6 (NCERT)",
+      "subjects": [
+        {
+          "id": "maths",
+          "name": "Mathematics (Ganita Prakash)",
+          "chapters": [
+            { "id": "patterns_math", "name": "Patterns in Mathematics" },
+            { "id": "lines_angles", "name": "Lines and Angles" },
+            { "id": "number_play", "name": "Number Play" },
+            { "id": "data_handling", "name": "Data Handling and Presentation" },
+            { "id": "prime_time", "name": "Prime Time" },
+            { "id": "perimeter_area", "name": "Perimeter and Area" },
+            { "id": "fractions", "name": "Fractions" },
+            { "id": "symmetry", "name": "Symmetry" },
+            { "id": "zero", "name": "The Other Side of Zero" }
+          ]
+        },
+        {
+          "id": "science",
+          "name": "Science (Curiosity)",
+          "chapters": [
+            { "id": "wonderful_world", "name": "The Wonderful World of Science" },
+            { "id": "diversity_living", "name": "Diversity in the Living World" },
+            { "id": "mindful_eating", "name": "Mindful Eating" },
+            { "id": "magnets", "name": "Exploring Magnets" },
+            { "id": "length_motion", "name": "Measurement of Length and Motion" },
+            { "id": "materials", "name": "Materials Around Us" },
+            { "id": "temperature", "name": "Temperature and its Measurement" },
+            { "id": "states_water", "name": "A Journey through States of Water" },
+            { "id": "separation", "name": "Methods of Separation" },
+            { "id": "living_creatures", "name": "Living Creatures" },
+            { "id": "beyond_earth", "name": "Beyond Earth" }
           ]
         }
       ]
