@@ -3,32 +3,176 @@
     "id": "c5_evs_ss_1",
     "difficulty": 1,
     "en": {
-      "question": "Which animal can find its female by her smell from many kilometres away?",
-      "options": ["Dog", "Silkworm", "Eagle", "Ant"],
-      "answer": "Silkworm",
-      "reasoning": "A male silkworm moth can recognize the female moth by her scent from several kilometres away."
+      "question": "Which of these birds can see things from a distance of two kilometres?",
+      "options": ["Eagle", "Pigeon", "Sparrow", "Crow"],
+      "answer": "Eagle",
+      "reasoning": "Birds like kites, eagles, and vultures can see things from a distance of two kilometres. What we can see from two metres, an eagle can see from eight metres."
     },
     "kn": {
-      "question": "ಯಾವ ಪ್ರಾಣಿಯು ತನ್ನ ಹೆಣ್ಣನ್ನು ಕಿಲೋಮೀಟರ್‌ಗಳಷ್ಟು ದೂರದಿಂದಲೂ ವಾಸನೆಯ ಮೂಲಕ ಕಂಡುಹಿಡಿಯಬಲ್ಲದು?",
-      "options": ["ನಾಯಿ", "ರೇಷ್ಮೆ ಹುಳು", "ಹದ್ದು", "ಇರುವೆ"],
-      "answer": "ರೇಷ್ಮೆ ಹುಳು",
-      "reasoning": "ಗಂಡು ರೇಷ್ಮೆ ಹುಳು ಹೆಣ್ಣು ಹುಳುವಿನ ವಾಸನೆಯಿಂದ ಹಲವಾರು ಕಿಲೋಮೀಟರ್‌ಗಳಷ್ಟು ದೂರದಿಂದಲೇ ಅದನ್ನು ಗುರುತಿಸಬಲ್ಲದು."
+      "question": "ಈ ಕೆಳಗಿನ ಯಾವ ಪಕ್ಷಿ ಎರಡು ಕಿಲೋಮೀಟರ್ ದೂರದಿಂದ ವಸ್ತುಗಳನ್ನು ನೋಡಬಲ್ಲದು?",
+      "options": ["ಹದ್ದು", "ಪಾರಿವಾಳ", "ಗುಬ್ಬಚ್ಚಿ", "ಕಾಗೆ"],
+      "answer": "ಹದ್ದು",
+      "reasoning": "ಹದ್ದು, ರಣಹದ್ದು ಮುಂತಾದ ಪಕ್ಷಿಗಳು 2 ಕಿಲೋಮೀಟರ್ ದೂರದಿಂದಲೇ ವಸ್ತುಗಳನ್ನು ನೋಡಬಲ್ಲವು. ನಾವು ಎರಡು ಮೀಟರ್‌ಗಳಷ್ಟು ದೂರದಿಂದ ನೋಡಬಲ್ಲದ್ದನ್ನು ಹದ್ದು ಎಂಟು ಮೀಟರ್‌ಗಳಷ್ಟು ದೂರದಿಂದ ನೋಡಬಲ್ಲದು."
     }
   },
   {
     "id": "c5_evs_ss_2",
+    "difficulty": 1,
+    "en": {
+      "question": "How do ants recognize their friends or members of their group?",
+      "options": ["By sound", "By smell", "By sight", "By touching"],
+      "answer": "By smell",
+      "reasoning": "As ants move, they leave a smell on the ground. Other ants follow the smell to find their way and recognize their friends."
+    },
+    "kn": {
+      "question": "ಇರುವೆಗಳು ತಮ್ಮ ಸ್ನೇಹಿತರನ್ನು ಅಥವಾ ತಮ್ಮ ಗುಂಪಿನ ಸದಸ್ಯರನ್ನು ಹೇಗೆ ಗುರುತಿಸುತ್ತವೆ?",
+      "options": ["ಶಬ್ದದಿಂದ", "ವಾಸನೆಯಿಂದ", "ದೃಷ್ಟಿಯಿಂದ", "ಸ್ಪರ್ಶದಿಂದ"],
+      "answer": "ವಾಸನೆಯಿಂದ",
+      "reasoning": "ಇರುವೆಗಳು ಚಲಿಸುವಾಗ ನೆಲದ ಮೇಲೆ ವಾಸನೆಯನ್ನು ಬಿಡುತ್ತವೆ. ಇತರ ಇರುವೆಗಳು ದಾರಿಯನ್ನು ಹುಡುಕಲು ಮತ್ತು ತಮ್ಮ ಸ್ನೇಹಿತರನ್ನು ಗುರುತಿಸಲು ಅದೇ ವಾಸನೆಯನ್ನು ಅನುಸರಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_evs_ss_3",
     "difficulty": 2,
     "en": {
+      "question": "A tiger's roar can be heard up to how many kilometres away?",
+      "options": ["1 kilometre", "2 kilometres", "3 kilometres", "5 kilometres"],
+      "answer": "3 kilometres",
+      "reasoning": "A tiger makes different sounds for different purposes. Its roar can be heard up to 3 kilometres away."
+    },
+    "kn": {
+      "question": "ಹುಲಿಯ ಘರ್ಜನೆಯನ್ನು ಎಷ್ಟು ಕಿಲೋಮೀಟರ್ ದೂರದವರೆಗೆ ಕೇಳಬಹುದು?",
+      "options": ["1 ಕಿಲೋಮೀಟರ್", "2 ಕಿಲೋಮೀಟರ್", "3 ಕಿಲೋಮೀಟರ್", "5 ಕಿಲೋಮೀಟರ್"],
+      "answer": "3 ಕಿಲೋಮೀಟರ್",
+      "reasoning": "ಹುಲಿ ಬೇರೆ ಬೇರೆ ಉದ್ದೇಶಗಳಿಗಾಗಿ ಬೇರೆ ಬೇರೆ ಶಬ್ದಗಳನ್ನು ಮಾಡುತ್ತದೆ. ಅದರ ಘರ್ಜನೆಯನ್ನು 3 ಕಿಲೋಮೀಟರ್ ದೂರದವರೆಗೆ ಕೇಳಬಹುದು."
+    }
+  },
+  {
+    "id": "c5_evs_ss_4",
+    "difficulty": 2,
+    "en": {
+      "question": "Which animal sleeps for almost 17 hours a day hanging upside down on a tree branch?",
+      "options": ["Monkey", "Sloth", "Bat", "Lemur"],
+      "answer": "Sloth",
+      "reasoning": "The sloth looks like a bear but is not. It spends almost 17 hours a day sleeping while hanging upside down on a tree branch."
+    },
+    "kn": {
+      "question": "ಮರದ ರೆಂಬೆಯ ಮೇಲೆ ತಲೆಕೆಳಗಾಗಿ ನೇತಾಡುತ್ತಾ ದಿನಕ್ಕೆ ಸುಮಾರು 17 ಗಂಟೆಗಳ ಕಾಲ ಮಲಗುವ ಪ್ರಾಣಿ ಯಾವುದು?",
+      "options": ["ಕೋತಿ", "ಸ್ಲಾತ್", "ಬಾವಲಿ", "ಲೆಮೂರ್"],
+      "answer": "ಸ್ಲಾತ್",
+      "reasoning": "ಸ್ಲಾತ್ ಕರಡಿಯಂತೆ ಕಾಣುತ್ತದೆ ಆದರೆ ಕರಡಿಯಲ್ಲ. ಇದು ಮರದ ರೆಂಬೆಯ ಮೇಲೆ ತಲೆಕೆಳಗಾಗಿ ನೇತಾಡುತ್ತಾ ದಿನಕ್ಕೆ ಸುಮಾರು 17 ಗಂಟೆಗಳ ಕಾಲ ಮಲಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_ss_5",
+    "difficulty": 1,
+    "en": {
       "question": "How do mosquitoes find humans in the dark?",
-      "options": ["By sound of footsteps", "By heat and body smell", "Using night vision", "By feeling vibrations"],
-      "answer": "By heat and body smell",
-      "reasoning": "Mosquitoes can find you by the smell of your body, soles of your feet, and the heat of your body."
+      "options": ["By the heat of your body", "Using night vision", "By the sound of breathing", "They randomly fly until they hit you"],
+      "answer": "By the heat of your body",
+      "reasoning": "Mosquitoes can find you by the smell of your body, especially the soles of your feet, and by the heat of your body."
     },
     "kn": {
       "question": "ಕತ್ತಲೆಯಲ್ಲಿ ಸೊಳ್ಳೆಗಳು ಮನುಷ್ಯರನ್ನು ಹೇಗೆ ಹುಡುಕುತ್ತವೆ?",
-      "options": ["ಹೆಜ್ಜೆಯ ಸದ್ದಿನಿಂದ", "ದೇಹದ ಶಾಖ ಮತ್ತು ವಾಸನೆಯಿಂದ", "ರಾತ್ರಿ ದೃಷ್ಟಿ ಬಳಸಿ", "ಕಂಪನಗಳನ್ನು ಅನುಭವಿಸುವ ಮೂಲಕ"],
-      "answer": "ದೇಹದ ಶಾಖ ಮತ್ತು ವಾಸನೆಯಿಂದ",
-      "reasoning": "ಸೊಳ್ಳೆಗಳು ನಿಮ್ಮ ದೇಹದ ವಾಸನೆ, ಪಾದಗಳ ವಾಸನೆ ಮತ್ತು ದೇಹದ ಶಾಖದಿಂದ ನಿಮ್ಮನ್ನು ಹುಡುಕಬಲ್ಲವು."
+      "options": ["ನಿಮ್ಮ ದೇಹದ ಶಾಖದಿಂದ", "ರಾತ್ರಿ ದೃಷ್ಟಿ ಬಳಸಿ", "ಉಸಿರಾಟದ ಶಬ್ದದಿಂದ", "ಅವು ಯಾದೃಚ್ಛಿಕವಾಗಿ ಹಾರುತ್ತವೆ"],
+      "answer": "ನಿಮ್ಮ ದೇಹದ ಶಾಖದಿಂದ",
+      "reasoning": "ಸೊಳ್ಳೆಗಳು ನಿಮ್ಮ ದೇಹದ ವಾಸನೆ, ವಿಶೇಷವಾಗಿ ನಿಮ್ಮ ಪಾದಗಳ ವಾಸನೆ ಮತ್ತು ನಿಮ್ಮ ದೇಹದ ಶಾಖದಿಂದ ನಿಮ್ಮನ್ನು ಹುಡುಕಬಲ್ಲವು."
+    }
+  },
+  {
+    "id": "c5_evs_ss_6",
+    "difficulty": 3,
+    "en": {
+      "question": "Why do dogs urinate on trees and poles?",
+      "options": ["To water the plants", "To mark their own area", "Because they are scared", "To leave a trail to find their way home"],
+      "answer": "To mark their own area",
+      "reasoning": "Dogs mark out their own area on the road. They can make out if another dog has come into their area by the smell of its urine or potty."
+    },
+    "kn": {
+      "question": "ನಾಯಿಗಳು ಮರಗಳು ಮತ್ತು ಕಂಬಗಳ ಮೇಲೆ ಏಕೆ ಮೂತ್ರ ವಿಸರ್ಜನೆ ಮಾಡುತ್ತವೆ?",
+      "options": ["ಸಸ್ಯಗಳಿಗೆ ನೀರುಣಿಸಲು", "ತಮ್ಮ ಸ್ವಂತ ಪ್ರದೇಶವನ್ನು ಗುರುತಿಸಲು", "ಅವು ಭಯಭೀತವಾಗಿರುವುದರಿಂದ", "ಮನೆಗೆ ಹೋಗುವ ದಾರಿಯನ್ನು ಗುರುತಿಸಲು"],
+      "answer": "ತಮ್ಮ ಸ್ವಂತ ಪ್ರದೇಶವನ್ನು ಗುರುತಿಸಲು",
+      "reasoning": "ನಾಯಿಗಳು ರಸ್ತೆಯಲ್ಲಿ ತಮ್ಮ ಸ್ವಂತ ಪ್ರದೇಶವನ್ನು ಗುರುತಿಸಿಕೊಳ್ಳುತ್ತವೆ. ಬೇರೊಂದು ನಾಯಿ ತಮ್ಮ ಪ್ರದೇಶಕ್ಕೆ ಬಂದಿದೆಯೇ ಎಂದು ಅದರ ಮೂತ್ರದ ವಾಸನೆಯಿಂದ ಅವು ಕಂಡುಹಿಡಿಯಬಹುದು."
+    }
+  },
+  {
+    "id": "c5_evs_ss_7",
+    "difficulty": 2,
+    "en": {
+      "question": "How do snakes 'hear'?",
+      "options": ["Through external ears", "By feeling vibrations on the ground", "Through their tongues", "They cannot hear or feel anything"],
+      "answer": "By feeling vibrations on the ground",
+      "reasoning": "Snakes do not have external ears. They only feel the vibrations on the ground to sense approaching danger or prey."
+    },
+    "kn": {
+      "question": "ಹಾವುಗಳು ಹೇಗೆ 'ಕೇಳುತ್ತವೆ'?",
+      "options": ["ಬಾಹ್ಯ ಕಿವಿಗಳ ಮೂಲಕ", "ನೆಲದ ಮೇಲಿನ ಕಂಪನಗಳನ್ನು ಅನುಭವಿಸುವ ಮೂಲಕ", "ತಮ್ಮ ನಾಲಿಗೆಯ ಮೂಲಕ", "ಅವುಗಳಿಗೆ ಏನನ್ನೂ ಕೇಳಲು ಅಥವಾ ಅನುಭವಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ"],
+      "answer": "ನೆಲದ ಮೇಲಿನ ಕಂಪನಗಳನ್ನು ಅನುಭವಿಸುವ ಮೂಲಕ",
+      "reasoning": "ಹಾವುಗಳಿಗೆ ಬಾಹ್ಯ ಕಿವಿಗಳಿಲ್ಲ. ಮುಂಬರುವ ಅಪಾಯ ಅಥವಾ ಬೇಟೆಯನ್ನು ಅರಿಯಲು ಅವು ಕೇವಲ ನೆಲದ ಮೇಲಿನ ಕಂಪನಗಳನ್ನು ಮಾತ್ರ ಅನುಭವಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_evs_ss_8",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of these animals was famously noticed behaving strangely in the Andaman Islands just before a tsunami hit in 2004?",
+      "options": ["Tigers", "Animals in the forest", "Dolphins", "Birds"],
+      "answer": "Animals in the forest",
+      "reasoning": "In December 2004, some tribes in the Andaman Islands noticed animals behaving in a different manner and guessing danger, moved to a safer part of the island just before the tsunami hit."
+    },
+    "kn": {
+      "question": "2004 ರಲ್ಲಿ ಸುನಾಮಿ ಅಪ್ಪಳಿಸುವ ಸ್ವಲ್ಪ ಮುಂಚೆ ಅಂಡಮಾನ್ ದ್ವೀಪಗಳಲ್ಲಿ ಯಾವ ಪ್ರಾಣಿಗಳು ವಿಚಿತ್ರವಾಗಿ ವರ್ತಿಸುತ್ತಿರುವುದನ್ನು ಗಮನಿಸಲಾಯಿತು?",
+      "options": ["ಹುಲಿಗಳು", "ಕಾಡಿನ ಪ್ರಾಣಿಗಳು", "ಡಾಲ್ಫಿನ್‌ಗಳು", "ಪಕ್ಷಿಗಳು"],
+      "answer": "ಕಾಡಿನ ಪ್ರಾಣಿಗಳು",
+      "reasoning": "ಡಿಸೆಂಬರ್ 2004 ರಲ್ಲಿ, ಅಂಡಮಾನ್ ದ್ವೀಪಗಳ ಕೆಲವು ಬುಡಕಟ್ಟು ಜನರು ಪ್ರಾಣಿಗಳು ವಿಭಿನ್ನ ರೀತಿಯಲ್ಲಿ ವರ್ತಿಸುತ್ತಿರುವುದನ್ನು ಗಮನಿಸಿದರು ಮತ್ತು ಅಪಾಯವನ್ನು ಅರಿತು ದ್ವೀಪದ ಸುರಕ್ಷಿತ ಭಾಗಕ್ಕೆ ತೆರಳಿದರು."
+    }
+  },
+  {
+    "id": "c5_evs_ss_9",
+    "difficulty": 1,
+    "en": {
+      "question": "How does a male silkworm moth find a female silkworm moth?",
+      "options": ["By her sound", "By her bright colour", "By her smell", "By dancing"],
+      "answer": "By her smell",
+      "reasoning": "A male silkworm moth can recognize a female silkworm moth by her smell from many kilometres away."
+    },
+    "kn": {
+      "question": "ಗಂಡು ರೇಷ್ಮೆ ಹುಳು ಹೆಣ್ಣು ರೇಷ್ಮೆ ಹುಳುವನ್ನು ಹೇಗೆ ಹುಡುಕುತ್ತದೆ?",
+      "options": ["ಅದರ ಶಬ್ದದಿಂದ", "ಅದರ ಗಾಢ ಬಣ್ಣದಿಂದ", "ಅದರ ವಾಸನೆಯಿಂದ", "ನೃತ್ಯ ಮಾಡುವ ಮೂಲಕ"],
+      "answer": "ಅದರ ವಾಸನೆಯಿಂದ",
+      "reasoning": "ಗಂಡು ರೇಷ್ಮೆ ಹುಳು ಹೆಣ್ಣು ರೇಷ್ಮೆ ಹುಳುವನ್ನು ಅದರ ವಾಸನೆಯಿಂದ ಹಲವಾರು ಕಿಲೋಮೀಟರ್‌ಗಳಷ್ಟು ದೂರದಿಂದಲೇ ಗುರುತಿಸಬಲ್ಲದು."
+    }
+  },
+  {
+    "id": "c5_evs_ss_10",
+    "difficulty": 2,
+    "en": {
+      "question": "What happens to the size of the pupil of an eye when we enter a dark room from bright sunlight?",
+      "options": ["It becomes smaller", "It remains the same", "It becomes larger", "It closes completely"],
+      "answer": "It becomes larger",
+      "reasoning": "When moving from bright light to dark, the pupil becomes larger (dilates) to allow more light to enter the eye so we can see better."
+    },
+    "kn": {
+      "question": "ನಾವು ಪ್ರಖರ ಸೂರ್ಯನ ಬೆಳಕಿನಿಂದ ಕತ್ತಲೆ ಕೋಣೆಗೆ ಪ್ರವೇಶಿಸಿದಾಗ ಕಣ್ಣಿನ ಪಾಪೆಯ (pupil) ಗಾತ್ರ ಏನಾಗುತ್ತದೆ?",
+      "options": ["ಅದು ಚಿಕ್ಕದಾಗುತ್ತದೆ", "ಅದು ಹಾಗೆಯೇ ಇರುತ್ತದೆ", "ಅದು ದೊಡ್ಡದಾಗುತ್ತದೆ", "ಅದು ಸಂಪೂರ್ಣವಾಗಿ ಮುಚ್ಚುತ್ತದೆ"],
+      "answer": "ಅದು ದೊಡ್ಡದಾಗುತ್ತದೆ",
+      "reasoning": "ಪ್ರಕಾಶಮಾನವಾದ ಬೆಳಕಿನಿಂದ ಕತ್ತಲೆಗೆ ಹೋದಾಗ, ನಾವು ಉತ್ತಮವಾಗಿ ನೋಡಲು ಕಣ್ಣಿನೊಳಗೆ ಹೆಚ್ಚು ಬೆಳಕು ಪ್ರವೇಶಿಸಲು ಕಣ್ಣಿನ ಪಾಪೆ ದೊಡ್ಡದಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_ss_11",
+    "difficulty": 3,
+    "en": {
+      "question": "Why do most birds move their neck very often?",
+      "options": ["To exercise their neck muscles", "Because their eyes are fixed and cannot move", "To communicate with other birds", "To help them swallow food"],
+      "answer": "Because their eyes are fixed and cannot move",
+      "reasoning": "In most birds, the eyes are fixed and cannot move. So, birds have to turn their heads to see around."
+    },
+    "kn": {
+      "question": "ಹೆಚ್ಚಿನ ಪಕ್ಷಿಗಳು ತಮ್ಮ ಕುತ್ತಿಗೆಯನ್ನು ಪದೇ ಪದೇ ಏಕೆ ತಿರುಗಿಸುತ್ತವೆ?",
+      "options": ["ತಮ್ಮ ಕುತ್ತಿಗೆಯ ಸ್ನಾಯುಗಳಿಗೆ ವ್ಯಾಯಾಮ ಮಾಡಲು", "ಅವುಗಳ ಕಣ್ಣುಗಳು ಸ್ಥಿರವಾಗಿರುವುದರಿಂದ ಮತ್ತು ಚಲಿಸಲು ಸಾಧ್ಯವಾಗದಿರುವುದರಿಂದ", "ಇತರ ಪಕ್ಷಿಗಳೊಂದಿಗೆ ಸಂವಹನ ನಡೆಸಲು", "ಆಹಾರವನ್ನು ನುಂಗಲು ಸಹಾಯ ಮಾಡಲು"],
+      "answer": "ಅವುಗಳ ಕಣ್ಣುಗಳು ಸ್ಥಿರವಾಗಿರುವುದರಿಂದ ಮತ್ತು ಚಲಿಸಲು ಸಾಧ್ಯವಾಗದಿರುವುದರಿಂದ",
+      "reasoning": "ಹೆಚ್ಚಿನ ಪಕ್ಷಿಗಳಲ್ಲಿ, ಕಣ್ಣುಗಳು ಸ್ಥಿರವಾಗಿರುತ್ತವೆ ಮತ್ತು ಚಲಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಆದ್ದರಿಂದ, ಸುತ್ತಲೂ ನೋಡಲು ಪಕ್ಷಿಗಳು ತಮ್ಮ ಕುತ್ತಿಗೆಯನ್ನು ತಿರುಗಿಸಬೇಕಾಗುತ್ತದೆ."
     }
   }
 ]

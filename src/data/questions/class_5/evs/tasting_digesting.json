@@ -1,0 +1,162 @@
+[
+  {
+    "id": "c5_evs_td_1",
+    "difficulty": 1,
+    "en": {
+      "question": "Where does the digestion of food begin in the human body?",
+      "options": ["Stomach", "Intestine", "Mouth", "Throat"],
+      "answer": "Mouth",
+      "reasoning": "Digestion begins in the mouth where teeth chew the food and saliva mixes with it to help break it down."
+    },
+    "kn": {
+      "question": "ಮಾನವ ದೇಹದಲ್ಲಿ ಆಹಾರದ ಜೀರ್ಣಕ್ರಿಯೆ ಎಲ್ಲಿ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
+      "options": ["ಹೊಟ್ಟೆ", "ಕರುಳು", "ಬಾಯಿ", "ಗಂಟಲು"],
+      "answer": "ಬಾಯಿ",
+      "reasoning": "ಜೀರ್ಣಕ್ರಿಯೆಯು ಬಾಯಿಯಲ್ಲಿ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ. ಅಲ್ಲಿ ಹಲ್ಲುಗಳು ಆಹಾರವನ್ನು ಅಗಿಯುತ್ತವೆ ಮತ್ತು ಲಾಲಾರಸವು ಆಹಾರವನ್ನು ಒಡೆಯಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_td_2",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of these gives instant energy to a person who is sick or weak?",
+      "options": ["A glass of milk", "A glucose drip", "Eating a heavy meal", "Drinking water"],
+      "answer": "A glucose drip",
+      "reasoning": "A glucose drip is given to sick patients because it gives some strength quickly, even without eating."
+    },
+    "kn": {
+      "question": "ಅನಾರೋಗ್ಯ ಅಥವಾ ದುರ್ಬಲ ವ್ಯಕ್ತಿಗೆ ಇವುಗಳಲ್ಲಿ ಯಾವುದು ತ್ವರಿತ ಶಕ್ತಿಯನ್ನು ನೀಡುತ್ತದೆ?",
+      "options": ["ಒಂದು ಲೋಟ ಹಾಲು", "ಗ್ಲೂಕೋಸ್ ಡ್ರಿಪ್", "ಭಾರೀ ಊಟ ಮಾಡುವುದು", "ನೀರು ಕುಡಿಯುವುದು"],
+      "answer": "ಗ್ಲೂಕೋಸ್ ಡ್ರಿಪ್",
+      "reasoning": "ಗ್ಲೂಕೋಸ್ ಡ್ರಿಪ್ ಅನ್ನು ರೋಗಿಗಳಿಗೆ ನೀಡಲಾಗುತ್ತದೆ ಏಕೆಂದರೆ ಇದು ಆಹಾರವನ್ನು ತಿನ್ನದಿದ್ದರೂ ತ್ವರಿತವಾಗಿ ಶಕ್ತಿಯನ್ನು ನೀಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_td_3",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the role of saliva in our mouth?",
+      "options": ["To make the food look colourful", "To soften the food and start digestion", "To clean our teeth", "To cool down hot food"],
+      "answer": "To soften the food and start digestion",
+      "reasoning": "Saliva softens the food, making it easier to swallow, and contains enzymes that begin the digestion of carbohydrates."
+    },
+    "kn": {
+      "question": "ನಮ್ಮ ಬಾಯಿಯಲ್ಲಿರುವ ಲಾಲಾರಸದ (Saliva) ಪಾತ್ರವೇನು?",
+      "options": ["ಆಹಾರವನ್ನು ವರ್ಣಮಯವಾಗಿ ಕಾಣುವಂತೆ ಮಾಡುವುದು", "ಆಹಾರವನ್ನು ಮೃದುಗೊಳಿಸುವುದು ಮತ್ತು ಜೀರ್ಣಕ್ರಿಯೆಯನ್ನು ಪ್ರಾರಂಭಿಸುವುದು", "ನಮ್ಮ ಹಲ್ಲುಗಳನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸುವುದು", "ಬಿಸಿ ಆಹಾರವನ್ನು ತಂಪಾಗಿಸುವುದು"],
+      "answer": "ಆಹಾರವನ್ನು ಮೃದುಗೊಳಿಸುವುದು ಮತ್ತು ಜೀರ್ಣಕ್ರಿಯೆಯನ್ನು ಪ್ರಾರಂಭಿಸುವುದು",
+      "reasoning": "ಲಾಲಾರಸವು ಆಹಾರವನ್ನು ಮೃದುಗೊಳಿಸಿ ಸುಲಭವಾಗಿ ನುಂಗಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಇದರಲ್ಲಿರುವ ಕಿಣ್ವಗಳು ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳ ಜೀರ್ಣಕ್ರಿಯೆಯನ್ನು ಪ್ರಾರಂಭಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_evs_td_4",
+    "difficulty": 2,
+    "en": {
+      "question": "Why do elders tell us to chew our food 30-32 times?",
+      "options": ["To waste time", "So the food gets digested properly", "To exercise our jaw muscles", "To taste the food less"],
+      "answer": "So the food gets digested properly",
+      "reasoning": "Chewing food thoroughly breaks it into smaller pieces and mixes it well with saliva, which is essential for proper digestion."
+    },
+    "kn": {
+      "question": "ನಾವು ಆಹಾರವನ್ನು 30-32 ಬಾರಿ ಅಗಿಯಬೇಕು ಎಂದು ಹಿರಿಯರು ಏಕೆ ಹೇಳುತ್ತಾರೆ?",
+      "options": ["ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಲು", "ಆಹಾರವು ಸರಿಯಾಗಿ ಜೀರ್ಣವಾಗಲು", "ನಮ್ಮ ದವಡೆಯ ಸ್ನಾಯುಗಳಿಗೆ ವ್ಯಾಯಾಮ ಮಾಡಲು", "ಆಹಾರದ ರುಚಿಯನ್ನು ಕಡಿಮೆ ಮಾಡಲು"],
+      "answer": "ಆಹಾರವು ಸರಿಯಾಗಿ ಜೀರ್ಣವಾಗಲು",
+      "reasoning": "ಆಹಾರವನ್ನು ಚೆನ್ನಾಗಿ ಅಗಿಯುವುದರಿಂದ ಅದು ಸಣ್ಣ ತುಂಡುಗಳಾಗಿ ಒಡೆಯುತ್ತದೆ ಮತ್ತು ಲಾಲಾರಸದೊಂದಿಗೆ ಚೆನ್ನಾಗಿ ಬೆರೆಯುತ್ತದೆ. ಇದು ಸರಿಯಾದ ಜೀರ್ಣಕ್ರಿಯೆಗೆ ಅಗತ್ಯವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_td_5",
+    "difficulty": 3,
+    "en": {
+      "question": "Dr. Beaumont made a famous discovery by observing the stomach of a soldier named Martin. What did he discover about the stomach juices?",
+      "options": ["They are sweet", "They are acidic", "They are pure water", "They are solid"],
+      "answer": "They are acidic",
+      "reasoning": "Dr. Beaumont took out some digestive juice from Martin's stomach and found that the digestive juices in our stomach are acidic, which helps digest food."
+    },
+    "kn": {
+      "question": "ಡಾ. ಬ್ಯೂಮಾಂಟ್ ಅವರು ಮಾರ್ಟಿನ್ ಎಂಬ ಸೈನಿಕನ ಹೊಟ್ಟೆಯನ್ನು ಗಮನಿಸುವ ಮೂಲಕ ಪ್ರಸಿದ್ಧ ಆವಿಷ್ಕಾರವನ್ನು ಮಾಡಿದರು. ಹೊಟ್ಟೆಯ ರಸಗಳ ಬಗ್ಗೆ ಅವರು ಏನು ಕಂಡುಹಿಡಿದರು?",
+      "options": ["ಅವು ಸಿಹಿಯಾಗಿವೆ", "ಅವು ಆಮ್ಲೀಯವಾಗಿವೆ", "ಅವು ಶುದ್ಧ ನೀರು", "ಅವು ಘನವಾಗಿವೆ"],
+      "answer": "ಅವು ಆಮ್ಲೀಯವಾಗಿವೆ",
+      "reasoning": "ಡಾ. ಬ್ಯೂಮಾಂಟ್ ಮಾರ್ಟಿನ್‌ನ ಹೊಟ್ಟೆಯಿಂದ ಸ್ವಲ್ಪ ಜೀರ್ಣಕಾರಿ ರಸವನ್ನು ತೆಗೆದು ಪರೀಕ್ಷಿಸಿದರು. ನಮ್ಮ ಹೊಟ್ಟೆಯಲ್ಲಿರುವ ಜೀರ್ಣಕಾರಿ ರಸಗಳು ಆಮ್ಲೀಯವಾಗಿವೆ, ಇದು ಆಹಾರವನ್ನು ಜೀರ್ಣಿಸಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ ಎಂದು ಅವರು ಕಂಡುಹಿಡಿದರು."
+    }
+  },
+  {
+    "id": "c5_evs_td_6",
+    "difficulty": 3,
+    "en": {
+      "question": "According to Dr. Beaumont's experiments, does food digest faster inside the stomach or outside in a glass with stomach juices?",
+      "options": ["Faster outside in the glass", "Faster inside the stomach", "It takes the exact same time", "Food does not digest in the stomach"],
+      "answer": "Faster inside the stomach",
+      "reasoning": "Food digests much faster inside the stomach because the stomach churns the food to digest it, which doesn't happen in a glass."
+    },
+    "kn": {
+      "question": "ಡಾ. ಬ್ಯೂಮಾಂಟ್ ಅವರ ಪ್ರಯೋಗಗಳ ಪ್ರಕಾರ, ಆಹಾರವು ಹೊಟ್ಟೆಯ ಒಳಗೆ ವೇಗವಾಗಿ ಜೀರ್ಣವಾಗುತ್ತದೆಯೇ ಅಥವಾ ಹೊಟ್ಟೆಯ ರಸವಿರುವ ಗಾಜಿನ ಲೋಟದಲ್ಲಿ ವೇಗವಾಗಿ ಜೀರ್ಣವಾಗುತ್ತದೆಯೇ?",
+      "options": ["ಗಾಜಿನ ಲೋಟದಲ್ಲಿ ವೇಗವಾಗಿ", "ಹೊಟ್ಟೆಯ ಒಳಗೆ ವೇಗವಾಗಿ", "ಒಂದೇ ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ", "ಹೊಟ್ಟೆಯಲ್ಲಿ ಆಹಾರ ಜೀರ್ಣವಾಗುವುದಿಲ್ಲ"],
+      "answer": "ಹೊಟ್ಟೆಯ ಒಳಗೆ ವೇಗವಾಗಿ",
+      "reasoning": "ಆಹಾರವನ್ನು ಜೀರ್ಣಿಸಿಕೊಳ್ಳಲು ಹೊಟ್ಟೆಯು ಅದನ್ನು ಕಡೆಯುವುದರಿಂದ ಆಹಾರವು ಹೊಟ್ಟೆಯೊಳಗೆ ಹೆಚ್ಚು ವೇಗವಾಗಿ ಜೀರ್ಣವಾಗುತ್ತದೆ. ಇದು ಗಾಜಿನ ಲೋಟದಲ್ಲಿ ಆಗುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_evs_td_7",
+    "difficulty": 1,
+    "en": {
+      "question": "If you have diarrhea and vomiting, what homemade solution should you drink constantly?",
+      "options": ["Milk and honey", "Water mixed with salt and sugar", "Plain fruit juice", "Hot tea"],
+      "answer": "Water mixed with salt and sugar",
+      "reasoning": "When you have diarrhea and vomiting, your body loses a lot of water. A solution of boiled water with a pinch of salt and sugar helps restore hydration (ORS)."
+    },
+    "kn": {
+      "question": "ನಿಮಗೆ ಅತಿಸಾರ (ಭೇದಿ) ಮತ್ತು ವಾಂತಿಯಾದರೆ, ನೀವು ಯಾವ ಮನೆಯಲ್ಲಿ ತಯಾರಿಸಿದ ದ್ರಾವಣವನ್ನು ನಿರಂತರವಾಗಿ ಕುಡಿಯಬೇಕು?",
+      "options": ["ಹಾಲು ಮತ್ತು ಜೇನುತುಪ್ಪ", "ಉಪ್ಪು ಮತ್ತು ಸಕ್ಕರೆ ಬೆರೆಸಿದ ನೀರು", "ಸಾಮಾನ್ಯ ಹಣ್ಣಿನ ರಸ", "ಬಿಸಿ ಚಹಾ"],
+      "answer": "ಉಪ್ಪು ಮತ್ತು ಸಕ್ಕರೆ ಬೆರೆಸಿದ ನೀರು",
+      "reasoning": "ನಿಮಗೆ ಅತಿಸಾರ ಮತ್ತು ವಾಂತಿಯಾದಾಗ, ನಿಮ್ಮ ದೇಹವು ಬಹಳಷ್ಟು ನೀರನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತದೆ. ಒಂದು ಚಿಟಿಕೆ ಉಪ್ಪು ಮತ್ತು ಸಕ್ಕರೆಯೊಂದಿಗೆ ಕುದಿಸಿದ ನೀರಿನ ದ್ರಾವಣವು ದೇಹದ ನೀರಿನಂಶವನ್ನು ಕಾಪಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_td_8",
+    "difficulty": 2,
+    "en": {
+      "question": "Where is Kalahandi district, known for producing a lot of rice but also having many poor, hungry people, located?",
+      "options": ["Gujarat", "Punjab", "Odisha", "Kerala"],
+      "answer": "Odisha",
+      "reasoning": "Kalahandi district is in Odisha. Many poor people live there and suffer from hunger, even though rice is grown there and sent to other states."
+    },
+    "kn": {
+      "question": "ಬಹಳಷ್ಟು ಅಕ್ಕಿಯನ್ನು ಉತ್ಪಾದಿಸುವ, ಆದರೆ ಅದೇ ಸಮಯದಲ್ಲಿ ಅನೇಕ ಬಡ ಮತ್ತು ಹಸಿದ ಜನರನ್ನು ಹೊಂದಿರುವ ಕಲಹಂಡಿ ಜಿಲ್ಲೆ ಎಲ್ಲಿದೆ?",
+      "options": ["ಗುಜರಾತ್", "ಪಂಜಾಬ್", "ಒಡಿಶಾ", "ಕೇರಳ"],
+      "answer": "ಒಡಿಶಾ",
+      "reasoning": "ಕಲಹಂಡಿ ಜಿಲ್ಲೆಯು ಒಡಿಶಾದಲ್ಲಿದೆ. ಅಲ್ಲಿ ಅಕ್ಕಿಯನ್ನು ಬೆಳೆದು ಇತರ ರಾಜ್ಯಗಳಿಗೆ ಕಳುಹಿಸಿದರೂ ಸಹ ಅನೇಕ ಬಡವರು ಅಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದಾರೆ ಮತ್ತು ಹಸಿವಿನಿಂದ ಬಳಲುತ್ತಿದ್ದಾರೆ."
+    }
+  },
+  {
+    "id": "c5_evs_td_9",
+    "difficulty": 2,
+    "en": {
+      "question": "What is 'Proper Food'?",
+      "options": ["Eating only junk food", "Eating very expensive food", "Nutritious food that gives the right energy and keeps us healthy", "Eating only fruits"],
+      "answer": "Nutritious food that gives the right energy and keeps us healthy",
+      "reasoning": "Proper food means getting adequate and nutritious meals every day, like roti, dal, rice, and vegetables, which every child has a right to."
+    },
+    "kn": {
+      "question": "'ಸರಿಯಾದ ಆಹಾರ' ಎಂದರೇನು?",
+      "options": ["ಕೇವಲ ಜಂಕ್ ಫುಡ್ ತಿನ್ನುವುದು", "ತುಂಬಾ ದುಬಾರಿ ಆಹಾರವನ್ನು ತಿನ್ನುವುದು", "ಸರಿಯಾದ ಶಕ್ತಿಯನ್ನು ನೀಡುವ ಮತ್ತು ನಮ್ಮನ್ನು ಆರೋಗ್ಯವಾಗಿಡುವ ಪೌಷ್ಟಿಕ ಆಹಾರ", "ಕೇವಲ ಹಣ್ಣುಗಳನ್ನು ತಿನ್ನುವುದು"],
+      "answer": "ಸರಿಯಾದ ಶಕ್ತಿಯನ್ನು ನೀಡುವ ಮತ್ತು ನಮ್ಮನ್ನು ಆರೋಗ್ಯವಾಗಿಡುವ ಪೌಷ್ಟಿಕ ಆಹಾರ",
+      "reasoning": "ಸರಿಯಾದ ಆಹಾರ ಎಂದರೆ ಪ್ರತಿದಿನ ರೋಟಿ, ದಾಲ್, ಅನ್ನ ಮತ್ತು ತರಕಾರಿಗಳಂತಹ ಸಾಕಷ್ಟು ಮತ್ತು ಪೌಷ್ಟಿಕಾಂಶದ ಊಟವನ್ನು ಪಡೆಯುವುದು, ಇದು ಪ್ರತಿಯೊಂದು ಮಗುವಿನ ಹಕ್ಕು."
+    }
+  },
+  {
+    "id": "c5_evs_td_10",
+    "difficulty": 3,
+    "en": {
+      "question": "What happens if a person does not eat enough proper food for a long time?",
+      "options": ["They become very strong", "They become weak and fall sick often", "They don't need to sleep", "Their eyesight improves quickly"],
+      "answer": "They become weak and fall sick often",
+      "reasoning": "Lack of proper food leads to malnutrition. The body does not get enough energy, causing the person to become weak, tired, and fall sick often."
+    },
+    "kn": {
+      "question": "ಒಬ್ಬ ವ್ಯಕ್ತಿಯು ದೀರ್ಘಕಾಲದವರೆಗೆ ಸರಿಯಾದ ಆಹಾರವನ್ನು ಸಾಕಷ್ಟು ಪ್ರಮಾಣದಲ್ಲಿ ತಿನ್ನದಿದ್ದರೆ ಏನಾಗುತ್ತದೆ?",
+      "options": ["ಅವರು ತುಂಬಾ ಬಲಶಾಲಿಗಳಾಗುತ್ತಾರೆ", "ಅವರು ದುರ್ಬಲರಾಗುತ್ತಾರೆ ಮತ್ತು ಆಗಾಗ್ಗೆ ಅನಾರೋಗ್ಯಕ್ಕೆ ಒಳಗಾಗುತ್ತಾರೆ", "ಅವರಿಗೆ ನಿದ್ರೆಯ ಅಗತ್ಯವಿರುವುದಿಲ್ಲ", "ಅವರ ದೃಷ್ಟಿ ತ್ವರಿತವಾಗಿ ಸುಧಾರಿಸುತ್ತದೆ"],
+      "answer": "ಅವರು ದುರ್ಬಲರಾಗುತ್ತಾರೆ ಮತ್ತು ಆಗಾಗ್ಗೆ ಅನಾರೋಗ್ಯಕ್ಕೆ ಒಳಗಾಗುತ್ತಾರೆ",
+      "reasoning": "ಸರಿಯಾದ ಆಹಾರದ ಕೊರತೆಯು ಅಪೌಷ್ಟಿಕತೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ. ದೇಹಕ್ಕೆ ಸಾಕಷ್ಟು ಶಕ್ತಿ ಸಿಗುವುದಿಲ್ಲ, ಇದರಿಂದಾಗಿ ವ್ಯಕ್ತಿಯು ದುರ್ಬಲ, ಸುಸ್ತಾಗುತ್ತಾನೆ ಮತ್ತು ಆಗಾಗ್ಗೆ ಅನಾರೋಗ್ಯಕ್ಕೆ ಒಳಗಾಗುತ್ತಾನೆ."
+    }
+  }
+]
