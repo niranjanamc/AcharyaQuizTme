@@ -120,8 +120,8 @@ function App() {
             <p><strong>{language === 'kn' ? 'ಅಂತಿಮ ಸ್ಕೋರ್' : 'Final Score'}:</strong> {score}</p>
             <p><strong>{language === 'kn' ? 'ಸರಿಯಾದ ಉತ್ತರಗಳು' : 'Correct'}:</strong> {stats.correct} / {stats.attempted}</p>
           </div>
-          <button className="btn btn-primary" onClick={() => startGame()}>
-            {language === 'kn' ? 'ಮತ್ತೆ ಆಡಿ' : 'Play Again'}
+          <button className="btn btn-primary" onClick={() => setGameState('menu')}>
+            {language === 'kn' ? 'ಸರಿ (ಮರಳಿ ಮುಖಪುಟಕ್ಕೆ)' : 'Okay (Back to Menu)'}
           </button>
         </div>
       )}
