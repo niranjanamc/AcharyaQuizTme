@@ -178,7 +178,7 @@ const GameArea = ({ level, selectedChapters, language, onCorrect, onWrong, onLev
 
       {currentQuestion && currentQuestion[language] ? (
         <QuizComponent 
-          questionData={currentQuestion[language]} 
+          questionData={{ ...currentQuestion[language], type: currentQuestion.type }} 
           language={language}
           onAnswer={handleAnswer} 
         />

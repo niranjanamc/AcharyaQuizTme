@@ -8,6 +8,7 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
   const [selectedMatches, setSelectedMatches] = useState({});
   const [showReasoning, setShowReasoning] = useState(false);
   const [isCorrect, setIsCorrect] = useState(false);
+  const [isPartiallyCorrect, setIsPartiallyCorrect] = useState(false);
   const [shuffledRights, setShuffledRights] = useState([]);
 
   const qType = questionData?.type || 'single';
@@ -18,6 +19,7 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
     setSelectedMatches({});
     setShowReasoning(false);
     setIsCorrect(false);
+    setIsPartiallyCorrect(false);
 
     if (qType === 'match' && questionData.pairs) {
       const rights = questionData.pairs.map(p => p.right);
@@ -47,7 +49,9 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
     const correctAnswers = questionData.answer || [];
     const correct = selectedOptions.length === correctAnswers.length &&
                     selectedOptions.every(val => correctAnswers.includes(val));
+    const partial = !correct && selectedOptions.some(val => correctAnswers.includes(val));
     setIsCorrect(correct);
+    setIsPartiallyCorrect(partial);
     setShowReasoning(true);
   };
 
@@ -78,6 +82,7 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
   const labels = {
     reasoning: language === 'kn' ? 'ಕಾರಣ' : 'Reasoning',
     correct: language === 'kn' ? 'ಸರಿ!' : 'Correct!',
+    partial: language === 'kn' ? 'ಭಾಗಶಃ ಸರಿ!' : 'Partially Correct!',
     wrong: language === 'kn' ? 'ತಪ್ಪು!' : 'Incorrect!',
     next: language === 'kn' ? 'ಮುಂದಿನ ಪ್ರಶ್ನೆ' : 'Next Question',
     submit: language === 'kn' ? 'ಉತ್ತರ ಸಲ್ಲಿಸಿ' : 'Submit Answer',
@@ -145,6 +150,10 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
       {/* MULTIPLE CHOICE */}
       {qType === 'multiple' && (
         <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
+          <div style={{ color: 'var(--accent-color)', fontSize: '0.9rem', marginBottom: '5px', fontWeight: 'bold' }}>
+            <Lightbulb size={14} style={{ display: 'inline', marginRight: '5px', verticalAlign: 'text-bottom' }} />
+            {language === 'kn' ? 'ಇದು ಬಹು-ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆ (ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಸರಿ ಉತ್ತರಗಳಿರಬಹುದು)' : 'Multiple Choice Question (Select all that apply)'}
+          </div>
           {questionData.options.map((opt, idx) => {
             const isSelected = selectedOptions.includes(opt);
             const isActuallyCorrect = (questionData.answer || []).includes(opt);
@@ -255,13 +264,13 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
       {showReasoning && (
         <div style={{
           marginTop: '20px', padding: '15px',
-          backgroundColor: isCorrect ? 'rgba(6, 214, 160, 0.1)' : 'rgba(239, 71, 111, 0.1)',
-          borderRadius: '10px', borderLeft: `5px solid ${isCorrect ? '#06D6A0' : '#EF476F'}`,
+          backgroundColor: isCorrect ? 'rgba(6, 214, 160, 0.1)' : (isPartiallyCorrect ? 'rgba(255, 209, 102, 0.2)' : 'rgba(239, 71, 111, 0.1)'),
+          borderRadius: '10px', borderLeft: `5px solid ${isCorrect ? '#06D6A0' : (isPartiallyCorrect ? '#FFD166' : '#EF476F')}`,
           animation: 'fadeIn 0.5s'
         }}>
-          <h3 style={{ display: 'flex', alignItems: 'center', gap: '5px', color: isCorrect ? '#06D6A0' : '#EF476F', margin: '0 0 10px 0' }}>
-            {isCorrect ? <Check size={20}/> : <X size={20}/>} 
-            {isCorrect ? labels.correct : labels.wrong}
+          <h3 style={{ display: 'flex', alignItems: 'center', gap: '5px', color: isCorrect ? '#06D6A0' : (isPartiallyCorrect ? '#F4A261' : '#EF476F'), margin: '0 0 10px 0' }}>
+            {isCorrect ? <Check size={20}/> : (isPartiallyCorrect ? <Check size={20}/> : <X size={20}/>)} 
+            {isCorrect ? labels.correct : (isPartiallyCorrect ? labels.partial : labels.wrong)}
           </h3>
           <p style={{ margin: '0 0 15px 0', fontSize: '0.95rem', lineHeight: '1.5' }}>
             <strong><Lightbulb size={16} style={{display: 'inline', verticalAlign: 'text-bottom'}}/> {labels.reasoning}:</strong> {questionData.reasoning}

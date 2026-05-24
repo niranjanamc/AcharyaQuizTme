@@ -108,7 +108,7 @@ function App() {
       )}
 
       {gameState === 'completed' && (
-        <div style={{ flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', color: 'white', padding: '20px', textAlign: 'center' }}>
+        <div style={{ flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', color: 'var(--text-dark)', padding: '20px', textAlign: 'center' }}>
           <h1 style={{ fontSize: '3rem', color: '#06D6A0', marginBottom: '20px' }}>🏆</h1>
           <h2 style={{ fontSize: '2rem', marginBottom: '10px' }}>
             {language === 'kn' ? 'ಪಠ್ಯಕ್ರಮ ಪೂರ್ಣಗೊಂಡಿದೆ!' : 'Curriculum Completed!'}
