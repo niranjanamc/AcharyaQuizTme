@@ -88,17 +88,17 @@
           "id": "science",
           "name": "Science (Curiosity)",
           "chapters": [
-            { "id": "wonderful_world", "name": "The Wonderful World of Science" },
             { "id": "diversity_living", "name": "Diversity in the Living World" },
-            { "id": "mindful_eating", "name": "Mindful Eating" },
-            { "id": "magnets", "name": "Exploring Magnets" },
-            { "id": "length_motion", "name": "Measurement of Length and Motion" },
-            { "id": "materials", "name": "Materials Around Us" },
-            { "id": "temperature", "name": "Temperature and its Measurement" },
-            { "id": "states_water", "name": "A Journey through States of Water" },
-            { "id": "separation", "name": "Methods of Separation" },
-            { "id": "living_creatures", "name": "Living Creatures" },
-            { "id": "beyond_earth", "name": "Beyond Earth" }
+            { "id": "materials_around", "name": "Materials Around Us" },
+            { "id": "food_components", "name": "Components of Food" },
+            { "id": "separation", "name": "Separation of Substances" },
+            { "id": "plants", "name": "Getting to Know Plants" },
+            { "id": "body_movements", "name": "Body Movements" },
+            { "id": "living_organisms", "name": "The Living Organisms" },
+            { "id": "motion_measurement", "name": "Motion and Measurement" },
+            { "id": "light_shadows", "name": "Light, Shadows and Reflections" },
+            { "id": "electricity_circuits", "name": "Electricity and Circuits" },
+            { "id": "magnets", "name": "Fun with Magnets" }
           ]
         }
       ]
