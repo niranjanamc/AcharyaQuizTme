@@ -83,7 +83,13 @@
   "light_shadows": "ಬೆಳಕು, ನೆರಳುಗಳು ಮತ್ತು ಪ್ರತಿಫಲನಗಳು",
   "electricity_circuits": "ವಿದ್ಯುತ್ ಮತ್ತು ವಿದ್ಯುತ್ ಮಂಡಲಗಳು",
   "magnets": "ಕಾಂತಗಳೊಂದಿಗೆ ಮೋಜು",
-  "world_capitals": "ಪ್ರಪಂಚದ ರಾಜಧಾನಿಗಳು",
-  "sequences": "ಸಂಖ್ಯಾ ಸರಣಿಗಳು",
-  "level_1": "ಹಂತ 1"
+  "indian_heritage": "ಭಾರತದ ಪರಂಪರೆ ಮತ್ತು ಸಂಸ್ಕೃತಿ",
+  "science_nature": "ವಿಜ್ಞಾನ ಮತ್ತು ಪ್ರಕೃತಿ",
+  "world_geography": "ವಿಶ್ವ ಭೂಗೋಳ",
+  "ancient_indian_puzzles": "ಭಾರತದ ಪ್ರಾಚೀನ ಒಗಟುಗಳು",
+  "number_sequences": "ಸಂಖ್ಯಾ ಸರಣಿಗಳು",
+  "logical_deduction": "ತಾರ್ಕಿಕ ತೀರ್ಮಾನ",
+  "spellbee_easy": "ಹಂತ 1 (ಸುಲಭ)",
+  "spellbee_medium": "ಹಂತ 2 (ಮಧ್ಯಮ)",
+  "spellbee_hard": "ಹಂತ 3 (ಕಠಿಣ)"
 }

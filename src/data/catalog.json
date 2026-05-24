@@ -138,21 +138,27 @@
           "id": "gk",
           "name": "General Knowledge",
           "chapters": [
-            { "id": "world_capitals", "name": "World Capitals" }
+            { "id": "indian_heritage", "name": "Indian Heritage & Culture" },
+            { "id": "science_nature", "name": "Science & Nature" },
+            { "id": "world_geography", "name": "World Geography" }
           ]
         },
         {
           "id": "puzzles",
           "name": "Aptitude & Puzzles",
           "chapters": [
-            { "id": "sequences", "name": "Number Sequences" }
+            { "id": "ancient_indian_puzzles", "name": "Ancient Indian Puzzles" },
+            { "id": "number_sequences", "name": "Number Sequences" },
+            { "id": "logical_deduction", "name": "Logical Deduction" }
           ]
         },
         {
           "id": "spellbee",
           "name": "Spell Bee",
           "chapters": [
-            { "id": "level_1", "name": "Level 1" }
+            { "id": "spellbee_easy", "name": "Level 1 (Easy)" },
+            { "id": "spellbee_medium", "name": "Level 2 (Medium)" },
+            { "id": "spellbee_hard", "name": "Level 3 (Hard)" }
           ]
         }
       ]

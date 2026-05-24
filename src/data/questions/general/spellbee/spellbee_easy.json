@@ -1,0 +1,1560 @@
+[
+  {
+    "id": "sb_easy_1",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Believe",
+        "Beleive",
+        "Belive",
+        "Beleeve"
+      ],
+      "answer": "Believe",
+      "reasoning": "The correct spelling is 'Believe'. A common mnemonic is 'believe has a lie in it'."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆದ ಪದವನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Believe",
+        "Beleive",
+        "Belive",
+        "Beleeve"
+      ],
+      "answer": "Believe",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Believe' ಆಗಿದೆ. ಇದರ ಕನ್ನಡ ಅರ್ಥ 'ನಂಬು'."
+    }
+  },
+  {
+    "id": "sb_easy_2",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following is the correct spelling of the word meaning to get or accept something?",
+      "options": [
+        "Receive",
+        "Recieve",
+        "Receve",
+        "Recive"
+      ],
+      "answer": "Receive",
+      "reasoning": "The correct spelling is 'Receive'. Remember the rule: 'i before e except after c'."
+    },
+    "kn": {
+      "question": "ಯಾವುದನ್ನಾದರೂ ಪಡೆಯುವುದು ಅಥವಾ ಸ್ವೀಕರಿಸುವುದು ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಸರಿಯಾದ ಪದ ಯಾವುದು?",
+      "options": [
+        "Receive",
+        "Recieve",
+        "Receve",
+        "Recive"
+      ],
+      "answer": "Receive",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Receive' ಆಗಿದೆ. 'c' ಅಕ್ಷರದ ನಂತರ 'e' ಮತ್ತು 'i' ಬರುತ್ತದೆ ಎಂಬುದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ."
+    }
+  },
+  {
+    "id": "sb_easy_3",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correct spelling for the chart showing days, weeks, and months of a year:",
+      "options": [
+        "Calendar",
+        "Calender",
+        "Calandar",
+        "Callender"
+      ],
+      "answer": "Calendar",
+      "reasoning": "The correct spelling is 'Calendar'. It ends with '-ar'."
+    },
+    "kn": {
+      "question": "ವರ್ಷದ ದಿನಗಳು, ವಾರಗಳು ಮತ್ತು ತಿಂಗಳುಗಳನ್ನು ತೋರಿಸುವ ಪಟ್ಟಿಗೆ ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Calendar",
+        "Calender",
+        "Calandar",
+        "Callender"
+      ],
+      "answer": "Calendar",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Calendar' ಆಗಿದೆ. ಇದು '-ar' ನಿಂದ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_4",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the correct spelling of the word meaning up to a point in time?",
+      "options": [
+        "Until",
+        "Untill",
+        "Untle",
+        "Untel"
+      ],
+      "answer": "Until",
+      "reasoning": "The correct spelling is 'Until', which has only one 'l' at the end, unlike 'till'."
+    },
+    "kn": {
+      "question": "ಒಂದು ನಿರ್ದಿಷ್ಟ ಸಮಯದವರೆಗೆ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತ ಯಾವುದು?",
+      "options": [
+        "Until",
+        "Untill",
+        "Untle",
+        "Untel"
+      ],
+      "answer": "Until",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Until' ಆಗಿದೆ. ಇದು ಕೊನೆಯಲ್ಲಿ ಕೇವಲ ಒಂದು 'l' ಅನ್ನು ಹೊಂದಿರುತ್ತದೆ ('till' ಪದದಂತೆ ಎರಡು ಇರುವುದಿಲ್ಲ)."
+    }
+  },
+  {
+    "id": "sb_easy_5",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Identify the correct spelling of the word for a close companion:",
+      "options": [
+        "Friend",
+        "Freind",
+        "Friand",
+        "Frend"
+      ],
+      "answer": "Friend",
+      "reasoning": "The correct spelling is 'Friend'. Remember the 'i before e' rule here."
+    },
+    "kn": {
+      "question": "ಆಪ್ತ ಸ್ನೇಹಿತ ಅಥವಾ ಒಡನಾಡಿ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಗುರುತಿಸಿ:",
+      "options": [
+        "Friend",
+        "Freind",
+        "Friand",
+        "Frend"
+      ],
+      "answer": "Friend",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Friend' ಆಗಿದೆ. ಇಲ್ಲಿ 'e' ಗಿಂತ ಮೊದಲು 'i' ಬರುತ್ತದೆ ಎಂಬುದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ."
+    }
+  },
+  {
+    "id": "sb_easy_6",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correctly spelled word meaning pleasing to the senses:",
+      "options": [
+        "Beautiful",
+        "Beautifull",
+        "Beatiful",
+        "Beutiful"
+      ],
+      "answer": "Beautiful",
+      "reasoning": "The correct spelling is 'Beautiful'. It ends in a single 'l'."
+    },
+    "kn": {
+      "question": "ನೋಡಲು ಸುಂದರವಾದ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಸರಿಯಾದ ಪದವನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Beautiful",
+        "Beautifull",
+        "Beatiful",
+        "Beutiful"
+      ],
+      "answer": "Beautiful",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Beautiful' ಆಗಿದೆ. ಇದು ಕೊನೆಯಲ್ಲಿ ಒಂದೇ ಒಂದು 'l' ಅನ್ನು ಹೊಂದಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_7",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which is the correct spelling of the word used to introduce a reason?",
+      "options": [
+        "Because",
+        "Becaise",
+        "Becoz",
+        "Becoze"
+      ],
+      "answer": "Because",
+      "reasoning": "The correct spelling is 'Because'."
+    },
+    "kn": {
+      "question": "ಕಾರಣವನ್ನು ಹೇಳಲು ಬಳಸುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತ ಯಾವುದು?",
+      "options": [
+        "Because",
+        "Becaise",
+        "Becoz",
+        "Becoze"
+      ],
+      "answer": "Because",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Because' ಆಗಿದೆ. ಇದರ ಕನ್ನಡ ಅರ್ಥ 'ಏಕೆಂದರೆ'."
+    }
+  },
+  {
+    "id": "sb_easy_8",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Identify the correct spelling of the word that means two times as much:",
+      "options": [
+        "Double",
+        "Dubble",
+        "Doble",
+        "Doubble"
+      ],
+      "answer": "Double",
+      "reasoning": "The correct spelling is 'Double' (from the French roots, spelled with 'ou')."
+    },
+    "kn": {
+      "question": "ಎರಡು ಪಟ್ಟು ಅಥವಾ ದುಪ್ಪಟ್ಟು ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಗುರುತಿಸಿ:",
+      "options": [
+        "Double",
+        "Dubble",
+        "Doble",
+        "Doubble"
+      ],
+      "answer": "Double",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Double' ಆಗಿದೆ. ಇದು 'ou' ಅಕ್ಷರಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_9",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correct spelling of the word meaning divided or disconnected:",
+      "options": [
+        "Separate",
+        "Seperate",
+        "Seperat",
+        "Separit"
+      ],
+      "answer": "Separate",
+      "reasoning": "The correct spelling is 'Separate'. A helpful trick is remembering that there is 'a rat' in 'sepa-rat-e'."
+    },
+    "kn": {
+      "question": "ವಿಂಗಡಿಸಲಾದ ಅಥವಾ ಪ್ರತ್ಯೇಕವಾದ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Separate",
+        "Seperate",
+        "Seperat",
+        "Separit"
+      ],
+      "answer": "Separate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Separate' ಆಗಿದೆ. ಇದನ್ನು ನೆನಪಿಡಲು ಮಧ್ಯದಲ್ಲಿ 'a rat' ಇದೆ ಎಂದು ನೆನಪಿಸಿಕೊಳ್ಳಬಹುದು."
+    }
+  },
+  {
+    "id": "sb_easy_10",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Select the correct spelling of the continuous action of moving toward a place:",
+      "options": [
+        "Coming",
+        "Comming",
+        "Comin",
+        "Comeing"
+      ],
+      "answer": "Coming",
+      "reasoning": "When adding '-ing' to 'come', the silent 'e' at the end is dropped, resulting in 'Coming' with a single 'm'."
+    },
+    "kn": {
+      "question": "ಬರುತ್ತಿರುವುದು ಎಂಬ ಕ್ರಿಯೆಯನ್ನು ಸೂಚಿಸುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Coming",
+        "Comming",
+        "Comin",
+        "Comeing"
+      ],
+      "answer": "Coming",
+      "reasoning": "'come' ಪದಕ್ಕೆ '-ing' ಪ್ರತ್ಯಯವನ್ನು ಸೇರಿಸಿದಾಗ, ಕೊನೆಯ 'e' ಅಕ್ಷರವು ಬಿಟ್ಟುಹೋಗುತ್ತದೆ ಮತ್ತು ಇದು 'Coming' ಆಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_11",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the correct spelling of the word meaning in a sincere or genuine way?",
+      "options": [
+        "Truly",
+        "Truely",
+        "Trueli",
+        "Truley"
+      ],
+      "answer": "Truly",
+      "reasoning": "The correct spelling is 'Truly'. When adding '-ly' to 'true', the 'e' is dropped."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಮಾಣಿಕವಾಗಿ ಅಥವಾ ಸತ್ಯವಾಗಿ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತ ಯಾವುದು?",
+      "options": [
+        "Truly",
+        "Truely",
+        "Trueli",
+        "Truley"
+      ],
+      "answer": "Truly",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Truly' ಆಗಿದೆ. 'true' ಪದಕ್ಕೆ '-ly' ಸೇರಿಸಿದಾಗ 'e' ಅಕ್ಷರವು ಲೋಪವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_12",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Choose the correct spelling of the continuous action of putting letters on paper:",
+      "options": [
+        "Writing",
+        "Writting",
+        "Writeing",
+        "Wryting"
+      ],
+      "answer": "Writing",
+      "reasoning": "The correct spelling is 'Writing'. It has a single 't'. Double 't' is used in 'written'."
+    },
+    "kn": {
+      "question": "ಬರೆಯುತ್ತಿರುವುದು ಎಂಬ ಕ್ರಿಯೆಯನ್ನು ಸೂಚಿಸುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Writing",
+        "Writting",
+        "Writeing",
+        "Wryting"
+      ],
+      "answer": "Writing",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Writing' ಆಗಿದೆ. ಇದರಲ್ಲಿ ಕೇವಲ ಒಂದು 't' ಇರುತ್ತದೆ (ಆದರೆ 'written' ನಲ್ಲಿ ಎರಡು 't' ಇರುತ್ತದೆ)."
+    }
+  },
+  {
+    "id": "sb_easy_13",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Select all the correctly spelled common nouns from the list:",
+      "options": [
+        "Library",
+        "Libery",
+        "Animal",
+        "Orange"
+      ],
+      "answer": [
+        "Library",
+        "Animal",
+        "Orange"
+      ],
+      "reasoning": "'Library', 'Animal', and 'Orange' are spelled correctly. 'Libery' is a common misspelling of 'Library'."
+    },
+    "kn": {
+      "question": "ಪಟ್ಟಿಯಿಂದ ಸರಿಯಾದ ಕಾಗುಣಿತ ಹೊಂದಿರುವ ಸಾಮಾನ್ಯ ನಾಮಪದಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Library",
+        "Libery",
+        "Animal",
+        "Orange"
+      ],
+      "answer": [
+        "Library",
+        "Animal",
+        "Orange"
+      ],
+      "reasoning": "'Library', 'Animal' ಮತ್ತು 'Orange' ಸರಿಯಾದ ಕಾಗುಣಿತಗಳಾಗಿವೆ. 'Libery' ಎಂಬುದು ತಪ್ಪಾದ ಕಾಗುಣಿತವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_14",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Identify the correctly spelled words associated with roles or professions:",
+      "options": [
+        "Doctor",
+        "Teacher",
+        "Nurse",
+        "Solger"
+      ],
+      "answer": [
+        "Doctor",
+        "Teacher",
+        "Nurse"
+      ],
+      "reasoning": "'Doctor', 'Teacher', and 'Nurse' are correct. The correct spelling of 'Solger' is 'Soldier'."
+    },
+    "kn": {
+      "question": "ವೃತ್ತಿಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಸರಿಯಾಗಿ ಬರೆದ ಪದಗಳನ್ನು ಗುರುತಿಸಿ:",
+      "options": [
+        "Doctor",
+        "Teacher",
+        "Nurse",
+        "Solger"
+      ],
+      "answer": [
+        "Doctor",
+        "Teacher",
+        "Nurse"
+      ],
+      "reasoning": "'Doctor', 'Teacher' ಮತ್ತು 'Nurse' ಸರಿಯಾಗಿವೆ. 'Solger' ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Soldier' (ಸೈನಿಕ) ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_15",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Select all the correctly spelled days of the week:",
+      "options": [
+        "Tuesday",
+        "Thursday",
+        "Wensday",
+        "Saterday"
+      ],
+      "answer": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "reasoning": "'Tuesday' and 'Thursday' are correct. The correct spellings are 'Wednesday' (with a silent 'd') and 'Saturday'."
+    },
+    "kn": {
+      "question": "ವಾರದ ದಿನಗಳಲ್ಲಿ ಸರಿಯಾಗಿ ಬರೆದ ದಿನಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Tuesday",
+        "Thursday",
+        "Wensday",
+        "Saterday"
+      ],
+      "answer": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "reasoning": "'Tuesday' ಮತ್ತು 'Thursday' ಸರಿಯಾಗಿವೆ. ಸರಿಯಾದ ರೂಪಗಳು 'Wednesday' (ಬುಧವಾರ) ಮತ್ತು 'Saturday' (ಶನಿವಾರ) ಆಗಿರಬೇಕು."
+    }
+  },
+  {
+    "id": "sb_easy_16",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the singular nouns to their correct plural spellings:",
+      "pairs": [
+        {
+          "left": "Box",
+          "right": "Boxes"
+        },
+        {
+          "left": "Baby",
+          "right": "Babies"
+        },
+        {
+          "left": "Leaf",
+          "right": "Leaves"
+        },
+        {
+          "left": "Child",
+          "right": "Children"
+        }
+      ],
+      "reasoning": "Singular nouns form plurals in different ways: adding -es, changing -y to -ies, changing -f to -ves, or having irregular forms."
+    },
+    "kn": {
+      "question": "ಏಕವಚನ ನಾಮಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಬಹುವಚನ ಕಾಗುಣಿತಗಳಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Box",
+          "right": "Boxes"
+        },
+        {
+          "left": "Baby",
+          "right": "Babies"
+        },
+        {
+          "left": "Leaf",
+          "right": "Leaves"
+        },
+        {
+          "left": "Child",
+          "right": "Children"
+        }
+      ],
+      "reasoning": "ಏಕವಚನ ಪದಗಳು ಬಹುವಚನವಾಗುವಾಗ ಬೇರೆ ಬೇರೆ ನಿಯಮಗಳನ್ನು ಹೊಂದಿವೆ: -es ಸೇರಿಸುವುದು, -y ಅನ್ನು -ies ಮಾಡುವುದು, -f ಅನ್ನು -ves ಮಾಡುವುದು ಅಥವಾ ಅನಿಶ್ಚಿತ ರೂಪ ಪಡೆಯುವುದು."
+    }
+  },
+  {
+    "id": "sb_easy_17",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the words with their correct meaning or usage:",
+      "pairs": [
+        {
+          "left": "Write",
+          "right": "To mark letters on paper"
+        },
+        {
+          "left": "Right",
+          "right": "Correct or opposite of left"
+        },
+        {
+          "left": "Byte",
+          "right": "A unit of digital information"
+        },
+        {
+          "left": "Bite",
+          "right": "To cut with teeth"
+        }
+      ],
+      "reasoning": "These words sound similar but have completely different spellings and meanings."
+    },
+    "kn": {
+      "question": "ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಅರ್ಥ ಅಥವಾ ಬಳಕೆಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Write",
+          "right": "ಕಾಗದದ ಮೇಲೆ ಅಕ್ಷರಗಳನ್ನು ಬರೆಯುವುದು"
+        },
+        {
+          "left": "Right",
+          "right": "ಸರಿ ಅಥವಾ ಎಡದ ವಿರುದ್ಧ ದಿಕ್ಕು"
+        },
+        {
+          "left": "Byte",
+          "right": "ಡಿಜಿಟಲ್ ಮಾಹಿತಿಯ ಒಂದು ಘಟಕ"
+        },
+        {
+          "left": "Bite",
+          "right": "ಹಲ್ಲುಗಳಿಂದ ಕಚ್ಚುವುದು"
+        }
+      ],
+      "reasoning": "ಈ ಪದಗಳು ಒಂದೇ ತರಹ ಧ್ವನಿಸಿದರೂ, ವಿಭಿನ್ನ ಕಾಗುಣಿತ ಮತ್ತು ಅರ್ಥಗಳನ್ನು ಹೊಂದಿವೆ."
+    }
+  },
+  {
+    "id": "sb_easy_18",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following is the correct spelling of the day after today?",
+      "options": [
+        "Tomorrow",
+        "Tommorrow",
+        "To-morrow",
+        "Tomorrowe"
+      ],
+      "answer": "Tomorrow",
+      "reasoning": "The correct spelling is 'Tomorrow'. It has one 'm' and double 'r' ('to' + 'morrow')."
+    },
+    "kn": {
+      "question": "ನಾಳೆಯ ದಿನವನ್ನು ಸೂಚಿಸುವ ಸರಿಯಾದ ಪದ ಯಾವುದು?",
+      "options": [
+        "Tomorrow",
+        "Tommorrow",
+        "To-morrow",
+        "Tomorrowe"
+      ],
+      "answer": "Tomorrow",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Tomorrow' ಆಗಿದೆ. ಇದರಲ್ಲಿ ಒಂದು 'm' ಮತ್ತು ಎರಡು 'r' ಇರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_19",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Choose the correct spelling of the word that means certain or clearly stated:",
+      "options": [
+        "Definite",
+        "Definate",
+        "Definete",
+        "Definit"
+      ],
+      "answer": "Definite",
+      "reasoning": "The correct spelling is 'Definite'. It ends in '-ite' (from 'finite'), not '-ate'."
+    },
+    "kn": {
+      "question": "ಖಚಿತವಾದ ಅಥವಾ ಸ್ಪಷ್ಟವಾದ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Definite",
+        "Definate",
+        "Definete",
+        "Definit"
+      ],
+      "answer": "Definite",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Definite' ಆಗಿದೆ. ಇದು '-ite' ನಿಂದ kolgolluttade, '-ate' ನಿಂದಲ್ಲ."
+    }
+  },
+  {
+    "id": "sb_easy_20",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Identify the correct spelling of the word meaning to represent something as better or worse than it really is:",
+      "options": [
+        "Exaggerate",
+        "Exagerate",
+        "Exaggerot",
+        "Exagerreting"
+      ],
+      "answer": "Exaggerate",
+      "reasoning": "The correct spelling is 'Exaggerate'. It has a single 'x' but double 'g' and double 'r'."
+    },
+    "kn": {
+      "question": "ಒಂದು ವಿಷಯವನ್ನು ಅತಿಶಯೋಕ್ತಿಯಾಗಿ ಹೇಳುವುದು ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಸರಿಯಾದ ಪದವನ್ನು ಗುರುತಿಸಿ:",
+      "options": [
+        "Exaggerate",
+        "Exagerate",
+        "Exaggerot",
+        "Exagerreting"
+      ],
+      "answer": "Exaggerate",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Exaggerate' ಆಗಿದೆ. ಇದರಲ್ಲಿ ಒಂದು 'x', ಎರಡು 'g' ಮತ್ತು ಒಂದು 'r' ಇರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_21",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the correct spelling of the word meaning required or essential?",
+      "options": [
+        "Necessary",
+        "Neccessary",
+        "Necassary",
+        "Neccassary"
+      ],
+      "answer": "Necessary",
+      "reasoning": "The correct spelling is 'Necessary'. It has one 'c' and double 's'. Remember: one Collar (c) and two Sleeves (ss)."
+    },
+    "kn": {
+      "question": "ಅಗತ್ಯವಾದ ಅಥವಾ ಅನಿವಾರ್ಯವಾದ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತ ಯಾವುದು?",
+      "options": [
+        "Necessary",
+        "Neccessary",
+        "Necassary",
+        "Neccassary"
+      ],
+      "answer": "Necessary",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Necessary' ಆಗಿದೆ. ಇದರಲ್ಲಿ ಒಂದು 'c' ಮತ್ತು ಎರಡು 's' ಇರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "sb_easy_22",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Select the correctly spelled word meaning belonging to or characteristics of another country:",
+      "options": [
+        "Foreign",
+        "Foriegn",
+        "Forein",
+        "Foregn"
+      ],
+      "answer": "Foreign",
+      "reasoning": "The correct spelling is 'Foreign'. This is an exception to the 'i before e' rule."
+    },
+    "kn": {
+      "question": "ವಿದೇಶಿ ಅಥವಾ ಬೇರೆ ದೇಶಕ್ಕೆ ಸೇರಿದ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಸರಿಯಾದ ಪದವನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Foreign",
+        "Foriegn",
+        "Forein",
+        "Foregn"
+      ],
+      "answer": "Foreign",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Foreign' ಆಗಿದೆ. ಇದು 'i before e' ನಿಯಮಕ್ಕೆ ಹೊರತಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_23",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which spelling is correct for the word meaning an incident or event?",
+      "options": [
+        "Occurrence",
+        "Occurence",
+        "Ocurrence",
+        "Occurrance"
+      ],
+      "answer": "Occurrence",
+      "reasoning": "The correct spelling is 'Occurrence'. It has double 'c', double 'r', and ends with '-ence'."
+    },
+    "kn": {
+      "question": "ಘಟನೆ ಅಥವಾ ಸಂಭವಿಸುವಿಕೆ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತ ಯಾವುದು?",
+      "options": [
+        "Occurrence",
+        "Occurence",
+        "Ocurrence",
+        "Occurrance"
+      ],
+      "answer": "Occurrence",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Occurrence' ಆಗಿದೆ. ಇದರಲ್ಲಿ ಎರಡು 'c', ಎರಡು 'r' ಮತ್ತು ಕೊನೆಯಲ್ಲಿ '-ence' ಇರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_24",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Identify the correct spelling of the word that refers to the surroundings in which a person, animal, or plant lives:",
+      "options": [
+        "Environment",
+        "Enviroment",
+        "Environement",
+        "Enveronment"
+      ],
+      "answer": "Environment",
+      "reasoning": "The correct spelling is 'Environment'. Don't forget the silent 'n' after 'enviro'."
+    },
+    "kn": {
+      "question": "ಪರಿಸರ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಗುರುತಿಸಿ:",
+      "options": [
+        "Environment",
+        "Enviroment",
+        "Environement",
+        "Enveronment"
+      ],
+      "answer": "Environment",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Environment' ಆಗಿದೆ. 'enviro' ಆದ ನಂತರ ಬರುವ 'n' ಅಕ್ಷರವನ್ನು ಮರೆಯಬೇಡಿ."
+    }
+  },
+  {
+    "id": "sb_easy_25",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Select the correct spelling of the word that refers to the governing body of a nation or state:",
+      "options": [
+        "Government",
+        "Goverment",
+        "Govrement",
+        "Governmint"
+      ],
+      "answer": "Government",
+      "reasoning": "The correct spelling is 'Government'. Keep in mind that it contains the root word 'govern' followed by the suffix '-ment'."
+    },
+    "kn": {
+      "question": "ಸರ್ಕಾರ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Government",
+        "Goverment",
+        "Govrement",
+        "Governmint"
+      ],
+      "answer": "Government",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Government' ಆಗಿದೆ. ಇದು 'govern' ಎಂಬ ಮೂಲ ಪದದ ಜೊತೆಗೆ '-ment' ಪ್ರತ್ಯಯವನ್ನು ಹೊಂದಿದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_26",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Choose the correct spelling of the word representing the location of a house or building:",
+      "options": [
+        "Address",
+        "Adress",
+        "Addres",
+        "Addresse"
+      ],
+      "answer": "Address",
+      "reasoning": "The correct spelling is 'Address' with double 'd' and double 's'."
+    },
+    "kn": {
+      "question": "ವಿಳಾಸ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Address",
+        "Adress",
+        "Addres",
+        "Addresse"
+      ],
+      "answer": "Address",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Address' ಆಗಿದೆ. ಇದರಲ್ಲಿ ಎರಡು 'd' ಮತ್ತು ಎರಡು 's' ಇರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "sb_easy_27",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following is the correct spelling of a group of people appointed for a specific task?",
+      "options": [
+        "Committee",
+        "Commitee",
+        "Committe",
+        "Comitee"
+      ],
+      "answer": "Committee",
+      "reasoning": "The correct spelling is 'Committee'. It features double 'm', double 't', and double 'e'."
+    },
+    "kn": {
+      "question": "ಸಮಿತಿ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತ ಯಾವುದು?",
+      "options": [
+        "Committee",
+        "Commitee",
+        "Committe",
+        "Comitee"
+      ],
+      "answer": "Committee",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Committee' ಆಗಿದೆ. ಇದರಲ್ಲಿ ಎರಡು 'm', ಎರಡು 't' ಮತ್ತು ಎರಡು 'e' ಇರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "sb_easy_28",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Select the correct spelling of the word meaning the start or first part of something:",
+      "options": [
+        "Beginning",
+        "Begining",
+        "Begening",
+        "Begginning"
+      ],
+      "answer": "Beginning",
+      "reasoning": "The correct spelling is 'Beginning'. The final 'n' of 'begin' is doubled when adding the suffix '-ing'."
+    },
+    "kn": {
+      "question": "ಆರಂಭ ಅಥವಾ ಮೊದಲ ಭಾಗ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Beginning",
+        "Begining",
+        "Begening",
+        "Begginning"
+      ],
+      "answer": "Beginning",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Beginning' ಆಗಿದೆ. 'begin' ಪದಕ್ಕೆ '-ing' ಸೇರಿಸಿದಾಗ ಕೊನೆಯ 'n' ದ್ವಿಗುಣಗೊಳ್ಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_29",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the correct spelling of the word representing trade or commercial activity?",
+      "options": [
+        "Business",
+        "Buisness",
+        "Busyness",
+        "Busines"
+      ],
+      "answer": "Business",
+      "reasoning": "The correct spelling is 'Business'. It comes from 'busy' + '-ness', where the 'y' changes to 'i'."
+    },
+    "kn": {
+      "question": "ವ್ಯವಹಾರ ಅಥವಾ ವಾಣಿಜ್ಯ ಚಟುವಟಿಕೆ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತ ಯಾವುದು?",
+      "options": [
+        "Business",
+        "Buisness",
+        "Busyness",
+        "Busines"
+      ],
+      "answer": "Business",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Business' ಆಗಿದೆ. ಇದು 'busy' + '-ness' ನಿಂದ ಬಂದಿದ್ದು, 'y' ಅಕ್ಷರವು 'i' ಆಗಿ ಬದಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_30",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Identify the adverbs that are spelled correctly:",
+      "options": [
+        "Accidentally",
+        "Basically",
+        "Truely",
+        "Publically"
+      ],
+      "answer": [
+        "Accidentally",
+        "Basically"
+      ],
+      "reasoning": "'Accidentally' and 'Basically' are correct. The correct spellings are 'Truly' (no 'e') and 'Publicly' (ends in '-ly', not '-ally')."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆಯಲಾದ ಕ್ರಿಯಾವಿಶೇಷಣಗಳನ್ನು ಗುರುತಿಸಿ:",
+      "options": [
+        "Accidentally",
+        "Basically",
+        "Truely",
+        "Publically"
+      ],
+      "answer": [
+        "Accidentally",
+        "Basically"
+      ],
+      "reasoning": "'Accidentally' ಮತ್ತು 'Basically' ಸರಿಯಾಗಿವೆ. 'Truly' (e ಇರುವುದಿಲ್ಲ) ಮತ್ತು 'Publicly' (-ally ಬದಲು -ly ಇರುತ್ತದೆ) ಸರಿಯಾದ ರೂಪಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "sb_easy_31",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these words representing numbers are spelled correctly?",
+      "options": [
+        "Fourth",
+        "Ninth",
+        "Nineth",
+        "Fortieth"
+      ],
+      "answer": [
+        "Fourth",
+        "Ninth",
+        "Fortieth"
+      ],
+      "reasoning": "'Fourth', 'Ninth', and 'Fortieth' are correct. Note that 'Ninth' drops the 'e' of 'Nine', making 'Nineth' incorrect."
+    },
+    "kn": {
+      "question": "ಸಂಖ್ಯೆಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಈ ಕೆಳಗಿನ ಯಾವ ಪದಗಳನ್ನು ಸರಿಯಾಗಿ ಬರೆಯಲಾಗಿದೆ?",
+      "options": [
+        "Fourth",
+        "Ninth",
+        "Nineth",
+        "Fortieth"
+      ],
+      "answer": [
+        "Fourth",
+        "Ninth",
+        "Fortieth"
+      ],
+      "reasoning": "'Fourth', 'Ninth' ಮತ್ತು 'Fortieth' ಸರಿಯಾಗಿವೆ. 'Nine' ಪದದ 'e' ಅಕ್ಷರವನ್ನು ತೆಗೆದು 'Ninth' ಎಂದು ಬರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_32",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Select all the correctly spelled words ending in a single 'l' or having specific single/double 'l' rules:",
+      "options": [
+        "Fulfill",
+        "Until",
+        "Fullfill",
+        "Untill"
+      ],
+      "answer": [
+        "Fulfill",
+        "Until"
+      ],
+      "reasoning": "'Fulfill' and 'Until' are correct. 'Fullfill' (incorrectly doubles the first 'l') and 'Untill' (incorrectly doubles the final 'l') are misspellings."
+    },
+    "kn": {
+      "question": "ಕೊನೆಯಲ್ಲಿ ಒಂದೇ 'l' ಹೊಂದಿರುವ ಅಥವಾ ನಿರ್ದಿಷ್ಟ ಕಾಗುಣಿತ ನಿಯಮಗಳನ್ನು ಹೊಂದಿರುವ ಸರಿಯಾಗಿ ಬರೆದ ಎಲ್ಲಾ ಪದಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Fulfill",
+        "Until",
+        "Fullfill",
+        "Untill"
+      ],
+      "answer": [
+        "Fulfill",
+        "Until"
+      ],
+      "reasoning": "'Fulfill' ಮತ್ತು 'Until' ಸರಿಯಾಗಿವೆ. 'Fullfill' ಮತ್ತು 'Untill' ಪದಗಳಲ್ಲಿ ಬರುವ ಹೆಚ್ಚುವರಿ 'l' ಅಕ್ಷರಗಳು ತಪ್ಪುಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "sb_easy_33",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the words with their corresponding silent letters:",
+      "pairs": [
+        {
+          "left": "Doubt",
+          "right": "b"
+        },
+        {
+          "left": "Knowledge",
+          "right": "k"
+        },
+        {
+          "left": "Autumn",
+          "right": "n"
+        },
+        {
+          "left": "Design",
+          "right": "g"
+        }
+      ],
+      "reasoning": "These words contain letters that are written but not pronounced in speech."
+    },
+    "kn": {
+      "question": "ಪದಗಳನ್ನು ಅವುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಅನುಚ್ಚಾರಿತ (silent) ಅಕ್ಷರಗಳಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Doubt",
+          "right": "b"
+        },
+        {
+          "left": "Knowledge",
+          "right": "k"
+        },
+        {
+          "left": "Autumn",
+          "right": "n"
+        },
+        {
+          "left": "Design",
+          "right": "g"
+        }
+      ],
+      "reasoning": "ಈ ಪದಗಳಲ್ಲಿ ಕೆಲವು ಅಕ್ಷರಗಳನ್ನು ಬರೆಯಲಾಗುತ್ತದೆಯಾದರೂ ಉಚ್ಚರಿಸುವಾಗ ಅವುಗಳನ್ನು ಬಿಟ್ಟುಬಿಡಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_34",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match British English spellings with their American English counterparts:",
+      "pairs": [
+        {
+          "left": "Colour",
+          "right": "Color"
+        },
+        {
+          "left": "Theatre",
+          "right": "Theater"
+        },
+        {
+          "left": "Organise",
+          "right": "Organize"
+        },
+        {
+          "left": "Travelled",
+          "right": "Traveled"
+        }
+      ],
+      "reasoning": "British English and American English have regular variation rules like '-our' vs '-or', '-tre' vs '-ter', '-ise' vs '-ize', and doubling final consonants."
+    },
+    "kn": {
+      "question": "ಬ್ರಿಟಿಷ್ ಇಂಗ್ಲಿಷ್ ಕಾಗುಣಿತಗಳನ್ನು ಅವುಗಳ ಅಮೆರಿಕನ್ ಇಂಗ್ಲಿಷ್ ಕಾಗುಣಿತಗಳಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Colour",
+          "right": "Color"
+        },
+        {
+          "left": "Theatre",
+          "right": "Theater"
+        },
+        {
+          "left": "Organise",
+          "right": "Organize"
+        },
+        {
+          "left": "Travelled",
+          "right": "Traveled"
+        }
+      ],
+      "reasoning": "ಬ್ರಿಟಿಷ್ ಮತ್ತು ಅಮೆರಿಕನ್ ಇಂಗ್ಲಿಷ್ ನಡುವೆ '-our' / '-or', '-tre' / '-ter' ನಂತಹ ಸಾಮಾನ್ಯ ಕಾಗುಣಿತ ವ್ಯತ್ಯಾಸಗಳಿವೆ."
+    }
+  },
+  {
+    "id": "sb_easy_35",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the correct spelling of the word meaning a room or building to live in?",
+      "options": [
+        "Accommodation",
+        "Acommodation",
+        "Accomodation",
+        "Acomodation"
+      ],
+      "answer": "Accommodation",
+      "reasoning": "The correct spelling is 'Accommodation'. Remember it has double 'c' and double 'm'."
+    },
+    "kn": {
+      "question": "ವಸತಿ ಅಥವಾ ವಾಸಸ್ಥಳ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತ ಯಾವುದು?",
+      "options": [
+        "Accommodation",
+        "Acommodation",
+        "Accomodation",
+        "Acomodation"
+      ],
+      "answer": "Accommodation",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Accommodation' ಆಗಿದೆ. ಇದರಲ್ಲಿ ಎರಡು 'c' ಮತ್ತು ಎರಡು 'm' ಇರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "sb_easy_36",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Identify the correct spelling of the word meaning wishing to do one's work or duty well and thoroughly:",
+      "options": [
+        "Conscientious",
+        "Conscientous",
+        "Consciencious",
+        "Consciouscious"
+      ],
+      "answer": "Conscientious",
+      "reasoning": "The correct spelling is 'Conscientious'. It contains the root 'science' (scien) within it."
+    },
+    "kn": {
+      "question": "ಕರ್ತವ್ಯಪ್ರಜ್ಞೆಯುಳ್ಳ ಅಥವಾ ನಿಷ್ಠಾವಂತ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಗುರುತಿಸಿ:",
+      "options": [
+        "Conscientious",
+        "Conscientous",
+        "Consciencious",
+        "Consciouscious"
+      ],
+      "answer": "Conscientious",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Conscientious' ಆಗಿದೆ. ಇದು ಮಧ್ಯದಲ್ಲಿ 'science' (ವಿಜ್ಞಾನ) ಎಂಬ ಪದದ ಮೂಲಾಂಶವನ್ನು ಹೊಂದಿದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_37",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the correct spelling of the word meaning communication or cooperation that facilitates a close working relationship:",
+      "options": [
+        "Liaison",
+        "Liason",
+        "Liaisson",
+        "Liasion"
+      ],
+      "answer": "Liaison",
+      "reasoning": "The correct spelling is 'Liaison'. It has two 'i's surrounding the 'a'."
+    },
+    "kn": {
+      "question": "ಸಂಪರ್ಕ ಅಥವಾ ಹೊಂದಾಣಿಕೆ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Liaison",
+        "Liason",
+        "Liaisson",
+        "Liasion"
+      ],
+      "answer": "Liaison",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Liaison' ಆಗಿದೆ. ಇದು 'a' ನ ಎರಡೂ ಬದಿಗಳಲ್ಲಿ 'i' ಅಕ್ಷರವನ್ನು ಹೊಂದಿದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_38",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Select the correctly spelled word meaning causing mild trouble in a playful way:",
+      "options": [
+        "Mischievous",
+        "Mischievious",
+        "Mischevous",
+        "Mischevious"
+      ],
+      "answer": "Mischievous",
+      "reasoning": "The correct spelling is 'Mischievous'. A common mistake is to add an extra 'i' before the suffix, pronouncing and spelling it as 'mischievious'."
+    },
+    "kn": {
+      "question": "ತುಂಟತನದ ಅಥವಾ ಚೇಷ್ಟೆಯ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಸರಿಯಾದ ಪದವನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Mischievous",
+        "Mischievious",
+        "Mischevous",
+        "Mischevious"
+      ],
+      "answer": "Mischievous",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Mischievous' ಆಗಿದೆ. ಕೊನೆಯಲ್ಲಿ 'mischievious' ಎಂದು ತಪ್ಪು ಅಕ್ಷರಗಳನ್ನು ಸೇರಿಸುವುದು ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_39",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following is the correct spelling of the word meaning the way in which a word is pronounced?",
+      "options": [
+        "Pronunciation",
+        "Pronounciation",
+        "Pronunciacion",
+        "Pronounciacion"
+      ],
+      "answer": "Pronunciation",
+      "reasoning": "The correct spelling is 'Pronunciation'. Unlike the verb 'pronounce', the noun does not contain the letter 'o' in the middle syllable (it has '-nun-', not '-noun-')."
+    },
+    "kn": {
+      "question": "ಉಚ್ಚಾರಣೆ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತ ಯಾವುದು?",
+      "options": [
+        "Pronunciation",
+        "Pronounciation",
+        "Pronunciacion",
+        "Pronounciacion"
+      ],
+      "answer": "Pronunciation",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Pronunciation' ಆಗಿದೆ. 'pronounce' ಕ್ರಿಯಾಪದದಂತೆ ಈ ನಾಮಪದದಲ್ಲಿ 'o' ಇರುವುದಿಲ್ಲ, ಇದು '-nun-' ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_40",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Select the correct spelling of the word representing a strong, regular, repeated pattern of movement or sound:",
+      "options": [
+        "Rhythm",
+        "Rythm",
+        "Rhythim",
+        "Rithim"
+      ],
+      "answer": "Rhythm",
+      "reasoning": "The correct spelling is 'Rhythm'. Note that there is no standard vowel letter ('a', 'e', 'i', 'o', 'u') in this word; it relies on 'y'."
+    },
+    "kn": {
+      "question": "ಲಯ ಅಥವಾ ತಾಳ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Rhythm",
+        "Rythm",
+        "Rhythim",
+        "Rithim"
+      ],
+      "answer": "Rhythm",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Rhythm' ಆಗಿದೆ. ಈ ಪದದಲ್ಲಿ ಯಾವುದೇ ಸಾಂಪ್ರದಾಯಿಕ ಸ್ವರಾಕ್ಷರಗಳು ಇರುವುದಿಲ್ಲ, ಬದಲಿಗೆ 'y' ಬಳಕೆ ಇರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_41",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the correct spelling of the word meaning to take the place of a person or thing previously in authority or use?",
+      "options": [
+        "Supersede",
+        "Supercede",
+        "Superceed",
+        "Superseed"
+      ],
+      "answer": "Supersede",
+      "reasoning": "The correct spelling is 'Supersede' (derived from Latin 'supersedere'). It ends with '-sede', unlike 'precede' or 'exceed'."
+    },
+    "kn": {
+      "question": "ಹಿಂದಿನದನ್ನು ತೆಗೆದುಹಾಕಿ ಅದರ ಸ್ಥಾನವನ್ನು ಪಡೆದುಕೊಳ್ಳುವುದು ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತ ಯಾವುದು?",
+      "options": [
+        "Supersede",
+        "Supercede",
+        "Superceed",
+        "Superseed"
+      ],
+      "answer": "Supersede",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Supersede' ಆಗಿದೆ. ಇದು ಲ್ಯಾಟಿನ್ ಮೂಲದಿಂದ ಬಂದಿದ್ದು '-sede' ಎಂದು ಮುಕ್ತಾಯಗೊಳ್ಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_42",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the correct spelling of the word representing a ruler in ancient Egypt:",
+      "options": [
+        "Pharaoh",
+        "Pharoah",
+        "Pharao",
+        "Pharoh"
+      ],
+      "answer": "Pharaoh",
+      "reasoning": "The correct spelling is 'Pharaoh'. It ends in '-aoh' due to its ancient Egyptian/Hebrew origin."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಚೀನ ಈಜಿಪ್ಟ್‌ನ ರಾಜನನ್ನು ಸೂಚಿಸುವ ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Pharaoh",
+        "Pharoah",
+        "Pharao",
+        "Pharoh"
+      ],
+      "answer": "Pharaoh",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Pharaoh' ಆಗಿದೆ. ಇದರ ಕೊನೆಯಲ್ಲಿ '-aoh' ಬರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_43",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Identify the correct spelling of the word meaning very strange or unusual:",
+      "options": [
+        "Bizarre",
+        "Bazar",
+        "Bizzare",
+        "Bizare"
+      ],
+      "answer": "Bizarre",
+      "reasoning": "The correct spelling is 'Bizarre' with a single 'z' and double 'r'. 'Bazaar' (double 'a', single 'r') is a marketplace."
+    },
+    "kn": {
+      "question": "ಅತಿ ವಿಚಿತ್ರ ಅಥವಾ ಅಸಹಜ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತವನ್ನು ಗುರುತಿಸಿ:",
+      "options": [
+        "Bizarre",
+        "Bazar",
+        "Bizzare",
+        "Bizare"
+      ],
+      "answer": "Bizarre",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Bizarre' ಆಗಿದೆ. ಇದರಲ್ಲಿ ಒಂದು 'z' ಮತ್ತು ಎರಡು 'r' ಇರುತ್ತವೆ. ('Bazaar' ಎಂದರೆ ಮಾರುಕಟ್ಟೆ)."
+    }
+  },
+  {
+    "id": "sb_easy_44",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the correct spelling of the word meaning a formal promise or assurance that certain conditions will be met?",
+      "options": [
+        "Guarantee",
+        "Garantee",
+        "Guarante",
+        "Garente"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "The correct spelling is 'Guarantee' starting with 'gua' and ending with 'ntee'."
+    },
+    "kn": {
+      "question": "ಭರವಸೆ ಅಥವಾ ಖಾತರಿ ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುವ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತ ಯಾವುದು?",
+      "options": [
+        "Guarantee",
+        "Garantee",
+        "Guarante",
+        "Garente"
+      ],
+      "answer": "Guarantee",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Guarantee' ಆಗಿದೆ. ಇದು 'gua' ನಿಂದ ಪ್ರಾರಂಭವಾಗಿ 'ntee' ನಿಂದ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_45",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which is the correct spelling of the military rank above a second lieutenant?",
+      "options": [
+        "Lieutenant",
+        "Leutenant",
+        "Lieutenent",
+        "Lutenant"
+      ],
+      "answer": "Lieutenant",
+      "reasoning": "The correct spelling is 'Lieutenant'. It comes from French 'lieu' (place) and 'tenant' (holding)."
+    },
+    "kn": {
+      "question": "ಮಿಲಿಟರಿ ಹುದ್ದೆಯನ್ನು ಸೂಚಿಸುವ ಸರಿಯಾದ ಕಾಗುಣಿತ ಯಾವುದು?",
+      "options": [
+        "Lieutenant",
+        "Leutenant",
+        "Lieutenent",
+        "Lutenant"
+      ],
+      "answer": "Lieutenant",
+      "reasoning": "ಸರಿಯಾದ ಕಾಗುಣಿತವು 'Lieutenant' ಆಗಿದೆ. ಇದು ಫ್ರೆಂಚ್ ಮೂಲದಿಂದ ಬಂದಿದೆ."
+    }
+  },
+  {
+    "id": "sb_easy_46",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Choose the words that are spelled correctly:",
+      "options": [
+        "Hierarchy",
+        "Heirarchy",
+        "Millennium",
+        "Millenum"
+      ],
+      "answer": [
+        "Hierarchy",
+        "Millennium"
+      ],
+      "reasoning": "'Hierarchy' (rule of priests, 'ie') and 'Millennium' (a thousand years, double 'l' and double 'n') are correct. 'Heirarchy' and 'Millenum' are incorrect."
+    },
+    "kn": {
+      "question": "ಸರಿಯಾಗಿ ಬರೆಯಲಾದ ಪದಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "Hierarchy",
+        "Heirarchy",
+        "Millennium",
+        "Millenum"
+      ],
+      "answer": [
+        "Hierarchy",
+        "Millennium"
+      ],
+      "reasoning": "'Hierarchy' (ಶ್ರೇಣಿ ವ್ಯವಸ್ಥೆ) ಮತ್ತು 'Millennium' (ಸಹಸ್ರಮಾನ - ಎರಡು 'l' ಮತ್ತು ಎರಡು 'n' ಗಳೊಂದಿಗೆ) ಸರಿಯಾದ ರೂಪಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "sb_easy_47",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of these words are spelled correctly?",
+      "options": [
+        "Maintenance",
+        "Privilege",
+        "Maintainance",
+        "Privelege"
+      ],
+      "answer": [
+        "Maintenance",
+        "Privilege"
+      ],
+      "reasoning": "'Maintenance' (preservation) and 'Privilege' (a special right or advantage) are correct. 'Maintainance' and 'Privelege' are common misspellings."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಸರಿಯಾಗಿ ಬರೆಯಲಾದ ಪದಗಳು ಯಾವುವು?",
+      "options": [
+        "Maintenance",
+        "Privilege",
+        "Maintainance",
+        "Privelege"
+      ],
+      "answer": [
+        "Maintenance",
+        "Privilege"
+      ],
+      "reasoning": "'Maintenance' (ನಿರ್ವಹಣೆ) ಮತ್ತು 'Privilege' (ವಿಶೇಷ ಸೌಲಭ್ಯ) ಸರಿಯಾಗಿವೆ. 'Maintainance' ಮತ್ತು 'Privelege' ತಪ್ಪು ಕಾಗುಣಿತಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "sb_easy_48",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the commonly confused word pairs with their correct spelling context:",
+      "pairs": [
+        {
+          "left": "Principal",
+          "right": "Head of a school"
+        },
+        {
+          "left": "Principle",
+          "right": "A fundamental truth or belief"
+        },
+        {
+          "left": "Stationary",
+          "right": "Not moving"
+        },
+        {
+          "left": "Stationery",
+          "right": "Writing materials"
+        }
+      ],
+      "reasoning": "These homophones look similar but have different spellings that alter their meaning entirely."
+    },
+    "kn": {
+      "question": "ಸಾಮಾನ್ಯವಾಗಿ ಗೊಂದಲಕ್ಕೀಡುಮಾಡುವ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಕಾಗುಣಿತದ ಅರ್ಥಕ್ಕೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Principal",
+          "right": "ಶಾಲೆಯ ಮುಖ್ಯಸ್ಥರು (ಅಧ್ಯಕ್ಷರು)"
+        },
+        {
+          "left": "Principle",
+          "right": "ಮೂಲ ತತ್ವ ಅಥವಾ ಆದರ್ಶ"
+        },
+        {
+          "left": "Stationary",
+          "right": "ಚಲಿಸದೆ ನಿಶ್ಚಲವಾಗಿರುವುದು"
+        },
+        {
+          "left": "Stationery",
+          "right": "ಬರೆಯುವ ಸಾಮಗ್ರಿಗಳು (ಪೇಪರ್, ಪೆನ್)"
+        }
+      ],
+      "reasoning": "ಈ ಸಮಾನ ಧ್ವನಿಯ ಪದಗಳು ವಿಭಿನ್ನ ಕಾಗುಣಿತ ಮತ್ತು ಅರ್ಥಗಳನ್ನು ಹೊಂದಿವೆ."
+    }
+  },
+  {
+    "id": "sb_easy_49",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match these complex words with their correct meaning descriptions:",
+      "pairs": [
+        {
+          "left": "Acquiesce",
+          "right": "To accept something reluctantly"
+        },
+        {
+          "left": "Cacophony",
+          "right": "A harsh mixture of sounds"
+        },
+        {
+          "left": "Ephemeral",
+          "right": "Lasting for a very short time"
+        },
+        {
+          "left": "Ubiquitous",
+          "right": "Found everywhere"
+        }
+      ],
+      "reasoning": "These advanced vocabulary words have unique spelling patterns and meanings."
+    },
+    "kn": {
+      "question": "ಈ ಸಂಕೀರ್ಣ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಅರ್ಥದ ವಿವರಣೆಗಳಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Acquiesce",
+          "right": "ಯಾವುದನ್ನಾದರೂ ಇಷ್ಟವಿಲ್ಲದಿದ್ದರೂ ಒಪ್ಪಿಕೊಳ್ಳುವುದು"
+        },
+        {
+          "left": "Cacophony",
+          "right": "ಕರ್ಕಶ ಧ್ವನಿಗಳ ಮಿಶ್ರಣ"
+        },
+        {
+          "left": "Ephemeral",
+          "right": "ಅಲ್ಪಕಾಲಿಕ ಅಥವಾ ಕ್ಷಣಿಕವಾದ"
+        },
+        {
+          "left": "Ubiquitous",
+          "right": "ಎಲ್ಲೆಡೆ ಕಂಡುಬರುವ ಸರ್ವವ್ಯಾಪಿ"
+        }
+      ],
+      "reasoning": "ಈ ಮುಂದುವರಿದ ಶಬ್ದಕೋಶದ ಪದಗಳು ವಿಶಿಷ್ಟವಾದ ಕಾಗುಣಿತ ಮತ್ತು ಅರ್ಥಗಳನ್ನು ಹೊಂದಿವೆ."
+    }
+  },
+  {
+    "id": "sb_easy_50",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match these root words to their correct suffix combination, resulting in a correctly spelled word:",
+      "pairs": [
+        {
+          "left": "Refer",
+          "right": "Reference"
+        },
+        {
+          "left": "Prefer",
+          "right": "Preference"
+        },
+        {
+          "left": "Commit",
+          "right": "Committee"
+        },
+        {
+          "left": "Admit",
+          "right": "Admittance"
+        }
+      ],
+      "reasoning": "When suffixes are added, sometimes letters are doubled or altered (like 'commit' to 'committee' and 'admit' to 'admittance')."
+    },
+    "kn": {
+      "question": "ಮೂಲ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಪ್ರತ್ಯಯ ಸಂಯೋಜನೆಗೆ ಹೊಂದಿಸಿ, ಸರಿಯಾದ ಹೊಸ ಪದವನ್ನು ಪಡೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "Refer",
+          "right": "Reference"
+        },
+        {
+          "left": "Prefer",
+          "right": "Preference"
+        },
+        {
+          "left": "Commit",
+          "right": "Committee"
+        },
+        {
+          "left": "Admit",
+          "right": "Admittance"
+        }
+      ],
+      "reasoning": "ಮೂಲ ಪದಗಳಿಗೆ ಪ್ರತ್ಯಯಗಳನ್ನು ಸೇರಿಸಿದಾಗ, ಕೆಲವು ಕಾಗುಣಿತ ನಿಯಮಗಳ ಆಧಾರದ ಮೇಲೆ ಅಕ್ಷರಗಳು ದ್ವಿಗುಣಗೊಳ್ಳುತ್ತವೆ ಅಥವಾ ಬದಲಾಗುತ್ತವೆ."
+    }
+  }
+]

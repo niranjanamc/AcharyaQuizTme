@@ -1,0 +1,908 @@
+[
+  {
+    "id": "gk_science_1",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which planet in our solar system is known as the \"Red Planet\"?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars",
+      "reasoning": "Mars is called the Red Planet because iron minerals in its soil rust, giving its surface and atmosphere a reddish appearance."
+    },
+    "kn": {
+      "question": "ನಮ್ಮ ಸೌರಮಂಡಲದ ಯಾವ ಗ್ರಹವನ್ನು \"ಕೆಂಪು ಗ್ರಹ\" ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": ["ಶುಕ್ರ", "ಮಂಗಳ", "ಗುರು", "ಶನಿ"],
+      "answer": "ಮಂಗಳ",
+      "reasoning": "ಮಂಗಳ ಗ್ರಹದ ಮಣ್ಣಿನಲ್ಲಿರುವ ಕಬ್ಬಿಣದ ಖನಿಜಗಳು ತುಕ್ಕು ಹಿಡಿಯುವುದರಿಂದ ಅದರ ಮೇಲ್ಮೈ ಮತ್ತು ವಾತಾವರಣವು ಕೆಂಪಾಗಿ ಕಾಣುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_2",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which is the largest organ of the human body?",
+      "options": ["Liver", "Brain", "Skin", "Heart"],
+      "answer": "Skin",
+      "reasoning": "The skin is the largest organ of the body, covering the entire external surface and acting as a protective barrier."
+    },
+    "kn": {
+      "question": "ಮಾನವ ದೇಹದ ಅತಿ ದೊಡ್ಡ ಅಂಗ ಯಾವುದು?",
+      "options": ["ಯಕೃತ್ತು", "ಮಿದುಳು", "ಚರ್ಮ", "ಹೃದಯ"],
+      "answer": "ಚರ್ಮ",
+      "reasoning": "ಚರ್ಮವು ಮಾನವ ದೇಹದ ಅತಿ ದೊಡ್ಡ ಅಂಗವಾಗಿದ್ದು, ಇಡೀ ಬಾಹ್ಯ ಮೇಲ್ಮೈಯನ್ನು ಆವರಿಸಿ ರಕ್ಷಣಾತ್ಮಕ ಕವಚವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_3",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What gas do plants absorb from the atmosphere to perform photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Carbon Dioxide",
+      "reasoning": "During photosynthesis, plants take in carbon dioxide and water to produce glucose and release oxygen."
+    },
+    "kn": {
+      "question": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ನಡೆಸಲು ಸಸ್ಯಗಳು ವಾತಾವರಣದಿಂದ ಯಾವ ಅನಿಲವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ?",
+      "options": ["ಆಮ್ಲಜನಕ", "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್", "ಸಾರಜನಕ", "ಜಲಜನಕ"],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+      "reasoning": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯ ಸಮಯದಲ್ಲಿ, ಸಸ್ಯಗಳು ಗ್ಲುಕೋಸ್ ತಯಾರಿಸಲು ಮತ್ತು ಆಮ್ಲಜನಕವನ್ನು ಬಿಡುಗಡೆ ಮಾಡಲು ವಾತಾವರಣದಿಂದ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "gk_science_4",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the boiling point of pure water at standard sea-level atmospheric pressure?",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "answer": "100°C",
+      "reasoning": "Under normal atmospheric pressure at sea level, pure water boils at exactly 100 degrees Celsius."
+    },
+    "kn": {
+      "question": "ಸಮುದ್ರ ಮಟ್ಟದಲ್ಲಿ ಸಾಮಾನ್ಯ ವಾತಾವರಣದ ಒತ್ತಡದಲ್ಲಿ ಶುದ್ಧ ನೀರಿನ ಕುದಿಯುವ ಬಿಂದು ಎಷ್ಟು?",
+      "options": ["೯೦°C", "೧೦೦°C", "೧೧೦°C", "೧೨೦°C"],
+      "answer": "೧೦೦°C",
+      "reasoning": "ಸಮುದ್ರ ಮಟ್ಟದಲ್ಲಿ ಸಾಮಾನ್ಯ ವಾತಾವರಣದ ಒತ್ತಡದಲ್ಲಿ, ಶುದ್ಧ ನೀರು ನಿಖರವಾಗಿ ೧೦೦ ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್‌ನಲ್ಲಿ ಕುದಿಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_5",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which gas do humans and animals breathe in to survive?",
+      "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Helium"],
+      "answer": "Oxygen",
+      "reasoning": "Oxygen is essential for respiration in humans and animals, helping convert nutrients into usable energy."
+    },
+    "kn": {
+      "question": "ಮಾನವರು ಮತ್ತು ಪ್ರಾಣಿಗಳು ಬದುಕಲು ಯಾವ ಅನಿಲವನ್ನು ಉಸಿರಾಡುತ್ತವೆ?",
+      "options": ["ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್", "ಸಾರಜನಕ", "ಆಮ್ಲಜನಕ", "ಹೀಲಿಯಂ"],
+      "answer": "ಆಮ್ಲಜನಕ",
+      "reasoning": "ಮಾನವರು ಮತ್ತು ಪ್ರಾಣಿಗಳಲ್ಲಿ ಉಸಿರಾಟಕ್ಕೆ ಆಮ್ಲಜನಕ ಅತ್ಯಗತ್ಯವಾಗಿದ್ದು, ಇದು ಪೋಷಕಾಂಶಗಳನ್ನು ಶಕ್ತಿಯಾಗಿ ಪರಿವರ್ತಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_6",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which part of a plant is primarily responsible for performing photosynthesis?",
+      "options": ["Roots", "Stem", "Leaves", "Flowers"],
+      "answer": "Leaves",
+      "reasoning": "Leaves contain chlorophyll, the green pigment that absorbs light energy to drive photosynthesis."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯದ ಯಾವ ಭಾಗವು ಪ್ರಮುಖವಾಗಿ ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಗೆ ಕಾರಣವಾಗಿದೆ?",
+      "options": ["ಬೇರುಗಳು", "ಕಾಂಡ", "ಎಲೆಗಳು", "ಹೂವುಗಳು"],
+      "answer": "ಎಲೆಗಳು",
+      "reasoning": "ಎಲೆಗಳಲ್ಲಿ ಹಸಿರು ವರ್ಣದ್ರವ್ಯವಾದ ಪತ್ರಹರಿತ್ತು (ಕ್ಲೋರೊಫಿಲ್) ಇರುತ್ತದೆ, ಇದು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯನ್ನು ನಡೆಸಲು ಬೆಳಕಿನ ಶಕ್ತಿಯನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_7",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "How many bones does an adult human skeleton typically have?",
+      "options": ["156", "206", "256", "306"],
+      "answer": "206",
+      "reasoning": "An adult human skeletal system consists of 206 bones, whereas babies are born with around 270 bones that fuse over time."
+    },
+    "kn": {
+      "question": "ವಯಸ್ಕ ಮಾನವನ ಅಸ್ಥಿಪಂಜರದಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಎಷ್ಟು ಮೂಳೆಗಳು ಇರುತ್ತವೆ?",
+      "options": ["೧೫೬", "೨೦೬", "೨೫೬", "೩೦೬"],
+      "answer": "೨೦೬",
+      "reasoning": "ವಯಸ್ಕ ಮಾನವನ ದೇಹದಲ್ಲಿ ೨೦೬ ಮೂಳೆಗಳಿರುತ್ತವೆ, ಆದರೆ ಶಿಶುಗಳು ಹುಟ್ಟಿದಾಗ ಸುಮಾರು ೨೭೦ ಮೂಳೆಗಳನ್ನು ಹೊಂದಿದ್ದು, ಬೆಳೆದಂತೆ ಅವು ಒಂದಕ್ಕೊಂದು ಸೇರಿಕೊಳ್ಳುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "gk_science_8",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which animal is commonly known as the \"Ship of the Desert\"?",
+      "options": ["Horse", "Camel", "Donkey", "Elephant"],
+      "answer": "Camel",
+      "reasoning": "Camels are called the 'Ship of the Desert' due to their ability to survive long periods without water and travel across sandy terrain easily."
+    },
+    "kn": {
+      "question": "ಯಾವ ಪ್ರಾಣಿಯನ್ನು ಸಾಮಾನ್ಯವಾಗಿ \"ಮರುಭೂಮಿಯ ಹಡಗು\" ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": ["ಕುದುರೆ", "ಒಂಟೆ", "ಕತ್ತೆ", "ಆನೆ"],
+      "answer": "ಒಂಟೆ",
+      "reasoning": "ಒಂಟೆಗಳು ನೀರಿಲ್ಲದೆ ದೀರ್ಘಕಾಲ ಬದುಕಬಲ್ಲವು ಮತ್ತು ಮರಳಿನ ಮೇಲ್ಮೈಯಲ್ಲಿ ಸುಲಭವಾಗಿ ಚಲಿಸಬಲ್ಲವು, ಆದ್ದರಿಂದ ಅವುಗಳನ್ನು 'ಮರುಭೂಮಿಯ ಹಡಗು' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_9",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the closest star to planet Earth?",
+      "options": ["Alpha Centauri", "Sirius", "The Sun", "Proxima Centauri"],
+      "answer": "The Sun",
+      "reasoning": "The Sun is the closest star to Earth, located at the center of our solar system, providing light and heat."
+    },
+    "kn": {
+      "question": "ಭೂಮಿಗೆ ಅತ್ಯಂತ ಹತ್ತಿರವಿರುವ ನಕ್ಷತ್ರ ಯಾವುದು?",
+      "options": ["ಆಲ್ಫಾ ಸೆಂಟೌರಿ", "ಸಿರಿಯಸ್", "ಸೂರ್ಯ", "ಪ್ರಾಕ್ಸಿಮಾ ಸೆಂಟೌರಿ"],
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಸೂರ್ಯನು ಭೂಮಿಗೆ ಅತ್ಯಂತ ಹತ್ತಿರವಿರುವ ನಕ್ಷತ್ರವಾಗಿದ್ದು, ನಮ್ಮ ಸೌರಮಂಡಲದ ಕೇಂದ್ರದಲ್ಲಿದೆ ಮತ್ತು ನಮಗೆ ಬೆಳಕು ಹಾಗೂ ಶಾಖವನ್ನು ನೀಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_10",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which astronomical object was reclassified from a planet to a dwarf planet in 2006?",
+      "options": ["Ceres", "Pluto", "Eris", "Makemake"],
+      "answer": "Pluto",
+      "reasoning": "In 2006, the International Astronomical Union (IAU) reclassified Pluto as a dwarf planet because it has not cleared its neighboring region of other objects."
+    },
+    "kn": {
+      "question": "೨೦೦೬ ರಲ್ಲಿ ಯಾವ ಖಗೋಳ ಕಾಯವನ್ನು ಗ್ರಹದ ವರ್ಗದಿಂದ ಕುಬ್ಜ ಗ್ರಹ ಎಂದು ಮರುವರ್ಗೀಕರಿಸಲಾಯಿತು?",
+      "options": ["ಸೆರೆಸ್", "ಪ್ಲುಟೊ", "ಎರಿಸ್", "ಮೇಕ್‌ಮೇಕ್"],
+      "answer": "ಪ್ಲುಟೊ",
+      "reasoning": "೨೦೦೬ ರಲ್ಲಿ, ಇಂಟರ್ನ್ಯಾಷನಲ್ ಅಸ್ಟ್ರೋನಾಮಿಕಲ್ ಯೂನಿಯನ್ (IAU) ಪ್ಲುಟೊವನ್ನು ಕುಬ್ಜ ಗ್ರಹ ಎಂದು ಮರುವರ್ಗೀಕರಿಸಿತು ಏಕೆಂದರೆ ಅದು ತನ್ನ ಕಕ್ಷೆಯ ನೆರೆಹೊರೆಯನ್ನು ಇತರ ಕಾಯಗಳಿಂದ ಮುಕ್ತಗೊಳಿಸಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "gk_science_11",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which is the primary source of energy for life on Earth?",
+      "options": ["The Moon", "The Sun", "Volcanoes", "Wind"],
+      "answer": "The Sun",
+      "reasoning": "The Sun provides light and warmth, which plants use to make food, supporting the entire food chain on Earth."
+    },
+    "kn": {
+      "question": "ಭೂಮಿಯ ಮೇಲಿನ ಜೀವಸಂಕುಲಕ್ಕೆ ಶಕ್ತಿಯ ಪ್ರಾಥಮಿಕ ಮೂಲ ಯಾವುದು?",
+      "options": ["ಚಂದ್ರ", "ಸೂರ್ಯ", "ಜ್ವಾಲಾಮುಖಿಗಳು", "ಗಾಳಿ"],
+      "answer": "ಸೂರ್ಯ",
+      "reasoning": "ಸೂರ್ಯನು ನಮಗೆ ಬೆಳಕು ಮತ್ತು ಉಷ್ಣತೆಯನ್ನು ನೀಡುತ್ತಾನೆ. ಸಸ್ಯಗಳು ಇದನ್ನು ಆಹಾರ ತಯಾರಿಸಲು ಬಳಸುತ್ತವೆ, ಇದು ಭೂಮಿಯ ಮೇಲಿನ ಸಂಪೂರ್ಣ ಆಹಾರ ಸರಪಳಿಯನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_12",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is a scientist who studies rocks, minerals, and Earth's physical structure called?",
+      "options": ["Biologist", "Chemist", "Geologist", "Meteorologist"],
+      "answer": "Geologist",
+      "reasoning": "A geologist studies the physical history, materials, and structure of the Earth, including its rocks and minerals."
+    },
+    "kn": {
+      "question": "ಬಂಡೆಗಳು, ಖನಿಜಗಳು ಮತ್ತು ಭೂಮಿಯ ರಚನೆಯನ್ನು ಅಧ್ಯಯನ ಮಾಡುವ ವಿಜ್ಞಾನಿಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಜೀವವಿಜ್ಞಾನಿ", "ರಸಾಯನವಿಜ್ಞಾನಿ", "ಭೂವಿಜ್ಞಾನಿ", "ಹವಾಮಾನಶಾಸ್ತ್ರಜ್ಞ"],
+      "answer": "ಭೂವಿಜ್ಞಾನಿ",
+      "reasoning": "ಭೂವಿಜ್ಞಾನಿಯು ಬಂಡೆಗಳು, ಖನಿಜಗಳು ಮತ್ತು ಭೂವೈಜ್ಞಾನಿಕ ಪ್ರಕ್ರಿಯೆಗಳನ್ನು ಒಳಗೊಂಡಂತೆ ಭೂಮಿಯ ಭೌತಿಕ ಇತಿಹಾಸ ಮತ್ತು ರಚನೆಯನ್ನು ಅಧ್ಯಯನ ಮಾಡುತ್ತಾನೆ."
+    }
+  },
+  {
+    "id": "gk_science_13",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following are primary colors of light in physics? Select all that apply.",
+      "options": ["Red", "Yellow", "Green", "Blue"],
+      "answer": ["Red", "Green", "Blue"],
+      "reasoning": "In physics and optical systems, the primary colors of light are Red, Green, and Blue (RGB), which combine to form white light."
+    },
+    "kn": {
+      "question": "ಭೌತಶಾಸ್ತ್ರದಲ್ಲಿ ಇವುಗಳಲ್ಲಿ ಯಾವುವು ಬೆಳಕಿನ ಪ್ರಾಥಮಿಕ ಬಣ್ಣಗಳಾಗಿವೆ? ಸೂಕ್ತವಾದ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": ["ಕೆಂಪು", "ಹಳದಿ", "ಹಸಿರು", "ನೀಲಿ"],
+      "answer": ["ಕೆಂಪು", "ಹಸಿರು", "ನೀಲಿ"],
+      "reasoning": "ಭೌತಶಾಸ್ತ್ರ ಮತ್ತು ಆಪ್ಟಿಕಲ್ ವ್ಯವಸ್ಥೆಗಳಲ್ಲಿ, ಬೆಳಕಿನ ಪ್ರಾಥಮಿಕ ಬಣ್ಣಗಳು ಕೆಂಪು, ಹಸಿರು ಮತ್ತು ನೀಲಿ (RGB) ಆಗಿದ್ದು, ಇವು ಒಟ್ಟಾಗಿ ಸೇರಿದಾಗ ಬಿಳಿ ಬೆಳಕನ್ನು ರೂಪಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "gk_science_14",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following animals are classified as mammals? Select all that apply.",
+      "options": ["Whale", "Frog", "Bat", "Elephant"],
+      "answer": ["Whale", "Bat", "Elephant"],
+      "reasoning": "Whales, bats, and elephants are mammals because they are warm-blooded, have hair/fur, and nurse their young with milk. Frogs are amphibians."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಯಾವ ಪ್ರಾಣಿಗಳನ್ನು ಸಸ್ತನಿಗಳು ಎಂದು ವರ್ಗೀಕರಿಸಲಾಗಿದೆ? ಸೂಕ್ತವಾದ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": ["ತಿಮಿಂಗಿಲ", "ಕಪ್ಪೆ", "ಬಾವಲಿ", "ಆನೆ"],
+      "answer": ["ತಿಮಿಂಗಿಲ", "ಬಾವಲಿ", "ಆನೆ"],
+      "reasoning": "ತಿಮಿಂಗಿಲಗಳು, ಬಾವಲಿಗಳು ochu ಆನೆಗಳು ಸಸ್ತನಿಗಳಾಗಿವೆ ಏಕೆಂದರೆ ಅವು ಉಷ್ಣರಕ್ತದ ಪ್ರಾಣಿಗಳಾಗಿದ್ದು, ತಮ್ಮ ಮರಿಗಳಿಗೆ ಹಾಲೂಡಿಸುತ್ತವೆ. ಕಪ್ಪೆ ಉಭಯಚರವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "gk_science_15",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following are planets in our Solar System? Select all that apply.",
+      "options": ["Jupiter", "The Moon", "Saturn", "Neptune"],
+      "answer": ["Jupiter", "Saturn", "Neptune"],
+      "reasoning": "Jupiter, Saturn, and Neptune are planets orbiting the Sun. The Moon is Earth's natural satellite, not a planet."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ನಮ್ಮ ಸೌರಮಂಡಲದ ಗ್ರಹಗಳಾಗಿವೆ? ಸೂಕ್ತವಾದ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": ["ಗುರು", "ಚಂದ್ರ", "ಶನಿ", "ನೆಪ್ಚೂನ್"],
+      "answer": ["ಗುರು", "ಶನಿ", "ನೆಪ್ಚೂನ್"],
+      "reasoning": "ಗುರು, ಶನಿ ಮತ್ತು ನೆಪ್ಚೂನ್‌ಗಳು ಸೂರ್ಯನ ಸುತ್ತ ಸುತ್ತುವ ಗ್ರಹಗಳಾಗಿವೆ. ಚಂದ್ರನು ಭೂಮಿಯ ನೈಸರ್ಗಿಕ ಉಪಗ್ರಹವೇ ಹೊರತು ಗ್ರಹವಲ್ಲ."
+    }
+  },
+  {
+    "id": "gk_science_16",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match the following animals with their natural habitats.",
+      "pairs": [
+        {"left": "Camel", "right": "Hot Desert"},
+        {"left": "Polar Bear", "right": "Icy Arctic"},
+        {"left": "Dolphin", "right": "Saltwater Ocean"},
+        {"left": "Monkey", "right": "Forest Canopy"}
+      ],
+      "reasoning": "Camels live in hot deserts; polar bears reside in icy Arctic regions; dolphins swim in oceans; and monkeys inhabit forest canopies."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಪ್ರಾಣಿಗಳನ್ನು ಅವುಗಳ ನೈಸರ್ಗಿಕ ಆವಾಸಸ್ಥಾನಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಒಂಟೆ", "right": "ಬಿಸಿ ಮರುಭೂಮಿ"},
+        {"left": "ಹಿಮಕರಡಿ", "right": "ಹಿಮಾವೃತ ಆರ್ಕ್ಟಿಕ್"},
+        {"left": "ಡಾಲ್ಫಿನ್", "right": "ಉಪ್ಪು ನೀರಿನ ಸಾಗರ"},
+        {"left": "ಕೋತಿ", "right": "ಕಾಡಿನ ಮೇಲಾವರಣ"}
+      ],
+      "reasoning": "ಒಂಟೆಗಳು ಬಿಸಿ ಮರುಭೂಮಿಗಳಲ್ಲಿ ವಾಸಿಸುತ್ತವೆ; ಹಿಮಕರಡಿಗಳು ಹಿಮಾವೃತ ಆರ್ಕ್ಟಿಕ್ ಪ್ರದೇಶಗಳಲ್ಲಿರುತ್ತವೆ; ಡಾಲ್ಫಿನ್‌ಗಳು ಸಾಗರದಲ್ಲಿ ಈಜುತ್ತವೆ ಮತ್ತು ಕೋತಿಗಳು ಕಾಡಿನ ಮರಗಳ ಮೇಲೆ ವಾಸಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "gk_science_17",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match the human organ with its corresponding organ system.",
+      "pairs": [
+        {"left": "Heart", "right": "Circulatory System"},
+        {"left": "Lungs", "right": "Respiratory System"},
+        {"left": "Brain", "right": "Nervous System"},
+        {"left": "Stomach", "right": "Digestive System"}
+      ],
+      "reasoning": "The heart pumps blood (circulatory); lungs exchange gases (respiratory); brain processes signals (nervous); and stomach breaks down food (digestive)."
+    },
+    "kn": {
+      "question": "ಮಾನವನ ಅಂಗವನ್ನು ಅದಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಅಂಗವ್ಯೂಹದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಹೃದಯ", "right": "ರಕ್ತಪರಿಚಲನಾ ವ್ಯೂಹ"},
+        {"left": "ಶ್ವಾಸಕೋಶಗಳು", "right": "ಉಸಿರಾಟದ ವ್ಯೂಹ"},
+        {"left": "ಮಿದುಳು", "right": "ನರವ್ಯೂಹ"},
+        {"left": "ಜಠರ", "right": "ಜೀರ್ಣಾಂಗ ವ್ಯೂಹ"}
+      ],
+      "reasoning": "ಹೃದಯವು ರಕ್ತವನ್ನು ಪಂಪ್ ಮಾಡುತ್ತದೆ; ಶ್ವಾಸಕೋಶಗಳು ಅನಿಲ ವಿನಿಮಯ ಮಾಡುತ್ತವೆ; ಮಿದುಳು ಸಂಕೇತಗಳನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಜಠರವು ಆಹಾರವನ್ನು ಜೀರ್ಣಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_18",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Which blood cells in the human body are responsible for fighting infections?",
+      "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+      "answer": "White blood cells",
+      "reasoning": "White blood cells (leukocytes) are key players in the immune system, helping defend the body against bacteria, viruses, and other pathogens."
+    },
+    "kn": {
+      "question": "ಮಾನವ ದೇಹದ ಯಾವ ರಕ್ತಕಣಗಳು ಸೋಂಕುಗಳ ವಿರುದ್ಧ ಹೋರಾಡಲು ಕಾರಣವಾಗಿವೆ?",
+      "options": ["ಕೆಂಪು ರಕ್ತಕಣಗಳು", "ಬಿಳಿ ರಕ್ತಕಣಗಳು", "ಪ್ಲೇಟ್‌ಲೆಟ್‌ಗಳು", "ಪ್ಲಾಸ್ಮಾ"],
+      "answer": "ಬಿಳಿ ರಕ್ತಕಣಗಳು",
+      "reasoning": "ಬಿಳಿ ರಕ್ತಕಣಗಳು ರೋಗನಿರೋಧಕ ವ್ಯವಸ್ಥೆಯ ಪ್ರಮುಖ ಅಂಗವಾಗಿದ್ದು, ದೇಹವನ್ನು ಬ್ಯಾಕ್ಟೀರಿಯಾ, ವೈರಸ್‌ಗಳು ಮತ್ತು ಇತರ ರೋಗಕಾರಕಗಳ ವಿರುದ್ಧ ರಕ್ಷಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "gk_science_19",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What is the chemical formula for pure water?",
+      "options": ["CO2", "NaCl", "H2O", "H2O2"],
+      "answer": "H2O",
+      "reasoning": "The chemical formula for water is H2O, meaning each water molecule consists of two hydrogen atoms bonded to one oxygen atom."
+    },
+    "kn": {
+      "question": "ಶುದ್ಧ ನೀರಿನ ರಾಸಾಯನಿಕ ಸೂತ್ರ ಏನು?",
+      "options": ["CO2", "NaCl", "H2O", "H2O2"],
+      "answer": "H2O",
+      "reasoning": "ನೀರಿನ ರಾಸಾಯನಿಕ ಸೂತ್ರ H2O ಆಗಿದೆ, ಅಂದರೆ ಪ್ರತಿ ನೀರಿನ ಅಣುವು ಎರಡು ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳು ಮತ್ತು ಒಂದು ಆಕ್ಸಿಜನ್ ಪರಮಾಣುವಿನೊಂದಿಗೆ ಬಂಧಿತವಾಗಿ ಸಂಯೋಜನೆಗೊಂಡಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_20",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Which pigment gives plants their green color and absorbs light for photosynthesis?",
+      "options": ["Carotenoid", "Chlorophyll", "Melanin", "Anthocyanin"],
+      "answer": "Chlorophyll",
+      "reasoning": "Chlorophyll is the green pigment in chloroplasts that absorbs light energy, primarily blue and red wavelengths, to drive photosynthesis."
+    },
+    "kn": {
+      "question": "ಯಾವ ವರ್ಣದ್ರವ್ಯವು ಸಸ್ಯಗಳಿಗೆ ಹಸಿರು ಬಣ್ಣವನ್ನು ನೀಡುತ್ತದೆ ಮತ್ತು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಗೆ ಬೆಳಕನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ?",
+      "options": ["ಕ್ಯಾರೊಟಿನಾಯ್ಡ್", "ಕ್ಲೋರೊಫಿಲ್", "ಮೆಲನಿನ್", "ಆಂಥೋಸಯಾನಿನ್"],
+      "answer": "ಕ್ಲೋರೊಫಿಲ್",
+      "reasoning": "ಕ್ಲೋರೊಫಿಲ್ ಎಲೆಗಳ ಹರಿತ್ಕಣಗಳಲ್ಲಿರುವ ಹಸಿರು ವರ್ಣದ್ರವ್ಯವಾಗಿದ್ದು, ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯನ್ನು ನಡೆಸಲು ಬೆಳಕಿನ ಶಕ್ತಿಯನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_21",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Which instrument is used to measure atmospheric pressure?",
+      "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+      "answer": "Barometer",
+      "reasoning": "A barometer measures atmospheric pressure, which is critical for weather forecasting and meteorology."
+    },
+    "kn": {
+      "question": "ವಾತಾವರಣದ ಒತ್ತಡವನ್ನು ಅಳೆಯಲು ಯಾವ ಉಪಕರಣವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "options": ["ಥರ್ಮಾಮೀಟರ್", "ಬಾರೋಮೀಟರ್", "ಹೈಗ್ರೋಮೀಟರ್", "ಅನಿಮೋಮೀಟರ್"],
+      "answer": "ಬಾರೋಮೀಟರ್",
+      "reasoning": "ಬಾರೋಮೀಟರ್ ವಾತಾವರಣದ ಒತ್ತಡವನ್ನು ಅಳೆಯಲು ಬಳಸುವ ಉಪಕರಣವಾಗಿದ್ದು, ಇದು ಹವಾಮಾನ ಮುನ್ಸೂಚನೆಗೆ ಅತ್ಯಂತ ಮುಖ್ಯವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "gk_science_22",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Approximately what is the speed of light in a vacuum?",
+      "options": ["150,000 km/s", "300,000 km/s", "450,000 km/s", "600,000 km/s"],
+      "answer": "300,000 km/s",
+      "reasoning": "Light travels at a speed of approximately 299,792 kilometers per second (commonly rounded to 300,000 km/s) in a vacuum."
+    },
+    "kn": {
+      "question": "ನಿರ್ವಾತದಲ್ಲಿ ಬೆಳಕಿನ ವೇಗವು ಸರಿಸುಮಾರು ಎಷ್ಟಿರುತ್ತದೆ?",
+      "options": ["ಸೆಕೆಂಡಿಗೆ ೧,೫೦,೦೦೦ ಕಿ.ಮೀ", "ಸೆಕೆಂಡಿಗೆ ೩,೦೦,೦೦೦ ಕಿ.ಮೀ", "ಸೆಕೆಂಡಿಗೆ ೪,೫೦,೦೦೦ ಕಿ.ಮೀ", "ಸೆಕೆಂಡಿಗೆ ೬,೦೦,೦೦೦ ಕಿ.ಮೀ"],
+      "answer": "ಸೆಕೆಂಡಿಗೆ ೩,೦೦,೦೦೦ ಕಿ.ಮೀ",
+      "reasoning": "ಬೆಳಕು ನಿರ್ವಾತ ಪ್ರದೇಶದಲ್ಲಿ ಸೆಕೆಂಡಿಗೆ ಸುಮಾರು ೩,೦೦,೦೦೦ ಕಿಲೋಮೀಟರ್ ವೇಗದಲ್ಲಿ ಚಲಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_23",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Which is the hottest planet in our solar system?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "answer": "Venus",
+      "reasoning": "Although Mercury is closer to the Sun, Venus is the hottest planet because of its thick atmosphere that traps heat through a greenhouse effect."
+    },
+    "kn": {
+      "question": "ನಮ್ಮ ಸೌರಮಂಡಲದ ಅತ್ಯಂತ ಬಿಸಿಯಾದ ಗ್ರಹ ಯಾವುದು?",
+      "options": ["ಬುಧ", "ಶುಕ್ರ", "ಮಂಗಳ", "ಗುರು"],
+      "answer": "ಶುಕ್ರ",
+      "reasoning": "ಬುಧ ಗ್ರಹವು ಸೂರ್ಯನಿಗೆ ಅತ್ಯಂತ ಹತ್ತಿರದಲ್ಲಿದ್ದರೂ, ಶುಕ್ರವು ದಟ್ಟವಾದ ವಾತಾವರಣವನ್ನು ಹೊಂದಿದ್ದು, ಹಸಿರುಮನೆ ಪರಿಣಾಮದಿಂದಾಗಿ ಅತಿ ಹೆಚ್ಚು ಶಾಖವನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_24",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Which part of the human brain controls muscle coordination, balance, and posture?",
+      "options": ["Cerebrum", "Cerebellum", "Brainstem", "Thalamus"],
+      "answer": "Cerebellum",
+      "reasoning": "The cerebellum coordinates voluntary movement, balance, and posture, helping in actions like walking or writing."
+    },
+    "kn": {
+      "question": "ಮಾನವ ಮಿದುಳಿನ ಯಾವ ಭಾಗವು ಸ್ನಾಯುಗಳ ಚಲನೆಗಳ ಸಮನ್ವಯ, ಸಮತೋಲನ ಮತ್ತು ಭಂಗಿಯನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ?",
+      "options": ["ಪ್ರಮಸ್ತಿಷ್ಕ (ಸೆರೆಬ್ರಮ್)", "ಅನುಮಸ್ತಿಷ್ಕ (ಸೆರೆಬೆಲ್ಲಮ್)", "ಮಿದುಳು ಕಾಂಡ", "ಥಾಲಮಸ್"],
+      "answer": "ಅನುಮಸ್ತಿಷ್ಕ (ಸೆರೆಬೆಲ್ಲಮ್)",
+      "reasoning": "ಅನುಮಸ್ತಿಷ್ಕವು ಶರೀರದ ಸಮತೋಲನ, ಭಂಗಿ ಮತ್ತು ಸ್ವಯಂಪ್ರೇರಿತ ಸ್ನಾಯುಗಳ ಚಲನೆಗಳ ಸಮನ್ವಯವನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_25",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Which layer of Earth's atmosphere contains the ozone layer that protects us from ultraviolet rays?",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "answer": "Stratosphere",
+      "reasoning": "The ozone layer is located in the stratosphere, absorbing most of the Sun's harmful ultraviolet (UV) radiation."
+    },
+    "kn": {
+      "question": "ಭೂಮಿಯ ವಾತಾವರಣದ ಯಾವ ಪದರದಲ್ಲಿ ನಮ್ಮನ್ನು ನೇರಳಾತೀತ ಕಿರಣಗಳಿಂದ ರಕ್ಷಿಸುವ ಓಝೋನ್ ಪದರ ಇದೆ?",
+      "options": ["ಪರಿವರ್ತನ ಮಂಡಲ (ಟ್ರಾಪೋಸ್ಪಿಯರ್)", "ಸಮತಾಪ ಮಂಡಲ (ಸ್ಟ್ರಾಟೋಸ್ಪಿಯರ್)", "ಮಧ್ಯಂತರ ಮಂಡಲ (ಮಿಸೋಸ್ಪಿಯರ್)", "ಉಷ್ಣತಾ ಮಂಡಲ (ಥರ್ಮೋಸ್ಪಿಯರ್)"],
+      "answer": "ಸಮತಾಪ ಮಂಡಲ (ಸ್ಟ್ರಾಟೋಸ್ಪಿಯರ್)",
+      "reasoning": "ಓಝೋನ್ ಪದರವು ಸಮತಾಪ ಮಂಡಲದಲ್ಲಿ ನೆಲೆಗೊಂಡಿದ್ದು, ಇದು ಸೂರ್ಯನಿಂದ ಬರುವ ಹಾನಿಕಾರಕ ನೇರಳಾತೀತ (UV) ವಿಕಿರಣದ ಬಹುಪಾಲು ಭಾಗವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_26",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What is the primary chemical element that makes up a diamond?",
+      "options": ["Carbon", "Silicon", "Sulfur", "Germanium"],
+      "answer": "Carbon",
+      "reasoning": "A diamond is a solid form of the element carbon with its atoms arranged in a crystal structure."
+    },
+    "kn": {
+      "question": "ವಜ್ರವನ್ನು ರೂಪಿಸುವ ಪ್ರಾಥಮಿಕ ರಾಸಾಯನಿಕ ಮೂಲಧಾತು ಯಾವುದು?",
+      "options": ["ಇಂಗಾಲ (ಕಾರ್ಬನ್)", "ಸಿಲಿಕಾನ್", "ಗಂಧಕ (ಸಲ್ಫರ್)", "ಜರ್ಮೇನಿಯಮ್"],
+      "answer": "ಇಂಗಾಲ (ಕಾರ್ಬನ್)",
+      "reasoning": "ವಜ್ರವು ಕಾರ್ಬನ್ ಮೂಲಧಾತುವಿನ ಶುದ್ಧ ಹರಳು ರೂಪವಾಗಿದ್ದು, ಅದರ ಪರಮಾಣುಗಳು ಸ್ಫಟಿಕದಂತೆ ಜೋಡಿಸಲ್ಪಟ್ಟಿರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "gk_science_27",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Which of these animals has the longest lifespan among all vertebrates?",
+      "options": ["Galapagos Tortoise", "Bowhead Whale", "Greenland Shark", "Red Sea Urchin"],
+      "answer": "Greenland Shark",
+      "reasoning": "The Greenland shark is the longest-living vertebrate on Earth, with some individuals estimated to live for at least 250 to 500 years."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಪ್ರಾಣಿಗಳಲ್ಲಿ ಯಾವುದು ಕಶೇರುಕಗಳಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಜೀವಿತಾವಧಿಯನ್ನು ಹೊಂದಿದೆ?",
+      "options": ["ಗ್ಯಾಲಪಗೋಸ್ ಆಮೆ", "ಬೋಹೆಡ್ ತಿಮಿಂಗಿಲ", "ಗ್ರೀನ್‌ಲ್ಯಾಂಡ್ ಶಾರ್ಕ್", "ಕೆಂಪು ಸಮುದ್ರದ ಅರ್ಚಿನ್"],
+      "answer": "ಗ್ರೀನ್‌ಲ್ಯಾಂಡ್ ಶಾರ್ಕ್",
+      "reasoning": "ಗ್ರೀನ್‌ಲ್ಯಾಂಡ್ ಶಾರ್ಕ್ ಭೂಮಿಯ ಮೇಲಿನ ಅತಿ ಹೆಚ್ಚು ಕಾಲ ಬದುಕುವ ಕಶೇರುಕ ಪ್ರಾಣಿಯಾಗಿದ್ದು, ಇದು ಕನಿಷ್ಠ ೨೫೦ ರಿಂದ ೫೦೦ ವರ್ಷಗಳವರೆಗೆ ಜೀವಿಸುತ್ತದೆ ಎಂದು ಅಂದಾಜಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "gk_science_28",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What is the process called when liquid water turns into water vapor due to heat?",
+      "options": ["Condensation", "Evaporation", "Precipitation", "Sublimation"],
+      "answer": "Evaporation",
+      "reasoning": "Evaporation is the process of a liquid turning into a gas (vapor) when heated, which is a key component of the water cycle."
+    },
+    "kn": {
+      "question": "ಶಾಖದ ಕಾರಣದಿಂದಾಗಿ ದ್ರವ ನೀರು ನೀರಿನ ಆವಿಯಾಗಿ ಬದಲಾಗುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಘನೀಕರಣ", "ಬಾಷ್ಪೀಕರಣ", "ಮಳೆ ಬೀಳುವಿಕೆ", "ಉತ್ಪತನ"],
+      "answer": "ಬಾಷ್ಪೀಕರಣ",
+      "reasoning": "ಬಾಷ್ಪೀಕರಣವು ಬಿಸಿಯಾದಾಗ ದ್ರವವು ಅನಿಲವಾಗಿ (ಆವಿ) ಬದಲಾಗುವ ಪ್ರಕ್ರಿಯೆಯಾಗಿದ್ದು, ಇದು ಜಲಚಕ್ರದ ಪ್ರಮುಖ ಭಾಗವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "gk_science_29",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What is the scientific study of birds called?",
+      "options": ["Entomology", "Herpetology", "Ornithology", "Ichthyology"],
+      "answer": "Ornithology",
+      "reasoning": "Ornithology is the branch of zoology that focuses on the study of birds, including their behavior, physiology, and habitats."
+    },
+    "kn": {
+      "question": "ಪಕ್ಷಿಗಳ ಬಗ್ಗೆ ವೈಜ್ಞಾನಿಕ ಅಧ್ಯಯನ ಮಾಡುವುದನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಕೀಟಶಾಸ್ತ್ರ (ಎಂಟಮಾಲಜಿ)", "ಸರಿಸೃಪಶಾಸ್ತ್ರ (ಹರ್ಪಿಟಾಲಜಿ)", "ಪಕ್ಷಿಶಾಸ್ತ್ರ (ಆರ್ನಿಥಾಲಜಿ)", "ಮೀನುಶಾಸ್ತ್ರ (ಇಚ್ಥಿಯಾಲಜಿ)"],
+      "answer": "ಪಕ್ಷಿಶಾಸ್ತ್ರ (ಆರ್ನಿಥಾಲಜಿ)",
+      "reasoning": "ಆರ್ನಿಥಾಲಜಿ (ಪಕ್ಷಿಶಾಸ್ತ್ರ) ಎಂಬುದು ಪ್ರಾಣಿಶಾಸ್ತ್ರದ ಒಂದು ಶಾಖೆಯಾಗಿದ್ದು, ಇದು ಪಕ್ಷಿಗಳ ನಡವಳಿಕೆ, ಶರೀರಶಾಸ್ತ್ರ ಮತ್ತು ಆವಾಸಸ್ಥಾನಗಳ ಅಧ್ಯಯನದ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_30",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following are greenhouse gases that trap heat in Earth's atmosphere? Select all that apply.",
+      "options": ["Carbon Dioxide", "Oxygen", "Methane", "Water Vapor"],
+      "answer": ["Carbon Dioxide", "Methane", "Water Vapor"],
+      "reasoning": "Carbon dioxide, methane, and water vapor are greenhouse gases that absorb infrared radiation and trap heat in the atmosphere. Oxygen is not a greenhouse gas."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಭೂಮಿಯ ವಾತಾವರಣದಲ್ಲಿ ಅತಿಗೆಂಪು ವಿಕಿರಣವನ್ನು ಹೀರಿಕೊಂಡು ಶಾಖವನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವ ಹಸಿರುಮನೆ ಅನಿಲಗಳಾಗಿವೆ? ಸೂಕ್ತವಾದ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": ["ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್", "ಆಮ್ಲಜನಕ", "ಮಿಥೇನ್", "ನೀರಿನ ಆವಿ"],
+      "answer": ["ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್", "ಮಿಥೇನ್", "ನೀರಿನ ಆವಿ"],
+      "reasoning": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್, ಮಿಥೇನ್ ಮತ್ತು ನೀರಿನ ಆವಿಗಳು ಹಸಿರುಮನೆ ಅನಿಲಗಳಾಗಿದ್ದು, ಇವು ವಾತಾವರಣದಲ್ಲಿ ಉಷ್ಣತೆಯನ್ನು ಹಿಡಿದಿಡುತ್ತವೆ. ಆಮ್ಲಜನಕವು ಹಸಿರುಮನೆ ಅನಿಲವಲ್ಲ."
+    }
+  },
+  {
+    "id": "gk_science_31",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following birds are flightless? Select all that apply.",
+      "options": ["Penguin", "Eagle", "Ostrich", "Kiwi"],
+      "answer": ["Penguin", "Ostrich", "Kiwi"],
+      "reasoning": "Penguins, ostriches, and kiwis are birds that cannot fly, having evolved instead for swimming or running. Eagles are capable of flight."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಪಕ್ಷಿಗಳಲ್ಲಿ ಯಾವುವು ಹಾರಲಾರದ ಪಕ್ಷಿಗಳಾಗಿವೆ? ಸೂಕ್ತವಾದ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": ["ಪೆಂಗ್ವಿನ್", "ಹದ್ದು", "ಉಷ್ಟ್ರಪಕ್ಷಿ (ಆಸ್ಟ್ರಿಚ್)", "ಕಿವಿ"],
+      "answer": ["ಪೆಂಗ್ವಿನ್", "ಉಷ್ಟ್ರಪಕ್ಷಿ (ಆಸ್ಟ್ರಿಚ್)", "ಕಿವಿ"],
+      "reasoning": "ಪೆಂಗ್ವಿನ್‌ಗಳು, ಆಸ್ಟ್ರಿಚ್‌ಗಳು ಮತ್ತು ಕಿವಿಗಳು ಹಾರುವ ಸಾಮರ್ಥ್ಯ ಹೊಂದಿಲ್ಲದೆ ತಮ್ಮ ಪರಿಸರಕ್ಕೆ ಹೊಂದಿಕೊಂಡಿರುವ ಪಕ್ಷಿಗಳಾಗಿವೆ. ಹದ್ದುಗಳು ಹಾರಬಲ್ಲವು."
+    }
+  },
+  {
+    "id": "gk_science_32",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which chemical elements are the components of a water molecule? Select all that apply.",
+      "options": ["Hydrogen", "Carbon", "Oxygen", "Nitrogen"],
+      "answer": ["Hydrogen", "Oxygen"],
+      "reasoning": "A water molecule (H2O) is composed of two hydrogen atoms and one oxygen atom."
+    },
+    "kn": {
+      "question": "ನೀರಿನ ಅಣು ಯಾವ ರಾಸಾಯನಿಕ ಮೂಲಧಾತುಗಳಿಂದ ರಚಿತವಾಗಿದೆ? ಸೂಕ್ತವಾದ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": ["ಹೈಡ್ರೋಜನ್", "ಕಾರ್ಬನ್", "ಆಕ್ಸಿಜನ್", "ನೈಟ್ರೋಜನ್"],
+      "answer": ["ಹೈಡ್ರೋಜನ್", "ಆಕ್ಸಿಜನ್"],
+      "reasoning": "ನೀರಿನ ಒಂದು ಅಣುವು (H2O) ಎರಡು ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳು ಮತ್ತು ಒಂದು ಆಕ್ಸಿಜನ್ ಪರಮಾಣುವನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_33",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the following vitamins with their corresponding deficiency diseases.",
+      "pairs": [
+        {"left": "Vitamin A", "right": "Night blindness"},
+        {"left": "Vitamin C", "right": "Scurvy"},
+        {"left": "Vitamin D", "right": "Rickets"},
+        {"left": "Vitamin B1", "right": "Beriberi"}
+      ],
+      "reasoning": "Vitamin A deficiency causes night blindness; Vitamin C causes scurvy; Vitamin D causes rickets (weak bones); and Vitamin B1 causes beriberi."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಜೀವಸತ್ವಗಳನ್ನು ಅವುಗಳ ಕೊರತೆಯಿಂದ ಬರುವ ರೋಗಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಜೀವಸತ್ವ ಎ", "right": "ಇರುಳು ಕುರುಡುತನ"},
+        {"left": "ಜೀವಸತ್ವ ಸಿ", "right": "ಸ್ಕರ್ವಿ"},
+        {"left": "ಜೀವಸತ್ವ ಡಿ", "right": "ರಿಕೆಟ್ಸ್"},
+        {"left": "ಜೀವಸತ್ವ ಬಿ೧", "right": "ಬೆರಿಬೆರಿ"}
+      ],
+      "reasoning": "ಜೀವಸತ್ವ ಎ ಕೊರತೆಯು ಇರುಳು ಕುರುಡುತನಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ; ಜೀವಸತ್ವ ಸಿ ಕೊರತೆಯು ಸ್ಕರ್ವಿಗೆ; ಜೀವಸತ್ವ ಡಿ ರಿಕೆಟ್ಸ್‌ಗೆ ಮತ್ತು ಜೀವಸತ್ವ ಬಿ೧ ಬೆರಿಬೆರಿ ರೋಗಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_34",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the scientific instrument with the parameter it measures.",
+      "pairs": [
+        {"left": "Thermometer", "right": "Temperature"},
+        {"left": "Anemometer", "right": "Wind speed"},
+        {"left": "Seismograph", "right": "Earthquake vibrations"},
+        {"left": "Hygrometer", "right": "Atmospheric humidity"}
+      ],
+      "reasoning": "Thermometers measure temperature; anemometers measure wind speed; seismographs detect earthquake vibrations; and hygrometers measure humidity."
+    },
+    "kn": {
+      "question": "ಪ್ರತಿ ವೈಜ್ಞಾನಿಕ ಉಪಕರಣವನ್ನು ಅದು ಅಳೆಯಲು ಬಳಸುವ ನಿಯತಾಂಕದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಥರ್ಮಾಮೀಟರ್", "right": "ತಾಪಮಾನ"},
+        {"left": "ಅನಿಮೋಮೀಟರ್", "right": "ಗಾಳಿಯ ವೇಗ"},
+        {"left": "ಸೀಸ್ಮೋಗ್ರಾಫ್", "right": "ಭೂಕಂಪದ ಕಂಪನಗಳು"},
+        {"left": "ಹೈಗ್ರೋಮೀಟರ್", "right": "ವಾತಾವರಣದ ತೇವಾಂಶ"}
+      ],
+      "reasoning": "ಥರ್ಮಾಮೀಟರ್ ತಾಪಮಾನವನ್ನು ಅಳೆಯುತ್ತದೆ; ಅನಿಮೋಮೀಟರ್ ಗಾಳಿಯ ವೇಗವನ್ನು ಅಳೆಯುತ್ತದೆ; ಸೀಸ್ಮೋಗ್ರಾಫ್ ಭೂಕಂಪದ ಕಂಪನಗಳನ್ನು ಪತ್ತೆ ಮಾಡುತ್ತದೆ ಮತ್ತು ಹೈಗ್ರೋಮೀಟರ್ ತೇವಾಂಶವನ್ನು ಅಳೆಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_35",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Which is the only metal that remains in a liquid state at standard room temperature?",
+      "options": ["Gallium", "Mercury", "Bromine", "Cesium"],
+      "answer": "Mercury",
+      "reasoning": "Mercury has a very low melting point (-38.83°C), allowing it to remain liquid at standard room temperature. Bromine is also liquid, but it is a non-metal."
+    },
+    "kn": {
+      "question": "ಸಾಮಾನ್ಯ ಕೋಣೆಯ ತಾಪಮಾನದಲ್ಲಿ ದ್ರವ ಸ್ಥಿತಿಯಲ್ಲಿರುವ ಏಕೈಕ ಲೋಹ ಯಾವುದು?",
+      "options": ["ಗ್ಯಾಲಿಯಂ", "ಪಾದರಸ (ಮರ್ಕ್ಯುರಿ)", "ಬ್ರೋಮಿನ್", "ಸೀಸಿಯಮ್"],
+      "answer": "ಪಾದರಸ (ಮರ್ಕ್ಯುರಿ)",
+      "reasoning": "ಪಾದರಸವು ಅತ್ಯಂತ ಕಡಿಮೆ ಕರಗುವ ಬಿಂದುವನ್ನು ಹೊಂದಿರುವುದರಿಂದ ಇದು ಕೋಣೆಯ ತಾಪಮಾನದಲ್ಲಿ ದ್ರವವಾಗಿರುತ್ತದೆ. ಬ್ರೋಮಿನ್ ಕೂಡ ದ್ರವವಾಗಿದೆ, ಆದರೆ ಅದು ಅಲೋಹವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "gk_science_36",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "What is the SI unit of electrical resistance?",
+      "options": ["Volt", "Ampere", "Ohm", "Watt"],
+      "answer": "Ohm",
+      "reasoning": "The Ohm (symbol Ω) is the SI unit of electrical resistance, named after the German physicist Georg Simon Ohm."
+    },
+    "kn": {
+      "question": "ವಿದ್ಯುತ್ ರೋಧದ (electrical resistance) ಎಸ್‌ಐ (SI) ಘಟಕ ಯಾವುದು?",
+      "options": ["ವೋಲ್ಟ್", "ಆಂಪಿಯರ್", "ಓಮ್", "ವ್ಯಾಟ್"],
+      "answer": "ಓಮ್",
+      "reasoning": "ವಿದ್ಯುತ್ ರೋಧದ ಎಸ್‌ಐ (SI) ಘಟಕವನ್ನು 'ಓಮ್' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಜರ್ಮನ್ ಭೌತವಿಜ್ಞಾನಿ ಜಾರ್ಜ್ ಸೈಮನ್ ಓಮ್ ಅವರ ಹೆಸರನ್ನು ಇದಕ್ಕೆ ಇಡಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "gk_science_37",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Which physical law states that 'for every action, there is an equal and opposite reaction'?",
+      "options": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Universal Gravitation"],
+      "answer": "Newton's Third Law",
+      "reasoning": "Newton's Third Law of Motion states that forces always occur in matched pairs; when one body exerts a force on a second, the second exerts an equal and opposite force."
+    },
+    "kn": {
+      "question": "'ಪ್ರತಿಯೊಂದು ಕ್ರಿಯೆಗೂ ಸಮನಾದ ಮತ್ತು ವಿರುದ್ಧವಾದ ಪ್ರತಿಕ್ರಿಯೆ ಇರುತ್ತದೆ' ಎಂದು ಯಾವ ನಿಯಮವು ಹೇಳುತ್ತದೆ?",
+      "options": ["ನ್ಯೂಟನ್‌ನ ಮೊದಲ ನಿಯಮ", "ನ್ಯೂಟನ್‌ನ ಎರಡನೇ ನಿಯಮ", "ನ್ಯೂಟನ್‌ನ ಮೂರನೇ ನಿಯಮ", "ಸಾರ್ವತ್ರಿಕ ಗುರುತ್ವಾಕರ್ಷಣಾ ನಿಯಮ"],
+      "answer": "ನ್ಯೂಟನ್‌ನ ಮೂರನೇ ನಿಯಮ",
+      "reasoning": "ನ್ಯೂಟನ್‌ನ ಚಲನೆಯ ಮೂರನೇ ನಿಯಮವು ಬಲಗಳು ಯಾವಾಗಲೂ ಜೋಡಿಯಾಗಿ ಸಂಭವಿಸುತ್ತವೆ ಎಂದು ಹೇಳುತ್ತದೆ; ಒಂದು ವಸ್ತುವು ಮತ್ತೊಂದರ ಮೇಲೆ ಬಲವನ್ನು ಪ್ರಯೋಗಿಸಿದಾಗ, ಎರಡನೆಯದು ಸಮಾನ ಮತ್ತು ವಿರುದ್ಧ ಬಲವನ್ನು ಪ್ರಯೋಗಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_38",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Which cellular organelle is responsible for generating chemical energy in the form of ATP, earning it the title 'Powerhouse of the Cell'?",
+      "options": ["Ribosome", "Mitochondria", "Golgi Apparatus", "Lysosome"],
+      "answer": "Mitochondria",
+      "reasoning": "Mitochondria generate most of the cell's supply of adenosine triphosphate (ATP), which is used as a source of chemical energy."
+    },
+    "kn": {
+      "question": "ಯಾವ ಜೀವಕೋಶದ ಅಂಗಾಂಗವು ಎಟಿಪಿ (ATP) ರೂಪದಲ್ಲಿ ರಾಸಾಯನಿಕ ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸಲು ಕಾರಣವಾಗಿದೆ, ಇದರಿಂದಾಗಿ ಅದಕ್ಕೆ 'ಕೋಶದ ಶಕ್ತಿ ಕೇಂದ್ರ' ಎಂಬ ಹೆಸರು ಬಂದಿದೆ?",
+      "options": ["ರೈಬೋಸೋಮ್", "ಮೈಟೋಕಾಂಡ್ರಿಯಾ", "ಗಾಲ್ಗಿ ಸಂಕೀರ್ಣ", "ಲೈಸೋಸೋಮ್"],
+      "answer": "ಮೈಟೋಕಾಂಡ್ರಿಯಾ",
+      "reasoning": "ಮೈಟೋಕಾಂಡ್ರಿಯಾಗಳು ಜೀವಕೋಶದ ರಾಸಾಯನಿಕ ಶಕ್ತಿಯ ಮೂಲವಾದ ಅಡೆನೊಸಿನ್ ಟ್ರೈಫಾಸ್ಫೇಟ್ (ATP) ಅನ್ನು ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದಲ್ಲಿ ಉತ್ಪಾದಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "gk_science_39",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Approximately how long does it take for light emitted from the Sun's surface to reach the Earth?",
+      "options": ["8 seconds", "8 minutes", "18 minutes", "8 hours"],
+      "answer": "8 minutes",
+      "reasoning": "The Sun is about 150 million km away. Traveling at the speed of light, it takes solar photons about 8 minutes and 20 seconds (approx 500 seconds) to reach Earth."
+    },
+    "kn": {
+      "question": "ಸೂರ್ಯನ ಮೇಲ್ಮೈಯಿಂದ ಹೊರಹೊಮ್ಮುವ ಬೆಳಕು ಭೂಮಿಯನ್ನು ತಲುಪಲು ಸರಿಸುಮಾರು ಎಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ?",
+      "options": ["೮ ಸೆಕೆಂಡುಗಳು", "೮ ನಿಮಿಷಗಳು", "೧೮ ನಿಮಿಷಗಳು", "೮ ಗಂಟೆಗಳು"],
+      "answer": "೮ ನಿಮಿಷಗಳು",
+      "reasoning": "ಸೂರ್ಯನು ಭೂಮಿಯಿಂದ ಸುಮಾರು ೧೫ ಕೋಟಿ ಕಿ.ಮೀ ದೂರದಲ್ಲಿದ್ದಾನೆ. ಬೆಳಕಿನ ವೇಗದಲ್ಲಿ ಚಲಿಸುವ ಬೆಳಕು ಭೂಮಿಯನ್ನು ತಲುಪಲು ಸುಮಾರು ೮ ನಿಮಿಷ ೨೦ ಸೆಕೆಂಡುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_40",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "What is the most abundant gas in Earth's atmosphere by volume?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+      "answer": "Nitrogen",
+      "reasoning": "Nitrogen makes up approximately 78% of the Earth's atmosphere by volume, followed by oxygen at about 21%."
+    },
+    "kn": {
+      "question": "ಪರಿಮಾಣದ ಪ್ರಕಾರ ಭೂಮಿಯ ವಾತಾವರಣದಲ್ಲಿ ಅತ್ಯಂತ ಹೇರಳವಾಗಿರುವ ಅನಿಲ ಯಾವುದು?",
+      "options": ["ಆಮ್ಲಜನಕ", "ಸಾರಜನಕ", "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್", "ಆರ್ಗಾನ್"],
+      "answer": "ಸಾರಜನಕ",
+      "reasoning": "ಭೂಮಿಯ ವಾತಾವರಣದಲ್ಲಿ ಸಾರಜನಕವು (ನೈಟ್ರೋಜನ್) ಸುಮಾರು ಶೇಕಡಾ ೭೮ ರಷ್ಟಿದ್ದು ಅತ್ಯಂತ ಹೇರಳವಾಗಿದೆ, ನಂತರ ಆಮ್ಲಜನಕವು ಸುಮಾರು ಶೇಕಡಾ ೨೧ ರಷ್ಟಿದೆ."
+    }
+  },
+  {
+    "id": "gk_science_41",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Which strong acid is naturally produced in the human stomach to facilitate the digestion of food and kill harmful bacteria?",
+      "options": ["Sulfuric Acid", "Nitric Acid", "Hydrochloric Acid", "Acetic Acid"],
+      "answer": "Hydrochloric Acid",
+      "reasoning": "The gastric glands in the human stomach produce hydrochloric acid (HCl), which creates an acidic environment for digestive enzymes and kills pathogens."
+    },
+    "kn": {
+      "question": "ಆಹಾರದ ಜೀರ್ಣಕ್ರಿಯೆಯನ್ನು ಸುಲಭಗೊಳಿಸಲು ಮತ್ತು ಹಾನಿಕಾರಕ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳನ್ನು ಕೊಲ್ಲಲು ಮಾನವನ ಜಠರದಲ್ಲಿ ನೈಸರ್ಗಿಕವಾಗಿ ಉತ್ಪತ್ತಿಯಾಗುವ ಪ್ರಬಲ ಆಮ್ಲ ಯಾವುದು?",
+      "options": ["ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲ", "ನೈಟ್ರಿಕ್ ಆಮ್ಲ", "ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ", "ಅಸಿಟಿಕ್ ಆಮ್ಲ"],
+      "answer": "ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ",
+      "reasoning": "ಮಾನವನ ಜಠರದಲ್ಲಿರುವ ಜಠರ ಗ್ರಂಥಿಗಳು ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲವನ್ನು (HCl) ಉತ್ಪಾದಿಸುತ್ತವೆ, ಇದು ಜೀರ್ಣಕಾರಿ ಕಿಣ್ವಗಳಿಗೆ ಆಮ್ಲೀಯ ವಾತಾವರಣವನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ ಮತ್ತು ರೋಗಕಾರಕಗಳನ್ನು ಕೊಲ್ಲುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_42",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "What is the optical phenomenon where light bends as it passes from one transparent medium to another of different density?",
+      "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+      "answer": "Refraction",
+      "reasoning": "Refraction is the bending of light waves when they pass from one medium to another with a different refractive index, changing their speed."
+    },
+    "kn": {
+      "question": "ಬೆಳಕು ಒಂದು ಪಾರದರ್ಶಕ ಮಾಧ್ಯಮದಿಂದ ಬೇರೆ ಸಾಂದ್ರತೆಯ ಮತ್ತೊಂದು ಮಾಧ್ಯಮಕ್ಕೆ ಹಾದುಹೋಗುವಾಗ ಬಾಗುವ ಆಪ್ಟಿಕಲ್ ವಿದ್ಯಮಾನ ಯಾವುದು?",
+      "options": ["ಪ್ರತಿಫಲನ", "ವಕ್ರೀಭವನ", "ವಿವರ್ತನೆ", "ಚದುರುವಿಕೆ"],
+      "answer": "ವಕ್ರೀಭವನ",
+      "reasoning": "ಬೆಳಕಿನ ಅಲೆಗಳು ವಿಭಿನ್ನ ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕ ಹೊಂದಿರುವ ಒಂದು ಮಾಧ್ಯಮದಿಂದ ಇನ್ನೊಂದಕ್ಕೆ ಹಾದುಹೋಗುವಾಗ ವೇಗ ಬದಲಾವಣೆಯಿಂದಾಗಿ ಬಾಗುತ್ತವೆ, ಇದನ್ನು ವಕ್ರೀಭವನ ಎನ್ನಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_43",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Which chemical element has the atomic number 1 on the periodic table?",
+      "options": ["Helium", "Hydrogen", "Lithium", "Carbon"],
+      "answer": "Hydrogen",
+      "reasoning": "Hydrogen is the simplest and lightest element, consisting of one proton and one electron, giving it an atomic number of 1."
+    },
+    "kn": {
+      "question": "ಆವರ್ತಕ ಕೋಷ್ಟಕದಲ್ಲಿ ಪರಮಾಣು ಸಂಖ್ಯೆ ೧ ಅನ್ನು ಹೊಂದಿರುವ ರಾಸಾಯನಿಕ ಮೂಲಧಾತು ಯಾವುದು?",
+      "options": ["ಹೀಲಿಯಂ", "ಹೈಡ್ರೋಜನ್ (ಜಲಜನಕ)", "ಲಿಥಿಯಂ", "ಕಾರ್ಬನ್"],
+      "answer": "ಹೈಡ್ರೋಜನ್ (ಜಲಜನಕ)",
+      "reasoning": "ಜಲಜನಕವು ಅತ್ಯಂತ ಸರಳ ಮತ್ತು ಹಗುರವಾದ ಮೂಲಧಾತುವಾಗಿದ್ದು, ಕೇವಲ ಒಂದು ಪ್ರೋಟಾನ್ ಮತ್ತು ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ ಹೊಂದಿರುವ ಕಾರಣ ಇದರ ಪರಮಾಣು ಸಂಖ್ಯೆ ೧ ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "gk_science_44",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "What is the primary organic compound and structural component that makes up plant cell walls?",
+      "options": ["Cellulose", "Chitin", "Keratin", "Starch"],
+      "answer": "Cellulose",
+      "reasoning": "Cellulose is a complex carbohydrate (polysaccharide) consisting of a linear chain of glucose units, providing structural strength to plant cell walls."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯ ಕೋಶ ಭಿತ್ತಿಗಳನ್ನು (cell walls) ರೂಪಿಸುವ ಪ್ರಾಥಮಿಕ ಸಾವಯವ ಸಂಯುಕ್ತ ಮತ್ತು ರಚನಾತ್ಮಕ ಘಟಕ ಯಾವುದು?",
+      "options": ["ಸೆಲ್ಯುಲೋಸ್", "ಕೈಟಿನ್", "ಕೆರಾಟಿನ್", "ಪಿಷ್ಟ (ಸ್ಟಾರ್ಚ್)"],
+      "answer": "ಸೆಲ್ಯುಲೋಸ್",
+      "reasoning": "ಸೆಲ್ಯುಲೋಸ್ ಗ್ಲುಕೋಸ್ ಘಟಕಗಳ ಸರಳ ರೇಖೀಯ ಸರಪಳಿಯನ್ನು ಒಳಗೊಂಡಿರುವ ಸಂಕೀರ್ಣ ಕಾರ್ಬೋಹೈಡ್ರೇಟ್ ಆಗಿದ್ದು, ಇದು ಸಸ್ಯ ಜೀವಕೋಶದ ಭಿತ್ತಿಗಳಿಗೆ ರಚನಾತ್ಮಕ ಶಕ್ತಿಯನ್ನು ನೀಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_45",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "What is the minimum escape velocity required for a spacecraft to break free from Earth's gravitational pull?",
+      "options": ["5.6 km/s", "11.2 km/s", "22.4 km/s", "44.8 km/s"],
+      "answer": "11.2 km/s",
+      "reasoning": "The escape velocity from Earth's surface is approximately 11.2 km/s (approx. 40,320 km/h), which is the speed needed to overcome Earth's gravity without further propulsion."
+    },
+    "kn": {
+      "question": "ಗಗನನೌಕೆಯು ಭೂಮಿಯ ಗುರುತ್ವಾಕರ್ಷಣಾ ಶಕ್ತಿಯಿಂದ ಮುಕ್ತವಾಗಿ ಬಾಹ್ಯಾಕಾಶಕ್ಕೆ ಹೋಗಲು ಬೇಕಾದ ಕನಿಷ್ಠ ಪಲಾಯನ ವೇಗ ಎಷ್ಟು?",
+      "options": ["ಸೆಕೆಂಡಿಗೆ ೫.೬ ಕಿ.ಮೀ", "ಸೆಕೆಂಡಿಗೆ ೧೧.೨ ಕಿ.ಮೀ", "ಸೆಕೆಂಡಿಗೆ ೨೨.೪ ಕಿ.ಮೀ", "ಸೆಕೆಂಡಿಗೆ ೪೪.೮ ಕಿ.ಮೀ"],
+      "answer": "ಸೆಕೆಂಡಿಗೆ ೧೧.೨ ಕಿ.ಮೀ",
+      "reasoning": "ಭೂಮಿಯ ಮೇಲ್ಮೈಯಿಂದ ಪಲಾಯನ ವೇಗವು ಸರಿಸುಮಾರು ಸೆಕೆಂಡಿಗೆ ೧೧.೨ ಕಿಲೋಮೀಟರ್ ಆಗಿದೆ, ಇದು ಭೂಮಿಯ ಗುರುತ್ವಾಕರ್ಷಣೆಯನ್ನು ಜಯಿಸಲು ಯಾವುದೇ ಹೆಚ್ಚುವರಿ ಪ್ರೊಪಲ್ಷನ್ ಇಲ್ಲದೆ ಅಗತ್ಯವಿರುವ ವೇಗವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "gk_science_46",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following chemical elements are classified as noble gases? Select all that apply.",
+      "options": ["Helium", "Nitrogen", "Neon", "Argon"],
+      "answer": ["Helium", "Neon", "Argon"],
+      "reasoning": "Noble gases belong to Group 18 of the periodic table. They are highly stable and unreactive. Nitrogen is a Group 15 non-metal."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ರಾಸಾಯನಿಕ ಮೂಲಧಾತುಗಳಲ್ಲಿ ಯಾವುವನ್ನು ನಿಷ್ಕ್ರಿಯ ಅನಿಲಗಳು ಎಂದು ವರ್ಗೀಕರಿಸಲಾಗಿದೆ? ಸೂಕ್ತವಾದ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": ["ಹೀಲಿಯಂ", "ಸಾರಜನಕ", "ನಿಯಾನ್", "ಆರ್ಗಾನ್"],
+      "answer": ["ಹೀಲಿಯಂ", "ನಿಯಾನ್", "ಆರ್ಗಾನ್"],
+      "reasoning": "ನಿಷ್ಕ್ರಿಯ ಅನಿಲಗಳು ಆವರ್ತಕ ಕೋಷ್ಟಕದ ಗ್ರೂಪ್ ೧೮ ಕ್ಕೆ ಸೇರಿವೆ. ಅವು ಅತ್ಯಂತ ಸ್ಥಿರ ಮತ್ತು ಕ್ರಿಯಾರಹಿತವಾಗಿವೆ. ಸಾರಜನಕವು ಗ್ರೂಪ್ ೧೫ ರ ಅಲೋಹವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "gk_science_47",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following are anatomically distinct parts of the human brain? Select all that apply.",
+      "options": ["Cerebrum", "Cerebellum", "Medulla Oblongata", "Thyroid"],
+      "answer": ["Cerebrum", "Cerebellum", "Medulla Oblongata"],
+      "reasoning": "The cerebrum, cerebellum, and medulla oblongata are key parts of the brain. The thyroid is an endocrine gland located in the neck, not part of the brain."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಮಾನವ ಮಿದುಳಿನ ಅಂಗರಚನಾಶಾಸ್ತ್ರದ ವಿಭಿನ್ನ ಭಾಗಗಳಾಗಿವೆ? ಸೂಕ್ತವಾದ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": ["ಪ್ರಮಸ್ತಿಷ್ಕ (ಸೆರೆಬ್ರಮ್)", "ಅನುಮಸ್ತಿಷ್ಕ (ಸೆರೆಬೆಲ್ಲಮ್)", "ಮಜ್ಜಾಕಲ್ಪ (ಮೆಡುಲ್ಲಾ ಆಬ್ಲಾಂಗೇಟಾ)", "ಥೈರಾಯ್ಡ್"],
+      "answer": ["ಪ್ರಮಸ್ತಿಷ್ಕ (ಸೆರೆಬ್ರಮ್)", "ಅನುಮಸ್ತಿಷ್ಕ (ಸೆರೆಬೆಲ್ಲಮ್)", "ಮಜ್ಜಾಕಲ್ಪ (ಮೆಡುಲ್ಲಾ ಆಬ್ಲಾಂಗೇಟಾ)"],
+      "reasoning": "ಪ್ರಮಸ್ತಿಷ್ಕ, ಅನುಮಸ್ತಿಷ್ಕ ಮತ್ತು ಮಜ್ಜಾಕಲ್ಪಗಳು ಮಿದುಳಿನ ಪ್ರಮುಖ ಭಾಗಗಳಾಗಿವೆ. ಥೈರಾಯ್ಡ್ ಕುತ್ತಿಗೆಯಲ್ಲಿರುವ ಒಂದು ಅಂತಃಸ್ರಾವಕ ಗ್ರಂಥಿಯಾಗಿದ್ದು, ಮಿದುಳಿನ ಭಾಗವಲ್ಲ."
+    }
+  },
+  {
+    "id": "gk_science_48",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match these scientists with their pathbreaking scientific discoveries.",
+      "pairs": [
+        {"left": "Isaac Newton", "right": "Laws of Gravitation"},
+        {"left": "Albert Einstein", "right": "Theory of Relativity"},
+        {"left": "Alexander Fleming", "right": "Discovery of Penicillin"},
+        {"left": "Marie Curie", "right": "Radium and Polonium"}
+      ],
+      "reasoning": "Newton formulated laws of gravity; Einstein developed relativity; Fleming discovered penicillin; Curie discovered radium and polonium."
+    },
+    "kn": {
+      "question": "ಈ ವಿಜ್ಞಾನಿಗಳನ್ನು ಅವರ ಮಹತ್ವದ ವೈಜ್ಞಾನಿಕ ಆವಿಷ್ಕಾರಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಐಸಾಕ್ ನ್ಯೂಟನ್", "right": "ಗುರುತ್ವಾಕರ್ಷಣೆಯ ನಿಯಮಗಳು"},
+        {"left": "ಆಲ್ಬರ್ಟ್ ಐನ್‌ಸ್ಟೈನ್", "right": "ಸಾಪೇಕ್ಷತಾ ಸಿದ್ಧಾಂತ"},
+        {"left": "ಅಲೆಕ್ಸಾಂಡರ್ ಫ್ಲೆಮಿಂಗ್", "right": "ಪೆನಿಸಿಲಿನ್ ಆವಿಷ್ಕಾರ"},
+        {"left": "ಮೇರಿ ಕ್ಯೂರಿ", "right": "ರೇಡಿಯಂ ಮತ್ತು ಪೊಲೊನಿಯಂ"}
+      ],
+      "reasoning": "ನ್ಯೂಟನ್ ಗುರುತ್ವಾಕರ್ಷಣೆಯ ನಿಯಮಗಳನ್ನು ರೂಪಿಸಿದರು; ಐನ್‌ಸ್ಟೈನ್ ಸಾಪೇಕ್ಷತಾ ಸಿದ್ಧಾಂತವನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದರು; ಫ್ಲೆಮಿಂಗ್ ಮೊದಲ ಆಂಟಿಬಯೋಟಿಕ್ ಪೆನಿಸಿಲಿನ್ ಪತ್ತೆಹಚ್ಚಿದರು; ಕ್ಯೂರಿ ರೇಡಿಯಂ ಮತ್ತು ಪೊಲೊನಿಯಂ ಕಂಡುಹಿಡಿದರು."
+    }
+  },
+  {
+    "id": "gk_science_49",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the plant cell organelle with its primary function.",
+      "pairs": [
+        {"left": "Nucleus", "right": "Contains genetic material"},
+        {"left": "Chloroplast", "right": "Runs photosynthesis"},
+        {"left": "Mitochondria", "right": "Cellular respiration"},
+        {"left": "Large Vacuole", "right": "Stores water and nutrients"}
+      ],
+      "reasoning": "The nucleus houses DNA; chloroplasts run photosynthesis; mitochondria produce energy; and the large vacuole stores water and maintains structure."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯ ಜೀವಕೋಶದ ಅಂಗಾಂಗವನ್ನು ಅದರ ಪ್ರಾಥಮಿಕ ಕಾರ್ಯದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಕೋಶಕೇಂದ್ರ", "right": "ಆನುವಂಶಿಕ ಮಾಹಿತಿ ಹೊಂದಿರುತ್ತದೆ"},
+        {"left": "ಹರಿತ್ಕಣ", "right": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ನಡೆಸುತ್ತದೆ"},
+        {"left": "ಮೈಟೋಕಾಂಡ್ರಿಯಾ", "right": "ಕೋಶೀಯ ಉಸಿರಾಟ ನಡೆಸುತ್ತದೆ"},
+        {"left": "ದೊಡ್ಡ ರಸದಾನಿ", "right": "ನೀರು ಮತ್ತು ಪೋಷಕಾಂಶ ಸಂಗ್ರಹಿಸುತ್ತದೆ"}
+      ],
+      "reasoning": "ಕೋಶಕೇಂದ್ರವು ಡಿಎನ್‌ಎಯನ್ನು ಹೊಂದಿರುತ್ತದೆ; ಹರಿತ್ಕಣಗಳು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯನ್ನು ನಡೆಸುತ್ತವೆ; ಮೈಟೋಕಾಂಡ್ರಿಯಾಗಳು ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸುತ್ತವೆ; ಮತ್ತು ದೊಡ್ಡ ರಸದಾನಿಯು ನೀರನ್ನು ಸಂಗ್ರಹಿಸಿ ಕೋಶದ ಸ್ಥಿರತೆಯನ್ನು ಕಾಪಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "gk_science_50",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the chemical symbol with the correct element name from the periodic table.",
+      "pairs": [
+        {"left": "Au", "right": "Gold"},
+        {"left": "Ag", "right": "Silver"},
+        {"left": "Fe", "right": "Iron"},
+        {"left": "Pb", "right": "Lead"}
+      ],
+      "reasoning": "Au stands for Aurum (Gold), Ag for Argentum (Silver), Fe for Ferrum (Iron), and Pb for Plumbum (Lead)."
+    },
+    "kn": {
+      "question": "ರಾಸಾಯನಿಕ ಸಂಕೇತವನ್ನು ಆವರ್ತಕ ಕೋಷ್ಟಕದ ಸರಿಯಾದ ಮೂಲಧಾತುವಿನ ಹೆಸರಿನೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "Au", "right": "ಚಿನ್ನ"},
+        {"left": "Ag", "right": "ಬೆಳ್ಳಿ"},
+        {"left": "Fe", "right": "ಕಬ‍್ಬಿಣ"},
+        {"left": "Pb", "right": "ಸೀಸ"}
+      ],
+      "reasoning": "Au ಎಂದರೆ ಔರಮ್ (ಚಿನ್ನ), Ag ಎಂದರೆ ಅರ್ಜೆಂಟಮ್ (ಬೆಳ್ಳಿ), Fe ಎಂದರೆ ಫೆರಮ್ (ಕಬ‍್ಬಿಣ) ಮತ್ತು Pb ಎಂದರೆ ಪ್ಲಂಬಮ್ (ಸೀಸ)."
+    }
+  }
+]

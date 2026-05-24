@@ -1,0 +1,1390 @@
+[
+  {
+    "id": "pz_ancient_1",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "When Emperor Akbar asked how many crows were in Delhi, what was Birbal's logical solution to justify any count he gave?",
+      "options": [
+        "He said if there are more, they are visiting relatives; if less, they went to visit elsewhere.",
+        "He claimed crows cannot be counted because they are shape-shifters.",
+        "He suggested using a magical net to catch and count all crows.",
+        "He said that crows fly away if they see the king, making it impossible."
+      ],
+      "answer": "He said if there are more, they are visiting relatives; if less, they went to visit elsewhere.",
+      "reasoning": "Birbal stated that if the count was higher, it meant crows from neighboring kingdoms were visiting their relatives in Delhi; if it was lower, it meant Delhi's crows went to visit relatives outside the city."
+    },
+    "kn": {
+      "question": "ದೆಹಲಿಯಲ್ಲಿ ಎಷ್ಟು ಕಾಗೆಗಳಿವೆ ಎಂದು ಅಕ್ಬರ್ ಚಕ್ರವರ್ತಿ ಕೇಳಿದಾಗ, ಬೀರಬಲ್ ತನ್ನ ಉತ್ತರವನ್ನು ಸಮರ್ಥಿಸಿಕೊಳ್ಳಲು ನೀಡಿದ ತಾರ್ಕಿಕ ವಿವರಣೆ ಏನು?",
+      "options": [
+        "ಹೆಚ್ಚಿದ್ದರೆ ಅವು ನೆಂಟರ ಮನೆಗೆ ಬಂದಿವೆ, ಕಡಿಮೆಯಿದ್ದರೆ ನೆಂಟರ ಮನೆಗೆ ಹೋಗಿವೆ ಎಂದು ಹೇಳಿದರು.",
+        "ಕಾಗೆಗಳು ರೂಪ ಬದಲಾಯಿಸುವುದರಿಂದ ಅವುಗಳನ್ನು ಎಣಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ ಎಂದರು.",
+        "ಎಲ್ಲ ಕಾಗೆಗಳನ್ನು ಹಿಡಿಯಲು ಮತ್ತು ಎಣಿಸಲು ಮಾಂತ್ರಿಕ ಬಲೆಯನ್ನು ಬಳಸಲು ಸೂಚಿಸಿದರು.",
+        "ರಾಜನನ್ನು ನೋಡಿದರೆ ಕಾಗೆಗಳು ಹಾರಿಹೋಗುತ್ತವೆ, ಆದ್ದರಿಂದ ಎಣಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ ಎಂದರು"
+      ],
+      "answer": "ಹೆಚ್ಚಿದ್ದರೆ ಅವು ನೆಂಟರ ಮನೆಗೆ ಬಂದಿವೆ, ಕಡಿಮೆಯಿದ್ದರೆ ನೆಂಟರ ಮನೆಗೆ ಹೋಗಿವೆ ಎಂದು ಹೇಳಿದರು.",
+      "reasoning": "ಬಾಹ್ಯ ರಾಜ್ಯಗಳಿಂದ ಕಾಗೆಗಳು ತಮ್ಮ ನೆಂಟರ ಮನೆಗೆ ಬಂದಿರಬಹುದು ಅಥವಾ ದೆಹಲಿಯ ಕಾಗೆಗಳು ಹೊರಗಿನ ನೆಂಟರ ಮನೆಗೆ ಹೋಗಿರಬಹುದು ಎಂದು ಬೀರಬಲ್ ಚತುರತೆಯಿಂದ ಉತ್ತರಿಸಿದನು."
+    }
+  },
+  {
+    "id": "pz_ancient_2",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "When the King asked Tenali Raman to paint a horse, Tenali presented a canvas with only a tail. How did he logically justify it?",
+      "options": [
+        "The horse was eating grass outside the frame, so only its tail was visible.",
+        "The horse had run away because it was scared of the king.",
+        "You need a great imagination to see the horse that is hidden behind the canvas.",
+        "The paint was invisible and would appear only at night under moonlight."
+      ],
+      "answer": "The horse was eating grass outside the frame, so only its tail was visible.",
+      "reasoning": "Tenali Raman challenged the king's rule that a viewer must use their imagination to visualize the parts of a painting not shown on the canvas."
+    },
+    "kn": {
+      "question": "ರಾಜನು ತೆನಾಲಿ ರಾಮನಿಗೆ ಕುದುರೆಯ ಚಿತ್ರ ಬಿಡಿಸಲು ಹೇಳಿದಾಗ, ರಾಮನು ಕೇವಲ ಬಾಲವಿರುವ ಕ್ಯಾನ್ವಾಸ್ ತಂದನು. ಅದನ್ನು ಅವನು ಹೇಗೆ ಸಮರ್ಥಿಸಿದನು?",
+      "options": [
+        "ಕುದುರೆಯು ಚೌಕಟ್ಟಿನಿಂದ ಹೊರಗೆ ಹುಲ್ಲು ಮೇಯುತ್ತಿದ್ದುದರಿಂದ ಕೇವಲ ಬಾಲ ಮಾತ್ರ ಕಾಣಿಸುತ್ತಿದೆ ಎಂದನು.",
+        "ಕುದುರೆಯು ರಾಜನಿಗೆ ಹೆದರಿ ಓಡಿಹೋಗಿದೆ ಎಂದು ಹೇಳಿದನು.",
+        "ಕ್ಯಾನ್ವಾಸ್ ಹಿಂದೆ ಅಡಗಿರುವ ಕುದುರೆಯನ್ನು ನೋಡಲು ಅದ್ಭುತ ಕಲ್ಪನಾ ಶಕ್ತಿ ಬೇಕು ಎಂದನು.",
+        "ಬಣ್ಣವು ಅದೃಶ್ಯವಾಗಿದ್ದು, ರಾತ್ರಿ ಚಂದ್ರನ ಬೆಳಕಿನಲ್ಲಿ ಮಾತ್ರ ಕಾಣಿಸುತ್ತದೆ ಎಂದನು"
+      ],
+      "answer": "ಕುದುರೆಯು ಚೌಕಟ್ಟಿನಿಂದ ಹೊರಗೆ ಹುಲ್ಲು ಮೇಯುತ್ತಿದ್ದುದರಿಂದ ಕೇವಲ ಬಾಲ ಮಾತ್ರ ಕಾಣಿಸುತ್ತಿದೆ ಎಂದನು.",
+      "reasoning": "ಚಿತ್ರದಲ್ಲಿ ಕಾಣಿಸದ ಭಾಗಗಳನ್ನು ವೀಕ್ಷಕರು ತಮ್ಮ ಕಲ್ಪನೆಯಿಂದ ಊಹಿಸಬೇಕೆಂದು ರಾಜನೇ ಈ ಹಿಂದೆ ಹೇಳಿದ್ದರಿಂದ, ತೆನಾಲಿ ರಾಮನು ಈ ರೀತಿ ಸಮರ್ಥಿಸಿಕೊಂಡನು."
+    }
+  },
+  {
+    "id": "pz_ancient_3",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Emperor Akbar drew a line on the floor and asked Birbal to make it shorter without erasing or touching it. What did Birbal do?",
+      "options": [
+        "He drew a longer line next to it.",
+        "He poured water on it to smudge it.",
+        "He covered half of it with a carpet.",
+        "He argued that all lines are relative and didn't draw anything."
+      ],
+      "answer": "He drew a longer line next to it.",
+      "reasoning": "By drawing a longer line adjacent to the original line, the original line automatically became shorter in comparison, without being touched."
+    },
+    "kn": {
+      "question": "ಅಕ್ಬರ್ ಚಕ್ರವರ್ತಿಯು ನೆಲದ ಮೇಲೆ ಒಂದು ಗೆರೆ ಎಳೆದು, ಅದನ್ನು ಅಳಿಸದೆ ಅಥವಾ ಮುಟ್ಟದೆ ಚಿಕ್ಕದಾಗಿಸಲು ಬೀರಬಲ್ನಿಗೆ ಹೇಳಿದನು. ಬೀರಬಲ್ ಏನು ಮಾಡಿದನು?",
+      "options": [
+        "ಅದರ ಪಕ್ಕದಲ್ಲೇ ಅದಕ್ಕಿಂತ ಉದ್ದವಾದ ಮತ್ತೊಂದು ಗೆರೆಯನ್ನು ಎಳೆದನು.",
+        "ಅದನ್ನು ಮಸುಕುಗೊಳಿಸಲು ಅದರ ಮೇಲೆ ನೀರು ಸುರಿದನು.",
+        "ಅದರ ಅರ್ಧದಷ್ಟು ಭಾಗವನ್ನು ಕಾರ್ಪೆಟ್‌ನಿಂದ ಮುಚ್ಚಿದನು.",
+        "ಎಲ್ಲಾ ಗೆರೆಗಳು ಸಾಪೇಕ್ಷವಾಗಿವೆ ಎಂದು ವಾದಿಸಿ ಏನನ್ನೂ ಎಳೆಯಲಿಲ್ಲ"
+      ],
+      "answer": "ಅದರ ಪಕ್ಕದಲ್ಲೇ ಅದಕ್ಕಿಂತ ಉದ್ದವಾದ ಮತ್ತೊಂದು ಗೆರೆಯನ್ನು ಎಳೆದನು.",
+      "reasoning": "ಮೊದಲ ಗೆರೆಯ ಪಕ್ಕದಲ್ಲೇ ಮತ್ತೊಂದು ಉದ್ದವಾದ ಗೆರೆಯನ್ನು ಎಳೆಯುವ ಮೂಲಕ, ಮೊದಲ ಗೆರೆಯನ್ನು ಮುಟ್ಟದೆಯೇ ಅದನ್ನು ಚಿಕ್ಕದಾಗಿಸಿದನು."
+    }
+  },
+  {
+    "id": "pz_ancient_4",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "A greedy neighbor claimed he only sold his well to a farmer, not the water inside. How did Tenali Raman solve this dispute?",
+      "options": [
+        "He ordered the neighbor to pay rent for keeping his water in the farmer's well.",
+        "He told the farmer to fill the well with mud.",
+        "He asked the king to confiscate both the well and the water.",
+        "He asked the farmer to buy the water separately."
+      ],
+      "answer": "He ordered the neighbor to pay rent for keeping his water in the farmer's well.",
+      "reasoning": "Tenali Raman argued that since the well belonged to the farmer, the neighbor could not keep his water there without paying rent, or he must remove it immediately."
+    },
+    "kn": {
+      "question": "ದುರಾಸೆಯ ನೆರೆಹೊರೆಯವನೊಬ್ಬ ತಾನು ರೈತನಿಗೆ ಬಾವಿಯನ್ನು ಮಾತ್ರ ಮಾರಿದ್ದೇನೆಯೇ ಹೊರತು ಅದರೊಳಗಿನ ನೀರನ್ನಲ್ಲ ಎಂದು ವಾದಿಸಿದನು. ತೆನಾಲಿ ರಾಮನು ಈ ವಿವಾದವನ್ನು ಹೇಗೆ ಪರಿಹರಿಸಿದನು?",
+      "options": [
+        "ರೈತನ ಬಾವಿಯಲ್ಲಿ ತನ್ನ ನೀರನ್ನು ಇಟ್ಟಿರುವುದಕ್ಕಾಗಿ ನೆರೆಹೊರೆಯವನು ಬಾಡಿಗೆ ಪಾವತಿಸಬೇಕೆಂದು ಆದೇಶಿಸಿದನು.",
+        "ಬಾವಿಯನ್ನು ಮಣ್ಣಿನಿಂದ ಮುಚ್ಚಲು ರೈತನಿಗೆ ಹೇಳಿದನು.",
+        "ಬಾವಿ ಮತ್ತು ನೀರು ಎರಡನ್ನೂ ವಶಪಡಿಸಿಕೊಳ್ಳಲು ರಾಜನಿಗೆ ವಿನಂತಿಸಿದನು.",
+        "ರೈತನಿಗೆ ನೀರನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಖರೀದಿಸಲು ಹೇಳಿದನು"
+      ],
+      "answer": "ರೈತನ ಬಾವಿಯಲ್ಲಿ ತನ್ನ ನೀರನ್ನು ಇಟ್ಟಿರುವುದಕ್ಕಾಗಿ ನೆರೆಹೊರೆಯವನು ಬಾಡಿಗೆ ಪಾವತಿಸಬೇಕೆಂದು ಆದೇಶಿಸಿದನು.",
+      "reasoning": "ಬಾವಿ ರೈತನಿಗೆ ಸೇರಿರುವುದರಿಂದ, ನೆರೆಹೊರೆಯವನು ಅಲ್ಲಿ ತನ್ನ ನೀರನ್ನು ಇಡಲು ಬಾಡಿಗೆ ಕೊಡಬೇಕು ಇಲ್ಲವೇ ತಕ್ಷಣವೇ ನೀರನ್ನು ಖಾಲಿ ಮಾಡಬೇಕು ಎಂದು ತೆನಾಲಿ ತೀರ್ಪು ನೀಡಿದನು."
+    }
+  },
+  {
+    "id": "pz_ancient_5",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "How did a clever minister weigh a massive elephant using a boat and water displacement?",
+      "options": [
+        "Marked the water level on the boat with the elephant, then replaced the elephant with stones until the same level was reached.",
+        "Calculated the volume of the elephant using geometry and multiplied it by water density.",
+        "Tied balloons to the elephant until it became weightless on the boat.",
+        "Used a system of giant pulleys and levers attached to the boat."
+      ],
+      "answer": "Marked the water level on the boat with the elephant, then replaced the elephant with stones until the same level was reached.",
+      "reasoning": "By marking the water displacement level on the boat when the elephant was inside, the minister could unload the elephant and load smaller, weighable stones until the boat sank to the exact same mark."
+    },
+    "kn": {
+      "question": "ದೋಣಿ ಮತ್ತು ನೀರಿನ ಪಲ್ಲಟವನ್ನು ಬಳಸಿ ಬೃಹತ್ ಆನೆಯ ತೂಕವನ್ನು ಒಬ್ಬ ಚತುರ ಮಂತ್ರಿ ಹೇಗೆ ಅಳೆದನು?",
+      "options": [
+        "ಆನೆಯನ್ನು ದೋಣಿಯಲ್ಲಿ ನಿಲ್ಲಿಸಿ ನೀರಿನ ಮಟ್ಟವನ್ನು ಗುರುತಿಸಿ, ನಂತರ ಆನೆಯನ್ನು ಇಳಿಸಿ ಅದೇ ಮಟ್ಟ ಬರುವವರೆಗೆ ಕಲ್ಲುಗಳನ್ನು ತುಂಬಿ ತೂಗಿದನು.",
+        "ಜ್ಯಾಮಿತಿಯನ್ನು ಬಳಸಿ ಆನೆಯ ಗಾತ್ರವನ್ನು ಲೆಕ್ಕಹಾಕಿ, ನೀರಿನ ಸಾಂದ್ರತೆಯಿಂದ ಗುಣಿಸಿದನು.",
+        "ಆನೆಯು ದೋಣಿಯಲ್ಲಿ ತೂಕರಹಿತವಾಗುವವರೆಗೆ ಅದಕ್ಕೆ ದೈತ್ಯ ಬಲೂನುಗಳನ್ನು ಕಟ್ಟಿದನು.",
+        "ದೋಣಿಗೆ ಜೋಡಿಸಲಾದ ದೈತ್ಯ ಕಪ್ಪಿಗಳು ಮತ್ತು ಸನ್ನೆಕೋಲುಗಳ ವ್ಯವಸ್ಥೆಯನ್ನು ಬಳಸಿದನು"
+      ],
+      "answer": "ಆನೆಯನ್ನು ದೋಣಿಯಲ್ಲಿ ನಿಲ್ಲಿಸಿ ನೀರಿನ ಮಟ್ಟವನ್ನು ಗುರುತಿಸಿ, ನಂತರ ಆನೆಯನ್ನು ಇಳಿಸಿ ಅದೇ ಮಟ್ಟ ಬರುವವರೆಗೆ ಕಲ್ಲುಗಳನ್ನು ತುಂಬಿ ತೂಗಿದನು.",
+      "reasoning": "ಆನೆಯಿದ್ದಾಗ ದೋಣಿ ಮುಳುಗಿದ ಮಟ್ಟವನ್ನು ಗುರುತಿಸಿಕೊಂಡು, ನಂತರ ಆನೆಯನ್ನು ಇಳಿಸಿ, ಅಷ್ಟೇ ಮಟ್ಟಕ್ಕೆ ಬರುವವರೆಗೆ ಸುಲಭವಾಗಿ ತೂಗಬಹುದಾದ ಕಲ್ಲುಗಳನ್ನು ಹಾಕಿ ಆನೆಯ ತೂಕ ಕಂಡುಹಿಡಿಯಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "pz_ancient_6",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "When the King asked to find the most honest man by giving everyone a pot of seeds to grow, how did Tenali Raman win with an empty pot?",
+      "options": [
+        "He pointed out that the seeds given by the King were boiled and could not grow.",
+        "He replaced the soil with gold coins to show honesty.",
+        "He confessed that he forgot to water the seeds.",
+        "He claimed the seeds were eaten by the royal birds."
+      ],
+      "answer": "He pointed out that the seeds given by the King were boiled and could not grow.",
+      "reasoning": "The king had distributed boiled seeds which could never sprout. The other competitors had replaced their seeds to show plants, but Tenali Raman was honest enough to present the empty pot."
+    },
+    "kn": {
+      "question": "ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಬೆಳೆಸಲು ಬೀಜಗಳ ಪಾತ್ರೆಯನ್ನು ಕೊಟ್ಟು ಅತ್ಯಂತ ಪ್ರಾಮಾಣಿಕ ವ್ಯಕ್ತಿಯನ್ನು ಹುಡುಕಲು ರಾಜನು ನಿರ್ಧರಿಸಿದಾಗ, ತೆನಾಲಿ ರಾಮನು ಖಾಲಿ ಪಾತ್ರೆಯೊಂದಿಗೆ ಹೇಗೆ ವಿಜಯಿಯಾದನು?",
+      "options": [
+        "ರಾಜನು ನೀಡಿದ ಬೀಜಗಳನ್ನು ಬೇಯಿಸಲಾಗಿದ್ದು, ಅವು ಮೊಳಕೆಯೊಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ ಎಂದು ತೋರಿಸಿಕೊಟ್ಟನು.",
+        "ಪ್ರಾಮಾಣಿಕತೆಯನ್ನು ತೋರಿಸಲು ಮಣ್ಣಿನ ಬದಲಿಗೆ ಚಿನ್ನದ ನಾಣ್ಯಗಳನ್ನು ಇಟ್ಟನು.",
+        "ಬೀಜಗಳಿಗೆ ನೀರು ಉಣಿಸಲು ಮರೆತಿದ್ದೇನೆ ಎಂದು ಒಪ್ಪಿಕೊಂಡನು.",
+        "ಬೀಜಗಳನ್ನು ರಾಜಮನೆತನದ ಪಕ್ಷಿಗಳು ತಿಂದವು ಎಂದು ವಾದಿಸಿದನು"
+      ],
+      "answer": "ರಾಜನು ನೀಡಿದ ಬೀಜಗಳನ್ನು ಬೇಯಿಸಲಾಗಿದ್ದು, ಅವು ಮೊಳಕೆಯೊಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ ಎಂದು ತೋರಿಸಿಕೊಟ್ಟನು.",
+      "reasoning": "ರಾಜನು ವಿತರಿಸಿದ ಬೀಜಗಳು ಬೇಯಿಸಿದವಾಗಿದ್ದವು. ಇತರರು ಸುಳ್ಳು ಹೇಳಲು ಬೇರೆ ಬೀಜಗಳನ್ನು ನೆಟ್ಟು ಗಿಡ ತಂದಿದ್ದರು, ಆದರೆ ರಾಮನು ಪ್ರಾಮಾಣಿಕವಾಗಿ ಖಾಲಿ ಪಾತ್ರೆಯನ್ನು ತಂದನು."
+    }
+  },
+  {
+    "id": "pz_ancient_7",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "In a Betal story, which of the three queens was considered the most delicate or sensitive?",
+      "options": [
+        "The queen who got bruised by a single fallen flower petal.",
+        "The queen who got sunburned by the moon's light.",
+        "The queen who got calluses on her hands just by hearing a mortar grind grain in the neighborhood.",
+        "The queen who got a headache from the smell of perfume."
+      ],
+      "answer": "The queen who got calluses on her hands just by hearing a mortar grind grain in the neighborhood.",
+      "reasoning": "Her body reacted physically and sympathetically to a distant auditory stimulus, showing the highest level of neural and psychological sensitivity compared to the others."
+    },
+    "kn": {
+      "question": "ಬೇತಾಳನ ಕಥೆಯೊಂದರಲ್ಲಿ, ಮೂವರು ಸೂಕ್ಷ್ಮ ಸಂವೇದನೆಯ ರಾಣಿಯರಲ್ಲಿ ಯಾರು ಅತ್ಯಂತ ಸುಕುಮಾರಿ ಎಂದು ತೀರ್ಮಾನಿಸಲಾಯಿತು?",
+      "options": [
+        "ತಾವರೆ ದಳ ತಗುಲಿ ಮೈಮೇಲೆ ಗಾಯ ಮಾಡಿಕೊಂಡವಳು.",
+        "ಚಂದ್ರನ ಬೆಳಕು ತಗುಲಿ ಮೈ ಸುಟ್ಟುಕೊಂಡವಳು.",
+        "ಪಕ್ಕದ ಮನೆಯಲ್ಲಿ ಒರಳು ಬೀಸುವ ಶಬ್ದ ಕೇಳಿ ತನ್ನ ಕೈಗಳಲ್ಲಿ ಗುಳ್ಳೆಗಳನ್ನು ಮಾಡಿಕೊಂಡವಳು.",
+        "ಸುಗಂಧ ದ್ರವ್ಯದ ವಾಸನೆಗೆ ತಲೆನೋವು ತಂದುಕೊಂಡವಳು"
+      ],
+      "answer": "ಪಕ್ಕದ ಮನೆಯಲ್ಲಿ ಒರಳು ಬೀಸುವ ಶಬ್ದ ಕೇಳಿ ತನ್ನ ಕೈಗಳಲ್ಲಿ ಗುಳ್ಳೆಗಳನ್ನು ಮಾಡಿಕೊಂಡವಳು.",
+      "reasoning": "ದೂರದ ಧ್ವನಿಯನ್ನು ಕೇಳಿ ಅವಳ ದೇಹವು ಪ್ರತಿಕ್ರಿಯಿಸಿ ಕೈಯಲ್ಲಿ ಗುಳ್ಳೆಗಳನ್ನು ಮಾಡಿಕೊಂಡಿದ್ದು ಅವಳ ಅತಿ ಸೂಕ್ಷ್ಮ ಸಂವೇದನೆಯನ್ನು ತೋರಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_8",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "A riddle from Bhaskara's Lilavati mentions a swarm of bees: 1/5 land on a Kadamba flower, 1/3 on a Silindhra flower, and the remaining 7 bees fly away. How many bees are in the swarm?",
+      "options": [
+        "15",
+        "30",
+        "20",
+        "45"
+      ],
+      "answer": "15",
+      "reasoning": "Let total bees be x. x/5 + x/3 + 7 = x => 8x/15 + 7 = x => 7x/15 = 7 => x = 15."
+    },
+    "kn": {
+      "question": "ಭಾಸ್ಕರಾಚಾರ್ಯರ ಲೀಲಾವತಿಯ ಒಂದು ಗಣಿತ ಒಗಟಿನಲ್ಲಿ: ಜೇನುನೊಣಗಳ ಗುಂಪಿನಲ್ಲಿ 1/5 ಭಾಗ ಕದಂಬ ಹೂವಿನ ಮೇಲೂ, 1/3 ಭಾಗ ಸಿಲಿಂಧ್ರ ಹೂವಿನ ಮೇಲೂ ಕುಳಿತರೆ, ಇನ್ನುಳಿದ 7 ಜೇನುನೊಣಗಳು ಹಾರಿಹೋದವು. ಹಾಗಾದರೆ ಒಟ್ಟು ಜೇನುನೊಣಗಳು ಎಷ್ಟು?",
+      "options": [
+        "15",
+        "30",
+        "20",
+        "45"
+      ],
+      "answer": "15",
+      "reasoning": "ಒಟ್ಟು ಜೇನುಗಳು x ಆದರೆ: x/5 + x/3 + 7 = x => 8x/15 + 7 = x => 7 = 7x/15 => x = 15."
+    }
+  },
+  {
+    "id": "pz_ancient_9",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Emperor Akbar demanded a pot full of wisdom (Aql) from a neighboring king. How did Birbal deliver a 'pot of wisdom'?",
+      "options": [
+        "He grew a pumpkin inside a narrow-necked clay pot until it filled the pot.",
+        "He filled the pot with sacred books and scriptures.",
+        "He kept the pot empty to represent the vastness of the mind.",
+        "He filled the pot with diamonds to represent clarity of thought."
+      ],
+      "answer": "He grew a pumpkin inside a narrow-necked clay pot until it filled the pot.",
+      "reasoning": "Birbal grew a pumpkin inside the pot, cut it from the vine, and sent it, saying they could have the wisdom (pumpkin) if they could remove it without breaking the pot."
+    },
+    "kn": {
+      "question": "ಅಕ್ಬರ್ ನೆರೆರಾಜ್ಯದ ರಾಜನಿಂದ ಒಂದು ಮಡಕೆ ತುಂಬ ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು (ಅಖ್ಲ್) ತರಲು ಕೇಳಿದನು. ಬೀರಬಲ್ ಇದನ್ನು ಹೇಗೆ ಪೂರೈಸಿದನು?",
+      "options": [
+        "ಕಿರಿದಾದ ಕುತ್ತಿಗೆಯುಳ್ಳ ಮಣ್ಣಿನ ಮಡಕೆಯೊಳಗೆ ಕುಂಬಳಕಾಯಿಯನ್ನು ಅದು ಮಡಕೆ ತುಂಬುವವರೆಗೆ ಬೆಳೆಸಿದನು.",
+        "ಮಡಕೆ ತುಂಬಾ ಧರ್ಮಗ್ರಂಥಗಳು ಮತ್ತು ಪುಸ್ತಕಗಳನ್ನು ತುಂಬಿಸಿದನು.",
+        "ಮನಸ್ಸಿನ ವಿಶಾಲತೆಯನ್ನು ಪ್ರತಿನಿಧಿಸಲು ಮಡಕೆಯನ್ನು ಖಾಲಿಯಾಗಿಟ್ಟನು.",
+        "ಸ್ಪಷ್ಟತೆಯನ್ನು ಪ್ರತಿನಿಧಿಸಲು ಮಡಕೆಯ ತುಂಬಾ ವಜ್ರಗಳನ್ನು ತುಂಬಿಸಿದನು"
+      ],
+      "answer": "ಕಿರಿದಾದ ಕುತ್ತಿಗೆಯುಳ್ಳ ಮಣ್ಣಿನ ಮಡಕೆಯೊಳಗೆ ಕುಂಬಳಕಾಯಿಯನ್ನು ಅದು ಮಡಕೆ ತುಂಬುವವರೆಗೆ ಬೆಳೆಸಿದನು.",
+      "reasoning": "ಮಡಕೆಯನ್ನು ಒಡೆಯದೆ ಮತ್ತು ಕುಂಬಳಕಾಯಿಯನ್ನು ಕತ್ತರಿಸದೆ ಅದನ್ನು ಹೊರತೆಗೆದರೆ ಬುದ್ಧಿವಂತಿಕೆ ನಿಮ್ಮದಾಗುತ್ತದೆ ಎಂದು ಬೀರಬಲ್ ಹೇಳಿದನು."
+    }
+  },
+  {
+    "id": "pz_ancient_10",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "A merchant left 3 chests labeled 'Gold', 'Silver', and 'Mixed'. All labels were incorrect. What is the minimum number of coins you must draw to label them all correctly?",
+      "options": [
+        "1 coin, from the 'Mixed' chest.",
+        "2 coins, one from 'Gold' and one from 'Silver'.",
+        "3 coins, one from each chest.",
+        "It is impossible to determine without opening all."
+      ],
+      "answer": "1 coin, from the 'Mixed' chest.",
+      "reasoning": "Since all labels are wrong, the 'Mixed' chest must be either pure Gold or pure Silver. Drawing 1 coin tells you its contents. The remaining labels are solved by elimination."
+    },
+    "kn": {
+      "question": "ಒಬ್ಬ ವರ್ತಕನು ಮೂರು ಪೆಟ್ಟಿಗೆಗಳ ಮೇಲೆ 'ಚಿನ್ನ', 'ಬೆಳ್ಳಿ' ಮತ್ತು 'ಮಿಶ್ರಣ' ಎಂದು ತಪ್ಪಾಗಿ ಲೇಬಲ್ ಹಾಕಿದನು. ಎಲ್ಲವನ್ನೂ ಸರಿಯಾಗಿ ಗುರುತಿಸಲು ಕನಿಷ್ಠ ಎಷ್ಟು ನಾಣ್ಯಗಳನ್ನು ತೆಗೆಯಬೇಕು?",
+      "options": [
+        "1 ನಾಣ್ಯ, 'ಮಿಶ್ರಣ' ಪೆಟ್ಟಿಗೆಯಿಂದ.",
+        "2 ನಾಣ್ಯಗಳು, 'ಚಿನ್ನ' ಮತ್ತು 'ಬೆಳ್ಳಿ' ಪೆಟ್ಟಿಗೆಗಳಿಂದ ತಲಾ ಒಂದು.",
+        "3 ನಾಣ್ಯಗಳು, ಪ್ರತಿಯೊಂದು ಪೆಟ್ಟಿಗೆಯಿಂದ ತಲಾ ಒಂದು.",
+        "ಎಲ್ಲವನ್ನೂ ತೆರೆಯದೆ ಇದನ್ನು ನಿರ್ಧರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ"
+      ],
+      "answer": "1 ನಾಣ್ಯ, 'ಮಿಶ್ರಣ' ಪೆಟ್ಟಿಗೆಯಿಂದ.",
+      "reasoning": "ಎಲ್ಲಾ ಲೇಬಲ್‌ಗಳು ತಪ್ಪಾಗಿರುವುದರಿಂದ, 'ಮಿಶ್ರಣ' ಲೇಬಲ್ ಇರುವ ಪೆಟ್ಟಿಗೆಯು ಸಂಪೂರ್ಣ ಚಿನ್ನ ಅಥವಾ ಬೆಳ್ಳಿಯಾಗಿರಬೇಕು. ಅದರಿಂದ 1 ನಾಣ್ಯ ತೆಗೆದರೆ ಅದರ ನಿಜವಾದ ವಸ್ತು ತಿಳಿಯುತ್ತದೆ, ಉಳಿದವುಗಳನ್ನು ಸುಲಭವಾಗಿ ಊಹಿಸಬಹುದು."
+    }
+  },
+  {
+    "id": "pz_ancient_11",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "How did Tenali Raman escape punishment for mocking the king by carrying a heavy bag of sand?",
+      "options": [
+        "He claimed he was carrying the weight of the king's sins.",
+        "He said the sand was the king's golden wisdom.",
+        "He claimed he was bringing the earth to witness the king's greatness.",
+        "He sold the sand as a cure for royal anger."
+      ],
+      "answer": "He claimed he was carrying the weight of the king's sins.",
+      "reasoning": "By using wit, Tenali Raman claimed he was bearing the heavy burden of the king's mistakes, which made the king laugh and pardon him."
+    },
+    "kn": {
+      "question": "ತೆನಾಲಿ ರಾಮನು ಮರಳಿನ ಚೀಲವನ್ನು ಹೊತ್ತುಕೊಂಡು ರಾಜನನ್ನು ಅಣಕಿಸಿದ್ದಕ್ಕಾಗಿ ಶಿಕ್ಷೆಯಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ಯಾವ ತಾರ್ಕಿಕ ಉತ್ತರ ನೀಡಿದನು?",
+      "options": [
+        "ತಾನು ರಾಜನ ಪಾಪಗಳ ಹೊರೆಯನ್ನು ಹೊರುತ್ತಿದ್ದೇನೆ ಎಂದು ಹೇಳಿದನು.",
+        "ಮರಳು ರಾಜನ ಚಿನ್ನದಂತಹ ಜ್ಞಾನ ಎಂದು ಹೇಳಿದನು.",
+        "ರಾಜನ ಹಿರಿಮೆಗೆ ಸಾಕ್ಷಿಯಾಗಲು ಮಣ್ಣನ್ನು ತರುತ್ತಿದ್ದೇನೆ ಎಂದನು.",
+        "ಮರಳನ್ನು ಕೋಪಕ್ಕೆ ಮದ್ದಾಗಿ ಮಾರಾಟ ಮಾಡಿದನು"
+      ],
+      "answer": "ತಾನು ರಾಜನ ಪಾಪಗಳ ಹೊರೆಯನ್ನು ಹೊರುತ್ತಿದ್ದೇನೆ ಎಂದು ಹೇಳಿದನು.",
+      "reasoning": "ರಾಮನು ತನ್ನ ಚತುರತೆಯಿಂದ ರಾಜನ ತಪ್ಪುಗಳ ಭಾರವನ್ನು ಹೊರುತ್ತಿದ್ದೇನೆ ಎಂದು ಹೇಳಿ ರಾಜನು ನಗುವಂತೆ ಮಾಡಿ ಶಿಕ್ಷೆಯಿಂದ ಪಾರಾದನು."
+    }
+  },
+  {
+    "id": "pz_ancient_12",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Akbar ordered Birbal to stand in a state of being 'neither in the sun nor in the shadow.' How did Birbal achieve this?",
+      "options": [
+        "By carrying a woven rope cot (charpoy) on his head.",
+        "By standing under a tree at noon.",
+        "By holding a transparent silk cloth above him.",
+        "By standing half inside and half outside the palace door."
+      ],
+      "answer": "By carrying a woven rope cot (charpoy) on his head.",
+      "reasoning": "The woven mesh of the cot let sunlight pass through the holes while casting shadows from the ropes, placing Birbal in a state of both light and shadow."
+    },
+    "kn": {
+      "question": "ಅಕ್ಬರನು ಬೀರಬಲ್ನಿಗೆ 'ಬಿಸಿಲಿನಲ್ಲೂ ಇರಬಾರದು, ನೆರಳಿನಲ್ಲೂ ಇರಬಾರದು' ಎಂಬ ಸ್ಥಿತಿಯಲ್ಲಿ ನಿಲ್ಲಲು ಆದೇಶಿಸಿದನು. ಬೀರಬಲ್ ಇದನ್ನು ಹೇಗೆ ಸಾಧಿಸಿದನು?",
+      "options": [
+        "ಮಂಚವನ್ನು (ಹಗ್ಗದಿಂದ ಹೆಣೆದ ಚಾರ್ಪಾಯಿ) ತನ್ನ ತಲೆಯ ಮೇಲೆ ಹೊತ್ತುಕೊಂಡು ನಿಂತನು.",
+        "ಮಧ್ಯಾಹ್ನ ಮರದ ಕೆಳಗೆ ನಿಂತುಕೊಂಡನು.",
+        "ತನ್ನ ಮೇಲೆ ಪಾರದರ್ಶಕ ರೇಷ್ಮೆ ಬಟ್ಟೆಯನ್ನು ಹಿಡಿದುಕೊಂಡನು.",
+        "ಅರಮನೆಯ ಬಾಗಿಲಿನ ಅರ್ಧ ಒಳಗೆ ಮತ್ತು ಅರ್ಧ ಹೊರಗೆ ನಿಂತನು"
+      ],
+      "answer": "ಮಂಚವನ್ನು (ಹಗ್ಗದಿಂದ ಹೆಣೆದ ಚಾರ್ಪಾಯಿ) ತನ್ನ ತಲೆಯ ಮೇಲೆ ಹೊತ್ತುಕೊಂಡು ನಿಂತನು.",
+      "reasoning": "ಹೆಣೆದ ಹಗ್ಗದ ಮಂಚವು ಸೂರ್ಯನ ಬೆಳಕು ಮತ್ತು ನೆರಳು ಎರಡನ್ನೂ ಒಟ್ಟಿಗೆ ನೆಲದ ಮೇಲೆ ಬೀಳಿಸುವುದರಿಂದ ಬೀರಬಲ್ ಇದನ್ನು ಸಾಧಿಸಿದನು."
+    }
+  },
+  {
+    "id": "pz_ancient_13",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following historical works contain traditional mathematical puzzles and riddles from ancient and medieval India?",
+      "options": [
+        "Lilavati by Bhaskara II",
+        "Ganita Sara Sangraha by Mahaviracharya",
+        "Arthashastra by Chanakya",
+        "Ramayana by Valmiki"
+      ],
+      "answer": [
+        "Lilavati by Bhaskara II",
+        "Ganita Sara Sangraha by Mahaviracharya"
+      ],
+      "reasoning": "Lilavati and Ganita Sara Sangraha are dedicated mathematical treaties featuring poetic riddles. Arthashastra deals with statecraft and Ramayana is an epic poem."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಯಾವ ಕೃತಿಗಳು ಪ್ರಾಚೀನ ಮತ್ತು ಮಧ್ಯಕಾಲೀನ ಭಾರತದ ಗಣಿತದ ಒಗಟುಗಳು ಮತ್ತು ಸಮಸ್ಯೆಗಳನ್ನು ಒಳಗೊಂಡಿವೆ?",
+      "options": [
+        "ಭಾಸ್ಕರಾಚಾರ್ಯರ ಲೀಲಾವತಿ",
+        "ಮಹಾವೀರಾಚಾರ್ಯರ ಗಣಿತ ಸಾರ ಸಂಗ್ರಹ",
+        "ಚಾಣಕ್ಯನ ಅರ್ಥಶಾಸ್ತ್ರ",
+        "ವಾಲ್ಮೀಕಿಯ ರಾಮಾಯಣ"
+      ],
+      "answer": [
+        "ಭಾಸ್ಕರಾಚಾರ್ಯರ ಲೀಲಾವತಿ",
+        "ಮಹಾವೀರಾಚಾರ್ಯರ ಗಣಿತ ಸಾರ ಸಂಗ್ರಹ"
+      ],
+      "reasoning": "ಲೀಲಾವತಿ ಮತ್ತು ಗಣಿತ ಸಾರ ಸಂಗ್ರಹಗಳು ಕಾವ್ಯಾತ್ಮಕ ಒಗಟುಗಳಿಂದ ತುಂಬಿದ ಪ್ರಸಿದ್ಧ ಗಣಿತದ ಕೃತಿಗಳಾಗಿವೆ. ಅರ್ಥಶಾಸ್ತ್ರ ಮತ್ತು ರಾಮಾಯಣ ಗಣಿತ ಗ್ರಂಥಗಳಲ್ಲ."
+    }
+  },
+  {
+    "id": "pz_ancient_14",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following wits are legendary figures in Indian folklore known for solving logical riddles and courtly disputes?",
+      "options": [
+        "Birbal",
+        "Tenali Raman",
+        "Gopal Bhar",
+        "Ravana"
+      ],
+      "answer": [
+        "Birbal",
+        "Tenali Raman",
+        "Gopal Bhar"
+      ],
+      "reasoning": "Birbal, Tenali Raman, and Gopal Bhar are famous court wits celebrated for their intelligence and logical problem-solving. Ravana is a mythological antagonist."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವರಲ್ಲಿ ಯಾರು ಭಾರತೀಯ ಜಾನಪದದಲ್ಲಿ ತಾರ್ಕಿಕ ಒಗಟುಗಳು ಮತ್ತು ವಿವಾದಗಳನ್ನು ಪರಿಹರಿಸಲು ಹೆಸರಾದ ಪೌರಾಣಿಕ ಬುದ್ಧಿವಂತ ವ್ಯಕ್ತಿಗಳಾಗಿದ್ದಾರೆ?",
+      "options": [
+        "ಬೀರಬಲ್",
+        "ತೆನಾಲಿ ರಾಮನ್",
+        "ಗೋಪಾಲ್ ಭಾರ್",
+        "ರಾವಣ"
+      ],
+      "answer": [
+        "ಬೀರಬಲ್",
+        "ತೆನಾಲಿ ರಾಮನ್",
+        "ಗೋಪಾಲ್ ಭಾರ್"
+      ],
+      "reasoning": "ಬೀರಬಲ್,ತೆನಾಲಿ ರಾಮನ್ ಮತ್ತು ಗೋಪಾಲ್ ಭಾರ್ ತಮ್ಮ ಆಸ್ಥಾನಗಳಲ್ಲಿ ಚತುರತೆಯಿಂದ ಒಗಟುಗಳನ್ನು ಬಿಡಿಸುತ್ತಿದ್ದ ಪ್ರಸಿದ್ಧ ವಿದೂಷಕರು."
+    }
+  },
+  {
+    "id": "pz_ancient_15",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Identify the texts that served as early sources of geometry and arithmetic puzzles in ancient India.",
+      "options": [
+        "Bakhshali Manuscript",
+        "Sulba Sutras",
+        "Panchatantra",
+        "Abhigyanashakuntalam"
+      ],
+      "answer": [
+        "Bakhshali Manuscript",
+        "Sulba Sutras"
+      ],
+      "reasoning": "The Bakhshali Manuscript contains arithmetic problems, and the Sulba Sutras contain geometric puzzles for altar constructions. Panchatantra is about animal fables and Abhigyanashakuntalam is a drama."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಚೀನ ಭಾರತದಲ್ಲಿ ರೇಖಾಗಣಿತ ಮತ್ತು ಅಂಕಗಣಿತದ ಒಗಟುಗಳ ಆರಂಭಿಕ ಮೂಲಗಳಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿದ ಗ್ರಂಥಗಳನ್ನು ಗುರುತಿಸಿ.",
+      "options": [
+        "ಬಕ್ಷಾಲಿ ಹಸ್ತಪ್ರತಿ",
+        "ಶುಲ್ಬ ಸೂತ್ರಗಳು",
+        "ಪಂಚತಂತ್ರ",
+        "ಅಭಿಜ್ಞಾನ ಶಾಕುಂತಲಂ"
+      ],
+      "answer": [
+        "ಬಕ್ಷಾಲಿ ಹಸ್ತಪ್ರತಿ",
+        "ಶುಲ್ಬ ಸೂತ್ರಗಳು"
+      ],
+      "reasoning": "ಬಕ್ಷಾಲಿ ಹಸ್ತಪ್ರತಿ ಮತ್ತು ಶುಲ್ಬ ಸೂತ್ರಗಳು ಪ್ರಾಚೀನ ಗಣಿತ ಮತ್ತು ರೇಖಾಗಣಿತದ ನಿಯಮಗಳನ್ನು ಒಳಗೊಂಡಿವೆ. ಉಳಿದವು ಸಾಹಿತ್ಯ ಕೃತಿಗಳು."
+    }
+  },
+  {
+    "id": "pz_ancient_16",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match the witty characters of Indian folklore with the patron rulers they served in their stories.",
+      "pairs": [
+        {"left": "Birbal", "right": "Emperor Akbar"},
+        {"left": "Tenali Raman", "right": "King Krishnadevaraya"},
+        {"left": "Gopal Bhar", "right": "Raja Krishnachandra"},
+        {"left": "Gonu Jha", "right": "King of Mithila"}
+      ],
+      "reasoning": "Birbal served Akbar in Agra/Delhi, Tenali Raman served Krishnadevaraya in Vijayanagara, Gopal Bhar served Raja Krishnachandra of Bengal, and Gonu Jha belongs to Mithila folklore."
+    },
+    "kn": {
+      "question": "ಭಾರತೀಯ ಜಾನಪದದ ಬುದ್ಧಿವಂತ ಪಾತ್ರಗಳನ್ನು ಅವರು ಸೇವೆ ಸಲ್ಲಿಸಿದ ಆಶ್ರಯದಾತ ರಾಜರೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಬೀರಬಲ್", "right": "ಅಕ್ಬರ್ ಚಕ್ರವರ್ತಿ"},
+        {"left": "ತೆನಾಲಿ ರಾಮನ್", "right": "ಕೃಷ್ಣದೇವರಾಯ ರಾಜ"},
+        {"left": "ಗೋಪಾಲ್ ಭಾರ್", "right": "ರಾಜ ಕೃಷ್ಣಚಂದ್ರ"},
+        {"left": "ಗೋನು ಝಾ", "right": "ಮಿಥಿಲೆಯ ರಾಜ"}
+      ],
+      "reasoning": "ಬೀರಬಲ್ ಅಕ್ಬರನ ಆಸ್ಥಾನದಲ್ಲಿದ್ದರು, ತೆನಾಲಿ ರಾಮನ್ ಕೃಷ್ಣದೇವರಾಯನ ಆಸ್ಥಾನದಲ್ಲಿದ್ದರು, ಗೋಪಾಲ್ ಭಾರ್ ಬೆಂಗಾಲದ ರಾಜ ಕೃಷ್ಣಚಂದ್ರನ ಸೇವೆ ಮಾಡಿದರು ಮತ್ತು ಗೋನು ಝಾ ಮಿಥಿಲೆಯ ಜಾಣ."
+    }
+  },
+  {
+    "id": "pz_ancient_17",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match the famous ancient Indian mathematical/puzzle treatises with their authors.",
+      "pairs": [
+        {"left": "Lilavati", "right": "Bhaskara II"},
+        {"left": "Ganita Sara Sangraha", "right": "Mahaviracharya"},
+        {"left": "Brahmasphuta Siddhanta", "right": "Brahmagupta"},
+        {"left": "Aryabhatiya", "right": "Aryabhata"}
+      ],
+      "reasoning": "Lilavati was authored by Bhaskara II, Ganita Sara Sangraha by Mahaviracharya, Brahmasphuta Siddhanta by Brahmagupta, and Aryabhatiya by Aryabhata."
+    },
+    "kn": {
+      "question": "ಪ್ರಸಿದ್ಧ ಪ್ರಾಚೀನ ಭಾರತೀಯ ಗಣಿತ/ಒಗಟು ಕೃತಿಗಳನ್ನು ಅವುಗಳ ಲೇಖಕರೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಲೀಲಾವತಿ", "right": "ಭಾಸ್ಕರಾಚಾರ್ಯ II"},
+        {"left": "ಗಣಿತ ಸಾರ ಸಂಗ್ರಹ", "right": "ಮಹಾವೀರಾಚಾರ್ಯ"},
+        {"left": "ಬ್ರಹ್ಮಸ್ಫುಟ ಸಿದ್ಧಾಂತ", "right": "ಬ್ರಹ್ಮಗುಪ್ತ"},
+        {"left": "ಆರ್ಯಭಟೀಯ", "right": "ಆರ್ಯಭಟ"}
+      ],
+      "reasoning": "ಲೀಲಾವತಿಯನ್ನು ಭಾಸ್ಕರಾಚಾರ್ಯ II, ಗಣಿತ ಸಾರ ಸಂಗ್ರಹವನ್ನು ಮಹಾವೀರಾಚಾರ್ಯ, ಬ್ರಹ್ಮಸ್ಫುಟ ಸಿದ್ಧಾಂತವನ್ನು ಬ್ರಹ್ಮಗುಪ್ತ ಮತ್ತು ಆರ್ಯಭಟೀಯವನ್ನು ಆರ್ಯಭಟ ಬರೆದರು."
+    }
+  },
+  {
+    "id": "pz_ancient_18",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "A lotus flower is 1/2 cubit above the water. Forced by the wind, it sinks into the water at a distance of 2 cubits from its original position. What is the depth of the water?",
+      "options": [
+        "3.75 cubits",
+        "4.25 cubits",
+        "3.50 cubits",
+        "4.00 cubits"
+      ],
+      "answer": "3.75 cubits",
+      "reasoning": "Let depth be d. Hypotenuse is d + 0.5. Base is 2. By Pythagorean theorem: (d + 0.5)^2 = d^2 + 2^2 => d^2 + d + 0.25 = d^2 + 4 => d = 3.75 cubits."
+    },
+    "kn": {
+      "question": "ನೀರಿನಿಂದ 1/2 ಹಸ್ತದಷ್ಟು (cubit) ಮೇಲೆ ತಾವರೆ ಹೂವಿತ್ತು. ಗಾಳಿಯ ಹೊಡೆತಕ್ಕೆ ಸಿಲುಕಿ ಅದು ತನ್ನ ಮೂಲ ಸ್ಥಾನದಿಂದ 2 ಹಸ್ತಗಳ ದೂರದಲ್ಲಿ ನೀರಿನಲ್ಲಿ ಮುಳುಗಿತು. ಹಾಗಾದರೆ ಕೆರೆಯ ನೀರಿನ ಆಳ ಎಷ್ಟು?",
+      "options": [
+        "3.75 ಹಸ್ತಗಳು",
+        "4.25 ಹಸ್ತಗಳು",
+        "3.50 ಹಸ್ತಗಳು",
+        "4.00 ಹಸ್ತಗಳು"
+      ],
+      "answer": "3.75 ಹಸ್ತಗಳು",
+      "reasoning": "ನೀರಿನ ಆಳ d ಆದರೆ, ಕರ್ಣ d + 0.5 ಮತ್ತು ಪಾದ 2. ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ಪ್ರಕಾರ: (d + 0.5)^2 = d^2 + 2^2 => d^2 + d + 0.25 = d^2 + 4 => d = 3.75 ಹಸ್ತಗಳು."
+    }
+  },
+  {
+    "id": "pz_ancient_19",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "A peacock sits on a pillar 9 cubits high. A snake is 27 cubits away from the pillar, crawling towards a hole at the base. If they move at equal speeds, at what distance from the pillar will the peacock catch the snake?",
+      "options": [
+        "12 cubits",
+        "15 cubits",
+        "9 cubits",
+        "18 cubits"
+      ],
+      "answer": "12 cubits",
+      "reasoning": "Let distance from base be x. Since speeds are equal, distance traveled by both is equal. Peacock's path is the hypotenuse of a right triangle with sides 9 and x. Snake travels 27 - x. 9^2 + x^2 = (27 - x)^2 => 81 + x^2 = 729 - 54x + x^2 => 54x = 648 => x = 12."
+    },
+    "kn": {
+      "question": "9 ಹಸ್ತ ಎತ್ತರದ ಕಂಬದ ಮೇಲೆ ನವಿಲು ಕುಳಿತಿದೆ. ಕಂಬದಿಂದ 27 ಹಸ್ತ ದೂರದಲ್ಲಿರುವ ಹಾವು ಕಂಬದ ಬುಡದಲ್ಲಿರುವ ರಂಧ್ರದ ಕಡೆಗೆ ತೆವಳುತ್ತಿದೆ. ನವಿಲು ಮತ್ತು ಹಾವು ಒಂದೇ ವೇಗದಲ್ಲಿ ಚಲಿಸಿದರೆ, ಕಂಬದಿಂದ ಎಷ್ಟು ದೂರದಲ್ಲಿ ನವಿಲು ಹಾವನ್ನು ಹಿಡಿಯುತ್ತದೆ?",
+      "options": [
+        "12 ಹಸ್ತಗಳು",
+        "15 ಹಸ್ತಗಳು",
+        "9 ಹಸ್ತಗಳು",
+        "18 ಹಸ್ತಗಳು"
+      ],
+      "answer": "12 ಹಸ್ತಗಳು",
+      "reasoning": "ಕಂಬದ ಬುಡದಿಂದ ದೂರ x ಆದರೆ, ನವಿಲು ಮತ್ತು ಹಾವು ಚಲಿಸಿದ ದೂರ ಸಮನಾಗಿರುತ್ತದೆ. 9^2 + x^2 = (27 - x)^2 => 81 + x^2 = 729 - 54x + x^2 => 54x = 648 => x = 12 ಹಸ್ತಗಳು."
+    }
+  },
+  {
+    "id": "pz_ancient_20",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "A father and son marry a daughter and mother respectively (father marries daughter, son marries mother). What is the relationship between the children of these two couples?",
+      "options": [
+        "They are uncles/aunts and nephews/nieces to each other.",
+        "They are half-siblings.",
+        "They are first cousins.",
+        "They are grandfathers and grandsons."
+      ],
+      "answer": "They are uncles/aunts and nephews/nieces to each other.",
+      "reasoning": "Since the son's wife is the mother of the father's wife, the children of the son and mother are maternal/paternal uncles or aunts to the children of the father and daughter."
+    },
+    "kn": {
+      "question": "ಬೇತಾಳನ ಕಥೆಯೊಂದರ ಒಗಟು: ಒಬ್ಬ ತಂದೆ ಮತ್ತು ಮಗ ಕ್ರಮವಾಗಿ ಒಬ್ಬ ಮಗಳು ಮತ್ತು ತಾಯಿಯನ್ನು ಮದುವೆಯಾಗುತ್ತಾರೆ (ತಂದೆಯು ಮಗಳನ್ನು, ಮಗನು ತಾಯಿಯನ್ನು). ಈ ದಂಪತಿಗಳಿಗೆ ಹುಟ್ಟುವ ಮಕ್ಕಳ ನಡುವಿನ ಸಂಬಂಧವೇನು?",
+      "options": [
+        "ಅವರು ಪರಸ್ಪರ ಸೋದರಮಾವ/ಸೋದರತ್ತೆ ಮತ್ತು ಸೋದರಳಿಯ/ಸೋದರಸೊಸೆ ಆಗುತ್ತಾರೆ.",
+        "ಅವರು ಒಡಹುಟ್ಟಿದವರಾಗುತ್ತಾರೆ.",
+        "ಅವರು ಸೋದರಸಂಬಂಧಿಗಳಾಗುತ್ತಾರೆ.",
+        "ಅವರು ತಾತ ಮತ್ತು ಮೊಮ್ಮಕ್ಕಳಾಗುತ್ತಾರೆ"
+      ],
+      "answer": "ಅವರು ಪರಸ್ಪರ ಸೋದರಮಾವ/ಸೋದರತ್ತೆ ಮತ್ತು ಸೋದರಳಿಯ/ಸೋದರಸೊಸೆ ಆಗುತ್ತಾರೆ.",
+      "reasoning": "ಮಗನ ಹೆಂಡತಿಯು ತಂದೆಯ ಹೆಂಡತಿಯ ತಾಯಿಯಾಗಿರುವುದರಿಂದ, ಮಗನ ಮಕ್ಕಳು ತಂದೆಯ ಮಕ್ಕಳಿಗೆ ಸೋದರಮಾವ/ಸೋದರತ್ತೆ ಸಂಬಂಧ ಹೊಂದುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_21",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "In a puzzle from Ganita Sara Sangraha, a necklace of pearls broke: 1/3 fell on the bed, 1/5 on the floor, 1/6 were found by the lady, 1/10 were caught by the lover, and 6 remained on the string. How many pearls were there in total?",
+      "options": [
+        "30",
+        "60",
+        "45",
+        "50"
+      ],
+      "answer": "30",
+      "reasoning": "Let total pearls be x. x/3 + x/5 + x/6 + x/10 + 6 = x. Sum of fractions: (10 + 6 + 5 + 3)/30 = 24/30 = 4/5. So 4x/5 + 6 = x => x/5 = 6 => x = 30."
+    },
+    "kn": {
+      "question": "ಗಣಿತ ಸಾರ ಸಂಗ್ರಹದ ಒಗಟು: ಮುತ್ತಿನ ಹಾರವೊಂದು ತುಂಡಾಯಿತು. ಒಟ್ಟು ಮುತ್ತುಗಳಲ್ಲಿ 1/3 ಭಾಗ ಹಾಸಿಗೆಯ ಮೇಲೆ, 1/5 ಭಾಗ ನೆಲದ ಮೇಲೆ ಬಿದ್ದಿತು, 1/6 ಭಾಗ ಪ್ರೇಯಸಿಗೆ ಸಿಕ್ಕಿತು, 1/10 ಭಾಗ ಪ್ರೇಮಿಯ ಕೈಗೆ ಸಿಕ್ಕಿತು ಮತ್ತು 6 ಮುತ್ತುಗಳು ದಾರದಲ್ಲೇ ಉಳಿದವು. ಹಾಗಾದರೆ ಒಟ್ಟು ಮುತ್ತುಗಳು ಎಷ್ಟು?",
+      "options": [
+        "30",
+        "60",
+        "45",
+        "50"
+      ],
+      "answer": "30",
+      "reasoning": "ಒಟ್ಟು ಮುತ್ತುಗಳು x ಆದರೆ: x/3 + x/5 + x/6 + x/10 + 6 = x => 4x/5 + 6 = x => x/5 = 6 => x = 30."
+    }
+  },
+  {
+    "id": "pz_ancient_22",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "The royal priests claimed that the king's late mother's soul would not rest unless they were gifted golden mangoes. How did Tenali Raman teach the greedy priests a lesson?",
+      "options": [
+        "He gifted them red-hot branding irons to fulfill his own mother's 'last wish'.",
+        "He gifted them mangoes made of wax.",
+        "He gave them real mangoes painted gold.",
+        "He made them eat sour mangoes until they wept."
+      ],
+      "answer": "He gifted them red-hot branding irons to fulfill his own mother's 'last wish'.",
+      "reasoning": "Tenali Raman invited the priests claiming his mother wanted her legs branded to cure her disease before dying, so he branded the greedy priests with hot iron bars."
+    },
+    "kn": {
+      "question": "ರಾಜನ ಮೃತ ತಾಯಿಯ ಆತ್ಮಕ್ಕೆ ಶಾಂತಿ ಸಿಗಬೇಕಾದರೆ ತಮಗೆ ಚಿನ್ನದ ಮಾವಿನ ಹಣ್ಣುಗಳನ್ನು ದಾನ ಮಾಡಬೇಕೆಂದು ಅರ್ಚಕರು ಹೇಳಿದರು. ತೆನಾಲಿ ರಾಮನು ಈ ದುರಾಸೆಯ ಅರ್ಚಕರಿಗೆ ಹೇಗೆ ಬುದ್ಧಿ ಕಲಿಸಿದನು?",
+      "options": [
+        "ತನ್ನ ತಾಯಿಯ ಕೊನೆಯ ಆಸೆಯಂತೆ ಅರ್ಚಕರಿಗೆ ಬಿಸಿ ಕಬ್ಬಿಣದ ಸಲಾಕೆಗಳಿಂದ ಚುರಕೆ ನೀಡಿದನು.",
+        "ಮೇಣದಿಂದ ಮಾಡಿದ ಮಾವಿನ ಹಣ್ಣುಗಳನ್ನು ಉಡುಗೊರೆಯಾಗಿ ನೀಡಿದನು.",
+        "ಚಿನ್ನದ ಬಣ್ಣ ಬಳಿದ ನೈಜ ಮಾವಿನ ಹಣ್ಣುಗಳನ್ನು ನೀಡಿದನು.",
+        "ಅವರು ಅಳುವವರೆಗೆ ಹುಳಿ ಮಾವಿನ ಹಣ್ಣುಗಳನ್ನು ತಿನ್ನಿಸಿದನು"
+      ],
+      "answer": "ತನ್ನ ತಾಯಿಯ ಕೊನೆಯ ಆಸೆಯಂತೆ ಅರ್ಚಕರಿಗೆ ಬಿಸಿ ಕಬ್ಬಿಣದ ಸಲಾಕೆಗಳಿಂದ ಚುರಕೆ ನೀಡಿದನು.",
+      "reasoning": "ತನ್ನ ತಾಯಿಯು ಕಾಲು ನೋವಿಗೆ ಬಿಸಿ ಚುರಕೆ ಹಾಕಿಸಿಕೊಳ್ಳಲು ಬಯಸಿದ್ದಳು ಎಂದು ಹೇಳಿ ತೆನಾಲಿ ರಾಮನು ದುರಾಸೆಯ ಅರ್ಚಕರಿಗೆ ಬಿಸಿ ಕಬ್ಬಿಣದ ಸಲಾಕೆಗಳಿಂದ ಬರೆ ಎಳೆದನು."
+    }
+  },
+  {
+    "id": "pz_ancient_23",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "A merchant's house was robbed. Birbal gave sticks of equal length to all servants, claiming they would grow by 2 inches overnight for the thief. How did he catch the thief?",
+      "options": [
+        "The thief cut his stick by 2 inches out of fear.",
+        "The thief's stick actually grew due to a chemical reaction.",
+        "The thief threw his stick away.",
+        "The thief hid his stick under the bed."
+      ],
+      "answer": "The thief cut his stick by 2 inches out of fear.",
+      "reasoning": "The thief, believing the stick would grow, cut off 2 inches of his stick to hide the growth. This made his stick shorter than the rest, exposing him."
+    },
+    "kn": {
+      "question": "ವರ್ತಕನೊಬ್ಬನ ಮನೆಯಲ್ಲಿ ಕಳ್ಳತನವಾಯಿತು. ಬೀರಬಲ್ ಎಲ್ಲಾ ಸೇವಕರಿಗೆ ಸಮಾನ ಉದ್ದದ ಕೋಲುಗಳನ್ನು ನೀಡಿ, ಕಳ್ಳನ ಕೋಲು ರಾತ್ರೋರಾತ್ರಿ 2 ಇಂಚು ಬೆಳೆಯುತ್ತದೆ ಎಂದನು. ಅವನು ಕಳ್ಳನನ್ನು ಹೇಗೆ ಹಿಡಿದನು?",
+      "options": [
+        "ಕಳ್ಳನು ಹೆದರಿಕೆಯಿಂದ ತನ್ನ ಕೋಲನ್ನು 2 ಇಂಚು ಕತ್ತರಿಸಿದ್ದನು.",
+        "ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಿಂದ ಕಳ್ಳನ ಕೋಲು ನಿಜವಾಗಿಯೂ ಬೆಳೆದಿತ್ತು.",
+        "ಕಳ್ಳನು ತನ್ನ ಕೋಲನ್ನು ಎಸೆದುಬಿಟ್ಟಿದ್ದನು.",
+        "ಕಳ್ಳನು ತನ್ನ ಕೋಲನ್ನು ಹಾಸಿಗೆಯ ಅಡಿಯಲ್ಲಿ ಬಚ್ಚಿಟ್ಟಿದ್ದನು"
+      ],
+      "answer": "ಕಳ್ಳನು ಹೆದರಿಕೆಯಿಂದ ತನ್ನ ಕೋಲನ್ನು 2 ಇಂಚು ಕತ್ತರಿಸಿದ್ದನು.",
+      "reasoning": "ಕೋಲು ಬೆಳೆಯುತ್ತದೆ ಎಂದು ನಂಬಿದ ಕಳ್ಳನು ಮೊದಲೇ ಕೋಲನ್ನು 2 ಇಂಚು ಕತ್ತರಿಸಿದನು. ಮರುದಿನ ಅವನ ಕೋಲು ಉಳಿದವರಿಗಿಂತ ಚಿಕ್ಕದಾಗಿದ್ದುದರಿಂದ ಸಿಕ್ಕಿಬಿದ್ದನು."
+    }
+  },
+  {
+    "id": "pz_ancient_24",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "A bamboo of height 18 cubits is broken by the wind. Its tip touches the ground at a distance of 6 cubits from the root. At what height did it break?",
+      "options": [
+        "8 cubits",
+        "9 cubits",
+        "10 cubits",
+        "6 cubits"
+      ],
+      "answer": "8 cubits",
+      "reasoning": "Let the height where it broke be h. The remaining part is 18 - h. By Pythagorean theorem: (18 - h)^2 = h^2 + 6^2 => 324 - 36h + h^2 = h^2 + 36 => 36h = 288 => h = 8."
+    },
+    "kn": {
+      "question": "18 ಹಸ್ತ ಎತ್ತರದ ಬಿದಿರು ಗಾಳಿಗೆ ಮುರಿದು ಬಿದ್ದಿತು. ಅದರ ತುದಿ ಬುಡದಿಂದ 6 ಹಸ್ತಗಳ ದೂರದಲ್ಲಿ ನೆಲವನ್ನು ಮುಟ್ಟಿತು. ಹಾಗಾದರೆ ಅದು ನೆಲದಿಂದ ಎಷ್ಟು ಎತ್ತರದಲ್ಲಿ ಮುರಿಯಿತು?",
+      "options": [
+        "8 ಹಸ್ತಗಳು",
+        "9 ಹಸ್ತಗಳು",
+        "10 ಹಸ್ತಗಳು",
+        "6 ಹಸ್ತಗಳು"
+      ],
+      "answer": "8 ಹಸ್ತಗಳು",
+      "reasoning": "ಮುರಿದ ಎತ್ತರ h ಆದರೆ, ಉಳಿದ ಭಾಗ 18 - h. ಪೈಥಾಗೊರಸ್ ನಿಯಮ: (18 - h)^2 = h^2 + 6^2 => 324 - 36h = 36 => 36h = 288 => h = 8 ಹಸ್ತಗಳು."
+    }
+  },
+  {
+    "id": "pz_ancient_25",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "A father left 17 horses to be divided among 3 sons: 1/2 to the eldest, 1/3 to the second, and 1/9 to the youngest. A wise man solved it by lending his own horse. How many horses did the eldest get?",
+      "options": [
+        "9 horses",
+        "6 horses",
+        "2 horses",
+        "8 horses"
+      ],
+      "answer": "9 horses",
+      "reasoning": "With the wise man's horse, total became 18. Eldest got 1/2 of 18 = 9. Second got 1/3 of 18 = 6. Youngest got 1/9 of 18 = 2. Total given: 9 + 6 + 2 = 17, and the wise man took his horse back."
+    },
+    "kn": {
+      "question": "ತಂದೆಯೊಬ್ಬನು ತನ್ನ 3 ಮಕ್ಕಳಿಗೆ 17 ಕುದುರೆಗಳನ್ನು ಈ ಕೆಳಗಿನಂತೆ ಹಂಚಲು ವಿಲ್ ಬರೆದನು: ಹಿರಿಯನಿಗೆ 1/2, ಎರಡನೆಯವನಿಗೆ 1/3 ಮತ್ತು ಕಿರಿಯನಿಗೆ 1/9 ಭಾಗ. ಜ್ಞಾನಿಯೊಬ್ಬನು ತನ್ನ ಕುದುರೆ ಸೇರಿಸಿ ಒಗಟನ್ನು ಬಿಡಿಸಿದಾಗ ಹಿರಿಯನಿಗೆ ಎಷ್ಟು ಕುದುರೆಗಳು ಸಿಕ್ಕವು?",
+      "options": [
+        "9 ಕುದುರೆಗಳು",
+        "6 ಕುದುರೆಗಳು",
+        "2 ಕುದುರೆಗಳು",
+        "8 ಕುದುರೆಗಳು"
+      ],
+      "answer": "9 ಕುದುರೆಗಳು",
+      "reasoning": "ಜ್ಞಾನಿಯ ಕುದುರೆಯೊಂದಿಗೆ ಒಟ್ಟು 18 ಕುದುರೆಗಳಾದವು. ಹಿರಿಯನಿಗೆ 1/2 ಭಾಗ = 9, ಎರಡನೆಯವನಿಗೆ 1/3 ಭಾಗ = 6, ಕಿರಿಯನಿಗೆ 1/9 ಭಾಗ = 2. ಒಟ್ಟು 9+6+2 = 17 ಕುದುರೆಗಳನ್ನು ಹಂಚಿ ಜ್ಞಾನಿ ತನ್ನ ಕುದುರೆ ವಾಪಸ್ ಪಡೆದನು."
+    }
+  },
+  {
+    "id": "pz_ancient_26",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Which of the following is the correct spelling of the ancient Indian mathematical term representing the board-work or dust-work (arithmetic calculations)?",
+      "options": [
+        "Patiganita",
+        "Pateeganita",
+        "Paatiganeeta",
+        "Patyganita"
+      ],
+      "answer": "Patiganita",
+      "reasoning": "Patiganita (from pati, meaning board/table, and ganita, meaning science of calculation) is the historical Sanskrit term for elementary arithmetic and algebra."
+    },
+    "kn": {
+      "question": "ಮರಳು ಅಥವಾ ಹಲಗೆಯ ಮೇಲಿನ ಲೆಕ್ಕಾಚಾರವನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಪ್ರಾಚೀನ ಭಾರತೀಯ ಗಣಿತದ ಪದದ ಸರಿಯಾದ ಕಾಗುಣಿತ ಯಾವುದು?",
+      "options": [
+        "Patiganita",
+        "Pateeganita",
+        "Paatiganeeta",
+        "Patyganita"
+      ],
+      "answer": "Patiganita",
+      "reasoning": "ಪಾಟೀಗಣಿತ (Patiganita) ಎಂಬುದು ಹಲಗೆ ಅಥವಾ ಮರಳಿನ ಮೇಲೆ ಮಾಡುವ ಲೆಕ್ಕಾಚಾರಗಳನ್ನು ಸೂಚಿಸುವ ಅಂಕಗಣಿತದ ಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಕೃತ ಪದವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_27",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "In a Betal story, a king and prince agreed: the king marries the mother (larger feet), the prince marries the daughter (smaller feet). However, the mother had smaller feet and daughter had larger feet, reversing the marriages. What confusion does this create for their children?",
+      "options": [
+        "The children's mothers are also their step-grandmothers.",
+        "The children are cousins and siblings at the same time.",
+        "The father becomes the son of his own son.",
+        "The children have no biological relationship."
+      ],
+      "answer": "The children's mothers are also their step-grandmothers.",
+      "reasoning": "Since the King married the daughter, and the Prince (son) married the mother, the Prince's wife (mother) is the mother of the King's wife, making the Prince's children the maternal uncles/aunts of the King's children."
+    },
+    "kn": {
+      "question": "ಬೇತಾಳನ ಕಥೆಯೊಂದರಲ್ಲಿ: ದೊಡ್ಡ ಹೆಜ್ಜೆಯವಳನ್ನು ರಾಜ, ಸಣ್ಣ ಹೆಜ್ಜೆಯವಳನ್ನು ಯುವರಾಜ ಮದುವೆಯಾಗಲು ನಿರ್ಧರಿಸಿದರು. ಆದರೆ ತಾಯಿಗೆ ಸಣ್ಣ ಹೆಜ್ಜೆ, ಮಗಳಿಗೆ ದೊಡ್ಡ ಹೆಜ್ಜೆ ಇದ್ದಿದ್ದರಿಂದ ಮದುವೆಗಳು ಅದಲುಬದಲಾದವು. ಇದು ಮಕ್ಕಳ ನಡುವೆ ಯಾವ ಗೊಂದಲವನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ?",
+      "options": [
+        "ಮಕ್ಕಳ ತಾಯಂದಿರು ಅವರ सावತಿ-ಅಜ್ಜಿಯಂದಿರು (step-grandmothers) ಆಗುತ್ತಾರೆ.",
+        "ಮಕ್ಕಳು ಒಂದೇ ಸಮಯದಲ್ಲಿ ಸೋದರಸಂಬಂಧಿಗಳು ಮತ್ತು ಒಡಹುಟ್ಟಿದವರಾಗುತ್ತಾರೆ.",
+        "ತಂದೆಯು ತನ್ನ ಸ್ವಂತ ಮಗನ ಮಗನಾಗುತ್ತಾನೆ.",
+        "ಮಕ್ಕಳ ನಡುವೆ ಯಾವುದೇ ಜೈವಿಕ ಸಂಬಂಧ ಇರುವುದಿಲ್ಲ"
+      ],
+      "answer": "ಮಕ್ಕಳ ತಾಯಂದಿರು ಅವರ सावತಿ-ಅಜ್ಜಿಯಂದಿರು (step-grandmothers) ಆಗುತ್ತಾರೆ.",
+      "reasoning": "ಯುವರಾಜನು ತಾಯಿಯನ್ನು ಮತ್ತು ರಾಜನು ಮಗಳನ್ನು ಮದುವೆಯಾದಾಗ, ಯುವರಾಜನ ಹೆಂಡತಿಯು ರಾಜನ ಹೆಂಡತಿಯ ತಾಯಿಯಾಗುತ್ತಾಳೆ, ಇದು ತಲೆಮಾರುಗಳ ಸಂಬಂಧವನ್ನು ಗೊಂದಲಗೊಳಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_28",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "How did Chanakya test if a dish served to Chandragupta Maurya was poisoned using animal behavior?",
+      "options": [
+        "He fed a small portion to a crow, which died instantly.",
+        "He watched if flies avoided landing on the dish.",
+        "He dipped a copper ring in the food to see if it turned black.",
+        "He observed if royal dogs barked at the food."
+      ],
+      "answer": "He fed a small portion to a crow, which died instantly.",
+      "reasoning": "Chanakya used the behavior of crows and other animals as a biological assay to detect poisons in the royal food beforehand."
+    },
+    "kn": {
+      "question": "ಚಂದ್ರಗುಪ್ತ ಮೌರ್ಯನಿಗೆ ಬಡಿಸಿದ ಆಹಾರವು ವಿಷಪೂರಿತವಾಗಿದೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಲು ಚಾಣಕ್ಯನು ಪ್ರಾಣಿಗಳ ವರ್ತನೆಯನ್ನು ಬಳಸಿದ ವಿಧಾನ ಯಾವುದು?",
+      "options": [
+        "ಸ್ವಲ್ಪ ಭಾಗವನ್ನು ಕಾಗೆಗೆ ತಿನಿಸಿದಾಗ ಅದು ತಕ್ಷಣವೇ ಮರಣ ಹೊಂದಿತು.",
+        "ನೊಣಗಳು ಆ ಆಹಾರದ ಮೇಲೆ ಕುಳಿತುಕೊಳ್ಳುವುದನ್ನು ತಪ್ಪಿಸುತ್ತವೆಯೇ ಎಂದು ಗಮನಿಸಿದನು.",
+        "ತಾಮ್ರದ ಉಂಗುರವನ್ನು ಆಹಾರದಲ್ಲಿ ಮುಳುಗಿಸಿ ಅದು ಕಪ್ಪಗಾಗುತ್ತದೆಯೇ ಎಂದು ನೋಡಿದನು.",
+        "ರಾಜಮನೆತನದ Nಾಯಿಗಳು ಆಹಾರವನ್ನು ನೋಡಿ ಬೊಗಳುತ್ತವೆಯೇ ಎಂದು ಗಮನಿಸಿದನು"
+      ],
+      "answer": "ಸ್ವಲ್ಪ ಭಾಗವನ್ನು ಕಾಗೆಗೆ ತಿನಿಸಿದಾಗ ಅದು ತಕ್ಷಣವೇ ಮರಣ ಹೊಂದಿತು.",
+      "reasoning": "ಆಹಾರಕ್ಕೆ ವಿಷ ಸೇರಿಸಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಚಾಣಕ್ಯನು ಮೊದಲು ಅದನ್ನು ಕಾಗೆಗೆ ತಿನ್ನಿಸಿ ಪರೀಕ್ಷಿಸುತ್ತಿದ್ದನು."
+    }
+  },
+  {
+    "id": "pz_ancient_29",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "In a forest, a flock of peacocks is divided. The square root of half the flock is playing on a mango tree, and 6 remaining peacocks are on a Kadamba tree. How many peacocks are in the flock?",
+      "options": [
+        "8",
+        "18",
+        "16",
+        "12"
+      ],
+      "answer": "8",
+      "reasoning": "Let flock size be x. sqrt(x/2) + 6 = x => sqrt(x/2) = x - 6. Squaring both sides: x/2 = x^2 - 12x + 36 => 2x^2 - 25x + 72 = 0. Solving for positive integer, x = 8. (sqrt(8/2) + 6 = 2 + 6 = 8)."
+    },
+    "kn": {
+      "question": "ಗಣಿತ ಸಾರ ಸಂಗ್ರಹದ ಒಗಟು: ಕಾಡಿನಲ್ಲಿ ನವಿಲುಗಳ ಹಿಂಡಿದೆ. ಹಿಂಡಿನ ಅರ್ಧದಷ್ಟು ಭಾಗದ ವರ್ಗಮೂಲದಷ್ಟು ನವಿಲುಗಳು ಮಾವಿನ ಮರದ ಮೇಲೆ ಆಟವಾಡುತ್ತಿವೆ, ಮತ್ತು ಉಳಿದ 6 ನವಿಲುಗಳು ಕದಂಬ ಮರದ ಮೇಲಿವೆ. ಒಟ್ಟು ನವಿಲುಗಳು ಎಷ್ಟು?",
+      "options": [
+        "8",
+        "18",
+        "16",
+        "12"
+      ],
+      "answer": "8",
+      "reasoning": "ಒಟ್ಟು ನವಿಲುಗಳು x ಆದರೆ: sqrt(x/2) + 6 = x. x = 8 ಆದಾಗ, sqrt(8/2) + 6 = 2 + 6 = 8 ಆಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_30",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which mathematical concepts are heavily utilized in Bhaskara II's riddles in 'Lilavati'?",
+      "options": [
+        "Quadratic equations",
+        "Pythagorean theorem",
+        "Arithmetic progressions",
+        "Calculus limits"
+      ],
+      "answer": [
+        "Quadratic equations",
+        "Pythagorean theorem",
+        "Arithmetic progressions"
+      ],
+      "reasoning": "Lilavati features quadratic equations (e.g. bee swarm problems), the Pythagorean theorem (e.g. peacock-snake and broken bamboo), and arithmetic progressions. Calculus limits are not in Lilavati."
+    },
+    "kn": {
+      "question": "ಭಾಸ್ಕರಾಚಾರ್ಯರ 'ಲೀಲಾವತಿ'ಯ ಒಗಟುಗಳಲ್ಲಿ ಯಾವ ಗಣಿತದ ಪರಿಕಲ್ಪನೆಗಳನ್ನು ಹೆಚ್ಚಾಗಿ ಬಳಸಲಾಗಿದೆ?",
+      "options": [
+        "ವರ್ಗ ಸಮೀಕರಣಗಳು (Quadratic equations)",
+        "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ (Pythagorean theorem)",
+        "ಸಮಾಂತರ ಶ್ರೇಢಿಗಳು (Arithmetic progressions)",
+        "ಕಲನಶಾಸ್ತ್ರದ ಮಿತಿಗಳು (Calculus limits)"
+      ],
+      "answer": [
+        "ವರ್ಗ ಸಮೀಕರಣಗಳು (Quadratic equations)",
+        "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ (Pythagorean theorem)",
+        "ಸಮಾಂತರ ಶ್ರೇಢಿಗಳು (Arithmetic progressions)"
+      ],
+      "reasoning": "ಲೀಲಾವತಿ ಕೃತಿಯಲ್ಲಿ ವರ್ಗ ಸಮೀಕರಣಗಳು, ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಮತ್ತು ಸಮಾಂತರ ಶ್ರೇಢಿಗಳ ಹಲವಾರು ಒಗಟುಗಳನ್ನು ಕಾಣಬಹುದು."
+    }
+  },
+  {
+    "id": "pz_ancient_31",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "In the stories of Vikram and Betal, what are the primary characteristics of the riddles Betal poses?",
+      "options": [
+        "They end with an ethical or logical dilemma.",
+        "They test the king's sense of justice.",
+        "They require Betal to remain silent if the king speaks.",
+        "They involve advanced trigonometric calculations."
+      ],
+      "answer": [
+        "They end with an ethical or logical dilemma.",
+        "They test the king's sense of justice."
+      ],
+      "reasoning": "Betal's riddles are designed to test King Vikram's wisdom and sense of dharma. If the king knows the answer, he is bound by a curse to speak."
+    },
+    "kn": {
+      "question": "ವಿಕ್ರಮ್ ಮತ್ತು ಬೇತಾಳನ ಕಥೆಗಳಲ್ಲಿ, ಬೇತಾಳನು ಕೇಳುವ ಒಗಟುಗಳ ಮುಖ್ಯ ಲಕ್ಷಣಗಳು ಯಾವುವು?",
+      "options": [
+        "ಅವು ನೈತಿಕ ಅಥವಾ ತಾರ್ಕಿಕ ಸಂದಿಗ್ಧತೆಯೊಂದಿಗೆ ಕೊನೆಗೊಳ್ಳುತ್ತವೆ.",
+        "ಅವು ರಾಜನ ನ್ಯಾಯ ಪ್ರಜ್ಞೆಯನ್ನು ಪರೀಕ್ಷಿಸುತ್ತವೆ.",
+        "ರಾಜನು ಮಾತನಾಡಿದರೆ ಬೇತಾಳನು ಮೌನವಾಗಿರಬೇಕು.",
+        "ಅವು ಸುಧಾರಿತ ತ್ರಿಕೋನಮಿತಿಯ ಲೆಕ್ಕಾಚಾರಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತವೆ"
+      ],
+      "answer": [
+        "ಅವು ನೈತಿಕ ಅಥವಾ ತಾರ್ಕಿಕ ಸಂದಿಗ್ಧತೆಯೊಂದಿಗೆ ಕೊನೆಗೊಳ್ಳುತ್ತವೆ.",
+        "ಅವು ರಾಜನ ನ್ಯಾಯ ಪ್ರಜ್ಞೆಯನ್ನು ಪರೀಕ್ಷಿಸುತ್ತವೆ."
+      ],
+      "reasoning": "ಬೇತಾಳನ ಕಥೆಗಳು ರಾಜನ ಧರ್ಮ ಮತ್ತು ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ಪರೀಕ್ಷಿಸುವ ನೈತಿಕ ಸಂದಿಗ್ಧತೆಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_32",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Identify the logical methods commonly used by Birbal in his court resolutions.",
+      "options": [
+        "Exposing greed by turning the trap back on the accuser.",
+        "Using literal interpretations of unreasonable demands.",
+        "Using physical duels to prove guilt.",
+        "Relying on astrological predictions."
+      ],
+      "answer": [
+        "Exposing greed by turning the trap back on the accuser.",
+        "Using literal interpretations of unreasonable demands."
+      ],
+      "reasoning": "Birbal exposed greed by making matching demands (e.g. rent for well water) and fulfilled impossible requests literally (e.g. growing wisdom in a pot)."
+    },
+    "kn": {
+      "question": "ಬೀರಬಲ್ ತನ್ನ ಆಸ್ಥಾನದ ವಿವಾದಗಳ ಪರಿಹಾರದಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಬಳಸುತ್ತಿದ್ದ ತಾರ್ಕಿಕ ವಿಧಾನಗಳನ್ನು ಗುರುತಿಸಿ.",
+      "options": [
+        "ಆರೋಪಿಯ ಮೇಲೆಯೇ ತಂತ್ರವನ್ನು ಮರಳಿ ಪ್ರಯೋಗಿಸಿ ಅವರ ದುರಾಸೆಯನ್ನು ಬಯಲು ಮಾಡುವುದು.",
+        "ಅಸಮಂಜಸವಾದ ಬೇಡಿಕೆಗಳನ್ನು ಅಕ್ಷರಶಃ ಅರ್ಥೈಸಿಕೊಂಡು ತಕ್ಕ ಉತ್ತರ ನೀಡುವುದು.",
+        "ಅಪರಾಧ ಸಾಬೀತುಪಡಿಸಲು ದೈಹಿಕ ದ್ವಂದ್ವಯುದ್ಧಗಳನ್ನು ಬಳಸುವುದು.",
+        "ಜ್ಯೋತಿಷ್ಯದ ಭವಿಷ್ಯ ನುಡಿಗಳ ಮೇಲೆ ಅವಲಂಬಿತವಾಗುವುದು"
+      ],
+      "answer": [
+        "ಆರೋಪಿಯ ಮೇಲೆಯೇ ತಂತ್ರವನ್ನು ಮರಳಿ ಪ್ರಯೋಗಿಸಿ ಅವರ ದುರಾಸೆಯನ್ನು ಬಯಲು ಮಾಡುವುದು.",
+        "ಅಸಮಂಜಸವಾದ ಬೇಡಿಕೆಗಳನ್ನು ಅಕ್ಷರಶಃ ಅರ್ಥೈಸಿಕೊಂಡು ತಕ್ಕ ಉತ್ತರ ನೀಡುವುದು."
+      ],
+      "reasoning": "ದುರಾಶೆಯನ್ನು ಬಯಲಿಗೆಳೆಯಲು ವಿರುದ್ಧ ತಂತ್ರ ಹೂಡುವುದು ಮತ್ತು ಅಸಾಧ್ಯವಾದ ಬೇಡಿಕೆಗಳಿಗೆ ಅಕ್ಷರಶಃ ಪಾಲಿಸುವಂತಹ ಚಮತ್ಕಾರ ಮಾಡುವುದು ಬೀರಬಲ್ನ ಮುಖ್ಯ ತಂತ್ರಗಳಾಗಿದ್ದವು."
+    }
+  },
+  {
+    "id": "pz_ancient_33",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the mathematical riddles from 'Lilavati' with their key geometric or algebraic themes.",
+      "pairs": [
+        {"left": "Swarm of bees", "right": "Quadratic equation of fractions"},
+        {"left": "Broken bamboo", "right": "Pythagorean right triangle"},
+        {"left": "Lotus in the pond", "right": "Hypotenuse and depth calculation"},
+        {"left": "Net of pearls", "right": "Sum of fractional parts"}
+      ],
+      "reasoning": "Swarm of bees requires quadratic fraction equations. Broken bamboo uses the Pythagorean theorem. Lotus in the pond solves for water depth using hypotenuse properties. Net of pearls involves basic sum of fractions."
+    },
+    "kn": {
+      "question": "'ಲೀಲಾವತಿ' ಕೃತಿಯ ಗಣಿತದ ಒಗಟುಗಳನ್ನು ಅವುಗಳ ಪ್ರಮುಖ ಜ್ಯಾಮಿತೀಯ ಅಥವಾ ಬೀಜಗಣಿತದ ವಿಷಯಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಜೇನುನೊಣಗಳ ಹಿಂಡು", "right": "ಭಿನ್ನರಾಶಿಗಳ ವರ್ಗ ಸಮೀಕರಣ"},
+        {"left": "ಮುರಿದ ಬಿದಿರು", "right": "ಪೈಥಾಗೊರಸ್ ಲಂಬಕೋನ ತ್ರಿಕೋನ"},
+        {"left": "ಕೆರೆಯ ತಾವರೆ", "right": "ಕರ್ಣ ಮತ್ತು ಆಳದ ಲೆಕ್ಕಾಚಾರ"},
+        {"left": "ಮುತ್ತಿನ ಹಾರ", "right": "ಭಿನ್ನರಾಶಿಗಳ ಮೊತ್ತದ ಭಾಗಗಳು"}
+      ],
+      "reasoning": "ಜೇನುನೊಣಗಳ ಒಗಟು ವರ್ಗ ಸಮೀಕರಣಗಳನ್ನು, ಬಿದಿರು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು, ತಾವರೆ ಕೆರೆಯ ಆಳದ ಲೆಕ್ಕಾಚಾರವನ್ನು ಮತ್ತು ಮುತ್ತಿನ ಹಾರ ಭಿನ್ನರಾಶಿಗಳ ಮೊತ್ತವನ್ನು ಒಳಗೊಂಡಿದೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_34",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the riddle scenarios with their correct logical answers.",
+      "pairs": [
+        {"left": "Count the crows", "right": "Add or subtract visitors"},
+        {"left": "Make line shorter", "right": "Draw a longer line next to it"},
+        {"left": "Weigh the elephant", "right": "Measure water level on boat"},
+        {"left": "Pot of wisdom", "right": "Grow a pumpkin inside it"}
+      ],
+      "reasoning": "Crows count assumes visiting or outgoing crows. Line shortening is done by juxtaposition. Elephant weight is found by boat displacement. Wisdom pot is solved using a grown pumpkin."
+    },
+    "kn": {
+      "question": "ಒಗಟಿನ ಸನ್ನಿವೇಶಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ತಾರ್ಕಿಕ ಉತ್ತರಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಕಾಗೆಗಳ ಎಣಿಕೆ", "right": "ಅತಿಥಿಗಳ ಸೇರ್ಪಡೆ ಅಥವಾ ಕಡಿತ"},
+        {"left": "ಗೆರೆ ಚಿಕ್ಕದಾಗಿಸುವುದು", "right": "ಪಕ್ಕದಲ್ಲೇ ದೊಡ್ಡ ಗೆರೆ ಎಳೆಯುವುದು"},
+        {"left": "ಆನೆಯ ತೂಕ", "right": "ದೋಣಿಯ ನೀರಿನ ಮಟ್ಟವನ್ನು ಅಳೆಯುವುದು"},
+        {"left": "ಬುದ್ಧಿವಂತಿಕೆಯ ಮಡಕೆ", "right": "ಅದರೊಳಗೆ ಕುಂಬಳಕಾಯಿ ಬೆಳೆಸುವುದು"}
+      ],
+      "reasoning": "ಕಾಗೆಗಳ ಎಣಿಕೆಗೆ ನೆಂಟರ ಭೇಟಿಯ ತರ್ಕವಿದೆ. ಗೆರೆಗೆ ಇನ್ನೊಂದು ಗೆರೆಯ ಸಾಪೇಕ್ಷತೆ ಇದೆ. ಆನೆಯ ತೂಕಕ್ಕೆ ದೋಣಿಯ ಜಲಸ್ಥಾನಾಂತರ ಇದೆ. ಮಡಕೆಗೆ ಕುಂಬಳಕಾಯಿ ಬೆಳೆಸುವ ಬುದ್ಧಿವಂತಿಕೆ ಇದೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_35",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "The square root of half the number of a swarm of bees went to a shrub of jasmine. 8/9 of the whole swarm remained behind. A female bee buzzed to a male bee trapped in a lotus (making 2 bees). How many bees were in the swarm?",
+      "options": [
+        "72",
+        "54",
+        "98",
+        "162"
+      ],
+      "answer": "72",
+      "reasoning": "Let total bees be x. sqrt(x/2) + 8x/9 + 2 = x => sqrt(x/2) = x/9 - 2. Let x/2 = y^2 => x = 2y^2. So y = 2y^2/9 - 2 => 2y^2 - 9y - 18 = 0 => (2y + 3)(y - 6) = 0 => y = 6. Since x = 2y^2, x = 2 * 36 = 72."
+    },
+    "kn": {
+      "question": "ಲೀಲಾವತಿಯ ಜೇನುನೊಣಗಳ ಒಗಟು: ಒಂದು ಜೇನುನೊಣಗಳ ಗುಂಪಿನಲ್ಲಿ, ಒಟ್ಟು ಗುಂಪಿನ ಅರ್ಧದಷ್ಟರ ವರ್ಗಮೂಲದಷ್ಟು ಜೇನುಗಳು ಮಲ್ಲಿಗೆ ಪೊದೆಯ ಕಡೆಗೆ ಹೋದವು. ಒಟ್ಟು ಗುಂಪಿನ 8/9 ಭಾಗದಷ್ಟು ಜೇನುಗಳು ಹಿಂದೆ ಉಳಿದವು. ಒಂದು ಹೆಣ್ಣು ಮತ್ತು ತಾವರೆಯಲ್ಲಿ ಸಿಲುಕಿದ ಒಂದು ಗಂಡು ಜೇನುನೊಣ ಪ್ರತ್ಯೇಕವಾಗಿದ್ದವು. ಒಟ್ಟು ಜೇನುಗಳು ಎಷ್ಟು?",
+      "options": [
+        "72",
+        "54",
+        "98",
+        "162"
+      ],
+      "answer": "72",
+      "reasoning": "ಒಟ್ಟು ಜೇನುಗಳು x ಆದರೆ: sqrt(x/2) + 8x/9 + 2 = x. x = 72 ಆದಾಗ, sqrt(36) + 64 + 2 = 6 + 64 + 2 = 72 ಸರಿಯಾಗಿ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_36",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Arjuna used arrows in a quiver: half to destroy Karna's arrows, 4 times the square root of his arrows to kill Karna's horses, 6 to kill the driver, 3 to destroy the umbrella/flag/bow, and 1 to cut off Karna's head. How many arrows were in his quiver?",
+      "options": [
+        "100",
+        "64",
+        "144",
+        "81"
+      ],
+      "answer": "100",
+      "reasoning": "Let total be x. x/2 + 4*sqrt(x) + 6 + 3 + 1 = x => x/2 - 4*sqrt(x) - 10 = 0. Let y = sqrt(x) => y^2/2 - 4y - 10 = 0 => y^2 - 8y - 20 = 0 => (y - 10)(y + 2) = 0 => y = 10. Since y = 10, x = 100."
+    },
+    "kn": {
+      "question": "ಅರ್ಜುನನು ತನ್ನ ಬಾಣಗಳ ಅರ್ಧದಷ್ಟರಿಂದ ಕರ್ಣನ ಬಾಣಗಳನ್ನು ಹೊಡೆದನು. ಬಾಣಗಳ ವರ್ಗಮೂಲದ 4 ರಷ್ಟರಿಂದ ಕರ್ಣನ ಕುದುರೆಗಳನ್ನು ಕೊಂದನು. 6 ಬಾಣಗಳಿಂದ ಸಾರಥಿಯನ್ನು, 3 ರಿಂದ ಛತ್ರಿ, ಧ್ವಜ ಮತ್ತು ಬಿಲ್ಲನ್ನು ಮುರಿದನು ಮತ್ತು ಕೊನೆಯ 1 ಬಾಣದಿಂದ ಕರ್ಣನ ಶಿರಚ್ಛೇದ ಮಾಡಿದನು. ಅರ್ಜುನನ ಬಳಿ ಇದ್ದ ಒಟ್ಟು ಬಾಣಗಳೆಷ್ಟು?",
+      "options": [
+        "100",
+        "64",
+        "144",
+        "81"
+      ],
+      "answer": "100",
+      "reasoning": "ಒಟ್ಟು ಬಾಣಗಳು x ಆದರೆ: x/2 + 4*sqrt(x) + 6 + 3 + 1 = x. x = 100 ಆದಾಗ, 50 + 4(10) + 10 = 100 ಸರಿಯಾಗಿ ಬರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_37",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "In a Betal story, three husbands show extreme sensitivity. Which husband was declared the most sensitive by King Vikram?",
+      "options": [
+        "The one who got a bruise on his chest upon seeing a bruise on his wife's chest caused by a fallen lotus petal.",
+        "The one who got a rash on his back from a single hair under seven mattresses.",
+        "The one who got a stomach ache from eating rice cooked with cemetery wood.",
+        "The one who fainted upon hearing the sound of thunder."
+      ],
+      "answer": "The one who got a bruise on his chest upon seeing a bruise on his wife's chest caused by a fallen lotus petal.",
+      "reasoning": "The third husband suffered sympathetic physical injury purely from viewing the physical distress of his wife, which indicates the most profound sensitivity."
+    },
+    "kn": {
+      "question": "ಬೇತಾಳನ ಕಥೆಯೊಂದರಲ್ಲಿ: ಮೂವರು ಅತಿ ಸೂಕ್ಷ್ಮ ಸಂವೇದನೆಯ ಪತಿಗಳಲ್ಲಿ ಯಾರು ಅತ್ಯಂತ ಸೂಕ್ಷ್ಮ ಎಂದು ವಿಕ್ರಮಾದಿತ್ಯನು ತೀರ್ಪು ನೀಡಿದನು?",
+      "options": [
+        "ತನ್ನ ಹೆಂಡತಿಯ ಎದೆಯ ಮೇಲೆ ಬಿದ್ದ ತಾವರೆ ದಳದಿಂದಾದ ಗಾಯವನ್ನು ನೋಡಿ, ತನ್ನ ಸ್ವಂತ ಎದೆಯ ಮೇಲೂ ಗಾಯ ಮಾಡಿಕೊಂಡವನು.",
+        "ಏಳು ಹಾಸಿಗೆಗಳ ಕೆಳಗಿದ್ದ ಒಂದು ಕೂದಲಿನಿಂದ ಬೆನ್ನಿನ ಮೇಲೆ ಗಾಯ ಮಾಡಿಕೊಂಡವನು.",
+        "ಚಿತಾಗಾರದ ಕಟ್ಟಿಗೆಯಿಂದ ಬೇಯಿಸಿದ ಅನ್ನವನ್ನು ತಿಂದು ಹೊಟ್ಟೆನೋವು ತಂದುಕೊಂಡವನು.",
+        "ಗುಡುಗಿನ ಶಬ್ದ ಕೇಳಿ ಮೂರ್ಛೆ ಹೋದವನು"
+      ],
+      "answer": "ತನ್ನ ಹೆಂಡತಿಯ ಎದೆಯ ಮೇಲೆ ಬಿದ್ದ ತಾವರೆ ದಳದಿಂದಾದ ಗಾಯವನ್ನು ನೋಡಿ, ತನ್ನ ಸ್ವಂತ ಎದೆಯ ಮೇಲೂ ಗಾಯ ಮಾಡಿಕೊಂಡವನು.",
+      "reasoning": "ಯಾವುದೇ ದೈಹಿಕ ಸಂಪರ್ಕವಿಲ್ಲದಿದ್ದರೂ ತನ್ನ ಪತ್ನಿಯ ನೋವನ್ನು ಕಂಡು ತಾನೂ ಅಷ್ಟೇ ತೀವ್ರವಾಗಿ ದೈಹಿಕ ಗಾಯ ಅನುಭವಿಸಿದವನು ಅತ್ಯಂತ ಸೂಕ್ಷ್ಮ ಎಂದು ವಿಕ್ರಮಾದಿತ್ಯನು ತೀರ್ಮಾನಿಸಿದನು."
+    }
+  },
+  {
+    "id": "pz_ancient_38",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "A traveler starts with a speed of 1 unit/day, and his speed increases by 1 unit/day (1, 2, 3...). Another traveler starts 2 days later and travels at a constant speed of 5 units/day. After how many days from the first traveler's start will they first meet?",
+      "options": [
+        "4 days",
+        "5 days",
+        "6 days",
+        "8 days"
+      ],
+      "answer": "4 days",
+      "reasoning": "Let first traveler run for n days. Distance = n(n+1)/2. Second traveler runs for (n-2) days. Distance = 5(n-2). Set equal: n(n+1)/2 = 5n - 10 => n^2 + n = 10n - 20 => n^2 - 9n + 20 = 0 => (n-4)(n-5) = 0. They meet at 4 and 5 days, so first meeting is at 4 days."
+    },
+    "kn": {
+      "question": "ಬಕ್ಷಾಲಿ ಹಸ್ತಪ್ರತಿಯ ಒಗಟು: ಮೊದಲ ಪ್ರವಾಸಿಗನು ದಿನಕ್ಕೆ 1 ಯುನಿಟ್ ವೇಗದಲ್ಲಿ ಪ್ರಾರಂಭಿಸಿ ದಿನಕ್ಕೆ 1 ಯುನಿಟ್ ವೇಗ ಹೆಚ್ಚಿಸಿಕೊಳ್ಳುತ್ತಾನೆ (1, 2, 3...). ಎರಡನೇ ಪ್ರವಾಸಿಗನು 2 ದಿನಗಳ ನಂತರ ದಿನಕ್ಕೆ 5 ಯುನಿಟ್ ಸ್ಥಿರ ವೇಗದಲ್ಲಿ ಹೊರಡುತ್ತಾನೆ. ಮೊದಲ ಪ್ರವಾಸಿಗನು ಹೊರಟ ಎಷ್ಟು ದಿನಗಳ ನಂತರ ಅವರಿಬ್ಬರು ಮೊದಲ ಬಾರಿಗೆ ಭೇಟಿಯಾಗುತ್ತಾರೆ?",
+      "options": [
+        "4 ದಿನಗಳು",
+        "5 ದಿನಗಳು",
+        "6 ದಿನಗಳು",
+        "8 ದಿನಗಳು"
+      ],
+      "answer": "4 ದಿನಗಳು",
+      "reasoning": "ಮೊದಲನೆಯವನು n ದಿನ ಪ್ರಯಾಣಿಸಿದರೆ ಅವನ ದೂರ n(n+1)/2. ಎರಡನೆಯವನ ದೂರ 5(n-2). ಇವೆರಡನ್ನು ಸಮೀಕರಿಸಿದಾಗ: n^2 - 9n + 20 = 0. ಇದರ ಮೂಲಗಳು 4 ಮತ್ತು 5. ಆದ್ದರಿಂದ 4 ನೇ ದಿನ ಭೇಟಿಯಾಗುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_39",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "What is the smallest positive integer which when divided by 8 leaves a remainder of 5, and when divided by 9 leaves a remainder of 6 (solved by Aryabhata's Kuttaka method)?",
+      "options": [
+        "69",
+        "77",
+        "61",
+        "53"
+      ],
+      "answer": "69",
+      "reasoning": "Let the number be N. N = 8x + 5 = 9y + 6 => 8x - 9y = 1. By Kuttaka (indeterminate equation solver), the smallest positive solution is y = 7, which gives N = 9(7) + 6 = 69."
+    },
+    "kn": {
+      "question": "ಆರ್ಯಭಟನ ಕುಟ್ಟಕ ವಿಧಾನದಿಂದ ಬಿಡಿಸಬಹುದಾದ ಒಗಟು: ಒಂದು ಸಂಖ್ಯೆಯನ್ನು 8 ರಿಂದ ಭಾಗಿಸಿದಾಗ 5 ಶೇಷ ಉಳಿಯುತ್ತದೆ ಮತ್ತು 9 ರಿಂದ ಭಾಗಿಸಿದಾಗ 6 ಶೇಷ ಉಳಿಯುತ್ತದೆ. ಇಂತಹ ಅತಿ ಕಿರಿದಾದ ಧನ ಪೂರ್ಣಾಂಕ ಯಾವುದು?",
+      "options": [
+        "69",
+        "77",
+        "61",
+        "53"
+      ],
+      "answer": "69",
+      "reasoning": "ಸಂಖ್ಯೆ N ಆದರೆ: N = 8x + 5 = 9y + 6. ಇದರಲ್ಲಿ 8x - 9y = 1 ಆಗುತ್ತದೆ. ಇದಕ್ಕೆ ಕನಿಷ್ಠ ಬೆಲೆ y = 7 ಆದಾಗ, N = 69 ಬರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_40",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "A prince has three wives: one sleeps on flowers but gets bruised by a leaf; one gets sunburned by the reflection of the moon on water; and the third gets calluses on her hands from hearing the sound of a mortar grinding grain. How did King Vikram logically determine the most sensitive wife?",
+      "options": [
+        "The third wife, because her body reacted sympathetically to a distant sound, showing a highly refined nervous system.",
+        "The first wife, because physical touch is the most direct sense.",
+        "The second wife, because light cannot cause physical burns, showing psychological delicacy.",
+        "He declared all three equal and refused to choose."
+      ],
+      "answer": "The third wife, because her body reacted sympathetically to a distant sound, showing a highly refined nervous system.",
+      "reasoning": "A reaction triggered by the mere perception of sound in the environment, causing physical lesions, represents the most extreme sympathetic/psychosomatic sensitivity."
+    },
+    "kn": {
+      "question": "ಬೇತಾಳನ ಕಥೆಯೊಂದರಲ್ಲಿ: ಹೂವಿನ ಹಾಸಿಗೆಯ ಮೇಲಿದ್ದ ಎಲೆ ತಗುಲಿ ಗಾಯ ಮಾಡಿಕೊಂಡ ಮೊದಲ ಪತ್ನಿ; ನೀರಿನಲ್ಲಿ ಪ್ರತಿಫಲಿಸಿದ ಚಂದ್ರನ ಬೆಳಕಿನಿಂದ ಮೈ ಸುಟ್ಟುಕೊಂಡ ಎರಡನೇ ಪತ್ನಿ; ಮತ್ತು ಪಕ್ಕದ ಮನೆಯಲ್ಲಿ ಧಾನ್ಯ ಬೀಸುವ ಶಬ್ದ ಕೇಳಿ ಕೈಯಲ್ಲಿ ಗುಳ್ಳೆ ಮಾಡಿಕೊಂಡ ಮೂರನೇ ಪತ್ನಿ. ಇವರಲ್ಲಿ ಯಾರು ಅತ್ಯಂತ ಸೂಕ್ಷ್ಮ ಸಂವೇದನೆಯವಳು ಎಂದು ವಿಕ್ರಮಾದಿತ್ಯನು ಹೇಗೆ ನಿರ್ಧರಿಸಿದನು?",
+      "options": [
+        "ಮೂರನೇ ಪತ್ನಿ, ಏಕೆಂದರೆ ಕೇವಲ ಶಬ್ದದ ಗ್ರಹಿಕೆಯಿಂದ ಅವಳ ದೇಹದಲ್ಲಿ ದೈಹಿಕ ಗಾಯ ಉಂಟಾಯಿತು, ಇದು ಅತ್ಯಂತ ಸೂಕ್ಷ್ಮ ನರಮಂಡಲವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+        "ಮೊದಲ ಪತ್ನಿ, ಏಕೆಂದರೆ ದೈಹಿಕ ಸ್ಪರ್ಶವು ಅತ್ಯಂತ ನೇರವಾದ ಸಂವೇದನೆಯಾಗಿದೆ.",
+        "ಎರಡನೇ ಪತ್ನಿ, ಏಕೆಂದರೆ ಬೆಳಕು ದೈಹಿಕ ಗಾಯ ಉಂಟುಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ, ಇದು ಮಾನಸಿಕ ಸೂಕ್ಷ್ಮತೆಯನ್ನು ತೋರಿಸುತ್ತದೆ.",
+        "ಮೂವರೂ ಸಮಾನರು ಎಂದು ಘೋಷಿಸಿ ಆಯ್ಕೆ ಮಾಡಲು ನಿರಾಕರಿಸಿದನು"
+      ],
+      "answer": "ಮೂರನೇ ಪತ್ನಿ, ಏಕೆಂದರೆ ಕೇವಲ ಶಬ್ದದ ಗ್ರಹಿಕೆಯಿಂದ ಅವಳ ದೇಹದಲ್ಲಿ ದೈಹಿಕ ಗಾಯ ಉಂಟಾಯಿತು, ಇದು ಅತ್ಯಂತ ಸೂಕ್ಷ್ಮ ನರಮಂಡಲವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+      "reasoning": "ಕೇವಲ ಶಬ್ದವನ್ನು ಕೇಳಿ ಕೈಗಳಲ್ಲಿ ದೈಹಿಕ ಗುಳ್ಳೆಗಳು ಉಂಟಾಗುವುದು ಅತ್ಯಂತ ತೀವ್ರವಾದ ಸಹಾನುಭೂತಿ ಅಥವಾ ಮಾನಸಿಕ-ದೈಹಿಕ ಸೂಕ್ಷ್ಮತೆಯನ್ನು ತೋರಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_41",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Two ascetics live on a mountain of height 15 units. One climbs down and walks to a town 20 units from the foot. The other flies straight up x units and then flies straight to the town. If they covered the same distance, what is x?",
+      "options": [
+        "6 units",
+        "5 units",
+        "8 units",
+        "10 units"
+      ],
+      "answer": "6 units",
+      "reasoning": "Distance for first: 15 + 20 = 35. Distance for second: x + sqrt((15+x)^2 + 20^2) = 35 => (15+x)^2 + 400 = (35-x)^2 => 225 + 30x + x^2 + 400 = 1225 - 70x + x^2 => 100x = 600 => x = 6."
+    },
+    "kn": {
+      "question": "ಬ್ರಹ್ಮಗುಪ್ತರ ಒಗಟು: 15 ಯುನಿಟ್ ಎತ್ತರದ ಪರ್ವತದ ತುದಿಯಲ್ಲಿ ಇಬ್ಬರು ಸಾಧುಗಳು ವಾಸಿಸುತ್ತಿದ್ದಾರೆ. ಒಬ್ಬನು ಪರ್ವತವನ್ನು ಇಳಿದು ಪರ್ವತದ ಬುಡದಿಂದ 20 ಯುನಿಟ್ ದೂರದಲ್ಲಿರುವ ನಗರಕ್ಕೆ ನಡೆದು ಹೋಗುತ್ತಾನೆ. ಮತ್ತೊಬ್ಬನು ಪರ್ವತದಿಂದ ನೇರವಾಗಿ ಮೇಲಕ್ಕೆ 'x' ಯುನಿಟ್ ಹಾರಿ, ನಂತರ ನೇರ ರೇಖೆಯಲ್ಲಿ ನಗರಕ್ಕೆ ತಲುಪುತ್ತಾನೆ. ಇಬ್ಬರೂ ಒಂದೇ ಒಟ್ಟು ದೂರವನ್ನು ಕ್ರಮಿಸಿದ್ದರೆ, 'x' ನ ಮೌಲ್ಯ ಎಷ್ಟು?",
+      "options": [
+        "6 ಯುನಿಟ್‌ಗಳು",
+        "5 ಯುನಿಟ್‌ಗಳು",
+        "8 ಯುನಿಟ್‌ಗಳು",
+        "10 ಯುನಿಟ್‌ಗಳು"
+      ],
+      "answer": "6 ಯುನಿಟ್‌ಗಳು",
+      "reasoning": "ಮೊದಲನೆಯವನ ಒಟ್ಟು ದೂರ = 15 + 20 = 35. ಎರಡನೆಯವನ ಒಟ್ಟು ದೂರ = x + sqrt((15+x)^2 + 20^2). ಇವೆರಡೂ ಸಮನಾಗಿದ್ದರೆ x = 6 ಆಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_42",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "A builder agreed to dig a well for the King but demanded that the earth removed must be put back into the well. Tenali Raman resolved this by demanding that the builder must do what?",
+      "options": [
+        "Dig another hole next to it to put the mud in, and continue this process.",
+        "Buy the mud from the king at the price of gold.",
+        "Eat the mud as punishment.",
+        "Fill the well with water to dissolve the mud."
+      ],
+      "answer": "Dig another hole next to it to put the mud in, and continue this process.",
+      "reasoning": "By forcing the builder to dig a second hole to dispose of the first hole's mud, the builder is caught in an infinite loop of his own logic and gives up."
+    },
+    "kn": {
+      "question": "ಕಾಂಟ್ರಾಕ್ಟರ್ ಒಬ್ಬನು ಬಾವಿ ತೋಡಿದ ಮೇಲೆ ಉಳಿದ ಮಣ್ಣನ್ನು ತೆಗೆಯಲು ಹೆಚ್ಚುವರಿ ಹಣ ಕೇಳಿದನು. ತೆನಾಲಿ ರಾಮನು ಅವನಿಗೆ ಆ ಮಣ್ಣನ್ನು ಹಾಕಲು ಅದರ ಪಕ್ಕದಲ್ಲೇ ಇನ್ನೊಂದು ಹೊಂಡ ತೋಡಲು ಹೇಳಿ, ಈ ಒಗಟನ್ನು ಹೇಗೆ ಬಗೆಹರಿಸಿದನು?",
+      "options": [
+        "ಮಣ್ಣನ್ನು ಹಾಕಲು ಪಕ್ಕದಲ್ಲೇ ಮತ್ತೊಂದು ಹೊಂಡ ತೋಡಲು ಹೇಳಿದನು (ಹೀಗೆ ಹೊಂಡಗಳ ಸರಣಿ ಮುಂದುವರಿಯುತ್ತದೆ).",
+        "ಮಣ್ಣನ್ನು ಚಿನ್ನದ ಬೆಲೆಗೆ ರಾಜನಿಂದ ಖರೀದಿಸಲು ಆದೇಶಿಸಿದನು.",
+        "ಶಿಕ್ಷೆಯಾಗಿ ಮಣ್ಣನ್ನು ತಿನ್ನಲು ಹೇಳಿದನು.",
+        "ಮಣ್ಣನ್ನು ಕರಗಿಸಲು ಬಾವಿಯನ್ನು ನೀರಿನಿಂದ ತುಂಬಿಸಲು ಸೂಚಿಸಿದನು"
+      ],
+      "answer": "ಮಣ್ಣನ್ನು ಹಾಕಲು ಪಕ್ಕದಲ್ಲೇ ಮತ್ತೊಂದು ಹೊಂಡ ತೋಡಲು ಹೇಳಿದನು (ಹೀಗೆ ಹೊಂಡಗಳ ಸರಣಿ ಮುಂದುವರಿಯುತ್ತದೆ).",
+      "reasoning": "ಮಣ್ಣನ್ನು ಹಾಕಲು ಪಕ್ಕದಲ್ಲೇ ಹೊಂಡ ತೋಡಿದರೆ, ಆ ಹೊಂಡದ ಮಣ್ಣಿಗೆ ಏನು ಮಾಡಬೇಕೆಂದು ಕಾಂಟ್ರಾಕ್ಟರ್ ಚಿಂತಿಸುವಂತೆ ಮಾಡಿ ಅವನದೇ ತರ್ಕದಲ್ಲಿ ಅವನನ್ನು ಸಿಲುಕಿಸಿದನು."
+    }
+  },
+  {
+    "id": "pz_ancient_43",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "A cistern has 4 inlets. The first fills it in 1 day, the second in 2 days, the third in 3 days, and the fourth in 4 days. If all inlets are opened together, how long will it take to fill the cistern?",
+      "options": [
+        "12/25 of a day",
+        "25/12 of a day",
+        "1/10 of a day",
+        "2/5 of a day"
+      ],
+      "answer": "12/25 of a day",
+      "reasoning": "Rates of filling: 1, 1/2, 1/3, 1/4 of cistern per day. Combined rate = 1 + 1/2 + 1/3 + 1/4 = 25/12. Time taken to fill = 1 / (25/12) = 12/25 of a day."
+    },
+    "kn": {
+      "question": "ಲೀಲಾವತಿಯ ನೀರಿನ ಕೊಳದ ಒಗಟು: ಒಂದು ಕೊಳಕ್ಕೆ 4 ನಲ್ಲಿಗಳಿವೆ. ಮೊದಲನೆಯದು 1 ದಿನದಲ್ಲಿ, ಎರಡನೆಯದು 2 ದಿನಗಳಲ್ಲಿ, ಮೂರನೆಯದು 3 ದಿನಗಳಲ್ಲಿ ಮತ್ತು ನಾಲ್ಕನೆಯದು 4 ದಿನಗಳಲ್ಲಿ ಕೊಳವನ್ನು ತುಂಬಿಸುತ್ತದೆ. ನಾಲ್ಕು ನಲ್ಲಿಗಳನ್ನು ಒಟ್ಟಿಗೆ ತೆರೆದರೆ, ಕೊಳ ತುಂಬಲು ಎಷ್ಟು ಸಮಯ ಬೇಕು?",
+      "options": [
+        "ದಿನದ 12/25 ಭಾಗ",
+        "ದಿನದ 25/12 ಭಾಗ",
+        "ದಿನದ 1/10 ಭಾಗ",
+        "ದಿನದ 2/5 ಭಾಗ"
+      ],
+      "answer": "ದಿನದ 12/25 ಭಾಗ",
+      "reasoning": "ನಲ್ಲಿಗಳ ವೇಗ: 1, 1/2, 1/3, 1/4. ಒಟ್ಟು ವೇಗ = 1 + 1/2 + 1/3 + 1/4 = 25/12. ಕೊಳ ತುಂಬಲು ಬೇಕಾಗುವ ಸಮಯ = 1 / (25/12) = 12/25 ದಿನ."
+    }
+  },
+  {
+    "id": "pz_ancient_44",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "A lady's husband and brother cut off their heads in a temple. In a rush to revive them, she accidentally swaps their heads. The bodies come back to life. Who is now her husband?",
+      "options": [
+        "The person with the husband's head and brother's body.",
+        "The person with the brother's head and husband's body.",
+        "Neither, she must treat both as brothers.",
+        "She must choose the one who is physically stronger."
+      ],
+      "answer": "The person with the husband's head and brother's body.",
+      "reasoning": "According to King Vikram, the head is the primary seat of identity and mind. Therefore, the person with the husband's head must be recognized as her husband."
+    },
+    "kn": {
+      "question": "ಬೇತಾಳನ ಕಥೆಯೊಂದರಲ್ಲಿ: ದೇವಸ್ಥಾನದಲ್ಲಿ ಗಂಡ ಮತ್ತು ಭಾವ ಇಬ್ಬರೂ ತಲೆ ಕತ್ತರಿಸಿಕೊಳ್ಳುತ್ತಾರೆ. ದೇವಿಯು ಜೀವ ನೀಡಲು ಹೇಳಿದಾಗ ಗಡಿಬಿಡಿಯಲ್ಲಿ ತಲೆಗಳು ಅದಲುಬದಲಾಗುತ್ತವೆ. ಈಗ ಯಾರು ಅವಳ ಗಂಡ?",
+      "options": [
+        "ಗಂಡನ ತಲೆ ಮತ್ತು ಭಾವನ ಒಡಲು ಹೊಂದಿರುವ ವ್ಯಕ್ತಿ.",
+        "ಭಾವನ ತಲೆ ಮತ್ತು ಗಂಡನ ಒಡಲು ಹೊಂದಿರುವ ವ್ಯಕ್ತಿ.",
+        "ಇಬ್ಬರೂ ಅಲ್ಲ, ಅವಳು ಇಬ್ಬರನ್ನೂ ಸಹೋದರರಂತೆ ಕಾಣಬೇಕು.",
+        "ಅವಳು ದೈಹಿಕವಾಗಿ ಬಲಿಷ್ಠನಾಗಿರುವವನನ್ನು ಆರಿಸಿಕೊಳ್ಳಬೇಕು"
+      ],
+      "answer": "ಗಂಡನ ತಲೆ ಮತ್ತು ಭಾವನ ಒಡಲು ಹೊಂದಿರುವ ವ್ಯಕ್ತಿ.",
+      "reasoning": "ವಿಕ್ರಮಾದಿತ್ಯನ ಪ್ರಕಾರ, ತಲೆಯು ಮನಸ್ಸು ಮತ್ತು ವ್ಯಕ್ತಿತ್ವದ ಮೂಲ ಸ್ಥಾನವಾಗಿದೆ. ಆದ್ದರಿಂದ ಗಂಡನ ತಲೆ ಹೊಂದಿರುವವನೇ ಗಂಡನಾಗುತ್ತಾನೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_45",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "A heap of grain has a circumference of 30 units and its height is 5 units. If the volume of a cone is calculated using the ancient Indian approximation of pi = 3, what is the volume of the heap?",
+      "options": [
+        "125 cubic units",
+        "150 cubic units",
+        "100 cubic units",
+        "75 cubic units"
+      ],
+      "answer": "125 cubic units",
+      "reasoning": "Circumference C = 2 * pi * r => 30 = 2 * 3 * r => r = 5. Volume of cone = 1/3 * pi * r^2 * h = 1/3 * 3 * 5^2 * 5 = 125 cubic units."
+    },
+    "kn": {
+      "question": "ಗಣಿತ ಸಾರ ಸಂಗ್ರಹದ ಒಗಟು: ಧಾನ್ಯದ ರಾಶಿಯ ಸುತ್ತಳತೆ 30 ಯುನಿಟ್ ಮತ್ತು ಅದರ ಎತ್ತರ 5 ಯುನಿಟ್ ಆಗಿದೆ. ಪ್ರಾಚೀನ ಭಾರತೀಯ ಪೈ (pi = 3) ಮೌಲ್ಯವನ್ನು ಬಳಸಿಕೊಂಡು ಶಂಕುವಿನಾಕಾರದ ಧಾನ್ಯದ ರಾಶಿಯ ಗಾತ್ರವನ್ನು (volume) ಲೆಕ್ಕಹಾಕಿದರೆ, ಅದರ ಗಾತ್ರ ಎಷ್ಟು?",
+      "options": [
+        "125 ಘನ ಯುನಿಟ್‌ಗಳು",
+        "150 ಘನ ಯುನಿಟ್‌ಗಳು",
+        "100 ಘನ ಯುನಿಟ್‌ಗಳು",
+        "75 ಘನ ಯುನಿಟ್‌ಗಳು"
+      ],
+      "answer": "125 ಘನ ಯುನಿಟ್‌ಗಳು",
+      "reasoning": "ಸುತ್ತಳತೆ C = 2 * pi * r => 30 = 6r => r = 5. ಶಂಕುವಿನ ಗಾತ್ರ = 1/3 * pi * r^2 * h = 1/3 * 3 * 25 * 5 = 125 ಘನ ಯುನಿಟ್."
+    }
+  },
+  {
+    "id": "pz_ancient_46",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "In ancient Indian mathematics, which techniques or concepts were developed to solve indeterminate equations (equations of the form ax - by = c) which are featured in puzzles?",
+      "options": [
+        "Kuttaka (Pulverizer) method",
+        "Chakravala (Cyclic) method",
+        "Differential calculus",
+        "Matrix inversion"
+      ],
+      "answer": [
+        "Kuttaka (Pulverizer) method",
+        "Chakravala (Cyclic) method"
+      ],
+      "reasoning": "Kuttaka (developed by Aryabhata) and Chakravala (developed by Brahmagupta and Bhaskara II) are famous ancient methods for resolving indeterminate linear and quadratic equations respectively."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಚೀನ ಭಾರತೀಯ ಗಣಿತದಲ್ಲಿ, ಒಗಟುಗಳಲ್ಲಿ ಕಂಡುಬರುವ ಅನಿಶ್ಚಿತ ಸಮೀಕರಣಗಳನ್ನು (ax - by = c ರೂಪದ ಸಮೀಕರಣಗಳು) ಬಿಡಿಸಲು ಯಾವ ತಂತ್ರಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಲಾಯಿತು?",
+      "options": [
+        "ಕುಟ್ಟಕ (Kuttaka) ವಿಧಾನ",
+        "ಚಕ್ರವಾಲ (Chakravala) ವಿಧಾನ",
+        "ವಿಕಲನ ಗಣಿತ (Differential calculus)",
+        "ಮ್ಯಾಟ್ರಿಕ್ಸ್ ಇನ್ವರ್ಶನ್"
+      ],
+      "answer": [
+        "ಕುಟ್ಟಕ (Kuttaka) ವಿಧಾನ",
+        "ಚಕ್ರವಾಲ (Chakravala) ವಿಧಾನ"
+      ],
+      "reasoning": "ಕುಟ್ಟಕ ಮತ್ತು ಚಕ್ರವಾಲ ವಿಧಾನಗಳು ಕ್ರಮವಾಗಿ ರೇಖೀಯ ಮತ್ತು ವರ್ಗ ಅನಿಶ್ಚಿತ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸಲು ಪ್ರಾಚೀನ ಗಣಿತಜ್ಞರು ರೂಪಿಸಿದ ಪ್ರಸಿದ್ಧ ತಂತ್ರಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_47",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following puzzles from classical Indian folklore are resolved purely by lateral thinking or wordplay rather than mathematical calculations?",
+      "options": [
+        "Birbal's 'Count the Crows'",
+        "Tenali Raman's 'Horse Painting'",
+        "Bhaskara's 'Swarm of Bees'",
+        "Mahavira's 'Quiver of Arrows'"
+      ],
+      "answer": [
+        "Birbal's 'Count the Crows'",
+        "Tenali Raman's 'Horse Painting'"
+      ],
+      "reasoning": "'Count the Crows' and 'Horse Painting' are classic witty folklore riddles requiring lateral thinking, whereas the others are purely algebraic word problems."
+    },
+    "kn": {
+      "question": "ಶಾಸ್ತ್ರೀಯ ಭಾರತೀಯ ಜಾನಪದದ ಕೆಳಗಿನ ಯಾವ ಒಗಟುಗಳನ್ನು ಗಣಿತದ ಲೆಕ್ಕಾಚಾರಗಳಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ಪಾರ್ಶ್ವ ಚಿಂತನೆ (lateral thinking) ಅಥವಾ ಪದಗಳ ಚಮತ್ಕಾರದಿಂದ ಪರಿಹರಿಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಬೀರಬಲ್‌ನ 'ಕಾಗೆಗಳ ಎಣಿಕೆ'",
+        "ತೆನಾಲಿ ರಾಮನ್‌ನ 'ಕುದುರೆ ಚಿತ್ರ'",
+        "ಭಾಸ್ಕರನ 'ಜೇನುನೊಣಗಳ ಹಿಂಡು'",
+        "ಮಹಾವೀರನ 'ಬಾಣಗಳ ಭಾತಿ'"
+      ],
+      "answer": [
+        "ಬೀರಬಲ್‌ನ 'ಕಾಗೆಗಳ ಎಣಿಕೆ'",
+        "ತೆನಾಲಿ ರಾಮನ್‌ನ 'ಕುದುರೆ ಚಿತ್ರ'"
+      ],
+      "reasoning": "ಕಾಗೆಗಳ ಎಣಿಕೆ ಮತ್ತು ಕುದುರೆ ಚಿತ್ರದ ಒಗಟುಗಳು ತಾರ್ಕಿಕ ಜಾಣ್ಮೆಯನ್ನು ಬಯಸಿದರೆ, ಉಳಿದ ಎರಡು ಒಗಟುಗಳು ಗಣಿತದ ಸೂತ್ರಗಳನ್ನು ಬಳಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "pz_ancient_48",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the mathematical terms from Sanskrit manuscripts with their modern English equivalents.",
+      "pairs": [
+        {"left": "Kuttaka", "right": "Indeterminate linear equation solver"},
+        {"left": "Varga", "right": "Square of a number"},
+        {"left": "Gana", "right": "Cube of a number"},
+        {"left": "Pada / Mula", "right": "Square root"}
+      ],
+      "reasoning": "Kuttaka represents the pulverizer method. Varga is the square. Gana is the cube. Pada or Mula denotes the square root."
+    },
+    "kn": {
+      "question": "ಸಂಸ್ಕೃತ ಹಸ್ತಪ್ರತಿಗಳ ಗಣಿತದ ಪದಗಳನ್ನು ಅವುಗಳ ಆಧುನಿಕ ಇಂಗ್ಲಿಷ್ ಗಣಿತದ ಸಮಾನಾರ್ಥಕಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಕುಟ್ಟಕ", "right": "ರೇಖೀಯ ಅನಿಶ್ಚಿತ ಸಮೀಕರಣ ಬಿಡಿಸುವ ವಿಧಾನ"},
+        {"left": "ವರ್ಗ", "right": "ಸಂಖ್ಯೆಯ ವರ್ಗ (Square)"},
+        {"left": "ಘನ", "right": "ಸಂಖ್ಯೆಯ ಘನ (Cube)"},
+        {"left": "ಪದ / ಮೂಲ", "right": "ವರ್ಗಮೂಲ (Square root)"}
+      ],
+      "reasoning": "ಕುಟ್ಟಕವು ಅನಿಶ್ಚಿತ ರೇಖೀಯ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸುವ ವಿಧಾನವಾಗಿದೆ, ವರ್ಗ ಎಂದರೆ ಸ್ಕ್ವೇರ್, ಘನ ಎಂದರೆ ಕ್ಯೂಬ್, ಮತ್ತು ಪದ/ಮೂಲ ಎಂದರೆ ಸ್ಕ್ವೇರ್ ರೂಟ್."
+    }
+  },
+  {
+    "id": "pz_ancient_49",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the legendary storytellers or compilers of riddles and fables with their famous works.",
+      "pairs": [
+        {"left": "Somadeva", "right": "Kathasaritsagara (contains Vetala stories)"},
+        {"left": "Vishnu Sharma", "right": "Panchatantra"},
+        {"left": "Narayana Pandit", "right": "Hitopadesha"},
+        {"left": "Bhaskara II", "right": "Siddhanta Shiromani (contains Lilavati)"}
+      ],
+      "reasoning": "Somadeva compiled Kathasaritsagara. Vishnu Sharma wrote Panchatantra. Narayana Pandit compiled Hitopadesha. Bhaskara II wrote Siddhanta Shiromani which includes Lilavati."
+    },
+    "kn": {
+      "question": "ಒಗಟುಗಳು ಮತ್ತು ನೀತಿಕಥೆಗಳ ಪ್ರಸಿದ್ಧ ಸಂಕಲನಕಾರರು ಅಥವಾ ಕಥೆಗಾರರನ್ನು ಅವರ ಕೃತಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಸೋಮದೇವ", "right": "ಕಥಾಸರಿತ್ಸಾಗರ (ಬೇತಾಳನ ಕಥೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ)"},
+        {"left": "ವಿಷ್ಣುಶರ್ಮ", "right": "ಪಂಚತಂತ್ರ"},
+        {"left": "ನಾರಾಯಣ ಪಂಡಿತ", "right": "ಹಿತೋಪದೇಶ"},
+        {"left": "ಭಾಸ್ಕರಾಚಾರ್ಯ II", "right": "ಸಿದ್ಧಾಂತ ಶಿರೋಮಣಿ (ಲೀಲಾವತಿ ಒಳಗೊಂಡಿದೆ)"}
+      ],
+      "reasoning": "ಸೋಮದೇವ ಕಥಾಸರಿತ್ಸಾಗರವನ್ನು, ವಿಷ್ಣುಶರ್ಮ ಪಂಚತಂತ್ರವನ್ನು, ನಾರಾಯಣ ಪಂಡಿತ ಹಿತೋಪದೇಶವನ್ನು ಮತ್ತು ಭಾಸ್ಕರಾಚಾರ್ಯ II ಸಿದ್ಧಾಂತ ಶಿರೋಮಣಿಯನ್ನು ಬರೆದರು."
+    }
+  },
+  {
+    "id": "pz_ancient_50",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the specific mathematical riddles with the texts they originate from.",
+      "pairs": [
+        {"left": "The Peacock and the Snake", "right": "Lilavati"},
+        {"left": "The Arrows of Arjuna", "right": "Ganita Sara Sangraha"},
+        {"left": "The Travel Rates of Two Men", "right": "Bakhshali Manuscript"},
+        {"left": "The Chords and Diameter", "right": "Aryabhatiya"}
+      ],
+      "reasoning": "The Peacock and the Snake is from Lilavati. The Arrows of Arjuna is from Ganita Sara Sangraha. The Travel Rates of Two Men is from Bakhshali Manuscript. The Chords and Diameter relations are from Aryabhatiya."
+    },
+    "kn": {
+      "question": "ನಿರ್ದಿಷ್ಟ ಗಣಿತದ ಒಗಟುಗಳನ್ನು ಅವುಗಳ ಮೂಲ ಗ್ರಂಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ನವಿಲು ಮತ್ತು ಹಾವು", "right": "ಲೀಲಾವತಿ"},
+        {"left": "ಅರ್ಜುನನ ಬಾಣಗಳು", "right": "ಗಣಿತ ಸಾರ ಸಂಗ್ರಹ"},
+        {"left": "ಇಬ್ಬರ ಪ್ರಯಾಣದ ದರ", "right": "ಬಕ್ಷಾಲಿ ಹಸ್ತಪ್ರತಿ"},
+        {"left": "ಜ್ಯಾ ಮತ್ತು ವ್ಯಾಸ", "right": "ಆರ್ಯಭಟೀಯ"}
+      ],
+      "reasoning": "ನವಿಲು ಮತ್ತು ಹಾವಿನ ಒಗಟು ಲೀಲಾವತಿಯಲ್ಲಿದೆ. ಅರ್ಜುನನ ಬಾಣಗಳ ಒಗಟು ಗಣಿತ ಸಾರ ಸಂಗ್ರಹದಲ್ಲಿದೆ. ಪ್ರಯಾಣ ದರಗಳ ಒಗಟು ಬಕ್ಷಾಲಿ ಹಸ್ತಪ್ರತಿಯಲ್ಲಿದೆ. ಜ್ಯಾ ಮತ್ತು ವ್ಯಾಸದ ಲೆಕ್ಕಾಚಾರ ಆರ್ಯಭಟೀಯದಲ್ಲಿದೆ."
+    }
+  }
+]

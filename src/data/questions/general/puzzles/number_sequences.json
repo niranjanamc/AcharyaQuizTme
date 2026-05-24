@@ -1,0 +1,908 @@
+[
+  {
+    "id": "pz_sequences_1",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the next number in the arithmetic sequence: 2, 5, 8, 11, ...?",
+      "options": ["12", "13", "14", "15"],
+      "answer": "14",
+      "reasoning": "Each term in the sequence is obtained by adding 3 to the previous term. Therefore, the next term is 11 + 3 = 14."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಸಮಾಂತರ ಶ್ರೇಢಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆ ಯಾವುದು: 2, 5, 8, 11, ...?",
+      "options": ["12", "13", "14", "15"],
+      "answer": "14",
+      "reasoning": "ಸರಣಿಯಲ್ಲಿನ ಪ್ರತಿ ಸಂಖ್ಯೆಯನ್ನು ಹಿಂದಿನ ಸಂಖ್ಯೆಗೆ 3 ಅನ್ನು ಸೇರಿಸುವ ಮೂಲಕ ಪಡೆಯಲಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಮುಂದಿನ ಸಂಖ್ಯೆ 11 + 3 = 14."
+    }
+  },
+  {
+    "id": "pz_sequences_2",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Complete the sequence: 50, 45, 40, 35, ...",
+      "options": ["32", "30", "25", "28"],
+      "answer": "30",
+      "reasoning": "The sequence decreases by 5 at each step. So, the next number is 35 - 5 = 30."
+    },
+    "kn": {
+      "question": "ಸರಣಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ: 50, 45, 40, 35, ...",
+      "options": ["32", "30", "25", "28"],
+      "answer": "30",
+      "reasoning": "ಈ ಸರಣಿಯು ಪ್ರತಿ ಹಂತದಲ್ಲಿ 5 ರಷ್ಟು ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಮುಂದಿನ ಸಂಖ್ಯೆ 35 - 5 = 30."
+    }
+  },
+  {
+    "id": "pz_sequences_3",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Find the next number in the geometric progression: 3, 6, 12, 24, ...",
+      "options": ["36", "40", "48", "50"],
+      "answer": "48",
+      "reasoning": "Each number is multiplied by 2 to get the next. So, the next number is 24 * 2 = 48."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಗುಣೋತ್ತರ ಶ್ರೇಢಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: 3, 6, 12, 24, ...?",
+      "options": ["36", "40", "48", "50"],
+      "answer": "48",
+      "reasoning": "ಪ್ರತಿ ಸಂಖ್ಯೆಯನ್ನು 2 ರಿಂದ ಗುಣಿಸಿ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯಲಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಮುಂದಿನ ಸಂಖ್ಯೆ 24 * 2 = 48."
+    }
+  },
+  {
+    "id": "pz_sequences_4",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Identify the next number in the pattern: 10, 12, 11, 13, 12, ...",
+      "options": ["11", "13", "14", "15"],
+      "answer": "14",
+      "reasoning": "The pattern alternates between adding 2 and subtracting 1 (+2, -1, +2, -1). So, the next number is 12 + 2 = 14."
+    },
+    "kn": {
+      "question": "ಈ ಮಾದರಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಗುರುತಿಸಿ: 10, 12, 11, 13, 12, ...",
+      "options": ["11", "13", "14", "15"],
+      "answer": "14",
+      "reasoning": "ಈ ಮಾದರಿಯು ಪರ್ಯಾಯವಾಗಿ 2 ಅನ್ನು ಕೂಡಿಸುವುದು ಮತ್ತು 1 ಅನ್ನು ಕಳೆಯುವುದನ್ನು ಹೊಂದಿದೆ (+2, -1, +2, -1). ಆದ್ದರಿಂದ, ಮುಂದಿನ ಸಂಖ್ಯೆ 12 + 2 = 14."
+    }
+  },
+  {
+    "id": "pz_sequences_5",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the next number in the sequence of squares: 1, 4, 9, 16, ...?",
+      "options": ["20", "25", "30", "36"],
+      "answer": "25",
+      "reasoning": "The sequence consists of consecutive squares of natural numbers: 1^2, 2^2, 3^2, 4^2. The next is 5^2 = 25."
+    },
+    "kn": {
+      "question": "ವರ್ಗ ಸಂಖ್ಯೆಗಳ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆ ಯಾವುದು: 1, 4, 9, 16, ...?",
+      "options": ["20", "25", "30", "36"],
+      "answer": "25",
+      "reasoning": "ಈ ಸರಣಿಯು ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆಗಳ ವರ್ಗಗಳನ್ನು ಹೊಂದಿದೆ: 1^2, 2^2, 3^2, 4^2. ಮುಂದಿನ ಸಂಖ್ಯೆ 5^2 = 25."
+    }
+  },
+  {
+    "id": "pz_sequences_6",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Find the missing number: 11, 13, 15, 17, [?]",
+      "options": ["18", "19", "20", "21"],
+      "answer": "19",
+      "reasoning": "The sequence consists of consecutive odd numbers. The next odd number after 17 is 19."
+    },
+    "kn": {
+      "question": "ಬಿಟ್ಟುಹೋದ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: 11, 13, 15, 17, [?]",
+      "options": ["18", "19", "20", "21"],
+      "answer": "19",
+      "reasoning": "ಈ ಸರಣಿಯು ಅನುಕ್ರಮ ಬೆಸ ಸಂಖ್ಯೆಗಳನ್ನು ಹೊಂದಿದೆ. 17 ರ ನಂತರದ ಬೆಸ ಸಂಖ್ಯೆ 19."
+    }
+  },
+  {
+    "id": "pz_sequences_7",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What comes next in this sequence: 0, 1, 1, 2, 3, 5, ...?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "reasoning": "This is the Fibonacci sequence, where each term is the sum of the preceding two terms. So, the next number is 3 + 5 = 8."
+    },
+    "kn": {
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆ ಯಾವುದು: 0, 1, 1, 2, 3, 5, ...?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "reasoning": "ಇದು ಫಿಬೊನಾಚಿ ಸರಣಿಯಾಗಿದ್ದು, ಇಲ್ಲಿ ಪ್ರತಿ ಸಂಖ್ಯೆಯು ಹಿಂದಿನ ಎರಡು ಸಂಖ್ಯೆಗಳ ಮೊತ್ತವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಮುಂದಿನ ಸಂಖ್ಯೆ 3 + 5 = 8."
+    }
+  },
+  {
+    "id": "pz_sequences_8",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Complete the sequence: 80, 40, 20, 10, ...",
+      "options": ["8", "5", "2", "0"],
+      "answer": "5",
+      "reasoning": "Each number is divided by 2 to get the next. So, the next term is 10 / 2 = 5."
+    },
+    "kn": {
+      "question": "ಸರಣಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ: 80, 40, 20, 10, ...",
+      "options": ["8", "5", "2", "0"],
+      "answer": "5",
+      "reasoning": "ಪ್ರತಿ ಸಂಖ್ಯೆಯನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯಲಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಮುಂದಿನ ಸಂಖ್ಯೆ 10 / 2 = 5."
+    }
+  },
+  {
+    "id": "pz_sequences_9",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Identify the next number in the pattern: 1, 2, 4, 7, 11, ...",
+      "options": ["14", "15", "16", "18"],
+      "answer": "16",
+      "reasoning": "The difference between consecutive numbers increases by 1 each time (+1, +2, +3, +4). The next difference is +5, so 11 + 5 = 16."
+    },
+    "kn": {
+      "question": "ಈ ಮಾದರಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಗುರುತಿಸಿ: 1, 2, 4, 7, 11, ...",
+      "options": ["14", "15", "16", "18"],
+      "answer": "16",
+      "reasoning": "ಅನುಕ್ರಮ ಸಂಖ್ಯೆಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವು ಪ್ರತಿ ಬಾರಿ 1 ರಷ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ (+1, +2, +3, +4). ಮುಂದಿನ ವ್ಯತ್ಯಾಸವು +5 ಆಗಿದೆ, ಆದ್ದರಿಂದ 11 + 5 = 16."
+    }
+  },
+  {
+    "id": "pz_sequences_10",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Find the next term in the series: 5, 10, 15, 20, ...",
+      "options": ["22", "24", "25", "30"],
+      "answer": "25",
+      "reasoning": "The sequence consists of positive multiples of 5. The next multiple is 25."
+    },
+    "kn": {
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: 5, 10, 15, 20, ...",
+      "options": ["22", "24", "25", "30"],
+      "answer": "25",
+      "reasoning": "ಈ ಸರಣಿಯು 5 ರ ಧನಾತ್ಮಕ ಗುಣಕಗಳನ್ನು ಹೊಂದಿದೆ. ಮುಂದಿನ ಗುಣಕ 25."
+    }
+  },
+  {
+    "id": "pz_sequences_11",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the next number in this sequence: 100, 91, 82, 73, ...?",
+      "options": ["64", "65", "66", "67"],
+      "answer": "64",
+      "reasoning": "Subtract 9 from each term to get the next. So, the next term is 73 - 9 = 64."
+    },
+    "kn": {
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆ ಯಾವುದು: 100, 91, 82, 73, ...?",
+      "options": ["64", "65", "66", "67"],
+      "answer": "64",
+      "reasoning": "ಪ್ರತಿ ಸಂಖ್ಯೆಯಿಂದ 9 ಅನ್ನು ಕಳೆಯುವ ಮೂಲಕ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯಲಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಮುಂದಿನ ಸಂಖ್ಯೆ 73 - 9 = 64."
+    }
+  },
+  {
+    "id": "pz_sequences_12",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Identify the missing number: 2, 6, 18, 54, ...",
+      "options": ["108", "120", "150", "162"],
+      "answer": "162",
+      "reasoning": "Each number is multiplied by 3 to get the next. So, the next number is 54 * 3 = 162."
+    },
+    "kn": {
+      "question": "ಬಿಟ್ಟುಹೋದ ಸಂಖ್ಯೆಯನ್ನು ಗುರುತಿಸಿ: 2, 6, 18, 54, ...",
+      "options": ["108", "120", "150", "162"],
+      "answer": "162",
+      "reasoning": "ಪ್ರತಿ ಸಂಖ್ಯೆಯನ್ನು 3 ರಿಂದ ಗುಣಿಸಿ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯಲಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಮುಂದಿನ ಸಂಖ್ಯೆ 54 * 3 = 162."
+    }
+  },
+  {
+    "id": "pz_sequences_13",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What is the next number in the sequence of prime numbers: 2, 3, 5, 7, 11, ...?",
+      "options": ["12", "13", "15", "17"],
+      "answer": "13",
+      "reasoning": "The sequence consists of consecutive prime numbers. The prime number after 11 is 13."
+    },
+    "kn": {
+      "question": "ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆ ಯಾವುದು: 2, 3, 5, 7, 11, ...?",
+      "options": ["12", "13", "15", "17"],
+      "answer": "13",
+      "reasoning": "ಈ ಸರಣಿಯು ಅನುಕ್ರಮ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳನ್ನು ಹೊಂದಿದೆ. 11 ರ ನಂತರದ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ 13."
+    }
+  },
+  {
+    "id": "pz_sequences_14",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What is the next term in the sequence of perfect cubes: 1, 8, 27, 64, ...?",
+      "options": ["100", "125", "150", "216"],
+      "answer": "125",
+      "reasoning": "The sequence represents the cubes of consecutive natural numbers: 1^3, 2^3, 3^3, 4^3. The next term is 5^3 = 125."
+    },
+    "kn": {
+      "question": "ಪೂರ್ಣ ಘನ ಸಂಖ್ಯೆಗಳ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆ ಯಾವುದು: 1, 8, 27, 64, ...?",
+      "options": ["100", "125", "150", "216"],
+      "answer": "125",
+      "reasoning": "ಈ ಸರಣಿಯು ಅನುಕ್ರಮ ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆಗಳ ಘನಗಳಾಗಿವೆ: 1^3, 2^3, 3^3, 4^3. ಮುಂದಿನ ಸಂಖ್ಯೆ 5^3 = 125."
+    }
+  },
+  {
+    "id": "pz_sequences_15",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Find the next number in the pattern: 2, 6, 12, 20, 30, ...",
+      "options": ["36", "40", "42", "45"],
+      "answer": "42",
+      "reasoning": "The differences between consecutive terms are consecutive even numbers: +4, +6, +8, +10. The next difference is +12, so 30 + 12 = 42. Alternatively, the terms are n * (n + 1) for n = 1, 2, 3, 4, 5. The next is 6 * 7 = 42."
+    },
+    "kn": {
+      "question": "ಈ ಮಾದರಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: 2, 6, 12, 20, 30, ...",
+      "options": ["36", "40", "42", "45"],
+      "answer": "42",
+      "reasoning": "ಸಂಖ್ಯೆಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸಗಳು ಅನುಕ್ರಮ ಸಮ ಸಂಖ್ಯೆಗಳಾಗಿವೆ: +4, +6, +8, +10. ಮುಂದಿನ ವ್ಯತ್ಯಾಸವು +12 ಆಗಿದೆ, ಆದ್ದರಿಂದ 30 + 12 = 42. ಅಥವಾ ಇವು n * (n + 1) ರೂಪದಲ್ಲಿದ್ದು, ಮುಂದಿನದು 6 * 7 = 42."
+    }
+  },
+  {
+    "id": "pz_sequences_16",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What is the next number in the pattern: 2, 3, 6, 7, 14, 15, ...?",
+      "options": ["16", "20", "30", "32"],
+      "answer": "30",
+      "reasoning": "The pattern of operations is +1, *2, +1, *2, +1. The next operation is *2, so the next term is 15 * 2 = 30."
+    },
+    "kn": {
+      "question": "ಈ ಮಾದರಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆ ಯಾವುದು: 2, 3, 6, 7, 14, 15, ...?",
+      "options": ["16", "20", "30", "32"],
+      "answer": "30",
+      "reasoning": "ಕಾರ್ಯಾಚರಣೆಗಳ ಮಾದರಿಯು +1, *2, +1, *2, +1 ಆಗಿದೆ. ಮುಂದಿನ ಕಾರ್ಯಾಚರಣೆಯು *2 ಆಗಿರುತ್ತದೆ, ಆದ್ದರಿಂದ ಮುಂದಿನ ಸಂಖ್ಯೆ 15 * 2 = 30."
+    }
+  },
+  {
+    "id": "pz_sequences_17",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Complete the sequence of triangular numbers: 1, 3, 6, 10, 15, 21, ...",
+      "options": ["25", "27", "28", "30"],
+      "answer": "28",
+      "reasoning": "The difference between consecutive terms increases by 1: +2, +3, +4, +5, +6. The next term is 21 + 7 = 28."
+    },
+    "kn": {
+      "question": "ತ್ರಿಕೋನ ಸಂಖ್ಯೆಗಳ ಸರಣಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ: 1, 3, 6, 10, 15, 21, ...",
+      "options": ["25", "27", "28", "30"],
+      "answer": "28",
+      "reasoning": "ಅನುಕ್ರಮ ಸಂಖ್ಯೆಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವು 1 ರಷ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ: +2, +3, +4, +5, +6. ಮುಂದಿನ ಸಂಖ್ಯೆಯು 21 + 7 = 28 ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "pz_sequences_18",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What number comes next in the sequence: 0, 3, 8, 15, 24, ...?",
+      "options": ["32", "35", "36", "40"],
+      "answer": "35",
+      "reasoning": "The pattern is (n^2 - 1) starting from n = 1. The terms are 1^2-1, 2^2-1, 3^2-1, 4^2-1, 5^2-1. The next term is 6^2 - 1 = 35."
+    },
+    "kn": {
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆ ಯಾವುದು: 0, 3, 8, 15, 24, ...?",
+      "options": ["32", "35", "36", "40"],
+      "answer": "35",
+      "reasoning": "ಈ ಮಾದರಿಯು n = 1 ರಿಂದ ಪ್ರಾರಂಭವಾಗುವ (n^2 - 1) ಆಗಿದೆ. ಸಂಖ್ಯೆಗಳು 1^2-1, 2^2-1, 3^2-1, 4^2-1, 5^2-1. ಮುಂದಿನ ಸಂಖ್ಯೆಯು 6^2 - 1 = 35."
+    }
+  },
+  {
+    "id": "pz_sequences_19",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What is the next number in this sequence: 2, 10, 4, 8, 6, 6, 8, ...?",
+      "options": ["4", "6", "8", "10"],
+      "answer": "4",
+      "reasoning": "This sequence is composed of two interleaved sequences. The odd positions (1st, 3rd, 5th, 7th...) increase by 2: 2, 4, 6, 8. The even positions (2nd, 4th, 6th...) decrease by 2: 10, 8, 6, ... The next term is at the 8th position (even), so it is 6 - 2 = 4."
+    },
+    "kn": {
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆ ಯಾವುದು: 2, 10, 4, 8, 6, 6, 8, ...?",
+      "options": ["4", "6", "8", "10"],
+      "answer": "4",
+      "reasoning": "ಈ ಸರಣಿಯು ಎರಡು ಹೆಣೆದುಕೊಂಡಿರುವ ಸರಣಿಗಳನ್ನು ಹೊಂದಿದೆ. ಬೆಸ ಸ್ಥಾನಗಳು (1ನೇ, 3ನೇ, 5ನೇ...) 2 ರಷ್ಟು ಹೆಚ್ಚಾಗುತ್ತವೆ: 2, 4, 6, 8. ಸಮ ಸ್ಥಾನಗಳು (2ನೇ, 4ನೇ, 6ನೇ...) 2 ರಷ್ಟು ಕಡಿಮೆಯಾಗುತ್ತವೆ: 10, 8, 6, ... ಮುಂದಿನ ಸಂಖ್ಯೆಯು 8 ನೇ ಸ್ಥಾನದಲ್ಲಿದೆ (ಸಮ), ಆದ್ದರಿಂದ 6 - 2 = 4."
+    }
+  },
+  {
+    "id": "pz_sequences_20",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Find the next term in the sequence: 3, 4, 6, 8, 12, 14, ...",
+      "options": ["16", "17", "18", "20"],
+      "answer": "18",
+      "reasoning": "The pattern is constructed by adding 1 to each prime number: (2+1), (3+1), (5+1), (7+1), (11+1), (13+1). The next prime is 17, so the next term is 17 + 1 = 18."
+    },
+    "kn": {
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: 3, 4, 6, 8, 12, 14, ...",
+      "options": ["16", "17", "18", "20"],
+      "answer": "18",
+      "reasoning": "ಪ್ರತಿ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗೆ 1 ಅನ್ನು ಸೇರಿಸುವ ಮೂಲಕ ಈ ಮಾದರಿಯನ್ನು ರಚಿಸಲಾಗಿದೆ: (2+1), (3+1), (5+1), (7+1), (11+1), (13+1). ಮುಂದಿನ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ 17, ಆದ್ದರಿಂದ 17 + 1 = 18."
+    }
+  },
+  {
+    "id": "pz_sequences_21",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Find the missing number in the sequence (factorials): 1, 2, 6, 24, 120, ...",
+      "options": ["240", "360", "600", "720"],
+      "answer": "720",
+      "reasoning": "Each term is multiplied by an increasing integer: 1*2, 2*3, 6*4, 24*5, 120*6. The next term is 120 * 6 = 720 (which is 6!)."
+    },
+    "kn": {
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಬಿಟ್ಟುಹೋದ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ (ಫ್ಯಾಕ್ಟೋರಿಯಲ್ಸ್): 1, 2, 6, 24, 120, ...",
+      "options": ["240", "360", "600", "720"],
+      "answer": "720",
+      "reasoning": "ಪ್ರತಿ ಸಂಖ್ಯೆಯನ್ನು ಹೆಚ್ಚಾಗುತ್ತಾ ಹೋಗುವ ಪೂರ್ಣಾಂಕದಿಂದ ಗುಣಿಸಲಾಗುತ್ತದೆ: 1*2, 2*3, 6*4, 24*5, 120*6. ಮುಂದಿನ ಸಂಖ್ಯೆಯು 120 * 6 = 720 (ಇದು 6!)."
+    }
+  },
+  {
+    "id": "pz_sequences_22",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Identify the next number in the pattern: 240, 120, 360, 180, 540, ...",
+      "options": ["270", "300", "720", "1080"],
+      "answer": "270",
+      "reasoning": "The pattern alternates between dividing by 2 and multiplying by 3 (/2, *3, /2, *3). The next step is /2. So, 540 / 2 = 270."
+    },
+    "kn": {
+      "question": "ಈ ಮಾದರಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಗುರುತಿಸಿ: 240, 120, 360, 180, 540, ...",
+      "options": ["270", "300", "720", "1080"],
+      "answer": "270",
+      "reasoning": "ಈ ಮಾದರಿಯಲ್ಲಿ ಪರ್ಯಾಯವಾಗಿ 2 ರಿಂದ ಭಾಗಿಸಲಾಗುತ್ತದೆ ಮತ್ತು 3 ರಿಂದ ಗುಣಿಸಲಾಗುತ್ತದೆ (/2, *3, /2, *3). ಮುಂದಿನ ಹಂತವು /2 ಆಗಿದೆ. ಆದ್ದರಿಂದ, 540 / 2 = 270."
+    }
+  },
+  {
+    "id": "pz_sequences_23",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What is the next value in the sequence: 1.5, 3.0, 4.5, 6.0, ...?",
+      "options": ["7.0", "7.5", "8.0", "9.0"],
+      "answer": "7.5",
+      "reasoning": "The common difference in this arithmetic sequence is +1.5. Thus, the next term is 6.0 + 1.5 = 7.5."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಮೌಲ್ಯ ಯಾವುದು: 1.5, 3.0, 4.5, 6.0, ...?",
+      "options": ["7.0", "7.5", "8.0", "9.0"],
+      "answer": "7.5",
+      "reasoning": "ಈ ಸಮಾಂತರ ಶ್ರೇಢಿಯ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸವು +1.5 ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಮುಂದಿನ ಸಂಖ್ಯೆಯು 6.0 + 1.5 = 7.5."
+    }
+  },
+  {
+    "id": "pz_sequences_24",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Complete the sequence: 99, 18, 9, ...",
+      "options": ["0", "3", "9", "18"],
+      "answer": "9",
+      "reasoning": "Each subsequent number is the sum of the digits of the previous number: 9+9 = 18, 1+8 = 9, and the digit sum of 9 is 9. Thus, it remains 9."
+    },
+    "kn": {
+      "question": "ಈ ಸರಣಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ: 99, 18, 9, ...",
+      "options": ["0", "3", "9", "18"],
+      "answer": "9",
+      "reasoning": "ಪ್ರತಿ ಮುಂದಿನ ಸಂಖ್ಯೆಯು ಹಿಂದಿನ ಸಂಖ್ಯೆಯ ಅಂಕಿಗಳ ಮೊತ್ತವಾಗಿರುತ್ತದೆ: 9+9 = 18, 1+8 = 9, ಮತ್ತು 9 ರ ಅಂಕಿಗಳ ಮೊತ್ತ 9 ಆಗಿದೆ. ಆದ್ದರಿಂದ ಇದು 9 ಆಗಿಯೇ ಉಳಿಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "pz_sequences_25",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "What is the next number in this Fibonacci-like sequence: 2, 3, 5, 8, 13, 21, 34, ...?",
+      "options": ["45", "50", "55", "68"],
+      "answer": "55",
+      "reasoning": "Each number is the sum of the previous two numbers: 2+3=5, 3+5=8, and so on. The next term is 21 + 34 = 55."
+    },
+    "kn": {
+      "question": "ಈ ಫಿಬೊನಾಚಿಯಂತಹ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆ ಯಾವುದು: 2, 3, 5, 8, 13, 21, 34, ...?",
+      "options": ["45", "50", "55", "68"],
+      "answer": "55",
+      "reasoning": "ಪ್ರತಿ ಸಂಖ್ಯೆಯು ಹಿಂದಿನ ಎರಡು ಸಂಖ್ಯೆಗಳ ಮೊತ್ತವಾಗಿದೆ: 2+3=5, 3+5=8, ಇತ್ಯಾದಿ. ಆದ್ದರಿಂದ ಮುಂದಿನ ಸಂಖ್ಯೆ 21 + 34 = 55."
+    }
+  },
+  {
+    "id": "pz_sequences_26",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Find the next term in the sequence: 2, 4, 7, 12, 19, 30, ...",
+      "options": ["37", "41", "43", "47"],
+      "answer": "43",
+      "reasoning": "The differences between consecutive terms are consecutive prime numbers: +2, +3, +5, +7, +11. The next prime number is 13, so the next term is 30 + 13 = 43."
+    },
+    "kn": {
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: 2, 4, 7, 12, 19, 30, ...",
+      "options": ["37", "41", "43", "47"],
+      "answer": "43",
+      "reasoning": "ಅನುಕ್ರಮ ಸಂಖ್ಯೆಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸಗಳು ಅನುಕ್ರಮ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳಾಗಿವೆ: +2, +3, +5, +7, +11. ಮುಂದಿನ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ 13 ಆಗಿದೆ, ಆದ್ದರಿಂದ ಮುಂದಿನ ಸಂಖ್ಯೆಯು 30 + 13 = 43."
+    }
+  },
+  {
+    "id": "pz_sequences_27",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Find the missing term in the sequence: 1, 8, 9, 64, 25, 216, ...",
+      "options": ["36", "49", "343", "512"],
+      "answer": "49",
+      "reasoning": "The sequence alternates between squares and cubes of consecutive integers: 1^2, 2^3, 3^2, 4^3, 5^2, 6^3. The next term is 7^2 = 49."
+    },
+    "kn": {
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಬಿಟ್ಟುಹೋದ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: 1, 8, 9, 64, 25, 216, ...",
+      "options": ["36", "49", "343", "512"],
+      "answer": "49",
+      "reasoning": "ಈ ಸರಣಿಯು ಅನುಕ್ರಮ ಪೂರ್ಣಾಂಕಗಳ ವರ್ಗಗಳು ಮತ್ತು ಘನಗಳ ನಡುವೆ ಪರ್ಯಾಯವಾಗಿದೆ: 1^2, 2^3, 3^2, 4^3, 5^2, 6^3. ಮುಂದಿನ ಸಂಖ್ಯೆಯು 7^2 = 49."
+    }
+  },
+  {
+    "id": "pz_sequences_28",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Identify the next term in the sequence: 3, 8, 15, 24, 35, 48, ...",
+      "options": ["59", "63", "64", "80"],
+      "answer": "63",
+      "reasoning": "The sequence is generated by the formula n^2 - 1 starting from n = 2: 2^2-1=3, 3^2-1=8, etc. The next term is 8^2 - 1 = 63. Alternatively, the differences are consecutive odd numbers starting from 5 (+5, +7, +9, +11, +13, +15), so 48 + 15 = 63."
+    },
+    "kn": {
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಗುರುತಿಸಿ: 3, 8, 15, 24, 35, 48, ...",
+      "options": ["59", "63", "64", "80"],
+      "answer": "63",
+      "reasoning": "ಈ ಸರಣಿಯು n = 2 ರಿಂದ ಪ್ರಾರಂಭವಾಗುವ n^2 - 1 ಸೂತ್ರದಿಂದ ರಚಿಸಲ್ಪಟ್ಟಿದೆ: 2^2-1=3, 3^2-1=8, ಇತ್ಯಾದಿ. ಮುಂದಿನ ಸಂಖ್ಯೆಯು 8^2 - 1 = 63. ಅಥವಾ ಇವುಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸಗಳು 5 ರಿಂದ ಪ್ರಾರಂಭವಾಗುವ ಅನುಕ್ರಮ ಬೆಸ ಸಂಖ್ಯೆಗಳಾಗಿವೆ (+5, +7, +9, +11, +13, +15), ಆದ್ದರಿಂದ 48 + 15 = 63."
+    }
+  },
+  {
+    "id": "pz_sequences_29",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Complete the sequence: 2, 9, 28, 65, 126, ...",
+      "options": ["197", "215", "217", "218"],
+      "answer": "217",
+      "reasoning": "The sequence is generated by n^3 + 1 for consecutive integers: 1^3+1=2, 2^3+1=9, 3^3+1=28, 4^3+1=65, 5^3+1=126. The next term is 6^3 + 1 = 216 + 1 = 217."
+    },
+    "kn": {
+      "question": "ಈ ಸರಣಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ: 2, 9, 28, 65, 126, ...",
+      "options": ["197", "215", "217", "218"],
+      "answer": "217",
+      "reasoning": "ಈ ಸರಣಿಯು ಅನುಕ್ರಮ ಪೂರ್ಣಾಂಕಗಳಿಗೆ n^3 + 1 ಸೂತ್ರದಿಂದ ಬಂದಿದೆ: 1^3+1=2, 2^3+1=9, 3^3+1=28, 4^3+1=65, 5^3+1=126. ಮುಂದಿನ ಸಂಖ್ಯೆಯು 6^3 + 1 = 216 + 1 = 217."
+    }
+  },
+  {
+    "id": "pz_sequences_30",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "In the famous 'Look and Say' sequence: 1, 11, 21, 1211, 111221, what is the next term?",
+      "options": ["312211", "132112", "111222", "311221"],
+      "answer": "312211",
+      "reasoning": "Each term describes the digits of the previous term. '111221' has three 1s ('31'), two 2s ('22'), and one 1 ('11'), which combines to '312211'."
+    },
+    "kn": {
+      "question": "ಪ್ರಸಿದ್ಧ 'ಲುಕ್ ಅಂಡ್ ಸೇ' (ನೋಡಿ ಮತ್ತು ಹೇಳಿ) ಸರಣಿಯಲ್ಲಿ: 1, 11, 21, 1211, 111221, ಮುಂದಿನ ಸಂಖ್ಯೆ ಯಾವುದು?",
+      "options": ["312211", "132112", "111222", "311221"],
+      "answer": "312211",
+      "reasoning": "ಪ್ರತಿ ಸಂಖ್ಯೆಯು ಹಿಂದಿನ ಸಂಖ್ಯೆಯ ಅಂಕಿಗಳನ್ನು ವಿವರಿಸುತ್ತದೆ. '111221' ಮೂರು 1ಗಳು ('31'), ಎರಡು 2ಗಳು ('22') ಮತ್ತು ಒಂದು 1 ('11') ಅನ್ನು ಹೊಂದಿದೆ. ಇವುಗಳನ್ನು ಸಂಯೋಜಿಸಿದಾಗ '312211' ಆಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "pz_sequences_31",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "In a 3x3 grid, the rows are: [3, 5, 8], [9, 13, 22], [15, 19, ?]. What is the missing number?",
+      "options": ["30", "34", "38", "41"],
+      "answer": "34",
+      "reasoning": "In each row, the first number plus the second number equals the third number: 3+5=8, 9+13=22. Therefore, 15 + 19 = 34."
+    },
+    "kn": {
+      "question": "3x3 ಗ್ರಿಡ್‌ನಲ್ಲಿ, ಅಡ್ಡಸಾಲುಗಳು: [3, 5, 8], [9, 13, 22], [15, 19, ?]. ಬಿಟ್ಟುಹೋದ ಸಂಖ್ಯೆ ಯಾವುದು?",
+      "options": ["30", "34", "38", "41"],
+      "answer": "34",
+      "reasoning": "ಪ್ರತಿ ಅಡ್ಡಸಾಲಿನಲ್ಲಿ, ಮೊದಲ ಸಂಖ್ಯೆ ಮತ್ತು ಎರಡನೇ ಸಂಖ್ಯೆಯ ಮೊತ್ತವೇ ಮೂರನೇ ಸಂಖ್ಯೆಯಾಗಿದೆ: 3+5=8, 9+13=22. ಆದ್ದರಿಂದ, 15 + 19 = 34."
+    }
+  },
+  {
+    "id": "pz_sequences_32",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Find the next term in the sequence: 2, 3, 7, 16, 32, ...",
+      "options": ["48", "57", "64", "68"],
+      "answer": "57",
+      "reasoning": "The differences between consecutive terms are perfect squares: +1 (1^2), +4 (2^2), +9 (3^2), +16 (4^2). The next difference is 25 (5^2), making the next term 32 + 25 = 57."
+    },
+    "kn": {
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: 2, 3, 7, 16, 32, ...",
+      "options": ["48", "57", "64", "68"],
+      "answer": "57",
+      "reasoning": "ಅನುಕ್ರಮ ಸಂಖ್ಯೆಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸಗಳು ಪೂರ್ಣ ವರ್ಗಗಳಾಗಿವೆ: +1 (1^2), +4 (2^2), +9 (3^2), +16 (4^2). ಮುಂದಿನ ವ್ಯತ್ಯಾಸವು 25 (5^2) ಆಗಿರುತ್ತದೆ, ಆದ್ದರಿಂದ ಮುಂದಿನ ಸಂಖ್ಯೆ 32 + 25 = 57."
+    }
+  },
+  {
+    "id": "pz_sequences_33",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "What is the next number in the sequence: 1, 3, 7, 15, 31, ...?",
+      "options": ["45", "53", "63", "64"],
+      "answer": "63",
+      "reasoning": "The pattern is 2^n - 1: 2^1-1=1, 2^2-1=3, 2^3-1=7, and so on. The next term is 2^6 - 1 = 64 - 1 = 63. Alternatively, multiply by 2 and add 1 at each step: (31 * 2) + 1 = 63."
+    },
+    "kn": {
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆ ಯಾವುದು: 1, 3, 7, 15, 31, ...?",
+      "options": ["45", "53", "63", "64"],
+      "answer": "63",
+      "reasoning": "ಈ ಸರಣಿಯ ಸೂತ್ರವು 2^n - 1ಾಗಿದೆ: 2^1-1=1, 2^2-1=3, 2^3-1=7, ಇತ್ಯಾದಿ. ಮುಂದಿನ ಸಂಖ್ಯೆಯು 2^6 - 1 = 64 - 1 = 63. ಅಥವಾ ಪ್ರತಿ ಹಂತದಲ್ಲೂ 2 ರಿಂದ ಗುಣಿಸಿ 1 ಅನ್ನು ಕೂಡಿಸಲಾಗುತ್ತದೆ: (31 * 2) + 1 = 63."
+    }
+  },
+  {
+    "id": "pz_sequences_34",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Find the next term in this sequence (governed by whether numbers are odd or even): 13, 40, 20, 10, 5, 16, 8, 4, 2, ...",
+      "options": ["0", "1", "3", "6"],
+      "answer": "1",
+      "reasoning": "This follows the Collatz conjecture rule: if odd, multiply by 3 and add 1; if even, divide by 2. The term 2 is even, so the next term is 2 / 2 = 1."
+    },
+    "kn": {
+      "question": "ಸಂಖ್ಯೆಯು ಸಮ ಅಥವಾ ಬೆಸವಾಗಿರುವುದರ ಆಧಾರದ ಮೇಲೆ ನಿಯಮವನ್ನು ಅನುಸರಿಸುವ ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: 13, 40, 20, 10, 5, 16, 8, 4, 2, ...",
+      "options": ["0", "1", "3", "6"],
+      "answer": "1",
+      "reasoning": "ಇದು ಕೊಲಾಟ್ಜ್ ಕಲ್ಪನೆಯ ನಿಯಮವನ್ನು ಅನುಸರಿಸುತ್ತದೆ: ಸಂಖ್ಯೆಯು ಬೆಸವಾಗಿದ್ದರೆ 3 ರಿಂದ ಗುಣಿಸಿ 1 ಅನ್ನು ಕೂಡಿಸಲಾಗುತ್ತದೆ; ಸಮವಾಗಿದ್ದರೆ 2 ರಿಂದ ಭಾಗಿಸಲಾಗುತ್ತದೆ. ಕೊನೆಯ ಸಂಖ್ಯೆ 2 ಸಮವಾಗಿರುವುದರಿಂದ, ಮುಂದಿನ ಸಂಖ್ಯೆ 2 / 2 = 1."
+    }
+  },
+  {
+    "id": "pz_sequences_35",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "What is the next term in the sequence: 4, 3, 9, 5, 16, 7, 25, 11, ...?",
+      "options": ["13", "30", "36", "49"],
+      "answer": "36",
+      "reasoning": "This is an alternating sequence of squares (starting from 2^2) and prime numbers (starting from 3). Squares: 4, 9, 16, 25, ... Primes: 3, 5, 7, 11, ... The next term belongs to the square sequence: 6^2 = 36."
+    },
+    "kn": {
+      "question": "ಈ ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆ ಯಾವುದು: 4, 3, 9, 5, 16, 7, 25, 11, ...?",
+      "options": ["13", "30", "36", "49"],
+      "answer": "36",
+      "reasoning": "ಇದು ವರ್ಗ ಸಂಖ್ಯೆಗಳು (2^2 ರಿಂದ ಪ್ರಾರಂಭ) ಮತ್ತು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳ (3 ರಿಂದ ಪ್ರಾರಂಭ) ಪರ್ಯಾಯ ಸರಣಿಯಾಗಿದೆ. ವರ್ಗಗಳು: 4, 9, 16, 25, ... ಅವಿಭಾಜ್ಯಗಳು: 3, 5, 7, 11, ... ಮುಂದಿನ ಸಂಖ್ಯೆಯು ವರ್ಗ ಸರಣಿಗೆ ಸೇರಿದ್ದು: 6^2 = 36."
+    }
+  },
+  {
+    "id": "pz_sequences_36",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following numbers are prime numbers that can appear in a prime number sequence?",
+      "options": ["17", "21", "29", "33"],
+      "answer": ["17", "29"],
+      "reasoning": "17 and 29 are prime numbers because they have only two factors: 1 and themselves. 21 (3 * 7) and 33 (3 * 11) are composite numbers."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವ ಸಂಖ್ಯೆಗಳು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳಾಗಿದ್ದು, ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯಾ ಸರಣಿಯಲ್ಲಿ ಬರಬಹುದು?",
+      "options": ["17", "21", "29", "33"],
+      "answer": ["17", "29"],
+      "reasoning": "17 ಮತ್ತು 29 ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳಾಗಿವೆ ಏಕೆಂದರೆ ಅವು ಕೇವಲ 1 ಮತ್ತು ತಮ್ಮಿಂದಲೇ ಭಾಗಿಸಲ್ಪಡುತ್ತವೆ. 21 (3 * 7) ಮತ್ತು 33 (3 * 11) ಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "pz_sequences_37",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "In the standard Fibonacci sequence starting with 0, 1, 1..., which of the following pairs of numbers appear consecutively?",
+      "options": ["3 and 5", "5 and 8", "8 and 12", "12 and 15"],
+      "answer": ["3 and 5", "5 and 8"],
+      "reasoning": "The Fibonacci sequence is 0, 1, 1, 2, 3, 5, 8, 13, 21, ... Thus, 3 and 5 appear consecutively, and 5 and 8 also appear consecutively."
+    },
+    "kn": {
+      "question": "0, 1, 1... ರಿಂದ ಪ್ರಾರಂಭವಾಗುವ ಪ್ರಮಾಣಿತ ಫಿಬೊನಾಚಿ ಸರಣಿಯಲ್ಲಿ, ಈ ಕೆಳಗಿನ ಯಾವ ಜೋಡಿ ಸಂಖ್ಯೆಗಳು ಅನುಕ್ರಮವಾಗಿ ಬರುತ್ತವೆ?",
+      "options": ["3 ಮತ್ತು 5", "5 ಮತ್ತು 8", "8 ಮತ್ತು 12", "12 ಮತ್ತು 15"],
+      "answer": ["3 ಮತ್ತು 5", "5 ಮತ್ತು 8"],
+      "reasoning": "ಫಿಬೊನಾಚಿ ಸರಣಿಯು 0, 1, 1, 2, 3, 5, 8, 13, 21, ... ಆಗಿದೆ. ಆದ್ದರಿಂದ, 3 ಮತ್ತು 5 ಅನುಕ್ರಮವಾಗಿ ಬರುತ್ತವೆ, ಹಾಗೂ 5 ಮತ್ತು 8 ಕೂಡ ಅನುಕ್ರಮವಾಗಿ ಬರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "pz_sequences_38",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following are terms in the sequence of perfect squares?",
+      "options": ["16", "24", "36", "48"],
+      "answer": ["16", "36"],
+      "reasoning": "16 (4^2) and 36 (6^2) are perfect squares. 24 and 48 are not perfect squares of any integer."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಪೂರ್ಣ ವರ್ಗಗಳ ಸರಣಿಯಲ್ಲಿನ ಸಂಖ್ಯೆಗಳಾಗಿವೆ?",
+      "options": ["16", "24", "36", "48"],
+      "answer": ["16", "36"],
+      "reasoning": "16 (4^2) ಮತ್ತು 36 (6^2) ಪೂರ್ಣ ವರ್ಗಗಳಾಗಿವೆ. 24 ಮತ್ತು 48 ಯಾವುದೇ ಪೂರ್ಣಾಂಕದ ಪೂರ್ಣ ವರ್ಗಗಳಲ್ಲ."
+    }
+  },
+  {
+    "id": "pz_sequences_39",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following numbers are terms of the arithmetic progression: 3, 7, 11, 15, ...?",
+      "options": ["23", "27", "31", "35"],
+      "answer": ["23", "31"],
+      "reasoning": "The sequence follows the formula a_n = 4n - 1 for n >= 1. Among the choices, 23 (when n = 6) and 31 (when n = 8) satisfy this formula. 27 and 35 do not."
+    },
+    "kn": {
+      "question": "3, 7, 11, 15, ... ಎಂಬ ಸಮಾಂತರ ಶ್ರೇಢಿಯ ಸದಸ್ಯರಾಗಿರುವ ಸಂಖ್ಯೆಗಳು ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು?",
+      "options": ["23", "27", "31", "35"],
+      "answer": ["23", "31"],
+      "reasoning": "ಈ ಸರಣಿಯು n >= 1 ಕ್ಕೆ a_n = 4n - 1 ಸೂತ್ರವನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಆಯ್ಕೆಗಳಲ್ಲಿ, 23 (n = 6 ಆದಾಗ) ಮತ್ತು 31 (n = 8 ಆದಾಗ) ಈ ಸೂತ್ರಕ್ಕೆ ಹೊಂದಿಕೆಯಾಗುತ್ತವೆ. 27 ಮತ್ತು 35 ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "pz_sequences_40",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following algebraic expressions represent the nth term of the sequence: 2, 5, 10, 17, 26, ...? (Assume n starts at 1)",
+      "options": ["n^2 + 1", "(n - 1)^2 + 2", "(n - 1)^2 + 2n", "n(n + 1)"],
+      "answer": ["n^2 + 1", "(n - 1)^2 + 2n"],
+      "reasoning": "The sequence is 1^2+1, 2^2+1, 3^2+1, ..., which is represented by n^2 + 1. Expanding (n - 1)^2 + 2n gives n^2 - 2n + 1 + 2n = n^2 + 1. Therefore, both are correct representations."
+    },
+    "kn": {
+      "question": "2, 5, 10, 17, 26, ... ಈ ಸರಣಿಯ nನೇ ಪದವನ್ನು ಕೆಳಗಿನ ಯಾವ ಬೀಜಗಣಿತದ ಸೂತ್ರಗಳು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ? (n = 1 ರಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ ಎಂದು ಭಾವಿಸಿ)",
+      "options": ["n^2 + 1", "(n - 1)^2 + 2", "(n - 1)^2 + 2n", "n(n + 1)"],
+      "answer": ["n^2 + 1", "(n - 1)^2 + 2n"],
+      "reasoning": "ಈ ಸರಣಿಯು 1^2+1, 2^2+1, 3^2+1, ... ಆಗಿದ್ದು, ಇದನ್ನು n^2 + 1 ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. (n - 1)^2 + 2n ಅನ್ನು ವಿಸ್ತರಿಸಿದಾಗ n^2 - 2n + 1 + 2n = n^2 + 1 ದೊರೆಯುತ್ತದೆ. ಆದ್ದರಿಂದ ಎರಡೂ ಸರಿಯಾದ ಸೂತ್ರಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "pz_sequences_41",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following numbers are triangular numbers?",
+      "options": ["6", "10", "12", "15"],
+      "answer": ["6", "10", "15"],
+      "reasoning": "Triangular numbers are given by n(n+1)/2. For n=1 to 5, the terms are 1, 3, 6, 10, 15. Thus, 6, 10, and 15 are triangular numbers, while 12 is not."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಸಂಖ್ಯೆಗಳಲ್ಲಿ ಯಾವುವು ತ್ರಿಕೋನ ಸಂಖ್ಯೆಗಳಾಗಿವೆ?",
+      "options": ["6", "10", "12", "15"],
+      "answer": ["6", "10", "15"],
+      "reasoning": "ತ್ರಿಕೋನ ಸಂಖ್ಯೆಗಳನ್ನು n(n+1)/2 ಸೂತ್ರದಿಂದ ಪಡೆಯಲಾಗುತ್ತದೆ. n=1 ರಿಂದ 5 ಕ್ಕೆ ಈ ಸಂಖ್ಯೆಗಳು 1, 3, 6, 10, 15 ಆಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ 6, 10 ಮತ್ತು 15 ತ್ರಿಕೋನ ಸಂಖ್ಯೆಗಳಾಗಿವೆ, ಆದರೆ 12 ಅಲ್ಲ."
+    }
+  },
+  {
+    "id": "pz_sequences_42",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following sequences are geometric progressions (G.P.)?",
+      "options": ["2, 4, 8, 16, ...", "3, 9, 27, 81, ...", "5, 10, 15, 20, ...", "1, 4, 9, 16, ..."],
+      "answer": ["2, 4, 8, 16, ...", "3, 9, 27, 81, ..."],
+      "reasoning": "In a geometric progression, the ratio between consecutive terms is constant. For the first option, the ratio is 2 (4/2 = 8/4 = 2). For the second, it is 3 (9/3 = 27/9 = 3). The third is an AP (difference 5), and the fourth is a sequence of squares."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವ ಸರಣಿಗಳು ಗುಣೋತ್ತರ ಶ್ರೇಢಿಗಳಾಗಿವೆ (G.P.)?",
+      "options": ["2, 4, 8, 16, ...", "3, 9, 27, 81, ...", "5, 10, 15, 20, ...", "1, 4, 9, 16, ..."],
+      "answer": ["2, 4, 8, 16, ...", "3, 9, 27, 81, ..."],
+      "reasoning": "ಗುಣೋತ್ತರ ಶ್ರೇಢಿಯಲ್ಲಿ ಅನುಕ್ರಮ ಪದಗಳ ನಡುವಿನ ಅನುಪಾತವು ಸ್ಥಿರವಾಗಿರುತ್ತದೆ. ಮೊದಲನೆಯದರಲ್ಲಿ ಅನುಪಾತವು 2 ಆಗಿದೆ (4/2 = 8/4 = 2). ಎರಡನೆಯದರಲ್ಲಿ ಅನುಪಾತವು 3 ಆಗಿದೆ (9/3 = 27/9 = 3). ಮೂರನೆಯದು ಸಮಾಂತರ ಶ್ರೇಢಿ (ವ್ಯತ್ಯಾಸ 5) ಮತ್ತು ನಾಲ್ಕನೆಯದು ವರ್ಗಗಳ ಸರಣಿಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "pz_sequences_43",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "The sum of the first n terms of a sequence is S_n = 2n^2 + 3n. Which of the following statements about this sequence are correct?",
+      "options": ["The first term is 5", "The common difference is 4", "The second term is 10", "The third term is 15"],
+      "answer": ["The first term is 5", "The common difference is 4"],
+      "reasoning": "The first term a_1 = S_1 = 2(1)^2 + 3(1) = 5. The sum of the first two terms S_2 = 2(2)^2 + 3(2) = 14. So the second term a_2 = S_2 - S_1 = 14 - 5 = 9. The common difference d = a_2 - a_1 = 9 - 5 = 4. The sequence is an arithmetic progression: 5, 9, 13, 17..."
+    },
+    "kn": {
+      "question": "ಒಂದು ಸರಣಿಯ ಮೊದಲ n ಪದಗಳ ಮೊತ್ತವನ್ನು S_n = 2n^2 + 3n ಎಂದು ನೀಡಲಾಗಿದೆ. ಈ ಸರಣಿಯ ಬಗ್ಗೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ?",
+      "options": ["ಮೊದಲ ಪದ 5 ಆಗಿದೆ", "ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ 4 ಆಗಿದೆ", "ಎರಡನೇ ಪದ 10 ಆಗಿದೆ", "ಮೂರನೇ ಪದ 15 ಆಗಿದೆ"],
+      "answer": ["ಮೊದಲ ಪದ 5 ಆಗಿದೆ", "ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ 4 ಆಗಿದೆ"],
+      "reasoning": "ಮೊದಲ ಪದ a_1 = S_1 = 2(1)^2 + 3(1) = 5. ಮೊದಲ ಎರಡು ಪದಗಳ ಮೊತ್ತ S_2 = 2(2)^2 + 3(2) = 14. ಆದ್ದರಿಂದ ಎರಡನೇ ಪದ a_2 = S_2 - S_1 = 14 - 5 = 9. ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ d = a_2 - a_1 = 9 - 5 = 4. ಈ ಸರಣಿಯು 5, 9, 13, 17... ಎಂಬ ಸಮಾಂತರ ಶ್ರೇಢಿಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "pz_sequences_44",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match the number sequences with their correct next term:",
+      "pairs": [
+        {"left": "2, 4, 6, 8, ...", "right": "10"},
+        {"left": "1, 3, 5, 7, ...", "right": "9"},
+        {"left": "10, 20, 30, 40, ...", "right": "50"},
+        {"left": "5, 10, 15, 20, ...", "right": "25"}
+      ],
+      "reasoning": "These are basic arithmetic progressions: even numbers (+2), odd numbers (+2), multiples of 10 (+10), and multiples of 5 (+5)."
+    },
+    "kn": {
+      "question": "ಸಂಖ್ಯಾ ಸರಣಿಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಮುಂದಿನ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "2, 4, 6, 8, ...", "right": "10"},
+        {"left": "1, 3, 5, 7, ...", "right": "9"},
+        {"left": "10, 20, 30, 40, ...", "right": "50"},
+        {"left": "5, 10, 15, 20, ...", "right": "25"}
+      ],
+      "reasoning": "ಇವು ಸರಳವಾದ ಸಮಾಂತರ ಶ್ರೇಢಿಗಳಾಗಿವೆ: ಸಮ ಸಂಖ್ಯೆಗಳು (+2), ಬೆಸ ಸಂಖ್ಯೆಗಳು (+2), 10 ರ ಗುಣಕಗಳು (+10), ಮತ್ತು 5 ರ ಗುಣಕಗಳು (+5)."
+    }
+  },
+  {
+    "id": "pz_sequences_45",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match the base number (from 2 to 5) with its corresponding square number:",
+      "pairs": [
+        {"left": "2", "right": "4"},
+        {"left": "3", "right": "9"},
+        {"left": "4", "right": "16"},
+        {"left": "5", "right": "25"}
+      ],
+      "reasoning": "Each number on the left matches with its square (n * n) on the right: 2^2=4, 3^2=9, 4^2=16, 5^2=25."
+    },
+    "kn": {
+      "question": "ಆಧಾರ ಸಂಖ್ಯೆಯನ್ನು (2 ರಿಂದ 5 ರವರೆಗೆ) ಅದರ ವರ್ಗ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "2", "right": "4"},
+        {"left": "3", "right": "9"},
+        {"left": "4", "right": "16"},
+        {"left": "5", "right": "25"}
+      ],
+      "reasoning": "ಎಡಭಾಗದ ಪ್ರತಿ ಸಂಖ್ಯೆಯು ಬಲಭಾಗದ ಅದರ ವರ್ಗದೊಂದಿಗೆ (n * n) ಹೊಂದಿಕೆಯಾಗುತ್ತದೆ: 2^2=4, 3^2=9, 4^2=16, 5^2=25."
+    }
+  },
+  {
+    "id": "pz_sequences_46",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the descriptions of sequence rules with their correct sequence types:",
+      "pairs": [
+        {"left": "Each term is double the previous term", "right": "Geometric Progression"},
+        {"left": "Each term is 4 more than the previous", "right": "Arithmetic Progression"},
+        {"left": "Each term is the sum of the two preceding terms", "right": "Fibonacci Sequence"},
+        {"left": "The difference between terms increases by 1", "right": "Triangular Numbers"}
+      ],
+      "reasoning": "These descriptions define basic sequences: Arithmetic Progression (constant difference), Geometric Progression (constant ratio), Fibonacci (sum of last two), and Triangular Numbers (differences are +1, +2, +3, etc.)."
+    },
+    "kn": {
+      "question": "ಸರಣಿ ನಿಯಮಗಳ ವಿವರಣೆಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಸಂಖ್ಯಾ ಸರಣಿಯ ವಿಧಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಪ್ರತಿ ಪದವು ಹಿಂದಿನ ಪದದ ಎರಡರಷ್ಟಿರುತ್ತದೆ", "right": "ಗುಣೋತ್ತರ ಶ್ರೇಢಿ"},
+        {"left": "ಪ್ರತಿ ಪದವು ಹಿಂದಿನ ಪದಕ್ಕಿಂತ 4 ಹೆಚ್ಚಿರುತ್ತದೆ", "right": "ಸಮಾಂತರ ಶ್ರೇಢಿ"},
+        {"left": "ಪ್ರತಿ ಪದವು ಹಿಂದಿನ ಎರಡು ಪದಗಳ ಮೊತ್ತವಾಗಿರುತ್ತದೆ", "right": "ಫಿಬೊನಾಚಿ ಸರಣಿ"},
+        {"left": "ಪದಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವು 1 ರಷ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ", "right": "ತ್ರಿಕೋನ ಸಂಖ್ಯೆಗಳು"}
+      ],
+      "reasoning": "ಇವು ಮೂಲಭೂತ ಸರಣಿಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸುತ್ತವೆ: ಸಮಾಂತರ ಶ್ರೇಢಿ (ಸ್ಥಿರ ವ್ಯತ್ಯಾಸ), ಗುಣೋತ್ತರ ಶ್ರೇಢಿ (ಸ್ಥಿರ ಅನುಪಾತ), ಫಿಬೊನಾಚಿ (ಕೊನೆಯ ಎರಡರ ಮೊತ್ತ), ಮತ್ತು ತ್ರಿಕೋನ ಸಂಖ್ಯೆಗಳು (ವ್ಯತ್ಯಾಸಗಳು +1, +2, +3, ಇತ್ಯಾದಿ)."
+    }
+  },
+  {
+    "id": "pz_sequences_47",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the sequences of numbers with the formula for their nth term (where n starts at 1):",
+      "pairs": [
+        {"left": "1, 3, 5, 7, ...", "right": "2n - 1"},
+        {"left": "2, 4, 6, 8, ...", "right": "2n"},
+        {"left": "2, 5, 10, 17, ...", "right": "n^2 + 1"},
+        {"left": "0, 3, 8, 15, ...", "right": "n^2 - 1"}
+      ],
+      "reasoning": "Odd numbers are represented by 2n-1, even numbers by 2n, squares plus 1 by n^2+1, and squares minus 1 by n^2-1."
+    },
+    "kn": {
+      "question": "ಸಂಖ್ಯಾ ಸರಣಿಗಳನ್ನು ಅವುಗಳ nನೇ ಪದದ ಸೂತ್ರದೊಂದಿಗೆ ಹೊಂದಿಸಿ (ಇಲ್ಲಿ n = 1 ರಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ):",
+      "pairs": [
+        {"left": "1, 3, 5, 7, ...", "right": "2n - 1"},
+        {"left": "2, 4, 6, 8, ...", "right": "2n"},
+        {"left": "2, 5, 10, 17, ...", "right": "n^2 + 1"},
+        {"left": "0, 3, 8, 15, ...", "right": "n^2 - 1"}
+      ],
+      "reasoning": "ಬೆಸ ಸಂಖ್ಯೆಗಳನ್ನು 2n-1 ರಿಂದ, ಸಮ ಸಂಖ್ಯೆಗಳನ್ನು 2n ರಿಂದ, ವರ್ಗ ಪ್ಲಸ್ 1 ಅನ್ನು n^2+1 ರಿಂದ ಮತ್ತು ವರ್ಗ ಮೈನಸ್ 1 ಅನ್ನು n^2-1 ರಿಂದ ಪ್ರತಿನಿಧಿಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "pz_sequences_48",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the hard sequences of numbers with their correct missing terms:",
+      "pairs": [
+        {"left": "1, 4, 27, 256, ?", "right": "3125"},
+        {"left": "2, 3, 6, 15, ?", "right": "45"},
+        {"left": "5, 6, 14, 45, ?", "right": "184"},
+        {"left": "2, 12, 36, 80, ?", "right": "150"}
+      ],
+      "reasoning": "1) n^n: 1^1, 2^2, 3^3, 4^4, 5^5 = 3125. 2) Multiply by increasing decimals: *1.5, *2, *2.5, *3; so 15 * 3 = 45. 3) Rule is x_n = n * x_{n-1} + n; so 5*1+1=6, 6*2+2=14, 14*3+3=45, 45*4+4=184. 4) n^3 + n^2: 1^3+1^2=2, 2^3+2^2=12, 3^3+3^2=36, 4^3+4^2=80, 5^3+5^2=150."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಸಂಕೀರ್ಣ ಸಂಖ್ಯಾ ಸರಣಿಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಮುಂದಿನ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "1, 4, 27, 256, ?", "right": "3125"},
+        {"left": "2, 3, 6, 15, ?", "right": "45"},
+        {"left": "5, 6, 14, 45, ?", "right": "184"},
+        {"left": "2, 12, 36, 80, ?", "right": "150"}
+      ],
+      "reasoning": "1) n^n: 1^1, 2^2, 3^3, 4^4, 5^5 = 3125. 2) ಹೆಚ್ಚುತ್ತಿರುವ ದಶಮಾಂಶಗಳಿಂದ ಗುಣಿಸುವುದು: *1.5, *2, *2.5, *3; ಆದ್ದರಿಂದ 15 * 3 = 45. 3) ನಿಯಮವು x_n = n * x_{n-1} + n ಆಗಿದೆ; ಆದ್ದರಿಂದ 5*1+1=6, 6*2+2=14, 14*3+3=45, 45*4+4=184. 4) n^3 + n^2: 1^3+1^2=2, 2^3+2^2=12, 3^3+3^2=36, 4^3+4^2=80, 5^3+5^2=150."
+    }
+  },
+  {
+    "id": "pz_sequences_49",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the mathematical puzzle grids (described by rows) with their missing values (?):",
+      "pairs": [
+        {"left": "[1, 2, 3], [4, 5, 6], [7, 8, ?]", "right": "9"},
+        {"left": "[2, 4, 8], [3, 9, 27], [4, 16, ?]", "right": "64"},
+        {"left": "[1, 3, 4], [2, 5, 7], [3, 8, ?]", "right": "11"},
+        {"left": "[5, 3, 2], [10, 4, 6], [15, 6, ?]", "right": "9"}
+      ],
+      "reasoning": "1) Natural numbers count. 2) Row pattern is n, n^2, n^3. For n=4, 4^3 = 64. 3) First + Second = Third. So 3 + 8 = 11. 4) First - Second = Third. So 15 - 6 = 9."
+    },
+    "kn": {
+      "question": "ಗಣಿತದ ಪದಬಂಧ ಗ್ರಿಡ್‌ಗಳನ್ನು (ಅಡ್ಡಸಾಲುಗಳ ಮೂಲಕ ವಿವರಿಸಲಾಗಿದೆ) ಅವುಗಳ ಬಿಟ್ಟುಹೋದ ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ (?) ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "[1, 2, 3], [4, 5, 6], [7, 8, ?]", "right": "9"},
+        {"left": "[2, 4, 8], [3, 9, 27], [4, 16, ?]", "right": "64"},
+        {"left": "[1, 3, 4], [2, 5, 7], [3, 8, ?]", "right": "11"},
+        {"left": "[5, 3, 2], [10, 4, 6], [15, 6, ?]", "right": "9"}
+      ],
+      "reasoning": "1) ಸರಳ ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆಗಳ ಅನುಕ್ರಮ. 2) ಅಡ್ಡಸಾಲಿನ ಮಾದರಿ n, n^2, n^3 ಆಗಿದೆ. n=4 ಕ್ಕೆ, 4^3 = 64. 3) ಮೊದಲ ಸಂಖ್ಯೆ + ಎರಡನೇ ಸಂಖ್ಯೆ = ಮೂರನೇ ಸಂಖ್ಯೆ. ಆದ್ದರಿಂದ 3 + 8 = 11. 4) ಮೊದಲ ಸಂಖ್ಯೆ - ಎರಡನೇ ಸಂಖ್ಯೆ = ಮೂರನೇ ಸಂಖ್ಯೆ. ಆದ್ದರಿಂದ 15 - 6 = 9."
+    }
+  },
+  {
+    "id": "pz_sequences_50",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the Fibonacci-related sequences with their starting terms:",
+      "pairs": [
+        {"left": "Fibonacci Sequence", "right": "0, 1, 1, 2, 3"},
+        {"left": "Lucas Sequence", "right": "2, 1, 3, 4, 7"},
+        {"left": "Tribonacci Sequence", "right": "0, 0, 1, 1, 2"},
+        {"left": "Pell Sequence", "right": "0, 1, 2, 5, 12"}
+      ],
+      "reasoning": "Fibonacci: F_n = F_{n-1} + F_{n-2} with 0, 1. Lucas: L_n = L_{n-1} + L_{n-2} with 2, 1. Tribonacci: T_n = T_{n-1} + T_{n-2} + T_{n-3} with 0, 0, 1. Pell: P_n = 2P_{n-1} + P_{n-2} starting with 0, 1."
+    },
+    "kn": {
+      "question": "ಫಿಬೊನಾಚಿ ಸಂಬಂಧಿತ ಸರಣಿಗಳನ್ನು ಅವುಗಳ ಪ್ರಾರಂಭದ ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಫಿಬೊನಾಚಿ ಸರಣಿ", "right": "0, 1, 1, 2, 3"},
+        {"left": "ಲ್ಯೂಕಾಸ್ ಸರಣಿ", "right": "2, 1, 3, 4, 7"},
+        {"left": "ಟ್ರಿಬೊನಾಚಿ ಸರಣಿ", "right": "0, 0, 1, 1, 2"},
+        {"left": "ಪೆಲ್ ಸರಣಿ", "right": "0, 1, 2, 5, 12"}
+      ],
+      "reasoning": "ಫಿಬೊನಾಚಿ: F_n = F_{n-1} + F_{n-2} (0, 1 ರಿಂದ ಪ್ರಾರಂಭ). ಲ್ಯೂಕಾಸ್: L_n = L_{n-1} + L_{n-2} (2, 1 ರಿಂದ ಪ್ರಾರಂಭ). ಟ್ರಿಬೊನಾಚಿ: T_n = T_{n-1} + T_{n-2} + T_{n-3} (0, 0, 1 ರಿಂದ ಪ್ರಾರಂಭ). ಪೆಲ್: P_n = 2P_{n-1} + P_{n-2} (0, 1 ರಿಂದ ಪ್ರಾರಂಭ)."
+    }
+  }
+]
