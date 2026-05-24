@@ -3,7 +3,9 @@ import MainMenu from './components/MainMenu';
 import GameArea from './components/GameArea';
 import Header from './components/Header';
 import GameOver from './components/GameOver';
+import { Share2 } from 'lucide-react';
 import { soundEngine } from './utils/AudioEngine';
+import catalog from './data/catalog.json';
 
 function App() {
   const [gameState, setGameState] = useState('menu'); // 'menu', 'playing', 'buylife', 'gameover'
@@ -81,6 +83,45 @@ function App() {
     }
   };
 
+  const handleShare = async () => {
+    soundEngine.playClick();
+    
+    // Resolve chapter names from catalog
+    const chapterNames = selectedChapters.map(ch => {
+      let name = ch.chapterId;
+      catalog.classes.forEach(cls => {
+        if (cls.id === ch.classId) {
+          cls.subjects.forEach(sub => {
+            if (sub.id === ch.subjectId) {
+              sub.chapters.forEach(c => {
+                if (c.id === ch.chapterId) name = c.name;
+              });
+            }
+          });
+        }
+      });
+      return name;
+    }).join(', ');
+
+    const textToShare = language === 'kn'
+      ? `ನಾನು ಆಚಾರ್ಯ ರಸಪ್ರಶ್ನೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ್ದೇನೆ!\n\n📚 ವಿಷಯಗಳು: ${chapterNames}\n🏆 ಅಂಕಗಳು: ${score}\n🎯 ಸರಿಯಾದ ಉತ್ತರಗಳು: ${stats.correct}/${stats.attempted}\n\nಇಲ್ಲೇ ಆಡಿ: ${window.location.href}`
+      : `I just completed a quiz on Acharya Quiz Time!\n\n📚 Topics: ${chapterNames}\n🏆 Score: ${score}\n🎯 Correct: ${stats.correct}/${stats.attempted}\n\nPlay now at: ${window.location.href}`;
+
+    if (navigator.share) {
+      try {
+        await navigator.share({
+          title: 'Acharya Quiz Time',
+          text: textToShare
+        });
+      } catch (err) {
+        console.log('Share canceled or failed', err);
+      }
+    } else {
+      navigator.clipboard.writeText(textToShare);
+      alert(language === 'kn' ? 'ವರದಿಯನ್ನು ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಲಾಗಿದೆ!' : 'Report copied to clipboard!');
+    }
+  };
+
   return (
     <div style={{ width: '100%', height: '100%', display: 'flex', flexDirection: 'column' }}>
       {gameState === 'menu' && <MainMenu onStart={startGame} />}
@@ -120,9 +161,15 @@ function App() {
             <p><strong>{language === 'kn' ? 'ಅಂತಿಮ ಸ್ಕೋರ್' : 'Final Score'}:</strong> {score}</p>
             <p><strong>{language === 'kn' ? 'ಸರಿಯಾದ ಉತ್ತರಗಳು' : 'Correct'}:</strong> {stats.correct} / {stats.attempted}</p>
           </div>
-          <button className="btn btn-primary" onClick={() => setGameState('menu')}>
-            {language === 'kn' ? 'ಸರಿ (ಮರಳಿ ಮುಖಪುಟಕ್ಕೆ)' : 'Okay (Back to Menu)'}
-          </button>
+          <div style={{ display: 'flex', gap: '15px', flexWrap: 'wrap', justifyContent: 'center' }}>
+            <button className="btn btn-secondary" onClick={handleShare} style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+              <Share2 size={20} />
+              {language === 'kn' ? 'ವರದಿ ಹಂಚಿಕೊಳ್ಳಿ' : 'Share Report'}
+            </button>
+            <button className="btn btn-primary" onClick={() => setGameState('menu')}>
+              {language === 'kn' ? 'ಸರಿ (ಮರಳಿ ಮುಖಪುಟಕ್ಕೆ)' : 'Okay (Back to Menu)'}
+            </button>
+          </div>
         </div>
       )}
 
