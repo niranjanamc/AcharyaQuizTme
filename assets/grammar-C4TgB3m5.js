@@ -1,1 +1,0 @@
-var e=[{id:`eng_1`,difficulty:1,en:{question:`What is the past tense of 'Verb1'?`,options:[`Verb1s`,`Verb1d`,`Verb1ing`,`Verb1ed`],answer:`Verb1ed`,reasoning:`The correct answer is Verb1ed.`},kn:{question:`'Verb1' ನ ಭೂತಕಾಲವೇನು?`,options:[`Verb1s`,`Verb1d`,`Verb1ing`,`Verb1ed`],answer:`Verb1ed`,reasoning:`ಸರಿಯಾದ ಉತ್ತರ Verb1ed.`}}];export{e as default};
