@@ -45,10 +45,29 @@ def verify_db():
         en = q['en']
         kn = q['kn']
         
-        if en.get('answer') not in en.get('options', []):
-            issues.append(f"[{file}] {q_id} EN answer not in options.")
-        if kn.get('answer') not in kn.get('options', []):
-            issues.append(f"[{file}] {q_id} KN answer not in options.")
+        q_type = q.get('type', 'single')
+        
+        for lang, lang_data in [('en', en), ('kn', kn)]:
+            if q_type == 'single':
+                if lang_data.get('answer') not in lang_data.get('options', []):
+                    issues.append(f"[{file}] {q_id} {lang.upper()} answer not in options.")
+            elif q_type == 'multiple':
+                ans_list = lang_data.get('answer', [])
+                if not isinstance(ans_list, list):
+                    issues.append(f"[{file}] {q_id} {lang.upper()} answer must be a list for 'multiple' type.")
+                else:
+                    opts = lang_data.get('options', [])
+                    for a in ans_list:
+                        if a not in opts:
+                            issues.append(f"[{file}] {q_id} {lang.upper()} answer '{a}' not in options.")
+            elif q_type == 'match':
+                pairs = lang_data.get('pairs', [])
+                if not isinstance(pairs, list) or len(pairs) == 0:
+                    issues.append(f"[{file}] {q_id} {lang.upper()} must have a valid 'pairs' list for 'match' type.")
+                else:
+                    for p in pairs:
+                        if 'left' not in p or 'right' not in p:
+                            issues.append(f"[{file}] {q_id} {lang.upper()} pair missing 'left' or 'right' keys.")
             
         en_q_text = en.get('question', '').strip()
         kn_q_text = kn.get('question', '').strip()

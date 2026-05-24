@@ -31,7 +31,7 @@ const FloatingAnimation = ({ type, x, y, onComplete }) => {
   );
 };
 
-const GameArea = ({ level, selectedChapters, language, onCorrect, onWrong }) => {
+const GameArea = ({ level, selectedChapters, language, onCorrect, onWrong, onLevelUp, onExhausted }) => {
   const [questions, setQuestions] = useState([]);
   const [currentQuestion, setCurrentQuestion] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -86,33 +86,34 @@ const GameArea = ({ level, selectedChapters, language, onCorrect, onWrong }) => 
   }, [questions, loading, level]);
 
   const pickNextQuestion = (currentSeen = seenQuestions) => {
-    // 1. Filter by level/difficulty
+    if (questions.length === 0) return;
+
     let suitableQs = questions.filter(q => q.difficulty === level);
     
-    // Fallback if level exceeds max difficulty
+    // If no questions exist for this exact level, check if we've gone beyond max
     if (suitableQs.length === 0) {
       const maxDiff = Math.max(...questions.map(q => q.difficulty));
-      suitableQs = questions.filter(q => q.difficulty === maxDiff);
+      if (level > maxDiff) {
+        onExhausted();
+        return;
+      }
     }
 
-    // 2. Filter out seen questions
     let unseenQs = suitableQs.filter(q => !currentSeen.has(q.id));
 
-    // 3. Reset seen pool for this difficulty if we've exhausted them all
     if (unseenQs.length === 0) {
-      const qsToReset = suitableQs.map(q => q.id);
-      const newSeen = new Set(currentSeen);
-      qsToReset.forEach(id => newSeen.delete(id));
-      setSeenQuestions(newSeen);
-      unseenQs = suitableQs;
+      const maxDiff = Math.max(...questions.map(q => q.difficulty));
+      if (level < maxDiff) {
+        onLevelUp();
+        return; // useEffect will re-run when level changes
+      } else {
+        onExhausted();
+        return;
+      }
     }
 
-    if (unseenQs.length > 0) {
-      const randomQ = unseenQs[Math.floor(Math.random() * unseenQs.length)];
-      setCurrentQuestion(randomQ);
-    } else {
-      setError("No questions found for this subject.");
-    }
+    const randomQ = unseenQs[Math.floor(Math.random() * unseenQs.length)];
+    setCurrentQuestion(randomQ);
   };
 
   const handleAnswer = (isCorrect) => {

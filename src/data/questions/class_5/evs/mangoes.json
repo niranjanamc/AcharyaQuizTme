@@ -158,5 +158,47 @@
       "answer": "ತಯಾರಿಸಿದ ಮತ್ತು ಅವಧಿ ಮುಗಿಯುವ (ಎಕ್ಸ್‌ಪೈರಿ) ದಿನಾಂಕಗಳು",
       "reasoning": "ಆಹಾರವು ತಿನ್ನಲು ಸುರಕ್ಷಿತವಾಗಿದೆ ಮತ್ತು ಹಾಳಾಗಿಲ್ಲ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಪ್ಯಾಕೆಟ್‌ಗಳ ಮೇಲೆ ತಯಾರಿಸಿದ ದಿನಾಂಕ ಮತ್ತು ಅವಧಿ ಮುಗಿಯುವ ದಿನಾಂಕವನ್ನು ಪರಿಶೀಲಿಸುವುದು ಬಹಳ ಮುಖ್ಯ."
     }
+  },
+  {
+    "id": "c5_evs_man_11",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following are traditional methods used to preserve food for a long time? (Select all that apply)",
+      "options": ["Making pickles", "Drying in the sun", "Adding lots of sugar (jams)", "Leaving it outside in the rain"],
+      "answer": ["Making pickles", "Drying in the sun", "Adding lots of sugar (jams)"],
+      "reasoning": "Pickling with oil/salt, drying under the sun, and making sweet jams are all ancient ways to stop fungus and preserve food."
+    },
+    "kn": {
+      "question": "ಆಹಾರವನ್ನು ದೀರ್ಘಕಾಲದವರೆಗೆ ಸಂರಕ್ಷಿಸಲು ಬಳಸುವ ಸಾಂಪ್ರದಾಯಿಕ ವಿಧಾನಗಳು ಯಾವುವು? (ಅನ್ವಯಿಸುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆಮಾಡಿ)",
+      "options": ["ಉಪ್ಪಿನಕಾಯಿ ಮಾಡುವುದು", "ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸುವುದು", "ಸಾಕಷ್ಟು ಸಕ್ಕರೆ ಸೇರಿಸುವುದು (ಜಾಮ್‌ಗಳು)", "ಅದನ್ನು ಮಳೆಯಲ್ಲಿ ಹೊರಗೆ ಬಿಡುವುದು"],
+      "answer": ["ಉಪ್ಪಿನಕಾಯಿ ಮಾಡುವುದು", "ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸುವುದು", "ಸಾಕಷ್ಟು ಸಕ್ಕರೆ ಸೇರಿಸುವುದು (ಜಾಮ್‌ಗಳು)"],
+      "reasoning": "ಎಣ್ಣೆ/ಉಪ್ಪಿನಿಂದ ಉಪ್ಪಿನಕಾಯಿ ಮಾಡುವುದು, ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸುವುದು ಮತ್ತು ಸಿಹಿ ಜಾಮ್‌ಗಳನ್ನು ಮಾಡುವುದು ಶಿಲೀಂಧ್ರಗಳನ್ನು ತಡೆಯಲು ಮತ್ತು ಆಹಾರವನ್ನು ಸಂರಕ್ಷಿಸಲು ಇರುವ ಪ್ರಾಚೀನ ವಿಧಾನಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_evs_man_12",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the food item with how it is best preserved for a few days without a fridge:",
+      "pairs": [
+        {"left": "Milk", "right": "Boil it"},
+        {"left": "Cooked rice", "right": "Put in a bowl and keep the bowl in a container with some water"},
+        {"left": "Green coriander", "right": "Wrap in a damp cloth"},
+        {"left": "Onion, garlic", "right": "Keep in a dry open place"}
+      ],
+      "reasoning": "Different foods need different methods: milk needs boiling, coriander needs dampness, and onions need to stay dry."
+    },
+    "kn": {
+      "question": "ಫ್ರಿಡ್ಜ್ ಇಲ್ಲದೆ ಕೆಲವು ದಿನಗಳವರೆಗೆ ಆಹಾರ ಪದಾರ್ಥವನ್ನು ಉತ್ತಮವಾಗಿ ಸಂರಕ್ಷಿಸುವ ವಿಧಾನದೊಂದಿಗೆ ಹೊಂದಿಸಿ (Match):",
+      "pairs": [
+        {"left": "ಹಾಲು", "right": "ಕುದಿಸಿ"},
+        {"left": "ಬೇಯಿಸಿದ ಅನ್ನ", "right": "ಒಂದು ಬಟ್ಟಲಿನಲ್ಲಿ ಹಾಕಿ ಮತ್ತು ಸ್ವಲ್ಪ ನೀರು ಇರುವ ಪಾತ್ರೆಯಲ್ಲಿ ಆ ಬಟ್ಟಲನ್ನು ಇರಿಸಿ"},
+        {"left": "ಹಸಿರು ಕೊತ್ತಂಬರಿ", "right": "ಒದ್ದೆಯಾದ ಬಟ್ಟೆಯಲ್ಲಿ ಸುತ್ತಿ"},
+        {"left": "ಈರುಳ್ಳಿ, ಬೆಳ್ಳುಳ್ಳಿ", "right": "ಶುಷ್ಕ (ಒಣ) ತೆರೆದ ಜಾಗದಲ್ಲಿ ಇರಿಸಿ"}
+      ],
+      "reasoning": "ವಿವಿಧ ಆಹಾರಗಳಿಗೆ ವಿಭಿನ್ನ ವಿಧಾನಗಳ ಅಗತ್ಯವಿದೆ: ಹಾಲನ್ನು ಕುದಿಸಬೇಕು, ಕೊತ್ತಂಬರಿಗೆ ತೇವ ಬೇಕು, ಮತ್ತು ಈರುಳ್ಳಿಯನ್ನು ಒಣಗಿಸಿಡಬೇಕು."
+    }
   }
 ]

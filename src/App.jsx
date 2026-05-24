@@ -34,12 +34,15 @@ function App() {
     const newScore = score + 10 * level;
     setScore(newScore);
     setStats(s => ({ ...s, attempted: s.attempted + 1, correct: s.correct + 1 }));
-    
-    // Level up every 50 points
-    if (Math.floor(newScore / 50) > Math.floor(score / 50)) {
-      soundEngine.playLevelUp();
-      setLevel(level + 1);
-    }
+  };
+
+  const handleLevelUp = () => {
+    soundEngine.playLevelUp();
+    setLevel(l => l + 1);
+  };
+
+  const handleExhausted = () => {
+    setGameState('completed');
   };
 
   const handleWrong = () => {
@@ -98,8 +101,29 @@ function App() {
             language={language}
             onCorrect={handleCorrect} 
             onWrong={handleWrong} 
+            onLevelUp={handleLevelUp}
+            onExhausted={handleExhausted}
           />
         </>
+      )}
+
+      {gameState === 'completed' && (
+        <div style={{ flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', color: 'white', padding: '20px', textAlign: 'center' }}>
+          <h1 style={{ fontSize: '3rem', color: '#06D6A0', marginBottom: '20px' }}>🏆</h1>
+          <h2 style={{ fontSize: '2rem', marginBottom: '10px' }}>
+            {language === 'kn' ? 'ಪಠ್ಯಕ್ರಮ ಪೂರ್ಣಗೊಂಡಿದೆ!' : 'Curriculum Completed!'}
+          </h2>
+          <p style={{ fontSize: '1.2rem', marginBottom: '30px', opacity: 0.9 }}>
+            {language === 'kn' ? 'ನೀವು ಎಲ್ಲಾ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿದ್ದೀರಿ. ಅಭಿನಂದನೆಗಳು!' : 'You have answered all questions in the selected chapters. Congratulations!'}
+          </p>
+          <div style={{ background: 'rgba(255,255,255,0.1)', padding: '20px', borderRadius: '15px', marginBottom: '30px' }}>
+            <p><strong>{language === 'kn' ? 'ಅಂತಿಮ ಸ್ಕೋರ್' : 'Final Score'}:</strong> {score}</p>
+            <p><strong>{language === 'kn' ? 'ಸರಿಯಾದ ಉತ್ತರಗಳು' : 'Correct'}:</strong> {stats.correct} / {stats.attempted}</p>
+          </div>
+          <button className="btn btn-primary" onClick={() => startGame()}>
+            {language === 'kn' ? 'ಮತ್ತೆ ಆಡಿ' : 'Play Again'}
+          </button>
+        </div>
       )}
 
       {gameState === 'buylife' && (
