@@ -1,0 +1,242 @@
+[
+  {
+    "id": "c6_sci_ls_1",
+    "difficulty": 1,
+    "en": {
+      "question": "Objects like the sun that give out or emit light of their own are called:",
+      "options": ["Opaque objects", "Luminous objects", "Reflective objects", "Shadow objects"],
+      "answer": "Luminous objects",
+      "reasoning": "Luminous objects are those that generate their own light, like the Sun, a lit candle, or a glowing electric bulb."
+    },
+    "kn": {
+      "question": "ಸೂರ್ಯನಂತೆ ತಮ್ಮದೇ ಆದ ಬೆಳಕನ್ನು ಹೊರಸೂಸುವ ಅಥವಾ ನೀಡುವ ವಸ್ತುಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಅಪಾರದರ್ಶಕ ವಸ್ತುಗಳು (Opaque objects)", "ಪ್ರಕಾಶಮಾನವಾದ ವಸ್ತುಗಳು (Luminous objects)", "ಪ್ರತಿಫಲಿಸುವ ವಸ್ತುಗಳು (Reflective objects)", "ನೆರಳಿನ ವಸ್ತುಗಳು (Shadow objects)"],
+      "answer": "ಪ್ರಕಾಶಮಾನವಾದ ವಸ್ತುಗಳು (Luminous objects)",
+      "reasoning": "ಸೂರ್ಯ, ಬೆಳಗಿದ ಮೇಣದಬತ್ತಿ ಅಥವಾ ಹೊಳೆಯುವ ವಿದ್ಯುತ್ ಬಲ್ಬ್‌ನಂತೆ ತಮ್ಮದೇ ಆದ ಬೆಳಕನ್ನು ಉತ್ಪಾದಿಸುವ ವಸ್ತುಗಳೇ ಪ್ರಕಾಶಮಾನವಾದ ವಸ್ತುಗಳು."
+    }
+  },
+  {
+    "id": "c6_sci_ls_2",
+    "difficulty": 2,
+    "en": {
+      "question": "Is the moon a luminous object?",
+      "options": ["Yes, because it glows at night", "No, because it does not emit its own light; it only reflects sunlight", "Yes, it produces light from craters", "No, it is made of fire"],
+      "answer": "No, because it does not emit its own light; it only reflects sunlight",
+      "reasoning": "The moon does not produce its own light. We only see it because the Sun's light falls on it and reflects back to our eyes. Hence, it is non-luminous."
+    },
+    "kn": {
+      "question": "ಚಂದ್ರನು ಪ್ರಕಾಶಮಾನವಾದ (luminous) ವಸ್ತುವೇ?",
+      "options": ["ಹೌದು, ಏಕೆಂದರೆ ಅದು ರಾತ್ರಿಯಲ್ಲಿ ಹೊಳೆಯುತ್ತದೆ", "ಇಲ್ಲ, ಏಕೆಂದರೆ ಅದು ತನ್ನದೇ ಆದ ಬೆಳಕನ್ನು ಹೊರಸೂಸುವುದಿಲ್ಲ; ಅದು ಕೇವಲ ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಪ್ರತಿಫಲಿಸುತ್ತದೆ (reflects)", "ಹೌದು, ಅದು ಕುಳಿಗಳಿಂದ ಬೆಳಕನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ", "ಇಲ್ಲ, ಅದು ಬೆಂಕಿಯಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ"],
+      "answer": "ಇಲ್ಲ, ಏಕೆಂದರೆ ಅದು ತನ್ನದೇ ಆದ ಬೆಳಕನ್ನು ಹೊರಸೂಸುವುದಿಲ್ಲ; ಅದು ಕೇವಲ ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಪ್ರತಿಫಲಿಸುತ್ತದೆ (reflects)",
+      "reasoning": "ಚಂದ್ರನು ತನ್ನದೇ ಆದ ಬೆಳಕನ್ನು ಉತ್ಪಾದಿಸುವುದಿಲ್ಲ. ಸೂರ್ಯನ ಬೆಳಕು ಅದರ ಮೇಲೆ ಬಿದ್ದು ನಮ್ಮ ಕಣ್ಣುಗಳಿಗೆ ಪ್ರತಿಫಲಿಸುವುದರಿಂದ ಮಾತ್ರ ನಾವು ಅದನ್ನು ನೋಡುತ್ತೇವೆ. ಆದ್ದರಿಂದ, ಇದು ಪ್ರಕಾಶಮಾನವಲ್ಲದ (non-luminous) ವಸ್ತುವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ls_3",
+    "difficulty": 1,
+    "en": {
+      "question": "If you cannot see through an object at all, it is an:",
+      "options": ["Opaque object", "Transparent object", "Translucent object", "Invisible object"],
+      "answer": "Opaque object",
+      "reasoning": "Opaque objects block all light from passing through them. Since no light passes through, you cannot see anything on the other side."
+    },
+    "kn": {
+      "question": "ನೀವು ವಸ್ತುವಿನ ಮೂಲಕ ಏನನ್ನೂ ನೋಡಲು ಸಾಧ್ಯವಾಗದಿದ್ದರೆ, ಅದು:",
+      "options": ["ಅಪಾರದರ್ಶಕ ವಸ್ತು (Opaque object)", "ಪಾರದರ್ಶಕ ವಸ್ತು (Transparent object)", "ಅರೆಪಾರದರ್ಶಕ ವಸ್ತು (Translucent object)", "ಅದೃಶ್ಯ ವಸ್ತು (Invisible object)"],
+      "answer": "ಅಪಾರದರ್ಶಕ ವಸ್ತು (Opaque object)",
+      "reasoning": "ಅಪಾರದರ್ಶಕ ವಸ್ತುಗಳು (Opaque objects) ತಮ್ಮ ಮೂಲಕ ಬೆಳಕು ಹಾದುಹೋಗುವುದನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತಡೆಯುತ್ತವೆ. ಬೆಳಕು ಹಾದುಹೋಗದ ಕಾರಣ, ನೀವು ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿ ಏನನ್ನೂ ನೋಡಲು ಸಾಧ್ಯವಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_sci_ls_4",
+    "difficulty": 2,
+    "en": {
+      "question": "What happens when light falls on a transparent object like clear glass?",
+      "options": ["It creates a very dark shadow", "It reflects completely backwards", "It passes through easily, allowing you to see through clearly", "It gets absorbed completely"],
+      "answer": "It passes through easily, allowing you to see through clearly",
+      "reasoning": "Transparent materials allow almost all the light to pass through them without scattering it, creating clear visibility."
+    },
+    "kn": {
+      "question": "ಸ್ಪಷ್ಟವಾದ ಗಾಜಿನಂತಹ ಪಾರದರ್ಶಕ (transparent) ವಸ್ತುವಿನ ಮೇಲೆ ಬೆಳಕು ಬಿದ್ದಾಗ ಏನಾಗುತ್ತದೆ?",
+      "options": ["ಅದು ಕಡು ಕಪ್ಪಾದ ನೆರಳು ಸೃಷ್ಟಿಸುತ್ತದೆ", "ಅದು ಸಂಪೂರ್ಣವಾಗಿ ಹಿಂದಕ್ಕೆ ಪ್ರತಿಫಲಿಸುತ್ತದೆ", "ಬೆಳಕು ಸುಲಭವಾಗಿ ಹಾದುಹೋಗುತ್ತದೆ, ಇದರಿಂದ ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ", "ಅದು ಸಂಪೂರ್ಣವಾಗಿ ಹೀರಲ್ಪಡುತ್ತದೆ"],
+      "answer": "ಬೆಳಕು ಸುಲಭವಾಗಿ ಹಾದುಹೋಗುತ್ತದೆ, ಇದರಿಂದ ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ",
+      "reasoning": "ಪಾರದರ್ಶಕ ವಸ್ತುಗಳು ಬಹುತೇಕ ಎಲ್ಲಾ ಬೆಳಕನ್ನು ಚದುರಿಸದೆ ತಮ್ಮ ಮೂಲಕ ಹಾದುಹೋಗಲು ಅನುಮತಿಸುತ್ತವೆ, ಇದರಿಂದ ಸ್ಪಷ್ಟವಾದ ಗೋಚರತೆ ಸೃಷ್ಟಿಯಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ls_5",
+    "difficulty": 2,
+    "en": {
+      "question": "What three things are absolutely necessary to form a shadow?",
+      "options": ["A dark room, a mirror, and an object", "A source of light, an opaque object, and a screen (like a wall or the ground)", "Sunlight, water, and air", "A transparent object, a lens, and light"],
+      "answer": "A source of light, an opaque object, and a screen (like a wall or the ground)",
+      "reasoning": "A shadow is formed when an opaque object blocks the path of light. You need the light, the object to block it, and a surface (screen) for the shadow to fall on."
+    },
+    "kn": {
+      "question": "ನೆರಳು (shadow) ರೂಪುಗೊಳ್ಳಲು ಯಾವ ಮೂರು ವಸ್ತುಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಅವಶ್ಯಕ?",
+      "options": ["ಕತ್ತಲೆ ಕೋಣೆ, ಕನ್ನಡಿ ಮತ್ತು ಒಂದು ವಸ್ತು", "ಬೆಳಕಿನ ಮೂಲ, ಒಂದು ಅಪಾರದರ್ಶಕ ವಸ್ತು (opaque object) ಮತ್ತು ಒಂದು ಪರದೆ (screen - ಗೋಡೆ ಅಥವಾ ನೆಲದಂತೆ)", "ಸೂರ್ಯನ ಬೆಳಕು, ನೀರು ಮತ್ತು ಗಾಳಿ", "ಪಾರದರ್ಶಕ ವಸ್ತು, ಮಸೂರ (lens) ಮತ್ತು ಬೆಳಕು"],
+      "answer": "ಬೆಳಕಿನ ಮೂಲ, ಒಂದು ಅಪಾರದರ್ಶಕ ವಸ್ತು (opaque object) ಮತ್ತು ಒಂದು ಪರದೆ (screen - ಗೋಡೆ ಅಥವಾ ನೆಲದಂತೆ)",
+      "reasoning": "ಅಪಾರದರ್ಶಕ ವಸ್ತುವು ಬೆಳಕಿನ ಮಾರ್ಗವನ್ನು ನಿರ್ಬಂಧಿಸಿದಾಗ ನೆರಳು ಉಂಟಾಗುತ್ತದೆ. ನಿಮಗೆ ಬೆಳಕು, ಅದನ್ನು ನಿರ್ಬಂಧಿಸಲು ಒಂದು ವಸ್ತು ಮತ್ತು ನೆರಳು ಬೀಳಲು ಒಂದು ಮೇಲ್ಮೈ (ಪರದೆ) ಬೇಕಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ls_6",
+    "difficulty": 3,
+    "en": {
+      "question": "A red apple, a green leaf, and a blue block are placed in sunlight. What colour will their shadows be?",
+      "options": ["Red, green, and blue respectively", "They will all have black or very dark shadows", "They won't form shadows", "White"],
+      "answer": "They will all have black or very dark shadows",
+      "reasoning": "A shadow is simply the absence of light caused by an object blocking it. The colour of the opaque object does not matter; its shadow is always dark."
+    },
+    "kn": {
+      "question": "ಕೆಂಪು ಸೇಬು, ಹಸಿರು ಎಲೆ ಮತ್ತು ನೀಲಿ ಬಣ್ಣದ ಬ್ಲಾಕ್ ಅನ್ನು ಸೂರ್ಯನ ಬೆಳಕಿನಲ್ಲಿ ಇರಿಸಲಾಗುತ್ತದೆ. ಅವುಗಳ ನೆರಳು ಯಾವ ಬಣ್ಣದಲ್ಲಿರುತ್ತದೆ?",
+      "options": ["ಕ್ರಮವಾಗಿ ಕೆಂಪು, ಹಸಿರು ಮತ್ತು ನೀಲಿ", "ಅವೆಲ್ಲವೂ ಕಪ್ಪು ಅಥವಾ ಕಡು ಕಪ್ಪಾದ ನೆರಳುಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ", "ಅವು ನೆರಳುಗಳನ್ನು ರೂಪಿಸುವುದಿಲ್ಲ", "ಬಿಳಿ"],
+      "answer": "ಅವೆಲ್ಲವೂ ಕಪ್ಪು ಅಥವಾ ಕಡು ಕಪ್ಪಾದ ನೆರಳುಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ",
+      "reasoning": "ನೆರಳು ಎಂದರೆ ಒಂದು ವಸ್ತುವು ಬೆಳಕನ್ನು ನಿರ್ಬಂಧಿಸುವುದರಿಂದ ಉಂಟಾಗುವ ಬೆಳಕಿನ ಅನುಪಸ್ಥಿತಿಯಾಗಿದೆ. ಅಪಾರದರ್ಶಕ ವಸ್ತುವಿನ ಬಣ್ಣವು ಲೆಕ್ಕಕ್ಕಿಲ್ಲ; ಅದರ ನೆರಳು ಯಾವಾಗಲೂ ಕಪ್ಪಾಗಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ls_7",
+    "difficulty": 2,
+    "en": {
+      "question": "Sometimes a shadow can mislead us about the shape of an object. Why?",
+      "options": ["Because shadows have a mind of their own", "Because the shape of a shadow depends on the angle of the light and the orientation of the object", "Because shadows are colourful", "Because light bends around objects easily"],
+      "answer": "Because the shape of a shadow depends on the angle of the light and the orientation of the object",
+      "reasoning": "A shadow is just a 2D projection. A cylinder can cast a circular shadow (if light hits the flat end) or a rectangular shadow (if light hits the curved side)."
+    },
+    "kn": {
+      "question": "ಕೆಲವೊಮ್ಮೆ ನೆರಳು ವಸ್ತುವಿನ ಆಕಾರದ ಬಗ್ಗೆ ನಮ್ಮನ್ನು ದಿಕ್ಕುತಪ್ಪಿಸಬಹುದು. ಏಕೆ?",
+      "options": ["ಏಕೆಂದರೆ ನೆರಳುಗಳಿಗೆ ತಮ್ಮದೇ ಆದ ಮನಸ್ಸಿದೆ", "ಏಕೆಂದರೆ ನೆರಳಿನ ಆಕಾರವು ಬೆಳಕಿನ ಕೋನ (angle) ಮತ್ತು ವಸ್ತುವಿನ ದೃಷ್ಟಿಕೋನವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ", "ಏಕೆಂದರೆ ನೆರಳುಗಳು ವರ್ಣರಂಜಿತವಾಗಿವೆ", "ಏಕೆಂದರೆ ಬೆಳಕು ವಸ್ತುಗಳ ಸುತ್ತಲೂ ಸುಲಭವಾಗಿ ಬಾಗುತ್ತದೆ"],
+      "answer": "ಏಕೆಂದರೆ ನೆರಳಿನ ಆಕಾರವು ಬೆಳಕಿನ ಕೋನ (angle) ಮತ್ತು ವಸ್ತುವಿನ ದೃಷ್ಟಿಕೋನವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ",
+      "reasoning": "ನೆರಳು ಕೇವಲ 2D ಪ್ರಕ್ಷೇಪಣವಾಗಿದೆ. ಸಿಲಿಂಡರ್ ವೃತ್ತಾಕಾರದ ನೆರಳನ್ನು (ಬೆಳಕು ಚಪ್ಪಟೆ ತುದಿಗೆ ಬಿದ್ದರೆ) ಅಥವಾ ಆಯತಾಕಾರದ ನೆರಳನ್ನು (ಬೆಳಕು ಬಾಗಿದ ಬದಿಗೆ ಬಿದ್ದರೆ) ಬೀರಬಹುದು."
+    }
+  },
+  {
+    "id": "c6_sci_ls_8",
+    "difficulty": 3,
+    "en": {
+      "question": "A pinhole camera forms an image of a bright object (like a tree in sunshine) on its screen. What is the nature of this image?",
+      "options": ["It is exactly the same as the object", "It is inverted (upside down) and colourful", "It is inverted and black like a shadow", "It is larger than the original tree"],
+      "answer": "It is inverted (upside down) and colourful",
+      "reasoning": "Because light travels in straight lines, the light rays from the top of the tree go through the pinhole and hit the bottom of the screen, creating an upside-down (inverted) but real, coloured image."
+    },
+    "kn": {
+      "question": "ಪಿನ್‌ಹೋಲ್ ಕ್ಯಾಮೆರಾ (pinhole camera) ತನ್ನ ಪರದೆಯ ಮೇಲೆ ಪ್ರಕಾಶಮಾನವಾದ ವಸ್ತುವಿನ (ಬಿಸಿಲಿನಲ್ಲಿರುವ ಮರದಂತೆ) ಚಿತ್ರವನ್ನು ರೂಪಿಸುತ್ತದೆ. ಈ ಚಿತ್ರದ ಸ್ವರೂಪ (nature) ಹೇಗಿರುತ್ತದೆ?",
+      "options": ["ಇದು ವಸ್ತುವಿನಂತೆಯೇ ಇರುತ್ತದೆ", "ಇದು ತಲೆಕೆಳಗಾಗಿದೆ (inverted) ಮತ್ತು ವರ್ಣರಂಜಿತವಾಗಿದೆ", "ಇದು ನೆರಳಿನಂತೆ ತಲೆಕೆಳಗಾಗಿದೆ ಮತ್ತು ಕಪ್ಪಾಗಿದೆ", "ಇದು ಮೂಲ ಮರಕ್ಕಿಂತ ದೊಡ್ಡದಾಗಿದೆ"],
+      "answer": "ಇದು ತಲೆಕೆಳಗಾಗಿದೆ (inverted) ಮತ್ತು ವರ್ಣರಂಜಿತವಾಗಿದೆ",
+      "reasoning": "ಬೆಳಕು ಸರಳ ರೇಖೆಗಳಲ್ಲಿ ಚಲಿಸುವುದರಿಂದ, ಮರದ ಮೇಲ್ಭಾಗದಿಂದ ಬರುವ ಬೆಳಕಿನ ಕಿರಣಗಳು ರಂಧ್ರದ ಮೂಲಕ ಹೋಗಿ ಪರದೆಯ ಕೆಳಭಾಗಕ್ಕೆ ಅಪ್ಪಳಿಸುತ್ತವೆ, ಇದರಿಂದ ತಲೆಕೆಳಗಾದ (inverted) ಆದರೆ ನೈಜವಾದ, ಬಣ್ಣದ ಚಿತ್ರ ಸೃಷ್ಟಿಯಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ls_9",
+    "difficulty": 1,
+    "en": {
+      "question": "What basic property of light is demonstrated by the sharp edges of shadows and the working of a pinhole camera?",
+      "options": ["Light is very hot", "Light travels in straight lines", "Light is made of waves", "Light bends around corners easily"],
+      "answer": "Light travels in straight lines",
+      "reasoning": "Light travels in a straight line (rectilinear propagation). That is why an opaque object blocking it creates a sharp shadow behind it, as light doesn't bend around it."
+    },
+    "kn": {
+      "question": "ನೆರಳುಗಳ ಚೂಪಾದ ಅಂಚುಗಳು ಮತ್ತು ಪಿನ್‌ಹೋಲ್ ಕ್ಯಾಮೆರಾದ ಕಾರ್ಯನಿರ್ವಹಣೆಯಿಂದ ಬೆಳಕಿನ ಯಾವ ಮೂಲಭೂತ ಗುಣಲಕ್ಷಣವು ಸಾಬೀತಾಗುತ್ತದೆ?",
+      "options": ["ಬೆಳಕು ತುಂಬಾ ಬಿಸಿಯಾಗಿರುತ್ತದೆ", "ಬೆಳಕು ಸರಳ ರೇಖೆಗಳಲ್ಲಿ ಚಲಿಸುತ್ತದೆ", "ಬೆಳಕು ಅಲೆಗಳಿಂದ (waves) ಮಾಡಲ್ಪಟ್ಟಿದೆ", "ಬೆಳಕು ಮೂಲೆಗಳಲ್ಲಿ ಸುಲಭವಾಗಿ ಬಾಗುತ್ತದೆ"],
+      "answer": "ಬೆಳಕು ಸರಳ ರೇಖೆಗಳಲ್ಲಿ ಚಲಿಸುತ್ತದೆ",
+      "reasoning": "ಬೆಳಕು ಸರಳ ರೇಖೆಯಲ್ಲಿ (rectilinear propagation) ಚಲಿಸುತ್ತದೆ. ಅದಕ್ಕಾಗಿಯೇ ಅದನ್ನು ತಡೆಯುವ ಅಪಾರದರ್ಶಕ ವಸ್ತುವು ಅದರ ಹಿಂದೆ ಚೂಪಾದ ನೆರಳನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ, ಏಕೆಂದರೆ ಬೆಳಕು ಅದರ ಸುತ್ತಲೂ ಬಾಗುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_sci_ls_10",
+    "difficulty": 2,
+    "en": {
+      "question": "When you look into a mirror, you see an image of your face. This happens because of:",
+      "options": ["Absorption of light", "Reflection of light", "Shadow formation", "Translucency"],
+      "answer": "Reflection of light",
+      "reasoning": "A mirror is a highly polished surface. When light from your face hits the mirror, it bounces back (reflects) to your eyes in an organized way, creating a clear image."
+    },
+    "kn": {
+      "question": "ನೀವು ಕನ್ನಡಿಯಲ್ಲಿ ನೋಡಿದಾಗ, ನಿಮ್ಮ ಮುಖದ ಚಿತ್ರಣವನ್ನು ನೀವು ನೋಡುತ್ತೀರಿ. ಇದು ಯಾವುದರಿಂದ ಸಂಭವಿಸುತ್ತದೆ?",
+      "options": ["ಬೆಳಕನ್ನು ಹೀರಿಕೊಳ್ಳುವುದರಿಂದ (Absorption)", "ಬೆಳಕಿನ ಪ್ರತಿಫಲನದಿಂದ (Reflection)", "ನೆರಳು ರಚನೆಯಿಂದ", "ಅರೆಪಾರದರ್ಶಕತೆಯಿಂದ"],
+      "answer": "ಬೆಳಕಿನ ಪ್ರತಿಫಲನದಿಂದ (Reflection)",
+      "reasoning": "ಕನ್ನಡಿಯು ಹೆಚ್ಚು ಹೊಳಪುಳ್ಳ ಮೇಲ್ಮೈಯಾಗಿದೆ. ನಿಮ್ಮ ಮುಖದಿಂದ ಬರುವ ಬೆಳಕು ಕನ್ನಡಿಯ ಮೇಲೆ ಬಿದ್ದಾಗ, ಅದು ಹಿಂದಕ್ಕೆ ಬೌನ್ಸ್ ಆಗಿ (ಪ್ರತಿಫಲಿಸುತ್ತದೆ) ನಿಮ್ಮ ಕಣ್ಣುಗಳನ್ನು ವ್ಯವಸ್ಥಿತ ರೀತಿಯಲ್ಲಿ ತಲುಪುತ್ತದೆ, ಇದು ಸ್ಪಷ್ಟವಾದ ಚಿತ್ರಣವನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ls_11",
+    "difficulty": 3,
+    "en": {
+      "question": "How is an image formed in a mirror different from a shadow?",
+      "options": ["A shadow has all the details and colours; an image is just a dark outline", "An image has colours and details of the object; a shadow is just a dark outline of the object", "They are exactly the same thing", "An image is always larger than a shadow"],
+      "answer": "An image has colours and details of the object; a shadow is just a dark outline of the object",
+      "reasoning": "An image is formed by reflected light rays, so it shows the exact colour and detail. A shadow is just the dark region formed when light is blocked, showing only the shape."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡಿಯಲ್ಲಿ ರೂಪುಗೊಂಡ ಚಿತ್ರಣವು ನೆರಳಿಗಿಂತ ಹೇಗೆ ಭಿನ್ನವಾಗಿದೆ?",
+      "options": ["ನೆರಳು ಎಲ್ಲಾ ವಿವರಗಳು ಮತ್ತು ಬಣ್ಣಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ; ಚಿತ್ರಣವು (image) ಕೇವಲ ಕಪ್ಪು ಹೊರರೇಖೆಯಾಗಿದೆ", "ಚಿತ್ರಣವು ವಸ್ತುವಿನ ಬಣ್ಣಗಳು ಮತ್ತು ವಿವರಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ; ನೆರಳು ಕೇವಲ ವಸ್ತುವಿನ ಕಪ್ಪು ಹೊರರೇಖೆಯಾಗಿದೆ", "ಅವೆರಡೂ ಒಂದೇ ಆಗಿವೆ", "ಚಿತ್ರಣವು ಯಾವಾಗಲೂ ನೆರಳಿಗಿಂತ ದೊಡ್ಡದಾಗಿರುತ್ತದೆ"],
+      "answer": "ಚಿತ್ರಣವು ವಸ್ತುವಿನ ಬಣ್ಣಗಳು ಮತ್ತು ವಿವರಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ; ನೆರಳು ಕೇವಲ ವಸ್ತುವಿನ ಕಪ್ಪು ಹೊರರೇಖೆಯಾಗಿದೆ",
+      "reasoning": "ಪ್ರತಿಫಲಿತ ಬೆಳಕಿನ ಕಿರಣಗಳಿಂದ ಚಿತ್ರಣವು ರೂಪುಗೊಳ್ಳುತ್ತದೆ, ಆದ್ದರಿಂದ ಇದು ನಿಖರವಾದ ಬಣ್ಣ ಮತ್ತು ವಿವರಗಳನ್ನು ತೋರಿಸುತ್ತದೆ. ಬೆಳಕನ್ನು ನಿರ್ಬಂಧಿಸಿದಾಗ ರೂಪುಗೊಳ್ಳುವ ಕತ್ತಲೆಯ ಪ್ರದೇಶವೇ ನೆರಳು, ಇದು ಆಕಾರವನ್ನು ಮಾತ್ರ ತೋರಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ls_12",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of these materials is translucent?",
+      "options": ["Clear glass", "A wooden board", "Butter paper (oiled paper)", "A steel plate"],
+      "answer": "Butter paper (oiled paper)",
+      "reasoning": "Butter paper allows only partial light to pass through. You can see light through it, but objects on the other side are blurry. This is called translucent."
+    },
+    "kn": {
+      "question": "ಈ ವಸ್ತುಗಳಲ್ಲಿ ಯಾವುದು ಅರೆಪಾರದರ್ಶಕವಾಗಿದೆ (translucent)?",
+      "options": ["ಸ್ಪಷ್ಟವಾದ ಗಾಜು", "ಮರದ ಹಲಗೆ", "ಬೆಣ್ಣೆ ಕಾಗದ (ಎಣ್ಣೆ ಹಚ್ಚಿದ ಕಾಗದ)", "ಸ್ಟೀಲ್ ತಟ್ಟೆ"],
+      "answer": "ಬೆಣ್ಣೆ ಕಾಗದ (ಎಣ್ಣೆ ಹಚ್ಚಿದ ಕಾಗದ)",
+      "reasoning": "ಬೆಣ್ಣೆ ಕಾಗದವು ಕೇವಲ ಭಾಗಶಃ ಬೆಳಕನ್ನು ಹಾದುಹೋಗಲು ಅನುಮತಿಸುತ್ತದೆ. ನೀವು ಅದರ ಮೂಲಕ ಬೆಳಕನ್ನು ನೋಡಬಹುದು, ಆದರೆ ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿರುವ ವಸ್ತುಗಳು ಮಸುಕಾಗಿರುತ್ತವೆ. ಇದನ್ನೇ ಅರೆಪಾರದರ್ಶಕ (translucent) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ls_13",
+    "difficulty": 2,
+    "en": {
+      "question": "If you look through a straight pipe at a candle, you can see it. If you bend the pipe, you can no longer see the candle. Why?",
+      "options": ["The candle went out", "Light travels in straight lines and cannot bend around the curve of the pipe", "The pipe became opaque", "The light got trapped in the bend"],
+      "answer": "Light travels in straight lines and cannot bend around the curve of the pipe",
+      "reasoning": "This simple experiment proves that light propagates only in straight lines. It hits the inner wall of the bent pipe instead of turning the corner to reach your eye."
+    },
+    "kn": {
+      "question": "ನೀವು ನೇರವಾದ ಪೈಪ್ ಮೂಲಕ ಮೇಣದಬತ್ತಿಯನ್ನು ನೋಡಿದರೆ, ನೀವು ಅದನ್ನು ನೋಡಬಹುದು. ನೀವು ಪೈಪ್ ಅನ್ನು ಬಗ್ಗಿಸಿದರೆ, ನೀವು ಮೇಣದಬತ್ತಿಯನ್ನು ನೋಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ಏಕೆ?",
+      "options": ["ಮೇಣದಬತ್ತಿ ಆರಿಹೋಯಿತು", "ಬೆಳಕು ಸರಳ ರೇಖೆಗಳಲ್ಲಿ ಚಲಿಸುತ್ತದೆ ಮತ್ತು ಪೈಪ್‌ನ ತಿರುವಿನಲ್ಲಿ ಬಾಗಲು ಸಾಧ್ಯವಿಲ್ಲ", "ಪೈಪ್ ಅಪಾರದರ್ಶಕವಾಯಿತು", "ಬೆಳಕು ತಿರುವಿನಲ್ಲಿ ಸಿಕ್ಕಿಬಿದ್ದಿದೆ"],
+      "answer": "ಬೆಳಕು ಸರಳ ರೇಖೆಗಳಲ್ಲಿ ಚಲಿಸುತ್ತದೆ ಮತ್ತು ಪೈಪ್‌ನ ತಿರುವಿನಲ್ಲಿ ಬಾಗಲು ಸಾಧ್ಯವಿಲ್ಲ",
+      "reasoning": "ಬೆಳಕು ಕೇವಲ ಸರಳ ರೇಖೆಗಳಲ್ಲಿ ಪ್ರಸಾರವಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಈ ಸರಳ ಪ್ರಯೋಗ ಸಾಬೀತುಪಡಿಸುತ್ತದೆ. ನಿಮ್ಮ ಕಣ್ಣನ್ನು ತಲುಪಲು ಮೂಲೆಯಲ್ಲಿ ತಿರುಗುವ ಬದಲು ಅದು ಬಾಗಿದ ಪೈಪ್‌ನ ಒಳ ಗೋಡೆಗೆ ಅಪ್ಪಳಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ls_14",
+    "difficulty": 3,
+    "en": {
+      "question": "During a solar eclipse, what acts as the 'opaque object' that blocks the sunlight from reaching the Earth?",
+      "options": ["The Sun", "The Earth", "The Moon", "A cloud"],
+      "answer": "The Moon",
+      "reasoning": "A solar eclipse occurs when the Moon passes directly between the Sun and Earth. The opaque Moon blocks the sunlight, casting its immense shadow onto the Earth."
+    },
+    "kn": {
+      "question": "ಸೂರ್ಯಗ್ರಹಣದ ಸಮಯದಲ್ಲಿ, ಸೂರ್ಯನ ಬೆಳಕು ಭೂಮಿಯನ್ನು ತಲುಪದಂತೆ ತಡೆಯುವ 'ಅಪಾರದರ್ಶಕ ವಸ್ತುವಾಗಿ' (opaque object) ಯಾವುದು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ?",
+      "options": ["ಸೂರ್ಯ", "ಭೂಮಿ", "ಚಂದ್ರ", "ಮೋಡ"],
+      "answer": "ಚಂದ್ರ",
+      "reasoning": "ಸೂರ್ಯ ಮತ್ತು ಭೂಮಿಯ ನಡುವೆ ಚಂದ್ರನು ನೇರವಾಗಿ ಹಾದುಹೋದಾಗ ಸೂರ್ಯಗ್ರಹಣ ಸಂಭವಿಸುತ್ತದೆ. ಅಪಾರದರ್ಶಕ ಚಂದ್ರನು ಸೂರ್ಯನ ಬೆಳಕನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತಾನೆ, ತನ್ನ ಅಗಾಧವಾದ ನೆರಳನ್ನು ಭೂಮಿಯ ಮೇಲೆ ಬೀರುತ್ತಾನೆ."
+    }
+  },
+  {
+    "id": "c6_sci_ls_15",
+    "difficulty": 2,
+    "en": {
+      "question": "When you walk under a tree on a sunny day, you see circular patches of light on the ground. What are these patches?",
+      "options": ["Leaves that have fallen", "Pinhole images of the Sun formed through the gaps between leaves", "Reflections from a mirror", "Shadows of birds"],
+      "answer": "Pinhole images of the Sun formed through the gaps between leaves",
+      "reasoning": "The tiny gaps between the dense leaves act like pinholes. The circular patches of light you see on the ground are actually inverted pinhole images of the sun."
+    },
+    "kn": {
+      "question": "ಬಿಸಿಲಿನ ದಿನದಲ್ಲಿ ನೀವು ಮರದ ಕೆಳಗೆ ನಡೆದಾಗ, ನೆಲದ ಮೇಲೆ ವೃತ್ತಾಕಾರದ ಬೆಳಕಿನ ಕಲೆಗಳನ್ನು ನೀವು ನೋಡುತ್ತೀರಿ. ಈ ಕಲೆಗಳು ಯಾವುವು?",
+      "options": ["ಬಿದ್ದಿರುವ ಎಲೆಗಳು", "ಎಲೆಗಳ ನಡುವಿನ ಅಂತರದ ಮೂಲಕ ರೂಪುಗೊಂಡ ಸೂರ್ಯನ ಪಿನ್‌ಹೋಲ್ ಚಿತ್ರಗಳು", "ಕನ್ನಡಿಯಿಂದ ಬರುವ ಪ್ರತಿಫಲನಗಳು", "ಪಕ್ಷಿಗಳ ನೆರಳುಗಳು"],
+      "answer": "ಎಲೆಗಳ ನಡುವಿನ ಅಂತರದ ಮೂಲಕ ರೂಪುಗೊಂಡ ಸೂರ್ಯನ ಪಿನ್‌ಹೋಲ್ ಚಿತ್ರಗಳು",
+      "reasoning": "ದಟ್ಟವಾದ ಎಲೆಗಳ ನಡುವಿನ ಸಣ್ಣ ಅಂತರಗಳು (ಗ್ಯಾಪ್ಸ್) ಪಿನ್‌ಹೋಲ್‌ಗಳಂತೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ. ನೆಲದ ಮೇಲೆ ನೀವು ನೋಡುವ ವೃತ್ತಾಕಾರದ ಬೆಳಕಿನ ಕಲೆಗಳು ವಾಸ್ತವವಾಗಿ ಸೂರ್ಯನ ತಲೆಕೆಳಗಾದ ಪಿನ್‌ಹೋಲ್ ಚಿತ್ರಗಳಾಗಿವೆ."
+    }
+  }
+]

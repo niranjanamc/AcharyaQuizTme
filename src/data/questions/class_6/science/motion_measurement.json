@@ -1,0 +1,242 @@
+[
+  {
+    "id": "c6_sci_mm_1",
+    "difficulty": 1,
+    "en": {
+      "question": "In ancient times, what did people use to measure lengths?",
+      "options": ["Laser scales", "The length of a foot, the width of a finger, or a pace", "Plastic rulers", "Measuring tapes"],
+      "answer": "The length of a foot, the width of a finger, or a pace",
+      "reasoning": "Before standard scales were invented, people used body parts to measure distances, which led to variations since everyone's body parts are different sizes."
+    },
+    "kn": {
+      "question": "ಪುರಾತನ ಕಾಲದಲ್ಲಿ, ಉದ್ದವನ್ನು ಅಳೆಯಲು ಜನರು ಏನನ್ನು ಬಳಸುತ್ತಿದ್ದರು?",
+      "options": ["ಲೇಸರ್ ಮಾಪಕಗಳು", "ಪಾದದ ಉದ್ದ, ಬೆರಳಿನ ಅಗಲ, ಅಥವಾ ಹೆಜ್ಜೆ", "ಪ್ಲಾಸ್ಟಿಕ್ ಆಡಳಿತಗಾರರು (rulers)", "ಅಳತೆ ಪಟ್ಟಿಗಳು (Measuring tapes)"],
+      "answer": "ಪಾದದ ಉದ್ದ, ಬೆರಳಿನ ಅಗಲ, ಅಥವಾ ಹೆಜ್ಜೆ",
+      "reasoning": "ಪ್ರಮಾಣಿತ (standard) ಮಾಪಕಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವ ಮೊದಲು, ಜನರು ದೂರವನ್ನು ಅಳೆಯಲು ದೇಹದ ಭಾಗಗಳನ್ನು ಬಳಸುತ್ತಿದ್ದರು, ಇದರಿಂದ ಪ್ರತಿಯೊಬ್ಬರ ದೇಹದ ಭಾಗಗಳು ವಿಭಿನ್ನ ಗಾತ್ರಗಳಾಗಿರುವುದರಿಂದ ವ್ಯತ್ಯಾಸಗಳು ಉಂಟಾಗುತ್ತಿದ್ದವು."
+    }
+  },
+  {
+    "id": "c6_sci_mm_2",
+    "difficulty": 2,
+    "en": {
+      "question": "Why is it not a good idea to use a handspan (the distance from the tip of the thumb to the tip of the little finger) as a standard unit of measurement?",
+      "options": ["Because hands get tired", "Because the length of a handspan varies from person to person", "Because rulers are cheaper", "Because fingers are curved"],
+      "answer": "Because the length of a handspan varies from person to person",
+      "reasoning": "For a measurement unit to be 'standard', it must be the exact same everywhere. A handspan changes depending on the size of a person's hand, so it causes confusion."
+    },
+    "kn": {
+      "question": "ಮಾಪನದ ಪ್ರಮಾಣಿತ (standard) ಘಟಕವಾಗಿ ಗೇಣು / ಹ್ಯಾಂಡ್‌ಸ್ಪ್ಯಾನ್ (ಹೆಬ್ಬೆರಳಿನ ತುದಿಯಿಂದ ಕಿರುಬೆರಳಿನ ತುದಿಯವರೆಗಿನ ಅಂತರ) ಅನ್ನು ಬಳಸುವುದು ಏಕೆ ಒಳ್ಳೆಯದಲ್ಲ?",
+      "options": ["ಏಕೆಂದರೆ ಕೈಗಳು ಆಯಾಸಗೊಳ್ಳುತ್ತವೆ", "ಏಕೆಂದರೆ ಗೇಣಿನ (handspan) ಉದ್ದವು ವ್ಯಕ್ತಿಯಿಂದ ವ್ಯಕ್ತಿಗೆ ಬದಲಾಗುತ್ತದೆ", "ಏಕೆಂದರೆ ಮಾಪಕಗಳು (rulers) ಅಗ್ಗವಾಗಿವೆ", "ಏಕೆಂದರೆ ಬೆರಳುಗಳು ವಕ್ರವಾಗಿವೆ"],
+      "answer": "ಏಕೆಂದರೆ ಗೇಣಿನ (handspan) ಉದ್ದವು ವ್ಯಕ್ತಿಯಿಂದ ವ್ಯಕ್ತಿಗೆ ಬದಲಾಗುತ್ತದೆ",
+      "reasoning": "ಮಾಪನದ ಘಟಕವು 'ಪ್ರಮಾಣಿತವಾಗಿರಲು', ಅದು ಎಲ್ಲೆಡೆಯೂ ಒಂದೇ ಆಗಿರಬೇಕು. ವ್ಯಕ್ತಿಯ ಕೈಯ ಗಾತ್ರವನ್ನು ಅವಲಂಬಿಸಿ ಗೇಣು ಬದಲಾಗುತ್ತದೆ, ಆದ್ದರಿಂದ ಇದು ಗೊಂದಲವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_mm_3",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the standard International System (SI) unit for measuring length?",
+      "options": ["Centimetre", "Kilometre", "Metre", "Inch"],
+      "answer": "Metre",
+      "reasoning": "The metre (m) is the globally accepted standard SI unit of length."
+    },
+    "kn": {
+      "question": "ಉದ್ದವನ್ನು ಅಳೆಯಲು ಇರುವ ಅಂತರಾಷ್ಟ್ರೀಯ ಪ್ರಮಾಣಿತ (SI) ಘಟಕ ಯಾವುದು?",
+      "options": ["ಸೆಂಟಿಮೀಟರ್", "ಕಿಲೋಮೀಟರ್", "ಮೀಟರ್", "ಇಂಚು"],
+      "answer": "ಮೀಟರ್",
+      "reasoning": "ಮೀಟರ್ (m) ಎಂಬುದು ಉದ್ದದ ಜಾಗತಿಕವಾಗಿ ಅಂಗೀಕರಿಸಲ್ಪಟ್ಟ ಪ್ರಮಾಣಿತ SI ಘಟಕವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_mm_4",
+    "difficulty": 2,
+    "en": {
+      "question": "How many centimetres make up exactly one metre?",
+      "options": ["10 cm", "100 cm", "1000 cm", "50 cm"],
+      "answer": "100 cm",
+      "reasoning": "By definition in the metric system, 1 metre is equal to exactly 100 centimetres (cm)."
+    },
+    "kn": {
+      "question": "ಎಷ್ಟು ಸೆಂಟಿಮೀಟರ್‌ಗಳು ನಿಖರವಾಗಿ ಒಂದು ಮೀಟರ್ ಅನ್ನು ರೂಪಿಸುತ್ತವೆ?",
+      "options": ["10 cm", "100 cm", "1000 cm", "50 cm"],
+      "answer": "100 cm",
+      "reasoning": "ಮೆಟ್ರಿಕ್ ವ್ಯವಸ್ಥೆಯಲ್ಲಿನ ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ, 1 ಮೀಟರ್ ನಿಖರವಾಗಿ 100 ಸೆಂಟಿಮೀಟರ್‌ಗಳಿಗೆ (cm) ಸಮಾನವಾಗಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_mm_5",
+    "difficulty": 3,
+    "en": {
+      "question": "To measure the length of a curved line, what should you use instead of a straight ruler?",
+      "options": ["A long stick", "A piece of thread", "Your finger", "A straight plastic scale"],
+      "answer": "A piece of thread",
+      "reasoning": "A straight ruler cannot bend along a curve. A flexible thread can be laid along the curved path, and then the length of that thread can be measured with a ruler."
+    },
+    "kn": {
+      "question": "ಬಾಗಿದ ರೇಖೆಯ (curved line) ಉದ್ದವನ್ನು ಅಳೆಯಲು, ನೇರವಾದ ಮಾಪಕದ (ruler) ಬದಲು ನೀವು ಯಾವುದನ್ನು ಬಳಸಬೇಕು?",
+      "options": ["ಉದ್ದವಾದ ಕಡ್ಡಿ", "ಒಂದು ದಾರ (thread)", "ನಿಮ್ಮ ಬೆರಳು", "ನೇರವಾದ ಪ್ಲಾಸ್ಟಿಕ್ ಸ್ಕೇಲ್"],
+      "answer": "ಒಂದು ದಾರ (thread)",
+      "reasoning": "ನೇರವಾದ ಮಾಪಕವು ವಕ್ರರೇಖೆಯ ಉದ್ದಕ್ಕೂ ಬಾಗುವುದಿಲ್ಲ. ಹೊಂದಿಕೊಳ್ಳುವ ದಾರವನ್ನು (thread) ಬಾಗಿದ ರೇಖೆಯ ಉದ್ದಕ್ಕೂ ಇಡಬಹುದು, ಮತ್ತು ನಂತರ ಆ ದಾರದ ಉದ್ದವನ್ನು ಮಾಪಕದಿಂದ ಅಳೆಯಬಹುದು."
+    }
+  },
+  {
+    "id": "c6_sci_mm_6",
+    "difficulty": 2,
+    "en": {
+      "question": "While measuring a length using a ruler, where should your eye be positioned to avoid reading errors?",
+      "options": ["To the far left of the mark", "To the far right of the mark", "Exactly vertically above the point where the measurement is to be taken", "With one eye closed from far away"],
+      "answer": "Exactly vertically above the point where the measurement is to be taken",
+      "reasoning": "Looking from an angle causes 'parallax error', making the measurement look slightly different. The eye must be directly above the mark."
+    },
+    "kn": {
+      "question": "ಮಾಪಕವನ್ನು (ruler) ಬಳಸಿ ಉದ್ದವನ್ನು ಅಳೆಯುವಾಗ, ಓದುವ ದೋಷಗಳನ್ನು (errors) ತಪ್ಪಿಸಲು ನಿಮ್ಮ ಕಣ್ಣು ಎಲ್ಲಿರಬೇಕು?",
+      "options": ["ಗುರುತಿನ ಎಡಭಾಗಕ್ಕೆ", "ಗುರುತಿನ ಬಲಭಾಗಕ್ಕೆ", "ಮಾಪನವನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕಾದ ಬಿಂದುವಿನ (point) ನೇರವಾಗಿ ಮೇಲೆ", "ದೂರದಿಂದ ಒಂದು ಕಣ್ಣನ್ನು ಮುಚ್ಚಿಕೊಂಡು"],
+      "answer": "ಮಾಪನವನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕಾದ ಬಿಂದುವಿನ (point) ನೇರವಾಗಿ ಮೇಲೆ",
+      "reasoning": "ಕೋನದಿಂದ ನೋಡುವುದರಿಂದ 'ಭ್ರಂಶ ದೋಷ' (parallax error) ಉಂಟಾಗುತ್ತದೆ, ಇದು ಅಳತೆಯನ್ನು ಸ್ವಲ್ಪ ವಿಭಿನ್ನವಾಗಿ ಕಾಣುವಂತೆ ಮಾಡುತ್ತದೆ. ಕಣ್ಣು ನೇರವಾಗಿ ಗುರುತಿನ ಮೇಲಿರಬೇಕು."
+    }
+  },
+  {
+    "id": "c6_sci_mm_7",
+    "difficulty": 1,
+    "en": {
+      "question": "When an object moves along a perfectly straight line, what type of motion is it called?",
+      "options": ["Circular motion", "Periodic motion", "Rectilinear motion", "Random motion"],
+      "answer": "Rectilinear motion",
+      "reasoning": "Motion in a straight line (like a car on a straight road or an apple falling straight down) is called rectilinear motion."
+    },
+    "kn": {
+      "question": "ಒಂದು ವಸ್ತುವು ಸಂಪೂರ್ಣವಾಗಿ ಸರಳ ರೇಖೆಯಲ್ಲಿ ಚಲಿಸಿದಾಗ, ಆ ರೀತಿಯ ಚಲನೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ವೃತ್ತಾಕಾರದ ಚಲನೆ (Circular motion)", "ಆವರ್ತಕ ಚಲನೆ (Periodic motion)", "ಸರಳ ರೇಖೆಯ ಚಲನೆ (Rectilinear motion)", "ಯಾದೃಚ್ಛಿಕ ಚಲನೆ (Random motion)"],
+      "answer": "ಸರಳ ರೇಖೆಯ ಚಲನೆ (Rectilinear motion)",
+      "reasoning": "ಸರಳ ರೇಖೆಯಲ್ಲಿನ ಚಲನೆಯನ್ನು (ನೇರವಾದ ರಸ್ತೆಯಲ್ಲಿ ಕಾರು ಅಥವಾ ನೇರವಾಗಿ ಕೆಳಗೆ ಬೀಳುವ ಸೇಬಿನಂತೆ) ಸರಳ ರೇಖೆಯ ಚಲನೆ (rectilinear motion) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_mm_8",
+    "difficulty": 2,
+    "en": {
+      "question": "The motion of a ceiling fan's blades or the hands of a clock is an example of:",
+      "options": ["Rectilinear motion", "Circular motion", "Translatory motion", "Linear motion"],
+      "answer": "Circular motion",
+      "reasoning": "When an object moves such that its distance from a fixed central point remains the same, it is in circular motion."
+    },
+    "kn": {
+      "question": "ಸೀಲಿಂಗ್ ಫ್ಯಾನ್‌ನ ಬ್ಲೇಡ್‌ಗಳು ಅಥವಾ ಗಡಿಯಾರದ ಮುಳ್ಳುಗಳ ಚಲನೆಯು ಯಾವುದಕ್ಕೆ ಉದಾಹರಣೆಯಾಗಿದೆ?",
+      "options": ["ಸರಳ ರೇಖೆಯ ಚಲನೆ (Rectilinear motion)", "ವೃತ್ತಾಕಾರದ ಚಲನೆ (Circular motion)", "ಭಾಷಾಂತರ ಚಲನೆ (Translatory motion)", "ರೇಖೀಯ ಚಲನೆ (Linear motion)"],
+      "answer": "ವೃತ್ತಾಕಾರದ ಚಲನೆ (Circular motion)",
+      "reasoning": "ಒಂದು ವಸ್ತುವು ಸ್ಥಿರವಾದ ಕೇಂದ್ರ ಬಿಂದುವಿನಿಂದ ಅದರ ಅಂತರವು ಒಂದೇ ಆಗಿರುವಂತೆ ಚಲಿಸಿದಾಗ, ಅದು ವೃತ್ತಾಕಾರದ ಚಲನೆಯಲ್ಲಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_mm_9",
+    "difficulty": 3,
+    "en": {
+      "question": "A child on a swing moves back and forth. This motion repeats itself after a fixed time. What is this motion called?",
+      "options": ["Rectilinear motion", "Circular motion", "Periodic motion", "Straight motion"],
+      "answer": "Periodic motion",
+      "reasoning": "Any motion that repeats itself at regular intervals of time (like a swinging pendulum or a child on a swing) is called periodic motion."
+    },
+    "kn": {
+      "question": "ಉಯ್ಯಾಲೆಯಲ್ಲಿರುವ ಮಗು ಮುಂದಕ್ಕೆ ಮತ್ತು ಹಿಂದಕ್ಕೆ ಚಲಿಸುತ್ತದೆ. ಈ ಚಲನೆಯು ನಿಗದಿತ ಸಮಯದ ನಂತರ ಪುನರಾವರ್ತನೆಯಾಗುತ್ತದೆ (repeats). ಈ ಚಲನೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಸರಳ ರೇಖೆಯ ಚಲನೆ (Rectilinear motion)", "ವೃತ್ತಾಕಾರದ ಚಲನೆ (Circular motion)", "ಆವರ್ತಕ ಚಲನೆ (Periodic motion)", "ನೇರ ಚಲನೆ (Straight motion)"],
+      "answer": "ಆವರ್ತಕ ಚಲನೆ (Periodic motion)",
+      "reasoning": "ನಿಯಮಿತ ಸಮಯದ ಮಧ್ಯಂತರಗಳಲ್ಲಿ ಪುನರಾವರ್ತನೆಯಾಗುವ ಯಾವುದೇ ಚಲನೆಯನ್ನು (ತೂಗಾಡುವ ಲೋಲಕ ಅಥವಾ ಉಯ್ಯಾಲೆಯಲ್ಲಿರುವ ಮಗುವಿನಂತೆ) ಆವರ್ತಕ ಚಲನೆ (periodic motion) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_mm_10",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following is an example of BOTH circular motion and periodic motion?",
+      "options": ["A car driving on a straight highway", "An apple falling from a tree", "The Earth moving around the Sun", "A boy running randomly in a field"],
+      "answer": "The Earth moving around the Sun",
+      "reasoning": "The Earth moves in a roughly circular path around the sun (circular motion), and it takes exactly one year to complete each orbit, repeating itself (periodic motion)."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ವೃತ್ತಾಕಾರದ ಚಲನೆ (circular motion) ಮತ್ತು ಆವರ್ತಕ ಚಲನೆ (periodic motion) ಎರಡಕ್ಕೂ ಉದಾಹರಣೆಯಾಗಿದೆ?",
+      "options": ["ನೇರವಾದ ಹೆದ್ದಾರಿಯಲ್ಲಿ ಚಲಿಸುವ ಕಾರು", "ಮರದಿಂದ ಬೀಳುವ ಸೇಬು", "ಸೂರ್ಯನ ಸುತ್ತ ಚಲಿಸುವ ಭೂಮಿ", "ಮೈದಾನದಲ್ಲಿ ಯಾದೃಚ್ಛಿಕವಾಗಿ (randomly) ಓಡುತ್ತಿರುವ ಹುಡುಗ"],
+      "answer": "ಸೂರ್ಯನ ಸುತ್ತ ಚಲಿಸುವ ಭೂಮಿ",
+      "reasoning": "ಭೂಮಿಯು ಸೂರ್ಯನ ಸುತ್ತ ಸರಿಸುಮಾರು ವೃತ್ತಾಕಾರದ ಪಥದಲ್ಲಿ ಚಲಿಸುತ್ತದೆ (ವೃತ್ತಾಕಾರದ ಚಲನೆ), ಮತ್ತು ಪ್ರತಿ ಕಕ್ಷೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಇದು ನಿಖರವಾಗಿ ಒಂದು ವರ್ಷ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ, ತಾನೇ ಪುನರಾವರ್ತನೆಯಾಗುತ್ತದೆ (ಆವರ್ತಕ ಚಲನೆ)."
+    }
+  },
+  {
+    "id": "c6_sci_mm_11",
+    "difficulty": 3,
+    "en": {
+      "question": "If your ruler is broken at the zero mark, how should you measure the length of an object?",
+      "options": ["You cannot measure with it", "Measure from the 1 cm mark and then subtract 1 cm from your final reading", "Measure from the broken end anyway", "Guess the length"],
+      "answer": "Measure from the 1 cm mark and then subtract 1 cm from your final reading",
+      "reasoning": "If the zero mark is damaged, you can start from any clear mark (like 1 cm or 2 cm). You just have to subtract that starting value from the final reading on the other end."
+    },
+    "kn": {
+      "question": "ನಿಮ್ಮ ಮಾಪಕವು (ruler) ಸೊನ್ನೆ (zero) ಗುರುತಿನಲ್ಲಿ ಮುರಿದುಹೋಗಿದ್ದರೆ, ವಸ್ತುವಿನ ಉದ್ದವನ್ನು ನೀವು ಹೇಗೆ ಅಳೆಯಬೇಕು?",
+      "options": ["ನೀವು ಅದರೊಂದಿಗೆ ಅಳೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ", "1 cm ಗುರುತಿನಿಂದ ಅಳೆಯಿರಿ ಮತ್ತು ನಂತರ ನಿಮ್ಮ ಅಂತಿಮ ಅಳತೆಯಿಂದ 1 cm ಅನ್ನು ಕಳೆಯಿರಿ (subtract)", "ಹೇಗಾದರೂ ಮುರಿದ ತುದಿಯಿಂದಲೇ ಅಳೆಯಿರಿ", "ಉದ್ದವನ್ನು ಊಹಿಸಿ"],
+      "answer": "1 cm ಗುರುತಿನಿಂದ ಅಳೆಯಿರಿ ಮತ್ತು ನಂತರ ನಿಮ್ಮ ಅಂತಿಮ ಅಳತೆಯಿಂದ 1 cm ಅನ್ನು ಕಳೆಯಿರಿ (subtract)",
+      "reasoning": "ಸೊನ್ನೆ ಗುರುತು ಹಾನಿಗೊಳಗಾಗಿದ್ದರೆ, ನೀವು ಯಾವುದೇ ಸ್ಪಷ್ಟ ಗುರುತಿನಿಂದ (1 cm ಅಥವಾ 2 cm ನಂತೆ) ಪ್ರಾರಂಭಿಸಬಹುದು. ನೀವು ಕೇವಲ ಇನ್ನೊಂದು ತುದಿಯಲ್ಲಿರುವ ಅಂತಿಮ ಅಳತೆಯಿಂದ ಆ ಆರಂಭಿಕ ಮೌಲ್ಯವನ್ನು ಕಳೆಯಬೇಕು."
+    }
+  },
+  {
+    "id": "c6_sci_mm_12",
+    "difficulty": 1,
+    "en": {
+      "question": "To measure very large distances, like the distance between two cities, which unit is most appropriate?",
+      "options": ["Centimetre", "Millimetre", "Kilometre", "Metre"],
+      "answer": "Kilometre",
+      "reasoning": "For large distances, the metre is too small, resulting in huge numbers. The Kilometre (1000 metres) is the standard and convenient unit for city-to-city distances."
+    },
+    "kn": {
+      "question": "ಎರಡು ನಗರಗಳ ನಡುವಿನ ಅಂತರದಂತಹ ಅತಿ ದೊಡ್ಡ ದೂರವನ್ನು ಅಳೆಯಲು, ಯಾವ ಘಟಕವು (unit) ಹೆಚ್ಚು ಸೂಕ್ತವಾಗಿದೆ?",
+      "options": ["ಸೆಂಟಿಮೀಟರ್", "ಮಿಲಿಮೀಟರ್", "ಕಿಲೋಮೀಟರ್", "ಮೀಟರ್"],
+      "answer": "ಕಿಲೋಮೀಟರ್",
+      "reasoning": "ದೊಡ್ಡ ದೂರಗಳಿಗೆ, ಮೀಟರ್ ತುಂಬಾ ಚಿಕ್ಕದಾಗಿದೆ, ಇದರಿಂದ ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳು ಬರುತ್ತವೆ. ಕಿಲೋಮೀಟರ್ (1000 ಮೀಟರ್) ನಗರದಿಂದ ನಗರದ ನಡುವಿನ ಅಂತರಕ್ಕೆ ಪ್ರಮಾಣಿತ ಮತ್ತು ಅನುಕೂಲಕರ ಘಟಕವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_mm_13",
+    "difficulty": 2,
+    "en": {
+      "question": "A ball rolling on the ground shows what kind(s) of motion?",
+      "options": ["Only rectilinear motion", "Only circular motion", "Both rectilinear motion (moving forward) and rotational/circular motion (spinning)", "Periodic motion"],
+      "answer": "Both rectilinear motion (moving forward) and rotational/circular motion (spinning)",
+      "reasoning": "A rolling ball is a classic example of combined motion. It moves forward in a straight line (rectilinear) while simultaneously turning on its axis (rotational)."
+    },
+    "kn": {
+      "question": "ನೆಲದ ಮೇಲೆ ಉರುಳುವ ಚೆಂಡು ಯಾವ ರೀತಿಯ ಚಲನೆ(ಗಳನ್ನು) ತೋರಿಸುತ್ತದೆ?",
+      "options": ["ಕೇವಲ ಸರಳ ರೇಖೆಯ ಚಲನೆ", "ಕೇವಲ ವೃತ್ತಾಕಾರದ ಚಲನೆ", "ಸರಳ ರೇಖೆಯ ಚಲನೆ (ಮುಂದಕ್ಕೆ ಚಲಿಸುವುದು) ಮತ್ತು ತಿರುಗುವ/ವೃತ್ತಾಕಾರದ ಚಲನೆ (ತಿರುಗುವುದು) ಎರಡೂ", "ಆವರ್ತಕ ಚಲನೆ (Periodic motion)"],
+      "answer": "ಸರಳ ರೇಖೆಯ ಚಲನೆ (ಮುಂದಕ್ಕೆ ಚಲಿಸುವುದು) ಮತ್ತು ತಿರುಗುವ/ವೃತ್ತಾಕಾರದ ಚಲನೆ (ತಿರುಗುವುದು) ಎರಡೂ",
+      "reasoning": "ಉರುಳುವ ಚೆಂಡು ಸಂಯೋಜಿತ ಚಲನೆಗೆ ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆಯಾಗಿದೆ. ಇದು ತನ್ನ ಅಕ್ಷದ ಮೇಲೆ ತಿರುಗುವಾಗ (ತಿರುಗುವಿಕೆ) ಏಕಕಾಲದಲ್ಲಿ ಸರಳ ರೇಖೆಯಲ್ಲಿ (ಸರಳ ರೇಖೆಯ) ಮುಂದಕ್ಕೆ ಚಲಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_sci_mm_14",
+    "difficulty": 1,
+    "en": {
+      "question": "How many millimetres (mm) make one centimetre (cm)?",
+      "options": ["100 mm", "10 mm", "1000 mm", "5 mm"],
+      "answer": "10 mm",
+      "reasoning": "On a standard ruler, there are 10 small divisions (millimetres) within every centimetre."
+    },
+    "kn": {
+      "question": "ಎಷ್ಟು ಮಿಲಿಮೀಟರ್‌ಗಳು (mm) ಒಂದು ಸೆಂಟಿಮೀಟರ್ (cm) ಆಗುತ್ತದೆ?",
+      "options": ["100 mm", "10 mm", "1000 mm", "5 mm"],
+      "answer": "10 mm",
+      "reasoning": "ಪ್ರಮಾಣಿತ ಮಾಪಕದಲ್ಲಿ (ruler), ಪ್ರತಿ ಸೆಂಟಿಮೀಟರ್‌ನೊಳಗೆ 10 ಸಣ್ಣ ವಿಭಾಗಗಳಿರುತ್ತವೆ (ಮಿಲಿಮೀಟರ್‌ಗಳು)."
+    }
+  },
+  {
+    "id": "c6_sci_mm_15",
+    "difficulty": 3,
+    "en": {
+      "question": "What is 'rest' in the context of motion?",
+      "options": ["When an object goes to sleep", "When an object does not change its position with time with respect to its surroundings", "When an object moves very slowly", "When an object is in periodic motion"],
+      "answer": "When an object does not change its position with time with respect to its surroundings",
+      "reasoning": "If an object's position relative to stationary things around it remains exactly the same as time passes, the object is said to be at rest."
+    },
+    "kn": {
+      "question": "ಚಲನೆಯ (motion) ಸಂದರ್ಭದಲ್ಲಿ 'ವಿಶ್ರಾಂತಿ' (rest) ಎಂದರೇನು?",
+      "options": ["ವಸ್ತುವು ನಿದ್ರೆ ಮಾಡಿದಾಗ", "ಒಂದು ವಸ್ತುವು ತನ್ನ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರದೇಶಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಸಮಯದೊಂದಿಗೆ ತನ್ನ ಸ್ಥಾನವನ್ನು ಬದಲಾಯಿಸದಿದ್ದಾಗ", "ಒಂದು ವಸ್ತುವು ತುಂಬಾ ನಿಧಾನವಾಗಿ ಚಲಿಸಿದಾಗ", "ವಸ್ತುವು ಆವರ್ತಕ ಚಲನೆಯಲ್ಲಿರುವಾಗ (periodic motion)"],
+      "answer": "ಒಂದು ವಸ್ತುವು ತನ್ನ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರದೇಶಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಸಮಯದೊಂದಿಗೆ ತನ್ನ ಸ್ಥಾನವನ್ನು ಬದಲಾಯಿಸದಿದ್ದಾಗ",
+      "reasoning": "ಅದರ ಸುತ್ತಲಿನ ಸ್ಥಿರವಾದ ವಸ್ತುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ವಸ್ತುವಿನ ಸ್ಥಾನವು ಸಮಯ ಕಳೆದಂತೆ ನಿಖರವಾಗಿ ಒಂದೇ ಆಗಿದ್ದರೆ, ಆ ವಸ್ತುವು ವಿಶ್ರಾಂತಿಯಲ್ಲಿದೆ (at rest) ಎಂದು ಹೇಳಲಾಗುತ್ತದೆ."
+    }
+  }
+]
