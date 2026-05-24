@@ -16,12 +16,16 @@ function App() {
   const [language, setLanguage] = useState('en');
   const [selectedChapters, setSelectedChapters] = useState([]);
   const [stats, setStats] = useState({ attempted: 0, correct: 0, wrong: 0 });
+  const [streak, setStreak] = useState(0);
+  const [correctInLevel, setCorrectInLevel] = useState(0);
 
   const startGame = (config) => {
     setScore(0);
     setLevel(1);
     setLives(3);
     setStats({ attempted: 0, correct: 0, wrong: 0 });
+    setStreak(0);
+    setCorrectInLevel(0);
     
     if (config) {
       setLanguage(config.language);
@@ -36,11 +40,38 @@ function App() {
     const newScore = score + 10 * level;
     setScore(newScore);
     setStats(s => ({ ...s, attempted: s.attempted + 1, correct: s.correct + 1 }));
+
+    // Update streak for life bonus
+    setStreak(prevStreak => {
+      const nextStreak = prevStreak + 1;
+      if (nextStreak === 5) {
+        setLives(l => {
+          if (l < 3) {
+            soundEngine.playBonus();
+            return l + 1;
+          }
+          return l;
+        });
+        return 0; // Reset streak
+      }
+      return nextStreak;
+    });
+
+    // Update level progress towards leveling up
+    setCorrectInLevel(prev => {
+      const nextCorrect = prev + 1;
+      if (nextCorrect === 5) {
+        handleLevelUp();
+        return 0;
+      }
+      return nextCorrect;
+    });
   };
 
   const handleLevelUp = () => {
     soundEngine.playLevelUp();
     setLevel(l => l + 1);
+    setCorrectInLevel(0); // Reset level progress
   };
 
   const handleExhausted = () => {
@@ -49,6 +80,7 @@ function App() {
 
   const handleWrong = () => {
     soundEngine.playIncorrect();
+    setStreak(0); // Reset consecutive correct answers on incorrect answer
     setStats(s => ({ ...s, attempted: s.attempted + 1, wrong: s.wrong + 1 }));
     setLives(l => {
       const newLives = l - 1;
@@ -132,6 +164,9 @@ function App() {
             score={score} 
             level={level} 
             lives={lives} 
+            correctInLevel={correctInLevel}
+            levelUpThreshold={5}
+            streak={streak}
             subject={selectedChapters.length > 1 ? 'mixed' : selectedChapters[0]?.subjectId} 
             onBuyLife={buyLifeFromHeader} 
             language={language}
@@ -140,6 +175,8 @@ function App() {
             level={level} 
             selectedChapters={selectedChapters}
             language={language}
+            lives={lives}
+            streak={streak}
             onCorrect={handleCorrect} 
             onWrong={handleWrong} 
             onLevelUp={handleLevelUp}

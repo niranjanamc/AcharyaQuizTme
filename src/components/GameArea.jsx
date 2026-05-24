@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import QuizComponent from './QuizComponent';
 import { Loader2 } from 'lucide-react';
 
-const FloatingAnimation = ({ type, x, y, onComplete }) => {
+const FloatingAnimation = ({ type, value, x, y, onComplete }) => {
   const isPositive = type === 'positive';
   return (
     <div 
@@ -15,23 +15,23 @@ const FloatingAnimation = ({ type, x, y, onComplete }) => {
         fontSize: '2rem',
         fontWeight: 'bold',
         textShadow: '1px 2px 4px rgba(0,0,0,0.3)',
-        animation: 'floatUp 1s ease-out forwards',
+        animation: 'floatUp 1.2s ease-out forwards',
         pointerEvents: 'none',
         zIndex: 100
       }}
     >
-      {isPositive ? '+SCORE' : '-1 ♥'}
+      {value}
       <style>{`
         @keyframes floatUp {
           0% { transform: translateY(0) scale(1); opacity: 1; }
-          100% { transform: translateY(-50px) scale(1.5); opacity: 0; }
+          100% { transform: translateY(-60px) scale(1.4); opacity: 0; }
         }
       `}</style>
     </div>
   );
 };
 
-const GameArea = ({ level, selectedChapters, language, onCorrect, onWrong, onLevelUp, onExhausted }) => {
+const GameArea = ({ level, selectedChapters, language, lives, streak, onCorrect, onWrong, onLevelUp, onExhausted }) => {
   const [questions, setQuestions] = useState([]);
   const [currentQuestion, setCurrentQuestion] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -133,10 +133,23 @@ const GameArea = ({ level, selectedChapters, language, onCorrect, onWrong, onLev
       setSeenQuestions(newSeen);
     }
 
+    // Determine dynamic text to show in the floating animation
+    let animText = '';
+    if (isCorrect) {
+      if (streak === 4 && lives < 3) {
+        animText = `+${10 * level} (+1 ♥)`;
+      } else {
+        animText = `+${10 * level}`;
+      }
+    } else {
+      animText = '-1 ♥';
+    }
+
     // Add animation
     const newAnim = {
       id: Date.now(),
       type: isCorrect ? 'positive' : 'negative',
+      value: animText,
       x: '50%',
       y: '40%'
     };
@@ -186,6 +199,7 @@ const GameArea = ({ level, selectedChapters, language, onCorrect, onWrong, onLev
         <FloatingAnimation 
           key={anim.id} 
           type={anim.type} 
+          value={anim.value}
           x={anim.x} 
           y={anim.y} 
           onComplete={() => removeAnimation(anim.id)} 

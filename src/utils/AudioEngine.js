@@ -60,6 +60,15 @@ class AudioEngine {
     setTimeout(() => this.playTone(659.25, 'square', 0.15, 0.05), 150); // E5
     setTimeout(() => this.playTone(783.99, 'square', 0.4, 0.05), 300); // G5
   }
+
+  playBonus() {
+    this.init();
+    // A quick bubbly ascending scale
+    this.playTone(587.33, 'sine', 0.1, 0.08); // D5
+    setTimeout(() => this.playTone(698.46, 'sine', 0.1, 0.08), 80); // F5
+    setTimeout(() => this.playTone(880.00, 'sine', 0.1, 0.08), 160); // A5
+    setTimeout(() => this.playTone(1046.50, 'sine', 0.3, 0.08), 240); // C6
+  }
 }
 
 export const soundEngine = new AudioEngine();

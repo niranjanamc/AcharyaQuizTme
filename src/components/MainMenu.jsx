@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Play, Settings, BookOpen, ChevronDown, ChevronRight, CheckSquare, Square } from 'lucide-react';
 import { soundEngine } from '../utils/AudioEngine';
 import catalog from '../data/catalog.json';
+import menuTranslations from '../data/menuTranslations.json';
 
 const Checkbox = ({ checked, indeterminate, onClick }) => {
   if (checked) return <CheckSquare size={18} fill="var(--accent-color)" stroke="white" onClick={onClick} style={{ cursor: 'pointer' }} />;
@@ -46,7 +47,7 @@ const MainMenu = ({ onStart }) => {
   const handleStart = () => {
     soundEngine.playClick();
     if (selected.size === 0) {
-      alert("Please select at least one chapter!");
+      alert(language === 'kn' ? "ದಯವಿಟ್ಟು ಕನಿಷ್ಠ ಒಂದು ಅಧ್ಯಾಯವನ್ನು ಆಯ್ಕೆಮಾಡಿ!" : "Please select at least one chapter!");
       return;
     }
     
@@ -90,7 +91,7 @@ const MainMenu = ({ onStart }) => {
 
         {/* Curriculum Tree */}
         <h3 style={{ margin: '0 0 10px 0', textAlign: 'left', display: 'flex', alignItems: 'center', gap: '5px' }}>
-          <BookOpen size={20}/> Curriculum Selection
+          <BookOpen size={20}/> {language === 'kn' ? 'ಪಠ್ಯಕ್ರಮದ ಆಯ್ಕೆ' : 'Curriculum Selection'}
         </h3>
         
         <div style={{ 
@@ -113,7 +114,9 @@ const MainMenu = ({ onStart }) => {
                     checked={clsState.checked} indeterminate={clsState.indeterminate} 
                     onClick={() => toggleNode(classPaths, !clsState.checked)} 
                   />
-                  <strong style={{ fontSize: '1.1rem' }}>{cls.name}</strong>
+                  <strong style={{ fontSize: '1.1rem' }}>
+                    {language === 'kn' ? (menuTranslations[cls.id] || cls.name) : cls.name}
+                  </strong>
                 </div>
 
                 {expanded.has(cls.id) && (
@@ -132,7 +135,9 @@ const MainMenu = ({ onStart }) => {
                               checked={subState.checked} indeterminate={subState.indeterminate} 
                               onClick={() => toggleNode(subPaths, !subState.checked)} 
                             />
-                            <span>{sub.name}</span>
+                            <span>
+                              {language === 'kn' ? (menuTranslations[`${cls.id}/${sub.id}`] || sub.name) : sub.name}
+                            </span>
                           </div>
 
                           {expanded.has(sub.id) && (
@@ -146,7 +151,9 @@ const MainMenu = ({ onStart }) => {
                                       checked={chChecked} 
                                       onClick={() => toggleNode([chPath], !chChecked)} 
                                     />
-                                    <span style={{ fontSize: '0.9rem', color: '#ddd' }}>{ch.name}</span>
+                                    <span style={{ fontSize: '0.9rem', color: '#ddd' }}>
+                                      {language === 'kn' ? (menuTranslations[ch.id] || ch.name) : ch.name}
+                                    </span>
                                   </div>
                                 );
                               })}
@@ -165,7 +172,7 @@ const MainMenu = ({ onStart }) => {
 
       <button className="btn btn-primary" onClick={handleStart}
         style={{ display: 'flex', alignItems: 'center', gap: '10px', fontSize: '1.5rem', width: '100%', maxWidth: '400px', justifyContent: 'center' }}>
-        <Play size={24} fill="currentColor" /> START QUIZ ({selected.size} chapters)
+        <Play size={24} fill="currentColor" /> {language === 'kn' ? `ರಸಪ್ರಶ್ನೆ ಪ್ರಾರಂಭಿಸಿ (${selected.size} ಅಧ್ಯಾಯಗಳು)` : `START QUIZ (${selected.size} chapters)`}
       </button>
     </div>
   );

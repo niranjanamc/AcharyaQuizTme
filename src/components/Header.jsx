@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Heart, Star, BookOpen, PlusCircle } from 'lucide-react';
 
-const Header = ({ score, level, lives, subject, onBuyLife, language }) => {
+const Header = ({ score, level, lives, correctInLevel, levelUpThreshold, streak, subject, onBuyLife, language }) => {
   const [levelUpAnim, setLevelUpAnim] = useState(false);
 
   // Trigger animation when level changes
@@ -12,10 +12,8 @@ const Header = ({ score, level, lives, subject, onBuyLife, language }) => {
     }
   }, [level]);
 
-  // Calculate progress to next level (every 50 points = next level)
-  // Example: Score 0 -> level 1. Score 50 -> level 2.
-  // Progress in current level = score % 50
-  const progressPercent = Math.min(((score % 50) / 50) * 100, 100);
+  // Calculate progress to next level based on correct answers in current level
+  const progressPercent = Math.min(((correctInLevel || 0) / (levelUpThreshold || 5)) * 100, 100);
 
   const subjectNames = {
     maths: language === 'kn' ? 'ಗಣಿತ' : 'Maths',
@@ -84,6 +82,22 @@ const Header = ({ score, level, lives, subject, onBuyLife, language }) => {
           }}>
             <BookOpen size={16} /> {subjectNames[subject] || subject} (Lvl {level})
           </div>
+          {streak > 0 && (
+            <div style={{
+              backgroundColor: '#FF5722',
+              padding: '4px 10px',
+              borderRadius: '20px',
+              color: 'white',
+              fontWeight: 'bold',
+              fontSize: '0.85rem',
+              display: 'flex',
+              alignItems: 'center',
+              gap: '3px',
+              animation: 'pulse 1s infinite'
+            }}>
+              🔥 {streak}/5
+            </div>
+          )}
         </div>
         
         <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
