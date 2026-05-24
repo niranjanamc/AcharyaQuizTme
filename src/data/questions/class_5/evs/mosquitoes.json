@@ -1,0 +1,162 @@
+[
+  {
+    "id": "c5_evs_mq_1",
+    "difficulty": 1,
+    "en": {
+      "question": "How does malaria spread?",
+      "options": ["By drinking dirty water", "By eating stale food", "Through the bite of a specific female mosquito (Anopheles)", "By coughing"],
+      "answer": "Through the bite of a specific female mosquito (Anopheles)",
+      "reasoning": "Malaria is a disease that spreads through the bite of an infected female Anopheles mosquito."
+    },
+    "kn": {
+      "question": "ಮಲೇರಿಯಾ ರೋಗ ಹೇಗೆ ಹರಡುತ್ತದೆ?",
+      "options": ["ಕೊಳಕು ನೀರನ್ನು ಕುಡಿಯುವುದರಿಂದ", "ಹಳಸಿದ ಆಹಾರವನ್ನು ತಿನ್ನುವುದರಿಂದ", "ನಿರ್ದಿಷ್ಟ ಹೆಣ್ಣು ಸೊಳ್ಳೆಯ (ಅನಾಫಿಲಿಸ್) ಕಡಿತದ ಮೂಲಕ", "ಕೆಮ್ಮುವುದರಿಂದ"],
+      "answer": "ನಿರ್ದಿಷ್ಟ ಹೆಣ್ಣು ಸೊಳ್ಳೆಯ (ಅನಾಫಿಲಿಸ್) ಕಡಿತದ ಮೂಲಕ",
+      "reasoning": "ಮಲೇರಿಯಾವು ಸೋಂಕಿತ ಹೆಣ್ಣು ಅನಾಫಿಲಿಸ್ ಸೊಳ್ಳೆಯ ಕಡಿತದ ಮೂಲಕ ಹರಡುವ ರೋಗವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_mq_2",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the common way to confirm if someone is suffering from malaria?",
+      "options": ["By checking their height", "Through a blood test looking for the malaria parasite", "By asking them to run", "By checking their teeth"],
+      "answer": "Through a blood test looking for the malaria parasite",
+      "reasoning": "To confirm malaria, a small amount of blood is taken and tested under a microscope to look for the malaria parasite inside the blood."
+    },
+    "kn": {
+      "question": "ಒಬ್ಬ ವ್ಯಕ್ತಿ ಮಲೇರಿಯಾದಿಂದ ಬಳಲುತ್ತಿದ್ದಾನೆ ಎಂದು ಖಚಿತಪಡಿಸುವ ಸಾಮಾನ್ಯ ವಿಧಾನ ಯಾವುದು?",
+      "options": ["ಅವರ ಎತ್ತರವನ್ನು ಪರಿಶೀಲಿಸುವ ಮೂಲಕ", "ಮಲೇರಿಯಾ ಪರಾವಲಂಬಿಗಾಗಿ (parasite) ರಕ್ತ ಪರೀಕ್ಷೆ ಮಾಡುವ ಮೂಲಕ", "ಅವರನ್ನು ಓಡಲು ಹೇಳುವ ಮೂಲಕ", "ಅವರ ಹಲ್ಲುಗಳನ್ನು ಪರೀಕ್ಷಿಸುವ ಮೂಲಕ"],
+      "answer": "ಮಲೇರಿಯಾ ಪರಾವಲಂಬಿಗಾಗಿ (parasite) ರಕ್ತ ಪರೀಕ್ಷೆ ಮಾಡುವ ಮೂಲಕ",
+      "reasoning": "ಮಲೇರಿಯಾವನ್ನು ಖಚಿತಪಡಿಸಲು, ಸ್ವಲ್ಪ ರಕ್ತವನ್ನು ತೆಗೆದುಕೊಂಡು ರಕ್ತದೊಳಗಿನ ಮಲೇರಿಯಾ ಪರಾವಲಂಬಿಯನ್ನು (parasite) ಹುಡುಕಲು ಸೂಕ್ಷ್ಮದರ್ಶಕದ ಅಡಿಯಲ್ಲಿ ಪರೀಕ್ಷಿಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_mq_3",
+    "difficulty": 1,
+    "en": {
+      "question": "What medicine was traditionally used to cure malaria?",
+      "options": ["A powder made from the bark of the Cinchona tree", "A syrup made from honey", "Crushed mint leaves", "Turmeric and milk"],
+      "answer": "A powder made from the bark of the Cinchona tree",
+      "reasoning": "From early times, the dried and powdered bark of the Cinchona tree was boiled with water and given to patients as medicine for malaria."
+    },
+    "kn": {
+      "question": "ಮಲೇರಿಯಾವನ್ನು ಗುಣಪಡಿಸಲು ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ ಯಾವ ಔಷಧಿಯನ್ನು ಬಳಸಲಾಗುತ್ತಿತ್ತು?",
+      "options": ["ಸಿಂಕೋನಾ ಮರದ ತೊಗಟೆಯಿಂದ ಮಾಡಿದ ಪುಡಿ", "ಜೇನುತುಪ್ಪದಿಂದ ಮಾಡಿದ ಸಿರಪ್", "ಪುದೀನ ಎಲೆಗಳ ರಸ", "ಅರಿಶಿನ ಮತ್ತು ಹಾಲು"],
+      "answer": "ಸಿಂಕೋನಾ ಮರದ ತೊಗಟೆಯಿಂದ ಮಾಡಿದ ಪುಡಿ",
+      "reasoning": "ಹಿಂದಿನ ಕಾಲದಿಂದಲೂ, ಸಿಂಕೋನಾ ಮರದ ಒಣಗಿದ ಮತ್ತು ಪುಡಿಮಾಡಿದ ತೊಗಟೆಯನ್ನು ನೀರಿನೊಂದಿಗೆ ಕುದಿಸಿ ಮಲೇರಿಯಾ ರೋಗಿಗಳಿಗೆ ಔಷಧಿಯಾಗಿ ನೀಡಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c5_evs_mq_4",
+    "difficulty": 2,
+    "en": {
+      "question": "If a doctor tells you that you have 'anaemia', what does it mean?",
+      "options": ["You have too much sugar in your blood", "You have less haemoglobin or iron in your blood", "You are allergic to mosquitoes", "You have an infection in your ear"],
+      "answer": "You have less haemoglobin or iron in your blood",
+      "reasoning": "Anaemia is a condition where a person lacks enough iron or haemoglobin in their blood, making them feel weak and tired."
+    },
+    "kn": {
+      "question": "ವೈದ್ಯರು ನಿಮಗೆ 'ರಕ್ತಹೀನತೆ' (anaemia) ಇದೆ ಎಂದು ಹೇಳಿದರೆ, ಅದರ ಅರ್ಥವೇನು?",
+      "options": ["ನಿಮ್ಮ ರಕ್ತದಲ್ಲಿ ಸಕ್ಕರೆಯ ಅಂಶ ಹೆಚ್ಚಾಗಿದೆ", "ನಿಮ್ಮ ರಕ್ತದಲ್ಲಿ ಹಿಮೋಗ್ಲೋಬಿನ್ ಅಥವಾ ಕಬ್ಬಿಣಾಂಶ ಕಡಿಮೆಯಾಗಿದೆ", "ನಿಮಗೆ ಸೊಳ್ಳೆಗಳ ಅಲರ್ಜಿ ಇದೆ", "ನಿಮ್ಮ ಕಿವಿಯಲ್ಲಿ ಸೋಂಕಿದೆ"],
+      "answer": "ನಿಮ್ಮ ರಕ್ತದಲ್ಲಿ ಹಿಮೋಗ್ಲೋಬಿನ್ ಅಥವಾ ಕಬ್ಬಿಣಾಂಶ ಕಡಿಮೆಯಾಗಿದೆ",
+      "reasoning": "ರಕ್ತಹೀನತೆ ಎಂದರೆ ವ್ಯಕ್ತಿಯ ರಕ್ತದಲ್ಲಿ ಸಾಕಷ್ಟು ಕಬ್ಬಿಣಾಂಶ ಅಥವಾ ಹಿಮೋಗ್ಲೋಬಿನ್ ಕೊರತೆಯಿರುವ ಸ್ಥಿತಿಯಾಗಿದೆ, ಇದರಿಂದ ಅವರು ದುರ್ಬಲ ಮತ್ತು ಸುಸ್ತಾಗಿರುವಂತೆ ಭಾಸವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_mq_5",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these foods are rich in iron and good for treating anaemia?",
+      "options": ["Jaggery, amla, and green leafy vegetables", "Chips, cold drinks, and chocolate", "White rice and water", "Only milk and cheese"],
+      "answer": "Jaggery, amla, and green leafy vegetables",
+      "reasoning": "Doctors recommend eating jaggery (gur), amla (gooseberry), and green leafy vegetables because they contain high amounts of iron, which boosts haemoglobin."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಕಬ್ಬಿಣಾಂಶವು ಹೇರಳವಾಗಿರುವ ಮತ್ತು ರಕ್ತಹೀನತೆಗೆ ಚಿಕಿತ್ಸೆ ನೀಡಲು ಉತ್ತಮವಾದ ಆಹಾರಗಳು ಯಾವುವು?",
+      "options": ["ಬೆಲ್ಲ, ನೆಲ್ಲಿಕಾಯಿ ಮತ್ತು ಹಸಿರು ಸೊಪ್ಪು", "ಚಿಪ್ಸ್, ತಂಪು ಪಾನೀಯಗಳು ಮತ್ತು ಚಾಕೊಲೇಟ್", "ಬಿಳಿ ಅನ್ನ ಮತ್ತು ನೀರು", "ಹಾಲು ಮತ್ತು ಚೀಸ್ ಮಾತ್ರ"],
+      "answer": "ಬೆಲ್ಲ, ನೆಲ್ಲಿಕಾಯಿ ಮತ್ತು ಹಸಿರು ಸೊಪ್ಪು",
+      "reasoning": "ಬೆಲ್ಲ, ನೆಲ್ಲಿಕಾಯಿ ಮತ್ತು ಹಸಿರು ಸೊಪ್ಪುಗಳಲ್ಲಿ ಕಬ್ಬಿಣಾಂಶ ಹೆಚ್ಚಿರುವುದರಿಂದ ಮತ್ತು ಅದು ಹಿಮೋಗ್ಲೋಬಿನ್ ಅನ್ನು ಹೆಚ್ಚಿಸುವುದರಿಂದ ವೈದ್ಯರು ಇವುಗಳನ್ನು ತಿನ್ನಲು ಶಿಫಾರಸು ಮಾಡುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c5_evs_mq_6",
+    "difficulty": 3,
+    "en": {
+      "question": "What are the tiny, thread-like greyish things swimming in stagnant water, which eventually grow into mosquitoes?",
+      "options": ["Tadpoles", "Larvae", "Water fleas", "Algae"],
+      "answer": "Larvae",
+      "reasoning": "Mosquitoes lay eggs in stagnant water. These eggs hatch into tiny, greyish swimming creatures called larvae, which are baby mosquitoes."
+    },
+    "kn": {
+      "question": "ನಿಂತ ನೀರಿನಲ್ಲಿ ಈಜುತ್ತಿರುವ ಮತ್ತು ಅಂತಿಮವಾಗಿ ಸೊಳ್ಳೆಗಳಾಗಿ ಬೆಳೆಯುವ ಸಣ್ಣ, ದಾರದಂತಹ ಬೂದು ಬಣ್ಣದ ಜೀವಿಗಳೇನು?",
+      "options": ["ಟ್ಯಾಡ್‌ಪೋಲ್‌ಗಳು (ಕಪ್ಪೆ ಮರಿಗಳು)", "ಲಾರ್ವಾಗಳು", "ವಾಟರ್ ಫ್ಲೀಸ್", "ಪಾಚಿ (Algae)"],
+      "answer": "ಲಾರ್ವಾಗಳು",
+      "reasoning": "ಸೊಳ್ಳೆಗಳು ನಿಂತ ನೀರಿನಲ್ಲಿ ಮೊಟ್ಟೆಯಿಡುತ್ತವೆ. ಈ ಮೊಟ್ಟೆಗಳು ಒಡೆದು ಲಾರ್ವಾ ಎಂಬ ಸಣ್ಣ, ಬೂದು ಬಣ್ಣದ ಈಜುವ ಜೀವಿಗಳಾಗುತ್ತವೆ, ಅವು ಸೊಳ್ಳೆ ಮರಿಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c5_evs_mq_7",
+    "difficulty": 1,
+    "en": {
+      "question": "To prevent mosquitoes from breeding, what should you NOT do?",
+      "options": ["Clean your water cooler regularly", "Empty old tires and pots of stagnant water", "Leave water collected in open buckets for weeks", "Put fish in ponds to eat mosquito larvae"],
+      "answer": "Leave water collected in open buckets for weeks",
+      "reasoning": "Mosquitoes breed in stagnant (still) water. Leaving water collected in open buckets allows mosquitoes a place to lay their eggs."
+    },
+    "kn": {
+      "question": "ಸೊಳ್ಳೆಗಳ ಸಂತಾನೋತ್ಪತ್ತಿಯನ್ನು ತಡೆಯಲು, ನೀವು ಏನು ಮಾಡಬಾರದು?",
+      "options": ["ನಿಮ್ಮ ವಾಟರ್ ಕೂಲರ್ ಅನ್ನು ನಿಯಮಿತವಾಗಿ ಸ್ವಚ್ಛಗೊಳಿಸುವುದು", "ಹಳೆಯ ಟೈರ್‌ಗಳು ಮತ್ತು ಮಡಕೆಗಳಲ್ಲಿ ನಿಂತ ನೀರನ್ನು ಖಾಲಿ ಮಾಡುವುದು", "ತೆರೆದ ಬಕೆಟ್‌ಗಳಲ್ಲಿ ವಾರಗಟ್ಟಲೆ ನೀರು ಸಂಗ್ರಹಿಸಲು ಬಿಡುವುದು", "ಸೊಳ್ಳೆ ಲಾರ್ವಾಗಳನ್ನು ತಿನ್ನಲು ಕೊಳಗಳಲ್ಲಿ ಮೀನುಗಳನ್ನು ಬಿಡುವುದು"],
+      "answer": "ತೆರೆದ ಬಕೆಟ್‌ಗಳಲ್ಲಿ ವಾರಗಟ್ಟಲೆ ನೀರು ಸಂಗ್ರಹಿಸಲು ಬಿಡುವುದು",
+      "reasoning": "ಸೊಳ್ಳೆಗಳು ನಿಂತ ನೀರಿನಲ್ಲಿ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ. ತೆರೆದ ಬಕೆಟ್‌ಗಳಲ್ಲಿ ನೀರನ್ನು ಸಂಗ್ರಹಿಸಲು ಬಿಡುವುದರಿಂದ ಸೊಳ್ಳೆಗಳು ಮೊಟ್ಟೆಯಿಡಲು ಸ್ಥಳಾವಕಾಶ ಸಿಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_mq_8",
+    "difficulty": 2,
+    "en": {
+      "question": "Besides malaria, which other diseases are commonly spread by mosquitoes?",
+      "options": ["Dengue and Chikungunya", "Cancer and Diabetes", "Polio and Rabies", "Tetanus and Cholera"],
+      "answer": "Dengue and Chikungunya",
+      "reasoning": "Dengue and Chikungunya are serious viral diseases that are transmitted to humans through the bites of infected mosquitoes."
+    },
+    "kn": {
+      "question": "ಮಲೇರಿಯಾದ ಹೊರತಾಗಿ, ಸೊಳ್ಳೆಗಳಿಂದ ಸಾಮಾನ್ಯವಾಗಿ ಹರಡುವ ಇತರ ರೋಗಗಳು ಯಾವುವು?",
+      "options": ["ಡೆಂಗ್ಯೂ ಮತ್ತು ಚಿಕೂನ್‌ಗುನ್ಯಾ", "ಕ್ಯಾನ್ಸರ್ ಮತ್ತು ಮಧುಮೇಹ", "ಪೋಲಿಯೊ ಮತ್ತು ರೇಬೀಸ್", "ಟೆಟನಸ್ ಮತ್ತು ಕಾಲರಾ"],
+      "answer": "ಡೆಂಗ್ಯೂ ಮತ್ತು ಚಿಕೂನ್‌ಗುನ್ಯಾ",
+      "reasoning": "ಡೆಂಗ್ಯೂ ಮತ್ತು ಚಿಕೂನ್‌ಗುನ್ಯಾ ಗಂಭೀರವಾದ ವೈರಲ್ ರೋಗಗಳಾಗಿದ್ದು, ಇವು ಸೋಂಕಿತ ಸೊಳ್ಳೆಗಳ ಕಡಿತದ ಮೂಲಕ ಮನುಷ್ಯರಿಗೆ ಹರಡುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_evs_mq_9",
+    "difficulty": 3,
+    "en": {
+      "question": "Which scientist won the Nobel Prize in Medicine in 1902 for proving that mosquitoes spread malaria?",
+      "options": ["Albert Einstein", "Ronald Ross", "Isaac Newton", "Louis Pasteur"],
+      "answer": "Ronald Ross",
+      "reasoning": "In December 1902, Ronald Ross was awarded the Nobel Prize for his discovery, looking through a microscope, that malaria is carried by a specific type of mosquito."
+    },
+    "kn": {
+      "question": "ಸೊಳ್ಳೆಗಳಿಂದ ಮಲೇರಿಯಾ ಹರಡುತ್ತದೆ ಎಂದು ಸಾಬೀತುಪಡಿಸಿದ್ದಕ್ಕಾಗಿ 1902 ರಲ್ಲಿ ವೈದ್ಯಕೀಯ ವಿಭಾಗದಲ್ಲಿ ನೊಬೆಲ್ ಪ್ರಶಸ್ತಿ ಗೆದ್ದ ವಿಜ್ಞಾನಿ ಯಾರು?",
+      "options": ["ಆಲ್ಬರ್ಟ್ ಐನ್‌ಸ್ಟೈನ್", "ರೊನಾಲ್ಡ್ ರಾಸ್", "ಐಸಾಕ್ ನ್ಯೂಟನ್", "ಲೂಯಿಸ್ ಪಾಶ್ಚರ್"],
+      "answer": "ರೊನಾಲ್ಡ್ ರಾಸ್",
+      "reasoning": "ಮಲೇರಿಯಾ ರೋಗವು ನಿರ್ದಿಷ್ಟ ರೀತಿಯ ಸೊಳ್ಳೆಗಳಿಂದ ಹರಡುತ್ತದೆ ಎಂದು ಸೂಕ್ಷ್ಮದರ್ಶಕದ ಮೂಲಕ ಕಂಡುಹಿಡಿದದ್ದಕ್ಕಾಗಿ ಡಿಸೆಂಬರ್ 1902 ರಲ್ಲಿ ರೊನಾಲ್ಡ್ ರಾಸ್‌ರವರಿಗೆ ನೊಬೆಲ್ ಪ್ರಶಸ್ತಿಯನ್ನು ನೀಡಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c5_evs_mq_10",
+    "difficulty": 2,
+    "en": {
+      "question": "Why are some people advised to pour a little oil on stagnant water in drains?",
+      "options": ["To make the water smell good", "To stop mosquito larvae from breathing by breaking the surface tension", "To clean the water for drinking", "To help the mosquitoes slide"],
+      "answer": "To stop mosquito larvae from breathing by breaking the surface tension",
+      "reasoning": "A thin layer of oil on the water cuts off the oxygen supply to the mosquito larvae, killing them before they can turn into adult mosquitoes."
+    },
+    "kn": {
+      "question": "ಕೆಲವು ಜನರಿಗೆ ಚರಂಡಿಗಳಲ್ಲಿ ನಿಂತಿರುವ ನೀರಿನ ಮೇಲೆ ಸ್ವಲ್ಪ ಎಣ್ಣೆಯನ್ನು ಸುರಿಯಲು ಏಕೆ ಸಲಹೆ ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": ["ನೀರು ಒಳ್ಳೆಯ ವಾಸನೆ ಬರುವಂತೆ ಮಾಡಲು", "ಮೇಲ್ಮೈ ಒತ್ತಡವನ್ನು ಮುರಿಯುವ ಮೂಲಕ ಸೊಳ್ಳೆ ಲಾರ್ವಾಗಳ ಉಸಿರಾಟವನ್ನು ನಿಲ್ಲಿಸಲು", "ಕುಡಿಯಲು ನೀರನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಲು", "ಸೊಳ್ಳೆಗಳು ಜಾರಲು ಸಹಾಯ ಮಾಡಲು"],
+      "answer": "ಮೇಲ್ಮೈ ಒತ್ತಡವನ್ನು ಮುರಿಯುವ ಮೂಲಕ ಸೊಳ್ಳೆ ಲಾರ್ವಾಗಳ ಉಸಿರಾಟವನ್ನು ನಿಲ್ಲಿಸಲು",
+      "reasoning": "ನೀರಿನ ಮೇಲಿನ ತೆಳುವಾದ ಎಣ್ಣೆಯ ಪದರವು ಸೊಳ್ಳೆಯ ಲಾರ್ವಾಗಳಿಗೆ ಆಮ್ಲಜನಕದ ಪೂರೈಕೆಯನ್ನು ಕಡಿತಗೊಳಿಸುತ್ತದೆ, ಇದರಿಂದಾಗಿ ಅವು ವಯಸ್ಕ ಸೊಳ್ಳೆಗಳಾಗಿ ಬದಲಾಗುವ ಮೊದಲೇ ಸಾಯುತ್ತವೆ."
+    }
+  }
+]

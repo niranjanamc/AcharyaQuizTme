@@ -1,0 +1,114 @@
+[
+  {
+    "id": "c5_evs_es_1",
+    "difficulty": 1,
+    "en": {
+      "question": "What is an earthquake?",
+      "options": ["A very heavy rainfall", "A sudden shaking or trembling of the ground", "A huge fire in a forest", "A strong wind storm"],
+      "answer": "A sudden shaking or trembling of the ground",
+      "reasoning": "An earthquake happens when the ground suddenly starts shaking violently, causing buildings to collapse and the earth to crack."
+    },
+    "kn": {
+      "question": "ಭೂಕಂಪ (earthquake) ಎಂದರೇನು?",
+      "options": ["ಬಹಳ ಭಾರಿ ಮಳೆ", "ನೆಲದ ಹಠಾತ್ ನಡುಕ ಅಥವಾ ಕಂಪನ", "ಕಾಡಿನಲ್ಲಿ ದೊಡ್ಡ ಬೆಂಕಿ", "ಬಲವಾದ ಗಾಳಿಯ ಬಿರುಗಾಳಿ"],
+      "answer": "ನೆಲದ ಹಠಾತ್ ನಡುಕ ಅಥವಾ ಕಂಪನ",
+      "reasoning": "ನೆಲವು ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಹಿಂಸಾತ್ಮಕವಾಗಿ ನಡುಗಲು ಪ್ರಾರಂಭಿಸಿದಾಗ ಭೂಕಂಪ ಸಂಭವಿಸುತ್ತದೆ, ಇದರಿಂದಾಗಿ ಕಟ್ಟಡಗಳು ಕುಸಿಯುತ್ತವೆ ಮತ್ತು ಭೂಮಿ ಬಿರುಕು ಬಿಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_es_2",
+    "difficulty": 2,
+    "en": {
+      "question": "If you are inside a house during an earthquake, what is the safest thing to do?",
+      "options": ["Hide under a strong table, hold it tightly, and wait for the shaking to stop", "Run around the house looking for your toys", "Go to the balcony and look down", "Stand near a glass window"],
+      "answer": "Hide under a strong table, hold it tightly, and wait for the shaking to stop",
+      "reasoning": "If you cannot run out to an open area, the safest action is to drop under a sturdy table and hold on tight so that falling objects do not hit you."
+    },
+    "kn": {
+      "question": "ಭೂಕಂಪದ ಸಮಯದಲ್ಲಿ ನೀವು ಮನೆಯೊಳಗಿದ್ದರೆ, ಮಾಡಲು ಸುರಕ್ಷಿತವಾದ ಕೆಲಸ ಯಾವುದು?",
+      "options": ["ಬಲವಾದ ಮೇಜಿನ ಅಡಿಯಲ್ಲಿ ಅಡಗಿಕೊಳ್ಳಿ, ಅದನ್ನು ಬಿಗಿಯಾಗಿ ಹಿಡಿದುಕೊಳ್ಳಿ ಮತ್ತು ನಡುಕ ನಿಲ್ಲುವವರೆಗೆ ಕಾಯಿರಿ", "ನಿಮ್ಮ ಆಟಿಕೆಗಳನ್ನು ಹುಡುಕುತ್ತಾ ಮನೆಯ ಸುತ್ತಲೂ ಓಡಿ", "ಬಾಲ್ಕನಿಗೆ ಹೋಗಿ ಕೆಳಗೆ ನೋಡಿ", "ಗಾಜಿನ ಕಿಟಕಿಯ ಬಳಿ ನಿಲ್ಲಿ"],
+      "answer": "ಬಲವಾದ ಮೇಜಿನ ಅಡಿಯಲ್ಲಿ ಅಡಗಿಕೊಳ್ಳಿ, ಅದನ್ನು ಬಿಗಿಯಾಗಿ ಹಿಡಿದುಕೊಳ್ಳಿ ಮತ್ತು ನಡುಕ ನಿಲ್ಲುವವರೆಗೆ ಕಾಯಿರಿ",
+      "reasoning": "ನಿಮಗೆ ಬಯಲು ಪ್ರದೇಶಕ್ಕೆ ಓಡಿಹೋಗಲು ಸಾಧ್ಯವಾಗದಿದ್ದರೆ, ಗಟ್ಟಿಮುಟ್ಟಾದ ಮೇಜಿನ ಅಡಿಯಲ್ಲಿ ಕುಳಿತು ಅದನ್ನು ಬಿಗಿಯಾಗಿ ಹಿಡಿದುಕೊಳ್ಳುವುದು ಸುರಕ್ಷಿತ, ಇದರಿಂದ ಬೀಳುವ ವಸ್ತುಗಳು ನಿಮಗೆ ತಾಗುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_evs_es_3",
+    "difficulty": 2,
+    "en": {
+      "question": "During the rescue operations after the Gujarat earthquake, which animal was used to sniff and find people trapped under the debris?",
+      "options": ["Cats", "Elephants", "Dogs", "Horses"],
+      "answer": "Dogs",
+      "reasoning": "Trained rescue dogs have an excellent sense of smell. They were used by the army and rescue teams to find where people were buried under the fallen buildings."
+    },
+    "kn": {
+      "question": "ಗುಜರಾತ್ ಭೂಕಂಪದ ನಂತರದ ರಕ್ಷಣಾ ಕಾರ್ಯಾಚರಣೆಯ ಸಮಯದಲ್ಲಿ, ಅವಶೇಷಗಳ ಅಡಿಯಲ್ಲಿ ಸಿಲುಕಿರುವ ಜನರನ್ನು ವಾಸನೆಯಿಂದ ಪತ್ತೆಹಚ್ಚಲು ಯಾವ ಪ್ರಾಣಿಯನ್ನು ಬಳಸಲಾಯಿತು?",
+      "options": ["ಬೆಕ್ಕುಗಳು", "ಆನೆಗಳು", "ನಾಯಿಗಳು", "ಕುದುರೆಗಳು"],
+      "answer": "ನಾಯಿಗಳು",
+      "reasoning": "ತರಬೇತಿ ಪಡೆದ ರಕ್ಷಣಾ ನಾಯಿಗಳು ಅತ್ಯುತ್ತಮ ವಾಸನಾ ಶಕ್ತಿಯನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಬಿದ್ದ ಕಟ್ಟಡಗಳ ಅಡಿಯಲ್ಲಿ ಜನರು ಎಲ್ಲಿ ಹೂತುಹೋಗಿದ್ದಾರೆ ಎಂಬುದನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸೇನೆ ಮತ್ತು ರಕ್ಷಣಾ ತಂಡಗಳು ಇವುಗಳನ್ನು ಬಳಸಿದವು."
+    }
+  },
+  {
+    "id": "c5_evs_es_4",
+    "difficulty": 3,
+    "en": {
+      "question": "On which significant national day in 2001 did the massive earthquake hit the Kutch area in Gujarat?",
+      "options": ["Independence Day (15 August)", "Republic Day (26 January)", "Gandhi Jayanti (2 October)", "Children's Day (14 November)"],
+      "answer": "Republic Day (26 January)",
+      "reasoning": "The devastating earthquake in Kutch, Gujarat, happened on the morning of 26th January 2001, while people were watching the Republic Day parade on TV."
+    },
+    "kn": {
+      "question": "2001 ರಲ್ಲಿ ಯಾವ ಮಹತ್ವದ ರಾಷ್ಟ್ರೀಯ ದಿನದಂದು ಗುಜರಾತ್‌ನ ಕಚ್ ಪ್ರದೇಶದಲ್ಲಿ ಭಾರಿ ಭೂಕಂಪ ಸಂಭವಿಸಿತು?",
+      "options": ["ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ (ಆಗಸ್ಟ್ 15)", "ಗಣರಾಜ್ಯೋತ್ಸವ (ಜನವರಿ 26)", "ಗಾಂಧಿ ಜಯಂತಿ (ಅಕ್ಟೋಬರ್ 2)", "ಮಕ್ಕಳ ದಿನಾಚರಣೆ (ನವೆಂಬರ್ 14)"],
+      "answer": "ಗಣರಾಜ್ಯೋತ್ಸವ (ಜನವರಿ 26)",
+      "reasoning": "ಜನವರಿ 26, 2001 ರ ಬೆಳಿಗ್ಗೆ, ಜನರು ಟಿವಿಯಲ್ಲಿ ಗಣರಾಜ್ಯೋತ್ಸವದ ಪರೇಡ್ ವೀಕ್ಷಿಸುತ್ತಿದ್ದಾಗ ಗುಜರಾತ್‌ನ ಕಚ್‌ನಲ್ಲಿ ವಿನಾಶಕಾರಿ ಭೂಕಂಪ ಸಂಭವಿಸಿತು."
+    }
+  },
+  {
+    "id": "c5_evs_es_5",
+    "difficulty": 1,
+    "en": {
+      "question": "If you can safely run out of your house during an earthquake, where should you go?",
+      "options": ["To the roof of the building", "To an open ground away from buildings and trees", "Into the basement", "Into an elevator/lift"],
+      "answer": "To an open ground away from buildings and trees",
+      "reasoning": "The safest place during an earthquake is a wide open area where falling debris from buildings, poles, or trees cannot hit you."
+    },
+    "kn": {
+      "question": "ಭೂಕಂಪದ ಸಮಯದಲ್ಲಿ ನೀವು ನಿಮ್ಮ ಮನೆಯಿಂದ ಸುರಕ್ಷಿತವಾಗಿ ಹೊರಗೆ ಓಡಲು ಸಾಧ್ಯವಾದರೆ, ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗಬೇಕು?",
+      "options": ["ಕಟ್ಟಡದ ಮೇಲ್ಛಾವಣಿಗೆ", "ಕಟ್ಟಡಗಳು ಮತ್ತು ಮರಗಳಿಂದ ದೂರವಿರುವ ಬಯಲು ಮೈದಾನಕ್ಕೆ", "ನೆಲಮಾಳಿಗೆಗೆ", "ಎಲಿವೇಟರ್/ಲಿಫ್ಟ್ ಒಳಗೆ"],
+      "answer": "ಕಟ್ಟಡಗಳು ಮತ್ತು ಮರಗಳಿಂದ ದೂರವಿರುವ ಬಯಲು ಮೈದಾನಕ್ಕೆ",
+      "reasoning": "ಭೂಕಂಪದ ಸಮಯದಲ್ಲಿ ಕಟ್ಟಡಗಳು, ಕಂಬಗಳು ಅಥವಾ ಮರಗಳು ಬಿದ್ದು ನಿಮಗೆ ತಾಗದಂತೆ ಇರಲು ವಿಶಾಲವಾದ ಬಯಲು ಪ್ರದೇಶವೇ ಅತ್ಯಂತ ಸುರಕ್ಷಿತ ಸ್ಥಳವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_es_6",
+    "difficulty": 2,
+    "en": {
+      "question": "After the earthquake destroyed the village, who came to help the villagers rebuild their houses?",
+      "options": ["Only the villagers themselves", "Engineers, architects, and NGO groups", "The village headman alone", "Tourists on vacation"],
+      "answer": "Engineers, architects, and NGO groups",
+      "reasoning": "Engineers and architects brought special designs for houses that would not fall easily in an earthquake, and NGOs helped provide food, tents, and building guidance."
+    },
+    "kn": {
+      "question": "ಭೂಕಂಪವು ಹಳ್ಳಿಯನ್ನು ನಾಶಪಡಿಸಿದ ನಂತರ, ಗ್ರಾಮಸ್ಥರಿಗೆ ತಮ್ಮ ಮನೆಗಳನ್ನು ಮರುನಿರ್ಮಾಣ ಮಾಡಲು ಯಾರು ಸಹಾಯ ಮಾಡಲು ಬಂದರು?",
+      "options": ["ಗ್ರಾಮಸ್ಥರು ಮಾತ್ರ", "ಇಂಜಿನಿಯರ್‌ಗಳು, ವಾಸ್ತುಶಿಲ್ಪಿಗಳು ಮತ್ತು ಎನ್‌ಜಿಒ (NGO) ಗುಂಪುಗಳು", "ಗ್ರಾಮದ ಮುಖಂಡ ಮಾತ್ರ", "ರಜೆಯಲ್ಲಿದ್ದ ಪ್ರವಾಸಿಗರು"],
+      "answer": "ಇಂಜಿನಿಯರ್‌ಗಳು, ವಾಸ್ತುಶಿಲ್ಪಿಗಳು ಮತ್ತು ಎನ್‌ಜಿಒ (NGO) ಗುಂಪುಗಳು",
+      "reasoning": "ಭೂಕಂಪದಲ್ಲಿ ಸುಲಭವಾಗಿ ಬೀಳದ ಮನೆಗಳ ವಿಶೇಷ ವಿನ್ಯಾಸಗಳನ್ನು ಇಂಜಿನಿಯರ್‌ಗಳು ಮತ್ತು ವಾಸ್ತುಶಿಲ್ಪಿಗಳು ತಂದರು ಮತ್ತು ಎನ್‌ಜಿಒಗಳು ಆಹಾರ, ಟೆಂಟ್‌ಗಳು ಮತ್ತು ಕಟ್ಟಡ ನಿರ್ಮಾಣ ಮಾರ್ಗದರ್ಶನವನ್ನು ಒದಗಿಸಲು ಸಹಾಯ ಮಾಡಿದರು."
+    }
+  },
+  {
+    "id": "c5_evs_es_7",
+    "difficulty": 3,
+    "en": {
+      "question": "Why did the engineers suggest making the new village houses out of clay, cow dung, and mirrors?",
+      "options": ["Because they were trying to save money", "Because it is a traditional design that is safer during earthquakes", "Because there were no bricks left in the world", "To make the village look like a palace"],
+      "answer": "Because it is a traditional design that is safer during earthquakes",
+      "reasoning": "The villagers rebuilt their houses with clay and cow dung, decorating them with mirrors. These traditional, lightweight structures are less likely to kill people if they collapse during another earthquake."
+    },
+    "kn": {
+      "question": "ಹೊಸ ಹಳ್ಳಿಯ ಮನೆಗಳನ್ನು ಜೇಡಿಮಣ್ಣು, ಹಸುವಿನ ಸಗಣಿ ಮತ್ತು ಕನ್ನಡಿಗಳಿಂದ ಮಾಡಲು ಇಂಜಿನಿಯರ್‌ಗಳು ಏಕೆ ಸಲಹೆ ನೀಡಿದರು?",
+      "options": ["ಏಕೆಂದರೆ ಅವರು ಹಣವನ್ನು ಉಳಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿದ್ದರು", "ಏಕೆಂದರೆ ಇದು ಸಾಂಪ್ರದಾಯಿಕ ವಿನ್ಯಾಸವಾಗಿದ್ದು ಭೂಕಂಪಗಳ ಸಮಯದಲ್ಲಿ ಸುರಕ್ಷಿತವಾಗಿರುತ್ತದೆ", "ಏಕೆಂದರೆ ಜಗತ್ತಿನಲ್ಲಿ ಯಾವುದೇ ಇಟ್ಟಿಗೆಗಳು ಉಳಿದಿರಲಿಲ್ಲ", "ಹಳ್ಳಿಯನ್ನು ಅರಮನೆಯಂತೆ ಕಾಣುವಂತೆ ಮಾಡಲು"],
+      "answer": "ಏಕೆಂದರೆ ಇದು ಸಾಂಪ್ರದಾಯಿಕ ವಿನ್ಯಾಸವಾಗಿದ್ದು ಭೂಕಂಪಗಳ ಸಮಯದಲ್ಲಿ ಸುರಕ್ಷಿತವಾಗಿರುತ್ತದೆ",
+      "reasoning": "ಗ್ರಾಮಸ್ಥರು ತಮ್ಮ ಮನೆಗಳನ್ನು ಜೇಡಿಮಣ್ಣು ಮತ್ತು ಹಸುವಿನ ಸಗಣಿಯಿಂದ ಮರುನಿರ್ಮಾಣ ಮಾಡಿ, ಕನ್ನಡಿಗಳಿಂದ ಅಲಂಕರಿಸಿದರು. ಈ ಸಾಂಪ್ರದಾಯಿಕ, ಹಗುರವಾದ ರಚನೆಗಳು ಮತ್ತೊಂದು ಭೂಕಂಪದ ಸಮಯದಲ್ಲಿ ಕುಸಿದರೂ ಜನರಿಗೆ ಅಪಾಯ ಕಡಿಮೆ ಇರುತ್ತದೆ."
+    }
+  }
+]

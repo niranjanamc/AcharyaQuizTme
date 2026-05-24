@@ -1,0 +1,162 @@
+[
+  {
+    "id": "c5_evs_sp_1",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the shape of the Earth?",
+      "options": ["Like a flat table", "Like a coin", "Like a globe (spherical)", "Like a pyramid"],
+      "answer": "Like a globe (spherical)",
+      "reasoning": "The Earth is not flat. It is shaped like a round globe, though it is huge."
+    },
+    "kn": {
+      "question": "ಭೂಮಿಯ ಆಕಾರ ಏನು?",
+      "options": ["ಚಪ್ಪಟೆ ಮೇಜಿನಂತೆ", "ನಾಣ್ಯದಂತೆ", "ಗ್ಲೋಬ್‌ನಂತೆ (ಗೋಲಾಕಾರ)", "ಪಿರಮಿಡ್‌ನಂತೆ"],
+      "answer": "ಗ್ಲೋಬ್‌ನಂತೆ (ಗೋಲಾಕಾರ)",
+      "reasoning": "ಭೂಮಿಯು ಚಪ್ಪಟೆಯಾಗಿಲ್ಲ. ಇದು ದೊಡ್ಡದಾಗಿದ್ದರೂ ದುಂಡಗಿನ ಗ್ಲೋಬ್‌ನ ಆಕಾರದಲ್ಲಿದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_sp_2",
+    "difficulty": 2,
+    "en": {
+      "question": "Why don't people living in Argentina fall off the Earth, even though they are 'upside down' compared to people in India?",
+      "options": ["Because they hold onto trees", "Because the Earth's gravity pulls everything towards its center", "Because they wear special heavy shoes", "Because the Earth is flat"],
+      "answer": "Because the Earth's gravity pulls everything towards its center",
+      "reasoning": "The Earth acts like a giant magnet. Its gravity pulls everything towards its center, which is why nobody 'falls off', whether they are in India or Argentina."
+    },
+    "kn": {
+      "question": "ಭಾರತದಲ್ಲಿರುವ ಜನರಿಗೆ ಹೋಲಿಸಿದರೆ ಅರ್ಜೆಂಟೀನಾದಲ್ಲಿ ವಾಸಿಸುವ ಜನರು 'ತಲೆಕೆಳಗಾಗಿದ್ದರೂ' ಅವರು ಭೂಮಿಯಿಂದ ಏಕೆ ಕೆಳಗೆ ಬೀಳುವುದಿಲ್ಲ?",
+      "options": ["ಏಕೆಂದರೆ ಅವರು ಮರಗಳನ್ನು ಹಿಡಿದುಕೊಳ್ಳುತ್ತಾರೆ", "ಏಕೆಂದರೆ ಭೂಮಿಯ ಗುರುತ್ವಾಕರ್ಷಣೆಯು ಎಲ್ಲವನ್ನೂ ತನ್ನ ಕೇಂದ್ರದ ಕಡೆಗೆ ಎಳೆಯುತ್ತದೆ", "ಏಕೆಂದರೆ ಅವರು ವಿಶೇಷವಾದ ಭಾರವಾದ ಬೂಟುಗಳನ್ನು ಧರಿಸುತ್ತಾರೆ", "ಏಕೆಂದರೆ ಭೂಮಿ ಚಪ್ಪಟೆಯಾಗಿದೆ"],
+      "answer": "ಏಕೆಂದರೆ ಭೂಮಿಯ ಗುರುತ್ವಾಕರ್ಷಣೆಯು ಎಲ್ಲವನ್ನೂ ತನ್ನ ಕೇಂದ್ರದ ಕಡೆಗೆ ಎಳೆಯುತ್ತದೆ",
+      "reasoning": "ಭೂಮಿಯು ದೈತ್ಯ ಕಾಂತದಂತೆ (ಮ್ಯಾಗ್ನೆಟ್) ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಅದರ ಗುರುತ್ವಾಕರ್ಷಣೆಯು ಎಲ್ಲವನ್ನೂ ತನ್ನ ಕೇಂದ್ರದ ಕಡೆಗೆ ಎಳೆಯುತ್ತದೆ, ಇದೇ ಕಾರಣದಿಂದಾಗಿ ಭಾರತದಲ್ಲಾಗಲಿ ಅಥವಾ ಅರ್ಜೆಂಟೀನಾದಲ್ಲಾಗಲಿ ಯಾರೂ 'ಕೆಳಗೆ ಬೀಳುವುದಿಲ್ಲ'."
+    }
+  },
+  {
+    "id": "c5_evs_sp_3",
+    "difficulty": 1,
+    "en": {
+      "question": "Who was Sunita Williams?",
+      "options": ["A famous singer", "An astronaut who spent more than six months in space", "A deep sea diver", "A queen of India"],
+      "answer": "An astronaut who spent more than six months in space",
+      "reasoning": "Sunita Williams is a famous astronaut. She set a record for the longest space flight by a woman at that time, spending more than six months in a spaceship."
+    },
+    "kn": {
+      "question": "ಸುನೀತಾ ವಿಲಿಯಮ್ಸ್ ಯಾರು?",
+      "options": ["ಪ್ರಸಿದ್ಧ ಗಾಯಕಿ", "ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ಆರು ತಿಂಗಳಿಗಿಂತ ಹೆಚ್ಚು ಕಾಲ ಕಳೆದ ಗಗನಯಾತ್ರಿ", "ಆಳ ಸಮುದ್ರದ ಮುಳುಗುಗಾರ", "ಭಾರತದ ರಾಣಿ"],
+      "answer": "ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ಆರು ತಿಂಗಳಿಗಿಂತ ಹೆಚ್ಚು ಕಾಲ ಕಳೆದ ಗಗನಯಾತ್ರಿ",
+      "reasoning": "ಸುನೀತಾ ವಿಲಿಯಮ್ಸ್ ಒಬ್ಬ ಪ್ರಸಿದ್ಧ ಗಗನಯಾತ್ರಿ. ಅವರು ಆರು ತಿಂಗಳಿಗಿಂತ ಹೆಚ್ಚು ಕಾಲ ಬಾಹ್ಯಾಕಾಶ ನೌಕೆಯಲ್ಲಿ ಕಳೆಯುವ ಮೂಲಕ ಮಹಿಳೆಯೊಬ್ಬರು ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಸಮಯ ಕಳೆದ ದಾಖಲೆಯನ್ನು ನಿರ್ಮಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c5_evs_sp_4",
+    "difficulty": 3,
+    "en": {
+      "question": "How did water behave in Sunita Williams' spaceship?",
+      "options": ["It flowed smoothly out of taps", "It turned to ice instantly", "It floated around as blobs of water", "It boiled immediately"],
+      "answer": "It floated around as blobs of water",
+      "reasoning": "In the zero gravity of space, water does not stay in a glass or flow down. It floats around in the air as round blobs."
+    },
+    "kn": {
+      "question": "ಸುನೀತಾ ವಿಲಿಯಮ್ಸ್ ಅವರ ಬಾಹ್ಯಾಕಾಶ ನೌಕೆಯಲ್ಲಿ ನೀರು ಹೇಗೆ ವರ್ತಿಸಿತು?",
+      "options": ["ಅದು ನಲ್ಲಿಗಳಿಂದ ಸರಾಗವಾಗಿ ಹರಿಯಿತು", "ಅದು ತಕ್ಷಣ ಮಂಜುಗಡ್ಡೆಯಾಯಿತು", "ಅದು ನೀರಿನ ಗುಳ್ಳೆಗಳಂತೆ ತೇಲಾಡುತ್ತಿತ್ತು", "ಅದು ತಕ್ಷಣ ಕುದಿಯಿತು"],
+      "answer": "ಅದು ನೀರಿನ ಗುಳ್ಳೆಗಳಂತೆ ತೇಲಾಡುತ್ತಿತ್ತು",
+      "reasoning": "ಬಾಹ್ಯಾಕಾಶದ ಶೂನ್ಯ ಗುರುತ್ವಾಕರ್ಷಣೆಯಲ್ಲಿ (zero gravity), ನೀರು ಲೋಟದಲ್ಲಿ ನಿಲ್ಲುವುದಿಲ್ಲ ಅಥವಾ ಕೆಳಗೆ ಹರಿಯುವುದಿಲ್ಲ. ಅದು ದುಂಡಗಿನ ಗುಳ್ಳೆಗಳಂತೆ ಗಾಳಿಯಲ್ಲಿ ತೇಲುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_sp_5",
+    "difficulty": 2,
+    "en": {
+      "question": "Why didn't Sunita Williams need to comb her hair in space?",
+      "options": ["Because her hair fell out", "Because her hair kept standing straight up all the time", "Because she wore a helmet", "Because she liked it messy"],
+      "answer": "Because her hair kept standing straight up all the time",
+      "reasoning": "Without the pull of gravity in the spaceship, Sunita's hair naturally stood straight up the entire time, so combing was unnecessary."
+    },
+    "kn": {
+      "question": "ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ಸುನೀತಾ ವಿಲಿಯಮ್ಸ್ ತಮ್ಮ ಕೂದಲು ಬಾಚಿಕೊಳ್ಳುವ ಅಗತ್ಯವೇಕಿರಲಿಲ್ಲ?",
+      "options": ["ಏಕೆಂದರೆ ಅವರ ಕೂದಲು ಉದುರಿತ್ತು", "ಏಕೆಂದರೆ ಅವರ ಕೂದಲು ಸದಾ ನೇರವಾಗಿ ನಿಂತಿರುತ್ತಿತ್ತು", "ಏಕೆಂದರೆ ಅವರು ಹೆಲ್ಮೆಟ್ ಧರಿಸಿದ್ದರು", "ಏಕೆಂದರೆ ಅವರಿಗೆ ಚೆಲ್ಲಾಪಿಲ್ಲಿಯಾದ ಕೂದಲು ಇಷ್ಟವಿತ್ತು"],
+      "answer": "ಏಕೆಂದರೆ ಅವರ ಕೂದಲು ಸದಾ ನೇರವಾಗಿ ನಿಂತಿರುತ್ತಿತ್ತು",
+      "reasoning": "ಬಾಹ್ಯಾಕಾಶ ನೌಕೆಯಲ್ಲಿ ಗುರುತ್ವಾಕರ್ಷಣೆಯ ಸೆಳೆತವಿಲ್ಲದ ಕಾರಣ, ಸುನೀತಾ ಅವರ ಕೂದಲು ಸದಾ ನೇರವಾಗಿ ನಿಂತಿರುತ್ತಿತ್ತು. ಹೀಗಾಗಿ ಬಾಚಿಕೊಳ್ಳುವ ಅಗತ್ಯವಿರಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_evs_sp_6",
+    "difficulty": 2,
+    "en": {
+      "question": "What happens when you throw a ball upwards on Earth compared to in space?",
+      "options": ["It floats away on Earth too", "On Earth it comes back down, in space it keeps floating", "It falls down in both places", "It disappears"],
+      "answer": "On Earth it comes back down, in space it keeps floating",
+      "reasoning": "On Earth, gravity pulls the ball back down to the ground. In a spaceship in space, there is no strong gravitational pull, so objects just float around."
+    },
+    "kn": {
+      "question": "ಭೂಮಿಯ ಮೇಲೆ ಚೆಂಡನ್ನು ಮೇಲಕ್ಕೆ ಎಸೆದರೆ ಮತ್ತು ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ಎಸೆದರೆ ಏನಾಗುತ್ತದೆ?",
+      "options": ["ಭೂಮಿಯ ಮೇಲೂ ಅದು ತೇಲುತ್ತದೆ", "ಭೂಮಿಯ ಮೇಲೆ ಅದು ಕೆಳಗೆ ಬರುತ್ತದೆ, ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ಅದು ತೇಲುತ್ತಲೇ ಇರುತ್ತದೆ", "ಎರಡೂ ಕಡೆ ಅದು ಕೆಳಗೆ ಬೀಳುತ್ತದೆ", "ಅದು ಕಣ್ಮರೆಯಾಗುತ್ತದೆ"],
+      "answer": "ಭೂಮಿಯ ಮೇಲೆ ಅದು ಕೆಳಗೆ ಬರುತ್ತದೆ, ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ಅದು ತೇಲುತ್ತಲೇ ಇರುತ್ತದೆ",
+      "reasoning": "ಭೂಮಿಯ ಮೇಲೆ, ಗುರುತ್ವಾಕರ್ಷಣೆಯು ಚೆಂಡನ್ನು ಮತ್ತೆ ನೆಲಕ್ಕೆ ಎಳೆಯುತ್ತದೆ. ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿರುವ ಬಾಹ್ಯಾಕಾಶ ನೌಕೆಯಲ್ಲಿ ಯಾವುದೇ ಪ್ರಬಲ ಗುರುತ್ವಾಕರ್ಷಣೆಯ ಸೆಳೆತವಿಲ್ಲ, ಆದ್ದರಿಂದ ವಸ್ತುಗಳು ಸುಮ್ಮನೆ ತೇಲುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c5_evs_sp_7",
+    "difficulty": 3,
+    "en": {
+      "question": "When looking at the Earth from space, can you see the boundary lines separating different countries?",
+      "options": ["Yes, they are painted in black", "No, the lines are only on our maps made by humans", "Yes, they are glowing lines", "No, because the clouds hide them completely"],
+      "answer": "No, the lines are only on our maps made by humans",
+      "reasoning": "From space, the Earth just looks like a beautiful mix of land and sea. Boundaries and borders are created by humans on maps and cannot be seen in nature."
+    },
+    "kn": {
+      "question": "ಬಾಹ್ಯಾಕಾಶದಿಂದ ಭೂಮಿಯನ್ನು ನೋಡುವಾಗ, ವಿವಿಧ ದೇಶಗಳನ್ನು ಬೇರ್ಪಡಿಸುವ ಗಡಿ ರೇಖೆಗಳನ್ನು ನೀವು ನೋಡಬಹುದೇ?",
+      "options": ["ಹೌದು, ಅವುಗಳನ್ನು ಕಪ್ಪು ಬಣ್ಣದಲ್ಲಿ ಚಿತ್ರಿಸಲಾಗಿದೆ", "ಇಲ್ಲ, ಮನುಷ್ಯರು ತಯಾರಿಸಿದ ನಕ್ಷೆಗಳಲ್ಲಿ ಮಾತ್ರ ಆ ರೇಖೆಗಳಿರುತ್ತವೆ", "ಹೌದು, ಅವು ಹೊಳೆಯುವ ರೇಖೆಗಳು", "ಇಲ್ಲ, ಏಕೆಂದರೆ ಮೋಡಗಳು ಅವುಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಮರೆಮಾಡುತ್ತವೆ"],
+      "answer": "ಇಲ್ಲ, ಮನುಷ್ಯರು ತಯಾರಿಸಿದ ನಕ್ಷೆಗಳಲ್ಲಿ ಮಾತ್ರ ಆ ರೇಖೆಗಳಿರುತ್ತವೆ",
+      "reasoning": "ಬಾಹ್ಯಾಕಾಶದಿಂದ, ಭೂಮಿಯು ಕೇವಲ ಭೂಮಿ ಮತ್ತು ಸಮುದ್ರದ ಸುಂದರ ಮಿಶ್ರಣದಂತೆ ಕಾಣುತ್ತದೆ. ಗಡಿ ರೇಖೆಗಳನ್ನು ನಕ್ಷೆಗಳಲ್ಲಿ ಮಾನವರು ರಚಿಸಿದ್ದಾರೆ ಮತ್ತು ಪ್ರಕೃತಿಯಲ್ಲಿ ಅವನ್ನು ನೋಡಲಾಗುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c5_evs_sp_8",
+    "difficulty": 1,
+    "en": {
+      "question": "Who was the first person to walk on the moon?",
+      "options": ["Sunita Williams", "Kalpana Chawla", "Neil Armstrong", "Rakesh Sharma"],
+      "answer": "Neil Armstrong",
+      "reasoning": "In 1969, Neil Armstrong became the first man to walk on the moon."
+    },
+    "kn": {
+      "question": "ಚಂದ್ರನ ಮೇಲೆ ಕಾಲಿಟ್ಟ ಮೊದಲ ವ್ಯಕ್ತಿ ಯಾರು?",
+      "options": ["ಸುನೀತಾ ವಿಲಿಯಮ್ಸ್", "ಕಲ್ಪನಾ ಚಾವ್ಲಾ", "ನೀಲ್ ಆರ್ಮ್‌ಸ್ಟ್ರಾಂಗ್", "ರಾಕೇಶ್ ಶರ್ಮಾ"],
+      "answer": "ನೀಲ್ ಆರ್ಮ್‌ಸ್ಟ್ರಾಂಗ್",
+      "reasoning": "1969 ರಲ್ಲಿ, ನೀಲ್ ಆರ್ಮ್‌ಸ್ಟ್ರಾಂಗ್ ಚಂದ್ರನ ಮೇಲೆ ಕಾಲಿಟ್ಟ ಮೊದಲ ವ್ಯಕ್ತಿಯಾದರು."
+    }
+  },
+  {
+    "id": "c5_evs_sp_9",
+    "difficulty": 2,
+    "en": {
+      "question": "What is a 'shooting star'?",
+      "options": ["A star that is running away", "A meteorite that catches fire when it enters the Earth's atmosphere", "A spaceship taking off", "A glowing bird"],
+      "answer": "A meteorite that catches fire when it enters the Earth's atmosphere",
+      "reasoning": "A shooting star is actually a meteorite. When it enters the Earth's atmosphere at high speed, friction causes it to burn brightly."
+    },
+    "kn": {
+      "question": "'ಶೂಟಿಂಗ್ ಸ್ಟಾರ್' (ಉಲ್ಕೆ) ಎಂದರೇನು?",
+      "options": ["ಓಡಿಹೋಗುತ್ತಿರುವ ನಕ್ಷತ್ರ", "ಭೂಮಿಯ ವಾತಾವರಣವನ್ನು ಪ್ರವೇಶಿಸಿದಾಗ ಬೆಂಕಿ ಹೊತ್ತಿಕೊಳ್ಳುವ ಉಲ್ಕೆ (meteorite)", "ಹಾರುತ್ತಿರುವ ಬಾಹ್ಯಾಕಾಶ ನೌಕೆ", "ಹೊಳೆಯುವ ಪಕ್ಷಿ"],
+      "answer": "ಭೂಮಿಯ ವಾತಾವರಣವನ್ನು ಪ್ರವೇಶಿಸಿದಾಗ ಬೆಂಕಿ ಹೊತ್ತಿಕೊಳ್ಳುವ ಉಲ್ಕೆ (meteorite)",
+      "reasoning": "ಶೂಟಿಂಗ್ ಸ್ಟಾರ್ ವಾಸ್ತವವಾಗಿ ಒಂದು ಉಲ್ಕೆಯಾಗಿದೆ. ಇದು ಹೆಚ್ಚಿನ ವೇಗದಲ್ಲಿ ಭೂಮಿಯ ವಾತಾವರಣವನ್ನು ಪ್ರವೇಶಿಸಿದಾಗ, ಘರ್ಷಣೆಯಿಂದಾಗಿ ಅದು ಪ್ರಕಾಶಮಾನವಾಗಿ ಉರಿಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c5_evs_sp_10",
+    "difficulty": 3,
+    "en": {
+      "question": "How did astronauts like Sunita Williams eat their food in space?",
+      "options": ["They sat normally at a table", "They had to catch floating packets of food in the dining area", "They didn't eat for six months", "They ate only pills"],
+      "answer": "They had to catch floating packets of food in the dining area",
+      "reasoning": "Because there is no gravity, food packets and dining tables do not stay in place. Astronauts had to literally catch the floating food packets!"
+    },
+    "kn": {
+      "question": "ಸುನೀತಾ ವಿಲಿಯಮ್ಸ್ ಅವರಂತಹ ಗಗನಯಾತ್ರಿಗಳು ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ತಮ್ಮ ಆಹಾರವನ್ನು ಹೇಗೆ ಸೇವಿಸುತ್ತಿದ್ದರು?",
+      "options": ["ಅವರು ಸಾಮಾನ್ಯವಾಗಿ ಮೇಜಿನ ಬಳಿ ಕುಳಿತುಕೊಳ್ಳುತ್ತಿದ್ದರು", "ಅವರು ಊಟದ ಪ್ರದೇಶದಲ್ಲಿ ತೇಲುತ್ತಿರುವ ಆಹಾರದ ಪೊಟ್ಟಣಗಳನ್ನು ಹಿಡಿದು ತಿನ್ನಬೇಕಾಗಿತ್ತು", "ಅವರು ಆರು ತಿಂಗಳ ಕಾಲ ಏನನ್ನೂ ತಿನ್ನಲಿಲ್ಲ", "ಅವರು ಕೇವಲ ಮಾತ್ರೆಗಳನ್ನು ತಿನ್ನುತ್ತಿದ್ದರು"],
+      "answer": "ಅವರು ಊಟದ ಪ್ರದೇಶದಲ್ಲಿ ತೇಲುತ್ತಿರುವ ಆಹಾರದ ಪೊಟ್ಟಣಗಳನ್ನು ಹಿಡಿದು ತಿನ್ನಬೇಕಾಗಿತ್ತು",
+      "reasoning": "ಯಾವುದೇ ಗುರುತ್ವಾಕರ್ಷಣೆ ಇಲ್ಲದ ಕಾರಣ, ಆಹಾರದ ಪೊಟ್ಟಣಗಳು ಮತ್ತು ಊಟದ ಮೇಜುಗಳು ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ ಇರುತ್ತಿರಲಿಲ್ಲ. ಗಗನಯಾತ್ರಿಗಳು ಗಾಳಿಯಲ್ಲಿ ತೇಲುವ ಆಹಾರದ ಪೊಟ್ಟಣಗಳನ್ನು ಹಿಡಿಯಬೇಕಾಗಿತ್ತು!"
+    }
+  }
+]
