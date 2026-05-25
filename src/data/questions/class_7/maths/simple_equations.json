@@ -1,0 +1,1016 @@
+[
+  {
+    "id": "c7_math_eq_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Solve for x: x + 5 = 12",
+      "options": [
+        "7",
+        "17",
+        "6",
+        "8"
+      ],
+      "answer": "7",
+      "reasoning": "Subtract 5 from both sides: x = 12 - 5 = 7."
+    },
+    "kn": {
+      "question": "x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: x + 5 = 12",
+      "options": [
+        "7",
+        "17",
+        "6",
+        "8"
+      ],
+      "answer": "7",
+      "reasoning": "ಎರಡೂ ಕಡೆಯಿಂದ 5 ನ್ನು ಕಳೆಯಿರಿ: x = 12 - 5 = 7."
+    }
+  },
+  {
+    "id": "c7_math_eq_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Write the equation for: 'The sum of a number y and 4 is 9'.",
+      "options": [
+        "y - 4 = 9",
+        "y + 4 = 9",
+        "4y = 9",
+        "y / 4 = 9"
+      ],
+      "answer": "y + 4 = 9",
+      "reasoning": "Sum means addition, so y + 4 = 9."
+    },
+    "kn": {
+      "question": "'y ಮತ್ತು 4 ರ ಮೊತ್ತ 9' ಎಂಬುದಕ್ಕೆ ಸಮೀಕರಣವನ್ನು ಬರೆಯಿರಿ.",
+      "options": [
+        "y - 4 = 9",
+        "y + 4 = 9",
+        "4y = 9",
+        "y / 4 = 9"
+      ],
+      "answer": "y + 4 = 9",
+      "reasoning": "ಮೊತ್ತ ಎಂದರೆ ಸಂಕಲನ, ಆದ್ದರಿಂದ y + 4 = 9."
+    }
+  },
+  {
+    "id": "c7_math_eq_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Solve the equation: 3n = 21",
+      "options": [
+        "n = 18",
+        "n = 7",
+        "n = 63",
+        "n = 6"
+      ],
+      "answer": "n = 7",
+      "reasoning": "Divide both sides by 3: n = 21 / 3 = 7."
+    },
+    "kn": {
+      "question": "ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಿ: 3n = 21",
+      "options": [
+        "n = 18",
+        "n = 7",
+        "n = 63",
+        "n = 6"
+      ],
+      "answer": "n = 7",
+      "reasoning": "ಎರಡೂ ಕಡೆ 3 ರಿಂದ ಭಾಗಿಸಿ: n = 21 / 3 = 7."
+    }
+  },
+  {
+    "id": "c7_math_eq_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the value of p if p/2 = 8?",
+      "options": [
+        "4",
+        "10",
+        "16",
+        "6"
+      ],
+      "answer": "16",
+      "reasoning": "Multiply both sides by 2: p = 8 × 2 = 16."
+    },
+    "kn": {
+      "question": "p/2 = 8 ಆದರೆ, p ನ ಬೆಲೆ ಎಷ್ಟು?",
+      "options": [
+        "4",
+        "10",
+        "16",
+        "6"
+      ],
+      "answer": "16",
+      "reasoning": "ಎರಡೂ ಕಡೆ 2 ರಿಂದ ಗುಣಿಸಿ: p = 8 × 2 = 16."
+    }
+  },
+  {
+    "id": "c7_math_eq_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following is a simple equation?",
+      "options": [
+        "2x + 3",
+        "x - 5 > 0",
+        "4y = 12",
+        "5 + 2 = 7"
+      ],
+      "answer": "4y = 12",
+      "reasoning": "An equation must have an equal sign (=) and a variable. '4y = 12' satisfies this."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಸರಳ ಸಮೀಕರಣವಾಗಿದೆ?",
+      "options": [
+        "2x + 3",
+        "x - 5 > 0",
+        "4y = 12",
+        "5 + 2 = 7"
+      ],
+      "answer": "4y = 12",
+      "reasoning": "ಒಂದು ಸಮೀಕರಣವು ಸಮ ಚಿಹ್ನೆ (=) ಮತ್ತು ಚರಾಕ್ಷರವನ್ನು ಹೊಂದಿರಬೇಕು. '4y = 12' ಇದನ್ನು ಪೂರೈಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_math_eq_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Solve for x: x - 7 = -2",
+      "options": [
+        "5",
+        "-5",
+        "9",
+        "-9"
+      ],
+      "answer": "5",
+      "reasoning": "Add 7 to both sides: x = -2 + 7 = 5."
+    },
+    "kn": {
+      "question": "x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: x - 7 = -2",
+      "options": [
+        "5",
+        "-5",
+        "9",
+        "-9"
+      ],
+      "answer": "5",
+      "reasoning": "ಎರಡೂ ಕಡೆ 7 ನ್ನು ಸೇರಿಸಿ: x = -2 + 7 = 5."
+    }
+  },
+  {
+    "id": "c7_math_eq_007",
+    "type": "image_single",
+    "difficulty": 1,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <line x1=\"50\" y1=\"150\" x2=\"250\" y2=\"150\" stroke=\"#1F2937\" stroke-width=\"4\"/>\n  <polygon points=\"150,150 140,170 160,170\" fill=\"#1F2937\"/>\n  <rect x=\"70\" y=\"110\" width=\"40\" height=\"40\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"90\" y=\"135\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">x</text>\n  <circle cx=\"120\" cy=\"130\" r=\"10\" fill=\"#059669\"/>\n  <text x=\"120\" y=\"135\" fill=\"white\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">3</text>\n  <circle cx=\"200\" cy=\"130\" r=\"10\" fill=\"#059669\"/>\n  <text x=\"200\" y=\"135\" fill=\"white\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">10</text>\n</svg>",
+      "alt": {
+        "en": "A balanced scale. On the left: a box labeled 'x' and a weight of 3. On the right: a weight of 10.",
+        "kn": "ಸಮತೋಲಿತ ತಕ್ಕಡಿ. ಎಡಭಾಗದಲ್ಲಿ: 'x' ಎಂಬ ಬಾಕ್ಸ್ ಮತ್ತು 3 ರ ತೂಕ. ಬಲಭಾಗದಲ್ಲಿ: 10 ರ ತೂಕ."
+      }
+    },
+    "en": {
+      "question": "The scale is perfectly balanced. What is the value of x?",
+      "options": [
+        "13",
+        "7",
+        "30",
+        "10"
+      ],
+      "answer": "7",
+      "reasoning": "The equation is x + 3 = 10, so x = 7."
+    },
+    "kn": {
+      "question": "ತಕ್ಕಡಿ ಸಂಪೂರ್ಣವಾಗಿ ಸಮತೋಲನದಲ್ಲಿದೆ. x ನ ಬೆಲೆ ಎಷ್ಟು?",
+      "options": [
+        "13",
+        "7",
+        "30",
+        "10"
+      ],
+      "answer": "7",
+      "reasoning": "ಸಮೀಕರಣ x + 3 = 10, ಆದ್ದರಿಂದ x = 7."
+    }
+  },
+  {
+    "id": "c7_math_eq_008",
+    "type": "image_single",
+    "difficulty": 1,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 150\">\n  <rect x=\"50\" y=\"50\" width=\"200\" height=\"40\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"150\" y1=\"50\" x2=\"150\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"100\" y=\"75\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">x</text>\n  <text x=\"200\" y=\"75\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">x</text>\n  <line x1=\"50\" y1=\"100\" x2=\"250\" y2=\"100\" stroke=\"#EA580C\" stroke-width=\"2\"/>\n  <path d=\"M 50,100 L 50,110\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"2\"/>\n  <path d=\"M 250,100 L 250,110\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"2\"/>\n  <text x=\"150\" y=\"125\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">18</text>\n</svg>",
+      "alt": {
+        "en": "A bar showing two equal parts labeled x and x. The total length is 18.",
+        "kn": "x ಮತ್ತು x ಎಂದು ಲೇಬಲ್ ಮಾಡಲಾದ ಎರಡು ಸಮಾನ ಭಾಗಗಳನ್ನು ತೋರಿಸುವ ಪಟ್ಟಿ. ಒಟ್ಟು ಉದ್ದ 18."
+      }
+    },
+    "en": {
+      "question": "What is the value of x?",
+      "options": [
+        "8",
+        "9",
+        "18",
+        "36"
+      ],
+      "answer": "9",
+      "reasoning": "From the figure, x + x = 18 => 2x = 18 => x = 9."
+    },
+    "kn": {
+      "question": "x ನ ಬೆಲೆ ಎಷ್ಟು?",
+      "options": [
+        "8",
+        "9",
+        "18",
+        "36"
+      ],
+      "answer": "9",
+      "reasoning": "ಚಿತ್ರದ ಪ್ರಕಾರ, x + x = 18 => 2x = 18 => x = 9."
+    }
+  },
+  {
+    "id": "c7_math_eq_009",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the equations have x = 4 as a solution?",
+      "options": [
+        "x + 2 = 6",
+        "2x = 8",
+        "x - 4 = 1",
+        "3x = 12"
+      ],
+      "answer": [
+        "x + 2 = 6",
+        "2x = 8",
+        "3x = 12"
+      ],
+      "reasoning": "Substitute x = 4. 4+2=6 (True), 2(4)=8 (True), 4-4=0!=1 (False), 3(4)=12 (True)."
+    },
+    "kn": {
+      "question": "ಯಾವ ಸಮೀಕರಣಗಳು x = 4 ನ್ನು ಪರಿಹಾರವಾಗಿ ಹೊಂದಿವೆ?",
+      "options": [
+        "x + 2 = 6",
+        "2x = 8",
+        "x - 4 = 1",
+        "3x = 12"
+      ],
+      "answer": [
+        "x + 2 = 6",
+        "2x = 8",
+        "3x = 12"
+      ],
+      "reasoning": "x = 4 ನ್ನು ಆದೇಶಿಸಿ. 4+2=6 (ಸರಿ), 2(4)=8 (ಸರಿ), 4-4=0!=1 (ತಪ್ಪು), 3(4)=12 (ಸರಿ)."
+    }
+  },
+  {
+    "id": "c7_math_eq_010",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the statement with its algebraic equation:",
+      "pairs": [
+        {
+          "left": "Twice a number is 10",
+          "right": "2x = 10"
+        },
+        {
+          "left": "A number increased by 2 is 10",
+          "right": "x + 2 = 10"
+        },
+        {
+          "left": "A number decreased by 2 is 10",
+          "right": "x - 2 = 10"
+        },
+        {
+          "left": "Half of a number is 10",
+          "right": "x / 2 = 10"
+        }
+      ],
+      "reasoning": "Translating English phrases into mathematical operations."
+    },
+    "kn": {
+      "question": "ಹೇಳಿಕೆಯನ್ನು ಅದರ ಬೀಜಗಣಿತ ಸಮೀಕರಣದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಒಂದು ಸಂಖ್ಯೆಯ ಎರಡರಷ್ಟು 10",
+          "right": "2x = 10"
+        },
+        {
+          "left": "ಒಂದು ಸಂಖ್ಯೆಯನ್ನು 2 ಹೆಚ್ಚಿಸಿದಾಗ 10",
+          "right": "x + 2 = 10"
+        },
+        {
+          "left": "ಒಂದು ಸಂಖ್ಯೆಯನ್ನು 2 ರಷ್ಟು ಕಡಿಮೆ ಮಾಡಿದಾಗ 10",
+          "right": "x - 2 = 10"
+        },
+        {
+          "left": "ಒಂದು ಸಂಖ್ಯೆಯ ಅರ್ಧ ಭಾಗ 10",
+          "right": "x / 2 = 10"
+        }
+      ],
+      "reasoning": "ಇಂಗ್ಲಿಷ್ ಪದಗುಚ್ಛಗಳನ್ನು ಗಣಿತದ ಲೆಕ್ಕಾಚಾರಗಳಿಗೆ ಅನುವಾದಿಸುವುದು."
+    }
+  },
+  {
+    "id": "c7_math_eq_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Solve the equation: 5p + 2 = 17",
+      "options": [
+        "3",
+        "15",
+        "5",
+        "7"
+      ],
+      "answer": "3",
+      "reasoning": "5p = 17 - 2 => 5p = 15 => p = 3."
+    },
+    "kn": {
+      "question": "ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಿ: 5p + 2 = 17",
+      "options": [
+        "3",
+        "15",
+        "5",
+        "7"
+      ],
+      "answer": "3",
+      "reasoning": "5p = 17 - 2 => 5p = 15 => p = 3."
+    }
+  },
+  {
+    "id": "c7_math_eq_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Raju's father's age is 5 years more than three times Raju's age. If his father is 44 years old, how old is Raju?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "15"
+      ],
+      "answer": "13",
+      "reasoning": "Let Raju's age be y. 3y + 5 = 44 => 3y = 39 => y = 13."
+    },
+    "kn": {
+      "question": "ರಾಜುವಿನ ತಂದೆಯ ವಯಸ್ಸು ರಾಜುವಿನ ವಯಸ್ಸಿನ ಮೂರರಷ್ಟಕ್ಕಿಂತ 5 ವರ್ಷ ಹೆಚ್ಚು. ಅವನ ತಂದೆಗೆ 44 ವರ್ಷಗಳಾಗಿದ್ದರೆ, ರಾಜುವಿನ ವಯಸ್ಸೆಷ್ಟು?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "15"
+      ],
+      "answer": "13",
+      "reasoning": "ರಾಜುವಿನ ವಯಸ್ಸು y ಆಗಿರಲಿ. 3y + 5 = 44 => 3y = 39 => y = 13."
+    }
+  },
+  {
+    "id": "c7_math_eq_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Solve: 4(m + 3) = 18",
+      "options": [
+        "1.5",
+        "2.5",
+        "6",
+        "-1.5"
+      ],
+      "answer": "1.5",
+      "reasoning": "m + 3 = 18 / 4 = 4.5. Therefore, m = 4.5 - 3 = 1.5."
+    },
+    "kn": {
+      "question": "ಬಿಡಿಸಿ: 4(m + 3) = 18",
+      "options": [
+        "1.5",
+        "2.5",
+        "6",
+        "-1.5"
+      ],
+      "answer": "1.5",
+      "reasoning": "m + 3 = 18 / 4 = 4.5. ಆದ್ದರಿಂದ, m = 4.5 - 3 = 1.5."
+    }
+  },
+  {
+    "id": "c7_math_eq_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Find x: x/3 + 5/2 = -3/2",
+      "options": [
+        "-12",
+        "12",
+        "-4",
+        "4"
+      ],
+      "answer": "-12",
+      "reasoning": "x/3 = -3/2 - 5/2 = -8/2 = -4. x = -4 × 3 = -12."
+    },
+    "kn": {
+      "question": "x ನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: x/3 + 5/2 = -3/2",
+      "options": [
+        "-12",
+        "12",
+        "-4",
+        "4"
+      ],
+      "answer": "-12",
+      "reasoning": "x/3 = -3/2 - 5/2 = -8/2 = -4. x = -4 × 3 = -12."
+    }
+  },
+  {
+    "id": "c7_math_eq_015",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "If 7x - 4 = 3x + 16, what is the value of x?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "10"
+      ],
+      "answer": "5",
+      "reasoning": "7x - 3x = 16 + 4 => 4x = 20 => x = 5."
+    },
+    "kn": {
+      "question": "7x - 4 = 3x + 16 ಆದರೆ, x ನ ಬೆಲೆ ಎಷ್ಟು?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "10"
+      ],
+      "answer": "5",
+      "reasoning": "7x - 3x = 16 + 4 => 4x = 20 => x = 5."
+    }
+  },
+  {
+    "id": "c7_math_eq_016",
+    "type": "image_single",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <polygon points=\"150,30 250,150 50,150\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"80\" y=\"90\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\" transform=\"rotate(-50, 80, 90)\">2x</text>\n  <text x=\"220\" y=\"90\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\" transform=\"rotate(50, 220, 90)\">2x</text>\n  <text x=\"150\" y=\"170\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">10</text>\n</svg>",
+      "alt": {
+        "en": "An isosceles triangle with equal sides labeled 2x and the base labeled 10.",
+        "kn": "2x ಎಂದು ಲೇಬಲ್ ಮಾಡಲಾದ ಸಮಾನ ಬಾಹುಗಳು ಮತ್ತು 10 ಎಂದು ಲೇಬಲ್ ಮಾಡಲಾದ ಪಾದವನ್ನು ಹೊಂದಿರುವ ಸಮದ್ವಿಬಾಹು ತ್ರಿಕೋನ."
+      }
+    },
+    "en": {
+      "question": "If the perimeter of the triangle is 34 cm, find the value of x.",
+      "options": [
+        "5",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": "6",
+      "reasoning": "Perimeter = 2x + 2x + 10 = 34 => 4x = 24 => x = 6."
+    },
+    "kn": {
+      "question": "ತ್ರಿಕೋನದ ಸುತ್ತಳತೆ 34 ಸೆಂ.ಮೀ ಆಗಿದ್ದರೆ, x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "5",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": "6",
+      "reasoning": "ಸುತ್ತಳತೆ = 2x + 2x + 10 = 34 => 4x = 24 => x = 6."
+    }
+  },
+  {
+    "id": "c7_math_eq_017",
+    "type": "image_single",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <rect x=\"50\" y=\"50\" width=\"200\" height=\"100\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"150\" y=\"40\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">3y - 2</text>\n  <text x=\"270\" y=\"105\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">y</text>\n</svg>",
+      "alt": {
+        "en": "A rectangle with length labeled 3y - 2 and width labeled y.",
+        "kn": "3y - 2 ಉದ್ದ ಮತ್ತು y ಅಗಲ ಎಂದು ಲೇಬಲ್ ಮಾಡಲಾದ ಆಯತ."
+      }
+    },
+    "en": {
+      "question": "If the perimeter is 36, what is the value of y?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "4"
+      ],
+      "answer": "5",
+      "reasoning": "Perimeter = 2(l + w) = 2(3y - 2 + y) = 2(4y - 2) = 8y - 4. So 8y - 4 = 36 => 8y = 40 => y = 5."
+    },
+    "kn": {
+      "question": "ಸುತ್ತಳತೆ 36 ಆಗಿದ್ದರೆ, y ನ ಮೌಲ್ಯ ಎಷ್ಟು?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "4"
+      ],
+      "answer": "5",
+      "reasoning": "ಸುತ್ತಳತೆ = 2(3y - 2 + y) = 2(4y - 2) = 8y - 4. 8y - 4 = 36 => 8y = 40 => y = 5."
+    }
+  },
+  {
+    "id": "c7_math_eq_018",
+    "type": "image_multiple",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 150\">\n  <line x1=\"50\" y1=\"100\" x2=\"250\" y2=\"100\" stroke=\"#1F2937\" stroke-width=\"4\"/>\n  <polygon points=\"150,100 140,120 160,120\" fill=\"#1F2937\"/>\n  <rect x=\"70\" y=\"60\" width=\"30\" height=\"40\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"85\" y=\"85\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">y</text>\n  <circle cx=\"110\" cy=\"80\" r=\"10\" fill=\"#059669\"/>\n  <text x=\"110\" y=\"85\" fill=\"white\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">5</text>\n  <circle cx=\"200\" cy=\"80\" r=\"10\" fill=\"#059669\"/>\n  <text x=\"200\" y=\"85\" fill=\"white\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">12</text>\n</svg>",
+      "alt": {
+        "en": "A balance scale: Left has 'y' box and weight 5. Right has weight 12. Left is lower than right.",
+        "kn": "ಸಮತೋಲನವಿಲ್ಲದ ತಕ್ಕಡಿ: ಎಡಭಾಗದಲ್ಲಿ 'y' ಬಾಕ್ಸ್ ಮತ್ತು 5 ತೂಕವಿದೆ. ಬಲಭಾಗದಲ್ಲಿ 12 ತೂಕವಿದೆ. ಎಡಭಾಗವು ಬಲಭಾಗಕ್ಕಿಂತ ಕೆಳಗಿದೆ."
+      }
+    },
+    "en": {
+      "question": "The left side of the scale is heavier than the right side. Which inequalities describe this situation?",
+      "options": [
+        "y + 5 > 12",
+        "y > 7",
+        "y + 5 < 12",
+        "y < 7"
+      ],
+      "answer": [
+        "y + 5 > 12",
+        "y > 7"
+      ],
+      "reasoning": "Since the left side is heavier, its weight is greater: y + 5 > 12. Solving gives y > 7."
+    },
+    "kn": {
+      "question": "ತಕ್ಕಡಿಯ ಎಡಭಾಗವು ಬಲಭಾಗಕ್ಕಿಂತ ಭಾರವಾಗಿರುತ್ತದೆ. ಯಾವ ಅಸಮಾನತೆಗಳು ಈ ಪರಿಸ್ಥಿತಿಯನ್ನು ವಿವರಿಸುತ್ತವೆ?",
+      "options": [
+        "y + 5 > 12",
+        "y > 7",
+        "y + 5 < 12",
+        "y < 7"
+      ],
+      "answer": [
+        "y + 5 > 12",
+        "y > 7"
+      ],
+      "reasoning": "ಎಡಭಾಗವು ಭಾರವಾಗಿರುವುದರಿಂದ, ಅದರ ತೂಕವು ಹೆಚ್ಚಾಗಿರುತ್ತದೆ: y + 5 > 12. ಇದನ್ನು ಬಿಡಿಸಿದರೆ y > 7 ಬರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_math_eq_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which equations have negative solutions?",
+      "options": [
+        "x + 8 = 5",
+        "3x = -15",
+        "x - 2 = 4",
+        "-2x = 10"
+      ],
+      "answer": [
+        "x + 8 = 5",
+        "3x = -15",
+        "-2x = 10"
+      ],
+      "reasoning": "x+8=5 => x=-3. 3x=-15 => x=-5. x-2=4 => x=6. -2x=10 => x=-5."
+    },
+    "kn": {
+      "question": "ಯಾವ ಸಮೀಕರಣಗಳು ಋಣಾತ್ಮಕ ಪರಿಹಾರಗಳನ್ನು ಹೊಂದಿವೆ?",
+      "options": [
+        "x + 8 = 5",
+        "3x = -15",
+        "x - 2 = 4",
+        "-2x = 10"
+      ],
+      "answer": [
+        "x + 8 = 5",
+        "3x = -15",
+        "-2x = 10"
+      ],
+      "reasoning": "x+8=5 => x=-3. 3x=-15 => x=-5. -2x=10 => x=-5."
+    }
+  },
+  {
+    "id": "c7_math_eq_020",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the equation to its solution:",
+      "pairs": [
+        {
+          "left": "2x + 1 = 9",
+          "right": "x = 4"
+        },
+        {
+          "left": "3x - 1 = 8",
+          "right": "x = 3"
+        },
+        {
+          "left": "4x + 2 = 10",
+          "right": "x = 2"
+        },
+        {
+          "left": "5x - 3 = 2",
+          "right": "x = 1"
+        }
+      ],
+      "reasoning": "Solve each simple equation step-by-step."
+    },
+    "kn": {
+      "question": "ಸಮೀಕರಣವನ್ನು ಅದರ ಪರಿಹಾರದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "2x + 1 = 9",
+          "right": "x = 4"
+        },
+        {
+          "left": "3x - 1 = 8",
+          "right": "x = 3"
+        },
+        {
+          "left": "4x + 2 = 10",
+          "right": "x = 2"
+        },
+        {
+          "left": "5x - 3 = 2",
+          "right": "x = 1"
+        }
+      ],
+      "reasoning": "ಪ್ರತಿ ಸರಳ ಸಮೀಕರಣವನ್ನು ಹಂತ-ಹಂತವಾಗಿ ಬಿಡಿಸಿ."
+    }
+  },
+  {
+    "id": "c7_math_eq_021",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Solve: 16 = 4 + 3(t + 2)",
+      "options": [
+        "2",
+        "4",
+        "0",
+        "1"
+      ],
+      "answer": "2",
+      "reasoning": "16 - 4 = 12 => 3(t + 2) = 12 => t + 2 = 4 => t = 2."
+    },
+    "kn": {
+      "question": "ಬಿಡಿಸಿ: 16 = 4 + 3(t + 2)",
+      "options": [
+        "2",
+        "4",
+        "0",
+        "1"
+      ],
+      "answer": "2",
+      "reasoning": "16 - 4 = 12 => 3(t + 2) = 12 => t + 2 = 4 => t = 2."
+    }
+  },
+  {
+    "id": "c7_math_eq_022",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "The sum of three consecutive integers is 45. Find the smallest integer.",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "answer": "14",
+      "reasoning": "Let integers be x, x+1, x+2. 3x + 3 = 45 => 3x = 42 => x = 14."
+    },
+    "kn": {
+      "question": "ಮೂರು ಅನುಕ್ರಮ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತವು 45 ಆಗಿದೆ. ಅತ್ಯಂತ ಚಿಕ್ಕ ಪೂರ್ಣಾಂಕವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "answer": "14",
+      "reasoning": "ಪೂರ್ಣಾಂಕಗಳು x, x+1, x+2 ಆಗಿರಲಿ. 3x + 3 = 45 => 3x = 42 => x = 14."
+    }
+  },
+  {
+    "id": "c7_math_eq_023",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "In an isosceles triangle, the base angles are equal. The vertex angle is 40°. What are the base angles of the triangle?",
+      "options": [
+        "70°",
+        "60°",
+        "80°",
+        "50°"
+      ],
+      "answer": "70°",
+      "reasoning": "Let base angle be x. x + x + 40 = 180 => 2x = 140 => x = 70°."
+    },
+    "kn": {
+      "question": "ಸಮದ್ವಿಬಾಹು ತ್ರಿಕೋನದಲ್ಲಿ, ಪಾದದ ಕೋನಗಳು ಸಮಾನವಾಗಿರುತ್ತವೆ. ಶೃಂಗದ ಕೋನ 40°. ತ್ರಿಕೋನದ ಪಾದದ ಕೋನಗಳು ಯಾವುವು?",
+      "options": [
+        "70°",
+        "60°",
+        "80°",
+        "50°"
+      ],
+      "answer": "70°",
+      "reasoning": "ಪಾದದ ಕೋನ x ಆಗಿರಲಿ. x + x + 40 = 180 => 2x = 140 => x = 70°."
+    }
+  },
+  {
+    "id": "c7_math_eq_024",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "I am a number. Tell my identity! Take me seven times over, and add a fifty! To reach a triple century, you still need forty! Who am I?",
+      "options": [
+        "30",
+        "40",
+        "50",
+        "20"
+      ],
+      "answer": "30",
+      "reasoning": "7x + 50 + 40 = 300 => 7x + 90 = 300 => 7x = 210 => x = 30."
+    },
+    "kn": {
+      "question": "ನಾನೊಂದು ಸಂಖ್ಯೆ, ನನ್ನ ಗುರುತೇನು ಹೇಳಿ! ನನ್ನನ್ನು ಏಳು ಬಾರಿ ತೆಗೆದುಕೊಳ್ಳಿ, ಮತ್ತು 50 ಅನ್ನು ಸೇರಿಸಿ! 300 ಅನ್ನು ತಲುಪಲು, ನಿಮಗೆ ಇನ್ನೂ 40 ಬೇಕು! ನಾನು ಯಾರು?",
+      "options": [
+        "30",
+        "40",
+        "50",
+        "20"
+      ],
+      "answer": "30",
+      "reasoning": "7x + 50 + 40 = 300 => 7x + 90 = 300 => 7x = 210 => x = 30."
+    }
+  },
+  {
+    "id": "c7_math_eq_025",
+    "type": "image_single",
+    "difficulty": 3,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <rect x=\"50\" y=\"50\" width=\"200\" height=\"100\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"150\" y1=\"50\" x2=\"150\" y2=\"150\" stroke=\"#EA580C\" stroke-width=\"2\" stroke-dasharray=\"5,3\"/>\n  <text x=\"100\" y=\"105\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">2x - 1</text>\n  <text x=\"200\" y=\"105\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">x + 5</text>\n</svg>",
+      "alt": {
+        "en": "A rectangle divided into two parts. The areas are labeled 2x - 1 and x + 5.",
+        "kn": "ಎರಡು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾದ ಆಯತ. ವಿಸ್ತೀರ್ಣಗಳನ್ನು 2x - 1 ಮತ್ತು x + 5 ಎಂದು ಲೇಬಲ್ ಮಾಡಲಾಗಿದೆ."
+      }
+    },
+    "en": {
+      "question": "If the two shaded regions have exactly equal areas, what is the value of x?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "6",
+      "reasoning": "Equate the areas: 2x - 1 = x + 5. Subtract x: x - 1 = 5. Add 1: x = 6."
+    },
+    "kn": {
+      "question": "ಎರಡು ಛಾಯೆಗೊಳಿಸಿದ ಪ್ರದೇಶಗಳು ಒಂದೇ ವಿಸ್ತೀರ್ಣವನ್ನು ಹೊಂದಿದ್ದರೆ, x ನ ಬೆಲೆ ಎಷ್ಟು?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "6",
+      "reasoning": "ವಿಸ್ತೀರ್ಣಗಳನ್ನು ಸಮೀಕರಿಸಿ: 2x - 1 = x + 5. x ಕಳೆಯಿರಿ: x - 1 = 5. 1 ಸೇರಿಸಿ: x = 6."
+    }
+  },
+  {
+    "id": "c7_math_eq_026",
+    "type": "image_multiple",
+    "difficulty": 3,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <path d=\"M 50,150 L 150,50 L 250,150 Z\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"90\" y=\"100\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">2a</text>\n  <text x=\"210\" y=\"100\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">3b - 1</text>\n  <text x=\"150\" y=\"170\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">11</text>\n</svg>",
+      "alt": {
+        "en": "An equilateral triangle with sides 2a, 3b-1, and 11.",
+        "kn": "2a, 3b-1, ಮತ್ತು 11 ಬಾಹುಗಳಿರುವ ಸಮಬಾಹು ತ್ರಿಕೋನ."
+      }
+    },
+    "en": {
+      "question": "If the triangle shown is an equilateral triangle, which of the following statements are true?",
+      "options": [
+        "a = 5.5",
+        "b = 4",
+        "a + b = 9.5",
+        "Perimeter = 33"
+      ],
+      "answer": [
+        "a = 5.5",
+        "b = 4",
+        "a + b = 9.5",
+        "Perimeter = 33"
+      ],
+      "reasoning": "All sides equal 11. 2a = 11 => a = 5.5. 3b - 1 = 11 => 3b = 12 => b = 4. a+b = 9.5. Perimeter = 11*3 = 33."
+    },
+    "kn": {
+      "question": "ತೋರಿಸಿರುವ ತ್ರಿಕೋನವು ಸಮಬಾಹು ತ್ರಿಕೋನವಾಗಿದ್ದರೆ, ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳಲ್ಲಿ ಯಾವುದು ಸರಿ?",
+      "options": [
+        "a = 5.5",
+        "b = 4",
+        "a + b = 9.5",
+        "ಸುತ್ತಳತೆ = 33"
+      ],
+      "answer": [
+        "a = 5.5",
+        "b = 4",
+        "a + b = 9.5",
+        "ಸುತ್ತಳತೆ = 33"
+      ],
+      "reasoning": "ಎಲ್ಲಾ ಬಾಹುಗಳು 11 ಕ್ಕೆ ಸಮ. 2a = 11 => a = 5.5. 3b - 1 = 11 => b = 4. a+b = 9.5. ಸುತ್ತಳತೆ = 33."
+    }
+  },
+  {
+    "id": "c7_math_eq_027",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of these equations require more than one step to solve?",
+      "options": [
+        "2x + 1 = 9",
+        "x - 5 = 10",
+        "3(x - 2) = 15",
+        "x/4 = 8"
+      ],
+      "answer": [
+        "2x + 1 = 9",
+        "3(x - 2) = 15"
+      ],
+      "reasoning": "2x+1=9 requires subtraction then division. 3(x-2)=15 requires expansion/division then addition. The others are one-step."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಯಾವ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸಲು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಹಂತಗಳ ಅಗತ್ಯವಿದೆ?",
+      "options": [
+        "2x + 1 = 9",
+        "x - 5 = 10",
+        "3(x - 2) = 15",
+        "x/4 = 8"
+      ],
+      "answer": [
+        "2x + 1 = 9",
+        "3(x - 2) = 15"
+      ],
+      "reasoning": "2x+1=9 ಗೆ ವ್ಯವಕಲನ ಮತ್ತು ನಂತರ ಭಾಗಾಕಾರ ಬೇಕು. 3(x-2)=15 ಕ್ಕೆ ಗುಣಾಕಾರ/ಭಾಗಾಕಾರ ಮತ್ತು ಸಂಕಲನ ಬೇಕು."
+    }
+  },
+  {
+    "id": "c7_math_eq_028",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the equation to its root:",
+      "pairs": [
+        {
+          "left": "2(x + 3) = 10",
+          "right": "2"
+        },
+        {
+          "left": "3(x - 1) = 12",
+          "right": "5"
+        },
+        {
+          "left": "4x - 5 = 7",
+          "right": "3"
+        },
+        {
+          "left": "x/2 + 3 = 7",
+          "right": "8"
+        }
+      ],
+      "reasoning": "Solve each two-step equation."
+    },
+    "kn": {
+      "question": "ಸಮೀಕರಣವನ್ನು ಅದರ ಮೂಲದೊಂದಿಗೆ (root) ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "2(x + 3) = 10",
+          "right": "2"
+        },
+        {
+          "left": "3(x - 1) = 12",
+          "right": "5"
+        },
+        {
+          "left": "4x - 5 = 7",
+          "right": "3"
+        },
+        {
+          "left": "x/2 + 3 = 7",
+          "right": "8"
+        }
+      ],
+      "reasoning": "ಪ್ರತಿ ಎರಡು ಹಂತದ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಿ."
+    }
+  },
+  {
+    "id": "c7_math_eq_029",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the word problem to the equation used to solve it:",
+      "pairs": [
+        {
+          "left": "Sum of a number and its double is 30",
+          "right": "x + 2x = 30"
+        },
+        {
+          "left": "Number divided by 3, then 2 added gives 10",
+          "right": "x/3 + 2 = 10"
+        },
+        {
+          "left": "5 less than three times a number is 25",
+          "right": "3x - 5 = 25"
+        },
+        {
+          "left": "Twice the sum of a number and 4 is 20",
+          "right": "2(x + 4) = 20"
+        }
+      ],
+      "reasoning": "Translating complex word problems into equations."
+    },
+    "kn": {
+      "question": "ಪದ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ಬಳಸುವ ಸಮೀಕರಣದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಒಂದು ಸಂಖ್ಯೆ ಮತ್ತು ಅದರ ಎರಡರಷ್ಟರ ಮೊತ್ತ 30",
+          "right": "x + 2x = 30"
+        },
+        {
+          "left": "ಸಂಖ್ಯೆಯನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿ, ನಂತರ 2 ಸೇರಿಸಿದರೆ 10 ಸಿಗುತ್ತದೆ",
+          "right": "x/3 + 2 = 10"
+        },
+        {
+          "left": "ಒಂದು ಸಂಖ್ಯೆಯ 3 ರಷ್ಟಕ್ಕಿಂತ 5 ಕಡಿಮೆ ಎಂದರೆ 25",
+          "right": "3x - 5 = 25"
+        },
+        {
+          "left": "ಒಂದು ಸಂಖ್ಯೆ ಮತ್ತು 4 ರ ಮೊತ್ತದ ಎರಡರಷ್ಟು 20",
+          "right": "2(x + 4) = 20"
+        }
+      ],
+      "reasoning": "ಸಂಕೀರ್ಣ ಪದ ಸಮಸ್ಯೆಗಳನ್ನು ಸಮೀಕರಣಗಳಾಗಿ ಅನುವಾದಿಸುವುದು."
+    }
+  },
+  {
+    "id": "c7_math_eq_030",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the transformation applied to an equation (e.g. 2x = 8) to the result:",
+      "pairs": [
+        {
+          "left": "Add 3 to both sides",
+          "right": "2x + 3 = 11"
+        },
+        {
+          "left": "Multiply both sides by 3",
+          "right": "6x = 24"
+        },
+        {
+          "left": "Divide both sides by 2",
+          "right": "x = 4"
+        },
+        {
+          "left": "Subtract x from both sides",
+          "right": "x = 8 - x"
+        }
+      ],
+      "reasoning": "Balancing an equation by performing the same operation on both sides."
+    },
+    "kn": {
+      "question": "ಸಮೀಕರಣಕ್ಕೆ (ಉದಾ. 2x = 8) ಅನ್ವಯಿಸಲಾದ ಬದಲಾವಣೆಯನ್ನು ಅದರ ಫಲಿತಾಂಶದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಎರಡೂ ಕಡೆಗೆ 3 ಸೇರಿಸಿ",
+          "right": "2x + 3 = 11"
+        },
+        {
+          "left": "ಎರಡೂ ಕಡೆ 3 ರಿಂದ ಗುಣಿಸಿ",
+          "right": "6x = 24"
+        },
+        {
+          "left": "ಎರಡೂ ಕಡೆ 2 ರಿಂದ ಭಾಗಿಸಿ",
+          "right": "x = 4"
+        },
+        {
+          "left": "ಎರಡೂ ಕಡೆಯಿಂದ x ನ್ನು ಕಳೆಯಿರಿ",
+          "right": "x = 8 - x"
+        }
+      ],
+      "reasoning": "ಎರಡೂ ಕಡೆಗಳಲ್ಲಿ ಒಂದೇ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಮಾಡುವ ಮೂಲಕ ಸಮೀಕರಣವನ್ನು ಸಮತೋಲನಗೊಳಿಸುವುದು."
+    }
+  }
+]

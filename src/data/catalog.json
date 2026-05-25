@@ -8,86 +8,236 @@
           "id": "maths",
           "name": "Mathematics (Math-Magic)",
           "chapters": [
-            { "id": "basic_operations", "name": "Basic Operations (Legacy)" },
-            { "id": "shapes_angles", "name": "Shapes and Angles" },
-            { "id": "how_many_squares", "name": "How Many Squares?" },
-            { "id": "parts_wholes", "name": "Parts and Wholes" },
-            { "id": "patterns", "name": "Can You See the Pattern?" },
-            { "id": "mapping", "name": "Mapping Your Way" },
-            { "id": "tenths_hundredths", "name": "Tenths and Hundredths" },
-            { "id": "area_boundary", "name": "Area and its Boundary" },
-            { "id": "smart_charts", "name": "Smart Charts" }
+            {
+              "id": "basic_operations",
+              "name": "Basic Operations (Legacy)"
+            },
+            {
+              "id": "shapes_angles",
+              "name": "Shapes and Angles"
+            },
+            {
+              "id": "how_many_squares",
+              "name": "How Many Squares?"
+            },
+            {
+              "id": "parts_wholes",
+              "name": "Parts and Wholes"
+            },
+            {
+              "id": "patterns",
+              "name": "Can You See the Pattern?"
+            },
+            {
+              "id": "mapping",
+              "name": "Mapping Your Way"
+            },
+            {
+              "id": "tenths_hundredths",
+              "name": "Tenths and Hundredths"
+            },
+            {
+              "id": "area_boundary",
+              "name": "Area and its Boundary"
+            },
+            {
+              "id": "smart_charts",
+              "name": "Smart Charts"
+            }
           ]
         },
         {
           "id": "evs",
           "name": "EVS (Looking Around)",
           "chapters": [
-            { "id": "super_senses", "name": "Super Senses" },
-            { "id": "snake_charmer", "name": "A Snake Charmer’s Story" },
-            { "id": "tasting_digesting", "name": "From Tasting to Digesting" },
-            { "id": "mangoes", "name": "Mangoes Round the Year" },
-            { "id": "seeds", "name": "Seeds and Seeds" },
-            { "id": "every_drop", "name": "Every Drop Counts" },
-            { "id": "experiments_water", "name": "Experiments with Water" },
-            { "id": "mosquitoes", "name": "A Treat for Mosquitoes" },
-            { "id": "space", "name": "Sunita in Space" },
-            { "id": "earth_shook", "name": "When the Earth Shook!" }
+            {
+              "id": "super_senses",
+              "name": "Super Senses"
+            },
+            {
+              "id": "snake_charmer",
+              "name": "A Snake Charmer’s Story"
+            },
+            {
+              "id": "tasting_digesting",
+              "name": "From Tasting to Digesting"
+            },
+            {
+              "id": "mangoes",
+              "name": "Mangoes Round the Year"
+            },
+            {
+              "id": "seeds",
+              "name": "Seeds and Seeds"
+            },
+            {
+              "id": "every_drop",
+              "name": "Every Drop Counts"
+            },
+            {
+              "id": "experiments_water",
+              "name": "Experiments with Water"
+            },
+            {
+              "id": "mosquitoes",
+              "name": "A Treat for Mosquitoes"
+            },
+            {
+              "id": "space",
+              "name": "Sunita in Space"
+            },
+            {
+              "id": "earth_shook",
+              "name": "When the Earth Shook!"
+            }
           ]
         },
         {
           "id": "science",
           "name": "Science (Legacy)",
           "chapters": [
-            { "id": "fundamentals", "name": "Fundamentals" },
-            { "id": "force_energy", "name": "Force, Work and Energy" },
-            { "id": "properties_matter", "name": "Properties of Matter" },
-            { "id": "human_health", "name": "Human Organs and Health" },
-            { "id": "adaptations", "name": "Animal and Plant Adaptations" },
-            { "id": "simple_machines", "name": "Simple Machines" }
+            {
+              "id": "fundamentals",
+              "name": "Fundamentals"
+            },
+            {
+              "id": "force_energy",
+              "name": "Force, Work and Energy"
+            },
+            {
+              "id": "properties_matter",
+              "name": "Properties of Matter"
+            },
+            {
+              "id": "human_health",
+              "name": "Human Organs and Health"
+            },
+            {
+              "id": "adaptations",
+              "name": "Animal and Plant Adaptations"
+            },
+            {
+              "id": "simple_machines",
+              "name": "Simple Machines"
+            }
           ]
         },
         {
           "id": "history",
           "name": "History (Legacy)",
           "chapters": [
-            { "id": "timeline", "name": "Historical Timelines" },
-            { "id": "early_humans", "name": "Early Humans & Stone Age" },
-            { "id": "indus_valley", "name": "The Indus Valley Civilization" },
-            { "id": "ancient_empires", "name": "Ancient Empires of India" },
-            { "id": "freedom_movement", "name": "Freedom Movement of India" },
-            { "id": "monuments", "name": "Historic Forts & Monuments" }
+            {
+              "id": "timeline",
+              "name": "Historical Timelines"
+            },
+            {
+              "id": "early_humans",
+              "name": "Early Humans & Stone Age"
+            },
+            {
+              "id": "indus_valley",
+              "name": "The Indus Valley Civilization"
+            },
+            {
+              "id": "ancient_empires",
+              "name": "Ancient Empires of India"
+            },
+            {
+              "id": "freedom_movement",
+              "name": "Freedom Movement of India"
+            },
+            {
+              "id": "monuments",
+              "name": "Historic Forts & Monuments"
+            }
           ]
         },
         {
           "id": "english",
           "name": "English",
           "chapters": [
-            { "id": "grammar", "name": "Grammar (Past Tense)" },
-            { "id": "icecream_waste", "name": "Ice-cream Man & Wonderful Waste!" },
-            { "id": "teamwork_flying", "name": "Teamwork & Flying Together" },
-            { "id": "shadow_crusoe", "name": "My Shadow & Robinson Crusoe" },
-            { "id": "crying_brother", "name": "Crying & My Elder Brother" },
-            { "id": "lazy_rip", "name": "Rip Van Winkle & The Lazy Frog" },
-            { "id": "discussion_barber", "name": "Class Discussion & Talkative Barber" },
-            { "id": "gulliver_travels", "name": "Gulliver's Travels & Topsy-turvy Land" },
-            { "id": "friend_bully", "name": "Nobody's Friend & The Little Bully" },
-            { "id": "world_people", "name": "Around the World & Sing a Song of People" },
-            { "id": "ningthou_malu", "name": "Who Will be Ningthou? & Malu Bhalu" }
+            {
+              "id": "grammar",
+              "name": "Grammar (Past Tense)"
+            },
+            {
+              "id": "icecream_waste",
+              "name": "Ice-cream Man & Wonderful Waste!"
+            },
+            {
+              "id": "teamwork_flying",
+              "name": "Teamwork & Flying Together"
+            },
+            {
+              "id": "shadow_crusoe",
+              "name": "My Shadow & Robinson Crusoe"
+            },
+            {
+              "id": "crying_brother",
+              "name": "Crying & My Elder Brother"
+            },
+            {
+              "id": "lazy_rip",
+              "name": "Rip Van Winkle & The Lazy Frog"
+            },
+            {
+              "id": "discussion_barber",
+              "name": "Class Discussion & Talkative Barber"
+            },
+            {
+              "id": "gulliver_travels",
+              "name": "Gulliver's Travels & Topsy-turvy Land"
+            },
+            {
+              "id": "friend_bully",
+              "name": "Nobody's Friend & The Little Bully"
+            },
+            {
+              "id": "world_people",
+              "name": "Around the World & Sing a Song of People"
+            },
+            {
+              "id": "ningthou_malu",
+              "name": "Who Will be Ningthou? & Malu Bhalu"
+            }
           ]
         },
         {
           "id": "kannada",
           "name": "Kannada",
           "chapters": [
-            { "id": "vocabulary", "name": "Vocabulary" },
-            { "id": "ottige_baluva", "name": "ಒಟ್ಟಿಗೆ ಬಾಳುವ ಆನಂದ (Joy of Living Together)" },
-            { "id": "nadiya_alalu", "name": "ನದಿಯ ಅಳಲು (Lament of the River)" },
-            { "id": "swatantryada_hanate", "name": "ಸ್ವಾತಂತ್ರ್ಯದ ಹಣತೆ (Lamp of Freedom)" },
-            { "id": "dheera_senani", "name": "ಧೀರ ಸೇನಾನಿ ಮತ್ತು ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ" },
-            { "id": "parisara_samrakshane", "name": "ಪರಿಸರ ಸಂರಕ್ಷಣೆ (Environmental Care)" },
-            { "id": "vachanagalu", "name": "ಶರಣರ ವಚನಗಳು (Sayings of Saints)" },
-            { "id": "kannada_nudi", "name": "ಕನ್ನಡ ನುಡಿ (The Kannada Language)" }
+            {
+              "id": "vocabulary",
+              "name": "Vocabulary"
+            },
+            {
+              "id": "ottige_baluva",
+              "name": "ಒಟ್ಟಿಗೆ ಬಾಳುವ ಆನಂದ (Joy of Living Together)"
+            },
+            {
+              "id": "nadiya_alalu",
+              "name": "ನದಿಯ ಅಳಲು (Lament of the River)"
+            },
+            {
+              "id": "swatantryada_hanate",
+              "name": "ಸ್ವಾತಂತ್ರ್ಯದ ಹಣತೆ (Lamp of Freedom)"
+            },
+            {
+              "id": "dheera_senani",
+              "name": "ಧೀರ ಸೇನಾನಿ ಮತ್ತು ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ"
+            },
+            {
+              "id": "parisara_samrakshane",
+              "name": "ಪರಿಸರ ಸಂರಕ್ಷಣೆ (Environmental Care)"
+            },
+            {
+              "id": "vachanagalu",
+              "name": "ಶರಣರ ವಚನಗಳು (Sayings of Saints)"
+            },
+            {
+              "id": "kannada_nudi",
+              "name": "ಕನ್ನಡ ನುಡಿ (The Kannada Language)"
+            }
           ]
         }
       ]
@@ -100,65 +250,170 @@
           "id": "maths",
           "name": "Mathematics (Ganita Prakash)",
           "chapters": [
-            { "id": "patterns_math", "name": "Patterns in Mathematics" },
-            { "id": "lines_angles", "name": "Lines and Angles" },
-            { "id": "number_play", "name": "Number Play" },
-            { "id": "data_handling", "name": "Data Handling and Presentation" },
-            { "id": "prime_time", "name": "Prime Time" },
-            { "id": "perimeter_area", "name": "Perimeter and Area" },
-            { "id": "fractions", "name": "Fractions" },
-            { "id": "symmetry", "name": "Symmetry" },
-            { "id": "zero", "name": "The Other Side of Zero" }
+            {
+              "id": "patterns_math",
+              "name": "Patterns in Mathematics"
+            },
+            {
+              "id": "lines_angles",
+              "name": "Lines and Angles"
+            },
+            {
+              "id": "number_play",
+              "name": "Number Play"
+            },
+            {
+              "id": "data_handling",
+              "name": "Data Handling and Presentation"
+            },
+            {
+              "id": "prime_time",
+              "name": "Prime Time"
+            },
+            {
+              "id": "perimeter_area",
+              "name": "Perimeter and Area"
+            },
+            {
+              "id": "fractions",
+              "name": "Fractions"
+            },
+            {
+              "id": "symmetry",
+              "name": "Symmetry"
+            },
+            {
+              "id": "zero",
+              "name": "The Other Side of Zero"
+            }
           ]
         },
         {
           "id": "science",
           "name": "Science (Curiosity)",
           "chapters": [
-            { "id": "diversity_living", "name": "Diversity in the Living World" },
-            { "id": "materials_around", "name": "Materials Around Us" },
-            { "id": "food_components", "name": "Components of Food" },
-            { "id": "separation", "name": "Separation of Substances" },
-            { "id": "plants", "name": "Getting to Know Plants" },
-            { "id": "body_movements", "name": "Body Movements" },
-            { "id": "living_organisms", "name": "The Living Organisms" },
-            { "id": "motion_measurement", "name": "Motion and Measurement" },
-            { "id": "light_shadows", "name": "Light, Shadows and Reflections" },
-            { "id": "electricity_circuits", "name": "Electricity and Circuits" },
-            { "id": "magnets", "name": "Fun with Magnets" }
+            {
+              "id": "diversity_living",
+              "name": "Diversity in the Living World"
+            },
+            {
+              "id": "materials_around",
+              "name": "Materials Around Us"
+            },
+            {
+              "id": "food_components",
+              "name": "Components of Food"
+            },
+            {
+              "id": "separation",
+              "name": "Separation of Substances"
+            },
+            {
+              "id": "plants",
+              "name": "Getting to Know Plants"
+            },
+            {
+              "id": "body_movements",
+              "name": "Body Movements"
+            },
+            {
+              "id": "living_organisms",
+              "name": "The Living Organisms"
+            },
+            {
+              "id": "motion_measurement",
+              "name": "Motion and Measurement"
+            },
+            {
+              "id": "light_shadows",
+              "name": "Light, Shadows and Reflections"
+            },
+            {
+              "id": "electricity_circuits",
+              "name": "Electricity and Circuits"
+            },
+            {
+              "id": "magnets",
+              "name": "Fun with Magnets"
+            }
           ]
         },
         {
           "id": "english",
           "name": "English (Honeysuckle)",
           "chapters": [
-            { "id": "c6_eng_patrick", "name": "Who Did Patrick's Homework?" },
-            { "id": "c6_eng_master", "name": "How the Dog Found Himself a New Master!" },
-            { "id": "c6_eng_taro", "name": "Taro's Reward" },
-            { "id": "c6_eng_kalpana", "name": "An Indian-American Woman in Space: Kalpana Chawla" },
-            { "id": "c6_eng_school", "name": "A Different Kind of School" }
+            {
+              "id": "c6_eng_patrick",
+              "name": "Who Did Patrick's Homework?"
+            },
+            {
+              "id": "c6_eng_master",
+              "name": "How the Dog Found Himself a New Master!"
+            },
+            {
+              "id": "c6_eng_taro",
+              "name": "Taro's Reward"
+            },
+            {
+              "id": "c6_eng_kalpana",
+              "name": "An Indian-American Woman in Space: Kalpana Chawla"
+            },
+            {
+              "id": "c6_eng_school",
+              "name": "A Different Kind of School"
+            }
           ]
         },
         {
           "id": "history",
           "name": "History (Our Pasts - I)",
           "chapters": [
-            { "id": "c6_his_intro", "name": "What, Where, How and When?" },
-            { "id": "c6_hunting_gathering", "name": "From Hunting-Gathering to Growing Food" },
-            { "id": "c6_earliest_cities", "name": "In the Earliest Cities" },
-            { "id": "c6_books_burials", "name": "What Books and Burials Tell Us" },
-            { "id": "c6_kingdoms", "name": "Kingdoms, Kings and an Early Republic" }
+            {
+              "id": "c6_his_intro",
+              "name": "What, Where, How and When?"
+            },
+            {
+              "id": "c6_hunting_gathering",
+              "name": "From Hunting-Gathering to Growing Food"
+            },
+            {
+              "id": "c6_earliest_cities",
+              "name": "In the Earliest Cities"
+            },
+            {
+              "id": "c6_books_burials",
+              "name": "What Books and Burials Tell Us"
+            },
+            {
+              "id": "c6_kingdoms",
+              "name": "Kingdoms, Kings and an Early Republic"
+            }
           ]
         },
         {
           "id": "kannada",
           "name": "Kannada (Siri Kannada)",
           "chapters": [
-            { "id": "c6_kan_taayi", "name": "ಕನ್ನಡಿಗರ ತಾಯಿ (Mother of Kannadigas)" },
-            { "id": "c6_kan_ganga", "name": "ಗಂಗಾವತರಣ (Descent of Ganga)" },
-            { "id": "c6_kan_dharma", "name": "ಧರ್ಮಬುದ್ಧಿ (Virtuous Mind)" },
-            { "id": "c6_kan_hosavarsha", "name": "ಹೊಸವರ್ಷ (New Year)" },
-            { "id": "c6_kan_abbakka", "name": "ವೀರರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ (Heroic Queen Abbakka)" }
+            {
+              "id": "c6_kan_taayi",
+              "name": "ಕನ್ನಡಿಗರ ತಾಯಿ (Mother of Kannadigas)"
+            },
+            {
+              "id": "c6_kan_ganga",
+              "name": "ಗಂಗಾವತರಣ (Descent of Ganga)"
+            },
+            {
+              "id": "c6_kan_dharma",
+              "name": "ಧರ್ಮಬುದ್ಧಿ (Virtuous Mind)"
+            },
+            {
+              "id": "c6_kan_hosavarsha",
+              "name": "ಹೊಸವರ್ಷ (New Year)"
+            },
+            {
+              "id": "c6_kan_abbakka",
+              "name": "ವೀರರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ (Heroic Queen Abbakka)"
+            }
           ]
         }
       ]
@@ -171,27 +426,126 @@
           "id": "gk",
           "name": "General Knowledge",
           "chapters": [
-            { "id": "indian_heritage", "name": "Indian Heritage & Culture" },
-            { "id": "science_nature", "name": "Science & Nature" },
-            { "id": "world_geography", "name": "World Geography" }
+            {
+              "id": "indian_heritage",
+              "name": "Indian Heritage & Culture"
+            },
+            {
+              "id": "science_nature",
+              "name": "Science & Nature"
+            },
+            {
+              "id": "world_geography",
+              "name": "World Geography"
+            }
           ]
         },
         {
           "id": "puzzles",
           "name": "Aptitude & Puzzles",
           "chapters": [
-            { "id": "ancient_indian_puzzles", "name": "Ancient Indian Puzzles" },
-            { "id": "number_sequences", "name": "Number Sequences" },
-            { "id": "logical_deduction", "name": "Logical Deduction" }
+            {
+              "id": "ancient_indian_puzzles",
+              "name": "Ancient Indian Puzzles"
+            },
+            {
+              "id": "number_sequences",
+              "name": "Number Sequences"
+            },
+            {
+              "id": "logical_deduction",
+              "name": "Logical Deduction"
+            }
           ]
         },
         {
           "id": "spellbee",
           "name": "Spell Bee",
           "chapters": [
-            { "id": "spellbee_easy", "name": "Level 1 (Easy)" },
-            { "id": "spellbee_medium", "name": "Level 2 (Medium)" },
-            { "id": "spellbee_hard", "name": "Level 3 (Hard)" }
+            {
+              "id": "spellbee_easy",
+              "name": "Level 1 (Easy)"
+            },
+            {
+              "id": "spellbee_medium",
+              "name": "Level 2 (Medium)"
+            },
+            {
+              "id": "spellbee_hard",
+              "name": "Level 3 (Hard)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "class_7",
+      "name": "Class 7 (NCERT)",
+      "subjects": [
+        {
+          "id": "maths",
+          "name": "Mathematics (Math-Magic)",
+          "chapters": [
+            {
+              "id": "integers",
+              "name": "Integers"
+            },
+            {
+              "id": "fractions_decimals",
+              "name": "Fractions and Decimals"
+            },
+            {
+              "id": "data_handling",
+              "name": "Data Handling"
+            },
+            {
+              "id": "simple_equations",
+              "name": "Simple Equations"
+            },
+            {
+              "id": "lines_angles",
+              "name": "Lines and Angles"
+            },
+            {
+              "id": "triangles",
+              "name": "The Triangle and its Properties"
+            },
+            {
+              "id": "congruence",
+              "name": "Congruence of Triangles"
+            },
+            {
+              "id": "comparing_quantities",
+              "name": "Comparing Quantities"
+            },
+            {
+              "id": "rational_numbers",
+              "name": "Rational Numbers"
+            },
+            {
+              "id": "practical_geometry",
+              "name": "Practical Geometry"
+            },
+            {
+              "id": "perimeter_area",
+              "name": "Perimeter and Area"
+            },
+            {
+              "id": "algebraic_expressions",
+              "name": "Algebraic Expressions"
+            },
+            {
+              "id": "exponents_powers",
+              "name": "Exponents and Powers"
+            },
+            {
+              "id": "symmetry",
+              "name": "Symmetry"
+            },
+            {
+              "id": "solid_shapes",
+              "name": "Visualising Solid Shapes"
+            }
           ]
         }
       ]
