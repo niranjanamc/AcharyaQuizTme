@@ -59,7 +59,7 @@
     "type": "image_single",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><circle cx='150' cy='100' r='80' fill='none' stroke='#2563EB' stroke-width='2'/><path d='M150,100 L150,20 A80,80 0 0,1 230,100 Z' fill='#DBEAFE' stroke='#2563EB' stroke-width='1'/><path d='M150,100 L230,100 A80,80 0 1,1 150,20 Z' fill='none' stroke='#2563EB' stroke-width='1'/></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><circle cx='150' cy='100' r='80' fill='none' stroke='#2563EB' stroke-width='2'/><path d='M150,100 L150,20 A80,80 0 0,1 230,100 Z' fill='#DBEAFE' stroke='#2563EB' stroke-width='1'/><path d='M150,100 L230,100 A80,80 0 1,1 150,20 Z' fill='none' stroke='#2563EB' stroke-width='1'/></svg>",
       "alt": {
         "en": "A circle divided into 4 equal quarters, with one quarter shaded.",
         "kn": "ವೃತ್ತವನ್ನು 4 ಸಮಾನ ಕಾಲು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ, ಅದರಲ್ಲಿ ಒಂದು ಕಾಲು ಭಾಗವನ್ನು ಛಾಯೆಗೊಳಿಸಲಾಗಿದೆ."
@@ -892,7 +892,7 @@
     "type": "image_single",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><circle cx='150' cy='100' r='80' fill='none' stroke='#2563EB' stroke-width='2'/><path d='M150,100 L150,20 A80,80 0 0,1 219,60 Z' fill='#DBEAFE' stroke='#2563EB'/><path d='M150,100 L219,60 A80,80 0 1,1 150,20 Z' fill='#FEE2E2' stroke='#2563EB'/><text x='170' y='70' fill='#1F2937' font-family='Arial' font-size='12'>Boys</text><text x='130' y='140' fill='#1F2937' font-family='Arial' font-size='12'>Girls (60%)</text><text x='250' y='180' fill='#1F2937' font-family='Arial' font-size='12'>Total: 500</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><circle cx='150' cy='100' r='80' fill='none' stroke='#2563EB' stroke-width='2'/><path d='M150,100 L150,20 A80,80 0 0,1 219,60 Z' fill='#DBEAFE' stroke='#2563EB'/><path d='M150,100 L219,60 A80,80 0 1,1 150,20 Z' fill='#FEE2E2' stroke='#2563EB'/><text x='170' y='70' fill='#1F2937' font-family='Arial' font-size='12'>Boys</text><text x='130' y='140' fill='#1F2937' font-family='Arial' font-size='12'>Girls (60%)</text><text x='250' y='180' fill='#1F2937' font-family='Arial' font-size='12'>Total: 500</text></svg>",
       "alt": {
         "en": "Pie chart showing Girls (60%) and Boys. Total students = 500.",
         "kn": "ಹುಡುಗಿಯರು (60%) ಮತ್ತು ಹುಡುಗರನ್ನು ತೋರಿಸುವ ಪೈ ಚಾರ್ಟ್. ಒಟ್ಟು ವಿದ್ಯಾರ್ಥಿಗಳು = 500."

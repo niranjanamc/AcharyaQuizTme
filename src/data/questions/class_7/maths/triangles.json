@@ -59,7 +59,7 @@
     "type": "image_single",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='50,150 150,50 250,150' fill='none' stroke='#2563EB' stroke-width='2'/><line x1='150' y1='50' x2='150' y2='150' stroke='#DC2626' stroke-width='1.5' stroke-dasharray='5,5'/><path d='M150,140 L160,140 L160,150' fill='none' stroke='#EA580C' stroke-width='1.5'/><text x='130' y='100' fill='#DC2626' font-family='Arial' font-size='14'>h</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='50,150 150,50 250,150' fill='none' stroke='#2563EB' stroke-width='2'/><line x1='150' y1='50' x2='150' y2='150' stroke='#DC2626' stroke-width='1.5' stroke-dasharray='5,5'/><path d='M150,140 L160,140 L160,150' fill='none' stroke='#EA580C' stroke-width='1.5'/><text x='130' y='100' fill='#DC2626' font-family='Arial' font-size='14'>h</text></svg>",
       "alt": {
         "en": "A triangle with a dashed line dropped from the top vertex to the base, making a right angle.",
         "kn": "ಮೇಲಿನ ಶೃಂಗದಿಂದ ತಳಕ್ಕೆ ಲಂಬವಾಗಿ ಎಳೆದ ಚುಕ್ಕೆಗಳ ರೇಖೆಯಿರುವ ತ್ರಿಕೋನ."
@@ -197,7 +197,7 @@
     "type": "image_single",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='50,150 150,50 200,150' fill='none' stroke='#2563EB' stroke-width='2'/><line x1='50' y1='150' x2='250' y2='150' stroke='#2563EB' stroke-width='2'/><text x='80' y='140' fill='#DC2626' font-family='Arial' font-size='14'>50°</text><text x='140' y='80' fill='#DC2626' font-family='Arial' font-size='14'>60°</text><text x='215' y='145' fill='#DC2626' font-family='Arial' font-size='14'>x</text><path d='M200,150 L210,150 A10,10 0 0,0 205,140' fill='none' stroke='#EA580C' stroke-width='1.5'/></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='50,150 150,50 200,150' fill='none' stroke='#2563EB' stroke-width='2'/><line x1='50' y1='150' x2='250' y2='150' stroke='#2563EB' stroke-width='2'/><text x='80' y='140' fill='#DC2626' font-family='Arial' font-size='14'>50°</text><text x='140' y='80' fill='#DC2626' font-family='Arial' font-size='14'>60°</text><text x='215' y='145' fill='#DC2626' font-family='Arial' font-size='14'>x</text><path d='M200,150 L210,150 A10,10 0 0,0 205,140' fill='none' stroke='#EA580C' stroke-width='1.5'/></svg>",
       "alt": {
         "en": "A triangle with interior opposite angles 50° and 60°, and an exterior angle x.",
         "kn": "ಒಳಕೋನಗಳು 50° ಮತ್ತು 60° ಇರುವ ಮತ್ತು ಹೊರಕೋನ x ಇರುವ ತ್ರಿಕೋನ."
@@ -319,7 +319,7 @@
     "type": "image_single",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='100,50 100,150 200,150' fill='none' stroke='#2563EB' stroke-width='2'/><path d='M100,140 L110,140 L110,150' fill='none' stroke='#EA580C' stroke-width='1.5'/><text x='75' y='100' fill='#DC2626' font-family='Arial' font-size='14'>3 cm</text><text x='150' y='170' fill='#DC2626' font-family='Arial' font-size='14'>4 cm</text><text x='160' y='90' fill='#DC2626' font-family='Arial' font-size='14'>x</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='100,50 100,150 200,150' fill='none' stroke='#2563EB' stroke-width='2'/><path d='M100,140 L110,140 L110,150' fill='none' stroke='#EA580C' stroke-width='1.5'/><text x='75' y='100' fill='#DC2626' font-family='Arial' font-size='14'>3 cm</text><text x='150' y='170' fill='#DC2626' font-family='Arial' font-size='14'>4 cm</text><text x='160' y='90' fill='#DC2626' font-family='Arial' font-size='14'>x</text></svg>",
       "alt": {
         "en": "A right angled triangle with base 4 cm, height 3 cm, and hypotenuse x.",
         "kn": "ಪಾದ 4 ಸೆಂ.ಮೀ, ಎತ್ತರ 3 ಸೆಂ.ಮೀ ಮತ್ತು ವಿಕರ್ಣ x ಇರುವ ಲಂಬಕೋನ ತ್ರಿಭುಜ."
@@ -381,7 +381,7 @@
     "type": "image_single",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='100,50 50,150 150,150' fill='none' stroke='#2563EB' stroke-width='2'/><path d='M65,110 L75,100' stroke='#2563EB' stroke-width='2'/><path d='M135,110 L125,100' stroke='#2563EB' stroke-width='2'/><text x='100' y='140' fill='#DC2626' font-family='Arial' font-size='14'>50°</text><text x='70' y='145' fill='#DC2626' font-family='Arial' font-size='14'>x</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='100,50 50,150 150,150' fill='none' stroke='#2563EB' stroke-width='2'/><path d='M65,110 L75,100' stroke='#2563EB' stroke-width='2'/><path d='M135,110 L125,100' stroke='#2563EB' stroke-width='2'/><text x='100' y='140' fill='#DC2626' font-family='Arial' font-size='14'>50°</text><text x='70' y='145' fill='#DC2626' font-family='Arial' font-size='14'>x</text></svg>",
       "alt": {
         "en": "An isosceles triangle with a top angle marked 50° and base angle marked x.",
         "kn": "ಮೇಲಿನ ಕೋನ 50° ಮತ್ತು ತಳದ ಕೋನ x ಇರುವ ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ."
@@ -635,7 +635,7 @@
     "type": "image_single",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='50,150 150,50 200,150' fill='none' stroke='#2563EB' stroke-width='2'/><line x1='50' y1='150' x2='250' y2='150' stroke='#2563EB' stroke-width='2'/><text x='140' y='80' fill='#DC2626' font-family='Arial' font-size='14'>y</text><text x='80' y='140' fill='#DC2626' font-family='Arial' font-size='14'>2y</text><text x='215' y='145' fill='#DC2626' font-family='Arial' font-size='14'>120°</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='50,150 150,50 200,150' fill='none' stroke='#2563EB' stroke-width='2'/><line x1='50' y1='150' x2='250' y2='150' stroke='#2563EB' stroke-width='2'/><text x='140' y='80' fill='#DC2626' font-family='Arial' font-size='14'>y</text><text x='80' y='140' fill='#DC2626' font-family='Arial' font-size='14'>2y</text><text x='215' y='145' fill='#DC2626' font-family='Arial' font-size='14'>120°</text></svg>",
       "alt": {
         "en": "Triangle with interior angles y and 2y, and an exterior angle 120°.",
         "kn": "ಒಳಕೋನಗಳು y ಮತ್ತು 2y, ಮತ್ತು ಹೊರಕೋನ 120° ಇರುವ ತ್ರಿಕೋನ."
@@ -670,7 +670,7 @@
     "type": "image_multiple",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='100,50 100,150 250,150' fill='none' stroke='#2563EB' stroke-width='2'/><path d='M100,140 L110,140 L110,150' fill='none' stroke='#EA580C' stroke-width='1.5'/><text x='75' y='100' fill='#DC2626' font-family='Arial' font-size='14'>a</text><text x='170' y='170' fill='#DC2626' font-family='Arial' font-size='14'>b</text><text x='180' y='90' fill='#DC2626' font-family='Arial' font-size='14'>c</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='100,50 100,150 250,150' fill='none' stroke='#2563EB' stroke-width='2'/><path d='M100,140 L110,140 L110,150' fill='none' stroke='#EA580C' stroke-width='1.5'/><text x='75' y='100' fill='#DC2626' font-family='Arial' font-size='14'>a</text><text x='170' y='170' fill='#DC2626' font-family='Arial' font-size='14'>b</text><text x='180' y='90' fill='#DC2626' font-family='Arial' font-size='14'>c</text></svg>",
       "alt": {
         "en": "A right angled triangle with sides a, b, and hypotenuse c.",
         "kn": "ಬಾಹುಗಳು a, b, ಮತ್ತು ವಿಕರ್ಣ c ಇರುವ ಲಂಬಕೋನ ತ್ರಿಭುಜ."

@@ -1,932 +1,932 @@
 [
-    {
-        "id": "c7_math_perim_001",
-        "type": "image_single",
-        "difficulty": 1,
-        "en": {
-            "question": "What is the area of this rectangle?",
-            "options": [
-                "14 cm²",
-                "7 cm²",
-                "24 cm²",
-                "12 cm²"
-            ],
-            "answer": "12 cm²",
-            "reasoning": "Area = length × width = 4 × 3 = 12."
-        },
-        "kn": {
-            "question": "ಈ ಆಯತದ ವಿಸ್ತೀರ್ಣ ಎಷ್ಟು?",
-            "options": [
-                "14 ಚ.ಸೆಂ.ಮೀ.",
-                "7 ಚ.ಸೆಂ.ಮೀ.",
-                "24 ಚ.ಸೆಂ.ಮೀ.",
-                "12 ಚ.ಸೆಂ.ಮೀ."
-            ],
-            "answer": "12 ಚ.ಸೆಂ.ಮೀ.",
-            "reasoning": "ವಿಸ್ತೀರ್ಣ = ಉದ್ದ × ಅಗಲ = 4 × 3 = 12."
-        },
-        "image": {
-            "type": "svg",
-            "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><rect x='50' y='40' width='200' height='120' fill='none' stroke='#2563EB' stroke-width='2'/><text x='150' y='30' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle'>4 cm</text><text x='270' y='100' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle'>3 cm</text></svg>",
-            "alt": {
-                "en": "Rectangle diagram",
-                "kn": "ಆಯತದ ಚಿತ್ರ"
-            }
-        }
+  {
+    "id": "c7_math_perim_001",
+    "type": "image_single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the area of this rectangle?",
+      "options": [
+        "14 cm²",
+        "7 cm²",
+        "24 cm²",
+        "12 cm²"
+      ],
+      "answer": "12 cm²",
+      "reasoning": "Area = length × width = 4 × 3 = 12."
     },
-    {
-        "id": "c7_math_perim_002",
-        "type": "image_single",
-        "difficulty": 1,
-        "en": {
-            "question": "What is the perimeter of this rectangle?",
-            "options": [
-                "24 cm",
-                "7 cm",
-                "14 cm",
-                "12 cm"
-            ],
-            "answer": "14 cm",
-            "reasoning": "Perimeter = 2(length + width) = 2(4 + 3) = 14."
-        },
-        "kn": {
-            "question": "ಈ ಆಯತದ ಸುತ್ತಳತೆ ಎಷ್ಟು?",
-            "options": [
-                "24 ಸೆಂ.ಮೀ.",
-                "7 ಸೆಂ.ಮೀ.",
-                "14 ಸೆಂ.ಮೀ.",
-                "12 ಸೆಂ.ಮೀ."
-            ],
-            "answer": "14 ಸೆಂ.ಮೀ.",
-            "reasoning": "ಸುತ್ತಳತೆ = 2(ಉದ್ದ + ಅಗಲ) = 2(4 + 3) = 14."
-        },
-        "image": {
-            "type": "svg",
-            "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><rect x='50' y='40' width='200' height='120' fill='none' stroke='#2563EB' stroke-width='2'/><text x='150' y='30' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle'>4 cm</text><text x='270' y='100' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle'>3 cm</text></svg>",
-            "alt": {
-                "en": "Rectangle diagram",
-                "kn": "ಆಯತದ ಚಿತ್ರ"
-            }
-        }
+    "kn": {
+      "question": "ಈ ಆಯತದ ವಿಸ್ತೀರ್ಣ ಎಷ್ಟು?",
+      "options": [
+        "14 ಚ.ಸೆಂ.ಮೀ.",
+        "7 ಚ.ಸೆಂ.ಮೀ.",
+        "24 ಚ.ಸೆಂ.ಮೀ.",
+        "12 ಚ.ಸೆಂ.ಮೀ."
+      ],
+      "answer": "12 ಚ.ಸೆಂ.ಮೀ.",
+      "reasoning": "ವಿಸ್ತೀರ್ಣ = ಉದ್ದ × ಅಗಲ = 4 × 3 = 12."
     },
-    {
-        "id": "c7_math_perim_003",
-        "type": "single",
-        "difficulty": 1,
-        "en": {
-            "question": "The area of a square is 25 cm². What is its side length?",
-            "options": [
-                "6.25 cm",
-                "10 cm",
-                "5 cm",
-                "12.5 cm"
-            ],
-            "answer": "5 cm",
-            "reasoning": "Area = side × side. 5 × 5 = 25."
-        },
-        "kn": {
-            "question": "ಒಂದು ಚೌಕದ ವಿಸ್ತೀರ್ಣ 25 ಚ.ಸೆಂ.ಮೀ. ಅದರ ಬಾಹುವಿನ ಉದ್ದವೆಷ್ಟು?",
-            "options": [
-                "6.25 ಸೆಂ.ಮೀ.",
-                "10 ಸೆಂ.ಮೀ.",
-                "5 ಸೆಂ.ಮೀ.",
-                "12.5 ಸೆಂ.ಮೀ."
-            ],
-            "answer": "5 ಸೆಂ.ಮೀ.",
-            "reasoning": "ವಿಸ್ತೀರ್ಣ = ಬಾಹು × ಬಾಹು. 5 × 5 = 25."
-        }
-    },
-    {
-        "id": "c7_math_perim_004",
-        "type": "single",
-        "difficulty": 1,
-        "en": {
-            "question": "What is the formula for the perimeter of a rectangle?",
-            "options": [
-                "l × b",
-                "4 × l",
-                "2(l + b)",
-                "l + b"
-            ],
-            "answer": "2(l + b)",
-            "reasoning": "Perimeter of rectangle = 2(length + breadth)."
-        },
-        "kn": {
-            "question": "ಆಯತದ ಸುತ್ತಳತೆಯ ಸೂತ್ರವೇನು?",
-            "options": [
-                "l × b",
-                "4 × l",
-                "2(l + b)",
-                "l + b"
-            ],
-            "answer": "2(l + b)",
-            "reasoning": "ಆಯತದ ಸುತ್ತಳತೆ = 2(ಉದ್ದ + ಅಗಲ)."
-        }
-    },
-    {
-        "id": "c7_math_perim_005",
-        "type": "single",
-        "difficulty": 1,
-        "en": {
-            "question": "The distance around a circular region is known as its:",
-            "options": [
-                "Radius",
-                "Area",
-                "Diameter",
-                "Circumference"
-            ],
-            "answer": "Circumference",
-            "reasoning": "The boundary of a circle is its circumference."
-        },
-        "kn": {
-            "question": "ವೃತ್ತಾಕಾರದ ಪ್ರದೇಶದ ಸುತ್ತಲಿನ ಅಂತರವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
-            "options": [
-                "ತ್ರಿಜ್ಯ",
-                "ವಿಸ್ತೀರ್ಣ",
-                "ವ್ಯಾಸ",
-                "ಪರಿಧಿ (Circumference)"
-            ],
-            "answer": "ಪರಿಧಿ (Circumference)",
-            "reasoning": "ವೃತ್ತದ ಗಡಿಯನ್ನು ಅದರ ಪರಿಧಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
-        }
-    },
-    {
-        "id": "c7_math_perim_006",
-        "type": "single",
-        "difficulty": 1,
-        "en": {
-            "question": "If the diameter of a circle is 10 cm, what is its radius?",
-            "options": [
-                "5 cm",
-                "31.4 cm",
-                "20 cm",
-                "10 cm"
-            ],
-            "answer": "5 cm",
-            "reasoning": "Radius = Diameter / 2."
-        },
-        "kn": {
-            "question": "ವೃತ್ತದ ವ್ಯಾಸ 10 ಸೆಂ.ಮೀ ಆಗಿದ್ದರೆ, ಅದರ ತ್ರಿಜ್ಯ ಎಷ್ಟು?",
-            "options": [
-                "5 ಸೆಂ.ಮೀ.",
-                "31.4 ಸೆಂ.ಮೀ.",
-                "20 ಸೆಂ.ಮೀ.",
-                "10 ಸೆಂ.ಮೀ."
-            ],
-            "answer": "5 ಸೆಂ.ಮೀ.",
-            "reasoning": "ತ್ರಿಜ್ಯ = ವ್ಯಾಸ / 2."
-        }
-    },
-    {
-        "id": "c7_math_perim_007",
-        "type": "single",
-        "difficulty": 1,
-        "en": {
-            "question": "What is the area of a triangle with base 10 cm and height 5 cm?",
-            "options": [
-                "50 cm²",
-                "25 cm²",
-                "15 cm²",
-                "30 cm²"
-            ],
-            "answer": "25 cm²",
-            "reasoning": "Area = 1/2 × base × height = 1/2 × 10 × 5 = 25."
-        },
-        "kn": {
-            "question": "10 ಸೆಂ.ಮೀ ಪಾದ ಮತ್ತು 5 ಸೆಂ.ಮೀ ಎತ್ತರವುಳ್ಳ ತ್ರಿಕೋನದ ವಿಸ್ತೀರ್ಣ ಎಷ್ಟು?",
-            "options": [
-                "50 ಚ.ಸೆಂ.ಮೀ.",
-                "25 ಚ.ಸೆಂ.ಮೀ.",
-                "15 ಚ.ಸೆಂ.ಮೀ.",
-                "30 ಚ.ಸೆಂ.ಮೀ."
-            ],
-            "answer": "25 ಚ.ಸೆಂ.ಮೀ.",
-            "reasoning": "ವಿಸ್ತೀರ್ಣ = 1/2 × ಪಾದ × ಎತ್ತರ = 1/2 × 10 × 5 = 25."
-        }
-    },
-    {
-        "id": "c7_math_perim_008",
-        "type": "single",
-        "difficulty": 1,
-        "en": {
-            "question": "Find the perimeter of a square with side 8 m.",
-            "options": [
-                "16 m",
-                "64 m",
-                "24 m",
-                "32 m"
-            ],
-            "answer": "32 m",
-            "reasoning": "Perimeter = 4 × side = 4 × 8 = 32."
-        },
-        "kn": {
-            "question": "8 ಮೀ. ಬಾಹುವಿರುವ ಚೌಕದ ಸುತ್ತಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
-            "options": [
-                "16 ಮೀ.",
-                "64 ಮೀ.",
-                "24 ಮೀ.",
-                "32 ಮೀ."
-            ],
-            "answer": "32 ಮೀ.",
-            "reasoning": "ಸುತ್ತಳತೆ = 4 × ಬಾಹು = 4 × 8 = 32."
-        }
-    },
-    {
-        "id": "c7_math_perim_009",
-        "type": "single",
-        "difficulty": 1,
-        "en": {
-            "question": "Which unit is used to measure area?",
-            "options": [
-                "Meters (m)",
-                "Liters (L)",
-                "Square meters (m²)",
-                "Cubic meters (m³)"
-            ],
-            "answer": "Square meters (m²)",
-            "reasoning": "Area is measured in square units."
-        },
-        "kn": {
-            "question": "ವಿಸ್ತೀರ್ಣವನ್ನು ಅಳೆಯಲು ಯಾವ ಮಾನವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
-            "options": [
-                "ಮೀಟರ್ (m)",
-                "ಲೀಟರ್ (L)",
-                "ಚದರ ಮೀಟರ್ (m²)",
-                "ಘನ ಮೀಟರ್ (m³)"
-            ],
-            "answer": "ಚದರ ಮೀಟರ್ (m²)",
-            "reasoning": "ವಿಸ್ತೀರ್ಣವನ್ನು ಚದರ ಮಾನಗಳಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ."
-        }
-    },
-    {
-        "id": "c7_math_perim_010",
-        "type": "single",
-        "difficulty": 1,
-        "en": {
-            "question": "Value of π (pi) is approximately:",
-            "options": [
-                "3.41",
-                "2.14",
-                "22/7 or 3.14",
-                "7/22 or 0.314"
-            ],
-            "answer": "22/7 or 3.14",
-            "reasoning": "Pi is approximately 22/7 or 3.14."
-        },
-        "kn": {
-            "question": "π (ಪೈ) ನ ಅಂದಾಜು ಬೆಲೆ:",
-            "options": [
-                "3.41",
-                "2.14",
-                "22/7 ಅಥವಾ 3.14",
-                "7/22 ಅಥವಾ 0.314"
-            ],
-            "answer": "22/7 ಅಥವಾ 3.14",
-            "reasoning": "ಪೈ ಬೆಲೆ ಸುಮಾರು 22/7 ಅಥವಾ 3.14 ಆಗಿದೆ."
-        }
-    },
-    {
-        "id": "c7_math_perim_011",
-        "type": "image_single",
-        "difficulty": 2,
-        "en": {
-            "question": "If the radius of this circle is 7 cm, what is its circumference? (Use π = 22/7)",
-            "options": [
-                "22 cm",
-                "14 cm",
-                "44 cm",
-                "154 cm"
-            ],
-            "answer": "44 cm",
-            "reasoning": "C = 2πr = 2 * (22/7) * 7 = 44."
-        },
-        "kn": {
-            "question": "ಈ ವೃತ್ತದ ತ್ರಿಜ್ಯ 7 ಸೆಂ.ಮೀ. ಆಗಿದ್ದರೆ, ಅದರ ಸುತ್ತಳತೆ ಎಷ್ಟು? (π = 22/7 ಬಳಸಿ)",
-            "options": [
-                "22 ಸೆಂ.ಮೀ.",
-                "14 ಸೆಂ.ಮೀ.",
-                "44 ಸೆಂ.ಮೀ.",
-                "154 ಸೆಂ.ಮೀ."
-            ],
-            "answer": "44 ಸೆಂ.ಮೀ.",
-            "reasoning": "C = 2πr = 2 * (22/7) * 7 = 44."
-        },
-        "image": {
-            "type": "svg",
-            "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 300'><circle cx='150' cy='150' r='100' fill='none' stroke='#2563EB' stroke-width='2'/><circle cx='150' cy='150' r='3' fill='#1F2937'/><line x1='150' y1='150' x2='250' y2='150' stroke='#DC2626' stroke-width='1.5'/><text x='200' y='140' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle'>7 cm</text></svg>",
-            "alt": {
-                "en": "Circle diagram",
-                "kn": "ವೃತ್ತದ ಚಿತ್ರ"
-            }
-        }
-    },
-    {
-        "id": "c7_math_perim_012",
-        "type": "image_single",
-        "difficulty": 2,
-        "en": {
-            "question": "What is the area of this circle if its radius is 7 cm? (Use π = 22/7)",
-            "options": [
-                "154 cm²",
-                "44 cm²",
-                "49 cm²",
-                "22 cm²"
-            ],
-            "answer": "154 cm²",
-            "reasoning": "Area = πr² = (22/7) * 7 * 7 = 154."
-        },
-        "kn": {
-            "question": "ಈ ವೃತ್ತದ ತ್ರಿಜ್ಯ 7 ಸೆಂ.ಮೀ. ಆಗಿದ್ದರೆ, ಅದರ ವಿಸ್ತೀರ್ಣ ಎಷ್ಟು? (π = 22/7 ಬಳಸಿ)",
-            "options": [
-                "154 ಚ.ಸೆಂ.ಮೀ.",
-                "44 ಚ.ಸೆಂ.ಮೀ.",
-                "49 ಚ.ಸೆಂ.ಮೀ.",
-                "22 ಚ.ಸೆಂ.ಮೀ."
-            ],
-            "answer": "154 ಚ.ಸೆಂ.ಮೀ.",
-            "reasoning": "ವಿಸ್ತೀರ್ಣ = πr² = (22/7) * 7 * 7 = 154."
-        },
-        "image": {
-            "type": "svg",
-            "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 300'><circle cx='150' cy='150' r='100' fill='none' stroke='#2563EB' stroke-width='2'/><circle cx='150' cy='150' r='3' fill='#1F2937'/><line x1='150' y1='150' x2='250' y2='150' stroke='#DC2626' stroke-width='1.5'/><text x='200' y='140' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle'>7 cm</text></svg>",
-            "alt": {
-                "en": "Circle diagram",
-                "kn": "ವೃತ್ತದ ಚಿತ್ರ"
-            }
-        }
-    },
-    {
-        "id": "c7_math_perim_013",
-        "type": "single",
-        "difficulty": 2,
-        "en": {
-            "question": "A rectangular garden is 30m long and 20m wide. What is the length of wire needed to fence it?",
-            "options": [
-                "50 m",
-                "100 m",
-                "120 m",
-                "600 m"
-            ],
-            "answer": "100 m",
-            "reasoning": "Perimeter = 2(30 + 20) = 100."
-        },
-        "kn": {
-            "question": "ಒಂದು ಆಯತಾಕಾರದ ಉದ್ಯಾನವನ 30 ಮೀ ಉದ್ದ ಮತ್ತು 20 ಮೀ ಅಗಲವಿದೆ. ಅದಕ್ಕೆ ಬೇಲಿ ಹಾಕಲು ಬೇಕಾಗುವ ತಂತಿಯ ಉದ್ದ ಎಷ್ಟು?",
-            "options": [
-                "50 ಮೀ.",
-                "100 ಮೀ.",
-                "120 ಮೀ.",
-                "600 ಮೀ."
-            ],
-            "answer": "100 ಮೀ.",
-            "reasoning": "ಸುತ್ತಳತೆ = 2(30 + 20) = 100."
-        }
-    },
-    {
-        "id": "c7_math_perim_014",
-        "type": "single",
-        "difficulty": 2,
-        "en": {
-            "question": "If the circumference of a circle is 31.4 cm, find its radius. (Use π = 3.14)",
-            "options": [
-                "15.7 cm",
-                "5 cm",
-                "10 cm",
-                "3.14 cm"
-            ],
-            "answer": "5 cm",
-            "reasoning": "2 * 3.14 * r = 31.4 => 6.28r = 31.4 => r = 5."
-        },
-        "kn": {
-            "question": "ವೃತ್ತದ ಪರಿಧಿ 31.4 ಸೆಂ.ಮೀ ಆಗಿದ್ದರೆ, ಅದರ ತ್ರಿಜ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. (π = 3.14 ಬಳಸಿ)",
-            "options": [
-                "15.7 ಸೆಂ.ಮೀ.",
-                "5 ಸೆಂ.ಮೀ.",
-                "10 ಸೆಂ.ಮೀ.",
-                "3.14 ಸೆಂ.ಮೀ."
-            ],
-            "answer": "5 ಸೆಂ.ಮೀ.",
-            "reasoning": "2 * 3.14 * r = 31.4 => 6.28r = 31.4 => r = 5."
-        }
-    },
-    {
-        "id": "c7_math_perim_015",
-        "type": "single",
-        "difficulty": 2,
-        "en": {
-            "question": "Find the area of a parallelogram with base 8 cm and height 4 cm.",
-            "options": [
-                "24 cm²",
-                "12 cm²",
-                "16 cm²",
-                "32 cm²"
-            ],
-            "answer": "32 cm²",
-            "reasoning": "Area of parallelogram = base × height = 8 × 4 = 32."
-        },
-        "kn": {
-            "question": "8 ಸೆಂ.ಮೀ ಪಾದ ಮತ್ತು 4 ಸೆಂ.ಮೀ ಎತ್ತರವಿರುವ ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
-            "options": [
-                "24 ಚ.ಸೆಂ.ಮೀ.",
-                "12 ಚ.ಸೆಂ.ಮೀ.",
-                "16 ಚ.ಸೆಂ.ಮೀ.",
-                "32 ಚ.ಸೆಂ.ಮೀ."
-            ],
-            "answer": "32 ಚ.ಸೆಂ.ಮೀ.",
-            "reasoning": "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣ = ಪಾದ × ಎತ್ತರ = 8 × 4 = 32."
-        }
-    },
-    {
-        "id": "c7_math_perim_016",
-        "type": "single",
-        "difficulty": 2,
-        "en": {
-            "question": "The area of a rectangular sheet is 500 cm². If the length is 25 cm, what is its width?",
-            "options": [
-                "25 cm",
-                "50 cm",
-                "10 cm",
-                "20 cm"
-            ],
-            "answer": "20 cm",
-            "reasoning": "Width = Area / Length = 500 / 25 = 20."
-        },
-        "kn": {
-            "question": "ಒಂದು ಆಯತಾಕಾರದ ಹಾಳೆಯ ವಿಸ್ತೀರ್ಣ 500 ಚ.ಸೆಂ.ಮೀ. ಉದ್ದ 25 ಸೆಂ.ಮೀ ಆಗಿದ್ದರೆ, ಅದರ ಅಗಲ ಎಷ್ಟು?",
-            "options": [
-                "25 ಸೆಂ.ಮೀ.",
-                "50 ಸೆಂ.ಮೀ.",
-                "10 ಸೆಂ.ಮೀ.",
-                "20 ಸೆಂ.ಮೀ."
-            ],
-            "answer": "20 ಸೆಂ.ಮೀ.",
-            "reasoning": "ಅಗಲ = ವಿಸ್ತೀರ್ಣ / ಉದ್ದ = 500 / 25 = 20."
-        }
-    },
-    {
-        "id": "c7_math_perim_017",
-        "type": "single",
-        "difficulty": 2,
-        "en": {
-            "question": "What is the circumference of a circle of diameter 14 cm? (π = 22/7)",
-            "options": [
-                "22 cm",
-                "88 cm",
-                "154 cm",
-                "44 cm"
-            ],
-            "answer": "44 cm",
-            "reasoning": "C = π × d = (22/7) × 14 = 44."
-        },
-        "kn": {
-            "question": "14 ಸೆಂ.ಮೀ ವ್ಯಾಸವಿರುವ ವೃತ್ತದ ಪರಿಧಿ ಎಷ್ಟು? (π = 22/7)",
-            "options": [
-                "22 ಸೆಂ.ಮೀ.",
-                "88 ಸೆಂ.ಮೀ.",
-                "154 ಸೆಂ.ಮೀ.",
-                "44 ಸೆಂ.ಮೀ."
-            ],
-            "answer": "44 ಸೆಂ.ಮೀ.",
-            "reasoning": "C = π × d = (22/7) × 14 = 44."
-        }
-    },
-    {
-        "id": "c7_math_perim_018",
-        "type": "single",
-        "difficulty": 2,
-        "en": {
-            "question": "1 hectare is equal to how many square meters?",
-            "options": [
-                "10,000 m²",
-                "100 m²",
-                "1,000 m²",
-                "100,000 m²"
-            ],
-            "answer": "10,000 m²",
-            "reasoning": "1 hectare = 100m × 100m = 10,000 m²."
-        },
-        "kn": {
-            "question": "1 ಹೆಕ್ಟೇರ್ ಎಷ್ಟು ಚದರ ಮೀಟರ್‌ಗಳಿಗೆ ಸಮ?",
-            "options": [
-                "10,000 ಚ.ಮೀ.",
-                "100 ಚ.ಮೀ.",
-                "1,000 ಚ.ಮೀ.",
-                "100,000 ಚ.ಮೀ."
-            ],
-            "answer": "10,000 ಚ.ಮೀ.",
-            "reasoning": "1 ಹೆಕ್ಟೇರ್ = 100ಮೀ × 100ಮೀ = 10,000 ಚ.ಮೀ."
-        }
-    },
-    {
-        "id": "c7_math_perim_019",
-        "type": "multiple",
-        "difficulty": 2,
-        "en": {
-            "question": "Which formulas are correct for area?",
-            "options": [
-                "Parallelogram: 1/2 × b × h",
-                "Triangle: 1/2 × b × h",
-                "Circle: 2πr",
-                "Rectangle: l × b",
-                "Square: side × side"
-            ],
-            "answer": [
-                "Rectangle: l × b",
-                "Triangle: 1/2 × b × h",
-                "Square: side × side"
-            ],
-            "reasoning": "Circle area is πr², parallelogram is b×h."
-        },
-        "kn": {
-            "question": "ವಿಸ್ತೀರ್ಣಕ್ಕೆ ಯಾವ ಸೂತ್ರಗಳು ಸರಿಯಾಗಿವೆ?",
-            "options": [
-                "ಸಮಾಂತರ ಚತುರ್ಭುಜ: 1/2 × b × h",
-                "ತ್ರಿಕೋನ: 1/2 × b × h",
-                "ವೃತ್ತ: 2πr",
-                "ಆಯತ: l × b",
-                "ಚೌಕ: ಬಾಹು × ಬಾಹು"
-            ],
-            "answer": [
-                "ಆಯತ: l × b",
-                "ತ್ರಿಕೋನ: 1/2 × b × h",
-                "ಚೌಕ: ಬಾಹು × ಬಾಹು"
-            ],
-            "reasoning": "ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ πr², ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣ b×h."
-        }
-    },
-    {
-        "id": "c7_math_perim_020",
-        "type": "multiple",
-        "difficulty": 2,
-        "en": {
-            "question": "Which formulas are correct for perimeter or circumference?",
-            "options": [
-                "Circle: πr²",
-                "Square: 4 × side",
-                "Circle: 2πr",
-                "Rectangle: 2(l+b)",
-                "Triangle: l×b×h"
-            ],
-            "answer": [
-                "Circle: 2πr",
-                "Rectangle: 2(l+b)",
-                "Square: 4 × side"
-            ],
-            "reasoning": "Perimeter measures boundary lengths."
-        },
-        "kn": {
-            "question": "ಸುತ್ತಳತೆ ಅಥವಾ ಪರಿಧಿಗೆ ಯಾವ ಸೂತ್ರಗಳು ಸರಿಯಾಗಿವೆ?",
-            "options": [
-                "ವೃತ್ತ: πr²",
-                "ಚೌಕ: 4 × ಬಾಹು",
-                "ವೃತ್ತ: 2πr",
-                "ಆಯತ: 2(l+b)",
-                "ತ್ರಿಕೋನ: l×b×h"
-            ],
-            "answer": [
-                "ವೃತ್ತ: 2πr",
-                "ಆಯತ: 2(l+b)",
-                "ಚೌಕ: 4 × ಬಾಹು"
-            ],
-            "reasoning": "ಸುತ್ತಳತೆಯು ಗಡಿಯ ಉದ್ದವನ್ನು ಅಳೆಯುತ್ತದೆ."
-        }
-    },
-    {
-        "id": "c7_math_perim_021",
-        "type": "image_multiple",
-        "difficulty": 3,
-        "en": {
-            "question": "If a triangle has a base of 6 cm and height of 4 cm, which of these are true?",
-            "options": [
-                "Perimeter is 10 cm",
-                "Area is 12 cm²",
-                "Area is 24 cm²",
-                "Area is (1/2)×6×4 cm²"
-            ],
-            "answer": [
-                "Area is 12 cm²",
-                "Area is (1/2)×6×4 cm²"
-            ],
-            "reasoning": "Area of triangle = 1/2 × base × height."
-        },
-        "kn": {
-            "question": "ಒಂದು ತ್ರಿಕೋನದ ಪಾದ 6 ಸೆಂ.ಮೀ. ಮತ್ತು ಎತ್ತರ 4 ಸೆಂ.ಮೀ. ಆಗಿದ್ದರೆ, ಇವುಗಳಲ್ಲಿ ಯಾವುದು ಸರಿ?",
-            "options": [
-                "ಸುತ್ತಳತೆ 10 ಸೆಂ.ಮೀ.",
-                "ವಿಸ್ತೀರ್ಣ 12 ಚ.ಸೆಂ.ಮೀ.",
-                "ವಿಸ್ತೀರ್ಣ 24 ಚ.ಸೆಂ.ಮೀ.",
-                "ವಿಸ್ತೀರ್ಣ (1/2)×6×4 ಚ.ಸೆಂ.ಮೀ."
-            ],
-            "answer": [
-                "ವಿಸ್ತೀರ್ಣ 12 ಚ.ಸೆಂ.ಮೀ.",
-                "ವಿಸ್ತೀರ್ಣ (1/2)×6×4 ಚ.ಸೆಂ.ಮೀ."
-            ],
-            "reasoning": "ತ್ರಿಕೋನದ ವಿಸ್ತೀರ್ಣ = 1/2 × ಪಾದ × ಎತ್ತರ."
-        },
-        "image": {
-            "type": "svg",
-            "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='150,30 50,150 250,150' fill='none' stroke='#2563EB' stroke-width='2'/><text x='90' y='80' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle' transform='rotate(-50, 90, 80)'>Height=4</text><text x='210' y='80' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle' transform='rotate(50, 210, 80)'></text><text x='150' y='170' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle'>6 cm (Base)</text></svg>",
-            "alt": {
-                "en": "Triangle diagram",
-                "kn": "ತ್ರಿಕೋನದ ಚಿತ್ರ"
-            }
-        }
-    },
-    {
-        "id": "c7_math_perim_022",
-        "type": "single",
-        "difficulty": 3,
-        "en": {
-            "question": "A square park has an area of 400 m². A path of width 2m is built inside its boundary. What is the side length of the inner square?",
-            "options": [
-                "20 m",
-                "16 m",
-                "14 m",
-                "18 m"
-            ],
-            "answer": "16 m",
-            "reasoning": "Outer side = 20m. Inner side = 20 - 2(2) = 16m."
-        },
-        "kn": {
-            "question": "ಒಂದು ಚೌಕಾಕಾರದ ಉದ್ಯಾನವನದ ವಿಸ್ತೀರ್ಣ 400 ಚ.ಮೀ. ಅದರ ಗಡಿಯೊಳಗೆ 2 ಮೀ. ಅಗಲದ ಹಾದಿಯನ್ನು ನಿರ್ಮಿಸಲಾಗಿದೆ. ಒಳಗಿನ ಚೌಕದ ಬಾಹುವಿನ ಉದ್ದವೆಷ್ಟು?",
-            "options": [
-                "20 ಮೀ.",
-                "16 ಮೀ.",
-                "14 ಮೀ.",
-                "18 ಮೀ."
-            ],
-            "answer": "16 ಮೀ.",
-            "reasoning": "ಹೊರಗಿನ ಬಾಹು = 20ಮೀ. ಒಳಗಿನ ಬಾಹು = 20 - 2(2) = 16ಮೀ."
-        }
-    },
-    {
-        "id": "c7_math_perim_023",
-        "type": "single",
-        "difficulty": 3,
-        "en": {
-            "question": "The radius of a circular pipe is 10 cm. What length of tape is required to wrap once around the pipe? (π = 3.14)",
-            "options": [
-                "314 cm",
-                "62.8 cm",
-                "6.28 cm",
-                "31.4 cm"
-            ],
-            "answer": "62.8 cm",
-            "reasoning": "Length = Circumference = 2 × 3.14 × 10 = 62.8."
-        },
-        "kn": {
-            "question": "ವೃತ್ತಾಕಾರದ ಪೈಪ್‌ನ ತ್ರಿಜ್ಯ 10 ಸೆಂ.ಮೀ. ಪೈಪ್‌ನ ಸುತ್ತಲೂ ಒಮ್ಮೆ ಸುತ್ತಲು ಎಷ್ಟು ಉದ್ದದ ಟೇಪ್ ಬೇಕಾಗುತ್ತದೆ? (π = 3.14)",
-            "options": [
-                "314 ಸೆಂ.ಮೀ.",
-                "62.8 ಸೆಂ.ಮೀ.",
-                "6.28 ಸೆಂ.ಮೀ.",
-                "31.4 ಸೆಂ.ಮೀ."
-            ],
-            "answer": "62.8 ಸೆಂ.ಮೀ.",
-            "reasoning": "ಉದ್ದ = ಪರಿಧಿ = 2 × 3.14 × 10 = 62.8."
-        }
-    },
-    {
-        "id": "c7_math_perim_024",
-        "type": "single",
-        "difficulty": 3,
-        "en": {
-            "question": "A wire is in the shape of a square of side 10 cm. If the wire is rebent into a rectangle of length 12 cm, find its breadth.",
-            "options": [
-                "8 cm",
-                "10 cm",
-                "6 cm",
-                "12 cm"
-            ],
-            "answer": "8 cm",
-            "reasoning": "Perimeter is same: 40 = 2(12 + b) => 20 = 12 + b => b = 8."
-        },
-        "kn": {
-            "question": "ಒಂದು ತಂತಿಯು 10 ಸೆಂ.ಮೀ. ಬಾಹುವಿನ ಚೌಕದ ಆಕಾರದಲ್ಲಿದೆ. ಆ ತಂತಿಯನ್ನು 12 ಸೆಂ.ಮೀ. ಉದ್ದದ ಆಯತವಾಗಿ ಬಾಗಿಸಿದರೆ, ಅದರ ಅಗಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
-            "options": [
-                "8 ಸೆಂ.ಮೀ.",
-                "10 ಸೆಂ.ಮೀ.",
-                "6 ಸೆಂ.ಮೀ.",
-                "12 ಸೆಂ.ಮೀ."
-            ],
-            "answer": "8 ಸೆಂ.ಮೀ.",
-            "reasoning": "ಸುತ್ತಳತೆ ಒಂದೇ: 40 = 2(12 + b) => 20 = 12 + b => b = 8."
-        }
-    },
-    {
-        "id": "c7_math_perim_025",
-        "type": "single",
-        "difficulty": 3,
-        "en": {
-            "question": "Find the area of a circle whose circumference is 31.4 cm (use π = 3.14).",
-            "options": [
-                "78.5 cm²",
-                "15.7 cm²",
-                "31.4 cm²",
-                "100 cm²"
-            ],
-            "answer": "78.5 cm²",
-            "reasoning": "r = 31.4 / (2*3.14) = 5. Area = 3.14 * 5 * 5 = 78.5."
-        },
-        "kn": {
-            "question": "ವೃತ್ತದ ಪರಿಧಿ 31.4 ಸೆಂ.ಮೀ ಆಗಿದ್ದರೆ, ಅದರ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ (π = 3.14 ಬಳಸಿ).",
-            "options": [
-                "78.5 ಚ.ಸೆಂ.ಮೀ.",
-                "15.7 ಚ.ಸೆಂ.ಮೀ.",
-                "31.4 ಚ.ಸೆಂ.ಮೀ.",
-                "100 ಚ.ಸೆಂ.ಮೀ."
-            ],
-            "answer": "78.5 ಚ.ಸೆಂ.ಮೀ.",
-            "reasoning": "r = 31.4 / (2*3.14) = 5. ವಿಸ್ತೀರ್ಣ = 3.14 * 5 * 5 = 78.5."
-        }
-    },
-    {
-        "id": "c7_math_perim_026",
-        "type": "single",
-        "difficulty": 3,
-        "en": {
-            "question": "A rectangular park is 45m long and 30m wide. A path 2.5m wide is constructed outside the park. Find the area of the path.",
-            "options": [
-                "425 m²",
-                "450 m²",
-                "400 m²",
-                "375 m²"
-            ],
-            "answer": "400 m²",
-            "reasoning": "Outer = (45+5)×(30+5) = 50×35=1750. Inner = 45×30=1350. Path = 1750-1350 = 400."
-        },
-        "kn": {
-            "question": "ಒಂದು ಆಯತಾಕಾರದ ಉದ್ಯಾನವನ 45ಮೀ ಉದ್ದ ಮತ್ತು 30ಮೀ ಅಗಲವಿದೆ. ಉದ್ಯಾನವನದ ಹೊರಗೆ 2.5ಮೀ ಅಗಲದ ಹಾದಿಯನ್ನು ನಿರ್ಮಿಸಲಾಗಿದೆ. ಹಾದಿಯ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
-            "options": [
-                "425 ಚ.ಮೀ.",
-                "450 ಚ.ಮೀ.",
-                "400 ಚ.ಮೀ.",
-                "375 ಚ.ಮೀ."
-            ],
-            "answer": "400 ಚ.ಮೀ.",
-            "reasoning": "ಹೊರಗಿನದು = 50×35=1750. ಒಳಗಿನದು = 45×30=1350. ಹಾದಿ = 1750-1350 = 400."
-        }
-    },
-    {
-        "id": "c7_math_perim_027",
-        "type": "single",
-        "difficulty": 3,
-        "en": {
-            "question": "If the radius of a circle is doubled, what happens to its area?",
-            "options": [
-                "It becomes 8 times",
-                "It halves",
-                "It becomes 4 times",
-                "It doubles"
-            ],
-            "answer": "It becomes 4 times",
-            "reasoning": "Area = π(2r)² = 4πr², which is 4 times."
-        },
-        "kn": {
-            "question": "ಒಂದು ವೃತ್ತದ ತ್ರಿಜ್ಯವನ್ನು ದ್ವಿಗುಣಗೊಳಿಸಿದರೆ, ಅದರ ವಿಸ್ತೀರ್ಣ ಏನಾಗುತ್ತದೆ?",
-            "options": [
-                "ಅದು 8 ಪಟ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ",
-                "ಅದು ಅರ್ಧವಾಗುತ್ತದೆ",
-                "ಅದು 4 ಪಟ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ",
-                "ಅದು ದ್ವಿಗುಣಗೊಳ್ಳುತ್ತದೆ"
-            ],
-            "answer": "ಅದು 4 ಪಟ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ",
-            "reasoning": "ವಿಸ್ತೀರ್ಣ = π(2r)² = 4πr², ಇದು 4 ಪಟ್ಟು ಹೆಚ್ಚು."
-        }
-    },
-    {
-        "id": "c7_math_perim_028",
-        "type": "multiple",
-        "difficulty": 3,
-        "en": {
-            "question": "If a rectangle has perimeter 20 cm, which of these could be its dimensions (l, b)?",
-            "options": [
-                "l=5, b=4",
-                "l=8, b=2",
-                "l=6, b=4",
-                "l=10, b=10",
-                "l=7, b=3"
-            ],
-            "answer": [
-                "l=6, b=4",
-                "l=7, b=3",
-                "l=8, b=2"
-            ],
-            "reasoning": "2(l+b) = 20 => l+b = 10."
-        },
-        "kn": {
-            "question": "ಒಂದು ಆಯತದ ಸುತ್ತಳತೆ 20 ಸೆಂ.ಮೀ ಆಗಿದ್ದರೆ, ಅದರ ಉದ್ದ ಮತ್ತು ಅಗಲಗಳು (l, b) ಇವುಗಳಲ್ಲಿ ಯಾವುದಾಗಿರಬಹುದು?",
-            "options": [
-                "l=5, b=4",
-                "l=8, b=2",
-                "l=6, b=4",
-                "l=10, b=10",
-                "l=7, b=3"
-            ],
-            "answer": [
-                "l=6, b=4",
-                "l=7, b=3",
-                "l=8, b=2"
-            ],
-            "reasoning": "2(l+b) = 20 => l+b = 10."
-        }
-    },
-    {
-        "id": "c7_math_perim_029",
-        "type": "match",
-        "difficulty": 3,
-        "en": {
-            "question": "Match the side of a square to its area.",
-            "pairs": [
-                {
-                    "left": "5 cm",
-                    "right": "25 cm²"
-                },
-                {
-                    "left": "12 cm",
-                    "right": "144 cm²"
-                },
-                {
-                    "left": "15 cm",
-                    "right": "225 cm²"
-                },
-                {
-                    "left": "20 cm",
-                    "right": "400 cm²"
-                }
-            ],
-            "reasoning": "Area = side × side"
-        },
-        "kn": {
-            "question": "ಚೌಕದ ಬಾಹುವನ್ನು ಅದರ ವಿಸ್ತೀರ್ಣದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
-            "pairs": [
-                {
-                    "left": "5 ಸೆಂ.ಮೀ.",
-                    "right": "25 ಚ.ಸೆಂ.ಮೀ."
-                },
-                {
-                    "left": "12 ಸೆಂ.ಮೀ.",
-                    "right": "144 ಚ.ಸೆಂ.ಮೀ."
-                },
-                {
-                    "left": "15 ಸೆಂ.ಮೀ.",
-                    "right": "225 ಚ.ಸೆಂ.ಮೀ."
-                },
-                {
-                    "left": "20 ಸೆಂ.ಮೀ.",
-                    "right": "400 ಚ.ಸೆಂ.ಮೀ."
-                }
-            ],
-            "reasoning": "ವಿಸ್ತೀರ್ಣ = ಬಾಹು × ಬಾಹು"
-        }
-    },
-    {
-        "id": "c7_math_perim_030",
-        "type": "match",
-        "difficulty": 3,
-        "en": {
-            "question": "Match the dimension with the resulting area for a rectangle.",
-            "pairs": [
-                {
-                    "left": "l=10, b=5",
-                    "right": "50"
-                },
-                {
-                    "left": "l=8, b=6",
-                    "right": "48"
-                },
-                {
-                    "left": "l=12, b=4",
-                    "right": "48 "
-                },
-                {
-                    "left": "l=15, b=2",
-                    "right": "30"
-                }
-            ],
-            "reasoning": "Area = length × breadth"
-        },
-        "kn": {
-            "question": "ಆಯತದ ಅಳತೆಯನ್ನು ಅದರ ವಿಸ್ತೀರ್ಣದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
-            "pairs": [
-                {
-                    "left": "l=10, b=5",
-                    "right": "50"
-                },
-                {
-                    "left": "l=8, b=6",
-                    "right": "48"
-                },
-                {
-                    "left": "l=12, b=4",
-                    "right": "48 "
-                },
-                {
-                    "left": "l=15, b=2",
-                    "right": "30"
-                }
-            ],
-            "reasoning": "ವಿಸ್ತೀರ್ಣ = ಉದ್ದ × ಅಗಲ"
-        }
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><rect x='50' y='40' width='200' height='120' fill='none' stroke='#2563EB' stroke-width='2'/><text x='150' y='30' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle'>4 cm</text><text x='270' y='100' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle'>3 cm</text></svg>",
+      "alt": {
+        "en": "Rectangle diagram",
+        "kn": "ಆಯತದ ಚಿತ್ರ"
+      }
     }
+  },
+  {
+    "id": "c7_math_perim_002",
+    "type": "image_single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the perimeter of this rectangle?",
+      "options": [
+        "24 cm",
+        "7 cm",
+        "14 cm",
+        "12 cm"
+      ],
+      "answer": "14 cm",
+      "reasoning": "Perimeter = 2(length + width) = 2(4 + 3) = 14."
+    },
+    "kn": {
+      "question": "ಈ ಆಯತದ ಸುತ್ತಳತೆ ಎಷ್ಟು?",
+      "options": [
+        "24 ಸೆಂ.ಮೀ.",
+        "7 ಸೆಂ.ಮೀ.",
+        "14 ಸೆಂ.ಮೀ.",
+        "12 ಸೆಂ.ಮೀ."
+      ],
+      "answer": "14 ಸೆಂ.ಮೀ.",
+      "reasoning": "ಸುತ್ತಳತೆ = 2(ಉದ್ದ + ಅಗಲ) = 2(4 + 3) = 14."
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><rect x='50' y='40' width='200' height='120' fill='none' stroke='#2563EB' stroke-width='2'/><text x='150' y='30' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle'>4 cm</text><text x='270' y='100' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle'>3 cm</text></svg>",
+      "alt": {
+        "en": "Rectangle diagram",
+        "kn": "ಆಯತದ ಚಿತ್ರ"
+      }
+    }
+  },
+  {
+    "id": "c7_math_perim_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "The area of a square is 25 cm². What is its side length?",
+      "options": [
+        "6.25 cm",
+        "10 cm",
+        "5 cm",
+        "12.5 cm"
+      ],
+      "answer": "5 cm",
+      "reasoning": "Area = side × side. 5 × 5 = 25."
+    },
+    "kn": {
+      "question": "ಒಂದು ಚೌಕದ ವಿಸ್ತೀರ್ಣ 25 ಚ.ಸೆಂ.ಮೀ. ಅದರ ಬಾಹುವಿನ ಉದ್ದವೆಷ್ಟು?",
+      "options": [
+        "6.25 ಸೆಂ.ಮೀ.",
+        "10 ಸೆಂ.ಮೀ.",
+        "5 ಸೆಂ.ಮೀ.",
+        "12.5 ಸೆಂ.ಮೀ."
+      ],
+      "answer": "5 ಸೆಂ.ಮೀ.",
+      "reasoning": "ವಿಸ್ತೀರ್ಣ = ಬಾಹು × ಬಾಹು. 5 × 5 = 25."
+    }
+  },
+  {
+    "id": "c7_math_perim_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the formula for the perimeter of a rectangle?",
+      "options": [
+        "l × b",
+        "4 × l",
+        "2(l + b)",
+        "l + b"
+      ],
+      "answer": "2(l + b)",
+      "reasoning": "Perimeter of rectangle = 2(length + breadth)."
+    },
+    "kn": {
+      "question": "ಆಯತದ ಸುತ್ತಳತೆಯ ಸೂತ್ರವೇನು?",
+      "options": [
+        "l × b",
+        "4 × l",
+        "2(l + b)",
+        "l + b"
+      ],
+      "answer": "2(l + b)",
+      "reasoning": "ಆಯತದ ಸುತ್ತಳತೆ = 2(ಉದ್ದ + ಅಗಲ)."
+    }
+  },
+  {
+    "id": "c7_math_perim_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "The distance around a circular region is known as its:",
+      "options": [
+        "Radius",
+        "Area",
+        "Diameter",
+        "Circumference"
+      ],
+      "answer": "Circumference",
+      "reasoning": "The boundary of a circle is its circumference."
+    },
+    "kn": {
+      "question": "ವೃತ್ತಾಕಾರದ ಪ್ರದೇಶದ ಸುತ್ತಲಿನ ಅಂತರವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ತ್ರಿಜ್ಯ",
+        "ವಿಸ್ತೀರ್ಣ",
+        "ವ್ಯಾಸ",
+        "ಪರಿಧಿ (Circumference)"
+      ],
+      "answer": "ಪರಿಧಿ (Circumference)",
+      "reasoning": "ವೃತ್ತದ ಗಡಿಯನ್ನು ಅದರ ಪರಿಧಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_math_perim_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "If the diameter of a circle is 10 cm, what is its radius?",
+      "options": [
+        "5 cm",
+        "31.4 cm",
+        "20 cm",
+        "10 cm"
+      ],
+      "answer": "5 cm",
+      "reasoning": "Radius = Diameter / 2."
+    },
+    "kn": {
+      "question": "ವೃತ್ತದ ವ್ಯಾಸ 10 ಸೆಂ.ಮೀ ಆಗಿದ್ದರೆ, ಅದರ ತ್ರಿಜ್ಯ ಎಷ್ಟು?",
+      "options": [
+        "5 ಸೆಂ.ಮೀ.",
+        "31.4 ಸೆಂ.ಮೀ.",
+        "20 ಸೆಂ.ಮೀ.",
+        "10 ಸೆಂ.ಮೀ."
+      ],
+      "answer": "5 ಸೆಂ.ಮೀ.",
+      "reasoning": "ತ್ರಿಜ್ಯ = ವ್ಯಾಸ / 2."
+    }
+  },
+  {
+    "id": "c7_math_perim_007",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the area of a triangle with base 10 cm and height 5 cm?",
+      "options": [
+        "50 cm²",
+        "25 cm²",
+        "15 cm²",
+        "30 cm²"
+      ],
+      "answer": "25 cm²",
+      "reasoning": "Area = 1/2 × base × height = 1/2 × 10 × 5 = 25."
+    },
+    "kn": {
+      "question": "10 ಸೆಂ.ಮೀ ಪಾದ ಮತ್ತು 5 ಸೆಂ.ಮೀ ಎತ್ತರವುಳ್ಳ ತ್ರಿಕೋನದ ವಿಸ್ತೀರ್ಣ ಎಷ್ಟು?",
+      "options": [
+        "50 ಚ.ಸೆಂ.ಮೀ.",
+        "25 ಚ.ಸೆಂ.ಮೀ.",
+        "15 ಚ.ಸೆಂ.ಮೀ.",
+        "30 ಚ.ಸೆಂ.ಮೀ."
+      ],
+      "answer": "25 ಚ.ಸೆಂ.ಮೀ.",
+      "reasoning": "ವಿಸ್ತೀರ್ಣ = 1/2 × ಪಾದ × ಎತ್ತರ = 1/2 × 10 × 5 = 25."
+    }
+  },
+  {
+    "id": "c7_math_perim_008",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Find the perimeter of a square with side 8 m.",
+      "options": [
+        "16 m",
+        "64 m",
+        "24 m",
+        "32 m"
+      ],
+      "answer": "32 m",
+      "reasoning": "Perimeter = 4 × side = 4 × 8 = 32."
+    },
+    "kn": {
+      "question": "8 ಮೀ. ಬಾಹುವಿರುವ ಚೌಕದ ಸುತ್ತಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "16 ಮೀ.",
+        "64 ಮೀ.",
+        "24 ಮೀ.",
+        "32 ಮೀ."
+      ],
+      "answer": "32 ಮೀ.",
+      "reasoning": "ಸುತ್ತಳತೆ = 4 × ಬಾಹು = 4 × 8 = 32."
+    }
+  },
+  {
+    "id": "c7_math_perim_009",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which unit is used to measure area?",
+      "options": [
+        "Meters (m)",
+        "Liters (L)",
+        "Square meters (m²)",
+        "Cubic meters (m³)"
+      ],
+      "answer": "Square meters (m²)",
+      "reasoning": "Area is measured in square units."
+    },
+    "kn": {
+      "question": "ವಿಸ್ತೀರ್ಣವನ್ನು ಅಳೆಯಲು ಯಾವ ಮಾನವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಮೀಟರ್ (m)",
+        "ಲೀಟರ್ (L)",
+        "ಚದರ ಮೀಟರ್ (m²)",
+        "ಘನ ಮೀಟರ್ (m³)"
+      ],
+      "answer": "ಚದರ ಮೀಟರ್ (m²)",
+      "reasoning": "ವಿಸ್ತೀರ್ಣವನ್ನು ಚದರ ಮಾನಗಳಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_math_perim_010",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Value of π (pi) is approximately:",
+      "options": [
+        "3.41",
+        "2.14",
+        "22/7 or 3.14",
+        "7/22 or 0.314"
+      ],
+      "answer": "22/7 or 3.14",
+      "reasoning": "Pi is approximately 22/7 or 3.14."
+    },
+    "kn": {
+      "question": "π (ಪೈ) ನ ಅಂದಾಜು ಬೆಲೆ:",
+      "options": [
+        "3.41",
+        "2.14",
+        "22/7 ಅಥವಾ 3.14",
+        "7/22 ಅಥವಾ 0.314"
+      ],
+      "answer": "22/7 ಅಥವಾ 3.14",
+      "reasoning": "ಪೈ ಬೆಲೆ ಸುಮಾರು 22/7 ಅಥವಾ 3.14 ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "c7_math_perim_011",
+    "type": "image_single",
+    "difficulty": 2,
+    "en": {
+      "question": "If the radius of this circle is 7 cm, what is its circumference? (Use π = 22/7)",
+      "options": [
+        "22 cm",
+        "14 cm",
+        "44 cm",
+        "154 cm"
+      ],
+      "answer": "44 cm",
+      "reasoning": "C = 2πr = 2 * (22/7) * 7 = 44."
+    },
+    "kn": {
+      "question": "ಈ ವೃತ್ತದ ತ್ರಿಜ್ಯ 7 ಸೆಂ.ಮೀ. ಆಗಿದ್ದರೆ, ಅದರ ಸುತ್ತಳತೆ ಎಷ್ಟು? (π = 22/7 ಬಳಸಿ)",
+      "options": [
+        "22 ಸೆಂ.ಮೀ.",
+        "14 ಸೆಂ.ಮೀ.",
+        "44 ಸೆಂ.ಮೀ.",
+        "154 ಸೆಂ.ಮೀ."
+      ],
+      "answer": "44 ಸೆಂ.ಮೀ.",
+      "reasoning": "C = 2πr = 2 * (22/7) * 7 = 44."
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 300'><circle cx='150' cy='150' r='100' fill='none' stroke='#2563EB' stroke-width='2'/><circle cx='150' cy='150' r='3' fill='#1F2937'/><line x1='150' y1='150' x2='250' y2='150' stroke='#DC2626' stroke-width='1.5'/><text x='200' y='140' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle'>7 cm</text></svg>",
+      "alt": {
+        "en": "Circle diagram",
+        "kn": "ವೃತ್ತದ ಚಿತ್ರ"
+      }
+    }
+  },
+  {
+    "id": "c7_math_perim_012",
+    "type": "image_single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the area of this circle if its radius is 7 cm? (Use π = 22/7)",
+      "options": [
+        "154 cm²",
+        "44 cm²",
+        "49 cm²",
+        "22 cm²"
+      ],
+      "answer": "154 cm²",
+      "reasoning": "Area = πr² = (22/7) * 7 * 7 = 154."
+    },
+    "kn": {
+      "question": "ಈ ವೃತ್ತದ ತ್ರಿಜ್ಯ 7 ಸೆಂ.ಮೀ. ಆಗಿದ್ದರೆ, ಅದರ ವಿಸ್ತೀರ್ಣ ಎಷ್ಟು? (π = 22/7 ಬಳಸಿ)",
+      "options": [
+        "154 ಚ.ಸೆಂ.ಮೀ.",
+        "44 ಚ.ಸೆಂ.ಮೀ.",
+        "49 ಚ.ಸೆಂ.ಮೀ.",
+        "22 ಚ.ಸೆಂ.ಮೀ."
+      ],
+      "answer": "154 ಚ.ಸೆಂ.ಮೀ.",
+      "reasoning": "ವಿಸ್ತೀರ್ಣ = πr² = (22/7) * 7 * 7 = 154."
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 300'><circle cx='150' cy='150' r='100' fill='none' stroke='#2563EB' stroke-width='2'/><circle cx='150' cy='150' r='3' fill='#1F2937'/><line x1='150' y1='150' x2='250' y2='150' stroke='#DC2626' stroke-width='1.5'/><text x='200' y='140' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle'>7 cm</text></svg>",
+      "alt": {
+        "en": "Circle diagram",
+        "kn": "ವೃತ್ತದ ಚಿತ್ರ"
+      }
+    }
+  },
+  {
+    "id": "c7_math_perim_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "A rectangular garden is 30m long and 20m wide. What is the length of wire needed to fence it?",
+      "options": [
+        "50 m",
+        "100 m",
+        "120 m",
+        "600 m"
+      ],
+      "answer": "100 m",
+      "reasoning": "Perimeter = 2(30 + 20) = 100."
+    },
+    "kn": {
+      "question": "ಒಂದು ಆಯತಾಕಾರದ ಉದ್ಯಾನವನ 30 ಮೀ ಉದ್ದ ಮತ್ತು 20 ಮೀ ಅಗಲವಿದೆ. ಅದಕ್ಕೆ ಬೇಲಿ ಹಾಕಲು ಬೇಕಾಗುವ ತಂತಿಯ ಉದ್ದ ಎಷ್ಟು?",
+      "options": [
+        "50 ಮೀ.",
+        "100 ಮೀ.",
+        "120 ಮೀ.",
+        "600 ಮೀ."
+      ],
+      "answer": "100 ಮೀ.",
+      "reasoning": "ಸುತ್ತಳತೆ = 2(30 + 20) = 100."
+    }
+  },
+  {
+    "id": "c7_math_perim_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "If the circumference of a circle is 31.4 cm, find its radius. (Use π = 3.14)",
+      "options": [
+        "15.7 cm",
+        "5 cm",
+        "10 cm",
+        "3.14 cm"
+      ],
+      "answer": "5 cm",
+      "reasoning": "2 * 3.14 * r = 31.4 => 6.28r = 31.4 => r = 5."
+    },
+    "kn": {
+      "question": "ವೃತ್ತದ ಪರಿಧಿ 31.4 ಸೆಂ.ಮೀ ಆಗಿದ್ದರೆ, ಅದರ ತ್ರಿಜ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. (π = 3.14 ಬಳಸಿ)",
+      "options": [
+        "15.7 ಸೆಂ.ಮೀ.",
+        "5 ಸೆಂ.ಮೀ.",
+        "10 ಸೆಂ.ಮೀ.",
+        "3.14 ಸೆಂ.ಮೀ."
+      ],
+      "answer": "5 ಸೆಂ.ಮೀ.",
+      "reasoning": "2 * 3.14 * r = 31.4 => 6.28r = 31.4 => r = 5."
+    }
+  },
+  {
+    "id": "c7_math_perim_015",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Find the area of a parallelogram with base 8 cm and height 4 cm.",
+      "options": [
+        "24 cm²",
+        "12 cm²",
+        "16 cm²",
+        "32 cm²"
+      ],
+      "answer": "32 cm²",
+      "reasoning": "Area of parallelogram = base × height = 8 × 4 = 32."
+    },
+    "kn": {
+      "question": "8 ಸೆಂ.ಮೀ ಪಾದ ಮತ್ತು 4 ಸೆಂ.ಮೀ ಎತ್ತರವಿರುವ ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "24 ಚ.ಸೆಂ.ಮೀ.",
+        "12 ಚ.ಸೆಂ.ಮೀ.",
+        "16 ಚ.ಸೆಂ.ಮೀ.",
+        "32 ಚ.ಸೆಂ.ಮೀ."
+      ],
+      "answer": "32 ಚ.ಸೆಂ.ಮೀ.",
+      "reasoning": "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣ = ಪಾದ × ಎತ್ತರ = 8 × 4 = 32."
+    }
+  },
+  {
+    "id": "c7_math_perim_016",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "The area of a rectangular sheet is 500 cm². If the length is 25 cm, what is its width?",
+      "options": [
+        "25 cm",
+        "50 cm",
+        "10 cm",
+        "20 cm"
+      ],
+      "answer": "20 cm",
+      "reasoning": "Width = Area / Length = 500 / 25 = 20."
+    },
+    "kn": {
+      "question": "ಒಂದು ಆಯತಾಕಾರದ ಹಾಳೆಯ ವಿಸ್ತೀರ್ಣ 500 ಚ.ಸೆಂ.ಮೀ. ಉದ್ದ 25 ಸೆಂ.ಮೀ ಆಗಿದ್ದರೆ, ಅದರ ಅಗಲ ಎಷ್ಟು?",
+      "options": [
+        "25 ಸೆಂ.ಮೀ.",
+        "50 ಸೆಂ.ಮೀ.",
+        "10 ಸೆಂ.ಮೀ.",
+        "20 ಸೆಂ.ಮೀ."
+      ],
+      "answer": "20 ಸೆಂ.ಮೀ.",
+      "reasoning": "ಅಗಲ = ವಿಸ್ತೀರ್ಣ / ಉದ್ದ = 500 / 25 = 20."
+    }
+  },
+  {
+    "id": "c7_math_perim_017",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the circumference of a circle of diameter 14 cm? (π = 22/7)",
+      "options": [
+        "22 cm",
+        "88 cm",
+        "154 cm",
+        "44 cm"
+      ],
+      "answer": "44 cm",
+      "reasoning": "C = π × d = (22/7) × 14 = 44."
+    },
+    "kn": {
+      "question": "14 ಸೆಂ.ಮೀ ವ್ಯಾಸವಿರುವ ವೃತ್ತದ ಪರಿಧಿ ಎಷ್ಟು? (π = 22/7)",
+      "options": [
+        "22 ಸೆಂ.ಮೀ.",
+        "88 ಸೆಂ.ಮೀ.",
+        "154 ಸೆಂ.ಮೀ.",
+        "44 ಸೆಂ.ಮೀ."
+      ],
+      "answer": "44 ಸೆಂ.ಮೀ.",
+      "reasoning": "C = π × d = (22/7) × 14 = 44."
+    }
+  },
+  {
+    "id": "c7_math_perim_018",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "1 hectare is equal to how many square meters?",
+      "options": [
+        "10,000 m²",
+        "100 m²",
+        "1,000 m²",
+        "100,000 m²"
+      ],
+      "answer": "10,000 m²",
+      "reasoning": "1 hectare = 100m × 100m = 10,000 m²."
+    },
+    "kn": {
+      "question": "1 ಹೆಕ್ಟೇರ್ ಎಷ್ಟು ಚದರ ಮೀಟರ್‌ಗಳಿಗೆ ಸಮ?",
+      "options": [
+        "10,000 ಚ.ಮೀ.",
+        "100 ಚ.ಮೀ.",
+        "1,000 ಚ.ಮೀ.",
+        "100,000 ಚ.ಮೀ."
+      ],
+      "answer": "10,000 ಚ.ಮೀ.",
+      "reasoning": "1 ಹೆಕ್ಟೇರ್ = 100ಮೀ × 100ಮೀ = 10,000 ಚ.ಮೀ."
+    }
+  },
+  {
+    "id": "c7_math_perim_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which formulas are correct for area?",
+      "options": [
+        "Parallelogram: 1/2 × b × h",
+        "Triangle: 1/2 × b × h",
+        "Circle: 2πr",
+        "Rectangle: l × b",
+        "Square: side × side"
+      ],
+      "answer": [
+        "Rectangle: l × b",
+        "Triangle: 1/2 × b × h",
+        "Square: side × side"
+      ],
+      "reasoning": "Circle area is πr², parallelogram is b×h."
+    },
+    "kn": {
+      "question": "ವಿಸ್ತೀರ್ಣಕ್ಕೆ ಯಾವ ಸೂತ್ರಗಳು ಸರಿಯಾಗಿವೆ?",
+      "options": [
+        "ಸಮಾಂತರ ಚತುರ್ಭುಜ: 1/2 × b × h",
+        "ತ್ರಿಕೋನ: 1/2 × b × h",
+        "ವೃತ್ತ: 2πr",
+        "ಆಯತ: l × b",
+        "ಚೌಕ: ಬಾಹು × ಬಾಹು"
+      ],
+      "answer": [
+        "ಆಯತ: l × b",
+        "ತ್ರಿಕೋನ: 1/2 × b × h",
+        "ಚೌಕ: ಬಾಹು × ಬಾಹು"
+      ],
+      "reasoning": "ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ πr², ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣ b×h."
+    }
+  },
+  {
+    "id": "c7_math_perim_020",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which formulas are correct for perimeter or circumference?",
+      "options": [
+        "Circle: πr²",
+        "Square: 4 × side",
+        "Circle: 2πr",
+        "Rectangle: 2(l+b)",
+        "Triangle: l×b×h"
+      ],
+      "answer": [
+        "Circle: 2πr",
+        "Rectangle: 2(l+b)",
+        "Square: 4 × side"
+      ],
+      "reasoning": "Perimeter measures boundary lengths."
+    },
+    "kn": {
+      "question": "ಸುತ್ತಳತೆ ಅಥವಾ ಪರಿಧಿಗೆ ಯಾವ ಸೂತ್ರಗಳು ಸರಿಯಾಗಿವೆ?",
+      "options": [
+        "ವೃತ್ತ: πr²",
+        "ಚೌಕ: 4 × ಬಾಹು",
+        "ವೃತ್ತ: 2πr",
+        "ಆಯತ: 2(l+b)",
+        "ತ್ರಿಕೋನ: l×b×h"
+      ],
+      "answer": [
+        "ವೃತ್ತ: 2πr",
+        "ಆಯತ: 2(l+b)",
+        "ಚೌಕ: 4 × ಬಾಹು"
+      ],
+      "reasoning": "ಸುತ್ತಳತೆಯು ಗಡಿಯ ಉದ್ದವನ್ನು ಅಳೆಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_math_perim_021",
+    "type": "image_multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "If a triangle has a base of 6 cm and height of 4 cm, which of these are true?",
+      "options": [
+        "Perimeter is 10 cm",
+        "Area is 12 cm²",
+        "Area is 24 cm²",
+        "Area is (1/2)×6×4 cm²"
+      ],
+      "answer": [
+        "Area is 12 cm²",
+        "Area is (1/2)×6×4 cm²"
+      ],
+      "reasoning": "Area of triangle = 1/2 × base × height."
+    },
+    "kn": {
+      "question": "ಒಂದು ತ್ರಿಕೋನದ ಪಾದ 6 ಸೆಂ.ಮೀ. ಮತ್ತು ಎತ್ತರ 4 ಸೆಂ.ಮೀ. ಆಗಿದ್ದರೆ, ಇವುಗಳಲ್ಲಿ ಯಾವುದು ಸರಿ?",
+      "options": [
+        "ಸುತ್ತಳತೆ 10 ಸೆಂ.ಮೀ.",
+        "ವಿಸ್ತೀರ್ಣ 12 ಚ.ಸೆಂ.ಮೀ.",
+        "ವಿಸ್ತೀರ್ಣ 24 ಚ.ಸೆಂ.ಮೀ.",
+        "ವಿಸ್ತೀರ್ಣ (1/2)×6×4 ಚ.ಸೆಂ.ಮೀ."
+      ],
+      "answer": [
+        "ವಿಸ್ತೀರ್ಣ 12 ಚ.ಸೆಂ.ಮೀ.",
+        "ವಿಸ್ತೀರ್ಣ (1/2)×6×4 ಚ.ಸೆಂ.ಮೀ."
+      ],
+      "reasoning": "ತ್ರಿಕೋನದ ವಿಸ್ತೀರ್ಣ = 1/2 × ಪಾದ × ಎತ್ತರ."
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='150,30 50,150 250,150' fill='none' stroke='#2563EB' stroke-width='2'/><text x='90' y='80' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle' transform='rotate(-50, 90, 80)'>Height=4</text><text x='210' y='80' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle' transform='rotate(50, 210, 80)'></text><text x='150' y='170' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle'>6 cm (Base)</text></svg>",
+      "alt": {
+        "en": "Triangle diagram",
+        "kn": "ತ್ರಿಕೋನದ ಚಿತ್ರ"
+      }
+    }
+  },
+  {
+    "id": "c7_math_perim_022",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "A square park has an area of 400 m². A path of width 2m is built inside its boundary. What is the side length of the inner square?",
+      "options": [
+        "20 m",
+        "16 m",
+        "14 m",
+        "18 m"
+      ],
+      "answer": "16 m",
+      "reasoning": "Outer side = 20m. Inner side = 20 - 2(2) = 16m."
+    },
+    "kn": {
+      "question": "ಒಂದು ಚೌಕಾಕಾರದ ಉದ್ಯಾನವನದ ವಿಸ್ತೀರ್ಣ 400 ಚ.ಮೀ. ಅದರ ಗಡಿಯೊಳಗೆ 2 ಮೀ. ಅಗಲದ ಹಾದಿಯನ್ನು ನಿರ್ಮಿಸಲಾಗಿದೆ. ಒಳಗಿನ ಚೌಕದ ಬಾಹುವಿನ ಉದ್ದವೆಷ್ಟು?",
+      "options": [
+        "20 ಮೀ.",
+        "16 ಮೀ.",
+        "14 ಮೀ.",
+        "18 ಮೀ."
+      ],
+      "answer": "16 ಮೀ.",
+      "reasoning": "ಹೊರಗಿನ ಬಾಹು = 20ಮೀ. ಒಳಗಿನ ಬಾಹು = 20 - 2(2) = 16ಮೀ."
+    }
+  },
+  {
+    "id": "c7_math_perim_023",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "The radius of a circular pipe is 10 cm. What length of tape is required to wrap once around the pipe? (π = 3.14)",
+      "options": [
+        "314 cm",
+        "62.8 cm",
+        "6.28 cm",
+        "31.4 cm"
+      ],
+      "answer": "62.8 cm",
+      "reasoning": "Length = Circumference = 2 × 3.14 × 10 = 62.8."
+    },
+    "kn": {
+      "question": "ವೃತ್ತಾಕಾರದ ಪೈಪ್‌ನ ತ್ರಿಜ್ಯ 10 ಸೆಂ.ಮೀ. ಪೈಪ್‌ನ ಸುತ್ತಲೂ ಒಮ್ಮೆ ಸುತ್ತಲು ಎಷ್ಟು ಉದ್ದದ ಟೇಪ್ ಬೇಕಾಗುತ್ತದೆ? (π = 3.14)",
+      "options": [
+        "314 ಸೆಂ.ಮೀ.",
+        "62.8 ಸೆಂ.ಮೀ.",
+        "6.28 ಸೆಂ.ಮೀ.",
+        "31.4 ಸೆಂ.ಮೀ."
+      ],
+      "answer": "62.8 ಸೆಂ.ಮೀ.",
+      "reasoning": "ಉದ್ದ = ಪರಿಧಿ = 2 × 3.14 × 10 = 62.8."
+    }
+  },
+  {
+    "id": "c7_math_perim_024",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "A wire is in the shape of a square of side 10 cm. If the wire is rebent into a rectangle of length 12 cm, find its breadth.",
+      "options": [
+        "8 cm",
+        "10 cm",
+        "6 cm",
+        "12 cm"
+      ],
+      "answer": "8 cm",
+      "reasoning": "Perimeter is same: 40 = 2(12 + b) => 20 = 12 + b => b = 8."
+    },
+    "kn": {
+      "question": "ಒಂದು ತಂತಿಯು 10 ಸೆಂ.ಮೀ. ಬಾಹುವಿನ ಚೌಕದ ಆಕಾರದಲ್ಲಿದೆ. ಆ ತಂತಿಯನ್ನು 12 ಸೆಂ.ಮೀ. ಉದ್ದದ ಆಯತವಾಗಿ ಬಾಗಿಸಿದರೆ, ಅದರ ಅಗಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "8 ಸೆಂ.ಮೀ.",
+        "10 ಸೆಂ.ಮೀ.",
+        "6 ಸೆಂ.ಮೀ.",
+        "12 ಸೆಂ.ಮೀ."
+      ],
+      "answer": "8 ಸೆಂ.ಮೀ.",
+      "reasoning": "ಸುತ್ತಳತೆ ಒಂದೇ: 40 = 2(12 + b) => 20 = 12 + b => b = 8."
+    }
+  },
+  {
+    "id": "c7_math_perim_025",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Find the area of a circle whose circumference is 31.4 cm (use π = 3.14).",
+      "options": [
+        "78.5 cm²",
+        "15.7 cm²",
+        "31.4 cm²",
+        "100 cm²"
+      ],
+      "answer": "78.5 cm²",
+      "reasoning": "r = 31.4 / (2*3.14) = 5. Area = 3.14 * 5 * 5 = 78.5."
+    },
+    "kn": {
+      "question": "ವೃತ್ತದ ಪರಿಧಿ 31.4 ಸೆಂ.ಮೀ ಆಗಿದ್ದರೆ, ಅದರ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ (π = 3.14 ಬಳಸಿ).",
+      "options": [
+        "78.5 ಚ.ಸೆಂ.ಮೀ.",
+        "15.7 ಚ.ಸೆಂ.ಮೀ.",
+        "31.4 ಚ.ಸೆಂ.ಮೀ.",
+        "100 ಚ.ಸೆಂ.ಮೀ."
+      ],
+      "answer": "78.5 ಚ.ಸೆಂ.ಮೀ.",
+      "reasoning": "r = 31.4 / (2*3.14) = 5. ವಿಸ್ತೀರ್ಣ = 3.14 * 5 * 5 = 78.5."
+    }
+  },
+  {
+    "id": "c7_math_perim_026",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "A rectangular park is 45m long and 30m wide. A path 2.5m wide is constructed outside the park. Find the area of the path.",
+      "options": [
+        "425 m²",
+        "450 m²",
+        "400 m²",
+        "375 m²"
+      ],
+      "answer": "400 m²",
+      "reasoning": "Outer = (45+5)×(30+5) = 50×35=1750. Inner = 45×30=1350. Path = 1750-1350 = 400."
+    },
+    "kn": {
+      "question": "ಒಂದು ಆಯತಾಕಾರದ ಉದ್ಯಾನವನ 45ಮೀ ಉದ್ದ ಮತ್ತು 30ಮೀ ಅಗಲವಿದೆ. ಉದ್ಯಾನವನದ ಹೊರಗೆ 2.5ಮೀ ಅಗಲದ ಹಾದಿಯನ್ನು ನಿರ್ಮಿಸಲಾಗಿದೆ. ಹಾದಿಯ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "425 ಚ.ಮೀ.",
+        "450 ಚ.ಮೀ.",
+        "400 ಚ.ಮೀ.",
+        "375 ಚ.ಮೀ."
+      ],
+      "answer": "400 ಚ.ಮೀ.",
+      "reasoning": "ಹೊರಗಿನದು = 50×35=1750. ಒಳಗಿನದು = 45×30=1350. ಹಾದಿ = 1750-1350 = 400."
+    }
+  },
+  {
+    "id": "c7_math_perim_027",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "If the radius of a circle is doubled, what happens to its area?",
+      "options": [
+        "It becomes 8 times",
+        "It halves",
+        "It becomes 4 times",
+        "It doubles"
+      ],
+      "answer": "It becomes 4 times",
+      "reasoning": "Area = π(2r)² = 4πr², which is 4 times."
+    },
+    "kn": {
+      "question": "ಒಂದು ವೃತ್ತದ ತ್ರಿಜ್ಯವನ್ನು ದ್ವಿಗುಣಗೊಳಿಸಿದರೆ, ಅದರ ವಿಸ್ತೀರ್ಣ ಏನಾಗುತ್ತದೆ?",
+      "options": [
+        "ಅದು 8 ಪಟ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ",
+        "ಅದು ಅರ್ಧವಾಗುತ್ತದೆ",
+        "ಅದು 4 ಪಟ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ",
+        "ಅದು ದ್ವಿಗುಣಗೊಳ್ಳುತ್ತದೆ"
+      ],
+      "answer": "ಅದು 4 ಪಟ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ",
+      "reasoning": "ವಿಸ್ತೀರ್ಣ = π(2r)² = 4πr², ಇದು 4 ಪಟ್ಟು ಹೆಚ್ಚು."
+    }
+  },
+  {
+    "id": "c7_math_perim_028",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "If a rectangle has perimeter 20 cm, which of these could be its dimensions (l, b)?",
+      "options": [
+        "l=5, b=4",
+        "l=8, b=2",
+        "l=6, b=4",
+        "l=10, b=10",
+        "l=7, b=3"
+      ],
+      "answer": [
+        "l=6, b=4",
+        "l=7, b=3",
+        "l=8, b=2"
+      ],
+      "reasoning": "2(l+b) = 20 => l+b = 10."
+    },
+    "kn": {
+      "question": "ಒಂದು ಆಯತದ ಸುತ್ತಳತೆ 20 ಸೆಂ.ಮೀ ಆಗಿದ್ದರೆ, ಅದರ ಉದ್ದ ಮತ್ತು ಅಗಲಗಳು (l, b) ಇವುಗಳಲ್ಲಿ ಯಾವುದಾಗಿರಬಹುದು?",
+      "options": [
+        "l=5, b=4",
+        "l=8, b=2",
+        "l=6, b=4",
+        "l=10, b=10",
+        "l=7, b=3"
+      ],
+      "answer": [
+        "l=6, b=4",
+        "l=7, b=3",
+        "l=8, b=2"
+      ],
+      "reasoning": "2(l+b) = 20 => l+b = 10."
+    }
+  },
+  {
+    "id": "c7_math_perim_029",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the side of a square to its area.",
+      "pairs": [
+        {
+          "left": "5 cm",
+          "right": "25 cm²"
+        },
+        {
+          "left": "12 cm",
+          "right": "144 cm²"
+        },
+        {
+          "left": "15 cm",
+          "right": "225 cm²"
+        },
+        {
+          "left": "20 cm",
+          "right": "400 cm²"
+        }
+      ],
+      "reasoning": "Area = side × side"
+    },
+    "kn": {
+      "question": "ಚೌಕದ ಬಾಹುವನ್ನು ಅದರ ವಿಸ್ತೀರ್ಣದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "5 ಸೆಂ.ಮೀ.",
+          "right": "25 ಚ.ಸೆಂ.ಮೀ."
+        },
+        {
+          "left": "12 ಸೆಂ.ಮೀ.",
+          "right": "144 ಚ.ಸೆಂ.ಮೀ."
+        },
+        {
+          "left": "15 ಸೆಂ.ಮೀ.",
+          "right": "225 ಚ.ಸೆಂ.ಮೀ."
+        },
+        {
+          "left": "20 ಸೆಂ.ಮೀ.",
+          "right": "400 ಚ.ಸೆಂ.ಮೀ."
+        }
+      ],
+      "reasoning": "ವಿಸ್ತೀರ್ಣ = ಬಾಹು × ಬಾಹು"
+    }
+  },
+  {
+    "id": "c7_math_perim_030",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the dimension with the resulting area for a rectangle.",
+      "pairs": [
+        {
+          "left": "l=10, b=5",
+          "right": "50"
+        },
+        {
+          "left": "l=8, b=6",
+          "right": "48"
+        },
+        {
+          "left": "l=12, b=4",
+          "right": "48 "
+        },
+        {
+          "left": "l=15, b=2",
+          "right": "30"
+        }
+      ],
+      "reasoning": "Area = length × breadth"
+    },
+    "kn": {
+      "question": "ಆಯತದ ಅಳತೆಯನ್ನು ಅದರ ವಿಸ್ತೀರ್ಣದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "l=10, b=5",
+          "right": "50"
+        },
+        {
+          "left": "l=8, b=6",
+          "right": "48"
+        },
+        {
+          "left": "l=12, b=4",
+          "right": "48 "
+        },
+        {
+          "left": "l=15, b=2",
+          "right": "30"
+        }
+      ],
+      "reasoning": "ವಿಸ್ತೀರ್ಣ = ಉದ್ದ × ಅಗಲ"
+    }
+  }
 ]

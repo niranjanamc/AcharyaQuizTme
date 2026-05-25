@@ -59,7 +59,7 @@
     "type": "image_single",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M30,170 L270,170' stroke='#2563EB' stroke-width='2'/><path d='M150,170 L220,50' stroke='#2563EB' stroke-width='2'/><path d='M150,170 L150,155 A15,15 0 0,1 163,148' fill='none' stroke='#EA580C' stroke-width='1.5'/><text x='170' y='160' fill='#DC2626' font-family='Arial' font-size='14'>60°</text><path d='M150,170 L135,170 A15,15 0 0,1 150,155' fill='none' stroke='#EA580C' stroke-width='1.5'/><text x='130' y='160' fill='#DC2626' font-family='Arial' font-size='14'>x</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M30,170 L270,170' stroke='#2563EB' stroke-width='2'/><path d='M150,170 L220,50' stroke='#2563EB' stroke-width='2'/><path d='M150,170 L150,155 A15,15 0 0,1 163,148' fill='none' stroke='#EA580C' stroke-width='1.5'/><text x='170' y='160' fill='#DC2626' font-family='Arial' font-size='14'>60°</text><path d='M150,170 L135,170 A15,15 0 0,1 150,155' fill='none' stroke='#EA580C' stroke-width='1.5'/><text x='130' y='160' fill='#DC2626' font-family='Arial' font-size='14'>x</text></svg>",
       "alt": {
         "en": "A linear pair of angles with one measuring 60° and the other x.",
         "kn": "60° ಮತ್ತು x ಅಳತೆಯ ಒಂದು ಸರಳ ಕೋನಗಳ ಜೋಡಿ."
@@ -313,7 +313,7 @@
     "type": "image_single",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M50,50 L250,150' stroke='#2563EB' stroke-width='2'/><path d='M50,150 L250,50' stroke='#2563EB' stroke-width='2'/><text x='150' y='75' fill='#DC2626' font-family='Arial' font-size='14'>x</text><text x='150' y='140' fill='#DC2626' font-family='Arial' font-size='14'>130°</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M50,50 L250,150' stroke='#2563EB' stroke-width='2'/><path d='M50,150 L250,50' stroke='#2563EB' stroke-width='2'/><text x='150' y='75' fill='#DC2626' font-family='Arial' font-size='14'>x</text><text x='150' y='140' fill='#DC2626' font-family='Arial' font-size='14'>130°</text></svg>",
       "alt": {
         "en": "Two intersecting lines forming vertically opposite angles, one is 130° and the other is x.",
         "kn": "ಎರಡು ಛೇದಿಸುವ ರೇಖೆಗಳು ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳನ್ನು ರೂಪಿಸುತ್ತವೆ, ಒಂದು 130° ಮತ್ತು ಇನ್ನೊಂದು x."
@@ -375,7 +375,7 @@
     "type": "image_single",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M30,80 L270,80' stroke='#2563EB' stroke-width='2'/><path d='M30,130 L270,130' stroke='#2563EB' stroke-width='2'/><path d='M100,30 L200,180' stroke='#059669' stroke-width='2'/><text x='155' y='75' fill='#DC2626' font-family='Arial' font-size='14'>110°</text><text x='130' y='145' fill='#DC2626' font-family='Arial' font-size='14'>x</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M30,80 L270,80' stroke='#2563EB' stroke-width='2'/><path d='M30,130 L270,130' stroke='#2563EB' stroke-width='2'/><path d='M100,30 L200,180' stroke='#059669' stroke-width='2'/><text x='155' y='75' fill='#DC2626' font-family='Arial' font-size='14'>110°</text><text x='130' y='145' fill='#DC2626' font-family='Arial' font-size='14'>x</text></svg>",
       "alt": {
         "en": "Parallel lines intersected by a transversal. Alternate interior angles are marked 110° and x.",
         "kn": "ಛೇದಕ ರೇಖೆಯಿಂದ ಕತ್ತರಿಸಲ್ಪಟ್ಟ ಸಮಾನಾಂತರ ರೇಖೆಗಳು. ಪರ್ಯಾಯ ಒಳ ಕೋನಗಳನ್ನು 110° ಮತ್ತು x ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ."
@@ -629,7 +629,7 @@
     "type": "image_single",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M30,70 L270,70' stroke='#2563EB' stroke-width='2'/><path d='M30,130 L270,130' stroke='#2563EB' stroke-width='2'/><path d='M80,30 L150,180' stroke='#059669' stroke-width='2'/><text x='110' y='65' fill='#DC2626' font-family='Arial' font-size='14'>(3x+20)°</text><text x='170' y='145' fill='#DC2626' font-family='Arial' font-size='14'>(5x-12)°</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M30,70 L270,70' stroke='#2563EB' stroke-width='2'/><path d='M30,130 L270,130' stroke='#2563EB' stroke-width='2'/><path d='M80,30 L150,180' stroke='#059669' stroke-width='2'/><text x='110' y='65' fill='#DC2626' font-family='Arial' font-size='14'>(3x+20)°</text><text x='170' y='145' fill='#DC2626' font-family='Arial' font-size='14'>(5x-12)°</text></svg>",
       "alt": {
         "en": "Parallel lines intersected by a transversal. Alternate exterior angles are marked (3x+20)° and (5x-12)°.",
         "kn": "ಛೇದಕದಿಂದ ಕತ್ತರಿಸಲ್ಪಟ್ಟ ಸಮಾನಾಂತರ ರೇಖೆಗಳು. ಪರ್ಯಾಯ ಹೊರ ಕೋನಗಳನ್ನು (3x+20)° ಮತ್ತು (5x-12)° ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ."
@@ -664,7 +664,7 @@
     "type": "image_multiple",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 300'><path d='M50,150 L250,150' stroke='#2563EB' stroke-width='2'/><path d='M150,50 L150,250' stroke='#2563EB' stroke-width='2'/><path d='M50,50 L250,250' stroke='#2563EB' stroke-width='2'/><text x='160' y='140' fill='#DC2626' font-family='Arial' font-size='14'>45°</text><text x='210' y='140' fill='#1F2937' font-family='Arial' font-size='14'>a</text><text x='160' y='170' fill='#1F2937' font-family='Arial' font-size='14'>b</text><text x='130' y='170' fill='#1F2937' font-family='Arial' font-size='14'>c</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 300'><path d='M50,150 L250,150' stroke='#2563EB' stroke-width='2'/><path d='M150,50 L150,250' stroke='#2563EB' stroke-width='2'/><path d='M50,50 L250,250' stroke='#2563EB' stroke-width='2'/><text x='160' y='140' fill='#DC2626' font-family='Arial' font-size='14'>45°</text><text x='210' y='140' fill='#1F2937' font-family='Arial' font-size='14'>a</text><text x='160' y='170' fill='#1F2937' font-family='Arial' font-size='14'>b</text><text x='130' y='170' fill='#1F2937' font-family='Arial' font-size='14'>c</text></svg>",
       "alt": {
         "en": "Three lines intersecting at a single point, forming 6 angles. One angle is 45°, another is a right angle.",
         "kn": "ಒಂದೇ ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುವ ಮೂರು ರೇಖೆಗಳು, 6 ಕೋನಗಳನ್ನು ರೂಪಿಸುತ್ತವೆ. ಒಂದು ಕೋನವು 45°, ಮತ್ತೊಂದು ಲಂಬ ಕೋನವಾಗಿದೆ."

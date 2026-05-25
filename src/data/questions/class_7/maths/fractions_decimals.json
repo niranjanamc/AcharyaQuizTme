@@ -167,7 +167,7 @@
     "difficulty": 1,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <circle cx=\"150\" cy=\"100\" r=\"80\" fill=\"white\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <path d=\"M150,100 L150,20 A80,80 0 0,1 230,100 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"100\" x2=\"230\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"150\" y1=\"20\" x2=\"150\" y2=\"180\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n</svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <circle cx=\"150\" cy=\"100\" r=\"80\" fill=\"white\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <path d=\"M150,100 L150,20 A80,80 0 0,1 230,100 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"100\" x2=\"230\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"150\" y1=\"20\" x2=\"150\" y2=\"180\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n</svg>",
       "alt": {
         "en": "A circle divided into 4 equal parts, with 1 part shaded.",
         "kn": "4 ಸಮಾನ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾದ ವೃತ್ತ, ಇದರಲ್ಲಿ 1 ಭಾಗವನ್ನು ಛಾಯೆಗೊಳಿಸಲಾಗಿದೆ."
@@ -491,7 +491,7 @@
     "difficulty": 2,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 150\">\n  <line x1=\"20\" y1=\"75\" x2=\"280\" y2=\"75\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <circle cx=\"100\" cy=\"75\" r=\"5\" fill=\"#DC2626\"/>\n  <text x=\"100\" y=\"100\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">2.3</text>\n  <circle cx=\"200\" cy=\"75\" r=\"5\" fill=\"#DC2626\"/>\n  <text x=\"200\" y=\"100\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">2.4</text>\n  <circle cx=\"150\" cy=\"75\" r=\"5\" fill=\"#059669\"/>\n  <text x=\"150\" y=\"60\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">X</text>\n</svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 150\">\n  <line x1=\"20\" y1=\"75\" x2=\"280\" y2=\"75\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <circle cx=\"100\" cy=\"75\" r=\"5\" fill=\"#DC2626\"/>\n  <text x=\"100\" y=\"100\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">2.3</text>\n  <circle cx=\"200\" cy=\"75\" r=\"5\" fill=\"#DC2626\"/>\n  <text x=\"200\" y=\"100\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">2.4</text>\n  <circle cx=\"150\" cy=\"75\" r=\"5\" fill=\"#059669\"/>\n  <text x=\"150\" y=\"60\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">X</text>\n</svg>",
       "alt": {
         "en": "Number line showing points 2.3 and 2.4, with X exactly in the middle.",
         "kn": "2.3 ಮತ್ತು 2.4 ಬಿಂದುಗಳನ್ನು ತೋರಿಸುವ ಸಂಖ್ಯಾ ರೇಖೆ, X ನಿಖರವಾಗಿ ಮಧ್ಯದಲ್ಲಿದೆ."
@@ -761,7 +761,7 @@
     "difficulty": 3,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <polygon points=\"50,150 250,150 150,50\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"150\" y1=\"50\" x2=\"150\" y2=\"150\" stroke=\"#EA580C\" stroke-width=\"2\" stroke-dasharray=\"5,3\"/>\n  <text x=\"150\" y=\"170\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">Base = 5.4 cm</text>\n  <text x=\"110\" y=\"105\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">h = 3.5 cm</text>\n  <path d=\"M 150,140 L 160,140 L 160,150\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"1.5\"/>\n</svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <polygon points=\"50,150 250,150 150,50\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"150\" y1=\"50\" x2=\"150\" y2=\"150\" stroke=\"#EA580C\" stroke-width=\"2\" stroke-dasharray=\"5,3\"/>\n  <text x=\"150\" y=\"170\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">Base = 5.4 cm</text>\n  <text x=\"110\" y=\"105\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">h = 3.5 cm</text>\n  <path d=\"M 150,140 L 160,140 L 160,150\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"1.5\"/>\n</svg>",
       "alt": {
         "en": "A triangle with base 5.4 cm and height 3.5 cm.",
         "kn": "5.4 ಸೆಂ.ಮೀ ಪಾದ ಮತ್ತು 3.5 ಸೆಂ.ಮೀ ಎತ್ತರವಿರುವ ತ್ರಿಕೋನ."
@@ -796,7 +796,7 @@
     "difficulty": 3,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <circle cx=\"100\" cy=\"100\" r=\"50\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"100\" x2=\"150\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"100\" y1=\"50\" x2=\"100\" y2=\"150\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <circle cx=\"200\" cy=\"100\" r=\"50\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <path d=\"M200,100 L200,50 A50,50 0 0,1 250,100 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"150\" y1=\"100\" x2=\"250\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"200\" y1=\"50\" x2=\"200\" y2=\"150\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n</svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <circle cx=\"100\" cy=\"100\" r=\"50\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"100\" x2=\"150\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"100\" y1=\"50\" x2=\"100\" y2=\"150\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <circle cx=\"200\" cy=\"100\" r=\"50\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <path d=\"M200,100 L200,50 A50,50 0 0,1 250,100 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"150\" y1=\"100\" x2=\"250\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"200\" y1=\"50\" x2=\"200\" y2=\"150\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n</svg>",
       "alt": {
         "en": "Two circles. The first is fully shaded (4/4). The second has 1/4 shaded.",
         "kn": "ಎರಡು ವೃತ್ತಗಳು. ಮೊದಲನೆಯದು ಸಂಪೂರ್ಣವಾಗಿ ಛಾಯೆಗೊಳಿಸಲ್ಪಟ್ಟಿದೆ (4/4). ಎರಡನೆಯದು 1/4 ಛಾಯೆಗೊಳಿಸಲ್ಪಟ್ಟಿದೆ."
