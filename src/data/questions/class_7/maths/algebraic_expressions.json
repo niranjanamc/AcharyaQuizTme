@@ -327,7 +327,7 @@
     },
     "image": {
       "type": "svg",
-      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='150,30 50,150 250,150' fill='none' stroke='#2563EB' stroke-width='2'/><text x='90' y='80' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle' transform='rotate(-50, 90, 80)'>a</text><text x='210' y='80' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle' transform='rotate(50, 210, 80)'>b</text><text x='150' y='170' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle'>c</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='150,30 50,150 250,150' fill='none' stroke='#2563EB' stroke-width='2'/><text x='90' y='80' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle' transform='rotate(-50, 90, 80)'>a</text><text x='210' y='80' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle' transform='rotate(50, 210, 80)'>b</text><text x='150' y='170' fill='#DC2626' font-family='Arial' font-size='14' text-anchor='middle'>c</text><text x='150' y='20' fill='#1F2937' font-family='Arial' font-size='14' text-anchor='middle'>A</text><text x='35' y='155' fill='#1F2937' font-family='Arial' font-size='14' text-anchor='middle'>B</text><text x='265' y='155' fill='#1F2937' font-family='Arial' font-size='14' text-anchor='middle'>C</text></svg>",
       "alt": {
         "en": "Triangle diagram",
         "kn": "ತ್ರಿಕೋನದ ಚಿತ್ರ"
