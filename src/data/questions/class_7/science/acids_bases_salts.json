@@ -1,0 +1,600 @@
+[
+  {
+    "id": "c7_sci_abs_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the general taste of acids?",
+      "options": ["Sweet", "Bitter", "Sour", "Salty"],
+      "answer": "Sour",
+      "reasoning": "The word 'acid' comes from the Latin word 'acere', which means sour."
+    },
+    "kn": {
+      "question": "ಆಮ್ಲಗಳ ಸಾಮಾನ್ಯ ರುಚಿ ಹೇಗಿರುತ್ತದೆ?",
+      "options": ["ಸಿಹಿ", "ಕಹಿ", "ಹುಳಿ", "ಉಪ್ಪು"],
+      "answer": "ಹುಳಿ",
+      "reasoning": "'ಆಮ್ಲ' (acid) ಎಂಬ ಪದವು ಲ್ಯಾಟಿನ್ ಪದ 'acere' ನಿಂದ ಬಂದಿದೆ, ಅಂದರೆ ಹುಳಿ ಎಂದರ್ಥ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following is a natural indicator?",
+      "options": ["Methyl orange", "Phenolphthalein", "Turmeric", "Baking soda"],
+      "answer": "Turmeric",
+      "reasoning": "Turmeric is a naturally occurring indicator that changes colour in the presence of a base."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ನೈಸರ್ಗಿಕ ಸೂಚಕ ಯಾವುದು?",
+      "options": ["ಮೀಥೈಲ್ ಆರೆಂಜ್", "ಫೀನಾಲ್ಫ್ಥಲೀನ್", "ಅರಿಶಿನ", "ಅಡುಗೆ ಸೋಡಾ"],
+      "answer": "ಅರಿಶಿನ",
+      "reasoning": "ಅರಿಶಿನವು ನೈಸರ್ಗಿಕವಾಗಿ ದೊರೆಯುವ ಸೂಚಕವಾಗಿದ್ದು, ಪ್ರತ್ಯಾಮ್ಲದ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_img_003",
+    "type": "image_single",
+    "difficulty": 1,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Red litmus paper turning blue when dipped in a solution",
+        "kn": "ದ್ರಾವಣದಲ್ಲಿ ಮುಳುಗಿಸಿದಾಗ ಕೆಂಪು ಲಿಟ್ಮಸ್ ಕಾಗದವು ನೀಲಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತಿದೆ"
+      },
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"100\" y=\"100\" width=\"100\" height=\"80\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M100,120 Q150,110 200,120 L200,180 L100,180 Z\" fill=\"#DBEAFE\"/><rect x=\"130\" y=\"40\" width=\"40\" height=\"100\" fill=\"#DC2626\"/><rect x=\"130\" y=\"110\" width=\"40\" height=\"30\" fill=\"#2563EB\"/></svg>"
+    },
+    "en": {
+      "question": "The red litmus paper has turned blue. What is the nature of the solution?",
+      "options": ["Acidic", "Basic", "Neutral", "Salty"],
+      "answer": "Basic",
+      "reasoning": "Bases turn red litmus paper blue."
+    },
+    "kn": {
+      "question": "ಕೆಂಪು ಲಿಟ್ಮಸ್ ಕಾಗದ ನೀಲಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿದೆ. ದ್ರಾವಣದ ಸ್ವಭಾವವೇನು?",
+      "options": ["ಆಮ್ಲೀಯ", "ಪ್ರತ್ಯಾಮ್ಲೀಯ", "ತಟಸ್ಥ", "ಲವಣಯುಕ್ತ"],
+      "answer": "ಪ್ರತ್ಯಾಮ್ಲೀಯ",
+      "reasoning": "ಪ್ರತ್ಯಾಮ್ಲಗಳು ಕೆಂಪು ಲಿಟ್ಮಸ್ ಕಾಗದವನ್ನು ನೀಲಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the general taste of bases, and how do they feel to touch?",
+      "options": ["Sour and rough", "Bitter and soapy", "Sweet and smooth", "Salty and sticky"],
+      "answer": "Bitter and soapy",
+      "reasoning": "Bases are bitter in taste and feel soapy to the touch."
+    },
+    "kn": {
+      "question": "ಪ್ರತ್ಯಾಮ್ಲಗಳ ಸಾಮಾನ್ಯ ರುಚಿ ಮತ್ತು ಅವುಗಳನ್ನು ಮುಟ್ಟಿದಾಗ ಹೇಗನಿಸುತ್ತದೆ?",
+      "options": ["ಹುಳಿ ಮತ್ತು ಒರಟು", "ಕಹಿ ಮತ್ತು ಸಾಬೂನಿನಂತೆ", "ಸಿಹಿ ಮತ್ತು ನಯವಾದ", "ಉಪ್ಪು ಮತ್ತು ಜಿಗುಟಾದ"],
+      "answer": "ಕಹಿ ಮತ್ತು ಸಾಬೂನಿನಂತೆ",
+      "reasoning": "ಪ್ರತ್ಯಾಮ್ಲಗಳು ರುಚಿಯಲ್ಲಿ ಕಹಿಯಾಗಿರುತ್ತವೆ ಮತ್ತು ಮುಟ್ಟಿದಾಗ ಸಾಬೂನಿನಂತೆ ನಯವಾಗಿರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which acid is naturally found in lemons and oranges?",
+      "options": ["Lactic acid", "Citric acid", "Formic acid", "Acetic acid"],
+      "answer": "Citric acid",
+      "reasoning": "Citrus fruits like lemons and oranges contain citric acid."
+    },
+    "kn": {
+      "question": "ನಿಂಬೆ ಮತ್ತು ಕಿತ್ತಳೆ ಹಣ್ಣುಗಳಲ್ಲಿ ನೈಸರ್ಗಿಕವಾಗಿ ಕಂಡುಬರುವ ಆಮ್ಲ ಯಾವುದು?",
+      "options": ["ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲ", "ಸಿಟ್ರಿಕ್ ಆಮ್ಲ", "ಫಾರ್ಮಿಕ್ ಆಮ್ಲ", "ಅಸಿಟಿಕ್ ಆಮ್ಲ"],
+      "answer": "ಸಿಟ್ರಿಕ್ ಆಮ್ಲ",
+      "reasoning": "ನಿಂಬೆ ಮತ್ತು ಕಿತ್ತಳೆಯಂತಹ ಸಿಟ್ರಸ್ ಹಣ್ಣುಗಳು ಸಿಟ್ರಿಕ್ ಆಮ್ಲವನ್ನು ಹೊಂದಿರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_006",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following are examples of acids?",
+      "options": ["Vinegar", "Lemon juice", "Baking soda", "Soap solution"],
+      "answer": ["Vinegar", "Lemon juice"],
+      "reasoning": "Vinegar (acetic acid) and lemon juice (citric acid) are acidic, while baking soda and soap are basic."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಆಮ್ಲಗಳಿಗೆ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": ["ವಿನೆಗರ್", "ನಿಂಬೆ ರಸ", "ಅಡುಗೆ ಸೋಡಾ", "ಸಾಬೂನು ದ್ರಾವಣ"],
+      "answer": ["ವಿನೆಗರ್", "ನಿಂಬೆ ರಸ"],
+      "reasoning": "ವಿನೆಗರ್ ಮತ್ತು ನಿಂಬೆ ರಸವು ಆಮ್ಲೀಯವಾಗಿವೆ, ಆದರೆ ಅಡುಗೆ ಸೋಡಾ ಮತ್ತು ಸಾಬೂನು ಪ್ರತ್ಯಾಮ್ಲೀಯವಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_007",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the substance to its basic nature (taste/feel).",
+      "pairs": [
+        {"left": "Lemon", "right": "Sour (Acidic)"},
+        {"left": "Soap", "right": "Bitter & Soapy (Basic)"},
+        {"left": "Sugar water", "right": "Sweet (Neutral)"},
+        {"left": "Common salt solution", "right": "Salty (Neutral)"}
+      ],
+      "reasoning": "Acids are sour, bases are bitter/soapy, and pure sugar/salt solutions are neutral."
+    },
+    "kn": {
+      "question": "ವಸ್ತುವನ್ನು ಅದರ ಮೂಲಭೂತ ಸ್ವಭಾವದೊಂದಿಗೆ (ರುಚಿ/ಸ್ಪರ್ಶ) ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ನಿಂಬೆಹಣ್ಣು", "right": "ಹುಳಿ (ಆಮ್ಲೀಯ)"},
+        {"left": "ಸಾಬೂನು", "right": "ಕಹಿ ಮತ್ತು ಸಾಬೂನಿನಂತೆ (ಪ್ರತ್ಯಾಮ್ಲೀಯ)"},
+        {"left": "ಸಕ್ಕರೆ ನೀರು", "right": "ಸಿಹಿ (ತಟಸ್ಥ)"},
+        {"left": "ಸಾಮಾನ್ಯ ಉಪ್ಪಿನ ದ್ರಾವಣ", "right": "ಉಪ್ಪು (ತಟಸ್ಥ)"}
+      ],
+      "reasoning": "ಆಮ್ಲಗಳು ಹುಳಿಯಾಗಿರುತ್ತವೆ, ಪ್ರತ್ಯಾಮ್ಲಗಳು ಕಹಿಯಾಗಿರುತ್ತವೆ ಮತ್ತು ಶುದ್ಧ ಸಕ್ಕರೆ/ಉಪ್ಪಿನ ದ್ರಾವಣಗಳು ತಟಸ್ಥವಾಗಿರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_008",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What colour does blue litmus paper change to in an acidic solution?",
+      "options": ["Blue", "Red", "Green", "Yellow"],
+      "answer": "Red",
+      "reasoning": "Acids turn blue litmus paper red."
+    },
+    "kn": {
+      "question": "ಆಮ್ಲೀಯ ದ್ರಾವಣದಲ್ಲಿ ನೀಲಿ ಲಿಟ್ಮಸ್ ಕಾಗದವು ಯಾವ ಬಣ್ಣಕ್ಕೆ ಬದಲಾಗುತ್ತದೆ?",
+      "options": ["ನೀಲಿ", "ಕೆಂಪು", "ಹಸಿರು", "ಹಳದಿ"],
+      "answer": "ಕೆಂಪು",
+      "reasoning": "ಆಮ್ಲಗಳು ನೀಲಿ ಲಿಟ್ಮಸ್ ಕಾಗದವನ್ನು ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_009",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "From which organism is litmus dye commonly extracted?",
+      "options": ["Algae", "Fungi", "Lichens", "Mosses"],
+      "answer": "Lichens",
+      "reasoning": "Litmus is a natural dye extracted from lichens."
+    },
+    "kn": {
+      "question": "ಯಾವ ಜೀವಿಯಿಂದ ಲಿಟ್ಮಸ್ ಬಣ್ಣವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ತೆಗೆಯಲಾಗುತ್ತದೆ?",
+      "options": ["ಪಾಚಿ", "ಶಿಲೀಂಧ್ರಗಳು", "ಕಲ್ಲುಹೂವು (Lichens)", "ಪಾಚಿಗಳು"],
+      "answer": "ಕಲ್ಲುಹೂವು (Lichens)",
+      "reasoning": "ಲಿಟ್ಮಸ್ ಎಂಬುದು ಕಲ್ಲುಹೂವುಗಳಿಂದ (Lichens) ತೆಗೆದ ನೈಸರ್ಗಿಕ ಬಣ್ಣವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_img_010",
+    "type": "image_single",
+    "difficulty": 1,
+    "image": {
+      "type": "raster",
+      "src": "class_7/science/abs_001.webp",
+      "alt": {
+        "en": "An ant biting a person's skin",
+        "kn": "ವ್ಯಕ್ತಿಯ ಚರ್ಮವನ್ನು ಕಚ್ಚುತ್ತಿರುವ ಇರುವೆ"
+      }
+    },
+    "en": {
+      "question": "When an ant bites, it injects an acidic liquid into the skin. Which acid is it?",
+      "options": ["Acetic acid", "Formic acid", "Lactic acid", "Nitric acid"],
+      "answer": "Formic acid",
+      "reasoning": "The sting of an ant contains formic acid."
+    },
+    "kn": {
+      "question": "ಇರುವೆ ಕಚ್ಚಿದಾಗ, ಅದು ಚರ್ಮದೊಳಗೆ ಆಮ್ಲೀಯ ದ್ರವವನ್ನು ಚುಚ್ಚುತ್ತದೆ. ಅದು ಯಾವ ಆಮ್ಲ?",
+      "options": ["ಅಸಿಟಿಕ್ ಆಮ್ಲ", "ಫಾರ್ಮಿಕ್ ಆಮ್ಲ", "ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲ", "ನೈಟ್ರಿಕ್ ಆಮ್ಲ"],
+      "answer": "ಫಾರ್ಮಿಕ್ ಆಮ್ಲ",
+      "reasoning": "ಇರುವೆಯ ಕೊಂಡಿಯಲ್ಲಿ ಫಾರ್ಮಿಕ್ ಆಮ್ಲವಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the reaction between an acid and a base called?",
+      "options": ["Evaporation", "Neutralisation", "Crystallisation", "Galvanisation"],
+      "answer": "Neutralisation",
+      "reasoning": "The reaction between an acid and a base is known as a neutralisation reaction, forming salt and water."
+    },
+    "kn": {
+      "question": "ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲದ ನಡುವಿನ ಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": ["ಬಾಷ್ಪೀಕರಣ", "ತಟಸ್ಥೀಕರಣ", "ಹರಳುಗಟ್ಟುವಿಕೆ", "ಗ್ಯಾಲ್ವನೀಕರಣ"],
+      "answer": "ತಟಸ್ಥೀಕರಣ",
+      "reasoning": "ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲದ ನಡುವಿನ ಕ್ರಿಯೆಯನ್ನು ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ, ಇದು ಲವಣ ಮತ್ತು ನೀರನ್ನು ರೂಪಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What colour does turmeric indicator change to in a basic solution?",
+      "options": ["Remains yellow", "Turns red", "Turns blue", "Turns colorless"],
+      "answer": "Turns red",
+      "reasoning": "Turmeric remains yellow in acids but turns red in bases (like soap solution)."
+    },
+    "kn": {
+      "question": "ಪ್ರತ್ಯಾಮ್ಲೀಯ ದ್ರಾವಣದಲ್ಲಿ ಅರಿಶಿನ ಸೂಚಕವು ಯಾವ ಬಣ್ಣಕ್ಕೆ ಬದಲಾಗುತ್ತದೆ?",
+      "options": ["ಹಳದಿಯಾಗಿಯೇ ಉಳಿಯುತ್ತದೆ", "ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ", "ನೀಲಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ", "ಬಣ್ಣರಹಿತವಾಗುತ್ತದೆ"],
+      "answer": "ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ",
+      "reasoning": "ಅರಿಶಿನವು ಆಮ್ಲಗಳಲ್ಲಿ ಹಳದಿಯಾಗಿಯೇ ಇರುತ್ತದೆ ಆದರೆ ಪ್ರತ್ಯಾಮ್ಲಗಳಲ್ಲಿ (ಸಾಬೂನು ದ್ರಾವಣದಂತೆ) ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_013",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "What are the products of a neutralisation reaction?",
+      "options": ["Salt", "Acid", "Water", "Base"],
+      "answer": ["Salt", "Water"],
+      "reasoning": "In a neutralisation reaction, an acid and a base react to form salt and water, with heat evolved."
+    },
+    "kn": {
+      "question": "ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯ ಉತ್ಪನ್ನಗಳು ಯಾವುವು?",
+      "options": ["ಲವಣ", "ಆಮ್ಲ", "ನೀರು", "ಪ್ರತ್ಯಾಮ್ಲ"],
+      "answer": ["ಲವಣ", "ನೀರು"],
+      "reasoning": "ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯಲ್ಲಿ, ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲವು ಪ್ರತಿಕ್ರಿಯಿಸಿ ಲವಣ ಮತ್ತು ನೀರನ್ನು ರೂಪಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_img_014",
+    "type": "image_single",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Equation showing Acid + Base gives Salt and Water",
+        "kn": "ಆಮ್ಲ + ಪ್ರತ್ಯಾಮ್ಲವು ಲವಣ ಮತ್ತು ನೀರನ್ನು ನೀಡುತ್ತದೆ ಎಂದು ತೋರಿಸುವ ಸಮೀಕರಣ"
+      },
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 150\"><rect x=\"20\" y=\"50\" width=\"60\" height=\"80\" fill=\"none\" stroke=\"#2563EB\"/><text x=\"50\" y=\"110\" text-anchor=\"middle\">Acid</text><text x=\"110\" y=\"90\" font-size=\"24\">+</text><rect x=\"140\" y=\"50\" width=\"60\" height=\"80\" fill=\"none\" stroke=\"#059669\"/><text x=\"170\" y=\"110\" text-anchor=\"middle\">Base</text><path d=\"M220,90 L250,90 L240,80 M250,90 L240,100\" stroke=\"#1F2937\" stroke-width=\"2\" fill=\"none\"/><text x=\"275\" y=\"80\" text-anchor=\"middle\">Salt</text><text x=\"275\" y=\"110\" text-anchor=\"middle\">Water</text></svg>"
+    },
+    "en": {
+      "question": "What is the specific name given to the chemical reaction illustrated here?",
+      "options": ["Oxidation", "Neutralisation", "Reduction", "Combustion"],
+      "answer": "Neutralisation",
+      "reasoning": "The reaction shown (Acid + Base -> Salt + Water) is called Neutralisation."
+    },
+    "kn": {
+      "question": "ಇಲ್ಲಿ ವಿವರಿಸಲಾದ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಗೆ ನೀಡಲಾದ ನಿರ್ದಿಷ್ಟ ಹೆಸರು ಏನು?",
+      "options": ["ಉತ್ಕರ್ಷಣ (Oxidation)", "ತಟಸ್ಥೀಕರಣ", "ಅಪಕರ್ಷಣ (Reduction)", "ದಹನ"],
+      "answer": "ತಟಸ್ಥೀಕರಣ",
+      "reasoning": "ತೋರಿಸಿರುವ ಕ್ರಿಯೆಯನ್ನು (ಆಮ್ಲ + ಪ್ರತ್ಯಾಮ್ಲ -> ಲವಣ + ನೀರು) ತಟಸ್ಥೀಕರಣ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_015",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the colour of China rose indicator in acidic and basic solutions, respectively?",
+      "options": ["Dark pink (magenta) and green", "Red and blue", "Yellow and red", "Colorless and pink"],
+      "answer": "Dark pink (magenta) and green",
+      "reasoning": "China rose turns acidic solutions dark pink (magenta) and basic solutions green."
+    },
+    "kn": {
+      "question": "ಚೀನಾ ರೋಸ್ (ದಾಸವಾಳ) ಸೂಚಕವು ಆಮ್ಲೀಯ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲೀಯ ದ್ರಾವಣಗಳಲ್ಲಿ ಕ್ರಮವಾಗಿ ಯಾವ ಬಣ್ಣವನ್ನು ಹೊಂದಿರುತ್ತದೆ?",
+      "options": ["ಗಾಢ ಗುಲಾಬಿ (ಮ್ಯಾಜೆಂಟಾ) ಮತ್ತು ಹಸಿರು", "ಕೆಂಪು ಮತ್ತು ನೀಲಿ", "ಹಳದಿ ಮತ್ತು ಕೆಂಪು", "ಬಣ್ಣರಹಿತ ಮತ್ತು ಗುಲಾಬಿ"],
+      "answer": "ಗಾಢ ಗುಲಾಬಿ (ಮ್ಯಾಜೆಂಟಾ) ಮತ್ತು ಹಸಿರು",
+      "reasoning": "ಚೀನಾ ರೋಸ್ ಆಮ್ಲೀಯ ದ್ರಾವಣಗಳನ್ನು ಗಾಢ ಗುಲಾಬಿ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲೀಯ ದ್ರಾವಣಗಳನ್ನು ಹಸಿರು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_016",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the acid with its natural source.",
+      "pairs": [
+        {"left": "Acetic acid", "right": "Vinegar"},
+        {"left": "Lactic acid", "right": "Curd"},
+        {"left": "Citric acid", "right": "Lemons/Oranges"},
+        {"left": "Tartaric acid", "right": "Tamarind/Grapes"}
+      ],
+      "reasoning": "These are naturally occurring organic acids found in everyday foods."
+    },
+    "kn": {
+      "question": "ಆಮ್ಲವನ್ನು ಅದರ ನೈಸರ್ಗಿಕ ಮೂಲದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಅಸಿಟಿಕ್ ಆಮ್ಲ", "right": "ವಿನೆಗರ್"},
+        {"left": "ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲ", "right": "ಮೊಸರು"},
+        {"left": "ಸಿಟ್ರಿಕ್ ಆಮ್ಲ", "right": "ನಿಂಬೆ/ಕಿತ್ತಳೆ"},
+        {"left": "ಟಾರ್ಟಾರಿಕ್ ಆಮ್ಲ", "right": "ಹುಣಸೆಹಣ್ಣು/ದ್ರಾಕ್ಷಿ"}
+      ],
+      "reasoning": "ಇವು ದೈನಂದಿನ ಆಹಾರಗಳಲ್ಲಿ ಕಂಡುಬರುವ ನೈಸರ್ಗಿಕ ಸಾವಯವ ಆಮ್ಲಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_017",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which base is commonly found in window cleaners?",
+      "options": ["Sodium hydroxide", "Ammonium hydroxide", "Calcium hydroxide", "Magnesium hydroxide"],
+      "answer": "Ammonium hydroxide",
+      "reasoning": "Window cleaners use ammonium hydroxide because it cleans glass effectively without leaving streaks."
+    },
+    "kn": {
+      "question": "ಕಿಟಕಿ ಸ್ವಚ್ಛಗೊಳಿಸುವ ದ್ರವಗಳಲ್ಲಿ (window cleaners) ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಪ್ರತ್ಯಾಮ್ಲ ಕಂಡುಬರುತ್ತದೆ?",
+      "options": ["ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್", "ಅಮೋನಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್", "ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್", "ಮೆಗ್ನೀಸಿಯಮ್ ಹೈಡ್ರಾಕ್ಸೈಡ್"],
+      "answer": "ಅಮೋನಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್",
+      "reasoning": "ಕಿಟಕಿ ಸ್ವಚ್ಛಗೊಳಿಸುವ ದ್ರವಗಳಲ್ಲಿ ಅಮೋನಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಬಳಸಲಾಗುತ್ತದೆ ಏಕೆಂದರೆ ಇದು ಗಾಜನ್ನು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ಸ್ವಚ್ಛಗೊಳಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_img_018",
+    "type": "image_single",
+    "difficulty": 2,
+    "image": {
+      "type": "raster",
+      "src": "class_7/science/abs_002.webp",
+      "alt": {
+        "en": "Factory waste being treated before discharge",
+        "kn": "ಹೊರಹಾಕುವ ಮೊದಲು ಕಾರ್ಖಾನೆಯ ತ್ಯಾಜ್ಯವನ್ನು ಸಂಸ್ಕರಿಸಲಾಗುತ್ತಿದೆ"
+      }
+    },
+    "en": {
+      "question": "Why are factory wastes often treated with basic substances before being discharged into rivers?",
+      "options": ["To make them smell better", "To neutralise the acids present in the waste", "To increase their temperature", "To extract useful salts"],
+      "answer": "To neutralise the acids present in the waste",
+      "reasoning": "Factory wastes often contain acids which can kill fish. They are neutralised using basic substances."
+    },
+    "kn": {
+      "question": "ನದಿಗಳಿಗೆ ಬಿಡುವ ಮೊದಲು ಕಾರ್ಖಾನೆಯ ತ್ಯಾಜ್ಯಗಳನ್ನು ಪ್ರತ್ಯಾಮ್ಲೀಯ ವಸ್ತುಗಳಿಂದ ಏಕೆ ಸಂಸ್ಕರಿಸಲಾಗುತ್ತದೆ?",
+      "options": ["ಅವುಗಳ ವಾಸನೆಯನ್ನು ಉತ್ತಮಗೊಳಿಸಲು", "ತ್ಯಾಜ್ಯದಲ್ಲಿರುವ ಆಮ್ಲಗಳನ್ನು ತಟಸ್ಥಗೊಳಿಸಲು", "ಅವುಗಳ ತಾಪಮಾನವನ್ನು ಹೆಚ್ಚಿಸಲು", "ಉಪಯುಕ್ತ ಲವಣಗಳನ್ನು ಹೊರತೆಗೆಯಲು"],
+      "answer": "ತ್ಯಾಜ್ಯದಲ್ಲಿರುವ ಆಮ್ಲಗಳನ್ನು ತಟಸ್ಥಗೊಳಿಸಲು",
+      "reasoning": "ಕಾರ್ಖಾನೆಯ ತ್ಯಾಜ್ಯಗಳು ಆಮ್ಲಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ, ಅವು ಮೀನುಗಳನ್ನು ಕೊಲ್ಲಬಲ್ಲವು. ಪ್ರತ್ಯಾಮ್ಲೀಯ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ ಅವುಗಳನ್ನು ತಟಸ್ಥಗೊಳಿಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following substances turn pink when a few drops of phenolphthalein are added?",
+      "options": ["Soap solution", "Lemon juice", "Lime water", "Vinegar"],
+      "answer": ["Soap solution", "Lime water"],
+      "reasoning": "Phenolphthalein turns pink in basic solutions like soap and lime water, but remains colourless in acids."
+    },
+    "kn": {
+      "question": "ಕೆಲವು ಹನಿಗಳ ಫೀನಾಲ್ಫ್ಥಲೀನ್ ಸೇರಿಸಿದಾಗ ಕೆಳಗಿನ ಯಾವ ವಸ್ತುಗಳು ಗುಲಾಬಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತವೆ?",
+      "options": ["ಸಾಬೂನು ದ್ರಾವಣ", "ನಿಂಬೆ ರಸ", "ಸುಣ್ಣದ ನೀರು", "ವಿನೆಗರ್"],
+      "answer": ["ಸಾಬೂನು ದ್ರಾವಣ", "ಸುಣ್ಣದ ನೀರು"],
+      "reasoning": "ಫೀನಾಲ್ಫ್ಥಲೀನ್ ಸಾಬೂನು ಮತ್ತು ಸುಣ್ಣದ ನೀರಿನಂತಹ ಪ್ರತ್ಯಾಮ್ಲೀಯ ದ್ರಾವಣಗಳಲ್ಲಿ ಗುಲಾಬಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_020",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the everyday bases with their common chemical names.",
+      "pairs": [
+        {"left": "Lime water", "right": "Calcium hydroxide"},
+        {"left": "Soap", "right": "Sodium hydroxide"},
+        {"left": "Milk of Magnesia", "right": "Magnesium hydroxide"},
+        {"left": "Window cleaner", "right": "Ammonium hydroxide"}
+      ],
+      "reasoning": "These are common bases used in household items."
+    },
+    "kn": {
+      "question": "ದೈನಂದಿನ ಪ್ರತ್ಯಾಮ್ಲಗಳನ್ನು ಅವುಗಳ ಸಾಮಾನ್ಯ ರಾಸಾಯನಿಕ ಹೆಸರುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಸುಣ್ಣದ ನೀರು", "right": "ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್"},
+        {"left": "ಸಾಬೂನು", "right": "ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್"},
+        {"left": "ಮಿಲ್ಕ್ ಆಫ್ ಮೆಗ್ನೀಸಿಯಾ", "right": "ಮೆಗ್ನೀಸಿಯಮ್ ಹೈಡ್ರಾಕ್ಸೈಡ್"},
+        {"left": "ಕಿಟಕಿ ಕ್ಲೀನರ್", "right": "ಅಮೋನಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್"}
+      ],
+      "reasoning": "ಇವು ಮನೆಯ ವಸ್ತುಗಳಲ್ಲಿ ಬಳಸುವ ಸಾಮಾನ್ಯ ಪ್ರತ್ಯಾಮ್ಲಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_021",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "During indigestion caused by excess stomach acid, which of the following provides relief?",
+      "options": ["Lemon juice", "Antacid (like Milk of Magnesia)", "Vinegar", "Common salt"],
+      "answer": "Antacid (like Milk of Magnesia)",
+      "reasoning": "Milk of magnesia contains a base (Magnesium hydroxide) that neutralises excess stomach acid."
+    },
+    "kn": {
+      "question": "ಹೊಟ್ಟೆಯಲ್ಲಿ ಆಮ್ಲದ ಹೆಚ್ಚಳದಿಂದ ಉಂಟಾಗುವ ಅಜೀರ್ಣದ ಸಮಯದಲ್ಲಿ, ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಪರಿಹಾರ ನೀಡುತ್ತದೆ?",
+      "options": ["ನಿಂಬೆ ರಸ", "ಆಂಟಾಸಿಡ್ (ಮಿಲ್ಕ್ ಆಫ್ ಮೆಗ್ನೀಸಿಯಾದಂತಹ)", "ವಿನೆಗರ್", "ಸಾಮಾನ್ಯ ಉಪ್ಪು"],
+      "answer": "ಆಂಟಾಸಿಡ್ (ಮಿಲ್ಕ್ ಆಫ್ ಮೆಗ್ನೀಸಿಯಾದಂತಹ)",
+      "reasoning": "ಮಿಲ್ಕ್ ಆಫ್ ಮೆಗ್ನೀಸಿಯಾ ಪ್ರತ್ಯಾಮ್ಲವನ್ನು ಹೊಂದಿದೆ, ಇದು ಹೊಟ್ಟೆಯಲ್ಲಿರುವ ಹೆಚ್ಚುವರಿ ಆಮ್ಲವನ್ನು ತಟಸ್ಥಗೊಳಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_img_022",
+    "type": "image_multiple",
+    "difficulty": 3,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Adding quicklime to highly acidic soil",
+        "kn": "ಹೆಚ್ಚು ಆಮ್ಲೀಯವಾಗಿರುವ ಮಣ್ಣಿಗೆ ಕ್ವಿಕ್‌ಲೈಮ್ (ಸುಣ್ಣ) ಸೇರಿಸುವುದು"
+      },
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"50\" y=\"100\" width=\"200\" height=\"20\" fill=\"#DC2626\"/><text x=\"150\" y=\"90\" text-anchor=\"middle\">Soil is too acidic</text><path d=\"M100,50 L100,80\" stroke=\"#1F2937\" stroke-width=\"2\" marker-end=\"url(#a)\"/><text x=\"150\" y=\"40\" text-anchor=\"middle\">Adding Quicklime</text><defs><marker id=\"a\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8\" fill=\"none\" stroke=\"context-stroke\"/></marker></defs></svg>"
+    },
+    "en": {
+      "question": "When soil is too acidic, plants do not grow well. What true statements apply to treating acidic soil?",
+      "options": ["It is treated with bases like quicklime", "It is treated with organic matter", "Quicklime neutralises the soil", "Acids are added to balance it"],
+      "answer": ["It is treated with bases like quicklime", "Quicklime neutralises the soil"],
+      "reasoning": "Acidic soil is treated with bases like quicklime (calcium oxide) or slaked lime to neutralise it."
+    },
+    "kn": {
+      "question": "ಮಣ್ಣು ಹೆಚ್ಚು ಆಮ್ಲೀಯವಾಗಿದ್ದಾಗ ಸಸ್ಯಗಳು ಚೆನ್ನಾಗಿ ಬೆಳೆಯುವುದಿಲ್ಲ. ಆಮ್ಲೀಯ ಮಣ್ಣನ್ನು ಸಂಸ್ಕರಿಸುವುದಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಸರಿಯಾದ ಹೇಳಿಕೆಗಳು ಯಾವುವು?",
+      "options": ["ಇದನ್ನು ಕ್ವಿಕ್‌ಲೈಮ್‌ನಂತಹ ಪ್ರತ್ಯಾಮ್ಲಗಳಿಂದ ಸಂಸ್ಕರಿಸಲಾಗುತ್ತದೆ", "ಇದನ್ನು ಸಾವಯವ ಗೊಬ್ಬರದಿಂದ ಸಂಸ್ಕರಿಸಲಾಗುತ್ತದೆ", "ಕ್ವಿಕ್‌ಲೈಮ್ ಮಣ್ಣನ್ನು ತಟಸ್ಥಗೊಳಿಸುತ್ತದೆ", "ಇದನ್ನು ಸಮತೋಲನಗೊಳಿಸಲು ಆಮ್ಲಗಳನ್ನು ಸೇರಿಸಲಾಗುತ್ತದೆ"],
+      "answer": ["ಇದನ್ನು ಕ್ವಿಕ್‌ಲೈಮ್‌ನಂತಹ ಪ್ರತ್ಯಾಮ್ಲಗಳಿಂದ ಸಂಸ್ಕರಿಸಲಾಗುತ್ತದೆ", "ಕ್ವಿಕ್‌ಲೈಮ್ ಮಣ್ಣನ್ನು ತಟಸ್ಥಗೊಳಿಸುತ್ತದೆ"],
+      "reasoning": "ಆಮ್ಲೀಯ ಮಣ್ಣನ್ನು ತಟಸ್ಥಗೊಳಿಸಲು ಕ್ವಿಕ್‌ಲೈಮ್ (ಕ್ಯಾಲ್ಸಿಯಂ ಆಕ್ಸೈಡ್) ನಂತಹ ಪ್ರತ್ಯಾಮ್ಲಗಳಿಂದ ಸಂಸ್ಕರಿಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_023",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What substance can be rubbed on the skin to neutralise the effect of an ant bite?",
+      "options": ["Lemon juice", "Calamine solution", "Vinegar", "Water"],
+      "answer": "Calamine solution",
+      "reasoning": "Ant bites inject acidic formic acid. Calamine solution contains zinc carbonate, which is basic and neutralises the acid."
+    },
+    "kn": {
+      "question": "ಇರುವೆ ಕಚ್ಚಿದಾಗ ಅದರ ಪರಿಣಾಮವನ್ನು ತಟಸ್ಥಗೊಳಿಸಲು ಚರ್ಮದ ಮೇಲೆ ಯಾವ ವಸ್ತುವನ್ನು ಉಜ್ಜಬಹುದು?",
+      "options": ["ನಿಂಬೆ ರಸ", "ಕ್ಯಾಲಮೈನ್ ದ್ರಾವಣ", "ವಿನೆಗರ್", "ನೀರು"],
+      "answer": "ಕ್ಯಾಲಮೈನ್ ದ್ರಾವಣ",
+      "reasoning": "ಕ್ಯಾಲಮೈನ್ ದ್ರಾವಣವು ಝಿಂಕ್ ಕಾರ್ಬೋನೇಟ್ ಅನ್ನು ಹೊಂದಿರುತ್ತದೆ, ಇದು ಪ್ರತ್ಯಾಮ್ಲೀಯವಾಗಿದ್ದು ಆಮ್ಲವನ್ನು ತಟಸ್ಥಗೊಳಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the daily life problem with its chemical treatment.",
+      "pairs": [
+        {"left": "Indigestion (excess acid)", "right": "Milk of Magnesia (Antacid)"},
+        {"left": "Ant bite (formic acid)", "right": "Moist baking soda / Calamine"},
+        {"left": "Soil is too acidic", "right": "Quicklime (Calcium oxide)"},
+        {"left": "Soil is too basic", "right": "Organic matter (Compost)"}
+      ],
+      "reasoning": "Neutralisation reactions solve many everyday chemical imbalances."
+    },
+    "kn": {
+      "question": "ದೈನಂದಿನ ಜೀವನದ ಸಮಸ್ಯೆಯನ್ನು ಅದರ ರಾಸಾಯನಿಕ ಪರಿಹಾರದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಅಜೀರ್ಣ (ಹೆಚ್ಚುವರಿ ಆಮ್ಲ)", "right": "ಮಿಲ್ಕ್ ಆಫ್ ಮೆಗ್ನೀಸಿಯಾ (ಆಂಟಾಸಿಡ್)"},
+        {"left": "ಇರುವೆ ಕಚ್ಚುವುದು", "right": "ಆರ್ದ್ರ ಅಡುಗೆ ಸೋಡಾ / ಕ್ಯಾಲಮೈನ್"},
+        {"left": "ಮಣ್ಣು ಹೆಚ್ಚು ಆಮ್ಲೀಯವಾಗಿದೆ", "right": "ಕ್ವಿಕ್‌ಲೈಮ್ (ಕ್ಯಾಲ್ಸಿಯಂ ಆಕ್ಸೈಡ್)"},
+        {"left": "ಮಣ್ಣು ಹೆಚ್ಚು ಪ್ರತ್ಯಾಮ್ಲೀಯವಾಗಿದೆ", "right": "ಸಾವಯವ ವಸ್ತುಗಳು (ಗೊಬ್ಬರ)"}
+      ],
+      "reasoning": "ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಗಳು ದೈನಂದಿನ ಹಲವು ರಾಸಾಯನಿಕ ಅಸಮತೋಲನಗಳನ್ನು ಪರಿಹರಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_025",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What type of salt is formed when a strong acid reacts with a strong base?",
+      "options": ["Acidic salt", "Basic salt", "Neutral salt", "No salt is formed"],
+      "answer": "Neutral salt",
+      "reasoning": "A strong acid and a strong base completely neutralise each other, resulting in a neutral salt (like NaCl)."
+    },
+    "kn": {
+      "question": "ಪ್ರಬಲ ಆಮ್ಲವು ಪ್ರಬಲ ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಿದಾಗ ಯಾವ ರೀತಿಯ ಲವಣ ಉಂಟಾಗುತ್ತದೆ?",
+      "options": ["ಆಮ್ಲೀಯ ಲವಣ", "ಪ್ರತ್ಯಾಮ್ಲೀಯ ಲವಣ", "ತಟಸ್ಥ ಲವಣ", "ಲವಣ ಉಂಟಾಗುವುದಿಲ್ಲ"],
+      "answer": "ತಟಸ್ಥ ಲವಣ",
+      "reasoning": "ಪ್ರಬಲ ಆಮ್ಲ ಮತ್ತು ಪ್ರಬಲ ಪ್ರತ್ಯಾಮ್ಲವು ಸಂಪೂರ್ಣವಾಗಿ ತಟಸ್ಥಗೊಂಡು ತಟಸ್ಥ ಲವಣವನ್ನು (NaCl ನಂತೆ) ರೂಪಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_026",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following represent examples of a neutralisation reaction?",
+      "options": ["Taking an antacid for indigestion", "Applying calamine to an ant bite", "Dissolving sugar in water", "Treating factory waste with slaked lime"],
+      "answer": ["Taking an antacid for indigestion", "Applying calamine to an ant bite", "Treating factory waste with slaked lime"],
+      "reasoning": "Sugar dissolving is just a physical change, not an acid-base neutralisation."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯ ಉದಾಹರಣೆಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ?",
+      "options": ["ಅಜೀರ್ಣಕ್ಕಾಗಿ ಆಂಟಾಸಿಡ್ ತೆಗೆದುಕೊಳ್ಳುವುದು", "ಇರುವೆ ಕಚ್ಚಿದಾಗ ಕ್ಯಾಲಮೈನ್ ಹಚ್ಚುವುದು", "ನೀರಿನಲ್ಲಿ ಸಕ್ಕರೆ ಕರಗಿಸುವುದು", "ಕಾರ್ಖಾನೆಯ ತ್ಯಾಜ್ಯವನ್ನು ಸುಣ್ಣದ ನೀರಿನಿಂದ ಸಂಸ್ಕರಿಸುವುದು"],
+      "answer": ["ಅಜೀರ್ಣಕ್ಕಾಗಿ ಆಂಟಾಸಿಡ್ ತೆಗೆದುಕೊಳ್ಳುವುದು", "ಇರುವೆ ಕಚ್ಚಿದಾಗ ಕ್ಯಾಲಮೈನ್ ಹಚ್ಚುವುದು", "ಕಾರ್ಖಾನೆಯ ತ್ಯಾಜ್ಯವನ್ನು ಸುಣ್ಣದ ನೀರಿನಿಂದ ಸಂಸ್ಕರಿಸುವುದು"],
+      "reasoning": "ಸಕ್ಕರೆ ಕರಗುವುದು ಕೇವಲ ಭೌತಿಕ ಬದಲಾವಣೆಯೇ ಹೊರತು ಆಮ್ಲ-ಪ್ರತ್ಯಾಮ್ಲ ತಟಸ್ಥೀಕರಣವಲ್ಲ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_img_027",
+    "type": "image_single",
+    "difficulty": 3,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "A yellow turmeric stain turning red after soap is applied",
+        "kn": "ಸಾಬೂನು ಹಚ್ಚಿದ ನಂತರ ಹಳದಿ ಬಣ್ಣದ ಅರಿಶಿನದ ಕಲೆ ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತಿದೆ"
+      },
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"50\" y=\"50\" width=\"100\" height=\"100\" fill=\"#FEF08A\"/><circle cx=\"100\" cy=\"100\" r=\"30\" fill=\"#DC2626\"/><text x=\"100\" y=\"180\" text-anchor=\"middle\">Soap applied to stain</text></svg>"
+    },
+    "en": {
+      "question": "A turmeric stain on a white shirt turns red when washed with soap. Why?",
+      "options": ["Soap is acidic", "Soap is basic", "Turmeric reacts with water", "The cloth material changes colour"],
+      "answer": "Soap is basic",
+      "reasoning": "Turmeric is a natural indicator that turns red in the presence of a base like soap."
+    },
+    "kn": {
+      "question": "ಬಿಳಿ ಶರ್ಟ್ ಮೇಲಿನ ಅರಿಶಿನದ ಕಲೆ ಸಾಬೂನಿನಿಂದ ತೊಳೆದಾಗ ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ. ಏಕೆ?",
+      "options": ["ಸಾಬೂನು ಆಮ್ಲೀಯವಾಗಿದೆ", "ಸಾಬೂನು ಪ್ರತ್ಯಾಮ್ಲೀಯವಾಗಿದೆ", "ಅರಿಶಿನವು ನೀರಿನೊಂದಿಗೆ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತದೆ", "ಬಟ್ಟೆಯ ವಸ್ತು ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ"],
+      "answer": "ಸಾಬೂನು ಪ್ರತ್ಯಾಮ್ಲೀಯವಾಗಿದೆ",
+      "reasoning": "ಅರಿಶಿನವು ನೈಸರ್ಗಿಕ ಸೂಚಕವಾಗಿದ್ದು, ಸಾಬೂನಿನಂತಹ ಪ್ರತ್ಯಾಮ್ಲದ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_028",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the chemical formula for Milk of Magnesia?",
+      "options": ["Mg(OH)2", "NaOH", "HCl", "Ca(OH)2"],
+      "answer": "Mg(OH)2",
+      "reasoning": "Milk of Magnesia is a suspension of Magnesium hydroxide, Mg(OH)2."
+    },
+    "kn": {
+      "question": "ಮಿಲ್ಕ್ ಆಫ್ ಮೆಗ್ನೀಸಿಯಾದ ರಾಸಾಯನಿಕ ಸೂತ್ರ ಏನು?",
+      "options": ["Mg(OH)2", "NaOH", "HCl", "Ca(OH)2"],
+      "answer": "Mg(OH)2",
+      "reasoning": "ಮಿಲ್ಕ್ ಆಫ್ ಮೆಗ್ನೀಸಿಯಾವು ಮೆಗ್ನೀಸಿಯಮ್ ಹೈಡ್ರಾಕ್ಸೈಡ್ (Mg(OH)2) ನ ಮಿಶ್ರಣವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_029",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Organic matter (compost) is added to soil when it is:",
+      "options": ["Too acidic", "Too basic", "Too wet", "Too dry"],
+      "answer": "Too basic",
+      "reasoning": "Organic matter releases acids as it decomposes, which neutralises the basic nature of the soil."
+    },
+    "kn": {
+      "question": "ಮಣ್ಣು ಈ ಕೆಳಗಿನ ಯಾವ ಸ್ಥಿತಿಯಲ್ಲಿದ್ದಾಗ ಅದಕ್ಕೆ ಸಾವಯವ ಗೊಬ್ಬರವನ್ನು ಸೇರಿಸಲಾಗುತ್ತದೆ?",
+      "options": ["ಹೆಚ್ಚು ಆಮ್ಲೀಯವಾದಾಗ", "ಹೆಚ್ಚು ಪ್ರತ್ಯಾಮ್ಲೀಯವಾದಾಗ", "ತುಂಬಾ ಒದ್ದೆಯಾದಾಗ", "ತುಂಬಾ ಒಣಗಿದಾಗ"],
+      "answer": "ಹೆಚ್ಚು ಪ್ರತ್ಯಾಮ್ಲೀಯವಾದಾಗ",
+      "reasoning": "ಸಾವಯವ ವಸ್ತುವು ಕೊಳೆಯುವಾಗ ಆಮ್ಲಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ, ಇದು ಮಣ್ಣಿನ ಪ್ರತ್ಯಾಮ್ಲೀಯ ಸ್ವಭಾವವನ್ನು ತಟಸ್ಥಗೊಳಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_abs_030",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the indicator to its colour change in an ACIDIC solution.",
+      "pairs": [
+        {"left": "Blue Litmus", "right": "Turns Red"},
+        {"left": "Phenolphthalein", "right": "Remains Colourless"},
+        {"left": "Turmeric", "right": "Remains Yellow"},
+        {"left": "China Rose", "right": "Turns Dark Pink/Magenta"}
+      ],
+      "reasoning": "Indicators show specific colours in acidic environments."
+    },
+    "kn": {
+      "question": "ಆಮ್ಲೀಯ ದ್ರಾವಣದಲ್ಲಿ ಸೂಚಕಗಳು ಹೊಂದುವ ಬಣ್ಣದ ಬದಲಾವಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ನೀಲಿ ಲಿಟ್ಮಸ್", "right": "ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ"},
+        {"left": "ಫೀನಾಲ್ಫ್ಥಲೀನ್", "right": "ಬಣ್ಣರಹಿತವಾಗಿ ಉಳಿಯುತ್ತದೆ"},
+        {"left": "ಅರಿಶಿನ", "right": "ಹಳದಿಯಾಗಿ ಉಳಿಯುತ್ತದೆ"},
+        {"left": "ಚೀನಾ ರೋಸ್", "right": "ಗಾಢ ಗುಲಾಬಿಗೆ ತಿರುಗುತ್ತದೆ"}
+      ],
+      "reasoning": "ಸೂಚಕಗಳು ಆಮ್ಲೀಯ ಪರಿಸರದಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಬಣ್ಣಗಳನ್ನು ತೋರಿಸುತ್ತವೆ."
+    }
+  }
+]

@@ -1,0 +1,584 @@
+[
+  {
+    "id": "c7_sci_rep_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the process of producing new individuals from their parents called?",
+      "options": ["Respiration", "Reproduction", "Digestion", "Transportation"],
+      "answer": "Reproduction",
+      "reasoning": "The production of new individuals from their parents is known as reproduction."
+    },
+    "kn": {
+      "question": "ಪೋಷಕರಿಂದ ಹೊಸ ಜೀವಿಗಳು ಉತ್ಪತ್ತಿಯಾಗುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": ["ಉಸಿರಾಟ", "ಸಂತಾನೋತ್ಪತ್ತಿ", "ಜೀರ್ಣಕ್ರಿಯೆ", "ಸಾಗಾಣಿಕೆ"],
+      "answer": "ಸಂತಾನೋತ್ಪತ್ತಿ",
+      "reasoning": "ಪೋಷಕರಿಂದ ಹೊಸ ಜೀವಿಗಳು ಉತ್ಪತ್ತಿಯಾಗುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಸಂತಾನೋತ್ಪತ್ತಿ (Reproduction) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following are the reproductive parts of a plant?",
+      "options": ["Roots", "Stems", "Leaves", "Flowers"],
+      "answer": "Flowers",
+      "reasoning": "Flowers are the reproductive parts of a plant."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಸಸ್ಯದ ಸಂತಾನೋತ್ಪತ್ತಿ ಭಾಗಗಳು ಯಾವುವು?",
+      "options": ["ಬೇರುಗಳು", "ಕಾಂಡಗಳು", "ಎಲೆಗಳು", "ಹೂವುಗಳು"],
+      "answer": "ಹೂವುಗಳು",
+      "reasoning": "ಹೂವುಗಳು ಸಸ್ಯದ ಸಂತಾನೋತ್ಪತ್ತಿ ಭಾಗಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What type of reproduction involves only a single parent and does not use seeds?",
+      "options": ["Sexual reproduction", "Asexual reproduction", "Pollination", "Fertilisation"],
+      "answer": "Asexual reproduction",
+      "reasoning": "In asexual reproduction, plants can give rise to new plants without seeds. It involves only one parent."
+    },
+    "kn": {
+      "question": "ಕೇವಲ ಒಬ್ಬ ಪೋಷಕರನ್ನು ಒಳಗೊಂಡಿರುವ ಮತ್ತು ಬೀಜಗಳನ್ನು ಬಳಸದ ಸಂತಾನೋತ್ಪತ್ತಿಯ ವಿಧ ಯಾವುದು?",
+      "options": ["ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ", "ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ", "ಪರಾಗಸ್ಪರ್ಶ", "ಫಲವತ್ತಾಗಿಸುವಿಕೆ"],
+      "answer": "ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ",
+      "reasoning": "ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಯಲ್ಲಿ (Asexual reproduction), ಸಸ್ಯಗಳು ಬೀಜಗಳಿಲ್ಲದೆ ಹೊಸ ಸಸ್ಯಗಳನ್ನು ಹುಟ್ಟುಹಾಕಬಹುದು. ಇದು ಕೇವಲ ಒಬ್ಬ ಪೋಷಕರನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the male reproductive part of a flower called?",
+      "options": ["Pistil", "Stamen", "Petal", "Sepal"],
+      "answer": "Stamen",
+      "reasoning": "The stamens are the male reproductive parts of a flower."
+    },
+    "kn": {
+      "question": "ಹೂವಿನ ಪುರುಷ ಸಂತಾನೋತ್ಪತ್ತಿ ಭಾಗವನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": ["ಶಲಾಕ (Pistil)", "ಕೇಸರ (Stamen)", "ದಳ (Petal)", "ಪುಷ್ಪಪಾತ್ರೆ (Sepal)"],
+      "answer": "ಕೇಸರ (Stamen)",
+      "reasoning": "ಕೇಸರಗಳು (Stamens) ಹೂವಿನ ಪುರುಷ ಸಂತಾನೋತ್ಪತ್ತಿ ಭಾಗಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Identify the female reproductive part of a flower.",
+      "options": ["Stamen", "Anther", "Pistil", "Filament"],
+      "answer": "Pistil",
+      "reasoning": "The pistil is the female reproductive part of a flower."
+    },
+    "kn": {
+      "question": "ಹೂವಿನ ಸ್ತ್ರೀ ಸಂತಾನೋತ್ಪತ್ತಿ ಭಾಗವನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": ["ಕೇಸರ (Stamen)", "ಪರಾಗಕೋಶ (Anther)", "ಶಲಾಕ (Pistil)", "ತಂತು (Filament)"],
+      "answer": "ಶಲಾಕ (Pistil)",
+      "reasoning": "ಶಲಾಕವು (Pistil) ಹೂವಿನ ಸ್ತ್ರೀ ಸಂತಾನೋತ್ಪತ್ತಿ ಭಾಗವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_006",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following are examples of vegetative parts of a plant?",
+      "options": ["Roots", "Flowers", "Stems", "Leaves"],
+      "answer": ["Roots", "Stems", "Leaves"],
+      "reasoning": "Roots, stems, and leaves are vegetative parts of a plant. Flowers are reproductive parts."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಸಸ್ಯದ ಸಸ್ಯಕ (vegetative) ಭಾಗಗಳಿಗೆ ಉದಾಹರಣೆಗಳಾಗಿವೆ?",
+      "options": ["ಬೇರುಗಳು", "ಹೂವುಗಳು", "ಕಾಂಡಗಳು", "ಎಲೆಗಳು"],
+      "answer": ["ಬೇರುಗಳು", "ಕಾಂಡಗಳು", "ಎಲೆಗಳು"],
+      "reasoning": "ಬೇರುಗಳು, ಕಾಂಡಗಳು ಮತ್ತು ಎಲೆಗಳು ಸಸ್ಯದ ಸಸ್ಯಕ ಭಾಗಗಳಾಗಿವೆ. ಹೂವುಗಳು ಸಂತಾನೋತ್ಪತ್ತಿ ಭಾಗಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_007",
+    "type": "image_single",
+    "difficulty": 1,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M100 120 C100 90, 130 90, 130 120 C130 150, 100 150, 100 120 Z' fill='#DBEAFE' stroke='#2563EB' stroke-width='2'/><path d='M120 95 C120 70, 140 70, 140 95 C140 110, 120 110, 120 95 Z' fill='#DBEAFE' stroke='#2563EB' stroke-width='2'/><circle cx='115' cy='120' r='5' fill='#1F2937'/><circle cx='130' cy='90' r='3' fill='#1F2937'/></svg>",
+      "alt": {
+        "en": "Diagram showing a parent yeast cell developing a bud",
+        "kn": "ಬೆಳೆಯುತ್ತಿರುವ ಮೊಗ್ಗನ್ನು ಹೊಂದಿರುವ ಯೀಸ್ಟ್ ಕೋಶವನ್ನು ತೋರಿಸುವ ರೇಖಾಚಿತ್ರ"
+      }
+    },
+    "en": {
+      "question": "Which organism reproduces asexually through the process shown in the diagram (budding)?",
+      "options": ["Rose", "Potato", "Yeast", "Spirogyra"],
+      "answer": "Yeast",
+      "reasoning": "The small bulb-like projection coming out from the yeast cell is called a bud. Yeast reproduces by budding."
+    },
+    "kn": {
+      "question": "ರೇಖಾಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಪ್ರಕ್ರಿಯೆಯ (ಮೊಗ್ಗುವಿಕೆ) ಮೂಲಕ ಯಾವ ಜೀವಿಯು ಅಲೈಂಗಿಕವಾಗಿ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ?",
+      "options": ["ಗುಲಾಬಿ", "ಆಲೂಗಡ್ಡೆ", "ಯೀಸ್ಟ್ (Yeast)", "ಸ್ಪೈರೋಗೈರಾ"],
+      "answer": "ಯೀಸ್ಟ್ (Yeast)",
+      "reasoning": "ಯೀಸ್ಟ್ ಕೋಶದಿಂದ ಹೊರಬರುವ ಸಣ್ಣ ಬಲ್ಬ್ ತರಹದ ಪ್ರಕ್ಷೇಪಣವನ್ನು ಮೊಗ್ಗು ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಯೀಸ್ಟ್ ಮೊಗ್ಗುವಿಕೆಯ (budding) ಮೂಲಕ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_008",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the plant with its method of vegetative propagation:",
+      "pairs": [
+        { "left": "Potato", "right": "Eyes (buds) on tuber" },
+        { "left": "Rose", "right": "Stem cutting" },
+        { "left": "Bryophyllum", "right": "Leaf margins" },
+        { "left": "Sweet potato", "right": "Roots" }
+      ],
+      "reasoning": "Potatoes reproduce from eyes, roses from stem cuttings, Bryophyllum from buds on leaf margins, and sweet potatoes from roots."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯವನ್ನು ಅದರ ಸಸ್ಯಕ ವೃದ್ಧಿ (vegetative propagation) ವಿಧಾನದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        { "left": "ಆಲೂಗಡ್ಡೆ", "right": "ಗೆಡ್ಡೆಯ ಮೇಲಿನ ಕಣ್ಣುಗಳು (ಮೊಗ್ಗುಗಳು)" },
+        { "left": "ಗುಲಾಬಿ", "right": "ಕಾಂಡದ ಕತ್ತರಿಸುವಿಕೆ" },
+        { "left": "ಬ್ರಯೋಫಿಲ್ಲಮ್ (Bryophyllum)", "right": "ಎಲೆಯ ಅಂಚುಗಳು" },
+        { "left": "ಸಿಹಿ ಗೆಣಸು", "right": "ಬೇರುಗಳು" }
+      ],
+      "reasoning": "ಆಲೂಗಡ್ಡೆಗಳು ಕಣ್ಣುಗಳಿಂದ, ಗುಲಾಬಿಗಳು ಕಾಂಡವನ್ನು ಕತ್ತರಿಸುವುದರಿಂದ, ಬ್ರಯೋಫಿಲ್ಲಮ್ ಎಲೆಯ ಅಂಚಿನಲ್ಲಿರುವ ಮೊಗ್ಗುಗಳಿಂದ ಮತ್ತು ಸಿಹಿ ಗೆಣಸು ಬೇರುಗಳಿಂದ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_009",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the cell which results after the fusion of gametes called?",
+      "options": ["Spore", "Zygote", "Embryo", "Seed"],
+      "answer": "Zygote",
+      "reasoning": "The cell which results after fusion of the male and female gametes is called a zygote."
+    },
+    "kn": {
+      "question": "ಲಿಂಗಾಣುಗಳ (gametes) ಸಮ್ಮಿಲನದ ನಂತರ ಉಂಟಾಗುವ ಕೋಶವನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": ["ಬೀಜಕ (Spore)", "接ಗು (Zygote)", "ಭ್ರೂಣ (Embryo)", "ಬೀಜ (Seed)"],
+      "answer": "接ಗು (Zygote)",
+      "reasoning": "ಪುರುಷ ಮತ್ತು ಸ್ತ್ರೀ ಲಿಂಗಾಣುಗಳ ಸಮ್ಮಿಲನದ ನಂತರ ಉಂಟಾಗುವ ಕೋಶವನ್ನು ಜೈಗೋಟ್ (Zygote) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_010",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What part of a plant does a sweet potato use for vegetative propagation?",
+      "options": ["Leaves", "Roots", "Stem", "Flowers"],
+      "answer": "Roots",
+      "reasoning": "Roots of some plants can also give rise to new plants. Sweet potato and dahlia are examples."
+    },
+    "kn": {
+      "question": "ಸಿಹಿ ಗೆಣಸು ಸಸ್ಯಕ ವೃದ್ಧಿಗಾಗಿ ಸಸ್ಯದ ಯಾವ ಭಾಗವನ್ನು ಬಳಸುತ್ತದೆ?",
+      "options": ["ಎಲೆಗಳು", "ಬೇರುಗಳು", "ಕಾಂಡ", "ಹೂವುಗಳು"],
+      "answer": "ಬೇರುಗಳು",
+      "reasoning": "ಕೆಲವು ಸಸ್ಯಗಳ ಬೇರುಗಳು ಸಹ ಹೊಸ ಸಸ್ಯಗಳನ್ನು ಹುಟ್ಟುಹಾಕಬಲ್ಲವು. ಸಿಹಿ ಗೆಣಸು ಮತ್ತು ಡೇಲಿಯಾ ಇದಕ್ಕೆ ಉದಾಹರಣೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following plants reproduce through spores?",
+      "options": ["Mango and Apple", "Rose and Jasmine", "Moss and Ferns", "Potato and Tomato"],
+      "answer": "Moss and Ferns",
+      "reasoning": "Plants such as moss and ferns reproduce by means of spores, which are asexual reproductive bodies."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಯಾವ ಸಸ್ಯಗಳು ಬೀಜಕಗಳ (spores) ಮೂಲಕ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ?",
+      "options": ["ಮಾವು ಮತ್ತು ಸೇಬು", "ಗುಲಾಬಿ ಮತ್ತು ಮಲ್ಲಿಗೆ", "ಪಾಚಿ (Moss) ಮತ್ತು ಜರೀಗಿಡ (Ferns)", "ಆಲೂಗಡ್ಡೆ ಮತ್ತು ಟೊಮೆಟೊ"],
+      "answer": "ಪಾಚಿ (Moss) ಮತ್ತು ಜರೀಗಿಡ (Ferns)",
+      "reasoning": "ಪಾಚಿ ಮತ್ತು ಜರೀಗಿಡಗಳಂತಹ ಸಸ್ಯಗಳು ಬೀಜಕಗಳ ಮೂಲಕ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ, ಇವು ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ ದೇಹಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_012",
+    "type": "image_single",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M50 100 L250 100' stroke='#059669' stroke-width='20'/><line x1='100' y1='90' x2='100' y2='110' stroke='white' stroke-width='2'/><line x1='150' y1='90' x2='150' y2='110' stroke='white' stroke-width='2'/><line x1='200' y1='90' x2='200' y2='110' stroke='white' stroke-width='2'/><path d='M50 60 L100 60' stroke='#059669' stroke-width='20' transform='translate(0, 80)'/><path d='M150 60 L250 60' stroke='#059669' stroke-width='20' transform='translate(0, 80)'/><line x1='100' y1='90' x2='100' y2='150' stroke='#DC2626' stroke-width='2' stroke-dasharray='4'/></svg>",
+      "alt": {
+        "en": "Diagram showing a filamentous alga breaking into two pieces",
+        "kn": "ತಂತುವಿನಂತಹ ಪಾಚಿ ಎರಡು ತುಂಡುಗಳಾಗಿ ಒಡೆಯುವುದನ್ನು ತೋರಿಸುವ ರೇಖಾಚಿತ್ರ"
+      }
+    },
+    "en": {
+      "question": "Identify the type of asexual reproduction shown in the diagram (often seen in Spirogyra).",
+      "options": ["Budding", "Fragmentation", "Spore formation", "Vegetative propagation"],
+      "answer": "Fragmentation",
+      "reasoning": "An alga like Spirogyra breaks up into two or more fragments. These fragments grow into new individuals. This is called fragmentation."
+    },
+    "kn": {
+      "question": "ರೇಖಾಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಯ ಪ್ರಕಾರವನ್ನು ಗುರುತಿಸಿ (ಇದನ್ನು ಹೆಚ್ಚಾಗಿ ಸ್ಪೈರೋಗೈರಾದಲ್ಲಿ ಕಾಣಬಹುದು).",
+      "options": ["ಮೊಗ್ಗುವಿಕೆ (Budding)", "ತುಂಡಾಗುವಿಕೆ (Fragmentation)", "ಬೀಜಕ ರಚನೆ", "ಸಸ್ಯಕ ವೃದ್ಧಿ"],
+      "answer": "ತುಂಡಾಗುವಿಕೆ (Fragmentation)",
+      "reasoning": "ಸ್ಪೈರೋಗೈರಾದಂತಹ ಪಾಚಿ ಎರಡು ಅಥವಾ ಹೆಚ್ಚಿನ ತುಂಡುಗಳಾಗಿ ಒಡೆಯುತ್ತದೆ. ಈ ತುಂಡುಗಳು ಹೊಸ ಜೀವಿಗಳಾಗಿ ಬೆಳೆಯುತ್ತವೆ. ಇದನ್ನು ತುಂಡಾಗುವಿಕೆ (fragmentation) ಎನ್ನುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is a bisexual flower?",
+      "options": ["A flower with only pistils", "A flower with only stamens", "A flower with both stamens and pistil", "A flower with neither stamens nor pistils"],
+      "answer": "A flower with both stamens and pistil",
+      "reasoning": "Flowers which contain both stamens and pistil are called bisexual flowers (e.g., mustard, rose, petunia)."
+    },
+    "kn": {
+      "question": "ದ್ವಿಲಿಂಗಿ ಹೂವು (bisexual flower) ಎಂದರೇನು?",
+      "options": ["ಕೇವಲ ಶಲಾಕಗಳನ್ನು ಹೊಂದಿರುವ ಹೂವು", "ಕೇವಲ ಕೇಸರಗಳನ್ನು ಹೊಂದಿರುವ ಹೂವು", "ಕೇಸರಗಳು ಮತ್ತು ಶಲಾಕ ಎರಡನ್ನೂ ಹೊಂದಿರುವ ಹೂವು", "ಕೇಸರಗಳು ಅಥವಾ ಶಲಾಕಗಳು ಇವೆರಡೂ ಇಲ್ಲದ ಹೂವು"],
+      "answer": "ಕೇಸರಗಳು ಮತ್ತು ಶಲಾಕ ಎರಡನ್ನೂ ಹೊಂದಿರುವ ಹೂವು",
+      "reasoning": "ಕೇಸರಗಳು ಮತ್ತು ಶಲಾಕ (Pistil) ಎರಡನ್ನೂ ಒಳಗೊಂಡಿರುವ ಹೂವುಗಳನ್ನು ದ್ವಿಲಿಂಗಿ ಹೂವುಗಳು ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ (ಉದಾ: ಸಾಸಿವೆ, ಗುಲಾಬಿ)."
+    }
+  },
+  {
+    "id": "c7_sci_rep_014",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following plants have unisexual flowers?",
+      "options": ["Corn", "Papaya", "Rose", "Mustard"],
+      "answer": ["Corn", "Papaya"],
+      "reasoning": "Corn, papaya, and cucumber produce unisexual flowers (containing either only stamens or only pistils). Rose and mustard have bisexual flowers."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಯಾವ ಸಸ್ಯಗಳು ಏಕಲಿಂಗಿ ಹೂವುಗಳನ್ನು (unisexual flowers) ಹೊಂದಿವೆ?",
+      "options": ["ಜೋಳ", "ಪಪ್ಪಾಯಿ", "ಗುಲಾಬಿ", "ಸಾಸಿವೆ"],
+      "answer": ["ಜೋಳ", "ಪಪ್ಪಾಯಿ"],
+      "reasoning": "ಜೋಳ, ಪಪ್ಪಾಯಿ ಮತ್ತು ಸೌತೆಕಾಯಿ ಏಕಲಿಂಗಿ ಹೂವುಗಳನ್ನು ಉತ್ಪಾದಿಸುತ್ತವೆ (ಕೇವಲ ಕೇಸರಗಳು ಅಥವಾ ಶಲಾಕಗಳನ್ನು ಮಾತ್ರ ಹೊಂದಿರುತ್ತವೆ)."
+    }
+  },
+  {
+    "id": "c7_sci_rep_015",
+    "type": "image_multiple",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M150 150 C140 100, 145 60, 150 50 C155 60, 160 100, 150 150 Z' fill='#FBBF24' stroke='#B45309' stroke-width='2'/><rect x='148' y='150' width='4' height='40' fill='#10B981'/><text x='110' y='60' font-family='Arial' font-size='12'>Anther</text><line x1='125' y1='55' x2='145' y2='55' stroke='#1F2937'/><text x='95' y='170' font-family='Arial' font-size='12'>Filament</text><line x1='125' y1='165' x2='145' y2='165' stroke='#1F2937'/></svg>",
+      "alt": {
+        "en": "Diagram showing the parts of a stamen: anther and filament",
+        "kn": "ಕೇಸರದ ಭಾಗಗಳನ್ನು ತೋರಿಸುವ ರೇಖಾಚಿತ್ರ: ಪರಾಗಕೋಶ ಮತ್ತು ತಂತು"
+      }
+    },
+    "en": {
+      "question": "Which of the following parts make up the stamen (male reproductive part) as shown in the diagram?",
+      "options": ["Anther", "Stigma", "Filament", "Ovary"],
+      "answer": ["Anther", "Filament"],
+      "reasoning": "A stamen consists of an anther (which contains pollen grains) and a stalk called the filament."
+    },
+    "kn": {
+      "question": "ರೇಖಾಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಕೇಸರವನ್ನು (ಪುರುಷ ಸಂತಾನೋತ್ಪತ್ತಿ ಭಾಗ) ರೂಪಿಸುವ ಭಾಗಗಳು ಯಾವುವು?",
+      "options": ["ಪರಾಗಕೋಶ (Anther)", "ಶಲಾಕಾಗ್ರ (Stigma)", "ತಂತು (Filament)", "ಅಂಡಾಶಯ (Ovary)"],
+      "answer": ["ಪರಾಗಕೋಶ (Anther)", "ತಂತು (Filament)"],
+      "reasoning": "ಕೇಸರವು ಪರಾಗಕೋಶ (ಪರಾಗ ರೇಣುಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ) ಮತ್ತು ತಂತು ಎಂಬ ಕಾಂಡವನ್ನು ಹೊಂದಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_016",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What does the anther of a flower contain?",
+      "options": ["Ovules", "Pollen grains", "Nectar", "Sepals"],
+      "answer": "Pollen grains",
+      "reasoning": "Anther contains pollen grains which produce male gametes."
+    },
+    "kn": {
+      "question": "ಹೂವಿನ ಪರಾಗಕೋಶವು (anther) ಏನನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ?",
+      "options": ["ಅಂಡಕಗಳು (Ovules)", "ಪರಾಗ ರೇಣುಗಳು (Pollen grains)", "ಮಕರಂದ", "ಪುಷ್ಪಪಾತ್ರೆಗಳು"],
+      "answer": "ಪರಾಗ ರೇಣುಗಳು (Pollen grains)",
+      "reasoning": "ಪರಾಗಕೋಶವು ಪುರುಷ ಲಿಂಗಾಣುಗಳನ್ನು ಉತ್ಪಾದಿಸುವ ಪರಾಗ ರೇಣುಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_017",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the part of the pistil with its position:",
+      "pairs": [
+        { "left": "Stigma", "right": "Sticky top part" },
+        { "left": "Style", "right": "Middle tube-like part" },
+        { "left": "Ovary", "right": "Swollen bottom part" },
+        { "left": "Ovule", "right": "Inside the ovary" }
+      ],
+      "reasoning": "The pistil consists of a stigma at the top, a tube-like style in the middle, and a swollen ovary at the base containing ovules."
+    },
+    "kn": {
+      "question": "ಶಲಾಕದ (pistil) ಭಾಗವನ್ನು ಅದರ ಸ್ಥಾನದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        { "left": "ಶಲಾಕಾಗ್ರ (Stigma)", "right": "ಅಂಟಂಟಾದ ಮೇಲ್ಭಾಗ" },
+        { "left": "ಶಲಾಕನಳಿಕೆ (Style)", "right": "ಮಧ್ಯದ ಕೊಳವೆಯಂತಹ ಭಾಗ" },
+        { "left": "ಅಂಡಾಶಯ (Ovary)", "right": "ಉಬ್ಬಿದ ತಳ ಭಾಗ" },
+        { "left": "ಅಂಡಕ (Ovule)", "right": "ಅಂಡಾಶಯದ ಒಳಗೆ" }
+      ],
+      "reasoning": "ಶಲಾಕವು ಮೇಲ್ಭಾಗದಲ್ಲಿ ಶಲಾಕಾಗ್ರ, ಮಧ್ಯದಲ್ಲಿ ಕೊಳವೆಯಂತಹ ಶಲಾಕನಳಿಕೆ ಮತ್ತು ಅಂಡಕಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ತಳದಲ್ಲಿ ಉಬ್ಬಿದ ಅಂಡಾಶಯವನ್ನು ಹೊಂದಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_018",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the transfer of pollen from the anther to the stigma of a flower called?",
+      "options": ["Fertilisation", "Pollination", "Germination", "Dispersal"],
+      "answer": "Pollination",
+      "reasoning": "The transfer of pollen from the anther to the stigma of a flower is called pollination."
+    },
+    "kn": {
+      "question": "ಹೂವಿನ ಪರಾಗಕೋಶದಿಂದ ಶಲಾಕಾಗ್ರಕ್ಕೆ ಪರಾಗದ ವರ್ಗಾವಣೆಯನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": ["ಫಲವತ್ತಾಗಿಸುವಿಕೆ", "ಪರಾಗಸ್ಪರ್ಶ", "ಮೊಳೆಯುವಿಕೆ", "ಪ್ರಸರಣ"],
+      "answer": "ಪರಾಗಸ್ಪರ್ಶ",
+      "reasoning": "ಹೂವಿನ ಪರಾಗಕೋಶದಿಂದ ಶಲಾಕಾಗ್ರಕ್ಕೆ ಪರಾಗದ ವರ್ಗಾವಣೆಯನ್ನು ಪರಾಗಸ್ಪರ್ಶ (pollination) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_019",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In 'cross-pollination', where does the pollen land?",
+      "options": ["On the stigma of the same flower", "On the roots of the plant", "On the stigma of a flower on a different plant of the same kind", "On the leaves of the same plant"],
+      "answer": "On the stigma of a flower on a different plant of the same kind",
+      "reasoning": "If the pollen of a flower lands on the stigma of a flower of a different plant of the same kind, it is called cross-pollination."
+    },
+    "kn": {
+      "question": "'ಪರಕೀಯ ಪರಾಗಸ್ಪರ್ಶ'ದಲ್ಲಿ (cross-pollination), ಪರಾಗವು ಎಲ್ಲಿಗೆ ತಲುಪುತ್ತದೆ?",
+      "options": ["ಅದೇ ಹೂವಿನ ಶಲಾಕಾಗ್ರದ ಮೇಲೆ", "ಸಸ್ಯದ ಬೇರುಗಳ ಮೇಲೆ", "ಅದೇ ಜಾತಿಯ ಬೇರೊಂದು ಸಸ್ಯದ ಹೂವಿನ ಶಲಾಕಾಗ್ರದ ಮೇಲೆ", "ಅದೇ ಸಸ್ಯದ ಎಲೆಗಳ ಮೇಲೆ"],
+      "answer": "ಅದೇ ಜಾತಿಯ ಬೇರೊಂದು ಸಸ್ಯದ ಹೂವಿನ ಶಲಾಕಾಗ್ರದ ಮೇಲೆ",
+      "reasoning": "ಒಂದು ಹೂವಿನ ಪರಾಗವು ಅದೇ ಜಾತಿಯ ಬೇರೊಂದು ಸಸ್ಯದ ಹೂವಿನ ಶಲಾಕಾಗ್ರದ ಮೇಲೆ ಬಿದ್ದರೆ, ಅದನ್ನು ಪರಕೀಯ ಪರಾಗಸ್ಪರ್ಶ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_020",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "After fertilisation, what does the ovary grow into?",
+      "options": ["A seed", "A new leaf", "A fruit", "A root"],
+      "answer": "A fruit",
+      "reasoning": "After fertilisation, the ovary grows into a fruit and other parts of the flower fall off. The fruit is the ripened ovary."
+    },
+    "kn": {
+      "question": "ಫಲವತ್ತಾಗಿಸುವಿಕೆಯ ನಂತರ, ಅಂಡಾಶಯವು (ovary) ಏನಾಗಿ ಬೆಳೆಯುತ್ತದೆ?",
+      "options": ["ಬೀಜ", "ಹೊಸ ಎಲೆ", "ಹಣ್ಣು", "ಬೇರು"],
+      "answer": "ಹಣ್ಣು",
+      "reasoning": "ಫಲವತ್ತಾಗಿಸುವಿಕೆಯ ನಂತರ, ಅಂಡಾಶಯವು ಹಣ್ಣಾಗಿ ಬೆಳೆಯುತ್ತದೆ ಮತ್ತು ಹೂವಿನ ಇತರ ಭಾಗಗಳು ಉದುರಿಹೋಗುತ್ತವೆ. ಹಣ್ಣು ಎಂದರೆ ಮಾಗಿದ ಅಂಡಾಶಯ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_021",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the process of fusion of male and female gametes called?",
+      "options": ["Pollination", "Fertilisation", "Vegetative propagation", "Fragmentation"],
+      "answer": "Fertilisation",
+      "reasoning": "The process of fusion of male and female gametes (to form a zygote) is called fertilisation."
+    },
+    "kn": {
+      "question": "ಪುರುಷ ಮತ್ತು ಸ್ತ್ರೀ ಲಿಂಗಾಣುಗಳ ಸಮ್ಮಿಲನದ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": ["ಪರಾಗಸ್ಪರ್ಶ", "ಫಲವತ್ತಾಗಿಸುವಿಕೆ (Fertilisation)", "ಸಸ್ಯಕ ವೃದ್ಧಿ", "ತುಂಡಾಗುವಿಕೆ"],
+      "answer": "ಫಲವತ್ತಾಗಿಸುವಿಕೆ (Fertilisation)",
+      "reasoning": "ಪುರುಷ ಮತ್ತು ಸ್ತ್ರೀ ಲಿಂಗಾಣುಗಳ ಸಮ್ಮಿಲನದ ಪ್ರಕ್ರಿಯೆಯನ್ನು (ಜೈಗೋಟ್ ರೂಪಿಸಲು) ಫಲವತ್ತಾಗಿಸುವಿಕೆ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_022",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following are agents of seed dispersal?",
+      "options": ["Wind", "Water", "Animals", "Sunlight"],
+      "answer": ["Wind", "Water", "Animals"],
+      "reasoning": "Seeds and fruits of plants are carried away by wind, water, and animals."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಬೀಜ ಪ್ರಸರಣದ (seed dispersal) ವಾಹಕಗಳು ಯಾವುವು?",
+      "options": ["ಗಾಳಿ", "ನೀರು", "ಪ್ರಾಣಿಗಳು", "ಸೂರ್ಯನ ಬೆಳಕು"],
+      "answer": ["ಗಾಳಿ", "ನೀರು", "ಪ್ರಾಣಿಗಳು"],
+      "reasoning": "ಸಸ್ಯಗಳ ಬೀಜಗಳು ಮತ್ತು ಹಣ್ಣುಗಳನ್ನು ಗಾಳಿ, ನೀರು ಮತ್ತು ಪ್ರಾಣಿಗಳು ದೂರಕ್ಕೆ ಕೊಂಡೊಯ್ಯುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_023",
+    "type": "image_single",
+    "difficulty": 3,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M150 100 C180 50, 250 80, 200 120 C180 140, 150 100, 150 100 Z' fill='#DBEAFE' stroke='#1F2937' stroke-width='1'/><path d='M150 100 C120 50, 50 80, 100 120 C120 140, 150 100, 150 100 Z' fill='#DBEAFE' stroke='#1F2937' stroke-width='1'/><circle cx='150' cy='110' r='10' fill='#B45309'/></svg>",
+      "alt": {
+        "en": "Diagram of a seed with two wing-like structures attached to it",
+        "kn": "ಎರಡು ರೆಕ್ಕೆಯಂತಹ ರಚನೆಗಳನ್ನು ಹೊಂದಿರುವ ಬೀಜದ ರೇಖಾಚಿತ್ರ"
+      }
+    },
+    "en": {
+      "question": "The winged seed shown in the diagram (like that of drumstick or maple) is most likely dispersed by which agent?",
+      "options": ["Water", "Wind", "Animals", "Gravity"],
+      "answer": "Wind",
+      "reasoning": "Winged seeds such as those of drumstick and maple, and light seeds of grasses, are easily blown away by the wind to faraway places."
+    },
+    "kn": {
+      "question": "ರೇಖಾಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ರೆಕ್ಕೆಯುಳ್ಳ ಬೀಜವು (ನುಗ್ಗೆಕಾಯಿ ಅಥವಾ ಮೇಪಲ್‌ನಂತೆ) ಹೆಚ್ಚಾಗಿ ಯಾವ ವಾಹಕದಿಂದ ಪ್ರಸರಣಗೊಳ್ಳುತ್ತದೆ?",
+      "options": ["ನೀರು", "ಗಾಳಿ", "ಪ್ರಾಣಿಗಳು", "ಗುರುತ್ವಾಕರ್ಷಣೆ"],
+      "answer": "ಗಾಳಿ",
+      "reasoning": "ನುಗ್ಗೆಕಾಯಿ ಮತ್ತು ಮೇಪಲ್‌ನಂತಹ ರೆಕ್ಕೆಯುಳ್ಳ ಬೀಜಗಳು ಮತ್ತು ಹುಲ್ಲುಗಳ ಹಗುರವಾದ ಬೀಜಗಳು ಗಾಳಿಯಿಂದ ಸುಲಭವಾಗಿ ದೂರದ ಸ್ಥಳಗಳಿಗೆ ಹಾರಿಹೋಗುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_024",
+    "type": "image_single",
+    "difficulty": 3,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M150 20 C140 20, 130 30, 140 40 C145 45, 145 100, 150 120 C155 100, 155 45, 160 40 C170 30, 160 20, 150 20 Z' fill='#34D399' stroke='#065F46' stroke-width='2'/><circle cx='150' cy='150' r='30' fill='#A7F3D0' stroke='#065F46' stroke-width='2'/><circle cx='150' cy='150' r='10' fill='#10B981'/><text x='100' y='35' font-family='Arial' font-size='12'>Stigma</text><text x='110' y='80' font-family='Arial' font-size='12'>Style</text><text x='100' y='155' font-family='Arial' font-size='12'>Ovary</text></svg>",
+      "alt": {
+        "en": "Diagram showing the parts of a pistil: stigma, style, and ovary",
+        "kn": "ಶಲಾಕದ ಭಾಗಗಳನ್ನು ತೋರಿಸುವ ರೇಖಾಚಿತ್ರ: ಶಲಾಕಾಗ್ರ, ಶಲಾಕನಳಿಕೆ ಮತ್ತು ಅಂಡಾಶಯ"
+      }
+    },
+    "en": {
+      "question": "Inside the ovary (the bottom swollen part of the pistil), what structure contains the female gamete or egg?",
+      "options": ["Pollen tube", "Ovule", "Anther", "Zygote"],
+      "answer": "Ovule",
+      "reasoning": "The ovary contains one or more ovules. The female gamete or the egg is formed in an ovule."
+    },
+    "kn": {
+      "question": "ಅಂಡಾಶಯದ ಒಳಗೆ (ಶಲಾಕದ ಕೆಳಗಿನ ಉಬ್ಬಿದ ಭಾಗ), ಸ್ತ್ರೀ ಲಿಂಗಾಣು ಅಥವಾ ಮೊಟ್ಟೆಯನ್ನು ಒಳಗೊಂಡಿರುವ ರಚನೆ ಯಾವುದು?",
+      "options": ["ಪರಾಗ ನಾಳ", "ಅಂಡಕ (Ovule)", "ಪರಾಗಕೋಶ (Anther)", "ಜೈಗೋಟ್"],
+      "answer": "ಅಂಡಕ (Ovule)",
+      "reasoning": "ಅಂಡಾಶಯವು ಒಂದು ಅಥವಾ ಹೆಚ್ಚಿನ ಅಂಡಕಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಸ್ತ್ರೀ ಲಿಂಗಾಣು ಅಥವಾ ಮೊಟ್ಟೆಯು ಅಂಡಕದಲ್ಲಿ ರೂಪುಗೊಳ್ಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the seeds with their primary agent of dispersal:",
+      "pairs": [
+        { "left": "Drumstick seeds (winged)", "right": "Wind" },
+        { "left": "Coconut", "right": "Water" },
+        { "left": "Xanthium (spiny)", "right": "Animals" },
+        { "left": "Balsam (bursting)", "right": "Self-explosion" }
+      ],
+      "reasoning": "Winged seeds use wind; spongy outer coats like coconut use water; spiny seeds stick to animals; balsam fruits burst open to scatter seeds."
+    },
+    "kn": {
+      "question": "ಬೀಜಗಳನ್ನು ಅವುಗಳ ಪ್ರಾಥಮಿಕ ಪ್ರಸರಣ ವಾಹಕದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        { "left": "ನುಗ್ಗೆಕಾಯಿ ಬೀಜಗಳು (ರೆಕ್ಕೆಯುಳ್ಳ)", "right": "ಗಾಳಿ" },
+        { "left": "ತೆಂಗಿನಕಾಯಿ", "right": "ನೀರು" },
+        { "left": "ಕ್ಸಾಂಥಿಯಂ (ಮುಳ್ಳಿನ)", "right": "ಪ್ರಾಣಿಗಳು" },
+        { "left": "ಬಾಲ್ಸಮ್ (ಸ್ಫೋಟಗೊಳ್ಳುವ)", "right": "ಸ್ವಯಂ-ಸ್ಫೋಟ" }
+      ],
+      "reasoning": "ರೆಕ್ಕೆಯುಳ್ಳ ಬೀಜಗಳು ಗಾಳಿಯನ್ನು ಬಳಸುತ್ತವೆ; ತೆಂಗಿನಕಾಯಿಯಂತಹ ಸ್ಪಂಜಿನ ಹೊರ ಕವಚಗಳು ನೀರನ್ನು ಬಳಸುತ್ತವೆ; ಮುಳ್ಳಿನ ಬೀಜಗಳು ಪ್ರಾಣಿಗಳಿಗೆ ಅಂಟಿಕೊಳ್ಳುತ್ತವೆ; ಬೀಜಗಳನ್ನು ಹರಡಲು ಬಾಲ್ಸಮ್ ಹಣ್ಣುಗಳು ಒಡೆಯುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_026",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How are the seeds of coconut adapted for dispersal by water?",
+      "options": ["They have wings", "They have a fibrous outer coat", "They have hooks", "They burst open"],
+      "answer": "They have a fibrous outer coat",
+      "reasoning": "Seeds or fruits of plants like coconut develop a floating ability in the form of a spongy or fibrous outer coat for dispersal by water."
+    },
+    "kn": {
+      "question": "ತೆಂಗಿನಕಾಯಿಯ ಬೀಜಗಳು ನೀರಿನ ಮೂಲಕ ಪ್ರಸರಣಗೊಳ್ಳಲು ಹೇಗೆ ಹೊಂದಿಕೊಂಡಿವೆ?",
+      "options": ["ಅವು ರೆಕ್ಕೆಗಳನ್ನು ಹೊಂದಿವೆ", "ಅವು ನಾರಿನ ಹೊರ ಕವಚವನ್ನು ಹೊಂದಿವೆ", "ಅವು ಕೊಕ್ಕೆಗಳನ್ನು ಹೊಂದಿವೆ", "ಅವು ಒಡೆಯುತ್ತವೆ"],
+      "answer": "ಅವು ನಾರಿನ ಹೊರ ಕವಚವನ್ನು ಹೊಂದಿವೆ",
+      "reasoning": "ತೆಂಗಿನಕಾಯಿಯಂತಹ ಸಸ್ಯಗಳ ಬೀಜಗಳು ಅಥವಾ ಹಣ್ಣುಗಳು ನೀರಿನ ಮೂಲಕ ಪ್ರಸರಣಗೊಳ್ಳಲು ಸ್ಪಂಜಿನ ಅಥವಾ ನಾರಿನ ಹೊರ ಕವಚದ ರೂಪದಲ್ಲಿ ತೇಲುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_027",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What happens in a flower to lead to the formation of a zygote?",
+      "options": ["A pollen grain divides into two", "A male gamete fuses with a female gamete", "The stigma produces nectar", "The ovary bursts"],
+      "answer": "A male gamete fuses with a female gamete",
+      "reasoning": "The fusion of a male gamete (from pollen) and a female gamete (in the ovule) leads to the formation of a zygote."
+    },
+    "kn": {
+      "question": "ಹೂವಿನಲ್ಲಿ ಜೈಗೋಟ್ (zygote) ರಚನೆಗೆ ಕಾರಣವಾಗುವುದು ಯಾವುದು?",
+      "options": ["ಒಂದು ಪರಾಗ ರೇಣು ಎರಡಾಗಿ ವಿಭಜನೆಯಾಗುವುದು", "ಪುರುಷ ಲಿಂಗಾಣು ಸ್ತ್ರೀ ಲಿಂಗಾಣುವಿನೊಂದಿಗೆ ಬೆರೆಯುವುದು", "ಶಲಾಕಾಗ್ರವು ಮಕರಂದವನ್ನು ಉತ್ಪಾದಿಸುವುದು", "ಅಂಡಾಶಯವು ಒಡೆಯುವುದು"],
+      "answer": "ಪುರುಷ ಲಿಂಗಾಣು ಸ್ತ್ರೀ ಲಿಂಗಾಣುವಿನೊಂದಿಗೆ ಬೆರೆಯುವುದು",
+      "reasoning": "ಪುರುಷ ಲಿಂಗಾಣು (ಪರಾಗದಿಂದ) ಮತ್ತು ಸ್ತ್ರೀ ಲಿಂಗಾಣು (ಅಂಡಕದಲ್ಲಿ) ಸಮ್ಮಿಲನಗೊಳ್ಳುವುದು ಜೈಗೋಟ್ ರಚನೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_028",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following fruits burst with sudden jerks to scatter their seeds far from the parent plant?",
+      "options": ["Castor", "Coconut", "Balsam", "Mango"],
+      "answer": ["Castor", "Balsam"],
+      "reasoning": "Some fruits like castor and balsam burst with sudden jerks. The seeds are scattered far from the parent plant."
+    },
+    "kn": {
+      "question": "ತಮ್ಮ ಬೀಜಗಳನ್ನು ಮೂಲ ಸಸ್ಯದಿಂದ ದೂರಕ್ಕೆ ಚದುರಿಸಲು ಹಠಾತ್ ಒಡೆಯುವ ಹಣ್ಣುಗಳು ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು?",
+      "options": ["ಹರಳು (Castor)", "ತೆಂಗಿನಕಾಯಿ", "ಬಾಲ್ಸಮ್ (Balsam)", "ಮಾವು"],
+      "answer": ["ಹರಳು (Castor)", "ಬಾಲ್ಸಮ್ (Balsam)"],
+      "reasoning": "ಹರಳು ಮತ್ತು ಬಾಲ್ಸಮ್‌ನಂತಹ ಕೆಲವು ಹಣ್ಣುಗಳು ಹಠಾತ್ತನೆ ಒಡೆಯುತ್ತವೆ. ಇದರಿಂದ ಬೀಜಗಳು ಮೂಲ ಸಸ್ಯದಿಂದ ಬಹಳ ದೂರಕ್ಕೆ ಚದುರಿ ಹೋಗುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_029",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the plant with its asexual reproduction type:",
+      "pairs": [
+        { "left": "Yeast", "right": "Budding" },
+        { "left": "Spirogyra", "right": "Fragmentation" },
+        { "left": "Fern", "right": "Spore formation" },
+        { "left": "Rose", "right": "Vegetative propagation" }
+      ],
+      "reasoning": "Yeast reproduces by budding, Spirogyra by fragmentation, Ferns by spores, and Roses by vegetative propagation (stem cutting)."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯವನ್ನು ಅದರ ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ ಪ್ರಕಾರದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        { "left": "ಯೀಸ್ಟ್ (Yeast)", "right": "ಮೊಗ್ಗುವಿಕೆ" },
+        { "left": "ಸ್ಪೈರೋಗೈರಾ", "right": "ತುಂಡಾಗುವಿಕೆ" },
+        { "left": "ಜರೀಗಿಡ (Fern)", "right": "ಬೀಜಕ ರಚನೆ (Spore formation)" },
+        { "left": "ಗುಲಾಬಿ", "right": "ಸಸ್ಯಕ ವೃದ್ಧಿ" }
+      ],
+      "reasoning": "ಯೀಸ್ಟ್ ಮೊಗ್ಗುವಿಕೆಯಿಂದ, ಸ್ಪೈರೋಗೈರಾ ತುಂಡಾಗುವಿಕೆಯಿಂದ, ಜರೀಗಿಡಗಳು ಬೀಜಕಗಳಿಂದ ಮತ್ತು ಗುಲಾಬಿಗಳು ಸಸ್ಯಕ ವೃದ್ಧಿಯಿಂದ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_rep_030",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "If a farmer wants to grow a new potato plant, which part of the potato should be planted in the soil?",
+      "options": ["The whole potato", "A piece of potato with an 'eye' (bud)", "The leaves of the potato plant", "The roots of the potato plant"],
+      "answer": "A piece of potato with an 'eye' (bud)",
+      "reasoning": "Potatoes have scars called 'eyes' which are actually buds. Planting a piece of potato with an eye in the soil will grow into a new plant."
+    },
+    "kn": {
+      "question": "ರೈತನೊಬ್ಬ ಹೊಸ ಆಲೂಗಡ್ಡೆ ಸಸ್ಯವನ್ನು ಬೆಳೆಸಲು ಬಯಸಿದರೆ, ಆಲೂಗಡ್ಡೆಯ ಯಾವ ಭಾಗವನ್ನು ಮಣ್ಣಿನಲ್ಲಿ ನೆಡಬೇಕು?",
+      "options": ["ಇಡೀ ಆಲೂಗಡ್ಡೆ", "'ಕಣ್ಣು' (ಮೊಗ್ಗು) ಇರುವ ಆಲೂಗಡ್ಡೆಯ ತುಂಡು", "ಆಲೂಗಡ್ಡೆ ಸಸ್ಯದ ಎಲೆಗಳು", "ಆಲೂಗಡ್ಡೆ ಸಸ್ಯದ ಬೇರುಗಳು"],
+      "answer": "'ಕಣ್ಣು' (ಮೊಗ್ಗು) ಇರುವ ಆಲೂಗಡ್ಡೆಯ ತುಂಡು",
+      "reasoning": "ಆಲೂಗಡ್ಡೆಗಳು 'ಕಣ್ಣುಗಳು' ಎಂಬ ಕಲೆಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ, ಅವು ವಾಸ್ತವವಾಗಿ ಮೊಗ್ಗುಗಳಾಗಿವೆ. ಕಣ್ಣು ಇರುವ ಆಲೂಗಡ್ಡೆಯ ತುಂಡನ್ನು ಮಣ್ಣಿನಲ್ಲಿ ನೆಟ್ಟರೆ ಹೊಸ ಸಸ್ಯವಾಗಿ ಬೆಳೆಯುತ್ತದೆ."
+    }
+  }
+]

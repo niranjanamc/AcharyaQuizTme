@@ -1,0 +1,666 @@
+[
+  {
+    "id": "c7_sci_na_1",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the process of taking food into the body called?",
+      "options": ["Digestion", "Ingestion", "Absorption", "Assimilation"],
+      "answer": "Ingestion",
+      "reasoning": "The process of taking food into the body through the mouth is called ingestion."
+    },
+    "kn": {
+      "question": "ದೇಹದೊಳಗೆ ಆಹಾರವನ್ನು ತೆಗೆದುಕೊಳ್ಳುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಜೀರ್ಣಕ್ರಿಯೆ (Digestion)", "ಆಹಾರ ಸೇವನೆ (Ingestion)", "ಹೀರಿಕೊಳ್ಳುವಿಕೆ (Absorption)", "ಸ್ವಾಂಗೀಕರಣ (Assimilation)"],
+      "answer": "ಆಹಾರ ಸೇವನೆ (Ingestion)",
+      "reasoning": "ಬಾಯಿಯ ಮೂಲಕ ದೇಹದೊಳಗೆ ಆಹಾರವನ್ನು ತೆಗೆದುಕೊಳ್ಳುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಆಹಾರ ಸೇವನೆ (Ingestion) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_2",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which organ secretes bile juice?",
+      "options": ["Stomach", "Pancreas", "Liver", "Small Intestine"],
+      "answer": "Liver",
+      "reasoning": "The liver is a reddish-brown gland that secretes bile juice, which helps in the digestion of fats."
+    },
+    "kn": {
+      "question": "ಪಿತ್ತರಸವನ್ನು (bile juice) ಸ್ರವಿಸುವ ಅಂಗ ಯಾವುದು?",
+      "options": ["ಹೊಟ್ಟೆ", "ಮೇದೋಜೀರಕ ಗ್ರಂಥಿ (Pancreas)", "ಯಕೃತ್ತು (Liver)", "ಸಣ್ಣ ಕರುಳು"],
+      "answer": "ಯಕೃತ್ತು (Liver)",
+      "reasoning": "ಯಕೃತ್ತು ಕೆಂಪು-ಕಂದು ಬಣ್ಣದ ಗ್ರಂಥಿಯಾಗಿದ್ದು ಅದು ಪಿತ್ತರಸವನ್ನು ಸ್ರವಿಸುತ್ತದೆ, ಇದು ಕೊಬ್ಬಿನ ಜೀರ್ಣಕ್ರಿಯೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_img_3",
+    "type": "image_single",
+    "difficulty": 1,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <path d=\"M150,100 Q180,50 200,80 Q240,70 230,120 Q260,160 210,170 Q160,190 130,160 Q80,180 70,140 Q40,100 80,80 Q100,40 150,100\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <circle cx=\"150\" cy=\"120\" r=\"15\" fill=\"#DC2626\"/>\n  <circle cx=\"120\" cy=\"100\" r=\"8\" fill=\"#1F2937\"/>\n  <circle cx=\"180\" cy=\"140\" r=\"10\" fill=\"#1F2937\"/>\n  <line x1=\"100\" y1=\"50\" x2=\"120\" y2=\"70\" stroke=\"#DC2626\" stroke-width=\"1.5\"/>\n  <text x=\"80\" y=\"45\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\">X</text>\n</svg>",
+      "alt": {
+        "en": "Diagram of an amoeba with a finger-like projection labeled as X",
+        "kn": "ಅಮೀಬಾದ ಚಿತ್ರದಲ್ಲಿ ಬೆರಳಿನಂತಹ ರಚನೆಯನ್ನು X ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ"
+      }
+    },
+    "en": {
+      "question": "In the diagram of the amoeba, what is the finger-like projection labeled 'X' called?",
+      "options": ["Nucleus", "Food vacuole", "Pseudopodium", "Cell membrane"],
+      "answer": "Pseudopodium",
+      "reasoning": "Amoeba pushes out one or more finger-like projections called pseudopodia (false feet) for movement and capturing food."
+    },
+    "kn": {
+      "question": "ಅಮೀಬಾದ ಚಿತ್ರದಲ್ಲಿ, 'X' ಎಂದು ಗುರುತಿಸಲಾದ ಬೆರಳಿನಂತಹ ರಚನೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ನ್ಯೂಕ್ಲಿಯಸ್", "ಆಹಾರದ ಕುಳಿ", "ಮಿಥ್ಯಪಾದ (Pseudopodium)", "ಕೋಶ ಪೊರೆ"],
+      "answer": "ಮಿಥ್ಯಪಾದ (Pseudopodium)",
+      "reasoning": "ಅಮೀಬಾ ಚಲನೆಗೆ ಮತ್ತು ಆಹಾರವನ್ನು ಹಿಡಿಯಲು ಮಿಥ್ಯಪಾದಗಳು (ಸುಳ್ಳು ಪಾದಗಳು) ಎಂಬ ಬೆರಳಿನಂತಹ ರಚನೆಗಳನ್ನು ಹೊರಹಾಕುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_4",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the breakdown of complex components of food into simpler substances called?",
+      "options": ["Respiration", "Digestion", "Excretion", "Circulation"],
+      "answer": "Digestion",
+      "reasoning": "Digestion is the process where complex food substances are broken down into simpler, absorbable substances."
+    },
+    "kn": {
+      "question": "ಆಹಾರದ ಸಂಕೀರ್ಣ ಘಟಕಗಳನ್ನು ಸರಳ ವಸ್ತುಗಳಾಗಿ ವಿಭಜಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಉಸಿರಾಟ", "ಜೀರ್ಣಕ್ರಿಯೆ", "ವಿಸರ್ಜನೆ", "ರಕ್ತಪರಿಚಲನೆ"],
+      "answer": "ಜೀರ್ಣಕ್ರಿಯೆ",
+      "reasoning": "ಸಂಕೀರ್ಣ ಆಹಾರ ಪದಾರ್ಥಗಳನ್ನು ಸರಳವಾದ, ಹೀರಿಕೊಳ್ಳಬಹುದಾದ ವಸ್ತುಗಳಾಗಿ ವಿಭಜಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಜೀರ್ಣಕ್ರಿಯೆ ಎನ್ನುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_5",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following are parts of the human digestive system?",
+      "options": ["Stomach", "Lungs", "Small Intestine", "Heart"],
+      "answer": ["Stomach", "Small Intestine"],
+      "reasoning": "The stomach and small intestine are parts of the digestive system (alimentary canal). Lungs and heart belong to respiratory and circulatory systems."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಮಾನವನ ಜೀರ್ಣಾಂಗ ವ್ಯವಸ್ಥೆಯ ಭಾಗಗಳಾಗಿವೆ?",
+      "options": ["ಹೊಟ್ಟೆ", "ಶ್ವಾಸಕೋಶ", "ಸಣ್ಣ ಕರುಳು", "ಹೃದಯ"],
+      "answer": ["ಹೊಟ್ಟೆ", "ಸಣ್ಣ ಕರುಳು"],
+      "reasoning": "ಹೊಟ್ಟೆ ಮತ್ತು ಸಣ್ಣ ಕರುಳು ಜೀರ್ಣಾಂಗ ವ್ಯವಸ್ಥೆಯ (ಅನ್ನನಾಳದ) ಭಾಗಗಳಾಗಿವೆ. ಶ್ವಾಸಕೋಶ ಮತ್ತು ಹೃದಯ ಉಸಿರಾಟ ಮತ್ತು ರಕ್ತಪರಿಚಲನಾ ವ್ಯವಸ್ಥೆಗೆ ಸೇರಿವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_6",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the organ with its main function.",
+      "pairs": [
+        {"left": "Mouth", "right": "Chewing of food"},
+        {"left": "Stomach", "right": "Mixing food with digestive juices"},
+        {"left": "Small intestine", "right": "Complete digestion and absorption"},
+        {"left": "Large intestine", "right": "Absorption of water"}
+      ],
+      "reasoning": "Food is chewed in the mouth, mixed with acid/juices in the stomach, digested fully and absorbed in the small intestine, while the large intestine absorbs water."
+    },
+    "kn": {
+      "question": "ಅಂಗವನ್ನು ಅದರ ಮುಖ್ಯ ಕಾರ್ಯದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಬಾಯಿ", "right": "ಆಹಾರವನ್ನು ಅಗಿಯುವುದು"},
+        {"left": "ಹೊಟ್ಟೆ", "right": "ಆಹಾರವನ್ನು ಜೀರ್ಣರಸಗಳೊಂದಿಗೆ ಬೆರೆಸುವುದು"},
+        {"left": "ಸಣ್ಣ ಕರುಳು", "right": "ಸಂಪೂರ್ಣ ಜೀರ್ಣಕ್ರಿಯೆ ಮತ್ತು ಹೀರಿಕೊಳ್ಳುವಿಕೆ"},
+        {"left": "ದೊಡ್ಡ ಕರುಳು", "right": "ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುವುದು"}
+      ],
+      "reasoning": "ಬಾಯಿಯಲ್ಲಿ ಆಹಾರವನ್ನು ಅಗಿಯಲಾಗುತ್ತದೆ, ಹೊಟ್ಟೆಯಲ್ಲಿ ರಸಗಳೊಂದಿಗೆ ಬೆರೆಸಲಾಗುತ್ತದೆ, ಸಣ್ಣ ಕರುಳಿನಲ್ಲಿ ಸಂಪೂರ್ಣವಾಗಿ ಜೀರ್ಣವಾಗುತ್ತದೆ, ಮತ್ತು ದೊಡ್ಡ ಕರುಳು ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_7",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of these teeth are used for piercing and tearing food?",
+      "options": ["Incisors", "Canines", "Premolars", "Molars"],
+      "answer": "Canines",
+      "reasoning": "Canines are sharp and pointed teeth used for piercing and tearing food."
+    },
+    "kn": {
+      "question": "ಆಹಾರವನ್ನು ಚುಚ್ಚಲು ಮತ್ತು ಹರಿಯಲು ಈ ಕೆಳಗಿನ ಯಾವ ಹಲ್ಲುಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "options": ["ಬಾಚಿಹಲ್ಲು (Incisors)", "ಕೋರೆಹಲ್ಲು (Canines)", "ಮುಂದವಡೆ ಹಲ್ಲು (Premolars)", "ದವಡೆ ಹಲ್ಲು (Molars)"],
+      "answer": "ಕೋರೆಹಲ್ಲು (Canines)",
+      "reasoning": "ಕೋರೆಹಲ್ಲುಗಳು ಚೂಪಾದ ಹಲ್ಲುಗಳಾಗಿದ್ದು, ಆಹಾರವನ್ನು ಚುಚ್ಚಲು ಮತ್ತು ಹರಿಯಲು ಬಳಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_img_8",
+    "type": "image_single",
+    "difficulty": 1,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <path d=\"M100,100 C100,50 200,50 200,100 C200,150 100,150 100,100\" fill=\"none\" stroke=\"#FCA5A5\" stroke-width=\"20\" stroke-linecap=\"round\"/>\n  <rect x=\"140\" y=\"145\" width=\"10\" height=\"15\" fill=\"#FFFFFF\" stroke=\"#9CA3AF\"/>\n  <rect x=\"155\" y=\"145\" width=\"10\" height=\"15\" fill=\"#FFFFFF\" stroke=\"#9CA3AF\"/>\n  <rect x=\"125\" y=\"140\" width=\"10\" height=\"15\" fill=\"#FFFFFF\" stroke=\"#9CA3AF\"/>\n  <rect x=\"170\" y=\"140\" width=\"10\" height=\"15\" fill=\"#FFFFFF\" stroke=\"#9CA3AF\"/>\n  <path d=\"M110,130 L120,130 L115,145 Z\" fill=\"#FFFFFF\" stroke=\"#9CA3AF\"/>\n  <path d=\"M185,130 L195,130 L190,145 Z\" fill=\"#FFFFFF\" stroke=\"#9CA3AF\"/>\n  <line x1=\"80\" y1=\"160\" x2=\"115\" y2=\"140\" stroke=\"#DC2626\" stroke-width=\"1.5\"/>\n  <text x=\"60\" y=\"170\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\">X</text>\n</svg>",
+      "alt": {
+        "en": "Diagram of lower jaw teeth with a pointed tooth labeled X",
+        "kn": "ಕೆಳಗಿನ ದವಡೆಯ ಹಲ್ಲುಗಳ ಚಿತ್ರದಲ್ಲಿ ಚೂಪಾದ ಹಲ್ಲನ್ನು X ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ"
+      }
+    },
+    "en": {
+      "question": "In the diagram of the teeth, what type of tooth is labeled as 'X'?",
+      "options": ["Incisor", "Canine", "Premolar", "Molar"],
+      "answer": "Canine",
+      "reasoning": "The pointed teeth next to the incisors are canines, used for tearing."
+    },
+    "kn": {
+      "question": "ಹಲ್ಲುಗಳ ಚಿತ್ರದಲ್ಲಿ, 'X' ಎಂದು ಗುರುತಿಸಲಾದ ಹಲ್ಲು ಯಾವ ಪ್ರಕಾರದ್ದಾಗಿದೆ?",
+      "options": ["ಬಾಚಿಹಲ್ಲು (Incisor)", "ಕೋರೆಹಲ್ಲು (Canine)", "ಮುಂದವಡೆ ಹಲ್ಲು (Premolar)", "ದವಡೆ ಹಲ್ಲು (Molar)"],
+      "answer": "ಕೋರೆಹಲ್ಲು (Canine)",
+      "reasoning": "ಬಾಚಿಹಲ್ಲುಗಳ ಪಕ್ಕದಲ್ಲಿರುವ ಚೂಪಾದ ಹಲ್ಲುಗಳು ಕೋರೆಹಲ್ಲುಗಳಾಗಿವೆ, ಇವುಗಳನ್ನು ಆಹಾರವನ್ನು ಹರಿಯಲು ಬಳಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_9",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Where does the digestion of carbohydrates like starch begin?",
+      "options": ["Stomach", "Mouth", "Small intestine", "Large intestine"],
+      "answer": "Mouth",
+      "reasoning": "The saliva in the mouth contains an enzyme (salivary amylase) that begins the breakdown of starch into sugars."
+    },
+    "kn": {
+      "question": "ಪಿಷ್ಟದಂತಹ ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳ ಜೀರ್ಣಕ್ರಿಯೆ ಎಲ್ಲಿ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
+      "options": ["ಹೊಟ್ಟೆ", "ಬಾಯಿ", "ಸಣ್ಣ ಕರುಳು", "ದೊಡ್ಡ ಕರುಳು"],
+      "answer": "ಬಾಯಿ",
+      "reasoning": "ಬಾಯಿಯಲ್ಲಿರುವ ಲಾಲಾರಸವು ಪಿಷ್ಟವನ್ನು ಸಕ್ಕರೆಯನ್ನಾಗಿ ವಿಭಜಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_10",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following are functions of the tongue?",
+      "options": ["Helps in talking", "Mixes saliva with food", "Helps in swallowing", "Absorbs nutrients"],
+      "answer": ["Helps in talking", "Mixes saliva with food", "Helps in swallowing"],
+      "reasoning": "The tongue helps in talking, mixing food with saliva, swallowing, and tasting. It does not absorb nutrients."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ನಾಲಿಗೆಯ ಕಾರ್ಯಗಳು ಯಾವುವು?",
+      "options": ["ಮಾತನಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ", "ಲಾಲಾರಸವನ್ನು ಆಹಾರದೊಂದಿಗೆ ಬೆರೆಸುತ್ತದೆ", "ನುಂಗಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ", "ಪೋಷಕಾಂಶಗಳನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ"],
+      "answer": ["ಮಾತನಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ", "ಲಾಲಾರಸವನ್ನು ಆಹಾರದೊಂದಿಗೆ ಬೆರೆಸುತ್ತದೆ", "ನುಂಗಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ"],
+      "reasoning": "ನಾಲಿಗೆಯು ಮಾತನಾಡಲು, ಆಹಾರವನ್ನು ಲಾಲಾರಸದೊಂದಿಗೆ ಬೆರೆಸಲು, ನುಂಗಲು ಮತ್ತು ರುಚಿ ನೋಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಅದು ಪೋಷಕಾಂಶಗಳನ್ನು ಹೀರಿಕೊಳ್ಳುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c7_sci_na_11",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the function of the villi in the small intestine?",
+      "options": ["To secrete bile", "To break down proteins", "To increase surface area for absorption", "To store undigested food"],
+      "answer": "To increase surface area for absorption",
+      "reasoning": "The inner wall of the small intestine has thousands of finger-like outgrowths called villi. They increase the surface area for absorption of digested food."
+    },
+    "kn": {
+      "question": "ಸಣ್ಣ ಕರುಳಿನಲ್ಲಿರುವ ವಿಲ್ಲಿ (villi) ಗಳ ಕಾರ್ಯವೇನು?",
+      "options": ["ಪಿತ್ತರಸವನ್ನು ಸ್ರವಿಸುವುದು", "ಪ್ರೋಟೀನ್‌ಗಳನ್ನು ವಿಭಜಿಸುವುದು", "ಹೀರಿಕೊಳ್ಳುವಿಕೆಗೆ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಹೆಚ್ಚಿಸುವುದು", "ಜೀರ್ಣವಾಗದ ಆಹಾರವನ್ನು ಸಂಗ್ರಹಿಸುವುದು"],
+      "answer": "ಹೀರಿಕೊಳ್ಳುವಿಕೆಗೆ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಹೆಚ್ಚಿಸುವುದು",
+      "reasoning": "ಸಣ್ಣ ಕರುಳಿನ ಒಳ ಗೋಡೆಯು ವಿಲ್ಲಿ ಎಂಬ ಸಾವಿರಾರು ಬೆರಳಿನಂತಹ ರಚನೆಗಳನ್ನು ಹೊಂದಿದೆ. ಜೀರ್ಣವಾದ ಆಹಾರವನ್ನು ಹೀರಿಕೊಳ್ಳಲು ಅವು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಹೆಚ್ಚಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_img_12",
+    "type": "image_single",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <path d=\"M100,20 C100,80 80,100 120,130 C160,160 220,120 200,80 C180,40 120,50 140,80\" fill=\"#FCA5A5\" stroke=\"#DC2626\" stroke-width=\"2\"/>\n  <path d=\"M100,20 L100,50\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"15\"/>\n  <text x=\"50\" y=\"30\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"14\">Oesophagus</text>\n  <line x1=\"120\" y1=\"30\" x2=\"100\" y2=\"40\" stroke=\"#1F2937\" stroke-width=\"1.5\"/>\n  <text x=\"210\" y=\"150\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\">Small intestine</text>\n  <line x1=\"180\" y1=\"130\" x2=\"200\" y2=\"140\" stroke=\"#DC2626\" stroke-width=\"1.5\"/>\n  <text x=\"140\" y=\"100\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\">Y</text>\n</svg>",
+      "alt": {
+        "en": "Diagram showing the stomach labeled as Y, between the oesophagus and small intestine",
+        "kn": "ಅನ್ನನಾಳ ಮತ್ತು ಸಣ್ಣ ಕರುಳಿನ ನಡುವೆ ಇರುವ ಹೊಟ್ಟೆಯನ್ನು Y ಎಂದು ಗುರುತಿಸಿರುವ ಚಿತ್ರ"
+      }
+    },
+    "en": {
+      "question": "Identify the J-shaped organ labeled 'Y' in the diagram.",
+      "options": ["Liver", "Stomach", "Pancreas", "Gallbladder"],
+      "answer": "Stomach",
+      "reasoning": "The stomach is a thick-walled, J-shaped bag that receives food from the food pipe and opens into the small intestine."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ 'Y' ಎಂದು ಗುರುತಿಸಲಾದ 'J' ಆಕಾರದ ಅಂಗವನ್ನು ಗುರುತಿಸಿ.",
+      "options": ["ಯಕೃತ್ತು (Liver)", "ಹೊಟ್ಟೆ (Stomach)", "ಮೇದೋಜೀರಕ ಗ್ರಂಥಿ (Pancreas)", "ಪಿತ್ತಕೋಶ (Gallbladder)"],
+      "answer": "ಹೊಟ್ಟೆ (Stomach)",
+      "reasoning": "ಹೊಟ್ಟೆಯು ದಪ್ಪ-ಗೋಡೆಯ, J-ಆಕಾರದ ಚೀಲವಾಗಿದ್ದು, ಅದು ಆಹಾರದ ಕೊಳವೆಯಿಂದ ಆಹಾರವನ್ನು ಪಡೆಯುತ್ತದೆ ಮತ್ತು ಸಣ್ಣ ಕರುಳಿನಲ್ಲಿ ತೆರೆಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_13",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the digestive juice/enzyme with the organ that secretes it.",
+      "pairs": [
+        {"left": "Saliva", "right": "Salivary glands"},
+        {"left": "Bile juice", "right": "Liver"},
+        {"left": "Pancreatic juice", "right": "Pancreas"},
+        {"left": "Hydrochloric acid", "right": "Stomach"}
+      ],
+      "reasoning": "Saliva is from salivary glands, bile is secreted by the liver, pancreatic juice by the pancreas, and hydrochloric acid is secreted by the inner lining of the stomach."
+    },
+    "kn": {
+      "question": "ಜೀರ್ಣಕಾರಿ ರಸ/ಕಿಣ್ವವನ್ನು ಅದನ್ನು ಸ್ರವಿಸುವ ಅಂಗದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಲಾಲಾರಸ (Saliva)", "right": "ಲಾಲಾರಸ ಗ್ರಂಥಿಗಳು"},
+        {"left": "ಪಿತ್ತರಸ (Bile juice)", "right": "ಯಕೃತ್ತು (Liver)"},
+        {"left": "ಮೇದೋಜೀರಕ ರಸ (Pancreatic juice)", "right": "ಮೇದೋಜೀರಕ ಗ್ರಂಥಿ"},
+        {"left": "ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ", "right": "ಹೊಟ್ಟೆ (Stomach)"}
+      ],
+      "reasoning": "ಲಾಲಾರಸವನ್ನು ಲಾಲಾರಸ ಗ್ರಂಥಿಗಳು, ಪಿತ್ತರಸವನ್ನು ಯಕೃತ್ತು, ಮೇದೋಜೀರಕ ರಸವನ್ನು ಮೇದೋಜೀರಕ ಗ್ರಂಥಿ ಮತ್ತು ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲವನ್ನು ಹೊಟ್ಟೆ ಸ್ರವಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_14",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In which organ is water mainly absorbed from the undigested food?",
+      "options": ["Stomach", "Small intestine", "Large intestine", "Liver"],
+      "answer": "Large intestine",
+      "reasoning": "The large intestine absorbs water and some salts from the undigested food material."
+    },
+    "kn": {
+      "question": "ಜೀರ್ಣವಾಗದ ಆಹಾರದಿಂದ ನೀರನ್ನು ಮುಖ್ಯವಾಗಿ ಯಾವ ಅಂಗದಲ್ಲಿ ಹೀರಿಕೊಳ್ಳಲಾಗುತ್ತದೆ?",
+      "options": ["ಹೊಟ್ಟೆ", "ಸಣ್ಣ ಕರುಳು", "ದೊಡ್ಡ ಕರುಳು", "ಯಕೃತ್ತು"],
+      "answer": "ದೊಡ್ಡ ಕರುಳು",
+      "reasoning": "ದೊಡ್ಡ ಕರುಳು ಜೀರ್ಣವಾಗದ ಆಹಾರದಿಂದ ನೀರು ಮತ್ತು ಕೆಲವು ಲವಣಗಳನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_15",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the role of acid in the stomach?",
+      "options": ["It makes the medium alkaline.", "It kills many bacteria that enter along with the food.", "It digests carbohydrates.", "It absorbs water."],
+      "answer": "It kills many bacteria that enter along with the food.",
+      "reasoning": "Hydrochloric acid in the stomach kills bacteria that enter with food and makes the medium in the stomach acidic to help digestive juices act."
+    },
+    "kn": {
+      "question": "ಹೊಟ್ಟೆಯಲ್ಲಿನ ಆಮ್ಲದ ಪಾತ್ರವೇನು?",
+      "options": ["ಇದು ಮಾಧ್ಯಮವನ್ನು ಕ್ಷಾರೀಯಗೊಳಿಸುತ್ತದೆ.", "ಇದು ಆಹಾರದ ಜೊತೆಗೆ ಪ್ರವೇಶಿಸುವ ಅನೇಕ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳನ್ನು ಕೊಲ್ಲುತ್ತದೆ.", "ಇದು ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳನ್ನು ಜೀರ್ಣಗೊಳಿಸುತ್ತದೆ.", "ಇದು ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ."],
+      "answer": "ಇದು ಆಹಾರದ ಜೊತೆಗೆ ಪ್ರವೇಶಿಸುವ ಅನೇಕ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳನ್ನು ಕೊಲ್ಲುತ್ತದೆ.",
+      "reasoning": "ಹೊಟ್ಟೆಯಲ್ಲಿರುವ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲವು ಆಹಾರದೊಂದಿಗೆ ಪ್ರವೇಶಿಸುವ ಬ್ಯಾಕ್ಟೀರಿಯಾವನ್ನು ಕೊಲ್ಲುತ್ತದೆ ಮತ್ತು ಜೀರ್ಣರಸಗಳು ಕಾರ್ಯನಿರ್ವಹಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_16",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following organisms are ruminants?",
+      "options": ["Cow", "Human", "Buffalo", "Tiger"],
+      "answer": ["Cow", "Buffalo"],
+      "reasoning": "Grass-eating animals like cows, buffaloes, and deer are ruminants. They quickly swallow grass and store it in a part of the stomach called the rumen."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಮೆಲುಕು ಹಾಕುವ (ruminants) ಪ್ರಾಣಿಗಳು ಯಾವುವು?",
+      "options": ["ಹಸು", "ಮಾನವ", "ಎಮ್ಮೆ", "ಹುಲಿ"],
+      "answer": ["ಹಸು", "ಎಮ್ಮೆ"],
+      "reasoning": "ಹಸುಗಳು ಮತ್ತು ಎಮ್ಮೆಗಳಂತಹ ಹುಲ್ಲು ತಿನ್ನುವ ಪ್ರಾಣಿಗಳು ಮೆಲುಕು ಹಾಕುವ ಪ್ರಾಣಿಗಳು (ruminants). ಅವು ಹುಲ್ಲನ್ನು ನುಂಗಿ ಹೊಟ್ಟೆಯ ರೂಮೆನ್ ಎಂಬ ಭಾಗದಲ್ಲಿ ಸಂಗ್ರಹಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_img_17",
+    "type": "image_single",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <path d=\"M50,100 C50,150 120,180 160,130 C140,80 80,60 50,100\" fill=\"#FCA5A5\" stroke=\"#DC2626\" stroke-width=\"2\"/>\n  <circle cx=\"100\" cy=\"120\" r=\"30\" fill=\"#F87171\" stroke=\"#DC2626\" stroke-width=\"2\"/>\n  <text x=\"80\" y=\"125\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">Rumen</text>\n  <path d=\"M20,20 C40,50 60,80 80,100\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"10\"/>\n  <path d=\"M100,100 Q60,70 40,40\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-dasharray=\"5,3\" marker-end=\"url(#arrowBlue)\"/>\n  <defs>\n    <marker id=\"arrowBlue\" markerWidth=\"8\" markerHeight=\"8\" refX=\"8\" refY=\"4\" orient=\"auto\">\n      <path d=\"M0,0 L8,4 L0,8\" fill=\"#2563EB\"/>\n    </marker>\n  </defs>\n</svg>",
+      "alt": {
+        "en": "Diagram showing the rumen of a grass-eating animal with an arrow pointing back up the oesophagus",
+        "kn": "ಹುಲ್ಲು ತಿನ್ನುವ ಪ್ರಾಣಿಯ ರೂಮೆನ್ ಅನ್ನು ತೋರಿಸುವ ಚಿತ್ರ, ಬಾಣವು ಅನ್ನನಾಳದ ಮೂಲಕ ಹಿಂದಕ್ಕೆ ಸೂಚಿಸುತ್ತದೆ"
+      }
+    },
+    "en": {
+      "question": "What is the partially digested food stored in the rumen called, which is later returned to the mouth for chewing?",
+      "options": ["Cud", "Chyme", "Bolus", "Bile"],
+      "answer": "Cud",
+      "reasoning": "In ruminants, the partially digested food in the rumen is called cud. It later returns to the mouth in small lumps for the animal to chew."
+    },
+    "kn": {
+      "question": "ರೂಮೆನ್‌ನಲ್ಲಿ ಸಂಗ್ರಹವಾಗಿರುವ ಭಾಗಶಃ ಜೀರ್ಣವಾದ ಆಹಾರವನ್ನು, ನಂತರ ಅಗಿಯಲು ಬಾಯಿಗೆ ಹಿಂದಿರುಗಿಸುವ ಆಹಾರವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಮೆಲುಕು (Cud)", "ಚೈಮ್ (Chyme)", "ಬೋಲಸ್ (Bolus)", "ಪಿತ್ತರಸ (Bile)"],
+      "answer": "ಮೆಲುಕು (Cud)",
+      "reasoning": "ಮೆಲುಕು ಹಾಕುವ ಪ್ರಾಣಿಗಳಲ್ಲಿ, ರೂಮೆನ್‌ನಲ್ಲಿರುವ ಭಾಗಶಃ ಜೀರ್ಣವಾದ ಆಹಾರವನ್ನು 'ಮೆಲುಕು' (cud) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಪ್ರಾಣಿಯು ಅದನ್ನು ಅಗಿಯಲು ಸಣ್ಣ ಉಂಡೆಗಳಾಗಿ ಬಾಯಿಗೆ ಮರಳಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_18",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the simple substances formed after the complete digestion of complex food components.",
+      "pairs": [
+        {"left": "Carbohydrates", "right": "Simple sugars (glucose)"},
+        {"left": "Proteins", "right": "Amino acids"},
+        {"left": "Fats", "right": "Fatty acids and glycerol"}
+      ],
+      "reasoning": "Digestion breaks down carbohydrates into glucose, proteins into amino acids, and fats into fatty acids and glycerol."
+    },
+    "kn": {
+      "question": "ಸಂಕೀರ್ಣ ಆಹಾರ ಘಟಕಗಳ ಸಂಪೂರ್ಣ ಜೀರ್ಣಕ್ರಿಯೆಯ ನಂತರ ರೂಪುಗೊಳ್ಳುವ ಸರಳ ವಸ್ತುಗಳನ್ನು ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳು", "right": "ಸರಳ ಸಕ್ಕರೆಗಳು (ಗ್ಲೂಕೋಸ್)"},
+        {"left": "ಪ್ರೋಟೀನ್‌ಗಳು", "right": "ಅಮೈನೋ ಆಮ್ಲಗಳು"},
+        {"left": "ಕೊಬ್ಬುಗಳು", "right": "ಕೊಬ್ಬಿನಾಮ್ಲಗಳು ಮತ್ತು ಗ್ಲಿಸರಾಲ್"}
+      ],
+      "reasoning": "ಜೀರ್ಣಕ್ರಿಯೆಯು ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳನ್ನು ಗ್ಲೂಕೋಸ್ ಆಗಿ, ಪ್ರೋಟೀನ್‌ಗಳನ್ನು ಅಮೈನೋ ಆಮ್ಲಗಳಾಗಿ ಮತ್ತು ಕೊಬ್ಬುಗಳನ್ನು ಕೊಬ್ಬಿನಾಮ್ಲಗಳು ಮತ್ತು ಗ್ಲಿಸರಾಲ್ ಆಗಿ ವಿಭಜಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_19",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the role of the gallbladder?",
+      "options": ["It secretes pancreatic juice.", "It temporarily stores bile juice.", "It digests carbohydrates.", "It absorbs water."],
+      "answer": "It temporarily stores bile juice.",
+      "reasoning": "Bile juice is secreted by the liver but is stored temporarily in a sac called the gallbladder before being released into the small intestine."
+    },
+    "kn": {
+      "question": "ಪಿತ್ತಕೋಶದ (gallbladder) ಪಾತ್ರವೇನು?",
+      "options": ["ಇದು ಮೇದೋಜೀರಕ ರಸವನ್ನು ಸ್ರವಿಸುತ್ತದೆ.", "ಇದು ಪಿತ್ತರಸವನ್ನು ತಾತ್ಕಾಲಿಕವಾಗಿ ಸಂಗ್ರಹಿಸುತ್ತದೆ.", "ಇದು ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳನ್ನು ಜೀರ್ಣಗೊಳಿಸುತ್ತದೆ.", "ಇದು ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ."],
+      "answer": "ಇದು ಪಿತ್ತರಸವನ್ನು ತಾತ್ಕಾಲಿಕವಾಗಿ ಸಂಗ್ರಹಿಸುತ್ತದೆ.",
+      "reasoning": "ಪಿತ್ತರಸವು ಯಕೃತ್ತಿನಿಂದ ಸ್ರವಿಸಲ್ಪಡುತ್ತದೆ ಆದರೆ ಸಣ್ಣ ಕರುಳಿನಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುವ ಮೊದಲು ಪಿತ್ತಕೋಶ ಎಂಬ ಚೀಲದಲ್ಲಿ ತಾತ್ಕಾಲಿಕವಾಗಿ ಸಂಗ್ರಹವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_20",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Where does the amoeba digest its food?",
+      "options": ["In its stomach", "In the food vacuole", "In the nucleus", "In the pseudopodia"],
+      "answer": "In the food vacuole",
+      "reasoning": "Amoeba engulfs its food, which becomes trapped in a food vacuole. Digestive juices are secreted into the food vacuole to break down the food."
+    },
+    "kn": {
+      "question": "ಅಮೀಬಾ ತನ್ನ ಆಹಾರವನ್ನು ಎಲ್ಲಿ ಜೀರ್ಣಿಸಿಕೊಳ್ಳುತ್ತದೆ?",
+      "options": ["ತನ್ನ ಹೊಟ್ಟೆಯಲ್ಲಿ", "ಆಹಾರದ ಕುಳಿಯಲ್ಲಿ (food vacuole)", "ನ್ಯೂಕ್ಲಿಯಸ್‌ನಲ್ಲಿ", "ಮಿಥ್ಯಪಾದಗಳಲ್ಲಿ"],
+      "answer": "ಆಹಾರದ ಕುಳಿಯಲ್ಲಿ (food vacuole)",
+      "reasoning": "ಅಮೀಬಾ ತನ್ನ ಆಹಾರವನ್ನು ನುಂಗುತ್ತದೆ, ಅದು ಆಹಾರದ ಕುಳಿಯಲ್ಲಿ ಸಿಕ್ಕಿಹಾಕಿಕೊಳ್ಳುತ್ತದೆ. ಆಹಾರವನ್ನು ಜೀರ್ಣಿಸಿಕೊಳ್ಳಲು ಜೀರ್ಣರಸಗಳನ್ನು ಆಹಾರದ ಕುಳಿಯೊಳಗೆ ಸ್ರವಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_21",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why can ruminants digest cellulose, while humans cannot?",
+      "options": [
+        "Ruminants have stronger teeth.",
+        "Humans do not chew their food enough.",
+        "Ruminants have specific bacteria in a large sac-like structure that digests cellulose.",
+        "Cellulose melts in the rumen due to high heat."
+      ],
+      "answer": "Ruminants have specific bacteria in a large sac-like structure that digests cellulose.",
+      "reasoning": "Grass is rich in cellulose. Ruminants have a large sac-like structure containing certain bacteria which can digest cellulose. These bacteria are absent in humans."
+    },
+    "kn": {
+      "question": "ಮೆಲುಕು ಹಾಕುವ ಪ್ರಾಣಿಗಳು ಸೆಲ್ಯುಲೋಸ್ ಅನ್ನು ಜೀರ್ಣಿಸಿಕೊಳ್ಳಬಲ್ಲವು, ಆದರೆ ಮಾನವರಿಗೆ ಏಕೆ ಸಾಧ್ಯವಿಲ್ಲ?",
+      "options": [
+        "ಮೆಲುಕು ಹಾಕುವ ಪ್ರಾಣಿಗಳು ಬಲವಾದ ಹಲ್ಲುಗಳನ್ನು ಹೊಂದಿವೆ.",
+        "ಮಾನವರು ತಮ್ಮ ಆಹಾರವನ್ನು ಸಾಕಷ್ಟು ಅಗಿಯುವುದಿಲ್ಲ.",
+        "ಮೆಲುಕು ಹಾಕುವ ಪ್ರಾಣಿಗಳು ದೊಡ್ಡ ಚೀಲದಂತಹ ರಚನೆಯಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಬ್ಯಾಕ್ಟೀರಿಯಾವನ್ನು ಹೊಂದಿದ್ದು ಅದು ಸೆಲ್ಯುಲೋಸ್ ಅನ್ನು ಜೀರ್ಣಿಸುತ್ತದೆ.",
+        "ಹೆಚ್ಚಿನ ಶಾಖದಿಂದಾಗಿ ರೂಮೆನ್‌ನಲ್ಲಿ ಸೆಲ್ಯುಲೋಸ್ ಕರಗುತ್ತದೆ."
+      ],
+      "answer": "ಮೆಲುಕು ಹಾಕುವ ಪ್ರಾಣಿಗಳು ದೊಡ್ಡ ಚೀಲದಂತಹ ರಚನೆಯಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಬ್ಯಾಕ್ಟೀರಿಯಾವನ್ನು ಹೊಂದಿದ್ದು ಅದು ಸೆಲ್ಯುಲೋಸ್ ಅನ್ನು ಜೀರ್ಣಿಸುತ್ತದೆ.",
+      "reasoning": "ಹುಲ್ಲು ಸೆಲ್ಯುಲೋಸ್‌ನಿಂದ ಸಮೃದ್ಧವಾಗಿದೆ. ಮೆಲುಕು ಹಾಕುವ ಪ್ರಾಣಿಗಳು ಸೆಲ್ಯುಲೋಸ್ ಅನ್ನು ಜೀರ್ಣಿಸುವ ನಿರ್ದಿಷ್ಟ ಬ್ಯಾಕ್ಟೀರಿಯಾವನ್ನು ಹೊಂದಿರುವ ದೊಡ್ಡ ಚೀಲದಂತಹ ರಚನೆಯನ್ನು ಹೊಂದಿವೆ. ಈ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ಮಾನವರಲ್ಲಿ ಇಲ್ಲ."
+    }
+  },
+  {
+    "id": "c7_sci_na_22",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What happens during the process of assimilation in the human body?",
+      "options": [
+        "Food is broken down into simple substances.",
+        "Undigested food is expelled from the body.",
+        "Absorbed nutrients are transported to cells and used to build complex substances like proteins.",
+        "Saliva is mixed with food."
+      ],
+      "answer": "Absorbed nutrients are transported to cells and used to build complex substances like proteins.",
+      "reasoning": "Assimilation is the process where the absorbed digested food is transported to different organs via blood vessels and is used to build complex substances needed by the body."
+    },
+    "kn": {
+      "question": "ಮಾನವ ದೇಹದಲ್ಲಿ ಸ್ವಾಂಗೀಕರಣ (assimilation) ಪ್ರಕ್ರಿಯೆಯ ಸಮಯದಲ್ಲಿ ಏನಾಗುತ್ತದೆ?",
+      "options": [
+        "ಆಹಾರವನ್ನು ಸರಳ ವಸ್ತುಗಳಾಗಿ ವಿಭಜಿಸಲಾಗುತ್ತದೆ.",
+        "ಜೀರ್ಣವಾಗದ ಆಹಾರವನ್ನು ದೇಹದಿಂದ ಹೊರಹಾಕಲಾಗುತ್ತದೆ.",
+        "ಹೀರಿಕೊಳ್ಳಲ್ಪಟ್ಟ ಪೋಷಕಾಂಶಗಳನ್ನು ಜೀವಕೋಶಗಳಿಗೆ ಸಾಗಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಪ್ರೋಟೀನ್‌ಗಳಂತಹ ಸಂಕೀರ್ಣ ವಸ್ತುಗಳನ್ನು ನಿರ್ಮಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ.",
+        "ಲಾಲಾರಸವನ್ನು ಆಹಾರದೊಂದಿಗೆ ಬೆರೆಸಲಾಗುತ್ತದೆ."
+      ],
+      "answer": "ಹೀರಿಕೊಳ್ಳಲ್ಪಟ್ಟ ಪೋಷಕಾಂಶಗಳನ್ನು ಜೀವಕೋಶಗಳಿಗೆ ಸಾಗಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಪ್ರೋಟೀನ್‌ಗಳಂತಹ ಸಂಕೀರ್ಣ ವಸ್ತುಗಳನ್ನು ನಿರ್ಮಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ.",
+      "reasoning": "ಸ್ವಾಂಗೀಕರಣ ಎಂದರೆ ಹೀರಿಕೊಳ್ಳಲ್ಪಟ್ಟ ಜೀರ್ಣವಾದ ಆಹಾರವನ್ನು ರಕ್ತನಾಳಗಳ ಮೂಲಕ ವಿವಿಧ ಅಂಗಗಳಿಗೆ ಸಾಗಿಸಿ ದೇಹಕ್ಕೆ ಅಗತ್ಯವಾದ ಸಂಕೀರ್ಣ ವಸ್ತುಗಳನ್ನು ನಿರ್ಮಿಸಲು ಬಳಸುವ ಪ್ರಕ್ರಿಯೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_23",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which sequence of steps correctly describes the process of nutrition in animals?",
+      "options": [
+        "Ingestion, Digestion, Absorption, Assimilation, Egestion",
+        "Digestion, Ingestion, Assimilation, Absorption, Egestion",
+        "The correct order begins with Ingestion and ends with Egestion",
+        "Absorption happens before Digestion"
+      ],
+      "answer": [
+        "Ingestion, Digestion, Absorption, Assimilation, Egestion",
+        "The correct order begins with Ingestion and ends with Egestion"
+      ],
+      "reasoning": "The correct sequence of animal nutrition is Ingestion (taking food in), Digestion (breaking it down), Absorption (taking into blood), Assimilation (using it), and Egestion (removing waste)."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಣಿಗಳಲ್ಲಿನ ಪೋಷಣೆಯ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಯಾವ ಹಂತಗಳ ಅನುಕ್ರಮವು ಸರಿಯಾಗಿ ವಿವರಿಸುತ್ತದೆ?",
+      "options": [
+        "ಆಹಾರ ಸೇವನೆ, ಜೀರ್ಣಕ್ರಿಯೆ, ಹೀರಿಕೊಳ್ಳುವಿಕೆ, ಸ್ವಾಂಗೀಕರಣ, ವಿಸರ್ಜನೆ",
+        "ಜೀರ್ಣಕ್ರಿಯೆ, ಆಹಾರ ಸೇವನೆ, ಸ್ವಾಂಗೀಕರಣ, ಹೀರಿಕೊಳ್ಳುವಿಕೆ, ವಿಸರ್ಜನೆ",
+        "ಸರಿಯಾದ ಕ್ರಮವು ಆಹಾರ ಸೇವನೆಯಿಂದ ಪ್ರಾರಂಭವಾಗಿ ವಿಸರ್ಜನೆಯೊಂದಿಗೆ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ",
+        "ಜೀರ್ಣಕ್ರಿಯೆಗಿಂತ ಮೊದಲು ಹೀರಿಕೊಳ್ಳುವಿಕೆ ಸಂಭವಿಸುತ್ತದೆ"
+      ],
+      "answer": [
+        "ಆಹಾರ ಸೇವನೆ, ಜೀರ್ಣಕ್ರಿಯೆ, ಹೀರಿಕೊಳ್ಳುವಿಕೆ, ಸ್ವಾಂಗೀಕರಣ, ವಿಸರ್ಜನೆ",
+        "ಸರಿಯಾದ ಕ್ರಮವು ಆಹಾರ ಸೇವನೆಯಿಂದ ಪ್ರಾರಂಭವಾಗಿ ವಿಸರ್ಜನೆಯೊಂದಿಗೆ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ"
+      ],
+      "reasoning": "ಪ್ರಾಣಿಗಳ ಪೋಷಣೆಯ ಸರಿಯಾದ ಅನುಕ್ರಮ: ಆಹಾರ ಸೇವನೆ, ಜೀರ್ಣಕ್ರಿಯೆ, ಹೀರಿಕೊಳ್ಳುವಿಕೆ, ಸ್ವಾಂಗೀಕರಣ ಮತ್ತು ವಿಸರ್ಜನೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_24",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the specific part of the digestive system with its unique feature.",
+      "pairs": [
+        {"left": "Small intestine", "right": "Highly coiled, about 7.5 meters long"},
+        {"left": "Liver", "right": "Largest gland in the body"},
+        {"left": "Large intestine", "right": "Wider and shorter, about 1.5 meters"},
+        {"left": "Stomach", "right": "Thick-walled bag, widest part of alimentary canal"}
+      ],
+      "reasoning": "The small intestine is long and coiled. The liver is the largest gland. The large intestine is wider and shorter. The stomach is a thick-walled bag and the widest part."
+    },
+    "kn": {
+      "question": "ಜೀರ್ಣಾಂಗ ವ್ಯವಸ್ಥೆಯ ನಿರ್ದಿಷ್ಟ ಭಾಗವನ್ನು ಅದರ ವಿಶಿಷ್ಟ ಲಕ್ಷಣದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಸಣ್ಣ ಕರುಳು", "right": "ಹೆಚ್ಚು ಸುರುಳಿಯಾಗಿದೆ, ಸುಮಾರು 7.5 ಮೀಟರ್ ಉದ್ದವಿದೆ"},
+        {"left": "ಯಕೃತ್ತು (Liver)", "right": "ದೇಹದ ಅತಿದೊಡ್ಡ ಗ್ರಂಥಿ"},
+        {"left": "ದೊಡ್ಡ ಕರುಳು", "right": "ಅಗಲವಾದ ಮತ್ತು ಚಿಕ್ಕದಾದ, ಸುಮಾರು 1.5 ಮೀಟರ್"},
+        {"left": "ಹೊಟ್ಟೆ", "right": "ದಪ್ಪ-ಗೋಡೆಯ ಚೀಲ, ಅನ್ನನಾಳದ ಅಗಲವಾದ ಭಾಗ"}
+      ],
+      "reasoning": "ಸಣ್ಣ ಕರುಳು ಉದ್ದವಾಗಿದೆ ಮತ್ತು ಸುರುಳಿಯಾಗಿದೆ. ಯಕೃತ್ತು ಅತಿದೊಡ್ಡ ಗ್ರಂಥಿ. ದೊಡ್ಡ ಕರುಳು ಅಗಲ ಮತ್ತು ಚಿಕ್ಕದಾಗಿದೆ. ಹೊಟ್ಟೆಯು ದಪ್ಪ-ಗೋಡೆಯ ಚೀಲವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_img_25",
+    "type": "image_single",
+    "difficulty": 3,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <path d=\"M20,150 L280,150\" stroke=\"#FCA5A5\" stroke-width=\"20\"/>\n  <path d=\"M40,140 C40,40 80,40 80,140\" fill=\"#FECACA\" stroke=\"#DC2626\" stroke-width=\"2\"/>\n  <path d=\"M100,140 C100,20 140,20 140,140\" fill=\"#FECACA\" stroke=\"#DC2626\" stroke-width=\"2\"/>\n  <path d=\"M160,140 C160,50 200,50 200,140\" fill=\"#FECACA\" stroke=\"#DC2626\" stroke-width=\"2\"/>\n  <path d=\"M220,140 C220,30 260,30 260,140\" fill=\"#FECACA\" stroke=\"#DC2626\" stroke-width=\"2\"/>\n  <path d=\"M110,140 C110,40 120,40 120,140\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"3\"/>\n  <path d=\"M125,140 C125,45 135,45 135,140\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"3\"/>\n  <line x1=\"200\" y1=\"80\" x2=\"240\" y2=\"80\" stroke=\"#1F2937\" stroke-width=\"1.5\"/>\n  <text x=\"245\" y=\"85\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"14\">Villi</text>\n</svg>",
+      "alt": {
+        "en": "Diagram showing finger-like projections called villi on the inner wall of the small intestine",
+        "kn": "ಸಣ್ಣ ಕರುಳಿನ ಒಳ ಗೋಡೆಯ ಮೇಲಿರುವ ಬೆರಳಿನಂತಹ ರಚನೆಗಳನ್ನು (ವಿಲ್ಲಿ) ತೋರಿಸುವ ಚಿತ್ರ"
+      }
+    },
+    "en": {
+      "question": "How do the structures shown in the diagram (villi) aid in the digestive process?",
+      "options": [
+        "They secrete powerful acids.",
+        "They increase the surface area for rapid absorption of digested food.",
+        "They push the unabsorbed food into the large intestine.",
+        "They break down cellulose."
+      ],
+      "answer": "They increase the surface area for rapid absorption of digested food.",
+      "reasoning": "Villi are finger-like projections in the small intestine. Their presence greatly increases the surface area, ensuring efficient absorption of nutrients into the blood vessels."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ರಚನೆಗಳು (ವಿಲ್ಲಿ) ಜೀರ್ಣಕ್ರಿಯೆಯಲ್ಲಿ ಹೇಗೆ ಸಹಾಯ ಮಾಡುತ್ತವೆ?",
+      "options": [
+        "ಅವು ಶಕ್ತಿಯುತ ಆಮ್ಲಗಳನ್ನು ಸ್ರವಿಸುತ್ತವೆ.",
+        "ಜೀರ್ಣವಾದ ಆಹಾರವನ್ನು ವೇಗವಾಗಿ ಹೀರಿಕೊಳ್ಳಲು ಅವು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಹೆಚ್ಚಿಸುತ್ತವೆ.",
+        "ಹೀರಿಕೊಳ್ಳದ ಆಹಾರವನ್ನು ದೊಡ್ಡ ಕರುಳಿಗೆ ತಳ್ಳುತ್ತವೆ.",
+        "ಅವು ಸೆಲ್ಯುಲೋಸ್ ಅನ್ನು ವಿಭಜಿಸುತ್ತವೆ."
+      ],
+      "answer": "ಜೀರ್ಣವಾದ ಆಹಾರವನ್ನು ವೇಗವಾಗಿ ಹೀರಿಕೊಳ್ಳಲು ಅವು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಹೆಚ್ಚಿಸುತ್ತವೆ.",
+      "reasoning": "ವಿಲ್ಲಿಗಳು ಸಣ್ಣ ಕರುಳಿನಲ್ಲಿರುವ ಬೆರಳಿನಂತಹ ರಚನೆಗಳಾಗಿವೆ. ಅವುಗಳ ಉಪಸ್ಥಿತಿಯು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಹೆಚ್ಚು ಮಾಡುತ್ತದೆ, ಇದರಿಂದ ಪೋಷಕಾಂಶಗಳನ್ನು ರಕ್ತನಾಳಗಳಿಗೆ ಪರಿಣಾಮಕಾರಿಯಾಗಿ ಹೀರಿಕೊಳ್ಳಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_26",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the consequence if the large intestine fails to function properly?",
+      "options": [
+        "Proteins will not be digested.",
+        "The body will not absorb water from undigested food, leading to watery stools (diarrhoea).",
+        "Acid in the stomach will increase.",
+        "Saliva will stop being produced."
+      ],
+      "answer": "The body will not absorb water from undigested food, leading to watery stools (diarrhoea).",
+      "reasoning": "The main function of the large intestine is to absorb water from the undigested food. If it fails, the waste remains watery."
+    },
+    "kn": {
+      "question": "ದೊಡ್ಡ ಕರುಳು ಸರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ವಿಫಲವಾದರೆ ಏನಾಗುತ್ತದೆ?",
+      "options": [
+        "ಪ್ರೋಟೀನ್‌ಗಳು ಜೀರ್ಣವಾಗುವುದಿಲ್ಲ.",
+        "ದೇಹವು ಜೀರ್ಣವಾಗದ ಆಹಾರದಿಂದ ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುವುದಿಲ್ಲ, ಇದು ನೀರಿನಂತಹ ಮಲಕ್ಕೆ (ಅತಿಸಾರ) ಕಾರಣವಾಗುತ್ತದೆ.",
+        "ಹೊಟ್ಟೆಯಲ್ಲಿ ಆಮ್ಲ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+        "ಲಾಲಾರಸ ಉತ್ಪತ್ತಿಯಾಗುವುದು ನಿಲ್ಲುತ್ತದೆ."
+      ],
+      "answer": "ದೇಹವು ಜೀರ್ಣವಾಗದ ಆಹಾರದಿಂದ ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುವುದಿಲ್ಲ, ಇದು ನೀರಿನಂತಹ ಮಲಕ್ಕೆ (ಅತಿಸಾರ) ಕಾರಣವಾಗುತ್ತದೆ.",
+      "reasoning": "ದೊಡ್ಡ ಕರುಳಿನ ಮುಖ್ಯ ಕಾರ್ಯವೆಂದರೆ ಜೀರ್ಣವಾಗದ ಆಹಾರದಿಂದ ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುವುದು. ಅದು ವಿಫಲವಾದರೆ, ತ್ಯಾಜ್ಯವು ನೀರಿನಂತೆ ಇರುತ್ತದೆ (ಅತಿಸಾರ)."
+    }
+  },
+  {
+    "id": "c7_sci_na_27",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the animal with its mode of taking in food.",
+      "pairs": [
+        {"left": "Butterfly", "right": "Siphoning (sucking nectar)"},
+        {"left": "Snake (Python)", "right": "Swallowing whole"},
+        {"left": "Mosquito", "right": "Piercing and sucking blood"},
+        {"left": "Housefly", "right": "Sponging/Siphoning liquid food"}
+      ],
+      "reasoning": "Different animals have different modes of taking food. Butterflies siphon nectar, pythons swallow prey whole, mosquitoes suck blood, and houseflies sponge liquid food."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಣಿಯನ್ನು ಅದರ ಆಹಾರ ಸೇವನೆಯ ವಿಧಾನದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {"left": "ಚಿಟ್ಟೆ", "right": "ಹೀರುವಿಕೆ (ಮಕರಂದ ಹೀರಲು)"},
+        {"left": "ಹಾವು (ಹೆಬ್ಬಾವು)", "right": "ಸಂಪೂರ್ಣವಾಗಿ ನುಂಗುವುದು"},
+        {"left": "ಸೊಳ್ಳೆ", "right": "ಚುಚ್ಚುವುದು ಮತ್ತು ರಕ್ತವನ್ನು ಹೀರುವುದು"},
+        {"left": "ನೊಣ", "right": "ದ್ರವ ಆಹಾರವನ್ನು ಹೀರುವುದು"}
+      ],
+      "reasoning": "ಚಿಟ್ಟೆಗಳು ಮಕರಂದವನ್ನು ಹೀರುತ್ತವೆ, ಹೆಬ್ಬಾವುಗಳು ಬೇಟೆಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನುಂಗುತ್ತವೆ, ಸೊಳ್ಳೆಗಳು ರಕ್ತವನ್ನು ಹೀರುತ್ತವೆ, ನೊಣಗಳು ದ್ರವ ಆಹಾರವನ್ನು ಹೀರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_28",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following describes tooth decay correctly?",
+      "options": [
+        "It is caused by the acid produced by bacteria when they break down leftover sugars in the mouth.",
+        "It is a normal process where old teeth fall out.",
+        "It is caused directly by swallowing too much food.",
+        "It happens because the saliva becomes alkaline."
+      ],
+      "answer": "It is caused by the acid produced by bacteria when they break down leftover sugars in the mouth.",
+      "reasoning": "Bacteria present in the mouth break down the sugars from leftover food and release acids. These acids gradually damage the teeth, causing tooth decay."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಹಲ್ಲು ಹುಳುಕಾಗುವಿಕೆಯನ್ನು ಸರಿಯಾಗಿ ವಿವರಿಸುತ್ತದೆ?",
+      "options": [
+        "ಬಾಯಿಯಲ್ಲಿ ಉಳಿದಿರುವ ಸಕ್ಕರೆಯನ್ನು ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ವಿಭಜಿಸಿದಾಗ ಉತ್ಪತ್ತಿಯಾಗುವ ಆಮ್ಲದಿಂದ ಇದು ಉಂಟಾಗುತ್ತದೆ.",
+        "ಇದು ಹಳೆಯ ಹಲ್ಲುಗಳು ಉದುರಿಹೋಗುವ ಸಾಮಾನ್ಯ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ.",
+        "ತುಂಬಾ ಆಹಾರವನ್ನು ನುಂಗುವುದರಿಂದ ಇದು ನೇರವಾಗಿ ಉಂಟಾಗುತ್ತದೆ.",
+        "ಲಾಲಾರಸವು ಕ್ಷಾರೀಯವಾಗುವುದರಿಂದ ಇದು ಸಂಭವಿಸುತ್ತದೆ."
+      ],
+      "answer": "ಬಾಯಿಯಲ್ಲಿ ಉಳಿದಿರುವ ಸಕ್ಕರೆಯನ್ನು ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ವಿಭಜಿಸಿದಾಗ ಉತ್ಪತ್ತಿಯಾಗುವ ಆಮ್ಲದಿಂದ ಇದು ಉಂಟಾಗುತ್ತದೆ.",
+      "reasoning": "ಬಾಯಿಯಲ್ಲಿರುವ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ಉಳಿದಿರುವ ಆಹಾರದಿಂದ ಸಕ್ಕರೆಯನ್ನು ವಿಭಜಿಸುತ್ತವೆ ಮತ್ತು ಆಮ್ಲಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ. ಈ ಆಮ್ಲಗಳು ಕ್ರಮೇಣ ಹಲ್ಲುಗಳಿಗೆ ಹಾನಿ ಮಾಡುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_29",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why do we sometimes choke or get hiccups while eating in a hurry?",
+      "options": [
+        "Food particles accidentally enter the windpipe instead of the food pipe.",
+        "The stomach acid rises into the mouth.",
+        "The small intestine pushes the food back.",
+        "We swallow too much air which expands in the stomach."
+      ],
+      "answer": "Food particles accidentally enter the windpipe instead of the food pipe.",
+      "reasoning": "The windpipe and food pipe share a common passage. Normally, a flap-like valve (epiglottis) closes the windpipe during swallowing. Eating in a hurry can cause food to enter the windpipe, causing choking or hiccups."
+    },
+    "kn": {
+      "question": "ನಾವು ಆತುರದಿಂದ ತಿನ್ನುವಾಗ ಕೆಲವೊಮ್ಮೆ ಬಿಕ್ಕಳಿಕೆ ಅಥವಾ ಉಸಿರುಕಟ್ಟುವಿಕೆ ಏಕೆ ಬರುತ್ತದೆ?",
+      "options": [
+        "ಆಹಾರದ ಕಣಗಳು ಆಕಸ್ಮಿಕವಾಗಿ ಆಹಾರದ ಕೊಳವೆಯ ಬದಲಿಗೆ ಶ್ವಾಸನಾಳವನ್ನು ಪ್ರವೇಶಿಸುತ್ತವೆ.",
+        "ಹೊಟ್ಟೆಯ ಆಮ್ಲವು ಬಾಯಿಗೆ ಏರುತ್ತದೆ.",
+        "ಸಣ್ಣ ಕರುಳು ಆಹಾರವನ್ನು ಹಿಂದಕ್ಕೆ ತಳ್ಳುತ್ತದೆ.",
+        "ನಾವು ಹೆಚ್ಚು ಗಾಳಿಯನ್ನು ನುಂಗುತ್ತೇವೆ ಅದು ಹೊಟ್ಟೆಯಲ್ಲಿ ವಿಸ್ತರಿಸುತ್ತದೆ."
+      ],
+      "answer": "ಆಹಾರದ ಕಣಗಳು ಆಕಸ್ಮಿಕವಾಗಿ ಆಹಾರದ ಕೊಳವೆಯ ಬದಲಿಗೆ ಶ್ವಾಸನಾಳವನ್ನು ಪ್ರವೇಶಿಸುತ್ತವೆ.",
+      "reasoning": "ಶ್ವಾಸನಾಳ ಮತ್ತು ಅನ್ನನಾಳವು ಸಾಮಾನ್ಯ ಮಾರ್ಗವನ್ನು ಹಂಚಿಕೊಳ್ಳುತ್ತವೆ. ಆತುರದಲ್ಲಿ ತಿನ್ನುವಾಗ ಆಹಾರವು ಶ್ವಾಸನಾಳವನ್ನು ಪ್ರವೇಶಿಸಬಹುದು, ಇದರಿಂದಾಗಿ ಉಸಿರುಕಟ್ಟುವಿಕೆ ಅಥವಾ ಬಿಕ್ಕಳಿಕೆ ಉಂಟಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c7_sci_na_30",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "During digestion, proteins are broken down into:",
+      "options": ["Amino acids", "Fatty acids", "Glucose", "Glycerol"],
+      "answer": "Amino acids",
+      "reasoning": "Through the action of digestive juices (like those in the stomach and small intestine), complex proteins are broken down into simple amino acids."
+    },
+    "kn": {
+      "question": "ಜೀರ್ಣಕ್ರಿಯೆಯ ಸಮಯದಲ್ಲಿ, ಪ್ರೋಟೀನ್‌ಗಳನ್ನು ಯಾವುದಾಗಿ ವಿಭಜಿಸಲಾಗುತ್ತದೆ?",
+      "options": ["ಅಮೈನೋ ಆಮ್ಲಗಳು", "ಕೊಬ್ಬಿನಾಮ್ಲಗಳು (Fatty acids)", "ಗ್ಲೂಕೋಸ್", "ಗ್ಲಿಸರಾಲ್"],
+      "answer": "ಅಮೈನೋ ಆಮ್ಲಗಳು",
+      "reasoning": "ಜೀರ್ಣರಸಗಳ ಕ್ರಿಯೆಯ ಮೂಲಕ (ಹೊಟ್ಟೆ ಮತ್ತು ಸಣ್ಣ ಕರುಳಿನಲ್ಲಿರುವಂತೆ), ಸಂಕೀರ್ಣ ಪ್ರೋಟೀನ್‌ಗಳನ್ನು ಸರಳ ಅಮೈನೋ ಆಮ್ಲಗಳಾಗಿ ವಿಭಜಿಸಲಾಗುತ್ತದೆ."
+    }
+  }
+]
