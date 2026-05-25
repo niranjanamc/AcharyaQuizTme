@@ -806,3 +806,7 @@ src/data/catalog.json
 ```
 
 Always cross-reference this file when creating IDs to ensure they map to valid chapters.
+
+### Critical Geometry Requirement: Vertex & Edge Labels
+- **ALWAYS label vertices**: Any polygons (triangles, rectangles, squares, etc.) MUST include explicit text labels for their vertices (e.g., A, B, C for triangles; A, B, C, D for rectangles). Place them slightly outside the corners.
+- **ALWAYS label edges/angles**: Include text for the lengths of sides (e.g., '5 cm') and measures of angles if they are relevant to the question.
