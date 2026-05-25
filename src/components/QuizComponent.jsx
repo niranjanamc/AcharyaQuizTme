@@ -125,7 +125,7 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
             />
           ) : (
             <img 
-              src={`./images/questions/${questionData.image.src}`}
+              src={`/images/questions/${questionData.image.src}`}
               alt={questionData.image.alt || ''}
               style={{ maxWidth: '100%', maxHeight: '280px', objectFit: 'contain', borderRadius: '8px' }}
               loading="lazy"
@@ -182,7 +182,7 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
                     {optImage.type === 'svg' ? (
                       <div dangerouslySetInnerHTML={{ __html: optImage.svg }} style={{ maxWidth: '100%', maxHeight: '150px' }} />
                     ) : (
-                      <img src={`./images/questions/${optImage.src}`} alt={optImage.alt || ''} style={{ maxWidth: '100%', maxHeight: '150px', objectFit: 'contain' }} loading="lazy" />
+                      <img src={`/images/questions/${optImage.src}`} alt={optImage.alt || ''} style={{ maxWidth: '100%', maxHeight: '150px', objectFit: 'contain' }} loading="lazy" />
                     )}
                   </div>
                 )}
@@ -266,7 +266,7 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
                     {optImage.type === 'svg' ? (
                       <div dangerouslySetInnerHTML={{ __html: optImage.svg }} style={{ maxWidth: '100%', maxHeight: '150px' }} />
                     ) : (
-                      <img src={`./images/questions/${optImage.src}`} alt={optImage.alt || ''} style={{ maxWidth: '100%', maxHeight: '150px', objectFit: 'contain' }} loading="lazy" />
+                      <img src={`/images/questions/${optImage.src}`} alt={optImage.alt || ''} style={{ maxWidth: '100%', maxHeight: '150px', objectFit: 'contain' }} loading="lazy" />
                     )}
                   </div>
                 )}

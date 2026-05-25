@@ -1,0 +1,11 @@
+--- cms/svg_templates.py
++++ cms/svg_templates.py
+@@ -103,7 +103,7 @@
+         json_str: A string safe to be embedded in JSON (escapes quotes/newlines).
+     """
+     # In python 3, json.dumps handles all escaping safely.
+-    return json.dumps(svg_content)
++    return svg_content
+ 
+ 
+ def create_svg_wrapper(width: int, height: int, content: str, bg_color: str = "#fff") -> str:

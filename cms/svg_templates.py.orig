@@ -41,17 +41,17 @@ MEASUREMENT_SIZE = 14
 
 # ── Helpers ──────────────────────────────────────────────────────────────────
 
-def svg_to_json_string(svg_content: str) -> str:
+def svg_to_json_string(svg: str) -> str:
+    """Escape an SVG string for safe embedding inside a JSON value.
+
+    Uses ``json.dumps`` so all quotes and backslashes are properly escaped.
+
+    Example
+    -------
+    >>> svg_to_json_string('<svg width="10"></svg>')
+    '"<svg width=\\\\"10\\\\"></svg>"'
     """
-    Returns the svg string (originally for escaping, but standard json.dump handles that).
-    
-    Args:
-        svg_content: The raw SVG string.
-        
-    Returns:
-        json_str: The raw SVG string.
-    """
-    return svg_content
+    return json.dumps(svg)
 
 
 def _svg_wrap(inner: str, width: int = 300, height: int = 200) -> str:
