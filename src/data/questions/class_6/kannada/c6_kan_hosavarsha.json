@@ -1,0 +1,797 @@
+[
+  {
+    "id": "c6_kan_hosavarsha_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who is the poet of the Kannada poem 'Hosavarsha'?",
+      "options": [
+        "Kuvempu",
+        "K. S. Nissar Ahmed",
+        "D. R. Bendre",
+        "G. P. Rajarathnam"
+      ],
+      "answer": "K. S. Nissar Ahmed",
+      "reasoning": "The poem 'Hosavarsha', which welcomes the New Year with hope, was written by K. S. Nissar Ahmed."
+    },
+    "kn": {
+      "question": "'ಹೊಸವರ್ಷ' ಎಂಬ ಕನ್ನಡ ಕವಿತೆಯ ಕವಿ ಯಾರು?",
+      "options": [
+        "ಕುವೆಂಪು",
+        "ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮದ್",
+        "ದ. ರಾ. ಬೇಂದ್ರೆ",
+        "ಜಿ. ಪಿ. ರಾಜರತ್ನಂ"
+      ],
+      "answer": "ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮದ್",
+      "reasoning": "ಹೊಸವರ್ಷವನ್ನು ಹೊಸ ಭರವಸೆಯೊಂದಿಗೆ ಬರಮಾಡಿಕೊಳ್ಳುವ 'ಹೊಸವರ್ಷ' ಕವನವನ್ನು ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮದ್ ಅವರು ರಚಿಸಿದ್ದಾರೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which popular title is associated with the poet K. S. Nissar Ahmed in Kannada literature?",
+      "options": [
+        "Rashtrakavi",
+        "Nityotsava Kavi",
+        "Kavichakravarthi",
+        "Chutuku Kavi"
+      ],
+      "answer": "Nityotsava Kavi",
+      "reasoning": "He is famously known as 'Nityotsava Kavi' after his highly popular song 'Jogada Siri Belakinalli Nityotsava'."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಕವಿ ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮದ್ ಅವರಿಗೆ ಇರುವ ಜನಪ್ರಿಯ ಬಿರುದು ಯಾವುದು?",
+      "options": [
+        "ರಾಷ್ಟ್ರಕವಿ",
+        "ನಿತ್ಯೋತ್ಸವ ಕವಿ",
+        "ಕವಿಚಕ್ರವರ್ತಿ",
+        "ಚುಟುಕು ಕವಿ"
+      ],
+      "answer": "ನಿತ್ಯೋತ್ಸವ ಕವಿ",
+      "reasoning": "ಅವರ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಗೀತೆ 'ಜೋಗದ ಸಿರಿ ಬೆಳಕಿನಲ್ಲಿ ನಿತ್ಯೋತ್ಸವ' ದಿಂದಾಗಿ ಅವರನ್ನು ಪ್ರೀತಿಯಿಂದ 'ನಿತ್ಯೋತ್ಸವ ಕವಿ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the central theme of the poem 'Hosavarsha'?",
+      "options": [
+        "Fear of getting older",
+        "Welcoming new beginnings, hope, and discarding past sorrows",
+        "A description of summer vacations",
+        "The story of a historic battle"
+      ],
+      "answer": "Welcoming new beginnings, hope, and discarding past sorrows",
+      "reasoning": "The poem calls upon individuals to embrace the New Year with optimism, fresh dreams, and leaving behind old regrets."
+    },
+    "kn": {
+      "question": "'ಹೊಸವರ್ಷ' ಕವನದ ಕೇಂದ್ರ ಆಶಯ ಅಥವಾ ವಸ್ತು ಯಾವುದು?",
+      "options": [
+        "ವಯಸ್ಸಾಗುತ್ತಿದೆ ಎಂಬ ಭಯ",
+        "ಹೊಸ ಆರಂಭ, ಭರವಸೆಗಳನ್ನು ಬರಮಾಡಿಕೊಳ್ಳುವುದು ಮತ್ತು ಹಳೆಯ ದುಃಖಗಳನ್ನು ಮರೆಯುವುದು",
+        "ಬೇಸಿಗೆ ರಜೆಯ ದಿನಗಳ ವರ್ಣನೆ",
+        "ಒಂದು ಐತಿಹಾಸಿಕ ಯುದ್ಧದ ಕಥೆ"
+      ],
+      "answer": "ಹೊಸ ಆರಂಭ, ಭರವಸೆಗಳನ್ನು ಬರಮಾಡಿಕೊಳ್ಳುವುದು ಮತ್ತು ಹಳೆಯ ದುಃಖಗಳನ್ನು ಮರೆಯುವುದು",
+      "reasoning": "ಕವನವು ಹಳೆಯ ಸೋಲು-ನಿರಾಶೆಗಳನ್ನು ಬದಿಗಿಟ್ಟು, ಹೊಸ ವರ್ಷವನ್ನು ಧನಾತ್ಮಕವಾಗಿ ಹಾಗೂ ನವ ಚೇತನದಿಂದ ಎದುರಿಸಲು ಪ್ರೇರೇಪಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What does the poet advise us to do with last year's failures and sorrows?",
+      "options": [
+        "Keep thinking about them every day",
+        "Forget them and move forward with fresh determination",
+        "Blame others for our struggles",
+        "Stop working altogether"
+      ],
+      "answer": "Forget them and move forward with fresh determination",
+      "reasoning": "Nissar Ahmed advises that dwelling on old failures is useless, and one must move forward with a positive mind."
+    },
+    "kn": {
+      "question": "ಹೋದ ವರ್ಷದ ಸೋಲುಗಳು ಮತ್ತು ದುಃಖಗಳನ್ನು ನಾವು ಏನು ಮಾಡಬೇಕು ಎಂದು ಕವಿ ಸಲಹೆ ನೀಡುತ್ತಾರೆ?",
+      "options": [
+        "ಪ್ರತಿದಿನ ಅವುಗಳ ಬಗ್ಗೆಯೇ ಯೋಚಿಸುತ್ತಿರಬೇಕು",
+        "ಅವುಗಳನ್ನು ಮರೆತು ಹೊಸ ದೃಢಸಂಕಲ್ಪದೊಂದಿಗೆ ಮುನ್ನಡೆಯಬೇಕು",
+        "ನಮ್ಮ ಕಷ್ಟಗಳಿಗೆ ಇತರರನ್ನು ದೂಷಿಸಬೇಕು",
+        "ಕೆಲಸ ಮಾಡುವುದನ್ನೇ ಸಂಪೂರ್ಣವಾಗಿ ನಿಲ್ಲಿಸಬೇಕು"
+      ],
+      "answer": "ಅವುಗಳನ್ನು ಮರೆತು ಹೊಸ ದೃಢಸಂಕಲ್ಪದೊಂದಿಗೆ ಮುನ್ನಡೆಯಬೇಕು",
+      "reasoning": "ಹಳೆಯ ಸೋಲುಗಳಲ್ಲಿಯೇ ಮುಳುಗಿರುವುದರ ಬದಲು, ಅವುಗಳಿಂದ ಪಾಠ ಕಲಿತು ಭರವಸೆಯ ಹೆಜ್ಜೆಯಿಡಬೇಕು ಎಂದು ಕವಿ ತಿಳಿಸುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which season's arrival is compared to the New Year's refreshing quality in the poem?",
+      "options": [
+        "Rainy season (Varsha Ritu)",
+        "Spring season (Vasantha Ritu)",
+        "Winter season (Shishira Ritu)",
+        "Summer season (Greeshma Ritu)"
+      ],
+      "answer": "Spring season (Vasantha Ritu)",
+      "reasoning": "Spring, which brings new green sprouts and flowers, represents renewal and hope, matching the New Year."
+    },
+    "kn": {
+      "question": "ಹೊಸ ವರ್ಷದ ನವಚೇತನದ ಆಗಮನವನ್ನು ಪ್ರಕೃತಿಯ ಯಾವ ಋತುವಿನ ಆಗಮನಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ?",
+      "options": [
+        "ಮಳೆಗಾಲ (ವರ್ಷ ಋತು)",
+        "ವಸಂತ ಕಾಲ (ವಸಂತ ಋತು)",
+        "ಚಳಿಗಾಲ (ಶಿಶಿರ ಋತು)",
+        "ಬೇಸಿಗೆ ಕಾಲ (ಗ್ರೀಷ್ಮ ಋತು)"
+      ],
+      "answer": "ವಸಂತ ಕಾಲ (ವಸಂತ ಋತು)",
+      "reasoning": "ಮರಗಿಡಗಳು ಹಳೆಯ ಎಲೆಗಳನ್ನು ಉದುರಿಸಿ ಹೊಸ ಚಿಗುರು ಪಡೆಯುವ ವಸಂತ ಕಾಲವನ್ನು ಹೊಸ ವರ್ಷದ ನವಚೇತನಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the literal meaning of the word 'Kala' (ಕಾಲ) as referenced in the poem?",
+      "options": [
+        "Space",
+        "Time",
+        "Weather",
+        "Distance"
+      ],
+      "answer": "Time",
+      "reasoning": "'Kala' translates to time, which flows continuously and brings changes like the New Year."
+    },
+    "kn": {
+      "question": "ಪದ್ಯದಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾದ 'ಕಾಲ' ಎಂಬ ಪದದ ನಿಖರ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಬಾಹ್ಯಾಕಾಶ",
+        "ಸಮಯ (Time)",
+        "ಹವಾಮಾನ",
+        "ದೂರ"
+      ],
+      "answer": "ಸಮಯ (Time)",
+      "reasoning": "'ಕಾಲ' ಎಂದರೆ ಸಮಯ ಎಂದರ್ಥ. ನಿರಂತರವಾಗಿ ಓಡುವ ಕಾಲವು ವರ್ಷದ ಬದಲಾವಣೆಯನ್ನು ತರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_007",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What does the poet want us to sow in our minds at the start of the New Year?",
+      "options": [
+        "Doubts and suspicions",
+        "Seeds of new dreams and positive thoughts",
+        "Anger against our enemies",
+        "Desire for material wealth only"
+      ],
+      "answer": "Seeds of new dreams and positive thoughts",
+      "reasoning": "The poet metaphorically urges us to plant positive aspirations (kanasu) in our minds to reap a happy future."
+    },
+    "kn": {
+      "question": "ಹೊಸ ವರ್ಷದ ಆರಂಭದಲ್ಲಿ ನಮ್ಮ ಮನಸ್ಸಿನಲ್ಲಿ ಏನನ್ನು ಬಿತ್ತಬೇಕು ಎಂದು ಕವಿ ಆಶಿಸುತ್ತಾರೆ?",
+      "options": [
+        "ಸಂದೇಹ ಮತ್ತು ಅಪನಂಬಿಕೆಗಳನ್ನು",
+        "ಹೊಸ ಕನಸುಗಳು ಮತ್ತು ಸತ್ಚಿಂತನೆಗಳ ಬೀಜಗಳನ್ನು",
+        "ಶತ್ರುಗಳ ಮೇಲಿರುವ ಕೋಪವನ್ನು",
+        "ಕೇವಲ ಭೌತಿಕ ಐಶ್ವರ್ಯದ ಆಸೆಯನ್ನು"
+      ],
+      "answer": "ಹೊಸ ಕನಸುಗಳು ಮತ್ತು ಸತ್ಚಿಂತನೆಗಳ ಬೀಜಗಳನ್ನು",
+      "reasoning": "ಮನಸ್ಸೆಂಬ ಹೊಲದಲ್ಲಿ ಹೊಸ ಸತ್ಕನಸುಗಳ ಹಾಗೂ ಒಳ್ಳೆಯ ವಿಚಾರಗಳ ಬೀಜ ಬಿತ್ತಿ ಜೀವನವನ್ನು ಫಲಪ್ರದವಾಗಿಸಬೇಕು ಎಂದು ಕವಿ ಹೇಳುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_008",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the meaning of the Kannada word 'Chiguru' (ಚಿಗುರು) as used in the poem?",
+      "options": [
+        "A dry twig",
+        "A fresh green sprout or young leaf",
+        "A ripe fruit",
+        "A deep root"
+      ],
+      "answer": "A fresh green sprout or young leaf",
+      "reasoning": "'Chiguru' refers to a fresh leaf bud or sprout, representing new life, growth, and youthfulness."
+    },
+    "kn": {
+      "question": "ಪದ್ಯದಲ್ಲಿ ಬಳಸಲಾದ 'ಚಿಗುರು' ಎಂಬ ಪದದ ಸರಿಯಾದ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಒಣಗಿದ ಮರದ ಕಡ್ಡಿ",
+        "ಹೊಸದಾಗಿ ಮೂಡಿದ ಎಲೆ/ಕುಡಿ",
+        "ಹಣ್ಣಾದ ಕಾಯಿ",
+        "ಆಳವಾದ ಬೇರು"
+      ],
+      "answer": "ಹೊಸದಾಗಿ ಮೂಡಿದ ಎಲೆ/ಕುಡಿ",
+      "reasoning": "'ಚಿಗುರು' ಎಂದರೆ ಗಿಡಮರಗಳಲ್ಲಿ ಮೂಡುವ ಹೊಸ ಹಸಿರು ಎಲೆ ಅಥವಾ ಕುಡಿ ಎಂದರ್ಥ, ಇದು ಹೊಸ ಚೈತನ್ಯದ ಸಂಕೇತವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why does Nissar Ahmed call for discarding 'haleya chinte' (old worries)?",
+      "options": [
+        "Because worries consume our energy and stop constructive progress",
+        "Because they make us famous",
+        "Because they help us sleep better",
+        "Because they are liked by others"
+      ],
+      "answer": "Because worries consume our energy and stop constructive progress",
+      "reasoning": "Dwelling on old problems drains mental energy and prevents us from achieving new goals in the New Year."
+    },
+    "kn": {
+      "question": "ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮದ್ ಅವರು 'ಹಳೆಯ ಚಿಂತೆ'ಗಳನ್ನು ಬಿಟ್ಟುಬಿಡಬೇಕು ಎಂದು ಹೇಳಲು ಕಾರಣವೇನು?",
+      "options": [
+        "ಚಿಂತೆಗಳು ನಮ್ಮ ಶಕ್ತಿಯನ್ನು ಕುಂದಿಸಿ ಹೊಸ ಪ್ರಗತಿಯನ್ನು ತಡೆಯುವುದರಿಂದ",
+        "ಅವು ನಮ್ಮನ್ನು ಪ್ರಸಿದ್ಧರನ್ನಾಗಿ ಮಾಡುವುದರಿಂದ",
+        "ಅವು ನಮಗೆ ಒಳ್ಳೆಯ ನಿದ್ದೆ ತರುವುದರಿಂದ",
+        "ಅವು ಇತರರಿಗೆ ಇಷ್ಟವಾಗುವುದರಿಂದ"
+      ],
+      "answer": "ಚಿಂತೆಗಳು ನಮ್ಮ ಶಕ್ತಿಯನ್ನು ಕುಂದಿಸಿ ಹೊಸ ಪ್ರಗತಿಯನ್ನು ತಡೆಯುವುದರಿಂದ",
+      "reasoning": "ಹಳೆಯ ಚಿಂತೆಗಳಲ್ಲಿ ಮುಳುಗಿರುವುದರಿಂದ ಮಾನಸಿಕ ನೆಮ್ಮದಿ ಹಾಳಾಗಿ, ಹೊಸ ವರ್ಷದಲ್ಲಿ ಕೆಲಸ ಮಾಡುವ ಉತ್ಸಾಹ ಕುಂದುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which famous light music (Sugama Sangeetha) song composed by Nissar Ahmed praises Karnataka's nature?",
+      "options": [
+        "Huttidare Kannada Nadalli Huttabeku",
+        "Jogada Siri Belakinalli Nityotsava",
+        "Barisu Kannada Dindimava",
+        "Udayavagali Namma Cheluva Kannada Nadu"
+      ],
+      "answer": "Jogada Siri Belakinalli Nityotsava",
+      "reasoning": "This song describes the natural landmarks of Karnataka like Jog falls and Sahyadri, and is played widely across the state."
+    },
+    "kn": {
+      "question": "ಕರ್ನಾಟಕದ ಪ್ರಾಕೃತಿಕ ಸೌಂದರ್ಯವನ್ನು ಕೊಂಡಾಡುವ, ನಿಸಾರ್ ಅಹಮದ್ ಅವರು ಬರೆದ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಭಾವಗೀತೆ ಯಾವುದು?",
+      "options": [
+        "ಹುಟ್ಟಿದರೆ ಕನ್ನಡ ನಾಡಲ್ಲಿ ಹುಟ್ಟಬೇಕು",
+        "ಜೋಗದ ಸಿರಿ ಬೆಳಕಿನಲ್ಲಿ ನಿತ್ಯೋತ್ಸವ",
+        "ಬಾರಿಸು ಕನ್ನಡ ಡಿಂಡಿಮವ",
+        "ಉದಯವಾಗಲಿ ನಮ್ಮ ಚೆಲುವ ಕನ್ನಡ ನಾಡು"
+      ],
+      "answer": "ಜೋಗದ ಸಿರಿ ಬೆಳಕಿನಲ್ಲಿ ನಿತ್ಯೋತ್ಸವ",
+      "reasoning": "ಈ ಹಾಡು ಜೋಗ ಜಲಪಾತ, ಸಹ್ಯಾದ್ರಿ ಮುಂತಾದ ಕರ್ನಾಟಕದ ನೈಸರ್ಗಿಕ ತಾಣಗಳ ಸೌಂದರ್ಯವನ್ನು ಅಪೂರ್ವವಾಗಿ ವರ್ಣಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What does the poet mean by the phrase 'Hosa Belaku' (ಹೊಸ ಬೆಳಕು) in the context of the poem?",
+      "options": [
+        "A new electric bulb",
+        "The dawn of new knowledge, hope, and guidance in life",
+        "The bright sunlight of summer afternoons",
+        "Fire lit during festivals"
+      ],
+      "answer": "The dawn of new knowledge, hope, and guidance in life",
+      "reasoning": "'Hosa Belaku' is a metaphor for hope and enlightenment that guides humans away from past dark thoughts."
+    },
+    "kn": {
+      "question": "ಕವನದ ಹಿನ್ನೆಲೆಯಲ್ಲಿ 'ಹೊಸ ಬೆಳಕು' ಎಂಬ ನುಡಿಗಟ್ಟು ಏನನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ?",
+      "options": [
+        "ಹೊಸ ಇಲೆಕ್ಟ್ರಿಕ್ ಬಲ್ಬ್",
+        "ಹೊಸ ಜ್ಞಾನ, ಭರವಸೆ ಮತ್ತು ಜೀವನಕ್ಕೆ ಹೊಸ ಮಾರ್ಗದರ್ಶನ",
+        "ಬೇಸಿಗೆಯ ಮಧ್ಯಾಹ್ನದ ತೀಕ್ಷ್ಣ ಬಿಸಿಲು",
+        "ಹಬ್ಬದ ಸಮಯದಲ್ಲಿ ಹಚ್ಚುವ ದೀಪದ ಬೆಂಕಿ"
+      ],
+      "answer": "ಹೊಸ ಜ್ಞಾನ, ಭರವಸೆ ಮತ್ತು ಜೀವನಕ್ಕೆ ಹೊಸ ಮಾರ್ಗದರ್ಶನ",
+      "reasoning": "'ಹೊಸ ಬೆಳಕು' ಎಂದರೆ ಮನಸ್ಸಿನ ಕತ್ತಲೆಯನ್ನು (ಅಜ್ಞಾನ, ಹತಾಶೆ) ದೂರಮಾಡಿ ಜ್ಞಾನದ ಹೊಸ ಉದಯವನ್ನು ಹೊಂದುವುದಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "According to the poem, how can we build a better society in the New Year?",
+      "options": [
+        "By staying isolated in our homes",
+        "By working collaboratively, maintaining harmony, and helping others",
+        "By focusing only on personal gain",
+        "By shifting to cities"
+      ],
+      "answer": "By working collaboratively, maintaining harmony, and helping others",
+      "reasoning": "The poet notes that community growth and cooperative work are essential for the progress of the nation."
+    },
+    "kn": {
+      "question": "ಪದ್ಯದ ಪ್ರಕಾರ, ಹೊಸ ವರ್ಷದಲ್ಲಿ ನಾವು ಉತ್ತಮ ಸಮಾಜವನ್ನು ಹೇಗೆ ನಿರ್ಮಿಸಬಹುದು?",
+      "options": [
+        "ನಮ್ಮ ನಮ್ಮ ಮನೆಗಳಲ್ಲಿ ಪ್ರತ್ಯೇಕವಾಗಿ ಇರುವುದರಿಂದ",
+        "ಪರಸ್ಪರ ಸಹಕಾರದಿಂದ ಕೆಲಸ ಮಾಡುತ್ತಾ, ಸಾಮರಸ್ಯದಿಂದ ಬದುಕಿ ಇತರರಿಗೆ ನೆರವಾಗುವುದರಿಂದ",
+        "ಕೇವಲ ವೈಯಕ್ತಿಕ ಲಾಭಕ್ಕಾಗಿ ಶ್ರಮಿಸುವುದರಿಂದ",
+        "ಎಲ್ಲರೂ ನಗರಗಳಿಗೆ ವಲಸೆ ಹೋಗುವುದರಿಂದ"
+      ],
+      "answer": "ಪರಸ್ಪರ ಸಹಕಾರದಿಂದ ಕೆಲಸ ಮಾಡುತ್ತಾ, ಸಾಮರಸ್ಯದಿಂದ ಬದುಕಿ ಇತರರಿಗೆ ನೆರವಾಗುವುದರಿಂದ",
+      "reasoning": "ಸಾಮಾಜಿಕ ಸಾಮರಸ್ಯ ಮತ್ತು ಸಾಮೂಹಿಕ ಪ್ರಯತ್ನಗಳಿಂದ ಮಾತ್ರ ಹೊಸ ವರ್ಷದಲ್ಲಿ ಪ್ರಗತಿ ಸಾಧಿಸಲು ಸಾಧ್ಯ ಎಂದು ಕವಿ ಪ್ರತಿಪಾದಿಸುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_013",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How does the poet describe the continuous flow of time in relation to human responsibility?",
+      "options": [
+        "Time is stagnant, so we do not have to worry",
+        "Time flows non-stop, and humans must keep evolving, working hard, and not wasting it",
+        "Time is controlled by human desires",
+        "Time only favors the rich"
+      ],
+      "answer": "Time flows non-stop, and humans must keep evolving, working hard, and not wasting it",
+      "reasoning": "Time does not stop for anyone. Therefore, our responsibility is to utilize each moment productively."
+    },
+    "kn": {
+      "question": "ನಿರಂತರವಾಗಿ ಹರಿಯುವ ಕಾಲ ಮತ್ತು ಅದರಲ್ಲಿ ಮಾನವನಿಗಿರುವ ಜವಾಬ್ದಾರಿಯನ್ನು ಕವಿ ಹೇಗೆ ವಿವರಿಸುತ್ತಾರೆ?",
+      "options": [
+        "ಕಾಲವು ಸ್ಥಿರವಾಗಿರುತ್ತದೆ, ಆದ್ದರಿಂದ ನಾವು ಚಿಂತಿಸಬೇಕಾಗಿಲ್ಲ",
+        "ಕಾಲ ನಿಲ್ಲದೆ ಓಡುತ್ತದೆ, ಆದ್ದರಿಂದ ಮನುಷ್ಯನು ಅದರೊಂದಿಗೆ ಬದಲಾಗುತ್ತಾ, ಶ್ರಮಿಸುತ್ತಾ ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಬಾರದು",
+        "ಕಾಲವು ಸಂಪೂರ್ಣವಾಗಿ ಮನುಷ್ಯನ ಆಸೆಗಳ ನಿಯಂತ್ರಣದಲ್ಲಿದೆ",
+        "ಕಾಲವು ಕೇವಲ ಶ್ರೀಮಂತರನ್ನು ಮಾತ್ರ ಬೆಂಬಲಿಸುತ್ತದೆ"
+      ],
+      "answer": "ಕಾಲ ನಿಲ್ಲದೆ ಓಡುತ್ತದೆ, ಆದ್ದರಿಂದ ಮನುಷ್ಯನು ಅದರೊಂದಿಗೆ ಬದಲಾಗುತ್ತಾ, ಶ್ರಮಿಸುತ್ತಾ ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಬಾರದು",
+      "reasoning": "ಕಾಲ ಯಾರನ್ನೂ ಕಾಯುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ ಹಳೆಯದಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳದೆ ಪ್ರತಿಯೊಂದು ಕ್ಷಣವನ್ನು ಹೊಸ ಉತ್ಸಾಹದಿಂದ ಬಳಸಿಕೊಳ್ಳಬೇಕು."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_014",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the metaphorical meaning of the line 'Hasiyagali manasu hosa chigurinante'?",
+      "options": [
+        "The mind should become wet due to rain",
+        "The human mind should become fresh, receptive to new ideas, and full of empathy like a new sprout",
+        "One should eat green leafy vegetables",
+        "The mind should remain immature forever"
+      ],
+      "answer": "The human mind should become fresh, receptive to new ideas, and full of empathy like a new sprout",
+      "reasoning": "A green sprout is tender and full of life. Similarly, our minds should be lively, compassionate, and open to good values."
+    },
+    "kn": {
+      "question": "'ಹಸಿಯಾಗಲಿ ಮನಸು ಹೊಸ ಚಿಗುರಿನಂತೆ' ಎಂಬ ಸಾಲಿನ ಸಾಂಕೇತಿಕ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಮಳೆಯ ನೀರಿನಿಂದ ಮನಸ್ಸು ಸಂಪೂರ್ಣ ನೆನೆಯಬೇಕು",
+        "ಮಾನವನ ಮನಸ್ಸು ಹೊಸ ಚಿಗುರಿನಂತೆ ತಾಜಾತನದಿಂದ ಕೂಡಿ, ಸತ್ವಿಚಾರಗಳಿಗೆ ಮತ್ತು ಸಹಾನುಭೂತಿಗೆ ತೆರೆದುಕೊಳ್ಳಬೇಕು",
+        "ಮನುಷ್ಯರು ಹಸಿರು ತರಕಾರಿಗಳನ್ನು ಹೆಚ್ಚಾಗಿ ತಿನ್ನಬೇಕು",
+        "ಮನಸ್ಸು ಎಂದಿಗೂ ಮಾಗದ ಅಪಕ್ವ ಸ್ಥಿತಿಯಲ್ಲೇ ಇರಬೇಕು"
+      ],
+      "answer": "ಮಾನವನ ಮನಸ್ಸು ಹೊಸ ಚಿಗುರಿನಂತೆ ತಾಜಾತನದಿಂದ ಕೂಡಿ, ಸತ್ವಿಚಾರಗಳಿಗೆ ಮತ್ತು ಸಹಾನುಭೂತಿಗೆ ತೆರೆದುಕೊಳ್ಳಬೇಕು",
+      "reasoning": "ಚಿಗುರು ಜೀವಕಳೆ ಹಾಗೂ ಕೋಮಲತೆಯ ಸಂಕೇತ. ನಮ್ಮ ಮನಸ್ಸು ಕೂಡ ಕಠೋರವಾಗದೆ ಇತರರ ನೋವಿಗೆ ಸ್ಪಂದಿಸುವಷ್ಟು ಕೋಮಲವಾಗಿರಬೇಕು ಎಂಬುದು ಇದರರ್ಥ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which literary figure of speech is dominant when comparing negative, outdated thoughts to dry leaves that fall off?",
+      "options": [
+        "Alliteration",
+        "Metaphor (Rupaka)",
+        "Onomatopoeia",
+        "Hyperbole"
+      ],
+      "answer": "Metaphor (Rupaka)",
+      "reasoning": "By directly equating bad thoughts to dry fallen leaves (unwanted elements to be swept away), the poet uses metaphor."
+    },
+    "kn": {
+      "question": "ಹಳೆಯ ಮತ್ತು ಅನಗತ್ಯವಾದ ಆಲೋಚನೆಗಳನ್ನು ಒಣಗಿ ಉದುರುವ ಎಲೆಗಳಿಗೆ ಹೋಲಿಸುವಲ್ಲಿ ಬಳಸಲಾದ ಪ್ರಮುಖ ಅಲಂಕಾರ ಯಾವುದು?",
+      "options": [
+        "ಅನುಪ್ರಾಸ ಅಲಂಕಾರ",
+        "ರೂಪಕ ಅಲಂಕಾರ (Metaphor)",
+        "ಧ್ವನ್ಯರ್ಥ ಅಲಂಕಾರ",
+        "ಅತಿಶಯೋಕ್ತಿ ಅಲಂಕಾರ"
+      ],
+      "answer": "ರೂಪಕ ಅಲಂಕಾರ (Metaphor)",
+      "reasoning": "ಒಣ ಎಲೆಗಳನ್ನು ಹಳೆಯ ನಕಾರಾತ್ಮಕ ಯೋಚನೆಗಳೆಂದು ನೇರವಾಗಿ ರೂಪಿಸಿರುವುದರಿಂದ ಇದು ರೂಪಕ ಅಲಂಕಾರಕ್ಕೆ ಉದಾಹರಣೆಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How does the poet encourage self-reliance (swavalambane) in the poem 'Hosavarsha'?",
+      "options": [
+        "By asking people to wait for destiny to help them",
+        "By urging individuals to believe in their own strength, take responsibility, and work actively",
+        "By suggesting to copy others' lifestyles",
+        "By encouraging reliance on government aids only"
+      ],
+      "answer": "By urging individuals to believe in their own strength, take responsibility, and work actively",
+      "reasoning": "The poem calls for individual effort (swashakthi) and self-help to bring about positive transformations."
+    },
+    "kn": {
+      "question": "'ಹೊಸವರ್ಷ' ಕವನದಲ್ಲಿ ಕವಿ ಸ್ವಾವಲಂಬನೆಯನ್ನು ಹೇಗೆ ಪ್ರೋತ್ಸಾಹಿಸುತ್ತಾರೆ?",
+      "options": [
+        "ಜನರು ತಮಗಾಗಿ ಅದೃಷ್ಟ ಒಲಿದುಬರುವವರೆಗೆ ಕಾಯಬೇಕೆಂದು ಹೇಳುವ ಮೂಲಕ",
+        "ಪ್ರತಿಯೊಬ್ಬರೂ ತಮ್ಮ ಶಕ್ತಿಯನ್ನು ನಂಬಿ, ಜವಾಬ್ದಾರಿಯನ್ನು ಹೊತ್ತು ಕ್ರಿಯಾಶೀಲರಾಗಿ ಶ್ರಮಿಸಬೇಕೆಂದು ತಿಳಿಸುವ ಮೂಲಕ",
+        "ಇತರರ ಜೀವನಶೈಲಿಯನ್ನು ನಕಲು ಮಾಡಲು ತಿಳಿಸುವ ಮೂಲಕ",
+        "ಕೇವಲ ಸರ್ಕಾರಿ ಸವಲತ್ತುಗಳ ಮೇಲೆ ಅವಲಂಬಿತರಾಗಲು ಪ್ರೇರೇಪಿಸುವ ಮೂಲಕ"
+      ],
+      "answer": "ಪ್ರತಿಯೊಬ್ಬರೂ ತಮ್ಮ ಶಕ್ತಿಯನ್ನು ನಂಬಿ, ಜವಾಬ್ದಾರಿಯನ್ನು ಹೊತ್ತು ಕ್ರಿಯಾಶೀಲರಾಗಿ ಶ್ರಮಿಸಬೇಕೆಂದು ತಿಳಿಸುವ ಮೂಲಕ",
+      "reasoning": "ಮನುಷ್ಯ ತನ್ನ ಸ್ವಯಂ ಪ್ರಯತ್ನ ಹಾಗೂ ಸಾಮರ್ಥ್ಯದಿಂದ ಹೊಸ ಬದುಕನ್ನು ಕಟ್ಟಿಕೊಳ್ಳಬೇಕೇ ಹೊರತು ಕೇವಲ ವಿಧಿಯಾಟಕ್ಕೆ ಕಾಯಬಾರದು ಎಂದು ಕವಿ ಹೇಳುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the historical significance of K. S. Nissar Ahmed's appointment as the president of 73rd Kannada Sahitya Sammelana?",
+      "options": [
+        "It was the first Sammelana held outside India",
+        "It recognized his immense contributions to light music, poetry, and integration of diverse cultures",
+        "He was the youngest president in its history",
+        "He wrote the sammelana anthem there"
+      ],
+      "answer": "It recognized his immense contributions to light music, poetry, and integration of diverse cultures",
+      "reasoning": "Presiding over the Kannada Sahitya Sammelana (held in Shivamogga in 2007) is the highest honor for a Kannada writer, recognizing his lifelong literary contribution."
+    },
+    "kn": {
+      "question": "ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮದ್ ಅವರು 73ನೇ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದರ ಐತಿಹಾಸಿಕ ಮಹತ್ವವೇನು?",
+      "options": [
+        "ಇದು ಭಾರತದ ಹೊರಗೆ ನಡೆದ ಮೊದಲ ಸಮ್ಮೇಳನವಾಗಿತ್ತು",
+        "ಇದು ಅವರ ಭಾವಗೀತೆಗಳು, ಕಾವ್ಯ ಮತ್ತು ವೈವಿಧ್ಯಮಯ ಸಂಸ್ಕೃತಿಗಳನ್ನು ಬೆಸೆಯುವ ಸಾಹಿತ್ಯಿಕ ಕೊಡುಗೆಗೆ ಸಂದ ಗೌರವವಾಗಿತ್ತು",
+        "ಅವರು ಇತಿಹಾಸದಲ್ಲೇ ಅತ್ಯಂತ ಕಿರಿಯ ವಯಸ್ಸಿನ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದರು",
+        "ಅವರು ಅಲ್ಲಿ ಸಮ್ಮೇಳನದ ಪ್ರತ್ಯೇಕ ಗೀತೆಯನ್ನು ಬರೆದರು"
+      ],
+      "answer": "ಇದು ಅವರ ಭಾವಗೀತೆಗಳು, ಕಾವ್ಯ ಮತ್ತು ವೈವಿಧ್ಯಮಯ ಸಂಸ್ಕೃತಿಗಳನ್ನು ಬೆಸೆಯುವ ಸಾಹಿತ್ಯಿಕ ಕೊಡುಗೆಗೆ ಸಂದ ಗೌರವವಾಗಿತ್ತು",
+      "reasoning": "2007 ರಲ್ಲಿ ಶಿವಮೊಗ್ಗದಲ್ಲಿ ನಡೆದ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷತೆ ವಹಿಸಿದ್ದು ಅವರ ಸಮಗ್ರ ಸಾಹಿತ್ಯ ಸೇವೆಗೆ ಸಿಕ್ಕ ಅತ್ಯುನ್ನತ ನಾಡಿನ ಗೌರವವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_018",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following attitudes does the poet ask us to discard in 'Hosavarsha'? (Select all that apply)",
+      "options": [
+        "Holding onto past grievances and anger",
+        "Feeling hopeless due to past failures",
+        "Laziness and inactivity",
+        "Hope for a bright future"
+      ],
+      "answer": [
+        "Holding onto past grievances and anger",
+        "Feeling hopeless due to past failures",
+        "Laziness and inactivity"
+      ],
+      "reasoning": "The poem urges us to shed negativity (grudges, hopelessness, and laziness). Hope is a positive quality we should embrace, not discard."
+    },
+    "kn": {
+      "question": "'ಹೊಸವರ್ಷ' ಬಂದಾಗ ನಾವು ತೊರೆದುಬಿಡಬೇಕಾದ ನಕಾರಾತ್ಮಕ ಭಾವನೆಗಳು ಯಾವುವು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಹಳೆಯ ದ್ವೇಷ ಮತ್ತು ಕೋಪವನ್ನು ಉಳಿಸಿಕೊಳ್ಳುವುದು",
+        "ಹಳೆಯ ಸೋಲುಗಳಿಂದ ಹತಾಶರಾಗಿ ಕುಳಿತುಕೊಳ್ಳುವುದು",
+        "ಸೋಮಾರಿತನ ಮತ್ತು ಅಕರ್ಮಣ್ಯತೆ",
+        "ಉಜ್ವಲ ಭವಿಷ್ಯದ ಬಗ್ಗೆ ಭರವಸೆ ಹೊಂದುವುದು"
+      ],
+      "answer": [
+        "ಹಳೆಯ ದ್ವೇಷ ಮತ್ತು ಕೋಪವನ್ನು ಉಳಿಸಿಕೊಳ್ಳುವುದು",
+        "ಹಳೆಯ ಸೋಲುಗಳಿಂದ ಹತಾಶರಾಗಿ ಕುಳಿತುಕೊಳ್ಳುವುದು",
+        "ಸೋಮಾರಿತನ ಮತ್ತು ಅಕರ್ಮಣ್ಯತೆ"
+      ],
+      "reasoning": "ಕವಿಯು ಹಳೆಯ ದ್ವೇಷ, ಹತಾಶೆ ಹಾಗೂ ಸೋಮಾರಿತನವನ್ನು ಬಿಟ್ಟು ಹೊರಬರಲು ಕರೆ ನೀಡುತ್ತಾರೆ. ಭರವಸೆಯನ್ನು ನಾವು ಸ್ವೀಕರಿಸಬೇಕೇ ಹೊರತು ತೊರೆಯಬಾರದು."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "What positive changes in nature are mentioned or implied when spring (New Year) arrives? (Select all that apply)",
+      "options": [
+        "New green leaves sprout on trees",
+        "Dry leaves fall off to clean the soil",
+        "Flowers bloom spreading sweet scents",
+        "Rivers freeze completely into solid ice sheets"
+      ],
+      "answer": [
+        "New green leaves sprout on trees",
+        "Dry leaves fall off to clean the soil",
+        "Flowers bloom spreading sweet scents"
+      ],
+      "reasoning": "Spring is marked by green sprouts, shedding of old dry leaves, and fragrant flowers. Frozen rivers are a sign of winter, not spring."
+    },
+    "kn": {
+      "question": "ವಸಂತಕಾಲ (ಹೊಸ ವರ್ಷ) ಬಂದಾಗ ಪ್ರಕೃತಿಯಲ್ಲಿ ಕಂಡುಬರುವ ಧನಾತ್ಮಕ ಬದಲಾವಣೆಗಳು ಯಾವುವು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಮರಗಿಡಗಳಲ್ಲಿ ಹೊಸ ಹಸಿರು ಚಿಗುರುಗಳು ಮೂಡುತ್ತವೆ",
+        "ಒಣಗಿದ ಎಲೆಗಳು ಉದುರಿ ನೆಲ ಸ್ವಚ್ಛಗೊಳ್ಳುತ್ತದೆ",
+        "ಹೂವುಗಳು ಅರಳಿ ಸುಗಂಧವನ್ನು ಸೂಸುತ್ತವೆ",
+        "ನದಿಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಹೆಪ್ಪುಗಟ್ಟಿ ಮಂಜುಗಡ್ಡೆಯಾಗುತ್ತವೆ"
+      ],
+      "answer": [
+        "ಮರಗಿಡಗಳಲ್ಲಿ ಹೊಸ ಹಸಿರು ಚಿಗುರುಗಳು ಮೂಡುತ್ತವೆ",
+        "ಒಣಗಿದ ಎಲೆಗಳು ಉದುರಿ ನೆಲ ಸ್ವಚ್ಛಗೊಳ್ಳುತ್ತದೆ",
+        "ಹೂವುಗಳು ಅರಳಿ ಸುಗಂಧವನ್ನು ಸೂಸುತ್ತವೆ"
+      ],
+      "reasoning": "ವಸಂತ ಋತುವಿನಲ್ಲಿ ಚಿಗುರು, ಹೂವಿನ ಪರಿಮಳ ಹಾಗೂ ಹೊಸತನ ಕಂಡುಬರುತ್ತದೆ. ನದಿಗಳು ಹೆಪ್ಪುಗಟ್ಟುವುದು ಚಳಿಗಾಲದ ಲಕ್ಷಣವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_020",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of these awards and achievements belong to the poet K. S. Nissar Ahmed? (Select all that apply)",
+      "options": [
+        "Padma Shri in 2008",
+        "Pampa Award in 2017",
+        "President of the 73rd Kannada Sahitya Sammelana",
+        "Nobel Prize in Literature"
+      ],
+      "answer": [
+        "Padma Shri in 2008",
+        "Pampa Award in 2017",
+        "President of the 73rd Kannada Sahitya Sammelana"
+      ],
+      "reasoning": "He received the Padma Shri, Pampa Award, and presided over the literary meet. He did not receive a Nobel Prize."
+    },
+    "kn": {
+      "question": "ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮದ್ ಅವರ ಪ್ರಮುಖ ಪ್ರಶಸ್ತಿಗಳು ಮತ್ತು ಸಾಧನೆಗಳು ಯಾವುವು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "2008 ರಲ್ಲಿ ಪದ್ಮಶ್ರೀ ಪ್ರಶಸ್ತಿ",
+        "2017 ರಲ್ಲಿ ಪಂಪ ಪ್ರಶಸ್ತಿ",
+        "73ನೇ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷತೆ",
+        "ನೋಬೆಲ್ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ"
+      ],
+      "answer": [
+        "2008 ರಲ್ಲಿ ಪದ್ಮಶ್ರೀ ಪ್ರಶಸ್ತಿ",
+        "2017 ರಲ್ಲಿ ಪಂಪ ಪ್ರಶಸ್ತಿ",
+        "73ನೇ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷತೆ"
+      ],
+      "reasoning": "ನಿಸಾರ್ ಅಹಮದ್ ಅವರಿಗೆ ಪದ್ಮಶ್ರೀ, ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಪಂಪ ಪ್ರಶಸ್ತಿ ಲಭಿಸಿದೆ ಮತ್ತು ಸಮ್ಮೇಳನಾಧ್ಯಕ್ಷರಾಗಿದ್ದರು. ನೋಬೆಲ್ ಪ್ರಶಸ್ತಿ ಅವರಿಗೆ ಬಂದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_021",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "What actions does the poet recommend for people to make their lives meaningful in the New Year? (Select all that apply)",
+      "options": [
+        "Dreaming new dreams and putting hard work to realize them",
+        "Cooperating with fellow humans to construct a peaceful society",
+        "Avoiding any new ventures due to fear of failure",
+        "Utilizing time efficiently without wasting a single day"
+      ],
+      "answer": [
+        "Dreaming new dreams and putting hard work to realize them",
+        "Cooperating with fellow humans to construct a peaceful society",
+        "Utilizing time efficiently without wasting a single day"
+      ],
+      "reasoning": "The poet advocates for new dreams, social cooperation, and proper utilization of time. Fear of failure is discouraged."
+    },
+    "kn": {
+      "question": "ಹೊಸ ವರ್ಷದಲ್ಲಿ ಜನರು ತಮ್ಮ ಜೀವನವನ್ನು ಅರ್ಥಪೂರ್ಣವಾಗಿಸಲು ಅನುಸರಿಸಬೇಕಾದ ಮಾರ್ಗಗಳು ಯಾವುವು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಹೊಸ ಕನಸುಗಳನ್ನು ಕಂಡು ಅವುಗಳನ್ನು ಸಾಕಾರಗೊಳಿಸಲು ಶ್ರಮಿಸುವುದು",
+        "ಶಾಂತಿಯುತ ಸಮಾಜ ನಿರ್ಮಾಣಕ್ಕಾಗಿ ಸಹಮಾನವರೊಂದಿಗೆ ಸಹಕರಿಸುವುದು",
+        "ಸೋಲಿನ ಭಯದಿಂದ ಯಾವುದೇ ಹೊಸ ಕೆಲಸಗಳನ್ನು ಮಾಡದೆ ಇರುವುದು",
+        "ಒಂದು ದಿನವನ್ನೂ ವ್ಯರ್ಥ ಮಾಡದೆ ಸಮಯವನ್ನು ಸಮರ್ಥವಾಗಿ ಬಳಸುವುದು"
+      ],
+      "answer": [
+        "ಹೊಸ ಕನಸುಗಳನ್ನು ಕಂಡು ಅವುಗಳನ್ನು ಸಾಕಾರಗೊಳಿಸಲು ಶ್ರಮಿಸುವುದು",
+        "ಶಾಂತಿಯುತ ಸಮಾಜ ನಿರ್ಮಾಣಕ್ಕಾಗಿ ಸಹಮಾನವರೊಂದಿಗೆ ಸಹಕರಿಸುವುದು",
+        "ಒಂದು ದಿನವನ್ನೂ ವ್ಯರ್ಥ ಮಾಡದೆ ಸಮಯವನ್ನು ಸಮರ್ಥವಾಗಿ ಬಳಸುವುದು"
+      ],
+      "reasoning": "ಕನಸು ಕಾಣುವುದು, ಸಮಾಜಕ್ಕೆ ಕೊಡುಗೆ ನೀಡುವುದು ಮತ್ತು ಕಾಲದ ಸದುಪಯೋಗ ಮಾಡುವುದು ಕವಿಯ ಆಶಯವಾಗಿದೆ. ಸೋಲಿಗೆ ಹೆದರಿ ಸುಮ್ಮನಿರುವುದನ್ನು ಅವರು ಒಪ್ಪುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_022",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the terms from the poem with their seasonal or nature associations:",
+      "pairs": [
+        {
+          "left": "Fresh leaves (Chiguru)",
+          "right": "Arrival of Spring season"
+        },
+        {
+          "left": "Dry leaves ( ಒಣ ಎಲೆ)",
+          "right": "Winter cleaning of branches"
+        },
+        {
+          "left": "New dreams",
+          "right": "New Year aspirations"
+        },
+        {
+          "left": "Past year",
+          "right": "Time that has gone by"
+        }
+      ],
+      "reasoning": "These are key natural elements matching the timeline and season described in the poem."
+    },
+    "kn": {
+      "question": "ಪದ್ಯದಲ್ಲಿನ ಪರಿಕಲ್ಪನೆಗಳನ್ನು ಅವುಗಳಿಗೆ ಸೂಕ್ತವಾದ ಪ್ರಾಕೃತಿಕ/ಕಾಲದ ಹಿನ್ನೆಲೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ಹೊಸ ಚಿಗುರು",
+          "right": "ವಸಂತ ಕಾಲದ ಆಗಮನ"
+        },
+        {
+          "left": "ಒಣಗಿದ ಎಲೆಗಳು",
+          "right": "ಹಳೆಯ ಹಂತದ ಮುಕ್ತಾಯ/ಉದುರುವಿಕೆ"
+        },
+        {
+          "left": "ಹೊಸ ಕನಸುಗಳು",
+          "right": "ಹೊಸ ವರ್ಷದ ಆಶೋತ್ತರಗಳು"
+        },
+        {
+          "left": "ಕಳೆದ ವರ್ಷ",
+          "right": "ಹರಿದುಹೋದ ಹಳೆಯ ಸಮಯ"
+        }
+      ],
+      "reasoning": "ಕಾಲದ ಬದಲಾವಣೆ ಮತ್ತು ಪ್ರಕೃತಿಯ ಕ್ರಿಯೆಗಳನ್ನು ಈ ಜೋಡಿಗಳು ವಿವರಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_023",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the Kannada vocabulary words from the poem with their correct English meanings:",
+      "pairs": [
+        {
+          "left": "Chiguru",
+          "right": "Sprout / Bud"
+        },
+        {
+          "left": "Chinte",
+          "right": "Worry / Anxiety"
+        },
+        {
+          "left": "Belaku",
+          "right": "Light / Dawn"
+        },
+        {
+          "left": "Manasu",
+          "right": "Mind / Heart"
+        }
+      ],
+      "reasoning": "These matches ensure comprehension of key words related to thoughts and nature in the poem."
+    },
+    "kn": {
+      "question": "ಪದ್ಯದಲ್ಲಿ ಬಂದಿರುವ ಪ್ರಮುಖ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಇಂಗ್ಲಿಷ್ ಅರ್ಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ಚಿಗುರು",
+          "right": "Sprout / Bud (ಹೊಸ ಕುಡಿ)"
+        },
+        {
+          "left": "ಚಿಂತೆ",
+          "right": "Worry / Anxiety (ಕಳವಳ)"
+        },
+        {
+          "left": "ಬೆಳಕು",
+          "right": "Light / Dawn (ಪ್ರಕಾಶ)"
+        },
+        {
+          "left": "ಮನಸು",
+          "right": "Mind / Heart (ಅಂತಃಕರಣ)"
+        }
+      ],
+      "reasoning": "ಕವನದ ಭಾವನೆಯನ್ನು ಗ್ರಹಿಸಲು ಬೇಕಾದ ಪ್ರಮುಖ ಶಬ್ದಕೋಶಗಳ ಸರಿಯಾದ ಜೋಡಣೆ ಇಲ್ಲಿದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_024",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the poet K. S. Nissar Ahmed's life facts with their descriptions:",
+      "pairs": [
+        {
+          "left": "Nityotsava Kavi",
+          "right": "His famous literary moniker"
+        },
+        {
+          "left": "Devalapura",
+          "right": "His birth town in Karnataka"
+        },
+        {
+          "left": "Geologist",
+          "right": "His professional background"
+        },
+        {
+          "left": "Pampa Award",
+          "right": "State literary award in 2017"
+        }
+      ],
+      "reasoning": "This connects the writer's biography (birth town, profession, awards, moniker) with his literary identity."
+    },
+    "kn": {
+      "question": "ಕವಿ ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮದ್ ಅವರ ಜೀವನದ ವಿವರಗಳನ್ನು ಅವುಗಳ ವಿವರಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ನಿತ್ಯೋತ್ಸವ ಕವಿ",
+          "right": "ಅವರಿಗಿರುವ ಸಾಹಿತ್ಯಿಕ ಬಿರುದು"
+        },
+        {
+          "left": "ದೇವನಹಳ್ಳಿ/ದೇವಲಾಪುರ",
+          "right": "ಅವರು ಜನಿಸಿದ ಕರ್ನಾಟಕದ ತಾಲೂಕು/ಸ್ಥಳ"
+        },
+        {
+          "left": "ಭೂವಿಜ್ಞಾನಿ (Geologist)",
+          "right": "ಅವರ ವೃತ್ತಿಪರ ಹಿನ್ನೆಲೆ"
+        },
+        {
+          "left": "ಪಂಪ ಪ್ರಶಸ್ತಿ",
+          "right": "2017 ರಲ್ಲಿ ಕರ್ನಾಟಕ ರಾಜ್ಯ ನೀಡಿದ ಗೌರವ"
+        }
+      ],
+      "reasoning": "ಕವಿ ನಿಸಾರ್ ಅಹಮದ್ ಅವರ ಸಾಹಿತ್ಯ ಮತ್ತು ವೈಯಕ್ತಿಕ ಜೀವನದ ಪ್ರಮುಖ ಮೈಲಿಗಲ್ಲುಗಳು ಇವಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c6_kan_hosavarsha_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the poetic metaphors from the poem with their symbolic actions/implications:",
+      "pairs": [
+        {
+          "left": "Shedding dry leaves",
+          "right": "Forgetting old disputes and grudges"
+        },
+        {
+          "left": "Sowing new seeds",
+          "right": "Setting constructive goals for future"
+        },
+        {
+          "left": "Sprouting green leaf",
+          "right": "Renewal of mental energy and joy"
+        },
+        {
+          "left": "Walking step by step",
+          "right": "Continuous hard work for success"
+        }
+      ],
+      "reasoning": "These are the symbolic and allegorical meanings behind the natural imagery used in 'Hosavarsha'."
+    },
+    "kn": {
+      "question": "ಕವನದಲ್ಲಿನ ಸಾಂಕೇತಿಕ ರೂಪಕಗಳನ್ನು ಅವುಗಳ ಆಚರಣಾತ್ಮಕ ಒಳಾರ್ಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ಒಣ ಎಲೆ ಉದುರಿಸುವುದು",
+          "right": "ಹಳೆಯ ಜಗಳ ಹಾಗೂ ದ್ವೇಷಗಳನ್ನು ಮರೆಯುವುದು"
+        },
+        {
+          "left": "ಹೊಸ ಬೀಜ ಬಿತ್ತುವುದು",
+          "right": "ಭವಿಷ್ಯಕ್ಕಾಗಿ ಧನಾತ್ಮಕ ಗುರಿಗಳನ್ನು ರೂಪಿಸುವುದು"
+        },
+        {
+          "left": "ಹಸಿರು ಚಿಗುರು ಮೂಡುವುದು",
+          "right": "ಮಾನಸಿಕ ಚೈತನ್ಯ ಮತ್ತು ಸಂತೋಷದ ನವೋದಯ"
+        },
+        {
+          "left": "ಹೆಜ್ಜೆ ಹೆಜ್ಜೆ ಇಡುವುದು",
+          "right": "ಯಶಸ್ಸಿಗಾಗಿ ನಿರಂತರ ಪರಿಶ್ರಮ ಪಡುವುದು"
+        }
+      ],
+      "reasoning": "ಪ್ರಕೃತಿಯ ಬದಲಾವಣೆಗಳನ್ನು ಮಾನವನ ಪ್ರಗತಿಗೆ ಕವಿ ಹೋಲಿಸಿದ ರೀತಿಯ ವೈಜ್ಞಾನಿಕ-ಕಾವ್ಯಾತ್ಮಕ ಸಾರಾಂಶ ಇಲ್ಲಿದೆ."
+    }
+  }
+]

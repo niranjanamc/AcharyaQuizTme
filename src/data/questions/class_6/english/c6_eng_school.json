@@ -1,0 +1,797 @@
+[
+  {
+    "id": "c6_eng_school_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who was the head of the school visited by the author?",
+      "options": [
+        "Miss Beam",
+        "Miss Sullivan",
+        "Mr. Harris",
+        "Mrs. Smith"
+      ],
+      "answer": "Miss Beam",
+      "reasoning": "The school was run by Miss Beam, who was middle-aged, authoritative, yet kind."
+    },
+    "kn": {
+      "question": "ಲೇಖಕರು ಭೇಟಿ ನೀಡಿದ ಶಾಲೆಯ ಮುಖ್ಯಸ್ಥರು ಯಾರಾಗಿದ್ದರು?",
+      "options": [
+        "ಮಿಸ್ ಬೀಮ್",
+        "ಮಿಸ್ ಸುಲ್ಲಿವಾನ್",
+        "ಮಿಸ್ಟರ್ ಹ್ಯಾರಿಸ್",
+        "ಮಿಸಸ್ ಸ್ಮಿತ್"
+      ],
+      "answer": "ಮಿಸ್ ಬೀಮ್",
+      "reasoning": "ಶಾಲೆಯ ಮುಖ್ಯಸ್ಥರು ಮಿಸ್ ಬೀಮ್ ಆಗಿದ್ದರು, ಅವರು ಮಧ್ಯವಯಸ್ಸಿನ, ಅಧಿಕಾರಯುತ ಮತ್ತು ದಯಾಳು ಮಹಿಳೆಯಾಗಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_eng_school_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What was the first thing the narrator saw when he entered the school?",
+      "options": [
+        "Children playing football in the field",
+        "A girl with her eyes bandaged being led carefully",
+        "Teachers shouting at students in a class",
+        "A beautiful, colorful flower garden"
+      ],
+      "answer": "A girl with her eyes bandaged being led carefully",
+      "reasoning": "The narrator first noticed a twelve-year-old girl with bandaged eyes being guided by a younger boy."
+    },
+    "kn": {
+      "question": "ಲೇಖಕರು ಶಾಲೆಗೆ ಪ್ರವೇಶಿಸಿದಾಗ ಮೊದಲು ಕಂಡಿದ್ದೇನು?",
+      "options": [
+        "ಮೈದಾನದಲ್ಲಿ ಮಕ್ಕಳು ಫುಟ್‌ಬಾಲ್ ಆಡುತ್ತಿರುವುದು",
+        "ಕಣ್ಣಿಗೆ ಪಟ್ಟಿ ಕಟ್ಟಿದ ಹುಡುಗಿಯನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ನಡೆಸಿಕೊಂಡು ಹೋಗುತ್ತಿರುವುದು",
+        "ತರಗತಿಯಲ್ಲಿ ಶಿಕ್ಷಕರು ವಿದ್ಯಾರ್ಥಿಗಳ ಮೇಲೆ ಕೂಗುತ್ತಿರುವುದು",
+        "ಒಂದು ಸುಂದರವಾದ, ವರ್ಣರಂಜಿತ ಹೂವಿನ ತೋಟ"
+      ],
+      "answer": "ಕಣ್ಣಿಗೆ ಪಟ್ಟಿ ಕಟ್ಟಿದ ಹುಡುಗಿಯನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ನಡೆಸಿಕೊಂಡು ಹೋಗುತ್ತಿರುವುದು",
+      "reasoning": "ಲೇಖಕರು ಮೊದಲು ಕಂಡಿದ್ದು ಕಣ್ಣಿಗೆ ಪಟ್ಟಿ ಕಟ್ಟಿದ ಹನ್ನೆರಡು ವರ್ಷದ ಹುಡುಗಿಯನ್ನು ಸಣ್ಣ ಹುಡುಗನೊಬ್ಬ ನಡೆಸಿಕೊಂಡು ಹೋಗುತ್ತಿರುವುದನ್ನು."
+    }
+  },
+  {
+    "id": "c6_eng_school_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What was the main aim of Miss Beam's school?",
+      "options": [
+        "To teach advanced science and math theories",
+        "To teach thoughtfulness, kindness, and responsible citizenship",
+        "To train students in professional athletics and games",
+        "To prepare students for study abroad opportunities"
+      ],
+      "answer": "To teach thoughtfulness, kindness, and responsible citizenship",
+      "reasoning": "The school focused on developing empathy, kindness to others, and citizenship rather than just academics."
+    },
+    "kn": {
+      "question": "ಮಿಸ್ ಬೀಮ್ ಅವರ ಶಾಲೆಯ ಮುಖ್ಯ ಉದ್ದೇಶವೇನಾಗಿತ್ತು?",
+      "options": [
+        "ಸುಧಾರಿತ ವಿಜ್ಞಾನ ಮತ್ತು ಗಣಿತ ಸಿದ್ಧಾಂತಗಳನ್ನು ಕಲಿಸುವುದು",
+        "ಚಿಂತನಶೀಲತೆ, ದಯಾಗುಣ ಮತ್ತು ಜವಾಬ್ದಾರಿಯುತ ಪೌರತ್ವವನ್ನು ಕಲಿಸುವುದು",
+        "ವೃತ್ತಿಪರ ಅಥ್ಲೆಟಿಕ್ಸ್ ಮತ್ತು ಆಟಗಳಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ತರಬೇತಿ ನೀಡುವುದು",
+        "ವಿದೇಶದಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡುವ ಅವಕಾಶಗಳಿಗಾಗಿ ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಸಿದ್ಧಪಡಿಸುವುದು"
+      ],
+      "answer": "ಚಿಂತನಶೀಲತೆ, ದಯಾಗುಣ ಮತ್ತು ಜವಾಬ್ದಾರಿಯುತ ಪೌರತ್ವವನ್ನು ಕಲಿಸುವುದು",
+      "reasoning": "ಶಾಲೆಯ ಮುಖ್ಯ ಉದ್ದೇಶವು ಕೇವಲ ಪಠ್ಯೇತರ ವಿಷಯಗಳನ್ನು ಕಲಿಸುವುದಾಗಿರದೆ, ಮಕ್ಕಳಲ್ಲಿ ಕರುಣೆ, ಪರೋಪಕಾರ ಮತ್ತು ಜವಾಬ್ದಾರಿಯುತ ನಾಗರಿಕತೆಯ ಗುಣಗಳನ್ನು ಬೆಳೆಸುವುದಾಗಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_eng_school_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What did the children do on their 'blind day'?",
+      "options": [
+        "They wore dark sunglasses all day",
+        "They bandaged their eyes completely and had to avoid peeping",
+        "They closed their eyes only when requested by teachers",
+        "They painted pictures of blind people with closed eyes"
+      ],
+      "answer": "They bandaged their eyes completely and had to avoid peeping",
+      "reasoning": "On the blind day, their eyes were bandaged and they were on their honor not to peep."
+    },
+    "kn": {
+      "question": "ಮಕ್ಕಳು ತಮ್ಮ 'ಕುರುಡು ದಿನ' ದಂದು ಏನು ಮಾಡುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಅವರು ದಿನವಿಡೀ ಕಪ್ಪು ಕನ್ನಡಕ ಧರಿಸುತ್ತಿದ್ದರು",
+        "ಅವರು ತಮ್ಮ ಕಣ್ಣುಗಳಿಗೆ ಸಂಪೂರ್ಣವಾಗಿ ಪಟ್ಟಿ ಕಟ್ಟಿಕೊಳ್ಳುತ್ತಿದ್ದರು ಮತ್ತು ಇಣುಕದಂತೆ ನಿಯಮ ಪಾಲಿಸುತ್ತಿದ್ದರು",
+        "ಶಿಕ್ಷಕರು ವಿನಂತಿಸಿದಾಗ ಮಾತ್ರ ಕಣ್ಣುಗಳನ್ನು ಮುಚ್ಚಿಕೊಳ್ಳುತ್ತಿದ್ದರು",
+        "ಅವರು ಕಣ್ಣು ಮುಚ್ಚಿ ಕುರುಡು ಜನರ ಚಿತ್ರಗಳನ್ನು ಬಿಡಿಸುತ್ತಿದ್ದರು"
+      ],
+      "answer": "ಅವರು ತಮ್ಮ ಕಣ್ಣುಗಳಿಗೆ ಸಂಪೂರ್ಣವಾಗಿ ಪಟ್ಟಿ ಕಟ್ಟಿಕೊಳ್ಳುತ್ತಿದ್ದರು ಮತ್ತು ಇಣುಕದಂತೆ ನಿಯಮ ಪಾಲಿಸುತ್ತಿದ್ದರು",
+      "reasoning": "ಕುರುಡು ದಿನದಂದು ಅವರ ಕಣ್ಣುಗಳಿಗೆ ಪಟ್ಟಿ ಕಟ್ಟಲಾಗುತ್ತಿತ್ತು ಮತ್ತು ಅವರು ಇಣುಕಿ ನೋಡಬಾರದೆಂಬ ನಿಯಮವನ್ನು ಪ್ರಾಮಾಣಿಕವಾಗಿ ಪಾಲಿಸಬೇಕಾಗಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_eng_school_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Why were other children assigned to help the blind or disabled child?",
+      "options": [
+        "To save the school from hiring workers",
+        "To teach them empathy and the duty of helping those in need",
+        "As a punishment for breaking school rules",
+        "To help them skip regular academic classes"
+      ],
+      "answer": "To teach them empathy and the duty of helping those in need",
+      "reasoning": "By helping the disabled, other students learned to understand the struggles of others and built empathy."
+    },
+    "kn": {
+      "question": "ಕುರುಡು ಅಥವಾ ವಿಕಲಚೇತನ ಮಗುವಿಗೆ ಸಹಾಯ ಮಾಡಲು ಇತರ ಮಕ್ಕಳಿಗೆ ಏಕೆ ಜವಾಬ್ದಾರಿ ನೀಡಲಾಗುತ್ತಿತ್ತು?",
+      "options": [
+        "ಶಾಲೆಗೆ ಬೇರೆ ಕೆಲಸಗಾರರನ್ನು ನೇಮಿಸಿಕೊಳ್ಳುವ ಖರ್ಚು ಉಳಿಸಲು",
+        "ಅವರಿಗೆ ಸಹಾನುಭೂತಿ ಮತ್ತು ಅಗತ್ಯವಿರುವವರಿಗೆ ಸಹಾಯ ಮಾಡುವ ಕರ್ತವ್ಯವನ್ನು ಕಲಿಸಲು",
+        "ಶಾಲೆಯ ನಿಯಮಗಳನ್ನು ಉಲ್ಲಂಘಿಸಿದ್ದಕ್ಕೆ ಶಿಕ್ಷೆಯಾಗಿ",
+        "ಅವರು ಸಾಮಾನ್ಯ ಪಠ್ಯ ತರಗತಿಗಳನ್ನು ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡಲು"
+      ],
+      "answer": "ಅವರಿಗೆ ಸಹಾನುಭೂತಿ ಮತ್ತು ಅಗತ್ಯವಿರುವವರಿಗೆ ಸಹಾಯ ಮಾಡುವ ಕರ್ತವ್ಯವನ್ನು ಕಲಿಸಲು",
+      "reasoning": "ವಿಕಲಚೇತನರಿಗೆ ಸಹಾಯ ಮಾಡುವುದರಿಂದ ಮಕ್ಕಳಿಗೆ ಅವರ ಕಷ್ಟಗಳು ಅರ್ಥವಾಗಿ ಪರಸ್ಪರ ಸಹಕರಿಸುವ ಕರುಣಾ ಮನೋಭಾವ ಬೆಳೆಯುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_eng_school_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What does the term 'lame day' refer to in the school's activities?",
+      "options": [
+        "A day with no studies or activities",
+        "A day when a child's leg is tied up and they use crutches",
+        "A day when children are not allowed to run",
+        "A general school holiday for teachers"
+      ],
+      "answer": "A day when a child's leg is tied up and they use crutches",
+      "reasoning": "On the lame day, one leg of the child was tied up and they walked around using crutches."
+    },
+    "kn": {
+      "question": "ಶಾಲೆಯ ಚಟುವಟಿಕೆಗಳಲ್ಲಿ 'ಕುಂಟ ದಿನ' (lame day) ಎಂಬುದು ಯಾವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": [
+        "ಯಾವುದೇ ಅಧ್ಯಯನ ಅಥವಾ ಚಟುವಟಿಕೆಗಳಿಲ್ಲದ ದಿನ",
+        "ಒಂದು ಕಾಲನ್ನು ಕಟ್ಟಿಹಾಕಿ ಮಗು ಆಸರೆಕೋಲು ಬಳಸಿ ನಡೆಯುವ ದಿನ",
+        "ಮಕ್ಕಳಿಗೆ ಓಡಲು ಅವಕಾಶವಿಲ್ಲದ ದಿನ",
+        "ಶಿಕ್ಷಕರಿಗೆ ಸಾಮಾನ್ಯ ಶಾಲಾ ರಜಾದಿನ"
+      ],
+      "answer": "ಒಂದು ಕಾಲನ್ನು ಕಟ್ಟಿಹಾಕಿ ಮಗು ಆಸರೆಕೋಲು ಬಳಸಿ ನಡೆಯುವ ದಿನ",
+      "reasoning": "ಕುಂಟ ದಿನದಂದು ಮಗುವಿನ ಒಂದು ಕಾಲನ್ನು ಮಡಚಿ ಕಟ್ಟಲಾಗುತ್ತಿತ್ತು ಮತ್ತು ಮಗು ಆಸರೆಕೋಲಿನ ಸಹಾಯದಿಂದ ನಡೆಯಬೇಕಾಗಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_eng_school_007",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why did some children find the 'blind day' to be the most difficult?",
+      "options": [
+        "They were afraid of the dark classrooms",
+        "They feared they would be hit by something at any moment",
+        "The bandages hurt their eyes and skin",
+        "They were forbidden from talking to anyone"
+      ],
+      "answer": "They feared they would be hit by something at any moment",
+      "reasoning": "It was scary because they constantly felt they were about to bump into something, which required constant alertness."
+    },
+    "kn": {
+      "question": "ಕೆಲವು ಮಕ್ಕಳಿಗೆ 'ಕುರುಡು ದಿನ' ಅತ್ಯಂತ ಕಷ್ಟಕರ ಎಂದು ಏಕೆ ಅನಿಸಿತು?",
+      "options": [
+        "ಅವರಿಗೆ ಕತ್ತಲೆಯ ತರಗತಿ ಕೋಣೆಗಳ ಹೆದರಿಕೆಯಿತ್ತು",
+        "ಯಾವುದೇ ಕ್ಷಣದಲ್ಲಿ ತಮಗೆ ಯಾವುದಾದರೂ ವಸ್ತು ಡಿಕ್ಕಿ ಹೊಡೆಯಬಹುದು ಎಂಬ ಆತಂಕವಿತ್ತು",
+        "ಪಟ್ಟಿಗಳು ಅವರ ಕಣ್ಣುಗಳನ್ನು ಮತ್ತು ಚರ್ಮವನ್ನು ನೋಯಿಸುತ್ತಿದ್ದವು",
+        "ಅವರಿಗೆ ಯಾರೊಂದಿಗೂ ಮಾತನಾಡಲು ಅವಕಾಶವಿರಲಿಲ್ಲ"
+      ],
+      "answer": "ಯಾವುದೇ ಕ್ಷಣದಲ್ಲಿ ತಮಗೆ ಯಾವುದಾದರೂ ವಸ್ತು ಡಿಕ್ಕಿ ಹೊಡೆಯಬಹುದು ಎಂಬ ಆತಂಕವಿತ್ತು",
+      "reasoning": "ಕಣ್ಣಿಗೆ ಪಟ್ಟಿ ಕಟ್ಟಿದಾಗ ಪ್ರತಿ ಕ್ಷಣವೂ ಯಾವುದೋ ವಸ್ತು ತಮಗೆ ತಗುಲಬಹುದು ಎಂಬ ನಿರಂತರ ಭಯ ಮತ್ತು ಆತಂಕ ಮಕ್ಕಳನ್ನು ಕಾಡುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_eng_school_008",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which day did Miss Beam say was actually the most difficult for children's self-control?",
+      "options": [
+        "The lame day",
+        "The deaf day",
+        "The dumb day",
+        "The injured day"
+      ],
+      "answer": "The dumb day",
+      "reasoning": "The dumb day was difficult because the mouth could not be bandaged, so they had to use pure willpower to remain silent."
+    },
+    "kn": {
+      "question": "ಮಕ್ಕಳ ಸ್ವಯಂ ನಿಯಂತ್ರಣಕ್ಕೆ ಯಾವ ದಿನವು ಅತ್ಯಂತ ಕಷ್ಟಕರವಾಗಿತ್ತು ಎಂದು ಮಿಸ್ ಬೀಮ್ ಹೇಳಿದರು?",
+      "options": [
+        "ಕುಂಟ ದಿನ",
+        "ಕಿವುಡು ದಿನ",
+        "ಮೂಕ ದಿನ",
+        "ಗಾಯಗೊಂಡ ದಿನ"
+      ],
+      "answer": "ಮೂಕ ದಿನ",
+      "reasoning": "ಮೂಕ ದಿನದಂದು ಬಾಯಿಗೆ ಪಟ್ಟಿ ಕಟ್ಟಲು ಬಾರದಿದ್ದರಿಂದ, ಮಕ್ಕಳು ಮೌನವಾಗಿರಲು ಕೇವಲ ತಮ್ಮ ಇಚ್ಛಾಶಕ್ತಿ ಮತ್ತು ಸ್ವಯಂ ನಿಯಂತ್ರಣವನ್ನೇ ಬಳಸಬೇಕಾಗಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_eng_school_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "How did the bandaged girl describe the best helpers to the narrator?",
+      "options": [
+        "She said they were bossy and rude",
+        "The best helpers were those who had already been blind themselves",
+        "The older students who did not play games",
+        "The teachers who walked with them"
+      ],
+      "answer": "The best helpers were those who had already been blind themselves",
+      "reasoning": "Those who had experienced being blind were the most understanding and guided the blind child best."
+    },
+    "kn": {
+      "question": "ಕಣ್ಣಿಗೆ ಪಟ್ಟಿ ಕಟ್ಟಿದ ಹುಡುಗಿ ಯಾರು ಅತ್ಯುತ್ತಮ ಸಹಾಯಕರು ಎಂದು ಲೇಖಕರಿಗೆ ಬಣ್ಣಿಸಿದಳು?",
+      "options": [
+        "ಅವರು ಸರ್ವಾಧಿಕಾರಿಗಳಂತೆ ಒರಟಾಗಿದ್ದಾರೆ ಎಂದು ಹೇಳಿದಳು",
+        "ಈಗಾಗಲೇ ಕುರುಡು ದಿನದ ಅನುಭವ ಪಡೆದವರೇ ಅತ್ಯುತ್ತಮ ಸಹಾಯಕರಾಗಿದ್ದರು",
+        "ಆಟವಾಡದ ಹಿರಿಯ ವಿದ್ಯಾರ್ಥಿಗಳು",
+        "ಅವರೊಂದಿಗೆ ನಡೆಯುವ ಶಿಕ್ಷಕರು"
+      ],
+      "answer": "ಈಗಾಗಲೇ ಕುರುಡು ದಿನದ ಅನುಭವ ಪಡೆದವರೇ ಅತ್ಯುತ್ತಮ ಸಹಾಯಕರಾಗಿದ್ದರು",
+      "reasoning": "ಈಗಾಗಲೇ ಕುರುಡು ದಿನದ ತೊಂದರೆ ಅನುಭವಿಸಿದವರಿಗೆ ಆ ಕಷ್ಟ ಚೆನ್ನಾಗಿ ತಿಳಿದಿರುವುದರಿಂದ ಅವರೇ ಅತ್ಯುತ್ತಮ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_eng_school_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who did the narrator describe from the window to help the bandaged girl identify them?",
+      "options": [
+        "Miss Beam only",
+        "Millie, the tall girl, Peter, the gardener, and a girl in a blue jacket",
+        "A group of teachers having lunch",
+        "A small dog running in the garden"
+      ],
+      "answer": "Millie, the tall girl, Peter, the gardener, and a girl in a blue jacket",
+      "reasoning": "The narrator described the people visible in the garden, helping the girl guess who they were."
+    },
+    "kn": {
+      "question": "ಕಣ್ಣಿಗೆ ಪಟ್ಟಿ ಕಟ್ಟಿದ ಹುಡುಗಿ ಗುರುತಿಸಲು ಸಹಕಾರಿಯಾಗುವಂತೆ ಲೇಖಕರು ಕಿಟಕಿಯಿಂದ ಯಾರನ್ನು ಬಣ್ಣಿಸಿದರು?",
+      "options": [
+        "ಮಿಸ್ ಬೀಮ್ ಅವರನ್ನು ಮಾತ್ರ",
+        "ಮಿಲ್ಲೀ ಎಂಬ ಎತ್ತರದ ಹುಡುಗಿ, ಪೀಟರ್ ಎಂಬ ತೋಟಗಾರ ಮತ್ತು ನೀಲಿ ಜಾಕೆಟ್ ಧರಿಸಿದ ಹುಡುಗಿ",
+        "ಊಟ ಮಾಡುತ್ತಿದ್ದ ಶಿಕ್ಷಕರ ಗುಂಪು",
+        "ತೋಟದಲ್ಲಿ ಓಡುತ್ತಿದ್ದ ಸಣ್ಣ ನಾಯಿ"
+      ],
+      "answer": "ಮಿಲ್ಲೀ ಎಂಬ ಎತ್ತರದ ಹುಡುಗಿ, ಪೀಟರ್ ಎಂಬ ತೋಟಗಾರ ಮತ್ತು ನೀಲಿ ಜಾಕೆಟ್ ಧರಿಸಿದ ಹುಡುಗಿ",
+      "reasoning": "ಲೇಖಕರು ಕಿಟಕಿಯಿಂದ ಹೊರಗೆ ತೋಟದಲ್ಲಿದ್ದ ಮಿಲ್ಲೀ, ತೋಟಗಾರ ಪೀಟರ್ ಮತ್ತು ಇನ್ನೊಬ್ಬ ಹುಡುಗಿಯ ನೋಟವನ್ನು ಬಣ್ಣಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c6_eng_school_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "How did the girl describe Peter the gardener's age?",
+      "options": [
+        "She said he was very young",
+        "She said he was hundreds of years old",
+        "She said he was a teenager",
+        "She said he was middle-aged"
+      ],
+      "answer": "She said he was hundreds of years old",
+      "reasoning": "When the narrator described his gray hair, the girl jokingly remarked that he was hundreds of years old."
+    },
+    "kn": {
+      "question": "ತೋಟಗಾರ ಪೀಟರ್‌ನ ವಯಸ್ಸಿನ ಬಗ್ಗೆ ಹುಡುಗಿ ಏನು ಹೇಳಿದಳು?",
+      "options": [
+        "ಅವನು ತುಂಬಾ ಚಿಕ್ಕವನೆಂದು ಹೇಳಿದಳು",
+        "ಅವನಿಗೆ ನೂರಾರು ವರ್ಷ ವಯಸ್ಸಾಗಿದೆ ಎಂದು ಹೇಳಿದಳು",
+        "ಅವನು ಹದಿಹರೆಯದವನೆಂದು ಹೇಳಿದಳು",
+        "ಅವನು ಮಧ್ಯವಯಸ್ಸಿನವನೆಂದು ಹೇಳಿದಳು"
+      ],
+      "answer": "ಅವನಿಗೆ ನೂರಾರು ವರ್ಷ ವಯಸ್ಸಾಗಿದೆ ಎಂದು ಹೇಳಿದಳು",
+      "reasoning": "ಲೇಖಕರು ಅವನ ತಲೆಕೂದಲನ್ನು ಬಣ್ಣಿಸಿದಾಗ, ಆ ಹುಡುಗಿ ನಕ್ಕು 'ಓಹ್, ಪೀಟರ್! ಅವನಿಗೆ ನೂರಾರು ವರ್ಷ ವಯಸ್ಸು!' ಎಂದು ತಮಾಷೆ ಮಾಡಿದಳು."
+    }
+  },
+  {
+    "id": "c6_eng_school_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "How did the narrator feel when it was time for him to leave the school?",
+      "options": [
+        "He was glad to return to his busy life",
+        "He was very sorry to leave",
+        "He felt angry about the school's teaching methods",
+        "He felt indifferent and forgot about it"
+      ],
+      "answer": "He was very sorry to leave",
+      "reasoning": "The narrator was deeply touched by the experience and expressed sadness when leaving."
+    },
+    "kn": {
+      "question": "ಶಾಲೆಯನ್ನು ಬಿಟ್ಟು ಹೋಗಬೇಕಾದಾಗ ಲೇಖಕರಿಗೆ ಹೇಗನಿಸಿತು?",
+      "options": [
+        "ತಮ್ಮ ಬಿಡುವಿಲ್ಲದ ಜೀವನಕ್ಕೆ ಮರಳಲು ಸಂತೋಷವಾಯಿತು",
+        "ಹೋಗಲು ತುಂಬಾ ಬೇಸರವಾಯಿತು",
+        "ಶಾಲೆಯ ಬೋಧನಾ ವಿಧಾನಗಳ ಬಗ್ಗೆ ಕೋಪ ಬಂದಿತು",
+        "ಯಾವುದೇ ವ್ಯತ್ಯಾಸ ಅನಿಸದೆ ಮರೆತುಬಿಟ್ಟರು"
+      ],
+      "answer": "ಹೋಗಲು ತುಂಬಾ ಬೇಸರವಾಯಿತು",
+      "reasoning": "ಶಾಲೆಯ ವಾತಾವರಣ ಮತ್ತು ಅಲ್ಲಿನ ಅನುಭವ ಲೇಖಕರ ಮನಸ್ಸನ್ನು ಆಳವಾಗಿ ಮುಟ್ಟಿದ್ದರಿಂದ ಹೊರಡಲು ಅವರಿಗೆ ತುಂಬಾ ಬೇಸರವಾಯಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_school_013",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the meaning of the word 'misfortune' in the context of the school's special days?",
+      "options": [
+        "A large sum of money or property",
+        "Bad luck, hardship, or an unfortunate condition",
+        "A state of excellent physical health",
+        "A competitive game played in school"
+      ],
+      "answer": "Bad luck, hardship, or an unfortunate condition",
+      "reasoning": "Misfortune refers to bad luck. The system was designed to make healthy children understand the hardships of disabled people."
+    },
+    "kn": {
+      "question": "ಶಾಲೆಯ ವಿಶೇಷ ದಿನಗಳ ಸಂದರ್ಭದಲ್ಲಿ 'misfortune' ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+      "options": [
+        "ದೊಡ್ಡ ಪ್ರಮಾಣದ ಹಣ ಅಥವಾ ಆಸ್ತಿ",
+        "ದುರಾದೃಷ್ಟ, ಆಪತ್ತು ಅಥವಾ ಪ್ರತಿಕೂಲ ಪರಿಸ್ಥಿತಿ",
+        "ಅತ್ಯುತ್ತಮ ದೈಹಿಕ ಆರೋಗ್ಯದ ಸ್ಥಿತಿ",
+        "ಶಾಲೆಯಲ್ಲಿ ಆಡುವ ಒಂದು ಸ್ಪರ್ಧಾತ್ಮಕ ಆಟ"
+      ],
+      "answer": "ದುರಾದೃಷ್ಟ, ಆಪತ್ತು ಅಥವಾ ಪ್ರತಿಕೂಲ ಪರಿಸ್ಥಿತಿ",
+      "reasoning": "'Misfortune' ಎಂದರೆ ದುರಾದೃಷ್ಟ ಅಥವಾ ಕಷ್ಟದ ಸ್ಥಿತಿ. ಮಕ್ಕಳಿಗೆ ಇತರರ ಸಂಕಷ್ಟವನ್ನು ಅರ್ಥಮಾಡಿಸಲು ಈ ವಿಶೇಷ ದಿನಗಳನ್ನು ಆಚರಿಸಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_eng_school_014",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What was the core educational philosophy behind introducing the 'disabled days'?",
+      "options": [
+        "To make healthy children appreciate their own fortunes by experiencing others' difficulties",
+        "To test the physical strength and endurance of the students",
+        "To show that school life is full of struggle and pain",
+        "To reduce the teaching work of the school staff"
+      ],
+      "answer": "To make healthy children appreciate their own fortunes by experiencing others' difficulties",
+      "reasoning": "Experiencing temporary hardship makes students value their own health and develop empathy for the disabled."
+    },
+    "kn": {
+      "question": "ಶಾಲೆಯಲ್ಲಿ 'ವಿಕಲಚೇತನ ದಿನಗಳನ್ನು' ಪರಿಚಯಿಸಿದ ಹಿಂದಿನ ಪ್ರಮುಖ ಶೈಕ್ಷಣಿಕ ತತ್ವಶಾಸ್ತ್ರ ಯಾವುದು?",
+      "options": [
+        "ಇತರರ ಕಷ್ಟಗಳನ್ನು ಅನುಭವಿಸುವ ಮೂಲಕ ಆರೋಗ್ಯವಂತ ಮಕ್ಕಳು ತಮ್ಮ ಸ್ವಂತ ಅದೃಷ್ಟವನ್ನು ಪ್ರಶಂಸಿಸುವಂತೆ ಮಾಡುವುದು",
+        "ವಿದ್ಯಾರ್ಥಿಗಳ ದೈಹಿಕ ಶಕ್ತಿ ಮತ್ತು ಸಹಿಷ್ಣುತೆಯನ್ನು ಪರೀಕ್ಷಿಸುವುದು",
+        "ಶಾಲಾ ಜೀವನವು ಕಷ್ಟ ಮತ್ತು ನೋವಿನಿಂದ ಕೂಡಿದೆ ಎಂದು ತೋರಿಸುವುದು",
+        "ಶಾಲಾ ಸಿಬ್ಬಂದಿಯ ಬೋಧನಾ ಕೆಲಸವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು"
+      ],
+      "answer": "ಇತರರ ಕಷ್ಟಗಳನ್ನು ಅನುಭವಿಸುವ ಮೂಲಕ ಆರೋಗ್ಯವಂತ ಮಕ್ಕಳು ತಮ್ಮ ಸ್ವಂತ ಅದೃಷ್ಟವನ್ನು ಪ್ರಶಂಸಿಸುವಂತೆ ಮಾಡುವುದು",
+      "reasoning": "ತಾತ್ಕಾಲಿಕ ಅಂಗವೈಕಲ್ಯದ ಅನುಭವದಿಂದ ಮಕ್ಕಳು ತಮ್ಮ ಸ್ವಂತ ಆರೋಗ್ಯದ ಮಹತ್ವವನ್ನು ಅರಿತುಕೊಳ್ಳುತ್ತಾರೆ ಮತ್ತು ಇತರರ ಬಗ್ಗೆ ಸಹಾನುಭೂತಿ ಬೆಳೆಸಿಕೊಳ್ಳುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c6_eng_school_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How did the narrator realize he had changed by the end of his visit to Miss Beam's school?",
+      "options": [
+        "He had become ten times more thoughtful than before",
+        "He decided to quit writing and start teaching",
+        "He forgot the details of his visit very quickly",
+        "He realized he wanted to open a commercial business"
+      ],
+      "answer": "He had become ten times more thoughtful than before",
+      "reasoning": "The narrator concluded his visit by realizing he had become far more thoughtful and empathetic."
+    },
+    "kn": {
+      "question": "ಮಿಸ್ ಬೀಮ್ ಶಾಲೆಯ ಭೇಟಿಯ ಕೊನೆಯಲ್ಲಿ ತಾವೇ ಸ್ವತಃ ಬದಲಾಗಿರುವುದನ್ನು ಲೇಖಕರು ಹೇಗೆ ಅರಿತುಕೊಂಡರು?",
+      "options": [
+        "ಅವರು ಹಿಂದಿಗಿಂತಲೂ ಹತ್ತು ಪಟ್ಟು ಹೆಚ್ಚು ಚಿಂತನಶೀಲರಾಗಿದ್ದರು",
+        "ಅವರು ಬರವಣಿಗೆಯನ್ನು ಬಿಟ್ಟು ಬೋಧನೆ ಮಾಡಲು ನಿರ್ಧರಿಸಿದರು",
+        "ಅವರು ತಮ್ಮ ಭೇಟಿಯ ವಿವರಗಳನ್ನು ಬೇಗನೆ ಮರೆತುಬಿಟ್ಟರು",
+        "ಅವರು ಹೊಸದೊಂದು ವ್ಯವಹಾರವನ್ನು ಪ್ರಾರಂಭಿಸಲು ಬಯಸಿದರು"
+      ],
+      "answer": "ಅವರು ಹಿಂದಿಗಿಂತಲೂ ಹತ್ತು ಪಟ್ಟು ಹೆಚ್ಚು ಚಿಂತನಶೀಲರಾಗಿದ್ದರು",
+      "reasoning": "ತಾವು ಮೊದಲಿದ್ದಕ್ಕಿಂತ ಹತ್ತು ಪಟ್ಟು ಹೆಚ್ಚು ಕರುಣಾಮಯಿ ಮತ್ತು ಚಿಂತನಶೀಲ ವ್ಯಕ್ತಿಯಾಗಿ ಬದಲಾಗಿರುವುದನ್ನು ಲೇಖಕರು ಕಂಡುಕೊಂಡರು."
+    }
+  },
+  {
+    "id": "c6_eng_school_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the meaning of the word 'ghastly' when the narrator describes seeing seemingly unhealthy children?",
+      "options": [
+        "Extremely beautiful and attractive",
+        "Shocking, horrible, or very unpleasant",
+        "Very exciting and adventurous",
+        "Commonplace and ordinary"
+      ],
+      "answer": "Shocking, horrible, or very unpleasant",
+      "reasoning": "Ghastly means causing horror or fear. The narrator felt it was painful and unpleasant to see apparently disabled kids."
+    },
+    "kn": {
+      "question": "ಆರೋಗ್ಯವಿಲ್ಲದಂತೆ ಕಾಣುವ ಮಕ್ಕಳನ್ನು ನೋಡಿ ಲೇಖಕರು ಬಳಸಿದ 'ghastly' ಪದದ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಅತ್ಯಂತ ಸುಂದರ ಮತ್ತು ಆಕರ್ಷಕ",
+        "ಆಘಾತಕಾರಿ, ಭಯಾನಕ ಅಥವಾ ಅತ್ಯಂತ ಆಸಹನೀಯ",
+        "ಬಹಳ ರೋಮಾಂಚನಕಾರಿ ಮತ್ತು ಸಾಹಸಮಯ",
+        "ಸಾಮಾನ್ಯ ಮತ್ತು ಸಾಧಾರಣ"
+      ],
+      "answer": "ಆಘಾತಕಾರಿ, ಭಯಾನಕ ಅಥವಾ ಅತ್ಯಂತ ಆಸಹನೀಯ",
+      "reasoning": "'Ghastly' ಎಂದರೆ ಅತ್ಯಂತ ಬೇಸರ ತರಿಸುವ ಅಥವಾ ಆಘಾತಕಾರಿ. ಮಕ್ಕಳು ಅಂಗವಿಕಲರಂತೆ ಕಾಣುತ್ತಿದ್ದುದನ್ನು ನೋಡಿ ಲೇಖಕರು ಆರಂಭದಲ್ಲಿ ನೊಂದರು."
+    }
+  },
+  {
+    "id": "c6_eng_school_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following is true about 'the dumb day' rules?",
+      "options": [
+        "Children have their mouths bandaged by teachers",
+        "Children must use pure willpower because their mouths cannot be bandaged",
+        "Children are allowed to whisper secrets",
+        "Only teachers are allowed to speak on that day"
+      ],
+      "answer": "Children must use pure willpower because their mouths cannot be bandaged",
+      "reasoning": "Since bandages cannot be placed over the mouth, students must exercise self-control to remain quiet."
+    },
+    "kn": {
+      "question": "'ಮೂಕ ದಿನ'ದ ನಿಯಮಗಳ ಬಗ್ಗೆ ಈ ಕೆಳಗಿನ ಯಾವುದು ನಿಜವಾಗಿದೆ?",
+      "options": [
+        "ಶಿಕ್ಷಕರು ಮಕ್ಕಳ ಬಾಯಿಗೆ ಪಟ್ಟಿಗಳನ್ನು ಕಟ್ಟುತ್ತಾರೆ",
+        "ಬಾಯಿಗೆ ಪಟ್ಟಿ ಕಟ್ಟಲು ಬಾರದ ಕಾರಣ ಮಕ್ಕಳು ತಮ್ಮ ಇಚ್ಛಾಶಕ್ತಿಯಿಂದಲೇ ಮೌನವಾಗಿರಬೇಕು",
+        "ಮಕ್ಕಳಿಗೆ ರಹಸ್ಯಗಳನ್ನು ಪಿಸುಗುಟ್ಟಲು ಅವಕಾಶವಿರುತ್ತದೆ",
+        "ಅಂದು ಕೇವಲ ಶಿಕ್ಷಕರು ಮಾತ್ರ ಮಾತನಾಡಲು ಅನುಮತಿ ಇರುತ್ತದೆ"
+      ],
+      "answer": "ಬಾಯಿಗೆ ಪಟ್ಟಿ ಕಟ್ಟಲು ಬಾರದ ಕಾರಣ ಮಕ್ಕಳು ತಮ್ಮ ಇಚ್ಛಾಶಕ್ತಿಯಿಂದಲೇ ಮೌನವಾಗಿರಬೇಕು",
+      "reasoning": "ಮಕ್ಕಳ ಬಾಯಿಗೆ ಪಟ್ಟಿ ಕಟ್ಟಲು ಬರುವುದಿಲ್ಲ, ಹಾಗಾಗಿ ಅವರು ಸ್ವಯಂ ನಿಯಂತ್ರಣದಿಂದಲೇ ದಿನವಿಡೀ ಮಾತನಾಡದೆ ಮೌನವಾಗಿರಬೇಕಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_eng_school_018",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following days were observed by the students in Miss Beam's school? (Select all that apply)",
+      "options": [
+        "Blind day",
+        "Lame day",
+        "Silent day",
+        "Dumb day"
+      ],
+      "answer": [
+        "Blind day",
+        "Lame day",
+        "Dumb day"
+      ],
+      "reasoning": "The school observed special days like blind day, lame day, deaf day, injured day, and dumb day."
+    },
+    "kn": {
+      "question": "ಮಿಸ್ ಬೀಮ್ ಶಾಲೆಯಲ್ಲಿ ಮಕ್ಕಳು ಯಾವ ವಿಶೇಷ ದಿನಗಳನ್ನು ಆಚರಿಸುತ್ತಿದ್ದರು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಕುರುಡು ದಿನ",
+        "ಕುಂಟ ದಿನ",
+        "ಮೌನ ದಿನ",
+        "ಮೂಕ ದಿನ"
+      ],
+      "answer": [
+        "ಕುರುಡು ದಿನ",
+        "ಕುಂಟ ದಿನ",
+        "ಮೂಕ ದಿನ"
+      ],
+      "reasoning": "ಶಾಲೆಯಲ್ಲಿ ಕುರುಡು ದಿನ, ಕುಂಟ ದಿನ, ಕಿವುಡು ದಿನ, ಗಾಯಗೊಂಡ ದಿನ ಮತ್ತು ಮೂಕ ದಿನಗಳನ್ನು ಆಚರಿಸಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_eng_school_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "What were the core educational goals of Miss Beam's school? (Select all that apply)",
+      "options": [
+        "To teach basic academic subjects like writing and adding",
+        "To make children thoughtful and kind to others",
+        "To train children to become responsible citizens",
+        "To prepare children for international sports competitions"
+      ],
+      "answer": [
+        "To teach basic academic subjects like writing and adding",
+        "To make children thoughtful and kind to others",
+        "To train children to become responsible citizens"
+      ],
+      "reasoning": "Academics were simple, but the school prioritized creating kind, thoughtful, and responsible individuals."
+    },
+    "kn": {
+      "question": "ಮಿಸ್ ಬೀಮ್ ಶಾಲೆಯ ಮುಖ್ಯ ಶೈಕ್ಷಣಿಕ ಗುರಿಗಳು ಯಾವವಾಗಿದ್ದವು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಬರವಣಿಗೆ ಮತ್ತು ಸಂಕಲನದಂತಹ ಮೂಲಭೂತ ಶೈಕ್ಷಣಿಕ ವಿಷಯಗಳನ್ನು ಕಲಿಸುವುದು",
+        "ಮಕ್ಕಳನ್ನು ಚಿಂತನಶೀಲ ಹಾಗೂ ಇತರರ ಬಗ್ಗೆ ಕರುಣಾಮಯಿಗಳನ್ನಾಗಿ ಮಾಡುವುದು",
+        "ಮಕ್ಕಳನ್ನು ಜವಾಬ್ದಾರಿಯುತ ನಾಗರಿಕರನ್ನಾಗಿ ತರಬೇತಿಗೊಳಿಸುವುದು",
+        "ಅಂತರರಾಷ್ಟ್ರೀಯ ಕ್ರೀಡಾ ಸ್ಪರ್ಧೆಗಳಿಗಾಗಿ ಮಕ್ಕಳನ್ನು ಸಿದ್ಧಪಡಿಸುವುದು"
+      ],
+      "answer": [
+        "ಬರವಣಿಗೆ ಮತ್ತು ಸಂಕಲನದಂತಹ ಮೂಲಭೂತ ಶೈಕ್ಷಣಿಕ ವಿಷಯಗಳನ್ನು ಕಲಿಸುವುದು",
+        "ಮಕ್ಕಳನ್ನು ಚಿಂತನಶೀಲ ಹಾಗೂ ಇತರರ ಬಗ್ಗೆ ಕರುಣಾಮಯಿಗಳನ್ನಾಗಿ ಮಾಡುವುದು",
+        "ಮಕ್ಕಳನ್ನು ಜವಾಬ್ದಾರಿಯುತ ನಾಗರಿಕರನ್ನಾಗಿ ತರಬೇತಿಗೊಳಿಸುವುದು"
+      ],
+      "reasoning": "ಶಾಲೆಯಲ್ಲಿ ಸಾಮಾನ್ಯ ಅಧ್ಯಯನದ ಜೊತೆಗೆ ದಯೆ, ಚಿಂತನಶೀಲತೆ ಹಾಗೂ ಜವಾಬ್ದಾರಿಯುತ ನಾಗರಿಕತೆಯ ಪಾಠಗಳಿಗೆ ಹೆಚ್ಚಿನ ಒತ್ತು ನೀಡಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_eng_school_020",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "How did the students react to their roles during the special days? (Select all that apply)",
+      "options": [
+        "They took their roles seriously as a learning experience",
+        "They helped each other through physical difficulties",
+        "They complained to their parents about the school rules",
+        "They developed empathy for the misfortunes of others"
+      ],
+      "answer": [
+        "They took their roles seriously as a learning experience",
+        "They helped each other through physical difficulties",
+        "They developed empathy for the misfortunes of others"
+      ],
+      "reasoning": "The children participated sincerely, supported each other, and gained real empathy through these exercises."
+    },
+    "kn": {
+      "question": "ವಿಶೇಷ ದಿನಗಳಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿಗಳು ತಮ್ಮ ಪಾತ್ರಗಳಿಗೆ ಹೇಗೆ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತಿದ್ದರು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಅವರು ಈ ಪಾತ್ರಗಳನ್ನು ಗಂಭೀರ ಕಲಿಕೆಯ ಅನುಭವವಾಗಿ ಸ್ವೀಕರಿಸುತ್ತಿದ್ದರು",
+        "ಅವರು ದೈಹಿಕ ತೊಂದರೆಗಳಲ್ಲಿ ಪರಸ್ಪರ ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದರು",
+        "ಅವರು ಶಾಲೆಯ ನಿಯಮಗಳ ಬಗ್ಗೆ ಪೋಷಕರಿಗೆ ದೂರು ನೀಡುತ್ತಿದ್ದರು",
+        "ಅವರು ಇತರರ ಕಷ್ಟಗಳ ಬಗ್ಗೆ ಸಹಾನುಭೂತಿ ಬೆಳೆಸಿಕೊಳ್ಳುತ್ತಿದ್ದರು"
+      ],
+      "answer": [
+        "ಅವರು ಈ ಪಾತ್ರಗಳನ್ನು ಗಂಭೀರ ಕಲಿಕೆಯ ಅನುಭವವಾಗಿ ಸ್ವೀಕರಿಸುತ್ತಿದ್ದರು",
+        "ಅವರು ದೈಹಿಕ ತೊಂದರೆಗಳಲ್ಲಿ ಪರಸ್ಪರ ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದರು",
+        "ಅವರು ಇತರರ ಕಷ್ಟಗಳ ಬಗ್ಗೆ ಸಹಾನುಭೂತಿ ಬೆಳೆಸಿಕೊಳ್ಳುತ್ತಿದ್ದರು"
+      ],
+      "reasoning": "ಮಕ್ಕಳು ಆಟದಂತಿದ್ದ ಈ ಪಾತ್ರಗಳನ್ನು ಗಂಭೀರವಾಗಿ ತೆಗೆದುಕೊಂಡು ಪರಸ್ಪರ ಸಹಾಯ ಮಾಡುತ್ತಾ ಕಷ್ಟಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_eng_school_021",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "What changes did the narrator notice in himself by the end of his visit? (Select all that apply)",
+      "options": [
+        "He became ten times more thoughtful than before",
+        "He realized the value of sharing in others' misfortunes",
+        "He felt very sorry to leave the school",
+        "He decided to purchase the school property"
+      ],
+      "answer": [
+        "He became ten times more thoughtful than before",
+        "He realized the value of sharing in others' misfortunes",
+        "He felt very sorry to leave the school"
+      ],
+      "reasoning": "The narrator felt the school had changed him to be more thoughtful, understanding, and reluctant to leave."
+    },
+    "kn": {
+      "question": "ಭೇಟಿಯ ಕೊನೆಯಲ್ಲಿ ಲೇಖಕರು ತಮ್ಮಲ್ಲಿ ಯಾವ ಬದಲಾವಣೆಗಳನ್ನು ಗಮನಿಸಿದರು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಅವರು ಹಿಂದಿಗಿಂತಲೂ ಹತ್ತು ಪಟ್ಟು ಹೆಚ್ಚು ಚಿಂತನಶೀಲರಾದರು",
+        "ಇತರರ ಕಷ್ಟಗಳಲ್ಲಿ ಭಾಗಿಯಾಗುವ ಮೌಲ್ಯವನ್ನು ಅವರು ಅರಿತುಕೊಂಡರು",
+        "ಅವರಿಗೆ ಶಾಲೆಯನ್ನು ಬಿಟ್ಟು ಹೋಗಲು ಬೇಸರವಾಯಿತು",
+        "ಅವರು ಶಾಲೆಯ ಆಸ್ತಿಯನ್ನು ಖರೀದಿಸಲು ನಿರ್ಧರಿಸಿದರು"
+      ],
+      "answer": [
+        "ಅವರು ಹಿಂದಿಗಿಂತಲೂ ಹತ್ತು ಪಟ್ಟು ಹೆಚ್ಚು ಚಿಂತನಶೀಲರಾದರು",
+        "ಇತರರ ಕಷ್ಟಗಳಲ್ಲಿ ಭಾಗಿಯಾಗುವ ಮೌಲ್ಯವನ್ನು ಅವರು ಅರಿತುಕೊಂಡರು",
+        "ಅವರಿಗೆ ಶಾಲೆಯನ್ನು ಬಿಟ್ಟು ಹೋಗಲು ಬೇಸರವಾಯಿತು"
+      ],
+      "reasoning": "ಲೇಖಕರು ತಾವು ಹೆಚ್ಚು ಕರುಣಾಮಯಿ ಮತ್ತು ಚಿಂತನಶೀಲರಾಗಿರುವುದನ್ನು ಒಪ್ಪಿಕೊಂಡರು ಹಾಗೂ ಶಾಲೆಯನ್ನು ಬಿಟ್ಟು ಹೋಗಲು ವಿಷಾದಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c6_eng_school_022",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the special days at the school with their corresponding descriptions:",
+      "pairs": [
+        {
+          "left": "Blind Day",
+          "right": "Eyes are bandaged completely"
+        },
+        {
+          "left": "Lame Day",
+          "right": "A leg is tied up"
+        },
+        {
+          "left": "Deaf Day",
+          "right": "Ears are filled with cotton"
+        },
+        {
+          "left": "Injured Day",
+          "right": "An arm is tied up"
+        }
+      ],
+      "reasoning": "These are the physical actions taken to simulate different disabilities."
+    },
+    "kn": {
+      "question": "ಶಾಲೆಯ ವಿಶೇಷ ದಿನಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Blind Day",
+          "right": "Eyes are bandaged completely"
+        },
+        {
+          "left": "Lame Day",
+          "right": "A leg is tied up"
+        },
+        {
+          "left": "Deaf Day",
+          "right": "Ears are filled with cotton"
+        },
+        {
+          "left": "Injured Day",
+          "right": "An arm is tied up"
+        }
+      ],
+      "reasoning": "ವಿವಿಧ ಅಂಗವೈಕಲ್ಯಗಳನ್ನು ಅನುಭವಿಸಲು ಕೈಗೊಳ್ಳಲಾಗುತ್ತಿದ್ದ ದೈಹಿಕ ನಿರ್ಬಂಧಗಳ ಹೊಂದಾಣಿಕೆ."
+    }
+  },
+  {
+    "id": "c6_eng_school_023",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the characters from the story with their descriptions:",
+      "pairs": [
+        {
+          "left": "Miss Beam",
+          "right": "Middle-aged, kind headmistress"
+        },
+        {
+          "left": "Peter",
+          "right": "The elderly gardener"
+        },
+        {
+          "left": "Millie",
+          "right": "A tall girl with light hair"
+        },
+        {
+          "left": "Narrator",
+          "right": "Visited the school to see its system"
+        }
+      ],
+      "reasoning": "Matching key individuals mentioned in A Different Kind of School."
+    },
+    "kn": {
+      "question": "ಕಥೆಯಲ್ಲಿ ಬರುವ ಪಾತ್ರಗಳನ್ನು ಅವುಗಳ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Miss Beam",
+          "right": "Middle-aged, kind headmistress"
+        },
+        {
+          "left": "Peter",
+          "right": "The elderly gardener"
+        },
+        {
+          "left": "Millie",
+          "right": "A tall girl with light hair"
+        },
+        {
+          "left": "Narrator",
+          "right": "Visited the school to see its system"
+        }
+      ],
+      "reasoning": "ಕಥೆಯಲ್ಲಿ ಬರುವ ಪ್ರಮುಖ ಪಾತ್ರಗಳು ಮತ್ತು ಅವುಗಳ ಪಾತ್ರದ ವಿವರಣೆಯ ಹೊಂದಾಣಿಕೆ."
+    }
+  },
+  {
+    "id": "c6_eng_school_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the special days with the primary challenge they present to the children:",
+      "pairs": [
+        {
+          "left": "Blind Day",
+          "right": "Fear of being hit by things"
+        },
+        {
+          "left": "Dumb Day",
+          "right": "Needs pure willpower to stay quiet"
+        },
+        {
+          "left": "Lame Day",
+          "right": "Hopping about on crutches"
+        },
+        {
+          "left": "Injured Day",
+          "right": "Trouble eating or doing tasks"
+        }
+      ],
+      "reasoning": "Connecting each simulated difficulty to the specific challenge it poses."
+    },
+    "kn": {
+      "question": "ವಿಶೇಷ ದಿನಗಳನ್ನು ಅವುಗಳು ಮಕ್ಕಳಿಗೆ ನೀಡುವ ಪ್ರಮುಖ ಸವಾಲುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Blind Day",
+          "right": "Fear of being hit by things"
+        },
+        {
+          "left": "Dumb Day",
+          "right": "Needs pure willpower to stay quiet"
+        },
+        {
+          "left": "Lame Day",
+          "right": "Hopping about on crutches"
+        },
+        {
+          "left": "Injured Day",
+          "right": "Trouble eating or doing tasks"
+        }
+      ],
+      "reasoning": "ಪ್ರತಿ ಅಂಗವೈಕಲ್ಯದ ಅನುಕರಣೆಯು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ತಂದೊಡ್ಡುವ ಪ್ರಮುಖ ಸವಾಲಿನ ಹೊಂದಾಣಿಕೆ."
+    }
+  },
+  {
+    "id": "c6_eng_school_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the vocabulary words from the story with their synonyms or meanings:",
+      "pairs": [
+        {
+          "left": "Ghastly",
+          "right": "Horrible or unpleasant"
+        },
+        {
+          "left": "Misfortune",
+          "right": "Bad luck or hardship"
+        },
+        {
+          "left": "Empathy",
+          "right": "Understanding others' feelings"
+        },
+        {
+          "left": "Thoughtful",
+          "right": "Considerate and reflective"
+        }
+      ],
+      "reasoning": "Understanding the meanings of abstract terms used in the chapter's theme."
+    },
+    "kn": {
+      "question": "ಕಥೆಯಲ್ಲಿನ ಪ್ರಮುಖ ಶಬ್ದಕೋಶದ ಪದಗಳನ್ನು ಅವುಗಳ ಅರ್ಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Ghastly",
+          "right": "Horrible or unpleasant"
+        },
+        {
+          "left": "Misfortune",
+          "right": "Bad luck or hardship"
+        },
+        {
+          "left": "Empathy",
+          "right": "Understanding others' feelings"
+        },
+        {
+          "left": "Thoughtful",
+          "right": "Considerate and reflective"
+        }
+      ],
+      "reasoning": "ಕಥೆಯ ವಿಷಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಅಮೂರ್ತ ಪದಗಳ ಅರ್ಥಗಳ ಹೊಂದಾಣಿಕೆ."
+    }
+  }
+]

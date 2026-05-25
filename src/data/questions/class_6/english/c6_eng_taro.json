@@ -1,0 +1,797 @@
+[
+  {
+    "id": "c6_eng_taro_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What was Taro's profession?",
+      "options": [
+        "Woodcutter",
+        "Farmer",
+        "Fisherman",
+        "Weaver"
+      ],
+      "answer": "Woodcutter",
+      "reasoning": "Taro was a young woodcutter who cut wood in the forest to earn a living."
+    },
+    "kn": {
+      "question": "ತಾರೋನ ವೃತ್ತಿ ಏನಾಗಿತ್ತು?",
+      "options": [
+        "ಕಟ್ಟಿಗೆ ಕಡಿಯುವವನು",
+        "ರೈತ",
+        "ಮೀನುಗಾರ",
+        "ನೇಕಾರ"
+      ],
+      "answer": "ಕಟ್ಟಿಗೆ ಕಡಿಯುವವನು",
+      "reasoning": "ತಾರೋ ತನ್ನ ಜೀವನೋಪಾಯಕ್ಕಾಗಿ ಅರಣ್ಯದಲ್ಲಿ ಕಟ್ಟಿಗೆ ಕಡಿಯುವ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದ ಒಬ್ಬ ಯುವಕನಾಗಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who did Taro live with on the hillside?",
+      "options": [
+        "His wife",
+        "His old parents",
+        "His friends",
+        "He lived alone"
+      ],
+      "answer": "His old parents",
+      "reasoning": "Taro lived with his old mother and father on a lonely hillside."
+    },
+    "kn": {
+      "question": "ಬೆಟ್ಟದ ಇಳಿಜಾರಿನಲ್ಲಿ ತಾರೋ ಯಾರೊಂದಿಗೆ ವಾಸಿಸುತ್ತಿದ್ದನು?",
+      "options": [
+        "ಅವನ ಹೆಂಡತಿಯೊಂದಿಗೆ",
+        "ಅವನ ವೃದ್ಧ ಪೋಷಕರೊಂದಿಗೆ",
+        "ಅವನ ಸ್ನೇಹಿತರೊಂದಿಗೆ",
+        "ಅವನು ಏಕಾಂಗಿಯಾಗಿ ವಾಸಿಸುತ್ತಿದ್ದನು"
+      ],
+      "answer": "ಅವನ ವೃದ್ಧ ಪೋಷಕರೊಂದಿಗೆ",
+      "reasoning": "ತಾರೋ ತನ್ನ ವೃದ್ಧ ತಾಯಿ ಮತ್ತು ತಂದೆಯೊಂದಿಗೆ ಒಂಟಿ ಗುಡ್ಡದ ಪಕ್ಕದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What kind of son was Taro described as?",
+      "options": [
+        "Lazy and selfish",
+        "Thoughtful and loving",
+        "Rude and disobedient",
+        "Greedy and dishonest"
+      ],
+      "answer": "Thoughtful and loving",
+      "reasoning": "Taro was a thoughtful and loving son who cared deeply for his parents."
+    },
+    "kn": {
+      "question": "ತಾರೋ ಎಂತಹ ಮಗ ಎಂದು ಕಥೆಯಲ್ಲಿ ಬಣ್ಣಿಸಲಾಗಿದೆ?",
+      "options": [
+        "ಸೋಮಾರಿ ಮತ್ತು ಸ್ವಾರ್ಥಿ",
+        "ಚಿಂತನಶೀಲ ಮತ್ತು ಪ್ರೀತಿಯುಳ್ಳವನು",
+        "ಒರಟು ಮತ್ತು ಅವಿಧೇಯ",
+        "ದುರಾಶೆ ಮತ್ತು ಅಪ್ರಾಮಾಣಿಕ"
+      ],
+      "answer": "ಚಿಂತನಶೀಲ ಮತ್ತು ಪ್ರೀತಿಯುಳ್ಳವನು",
+      "reasoning": "ತಾರೋ ತನ್ನ ಪೋಷಕರನ್ನು ಆಳವಾಗಿ ಕಾಳಜಿ ವಹಿಸುವ ಒಬ್ಬ ಚಿಂತನಶೀಲ ಮತ್ತು ಪ್ರೀತಿಯುಳ್ಳ ಮಗನಾಗಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What did Taro's father wish for on a very cold evening?",
+      "options": [
+        "A cup of sake",
+        "A warm wool blanket",
+        "A new hot soup recipe",
+        "A fireplace in the room"
+      ],
+      "answer": "A cup of sake",
+      "reasoning": "Taro's father wished for a cup of sake, a warm Japanese drink, to warm his heart."
+    },
+    "kn": {
+      "question": "ಅತ್ಯಂತ ಚಳಿಯ ಸಂಜೆಯೊಂದರಲ್ಲಿ ತಾರೋನ ತಂದೆ ಏನನ್ನು ಬಯಸಿದರು?",
+      "options": [
+        "ಒಂದು ಕಪ್ ಸಾಕೆ",
+        "ಬೆಚ್ಚಗಿನ ಉಣ್ಣೆಯ ಕಂಬಳಿ",
+        "ಬಿಸಿ ಸೂಪ್ ರೆಸಿಪಿ",
+        "ಕೋಣೆಯಲ್ಲಿ ಬೆಂಕಿಯ ಗೂಡು"
+      ],
+      "answer": "ಒಂದು ಕಪ್ ಸಾಕೆ",
+      "reasoning": "ತಾರೋನ ತಂದೆ ತಮ್ಮ ಹೃದಯವನ್ನು ಬೆಚ್ಚಗಾಗಿಸಲು ಒಂದು ಕಪ್ 'ಸಾಕೆ' (ಬೆಚ್ಚಗಿನ ಜಪಾನಿ ಪಾನೀಯ) ಬಯಸಿದರು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Why was Taro sad about his father's wish for sake?",
+      "options": [
+        "His father was very sick",
+        "Sake was very expensive and he was poor",
+        "He did not want to go out in the cold",
+        "He did not like his father's choice"
+      ],
+      "answer": "Sake was very expensive and he was poor",
+      "reasoning": "Taro was sad because he did not earn enough money to buy the expensive sake drink."
+    },
+    "kn": {
+      "question": "ಸಾಕೆ ಪಾನೀಯಕ್ಕಾಗಿ ತನ್ನ ತಂದೆಯ ಆಸೆಯ ಬಗ್ಗೆ ತಾರೋಗೆ ಏಕೆ ಬೇಸರವಾಯಿತು?",
+      "options": [
+        "ಅವನ ತಂದೆಗೆ ತುಂಬಾ ಹುಷಾರಿರಲಿಲ್ಲ",
+        "ಸಾಕೆ ಪಾನೀಯವು ತುಂಬಾ ದುಬಾರಿಯಾಗಿತ್ತು ಮತ್ತು ಅವನು ಬಡವನಾಗಿದ್ದನು",
+        "ಅವನಿಗೆ ಚಳಿಯಲ್ಲಿ ಹೊರಗೆ ಹೋಗಲು ಇಷ್ಟವಿರಲಿಲ್ಲ",
+        "ಅವನಿಗೆ ತನ್ನ ತಂದೆಯ ಆಯ್ಕೆ ಇಷ್ಟವಾಗಲಿಲ್ಲ"
+      ],
+      "answer": "ಸಾಕೆ ಪಾನೀಯವು ತುಂಬಾ ದುಬಾರಿಯಾಗಿತ್ತು ಮತ್ತು ಅವನು ಬಡವನಾಗಿದ್ದನು",
+      "reasoning": "ದುಬಾರಿಯಾದ 'ಸಾಕೆ' ಪಾನೀಯವನ್ನು ಖರೀದಿಸಲು ತನ್ನ ಬಳಿ ಸಾಕಷ್ಟು ಹಣವಿಲ್ಲದ್ದಕ್ಕಾಗಿ ತಾರೋನಿಗೆ ಬೇಸರವಾಯಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What unexpected sound did Taro hear in the forest?",
+      "options": [
+        "The roar of a wild animal",
+        "The sound of rushing water",
+        "Birds singing loudly",
+        "Someone crying for help"
+      ],
+      "answer": "The sound of rushing water",
+      "reasoning": "Taro heard the sound of rushing water, which surprised him because there was no stream there before."
+    },
+    "kn": {
+      "question": "ಕಾಡಿನಲ್ಲಿ ತಾರೋಗೆ ಕೇಳಿಸಿದ ಅನಿರೀಕ್ಷಿತ ಧ್ವನಿ ಯಾವುದು?",
+      "options": [
+        "ಕಾಡು ಪ್ರಾಣಿಯ ಘರ್ಜನೆ",
+        "ಹರಿಯುವ ನೀರಿನ ಸದ್ದು",
+        "ಹಕ್ಕಿಗಳ ಜೋರಾದ ಗಾಯನ",
+        "ಸಹಾಯಕ್ಕಾಗಿ ಯಾರೋ ಕೂಗುತ್ತಿರುವುದು"
+      ],
+      "answer": "ಹರಿಯುವ ನೀರಿನ ಸದ್ದು",
+      "reasoning": "ಹರಿಯುವ ನೀರಿನ ಸದ್ದು ಕೇಳಿ ತಾರೋಗೆ ಆಶ್ಚರ್ಯವಾಯಿತು ಏಕೆಂದರೆ ಅಲ್ಲಿ ಹಿಂದೆಂದೂ ಯಾವುದೇ ಹಳ್ಳ ಇರಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_eng_taro_007",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What did the water from the waterfall taste like to Taro?",
+      "options": [
+        "Delicious sake",
+        "Sweet honey",
+        "Bitter medicine",
+        "Plain cold water"
+      ],
+      "answer": "Delicious sake",
+      "reasoning": "When Taro tasted the water, it was delicious sake instead of ordinary cold water."
+    },
+    "kn": {
+      "question": "ಜಲಪಾತದ ನೀರು ತಾರೋಗೆ ಯಾವ ರುಚಿಯನ್ನು ನೀಡಿತು?",
+      "options": [
+        "ರುಚಿಕರವಾದ ಸಾಕೆ",
+        "ಸಿಹಿ ಜೇನುತುಪ್ಪ",
+        "ಕಹಿ ಔಷಧಿ",
+        "ಸಾಮಾನ್ಯ ತಣ್ಣೀರು"
+      ],
+      "answer": "ರುಚಿಕರವಾದ ಸಾಕೆ",
+      "reasoning": "ತಾರೋ ನೀರಿನ ರುಚಿ ನೋಡಿದಾಗ, ಅದು ಸಾಮಾನ್ಯ ತಣ್ಣೀರಿನ ಬದಲು ರುಚಿಕರವಾದ 'ಸಾಕೆ' ಆಗಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_008",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What did Taro use to carry the sake back to his home?",
+      "options": [
+        "A wooden cup",
+        "A pitcher",
+        "A leather sack",
+        "A coconut shell"
+      ],
+      "answer": "A pitcher",
+      "reasoning": "Taro filled the pitcher he had with him with the sake to bring it home."
+    },
+    "kn": {
+      "question": "ಸಾಕೆಯನ್ನು ತನ್ನ ಮನೆಗೆ ಕೊಂಡೊಯ್ಯಲು ತಾರೋ ಯಾವುದನ್ನು ಬಳಸಿದನು?",
+      "options": [
+        "ಮರದ ಲೋಟ",
+        "ಒಂದು ಮಡಕೆ",
+        "ಚರ್ಮದ ಚೀಲ",
+        "ತೆಂಗಿನ ಚಿಪ್ಪು"
+      ],
+      "answer": "ಒಂದು ಮಡಕೆ",
+      "reasoning": "ತಾರೋ ತನ್ನ ಬಳಿಯಿದ್ದ ಮಡಕೆಯಲ್ಲಿ ಆ ಸಾಕೆಯನ್ನು ತುಂಬಿಕೊಂಡು ಮನೆಗೆ ತಂದನು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "How did Taro's father show his joy after drinking the sake?",
+      "options": [
+        "He fell asleep immediately",
+        "He stopped shivering and did a little dance",
+        "He praised the Emperor of Japan",
+        "He started crying with happiness"
+      ],
+      "answer": "He stopped shivering and did a little dance",
+      "reasoning": "After having one sip, the father stopped shivering and danced happily in the middle of the floor."
+    },
+    "kn": {
+      "question": "ಸಾಕೆ ಪಾನೀಯವನ್ನು ಕುಡಿದ ನಂತರ ತಾರೋನ ತಂದೆ ತನ್ನ ಸಂತೋಷವನ್ನು ಹೇಗೆ ವ್ಯಕ್ತಪಡಿಸಿದರು?",
+      "options": [
+        "ಅವರು ತಕ್ಷಣವೇ ಮಲಗಿದರು",
+        "ಅವರು ನಡುಗುವುದನ್ನು ನಿಲ್ಲಿಸಿ ಸಣ್ಣದಾಗಿ ನೃತ್ಯ ಮಾಡಿದರು",
+        "ಅವರು ಜಪಾನ್ ಚಕ್ರವರ್ತಿಯನ್ನು ಪ್ರಶಂಸಿಸಿದರು",
+        "ಅವರು ಸಂತೋಷದಿಂದ ಅಳಲು ಪ್ರಾರಂಭಿಸಿದರು"
+      ],
+      "answer": "ಅವರು ನಡುಗುವುದನ್ನು ನಿಲ್ಲಿಸಿ ಸಣ್ಣದಾಗಿ ನೃತ್ಯ ಮಾಡಿದರು",
+      "reasoning": "ಒಂದು ಸಿಪ್ ಕುಡಿದ ನಂತರ, ತಂದೆಯ ನಡುಕ ನಿಂತಿತು ಮತ್ತು ಅವರು ಕೋಣೆಯ ಮಧ್ಯದಲ್ಲಿ ಸಂತೋಷದಿಂದ ನೃತ್ಯ ಮಾಡಿದರು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why did the villagers run to the waterfall early the next morning?",
+      "options": [
+        "To catch rare fish in the stream",
+        "To collect the delicious magic sake",
+        "To clean the path to the forest",
+        "To chop firewood together"
+      ],
+      "answer": "To collect the delicious magic sake",
+      "reasoning": "The villagers hurried to the waterfall with containers to get the magic sake for themselves."
+    },
+    "kn": {
+      "question": "ಮರುದಿನ ಬೆಳಗ್ಗೆ ಗ್ರಾಮಸ್ಥರು ಜಲಪಾತದ ಕಡೆಗೆ ಏಕೆ ಓಡಿದರು?",
+      "options": [
+        "ಹಳ್ಳದಲ್ಲಿ ಅಪರೂಪದ ಮೀನುಗಳನ್ನು ಹಿಡಿಯಲು",
+        "ರುಚಿಕರವಾದ ಮ್ಯಾಜಿಕ್ ಸಾಕೆಯನ್ನು ಸಂಗ್ರಹಿಸಲು",
+        "ಕಾಡಿನ ಹಾದಿಯನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಲು",
+        "ಒಟ್ಟಿಗೆ ಮರ ಕಡಿಯಲು"
+      ],
+      "answer": "ರುಚಿಕರವಾದ ಮ್ಯಾಜಿಕ್ ಸಾಕೆಯನ್ನು ಸಂಗ್ರಹಿಸಲು",
+      "reasoning": "ಗ್ರಾಮಸ್ಥರು ಆ ಮ್ಯಾಜಿಕ್ ಸಾಕೆಯನ್ನು ತಮಗಾಗಿ ಪಡೆಯಲು ಕೊಡಗಳೊಂದಿಗೆ ಜಲಪಾತದ ಕಡೆಗೆ ಧಾವಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What did the villagers find when they tasted the water from the waterfall?",
+      "options": [
+        "Sweet sake",
+        "Cold water",
+        "Salty water",
+        "Muddy water"
+      ],
+      "answer": "Cold water",
+      "reasoning": "The waterfall gave only plain cold water to the villagers, not sake."
+    },
+    "kn": {
+      "question": "ಗ್ರಾಮಸ್ಥರು ಜಲಪಾತದ ನೀರನ್ನು ರುಚಿ ನೋಡಿದಾಗ ಅವರಿಗೆ ಏನು ಸಿಕ್ಕಿತು?",
+      "options": [
+        "ಸಿಹಿ ಸಾಕೆ",
+        "ತಣ್ಣೀರು",
+        "ಉಪ್ಪು ನೀರು",
+        "ಕೆಸರು ನೀರು"
+      ],
+      "answer": "ತಣ್ಣೀರು",
+      "reasoning": "ಜಲಪಾತವು ಗ್ರಾಮಸ್ಥರಿಗೆ ಕೇವಲ ಸಾಮಾನ್ಯ ತಣ್ಣೀರನ್ನು ಮಾತ್ರ ನೀಡಿತು, ಸಾಕೆಯನ್ನಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_eng_taro_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why did the waterfall give sake to Taro but cold water to others?",
+      "options": [
+        "Taro paid the waterfall spirit",
+        "Taro was a thoughtful son, while the others were greedy",
+        "The villagers did not bring the right cups",
+        "Taro cast a secret spell on the water"
+      ],
+      "answer": "Taro was a thoughtful son, while the others were greedy",
+      "reasoning": "The magic waterfall rewarded Taro's goodness and love for his parents, but gave only plain water to the greedy villagers."
+    },
+    "kn": {
+      "question": "ಜಲಪಾತವು ತಾರೋಗೆ ಮಾತ್ರ ಸಾಕೆಯನ್ನು ಮತ್ತು ಇತರರಿಗೆ ತಣ್ಣೀರನ್ನು ನೀಡಿದ್ದು ಏಕೆ?",
+      "options": [
+        "ತಾರೋ ಜಲಪಾತದ ದೇವತೆಗೆ ಹಣ ನೀಡಿದ್ದನು",
+        "ತಾರೋ ಚಿಂತನಶೀಲ ಮಗನಾಗಿದ್ದನು, ಇತರರು ದುರಾಶೆಯುಳ್ಳವರಾಗಿದ್ದರು",
+        "ಗ್ರಾಮಸ್ಥರು ಸರಿಯಾದ ಪಾತ್ರೆಗಳನ್ನು ತಂದಿರಲಿಲ್ಲ",
+        "ತಾರೋ ನೀರಿನ ಮೇಲೆ ರಹಸ್ಯ ಮಂತ್ರವನ್ನು ಹಾಕಿದ್ದನು"
+      ],
+      "answer": "ತಾರೋ ಚಿಂತನಶೀಲ ಮಗನಾಗಿದ್ದನು, ಇತರರು ದುರಾಶೆಯುಳ್ಳವರಾಗಿದ್ದರು",
+      "reasoning": "ಮ್ಯಾಜಿಕ್ ಜಲಪಾತವು ತಾರೋನ ದಯಾಗುಣ ಮತ್ತು ಪೋಷಕರ ಮೇಲಿನ ಪ್ರೀತಿಯನ್ನು ಪುರಸ್ಕರಿಸಿತು, ದುರಾಶೆಯ ಗ್ರಾಮಸ್ಥರಿಗೆ ಬರಿ ನೀರನ್ನು ನೀಡಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_013",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why did the Emperor of Japan reward Taro with gold?",
+      "options": [
+        "To buy the magic waterfall from him",
+        "To encourage all children to honor and obey their parents",
+        "Because Taro fought bravely in the war",
+        "To reward him for finding a gold mine"
+      ],
+      "answer": "To encourage all children to honor and obey their parents",
+      "reasoning": "The Emperor rewarded Taro's virtue to inspire all children to respect and obey their parents."
+    },
+    "kn": {
+      "question": "ಜಪಾನ್‌ನ ಚಕ್ರವರ್ತಿ ತಾರೋಗೆ ಚಿನ್ನದ ಬಹುಮಾನವನ್ನು ನೀಡಿದ್ದು ಏಕೆ?",
+      "options": [
+        "ಅವನಿಂದ ಮ್ಯಾಜಿಕ್ ಜಲಪಾತವನ್ನು ಖರೀದಿಸಲು",
+        "ಎಲ್ಲಾ ಮಕ್ಕಳು ತಮ್ಮ ಪೋಷಕರನ್ನು ಗೌರವಿಸಲು ಮತ್ತು ಅವರ ಮಾತು ಕೇಳಲು ಪ್ರೇರೇಪಿಸಲು",
+        "ತಾರೋ ಯುದ್ಧದಲ್ಲಿ ಧೈರ್ಯದಿಂದ ಹೋರಾಡಿದ್ದಕ್ಕಾಗಿ",
+        "ಚಿನ್ನದ ಗಣಿ ಕಂಡುಹಿಡಿದಿದ್ದಕ್ಕಾಗಿ ಅವನಿಗೆ ಬಹುಮಾನ ನೀಡಲು"
+      ],
+      "answer": "ಎಲ್ಲಾ ಮಕ್ಕಳು ತಮ್ಮ ಪೋಷಕರನ್ನು ಗೌರವಿಸಲು ಮತ್ತು ಅವರ ಮಾತು ಕೇಳಲು ಪ್ರೇರೇಪಿಸಲು",
+      "reasoning": "ಚಕ್ರವರ್ತಿಯು ಇತರ ಮಕ್ಕಳು ಪೋಷಕರನ್ನು ಗೌರವಿಸುವಂತೆ ಮತ್ತು ಪೋಷಕ ಭಕ್ತಿಯನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳುವಂತೆ ಪ್ರೋತ್ಸಾಹಿಸಲು ತಾರೋಗೆ ಬಹುಮಾನ ನೀಡಿದರು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_014",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What does the word 'muttering' show about the villagers at the waterfall?",
+      "options": [
+        "They were singing a happy folk song",
+        "They were speaking in low, angry, and disappointed tones",
+        "They were shouting to call the Emperor",
+        "They were laughing together at Taro's story"
+      ],
+      "answer": "They were speaking in low, angry, and disappointed tones",
+      "reasoning": "Muttering means speaking in a low, grumbling tone. The villagers muttered when they felt disappointed by the cold water."
+    },
+    "kn": {
+      "question": "ಜಲಪಾತದ ಬಳಿ ಇದ್ದ ಗ್ರಾಮಸ್ಥರ 'muttering' (ಗೊಣಗಾಟ) ಏನನ್ನು ತೋರಿಸುತ್ತದೆ?",
+      "options": [
+        "ಅವರು ಸಂತೋಷದ ಜಾನಪದ ಗೀತೆಯನ್ನು ಹಾಡುತ್ತಿದ್ದರು",
+        "ಅವರು ಕೋಪ ಮತ್ತು ನಿರಾಶೆಯಿಂದ ತಗ್ಗು ಧ್ವನಿಯಲ್ಲಿ ಮಾತನಾಡುತ್ತಿದ್ದರು",
+        "ಅವರು ಚಕ್ರವರ್ತಿಯನ್ನು ಕರೆಯಲು ಕೂಗುತ್ತಿದ್ದರು",
+        "ಅವರು ತಾರೋನ ಕಥೆಯನ್ನು ಕೇಳಿ ಒಟ್ಟಿಗೆ ನಗುತ್ತಿದ್ದರು"
+      ],
+      "answer": "ಅವರು ಕೋಪ ಮತ್ತು ನಿರಾಶೆಯಿಂದ ತಗ್ಗು ಧ್ವನಿಯಲ್ಲಿ ಮಾತನಾಡುತ್ತಿದ್ದರು",
+      "reasoning": "'Muttering' ಎಂದರೆ ಅಸ್ಪಷ್ಟವಾಗಿ ಅಥವಾ ತಗ್ಗು ಧ್ವನಿಯಲ್ಲಿ ಗೊಣಗುವುದು. ಜಲಪಾತದಲ್ಲಿ ತಣ್ಣೀರು ಸಿಕ್ಕಿದ್ದರಿಂದ ಅವರು ನಿರಾಶೆಯಿಂದ ಗೊಣಗಿದರು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What did the villagers want to do to Taro when they felt tricked?",
+      "options": [
+        "Drown him in the waterfall",
+        "Give him all their gold",
+        "Elect him as the village chief",
+        "Carry him on their shoulders"
+      ],
+      "answer": "Drown him in the waterfall",
+      "reasoning": "The angry villagers felt tricked and shouted to find Taro so they could drown him in the waterfall."
+    },
+    "kn": {
+      "question": "ತಾವು ವಂಚಿಸಲ್ಪಟ್ಟಿದ್ದೇವೆ ಎಂದು ಅನಿಸಿದಾಗ ಗ್ರಾಮಸ್ಥರು ತಾರೋಗೆ ಏನು ಮಾಡಲು ಬಯಸಿದರು?",
+      "options": [
+        "ಅವನನ್ನು ಜಲಪಾತದಲ್ಲಿ ಮುಳುಗಿಸಲು",
+        "ಅವನಿಗೆ ತಮ್ಮ ಎಲ್ಲಾ ಚಿನ್ನವನ್ನು ನೀಡಲು",
+        "ಅವನನ್ನು ಹಳ್ಳಿಯ ಮುಖ್ಯಸ್ಥನನ್ನಾಗಿ ಆಯ್ಕೆ ಮಾಡಲು",
+        "ಅವನನ್ನು ಹೆಗಲ ಮೇಲೆ ಹೊತ್ತುಕೊಳ್ಳಲು"
+      ],
+      "answer": "ಅವನನ್ನು ಜಲಪಾತದಲ್ಲಿ ಮುಳುಗಿಸಲು",
+      "reasoning": "ಕೋಪಗೊಂಡ ಗ್ರಾಮಸ್ಥರು ತಾವು ಮೋಸಹೋಗಿದ್ದೇವೆಂದು ಭಾವಿಸಿ, ತಾರೋನನ್ನು ಜಲಪಾತದಲ್ಲಿ ಮುಳುಗಿಸಲು ಹುಡುಕಿದರು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How did Taro escape the anger of the villagers?",
+      "options": [
+        "He ran to another town",
+        "He hid behind a large rock",
+        "He fought them off with his heavy axe",
+        "The village guards came to save him"
+      ],
+      "answer": "He hid behind a large rock",
+      "reasoning": "Taro slipped behind a rock when he saw the villagers growing angry, escaping their notice."
+    },
+    "kn": {
+      "question": "ಗ್ರಾಮಸ್ಥರ ಕೋಪದಿಂದ ತಾರೋ ಹೇಗೆ ಪಾರಾದನು?",
+      "options": [
+        "ಅವನು ಬೇರೆ ಪಟ್ಟಣಕ್ಕೆ ಓಡಿಹೋದನು",
+        "ಅವನು ದೊಡ್ಡ ಬಂಡೆಯೊಂದರ ಹಿಂದೆ ಅಡಗಿಕೊಂಡನು",
+        "ಅವನು ತನ್ನ ಭಾರವಾದ ಕೊಡಲಿಯಿಂದ ಅವರ ವಿರುದ್ಧ ಹೋರಾಡಿದನು",
+        "ಹಳ್ಳಿಯ ಕಾವಲುಗಾರರು ಅವನನ್ನು ರಕ್ಷಿಸಲು ಬಂದರು"
+      ],
+      "answer": "ಅವನು ದೊಡ್ಡ ಬಂಡೆಯೊಂದರ ಹಿಂದೆ ಅಡಗಿಕೊಂಡನು",
+      "reasoning": "ಗ್ರಾಮಸ್ಥರು ಕೋಪಗೊಳ್ಳುತ್ತಿರುವುದನ್ನು ನೋಡಿ ತಾರೋ ಅವರ ಕಣ್ಣಿಗೆ ಬೀಳದಂತೆ ಬಂಡೆಯೊಂದರ ಹಿಂದೆ ಅಡಗಿಕೊಂಡನು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What did the Emperor name after Taro to honor him?",
+      "options": [
+        "The most beautiful fountain in the city",
+        "The main gate of the imperial palace",
+        "A large forest on the hillside",
+        "A public park in the capital"
+      ],
+      "answer": "The most beautiful fountain in the city",
+      "reasoning": "To honor Taro, the Emperor named the city's most beautiful fountain after him."
+    },
+    "kn": {
+      "question": "ತಾರೋನನ್ನು ಗೌರವಿಸಲು ಚಕ್ರವರ್ತಿಯು ಯಾವುದಕ್ಕೆ ಅವನ ಹೆಸರನ್ನಿಟ್ಟರು?",
+      "options": [
+        "ನಗರದ ಅತ್ಯಂತ ಸುಂದರವಾದ ಕಾರಂಜಿ",
+        "ರಾಜಮನೆತನದ ಮುಖ್ಯ ದ್ವಾರ",
+        "ಬೆಟ್ಟದ ಇಳಿಜಾರಿನಲ್ಲಿರುವ ದೊಡ್ಡ ಅರಣ್ಯ",
+        "ರಾಜಧಾನಿಯ ಸಾರ್ವಜನಿಕ ಉದ್ಯಾನವನ"
+      ],
+      "answer": "ನಗರದ ಅತ್ಯಂತ ಸುಂದರವಾದ ಕಾರಂಜಿ",
+      "reasoning": "ತಾರೋನ ದಯಾಗುಣವನ್ನು ಗೌರವಿಸಲು ಚಕ್ರವರ್ತಿಯು ನಗರದ ಅತ್ಯಂತ ಸುಂದರವಾದ ಕಾರಂಜಿ ಒಂದಕ್ಕೆ ಅವನ ಹೆಸರಿಟ್ಟರು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_018",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which qualities did Taro possess? (Select all that apply)",
+      "options": [
+        "Thoughtful",
+        "Hardworking",
+        "Greedy",
+        "Loving"
+      ],
+      "answer": [
+        "Thoughtful",
+        "Hardworking",
+        "Loving"
+      ],
+      "reasoning": "Taro was a thoughtful, hardworking, and loving son who cared deeply for his parents."
+    },
+    "kn": {
+      "question": "ತಾರೋ ಯಾವ ಗುಣಗಳನ್ನು ಹೊಂದಿದ್ದನು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಚಿಂತನಶೀಲ",
+        "ಕಷ್ಟಪಟ್ಟು ಕೆಲಸ ಮಾಡುವವನು",
+        "ದುರಾಶೆಯುಳ್ಳವನು",
+        "ಪ್ರೀತಿಯುಳ್ಳವನು"
+      ],
+      "answer": [
+        "ಚಿಂತನಶೀಲ",
+        "ಕಷ್ಟಪಟ್ಟು ಕೆಲಸ ಮಾಡುವವನು",
+        "ಪ್ರೀತಿಯುಳ್ಳವನು"
+      ],
+      "reasoning": "ತಾರೋ ತನ್ನ ಪೋಷಕರನ್ನು ಆಳವಾಗಿ ಪ್ರೀತಿಸುವ, ಕಷ್ಟಪಟ್ಟು ದುಡಿಯುವ ಚಿಂತನಶೀಲ ಮಗನಾಗಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "What containers did the villagers bring to the waterfall? (Select all that apply)",
+      "options": [
+        "Pitchers",
+        "Jars",
+        "Buckets",
+        "Golden plates"
+      ],
+      "answer": [
+        "Pitchers",
+        "Jars",
+        "Buckets"
+      ],
+      "reasoning": "The villagers brought pitchers, jars, and buckets—every container they could find to carry the sake."
+    },
+    "kn": {
+      "question": "ಗ್ರಾಮಸ್ಥರು ಜಲಪಾತದ ಬಳಿ ಯಾವ ಪಾತ್ರೆಗಳನ್ನು ತಂದಿದ್ದರು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಮಡಕೆಗಳು",
+        "ಜಾಡಿಗಳು",
+        "ಬಕೆಟ್‌ಗಳು",
+        "ಚಿನ್ನದ ತಟ್ಟೆಗಳು"
+      ],
+      "answer": [
+        "ಮಡಕೆಗಳು",
+        "ಜಾಡಿಗಳು",
+        "ಬಕೆಟ್‌ಗಳು"
+      ],
+      "reasoning": "ಗ್ರಾಮಸ್ಥರು ಸಾಕೆಯನ್ನು ತುಂಬಿಕೊಳ್ಳಲು ತಮಗ ಸಿಕ್ಕ ಮಡಕೆಗಳು, ಜಾಡಿಗಳು ಮತ್ತು ಬಕೆಟ್‌ಗಳನ್ನು ತಂದಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_020",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "What were the effects of the sake on Taro's father? (Select all that apply)",
+      "options": [
+        "It made him feel warm",
+        "It stopped his shivering",
+        "It made him feel sad",
+        "It made him dance with joy"
+      ],
+      "answer": [
+        "It made him feel warm",
+        "It stopped his shivering",
+        "It made him dance with joy"
+      ],
+      "reasoning": "The sake warmed the father, stopped his shivering, and filled him with enough joy to dance."
+    },
+    "kn": {
+      "question": "ಸಾಕೆ ಪಾನೀಯವು ತಾರೋನ ತಂದೆಯ ಮೇಲೆ ಬೀರಿದ ಪರಿಣಾಮಗಳೇನು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಅದು ಅವರಿಗೆ ಬೆಚ್ಚಗಿನ ಅನುಭವ ನೀಡಿತು",
+        "ಅದು ಅವರ ನಡುಕವನ್ನು ನಿಲ್ಲಿಸಿತು",
+        "ಅದು ಅವರಿಗೆ ಬೇಸರ ತಂದಿತು",
+        "ಅದು ಅವರು ಸಂತೋಷದಿಂದ ನೃತ್ಯ ಮಾಡುವಂತೆ ಮಾಡಿತು"
+      ],
+      "answer": [
+        "ಅದು ಅವರಿಗೆ ಬೆಚ್ಚಗಿನ ಅನುಭವ ನೀಡಿತು",
+        "ಅದು ಅವರ ನಡುಕವನ್ನು ನಿಲ್ಲಿಸಿತು",
+        "ಅದು ಅವರು ಸಂತೋಷದಿಂದ ನೃತ್ಯ ಮಾಡುವಂತೆ ಮಾಡಿತು"
+      ],
+      "reasoning": "ಸಾಕೆಯು ತಂದೆಗೆ ಉಷ್ಣತೆ ನೀಡಿ, ಅವರ ನಡುಕ ನಿಲ್ಲಿಸಿತು ಮತ್ತು ಸಂತೋಷದಿಂದ ನೃತ್ಯ ಮಾಡುವಂತೆ ಮಾಡಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_021",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Why did the magic waterfall give sake only to Taro? (Select all that apply)",
+      "options": [
+        "Because he was a thoughtful son who honored his parents",
+        "Because the villagers were greedy and only wanted free sake",
+        "Because the waterfall rewarded goodness and discouraged greed",
+        "Because Taro had secretly bought the waterfall"
+      ],
+      "answer": [
+        "Because he was a thoughtful son who honored his parents",
+        "Because the villagers were greedy and only wanted free sake",
+        "Because the waterfall rewarded goodness and discouraged greed"
+      ],
+      "reasoning": "The magical waterfall rewarded Taro's goodness and filial devotion, but punished the greed of the other villagers."
+    },
+    "kn": {
+      "question": "ಮ್ಯಾಜಿಕ್ ಜಲಪಾತವು ತಾರೋಗೆ ಮಾತ್ರ ಸಾಕೆಯನ್ನು ನೀಡಲು ಕಾರಣವೇನು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಏಕೆಂದರೆ ಅವನು ತನ್ನ ಪೋಷಕರನ್ನು ಗೌರವಿಸುವ ಚಿಂತನಶೀಲ ಮಗನಾಗಿದ್ದನು",
+        "ಏಕೆಂದರೆ ಗ್ರಾಮಸ್ಥರು ದುರಾಶೆ ಹೊಂದಿದ್ದು ಕೇವಲ ಉಚಿತ ಪಾನೀಯ ಬಯಸಿದ್ದರು",
+        "ಏಕೆಂದರೆ ಜಲಪಾತವು ಒಳಿತಿಗೆ ಬಹುಮಾನ ನೀಡಿ ದುರಾಶೆಯನ್ನು ನಿರುತ್ಸಾಹಗೊಳಿಸುತ್ತಿತ್ತು",
+        "ಏಕೆಂದರೆ ತಾರೋ ಜಲಪಾತವನ್ನು ರಹಸ್ಯವಾಗಿ ಖರೀದಿಸಿದ್ದನು"
+      ],
+      "answer": [
+        "ಏಕೆಂದರೆ ಅವನು ತನ್ನ ಪೋಷಕರನ್ನು ಗೌರವಿಸುವ ಚಿಂತನಶೀಲ ಮಗನಾಗಿದ್ದನು",
+        "ಏಕೆಂದರೆ ಗ್ರಾಮಸ್ಥರು ದುರಾಶೆ ಹೊಂದಿದ್ದು ಕೇವಲ ಉಚಿತ ಪಾನೀಯ ಬಯಸಿದ್ದರು",
+        "ಏಕೆಂದರೆ ಜಲಪಾತವು ಒಳಿತಿಗೆ ಬಹುಮಾನ ನೀಡಿ ದುರಾಶೆಯನ್ನು ನಿರುತ್ಸಾಹಗೊಳಿಸುತ್ತಿತ್ತು"
+      ],
+      "reasoning": "ಮ್ಯಾಜಿಕ್ ಜಲಪಾತವು ತಾರೋನ ಪೋಷಕ ಭಕ್ತಿಗೆ ಮೆಚ್ಚಿ ಸಾಕೆ ನೀಡಿತು, ಮತ್ತು ಗ್ರಾಮಸ್ಥರ ದುರಾಶೆಯನ್ನು ಶಿಕ್ಷಿಸಲು ಬರಿ ನೀರನ್ನು ನೀಡಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_022",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the characters and places with their descriptions in the story:",
+      "pairs": [
+        {
+          "left": "Taro",
+          "right": "A young woodcutter"
+        },
+        {
+          "left": "Hillside",
+          "right": "Where Taro lived and worked"
+        },
+        {
+          "left": "Father",
+          "right": "Wished for a cup of sake"
+        },
+        {
+          "left": "Waterfall",
+          "right": "Gave sake instead of water"
+        }
+      ],
+      "reasoning": "Simple matches of characters and places from Taro's Reward."
+    },
+    "kn": {
+      "question": "ಪಾತ್ರಗಳು ಮತ್ತು ಸ್ಥಳಗಳನ್ನು ಕಥೆಯಲ್ಲಿನ ಅವುಗಳ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Taro",
+          "right": "A young woodcutter"
+        },
+        {
+          "left": "Hillside",
+          "right": "Where Taro lived and worked"
+        },
+        {
+          "left": "Father",
+          "right": "Wished for a cup of sake"
+        },
+        {
+          "left": "Waterfall",
+          "right": "Gave sake instead of water"
+        }
+      ],
+      "reasoning": "ಕಥೆಯ ಪಾತ್ರಗಳು ಮತ್ತು ಪ್ರಮುಖ ಸ್ಥಳಗಳ ಸರಳ ಹೊಂದಾಣಿಕೆ."
+    }
+  },
+  {
+    "id": "c6_eng_taro_023",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the vocabulary words from the story with their correct meanings:",
+      "pairs": [
+        {
+          "left": "Expensive",
+          "right": "Costing a lot of money"
+        },
+        {
+          "left": "Shivering",
+          "right": "Trembling with cold"
+        },
+        {
+          "left": "Pitcher",
+          "right": "A container for liquids"
+        },
+        {
+          "left": "Devotion",
+          "right": "Great love and loyalty"
+        }
+      ],
+      "reasoning": "These are key vocabulary words from the story defined contextually."
+    },
+    "kn": {
+      "question": "ಕಥೆಯಲ್ಲಿನ ಪ್ರಮುಖ ಪದಗಳನ್ನು ಅವುಗಳ ಅರ್ಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Expensive",
+          "right": "Costing a lot of money"
+        },
+        {
+          "left": "Shivering",
+          "right": "Trembling with cold"
+        },
+        {
+          "left": "Pitcher",
+          "right": "A container for liquids"
+        },
+        {
+          "left": "Devotion",
+          "right": "Great love and loyalty"
+        }
+      ],
+      "reasoning": "ಕಥೆಯಲ್ಲಿ ಬಳಸಲಾದ ಪ್ರಮುಖ ಪದಗಳ ಸಂದರ್ಭೋಚಿತ ಅರ್ಥಗಳು."
+    }
+  },
+  {
+    "id": "c6_eng_taro_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the actions of the characters with the reasons behind them:",
+      "pairs": [
+        {
+          "left": "Taro worked harder",
+          "right": "To earn more for his parents"
+        },
+        {
+          "left": "Villagers rushed to waterfall",
+          "right": "Due to greed for free sake"
+        },
+        {
+          "left": "Taro hid behind rock",
+          "right": "To escape the villagers' anger"
+        },
+        {
+          "left": "Emperor rewarded Taro",
+          "right": "To encourage respect for parents"
+        }
+      ],
+      "reasoning": "Understanding why the characters acted in specific ways in the story."
+    },
+    "kn": {
+      "question": "ಪಾತ್ರಗಳ ಕ್ರಿಯೆಗಳನ್ನು ಅವುಗಳ ಹಿಂದಿನ ಉದ್ದೇಶಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Taro worked harder",
+          "right": "To earn more for his parents"
+        },
+        {
+          "left": "Villagers rushed to waterfall",
+          "right": "Due to greed for free sake"
+        },
+        {
+          "left": "Taro hid behind rock",
+          "right": "To escape the villagers' anger"
+        },
+        {
+          "left": "Emperor rewarded Taro",
+          "right": "To encourage respect for parents"
+        }
+      ],
+      "reasoning": "ಕಥೆಯಲ್ಲಿ ಪಾತ್ರಗಳು ಏಕೆ ನಿರ್ದಿಷ್ಟವಾಗಿ ವರ್ತಿಸಿದವು ಎಂಬುದರ ತಿಳುವಳಿಕೆ."
+    }
+  },
+  {
+    "id": "c6_eng_taro_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the results at the end of the story with the characters or things:",
+      "pairs": [
+        {
+          "left": "Gift of Sake",
+          "right": "Given only to Taro"
+        },
+        {
+          "left": "Plain Cold Water",
+          "right": "Given to the villagers"
+        },
+        {
+          "left": "Twenty gold pieces",
+          "right": "Awarded by the Emperor"
+        },
+        {
+          "left": "MUTTERING in anger",
+          "right": "The disappointed villagers"
+        }
+      ],
+      "reasoning": "Mapping the outcomes to the characters and items in the resolution of the story."
+    },
+    "kn": {
+      "question": "ಕಥೆಯ ಕೊನೆಯಲ್ಲಾದ ಫಲಿತಾಂಶಗಳನ್ನು ಪಾತ್ರಗಳು ಅಥವಾ ವಸ್ತುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Gift of Sake",
+          "right": "Given only to Taro"
+        },
+        {
+          "left": "Plain Cold Water",
+          "right": "Given to the villagers"
+        },
+        {
+          "left": "Twenty gold pieces",
+          "right": "Awarded by the Emperor"
+        },
+        {
+          "left": "MUTTERING in anger",
+          "right": "The disappointed villagers"
+        }
+      ],
+      "reasoning": "ಕಥೆಯ ಅಂತ್ಯದಲ್ಲಿ ವಿವಿಧ ಪಾತ್ರಗಳಿಗೆ ದಕ್ಕಿದ ಫಲಿತಾಂಶಗಳ ಹೊಂದಾಣಿಕೆ."
+    }
+  }
+]

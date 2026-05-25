@@ -1,0 +1,791 @@
+[
+  {
+    "id": "c6_his_hunt_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What was the first animal to be tamed and domesticated by early humans?",
+      "options": [
+        "Wild ancestor of the dog",
+        "Cow",
+        "Horse",
+        "Elephant"
+      ],
+      "answer": "Wild ancestor of the dog",
+      "reasoning": "The first animal to be tamed was the wild ancestor of the dog. Later, people encouraged animals that were relatively gentle to come near the camps where they lived."
+    },
+    "kn": {
+      "question": "ಆರಂಭಿಕ ಮಾನವರು ಮೊದಲು ಪಳಗಿಸಿ ಸಾಕಿದ ಪ್ರಾಣಿ ಯಾವುದು?",
+      "options": [
+        "ನಾಯಿಯ ಕಾಡು ಪೂರ್ವಜ",
+        "ಹಸು",
+        "ಕುದುರೆ",
+        "ಆನೆ"
+      ],
+      "answer": "ನಾಯಿಯ ಕಾಡು ಪೂರ್ವಜ",
+      "reasoning": "ಮೊದಲ ಬಾರಿಗೆ ಪಳಗಿಸಲ್ಪಟ್ಟ ಪ್ರಾಣಿ ನಾಯಿಯ ಕಾಡು ಪೂರ್ವಜ. ನಂತರ, ಜನರು ತಾವು ವಾಸಿಸುವ ಸ್ಥಳಗಳಿಗೆ ಹತ್ತಿರ ಬರಲು ಸಾಧು ಪ್ರಾಣಿಗಳನ್ನು ಪ್ರೋತ್ಸಾಹಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c6_his_hunt_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In which present-day state of India is the famous prehistoric site Bhimbetka located?",
+      "options": [
+        "Madhya Pradesh",
+        "Karnataka",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "answer": "Madhya Pradesh",
+      "reasoning": "Bhimbetka rock shelters are located in present-day Madhya Pradesh. They feature famous prehistoric cave paintings drawn by early humans."
+    },
+    "kn": {
+      "question": "ಪ್ರಸಿದ್ಧ ಇತಿಹಾಸಪೂರ್ವ ತಾಣವಾದ 'ಭೀಮ್‌ಬೆಟ್ಕಾ' ಭಾರತದ ಪ್ರಸ್ತುತ ಯಾವ ರಾಜ್ಯದಲ್ಲಿದೆ?",
+      "options": [
+        "ಮಧ್ಯಪ್ರದೇಶ",
+        "ಕರ್ನಾಟಕ",
+        "ಮಹಾರಾಷ್ಟ್ರ",
+        "ತಮಿಳುನಾಡು"
+      ],
+      "answer": "ಮಧ್ಯಪ್ರದೇಶ",
+      "reasoning": "ಭೀಮ್‌ಬೆಟ್ಕಾ ಶಿಲಾ ಗುಹೆಗಳು ಪ್ರಸ್ತುತ ಮಧ್ಯಪ್ರದೇಶದಲ್ಲಿವೆ. ಇವು ಆರಂಭಿಕ ಮಾನವರು ಬಿಡಿಸಿದ ಪ್ರಸಿದ್ಧ ಇತಿಹಾಸಪೂರ್ವ ಗುಹೆ ವರ್ಣಚಿತ್ರಗಳನ್ನು ಹೊಂದಿವೆ."
+    }
+  },
+  {
+    "id": "c6_his_hunt_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What were the tiny stone tools used during the Mesolithic (Middle Stone) period called?",
+      "options": [
+        "Microliths",
+        "Hand axes",
+        "Plowshares",
+        "Iron swords"
+      ],
+      "answer": "Microliths",
+      "reasoning": "Stone tools found during the Mesolithic period are generally tiny, and are called microliths. They were probably stuck on handles of bone or wood to make saws and arrows."
+    },
+    "kn": {
+      "question": "ಮಧ್ಯಶಿಲಾಯುಗದಲ್ಲಿ (Mesolithic) ಬಳಸುತ್ತಿದ್ದ ಸಣ್ಣ ಕಲ್ಲಿನ ಉಪಕರಣಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಮೈಕ್ರೋಲಿತ್ಸ್ (ಸೂಕ್ಷ್ಮಶಿಲೆಗಳು)",
+        "ಕೈ ಕೊಡಲಿಗಳು",
+        "ನೇಗಿಲುಗಳು",
+        "ಕಬ್ಬಿಣದ ಕತ್ತಿಗಳು"
+      ],
+      "answer": "ಮೈಕ್ರೋಲಿತ್ಸ್ (ಸೂಕ್ಷ್ಮಶಿಲೆಗಳು)",
+      "reasoning": "ಮಧ್ಯಶಿಲಾಯುಗದಲ್ಲಿ ಕಂಡುಬಂದ ಕಲ್ಲಿನ ಉಪಕರಣಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಚಿಕ್ಕದಾಗಿದ್ದವು, ಇವುಗಳನ್ನು ಮೈಕ್ರೋಲಿತ್ಸ್ (ಸೂಕ್ಷ್ಮಶಿಲೆಗಳು) ಎನ್ನಲಾಗುತ್ತದೆ. ಇವುಗಳನ್ನು ಮೂಳೆ ಅಥವಾ ಮರದ ಹಿಡಿಕೆಗಳಿಗೆ ಜೋಡಿಸಿ ಗರಗಸ ಮತ್ತು ಬಾಣಗಳನ್ನು ಮಾಡುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_his_hunt_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Why did early humans paint on the walls of caves in sites like Bhimbetka?",
+      "options": [
+        "To depict wild animals, hunting scenes, and express their lifestyle",
+        "To sell the drawings as commercial art to nearby tribes",
+        "To teach modern historians how to write alphabets",
+        "To protect the rock surfaces from erosion and rain"
+      ],
+      "answer": "To depict wild animals, hunting scenes, and express their lifestyle",
+      "reasoning": "Cave paintings show animals like wild boars, bison, and deer drawn with great accuracy, reflecting the hunting lifestyle of early humans."
+    },
+    "kn": {
+      "question": "ಭೀಮ್‌ಬೆಟ್ಕಾದಂತಹ ಸ್ಥಳಗಳಲ್ಲಿ ಆರಂಭಿಕ ಮಾನವರು ಗುಹೆಗಳ ಗೋಡೆಗಳ ಮೇಲೆ ಏಕೆ ಚಿತ್ರಗಳನ್ನು ಬಿಡಿಸುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಕಾಡು ಪ್ರಾಣಿಗಳು, ಬೇಟೆಯ ದೃಶ್ಯಗಳು ಮತ್ತು ತಮ್ಮ ಜೀವನಶೈಲಿಯನ್ನು ಬಿಂಬಿಸಲು",
+        "ಚಿತ್ರಗಳನ್ನು ನೆರೆಯ ಪಂಗಡಗಳಿಗೆ ವಾಣಿಜ್ಯ ಕಲೆಯಾಗಿ ಮಾರಾಟ ಮಾಡಲು",
+        "ಆಧುನಿಕ ಇತಿಹಾಸಕಾರರಿಗೆ ಅಕ್ಷರಗಳನ್ನು ಬರೆಯಲು ಕಲಿಸಲು",
+        "ಬಂಡೆಗಳ ಮೇಲ್ಮೈಯನ್ನು ಮಳೆ ಮತ್ತು ಸವೆತದಿಂದ ರಕ್ಷಿಸಲು"
+      ],
+      "answer": "ಕಾಡು ಪ್ರಾಣಿಗಳು, ಬೇಟೆಯ ದೃಶ್ಯಗಳು ಮತ್ತು ತಮ್ಮ ಜೀವನಶೈಲಿಯನ್ನು ಬಿಂಬಿಸಲು",
+      "reasoning": "ಗುಹೆ ವರ್ಣಚಿತ್ರಗಳು ಕಾಡುಹಂದಿ, ಕಾಡುಕೋಣ ಮತ್ತು ಜಿಂಕೆಗಳಂತಹ ಪ್ರಾಣಿಗಳನ್ನು ಅತ್ಯಂತ ನಿಖರವಾಗಿ ಚಿತ್ರಿಸುತ್ತವೆ. ಇವು ಅವರ ಬೇಟೆಯಾಡುವ ಜೀವನಶೈಲಿಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_his_hunt_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which Neolithic site in present-day Kashmir is famous for pit-houses dug into the ground with steps leading into them?",
+      "options": [
+        "Burzahom",
+        "Mehrgarh",
+        "Hunsgi",
+        "Kurnool"
+      ],
+      "answer": "Burzahom",
+      "reasoning": "In Burzahom (in present-day Jammu and Kashmir), people built pit-houses, which were dug into the ground, with steps leading into them. These may have provided shelter in cold weather."
+    },
+    "kn": {
+      "question": "ನೆಲದಡಿಯಲ್ಲಿ ತೋಡಿದ ಮೆಟ್ಟಿಲುಗಳುಳ್ಳ ಹಳ್ಳ-ಮನೆಗಳಿಗೆ (pit-houses) ಪ್ರಸಿದ್ಧವಾದ ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರದ ನವಶಿಲಾಯುಗದ ತಾಣ ಯಾವುದು?",
+      "options": [
+        "ಬುರ್ಜಾಹೋಮ್",
+        "ಮೆಹರ್‌ಗಢ್",
+        "ಹುಣಸಗಿ",
+        "ಕರ್ನೂಲ್"
+      ],
+      "answer": "ಬುರ್ಜಾಹೋಮ್",
+      "reasoning": "ಬುರ್ಜಾಹೋಮ್‌ನಲ್ಲಿ (ಪ್ರಸ್ತುತ ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರದಲ್ಲಿದೆ) ಜನರು ನೆಲದಡಿಯಲ್ಲಿ ಮೆಟ್ಟಿಲುಗಳುಳ್ಳ ಹಳ್ಳ-ಮನೆಗಳನ್ನು ನಿರ್ಮಿಸಿದ್ದರು. ಇವು ಚಳಿಗಾಲದಲ್ಲಿ ಆಶ್ರಯ ನೀಡುತ್ತಿದ್ದವು."
+    }
+  },
+  {
+    "id": "c6_his_hunt_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the term used for the process in which people plant seeds, grow crops, and look after animals?",
+      "options": [
+        "Domestication",
+        "Excavation",
+        "Industrialization",
+        "Urbanization"
+      ],
+      "answer": "Domestication",
+      "reasoning": "Domestication is the name given to the process in which people grow plants and look after animals. The plants and animals become different from wild ones over time."
+    },
+    "kn": {
+      "question": "ಜನರು ಬೀಜಗಳನ್ನು ಬಿತ್ತಿ, ಬೆಳೆಗಳನ್ನು ಬೆಳೆಸಿ ಮತ್ತು ಪ್ರಾಣಿಗಳನ್ನು ಪಾಲಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ಪಳಗಿಸುವಿಕೆ (Domestication)",
+        "ಉತ್ಖನನ (Excavation)",
+        "ಕೈಗಾರಿಕೀಕರಣ",
+        "ನಗರೀಕರಣ"
+      ],
+      "answer": "ಪಳಗಿಸುವಿಕೆ (Domestication)",
+      "reasoning": "ಜನರು ಸಸ್ಯಗಳನ್ನು ಬೆಳೆಸುವ ಮತ್ತು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿಕೊಳ್ಳುವ ಪ್ರಕ್ರಿಯೆಗೆ ಪಳಗಿಸುವಿಕೆ ಎಂದು ಹೆಸರು. ಈ ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿಗಳು ಕಾಡು ತಳಿಗಳಿಗಿಂತ ಭಿನ್ನವಾಗಿರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_his_hunt_007",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In which cave site in Andhra Pradesh did archaeologists find traces of ash, showing that Paleolithic people used fire?",
+      "options": [
+        "Kurnool Caves",
+        "Ajanta Caves",
+        "Ellora Caves",
+        "Bhimbetka Caves"
+      ],
+      "answer": "Kurnool Caves",
+      "reasoning": "Traces of ash have been found in the Kurnool caves in Andhra Pradesh. This suggests that people were familiar with the use of fire, which was used for light, cooking meat, and scaring animals."
+    },
+    "kn": {
+      "question": "ಆಂಧ್ರಪ್ರದೇಶದ ಯಾವ ಗುಹಾ ತಾಣದಲ್ಲಿ ಪುರಾತತ್ವಶಾಸ್ತ್ರಜ್ಞರು ಬೂದಿಯ ಕುರುಹುಗಳನ್ನು ಕಂಡುಕೊಂಡರು, ಇದು ಪ್ರಾಚೀನ ಶಿಲಾಯುಗದ ಮಾನವರು ಬೆಂಕಿಯ ಬಳಕೆ ಕಲಿತಿದ್ದರು ಎಂಬುದನ್ನು ಸಾಬೀತುಪಡಿಸುತ್ತದೆ?",
+      "options": [
+        "ಕರ್ನೂಲ್ ಗುಹೆಗಳು",
+        "ಅಜಂತಾ ಗುಹೆಗಳು",
+        "ಎಲ್ಲೋರಾ ಗುಹೆಗಳು",
+        "ಭೀಮ್‌ಬೆಟ್ಕಾ ಗುಹೆಗಳು"
+      ],
+      "answer": "ಕರ್ನೂಲ್ ಗುಹೆಗಳು",
+      "reasoning": "ಆಂಧ್ರಪ್ರದೇಶದ ಕರ್ನೂಲ್ ಗುಹೆಗಳಲ್ಲಿ ಬೂದಿಯ ಕುರುಹುಗಳು ಪತ್ತೆಯಾಗಿವೆ. ಇದು ಜನರು ಬೆಂಕಿಯ ಬಳಕೆಯನ್ನು ರೂಢಿಸಿಕೊಂಡಿದ್ದರು ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ. ಇದನ್ನು ಬೆಳಕು ಪಡೆಯಲು, ಆಹಾರ ಬೇಯಿಸಲು ಮತ್ತು ಪ್ರಾಣಿಗಳನ್ನು ಹೆದರಿಸಲು ಬಳಸುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_his_hunt_008",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Around 12,000 years ago, what major change in the Earth's environment led to the development of grasslands?",
+      "options": [
+        "A shift to relatively warm conditions",
+        "An ice age with global freezing",
+        "Volcanic eruptions across all continents",
+        "A sudden decrease in global temperatures"
+      ],
+      "answer": "A shift to relatively warm conditions",
+      "reasoning": "Around 12,000 years ago, there were major changes in the climate of the world, with a shift to relatively warm conditions. This led, in many areas, to the development of grasslands."
+    },
+    "kn": {
+      "question": "ಸುಮಾರು 12,000 ವರ್ಷಗಳ ಹಿಂದೆ ಭೂಮಿಯ ಹವಾಮಾನದಲ್ಲಾದ ಯಾವ ಪ್ರಮುಖ ಬದಲಾವಣೆಯು ಹುಲ್ಲುಗಾವಲುಗಳ ಬೆಳವಣಿಗೆಗೆ ಕಾರಣವಾಯಿತು?",
+      "options": [
+        "ಹವಾಮಾನವು ಬೆಚ್ಚಗಿನ ಪರಿಸ್ಥಿತಿಗೆ ಬದಲಾಗಿದ್ದು",
+        "ಜಾಗತಿಕವಾಗಿ ಹಿಮಯುಗ ಪ್ರಾರಂಭವಾಗಿದ್ದು",
+        "ಎಲ್ಲಾ ಖಂಡಗಳಲ್ಲಿ ಜ್ವಾಲಾಮುಖಿ ಸ್ಪೋಟಗಳು ಸಂಭವಿಸಿದ್ದು",
+        "ಜಾಗತಿಕ ತಾಪಮಾನದಲ್ಲಿ ಹಠಾತ್ ಕುಸಿತ ಉಂಟಾಗಿದ್ದು"
+      ],
+      "answer": "ಹವಾಮಾನವು ಬೆಚ್ಚಗಿನ ಪರಿಸ್ಥಿತಿಗೆ ಬದಲಾಗಿದ್ದು",
+      "reasoning": "ಸುಮಾರು 12,000 ವರ್ಷಗಳ ಹಿಂದೆ ಪ್ರಪಂಚದ ಹವಾಮಾನದಲ್ಲಿ ಪ್ರಮುಖ ಬದಲಾವಣೆಗಳು ಉಂಟಾಗಿ, ಉಷ್ಣಾಂಶವು ಹೆಚ್ಚಾಯಿತು. ಇದು ಅನೇಕ ಪ್ರದೇಶಗಳಲ್ಲಿ ಹುಲ್ಲುಗಾವಲುಗಳ ಬೆಳವಣಿಗೆಗೆ ಕಾರಣವಾಯಿತು."
+    }
+  },
+  {
+    "id": "c6_his_hunt_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why did early hunter-gatherers travel from place to place?",
+      "options": [
+        "To find fresh resources of plants/water and follow the movement of animals",
+        "To buy manufactured metal goods from other regional centers",
+        "To pay taxes to the ruling emperors in different provinces",
+        "To find better internet connection for their mobile devices"
+      ],
+      "answer": "To find fresh resources of plants/water and follow the movement of animals",
+      "reasoning": "Hunter-gatherers moved because staying in one place would exhaust plant and animal resources. They also had to follow the migrations of animals they hunted, and search for water in seasonal water bodies."
+    },
+    "kn": {
+      "question": "ಆರಂಭಿಕ ಬೇಟೆಗಾರ-ಸಂಗ್ರಹಕಾರರು ಒಂದೆಡೆಯಿಂದ ಮತ್ತೊಂದೆಡೆಗೆ ಏಕೆ ವಲಸೆ ಹೋಗುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಹೊಸ ಸಸ್ಯ/ನೀರಿನ ಮೂಲಗಳನ್ನು ಹುಡುಕಲು ಮತ್ತು ಪ್ರಾಣಿಗಳ ವಲಸೆಯನ್ನು ಹಿಂಬಾಲಿಸಲು",
+        "ಇತರ ಪ್ರಾದೇಶಿಕ ಕೇಂದ್ರಗಳಿಂದ ಸಿದ್ಧಪಡಿಸಿದ ಲೋಹದ ಸರಕುಗಳನ್ನು ಖರೀದಿಸಲು",
+        "ವಿವಿಧ ಪ್ರಾಂತ್ಯಗಳಲ್ಲಿ ಆಳುವ ಚಕ್ರವರ್ತಿಗಳಿಗೆ ತೆರಿಗೆ ಪಾವತಿಸಲು",
+        "ತಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನಗಳಿಗೆ ಉತ್ತಮ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವನ್ನು ಹುಡುಕಲು"
+      ],
+      "answer": "ಹೊಸ ಸಸ್ಯ/ನೀರಿನ ಮೂಲಗಳನ್ನು ಹುಡುಕಲು ಮತ್ತು ಪ್ರಾಣಿಗಳ ವಲಸೆಯನ್ನು ಹಿಂಬಾಲಿಸಲು",
+      "reasoning": "ಬೇಟೆಗಾರ-ಸಂಗ್ರಹಕಾರರು ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ ಉಳಿದರೆ ಸಸ್ಯಗಳು ಮತ್ತು ಪ್ರಾಣಿಗಳ ಸಂಪನ್ಮೂಲಗಳು ಖಾಲಿಯಾಗುತ್ತಿದ್ದವು. ಅವರು ತಾವು ಬೇಟೆಯಾಡುವ ಪ್ರಾಣಿಗಳ ವಲಸೆಯನ್ನು ಹಿಂಬಾಲಿಸಬೇಕಾಗಿತ್ತು ಮತ್ತು ಕಾಲೋಚಿತ ಜಲಮೂಲಗಳಲ್ಲಿ ನೀರನ್ನು ಹುಡುಕಬೇಕಾಗಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_hunt_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which prehistoric site near the Bolan Pass in Pakistan is known as one of the earliest villages where people grew wheat and barley?",
+      "options": [
+        "Mehrgarh",
+        "Daojali Hading",
+        "Burzahom",
+        "Hunsgi"
+      ],
+      "answer": "Mehrgarh",
+      "reasoning": "Mehrgarh is located in a fertile plain, near the Bolan Pass, which is one of the most important routes into Iran. It is one of the earliest villages where people learned to grow barley and wheat."
+    },
+    "kn": {
+      "question": "ಪಾಕಿಸ್ತಾನದ ಬೋಲನ್ ಕಣಿವೆಯ ಬಳಿ ಇರುವ ಯಾವ ಇತಿಹಾಸಪೂರ್ವ ತಾಣವು ಜನರು ಗೋಧಿ ಮತ್ತು ಬಾರ್ಲಿಯನ್ನು ಬೆಳೆದ ಅತ್ಯಂತ ಆರಂಭಿಕ ಹಳ್ಳಿಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ?",
+      "options": [
+        "ಮೆಹರ್‌ಗಢ್",
+        "ದಾವೋಜಲಿ ಹ್ಯಾಡಿಂಗ್",
+        "ಬುರ್ಜಾಹೋಮ್",
+        "ಹುಣಸಗಿ"
+      ],
+      "answer": "ಮೆಹರ್‌ಗಢ್",
+      "reasoning": "ಮೆಹರ್‌ಗಢ್ ಇರಾನ್‌ಗೆ ಹೋಗುವ ಪ್ರಮುಖ ಮಾರ್ಗವಾದ ಬೋಲನ್ ಕಣಿವೆಯ ಬಳಿ ಫಲವತ್ತಾದ ಬಯಲಿನಲ್ಲಿದೆ. ಜನರು ಬಾರ್ಲಿ ಮತ್ತು ಗೋಧಿ ಬೆಳೆಯಲು ಕಲಿತ ಅತ್ಯಂತ ಆರಂಭಿಕ ಹಳ್ಳಿಗಳಲ್ಲಿ ಇದು ಒಂದಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_his_hunt_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In Mehrgarh burials, dead persons were sometimes buried with goats. What does this indicate about their beliefs?",
+      "options": [
+        "They believed in life after death where the goat would serve as food",
+        "Goats were buried to prevent wild animals from digging up graves",
+        "They believed that goats would carry the soul of the dead to heaven",
+        "It was done to dispose of extra goats in the village"
+      ],
+      "answer": "They believed in life after death where the goat would serve as food",
+      "reasoning": "Burials at Mehrgarh show dead people buried with goats. This was probably meant to serve as food for the deceased in the next world, showing a belief in life after death."
+    },
+    "kn": {
+      "question": "ಮೆಹರ್‌ಗಢ್‌ನ ಶವಸಂಸ್ಕಾರದ ಸ್ಥಳಗಳಲ್ಲಿ ಸತ್ತ ವ್ಯಕ್ತಿಯೊಂದಿಗೆ ಮೇಕೆಗಳನ್ನು ಹೂಳಲಾಗಿತ್ತು. ಇದು ಅವರ ಯಾವ ನಂಬಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": [
+        "ಮರಣದ ನಂತರದ ಜೀವನದಲ್ಲಿ ಈ ಮೇಕೆಯು ಆಹಾರವಾಗಿ ಪರಿಣಮಿಸುತ್ತದೆ ಎಂದು ಅವರು ನಂಬಿದ್ದರು",
+        "ಕಾಡು ಪ್ರಾಣಿಗಳು ಗೋರಿಗಳನ್ನು ಅಗೆಯದಂತೆ ತಡೆಯಲು ಮೇಕೆಗಳನ್ನು ಹೂಳಲಾಗುತ್ತಿತ್ತು",
+        "ಮೇಕೆಯು ಸತ್ತವರ ಆತ್ಮವನ್ನು ಸ್ವರ್ಗಕ್ಕೆ ಕೊಂಡೊಯ್ಯುತ್ತದೆ ಎಂದು ಅವರು ನಂಬಿದ್ದರು",
+        "ಹಳ್ಳಿಯಲ್ಲಿ ಹೆಚ್ಚುವರಿಯಾಗಿದ್ದ ಮೇಕೆಗಳನ್ನು ವಿಲೇವಾರಿ ಮಾಡಲು ಹೀಗೆ ಮಾಡಲಾಗುತ್ತಿತ್ತು"
+      ],
+      "answer": "ಮರಣದ ನಂತರದ ಜೀವನದಲ್ಲಿ ಈ ಮೇಕೆಯು ಆಹಾರವಾಗಿ ಪರಿಣಮಿಸುತ್ತದೆ ಎಂದು ಅವರು ನಂಬಿದ್ದರು",
+      "reasoning": "ಮೆಹರ್‌ಗಢ್‌ನಲ್ಲಿ ಸತ್ತವರೊಂದಿಗೆ ಮೇಕೆಗಳನ್ನು ಹೂಳಿದ ಅವಶೇಷಗಳು ಸಿಕ್ಕಿವೆ. ಇದು ಸತ್ತ ವ್ಯಕ್ತಿಗೆ ಮುಂದಿನ ಜಗತ್ತಿನಲ್ಲಿ ಆಹಾರವಾಗಿ ಬಳಸಲು ಇಡಲಾಗುತ್ತಿತ್ತು. ಇದು ಸಾವಿನ ನಂತರದ ಜೀವನದ ಮೇಲಿನ ನಂಬಿಕೆಯನ್ನು ಬಿಂಬಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_his_hunt_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "At the Neolithic site Daojali Hading in Assam, jadeite stone was found. Where do archaeologists think this stone came from?",
+      "options": [
+        "China",
+        "Europe",
+        "Africa",
+        "South America"
+      ],
+      "answer": "China",
+      "reasoning": "At Daojali Hading near the Brahmaputra Valley, jadeite, a stone that may have been brought from China, was found, showing links of trade or migration."
+    },
+    "kn": {
+      "question": "ಅಸ್ಸಾಂನ ದಾವೋಜಲಿ ಹ್ಯಾಡಿಂಗ್‌ನ ನವಶಿಲಾಯುಗದ ತಾಣದಲ್ಲಿ ಪತ್ತೆಯಾದ 'ಜೇಡೈಟ್' ಕಲ್ಲು ಎಲ್ಲಿಂದ ಬಂದಿರಬಹುದು ಎಂದು ಪುರಾತತ್ವಶಾಸ್ತ್ರಜ್ಞರು ಊಹಿಸುತ್ತಾರೆ?",
+      "options": [
+        "ಚೀನಾ",
+        "ಯುರೋಪ್",
+        "ಆಫ್ರಿಕಾ",
+        "ದಕ್ಷಿಣ ಅಮೆರಿಕ"
+      ],
+      "answer": "ಚೀನಾ",
+      "reasoning": "ಬ್ರಹ್ಮಪುತ್ರ ಕಣಿವೆಯ ಸಮೀಪವಿರುವ ದಾವೋಜಲಿ ಹ್ಯಾಡಿಂಗ್‌ನಲ್ಲಿ ಜೇಡೈಟ್ ಎಂಬ ಕಲ್ಲು ಸಿಕ್ಕಿದೆ. ಇದು ಚೀನಾದಿಂದ ತಂದಿರಬಹುದು ಎಂದು ಊಹಿಸಲಾಗಿದೆ, ಇದು ಅಂದಿನ ವ್ಯಾಪಾರ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_his_hunt_013",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which Paleolithic site located in the Yadgir district of Karnataka shows evidence of stone tool manufacturing using local limestone?",
+      "options": [
+        "Hunsgi",
+        "Hallur",
+        "Paiyampalli",
+        "Tekkalakota"
+      ],
+      "answer": "Hunsgi",
+      "reasoning": "Hunsgi, located in Yadgir district of Karnataka, was a major Paleolithic site where a large number of stone tools were manufactured. Most tools were made of local limestone."
+    },
+    "kn": {
+      "question": "ಕರ್ನಾಟಕದ ಯಾದಗಿರಿ ಜಿಲ್ಲೆಯಲ್ಲಿರುವ ಯಾವ ಪ್ರಾಚೀನ ಶಿಲಾಯುಗದ ತಾಣದಲ್ಲಿ ಸ್ಥಳೀಯ ಸುಣ್ಣದಕಲ್ಲನ್ನು ಬಳಸಿ ಕಲ್ಲಿನ ಉಪಕರಣಗಳನ್ನು ತಯಾರಿಸುತ್ತಿದ್ದ ಪುರಾವೆಗಳಿವೆ?",
+      "options": [
+        "ಹುಣಸಗಿ",
+        "ಹಳ್ಳೂರು",
+        "ಪೈಯಂಪಳ್ಳಿ",
+        "ಟೆಕ್ಕಲಕೋಟೆ"
+      ],
+      "answer": "ಹುಣಸಗಿ",
+      "reasoning": "ಕರ್ನಾಟಕದ ಯಾದಗಿರಿ ಜಿಲ್ಲೆಯಲ್ಲಿರುವ ಹುಣಸಗಿಯು ಪ್ರಮುಖ ಪ್ರಾಚೀನ ಶಿಲಾಯುಗದ ತಾಣವಾಗಿದೆ. ಇಲ್ಲಿ ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಯ ಕಲ್ಲಿನ ಉಪಕರಣಗಳನ್ನು ತಯಾರಿಸಲಾಗುತ್ತಿತ್ತು. ಹೆಚ್ಚಿನ ಉಪಕರಣಗಳು ಸ್ಥಳೀಯ ಸುಣ್ಣದಕಲ್ಲಿನಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದ್ದವು."
+    }
+  },
+  {
+    "id": "c6_his_hunt_014",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What traits did early farmers look for when selecting wild plants to domesticate?",
+      "options": [
+        "Plants that yield large grains and have strong stalks to support mature grain",
+        "Plants that grow in the shade and have very thin leaves",
+        "Plants that produce flowers of different bright colors",
+        "Plants that grow without any water in dry deserts"
+      ],
+      "answer": "Plants that yield large grains and have strong stalks to support mature grain",
+      "reasoning": "Early farmers selected plants that yield large-sized grain and have strong stalks, capable of bearing the weight of the ripe grain. They also saved seeds from these plants for the next crop."
+    },
+    "kn": {
+      "question": "ಆರಂಭಿಕ ರೈತರು ಕಾಡು ಸಸ್ಯಗಳನ್ನು ಪಳಗಿಸಲು ಆಯ್ಕೆ ಮಾಡುವಾಗ ಯಾವ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಗಮನಿಸುತ್ತಿದ್ದರು?",
+      "options": [
+        "ದೊಡ್ಡ ಗಾತ್ರದ ಧಾನ್ಯಗಳನ್ನು ನೀಡುವ ಮತ್ತು ಬೆಳೆದ ಧಾನ್ಯಗಳ ತೂಕವನ್ನು ತಡೆದುಕೊಳ್ಳುವ ಬಲವಾದ ದಂಟನ್ನು ಹೊಂದಿರುವ ಸಸ್ಯಗಳು",
+        "ನೆರಳಿನಲ್ಲಿ ಬೆಳೆಯುವ ಮತ್ತು ಅತ್ಯಂತ ತೆಳುವಾದ ಎಲೆಗಳನ್ನು ಹೊಂದಿರುವ ಸಸ್ಯಗಳು",
+        "ವಿವಿಧ ಗಾಢ ಬಣ್ಣದ ಹೂವುಗಳನ್ನು ಬಿಡುವ ಸಸ್ಯಗಳು",
+        "ಒಣ ಮರುಭೂಮಿಗಳಲ್ಲಿ ನೀರಿಲ್ಲದೆ ಬೆಳೆಯುವ ಸಸ್ಯಗಳು"
+      ],
+      "answer": "ದೊಡ್ಡ ಗಾತ್ರದ ಧಾನ್ಯಗಳನ್ನು ನೀಡುವ ಮತ್ತು ಬೆಳೆದ ಧಾನ್ಯಗಳ ತೂಕವನ್ನು ತಡೆದುಕೊಳ್ಳುವ ಬಲವಾದ ದಂಟನ್ನು ಹೊಂದಿರುವ ಸಸ್ಯಗಳು",
+      "reasoning": "ಆರಂಭಿಕ ರೈತರು ದೊಡ್ಡ ಗಾತ್ರದ ಧಾನ್ಯಗಳನ್ನು ನೀಡುವ ಮತ್ತು ಬೆಳೆದ ಧಾನ್ಯಗಳ ತೂಕ ಹೊರಬಲ್ಲ ಬಲವಾದ ದಂಟನ್ನು ಹೊಂದಿರುವ ಸಸ್ಯಗಳನ್ನು ಆರಿಸಿಕೊಂಡರು. ಮುಂದಿನ ಕೃಷಿಗಾಗಿ ಅವುಗಳ ಬೀಜಗಳನ್ನು ಸಂಗ್ರಹಿಸಿಟ್ಟರು."
+    }
+  },
+  {
+    "id": "c6_his_hunt_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why did people in Burzahom dig pit-houses with steps leading down into the soil?",
+      "options": [
+        "To provide insulation and shelter from freezing winter cold",
+        "To escape from the heat of the summer sun in Central India",
+        "To hide from invading armies from central Asia",
+        "To store extra gold and copper ornaments"
+      ],
+      "answer": "To provide insulation and shelter from freezing winter cold",
+      "reasoning": "Burzahom is in Kashmir, which experiences very cold winters. Dug-out pit-houses with hearths (fireplaces) inside and outside allowed people to live and cook indoors during freezing weather."
+    },
+    "kn": {
+      "question": "ಬುರ್ಜಾಹೋಮ್‌ನ ಜನರು ಮಣ್ಣಿನ ಕೆಳಗೆ ಮೆಟ್ಟಿಲುಗಳನ್ನು ಹೊಂದಿರುವ ಹಳ್ಳ-ಮನೆಗಳನ್ನು (pit-houses) ಏಕೆ ನಿರ್ಮಿಸಿದರು?",
+      "options": [
+        "ಚಳಿಗಾಲದ ತೀವ್ರ ಚಳಿಯಿಂದ ರಕ್ಷಣೆ ಮತ್ತು ಬೆಚ್ಚಗಿನ ಆಶ್ರಯ ಪಡೆಯಲು",
+        "ಮಧ್ಯ ಭಾರತದ ಬೇಸಿಗೆಯ ಬಿಸಿಲಿನ ತಾಪದಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು",
+        "ಮಧ್ಯ ಏಷ್ಯಾದಿಂದ ಆಕ್ರಮಣ ಮಾಡುವ ಸೈನ್ಯದಿಂದ ಅಡಗಿಕೊಳ್ಳಲು",
+        "ಹೆಚ್ಚುವರಿ ಚಿನ್ನ ಮತ್ತು ತಾಮ್ರದ ಆಭರಣಗಳನ್ನು ಸಂಗ್ರಹಿಸಲು"
+      ],
+      "answer": "ಚಳಿಗಾಲದ ತೀವ್ರ ಚಳಿಯಿಂದ ರಕ್ಷಣೆ ಮತ್ತು ಬೆಚ್ಚಗಿನ ಆಶ್ರಯ ಪಡೆಯಲು",
+      "reasoning": "ಬುರ್ಜಾಹೋಮ್ ಕಾಶ್ಮೀರದಲ್ಲಿದೆ, ಇಲ್ಲಿ ಚಳಿಗಾಲ ಅತ್ಯಂತ ಶೀತಲವಾಗಿರುತ್ತದೆ. ಒಳಗೆ ಮತ್ತು ಹೊರಗೆ ಒಲೆಗಳನ್ನು ಹೊಂದಿದ್ದ ಹಳ್ಳ-ಮನೆಗಳು ಶೀತಲ ಹವಾಮಾನದಲ್ಲಿ ಜನರು ಒಳಗೆ ವಾಸಿಸಲು ಮತ್ತು ಅಡುಗೆ ಮಾಡಲು ಸಹಾಯ ಮಾಡಿದವು."
+    }
+  },
+  {
+    "id": "c6_his_hunt_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the archaeological significance of mortars and pestles found at Neolithic sites?",
+      "options": [
+        "They show that people ground grains and plant produce, reflecting a farming diet",
+        "They were used as weapons to fight wild animals",
+        "They show that people used to play ancient sports",
+        "They were used for melting copper and iron ores"
+      ],
+      "answer": "They show that people ground grains and plant produce, reflecting a farming diet",
+      "reasoning": "Mortars and pestles were developed in the Neolithic period for grinding grain and other plant produce. This reflects a transition to agriculture, as food was cooked and processed."
+    },
+    "kn": {
+      "question": "ನವಶಿಲಾಯುಗದ ತಾಣಗಳಲ್ಲಿ ಕಂಡುಬರುವ ಒರಳು ಮತ್ತು ಮುಸಲಗಳ (mortars and pestles) ಪುರಾತತ್ವ ಪ್ರಾಮುಖ್ಯತೆ ಏನು?",
+      "options": [
+        "ಜನರು ಧಾನ್ಯಗಳು ಮತ್ತು ಸಸ್ಯ ಉತ್ಪನ್ನಗಳನ್ನು ರುಬ್ಬುತ್ತಿದ್ದರು ಎಂಬುದನ್ನು ಇವು ತೋರಿಸುತ್ತವೆ, ಇದು ಕೃಷಿ ಆಧಾರಿತ ಆಹಾರ ಪದ್ಧತಿಯನ್ನು ಬಿಂಬಿಸುತ್ತದೆ",
+        "ಅವುಗಳನ್ನು ಕಾಡು ಪ್ರಾಣಿಗಳೊಂದಿಗೆ ಹೋರಾಡಲು ಆಯುಧಗಳಾಗಿ ಬಳಸಲಾಗುತ್ತಿತ್ತು",
+        "ಜನರು ಪ್ರಾಚೀನ ಕ್ರೀಡೆಗಳನ್ನು ಆಡುತ್ತಿದ್ದರು ಎಂಬುದನ್ನು ಇವು ತೋರಿಸುತ್ತವೆ",
+        "ಅವುಗಳನ್ನು ತಾಮ್ರ ಮತ್ತು ಕಬ್ಬಿಣದ ಅದಿರುಗಳನ್ನು ಕರಗಿಸಲು ಬಳಸಲಾಗುತ್ತಿತ್ತು"
+      ],
+      "answer": "ಜನರು ಧಾನ್ಯಗಳು ಮತ್ತು ಸಸ್ಯ ಉತ್ಪನ್ನಗಳನ್ನು ರುಬ್ಬುತ್ತಿದ್ದರು ಎಂಬುದನ್ನು ಇವು ತೋರಿಸುತ್ತವೆ, ಇದು ಕೃಷಿ ಆಧಾರಿತ ಆಹಾರ ಪದ್ಧತಿಯನ್ನು ಬಿಂಬಿಸುತ್ತದೆ",
+      "reasoning": "ನವಶಿಲಾಯುಗದಲ್ಲಿ ಧಾನ್ಯಗಳು ಮತ್ತು ಇತರ ಸಸ್ಯ ಉತ್ಪನ್ನಗಳನ್ನು ಪುಡಿ ಮಾಡಲು ಒರಳು ಮತ್ತು ಮುಸಲಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಲಾಯಿತು. ಇದು ಕೃಷಿಗೆ ಬದಲಾದ ಮತ್ತು ಆಹಾರ ಬೇಯಿಸುವ ಹಂತಕ್ಕೆ ತಲುಪಿದ ಮಾನವನ ಪ್ರಗತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_his_hunt_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How did the transition to agriculture change the lifestyle and material culture of humans regarding storage?",
+      "options": [
+        "They began making large clay pots, weaving baskets, and digging pits for storage",
+        "They stopped making pottery and started using metal bins exclusively",
+        "They built large brick towers to protect grains from rain",
+        "They started using refrigerated containers to preserve cooked food"
+      ],
+      "answer": "They began making large clay pots, weaving baskets, and digging pits for storage",
+      "reasoning": "As crops provided surplus grains, humans had to find ways to store them. They began making large clay pots, weaving baskets, and digging storage pits into the ground."
+    },
+    "kn": {
+      "question": "ಕೃಷಿ ಕ್ರಾಂತಿಯು ಧಾನ್ಯ ಸಂಗ್ರಹಣೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಮಾನವರ ಜೀವನಶೈಲಿ ಮತ್ತು ವಸ್ತು ಸಂಸ್ಕೃತಿಯನ್ನು ಹೇಗೆ ಬದಲಾಯಿಸಿತು?",
+      "options": [
+        "ಅವರು ದೊಡ್ಡ ಮಣ್ಣಿನ ಮಡಕೆಗಳನ್ನು ಮಾಡಲು, ಬುಟ್ಟಿಗಳನ್ನು ಹೆಣೆಯಲು ಮತ್ತು ನೆಲದಲ್ಲಿ ಹಳ್ಳಗಳನ್ನು ತೋಡಲು ಪ್ರಾರಂಭಿಸಿದರು",
+        "ಅವರು ಮಡಕೆಗಳನ್ನು ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸಿ ಕೇವಲ ಲೋಹದ ಪೆಟ್ಟಿಗೆಗಳನ್ನು ಬಳಸಲಾರಂಭಿಸಿದರು",
+        "ಮಳೆಯಿಂದ ಧಾನ್ಯಗಳನ್ನು ರಕ್ಷಿಸಲು ಅವರು ದೊಡ್ಡ ಇಟ್ಟಿಗೆ ಗೋಪುರಗಳನ್ನು ನಿರ್ಮಿಸಿದರು",
+        "ಬೇಯಿಸಿದ ಆಹಾರವನ್ನು ಸಂರಕ್ಷಿಸಲು ಅವರು ಶೈತ್ಯೀಕರಣದ ಕಂಟೈನರ್‌ಗಳನ್ನು ಬಳಸಲಾರಂಭಿಸಿದರು"
+      ],
+      "answer": "ಅವರು ದೊಡ್ಡ ಮಣ್ಣಿನ ಮಡಕೆಗಳನ್ನು ಮಾಡಲು, ಬುಟ್ಟಿಗಳನ್ನು ಹೆಣೆಯಲು ಮತ್ತು ನೆಲದಲ್ಲಿ ಹಳ್ಳಗಳನ್ನು ತೋಡಲು ಪ್ರಾರಂಭಿಸಿದರು",
+      "reasoning": "ಕೃಷಿಯು ಹೆಚ್ಚುವರಿ ಧಾನ್ಯಗಳನ್ನು ನೀಡಿದ್ದರಿಂದ, ಮಾನವರು ಅವುಗಳನ್ನು ಸಂಗ್ರಹಿಸುವ ಮಾರ್ಗಗಳನ್ನು ಕಂಡುಕೊಳ್ಳಬೇಕಾಯಿತು. ಅವರು ದೊಡ್ಡ ಮಣ್ಣಿನ ಮಡಕೆಗಳನ್ನು ಮಾಡಲು, ಬುಟ್ಟಿಗಳನ್ನು ಹೆಣೆಯಲು ಮತ್ತು ನೆಲದಲ್ಲಿ ಸಂಗ್ರಹಣಾ ಹಳ್ಳಗಳನ್ನು ತೋಡಲು ಪ್ರಾರಂಭಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c6_his_hunt_018",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following animals were commonly domesticated by humans during the Neolithic Period? (Select all that apply)",
+      "options": [
+        "Sheep and Goats",
+        "Cattle and Pigs",
+        "Lions and Tigers",
+        "Leopards and Wolves"
+      ],
+      "answer": [
+        "Sheep and Goats",
+        "Cattle and Pigs"
+      ],
+      "reasoning": "Gentle animals that lived in herds and ate grass, such as sheep, goats, cattle, and pigs, were tamed and domesticated by early humans."
+    },
+    "kn": {
+      "question": "ನವಶಿಲಾಯುಗದಲ್ಲಿ ಮಾನವರು ಸಾಮಾನ್ಯವಾಗಿ ಪಳಗಿಸಿದ ಸಾಕುಪ್ರಾಣಿಗಳು ಯಾವುವು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಕುರಿಗಳು ಮತ್ತು ಮೇಕೆಗಳು",
+        "ದನಕರುಗಳು ಮತ್ತು ಹಂದಿಗಳು",
+        "ಸಿಂಹಗಳು ಮತ್ತು ಹುಲಿಗಳು",
+        "ಚಿರತೆಗಳು ಮತ್ತು ತೋಳಗಳು"
+      ],
+      "answer": [
+        "ಕುರಿಗಳು ಮತ್ತು ಮೇಕೆಗಳು",
+        "ದನಕರುಗಳು ಮತ್ತು ಹಂದಿಗಳು"
+      ],
+      "reasoning": "ಹಿಂಡುಗಳಲ್ಲಿ ವಾಸಿಸುವ ಮತ್ತು ಹುಲ್ಲು ತಿನ್ನುವ ಸಾಧು ಪ್ರಾಣಿಗಳಾದ ಕುರಿ, ಮೇಕೆ, ಹಸು/ದನಕರು ಮತ್ತು ಹಂದಿಗಳನ್ನು ಆರಂಭಿಕ ಮಾನವರು ಪಳಗಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c6_his_hunt_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following environmental changes occurred around 12,000 years ago that influenced human lifestyle? (Select all that apply)",
+      "options": [
+        "A shift to relatively warm conditions on Earth",
+        "The development of grasslands in many areas",
+        "An increase in the population of grass-eating animals",
+        "A complete freezing of all rivers and lakes"
+      ],
+      "answer": [
+        "A shift to relatively warm conditions on Earth",
+        "The development of grasslands in many areas",
+        "An increase in the population of grass-eating animals"
+      ],
+      "reasoning": "About 12,000 years ago, climate warming led to grasslands. This increased the number of deer, antelope, sheep, goat, and cattle, prompting humans to study and herd them."
+    },
+    "kn": {
+      "question": "ಸುಮಾರು 12,000 ವರ್ಷಗಳ ಹಿಂದೆ ಸಂಭವಿಸಿದ ಯಾವ ಪರಿಸರ ಬದಲಾವಣೆಗಳು ಮಾನವನ ಜೀವನಶೈಲಿಯ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರಿದವು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಭೂಮಿಯ ತಾಪಮಾನವು ಬೆಚ್ಚಗಿನ ಸ್ಥಿತಿಗೆ ಬದಲಾಗಿದ್ದು",
+        "ಅನೇಕ ಪ್ರದೇಶಗಳಲ್ಲಿ ಹುಲ್ಲುಗಾವಲುಗಳು ಬೆಳೆದದ್ದು",
+        "ಹುಲ್ಲು ತಿನ್ನುವ ಪ್ರಾಣಿಗಳ ಸಂಖ್ಯೆ ಹೆಚ್ಚಾಗಿದ್ದು",
+        "ಎಲ್ಲಾ ನದಿಗಳು ಮತ್ತು ಸರೋವರಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಹೆಪ್ಪುಗಟ್ಟಿದ್ದು"
+      ],
+      "answer": [
+        "ಭೂಮಿಯ ತಾಪಮಾನವು ಬೆಚ್ಚಗಿನ ಸ್ಥಿತಿಗೆ ಬದಲಾಗಿದ್ದು",
+        "ಅನೇಕ ಪ್ರದೇಶಗಳಲ್ಲಿ ಹುಲ್ಲುಗಾವಲುಗಳು ಬೆಳೆದದ್ದು",
+        "ಹುಲ್ಲು ತಿನ್ನುವ ಪ್ರಾಣಿಗಳ ಸಂಖ್ಯೆ ಹೆಚ್ಚಾಗಿದ್ದು"
+      ],
+      "reasoning": "ಸುಮಾರು 12,000 ವರ್ಷಗಳ ಹಿಂದೆ ಭೂಮಿಯ ಉಷ್ಣಾಂಶ ಹೆಚ್ಚಳಗೊಂಡು ಹುಲ್ಲುಗಾವಲುಗಳು ಬೆಳೆದವು. ಇದರಿಂದ ಜಿಂಕೆ, ಕುರಿ, ಮೇಕೆ ಮತ್ತು ಹಸುಗಳ ಸಂಖ್ಯೆ ಹೆಚ್ಚಾಯಿತು, ಇದು ಮಾನವರು ಅವುಗಳನ್ನು ಸಾಕಲು ಪ್ರೇರೇಪಿಸಿತು."
+    }
+  },
+  {
+    "id": "c6_his_hunt_020",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Identify the key characteristics of the prehistoric site Mehrgarh: (Select all that apply)",
+      "options": [
+        "It was located in a fertile plain near the Bolan Pass",
+        "People lived in square or rectangular houses with compartments",
+        "It was the first site where iron railways were manufactured",
+        "It has no evidence of any animal bones or burials"
+      ],
+      "answer": [
+        "It was located in a fertile plain near the Bolan Pass",
+        "People lived in square or rectangular houses with compartments"
+      ],
+      "reasoning": "Mehrgarh is near the Bolan Pass. Excavations show square or rectangular houses, some with four or more compartments used for storage."
+    },
+    "kn": {
+      "question": "ಇತಿಹಾಸಪೂರ್ವ ತಾಣವಾದ ಮೆಹರ್‌ಗಢ್‌ನ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳನ್ನು ಗುರುತಿಸಿ: (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಇದು ಬೋಲನ್ ಕಣಿವೆಯ ಬಳಿ ಫಲವತ್ತಾದ ಬಯಲಿನಲ್ಲಿ ನೆಲೆಗೊಂಡಿತ್ತು",
+        "ಜನರು ಕೋಣೆಗಳನ್ನು ಹೊಂದಿರುವ ಚೌಕ ಅಥವಾ ಆಯತಾಕಾರದ ಮನೆಗಳಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದರು",
+        "ಇದು ಕಬ್ಬಿಣದ ರೈಲು ಹಳಿಗಳನ್ನು ತಯಾರಿಸಿದ ಮೊದಲ ತಾಣವಾಗಿತ್ತು",
+        "ಇಲ್ಲಿ ಯಾವುದೇ ಪ್ರಾಣಿಗಳ ಮೂಳೆಗಳು ಅಥವಾ ಗೋರಿಗಳ ಪುರಾವೆಗಳಿಲ್ಲ"
+      ],
+      "answer": [
+        "ಇದು ಬೋಲನ್ ಕಣಿವೆಯ ಬಳಿ ಫಲವತ್ತಾದ ಬಯಲಿನಲ್ಲಿ ನೆಲೆಗೊಂಡಿತ್ತು",
+        "ಜನರು ಕೋಣೆಗಳನ್ನು ಹೊಂದಿರುವ ಚೌಕ ಅಥವಾ ಆಯತಾಕಾರದ ಮನೆಗಳಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದರು"
+      ],
+      "reasoning": "ಮೆಹರ್‌ಗಢ್ ಬೋಲನ್ ಕಣಿವೆಯ ಹತ್ತಿರವಿದೆ. ಇಲ್ಲಿನ ಉತ್ಖನನದಲ್ಲಿ ನಾಲ್ಕು ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಕೋಣೆಗಳನ್ನು ಹೊಂದಿರುವ ಚೌಕಾಕಾರದ ಅಥವಾ ಆಯತಾಕಾರದ ಮನೆಗಳು ಸಿಕ್ಕಿವೆ, ಇವುಗಳನ್ನು ಸಂಗ್ರಹಣೆಗಾಗಿ ಬಳಸಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_hunt_021",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following features distinguish Neolithic tools from Paleolithic tools? (Select all that apply)",
+      "options": [
+        "Neolithic tools were polished to give a fine cutting edge",
+        "Mortars and pestles were developed in the Neolithic age for grinding grains",
+        "Paleolithic tools were made using advanced electricity and metal machines",
+        "Neolithic tools were purely made of plastic and lightweight alloys"
+      ],
+      "answer": [
+        "Neolithic tools were polished to give a fine cutting edge",
+        "Mortars and pestles were developed in the Neolithic age for grinding grains"
+      ],
+      "reasoning": "Neolithic tools were polished to give a sharp cutting edge and included mortars and pestles for grinding. Paleolithic tools were larger, cruder, and not polished."
+    },
+    "kn": {
+      "question": "ನವಶಿಲಾಯುಗದ ಉಪಕರಣಗಳನ್ನು ಪ್ರಾಚೀನ ಶಿಲಾಯುಗದ ಉಪಕರಣಗಳಿಂದ ಪ್ರತ್ಯೇಕಿಸುವ ಲಕ್ಷಣಗಳು ಯಾವುವು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ನವಶಿಲಾಯುಗದ ಉಪಕರಣಗಳನ್ನು ಚೂಪಾದ ಅಂಚನ್ನು ನೀಡಲು ನಯಗೊಳಿಸಲಾಗಿತ್ತು",
+        "ಧಾನ್ಯಗಳನ್ನು ಪುಡಿ ಮಾಡಲು ನವಶಿಲಾಯುಗದಲ್ಲಿ ಒರಳು ಮತ್ತು ಮುಸಲಗಳನ್ನು ಬಳಸಲಾಯಿತು",
+        "ಪ್ರಾಚೀನ ಶಿಲಾಯುಗದ ಆಯುಧಗಳನ್ನು ವಿದ್ಯುತ್ ಮತ್ತು ಲೋಹದ ಯಂತ್ರಗಳಿಂದ ಮಾಡಲಾಗಿತ್ತು",
+        "ನವಶಿಲಾಯುಗದ ಉಪಕರಣಗಳು ಕೇವಲ ಪ್ಲಾಸ್ಟಿಕ್ ಮತ್ತು ಹಗುರವಾದ ಮಿಶ್ರಲೋಹಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದ್ದವು"
+      ],
+      "answer": [
+        "ನವಶಿಲಾಯುಗದ ಉಪಕರಣಗಳನ್ನು ಚೂಪಾದ ಅಂಚನ್ನು ನೀಡಲು ನಯಗೊಳಿಸಲಾಗಿತ್ತು",
+        "ಧಾನ್ಯಗಳನ್ನು ಪುಡಿ ಮಾಡಲು ನವಶಿಲಾಯುಗದಲ್ಲಿ ಒರಳು ಮತ್ತು ಮುಸಲಗಳನ್ನು ಬಳಸಲಾಯಿತು"
+      ],
+      "reasoning": "ನವಶಿಲಾಯುಗದ ಉಪಕರಣಗಳು ನಯವಾಗಿದ್ದು ಚೂಪಾದ ಅಂಚನ್ನು ಹೊಂದಿದ್ದವು ಮತ್ತು ಧಾನ್ಯಗಳನ್ನು ಪುಡಿ ಮಾಡಲು ಒರಳು ಮತ್ತು ಮುಸಲಗಳನ್ನು ಬಳಸಲಾರಂಭಿಸಿದರು. ಪ್ರಾಚೀನ ಶಿಲಾಯುಗದ ಆಯುಧಗಳು ಒರಟಾಗಿದ್ದು ಮೆರುಗು ಹೊಂದಿರಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_his_hunt_022",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the prehistoric sites with their notable archaeological findings:",
+      "pairs": [
+        {
+          "left": "Kurnool Caves",
+          "right": "Traces of ash from fire"
+        },
+        {
+          "left": "Bhimbetka",
+          "right": "Prehistoric cave paintings"
+        },
+        {
+          "left": "Burzahom",
+          "right": "Pit-houses dug into soil"
+        },
+        {
+          "left": "Hunsgi",
+          "right": "Limestone tools and weapons"
+        }
+      ],
+      "reasoning": "These key sites show specific evolutionary milestones: Kurnool indicates fire use, Bhimbetka shows cave art, Burzahom shows subterranean huts for cold protection, and Hunsgi is a major tool-making site."
+    },
+    "kn": {
+      "question": "ಇತಿಹಾಸಪೂರ್ವ ತಾಣಗಳನ್ನು ಅಲ್ಲಿನ ಗಮನಾರ್ಹ ಪುರಾತತ್ವ ಆವಿಷ್ಕಾರಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಕರ್ನೂಲ್ ಗುಹೆಗಳು",
+          "right": "ಬೆಂಕಿಯ ಬೂದಿಯ ಕುರುಹುಗಳು"
+        },
+        {
+          "left": "ಭೀಮ್‌ಬೆಟ್ಕಾ",
+          "right": "ಇತಿಹಾಸಪೂರ್ವ ಗುಹೆ ವರ್ಣಚಿತ್ರಗಳು"
+        },
+        {
+          "left": "ಬುರ್ಜಾಹೋಮ್",
+          "right": "ನೆಲದಲ್ಲಿ ತೋಡಿದ ಹಳ್ಳ-ಮನೆಗಳು"
+        },
+        {
+          "left": "ಹುಣಸಗಿ",
+          "right": "ಸುಣ್ಣದಕಲ್ಲಿನ ಉಪಕರಣಗಳು"
+        }
+      ],
+      "reasoning": "ಈ ಪ್ರಮುಖ ತಾಣಗಳು ಮಾನವನ ವಿಕಾಸದ ಮೈಲಿಗಲ್ಲುಗಳನ್ನು ತೋರಿಸುತ್ತವೆ: ಕರ್ನೂಲ್ ಬೆಂಕಿಯ ಬಳಕೆಯನ್ನು, ಭೀಮ್‌ಬೆಟ್ಕಾ ಗುಹೆ ಕಲೆಯನ್ನು, ಬುರ್ಜಾಹೋಮ್ ಚಳಿಯಿಂದ ರಕ್ಷಿಸುವ ನೆಲದೊಳಗಿನ ಗುಡಿಸಲುಗಳನ್ನು ಮತ್ತು ಹುಣಸಗಿ ಸುಣ್ಣದಕಲ್ಲಿನ ಆಯುಧಗಳ ತಯಾರಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_his_hunt_023",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the prehistoric ages with their correct environmental or technological features:",
+      "pairs": [
+        {
+          "left": "Paleolithic Age",
+          "right": "Corresponds to 99% of human history"
+        },
+        {
+          "left": "Mesolithic Age",
+          "right": "Characterized by environmental warming and microliths"
+        },
+        {
+          "left": "Neolithic Age",
+          "right": "Characterized by polished tools and farming villages"
+        },
+        {
+          "left": "Domestication",
+          "right": "Selecting specific plants and animals for breeding"
+        }
+      ],
+      "reasoning": "Human development is categorized by tools and lifestyles: Paleolithic (oldest/longest), Mesolithic (warming/microliths), Neolithic (polished tools/farming), and domestication."
+    },
+    "kn": {
+      "question": "ಇತಿಹಾಸಪೂರ್ವ ಯುಗಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಪರಿಸರ ಅಥವಾ ತಾಂತ್ರಿಕ ಲಕ್ಷಣಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಪ್ರಾಚೀನ ಶಿಲಾಯುಗ",
+          "right": "ಮಾನವ ಇತಿಹಾಸದ ಶೇಕಡಾ 99 ರಷ್ಟನ್ನು ಹೊಂದಿದೆ"
+        },
+        {
+          "left": "ಮಧ್ಯಶಿಲಾಯುಗ",
+          "right": "ಹವಾಮಾನ ಏರಿಕೆ ಮತ್ತು ಸೂಕ್ಷ್ಮಶಿಲೆಗಳ ಬಳಕೆಯನ್ನು ಹೊಂದಿದೆ"
+        },
+        {
+          "left": "ನವಶಿಲಾಯುಗ",
+          "right": "ನಯಗೊಳಿಸಿದ ಉಪಕರಣಗಳು ಮತ್ತು ಕೃಷಿ ಹಳ್ಳಿಗಳನ್ನು ಹೊಂದಿದೆ"
+        },
+        {
+          "left": "ಪಳಗಿಸುವಿಕೆ",
+          "right": "ಸಂತಾನೋತ್ಪತ್ತಿಗಾಗಿ ನಿರ್ದಿಷ್ಟ ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದು"
+        }
+      ],
+      "reasoning": "ಮಾನವನ ಬೆಳವಣಿಗೆಯನ್ನು ಆಯುಧಗಳು ಮತ್ತು ಜೀವನಶೈಲಿಯ ಆಧಾರದ ಮೇಲೆ ವಿಂಗಡಿಸಲಾಗಿದೆ: ಪ್ರಾಚೀನ ಶಿಲಾಯುಗ (ಅತ್ಯಂತ ಹಳೆಯ/ದೀರ್ಘ), ಮಧ್ಯಶಿಲಾಯುಗ (ಬೆಚ್ಚಗಿನ ಹವಾಮಾನ/ಸೂಕ್ಷ್ಮಶಿಲೆ), ನವಶಿಲಾಯುಗ (ನಯವಾದ ಆಯುಧ/ಕೃಷಿ) ಮತ್ತು ಪಳಗಿಸುವಿಕೆ."
+    }
+  },
+  {
+    "id": "c6_his_hunt_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the archaeological sites with their modern geographical locations:",
+      "pairs": [
+        {
+          "left": "Burzahom",
+          "right": "Jammu and Kashmir"
+        },
+        {
+          "left": "Mehrgarh",
+          "right": "Pakistan"
+        },
+        {
+          "left": "Hunsgi",
+          "right": "Karnataka"
+        },
+        {
+          "left": "Daojali Hading",
+          "right": "Assam"
+        }
+      ],
+      "reasoning": "These Neolithic and Paleolithic sites are distributed across the Indian subcontinent: Burzahom in Kashmir, Mehrgarh in Pakistan, Hunsgi in Karnataka, and Daojali Hading in Assam near the Brahmaputra river."
+    },
+    "kn": {
+      "question": "ಪುರಾತತ್ವ ತಾಣಗಳನ್ನು ಅವುಗಳ ಪ್ರಸ್ತುತ ಭೌಗೋಳಿಕ ಸ್ಥಳಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಬುರ್ಜಾಹೋಮ್",
+          "right": "ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರ"
+        },
+        {
+          "left": "ಮೆಹರ್‌ಗಢ್",
+          "right": "ಪಾಕಿಸ್ತಾನ"
+        },
+        {
+          "left": "ಹುಣಸಗಿ",
+          "right": "ಕರ್ನಾಟಕ"
+        },
+        {
+          "left": "ದಾವೋಜಲಿ ಹ್ಯಾಡಿಂಗ್",
+          "right": "ಅಸ್ಸಾಂ"
+        }
+      ],
+      "reasoning": "ಈ ನವಶಿಲಾಯುಗದ ಮತ್ತು ಪ್ರಾಚೀನ ಶಿಲಾಯುಗದ ತಾಣಗಳು ಭಾರತೀಯ ಉಪಖಂಡದಾದ್ಯಂತ ಹರಡಿವೆ: ಕಾಶ್ಮೀರದಲ್ಲಿ ಬುರ್ಜಾಹೋಮ್, ಪಾಕಿಸ್ತಾನದಲ್ಲಿ ಮೆಹರ್‌ಗಢ್, ಕರ್ನಾಟಕದಲ್ಲಿ ಹುಣಸಗಿ ಮತ್ತು ಬ್ರಹ್ಮಪುತ್ರ ನದಿ ಸಮೀಪವಿರುವ ಅಸ್ಸಾಂನಲ್ಲಿ ದಾವೋಜಲಿ ಹ್ಯಾಡಿಂಗ್."
+    }
+  },
+  {
+    "id": "c6_his_hunt_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the Neolithic developments with their corresponding purposes:",
+      "pairs": [
+        {
+          "left": "Mortar and pestle",
+          "right": "Grinding grain for cooking"
+        },
+        {
+          "left": "Clay pots",
+          "right": "Storing grain and cooking food"
+        },
+        {
+          "left": "Weaving",
+          "right": "Making cloth using cotton"
+        },
+        {
+          "left": "Pit-houses",
+          "right": "Staying warm in freezing winters"
+        }
+      ],
+      "reasoning": "Neolithic innovations served distinct survival needs: grinding implements processed grain, pottery stored and cooked food, weaving provided cotton clothing, and pit-houses insulated against severe cold."
+    },
+    "kn": {
+      "question": "ನವಶಿಲಾಯುಗದ ಬೆಳವಣಿಗೆಗಳನ್ನು ಅವುಗಳ ಅನುಗುಣವಾದ ಉದ್ದೇಶಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಒರಳು ಮತ್ತು ಮುಸಲ",
+          "right": "ಅಡುಗೆಗಾಗಿ ಧಾನ್ಯಗಳನ್ನು ಪುಡಿ ಮಾಡುವುದು"
+        },
+        {
+          "left": "ಮಣ್ಣಿನ ಮಡಕೆಗಳು",
+          "right": "ಧಾನ್ಯ ಸಂಗ್ರಹಣೆ ಮತ್ತು ಅಡುಗೆ ಮಾಡುವುದು"
+        },
+        {
+          "left": "ನೇಯ್ಗೆ",
+          "right": "ಹತ್ತಿ ಬಳಸಿ ಬಟ್ಟೆ ತಯಾರಿಸುವುದು"
+        },
+        {
+          "left": "ಹಳ್ಳ-ಮನೆಗಳು",
+          "right": "ತೀವ್ರ ಚಳಿಗಾಲದಲ್ಲಿ ಬೆಚ್ಚಗೆ ಇರುವುದು"
+        }
+      ],
+      "reasoning": "ನವಶಿಲಾಯುಗದ ಆವಿಷ್ಕಾರಗಳು ಬದುಕಲು ಅಗತ್ಯವಾದ ಉದ್ದೇಶಗಳನ್ನು ಪೂರೈಸಿದವು: ಒರಳು-ಮುಸಲ ಧಾನ್ಯಗಳನ್ನು ಅರೆದವು, ಮಡಕೆಗಳು ಸಂಗ್ರಹಿಸಿ ಬೇಯಿಸಲು ಸಹಕರಿಸಿದವು, ನೇಯ್ಗೆಯು ಬಟ್ಟೆಗಳನ್ನು ನೀಡಿತು ಮತ್ತು ಹಳ್ಳ-ಮನೆಗಳು ಚಳಿಯಿಂದ ರಕ್ಷಣೆ ನೀಡಿದವು."
+    }
+  }
+]

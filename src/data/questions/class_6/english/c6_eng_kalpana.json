@@ -1,0 +1,795 @@
+[
+  {
+    "id": "c6_eng_kalpana_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Where was Kalpana Chawla born?",
+      "options": [
+        "Karnal, Haryana",
+        "New Delhi",
+        "Amritsar, Punjab",
+        "Mumbai, Maharashtra"
+      ],
+      "answer": "Karnal, Haryana",
+      "reasoning": "Kalpana Chawla was born in Karnal, a town in Haryana, India."
+    },
+    "kn": {
+      "question": "ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಎಲ್ಲಿ ಜನಿಸಿದರು?",
+      "options": [
+        "ಕರ್ನಾಲ್, ಹರಿಯಾಣ",
+        "ನವದೆಹಲಿ",
+        "ಅಮೃತಸರ, ಪಂಜಾಬ್",
+        "ಮುಂಬೈ, ಮಹಾರಾಷ್ಟ್ರ"
+      ],
+      "answer": "ಕರ್ನಾಲ್, ಹರಿಯಾಣ",
+      "reasoning": "ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಭಾರತದ ಹರಿಯಾಣ ರಾಜ್ಯದ ಕರ್ನಾಲ್ ಎಂಬ ಪಟ್ಟಣದಲ್ಲಿ ಜನಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What degree did Kalpana Chawla earn in India before moving to the US?",
+      "options": [
+        "Bachelor of Science in Aeronautical Engineering",
+        "Bachelor of Medicine",
+        "Bachelor of Arts in English Literature",
+        "Bachelor of Business Administration"
+      ],
+      "answer": "Bachelor of Science in Aeronautical Engineering",
+      "reasoning": "She graduated in Aeronautical Engineering from Punjab Engineering College in India."
+    },
+    "kn": {
+      "question": "ಅಮೆರಿಕಾಗೆ ಹೋಗುವ ಮುನ್ನ ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಭಾರತದಲ್ಲಿ ಯಾವ ಪದವಿಯನ್ನು ಪಡೆದರು?",
+      "options": [
+        "ಏರೋನಾಟಿಕಲ್ ಎಂಜಿನಿಯರಿಂಗ್‌ನಲ್ಲಿ ಬ್ಯಾಚುಲರ್ ಆಫ್ ಸೈನ್ಸ್",
+        "ವೈದ್ಯಕೀಯ ಶಾಸ್ತ್ರದಲ್ಲಿ ಬ್ಯಾಚುಲರ್ ಪದವಿ",
+        "ಇಂಗ್ಲಿಷ್ ಸಾಹಿತ್ಯದಲ್ಲಿ ಬ್ಯಾಚುಲರ್ ಪದವಿ",
+        "ವ್ಯಾಪಾರ ನಿರ್ವಹಣೆಯಲ್ಲಿ ಬ್ಯಾಚುಲರ್ ಪದವಿ"
+      ],
+      "answer": "ಏರೋನಾಟಿಕಲ್ ಎಂಜಿನಿಯರಿಂಗ್‌ನಲ್ಲಿ ಬ್ಯಾಚುಲರ್ ಆಫ್ ಸೈನ್ಸ್",
+      "reasoning": "ಅವರು ಭಾರತದ ಪಂಜಾಬ್ ಎಂಜಿನಿಯರಿಂಗ್ ಕಾಲೇಜಿನಲ್ಲಿ ಏರೋನಾಟಿಕಲ್ ಎಂಜಿನಿಯರಿಂಗ್‌ನಲ್ಲಿ ಪದವಿ ಪಡೆದರು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Where did Kalpana Chawla go to complete her Master's degree?",
+      "options": [
+        "United Kingdom",
+        "United States of America",
+        "Russia",
+        "Germany"
+      ],
+      "answer": "United States of America",
+      "reasoning": "She traveled to the United States of America for her Master's degree, despite opposition from her father."
+    },
+    "kn": {
+      "question": "ಕಲ್ಪನಾ ಚಾವ್ಲಾ ತಮ್ಮ ಸ್ನಾತಕೋತ್ತರ (ಮಾಸ್ಟರ್ಸ್) ಪದವಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಎಲ್ಲಿಗೆ ಹೋದರು?",
+      "options": [
+        "ಯುನೈಟೆಡ್ ಕಿಂಗ್‌ಡಮ್",
+        "ಅಮೇರಿಕಾ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ",
+        "ರಷ್ಯಾ",
+        "ಜರ್ಮನಿ"
+      ],
+      "answer": "ಅಮೇರಿಕಾ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ",
+      "reasoning": "ಅವರು ತಮ್ಮ ತಂದೆಯ ವಿರೋಧದ ನಡುವೆಯೂ ಸ್ನಾತಕೋತ್ತರ ಪದವಿಗಾಗಿ ಅಮೆರಿಕಾಗೆ ಹೋದರು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who was Kalpana Chawla's husband?",
+      "options": [
+        "Jean-Pierre Harrison, a flight instructor",
+        "A fellow Indian scientist at NASA",
+        "A French pilot and author",
+        "An American aerospace engineer"
+      ],
+      "answer": "Jean-Pierre Harrison, a flight instructor",
+      "reasoning": "Kalpana Chawla married Jean-Pierre Harrison, who was a flight instructor."
+    },
+    "kn": {
+      "question": "ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಅವರ ಪತಿ ಯಾರು?",
+      "options": [
+        "ಜೀನ್-ಪಿಯರೆ ಹ್ಯಾರಿಸನ್, ಒಬ್ಬ ಹಾರಾಟ ಬೋಧಕ",
+        "ನಾಸಾದಲ್ಲಿದ್ದ ಸಹ ಭಾರತೀಯ ವಿಜ್ಞಾನಿ",
+        "ಒಬ್ಬ ಫ್ರೆಂಚ್ ಪೈಲಟ್ ಮತ್ತು ಲೇಖಕ",
+        "ಒಬ್ಬ ಅಮೆರಿಕನ್ ಏರೋಸ್ಪೇಸ್ ಎಂಜಿನಿಯರ್"
+      ],
+      "answer": "ಜೀನ್-ಪಿಯರೆ ಹ್ಯಾರಿಸನ್, ಒಬ್ಬ ಹಾರಾಟ ಬೋಧಕ",
+      "reasoning": "ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಅವರು ಹಾರಾಟ ಬೋಧಕರಾಗಿದ್ದ ಜೀನ್-ಪಿಯರೆ ಹ್ಯಾರಿಸನ್ ಅವರನ್ನು ವಿವಾಹವಾದರು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In which year was Kalpana Chawla selected by NASA for astronaut training?",
+      "options": [
+        "1990",
+        "1994",
+        "1997",
+        "2003"
+      ],
+      "answer": "1994",
+      "reasoning": "NASA selected Kalpana Chawla for training as an astronaut candidate in the year 1994."
+    },
+    "kn": {
+      "question": "ನಾಸಾ ಗಗನಯಾತ್ರಿ ತರಬೇತಿಗಾಗಿ ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಅವರನ್ನು ಯಾವ ವರ್ಷದಲ್ಲಿ ಆಯ್ಕೆ ಮಾಡಿತು?",
+      "options": [
+        "೧೯೯೦",
+        "೧೯೯೪",
+        "೧೯೯೭",
+        "೨೦೦೩"
+      ],
+      "answer": "೧೯೯೪",
+      "reasoning": "ನಾಸಾ ಸಂಸ್ಥೆಯು ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಅವರನ್ನು ೧೯೯೪ ರಲ್ಲಿ ಗಗನಯಾತ್ರಿ ತರಬೇತಿಗಾಗಿ ಆಯ್ಕೆ ಮಾಡಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What was the name of the space shuttle that collapsed tragically in 2003?",
+      "options": [
+        "Discovery",
+        "Columbia",
+        "Challenger",
+        "Atlantis"
+      ],
+      "answer": "Columbia",
+      "reasoning": "The Space Shuttle Columbia broke apart during re-entry on February 1, 2003."
+    },
+    "kn": {
+      "question": "೨೦೦೩ ರಲ್ಲಿ ಭೀಕರ ದುರಂತಕ್ಕೀಡಾದ ಬಾಹ್ಯಾಕಾಶ ನೌಕೆಯ ಹೆಸರೇನು?",
+      "options": [
+        "ಡಿಸ್ಕವರಿ",
+        "ಕೊಲಂಬಿಯಾ",
+        "ಚಾಲೆಂಜರ್",
+        "ಅಟ್ಲಾಂಟಿಸ್"
+      ],
+      "answer": "ಕೊಲಂಬಿಯಾ",
+      "reasoning": "ಕೊಲಂಬಿಯಾ ಬಾಹ್ಯಾಕಾಶ ನೌಕೆಯು ಫೆಬ್ರವರಿ ೧, ೨೦೦೩ ರಂದು ಭೂಮಿಗೆ ಮರಳುವಾಗ ಒಡೆದು ಚೂರುಚೂರಾಯಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_007",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Besides being an astronaut, which licenses did Kalpana Chawla hold?",
+      "options": [
+        "Single and multi-engine land airplanes, seaplanes, and gliders",
+        "Commercial trucks and transport trailers",
+        "Ocean cargo vessels and cruise liners",
+        "Military combat tanks and jets"
+      ],
+      "answer": "Single and multi-engine land airplanes, seaplanes, and gliders",
+      "reasoning": "She was licensed to fly single and multi-engine land airplanes, single-engine seaplanes, and gliders."
+    },
+    "kn": {
+      "question": "ಗಗನಯಾತ್ರಿಯಾಗುವುದರ ಜೊತೆಗೆ ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಯಾವ ಪರವಾನಗಿಗಳನ್ನು ಹೊಂದಿದ್ದರು?",
+      "options": [
+        "ಏಕ ಮತ್ತು ಬಹು-ಎಂಜಿನ್ ಭೂ ವಿಮಾನಗಳು, ಜಲ ವಿಮಾನಗಳು ಮತ್ತು ಗ್ಲೈಡರ್‌ಗಳು",
+        "ವಾಣಿಜ್ಯ ಟ್ರಕ್‌ಗಳು ಮತ್ತು ಸಾರಿಗೆ ಟ್ರೈಲರ್‌ಗಳು",
+        "ಸಾಗರ ಸರಕು ಹಡಗುಗಳು ಮತ್ತು ವಿಹಾರ ನೌಕೆಗಳು",
+        "ಸೇನಾ ಯುದ್ಧ ಟ್ಯಾಂಕ್‌ಗಳು ಮತ್ತು ಜೆಟ್‌ಗಳು"
+      ],
+      "answer": "ಏಕ ಮತ್ತು ಬಹು-ಎಂಜಿನ್ ಭೂ ವಿಮಾನಗಳು, ಜಲ ವಿಮಾನಗಳು ಮತ್ತು ಗ್ಲೈಡರ್‌ಗಳು",
+      "reasoning": "ಅವರು ಏಕ ಮತ್ತು ಬಹು-ಎಂಜಿನ್ ಭೂ ವಿಮಾನಗಳು, ಜಲ ವಿಮಾನಗಳು ಮತ್ತು ಗ್ಲೈಡರ್‌ಗಳನ್ನು ಹಾರಿಸುವ ಪರವಾನಗಿ ಹೊಂದಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_008",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "How long did Kalpana's first space mission (STS-87) last?",
+      "options": [
+        "10 days",
+        "15 days, 16 hours, and 34 minutes",
+        "20 days and 5 hours",
+        "7 days and 12 hours"
+      ],
+      "answer": "15 days, 16 hours, and 34 minutes",
+      "reasoning": "Her first mission lasted 15 days, 16 hours, and 34 minutes in space."
+    },
+    "kn": {
+      "question": "ಕಲ್ಪನಾ ಅವರ ಮೊದಲ ಬಾಹ್ಯಾಕಾಶ ಕಾರ್ಯಾಚರಣೆ (STS-87) ಎಷ್ಟು ಸಮಯ ನಡೆಯಿತು?",
+      "options": [
+        "೧೦ ದಿನಗಳು",
+        "೧೫ ದಿನಗಳು, ೧೬ ಗಂಟೆಗಳು ಮತ್ತು ೩೪ ನಿಮಿಷಗಳು",
+        "೨೦ ದಿನಗಳು ಮತ್ತು ೫ ಗಂಟೆಗಳು",
+        "೭ ದಿನಗಳು ಮತ್ತು ೧೨ ಗಂಟೆಗಳು"
+      ],
+      "answer": "೧೫ ದಿನಗಳು, ೧೬ ಗಂಟೆಗಳು ಮತ್ತು ೩೪ ನಿಮಿಷಗಳು",
+      "reasoning": "ಅವರ ಮೊದಲ ಗಗನಯಾತ್ರೆಯು ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ೧೫ ದಿನಗಳು, ೧೬ ಗಂಟೆ ಮತ್ತು ೩೪ ನಿಮಿಷಗಳ ಕಾಲ ಇತ್ತು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who were the crew members from other nations in Kalpana's first space mission?",
+      "options": [
+        "A Japanese and a Ukrainian astronaut",
+        "A French and a German astronaut",
+        "A Russian and an American astronaut",
+        "A British and a Canadian astronaut"
+      ],
+      "answer": "A Japanese and a Ukrainian astronaut",
+      "reasoning": "The flight crew of STS-87 included astronauts from Japan and Ukraine alongside US astronauts."
+    },
+    "kn": {
+      "question": "ಕಲ್ಪನಾ ಅವರ ಮೊದಲ ಬಾಹ್ಯಾಕಾಶ ಕಾರ್ಯಾಚರಣೆಯಲ್ಲಿದ್ದ ಇತರ ದೇಶಗಳ ಗಗನಯಾತ್ರಿಗಳು ಯಾರು?",
+      "options": [
+        "ಒಬ್ಬ ಜಪಾನಿ ಮತ್ತು ಒಬ್ಬ ಉಕ್ರೇನಿಯನ್ ಗಗನಯಾತ್ರಿ",
+        "ಒಬ್ಬ ಫ್ರೆಂಚ್ ಮತ್ತು ಒಬ್ಬ ಜರ್ಮನ್ ಗಗನಯಾತ್ರಿ",
+        "ಒಬ್ಬ ರಷ್ಯನ್ ಮತ್ತು ಒಬ್ಬ ಅಮೆರಿಕನ್ ಗಗನಯಾತ್ರಿ",
+        "ಒಬ್ಬ ಬ್ರಿಟಿಷ್ ಮತ್ತು ಒಬ್ಬ ಕೆನಡಿಯನ್ ಗಗನಯಾತ್ರಿ"
+      ],
+      "answer": "ಒಬ್ಬ ಜಪಾನಿ ಮತ್ತು ಒಬ್ಬ ಉಕ್ರೇನಿಯನ್ ಗಗನಯಾತ್ರಿ",
+      "reasoning": "ಅವರ ಮೊದಲ ಕಾರ್ಯಾಚರಣೆಯ ತಂಡದಲ್ಲಿ ಜಪಾನ್ ಮತ್ತು ಉಕ್ರೇನ್ ದೇಶಗಳ ಗಗನಯಾತ್ರಿಗಳು ಸೇರಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which school did Kalpana Chawla graduate from in Karnal?",
+      "options": [
+        "Tagore School",
+        "St. Mary's School",
+        "Government Model School",
+        "Karnal Public School"
+      ],
+      "answer": "Tagore School",
+      "reasoning": "She completed her schooling at Tagore School in Karnal."
+    },
+    "kn": {
+      "question": "ಕರ್ನಾಲ್‌ನಲ್ಲಿ ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಯಾವ ಶಾಲೆಯಿಂದ ಪದವಿ ಶಿಕ್ಷಣ ಮುಗಿಸಿದರು?",
+      "options": [
+        "ಟಾಗೋರ್ ಶಾಲೆ",
+        "ಸೇಂಟ್ ಮೇರಿಸ್ ಶಾಲೆ",
+        "ಸರ್ಕಾರಿ ಮಾದರಿ ಶಾಲೆ",
+        "ಕರ್ನಾಲ್ ಪಬ್ಲಿಕ್ ಶಾಲೆ"
+      ],
+      "answer": "ಟಾಗೋರ್ ಶಾಲೆ",
+      "reasoning": "ಅವರು ಕರ್ನಾಲ್‌ನ ಟಾಗೋರ್ ಶಾಲೆಯಲ್ಲಿ ತಮ್ಮ ಶಾಲಾ ಶಿಕ್ಷಣವನ್ನು ಮುಗಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "When did the Space Shuttle Columbia meet with its disaster during re-entry?",
+      "options": [
+        "February 1, 2003",
+        "January 16, 2003",
+        "December 25, 2002",
+        "March 15, 2004"
+      ],
+      "answer": "February 1, 2003",
+      "reasoning": "The Space Shuttle Columbia broke apart over Texas on February 1, 2003, during its re-entry."
+    },
+    "kn": {
+      "question": "ಮರುಪ್ರವೇಶದ ಸಮಯದಲ್ಲಿ ಕೊಲಂಬಿಯಾ ಬಾಹ್ಯಾಕಾಶ ನೌಕೆಯು ಯಾವಾಗ ದುರಂತಕ್ಕೀಡಾಯಿತು?",
+      "options": [
+        "ಫೆಬ್ರವರಿ ೧, ೨೦೦೩",
+        "ಜನವರಿ ೧೬, ೨೦೦೩",
+        "ಡಿಸೆಂಬರ್ ೨೫, ೨೦೦೨",
+        "ಮಾರ್ಚ್ ೧೫, ೨೦೦೪"
+      ],
+      "answer": "ಫೆಬ್ರವರಿ ೧, ೨೦೦೩",
+      "reasoning": "ಕೊಲಂಬಿಯಾ ನೌಕೆಯು ಭೂಮಿಗೆ ಮರಳುವ ಹಾದಿಯಲ್ಲಿ ಫೆಬ್ರವರಿ ೧, ೨೦೦೩ ರಂದು ಟೆಕ್ಸಾಸ್ ಮೇಲೆ ದುರಂತಕ್ಕೀಡಾಯಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "How many crew members were on board the Space Shuttle Columbia (STS-107)?",
+      "options": [
+        "5 crew members",
+        "7 crew members",
+        "9 crew members",
+        "3 crew members"
+      ],
+      "answer": "7 crew members",
+      "reasoning": "There were 7 crew members on board, and all of them lost their lives in the accident."
+    },
+    "kn": {
+      "question": "ಕೊಲಂಬಿಯಾ (STS-107) ನೌಕೆಯಲ್ಲಿ ಕಲ್ಪನಾ ಅವರೊಂದಿಗೆ ಎಷ್ಟು ಜನ ಗಗನಯಾತ್ರಿಗಳಿದ್ದರು?",
+      "options": [
+        "೫ ಜನ ಗಗನಯಾತ್ರಿಗಳು",
+        "೭ ಜನ ಗಗನಯಾತ್ರಿಗಳು",
+        "೯ ಜನ ಗಗನಯಾತ್ರಿಗಳು",
+        "೩  ಜನ ಗಗನಯಾತ್ರಿಗಳು"
+      ],
+      "answer": "೭ ಜನ ಗಗನಯಾತ್ರಿಗಳು",
+      "reasoning": "ಆ ನೌಕೆಯಲ್ಲಿ ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಸೇರಿದಂತೆ ಒಟ್ಟು ಏಳು ಜನ ಸಿಬ್ಬಂದಿ ಇದ್ದರು ಮತ್ತು ಅವರೆಲ್ಲರೂ ಪ್ರಾಣ ಕಳೆದುಕೊಂಡರು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_013",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What does the term 'naturalised US citizen' mean in Kalpana Chawla's biography?",
+      "options": [
+        "A citizen born inside the United States",
+        "A person who acquired US citizenship legally after birth",
+        "A scientist on a temporary work visa in the US",
+        "A citizen holding dual citizenship in India and the US"
+      ],
+      "answer": "A person who acquired US citizenship legally after birth",
+      "reasoning": "Kalpana Chawla was born in India but became a US citizen through the legal naturalization process."
+    },
+    "kn": {
+      "question": "ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಅವರ ಜೀವನಚರಿತ್ರೆಯಲ್ಲಿ 'naturalised US citizen' ಎಂಬುದರ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಅಮೆರಿಕಾದ ಒಳಗೆ ಜನಿಸಿದ ನಾಗರಿಕ",
+        "ಹುಟ್ಟಿದ ನಂತರ ಕಾನೂನುಬದ್ಧವಾಗಿ ಅಮೆರಿಕಾದ ಪೌರತ್ವವನ್ನು ಪಡೆದ ವ್ಯಕ್ತಿ",
+        "ಅಮೆರಿಕಾದಲ್ಲಿ ತಾತ್ಕಾಲಿಕ ಕೆಲಸದ ವೀಸಾದಲ್ಲಿದ್ದ ವಿಜ್ಞಾನಿ",
+        "ಭಾರತ ಮತ್ತು ಅಮೆರಿಕಾದಲ್ಲಿ ದ್ವಿಪೌರತ್ವ ಹೊಂದಿರುವ ನಾಗರಿಕ"
+      ],
+      "answer": "ಹುಟ್ಟಿದ ನಂತರ ಕಾನೂನುಬದ್ಧವಾಗಿ ಅಮೆರಿಕಾದ ಪೌರತ್ವವನ್ನು ಪಡೆದ ವ್ಯಕ್ತಿ",
+      "reasoning": "ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಭಾರತದಲ್ಲಿ ಜನಿಸಿದರೂ, ನಂತರದ ಕಾನೂನು ಪ್ರಕ್ರಿಯೆಯ ಮೂಲಕ ಅಮೆರಿಕಾದ ಪೌರತ್ವ ಪಡೆದಿದ್ದರಿಂದ ಅವರನ್ನು ನ್ಯಾಚುರಲೈಸ್ಡ್ ಯುಎಸ್ ಸಿಟಿಜನ್ ಎನ್ನಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_014",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What message did Kalpana Chawla send from space to college students in Chandigarh?",
+      "options": [
+        "The path from dreams to success does exist; may you have the vision to find it",
+        "Only science and mathematics can lead to a successful career",
+        "You should avoid leaving your home country for education",
+        "Success is determined by wealth and social status"
+      ],
+      "answer": "The path from dreams to success does exist; may you have the vision to find it",
+      "reasoning": "Kalpana sent a message from space stating that success is achievable and wished students the vision and courage to find it."
+    },
+    "kn": {
+      "question": "ಬಾಹ್ಯಾಕಾಶದಿಂದ ಚಂಡೀಗಢದ ಕಾಲೇಜು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಕಳುಹಿಸಿದ ಸಂದೇಶವೇನು?",
+      "options": [
+        "ಕನಸುಗಳಿಂದ ಯಶಸ್ಸಿನತ್ತ ಸಾಗುವ ಹಾದಿ ಇದ್ದೇ ಇರುತ್ತದೆ; ಅದನ್ನು ಕಂಡುಕೊಳ್ಳುವ ದೃಷ್ಟಿ ನಿಮಗಿರಲಿ",
+        "ವಿಜ್ಞಾನ ಮತ್ತು ಗಣಿತ ಮಾತ್ರ ಯಶಸ್ವಿ ವೃತ್ತಿಜೀವನಕ್ಕೆ ಕಾರಣವಾಗಬಲ್ಲದು",
+        "ಶಿಕ್ಷಣಕ್ಕಾಗಿ ನೀವು ನಿಮ್ಮ ತಾಯ್ನಾಡನ್ನು ಬಿಟ್ಟು ಹೋಗಬಾರದು",
+        "ಯಶಸ್ಸು ಸಂಪತ್ತು ಮತ್ತು ಸಾಮಾಜಿಕ ಸ್ಥಾನಮಾನದಿಂದ ನಿರ್ಧರಿಸಲ್ಪಡುತ್ತದೆ"
+      ],
+      "answer": "ಕನಸುಗಳಿಂದ ಯಶಸ್ಸಿನತ್ತ ಸಾಗುವ ಹಾದಿ ಇದ್ದೇ ಇರುತ್ತದೆ; ಅದನ್ನು ಕಂಡುಕೊಳ್ಳುವ ದೃಷ್ಟಿ ನಿಮಗಿರಲಿ",
+      "reasoning": "ಕನಸಿನಿಂದ ಯಶಸ್ಸಿನ ಹಾದಿ ಇದ್ದೇ ಇದೆ, ಅದನ್ನು ಕಂಡುಕೊಳ್ಳುವ ದೃಷ್ಟಿ ಮತ್ತು ಮುನ್ನಡೆಯುವ ಧೈರ್ಯ ನಿಮಗಿರಲಿ ಎಂದು ಅವರು ಬಾಹ್ಯಾಕಾಶದಿಂದ ಸಂದೇಶ ಕಳುಹಿಸಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "At what altitude was the Space Shuttle Columbia flying when NASA lost contact with it?",
+      "options": [
+        "50,000 feet",
+        "100,000 feet",
+        "200,000 feet",
+        "300,000 feet"
+      ],
+      "answer": "200,000 feet",
+      "reasoning": "The contact was lost when Columbia was flying at an altitude of over 200,000 feet."
+    },
+    "kn": {
+      "question": "ನಾಸಾ ಕೊಲಂಬಿಯಾ ನೌಕೆಯ ಸಂಪರ್ಕ ಕಳೆದುಕೊಂಡಾಗ ನೌಕೆಯು ಎಷ್ಟು ಎತ್ತರದಲ್ಲಿ ಹಾರುತ್ತಿತ್ತು?",
+      "options": [
+        "೫೦,೦೦೦ ಅಡಿಗಳು",
+        "೧೦೦,೦೦೦ ಅಡಿಗಳು",
+        "೨೦೦,೦೦೦ ಅಡಿಗಳು",
+        "೩೦೦,೦೦೦ ಅಡಿಗಳು"
+      ],
+      "answer": "೨೦೦,೦೦೦ ಅಡಿಗಳು",
+      "reasoning": "ಭೂಮಿಗೆ ಮರಳುವ ಹಾದಿಯಲ್ಲಿದ್ದ ಕೊಲಂಬಿಯಾ ನೌಕೆಯು ಸುಮಾರು ೨೦೦,೦೦೦ ಅಡಿಗಿಂತಲೂ ಹೆಚ್ಚು ಎತ್ತರದಲ್ಲಿದ್ದಾಗ ನಾಸಾದೊಂದಿಗೆ ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What speed was Columbia traveling at when it lost contact during re-entry?",
+      "options": [
+        "10,000 km per hour",
+        "20,000 km per hour",
+        "30,000 km per hour",
+        "40,000 km per hour"
+      ],
+      "answer": "20,000 km per hour",
+      "reasoning": "The spacecraft was traveling at more than 20,000 km per hour when the connection failed."
+    },
+    "kn": {
+      "question": "ಮರುಪ್ರವೇಶದ ಸಮಯದಲ್ಲಿ ಸಂಪರ್ಕ ಕಳೆದುಕೊಂಡಾಗ ಕೊಲಂಬಿಯಾ ನೌಕೆ ಎಷ್ಟು ವೇಗದಲ್ಲಿ ಚಲಿಸುತ್ತಿತ್ತು?",
+      "options": [
+        "ಗಂಟೆಗೆ ೧೦,೦೦೦ ಕಿ.ಮೀ",
+        "ಗಂಟೆಗೆ ೨೦,೦೦೦ ಕಿ.ಮೀ",
+        "ಗಂಟೆಗೆ ೩೦,೦೦೦ ಕಿ.ಮೀ",
+        "ಗಂಟೆಗೆ ೪೦,೦೦೦ ಕಿ.ಮೀ"
+      ],
+      "answer": "ಗಂಟೆಗೆ ೨೦,೦೦೦ ಕಿ.ಮೀ",
+      "reasoning": "ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡಾಗ ಕೊಲಂಬಿಯಾ ನೌಕೆಯು ಗಂಟೆಗೆ ೨೦,೦೦೦ ಕಿ.ಮೀ ಗಿಂತಲೂ ಹೆಚ್ಚು ವೇಗದಲ್ಲಿ ಚಲಿಸುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "According to the writer, what are the requirements to become an astronaut?",
+      "options": [
+        "You need to know a lot about everything, from biology to astrophysics and aeronautical engineering",
+        "You only need to be in good physical health and pass fitness tests",
+        "You must have built a prototype rocket or sat in a jet",
+        "You must hold a degree in business administration and finance"
+      ],
+      "answer": "You need to know a lot about everything, from biology to astrophysics and aeronautical engineering",
+      "reasoning": "Becoming an astronaut requires immense, multi-disciplinary knowledge across biology, astrophysics, and engineering."
+    },
+    "kn": {
+      "question": "ಲೇಖಕರ ಪ್ರಕಾರ, ಒಬ್ಬ ಗಗನಯಾತ್ರಿಯಾಗಲು ಇರಬೇಕಾದ ಅವಶ್ಯಕತೆಗಳು ಯಾವುವು?",
+      "options": [
+        "ಜೀವಶಾಸ್ತ್ರದಿಂದ ಹಿಡಿದು ಖಗೋಳ ಭೌತಶಾಸ್ತ್ರ ಮತ್ತು ಏರೋನಾಟಿಕಲ್ ಎಂಜಿನಿಯರಿಂಗ್‌ವರೆಗೆ ಎಲ್ಲದರ ಬಗ್ಗೆಯೂ ಸಾಕಷ್ಟು ತಿಳಿದಿರಬೇಕು",
+        "ಕೇವಲ ದೈಹಿಕ ಆರೋಗ್ಯ ಮತ್ತು ದೈಹಿಕ ಸಾಮರ್ಥ್ಯದ ಪರೀಕ್ಷೆಗಳಲ್ಲಿ ತೇರ್ಗಡೆಯಾದರೆ ಸಾಕು",
+        "ನೀವು ರಾಕೆಟ್ ಮಾದರಿಯನ್ನು ನಿರ್ಮಿಸಿರಬೇಕು ಅಥವಾ ಜೆಟ್ ವಿಮಾನದಲ್ಲಿ ಕುಳಿತಿರಬೇಕು",
+        "ನೀವು ವ್ಯವಹಾರ ನಿರ್ವಹಣೆ ಮತ್ತು ಹಣಕಾಸು ವಿಷಯದಲ್ಲಿ ಪದವಿ ಹೊಂದಿರಬೇಕು"
+      ],
+      "answer": "ಜೀವಶಾಸ್ತ್ರದಿಂದ ಹಿಡಿದು ಖಗೋಳ ಭೌತಶಾಸ್ತ್ರ ಮತ್ತು ಏರೋನಾಟಿಕಲ್ ಎಂಜಿನಿಯರಿಂಗ್‌ವರೆಗೆ ಎಲ್ಲದರ ಬಗ್ಗೆಯೂ ಸಾಕಷ್ಟು ತಿಳಿದಿರಬೇಕು",
+      "reasoning": "ಗಗನಯಾತ್ರಿಯಾಗಲು ಜೀವಶಾಸ್ತ್ರ, ಖಗೋಳ ಭೌತಶಾಸ್ತ್ರ ಮತ್ತು ಎಂಜಿನಿಯರಿಂಗ್ ಮುಂತಾದ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಅತ್ಯಂತ ಆಳವಾದ ಜ್ಞಾನದ ಅವಶ್ಯಕತೆಯಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_018",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which degrees did Kalpana Chawla achieve during her education? (Select all that apply)",
+      "options": [
+        "Bachelor of Science in Aeronautical Engineering",
+        "Master's degree in Aerospace Engineering",
+        "PhD in Aerospace Engineering",
+        "Doctor of Medicine in Surgery"
+      ],
+      "answer": [
+        "Bachelor of Science in Aeronautical Engineering",
+        "Master's degree in Aerospace Engineering",
+        "PhD in Aerospace Engineering"
+      ],
+      "reasoning": "Kalpana completed her Bachelor's in India, and then earned her Master's and PhD in the United States."
+    },
+    "kn": {
+      "question": "ಕಲ್ಪನಾ ಚಾವ್ಲಾ ತಮ್ಮ ಶಿಕ್ಷಣದಲ್ಲಿ ಯಾವ ಪದವಿಗಳನ್ನು ಪಡೆದರು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಏರೋನಾಟಿಕಲ್ ಎಂಜಿನಿಯರಿಂಗ್‌ನಲ್ಲಿ ಬ್ಯಾಚುಲರ್ ಆಫ್ ಸೈನ್ಸ್",
+        "ಏರೋಸ್ಪೇಸ್ ಎಂಜಿನಿಯರಿಂಗ್‌ನಲ್ಲಿ ಮಾಸ್ಟರ್ಸ್ ಪದವಿ",
+        "ಏರೋಸ್ಪೇಸ್ ಎಂಜಿನಿಯರಿಂಗ್‌ನಲ್ಲಿ ಪಿಎಚ್.ಡಿ",
+        "ಶಸ್ತ್ರಚಿಕಿತ್ಸೆಯಲ್ಲಿ ವೈದ್ಯಕೀಯ ಡಾಕ್ಟರೇಟ್"
+      ],
+      "answer": [
+        "ಏರೋನಾಟಿಕಲ್ ಎಂಜಿನಿಯರಿಂಗ್‌ನಲ್ಲಿ ಬ್ಯಾಚುಲರ್ ಆಫ್ ಸೈನ್ಸ್",
+        "ಏರೋಸ್ಪೇಸ್ ಎಂಜಿನಿಯರಿಂಗ್‌ನಲ್ಲಿ ಮಾಸ್ಟರ್ಸ್ ಪದವಿ",
+        "ಏರೋಸ್ಪೇಸ್ ಎಂಜಿನಿಯರಿಂಗ್‌ನಲ್ಲಿ ಪಿಎಚ್.ಡಿ"
+      ],
+      "reasoning": "ಕಲ್ಪನಾ ಭಾರತದಲ್ಲಿ ಬ್ಯಾಚುಲರ್ ಪದವಿ ಮತ್ತು ಅಮೆರಿಕಾದಲ್ಲಿ ಏರೋಸ್ಪೇಸ್ ಎಂಜಿನಿಯರಿಂಗ್‌ನಲ್ಲಿ ಮಾಸ್ಟರ್ಸ್ ಹಾಗೂ ಪಿಎಚ್.ಡಿ ಪದವಿಗಳನ್ನು ಪಡೆದರು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following experiments were conducted by the Columbia crew during STS-107? (Select all that apply)",
+      "options": [
+        "Pollinating plants to observe food growth in space",
+        "Testing metals and computer chips to make them stronger",
+        "Searching for evidence of life on Saturn's moons",
+        "Testing the gravity pull on the surface of Jupiter"
+      ],
+      "answer": [
+        "Pollinating plants to observe food growth in space",
+        "Testing metals and computer chips to make them stronger"
+      ],
+      "reasoning": "The crew conducted 80 experiments, which included plant pollination for food growth observation and material science tests."
+    },
+    "kn": {
+      "question": "STS-107 ಕಾರ್ಯಾಚರಣೆಯ ಸಮಯದಲ್ಲಿ ಕೊಲಂಬಿಯಾ ಸಿಬ್ಬಂದಿ ಯಾವ ಪ್ರಯೋಗಗಳನ್ನು ನಡೆಸಿದರು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ಆಹಾರ ಬೆಳೆಯುವುದನ್ನು ವೀಕ್ಷಿಸಲು ಸಸ್ಯಗಳ ಪರಾಗಸ್ಪರ್ಶ ಕ್ರಿಯೆ",
+        "ಲೋಹ ಮತ್ತು ಕಂಪ್ಯೂಟರ್ ಚಿಪ್‌ಗಳನ್ನು ಬಲಪಡಿಸಲು ಅವುಗಳ ಪರೀಕ್ಷೆ ಮಾಡುವುದು",
+        "ಶನಿಯ ಚಂದ್ರರ ಮೇಲೆ ಜೀವದ ಪುರಾವೆಗಳಿಗಾಗಿ ಹುಡುಕಾಡುವುದು",
+        "ಗುರು ಗ್ರಹದ ಮೇಲ್ಮೈಯಲ್ಲಿ ಗುರುತ್ವಾಕರ್ಷಣೆಯ ಬಲವನ್ನು ಪರೀಕ್ಷಿಸುವುದು"
+      ],
+      "answer": [
+        "ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ಆಹಾರ ಬೆಳೆಯುವುದನ್ನು ವೀಕ್ಷಿಸಲು ಸಸ್ಯಗಳ ಪರಾಗಸ್ಪರ್ಶ ಕ್ರಿಯೆ",
+        "ಲೋಹ ಮತ್ತು ಕಂಪ್ಯೂಟರ್ ಚಿಪ್‌ಗಳನ್ನು ಬಲಪಡಿಸಲು ಅವುಗಳ ಪರೀಕ್ಷೆ ಮಾಡುವುದು"
+      ],
+      "reasoning": "ಸಿಬ್ಬಂದಿ ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ಸಸ್ಯಗಳ ಆಹಾರ ಬೆಳೆಯುವ ವೀಕ್ಷಣೆ ಮತ್ತು ಬಲಿಷ್ಠ ಲೋಹಗಳು ಹಾಗೂ ಚಿಪ್‌ಗಳ ಪರೀಕ್ಷೆಯ ಕುರಿತಾದ ಪ್ರಯೋಗಗಳನ್ನು ನಡೆಸಿದರು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_020",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "What flying capabilities and licenses did Kalpana Chawla hold? (Select all that apply)",
+      "options": [
+        "Single and multi-engine land airplanes",
+        "Single-engine seaplanes",
+        "Gliders",
+        "Space station control commander"
+      ],
+      "answer": [
+        "Single and multi-engine land airplanes",
+        "Single-engine seaplanes",
+        "Gliders"
+      ],
+      "reasoning": "Kalpana was certified to fly single and multi-engine land airplanes, single-engine seaplanes, and gliders."
+    },
+    "kn": {
+      "question": "ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಯಾವ ರೀತಿಯ ವಿಮಾನಗಳನ್ನು ಹಾರಿಸುವ ಪರವಾನಗಿ ಮತ್ತು ಸಾಮರ್ಥ್ಯ ಹೊಂದಿದ್ದರು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಏಕ ಮತ್ತು ಬಹು-ಎಂಜಿನ್ ಭೂ ವಿಮಾನಗಳು",
+        "ಏಕ-ಎಂಜಿನ್ ಜಲ ವಿಮಾನಗಳು",
+        "ಗ್ಲೈಡರ್‌ಗಳು",
+        "ಬಾಹ್ಯಾಕಾಶ ನಿಲ್ದಾಣ ನಿಯಂತ್ರಣ ಕಮಾಂಡರ್"
+      ],
+      "answer": [
+        "ಏಕ ಮತ್ತು ಬಹು-ಎಂಜಿನ್ ಭೂ ವಿಮಾನಗಳು",
+        "ಏಕ-ಎಂಜಿನ್ ಜಲ ವಿಮಾನಗಳು",
+        "ಗ್ಲೈಡರ್‌ಗಳು"
+      ],
+      "reasoning": "ಕಲ್ಪನಾ ಭೂ ವಿಮಾನಗಳು, ಜಲ ವಿಮಾನಗಳು ಮತ್ತು ಗ್ಲೈಡರ್‌ಗಳನ್ನು ಹಾರಿಸುವ ಪರವಾನಗಿ ಹೊಂದಿದ ಪ್ರಮಾಣೀಕೃತ ಪೈಲಟ್ ಆಗಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_021",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "What aspects of Kalpana Chawla's career served as an inspiration to millions? (Select all that apply)",
+      "options": [
+        "She rose from a small town in India to become a NASA astronaut",
+        "She showed that dreams can be achieved through determination and hard work",
+        "She sent an encouraging message to students from space during her mission",
+        "She became a political leader representing women in the US Senate"
+      ],
+      "answer": [
+        "She rose from a small town in India to become a NASA astronaut",
+        "She showed that dreams can be achieved through determination and hard work",
+        "She sent an encouraging message to students from space during her mission"
+      ],
+      "reasoning": "Her journey from Karnal to space, her determination, and her inspiring message to college students motivated millions of young people."
+    },
+    "kn": {
+      "question": "ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಅವರ ವೃತ್ತಿಜೀವನದ ಯಾವ ಅಂಶಗಳು ಲಕ್ಷಾಂತರ ಜನರಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದವು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಅವರು ಭಾರತದ ಸಣ್ಣ ಪಟ್ಟಣದಿಂದ ಬೆಳೆದು ನಾಸಾ ಗಗನಯಾತ್ರಿಯಾದರು",
+        "ದೃಢಸಂಕಲ್ಪ ಮತ್ತು ಕಠಿಣ ಪರಿಶ್ರಮದಿಂದ ಕನಸುಗಳನ್ನು ನನಸಾಗಿಸಬಹುದು ಎಂದು ಅವರು ತೋರಿಸಿಕೊಟ್ಟರು",
+        "ಅವರು ತಮ್ಮ ಬಾಹ್ಯಾಕಾಶ ಕಾರ್ಯಾಚರಣೆಯ ಸಮಯದಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಪ್ರೋತ್ಸಾಹದಾಯಕ ಸಂದೇಶ ಕಳುಹಿಸಿದರು",
+        "ಅವರು ಯುಎಸ್ ಸೆನೆಟ್ನಲ್ಲಿ ಮಹಿಳೆಯರನ್ನು ಪ್ರತಿನಿಧಿಸುವ ರಾಜಕೀಯ ನಾಯಕಿಯಾದರು"
+      ],
+      "answer": [
+        "ಅವರು ಭಾರತದ ಸಣ್ಣ ಪಟ್ಟಣದಿಂದ ಬೆಳೆದು ನಾಸಾ ಗಗನಯಾತ್ರಿಯಾದರು",
+        "ದೃಢಸಂಕಲ್ಪ ಮತ್ತು ಕಠಿಣ ಪರಿಶ್ರಮದಿಂದ ಕನಸುಗಳನ್ನು ನನಸಾಗಿಸಬಹುದು ಎಂದು ಅವರು ತೋರಿಸಿಕೊಟ್ಟರು",
+        "ಅವರು ತಮ್ಮ ಬಾಹ್ಯಾಕಾಶ ಕಾರ್ಯಾಚರಣೆಯ ಸಮಯದಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಪ್ರೋತ್ಸಾಹದಾಯಕ ಸಂದೇಶ ಕಳುಹಿಸಿದರು"
+      ],
+      "reasoning": "ಕರ್ನಾಲ್‌ನಿಂದ ಬಾಹ್ಯಾಕಾಶದವರೆಗಿನ ಅವರ ಪ್ರಯಾಣ, ಕಠಿಣ ಪರಿಶ್ರಮ ಮತ್ತು ಕಾಲೇಜು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಅವರು ಕಳುಹಿಸಿದ ಸಂದೇಶಗಳು ಭಾರತದ ಯುವಜನತೆಗೆ ದೊಡ್ಡ ಸ್ಫೂರ್ತಿಯಾಯಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_022",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the places and missions related to Kalpana Chawla with their correct descriptions:",
+      "pairs": [
+        {
+          "left": "Karnal",
+          "right": "Birthplace of Kalpana Chawla"
+        },
+        {
+          "left": "United States",
+          "right": "Where she completed her PhD"
+        },
+        {
+          "left": "STS-87",
+          "right": "Her first space mission"
+        },
+        {
+          "left": "STS-107",
+          "right": "The tragic Columbia mission"
+        }
+      ],
+      "reasoning": "Matching key locations and space missions in Kalpana Chawla's biography."
+    },
+    "kn": {
+      "question": "ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಅವರಿಗೆ ಸಂಬಂಧಿಸಿದ ಸ್ಥಳಗಳು ಮತ್ತು ಕಾರ್ಯಾಚರಣೆಗಳನ್ನು ಸರಿಯಾದ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Karnal",
+          "right": "Birthplace of Kalpana Chawla"
+        },
+        {
+          "left": "United States",
+          "right": "Where she completed her PhD"
+        },
+        {
+          "left": "STS-87",
+          "right": "Her first space mission"
+        },
+        {
+          "left": "STS-107",
+          "right": "The tragic Columbia mission"
+        }
+      ],
+      "reasoning": "ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಅವರ ಜೀವನದ ಪ್ರಮುಖ ಸ್ಥಳಗಳು ಮತ್ತು ಬಾಹ್ಯಾಕಾಶ ಕಾರ್ಯಾಚರಣೆಗಳ ಸರಳ ಹೊಂದಾಣಿಕೆ."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_023",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the vocabulary words from the article with their definitions:",
+      "pairs": [
+        {
+          "left": "Astronaut",
+          "right": "A person trained to travel in space"
+        },
+        {
+          "left": "Crew",
+          "right": "Group of people working on ship/aircraft"
+        },
+        {
+          "left": "Re-entry",
+          "right": "Returning of spacecraft into Earth's atmosphere"
+        },
+        {
+          "left": "Disaster",
+          "right": "A sudden accident causing great damage"
+        }
+      ],
+      "reasoning": "Understanding the meanings of technical terms related to space exploration."
+    },
+    "kn": {
+      "question": "ಲೇಖನದಲ್ಲಿನ ಪ್ರಮುಖ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಅರ್ಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Astronaut",
+          "right": "A person trained to travel in space"
+        },
+        {
+          "left": "Crew",
+          "right": "Group of people working on ship/aircraft"
+        },
+        {
+          "left": "Re-entry",
+          "right": "Returning of spacecraft into Earth's atmosphere"
+        },
+        {
+          "left": "Disaster",
+          "right": "A sudden accident causing great damage"
+        }
+      ],
+      "reasoning": "ಬಾಹ್ಯಾಕಾಶ ಪ್ರಯಾಣಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ತಾಂತ್ರಿಕ ಪದಗಳ ಅರ್ಥಗಳನ್ನು ಜೋಡಿಸುವುದು."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the institutions with Kalpana Chawla's academic milestone there:",
+      "pairs": [
+        {
+          "left": "Tagore School",
+          "right": "Where she completed her early schooling"
+        },
+        {
+          "left": "Punjab Engineering College",
+          "right": "Where she graduated in Aeronautical Engineering"
+        },
+        {
+          "left": "University of Texas",
+          "right": "Where she achieved her Master's degree"
+        },
+        {
+          "left": "University of Colorado",
+          "right": "Where she completed her PhD"
+        }
+      ],
+      "reasoning": "Mapping the educational institutions to the degrees Kalpana earned from them."
+    },
+    "kn": {
+      "question": "ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳನ್ನು ಕಲ್ಪನಾ ಚಾವ್ಲಾ ಅಲ್ಲಿ ಪಡೆದ ಶಿಕ್ಷಣದ ಮೈಲಿಗಲ್ಲುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Tagore School",
+          "right": "Where she completed her early schooling"
+        },
+        {
+          "left": "Punjab Engineering College",
+          "right": "Where she graduated in Aeronautical Engineering"
+        },
+        {
+          "left": "University of Texas",
+          "right": "Where she achieved her Master's degree"
+        },
+        {
+          "left": "University of Colorado",
+          "right": "Where she completed her PhD"
+        }
+      ],
+      "reasoning": "ಕಲ್ಪನಾ ಚಾವ್ಲಾ ವಿದ್ಯಾಭ್ಯಾಸ ಮಾಡಿದ ವಿವಿಧ ಹಂತದ ಸಂಸ್ಥೆಗಳು ಮತ್ತು ಪದವಿಗಳ ಹೊಂದಾಣಿಕೆ."
+    }
+  },
+  {
+    "id": "c6_eng_kalpana_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the parameters of the STS-107 mission with their numerical values:",
+      "pairs": [
+        {
+          "left": "16 days",
+          "right": "Duration of the STS-107 mission"
+        },
+        {
+          "left": "80 experiments",
+          "right": "Number of experiments conducted by the crew"
+        },
+        {
+          "left": "7 members",
+          "right": "Number of crew members who lost their lives"
+        },
+        {
+          "left": "200,000 feet",
+          "right": "Altitude at which contact was lost"
+        }
+      ],
+      "reasoning": "Verifying statistical data associated with the final flight of Columbia."
+    },
+    "kn": {
+      "question": "STS-107 ಕಾರ್ಯಾಚರಣೆಯ ಅಂಕಿ-ಅಂಶಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "16 days",
+          "right": "Duration of the STS-107 mission"
+        },
+        {
+          "left": "80 experiments",
+          "right": "Number of experiments conducted by the crew"
+        },
+        {
+          "left": "7 members",
+          "right": "Number of crew members who lost their lives"
+        },
+        {
+          "left": "200,000 feet",
+          "right": "Altitude at which contact was lost"
+        }
+      ],
+      "reasoning": "ಕೊಲಂಬಿಯಾ ನೌಕೆಯ ಕೊನೆಯ ಹಾರಾಟಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಮುಖ ಅಂಕಿ-ಅಂಶಗಳ ಹೊಂದಾಣಿಕೆ."
+    }
+  }
+]

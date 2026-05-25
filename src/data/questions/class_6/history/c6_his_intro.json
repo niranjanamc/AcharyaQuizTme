@@ -1,0 +1,789 @@
+[
+  {
+    "id": "c6_his_intro_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "On the bark of which tree were ancient manuscripts in India commonly written?",
+      "options": [
+        "Birch tree",
+        "Banyan tree",
+        "Mango tree",
+        "Peepal tree"
+      ],
+      "answer": "Birch tree",
+      "reasoning": "Ancient manuscripts in India were often written on palm leaves or on the specially prepared bark of the birch tree, which grows in the Himalayas."
+    },
+    "kn": {
+      "question": "ಭಾರತದ ಪ್ರಾಚೀನ ಹಸ್ತಪ್ರತಿಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಮರದ ತೊಗಟೆಯ ಮೇಲೆ ಬರೆಯಲಾಗುತ್ತಿತ್ತು?",
+      "options": [
+        "ಭೂರ್ಜ ಮರ (ಬಿರ್ಚ್)",
+        "ಆಲದ ಮರ",
+        "ಮಾವಿನ ಮರ",
+        "ಅರಳಿ ಮರ"
+      ],
+      "answer": "ಭೂರ್ಜ ಮರ (ಬಿರ್ಚ್)",
+      "reasoning": "ಭಾರತದಲ್ಲಿ ಪ್ರಾಚೀನ ಹಸ್ತಪ್ರತಿಗಳನ್ನು ತಾಳೆಗರಿಗಳ ಮೇಲೆ ಅಥವಾ ಹಿಮಾಲಯದಲ್ಲಿ ಬೆಳೆಯುವ ಭೂರ್ಜ ಮರದ (ಬಿರ್ಚ್) ವಿಶೇಷವಾಗಿ ಸಿದ್ಧಪಡಿಸಿದ ತೊಗಟೆಯ ಮೇಲೆ ಬರೆಯಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_intro_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Where was the ancient kingdom of Magadha located?",
+      "options": [
+        "South of the Ganga river",
+        "North of the Indus river",
+        "Along the Yamuna river",
+        "On the banks of the Narmada"
+      ],
+      "answer": "South of the Ganga river",
+      "reasoning": "Magadha, which was one of the earliest and most powerful kingdoms, was located in the area south of the Ganga river, in present-day Bihar."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಚೀನ ಮಗಧ ಸಾಮ್ರಾಜ್ಯವು ಎಲ್ಲಿ ನೆಲೆಗೊಂಡಿತ್ತು?",
+      "options": [
+        "ಗಂಗಾ ನದಿಯ ದಕ್ಷಿಣ ಭಾಗದಲ್ಲಿ",
+        "ಸಿಂಧೂ ನದಿಯ ಉತ್ತರ ಭಾಗದಲ್ಲಿ",
+        "ಯಮುನಾ ನದಿಯ ಉದ್ದಕ್ಕೂ",
+        "ನರ್ಮದಾ ನದಿಯ ದಂಡೆಯ ಮೇಲೆ"
+      ],
+      "answer": "ಗಂಗಾ ನದಿಯ ದಕ್ಷಿಣ ಭಾಗದಲ್ಲಿ",
+      "reasoning": "ಅತ್ಯಂತ ಆರಂಭಿಕ ಮತ್ತು ಅತ್ಯಂತ ಶಕ್ತಿಶಾಲಿ ಸಾಮ್ರಾಜ್ಯಗಳಲ್ಲಿ ಒಂದಾದ ಮಗಧವು ಪ್ರಸ್ತುತ ಬಿಹಾರದಲ್ಲಿರುವ ಗಂಗಾ ನದಿಯ ದಕ್ಷಿಣದ ಪ್ರದೇಶದಲ್ಲಿ ನೆಲೆಗೊಂಡಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_intro_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What are historical writings engraved on relatively hard surfaces like stone or metal called?",
+      "options": [
+        "Inscriptions",
+        "Manuscripts",
+        "Novels",
+        "Biographies"
+      ],
+      "answer": "Inscriptions",
+      "reasoning": "Writings that are carved or engraved on hard surfaces such as stone or metal are called inscriptions."
+    },
+    "kn": {
+      "question": "ಕಲ್ಲು ಅಥವಾ ಲೋಹದಂತಹ ಕಠಿಣ ಮೇಲ್ಮೈಗಳ ಮೇಲೆ ಕೆತ್ತಲಾದ ಐತಿಹಾಸಿಕ ಬರಹಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ಶಾಸನಗಳು",
+        "ಹಸ್ತಪ್ರತಿಗಳು",
+        "ಕಾದಂಬರಿಗಳು",
+        "ಜೀವನಚರಿತ್ರೆಗಳು"
+      ],
+      "answer": "ಶಾಸನಗಳು",
+      "reasoning": "ಕಲ್ಲು ಅಥವಾ ಲೋಹದಂತಹ ಕಠಿಣ ಮೇಲ್ಮೈಗಳ ಮೇಲೆ ಕೆತ್ತಲಾದ ಬರಹಗಳನ್ನು ಶಾಸನಗಳು ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_his_intro_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What does the abbreviation 'BCE' stand for in historical dating?",
+      "options": [
+        "Before Common Era",
+        "Before Christian Era",
+        "British Common Era",
+        "Before Central Era"
+      ],
+      "answer": "Before Common Era",
+      "reasoning": "'BCE' stands for 'Before Common Era', which is used in place of 'BC' (Before Christ) by historians worldwide."
+    },
+    "kn": {
+      "question": "ಐತಿಹಾಸಿಕ ಕಾಲಗಣನೆಯಲ್ಲಿ 'BCE' ಎಂಬ ಸಂಕ್ಷಿಪ್ತ ರೂಪದ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಬಿಫೋರ್ ಕಾಮನ್ ಎರಾ (ಸಾಮಾನ್ಯ ಶಕೆಗೆ ಮುನ್ನ)",
+        "ಬಿಫೋರ್ ಕ್ರಿಶ್ಚಿಯನ್ ಎರಾ",
+        "ಬ್ರಿಟಿಷ್ ಕಾಮನ್ ಎರಾ",
+        "ಬಿಫೋರ್ ಸೆಂಟ್ರಲ್ ಎರಾ"
+      ],
+      "answer": "ಬಿಫೋರ್ ಕಾಮನ್ ಎರಾ (ಸಾಮಾನ್ಯ ಶಕೆಗೆ ಮುನ್ನ)",
+      "reasoning": "'BCE' ಎಂದರೆ 'ಬಿಫೋರ್ ಕಾಮನ್ ಎರಾ' (ಸಾಮಾನ್ಯ ಶಕೆಗೆ ಮುನ್ನ). ಜಗತ್ತಿನಾದ್ಯಂತ ಇತಿಹಾಸಕಾರರು ಇದನ್ನು 'BC' (ಕ್ರಿಸ್ತಪೂರ್ವ) ಬದಲಿಗೆ ಬಳಸುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c6_his_intro_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In which language were most of the elite ancient manuscripts in India written?",
+      "options": [
+        "Sanskrit",
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "answer": "Sanskrit",
+      "reasoning": "Most of the ancient manuscripts that dealt with religious beliefs, science, and the lives of kings were written in Sanskrit, which was the language of the elite."
+    },
+    "kn": {
+      "question": "ಭಾರತದಲ್ಲಿ ಪತ್ತೆಯಾದ ಹೆಚ್ಚಿನ ಉನ್ನತ ವರ್ಗದ ಪ್ರಾಚೀನ ಹಸ್ತಪ್ರತಿಗಳನ್ನು ಯಾವ ಭಾಷೆಯಲ್ಲಿ ಬರೆಯಲಾಗಿತ್ತು?",
+      "options": [
+        "ಸಂಸ್ಕೃತ",
+        "ಇಂಗ್ಲಿಷ್",
+        "ಗ್ರೀಕ್",
+        "ಲ್ಯಾಟಿನ್"
+      ],
+      "answer": "ಸಂಸ್ಕೃತ",
+      "reasoning": "ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳು, ವಿಜ್ಞಾನ ಮತ್ತು ರಾಜರ ಜೀವನಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಹೆಚ್ಚಿನ ಪ್ರಾಚೀನ ಹಸ್ತಪ್ರತಿಗಳನ್ನು ಸಂಸ್ಕೃತದಲ್ಲಿ ಬರೆಯಲಾಗಿತ್ತು, ಇದು ಆಗಿನ ಉನ್ನತ ವರ್ಗದ ಭಾಷೆಯಾಗಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_intro_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What were the people who gathered wild plants, fruits, and roots for food in ancient times called?",
+      "options": [
+        "Gatherers",
+        "Farmers",
+        "Weavers",
+        "Blacksmiths"
+      ],
+      "answer": "Gatherers",
+      "reasoning": "People who collected roots, fruits, and other forest produce for their food were known as skilled gatherers."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಚೀನ ಕಾಲದಲ್ಲಿ ಆಹಾರಕ್ಕಾಗಿ ಕಾಡು sಸ್ಯಗಳು, ಹಣ್ಣುಗಳು ಮತ್ತು ಗೆಡ್ಡೆಗೆಣಸುಗಳನ್ನು ಸಂಗ್ರಹಿಸುತ್ತಿದ್ದ ಜನರನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತಿತ್ತು?",
+      "options": [
+        "ಸಂಗ್ರಹಕಾರರು",
+        "ರೈತರು",
+        "ನೇಕಾರರು",
+        "ಕಮ್ಮಾರರು"
+      ],
+      "answer": "ಸಂಗ್ರಹಕಾರರು",
+      "reasoning": "ತಮ್ಮ ಆಹಾರಕ್ಕಾಗಿ ಬೇರುಗಳು, ಹಣ್ಣುಗಳು ಮತ್ತು ಇತರ ಅರಣ್ಯ ಉತ್ಪನ್ನಗಳನ್ನು ಸಂಗ್ರಹಿಸುತ್ತಿದ್ದ ಜನರನ್ನು ನುರಿತ ಸಂಗ್ರಹಕಾರರು ಎಂದು ಕರೆಯಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_intro_007",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Along the banks of which river did skilled food gatherers live for several thousand years?",
+      "options": [
+        "Narmada",
+        "Godavari",
+        "Krishna",
+        "Cauvery"
+      ],
+      "answer": "Narmada",
+      "reasoning": "People lived along the banks of the Narmada river for several hundred thousand years. The earliest of them were skilled gatherers who knew about the vast wealth of plants."
+    },
+    "kn": {
+      "question": "ಯಾವ ನದಿಯ ದಂಡೆಯ ಉದ್ದಕ್ಕೂ ನುರಿತ ಆಹಾರ ಸಂಗ್ರಹಕಾರರು ಹಲವಾರು ಸಾವಿರ ವರ್ಷಗಳ ಕಾಲ ವಾಸಿಸುತ್ತಿದ್ದರು?",
+      "options": [
+        "ನರ್ಮದಾ",
+        "ಗೋದಾವರಿ",
+        "ಕೃಷ್ಣಾ",
+        "ಕಾವೇರಿ"
+      ],
+      "answer": "ನರ್ಮದಾ",
+      "reasoning": "ನರ್ಮದಾ ನದಿಯ ದಂಡೆಯಲ್ಲಿ ಜನರು ನೂರಾರು ಸಾವಿರ ವರ್ಷಗಳ ಕಾಲ ವಾಸಿಸುತ್ತಿದ್ದರು. ಅವರಲ್ಲಿ ಆರಂಭಿಕರು ಸಸ್ಯಗಳ ಅಗಾಧ ಸಂಪತ್ತಿನ ಬಗ್ಗೆ ತಿಳಿದಿದ್ದ ನುರಿತ ಸಂಗ್ರಹಕಾರರಾಗಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_his_intro_008",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In which hills did women and men first begin to grow crops like wheat and barley about 8,000 years ago?",
+      "options": [
+        "Sulaiman and Kirthar hills",
+        "Garo hills",
+        "Vindhya hills",
+        "Himalayan range"
+      ],
+      "answer": "Sulaiman and Kirthar hills",
+      "reasoning": "The Sulaiman and Kirthar hills to the northwest of India are areas where people first began to grow crops such as wheat and barley about 8000 years ago."
+    },
+    "kn": {
+      "question": "ಸುಮಾರು 8,000 ವರ್ಷಗಳ ಹಿಂದೆ ಮಹಿಳೆಯರು ಮತ್ತು ಪುರುಷರು ಗೋಧಿ ಮತ್ತು ಬಾರ್ಲಿಯಂತಹ ಬೆಳೆಗಳನ್ನು ಬೆಳೆಯಲು ಪ್ರಾರಂಭಿಸಿದ್ದು ಯಾವ ಬೆಟ್ಟಗಳಲ್ಲಿ?",
+      "options": [
+        "ಸುಲೈಮಾನ್ ಮತ್ತು ಕಿರ್ಥಾರ್ ಬೆಟ್ಟಗಳು",
+        "ಗಾರೋ ಬೆಟ್ಟಗಳು",
+        "ವಿಂಧ್ಯ ಬೆಟ್ಟಗಳು",
+        "ಹಿಮಾಲಯ ಶ್ರೇಣಿ"
+      ],
+      "answer": "ಸುಲೈಮಾನ್ ಮತ್ತು ಕಿರ್ಥಾರ್ ಬೆಟ್ಟಗಳು",
+      "reasoning": "ಭಾರತದ ವಾಯುವ್ಯದಲ್ಲಿರುವ ಸುಲೈಮಾನ್ ಮತ್ತು ಕಿರ್ಥಾರ್ ಬೆಟ್ಟಗಳು ಸುಮಾರು 8000 ವರ್ಷಗಳ ಹಿಂದೆ ಜನರು ಗೋಧಿ ಮತ್ತು ಬಾರ್ಲಿಯಂತಹ ಬೆಳೆಗಳನ್ನು ಬೆಳೆಯಲು ಪ್ರಾರಂಭಿಸಿದ ಮೊದಲ ಪ್ರದೇಶಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c6_his_intro_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In which region of the Indian subcontinent was rice first grown in ancient times?",
+      "options": [
+        "North of the Vindhyas",
+        "South of the Krishna river",
+        "West of the Thar desert",
+        "East of the Brahmaputra"
+      ],
+      "answer": "North of the Vindhyas",
+      "reasoning": "Agriculture developed in several places, and rice was first grown in the areas located to the north of the Vindhya mountains in central India."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಚೀನ ಕಾಲದಲ್ಲಿ ಭಾರತೀಯ ಉಪಖಂಡದ ಯಾವ ಪ್ರದೇಶದಲ್ಲಿ ಮೊದಲ ಬಾರಿಗೆ ಭತ್ತವನ್ನು (ಅಕ್ಕಿ) ಬೆಳೆಯಲಾಯಿತು?",
+      "options": [
+        "ವಿಂಧ್ಯ ಪರ್ವತದ ಉತ್ತರ ಭಾಗದಲ್ಲಿ",
+        "ಕೃಷ್ಣಾ ನದಿಯ ದಕ್ಷಿಣ ಭಾಗದಲ್ಲಿ",
+        "ಥಾರ್ ಮರುಭೂಮಿಯ ಪಶ್ಚಿಮದಲ್ಲಿ",
+        "ಬ್ರಹ್ಮಪುತ್ರದ ಪೂರ್ವದಲ್ಲಿ"
+      ],
+      "answer": "ವಿಂಧ್ಯ ಪರ್ವತದ ಉತ್ತರ ಭಾಗದಲ್ಲಿ",
+      "reasoning": "ಕೃಷಿಯು ಹಲವಾರು ಸ್ಥಳಗಳಲ್ಲಿ ಅಭಿವೃದ್ಧಿ ಹೊಂದಿತು, ಆದರೆ ಅಕ್ಕಿಯನ್ನು ಮೊದಲ ಬಾರಿಗೆ ಮಧ್ಯ ಭಾರತದ ವಿಂಧ್ಯ ಪರ್ವತಗಳ ಉತ್ತರಕ್ಕೆ ನೆಲೆಗೊಂಡಿರುವ ಪ್ರದೇಶಗಳಲ್ಲಿ ಬೆಳೆಯಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c6_his_intro_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who were the ancient travelers who came from the northwest and called the land east of the river Indus 'India'?",
+      "options": [
+        "Iranians and Greeks",
+        "Romans and Egyptians",
+        "Chinese and Japanese",
+        "Arabs and Turks"
+      ],
+      "answer": "Iranians and Greeks",
+      "reasoning": "The Iranians and the Greeks, who came through the northwest about 2500 years ago, were familiar with the Indus (called Hindos or Indos) and called the land to the east of it India."
+    },
+    "kn": {
+      "question": "ವಾಯುವ್ಯದಿಂದ ಬಂದು ಸಿಂಧೂ ನದಿಯ ಪೂರ್ವದಲ್ಲಿರುವ ಭೂಮಿಯನ್ನು 'ಇಂಡಿಯಾ' ಎಂದು ಕರೆದ ಪ್ರಾಚೀನ ಪ್ರಯಾಣಿಕರು ಯಾರು?",
+      "options": [
+        "ಇರಾನಿಯನ್ನರು ಮತ್ತು ಗ್ರೀಕರು",
+        "ರೋಮನ್ನರು ಮತ್ತು ಈಜಿಪ್ಟಿನವರು",
+        "ಚೀನಿಯರು ಮತ್ತು ಜಪಾನಿಯರು",
+        "ಅರಬ್ಬರು ಮತ್ತು ತುರ್ಕರು"
+      ],
+      "answer": "ಇರಾನಿಯನ್ನರು ಮತ್ತು ಗ್ರೀಕರು",
+      "reasoning": "ಸುಮಾರು 2500 ವರ್ಷಗಳ ಹಿಂದೆ ವಾಯುವ್ಯದ ಮೂಲಕ ಬಂದ ಇರಾನಿಯನ್ನರು ಮತ್ತು ಗ್ರೀಕರು ಸಿಂಧೂ ನದಿಯನ್ನು (ಹಿಂದೋಸ್ ಅಥವಾ ಇಂಡೋಸ್ ಎಂದು ಕರೆದರು) ಬಲ್ಲವರಾಗಿದ್ದರು ಮತ್ತು ಅದರ ಪೂರ್ವಕ್ಕಿರುವ ಭೂಮಿಯನ್ನು ಇಂಡಿಯಾ ಎಂದು ಕರೆದರು."
+    }
+  },
+  {
+    "id": "c6_his_intro_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the key difference between manuscripts and inscriptions?",
+      "options": [
+        "Manuscripts were written on soft materials like leaves/bark, while inscriptions were carved on hard stone/metal",
+        "Manuscripts were printed using machines, while inscriptions were handwritten",
+        "Manuscripts were only written in English, while inscriptions were written in Sanskrit",
+        "Manuscripts were always kept in libraries, while inscriptions were kept in temples"
+      ],
+      "answer": "Manuscripts were written on soft materials like leaves/bark, while inscriptions were carved on hard stone/metal",
+      "reasoning": "Manuscripts (from Latin 'manu', meaning hand) were written on palm leaves or birch bark, which are organic and soft. Inscriptions were engraved on hard, durable surfaces like stone, clay, or metal."
+    },
+    "kn": {
+      "question": "ಹಸ್ತಪ್ರತಿಗಳು ಮತ್ತು ಶಾಸನಗಳ ನಡುವಿನ ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": [
+        "ಹಸ್ತಪ್ರತಿಗಳನ್ನು ಎಲೆ/ತೊಗಟೆಯಂತಹ ಮೃದು ವಸ್ತುಗಳ ಮೇಲೆ ಬರೆಯಲಾಗುತ್ತಿತ್ತು, ಶಾಸನಗಳನ್ನು ಕಲ್ಲು/ಲೋಹದ ಮೇಲೆ ಕೆತ್ತಲಾಗುತ್ತಿತ್ತು",
+        "ಹಸ್ತಪ್ರತಿಗಳನ್ನು ಯಂತ್ರ ಬಳಸಿ ಮುದ್ರಿಸಲಾಗುತ್ತಿತ್ತು, ಶಾಸನಗಳನ್ನು ಕೈಯಿಂದ ಬರೆಯಲಾಗುತ್ತಿತ್ತು",
+        "ಹಸ್ತಪ್ರತಿಗಳನ್ನು ಇಂಗ್ಲಿಷ್‌ನಲ್ಲಿ ಮಾತ್ರ ಬರೆಯಲಾಗಿತ್ತು, ಶಾಸನಗಳನ್ನು ಸಂಸ್ಕೃತದಲ್ಲಿ ಬರೆಯಲಾಗಿತ್ತು",
+        "ಹಸ್ತಪ್ರತಿಗಳನ್ನು ಯಾವಾಗಲೂ ಗ್ರಂಥಾಲಯಗಳಲ್ಲಿ ಇಡಲಾಗುತ್ತಿತ್ತು, ಶಾಸನಗಳನ್ನು ದೇವಾಲಯಗಳಲ್ಲಿ ಇಡಲಾಗುತ್ತಿತ್ತು"
+      ],
+      "answer": "ಹಸ್ತಪ್ರತಿಗಳನ್ನು ಎಲೆ/ತೊಗಟೆಯಂತಹ ಮೃದು ವಸ್ತುಗಳ ಮೇಲೆ ಬರೆಯಲಾಗುತ್ತಿತ್ತು, ಶಾಸನಗಳನ್ನು ಕಲ್ಲು/ಲೋಹದ ಮೇಲೆ ಕೆತ್ತಲಾಗುತ್ತಿತ್ತು",
+      "reasoning": "ಹಸ್ತಪ್ರತಿಗಳನ್ನು (ಲ್ಯಾಟಿನ್ ಪದ 'ಮನು' ಅಂದರೆ ಕೈ) ತಾಳೆಗರಿಗಳು ಅಥವಾ ಭೂರ್ಜ ಪತ್ರಗಳ ಮೇಲೆ ಕೈಯಿಂದ ಬರೆಯಲಾಗುತ್ತಿತ್ತು. ಶಾಸನಗಳನ್ನು ಕಲ್ಲು, ಮಣ್ಣು ಅಥವಾ ಲೋಹದಂತಹ ಗಟ್ಟಿಯಾದ ಮೇಲ್ಮೈಗಳ ಮೇಲೆ ಕೆತ್ತಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_intro_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In which ancient literary source is the group of people called 'Bharata' who lived in the northwest first mentioned?",
+      "options": [
+        "Rigveda",
+        "Samaveda",
+        "Ramayana",
+        "Mahabharata"
+      ],
+      "answer": "Rigveda",
+      "reasoning": "The name Bharata was used for a group of people who lived in the northwest and are mentioned in the Rigveda, the earliest composition in Sanskrit dating to about 3500 years ago."
+    },
+    "kn": {
+      "question": "ವಾಯುವ್ಯದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದ 'ಭರತ' ಎಂಬ ಜನರ ಗುಂಪನ್ನು ಮೊದಲು ಯಾವ ಪ್ರಾಚೀನ ಸಾಹಿತ್ಯ ಕೃತಿಯಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ?",
+      "options": [
+        "ಋಗ್ವೇದ",
+        "ಸಾಮವೇದ",
+        "ರಾಮಾಯಣ",
+        "ಮಹಾಭಾರತ"
+      ],
+      "answer": "ಋಗ್ವೇದ",
+      "reasoning": "ವಾಯುವ್ಯದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದ ಜನರ ಗುಂಪಿಗೆ ಭರತ ಎಂಬ ಹೆಸರನ್ನು ಬಳಸಲಾಗುತ್ತಿತ್ತು. ಇದನ್ನು ಸುಮಾರು 3500 ವರ್ಷಗಳಷ್ಟು ಹಳೆಯದಾದ ಸಂಸ್ಕೃತದ ಅತ್ಯಂತ ಆರಂಭಿಕ ಕೃತಿಯಾದ ಋಗ್ವೇದದಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_his_intro_013",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why did people in ancient times travel across the Indian subcontinent despite hazardous geographical barriers like hills, mountains, and deserts?",
+      "options": [
+        "In search of livelihood, to escape disasters, for trade, or to conquer new lands",
+        "To buy modern agricultural machinery from other regions",
+        "To seek high-paying corporate jobs in big cities",
+        "To escape from taxes imposed by democratic governments"
+      ],
+      "answer": "In search of livelihood, to escape disasters, for trade, or to conquer new lands",
+      "reasoning": "People traveled in search of livelihood, to escape natural disasters like floods or droughts, for trade (merchants with caravans), or as armies to conquer lands."
+    },
+    "kn": {
+      "question": "ಬೆಟ್ಟಗಳು, ಪರ್ವತಗಳು ಮತ್ತು ಮರುಭೂಮಿಗಳಂತಹ ಅಪಾಯಕಾರಿ ಭೌಗೋಳಿಕ ಅಡೆತಡೆಗಳಿದ್ದರೂ ಪ್ರಾಚೀನ ಕಾಲದಲ್ಲಿ ಜನರು ಭಾರತೀಯ ಉಪಖಂಡದಾದ್ಯಂತ ಏಕೆ ಪ್ರಯಾಣಿಸುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಜೀವನೋಪಾಯದ ಹುಡುಕಾಟದಲ್ಲಿ, ವಿಕೋಪಗಳಿಂದ ಪಾರಾಗಲು, ವ್ಯಾಪಾರಕ್ಕಾಗಿ ಅಥವಾ ಹೊಸ ಪ್ರದೇಶಗಳನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು",
+        "ಇತರ ಪ್ರದೇಶಗಳಿಂದ ಆಧುನಿಕ ಕೃಷಿ ಯಂತ್ರೋಪಕರಣಗಳನ್ನು ಖರೀದಿಸಲು",
+        "ದೊಡ್ಡ ನಗರಗಳಲ್ಲಿ ಹೆಚ್ಚಿನ ಸಂಬಳದ ಕಾರ್ಪೊರೇಟ್ ಉದ್ಯೋಗಗಳನ್ನು ಹುಡುಕಲು",
+        "ಪ್ರಜಾಪ್ರಭುತ್ವ ಸರ್ಕಾರಗಳು ವಿಧಿಸಿದ ತೆರಿಗೆಗಳಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು"
+      ],
+      "answer": "ಜೀವನೋಪಾಯದ ಹುಡುಕಾಟದಲ್ಲಿ, ವಿಕೋಪಗಳಿಂದ ಪಾರಾಗಲು, ವ್ಯಾಪಾರಕ್ಕಾಗಿ ಅಥವಾ ಹೊಸ ಪ್ರದೇಶಗಳನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು",
+      "reasoning": "ಜನರು ಜೀವನೋಪಾಯಕ್ಕಾಗಿ, ಪ್ರವಾಹ ಅಥವಾ ಬರಗಾಲದಂತಹ ನೈಸರ್ಗಿಕ ವಿಕೋಪಗಳಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು, ವ್ಯಾಪಾರಕ್ಕಾಗಿ (ಸರಕುಗಳೊಂದಿಗೆ ಕಾರವಾನ್‌ಗಳಲ್ಲಿ), ಅಥವಾ ಭೂಮಿಯನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಸೈನ್ಯಗಳಾಗಿ ಪ್ರಯಾಣಿಸುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_his_intro_014",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why do historians and archaeologists have to look for physical remains instead of written records to learn about ordinary people like gatherers, hunters, and farmers?",
+      "options": [
+        "Ordinary people generally did not keep records of what they did",
+        "Ordinary people only used digital devices which were destroyed over time",
+        "Kings ordered the destruction of all records kept by common people",
+        "Historians are prohibited by law from reading common people's records"
+      ],
+      "answer": "Ordinary people generally did not keep records of what they did",
+      "reasoning": "Unlike kings who kept records of their victories and battles, ordinary people such as hunters, gatherers, farmers, and herders did not keep written records of their daily activities."
+    },
+    "kn": {
+      "question": "ಸಂಗ್ರಹಕಾರರು, ಬೇಟೆಗಾರರು ಮತ್ತು ರೈತರಂತಹ ಸಾಮಾನ್ಯ ಜನರ ಬಗ್ಗೆ ತಿಳಿಯಲು ಇತಿಹಾಸಕಾರರು ಮತ್ತು ಪುರಾತತ್ವಶಾಸ್ತ್ರಜ್ಞರು ಲಿಖಿತ ದಾಖಲೆಗಳ ಬದಲಿಗೆ ಭೌತಿಕ ಅವಶೇಷಗಳನ್ನು ಏಕೆ ಹುಡುಕಬೇಕಾಗುತ್ತದೆ?",
+      "options": [
+        "ಸಾಮಾನ್ಯ ಜನರು ತಾವು ಮಾಡಿದ ಕೆಲಸಗಳ ದಾಖಲೆಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಇಡುತ್ತಿರಲಿಲ್ಲ",
+        "ಸಾಮಾನ್ಯ ಜನರು ಡಿಜಿಟಲ್ ಸಾಧನಗಳನ್ನು ಮಾತ್ರ ಬಳಸುತ್ತಿದ್ದರು ಮತ್ತು ಅವು ಕಾಲಾನಂತರದಲ್ಲಿ ನಾಶವಾದವು",
+        "ಸಾಮಾನ್ಯ ಜನರು ಇಟ್ಟಿದ್ದ ಎಲ್ಲಾ ದಾಖಲೆಗಳನ್ನು ನಾಶಪಡಿಸಲು ರಾಜರು ಆದೇಶಿಸಿದ್ದರು",
+        "ಸಾಮಾನ್ಯ ಜನರ ದಾಖಲೆಗಳನ್ನು ಓದುವುದನ್ನು ಕಾನೂನಿನ ಮೂಲಕ ಇತಿಹಾಸಕಾರರಿಗೆ ನಿಷೇಧಿಸಲಾಗಿತ್ತು"
+      ],
+      "answer": "ಸಾಮಾನ್ಯ ಜನರು ತಾವು ಮಾಡಿದ ಕೆಲಸಗಳ ದಾಖಲೆಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಇಡುತ್ತಿರಲಿಲ್ಲ",
+      "reasoning": "ತಮ್ಮ ವಿಜಯಗಳು ಮತ್ತು ಯುದ್ಧಗಳ ದಾಖಲೆಗಳನ್ನು ಇಡುತ್ತಿದ್ದ ರಾಜರಂತೆ, ಬೇಟೆಗಾರರು, ಸಂಗ್ರಹಕಾರರು, ರೈತರು ಮತ್ತು ಕುರುಬರಂತಹ ಸಾಮಾನ್ಯ ಜನರು ತಮ್ಮ ದೈನಂದಿನ ಚಟುವಟಿಕೆಗಳ ಲಿಖಿತ ದಾಖಲೆಗಳನ್ನು ಇಡುತ್ತಿರಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_his_intro_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How does finding charred (burnt) grains at archaeological sites help historians reconstruct the past diet of humans?",
+      "options": [
+        "Charred grains survive for a long time and show what crops were grown",
+        "Charred grains were used as ancient coins for trading",
+        "Charred grains prove that ancient humans only ate cooked food",
+        "Charred grains are used to date when pottery was invented"
+      ],
+      "answer": "Charred grains survive for a long time and show what crops were grown",
+      "reasoning": "If food grains were burnt accidentally or on purpose, they survived in a charred form for thousands of years, allowing archaeologists to identify the types of crops grown."
+    },
+    "kn": {
+      "question": "ಪುರಾತತ್ವ ತಾಣಗಳಲ್ಲಿ ಸುಟ್ಟ ಧಾನ್ಯಗಳು ಪತ್ತೆಯಾಗುವುದು ಇತಿಹಾಸಕಾರರಿಗೆ ಮಾನವರ ಹಳೆಯ ಆಹಾರ ಪದ್ಧತಿಯನ್ನು ಮರುನಿರ್ಮಾಣ ಮಾಡಲು ಹೇಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ?",
+      "options": [
+        "ಸುಟ್ಟ ಧಾನ್ಯಗಳು ದೀರ್ಘಕಾಲ ಉಳಿಯುತ್ತವೆ ಮತ್ತು ಯಾವ ಬೆಳೆಗಳನ್ನು ಬೆಳೆಯಲಾಗಿತ್ತು ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತವೆ",
+        "ಸುಟ್ಟ ಧಾನ್ಯಗಳನ್ನು ವ್ಯಾಪಾರಕ್ಕಾಗಿ ಪ್ರಾಚೀನ ನಾಣ್ಯಗಳಾಗಿ ಬಳಸಲಾಗುತ್ತಿತ್ತು",
+        "ಸುಟ್ಟ ಧಾನ್ಯಗಳು ಪ್ರಾಚೀನ ಮಾನವರು ಬೇಯಿಸಿದ ಆಹಾರವನ್ನು ಮಾತ್ರ ತಿನ್ನುತ್ತಿದ್ದರು ಎಂಬುದನ್ನು ಸಾಬೀತುಪಡಿಸುತ್ತವೆ",
+        "ಮಡಕೆಗಳನ್ನು ಯಾವಾಗ ಕಂಡುಹಿಡಿಯಲಾಯಿತು ಎಂಬುದನ್ನು ಗುರುತಿಸಲು ಸುಟ್ಟ ಧಾನ್ಯಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ"
+      ],
+      "answer": "ಸುಟ್ಟ ಧಾನ್ಯಗಳು ದೀರ್ಘಕಾಲ ಉಳಿಯುತ್ತವೆ ಮತ್ತು ಯಾವ ಬೆಳೆಗಳನ್ನು ಬೆಳೆಯಲಾಗಿತ್ತು ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತವೆ",
+      "reasoning": "ಆಹಾರ ಧಾನ್ಯಗಳು ಆಕಸ್ಮಿಕವಾಗಿ ಅಥವಾ ಉದ್ದೇಶಪೂರ್ವಕವಾಗಿ ಸುಟ್ಟುಹೋಗಿದ್ದರೆ, ಅವು ಸಾವಿರಾರು ವರ್ಷಗಳ ಕಾಲ ಸುಟ್ಟ ರೂಪದಲ್ಲಿ ಉಳಿಯುತ್ತವೆ. ಇದರಿಂದ ಯಾವ ಬೆಳೆಗಳನ್ನು ಬೆಳೆಯಲಾಗಿತ್ತು ಎಂಬುದನ್ನು ಪುರಾತತ್ವಶಾಸ್ತ್ರಜ್ಞರು ಗುರುತಿಸಬಹುದು."
+    }
+  },
+  {
+    "id": "c6_his_intro_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "In which languages were ancient manuscripts and inscriptions written for the common people who did not know Sanskrit?",
+      "options": [
+        "Prakrit and Tamil",
+        "Hindi and Kannada",
+        "English and French",
+        "Latin and Greek"
+      ],
+      "answer": "Prakrit and Tamil",
+      "reasoning": "While Sanskrit was used by elites and priests, Prakrit was the language used by ordinary people, and Tamil was also widely used in the southern parts of India."
+    },
+    "kn": {
+      "question": "ಸಂಸ್ಕೃತ ತಿಳಿಯದ ಸಾಮಾನ್ಯ ಜನರಿಗಾಗಿ ಪ್ರಾಚೀನ ಹಸ್ತಪ್ರತಿಗಳು ಮತ್ತು ಶಾಸನಗಳನ್ನು ಯಾವ ಭಾಷೆಗಳಲ್ಲಿ ಬರೆಯಲಾಗುತ್ತಿತ್ತು?",
+      "options": [
+        "ಪ್ರಾಕೃತ ಮತ್ತು ತಮಿಳು",
+        "ಹಿಂದಿ ಮತ್ತು ಕನ್ನಡ",
+        "ಇಂಗ್ಲಿಷ್ ಮತ್ತು ಫ್ರೆಂಚ್",
+        "ಲ್ಯಾಟಿನ್ ಮತ್ತು ಗ್ರೀಕ್"
+      ],
+      "answer": "ಪ್ರಾಕೃತ ಮತ್ತು ತಮಿಳು",
+      "reasoning": "ಸಂಸ್ಕೃತವನ್ನು ಗಣ್ಯರು ಮತ್ತು ಅರ್ಚಕರು ಬಳಸುತ್ತಿದ್ದರೆ, ಪ್ರಾಕೃತವು ಸಾಮಾನ್ಯ ಜನರು ಬಳಸುತ್ತಿದ್ದ ಭಾಷೆಯಾಗಿತ್ತು ಮತ್ತು ಭಾರತದ ದಕ್ಷಿಣ ಭಾಗಗಳಲ್ಲಿ ತಮಿಳನ್ನು ವ್ಯಾಪಕವಾಗಿ ಬಳಸಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_intro_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "In the study of ancient history, what does the term 'source' refer to?",
+      "options": [
+        "Information found from manuscripts, inscriptions, and archaeology",
+        "The place where the first river originates in a country",
+        "The text written by modern authors about current events",
+        "The raw materials used to build museum buildings"
+      ],
+      "answer": "Information found from manuscripts, inscriptions, and archaeology",
+      "reasoning": "Historians use the word 'source' to refer to the information found from manuscripts, inscriptions, and archaeological remains, which they use like clues to reconstruct history."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಚೀನ ಇತಿಹಾಸದ ಅಧ್ಯಯನದಲ್ಲಿ 'ಮೂಲ' ಅಥವಾ 'ಆಧಾರ' (source) ಎಂಬ ಪದವು ಯಾವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": [
+        "ಹಸ್ತಪ್ರತಿಗಳು, ಶಾಸನಗಳು ಮತ್ತು ಪುರಾತತ್ವಶಾಸ್ತ್ರದಿಂದ ದೊರೆತ ಮಾಹಿತಿ",
+        "ದೇಶದಲ್ಲಿ ಮೊದಲ ನದಿ ಉಗಮಿಸುವ ಸ್ಥಳ",
+        "ಪ್ರಸ್ತುತ ಘಟನೆಗಳ ಬಗ್ಗೆ ಆಧುನಿಕ ಲೇಖಕರು ಬರೆದ ಪಠ್ಯ",
+        "ಮ್ಯೂಸಿಯಂ ಕಟ್ಟಡಗಳನ್ನು ನಿರ್ಮಿಸಲು ಬಳಸುವ ಕಚ್ಚಾ ವಸ್ತುಗಳು"
+      ],
+      "answer": "ಹಸ್ತಪ್ರತಿಗಳು, ಶಾಸನಗಳು ಮತ್ತು ಪುರಾತತ್ವಶಾಸ್ತ್ರದಿಂದ ದೊರೆತ ಮಾಹಿತಿ",
+      "reasoning": "ಇತಿಹಾಸಕಾರರು ಹಸ್ತಪ್ರತಿಗಳು, ಶಾಸನಗಳು ಮತ್ತು ಪುರಾತತ್ವ ಅವಶೇಷಗಳಿಂದ ಕಂಡುಬರುವ ಮಾಹಿತಿಯನ್ನು ಸೂಚಿಸಲು 'ಮೂಲ' ಅಥವಾ 'ಆಧಾರ' ಎಂಬ ಪದವನ್ನು ಬಳಸುತ್ತಾರೆ. ಇತಿಹಾಸವನ್ನು ಪುನರ್ನಿರ್ಮಿಸಲು ಇವುಗಳನ್ನು ಸುಳಿವುಗಳಾಗಿ ಬಳಸುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c6_his_intro_018",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following organic materials were commonly used to write manuscripts in ancient India before paper was introduced? (Select all that apply)",
+      "options": [
+        "Palm leaves",
+        "Specially prepared birch bark",
+        "Plastic sheets",
+        "Polyester cloth"
+      ],
+      "answer": [
+        "Palm leaves",
+        "Specially prepared birch bark"
+      ],
+      "reasoning": "Before paper was introduced, manuscripts were written on palm leaves cut and tied together, or on specially prepared bark of the birch tree."
+    },
+    "kn": {
+      "question": "ಕಾಗದದ ಬಳಕೆಗೆ ಮುನ್ನ ಪ್ರಾಚೀನ ಭಾರತದಲ್ಲಿ ಹಸ್ತಪ್ರತಿಗಳನ್ನು ಬರೆಯಲು ಕೆಳಗಿನ ಯಾವ ಸಾವಯವ ವಸ್ತುಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಬಳಸಲಾಗುತ್ತಿತ್ತು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ತಾಳೆಗರಿಗಳು",
+        "ವಿಶೇಷವಾಗಿ ಸಿದ್ಧಪಡಿಸಿದ ಭೂರ್ಜ ಮರದ ತೊಗಟೆ",
+        "ಪ್ಲಾಸ್ಟಿಕ್ ಹಾಳೆಗಳು",
+        "ಪಾಲಿಯೆಸ್ಟರ್ ಬಟ್ಟೆ"
+      ],
+      "answer": [
+        "ತಾಳೆಗರಿಗಳು",
+        "ವಿಶೇಷವಾಗಿ ಸಿದ್ಧಪಡಿಸಿದ ಭೂರ್ಜ ಮರದ ತೊಗಟೆ"
+      ],
+      "reasoning": "ಕಾಗದದ ಆವಿಷ್ಕಾರಕ್ಕೆ ಮುನ್ನ, ಹಸ್ತಪ್ರತಿಗಳನ್ನು ಕತ್ತರಿಸಿ ಒಟ್ಟಿಗೆ ಕಟ್ಟಿದ ತಾಳೆಗರಿಗಳ ಮೇಲೆ ಅಥವಾ ಭೂರ್ಜ ಮರದ ವಿಶೇಷವಾಗಿ ಸಿದ್ಧಪಡಿಸಿದ ತೊಗಟೆಯ ಮೇಲೆ ಬರೆಯಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_intro_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following activities do archaeologists carry out to study the past? (Select all that apply)",
+      "options": [
+        "Excavating (digging under the surface of the earth)",
+        "Studying the ruins of stone and brick buildings",
+        "Coding computer programs for virtual reality simulations",
+        "Enacting laws for modern city planning"
+      ],
+      "answer": [
+        "Excavating (digging under the surface of the earth)",
+        "Studying the ruins of stone and brick buildings"
+      ],
+      "reasoning": "Archaeologists study the remains of buildings made of stone and brick, paintings and sculpture. They also explore and excavate (dig) to find tools, pots, pans, ornaments, and coins."
+    },
+    "kn": {
+      "question": "ಗತಕಾಲವನ್ನು ಅಧ್ಯಯನ ಮಾಡಲು ಪುರಾತತ್ವಶಾಸ್ತ್ರಜ್ಞರು ಕೆಳಗಿನ ಯಾವ ಚಟುವಟಿಕೆಗಳನ್ನು ಕೈಗೊಳ್ಳುತ್ತಾರೆ? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಅಗೆಯುವುದು (ಭೂಮಿಯ ಮೇಲ್ಮೈ ಅಡಿಯಲ್ಲಿ ಅಗೆಯುವುದು)",
+        "ಕಲ್ಲು ಮತ್ತು ಇಟ್ಟಿಗೆ ಕಟ್ಟಡಗಳ ಅವಶೇಷಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡುವುದು",
+        "ವರ್ಚುವಲ್ ರಿಯಾಲಿಟಿ ಸಿಮ್ಯುಲೇಶನ್‌ಗಳಿಗಾಗಿ ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಂಗಳನ್ನು ಬರೆಯುವುದು",
+        "ಆಧುನಿಕ ನಗರ ಯೋಜನೆಯ ಕಾನೂನುಗಳನ್ನು ಜಾರಿಗೊಳಿಸುವುದು"
+      ],
+      "answer": [
+        "ಅಗೆಯುವುದು (ಭೂಮಿಯ ಮೇಲ್ಮೈ ಅಡಿಯಲ್ಲಿ ಅಗೆಯುವುದು)",
+        "ಕಲ್ಲು ಮತ್ತು ಇಟ್ಟಿಗೆ ಕಟ್ಟಡಗಳ ಅವಶೇಷಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡುವುದು"
+      ],
+      "reasoning": "ಪುರಾತತ್ವಶಾಸ್ತ್ರಜ್ಞರು ಕಲ್ಲು ಮತ್ತು ಇಟ್ಟಿಗೆಯಿಂದ ಮಾಡಿದ ಕಟ್ಟಡಗಳ ಅವಶೇಷಗಳು, ವರ್ಣಚಿತ್ರಗಳು ಮತ್ತು ಶಿಲ್ಪಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡುತ್ತಾರೆ. ಉಪಕರಣಗಳು, ಮಡಕೆಗಳು, ಆಭರಣಗಳು ಮತ್ತು ನಾಣ್ಯಗಳನ್ನು ಹುಡುಕಲು ಅವರು ಉತ್ಖನನವನ್ನು (ಅಗೆಯುವುದು) ಮಾಡುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c6_his_intro_020",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "In which of the following regions of the Indian subcontinent did early agriculture develop? (Select all that apply)",
+      "options": [
+        "Garo Hills in the northeast",
+        "Vindhyas in Central India",
+        "Thar Desert in Rajasthan",
+        "Deep ocean beds of the Indian Ocean"
+      ],
+      "answer": [
+        "Garo Hills in the northeast",
+        "Vindhyas in Central India"
+      ],
+      "reasoning": "Early agriculture developed in several areas, including the Garo hills to the northeast and the Vindhyas in central India, where crops like rice were grown."
+    },
+    "kn": {
+      "question": "ಭಾರತೀಯ ಉಪಖಂಡದ ಕೆಳಗಿನ ಯಾವ ಪ್ರದೇಶಗಳಲ್ಲಿ ಆರಂಭಿಕ ಕೃಷಿಯು ಅಭಿವೃದ್ಧಿ ಹೊಂದಿತು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಈಶಾನ್ಯದಲ್ಲಿರುವ ಗಾರೋ ಬೆಟ್ಟಗಳು",
+        "ಮಧ್ಯ ಭಾರತದಲ್ಲಿರುವ ವಿಂಧ್ಯ ಪರ್ವತಗಳು",
+        "ರಾಜಸ್ಥಾನದ ಥಾರ್ ಮರುಭೂಮಿ",
+        "ಹಿಂದೂ ಮಹಾಸಾಗರದ ಆಳವಾದ ಸಮುದ್ರ ತಳಗಳು"
+      ],
+      "answer": [
+        "ಈಶಾನ್ಯದಲ್ಲಿರುವ ಗಾರೋ ಬೆಟ್ಟಗಳು",
+        "ಮಧ್ಯ ಭಾರತದಲ್ಲಿರುವ ವಿಂಧ್ಯ ಪರ್ವತಗಳು"
+      ],
+      "reasoning": "ಈಶಾನ್ಯದಲ್ಲಿರುವ ಗಾರೋ ಬೆಟ್ಟಗಳು ಮತ್ತು ಮಧ್ಯ ಭಾರತದ ವಿಂಧ್ಯ ಬೆಟ್ಟಗಳು ಸೇರಿದಂತೆ ಹಲವಾರು ಪ್ರದೇಶಗಳಲ್ಲಿ ಆರಂಭಿಕ ಕೃಷಿ ಅಭಿವೃದ್ಧಿಗೊಂಡಿತು. ಇಲ್ಲಿ ಭತ್ತದಂತಹ ಬೆಳೆಗಳನ್ನು ಬೆಳೆಯಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_intro_021",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following topics were covered in ancient manuscripts? (Select all that apply)",
+      "options": [
+        "Religious beliefs and practices",
+        "The lives of kings, medicine, and science",
+        "Techniques of modern satellite communication",
+        "Global stock market analysis"
+      ],
+      "answer": [
+        "Religious beliefs and practices",
+        "The lives of kings, medicine, and science"
+      ],
+      "reasoning": "Ancient manuscripts dealt with all kinds of subjects: religious beliefs and practices, the lives of kings, medicine, science, as well as epics, poems, and plays."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಚೀನ ಹಸ್ತಪ್ರತಿಗಳಲ್ಲಿ ಕೆಳಗಿನ ಯಾವ ವಿಷಯಗಳನ್ನು ಚರ್ಚಿಸಲಾಗುತ್ತಿತ್ತು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳು ಮತ್ತು ಆಚರಣೆಗಳು",
+        "ರಾಜರ ಜೀವನ, ವೈದ್ಯಕೀಯ ಮತ್ತು ವಿಜ್ಞಾನ",
+        "ಆಧುನಿಕ ಉಪಗ್ರಹ ಸಂವಹನದ ತಂತ್ರಜ್ಞಾನಗಳು",
+        "ಜಾಗತಿಕ ಷೇರು ಮಾರುಕಟ್ಟೆ ವಿಶ್ಲೇಷಣೆ"
+      ],
+      "answer": [
+        "ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳು ಮತ್ತು ಆಚರಣೆಗಳು",
+        "ರಾಜರ ಜೀವನ, ವೈದ್ಯಕೀಯ ಮತ್ತು ವಿಜ್ಞಾನ"
+      ],
+      "reasoning": "ಪ್ರಾಚೀನ ಹಸ್ತಪ್ರತಿಗಳಲ್ಲಿ ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳು ಮತ್ತು ಆಚರಣೆಗಳು, ರಾಜರ ಜೀವನ, ವೈದ್ಯಕೀಯ ಮತ್ತು ವಿಜ್ಞಾನ, ಮಹಾಕಾವ್ಯಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ನಾಟಕಗಳು ಸೇರಿದಂತೆ ಎಲ್ಲಾ ರೀತಿಯ ವಿಷಯಗಳು ಇರುತ್ತಿದ್ದವು."
+    }
+  },
+  {
+    "id": "c6_his_intro_022",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the geographical regions with the historical events associated with them:",
+      "pairs": [
+        {
+          "left": "Narmada Valley",
+          "right": "Hunting and gathering"
+        },
+        {
+          "left": "Magadha",
+          "right": "The first big kingdom"
+        },
+        {
+          "left": "Garo Hills",
+          "right": "Early agriculture"
+        },
+        {
+          "left": "Indus and tributaries",
+          "right": "The earliest cities"
+        }
+      ],
+      "reasoning": "Different parts of the subcontinent saw different stages of human development: hunting/gathering along the Narmada, early cities along the Indus, agriculture in the Garo hills, and Magadha as the first large state."
+    },
+    "kn": {
+      "question": "ಭೌಗೋಳಿಕ ಪ್ರದೇಶಗಳನ್ನು ಅವುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಐತಿಹಾಸಿಕ ಘಟನೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ನರ್ಮದಾ ಕಣಿವೆ",
+          "right": "ಬೇಟೆ ಮತ್ತು ಆಹಾರ ಸಂಗ್ರಹಣೆ"
+        },
+        {
+          "left": "ಮಗಧ",
+          "right": "ಮೊದಲ ದೊಡ್ಡ ಸಾಮ್ರಾಜ್ಯ"
+        },
+        {
+          "left": "ಗಾರೋ ಬೆಟ್ಟಗಳು",
+          "right": "ಆರಂಭಿಕ ಕೃಷಿ"
+        },
+        {
+          "left": "ಸಿಂಧೂ ಮತ್ತು ಉಪನದಿಗಳು",
+          "right": "ಅತ್ಯಂತ ಆರಂಭಿಕ ನಗರಗಳು"
+        }
+      ],
+      "reasoning": "ಉಪಖಂಡದ विभिन्न ಭಾಗಗಳು ಮಾನವನ ಬೆಳವಣಿಗೆಯ ವಿವಿಧ ಹಂತಗಳನ್ನು ಕಂಡವು: ನರ್ಮದಾ ನದಿ ತೀರದಲ್ಲಿ ಬೇಟೆಗಾರಿಕೆ/ಸಂಗ್ರಹಣೆ, ಸಿಂಧೂ ನದಿ ತೀರದಲ್ಲಿ ಆರಂಭಿಕ ನಗರಗಳು, ಗಾರೋ ಬೆಟ್ಟಗಳಲ್ಲಿ ಕೃಷಿ ಮತ್ತು ಮಗಧವು ಮೊದಲ ದೊಡ್ಡ ಸಾಮ್ರಾಜ್ಯವಾಯಿತು."
+    }
+  },
+  {
+    "id": "c6_his_intro_023",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the historical terms with their correct explanations:",
+      "pairs": [
+        {
+          "left": "Manuscripts",
+          "right": "Handwritten books on palm leaf or bark"
+        },
+        {
+          "left": "Inscriptions",
+          "right": "Writings engraved on stone or metal"
+        },
+        {
+          "left": "Archaeology",
+          "right": "Study of material remains of the past"
+        },
+        {
+          "left": "Historians",
+          "right": "Scholars who study the past using sources"
+        }
+      ],
+      "reasoning": "These are key terms used in history. Manuscripts are handwritten, inscriptions are engraved, archaeology deals with physical ruins, and historians interpret these sources."
+    },
+    "kn": {
+      "question": "ಐತಿಹಾಸಿಕ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಹಸ್ತಪ್ರತಿಗಳು",
+          "right": "ತಾಳೆಗರಿ ಅಥವಾ ಮರದ ತೊಗಟೆಯ ಮೇಲೆ ಕೈಯಿಂದ ಬರೆದ ಪುಸ್ತಕಗಳು"
+        },
+        {
+          "left": "ಶಾಸನಗಳು",
+          "right": "ಕಲ್ಲು ಅಥವಾ ಲೋಹದ ಮೇಲೆ ಕೆತ್ತಿದ ಬರಹಗಳು"
+        },
+        {
+          "left": "ಪುರಾತತ್ವ ಶಾಸ್ತ್ರ",
+          "right": "ಗತಕಾಲದ ಭೌತಿಕ ಅವಶೇಷಗಳ ಅಧ್ಯಯನ"
+        },
+        {
+          "left": "ಇತಿಹಾಸಕಾರರು",
+          "right": "ಆಧಾರಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಗತಕಾಲವನ್ನು ಅಧ್ಯಯನ ಮಾಡುವ ವಿದ್ವಾಂಸರು"
+        }
+      ],
+      "reasoning": "ಇವು ಇತಿಹಾಸದಲ್ಲಿ ಬಳಸುವ ಪ್ರಮುಖ ಪದಗಳಾಗಿವೆ. ಹಸ್ತಪ್ರತಿಗಳು ಕೈಯಿಂದ ಬರೆದ ಪುಸ್ತಕಗಳು, ಶಾಸನಗಳು ಕೆತ್ತಲ್ಪಟ್ಟಿವೆ, ಪುರಾತತ್ವ ಶಾಸ್ತ್ರವು ಭೌತಿಕ ಅವಶೇಷಗಳೊಂದಿಗೆ ವ್ಯವಹರಿಸುತ್ತದೆ ಮತ್ತು ಇತಿಹಾಸಕಾರರು ಈ ಮೂಲಗಳನ್ನು ವಿಶ್ಲೇಷಿಸುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c6_his_intro_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the abbreviations used in historical dates with their English meanings:",
+      "pairs": [
+        {
+          "left": "AD",
+          "right": "Anno Domini (In the year of the Lord)"
+        },
+        {
+          "left": "BC",
+          "right": "Before Christ"
+        },
+        {
+          "left": "CE",
+          "right": "Common Era"
+        },
+        {
+          "left": "BCE",
+          "right": "Before Common Era"
+        }
+      ],
+      "reasoning": "These abbreviations are used to represent time periods. BC and AD are traditional religious markers, while BCE and CE are modern secular terms."
+    },
+    "kn": {
+      "question": "ಐತಿಹಾಸಿಕ ವರ್ಷಗಳಲ್ಲಿ ಬಳಸುವ ಸಂಕ್ಷಿಪ್ತ ರೂಪಗಳನ್ನು ಅವುಗಳ ಇಂಗ್ಲಿಷ್ ಅರ್ಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "AD",
+          "right": "Anno Domini (ಪ್ರಭುವಿನ ವರ್ಷದಲ್ಲಿ)"
+        },
+        {
+          "left": "BC",
+          "right": "Before Christ (ಕ್ರಿಸ್ತಪೂರ್ವ)"
+        },
+        {
+          "left": "CE",
+          "right": "Common Era (ಸಾಮಾನ್ಯ ಶಕೆ)"
+        },
+        {
+          "left": "BCE",
+          "right": "Before Common Era (ಸಾಮಾನ್ಯ ಶಕೆಗೆ ಮುನ್ನ)"
+        }
+      ],
+      "reasoning": "ಈ ಸಂಕ್ಷಿಪ್ತ ರೂಪಗಳನ್ನು ಕಾಲಾವಧಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ. BC ಮತ್ತು AD ಸಾಂಪ್ರದಾಯಿಕ ಧಾರ್ಮಿಕ ಸೂಚಕಗಳಾಗಿದ್ದರೆ, BCE ಮತ್ತು CE ಆಧುನಿಕ ಮತ್ತು ಜಾತ್ಯತೀತ ಪದಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c6_his_intro_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the water bodies/rivers with their historical roles in city development:",
+      "pairs": [
+        {
+          "left": "Indus and its tributaries",
+          "right": "Cities flourished here about 4700 years ago"
+        },
+        {
+          "left": "Ganga and its banks",
+          "right": "Cities developed here about 2500 years ago"
+        },
+        {
+          "left": "Son River Valley",
+          "right": "Location of the powerful Magadha kingdom"
+        },
+        {
+          "left": "Narmada River Valley",
+          "right": "Home to ancient hunter-gatherers"
+        }
+      ],
+      "reasoning": "Rivers played a major role. The earliest cities flourished on the Indus around 4700 years ago. Later, cities emerged on the Ganga around 2500 years ago, and Magadha grew on the Son (a tributary of the Ganga)."
+    },
+    "kn": {
+      "question": "ನದಿಗಳನ್ನು ನಗರಗಳ ಅಭಿವೃದ್ಧಿಯಲ್ಲಿ ಅವುಗಳ ಐತಿಹಾಸಿಕ ಪಾತ್ರದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಸಿಂಧೂ ಮತ್ತು ಅದರ ಉಪನದಿಗಳು",
+          "right": "ಸುಮಾರು 4700 ವರ್ಷಗಳ ಹಿಂದೆ ಇಲ್ಲಿ ನಗರಗಳು ಪ್ರವರ್ಧಮಾನಕ್ಕೆ ಬಂದವು"
+        },
+        {
+          "left": "ಗಂಗಾ ಮತ್ತು ಅದರ ದಂಡೆಗಳು",
+          "right": "ಸುಮಾರು 2500 ವರ್ಷಗಳ ಹಿಂದೆ ಇಲ್ಲಿ ನಗರಗಳು ಅಭಿವೃದ್ಧಿ ಹೊಂದಿದವು"
+        },
+        {
+          "left": "ಸೋನ್ ನದಿ ಕಣಿವೆ",
+          "right": "ಶಕ್ತಿಶಾಲಿ ಮಗಧ ಸಾಮ್ರಾಜ್ಯದ ಸ್ಥಳ"
+        },
+        {
+          "left": "ನರ್ಮದಾ ನದಿ ಕಣಿವೆ",
+          "right": "ಪ್ರಾಚೀನ ಬೇಟೆಗಾರ-ಸಂಗ್ರಹಕಾರರ ತವರು"
+        }
+      ],
+      "reasoning": "ನದಿಗಳು ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸಿವೆ. ಸುಮಾರು 4700 ವರ್ಷಗಳ ಹಿಂದೆ ಸಿಂಧೂ ನದಿ ತೀರದಲ್ಲಿ ಮೊದಲ ನಗರಗಳು ಬೆಳೆದವು. ನಂತರ 2500 ವರ್ಷಗಳ ಹಿಂದೆ ಗಂಗಾ ತೀರದಲ್ಲಿ ನಗರಗಳು ಮೂಡಿದವು ಮತ್ತು ಮಗಧವು ಗಂಗಾದ ಉಪನದಿಯಾದ ಸೋನ್ ತೀರದಲ್ಲಿ ವಿಸ್ತರಿಸಿತು."
+    }
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "c6_kan_abbakka_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which historic queen of coastal Karnataka is known as India's first female freedom fighter against European colonial powers?",
+      "options": [
+        "Kittur Rani Chennamma",
+        "Onake Obavva",
+        "Rani Abbakka Devi",
+        "Keladi Chennamma"
+      ],
+      "answer": "Rani Abbakka Devi",
+      "reasoning": "Rani Abbakka Chowta of Ullal fought the Portuguese in the 16th century, making her the first woman to resist European colonization."
+    },
+    "kn": {
+      "question": "ಯುರೋಪಿಯನ್ ವಸಾಹತುಶಾಹಿ ಶಕ್ತಿಗಳ ವಿರುದ್ಧ ಹೋರಾಡಿದ ಭಾರತದ ಮೊದಲ ಮಹಿಳಾ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ್ತಿ ಎಂದು ಕರಾವಳಿ ಕರ್ನಾಟಕದ ಯಾವ ರಾಣಿಯನ್ನು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮ",
+        "ಒನಕೆ ಓಬವ್ವ",
+        "ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ",
+        "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ"
+      ],
+      "answer": "ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ",
+      "reasoning": "ಉಳ್ಳಾಲದ ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ ಚೌಟ ಅವರು 16ನೇ ಶತಮಾನದಲ್ಲೇ ಪೋರ್ಚುಗೀಸರ ವಿರುದ್ಧ ಹೋರಾಡಿದ್ದರಿಂದ ಕರಾವಳಿಯ ಈ ಧೀರ ರಾಣಿಯನ್ನು ಮೊದಲ ಮಹಿಳಾ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ್ತಿ ಎನ್ನಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Near which modern coastal city of Karnataka is Ullal, the capital of Rani Abbakka, located?",
+      "options": [
+        "Karwar",
+        "Udupi",
+        "Mangaluru",
+        "Bhatkal"
+      ],
+      "answer": "Mangaluru",
+      "reasoning": "Ullal is a coastal town located just a few kilometers south of the city of Mangaluru in Karnataka."
+    },
+    "kn": {
+      "question": "ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿಯ ರಾಜಧಾನಿಯಾಗಿದ್ದ ಉಳ್ಳಾಲವು ಕರ್ನಾಟಕದ ಯಾವ ಪ್ರಮುಖ ಕರಾವಳಿ ನಗರದ ಸಮೀಪದಲ್ಲಿದೆ?",
+      "options": [
+        "ಕಾರವಾರ",
+        "ಉಡುಪಿ",
+        "ಮಂಗಳೂರು",
+        "ಭಟ್ಕಳ"
+      ],
+      "answer": "ಮಂಗಳೂರು",
+      "reasoning": "ಉಳ್ಳಾಲವು ಕರ್ನಾಟಕದ ದಕ್ಷಿಣ ಕನ್ನಡ ಜಿಲ್ಲೆಯ ಮಂಗಳೂರು ನಗರದ ದಕ್ಷಿಣಕ್ಕೆ ಕೆಲವೇ ಕಿಲೋಮೀಟರ್ ದೂರದಲ್ಲಿರುವ ಕರಾವಳಿ ಪಟ್ಟಣವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which foreign European power did Rani Abbakka fight against?",
+      "options": [
+        "The British",
+        "The French",
+        "The Portuguese",
+        "The Dutch"
+      ],
+      "answer": "The Portuguese",
+      "reasoning": "Rani Abbakka resisted the Portuguese who tried to establish a monopoly over the spice trade in the Indian Ocean."
+    },
+    "kn": {
+      "question": "ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ ಯಾವ ವಿದೇಶಿ ಯುರೋಪಿಯನ್ ಶಕ್ತಿಯ ವಿರುದ್ಧ ಹೋರಾಡಿದರು?",
+      "options": [
+        "ಬ್ರಿಟಿಷರು",
+        "ಫ್ರೆಂಚರು",
+        "ಪೋರ್ಚುಗೀಸರು",
+        "ಡಚ್ಚರು"
+      ],
+      "answer": "ಪೋರ್ಚುಗೀಸರು",
+      "reasoning": "ಹಿಂದೂ ಮಹಾಸಾಗರ ಮತ್ತು ಕರಾವಳಿಯ ಸಾಂಬಾರ ಪದಾರ್ಥಗಳ ವ್ಯಾಪಾರದ ಮೇಲೆ ಏಕಸ್ವಾಮ್ಯ ಸಾಧಿಸಲು ಯತ್ನಿಸುತ್ತಿದ್ದ ಪೋರ್ಚುಗೀಸರ ವಿರುದ್ಧ ರಾಣಿ ಅಬ್ಬಕ್ಕ ಹೋರಾಡಿದರು."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What was the main reason the Portuguese wanted to capture Ullal?",
+      "options": [
+        "To build tourist resorts",
+        "To control its strategic port and lucrative spice trade, especially pepper",
+        "To spread a new agricultural method",
+        "To search for gold mines"
+      ],
+      "answer": "To control its strategic port and lucrative spice trade, especially pepper",
+      "reasoning": "Ullal was an active trading port sending spices like pepper to Arabia, which the Portuguese wanted to monopolize."
+    },
+    "kn": {
+      "question": "ಪೋರ್ಚುಗೀಸರು ಉಳ್ಳಾಲವನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಬಯಸಿದ್ದಕ್ಕೆ ಮುಖ್ಯ ಕಾರಣವೇನು?",
+      "options": [
+        "ಅಲ್ಲಿ ಪ್ರವಾಸಿ ರೆಸಾರ್ಟ್‌ಗಳನ್ನು ನಿರ್ಮಿಸಲು",
+        "ಅಲ್ಲಿನ ಆಯಕಟ್ಟಿನ ಬಂದರು ಮತ್ತು ಮೆಣಸು ಮುಂತಾದ ಸಾಂಬಾರ ಪದಾರ್ಥಗಳ ಲಾಭದಾಯಕ ವ್ಯಾಪಾರವನ್ನು ಹತೋಟಿಗೆ ತೆಗೆದುಕೊಳ್ಳಲು",
+        "ಹೊಸ ಕೃಷಿ ಪದ್ಧತಿಯನ್ನು ಹರಡಲು",
+        "ಚಿನ್ನದ ಗಣಿಗಳನ್ನು ಹುಡುಕಲು"
+      ],
+      "answer": "ಅಲ್ಲಿನ ಆಯಕಟ್ಟಿನ ಬಂದರು ಮತ್ತು ಮೆಣಸು ಮುಂತಾದ ಸಾಂಬಾರ ಪದಾರ್ಥಗಳ ಲಾಭದಾಯಕ ವ್ಯಾಪಾರವನ್ನು ಹತೋಟಿಗೆ ತೆಗೆದುಕೊಳ್ಳಲು",
+      "reasoning": "ಉಳ್ಳಾಲ ಬಂದರು ಅರಬ್ ದೇಶಗಳಿಗೆ ಮೆಣಸನ್ನು ರಫ್ತು ಮಾಡುತ್ತಿದ್ದ ಪ್ರಮುಖ ಕೇಂದ್ರವಾಗಿದ್ದರಿಂದ ಪೋರ್ಚುಗೀಸರು ಅದನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಹೊಂಚು ಹಾಕಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What unique fiery weapons did Abbakka's soldiers use to burn down Portuguese ships?",
+      "options": [
+        "Gunpowder cannons",
+        "Fire arrows (Agni-bana)",
+        "Hot boiling oil",
+        "Greek fire pots"
+      ],
+      "answer": "Fire arrows (Agni-bana)",
+      "reasoning": "Abbakka's army used fire arrows (Agni-bana) shot from the shore to burn the wooden ships of the Portuguese navy."
+    },
+    "kn": {
+      "question": "ಪೋರ್ಚುಗೀಸರ ಹಡಗುಗಳಿಗೆ ಬೆಂಕಿ ಹಚ್ಚಲು ಅಬ್ಬಕ್ಕನ ಸೈನಿಕರು ಬಳಸಿದ ವಿಶಿಷ್ಟ ಆಯುಧ ಯಾವುದು?",
+      "options": [
+        "ಬಂದೂಕಿನ ಫಿರಂಗಿಗಳು",
+        "ಅಗ್ನಿಬಾಣಗಳು (Fire arrows)",
+        "ಕುದಿಯುವ ಬಿಸಿ ಎಣ್ಣೆ",
+        "ಬೆಂಕಿಯ ಮಡಕೆಗಳು"
+      ],
+      "answer": "ಅಗ್ನಿಬಾಣಗಳು (Fire arrows)",
+      "reasoning": "ಅಬ್ಬಕ್ಕನ ಸೈನಿಕರು ಸಮುದ್ರದ ತೀರದಿಂದ ಶತ್ರುಗಳ ಮರದ ಹಡಗುಗಳ ಮೇಲೆ ಉರಿಯುವ ಅಗ್ನಿಬಾಣಗಳನ್ನು ಬಿಟ್ಟು ಹಡಗುಗಳಿಗೆ ಬೆಂಕಿ ಹಚ್ಚುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which dynasty did Rani Abbakka belong to?",
+      "options": [
+        "Chowta Dynasty",
+        "Kadamba Dynasty",
+        "Alupa Dynasty",
+        "Rashtrakuta Dynasty"
+      ],
+      "answer": "Chowta Dynasty",
+      "reasoning": "Rani Abbakka belonged to the Chowta dynasty, which ruled Ullal and parts of coastal Karnataka."
+    },
+    "kn": {
+      "question": "ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ ಕರಾವಳಿಯ ಯಾವ ರಾಜವಂಶಕ್ಕೆ ಸೇರಿದವರಾಗಿದ್ದರು?",
+      "options": [
+        "ಚೌಟ ವಂಶ",
+        "ಕದಂಬ ವಂಶ",
+        "ಆಳುಪ ವಂಶ",
+        "ರಾಷ್ಟ್ರಕೂಟ ವಂಶ"
+      ],
+      "answer": "ಚೌಟ ವಂಶ",
+      "reasoning": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಉಳ್ಳಾಲ ಹಾಗೂ ಮಂಗಳೂರಿನ ಸುತ್ತಮುತ್ತಲಿನ ಭಾಗಗಳನ್ನು ಆಳುತ್ತಿದ್ದ ಜೈನ ಧರ್ಮೀಯ ಚೌಟ ರಾಜವಂಶಕ್ಕೆ ಸೇರಿದವರಾಗಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_007",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "How did Rani Abbakka showcase secularism (religious harmony) in her military?",
+      "options": [
+        "She hired foreign European generals only",
+        "Her army and navy consisted of both Hindus and Muslims working together in high positions",
+        "She banned religious activities in the palace",
+        "She only recruited soldiers from her own dynasty"
+      ],
+      "answer": "Her army and navy consisted of both Hindus and Muslims working together in high positions",
+      "reasoning": "She had Mapilla Muslims and Mogaveera Hindus in key positions of her naval force, showing deep religious harmony."
+    },
+    "kn": {
+      "question": "ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ ತನ್ನ ಸೈನ್ಯದಲ್ಲಿ ಧರ್ಮ ನಿರಪೇಕ್ಷತೆಯನ್ನು (ಸಾಮರಸ್ಯ) ಹೇಗೆ ತೋರಿಸಿದರು?",
+      "options": [
+        "ಕೇವಲ ವಿದೇಶಿ ಯುರೋಪಿಯನ್ ಜನರಲ್‌ಗಳನ್ನು ಮಾತ್ರ ನೇಮಿಸುವ ಮೂಲಕ",
+        "ತನ್ನ ಭೂಸೇನೆ ಮತ್ತು ನೌಕಾಸೇನೆಯಲ್ಲಿ ಹಿಂದೂ ಹಾಗೂ ಮುಸ್ಲಿಮರಿಬ್ಬರಿಗೂ ಉನ್ನತ ಹುದ್ದೆಗಳನ್ನು ನೀಡಿ ಒಟ್ಟಾಗಿ ಹೋರಾಡುವಂತೆ ಮಾಡುವ ಮೂಲಕ",
+        "ಅರಮನೆಯಲ್ಲಿ ಎಲ್ಲಾ ಧಾರ್ಮಿಕ ಆಚರಣೆಗಳನ್ನು ನಿಷೇಧಿಸುವ ಮೂಲಕ",
+        "ಕೇವಲ ತನ್ನ ಸ್ವಂತ ರಾಜವಂಶದ ಸೈನಿಕರನ್ನು ಮಾತ್ರ ನೇಮಿಸುವ ಮೂಲಕ"
+      ],
+      "answer": "ತನ್ನ ಭೂಸೇನೆ ಮತ್ತು ನೌಕಾಸೇನೆಯಲ್ಲಿ ಹಿಂದೂ ಹಾಗೂ ಮುಸ್ಲಿಮರಿಬ್ಬರಿಗೂ ಉನ್ನತ ಹುದ್ದೆಗಳನ್ನು ನೀಡಿ ಒಟ್ಟಾಗಿ ಹೋರಾಡುವಂತೆ ಮಾಡುವ ಮೂಲಕ",
+      "reasoning": "ಅಬ್ಬಕ್ಕನ ನೌಕಾಪಡೆಯಲ್ಲಿ ಮುಸ್ಲಿಂ ಮಾಪಿಳ್ಳೆಗಳು ಮತ್ತು ಹಿಂದೂ ಮೊಗವೀರರು ಭುಜಕ್ಕೆ ಭುಜ ಕೊಟ್ಟು ಹೋರಾಡುತ್ತಿದ್ದರು, ಇದು ಅವರ ಧಾರ್ಮಿಕ ಸೌಹಾರ್ದತೆಗೆ ಉದಾಹರಣೆಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_008",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who was the estranged husband of Rani Abbakka who later betrayed her to the Portuguese?",
+      "options": [
+        "The King of Mangalore (Kamiraya Chowta)",
+        "The King of Mysore",
+        "The Zamorin of Calicut",
+        "The Sultan of Bijapur"
+      ],
+      "answer": "The King of Mangalore (Kamiraya Chowta)",
+      "reasoning": "Her husband, Lakshmappa Bangarasa / Kamiraya of Mangalore, aligned with the Portuguese out of spite and jealousy."
+    },
+    "kn": {
+      "question": "ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿಯಿಂದ ದೂರಾಗಿ, ಕೊನೆಗೆ ಪೋರ್ಚುಗೀಸರೊಂದಿಗೆ ಕೈಜೋಡಿಸಿ ಅವಳಿಗೆ ದ್ರೋಹ ಬಗೆದ ಅವಳ ಗಂಡ ಯಾರು?",
+      "options": [
+        "ಮಂಗಳೂರಿನ ಅರಸ (ಕಾಮಿರಾಯ/ಲಕ್ಷ್ಮಪ್ಪ ಬಂಗರಸ)",
+        "ಮೈಸೂರಿನ ಮಹಾರಾಜ",
+        "ಕಾಲಿಕಟ್‌ನ ಜಾಮೊರಿನ್",
+        "ಬಿಜಾಪುರದ ಸುಲ್ತಾನ್"
+      ],
+      "answer": "ಮಂಗಳೂರಿನ ಅರಸ (ಕಾಮಿರಾಯ/ಲಕ್ಷ್ಮಪ್ಪ ಬಂಗರಸ)",
+      "reasoning": "ಅಬ್ಬಕ್ಕನ ಪತಿ ಮಂಗಳೂರಿನ ಬಂಗ ಅರಸನಾಗಿದ್ದು, ಕೌಟುಂಬಿಕ ಕಲಹ ಹಾಗೂ ಅಸೂಯೆಯ ಕಾರಣದಿಂದ ಪೋರ್ಚುಗೀಸರ ಜೊತೆ ಸೇರಿ ಅಬ್ಬಕ್ಕನ ಪತನಕ್ಕೆ ಕಾರಣನಾದನು."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which Portuguese commander launched a midnight surprise raid on Ullal, forcing the queen to retreat temporarily?",
+      "options": [
+        "Vasco da Gama",
+        "Joao Peixoto",
+        "Alfonso de Albuquerque",
+        "Dom Alvaro da Silveira"
+      ],
+      "answer": "Joao Peixoto",
+      "reasoning": "Joao Peixoto led a surprise attack at night, capturing the palace temporarily while Abbakka escaped to gather forces."
+    },
+    "kn": {
+      "question": "ಉಳ್ಳಾಲದ ಮೇಲೆ ಮಧ್ಯರಾತ್ರಿ ದಿಢೀರ್ ದಾಳಿ ನಡೆಸಿ, ರಾಣಿ ತಾತ್ಕಾಲಿಕವಾಗಿ ಹಿಂತೆಗೆಯುವಂತೆ ಮಾಡಿದ ಪೋರ್ಚುಗೀಸ್ ಅಧಿಕಾರಿ ಯಾರು?",
+      "options": [
+        "ವಾಸ್ಕೋಡಗಾಮ",
+        "ಜೊವಾವ್ ಪೀಕ್ಸೋಟೊ",
+        "ಅಲ್ಫೋನ್ಸೋ ಡಿ ಅಲ್ಬುಕ್ವೆರ್ಕ್",
+        "ಡೊಮ್ ಅಲ್ವಾರೋ ಡಾ ಸಿಲ್ವೇರಾ"
+      ],
+      "answer": "ಜೊವಾವ್ ಪೀಕ್ಸೋಟೊ",
+      "reasoning": "ಪೋರ್ಚುಗೀಸ್ ಜನರಲ್ ಜೊವಾವ್ ಪೀಕ್ಸೋಟೊ ಎಂಬಾತ ಮಧ್ಯರಾತ್ರಿ ಉಳ್ಳಾಲದ ಕೋಟೆಗೆ ನುಗ್ಗಿ ಅರಮನೆಯನ್ನು ವಶಪಡಿಸಿಕೊಂಡಾಗ, ಅಬ್ಬಕ್ಕ ರಹಸ್ಯ ದಾರಿಯಿಂದ ತಪ್ಪಿಸಿಕೊಂಡಳು."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Where did Rani Abbakka take refuge and regroup her army during the surprise midnight raid?",
+      "options": [
+        "In the deep forests of Sahyadri",
+        "In a local temple, where she gathered 200 of her loyal soldiers",
+        "In a foreign kingdom across the sea",
+        "In the fort of Kittur"
+      ],
+      "answer": "In a local temple, where she gathered 200 of her loyal soldiers",
+      "reasoning": "She escaped to a temple, assembled 200 soldiers, launched a counter-attack before dawn, and killed Joao Peixoto."
+    },
+    "kn": {
+      "question": "ಮಧ್ಯರಾತ್ರಿಯ ದಿಢೀರ್ ದಾಳಿಯ ಸಮಯದಲ್ಲಿ ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ ಎಲ್ಲಿ ಆಶ್ರಯ ಪಡೆದು ತನ್ನ ಸೈನ್ಯವನ್ನು ಮರುಸಂಘಟಿಸಿದಳು?",
+      "options": [
+        "ಸಹ್ಯಾದ್ರಿಯ ದಟ್ಟ ಕಾಡುಗಳಲ್ಲಿ",
+        "ಸ್ಥಳೀಯ ದೇವಸ್ಥಾನವೊಂದರಲ್ಲಿ, ಅಲ್ಲಿ ಅವಳು ತನ್ನ 200 ನಿಷ್ಠಾವಂತ ಸೈನಿಕರನ್ನು ಒಟ್ಟುಗೂಡಿಸಿದಳು",
+        "ಸಮುದ್ರದಾಚೆಗಿನ ವಿದೇಶಿ ಸಾಮ್ರಾಜ್ಯದಲ್ಲಿ",
+        "ಕಿತ್ತೂರಿನ ಕೋಟೆಯಲ್ಲಿ"
+      ],
+      "answer": "ಸ್ಥಳೀಯ ದೇವಸ್ಥಾನವೊಂದರಲ್ಲಿ, ಅಲ್ಲಿ ಅವಳು ತನ್ನ 200 ನಿಷ್ಠಾವಂತ ಸೈನಿಕರನ್ನು ಒಟ್ಟುಗೂಡಿಸಿದಳು",
+      "reasoning": "ಅರಮನೆಯಿಂದ ತಪ್ಪಿಸಿಕೊಂಡ ಅಬ್ಬಕ್ಕ ದೇವಸ್ಥಾನದಲ್ಲಿ ಆಶ್ರಯ ಪಡೆದು, 200 ಜನ ಸೈನಿಕರೊಂದಿಗೆ ಮುಂಜಾನೆಯ ಮುನ್ನವೇ ಶತ್ರುಗಳ ಮೇಲೆ ಮುಗಿಬಿದ್ದು ಪೀಕ್ಸೋಟೋನನ್ನು ಕೊಂದಳು."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the meaning of the Kannada word 'Kappa' (ಕಪ್ಪ) in historical context?",
+      "options": [
+        "A black box",
+        "Tribute / tax paid by a vassal king to a dominant power",
+        "A boat used for fishing",
+        "A traditional crown worn by queens"
+      ],
+      "answer": "Tribute / tax paid by a vassal king to a dominant power",
+      "reasoning": "'Kappa' or 'Kappa-Kanike' refers to tribute/tax collected by rulers or colonial powers, which Abbakka proudly refused to pay."
+    },
+    "kn": {
+      "question": "ಐತಿಹಾಸಿಕ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಬಳಸಲಾಗುವ 'ಕಪ್ಪ' (ಅಥವಾ ಕಪ್ಪಕಾಣಿಕೆ) ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಕಪ್ಪು ಬಣ್ಣದ ಪೆಟ್ಟಿಗೆ",
+        "ಸಾಮಂತ ರಾಜನು ಪ್ರಬಲ ಶಕ್ತಿಗೆ ಸಲ್ಲಿಸುವ ತೆರಿಗೆ/ಕಾಣಿಕೆ (Tribute)",
+        "ಮೀನುಗಾರಿಕೆಗೆ ಬಳಸುವ ದೋಣಿ",
+        "ರಾಣಿಯರು ಧರಿಸುವ ಸಾಂಪ್ರದಾಯಿಕ ಕಿರೀಟ"
+      ],
+      "answer": "ಸಾಮಂತ ರಾಜನು ಪ್ರಬಲ ಶಕ್ತಿಗೆ ಸಲ್ಲಿಸುವ ತೆರಿಗೆ/ಕಾಣಿಕೆ (Tribute)",
+      "reasoning": "'ಕಪ್ಪ' ಎಂದರೆ ದುರ್ಬಲ ರಾಜರು ತಮ್ಮ ರಕ್ಷಣೆಗಾಗಿ ಅಥವಾ ಶರಣಾಗತಿಯ ಸಂಕೇತವಾಗಿ ಬಲಿಷ್ಠ ಶತ್ರುಗಳಿಗೆ ಪಾವತಿಸುವ ಕಡ್ಡಾಯ ತೆರಿಗೆ."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which title was given to Abbakka Devi to honor her outstanding courage and leadership?",
+      "options": [
+        "Veerarani",
+        "Kaviyeethri",
+        "Shanthaduta",
+        "Yakshagana Kogile"
+      ],
+      "answer": "Veerarani",
+      "reasoning": "Rani Abbakka is remembered in history with the title 'Veerarani' (Brave Queen) for her heroic battles."
+    },
+    "kn": {
+      "question": "ಅಬ್ಬಕ್ಕದೇವಿಯ ಅಪ್ರತಿಮ ಧೈರ್ಯ ಮತ್ತು ನಾಯಕತ್ವವನ್ನು ಗೌರವಿಸಲು ಅವಳಿಗೆ ನೀಡಲಾದ ಬಿರುದು ಯಾವುದು?",
+      "options": [
+        "ವೀರರಾಣಿ",
+        "ಕವಯಿತ್ರಿ",
+        "ಶಾಂತಿದೂತ",
+        "ಯಕ್ಷಗಾನ ಕೋಗಿಲೆ"
+      ],
+      "answer": "ವೀರರಾಣಿ",
+      "reasoning": "ಪೋರ್ಚುಗೀಸರ ವಿರುದ್ಧ ತಾಯ್ನಾಡಿನ ರಕ್ಷಣೆಗಾಗಿ ನಡೆಸಿದ ವೀರಾವೇಶದ ಹೋರಾಟಕ್ಕಾಗಿ ಇತಿಹಾಸದಲ್ಲಿ ಅವಳನ್ನು 'ವೀರರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What did wounded Rani Abbakka say to her soldiers when she was captured?",
+      "options": [
+        "'Surrender immediately to save lives'",
+        "'Fight till your last breath to drive out the foreigners!'",
+        "'Flee to the mountains'",
+        "'Pay the tribute to the Portuguese'"
+      ],
+      "answer": "'Fight till your last breath to drive out the foreigners!'",
+      "reasoning": "Even while bleeding and captured, she urged her soldiers to continue fighting against the colonial invaders."
+    },
+    "kn": {
+      "question": "ಯುದ್ಧಭೂಮಿಯಲ್ಲಿ ಗಾಯಗೊಂಡು ಸೆರೆಯಾಗುವ ಕೊನೆಯ ಕ್ಷಣದಲ್ಲೂ ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ ತನ್ನ ಸೈನಿಕರಿಗೆ ಏನು ಘೋಷಿಸಿದಳು?",
+      "options": [
+        "‘ಪ್ರಾಣ ಉಳಿಸಿಕೊಳ್ಳಲು ತಕ್ಷಣ ಶರಣಾಗಿ’",
+        "‘ಪರಕೀಯರನ್ನು ನಾಡಿನಿಂದ ಓಡಿಸುವವರೆಗೂ ಕೊನೆಯುಸಿರಿರುವ ತನಕ ಹೋರಾಡಿ!’",
+        "‘ಎಲ್ಲರೂ ಬೆಟ್ಟಗಳಿಗೆ ಓಡಿಹೋಗಿ’",
+        "‘ಪೋರ್ಚುಗೀಸರಿಗೆ ಕಪ್ಪವನ್ನು ಪಾವತಿಸಿಬಿಡಿ’"
+      ],
+      "answer": "‘ಪರಕೀಯರನ್ನು ನಾಡಿನಿಂದ ಓಡಿಸುವವರೆಗೂ ಕೊನೆಯುಸಿರಿರುವ ತನಕ ಹೋರಾಡಿ!’",
+      "reasoning": "ಪೋರ್ಚುಗೀಸರು ಕಪಟತನದಿಂದ ಅವಳನ್ನು ಸೆರೆಹಿಡಿದಾಗಲೂ ಅವಳು ಸೈನಿಕರಿಗೆ ಧೃತಿಗೆಡದೆ ದೇಶದ ರಕ್ಷಣೆಗಾಗಿ ಹೋರಾಡಲು ಕರೆ ನೀಡಿದಳು."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_014",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following local and regional rulers did Rani Abbakka ally with to present a united front against the Portuguese?",
+      "options": [
+        "The King of Mysore and the Marathas",
+        "The Zamorin of Calicut and the Adil Shahis of Bijapur",
+        "The British East India Company",
+        "The Mughal Emperor Akbar"
+      ],
+      "answer": "The Zamorin of Calicut and the Adil Shahis of Bijapur",
+      "reasoning": "Rani Abbakka formed strategic alliances with the Zamorin of Calicut and the Bijapur Sultanate to resist the common Portuguese threat."
+    },
+    "kn": {
+      "question": "ಪೋರ್ಚುಗೀಸರ ವಿರುದ್ಧ ಸಂಘಟಿತ ಹೋರಾಟ ನಡೆಸಲು ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ ಯಾವ ಪ್ರಾದೇಶಿಕ ಅರಸರೊಂದಿಗೆ ಒಪ್ಪಂದ ಮಾಡಿಕೊಂಡಿದ್ದಳು?",
+      "options": [
+        "ಮೈಸೂರಿನ ಅರಸರು ಮತ್ತು ಮರಾಠರು",
+        "ಕಾಲಿಕಟ್‌ನ ಜಾಮೊರಿನ್ ಮತ್ತು ಬಿಜಾಪುರದ ಆದಿಲ್ ಶಾಹಿಗಳು",
+        "ಬ್ರಿಟಿಷ್ ಈಸ್ಟ್ ಇಂಡಿಯಾ ಕಂಪನಿ",
+        "ಮೊಘಲ್ ಬಾದಷಾ ಅಕ್ಬರ್"
+      ],
+      "answer": "ಕಾಲಿಕಟ್‌ನ ಜಾಮೊರಿನ್ ಮತ್ತು ಬಿಜಾಪುರದ ಆದಿಲ್ ಶಾಹಿಗಳು",
+      "reasoning": "ಕರಾವಳಿಯಲ್ಲಿ ಶತ್ರುಗಳನ್ನು ಮಟ್ಟಹಾಕಲು ಅಬ್ಬಕ್ಕ ದಕ್ಷಿಣದ ಪ್ರಬಲ ಶಕ್ತಿಗಳಾದ ಕೇರಳದ ಜಾಮೊರಿನ್ ಮತ್ತು ಬಿಜಾಪುರದ ಸುಲ್ತಾನರೊಂದಿಗೆ ರಾಜತಾಂತ್ರಿಕ ಒಕ್ಕೂಟ ಮಾಡಿಕೊಂಡಿದ್ದಳು."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "In 1555, the Portuguese sent Admiral Dom Alvaro da Silveira to attack Ullal after Abbakka did what?",
+      "options": [
+        "She declared war on Calicut",
+        "She refused to pay tribute (Kappa) and asserted her independence",
+        "She destroyed a local temple",
+        "She stopped all trade in the Arabian Sea"
+      ],
+      "answer": "She refused to pay tribute (Kappa) and asserted her independence",
+      "reasoning": "Abbakka refused to pay the unfair taxes demanded by the Portuguese, triggering their military retaliation."
+    },
+    "kn": {
+      "question": "1555 ರಲ್ಲಿ ಪೋರ್ಚುಗೀಸರು ಉಳ್ಳಾಲದ ಮೇಲೆ ದಾಳಿ ಮಾಡಲು ಅಡ್ಮಿರಲ್ ಡೊಮ್ ಅಲ್ವಾರೋನನ್ನು ಕಳುಹಿಸಲು ಅಬ್ಬಕ್ಕ ಮಾಡಿದ ಯಾವ ಕೃತ್ಯ ಕಾರಣವಾಗಿತ್ತು?",
+      "options": [
+        "ಅವಳು ಜಾಮೊರಿನ್ ವಿರುದ್ಧ ಯುದ್ಧ ಘೋಷಿಸಿದಳು",
+        "ಅವಳು ಪೋರ್ಚುಗೀಸರಿಗೆ ಕಪ್ಪ ಕೊಡಲು ನಿರಾಕರಿಸಿ ಸ್ವತಂತ್ರ ಅಸ್ತಿತ್ವ ಘೋಷಿಸಿದಳು",
+        "ಅವಳು ಸ್ಥಳೀಯ ದೇವಸ್ಥಾನವನ್ನು ನಾಶಪಡಿಸಿದಳು",
+        "ಅವಳು ಅರಬ್ಬಿ ಸಮುದ್ರದ ಎಲ್ಲಾ ವ್ಯಾಪಾರವನ್ನು ನಿಲ್ಲಿಸಿದಳು"
+      ],
+      "answer": "ಅವಳು ಪೋರ್ಚುಗೀಸರಿಗೆ ಕಪ್ಪ ಕೊಡಲು ನಿರಾಕರಿಸಿ ಸ್ವತಂತ್ರ ಅಸ್ತಿತ್ವ ಘೋಷಿಸಿದಳು",
+      "reasoning": "ಪೋರ್ಚುಗೀಸರು ವಿಧಿಸಿದ ಅನ್ಯಾಯದ ಕಪ್ಪಕಾಣಿಕೆಯನ್ನು ಕೊಡಲು ನಿರಾಕರಿಸಿ ಸ್ವಾವಲಂಬನೆಯಿಂದ ಆಡಳಿತ ನಡೆಸಿದ್ದರಿಂದ ಸಿಟ್ಟಾದ ವೈರಿಗಳು ದಾಳಿ ಮಾಡಿದರು."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the historical significance of the matrilineal system of succession (Aliyasantana) that brought Abbakka to power?",
+      "options": [
+        "It meant only male heirs could rule",
+        "It was a system in coastal Karnataka where the crown passed through the female line (sister's son/daughter)",
+        "It allowed foreign rulers to inherit the throne",
+        "It gave the local priests the right to choose the king"
+      ],
+      "answer": "It was a system in coastal Karnataka where the crown passed through the female line (sister's son/daughter)",
+      "reasoning": "Rani Abbakka was crowned queen under the Aliyasantana system, where inheritance passed through the female family lineage."
+    },
+    "kn": {
+      "question": "ಅಬ್ಬಕ್ಕ ಅಧಿಕಾರಕ್ಕೆ ಬರಲು ಕಾರಣವಾದ ಕರಾವಳಿಯ ಸಾಂಪ್ರದಾಯಿಕ 'ಅಳಿಯಸಂತಾನ' ಪದ್ಧತಿಯ ಐತಿಹಾಸಿಕ ಮಹತ್ವವೇನು?",
+      "options": [
+        "ಕೇವಲ ಪುರುಷ ವಾರಸುದಾರರು ಮಾತ್ರ ಆಳಬಹುದು ಎಂಬ ನಿಯಮ",
+        "ಉತ್ತರಾಧಿಕಾರವು ಹೆಣ್ಣುಮಕ್ಕಳ ರೇಖೆಯ ಮೂಲಕ (ಸಹೋದರಿಯ ಮಗ/ಮಗಳಿಗೆ) ಸಾಗುವ ಪದ್ಧತಿ",
+        "ವಿದೇಶಿ ಆಡಳಿತಗಾರರಿಗೆ ರಾಜವಂಶದ ಹಕ್ಕನ್ನು ನೀಡುವ ನಿಯಮ",
+        "ಸ್ಥಳೀಯ ಅರ್ಚಕರಿಗೆ ರಾಜನನ್ನು ಆಯ್ಕೆ ಮಾಡುವ ಹಕ್ಕನ್ನು ನೀಡುವುದು"
+      ],
+      "answer": "ಉತ್ತರಾಧಿಕಾರವು ಹೆಣ್ಣುಮಕ್ಕಳ ರೇಖೆಯ ಮೂಲಕ (ಸಹೋದರಿಯ ಮಗ/ಮಗಳಿಗೆ) ಸಾಗುವ ಪದ್ಧತಿ",
+      "reasoning": "ಕರಾವಳಿಯ ತುಳುನಾಡಿನಲ್ಲಿ ಜಾರಿಯಲ್ಲಿದ್ದ 'ಅಳಿಯಸಂತಾನ' ಪದ್ಧತಿಯ ಅಡಿಯಲ್ಲಿ ಅಬ್ಬಕ್ಕನಿಗೆ ಅವಳ ಸೋದರಮಾವನ ನಂತರ ಪಟ್ಟಾಭಿಷೇಕ ಮಾಡಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How did Rani Abbakka die according to historical records?",
+      "options": [
+        "She died peacefully in her palace at a very old age",
+        "She was captured due to betrayal, imprisoned, and died in prison while planning her next escape",
+        "She drowned in the Arabian Sea during a storm",
+        "She signed a peace treaty and retired to a forest"
+      ],
+      "answer": "She was captured due to betrayal, imprisoned, and died in prison while planning her next escape",
+      "reasoning": "Captured due to betrayal by her husband's forces, she was put in prison where she rebelled and breathed her last."
+    },
+    "kn": {
+      "question": "ಐತಿಹಾಸಿಕ ದಾಖಲೆಗಳ ಪ್ರಕಾರ ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ ಹೇಗೆ ಮರಣ ಹೊಂದಿದಳು?",
+      "options": [
+        "ಅವಳು ವೃದ್ಧಾಪ್ಯದಲ್ಲಿ ತನ್ನ ಅರಮನೆಯಲ್ಲಿ ಶಾಂತಿಯುತವಾಗಿ ಮರಣ ಹೊಂದಿದಳು",
+        "ದ್ರೋಹದಿಂದ ಸೆರೆಯಾಗಿ, ಸೆರೆಮನೆಯಲ್ಲಿ ಇಡಲ್ಪಟ್ಟ ಅವಳು ಅಲ್ಲೂ ದಂಗೆಯೆದ್ದು ಸೆರೆಮನೆಯಲ್ಲೇ ಕೊನೆಯುಸಿರೆಳೆದಳು",
+        "ಅವಳು ಬಿರುಗಾಳಿಯ ಸಮಯದಲ್ಲಿ ಅರಬ್ಬಿ ಸಮುದ್ರದಲ್ಲಿ ಮುಳುಗಿ ಸಾವನ್ನಪ್ಪಿದಳು",
+        "ಅವಳು ಶಾಂತಿ ಒಪ್ಪಂದಕ್ಕೆ ಸಹಿ ಹಾಕಿ ಕಾಡಿಗೆ ನಿವೃತ್ತಿ ಹೊಂದಿದಳು"
+      ],
+      "answer": "ದ್ರೋಹದಿಂದ ಸೆರೆಯಾಗಿ, ಸೆರೆಮನೆಯಲ್ಲಿ ಇಡಲ್ಪಟ್ಟ ಅವಳು ಅಲ್ಲೂ ದಂಗೆಯೆದ್ದು ಸೆರೆಮನೆಯಲ್ಲೇ ಕೊನೆಯುಸಿರೆಳೆದಳು",
+      "reasoning": "ಗಂಡನ ದೇಶದ್ರೋಹದಿಂದಾಗಿ ಯುದ್ಧಭೂಮಿಯಲ್ಲಿ ಸೆರೆಯಾದ ರಾಣಿಯನ್ನು ಪೋರ್ಚುಗೀಸರು ಬಂಧನದಲ್ಲಿಟ್ಟರು. ಅಲ್ಲಿಯೂ ಅವಳು ಪ್ರತಿಭಟಿಸುತ್ತಾ ಸೆರೆಮನೆಯಲ್ಲೇ ಹುತಾತ್ಮಳಾದಳು."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_018",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of these groups or communities were part of Rani Abbakka's local defense forces? (Select all that apply)",
+      "options": [
+        "Mogaveeras (local fishermen community)",
+        "Mapillas (local Muslim coastal community)",
+        "Billavas and local warriors",
+        "Portuguese royal guards"
+      ],
+      "answer": [
+        "Mogaveeras (local fishermen community)",
+        "Mapillas (local Muslim coastal community)",
+        "Billavas and local warriors"
+      ],
+      "reasoning": "Abbakka's forces were composed of patriotic locals including Mogaveeras, Mapillas, and Billavas. Portuguese guards were her enemies, not supporters."
+    },
+    "kn": {
+      "question": "ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿಯ ಸ್ಥಳೀಯ ರಕ್ಷಣಾ ಪಡೆಯಲ್ಲಿ ಸಕ್ರಿಯವಾಗಿ ಭಾಗವಹಿಸಿದ್ದ ಸಮುದಾಯಗಳು ಯಾವುವು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಮೊಗವೀರರು (ಸ್ಥಳೀಯ ಮೀನುಗಾರ ಸಮುದಾಯ)",
+        "ಮಾಪಿಳ್ಳೆಗಳು (ಕರಾವಳಿಯ ಮುಸ್ಲಿಂ ಸಮುದಾಯ)",
+        "ಬಿಲ್ಲವರು ಮತ್ತು ಸ್ಥಳೀಯ ಯೋಧರು",
+        "ಪೋರ್ಚುಗೀಸ್ ರಾಜಮನೆತನದ ಭಟರು"
+      ],
+      "answer": [
+        "ಮೊಗವೀರರು (ಸ್ಥಳೀಯ ಮೀನುಗಾರ ಸಮುದಾಯ)",
+        "ಮಾಪಿಳ್ಳೆಗಳು (ಕರಾವಳಿಯ ಮುಸ್ಲಿಂ ಸಮುದಾಯ)",
+        "ಬಿಲ್ಲವರು ಮತ್ತು ಸ್ಥಳೀಯ ಯೋಧರು"
+      ],
+      "reasoning": "ಕರಾವಳಿಯ ಎಲ್ಲಾ ಜಾತಿ ಮತ್ತು ಧರ್ಮದ ಜನರು ಅಬ್ಬಕ್ಕನ ನಾಯಕತ್ವದಲ್ಲಿ ಒಂದಾಗಿ ಪೋರ್ಚುಗೀಸರನ್ನು ವಿರೋಧಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "What strategies did Rani Abbakka use to counter the superior naval power of the Portuguese? (Select all that apply)",
+      "options": [
+        "Launching stealth fire attacks using fire-arrows (Agni-bana)",
+        "Forming alliances with the Zamorin of Calicut to get naval support",
+        "Paying all demanded taxes to buy peace",
+        "Utilizing the local coast's geography and shallow waters to trap large ships"
+      ],
+      "answer": [
+        "Launching stealth fire attacks using fire-arrows (Agni-bana)",
+        "Forming alliances with the Zamorin of Calicut to get naval support",
+        "Utilizing the local coast's geography and shallow waters to trap large ships"
+      ],
+      "reasoning": "She used fire-arrows, Calicut alliances, and coastal geography to defeat Portuguese ships. Paying taxes was never her strategy."
+    },
+    "kn": {
+      "question": "ಪೋರ್ಚುಗೀಸರ ಪ್ರಬಲ ನೌಕಾಪಡೆಯನ್ನು ಎದುರಿಸಲು ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ ಬಳಸಿದ ತಂತ್ರಗಳು ಯಾವುವು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಅಗ್ನಿಬಾಣಗಳನ್ನು ಬಳಸಿ ಹಡಗುಗಳ ಮೇಲೆ ರಹಸ್ಯ ಬೆಂಕಿ ದಾಳಿ ಮಾಡುವುದು",
+        "ನೌಕಾ ಬಲಕ್ಕಾಗಿ ಕಾಲಿಕಟ್‌ನ ಜಾಮೊರಿನ್ ಜೊತೆ ರಕ್ಷಣಾ ಒಕ್ಕೂಟ ರಚಿಸುವುದು",
+        "ಶಾಂತಿ ಕಾಪಾಡಲು ಕೇಳಿದ ಎಲ್ಲಾ ತೆರಿಗೆಗಳನ್ನು ತಕ್ಷಣ ಪಾವತಿಸುವುದು",
+        "ದೊಡ್ಡ ಹಡಗುಗಳನ್ನು ಸಿಲುಕಿಸಲು ಕರಾವಳಿಯ ಆಳವಿಲ್ಲದ ನೀರಿನ ಭೌಗೋಳಿಕತೆಯನ್ನು ಬಳಸುವುದು"
+      ],
+      "answer": [
+        "ಅಗ್ನಿಬಾಣಗಳನ್ನು ಬಳಸಿ ಹಡಗುಗಳ ಮೇಲೆ ರಹಸ್ಯ ಬೆಂಕಿ ದಾಳಿ ಮಾಡುವುದು",
+        "ನೌಕಾ ಬಲಕ್ಕಾಗಿ ಕಾಲಿಕಟ್‌ನ ಜಾಮೊರಿನ್ ಜೊತೆ ರಕ್ಷಣಾ ಒಕ್ಕೂಟ ರಚಿಸುವುದು",
+        "ದೊಡ್ಡ ಹಡಗುಗಳನ್ನು ಸಿಲುಕಿಸಲು ಕರಾವಳಿಯ ಆಳವಿಲ್ಲದ ನೀರಿನ ಭೌಗೋಳಿಕತೆಯನ್ನು ಬಳಸುವುದು"
+      ],
+      "answer": [
+        "ಅಗ್ನಿಬಾಣಗಳನ್ನು ಬಳಸಿ ಹಡಗುಗಳ ಮೇಲೆ ರಹಸ್ಯ ಬೆಂಕಿ ದಾಳಿ ಮಾಡುವುದು",
+        "ನೌಕಾ ಬಲಕ್ಕಾಗಿ ಕಾಲಿಕಟ್‌ನ ಜಾಮೊರಿನ್ ಜೊತೆ ರಕ್ಷಣಾ ಒಕ್ಕೂಟ ರಚಿಸುವುದು",
+        "ದೊಡ್ಡ ಹಡಗುಗಳನ್ನು ಸಿಲುಕಿಸಲು ಕರಾವಳಿಯ ಆಳವಿಲ್ಲದ ನೀರಿನ ಭೌಗೋಳಿಕತೆಯನ್ನು ಬಳಸುವುದು"
+      ],
+      "reasoning": "ಅಬ್ಬಕ್ಕ ಅಗ್ನಿಬಾಣಗಳು, ಜಾಮೊರಿನ್‌ನ ಬೆಂಬಲ ಹಾಗೂ ಕರಾವಳಿಯ ಸ್ವಾಭಾವಿಕ ಸ್ಥಿತಿಗತಿಯನ್ನು ನಂಬಿ ಯುದ್ಧಗಳನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಆಯೋಜಿಸಿದಳು."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_020",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following factors contributed to the ultimate capture of Rani Abbakka? (Select all that apply)",
+      "options": [
+        "Jealousy and betrayal by her husband, the King of Mangalore",
+        "The Portuguese coordinate attack combining naval power and land soldiers from Mangalore",
+        "Lack of support from her own citizens of Ullal",
+        "A surprise betrayal inside her palace borders"
+      ],
+      "answer": [
+        "Jealousy and betrayal by her husband, the King of Mangalore",
+        "The Portuguese coordinate attack combining naval power and land soldiers from Mangalore",
+        "A surprise betrayal inside her palace borders"
+      ],
+      "reasoning": "Her capture was due to her husband's betrayal, Portuguese military coordination, and internal treachery. Her citizens in Ullal remained completely loyal to her."
+    },
+    "kn": {
+      "question": "ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ ಕೊನೆಗೆ ಶತ್ರುಗಳ ಕೈಗೆ ಸೆರೆಯಾಗಲು ಕಾರಣವಾದ ಅಂಶಗಳು ಯಾವುವು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಅವಳ ಪತಿ ಮಂಗಳೂರಿನ ಅರಸನ ಅಸೂಯೆ ಮತ್ತು ದೇಶದ್ರೋಹದ ನಡವಳಿಕೆ",
+        "ನೌಕಾ ಶಕ್ತಿ ಮತ್ತು ಮಂಗಳೂರಿನಿಂದ ಬಂದ ಕಾಲಾಳುಗಳನ್ನು ಒಳಗೊಂಡ ಸಂಘಟಿತ ಪೋರ್ಚುಗೀಸ್ ದಾಳಿ",
+        "ಉಳ್ಳಾಲದ ಸ್ವಂತ ನಾಗರಿಕರಿಂದ ಅವಳಿಗೆ ಬೆಂಬಲ ಸಿಗದೇ ಇದ್ದುದು",
+        "ಅವಳ ಅರಮನೆಯ ಆವರಣದ ಒಳಗೇ ನಡೆದ ದಿಢೀರ್ ವಿಶ್ವಾಸದ್ರೋಹ"
+      ],
+      "answer": [
+        "ಅವಳ ಪತಿ ಮಂಗಳೂರಿನ ಅರಸನ ಅಸೂಯೆ ಮತ್ತು ದೇಶದ್ರೋಹದ ನಡವಳಿಕೆ",
+        "ನೌಕಾ ಶಕ್ತಿ ಮತ್ತು ಮಂಗಳೂರಿನಿಂದ ಬಂದ ಕಾಲಾಳುಗಳನ್ನು ಒಳಗೊಂಡ ಸಂಘಟಿತ ಪೋರ್ಚುಗೀಸ್ ದಾಳಿ",
+        "ಅವಳ ಅರಮನೆಯ ಆವರಣದ ಒಳಗೇ ನಡೆದ ದಿಢೀರ್ ವಿಶ್ವಾಸದ್ರೋಹ"
+      ],
+      "reasoning": "ಗಂಡನ ದ್ರೋಹ, ಶತ್ರುಗಳ ಚತುರ ದಾಳಿ ಹಾಗೂ ಸ್ಥಳೀಯ ರಹಸ್ಯ ಮಾಹಿತಿ ಸೋರಿಕೆಯಿಂದ ಅವಳು ಸೆರೆಯಾದಳೇ ಹೊರತು ಉಳ್ಳಾಲದ ಜನರು ಅವಳನ್ನು ಕೈಬಿಡಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_021",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "How is Rani Abbakka's memory preserved in contemporary Karnataka? (Select all that apply)",
+      "options": [
+        "An annual celebration called 'Veerarani Abbakka Utsava' is held in Ullal",
+        "Veerarani Abbakka awards are given to outstanding women",
+        "A bronze statue of Rani Abbakka is installed in Bengaluru and Ullal",
+        "She was declared the first female Queen of Great Britain"
+      ],
+      "answer": [
+        "An annual celebration called 'Veerarani Abbakka Utsava' is held in Ullal",
+        "Veerarani Abbakka awards are given to outstanding women",
+        "A bronze statue of Rani Abbakka is installed in Bengaluru and Ullal"
+      ],
+      "reasoning": "Karnataka honors her with Abbakka Utsava, awards for brave women, and statues in Bengaluru and Ullal. The Britain reference is false."
+    },
+    "kn": {
+      "question": "ಇಂದಿನ ಆಧುನಿಕ ಕರ್ನಾಟಕದಲ್ಲಿ ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿಯ ಸ್ಮರಣೆಯನ್ನು ಹೇಗೆ ಉಳಿಸಿಕೊಳ್ಳಲಾಗಿದೆ? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಉಳ್ಳಾಲದಲ್ಲಿ ಪ್ರತಿವರ್ಷ 'ವೀರರಾಣಿ ಅಬ್ಬಕ್ಕ ಉತ್ಸವ'ವನ್ನು ಆಚರಿಸಲಾಗುತ್ತದೆ",
+        "ಸಾಧಕ ಮಹಿಳೆಯರಿಗೆ ಸರ್ಕಾರದಿಂದ 'ವೀರರಾಣಿ ಅಬ್ಬಕ್ಕ ಪ್ರಶಸ್ತಿ' ನೀಡಲಾಗುತ್ತದೆ",
+        "ಬೆಂಗಳೂರು ಹಾಗೂ ಉಳ್ಳಾಲದಲ್ಲಿ ಅಬ್ಬಕ್ಕನ ಭವ್ಯ ಕಂಚಿನ ಪ್ರತಿಮೆಯನ್ನು ಸ್ಥಾಪಿಸಲಾಗಿದೆ",
+        "ಅವಳನ್ನು ಬ್ರಿಟನ್ ಸಾಮ್ರಾಜ್ಯದ ಮೊದಲ ರಾಣಿ ಎಂದು ಘೋಷಿಸಲಾಗಿದೆ"
+      ],
+      "answer": [
+        "ಉಳ್ಳಾಲದಲ್ಲಿ ಪ್ರತಿವರ್ಷ 'ವೀರರಾಣಿ ಅಬ್ಬಕ್ಕ ಉತ್ಸವ'ವನ್ನು ಆಚರಿಸಲಾಗುತ್ತದೆ",
+        "ಸಾಧಕ ಮಹಿಳೆಯರಿಗೆ ಸರ್ಕಾರದಿಂದ 'ವೀರರಾಣಿ ಅಬ್ಬಕ್ಕ ಪ್ರಶಸ್ತಿ' ನೀಡಲಾಗುತ್ತದೆ",
+        "ಬೆಂಗಳೂರು ಹಾಗೂ ಉಳ್ಳಾಲದಲ್ಲಿ ಅಬ್ಬಕ್ಕನ ಭವ್ಯ ಕಂಚಿನ ಪ್ರತಿಮೆಯನ್ನು ಸ್ಥಾಪಿಸಲಾಗಿದೆ"
+      ],
+      "reasoning": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ ಮತ್ತು ಸಂಘಟನೆಗಳು ಉತ್ಸವ, ಪ್ರಶಸ್ತಿ ಹಾಗೂ ಪ್ರತಿಮೆಗಳ ಸ್ಥಾಪನೆಯ ಮೂಲಕ ಅಬ್ಬಕ್ಕನ ಸ್ವಾಭಿಮಾನದ ಬದುಕನ್ನು ಗೌರವಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_022",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the entities from the lesson with their appropriate descriptions:",
+      "pairs": [
+        {
+          "left": "Ullal",
+          "right": "Capital city of Chowta rulers"
+        },
+        {
+          "left": "Chowta",
+          "right": "The royal lineage of Abbakka"
+        },
+        {
+          "left": "Portuguese",
+          "right": "Foreigners who wanted spice monopoly"
+        },
+        {
+          "left": "Agni-bana",
+          "right": "Fiery arrows used in battle"
+        }
+      ],
+      "reasoning": "These are the fundamental historical definitions of places, weapons, and empires in the lesson."
+    },
+    "kn": {
+      "question": "ಪಾಠದಲ್ಲಿ ಬಂದಿರುವ ಪ್ರಮುಖ ವಿಷಯಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿವರಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ಉಳ್ಳಾಲ",
+          "right": "ಚೌಟ ಅರಸರ ರಾಜಧಾನಿ ಪಟ್ಟಣ"
+        },
+        {
+          "left": "ಚೌಟ",
+          "right": "ಅಬ್ಬಕ್ಕ ಸೇರಿದ್ದ ಕ್ಷತ್ರಿಯ ರಾಜವಂಶ"
+        },
+        {
+          "left": "ಪೋರ್ಚುಗೀಸರು",
+          "right": "ಸಾಂಬಾರ ವ್ಯಾಪಾರದ ಮೇಲೆ ಕಣ್ಣಿಟ್ಟಿದ್ದ ವಿದೇಶಿಯರು"
+        },
+        {
+          "left": "ಅಗ್ನಿಬಾಣ",
+          "right": "ಯುದ್ಧದಲ್ಲಿ ವೈರಿ ಹಡಗು ಸುಡಲು ಬಳಸಿದ ಆಯುಧ"
+        }
+      ],
+      "reasoning": "ಪಾಠದ ಕಥಾಹಂದರವನ್ನು ಅರಿಯಲು ಬೇಕಾದ ಸರಳ ಸಂಜ್ಞೆಗಳ ಹೊಂದಾಣಿಕೆ ಇಲ್ಲಿದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_023",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the historical figures with their actions in the battles of Ullal:",
+      "pairs": [
+        {
+          "left": "Rani Abbakka",
+          "right": "Led her soldiers in person on the battlefield"
+        },
+        {
+          "left": "Lakshmappa Bangarasa",
+          "right": "Gave inside information to the enemy due to jealousy"
+        },
+        {
+          "left": "Joao Peixoto",
+          "right": "Captured the palace in a midnight raid but was killed"
+        },
+        {
+          "left": "Zamorin of Calicut",
+          "right": "Allied with Abbakka and sent warships to help"
+        }
+      ],
+      "reasoning": "This matches the key characters (allies and enemies) with their specific actions in the historical events."
+    },
+    "kn": {
+      "question": "ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿಗಳನ್ನು ಉಳ್ಳಾಲ ಯುದ್ಧದಲ್ಲಿ ಅವರು ವಹಿಸಿದ ಪಾತ್ರಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ರಾಣಿ ಅಬ್ಬಕ್ಕ",
+          "right": "ಯುದ್ಧಭೂಮಿಯಲ್ಲಿ ಖುದ್ದಾಗಿ ಸೈನ್ಯವನ್ನು ಮುನ್ನಡೆಸಿದಳು"
+        },
+        {
+          "left": "ಲಕ್ಷ್ಮಪ್ಪ ಬಂಗರಸ",
+          "right": "ಅಸೂಯೆಯಿಂದ ಶತ್ರುಗಳಿಗೆ ಗುಪ್ತ ಮಾಹಿತಿ ನೀಡಿದನು"
+        },
+        {
+          "left": "ಜೊವಾವ್ ಪೀಕ್ಸೋಟೊ",
+          "right": "ಮಧ್ಯರಾತ್ರಿ ದಾಳಿ ಮಾಡಿ ಕೊನೆಗೆ ಹತನಾದ ಸೇನಾಧಿಕಾರಿ"
+        },
+        {
+          "left": "ಜಾಮೊರಿನ್",
+          "right": "ಅಬ್ಬಕ್ಕನೊಂದಿಗೆ ಒಪ್ಪಂದ ಮಾಡಿಕೊಂಡು ಹಡಗು ಕಳುಹಿಸಿದವನು"
+        }
+      ],
+      "reasoning": "ಉಳ್ಳಾಲದ ರಕ್ಷಣೆ ಹಾಗೂ ಪತನದಲ್ಲಿ ಭಾಗಿಯಾದ ವಿವಿಧ ಶಕ್ತಿಗಳ ಸರಿಯಾದ ಮ್ಯಾಪಿಂಗ್ ಇಲ್ಲಿದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_024",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the Kannada historical terms with their English meanings:",
+      "pairs": [
+        {
+          "left": "Kappa kanike",
+          "right": "Mandatory tribute tax"
+        },
+        {
+          "left": "Sena-nayaka",
+          "right": "Military commander"
+        },
+        {
+          "left": "Bandaru",
+          "right": "Trading port / harbor"
+        },
+        {
+          "left": "Veeragati",
+          "right": "Martyrdom in battlefield"
+        }
+      ],
+      "reasoning": "Understanding these administrative and battlefield terms is essential for students of history."
+    },
+    "kn": {
+      "question": "ಪಾಠದಲ್ಲಿನ ಐತಿಹಾಸಿಕ ಕನ್ನಡ ಶಬ್ದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಇಂಗ್ಲಿಷ್ ಅನುವಾದದೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ಕಪ್ಪ ಕಾಣಿಕೆ",
+          "right": "Mandatory tribute tax (ತೆರಿಗೆ)"
+        },
+        {
+          "left": "ಸೇನಾನಾಯಕ",
+          "right": "Military commander (ಸೇನಾಧಿಪತಿ)"
+        },
+        {
+          "left": "ಬಂದರು",
+          "right": "Trading port / harbor (ನಾವಿಕ ನಿಲ್ದಾಣ)"
+        },
+        {
+          "left": "ವೀರಗತಿ",
+          "right": "Martyrdom in battlefield (ವೀರಮರಣ)"
+        }
+      ],
+      "reasoning": "ಮಧ್ಯಯುಗದ ಇತಿಹಾಸ ಪಾಠದಲ್ಲಿ ಬರುವ ಪ್ರಮುಖ ಆಡಳಿತ ಮತ್ತು ಸೇನಾ ಸಂಬಂಧಿತ ಪದಗಳ ವಿವರಣೆ ಇಲ್ಲಿದೆ."
+    }
+  },
+  {
+    "id": "c6_kan_abbakka_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the strategic actions of Abbakka's defense with their tactical benefits:",
+      "pairs": [
+        {
+          "left": "Matrilineal succession (Aliyasantana)",
+          "right": "Brought a determined female ruler to power"
+        },
+        {
+          "left": "Alliance with Calicut",
+          "right": "Provided critical naval support in deep seas"
+        },
+        {
+          "left": "Recruiting Mogaveera community",
+          "right": "Secured experts of coastal waterways and sailing"
+        },
+        {
+          "left": "Midnight counter-attack",
+          "right": "Surprised and routed the sleeping enemy forces"
+        }
+      ],
+      "reasoning": "This links Abbakka's political, social, and military actions to their strategic outcomes in her struggle."
+    },
+    "kn": {
+      "question": "ಅಬ್ಬಕ್ಕನ ರಕ್ಷಣಾ ಕಾರ್ಯವಿಧಾನಗಳನ್ನು ಅವುಗಳಿಂದ ದೊರೆತ ಯೂದ್ಧತಾಂತ್ರಿಕ ಲಾಭಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ಅಳಿಯಸಂತಾನ ಪದ್ಧತಿ",
+          "right": "ಶಕ್ತಿಶಾಲಿ ಮಹಿಳಾ ನಾಯಕತ್ವ ಆಳ್ವಿಕೆಗೆ ಬರಲು ನೆರವಾಯಿತು"
+        },
+        {
+          "left": "ಜಾಮೊರಿನ್ ಜೊತೆ ಒಕ್ಕೂಟ",
+          "right": "ಸಮುದ್ರದ ಆಳದಲ್ಲಿ ಅತ್ಯಗತ್ಯವಾದ ಯುದ್ಧ ನೌಕೆಗಳ ನೆರವು ನೀಡಿತು"
+        },
+        {
+          "left": "ಮೊಗವೀರ ಸಮುದಾಯ ಸೇರ್ಪಡೆ",
+          "right": "ಕರಾವಳಿಯ ಜಲಮಾರ್ಗ ಮತ್ತು ಈಜು ಪರಿಣಿತರನ್ನು ಸೈನ್ಯಕ್ಕೆ ಒದಗಿಸಿತು"
+        },
+        {
+          "left": "ಮುಂಜಾನೆ ಮುನ್ನ ಪ್ರತಿ-ದಾಳಿ",
+          "right": "ಅಸಾವಧಾನದಲ್ಲಿದ್ದ ಶತ್ರು ಸೇನೆಯನ್ನು ದಿಕ್ಕುಗೆಡಿಸಿ ಸೋಲಿಸಿತು"
+        }
+      ],
+      "reasoning": "ರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ ಹೂಡಿದ ಯುದ್ಧತಂತ್ರಗಳು ಮತ್ತು ಅವುಗಳ ಹಿಂದಿದ್ದ ರಾಜತಾಂತ್ರಿಕ ತಿಳುವಳಿಕೆಯ ವಿಶ್ಲೇಷಣೆ ಇಲ್ಲಿದೆ."
+    }
+  }
+]

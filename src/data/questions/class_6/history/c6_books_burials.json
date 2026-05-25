@@ -1,0 +1,791 @@
+[
+  {
+    "id": "c6_his_books_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which is the oldest of the four Vedas in ancient Indian tradition?",
+      "options": [
+        "Rigveda",
+        "Samaveda",
+        "Yajurveda",
+        "Atharvaveda"
+      ],
+      "answer": "Rigveda",
+      "reasoning": "The oldest Veda is the Rigveda, composed about 3500 years ago. The other three Vedas were composed in later periods."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಚೀನ ಭಾರತೀಯ ಸಂಪ್ರದಾಯದ ನಾಲ್ಕು ವೇದಗಳಲ್ಲಿ ಅತ್ಯಂತ ಹಳೆಯದು ಯಾವುದು?",
+      "options": [
+        "ಋಗ್ವೇದ",
+        "ಸಾಮವೇದ",
+        "ಯಜುರ್ವೇದ",
+        "ಅಥರ್ವವೇದ"
+      ],
+      "answer": "ಋಗ್ವೇದ",
+      "reasoning": "ನಾಲ್ಕು ವೇದಗಳಲ್ಲಿ ಅತ್ಯಂತ ಹಳೆಯದು ಋಗ್ವೇದ. ಇದನ್ನು ಸುಮಾರು 3500 ವರ್ಷಗಳ ಹಿಂದೆ ರಚಿಸಲಾಯಿತು. ಉಳಿದ ಮೂರು ವೇದಗಳನ್ನು ನಂತರದ ಅವಧಿಯಲ್ಲಿ ರಚಿಸಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c6_his_books_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Approximately how many years ago was the Rigveda composed?",
+      "options": [
+        "3500 years ago",
+        "2500 years ago",
+        "1500 years ago",
+        "4500 years ago"
+      ],
+      "answer": "3500 years ago",
+      "reasoning": "The Rigveda was composed about 3500 years ago, making it one of the oldest religious texts in the world."
+    },
+    "kn": {
+      "question": "ಋಗ್ವೇದವನ್ನು ಸುಮಾರು ಎಷ್ಟು ವರ್ಷಗಳ ಹಿಂದೆ ರಚಿಸಲಾಯಿತು?",
+      "options": [
+        "3500 ವರ್ಷಗಳ ಹಿಂದೆ",
+        "2500 ವರ್ಷಗಳ ಹಿಂದೆ",
+        "1500 ವರ್ಷಗಳ ಹಿಂದೆ",
+        "4500 ವರ್ಷಗಳ ಹಿಂದೆ"
+      ],
+      "answer": "3500 ವರ್ಷಗಳ ಹಿಂದೆ",
+      "reasoning": "ಋಗ್ವೇದವನ್ನು ಸುಮಾರು 3500 ವರ್ಷಗಳ ಹಿಂದೆ ರಚಿಸಲಾಯಿತು. ಇದು ಜಗತ್ತಿನ ಅತ್ಯಂತ ಹಳೆಯ ಧಾರ್ಮಿಕ ಗ್ರಂಥಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_his_books_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who were the creators who composed the hymns (suktas) found in the Rigveda?",
+      "options": [
+        "Sages (Rishis)",
+        "Kings (Rajas)",
+        "Merchants (Vaishyas)",
+        "Slaves (Dasas)"
+      ],
+      "answer": "Sages (Rishis)",
+      "reasoning": "The hymns of the Rigveda were composed by sages (rishis). Priests taught students to recite and memorize each syllable, word, and sentence."
+    },
+    "kn": {
+      "question": "ಋಗ್ವೇದದಲ್ಲಿರುವ ಸೂಕ್ತಗಳನ್ನು (ಸ್ತುತಿಗೀತೆಗಳನ್ನು) ರಚಿಸಿದ ಕರ್ತೃಗಳು ಯಾರು?",
+      "options": [
+        "ಋಷಿಗಳು (Rishis)",
+        "ರಾಜರು (Rajas)",
+        "ವ್ಯಾಪಾರಿಗಳು (Vaishyas)",
+        "ಗುಲಾಮರು (Dasas)"
+      ],
+      "answer": "ಋಷಿಗಳು (Rishis)",
+      "reasoning": "ಋಗ್ವೇದದ ಸೂಕ್ತಗಳನ್ನು ಋಷಿಗಳು ರಚಿಸಿದರು. ಅರ್ಚಕರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಪ್ರತಿಯೊಂದು ಅಕ್ಷರ, ಪದ ಮತ್ತು ವಾಕ್ಯವನ್ನು ಪಠಿಸಲು ಹಾಗೂ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಕಲಿಸುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_his_books_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What are the large stone boulders used to mark burial sites in ancient India called?",
+      "options": [
+        "Megaliths",
+        "Microliths",
+        "Monuments",
+        "Inscriptions"
+      ],
+      "answer": "Megaliths",
+      "reasoning": "Stone boulders used to mark burial sites are known as megaliths (literally big stones). The practice of erecting megaliths began about 3000 years ago."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಚೀನ ಭಾರತದಲ್ಲಿ ಶವಸಂಸ್ಕಾರದ ಸ್ಥಳಗಳನ್ನು ಗುರುತಿಸಲು ಬಳಸುತ್ತಿದ್ದ ದೊಡ್ಡ ಕಲ್ಲಿನ ಬಂಡೆಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ಮೆಗಾಲಿತ್ಸ್ (ಬೃಹತ್ ಶಿಲೆಗಳು)",
+        "ಮೈಕ್ರೋಲಿತ್ಸ್ (ಸೂಕ್ಷ್ಮಶಿಲೆಗಳು)",
+        "ಸ್ಮಾರಕಗಳು",
+        "ಶಾಸನಗಳು"
+      ],
+      "answer": "ಮೆಗಾಲಿತ್ಸ್ (ಬೃಹತ್ ಶಿಲೆಗಳು)",
+      "reasoning": "ಶವಸಂಸ್ಕಾರದ ಸ್ಥಳಗಳನ್ನು ಗುರುತಿಸಲು ನೆಟ್ಟ ದೊಡ್ಡ ಕಲ್ಲಿನ ಬಂಡೆಗಳನ್ನು ಮೆಗಾಲಿತ್ಸ್ (ಬೃಹತ್ ಶಿಲೆಗಳು) ಎನ್ನಲಾಗುತ್ತದೆ. ಈ ಪದ್ಧತಿಯು ಸುಮಾರು 3000 ವರ್ಷಗಳ ಹಿಂದೆ ಆರಂಭವಾಯಿತು."
+    }
+  },
+  {
+    "id": "c6_his_books_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In what form of Sanskrit was the Rigveda originally composed?",
+      "options": [
+        "Vedic Sanskrit",
+        "Classical Sanskrit",
+        "Prakrit",
+        "Pali"
+      ],
+      "answer": "Vedic Sanskrit",
+      "reasoning": "The Rigveda is in Vedic or old Sanskrit, which is different from the Sanskrit learned in schools today."
+    },
+    "kn": {
+      "question": "ಋಗ್ವೇದವನ್ನು ಮೂಲತಃ ಯಾವ ರೂಪದ ಸಂಸ್ಕೃತದಲ್ಲಿ ರಚಿಸಲಾಗಿತ್ತು?",
+      "options": [
+        "ವೈದಿಕ ಸಂಸ್ಕೃತ",
+        "ಲೌಕಿಕ ಸಂಸ್ಕೃತ",
+        "ಪ್ರಾಕೃತ",
+        "ಪಾಲಿ"
+      ],
+      "answer": "ವೈದಿಕ ಸಂಸ್ಕೃತ",
+      "reasoning": "ಋಗ್ವೇದವನ್ನು ವೈದಿಕ ಅಥವಾ ಹಳೆಯ ಸಂಸ್ಕೃತದಲ್ಲಿ ರಚಿಸಲಾಗಿದೆ. ಇದು ಇಂದು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಯುವ ಸಂಸ್ಕೃತಕ್ಕಿಂತ ಭಿನ್ನವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_his_books_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "On the banks of which river's tributary is the ancient farming and burial site of Inamgaon situated?",
+      "options": [
+        "Ghod River",
+        "Ganga River",
+        "Indus River",
+        "Narmada River"
+      ],
+      "answer": "Ghod River",
+      "reasoning": "Inamgaon is a site on the river Ghod, which is a tributary of the river Bhima. It was occupied between 3600 and 2700 years ago."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಚೀನ ಕೃಷಿ ಮತ್ತು ಶವಸಂಸ್ಕಾರದ ತಾಣವಾದ ಇನಾಮ್‌ಗಾಂವ್ ಯಾವ ನದಿಯ ಉಪನದಿಯ ದಂಡೆಯ ಮೇಲಿದೆ?",
+      "options": [
+        "ಘೋಡ್ ನದಿ",
+        "ಗಂಗಾ ನದಿ",
+        "ಸಿಂಧೂ ನದಿ",
+        "ನರ್ಮದಾ ನದಿ"
+      ],
+      "answer": "ಘೋಡ್ ನದಿ",
+      "reasoning": "ಇನಾಮ್‌ಗಾಂವ್ ಎಂಬುದು ಭೀಮಾ ನದಿಯ ಉಪನದಿಯಾದ ಘೋಡ್ ನದಿಯ ದಂಡೆಯ ಮೇಲಿರುವ ತಾಣವಾಗಿದೆ. ಇಲ್ಲಿ ಸುಮಾರು 3600 ರಿಂದ 2700 ವರ್ಷಗಳ ಹಿಂದೆ ಜನವಸತಿ ಇತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_books_007",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who were the three main gods described with high importance in the Rigvedic hymns?",
+      "options": [
+        "Agni, Indra, and Soma",
+        "Brahma, Vishnu, and Shiva",
+        "Rama, Krishna, and Hanuman",
+        "Varuna, Mitra, and Surya"
+      ],
+      "answer": "Agni, Indra, and Soma",
+      "reasoning": "Three gods are especially important in the Rigveda: Agni, the god of fire; Indra, a warrior god; and Soma, a plant from which a special drink was prepared."
+    },
+    "kn": {
+      "question": "ಋಗ್ವೇದದ ಸೂಕ್ತಗಳಲ್ಲಿ ಅತ್ಯಂತ ಹೆಚ್ಚು ಪ್ರಾಮುಖ್ಯತೆಯೊಂದಿಗೆ ವಿವರಿಸಲಾಗಿರುವ ಮೂವರು ಮುಖ್ಯ ದೇವರುಗಳು ಯಾರು?",
+      "options": [
+        "ಅಗ್ನಿ, ಇಂದ್ರ ಮತ್ತು ಸೋಮ",
+        "ಬ್ರಹ್ಮ, ವಿಷ್ಣು ಮತ್ತು ಶಿವ",
+        "ರಾಮ, ಕೃಷ್ಣ ಮತ್ತು ಹನುಮಾನ್",
+        "ವರುಣ, ಮಿತ್ರ ಮತ್ತು ಸೂರ್ಯ"
+      ],
+      "answer": "ಅಗ್ನಿ, ಇಂದ್ರ ಮತ್ತು ಸೋಮ",
+      "reasoning": "ಋಗ್ವೇದದಲ್ಲಿ ಮೂವರು ದೇವರುಗಳು ವಿಶೇಷವಾಗಿ ಮುಖ್ಯರಾಗಿದ್ದಾರೆ: ಅಗ್ನಿ (ಬೆಂಕಿಯ ದೇವರು), ಇಂದ್ರ (ಯುದ್ಧದ ದೇವರು) ಮತ್ತು ಸೋಮ (ವಿಶೇಷ ಪಾನೀಯವನ್ನು ತಯಾರಿಸಲು ಬಳಸುತ್ತಿದ್ದ ಸಸ್ಯದ ರೂಪದ ದೇವತೆ)."
+    }
+  },
+  {
+    "id": "c6_his_books_008",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In the Rigvedic dialog between Vishvamitra and the rivers Beas and Sutlej, the rivers are compared to what to show speed and strength?",
+      "options": [
+        "Swift horses and cows",
+        "Flying birds and fishes",
+        "Elephants and lions",
+        "Deer and tigers"
+      ],
+      "answer": "Swift horses and cows",
+      "reasoning": "In the dialogue, the rivers Beas and Sutlej are compared to two swift horses and two shining cows that lick their calves, showing their rapid flow and life-giving importance."
+    },
+    "kn": {
+      "question": "ವಿಶ್ವಾಮಿತ್ರ ಮಹರ್ಷಿ ಹಾಗೂ ಬಿಯಾಸ್ ಮತ್ತು ಸಟ್ಲೆಜ್ ನದಿಗಳ ನಡುವಿನ ಸಂಭಾಷಣೆಯಲ್ಲಿ, ನದಿಗಳ ವೇಗ ಮತ್ತು ಬಲವನ್ನು ಬಿಂಬಿಸಲು ಅವುಗಳನ್ನು ಯಾವುದಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ?",
+      "options": [
+        "ವೇಗದ ಕುದುರೆಗಳು ಮತ್ತು ಹಸುಗಳು",
+        "ಹಾರುವ ಪಕ್ಷಿಗಳು ಮತ್ತು ಮೀನುಗಳು",
+        "ಆನೆಗಳು ಮತ್ತು ಸಿಂಹಗಳು",
+        "ಜಿಂಕೆಗಳು ಮತ್ತು ಹುಲಿಗಳು"
+      ],
+      "answer": "ವೇಗದ ಕುದುರೆಗಳು ಮತ್ತು ಹಸುಗಳು",
+      "reasoning": "ಸಂಭಾಷಣೆಯಲ್ಲಿ ಬಿಯಾಸ್ ಮತ್ತು ಸಟ್ಲೆಜ್ ನದಿಗಳನ್ನು ಎರಡು ವೇಗದ ಕುದುರೆಗಳಿಗೆ ಮತ್ತು ತಮ್ಮ ಕರುಗಳನ್ನು ನೆಕ್ಕುವ ಎರಡು ಹೊಳೆಯುವ ಹಸುಗಳಿಗೆ ಹೋಲಿಸಲಾಗಿದೆ, ಇದು ಅವುಗಳ ಪ್ರವಾಹದ ವೇಗ ಮತ್ತು ಮಹತ್ವವನ್ನು ತೋರಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_his_books_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What two terms were used in the Rigveda to describe the community or the people as a whole?",
+      "options": [
+        "Jana and Vish",
+        "Arya and Dasa",
+        "Brahmin and Kshatriya",
+        "Raja and Senani"
+      ],
+      "answer": "Jana and Vish",
+      "reasoning": "Two words were used to describe the people or the community as a whole. One was the word 'jana' (still used), and the other was 'vish', from which the word 'Vaishya' originates."
+    },
+    "kn": {
+      "question": "ಋಗ್ವೇದದಲ್ಲಿ ಇಡೀ ಸಮುದಾಯ ಅಥವಾ ಜನರನ್ನು ಒಟ್ಟಾರೆಯಾಗಿ ವಿವರಿಸಲು ಬಳಸಲಾದ ಎರಡು ಪದಗಳು ಯಾವುವು?",
+      "options": [
+        "ಜನ ಮತ್ತು ವಿಶ್ (Jana and Vish)",
+        "ಆರ್ಯ ಮತ್ತು ದಾಸ",
+        "ಬ್ರಾಹ್ಮಣ ಮತ್ತು ಕ್ಷತ್ರಿಯ",
+        "ರಾಜ ಮತ್ತು ಸೇನಾನಿ"
+      ],
+      "answer": "ಜನ ಮತ್ತು ವಿಶ್ (Jana and Vish)",
+      "reasoning": "ಜನರನ್ನು ಅಥವಾ ಇಡೀ ಸಮುದಾಯವನ್ನು ಒಟ್ಟಾರೆಯಾಗಿ ವಿವರಿಸಲು ಎರಡು ಪದಗಳನ್ನು ಬಳಸಲಾಗುತ್ತಿತ್ತು. ಒಂದನೆಯದು 'ಜನ' (ಇಂದಿಗೂ ಬಳಕೆಯಲ್ಲಿದೆ) ಮತ್ತು ಎರಡನೆಯದು 'ವಿಶ್' (ಇದರಿಂದಲೇ ವೈಶ್ಯ ಎಂಬ ಪದ ಬಂದಿದೆ)."
+    }
+  },
+  {
+    "id": "c6_his_books_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "How did the social position and meaning of the word 'Dasa' or 'Dasi' change in later periods?",
+      "options": [
+        "It came to mean a slave who was treated as property",
+        "It became the title for high priests of temples",
+        "It was used exclusively for brave military generals",
+        "It represented wealthy landowners who collected taxes"
+      ],
+      "answer": "It came to mean a slave who was treated as property",
+      "reasoning": "Initially, Dasas were opponents who spoke different languages and did not perform sacrifices. Later, the term came to mean slaves, who were captured in war and treated as property by owners."
+    },
+    "kn": {
+      "question": "ನಂತರದ ಕಾಲದಲ್ಲಿ 'ದಾಸ' ಅಥವಾ 'ದಾಸಿ' ಎಂಬ ಪದದ ಸಾಮಾಜಿಕ ಸ್ಥಾನಮಾನ ಮತ್ತು ಅರ್ಥ ಹೇಗೆ ಬದಲಾಯಿತು?",
+      "options": [
+        "ಇದು ಒಡೆಯನ ಆಸ್ತಿಯೆಂದು ಪರಿಗಣಿಸಲ್ಪಡುವ 'ಗುಲಾಮ' ಎಂಬ ಅರ್ಥವನ್ನು ಪಡೆಯಿತು",
+        "ಇದು ದೇವಾಲಯಗಳ ಮುಖ್ಯ ಅರ್ಚಕರ ಪದವಿಯಾಯಿತು",
+        "ಇದನ್ನು ಶೂರ ಸೇನಾಧಿಪತಿಗಳಿಗೆ ಮಾತ್ರ ಬಳಸಲಾಗುತ್ತಿತ್ತು",
+        "ಇದು ತೆರಿಗೆ ಸಂಗ್ರಹಿಸುವ ಶ್ರೀಮಂತ ಭೂಮಾಲೀಕರನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಿತ್ತು"
+      ],
+      "answer": "ಇದು ಒಡೆಯನ ಆಸ್ತಿಯೆಂದು ಪರಿಗಣಿಸಲ್ಪಡುವ 'ಗುಲಾಮ' ಎಂಬ ಅರ್ಥವನ್ನು ಪಡೆಯಿತು",
+      "reasoning": "ಆರಂಭದಲ್ಲಿ ಯಜ್ಞಗಳನ್ನು ಮಾಡದ ಮತ್ತು ಬೇರೆ ಭಾಷೆಗಳನ್ನು ಮಾತನಾಡುತ್ತಿದ್ದ ವಿರೋಧಿಗಳನ್ನು ದಾಸರು ಎನ್ನಲಾಗುತ್ತಿತ್ತು. ನಂತರ ಈ ಪದದ ಅರ್ಥ ಗುಲಾಮ ಎಂದಾಯಿತು. ಯುದ್ಧದಲ್ಲಿ ಸೆರೆಸಿಕ್ಕವರನ್ನು ಹೀಗೆ ನಡೆಸಿಕೊಳ್ಳಲಾಗುತ್ತಿತ್ತು ಮತ್ತು ಒಡೆಯರು ಅವರನ್ನು ತಮ್ಮ ಆಸ್ತಿ ಎಂದು ಭಾವಿಸುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_his_books_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In Brahmagiri, a skeleton was found buried with 33 gold beads, stone beads, and copper bangles. What did this lead archaeologists to conclude?",
+      "options": [
+        "There were significant differences in social status and wealth among the dead",
+        "Everyone in the settlement enjoyed equal wealth and power",
+        "All the dead were buried with identical amounts of gold ornaments",
+        "The person was a trader who sold gold beads to Rome"
+      ],
+      "answer": "There were significant differences in social status and wealth among the dead",
+      "reasoning": "The vast difference in burial goods (some skeletons having gold and conch shells, others only having pots) suggests that there was social difference and status disparity among the buried people."
+    },
+    "kn": {
+      "question": "ಬ್ರಹ್ಮಗಿರಿಯಲ್ಲಿ ಒಂದು ಅಸ್ಥಿಪಂಜರವನ್ನು 33 ಚಿನ್ನದ ಮಣಿಗಳು, ಕಲ್ಲಿನ ಮಣಿಗಳು ಮತ್ತು ತಾಮ್ರದ ಬಳೆಗಳೊಂದಿಗೆ ಹೂಳಲಾಗಿತ್ತು. ಇದರಿಂದ ಪುರಾತತ್ವಶಾಸ್ತ್ರಜ್ಞರು ಯಾವ ತೀರ್ಮಾನಕ್ಕೆ ಬಂದರು?",
+      "options": [
+        "ಸತ್ತವರ ನಡುವೆ ಸಾಮಾಜಿಕ ಸ್ಥಾನಮಾನ ಮತ್ತು ಸಂಪತ್ತಿನಲ್ಲಿ ಗಮನಾರ್ಹ ವ್ಯತ್ಯಾಸಗಳಿದ್ದವು",
+        "ವಸಾಹತಿನಲ್ಲಿದ್ದ ಪ್ರತಿಯೊಬ್ಬರೂ ಸಮಾನ ಸಂಪತ್ತು ಮತ್ತು ಅಧಿಕಾರವನ್ನು ಹೊಂದಿದ್ದರು",
+        "ಎಲ್ಲಾ ಶವಗಳನ್ನು ಒಂದೇ ಪ್ರಮಾಣದ ಚಿನ್ನದ ಆಭರಣಗಳೊಂದಿಗೆ ಹೂಳಲಾಗುತ್ತಿತ್ತು",
+        "ಆ ವ್ಯಕ್ತಿಯು ರೋಮ್‌ಗೆ ಚಿನ್ನದ ಮಣಿಗಳನ್ನು ಮಾರಾಟ ಮಾಡುತ್ತಿದ್ದ ವ್ಯಾಪಾರಿಯಾಗಿದ್ದನು"
+      ],
+      "answer": "ಸತ್ತವರ ನಡುವೆ ಸಾಮಾಜಿಕ ಸ್ಥಾನಮಾನ ಮತ್ತು ಸಂಪತ್ತಿನಲ್ಲಿ ಗಮನಾರ್ಹ ವ್ಯತ್ಯಾಸಗಳಿದ್ದವು",
+      "reasoning": "ಶವ ಸಂಸ್ಕಾರದಲ್ಲಿ ಕಂಡುಬಂದ ವಸ್ತುಗಳ ವ್ಯತ್ಯಾಸವು (ಕೆಲವು ಶವಗಳ ಬಳಿ ಚಿನ್ನ, ಶಂಖ ಇದ್ದರೆ ಇನ್ನು ಕೆಲವು ಶವಗಳ ಬಳಿ ಕೇವಲ ಮಡಕೆಗಳು ಇದ್ದವು) ಅಂದಿನ ಸಮಾಜದಲ್ಲಿದ್ದ ಶ್ರೀಮಂತ-ಬಡವ ಮತ್ತು ಸಾಮಾಜಿಕ ಅಂತಸ್ತಿನ ತಾರತಮ್ಯವನ್ನು ತೋರಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_his_books_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why did some megalithic graves contain port-holes in their stone structures?",
+      "options": [
+        "To serve as entrances so that family members could be buried in the same site later",
+        "To allow fresh air and sunlight to keep the skeletons clean",
+        "To let spirits of the deceased wander out at night",
+        "To check if the buried ornaments were stolen by thieves"
+      ],
+      "answer": "To serve as entrances so that family members could be buried in the same site later",
+      "reasoning": "Port-holes were openings in megaliths that served as entrances. This allowed people belonging to the same family to be buried in the same grave at different times."
+    },
+    "kn": {
+      "question": "ಕೆಲವು ಬೃಹತ್ ಶಿಲಾ ಗೋರಿಗಳ ಕಲ್ಲಿನ ರಚನೆಗಳಲ್ಲಿ 'ರಂಧ್ರಗಳನ್ನು' (port-holes) ಏಕೆ ನಿರ್ಮಿಸಲಾಗಿತ್ತು?",
+      "options": [
+        "ಕುಟುಂಬದ ಇತರ ಸದಸ್ಯರನ್ನು ನಂತರ ಅದೇ ಗೋರಿಯಲ್ಲಿ ಹೂಳಲು ಪ್ರವೇಶದ್ವಾರವಾಗಿ ಬಳಸಲು",
+        "ಅಸ್ಥಿಪಂಜರಗಳನ್ನು ಸ್ವಚ್ಛವಾಗಿಡಲು ತಾಜಾ ಗಾಳಿ ಮತ್ತು ಸೂರ್ಯನ ಬೆಳಕು ಹೋಗಲು",
+        "ಸತ್ತವರ ಆತ್ಮಗಳು ರಾತ್ರಿಯಲ್ಲಿ ಹೊರಗೆ ಹೋಗಿ ಬರಲು ದಾರಿಯಾಗಲು",
+        "ಹೂತಿಟ್ಟ ಆಭರಣಗಳನ್ನು ಕಳ್ಳರು ಕದ್ದಿದ್ದಾರೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಲು"
+      ],
+      "answer": "ಕುಟುಂಬದ ಇತರ ಸದಸ್ಯರನ್ನು ನಂತರ ಅದೇ ಗೋರಿಯಲ್ಲಿ ಹೂಳಲು ಪ್ರವೇಶದ್ವಾರವಾಗಿ ಬಳಸಲು",
+      "reasoning": "ರಂಧ್ರಗಳು (port-holes) ಬೃಹತ್ ಗೋರಿಗಳಲ್ಲಿ ಪ್ರವೇಶದ್ವಾರಗಳಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದವು. ಇದು ಒಂದೇ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದ ಜನರು ಬೇರೆ ಬೇರೆ ಸಮಯದಲ್ಲಿ ಮರಣ ಹೊಂದಿದಾಗ ಅವರನ್ನು ಅದೇ ಗೋರಿಯಲ್ಲಿ ಹೂಳಲು ಸಹಾಯ ಮಾಡುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_books_013",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How did the 'Rajas' mentioned in the Rigveda differ from the Rajas of the later kingdoms?",
+      "options": [
+        "They did not have palaces, capital cities, regular armies, or collect taxes",
+        "They possessed absolute power and ruled over the entire subcontinent",
+        "Their sons automatically inherited power and became kings",
+        "They lived in huge brick castles and built stone temples"
+      ],
+      "answer": "They did not have palaces, capital cities, regular armies, or collect taxes",
+      "reasoning": "The Rigvedic rajas did not have capital cities, palaces, or armies, nor did they collect taxes. Generally, sons did not automatically succeed fathers as rajas; leaders were chosen."
+    },
+    "kn": {
+      "question": "ಋಗ್ವೇದದಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾದ 'ರಾಜರು' ನಂತರದ ಸಾಮ್ರಾಜ್ಯಗಳ ರಾಜರಿಗಿಂತ ಹೇಗೆ ಭಿನ್ನವಾಗಿದ್ದರು?",
+      "options": [
+        "ಅವರು ಅರಮನೆಗಳು, ರಾಜಧಾನಿಗಳು, ಸೈನ್ಯಗಳನ್ನು ಹೊಂದಿರಲಿಲ್ಲ ಮತ್ತು ತೆರಿಗೆಗಳನ್ನು ವಸೂಲಿ ಮಾಡುತ್ತಿರಲಿಲ್ಲ",
+        "ಅವರು ಸಂಪೂರ್ಣ ಅಧಿಕಾರವನ್ನು ಹೊಂದಿದ್ದರು ಮತ್ತು ಇಡೀ ಉಪಖಂಡವನ್ನು ಆಳುತ್ತಿದ್ದರು",
+        "ಅವರ ಪುತ್ರರು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಧಿಕಾರವನ್ನು ಪಡೆದು ರಾಜರಾಗುತ್ತಿದ್ದರು",
+        "ಅವರು ಬೃಹತ್ ಇಟ್ಟಿಗೆ ಕೋಟೆಗಳಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದರು ಮತ್ತು ಕಲ್ಲಿನ ದೇವಾಲಯಗಳನ್ನು ಕಟ್ಟಿದರು"
+      ],
+      "answer": "ಅವರು ಅರಮನೆಗಳು, ರಾಜಧಾನಿಗಳು, ಸೈನ್ಯಗಳನ್ನು ಹೊಂದಿರಲಿಲ್ಲ ಮತ್ತು ತೆರಿಗೆಗಳನ್ನು ವಸೂಲಿ ಮಾಡುತ್ತಿರಲಿಲ್ಲ",
+      "reasoning": "ಋಗ್ವೇದದಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾದ ರಾಜರು ರಾಜಧಾನಿ, ಅರಮನೆ ಅಥವಾ ಖಾಯಂ ಸೈನ್ಯವನ್ನು ಹೊಂದಿರಲಿಲ್ಲ ಮತ್ತು ತೆರಿಗೆ ವಸೂಲಿ ಮಾಡುತ್ತಿರಲಿಲ್ಲ. ಸಾಮಾನ್ಯವಾಗಿ ಮಗನು ತಂದೆಯ ನಂತರ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ರಾಜನಾಗುತ್ತಿರಲಿಲ್ಲ; ಸಮುದಾಯವು ನಾಯಕರನ್ನು ಆಯ್ಕೆ ಮಾಡುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_books_014",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "In what way did horses play a crucial role in the society of the Rigvedic people?",
+      "options": [
+        "They were yoked to chariots for battles fought to capture pasture land and water sources",
+        "They were imported from America to plow agricultural lands",
+        "They were reared primarily for producing silk and wool clothing",
+        "They were worshiped as the primary creators of the universe"
+      ],
+      "answer": "They were yoked to chariots for battles fought to capture pasture land and water sources",
+      "reasoning": "Horses were yoked to chariots to fight battles. Battles were fought for land (for pasture and crops), water, and to capture people as captives."
+    },
+    "kn": {
+      "question": "ಋಗ್ವೇದದ ಜನರ ಸಮಾಜದಲ್ಲಿ ಕುದುರೆಗಳು ಹೇಗೆ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸಿದ್ದವು?",
+      "options": [
+        "ಹುಲ್ಲುಗಾವಲು ಭೂಮಿ ಮತ್ತು ನೀರಿನ ಮೂಲಗಳನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಹೋರಾಡುವ ಯುದ್ಧ ರಥಗಳಿಗೆ ಅವುಗಳನ್ನು ಕಟ್ಟಲಾಗುತ್ತಿತ್ತು",
+        "ಕೃಷಿ ಭೂಮಿಯನ್ನು ಉಳಲು ಅವುಗಳನ್ನು ಅಮೆರಿಕದಿಂದ ಆಮದು ಮಾಡಿಕೊಳ್ಳಲಾಗಿತ್ತು",
+        "ಅವುಗಳನ್ನು ಮುಖ್ಯವಾಗಿ ರೇಷ್ಮೆ ಮತ್ತು ಉಣ್ಣೆ ಬಟ್ಟೆಗಳನ್ನು ತಯಾರಿಸಲು ಸಾಕಲಾಗುತ್ತಿತ್ತು",
+        "ಅವುಗಳನ್ನು ಬ್ರಹ್ಮಾಂಡದ ಪ್ರಮುಖ ಸೃಷ್ಟಿಕರ್ತರಾಗಿ ಪೂಜಿಸಲಾಗುತ್ತಿತ್ತು"
+      ],
+      "answer": "ಹುಲ್ಲುಗಾವಲು ಭೂಮಿ ಮತ್ತು ನೀರಿನ ಮೂಲಗಳನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಹೋರಾಡುವ ಯುದ್ಧ ರಥಗಳಿಗೆ ಅವುಗಳನ್ನು ಕಟ್ಟಲಾಗುತ್ತಿತ್ತು",
+      "reasoning": "ಕುದುರೆಗಳನ್ನು ಯುದ್ಧ ರಥಗಳಿಗೆ ಕಟ್ಟಲಾಗುತ್ತಿತ್ತು. ಹಸುಗಳು/ಹುಲ್ಲುಗಾವಲುಗಳಿಗೆ ಬೇಕಾದ ಫಲವತ್ತಾದ ಭೂಮಿ, ನೀರು ಮತ್ತು ಶತ್ರುಗಳನ್ನು ಸೆರೆಹಿಡಿಯಲು ಯುದ್ಧಗಳು ನಡೆಯುತ್ತಿದ್ದವು."
+    }
+  },
+  {
+    "id": "c6_his_books_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What offerings were typically made into the fire during yajnas (sacrifices) in the Rigvedic period?",
+      "options": [
+        "Ghee, grains, and in some cases, animals",
+        "Gold ornaments, copper coins, and silk robes",
+        "Iron weapons, clay pots, and stone tools",
+        "Spices, tea leaves, and sugar crystals"
+      ],
+      "answer": "Ghee, grains, and in some cases, animals",
+      "reasoning": "Yajnas were performed to make offerings into the fire, which were meant for gods. These offerings included ghee, grain, and in some cases, animals."
+    },
+    "kn": {
+      "question": "ಋಗ್ವೇದದ ಕಾಲದಲ್ಲಿ ಯಾಗ/ಯಜ್ಞಗಳ ಸಂದರ್ಭದಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಅಗ್ನಿಗೆ ಅರ್ಪಿಸುತ್ತಿದ್ದ ವಸ್ತುಗಳು ಯಾವುವು?",
+      "options": [
+        "ತುಪ್ಪ, ಧಾನ್ಯಗಳು ಮತ್ತು ಕೆಲವು ಸಂದರ್ಭಗಳಲ್ಲಿ ಪ್ರಾಣಿಗಳು",
+        "ಚಿನ್ನದ ಆಭರಣಗಳು, ತಾಮ್ರದ ನಾಣ್ಯಗಳು ಮತ್ತು ರೇಷ್ಮೆ ವಸ್ತ್ರಗಳು",
+        "ಕಬ್ಬಿಣದ ಆಯುಧಗಳು, ಮಣ್ಣಿನ ಮಡಕೆಗಳು ಮತ್ತು ಕಲ್ಲಿನ ಉಪಕರಣಗಳು",
+        "ಮಸಾಲೆ ಪದಾರ್ಥಗಳು, ಚಹಾ ಎಲೆಗಳು ಮತ್ತು ಸಕ್ಕರೆ ಹರಳುಗಳು"
+      ],
+      "answer": "ತುಪ್ಪ, ಧಾನ್ಯಗಳು ಮತ್ತು ಕೆಲವು ಸಂದರ್ಭಗಳಲ್ಲಿ ಪ್ರಾಣಿಗಳು",
+      "reasoning": "ದೇವತೆಗಳನ್ನು ಒಲಿಸಿಕೊಳ್ಳಲು ಅಗ್ನಿಗೆ ಕಾಣಿಕೆಗಳನ್ನು ಅರ್ಪಿಸುವ ಯಜ್ಞಗಳನ್ನು ಮಾಡಲಾಗುತ್ತಿತ್ತು. ಈ ಕಾಣಿಕೆಗಳಲ್ಲಿ ತುಪ್ಪ, ಧಾನ್ಯಗಳು ಮತ್ತು ಕೆಲವು ಸಂದರ್ಭಗಳಲ್ಲಿ ಪ್ರಾಣಿಗಳು ಸಹ ಇರುತ್ತಿದ್ದವು."
+    }
+  },
+  {
+    "id": "c6_his_books_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What unique burial finding at Inamgaon suggests the high status of a deceased resident in the settlement?",
+      "options": [
+        "A man buried cross-legged in a large four-legged clay jar in the courtyard of a five-roomed house",
+        "A skeleton covered with a large gold crown and buried in a stone pyramid",
+        "A child buried with a collection of imported Chinese porcelain plates",
+        "A warrior buried along with an iron chariot and three horses"
+      ],
+      "answer": "A man buried cross-legged in a large four-legged clay jar in the courtyard of a five-roomed house",
+      "reasoning": "At Inamgaon, one man was found buried in a large, four-legged clay jar in the courtyard of a five-roomed house (one of the largest houses). The body was placed cross-legged, indicating a person of high importance."
+    },
+    "kn": {
+      "question": "ಇನಾಮ್‌ಗಾಂವ್‌ನಲ್ಲಿ ಸತ್ತ ವ್ಯಕ್ತಿಯ ಉನ್ನತ ಅಂತಸ್ತನ್ನು ಸೂಚಿಸುವ ಯಾವ ವಿಶಿಷ್ಟ ಶವಸಂಸ್ಕಾರದ ಆವಿಷ್ಕಾರ ಪತ್ತೆಯಾಗಿದೆ?",
+      "options": [
+        "ಐದು ಕೊಠಡಿಗಳ ಮನೆಯ ಅಂಗಳದಲ್ಲಿ ದೊಡ್ಡದಾದ ನಾಲ್ಕು ಕಾಲಿನ ಜೇಡಿಮಣ್ಣಿನ ಜಾರಿನಲ್ಲಿ ಪದ್ಮಾಸನದಲ್ಲಿ ಹೂಳಲಾದ ಪುರುಷನ ಶವ",
+        "ಚಿನ್ನದ ಕಿರೀಟವನ್ನು ಧರಿಸಿ ಕಲ್ಲಿನ ಪಿರಮಿಡ್‌ನಲ್ಲಿ ಹೂಳಲಾದ ಅಸ್ಥಿಪಂಜರ",
+        "ಚೀನಾದಿಂದ ಆಮದು ಮಾಡಿಕೊಂಡ ಪಿಂಗಾಣಿ ತಟ್ಟೆಗಳೊಂದಿಗೆ ಹೂಳಲಾದ ಮಗುವಿನ ಶವ",
+        "ಕಬ್ಬಿಣದ ರಥ ಮತ್ತು ಮೂರು ಕುದುರೆಗಳೊಂದಿಗೆ ಹೂಳಲಾದ ಯೋಧನ ಶವ"
+      ],
+      "answer": "ಐದು ಕೊಠಡಿಗಳ ಮನೆಯ ಅಂಗಳದಲ್ಲಿ ದೊಡ್ಡದಾದ ನಾಲ್ಕು ಕಾಲಿನ ಜೇಡಿಮಣ್ಣಿನ ಜಾರಿನಲ್ಲಿ ಪದ್ಮಾಸನದಲ್ಲಿ ಹೂಳಲಾದ ಪುರುಷನ ಶವ",
+      "reasoning": "ಇನಾಮ್‌ಗಾಂವ್‌ನಲ್ಲಿ ದೊಡ್ಡದಾದ ಐದು ಕೊಠಡಿಗಳ ಮನೆಯ (ವಸಾಹತಿನಲ್ಲೇ ಅತ್ಯಂತ ದೊಡ್ಡದು) ಅಂಗಳದಲ್ಲಿ ನಾಲ್ಕು ಕಾಲುಗಳಿರುವ ಮಣ್ಣಿನ ದೊಡ್ಡ ಜಾರಿನಲ್ಲಿ ಶವವನ್ನು ಪದ್ಮಾಸನ ಸ್ಥಿತಿಯಲ್ಲಿ (cross-legged) ಹೂಳಲಾಗಿತ್ತು. ಇದು ಆ ವ್ಯಕ್ತಿಯ ಉನ್ನತ ಸಾಮಾಜಿಕ ಸ್ಥಾನವನ್ನು ತೋರಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_his_books_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What archaeological evidence at Inamgaon suggests that the residents kept domestic animals and had a diverse diet of meat and fruits?",
+      "options": [
+        "Bones of animals with cut marks indicating food use, along with seeds of ber, amla, and jamun",
+        "Written recipe books describing how to cook meat and bake fruits",
+        "Drawings on houses showing people hunting deer with iron guns",
+        "Canned meat containers imported from other ancient civilizations"
+      ],
+      "answer": "Bones of animals with cut marks indicating food use, along with seeds of ber, amla, and jamun",
+      "reasoning": "Archaeologists found bones of many animals showing cut marks, which suggests they were used as food. They also found seeds of wheat, barley, rice, and fruits like ber, amla, jamun, and dates."
+    },
+    "kn": {
+      "question": "ಇನಾಮ್‌ಗಾಂವ್‌ನ ನಿವಾಸಿಗಳು ಸಾಕುಪ್ರಾಣಿಗಳನ್ನು ಹೊಂದಿದ್ದರು ಮತ್ತು ವಿವಿಧ ಮಾಂಸ ಹಾಗೂ ಹಣ್ಣುಗಳನ್ನು ಸೇವಿಸುತ್ತಿದ್ದರು ಎಂಬುದನ್ನು ಯಾವ ಆಧಾರಗಳು ತೋರಿಸುತ್ತವೆ?",
+      "options": [
+        "ಆಹಾರಕ್ಕಾಗಿ ಬಳಸಿದ್ದನ್ನು ಸೂಚಿಸುವ ಕತ್ತರಿಸಿದ ಗುರುತುಗಳಿರುವ ಪ್ರಾಣಿಗಳ ಮೂಳೆಗಳು ಹಾಗೂ ನೆಲ್ಲಿಕಾಯಿ, ನೇರಳೆ ಹಣ್ಣಿನ ಬೀಜಗಳು",
+        "ಮಾಂಸ ಬೇಯಿಸುವುದು ಮತ್ತು ಹಣ್ಣುಗಳನ್ನು ಸಂರಕ್ಷಿಸುವ ವಿಧಾನವನ್ನು ವಿವರಿಸುವ ಲಿಖಿತ ರೆಸಿಪಿ ಪುಸ್ತಕಗಳು",
+        "ಕಬ್ಬಿಣದ ಕೋವಿಗಳಿಂದ ಜನರು ಜಿಂಕೆಗಳನ್ನು ಬೇಟೆಯಾಡುವುದನ್ನು ತೋರಿಸುವ ಮನೆಗಳ ಮೇಲಿನ ಚಿತ್ರಗಳು",
+        "ಇತರ ಪ್ರಾಚೀನ ನಾಗರಿಕತೆಗಳಿಂದ ಆಮದು ಮಾಡಿಕೊಳ್ಳಲಾದ ಮಾಂಸದ ಕ್ಯಾನ್‌ಗಳು"
+      ],
+      "answer": "ಆಹಾರಕ್ಕಾಗಿ ಬಳಸಿದ್ದನ್ನು ಸೂಚಿಸುವ ಕತ್ತರಿಸಿದ ಗುರುತುಗಳಿರುವ ಪ್ರಾಣಿಗಳ ಮೂಳೆಗಳು ಹಾಗೂ ನೆಲ್ಲಿಕಾಯಿ, ನೇರಳೆ ಹಣ್ಣಿನ ಬೀಜಗಳು",
+      "reasoning": "ಇನಾಮ್‌ಗಾಂವ್‌ನಲ್ಲಿ ಕತ್ತರಿಸಿದ ಗುರುತುಗಳಿರುವ ಪ್ರಾಣಿಗಳ ಮೂಳೆಗಳು ಸಿಕ್ಕಿವೆ, ಇದು ಅವುಗಳನ್ನು ಆಹಾರವಾಗಿ ಬಳಸಿದ್ದನ್ನು ತೋರಿಸುತ್ತದೆ. ಇದರೊಂದಿಗೆ ಗೋಧಿ, ಬಾರ್ಲಿ ಮತ್ತು ಬಾರೆಹಣ್ಣು (ber), ನೆಲ್ಲಿಕಾಯಿ (amla), ನೇರಳೆಹಣ್ಣು (jamun) ಮತ್ತು ಖರ್ಜೂರಗಳ ಬೀಜಗಳು ಪತ್ತೆಯಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c6_his_books_018",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following texts are classified as part of the four Vedas? (Select all that apply)",
+      "options": [
+        "Rigveda",
+        "Samaveda",
+        "Upanishads",
+        "Puranas"
+      ],
+      "answer": [
+        "Rigveda",
+        "Samaveda"
+      ],
+      "reasoning": "The four Vedas are the Rigveda, Samaveda, Yajurveda, and Atharvaveda. Upanishads and Puranas are other categories of Hindu scriptures."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಯಾವ ಗ್ರಂಥಗಳನ್ನು ನಾಲ್ಕು ವೇದಗಳ ಭಾಗವೆಂದು ವರ್ಗೀಕರಿಸಲಾಗಿದೆ? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಋಗ್ವೇದ",
+        "ಸಾಮವೇದ",
+        "ಉಪನಿಷತ್ತುಗಳು",
+        "ಪುರಾಣಗಳು"
+      ],
+      "answer": [
+        "ಋಗ್ವೇದ",
+        "ಸಾಮವೇದ"
+      ],
+      "reasoning": "ನಾಲ್ಕು ವೇದಗಳೆಂದರೆ ಋಗ್ವೇದ, ಸಾಮವೇದ, ಯಜುರ್ವೇದ ಮತ್ತು ಅಥರ್ವವೇದ. ಉಪನಿಷತ್ತುಗಳು ಮತ್ತು ಪುರಾಣಗಳು ಹಿಂದೂ ಧರ್ಮದ ಇತರ ಧಾರ್ಮಿಕ ಗ್ರಂಥಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c6_his_books_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following items were commonly found buried with the dead in Megalithic graves? (Select all that apply)",
+      "options": [
+        "Distinctive Black and Red Ware pottery",
+        "Iron tools and weapons",
+        "Plastic containers",
+        "Synthetic clothing"
+      ],
+      "answer": [
+        "Distinctive Black and Red Ware pottery",
+        "Iron tools and weapons"
+      ],
+      "reasoning": "Megalithic burials show common features: the dead were buried with distinctive pots, called Black and Red Ware, and tools and weapons of iron."
+    },
+    "kn": {
+      "question": "ಬೃಹತ್ ಶಿಲಾ ಗೋರಿಗಳಲ್ಲಿ ಸತ್ತವರೊಂದಿಗೆ ಕೆಳಗಿನ ಯಾವ ವಸ್ತುಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಹೂಳಲಾಗಿತ್ತು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ವಿಶಿಷ್ಟವಾದ ಕಪ್ಪು ಮತ್ತು ಕೆಂಪು ಬಣ್ಣದ ಮಡಕೆಗಳು",
+        "ಕಬ್ಬಿಣದ ಉಪಕರಣಗಳು ಮತ್ತು ಆಯುಧಗಳು",
+        "ಪ್ಲಾಸ್ಟಿಕ್ ಪಾತ್ರೆಗಳು",
+        "ಸಂಶ್ಲೇಷಿತ ಬಟ್ಟೆಗಳು"
+      ],
+      "answer": [
+        "ವಿಶಿಷ್ಟವಾದ ಕಪ್ಪು ಮತ್ತು ಕೆಂಪು ಬಣ್ಣದ ಮಡಕೆಗಳು",
+        "ಕಬ್ಬಿಣದ ಉಪಕರಣಗಳು ಮತ್ತು ಆಯುಧಗಳು"
+      ],
+      "reasoning": "ಬೃಹತ್ ಶಿಲಾ ಗೋರಿಗಳಲ್ಲಿ ಸಾಮಾನ್ಯ ಲಕ್ಷಣಗಳಿವೆ: ಸತ್ತವರನ್ನು ಕಪ್ಪು ಮತ್ತು ಕೆಂಪು ಮಡಕೆಗಳೊಂದಿಗೆ (Black and Red Ware) ಹಾಗೂ ಕಬ್ಬಿಣದ ಆಯುಧಗಳು ಮತ್ತು ಉಪಕರಣಗಳೊಂದಿಗೆ ಹೂಳಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_books_020",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "In the Rigvedic period, what reasons caused conflicts and battles to be fought? (Select all that apply)",
+      "options": [
+        "To capture fertile land for pastures",
+        "To gain control over water sources",
+        "To capture people as slave labor",
+        "To control space satellite signals"
+      ],
+      "answer": [
+        "To capture fertile land for pastures",
+        "To gain control over water sources",
+        "To capture people as slave labor"
+      ],
+      "reasoning": "Battles were fought for land (pasture and growing crops like barley), water, and to capture people who were later kept as slaves."
+    },
+    "kn": {
+      "question": "ಋಗ್ವೇದದ ಕಾಲದಲ್ಲಿ ಯುದ್ಧಗಳು ನಡೆಯಲು ಕೆಳಗಿನ ಯಾವ ಕಾರಣಗಳಿದ್ದವು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಮೇಯಿಸಲು ಫಲವತ್ತಾದ ಭೂಮಿಯನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು",
+        "ನೀರಿನ ಮೂಲಗಳ ಮೇಲೆ ನಿಯಂತ್ರಣ ಸಾಧಿಸಲು",
+        "ಜನರನ್ನು ಗುಲಾಮರನ್ನಾಗಿ ಸೆರೆಹಿಡಿಯಲು",
+        "ಬಹ್ಯಾಕಾಶ ಉಪಗ್ರಹ ಸಿಗ್ನಲ್‌ಗಳನ್ನು ನಿಯಂತ್ರಿಸಲು"
+      ],
+      "answer": [
+        "ಮೇಯಿಸಲು ಫಲವತ್ತಾದ ಭೂಮಿಯನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು",
+        "ನೀರಿನ ಮೂಲಗಳ ಮೇಲೆ ನಿಯಂತ್ರಣ ಸಾಧಿಸಲು",
+        "ಜನರನ್ನು ಗುಲಾಮರನ್ನಾಗಿ ಸೆರೆಹಿಡಿಯಲು"
+      ],
+      "reasoning": "ಋಗ್ವೇದ ಕಾಲದಲ್ಲಿ ಜಾನುವಾರುಗಳ ಮೇಯಿಸುವಿಕೆಗೆ ಯೋಗ್ಯವಾದ ಭೂಮಿ, ನೀರು ಮತ್ತು ಜನರನ್ನು ಸೆರೆಹಿಡಿದು ಗುಲಾಮರನ್ನಾಗಿ ಮಾಡಲು ಯುದ್ಧಗಳು ನಡೆಯುತ್ತಿದ್ದವು."
+    }
+  },
+  {
+    "id": "c6_his_books_021",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following facts are true about the preservation of the Rigveda? (Select all that apply)",
+      "options": [
+        "It was recited and heard rather than read for centuries",
+        "It was written down and printed less than 200 years ago",
+        "It was recorded using magnetic tape recorders by ancient kings",
+        "It was written on paper during the early Vedic period"
+      ],
+      "answer": [
+        "It was recited and heard rather than read for centuries",
+        "It was written down and printed less than 200 years ago"
+      ],
+      "reasoning": "The Rigveda was preserved through oral tradition (recited and heard). It was written down several centuries after it was first composed, and printed less than 200 years ago."
+    },
+    "kn": {
+      "question": "ಋಗ್ವೇದದ ಸಂರಕ್ಷಣೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ನಿಜವಾಗಿವೆ? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಇದನ್ನು ಶತಮಾನಗಳ ಕಾಲ ಓದುವ ಬದಲು ಪಠಿಸಲಾಗುತ್ತಿತ್ತು ಮತ್ತು ಕೇಳಲಾಗುತ್ತಿತ್ತು",
+        "ಇದನ್ನು ಬರೆದಿಟ್ಟು ಮುದ್ರಿಸಿದ್ದು ಕೇವಲ 200 ವರ್ಷಗಳಿಗಿಂತಲೂ ಕಡಿಮೆ ಅವಧಿಯ ಹಿಂದೆ",
+        "ಇದನ್ನು ಪ್ರಾಚೀನ ರಾಜರು ಮ್ಯಾಗ್ನೆಟಿಕ್ ಟೇಪ್ ರೆಕಾರ್ಡರ್‌ಗಳಲ್ಲಿ ಧ್ವನಿಮುದ್ರಿಸಿದ್ದರು",
+        "ಇದನ್ನು ಆರಂಭಿಕ ವೈದಿಕ ಕಾಲದಲ್ಲೇ ಕಾಗದದ ಮೇಲೆ ಬರೆಯಲಾಗಿತ್ತು"
+      ],
+      "answer": [
+        "ಇದನ್ನು ಶತಮಾನಗಳ ಕಾಲ ಓದುವ ಬದಲು ಪಠಿಸಲಾಗುತ್ತಿತ್ತು ಮತ್ತು ಕೇಳಲಾಗುತ್ತಿತ್ತು",
+        "ಇದನ್ನು ಬರೆದಿಟ್ಟು ಮುದ್ರಿಸಿದ್ದು ಕೇವಲ 200 ವರ್ಷಗಳಿಗಿಂತಲೂ ಕಡಿಮೆ ಅವಧಿಯ ಹಿಂದೆ"
+      ],
+      "reasoning": "ಋಗ್ವೇದವನ್ನು ಮೌಖಿಕ ಪರಂಪರೆಯ ಮೂಲಕ (ಕೇಳಿ ಮನನ ಮಾಡುವುದು) ಉಳಿಸಿಕೊಳ್ಳಲಾಗಿತ್ತು. ಇದನ್ನು ರಚಿಸಿದ ಹಲವು ಶತಮಾನಗಳ ನಂತರ ಬರೆಯಲಾಯಿತು ಮತ್ತು ಕೇವಲ 200 ವರ್ಷಗಳ ಹಿಂದೆ ಮುದ್ರಿಸಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c6_his_books_022",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the Vedic deities/sages with their descriptions:",
+      "pairs": [
+        {
+          "left": "Agni",
+          "right": "The god of fire"
+        },
+        {
+          "left": "Indra",
+          "right": "The warrior god"
+        },
+        {
+          "left": "Soma",
+          "right": "A plant providing a special drink"
+        },
+        {
+          "left": "Vishvamitra",
+          "right": "A sage who dialogued with rivers"
+        }
+      ],
+      "reasoning": "The Rigveda contains hymns to Agni (fire), Indra (warrior), and Soma (plant-god), and dialogue hymns involving sages like Vishvamitra."
+    },
+    "kn": {
+      "question": "ವೈದಿಕ ದೇವರುಗಳು/ಋಷಿಗಳನ್ನು ಅವುಗಳ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಅಗ್ನಿ",
+          "right": "ಬೆಂಕಿಯ ದೇವರು"
+        },
+        {
+          "left": "ಇಂದ್ರ",
+          "right": "ಯುದ್ಧದ ದೇವರು"
+        },
+        {
+          "left": "ಸೋಮ",
+          "right": "ವಿಶೇಷ ಪಾನೀಯ ನೀಡುವ ಸಸ್ಯ"
+        },
+        {
+          "left": "ವಿಶ್ವಾಮಿತ್ರ",
+          "right": "ನದಿಗಳೊಂದಿಗೆ ಸಂಭಾಷಣೆ ನಡೆಸಿದ ಋಷಿ"
+        }
+      ],
+      "reasoning": "ಋಗ್ವೇದವು ಅಗ್ನಿ (ಬೆಂಕಿ), ಇಂದ್ರ (ಯೋಧ) ಮತ್ತು ಸೋಮ (ಸಸ್ಯ) ದೇವತೆಗಳಿಗೆ ಸ್ತುತಿಗಳನ್ನು ಹೊಂದಿದೆ. ಇವುಗಳ ಜೊತೆಗೆ ವಿಶ್ವಾಮಿತ್ರನಂತಹ ಋಷಿಗಳ ಸಂಭಾಷಣೆಯ ಸೂಕ್ತಗಳೂ ಇವೆ."
+    }
+  },
+  {
+    "id": "c6_his_books_023",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the Vedic social categories with their descriptions:",
+      "pairs": [
+        {
+          "left": "Brahmins",
+          "right": "Priests who performed rituals and sacrifices"
+        },
+        {
+          "left": "Rajas",
+          "right": "Leaders who did not collect regular taxes"
+        },
+        {
+          "left": "Dasas",
+          "right": "People who spoke different languages and were made slaves"
+        },
+        {
+          "left": "Jana",
+          "right": "The community or people as a whole"
+        }
+      ],
+      "reasoning": "Rigvedic people were categorized by work and status: Brahmins performed rituals, Rajas led assemblies/battles, Dasas were enemies/slaves, and Jana described the whole community."
+    },
+    "kn": {
+      "question": "ವೈದಿಕ ಕಾಲದ ಸಾಮಾಜಿಕ ವರ್ಗಗಳನ್ನು ಅವುಗಳ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಬ್ರಾಹ್ಮಣರು",
+          "right": "ಆಚರಣೆಗಳು ಮತ್ತು ಯಜ್ಞಗಳನ್ನು ಮಾಡುತ್ತಿದ್ದ ಅರ್ಚಕರು"
+        },
+        {
+          "left": "ರಾಜರು",
+          "right": "ಖಾಯಂ ತೆರಿಗೆ ವಸೂಲಿ ಮಾಡದ ನಾಯಕರು"
+        },
+        {
+          "left": "ದಾಸರು",
+          "right": "ಬೇರೆ ಭಾಷೆ ಮಾತನಾಡುವ ಮತ್ತು ಗುಲಾಮರನ್ನಾಗಿ ಮಾಡಲ್ಪಟ್ಟ ಜನರು"
+        },
+        {
+          "left": "ಜನ",
+          "right": "ಇಡೀ ಸಮುದಾಯ ಅಥವಾ ಜನರು ಒಟ್ಟಾರೆಯಾಗಿ"
+        }
+      ],
+      "reasoning": "ಋಗ್ವೇದದ ಜನರನ್ನು ಕೆಲಸ ಮತ್ತು ಅಂತಸ್ತಿನ ಆಧಾರದ ಮೇಲೆ ವಿಂಗಡಿಸಲಾಗಿತ್ತು: ಬ್ರಾಹ್ಮಣರು ಪೂಜೆಗಳನ್ನು ಮಾಡುತ್ತಿದ್ದರು, ರಾಜರು ನೇತೃತ್ವ ವಹಿಸುತ್ತಿದ್ದರು, ದಾಸರು ಶತ್ರುಗಳು/ಗುಲಾಮರಾಗಿದ್ದರು ಮತ್ತು ಇಡೀ ಸಮಾಜವನ್ನು 'ಜನ' ಎಂದು ಕರೆಯಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_books_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the archaeological sites with their locations or geographical features:",
+      "pairs": [
+        {
+          "left": "Inamgaon",
+          "right": "Site on the river Ghod in Maharashtra"
+        },
+        {
+          "left": "Brahmagiri",
+          "right": "Megalithic site in Karnataka"
+        },
+        {
+          "left": "Kashmir Megaliths",
+          "right": "Erected stone markers in North India"
+        },
+        {
+          "left": "Mehrgarh",
+          "right": "Pre-Vedic farming village near Bolan Pass"
+        }
+      ],
+      "reasoning": "Archaeological sites represent different cultural phases: Inamgaon is in Maharashtra on the Ghod, Brahmagiri in Karnataka (famous megaliths), Kashmir has northern megaliths, and Mehrgarh is in Baluchistan."
+    },
+    "kn": {
+      "question": "ಪುರಾತತ್ವ ತಾಣಗಳನ್ನು ಅವುಗಳ ಭೌಗೋಳಿಕ ಸ್ಥಳಗಳು ಅಥವಾ ಗುಣಲಕ್ಷಣಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಇನಾಮ್‌ಗಾಂವ್",
+          "right": "ಮಹಾರಾಷ್ಟ್ರದ ಘೋಡ್ ನದಿಯ ದಂಡೆಯಲ್ಲಿರುವ ತಾಣ"
+        },
+        {
+          "left": "ಬ್ರಹ್ಮಗಿರಿ",
+          "right": "ಕರ್ನಾಟಕದಲ್ಲಿರುವ ಬೃಹತ್ ಶಿಲಾ ತಾಣ"
+        },
+        {
+          "left": "ಕಾಶ್ಮೀರದ ಬೃಹತ್ ಶಿಲೆಗಳು",
+          "right": "ಉತ್ತರ ಭಾರತದಲ್ಲಿ ನಿಲ್ಲಿಸಲಾದ ಕಲ್ಲಿನ ಸ್ಮಾರಕಗಳು"
+        },
+        {
+          "left": "ಮೆಹರ್‌ಗಢ್",
+          "right": "ಬೋಲನ್ ಕಣಿವೆ ಸಮೀಪದ ಇತಿಹಾಸಪೂರ್ವ ಕೃಷಿ ಹಳ್ಳಿ"
+        }
+      ],
+      "reasoning": "ಪುರಾತತ್ವ ತಾಣಗಳು ವಿವಿಧ ಸಾಂಸ್ಕೃತಿಕ ಘಟ್ಟಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ: ಇನಾಮ್‌ಗಾಂವ್ ಮಹಾರಾಷ್ಟ್ರದ ಘೋಡ್ ನದಿಯಲ್ಲಿದೆ, ಬ್ರಹ್ಮಗಿರಿ ಕರ್ನಾಟಕದಲ್ಲಿದೆ (ಪ್ರಸಿದ್ಧ ಬೃಹತ್ ಶಿಲೆಗಳು), ಕಾಶ್ಮೀರದಲ್ಲಿ ಉತ್ತರದ ಬೃಹತ್ ಶಿಲೆಗಳಿವೆ ಮತ್ತು ಮೆಹರ್‌ಗಢ್ ಬಲೂಚಿಸ್ತಾನದಲ್ಲಿದೆ."
+    }
+  },
+  {
+    "id": "c6_his_books_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the burial objects with what they indicate about social status or culture:",
+      "pairs": [
+        {
+          "left": "33 Gold beads",
+          "right": "Deceased belonged to a wealthy or ruling status"
+        },
+        {
+          "left": "Only clay pots",
+          "right": "Deceased belonged to a poor or lower status"
+        },
+        {
+          "left": "Horse skeletons",
+          "right": "Importance of horses and chariot warfare in society"
+        },
+        {
+          "left": "Goats inside grave",
+          "right": "Belief in life after death where food is needed"
+        }
+      ],
+      "reasoning": "Burial goods reveal social structure: rich graves had gold beads, poor had only pots, horse bones reveal military culture, and animal offerings show afterlife beliefs."
+    },
+    "kn": {
+      "question": "ಗೋರಿಗಳಲ್ಲಿನ ವಸ್ತುಗಳನ್ನು ಅವು ಸಾಮಾಜಿಕ ಅಂತಸ್ತು ಅಥವಾ ಸಂಸ್ಕೃತಿಯ ಬಗ್ಗೆ ಸೂಚಿಸುವ ಅಂಶಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "33 ಚಿನ್ನದ ಮಣಿಗಳು",
+          "right": "ಸತ್ತ ವ್ಯಕ್ತಿ ಶ್ರೀಮಂತ ಅಥವಾ ಆಡಳಿತ ವರ್ಗಕ್ಕೆ ಸೇರಿದ್ದನು"
+        },
+        {
+          "left": "ಕೇವಲ ಮಣ್ಣಿನ ಮಡಕೆಗಳು",
+          "right": "ಸತ್ತ ವ್ಯಕ್ತಿ ಬಡ ಅಥವಾ ಕೆಳ ವರ್ಗಕ್ಕೆ ಸೇರಿದ್ದನು"
+        },
+        {
+          "left": "ಕುದುರೆ ಅಸ್ಥಿಪಂಜರಗಳು",
+          "right": "ಸಮಾಜದಲ್ಲಿ ಕುದುರೆಗಳು ಮತ್ತು ರಥದ ಯುದ್ಧಗಳಿಗಿದ್ದ ಪ್ರಾಮುಖ್ಯತೆ"
+        },
+        {
+          "left": "ಗೋರಿಯಲ್ಲಿನ ಮೇಕೆಗಳು",
+          "right": "ಸತ್ತವರಿಗೆ ಆಹಾರ ಬೇಕಾಗುವ ಮರಣೋತ್ತರ ಜೀವನದ ನಂಬಿಕೆ"
+        }
+      ],
+      "reasoning": "ಗೋರಿಯ ವಸ್ತುಗಳು ಸಾಮಾಜಿಕ ರಚನೆಯನ್ನು ಬಿಂಬಿಸುತ್ತವೆ: ಚಿನ್ನದ ಮಣಿಗಳು ಶ್ರೀಮಂತಿಕೆಯನ್ನು ತೋರಿಸುತ್ತವೆ, ಕೇವಲ ಮಡಕೆಗಳು ಬಡತನವನ್ನು ಬಿಂಬಿಸುತ್ತವೆ, ಕುದುರೆ ಮೂಳೆಗಳು ರಥ ಯುದ್ಧದ ಸಂಸ್ಕೃತಿಯನ್ನು ಮತ್ತು ಮೇಕೆಯ ಕಾಣಿಕೆಯು ಸಾವಿನ ನಂತರದ ಆಹಾರದ ನಂಬಿಕೆಯನ್ನು ತೋರಿಸುತ್ತವೆ."
+    }
+  }
+]

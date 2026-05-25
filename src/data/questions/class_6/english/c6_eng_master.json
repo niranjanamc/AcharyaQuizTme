@@ -1,0 +1,797 @@
+[
+  {
+    "id": "c6_eng_master_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who was the dog's first master in the story?",
+      "options": [
+        "A Wolf",
+        "A Bear",
+        "A Lion",
+        "A Man"
+      ],
+      "answer": "A Wolf",
+      "reasoning": "The dog first chose a big, strong Wolf as his master."
+    },
+    "kn": {
+      "question": "ಕಥೆಯಲ್ಲಿ ನಾಯಿಯ ಮೊದಲ ಯಜಮಾನ ಯಾರು?",
+      "options": [
+        "ಒಂದು ತೋಳ",
+        "ಒಂದು ಕರಡಿ",
+        "ಒಂದು ಸಿಂಹ",
+        "ಒಬ್ಬ ಮನುಷ್ಯ"
+      ],
+      "answer": "ಒಂದು ತೋಳ",
+      "reasoning": "ನಾಯಿ ಮೊದಲಿಗೆ ದೊಡ್ಡದಾದ ಮತ್ತು ಶಕ್ತಿಯುತವಾದ ತೋಳವನ್ನು ತನ್ನ ಯಜಮಾನನನ್ನಾಗಿ ಆರಿಸಿಕೊಂಡಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_master_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Why did the dog decide to find a master?",
+      "options": [
+        "He was tired of wandering alone looking for food and being scared of stronger animals",
+        "He wanted to learn how to hunt in a pack",
+        "Other dogs forced him to leave the pack",
+        "He wanted to guard a large house in the village"
+      ],
+      "answer": "He was tired of wandering alone looking for food and being scared of stronger animals",
+      "reasoning": "The dog was tired of looking for food by himself and being afraid of those who were stronger than him."
+    },
+    "kn": {
+      "question": "ನಾಯಿ ತನಗಾಗಿ ಒಬ್ಬ ಯಜಮಾನನನ್ನು ಹುಡುಕಲು ಏಕೆ ನಿರ್ಧರಿಸಿತು?",
+      "options": [
+        "ಅವನು ಏಕಾಂಗಿಯಾಗಿ ಅಲೆಯಲು, ಆಹಾರ ಹುಡುಕಲು ಬೇಸತ್ತಿದ್ದನು ಮತ್ತು ಬಲಿಷ್ಠ ಪ್ರಾಣಿಗಳಿಗೆ ಹೆದರುತ್ತಿದ್ದನು",
+        "ಅವನಿಗೆ ತಂಡದಲ್ಲಿ ಬೇಟೆಯಾಡುವುದನ್ನು ಕಲಿಯಬೇಕಾಗಿತ್ತು",
+        "ಇತರ ನಾಯಿಗಳು ಅವನನ್ನು ಹಿಂಡಿನಿಂದ ಹೊರಹೋಗಲು ಒತ್ತಾಯಿಸಿದವು",
+        "ಅವನಿಗೆ ಹಳ್ಳಿಯಲ್ಲಿ ದೊಡ್ಡ ಮನೆಯೊಂದನ್ನು ಕಾವಲು ಕಾಯಬೇಕಾಗಿತ್ತು"
+      ],
+      "answer": "ಅವನು ಏಕಾಂಗಿಯಾಗಿ ಅಲೆಯಲು, ಆಹಾರ ಹುಡುಕಲು ಬೇಸತ್ತಿದ್ದನು ಮತ್ತು ಬಲಿಷ್ಠ ಪ್ರಾಣಿಗಳಿಗೆ ಹೆದರುತ್ತಿದ್ದನು",
+      "reasoning": "ನಾಯಿ ತನಗಿಂತ ಬಲಶಾಲಿಯಾದ ಪ್ರಾಣಿಗಳಿಗೆ ಹೆದರುತ್ತಾ ಮತ್ತು ಆಹಾರಕ್ಕಾಗಿ ಅಲೆಯುತ್ತಾ ಬೇಸತ್ತಿದ್ದರಿಂದ ಯಜಮಾನನನ್ನು ಹುಡುಕಲು ನಿರ್ಧರಿಸಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_master_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who is described as the Wolf's kinsman in the story?",
+      "options": [
+        "The Dog",
+        "The Bear",
+        "The Lion",
+        "The Fox"
+      ],
+      "answer": "The Dog",
+      "reasoning": "The wolf refers to the dog as his kinsman, as they are related species."
+    },
+    "kn": {
+      "question": "ಕಥೆಯಲ್ಲಿ ತೋಳನ ಸಂಬಂಧಿ (kinsman) ಎಂದು ಯಾರನ್ನು ಬಣ್ಣಿಸಲಾಗಿದೆ?",
+      "options": [
+        "ನಾಯಿ",
+        "ಕರಡಿ",
+        "ಸಿಂಹ",
+        "ನರಿ"
+      ],
+      "answer": "ನಾಯಿ",
+      "reasoning": "ತೋಳ ಮತ್ತು ನಾಯಿ ಒಂದೇ ಪ್ರಾಣಿ ಸಂಕುಲಕ್ಕೆ ಸೇರಿದ್ದರಿಂದ ತೋಳವು ನಾಯಿಯನ್ನು ತನ್ನ ಸಂಬಂಧಿ ಎಂದು ಕರೆಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_eng_master_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What animal did the Wolf run away from?",
+      "options": [
+        "The Tiger",
+        "The Bear",
+        "The Lion",
+        "The Elephant"
+      ],
+      "answer": "The Bear",
+      "reasoning": "The wolf hid in the bushes because he saw a Bear who could eat both of them."
+    },
+    "kn": {
+      "question": "ತೋಳನು ಯಾವ ಪ್ರಾಣಿಯನ್ನು ಕಂಡು ಓಡಿಹೋಯಿತು?",
+      "options": [
+        "ಹುಲಿ",
+        "ಕರಡಿ",
+        "ಸಿಂಹ",
+        "ಆನೆ"
+      ],
+      "answer": "ಕರಡಿ",
+      "reasoning": "ತೋಳನು ತನ್ನನ್ನು ಮತ್ತು ನಾಯಿಯನ್ನು ತಿನ್ನಬಹುದಾದ ಕರಡಿಯನ್ನು ನೋಡಿ ಪೊದೆಗಳ ಹಿಂದೆ ಅಡಗಿಕೊಂಡಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_master_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Why did the Dog leave the Bear's service?",
+      "options": [
+        "The Bear was too slow",
+        "The Bear was afraid of the Lion",
+        "The Bear refused to give him meat",
+        "The Bear wanted to stay in water"
+      ],
+      "answer": "The Bear was afraid of the Lion",
+      "reasoning": "The dog left the Bear after realizing the Bear was afraid of the Lion, who was the strongest beast."
+    },
+    "kn": {
+      "question": "ನಾಯಿ ಕರಡಿಯ ಸೇವೆಯನ್ನು ಏಕೆ ಬಿಟ್ಟಿತು?",
+      "options": [
+        "ಕರಡಿ ತುಂಬಾ ನಿಧಾನವಾಗಿತ್ತು",
+        "ಕರಡಿ ಸಿಂಹಕ್ಕೆ ಹೆದರುತ್ತಿತ್ತು",
+        "ಕರಡಿ ಅವನಿಗೆ ಮಾಂಸ ನೀಡಲು ನಿರಾಕರಿಸಿತು",
+        "ಕರಡಿ ನೀರಿನಲ್ಲಿ ಇರಲು ಬಯಸಿತು"
+      ],
+      "answer": "ಕರಡಿ ಸಿಂಹಕ್ಕೆ ಹೆದರುತ್ತಿತ್ತು",
+      "reasoning": "ಕರಡಿಯು ಸಿಂಹಕ್ಕೆ ಹೆದರುತ್ತದೆ ಎಂದು ಅರಿತುಕೊಂಡ ನಂತರ ನಾಯಿ ಕರಡಿಯ ಸೇವೆಯನ್ನು ಬಿಟ್ಟಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_master_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "For a long time, whose loyal servant was the Dog?",
+      "options": [
+        "The Wolf's",
+        "The Bear's",
+        "The Lion's",
+        "The Fox's"
+      ],
+      "answer": "The Lion's",
+      "reasoning": "The Dog stayed and served the Lion for a long, long time because it was a safe life."
+    },
+    "kn": {
+      "question": "ನಾಯಿ ಬಹಳ ದಿನಗಳ ಕಾಲ ಯಾರ ನಿಷ್ಠಾವಂತ ಸೇವಕನಾಗಿತ್ತು?",
+      "options": [
+        "ತೋಳನ",
+        "ಕರಡಿಯ",
+        "ಸಿಂಹನ",
+        "ನರಿಯ"
+      ],
+      "answer": "ಸಿಂಹನ",
+      "reasoning": "ಸಿಂಹನ ಸೇವೆಯಲ್ಲಿದ್ದಾಗ ಸುರಕ್ಷಿತ ಜೀವನವಿದ್ದಿದ್ದರಿಂದ ನಾಯಿ ಸಿಂಹನ ಬಳಿ ಬಹಳ ದಿನಗಳ ಕಾಲ ಉಳಿಯಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_master_007",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What was the main condition the Dog had for choosing a master?",
+      "options": [
+        "The master must be the strongest on earth",
+        "The master must live near the water",
+        "The master must be kind and gentle",
+        "The master must be a fast runner"
+      ],
+      "answer": "The master must be the strongest on earth",
+      "reasoning": "The dog decided to serve only the strongest creature on earth who feared no one."
+    },
+    "kn": {
+      "question": "ಯಜಮಾನನನ್ನು ಆರಿಸಿಕೊಳ್ಳಲು ನಾಯಿಗಿದ್ದ ಮುಖ್ಯ ಷರತ್ತು ಏನು?",
+      "options": [
+        "ಯಜಮಾನನು ಭೂಮಿಯ ಮೇಲೆಯೇ ಅತ್ಯಂತ ಶಕ್ತಿಶಾಲಿಯಾಗಿರಬೇಕು",
+        "ಯಜಮಾನನು ನೀರಿನ ಹತ್ತಿರ ವಾಸಿಸಬೇಕು",
+        "ಯಜಮಾನನು ದಯಾಳು ಮತ್ತು ಮೃದುಸ್ವಭಾವದವನಾಗಿರಬೇಕು",
+        "ಯಜಮಾನನು ವೇಗವಾಗಿ ಓಡುವವನಾಗಿರಬೇಕು"
+      ],
+      "answer": "ಯಜಮಾನನು ಭೂಮಿಯ ಮೇಲೆಯೇ ಅತ್ಯಂತ ಶಕ್ತಿಶಾಲಿಯಾಗಿರಬೇಕು",
+      "reasoning": "ನಾಯಿ ಯಾರಿಗೂ ಹೆದರದ, ಭೂಮಿಯ ಮೇಲೆ ಅತ್ಯಂತ ಶಕ್ತಿಶಾಲಿಯಾದ ಜೀವಿಗೆ ಮಾತ್ರ ಸೇವೆ ಸಲ್ಲಿಸಲು ನಿರ್ಧರಿಸಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_master_008",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What did the Bear want to hunt to feed himself and the Dog?",
+      "options": [
+        "A herd of cows",
+        "A flock of sheep",
+        "A group of deer",
+        "A pack of rabbits"
+      ],
+      "answer": "A herd of cows",
+      "reasoning": "The Bear planned to find a herd of cows, kill one, and eat it with the Dog."
+    },
+    "kn": {
+      "question": "ತನ್ನ ಮತ್ತು ನಾಯಿಯ ಹಸಿವು ನೀಗಿಸಲು ಕರಡಿ ಯಾವ ಪ್ರಾಣಿಯನ್ನು ಬೇಟೆಯಾಡಲು ಬಯಸಿತು?",
+      "options": [
+        "ಹಸುಗಳ ಹಿಂಡು",
+        "ಕುರಿಗಳ ಹಿಂಡು",
+        "ಜಿಂಕೆಗಳ ಹಿಂಡು",
+        "ಮೊಲಗಳ ಹಿಂಡು"
+      ],
+      "answer": "ಹಸುಗಳ ಹಿಂಡು",
+      "reasoning": "ಕರಡಿಯು ಹಸುಗಳ ಹಿಂಡನ್ನು ಹುಡುಕಿ, ಒಂದನ್ನು ಕೊಂದು ನಾಯಿಯೊಂದಿಗೆ ತಿನ್ನಲು ಬಯಸಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_master_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why did the cows start running in panic when the Bear and Dog approached?",
+      "options": [
+        "There was a sudden lightning strike",
+        "They heard the roar of a Lion",
+        "They saw a hunter with a weapon",
+        "They were chased by wild bees"
+      ],
+      "answer": "They heard the roar of a Lion",
+      "reasoning": "The cows ran in panic because they heard the loud and terrifying roar of the Lion."
+    },
+    "kn": {
+      "question": "ಕರಡಿ ಮತ್ತು ನಾಯಿ ಹತ್ತಿರ ಬಂದಾಗ ಹಸುಗಳು ಗಾಬರಿಯಿಂದ ಓಡಲು ಕಾರಣವೇನು?",
+      "options": [
+        "ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಸಿಡಿಲು ಬಡಿಯಿತು",
+        "ಅವುಗಳು ಸಿಂಹದ ಘರ್ಜನೆಯನ್ನು ಕೇಳಿದವು",
+        "ಅವುಗಳು ಆಯುಧ ಹಿಡಿದ ಬೇಟೆಗಾರನನ್ನು ಕಂಡವು",
+        "ಕಾಡು ಜೇನುನೊಣಗಳು ಅವುಗಳನ್ನು ಬೆನ್ನಟ್ಟಿದವು"
+      ],
+      "answer": "ಅವುಗಳು ಸಿಂಹದ ಘರ್ಜನೆಯನ್ನು ಕೇಳಿದವು",
+      "reasoning": "ಹಸುಗಳು ಸಿಂಹದ ಜೋರಾದ ಮತ್ತು ಭಯಾನಕ ಘರ್ಜನೆಯನ್ನು ಕೇಳಿ ಗಾಬರಿಯಿಂದ ಓಡಲಾರಂಭಿಸಿದವು."
+    }
+  },
+  {
+    "id": "c6_eng_master_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What did the Lion do when he sensed a man coming?",
+      "options": [
+        "He roared angrily, struck the ground, and retreated quietly",
+        "He charged forward to attack immediately",
+        "He climbed a tree to hide himself",
+        "He called the Bear for protection"
+      ],
+      "answer": "He roared angrily, struck the ground, and retreated quietly",
+      "reasoning": "The Lion roared, struck the ground in anger, and backed away quietly to avoid danger."
+    },
+    "kn": {
+      "question": "ಮನುಷ್ಯ ಬರುತ್ತಿರುವುದನ್ನು ಮೂಸಿನೋಡಿದ ಸಿಂಹ ಏನು ಮಾಡಿತು?",
+      "options": [
+        "ಕೋಪದಿಂದ ಘರ್ಜಿಸಿತು, ನೆಲಕ್ಕೆ ಬಡಿಯಿತು ಮತ್ತು ಸದ್ದಿಲ್ಲದೆ ಹಿಂದೆ ಸರಿಯಿತು",
+        "ತಕ್ಷಣವೇ ದಾಳಿ ಮಾಡಲು ಮುನ್ನುಗ್ಗಿತು",
+        "ಅಡಗಿಕೊಳ್ಳಲು ಮರ ಹತ್ತಿತು",
+        "ರಕ್ಷಣೆಗಾಗಿ ಕರಡಿಯನ್ನು ಕರೆದಿತು"
+      ],
+      "answer": "ಕೋಪದಿಂದ ಘರ್ಜಿಸಿತು, ನೆಲಕ್ಕೆ ಬಡಿಯಿತು ಮತ್ತು ಸದ್ದಿಲ್ಲದೆ ಹಿಂದೆ ಸರಿಯಿತು",
+      "reasoning": "ಸಿಂಹವು ಘರ್ಜಿಸಿ, ಕೋಪದಿಂದ ನೆಲಕ್ಕೆ ಪಂಜದಿಂದ ಬಡಿದು, ಅಪಾಯವನ್ನು ತಪ್ಪಿಸಲು ಸದ್ದಿಲ್ಲದೆ ಹಿಂದೆ ಸರಿಯಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_master_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "How did the Lion describe Man to the Dog?",
+      "options": [
+        "A weak and small creature",
+        "Someone they should avoid, or they would be in trouble",
+        "A friendly companion of the woods",
+        "A beast that can be easily defeated"
+      ],
+      "answer": "Someone they should avoid, or they would be in trouble",
+      "reasoning": "The Lion warned the Dog that they must run away from Man, or they would face trouble."
+    },
+    "kn": {
+      "question": "ಸಿಂಹವು ಮನುಷ್ಯನನ್ನು ನಾಯಿಗೆ ಹೇಗೆ ಬಣ್ಣಿಸಿತು?",
+      "options": [
+        "ಒಂದು ದುರ್ಬಲ ಮತ್ತು ಸಣ್ಣ ಜೀವಿ",
+        "ನಾವು ದೂರವಿರಬೇಕಾದ ವ್ಯಕ್ತಿ, ಇಲ್ಲದಿದ್ದರೆ ತೊಂದರೆಗೆ ಸಿಲುಕುತ್ತೇವೆ",
+        "ಕಾಡಿನ ಒಂದು ಸ್ನೇಹಪರ ಒಡನಾಡಿ",
+        "ಸುಲಭವಾಗಿ ಸೋಲಿಸಬಹುದಾದ ಒಂದು ಪ್ರಾಣಿ"
+      ],
+      "answer": "ನಾವು ದೂರವಿರಬೇಕಾದ ವ್ಯಕ್ತಿ, ಇಲ್ಲದಿದ್ದರೆ ತೊಂದರೆಗೆ ಸಿಲುಕುತ್ತೇವೆ",
+      "reasoning": "ಮನುಷ್ಯನಿಂದ ದೂರ ಓಡಿಹೋಗದಿದ್ದರೆ ತೊಂದರೆಗೆ ಸಿಲುಕುತ್ತೇವೆ ಎಂದು ಸಿಂಹವು ನಾಯಿಗೆ ಎಚ್ಚರಿಕೆ ನೀಡಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_master_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who did the Dog finally choose as his master?",
+      "options": [
+        "The Lion",
+        "The Bear",
+        "Man",
+        "The Wolf"
+      ],
+      "answer": "Man",
+      "reasoning": "Realizing that Man is stronger than even the Lion, the Dog chose Man as his ultimate master."
+    },
+    "kn": {
+      "question": "ನಾಯಿ ಕೊನೆಗೆ ಯಾರನ್ನು ತನ್ನ ಯಜಮಾನನನ್ನಾಗಿ ಆರಿಸಿಕೊಂಡಿತು?",
+      "options": [
+        "ಸಿಂಹನನ್ನು",
+        "ಕರಡಿಯನ್ನು",
+        "ಮನುಷ್ಯನನ್ನು",
+        "ತೋಳನನ್ನು"
+      ],
+      "answer": "ಮನುಷ್ಯನನ್ನು",
+      "reasoning": "ಸಿಂಹನಿಗಿಂತಲೂ ಮನುಷ್ಯ ಬಲಿಷ್ಠ ಎಂಬುದನ್ನು ಮನಗಂಡ ನಾಯಿ ಮನುಷ್ಯನನ್ನು ತನ್ನ ಕೊನೆಯ ಯಜಮಾನನನ್ನಾಗಿ ಆರಿಸಿಕೊಂಡಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_master_013",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What does the term 'kinsman' imply in the story?",
+      "options": [
+        "A dangerous rival",
+        "A relative or family connection",
+        "A master or leader",
+        "An unknown stranger"
+      ],
+      "answer": "A relative or family connection",
+      "reasoning": "A kinsman is a relative. The Wolf is referred to as the Dog's kinsman due to their evolutionary connection."
+    },
+    "kn": {
+      "question": "ಕಥೆಯಲ್ಲಿ 'kinsman' ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಅಪಾಯಕಾರಿ ಪ್ರತಿಸ್ಪರ್ಧಿ",
+        "ಒಬ್ಬ ಸಂಬಂಧಿ ಅಥವಾ ಕುಟುಂಬದ ಒಡನಾಡಿ",
+        "ಒಬ್ಬ ಯಜಮಾನ ಅಥವಾ ನಾಯಕ",
+        "ಅಪರಿಚಿತ ವ್ಯಕ್ತಿ"
+      ],
+      "answer": "ಒಬ್ಬ ಸಂಬಂಧಿ ಅಥವಾ ಕುಟುಂಬದ ಒಡನಾಡಿ",
+      "reasoning": "'Kinsman' ಎಂದರೆ ಸಂಬಂಧಿ. ನಾಯಿ ಮತ್ತು ತೋಳ ವಿಕಾಸದ ದೃಷ್ಟಿಯಿಂದ ಹತ್ತಿರದ ಪ್ರಾಣಿಗಳಾಗಿದ್ದರಿಂದ ತೋಳನನ್ನು ಸಂಬಂಧಿ ಎನ್ನಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c6_eng_master_014",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why did the Dog think the Lion was the perfect master at first?",
+      "options": [
+        "The Lion was very gentle and slept all day",
+        "No other animal dared to touch the Dog or offend him while he was with the Lion",
+        "The Lion allowed the Dog to lead the hunt",
+        "The Lion was easy to defeat if the Dog wanted to leave"
+      ],
+      "answer": "No other animal dared to touch the Dog or offend him while he was with the Lion",
+      "reasoning": "The Dog felt secure because no animal dared to challenge the Lion, making the Dog's life safe."
+    },
+    "kn": {
+      "question": "ಮೊದಲಿಗೆ ನಾಯಿ ಸಿಂಹನೇ ಪರಿಪೂರ್ಣ ಯಜಮಾನ ಎಂದು ಏಕೆ ಭಾವಿಸಿತು?",
+      "options": [
+        "ಸಿಂಹವು ಬಹಳ ಮೃದುವಾಗಿದ್ದು ದಿನವಿಡೀ ಮಲಗುತ್ತಿತ್ತು",
+        "ಸಿಂಹನೊಂದಿಗಿದ್ದಾಗ ನಾಯಿಯನ್ನು ಮುಟ್ಟಲು ಅಥವಾ ತೊಂದರೆ ಕೊಡಲು ಬೇರೆ ಯಾವುದೇ ಪ್ರಾಣಿ ಧೈರ್ಯ ಮಾಡಲಿಲ್ಲ",
+        "ಸಿಂಹವು ನಾಯಿಗೆ ಬೇಟೆಯ ನೇತೃತ್ವ ವಹಿಸಲು ಅವಕಾಶ ನೀಡಿತು",
+        "ನಾಯಿ ಬಯಸಿದರೆ ಸಿಂಹನನ್ನು ಸುಲಭವಾಗಿ ಸೋಲಿಸಬಹುದಿತ್ತು"
+      ],
+      "answer": "ಸಿಂಹನೊಂದಿಗಿದ್ದಾಗ ನಾಯಿಯನ್ನು ಮುಟ್ಟಲು ಅಥವಾ ತೊಂದರೆ ಕೊಡಲು ಬೇರೆ ಯಾವುದೇ ಪ್ರಾಣಿ ಧೈರ್ಯ ಮಾಡಲಿಲ್ಲ",
+      "reasoning": "ಸಿಂಹನನ್ನು ಎದುರಿಸಲು ಯಾವ ಪ್ರಾಣಿಯೂ ಧೈರ್ಯ ಮಾಡದಿದ್ದರಿಂದ ನಾಯಿಗೆ ತನ್ನ ಜೀವನ ಸುರಕ್ಷಿತವಾಗಿದೆ ಎಂದು ಅನಿಸಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_master_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What does the behavior of the Dog tell us about his relationship with Man today?",
+      "options": [
+        "The dog is still searching for a stronger wild master",
+        "The dog is Man's most loyal servant and knows no other master",
+        "The dog plans to escape back into the wild soon",
+        "The dog only serves Man for fear of punishment"
+      ],
+      "answer": "The dog is Man's most loyal servant and knows no other master",
+      "reasoning": "The story ends by stating that since that day, the Dog has stayed with Man and served him faithfully as his most loyal servant."
+    },
+    "kn": {
+      "question": "ಇಂದು ಮನುಷ್ಯನೊಂದಿಗೆ ನಾಯಿಗಿರುವ ಸಂಬಂಧದ ಬಗ್ಗೆ ಈ ಕಥೆಯು ನಮಗೆ ಏನು ತಿಳಿಸುತ್ತದೆ?",
+      "options": [
+        "ನಾಯಿ ಇನ್ನೂ ಕಾಡಿನ ಬಲಿಷ್ಠ ಯಜಮಾನನಿಗಾಗಿ ಹುಡುಕುತ್ತಿದೆ",
+        "ನಾಯಿ ಮನುಷ್ಯನ ಅತ್ಯಂತ ನಿಷ್ಠಾವಂತ ಸೇವಕನಾಗಿದೆ ಮತ್ತು ಬೇರೆ ಯಜಮಾನನನ್ನು ಹೊಂದಿಲ್ಲ",
+        "ನಾಯಿ ಶೀಘ್ರದಲ್ಲೇ ಮತ್ತೆ ಕಾಡಿಗೆ ಓಡಿಹೋಗಲು ಯೋಜಿಸುತ್ತಿದೆ",
+        "ನಾಯಿ ಕೇವಲ ಶಿಕ್ಷೆಯ ಭಯದಿಂದ ಮನುಷ್ಯನ ಸೇವೆ ಮಾಡುತ್ತದೆ"
+      ],
+      "answer": "ನಾಯಿ ಮನುಷ್ಯನ ಅತ್ಯಂತ ನಿಷ್ಠಾವಂತ ಸೇವಕನಾಗಿದೆ ಮತ್ತು ಬೇರೆ ಯಜಮಾನನನ್ನು ಹೊಂದಿಲ್ಲ",
+      "reasoning": "ಅಂದಿನಿಂದ ನಾಯಿ ಮನುಷ್ಯನೊಂದಿಗೆ ಉಳಿದುಕೊಂಡು, ಅತ್ಯಂತ ನಿಷ್ಠಾವಂತ ಸೇವಕನಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಿದೆ ಎಂದು ಕಥೆ ಮುಕ್ತಾಯವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_eng_master_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the meaning of the word 'offend' in the phrase 'offend him in any way'?",
+      "options": [
+        "To please or praise",
+        "To annoy, anger, or make someone feel bad",
+        "To ignore completely",
+        "To feed or support"
+      ],
+      "answer": "To annoy, anger, or make someone feel bad",
+      "reasoning": "To offend means to cause displeasure, anger, or hurt feelings. No animal wanted to make the Dog or Lion angry."
+    },
+    "kn": {
+      "question": "'offend him in any way' ಎಂಬ ವಾಕ್ಯದಲ್ಲಿ 'offend' ಪದದ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಸಂತೋಷಪಡಿಸುವುದು ಅಥವಾ ಪ್ರಶಂಸಿಸುವುದು",
+        "ಕಿರಿಕಿರಿ ಉಂಟುಮಾಡುವುದು, ಕೋಪಗೊಳಿಸುವುದು ಅಥವಾ ಬೇಸರ ಉಂಟುಮಾಡುವುದು",
+        "ಸಂಪೂರ್ಣವಾಗಿ ನಿರ್ಲಕ್ಷಿಸುವುದು",
+        "ಆಹಾರ ನೀಡುವುದು ಅಥವಾ ಬೆಂಬಲಿಸುವುದು"
+      ],
+      "answer": "ಕಿರಿಕಿರಿ ಉಂಟುಮಾಡುವುದು, ಕೋಪಗೊಳಿಸುವುದು ಅಥವಾ ಬೇಸರ ಉಂಟುಮಾಡುವುದು",
+      "reasoning": "'Offend' ಎಂದರೆ ತೊಂದರೆ ಕೊಡುವುದು ಅಥವಾ ಕೋಪಗೊಳಿಸುವುದು. ಸಿಂಹನ ಹೆದರಿಕೆಯಿಂದ ಯಾವುದೇ ಪ್ರಾಣಿ ನಾಯಿಗೆ ತೊಂದರೆ ಕೊಡಲು ಬಯಸಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_eng_master_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What was the sequence of masters the Dog served, in order of appearance?",
+      "options": [
+        "Bear -> Wolf -> Lion -> Man",
+        "Wolf -> Lion -> Bear -> Man",
+        "Wolf -> Bear -> Lion -> Man",
+        "Lion -> Wolf -> Bear -> Man"
+      ],
+      "answer": "Wolf -> Bear -> Lion -> Man",
+      "reasoning": "The Dog went first to the Wolf, then the Bear, next the Lion, and finally to Man."
+    },
+    "kn": {
+      "question": "ನಾಯಿ ಯಜಮಾನರನ್ನಾಗಿ ಆರಿಸಿಕೊಂಡ ಪ್ರಾಣಿಗಳ ಸರಿಯಾದ ಕ್ರಮ ಯಾವುದು?",
+      "options": [
+        "ಕರಡಿ -> ತೋಳ -> ಸಿಂಹ -> ಮನುಷ್ಯ",
+        "ತೋಳ -> ಸಿಂಹ -> ಕರಡಿ -> ಮನುಷ್ಯ",
+        "ತೋಳ -> ಕರಡಿ -> ಸಿಂಹ -> ಮನುಷ್ಯ",
+        "ಸಿಂಹ -> ತೋಳ -> ಕರಡಿ -> ಮನುಷ್ಯ"
+      ],
+      "answer": "ತೋಳ -> ಕರಡಿ -> ಸಿಂಹ -> ಮನುಷ್ಯ",
+      "reasoning": "ನಾಯಿ ಮೊದಲಿಗೆ ತೋಳನ ಬಳಿ, ನಂತರ ಕರಡಿ, ಆಮೇಲೆ ಸಿಂಹ ಮತ್ತು ಕೊನೆಗೆ ಮನುಷ್ಯನ ಬಳಿ ಹೋಯಿತು."
+    }
+  },
+  {
+    "id": "c6_eng_master_018",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following wild animals did the Dog serve in the story? (Select all that apply)",
+      "options": [
+        "The Wolf",
+        "The Fox",
+        "The Bear",
+        "The Lion"
+      ],
+      "answer": [
+        "The Wolf",
+        "The Bear",
+        "The Lion"
+      ],
+      "reasoning": "The Dog served the Wolf, the Bear, and the Lion. He never served the Fox."
+    },
+    "kn": {
+      "question": "ಕಥೆಯಲ್ಲಿ ನಾಯಿ ಯಾವ ಕಾಡು ಪ್ರಾಣಿಗಳ ಸೇವೆ ಮಾಡಿತು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ತೋಳ",
+        "ನರಿ",
+        "ಕರಡಿ",
+        "ಸಿಂಹ"
+      ],
+      "answer": [
+        "ತೋಳ",
+        "ಕರಡಿ",
+        "ಸಿಂಹ"
+      ],
+      "reasoning": "ನಾಯಿ ತೋಳ, ಕರಡಿ ಮತ್ತು ಸಿಂಹನ ಸೇವೆ ಮಾಡಿತು. ಅವನು ನರಿಯ ಸೇವೆ ಮಾಡಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_eng_master_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Why did the Dog leave his previous wild masters? (Select all that apply)",
+      "options": [
+        "The Wolf was scared of the Bear",
+        "The Bear was scared of the Lion",
+        "The Lion was afraid of Man",
+        "The masters refused to give the Dog any food"
+      ],
+      "answer": [
+        "The Wolf was scared of the Bear",
+        "The Bear was scared of the Lion",
+        "The Lion was afraid of Man"
+      ],
+      "reasoning": "The Dog left each master when he realized they were afraid of someone stronger, as he wanted the strongest master on earth."
+    },
+    "kn": {
+      "question": "ನಾಯಿ ತನ್ನ ಹಿಂದಿನ ಕಾಡು ಯಜಮಾನರನ್ನು ಏಕೆ ಬಿಟ್ಟು ಹೋದನು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ತೋಳ ಕರಡಿಗೆ ಹೆದರಿತು",
+        "ಕರಡಿ ಸಿಂಹಕ್ಕೆ ಹೆದರಿತು",
+        "ಸಿಂಹ ಮನುಷ್ಯನಿಗೆ ಹೆದರಿತು",
+        "ಯಜಮಾನರು ನಾಯಿಗೆ ಆಹಾರ ನೀಡಲು ನಿರಾಕರಿಸಿದರು"
+      ],
+      "answer": [
+        "ತೋಳ ಕರಡಿಗೆ ಹೆದರಿತು",
+        "ಕರಡಿ ಸಿಂಹಕ್ಕೆ ಹೆದರಿತು",
+        "ಸಿಂಹ ಮನುಷ್ಯನಿಗೆ ಹೆದರಿತು"
+      ],
+      "reasoning": "ಪ್ರತಿಯೊಬ್ಬ ಯಜಮಾನನೂ ತನಗಿಂತ ಬಲಶಾಲಿಗೆ ಹೆದರುವುದನ್ನು ಕಂಡು, ಎಲ್ಲರಿಗಿಂತ ಬಲಶಾಲಿ ಯಜಮಾನನಿಗಾಗಿ ನಾಯಿ ಅವರನ್ನು ಬಿಟ್ಟು ಹೋದನು."
+    }
+  },
+  {
+    "id": "c6_eng_master_020",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "What did the Dog dislike about his original lifestyle before finding a master? (Select all that apply)",
+      "options": [
+        "Having to search for food by himself",
+        "Being frightened of animals stronger than him",
+        "Wandering around alone getting tired",
+        "Being kept in a cage by the wild beasts"
+      ],
+      "answer": [
+        "Having to search for food by himself",
+        "Being frightened of animals stronger than him",
+        "Wandering around alone getting tired"
+      ],
+      "reasoning": "The Dog was unhappy with his life because he had to find food alone, got tired, and lived in fear of stronger creatures."
+    },
+    "kn": {
+      "question": "ಯಜಮಾನ ಸಿಗುವ ಮುನ್ನ ನಾಯಿಗೆ ತನ್ನ ಮೂಲ ಜೀವನಶೈಲಿಯಲ್ಲಿದ್ದ ಯಾವ ವಿಷಯಗಳು ಇಷ್ಟವಿರಲಿಲ್ಲ? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ತಾನೇ ಸ್ವತಃ ಆಹಾರ ಹುಡುಕಬೇಕಾಗಿರುವುದು",
+        "ತನಗಿಂತ ಬಲಶಾಲಿ ಪ್ರಾಣಿಗಳಿಗೆ ಹೆದರುವುದು",
+        "ಏಕಾಂಗಿಯಾಗಿ ಅಲೆದಾಡಿ ಸುಸ್ತಾಗುವುದು",
+        "ಕಾಡು ಪ್ರಾಣಿಗಳಿಂದ ಪಂಜರದಲ್ಲಿ ಇಡಲ್ಪಡುವುದು"
+      ],
+      "answer": [
+        "ತಾನೇ ಸ್ವತಃ ಆಹಾರ ಹುಡುಕಬೇಕಾಗಿರುವುದು",
+        "ತನಗಿಂತ ಬಲಶಾಲಿ ಪ್ರಾಣಿಗಳಿಗೆ ಹೆದರುವುದು",
+        "ಏಕಾಂಗಿಯಾಗಿ ಅಲೆದಾಡಿ ಸುಸ್ತಾಗುವುದು"
+      ],
+      "reasoning": "ಯಜಮಾನ ಸಿಗುವ ಮೊದಲು ನಾಯಿಗೆ ಏಕಾಂಗಿಯಾಗಿ ಅಲೆದಾಡುವುದು, ಸ್ವತಃ ಆಹಾರ ಹುಡುಕುವುದು ಮತ್ತು ಬಲಿಷ್ಠ ಪ್ರಾಣಿಗಳಿಗೆ ಹೆದರುವುದು ಇಷ್ಟವಿರಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_eng_master_021",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which actions show that the Lion was afraid of Man? (Select all that apply)",
+      "options": [
+        "He smelled a man coming from afar",
+        "He advised the Dog to run away to avoid trouble",
+        "He roared, struck the ground, and retreated quietly",
+        "He joined the Bear to fight the man"
+      ],
+      "answer": [
+        "He smelled a man coming from afar",
+        "He advised the Dog to run away to avoid trouble",
+        "He roared, struck the ground, and retreated quietly"
+      ],
+      "reasoning": "The Lion's fear of Man is demonstrated when he smelled the man, warned the dog of trouble, and backed away quietly."
+    },
+    "kn": {
+      "question": "ಸಿಂಹ ಮನುಷ್ಯನಿಗೆ ಹೆದರಿದ್ದನೆಂದು ತೋರಿಸುವ ವಿವರಗಳು ಯಾವುವು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಅವನು ದೂರದಿಂದಲೇ ಮನುಷ್ಯ ಬರುತ್ತಿರುವ ವಾಸನೆ ಹಿಡಿದನು",
+        "ತೊಂದರೆಯಿಂದ ಪಾರಾಗಲು ಓಡಿಹೋಗೋಣ ಎಂದು ನಾಯಿಗೆ ಸಲಹೆ ನೀಡಿದನು",
+        "ಅವನು ಘರ್ಜಿಸಿ, ನೆಲಕ್ಕೆ ಬಡಿದು ಸದ್ದಿಲ್ಲದೆ ಹಿಂದೆ ಸರಿದನು",
+        "ಅವನು ಮನುಷ್ಯನ ವಿರುದ್ಧ ಹೋರಾಡಲು ಕರಡಿಯೊಂದಿಗೆ ಸೇರಿದನು"
+      ],
+      "answer": [
+        "ಅವನು ದೂರದಿಂದಲೇ ಮನುಷ್ಯ ಬರುತ್ತಿರುವ ವಾಸನೆ ಹಿಡಿದನು",
+        "ತೊಂದರೆಯಿಂದ ಪಾರಾಗಲು ಓಡಿಹೋಗೋಣ ಎಂದು ನಾಯಿಗೆ ಸಲಹೆ ನೀಡಿದನು",
+        "ಅವನು ಘರ್ಜಿಸಿ, ನೆಲಕ್ಕೆ ಬಡಿದು ಸದ್ದಿಲ್ಲದೆ ಹಿಂದೆ ಸರಿದನು"
+      ],
+      "reasoning": "ಮನುಷ್ಯನ ವಾಸನೆ ಹಿಡಿದು, ಓಡಿಹೋಗಲು ನಾಯಿಗೆ ಎಚ್ಚರಿಸಿ, ಸದ್ದಿಲ್ಲದೆ ಹಿಂದೆ ಸರಿದ ಸಿಂಹನ ವರ್ತನೆಯು ಅವನು ಮನುಷ್ಯನಿಗೆ ಹೆದರಿದ್ದನೆಂದು ತೋರಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c6_eng_master_022",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the animals with their described traits in the story:",
+      "pairs": [
+        {
+          "left": "Wolf",
+          "right": "First master, kinsman"
+        },
+        {
+          "left": "Bear",
+          "right": "Wanted to hunt cows"
+        },
+        {
+          "left": "Lion",
+          "right": "Strongest beast in the forest"
+        },
+        {
+          "left": "Dog",
+          "right": "Desired a powerful master"
+        }
+      ],
+      "reasoning": "These matches tie each animal to their unique trait or action in the narrative."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಣಿಗಳನ್ನು ಕಥೆಯಲ್ಲಿ ವಿವರಿಸಲಾದ ಅವುಗಳ ಗುಣಲಕ್ಷಣಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Wolf",
+          "right": "First master, kinsman"
+        },
+        {
+          "left": "Bear",
+          "right": "Wanted to hunt cows"
+        },
+        {
+          "left": "Lion",
+          "right": "Strongest beast in the forest"
+        },
+        {
+          "left": "Dog",
+          "right": "Desired a powerful master"
+        }
+      ],
+      "reasoning": "ಈ ಜೋಡಿಗಳು ಪ್ರತಿ ಪ್ರಾಣಿಯನ್ನು ಕಥೆಯಲ್ಲಿನ ಅವುಗಳ ವಿಶಿಷ್ಟ ಗುಣಗಳು ಅಥವಾ ಕ್ರಿಯೆಗಳೊಂದಿಗೆ ಜೋಡಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c6_eng_master_023",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the vocabulary words from the story with their synonyms:",
+      "pairs": [
+        {
+          "left": "Kinsman",
+          "right": "Relative"
+        },
+        {
+          "left": "Offend",
+          "right": "Displease or anger"
+        },
+        {
+          "left": "Dare",
+          "right": "Have courage"
+        },
+        {
+          "left": "Cliff",
+          "right": "Steep high rock"
+        }
+      ],
+      "reasoning": "Understanding the meanings of challenging words used in the story."
+    },
+    "kn": {
+      "question": "ಕಥೆಯಲ್ಲಿನ ಪ್ರಮುಖ ಪದಗಳನ್ನು ಅವುಗಳ ಸಮಾನಾರ್ಥಕಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Kinsman",
+          "right": "Relative"
+        },
+        {
+          "left": "Offend",
+          "right": "Displease or anger"
+        },
+        {
+          "left": "Dare",
+          "right": "Have courage"
+        },
+        {
+          "left": "Cliff",
+          "right": "Steep high rock"
+        }
+      ],
+      "reasoning": "ಕಥೆಯಲ್ಲಿ ಬಳಸಲಾದ ಕಠಿಣ ಪದಗಳ ಅರ್ಥಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು."
+    }
+  },
+  {
+    "id": "c6_eng_master_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the actions with the reasons behind them:",
+      "pairs": [
+        {
+          "left": "Wolf hid in bushes",
+          "right": "He saw a Bear coming"
+        },
+        {
+          "left": "Bear ran deeper into forest",
+          "right": "He heard the Lion's roar"
+        },
+        {
+          "left": "Lion backed away",
+          "right": "He sensed a Man approaching"
+        },
+        {
+          "left": "Dog stayed with Man",
+          "right": "He found the strongest master"
+        }
+      ],
+      "reasoning": "Connecting the reactions of the characters to the threats they faced."
+    },
+    "kn": {
+      "question": "ಕ್ರಿಯೆಗಳನ್ನು ಅವುಗಳ ಹಿಂದಿರುವ ಕಾರಣಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "Wolf hid in bushes",
+          "right": "He saw a Bear coming"
+        },
+        {
+          "left": "Bear ran deeper into forest",
+          "right": "He heard the Lion's roar"
+        },
+        {
+          "left": "Lion backed away",
+          "right": "He sensed a Man approaching"
+        },
+        {
+          "left": "Dog stayed with Man",
+          "right": "He found the strongest master"
+        }
+      ],
+      "reasoning": "ಪಾತ್ರಗಳು ಎದುರಿಸಿದ ಭೀತಿಗಳು ಮತ್ತು ಅವುಗಳ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಜೋಡಿಸುವುದು."
+    }
+  },
+  {
+    "id": "c6_eng_master_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the quotes with the characters who said them:",
+      "pairs": [
+        {
+          "left": "I want a master who is stronger than anyone",
+          "right": "The Dog"
+        },
+        {
+          "left": "Why not? Let us go and find a herd",
+          "right": "The Bear"
+        },
+        {
+          "left": "I smell a man coming this way",
+          "right": "The Lion"
+        },
+        {
+          "left": "Are you afraid?",
+          "right": "The Dog to the Wolf"
+        }
+      ],
+      "reasoning": "Recognizing which character spoke which lines in the story."
+    },
+    "kn": {
+      "question": "ಹೇಳಿಕೆಗಳನ್ನು ಅವುಗಳನ್ನು ಹೇಳಿದ ಪಾತ್ರಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "I want a master who is stronger than anyone",
+          "right": "The Dog"
+        },
+        {
+          "left": "Why not? Let us go and find a herd",
+          "right": "The Bear"
+        },
+        {
+          "left": "I smell a man coming this way",
+          "right": "The Lion"
+        },
+        {
+          "left": "Are you afraid?",
+          "right": "The Dog to the Wolf"
+        }
+      ],
+      "reasoning": "ಕಥೆಯಲ್ಲಿ ಯಾರು ಯಾವ ಮಾತುಗಳನ್ನು ಹೇಳಿದ್ದಾರೆಂದು ಗುರುತಿಸುವುದು."
+    }
+  }
+]

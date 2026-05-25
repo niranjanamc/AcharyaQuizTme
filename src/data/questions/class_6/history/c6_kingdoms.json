@@ -1,0 +1,793 @@
+[
+  {
+    "id": "c6_his_kings_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What was the name of the horse sacrifice ritual performed by kings to establish their supremacy over other kingdoms?",
+      "options": [
+        "Ashvamedha",
+        "Rajasuya",
+        "Vajapeya",
+        "Putrakameshti"
+      ],
+      "answer": "Ashvamedha",
+      "reasoning": "The Ashvamedha, or horse sacrifice, was a ritual where a horse was let loose to wander. If other kings did not stop it, it meant they accepted the supremacy of the raja performing the sacrifice."
+    },
+    "kn": {
+      "question": "ರಾಜರು ಇತರ ರಾಜ್ಯಗಳ ಮೇಲೆ ತಮ್ಮ ಸಾರ್ವಭೌಮತ್ವವನ್ನು ಸ್ಥಾಪಿಸಲು ಮಾಡುತ್ತಿದ್ದ ಕುದುರೆ ಬಲಿ ವಿಧಿಯ ಹೆಸರೇನು?",
+      "options": [
+        "ಅಶ್ವಮೇಧ",
+        "ರಾಜಸೂಯ",
+        "ವಾಜಪೇಯ",
+        "ಪುತ್ರಕಾಮೇಷ್ಟಿ"
+      ],
+      "answer": "ಅಶ್ವಮೇಧ",
+      "reasoning": "ಅಶ್ವಮೇಧ ಎಂದರೆ ಕುದುರೆ ಬಲಿ ಯಾಗ. ಇದರಲ್ಲಿ ಕುದುರೆಯನ್ನು ಸ್ವತಂತ್ರವಾಗಿ ಅಲೆಯಲು ಬಿಡಲಾಗುತ್ತಿತ್ತು. ಇತರ ರಾಜರು ಅದನ್ನು ತಡೆಯದಿದ್ದರೆ ಅವರು ಯಾಗ ಮಾಡುವ ರಾಜನ ಸಾರ್ವಭೌಮತ್ವವನ್ನು ಒಪ್ಪಿಕೊಂಡಿದ್ದಾರೆ ಎಂದರ್ಥ."
+    }
+  },
+  {
+    "id": "c6_his_kings_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Into how many social groups (varnas) did the ancient priests divide the people?",
+      "options": [
+        "Four",
+        "Three",
+        "Five",
+        "Two"
+      ],
+      "answer": "Four",
+      "reasoning": "The priests divided people into four groups, called varnas. Each varna had a different set of functions and duties."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಚೀನ ಅರ್ಚಕರು ಜನರನ್ನು ಎಷ್ಟು ಸಾಮಾಜಿಕ ವರ್ಣಗಳಾಗಿ (ಗುಂಪುಗಳಾಗಿ) ವಿಂಗಡಿಸಿದ್ದರು?",
+      "options": [
+        "ನಾಲ್ಕು",
+        "ಮೂರು",
+        "ಐದು",
+        "ಎರಡು"
+      ],
+      "answer": "ನಾಲ್ಕು",
+      "reasoning": "ಅರ್ಚಕರು ಜನರನ್ನು ನಾಲ್ಕು ಗುಂಪುಗಳಾಗಿ ವಿಂಗಡಿಸಿದರು, ಇವುಗಳನ್ನು ವರ್ಣಗಳೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಪ್ರತಿಯೊಂದು ವರ್ಣಕ್ಕೂ ವಿಭಿನ್ನ ಕರ್ತವ್ಯ ಮತ್ತು ಕೆಲಸಗಳಿದ್ದವು."
+    }
+  },
+  {
+    "id": "c6_his_kings_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What does the term 'Janapada' literally mean in ancient Indian history?",
+      "options": [
+        "The land where the jana set its foot and settled",
+        "A large assembly of noble priests",
+        "A regular army maintained by the emperor",
+        "A copper coin used for trading goods"
+      ],
+      "answer": "The land where the jana set its foot and settled",
+      "reasoning": "The word janapada literally means the land where the jana (people) set its foot, and settled down. Sages and rulers established janapadas."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಚೀನ ಭಾರತದ ಇತಿಹಾಸದಲ್ಲಿ 'ಜನಪದ' ಎಂಬ ಪದದ ಅಕ್ಷರಶಃ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಜನತೆ ತನ್ನ ಪಾದವನ್ನಿಟ್ಟು ನೆಲೆಸಿದ ಭೂಮಿ",
+        "ಉನ್ನತ ಅರ್ಚಕರ ದೊಡ್ಡ ಸಭೆ",
+        "ಚಕ್ರವರ್ತಿಯು ನಿರ್ವಹಿಸುತ್ತಿದ್ದ ನಿಯಮಿತ ಸೈನ್ಯ",
+        "ಸರಕುಗಳ ವ್ಯಾಪಾರಕ್ಕಾಗಿ ಬಳಸುತ್ತಿದ್ದ ತಾಮ್ರದ ನಾಣ್ಯ"
+      ],
+      "answer": "ಜನತೆ ತನ್ನ ಪಾದವನ್ನಿಟ್ಟು ನೆಲೆಸಿದ ಭೂಮಿ",
+      "reasoning": "'ಜನಪದ' ಎಂದರೆ ಜನರು (ಜನ) ವಾಸಿಸಲು ತಮ್ಮ ಹೆಜ್ಜೆಯನ್ನಿಟ್ಟು ನೆಲೆಸಿದ ಭೂಮಿ ಎಂದರ್ಥ. ಋಷಿಗಳು ಮತ್ತು ರಾಜರು ಜನಪದಗಳನ್ನು ಸ್ಥಾಪಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c6_his_kings_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which major river flowed through the kingdom of Magadha, helping in transport and water supply?",
+      "options": [
+        "Ganga",
+        "Godavari",
+        "Indus",
+        "Cauvery"
+      ],
+      "answer": "Ganga",
+      "reasoning": "Many rivers, such as the Ganga and the Son, flowed through Magadha. This was important for transport, water supplies, and making the land fertile."
+    },
+    "kn": {
+      "question": "ಮಗಧ ಸಾಮ್ರಾಜ್ಯದ ಮೂಲಕ ಹರಿದು ಸಾರಿಗೆ ಮತ್ತು ನೀರು ಸರಬರಾಜಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದ ಪ್ರಮುಖ ನದಿ ಯಾವುದು?",
+      "options": [
+        "ಗಂಗಾ",
+        "ಗೋದಾವರಿ",
+        "ಸಿಂಧೂ",
+        "ಕಾವೇರಿ"
+      ],
+      "answer": "ಗಂಗಾ",
+      "reasoning": "ಮಗಧದ ಮೂಲಕ ಗಂಗಾ ಮತ್ತು ಸೋನ್ ನದಿಗಳು ಹರಿಯುತ್ತಿದ್ದವು. ಇದು ಸಾರಿಗೆ, ನೀರು ಸರಬರಾಜು ಮತ್ತು ಭೂಮಿಯನ್ನು ಫಲವತ್ತಾಗಿಸಲು ಅತ್ಯಂತ ಪ್ರಮುಖವಾಗಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_kings_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What was the capital of the Vajji Mahajanapada which was governed under a Gana or Sangha system?",
+      "options": [
+        "Vaishali",
+        "Rajagriha",
+        "Pataliputra",
+        "Ujjain"
+      ],
+      "answer": "Vaishali",
+      "reasoning": "Vajji, with its capital at Vaishali (present-day Bihar), was under a different form of government, known as Gana or Sangha."
+    },
+    "kn": {
+      "question": "ಗಣ ಅಥವಾ ಸಂಘ ವ್ಯವಸ್ಥೆಯಡಿ ಆಳಲ್ಪಡುತ್ತಿದ್ದ ವಜ್ಜಿ ಮಹಾಜನಪದದ ರಾಜಧಾನಿ ಯಾವುದಾಗಿತ್ತು?",
+      "options": [
+        "ವೈಶಾಲಿ",
+        "ರಾಜಗೃಹ",
+        "ಪಾಟಲಿಪುತ್ರ",
+        "ಉಜ್ಜಯಿನಿ"
+      ],
+      "answer": "ವೈಶಾಲಿ",
+      "reasoning": "ವಜ್ಜಿ ಮಹಾಜನಪದದ ರಾಜಧಾನಿ ವೈಶಾಲಿ (ಪ್ರಸ್ತುತ ಬಿಹಾರದಲ್ಲಿದೆ) ಆಗಿತ್ತು. ಇದು ಪ್ರತ್ಯೇಕ ಆಡಳಿತ ಪದ್ಧತಿಯಾದ ಗಣ ಅಥವಾ ಸಂಘದ ಅಡಿಯಲ್ಲಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_kings_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What were the landless agricultural laborers called in ancient times who carried out crop sowing?",
+      "options": [
+        "Kammakaras",
+        "Grihapatis",
+        "Rajas",
+        "Brahmins"
+      ],
+      "answer": "Kammakaras",
+      "reasoning": "Landless agricultural laborers were called kammakaras. They, along with dasas and dasis, had to do the hard work of transplanting paddy."
+    },
+    "kn": {
+      "question": "ಬೆಳೆಗಳನ್ನು ಬಿತ್ತಲು ಮತ್ತು ನಾಟಿ ಮಾಡಲು ದುಡಿಯುತ್ತಿದ್ದ ಭೂಹೀನ ಕೃಷಿ ಕಾರ್ಮಿಕರನ್ನು ಪ್ರಾಚೀನ ಕಾಲದಲ್ಲಿ ಏನೆಂದು ಕರೆಯುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಕಮ್ಮಕಾರರು",
+        "ಗೃಹಪತಿಗಳು",
+        "ರಾಜರು",
+        "ಬ್ರಾಹ್ಮಣರು"
+      ],
+      "answer": "ಕಮ್ಮಕಾರರು",
+      "reasoning": "ಭೂಹೀನ ಕೃಷಿ ಕಾರ್ಮಿಕರನ್ನು ಕಮ್ಮಕಾರರು ಎನ್ನಲಾಗುತ್ತಿತ್ತು. ಇವರು ದಾಸ ಮತ್ತು ದಾಸಿಯರೊಂದಿಗೆ ಸೇರಿ ಭತ್ತದ ಸಸಿ ನಾಟಿ ಮಾಡುವ ಕಠಿಣ ಕೆಲಸಗಳನ್ನು ಮಾಡುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_his_kings_007",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What special type of pottery, featuring simple painted lines or geometric patterns, was found at Janapada sites?",
+      "options": [
+        "Painted Grey Ware",
+        "Black and Red Ware",
+        "Northern Black Polished Ware",
+        "Red Glazed Ware"
+      ],
+      "answer": "Painted Grey Ware",
+      "reasoning": "A special type of pottery found at Janapada sites is Painted Grey Ware. As is clear from the name, these had painted designs, usually simple lines and geometric patterns."
+    },
+    "kn": {
+      "question": "ಜನಪದ ತಾಣಗಳಲ್ಲಿ ಪತ್ತೆಯಾದ, ಸರಳ ರೇಖೆಗಳು ಅಥವಾ ರೇಖಾಗಣಿತದ ವಿನ್ಯಾಸಗಳನ್ನು ಹೊಂದಿದ್ದ ವಿಶೇಷ ಮಣ್ಣಿನ ಪಾತ್ರೆಗಳು ಯಾವುವು?",
+      "options": [
+        "ಪೇಂಟೆಡ್ ಗ್ರೇ ವೇರ್ (ಚಿತ್ರಿತ ಬೂದು ಪಾತ್ರೆಗಳು)",
+        "ಕಪ್ಪು ಮತ್ತು ಕೆಂಪು ಮಡಕೆಗಳು",
+        "ನಾರ್ದರ್ನ್ ಬ್ಲಾಕ್ ಪಾಲಿಶ್ಡ್ ವೇರ್",
+        "ಕೆಂಪು ಮೆರುಗುಳ್ಳ ಮಡಕೆಗಳು"
+      ],
+      "answer": "ಪೇಂಟೆಡ್ ಗ್ರೇ ವೇರ್ (ಚಿತ್ರಿತ ಬೂದು ಪಾತ್ರೆಗಳು)",
+      "reasoning": "ಜನಪದ ತಾಣಗಳಲ್ಲಿ ಸಿಕ್ಕ ವಿಶಿಷ್ಟ ಮಣ್ಣಿನ ಪಾತ್ರೆಗಳೆಂದರೆ ಪೇಂಟೆಡ್ ಗ್ರೇ ವೇರ್ (ಚಿತ್ರಿತ ಬೂದು ಪಾತ್ರೆಗಳು). ಇವುಗಳ ಮೇಲೆ ಸಾಮಾನ್ಯವಾಗಿ ಸರಳ ರೇಖೆಗಳು ಮತ್ತು ರೇಖಾಗಣಿತದ ಆಕೃತಿಗಳನ್ನು ಬಿಡಿಸಲಾಗಿರುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_kings_008",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why did the rulers of Mahajanapadas build massive stone or brick walls around their capital cities?",
+      "options": [
+        "To protect themselves from attacks and show off their wealth and power",
+        "To prevent water from the rivers flooding the residential streets",
+        "To divide the cities into separate zones for different varnas",
+        "To store agricultural grain inside hollow walls"
+      ],
+      "answer": "To protect themselves from attacks and show off their wealth and power",
+      "reasoning": "Mahajanapada capitals were fortified with huge walls. Rulers built them for safety from enemy attacks, and also to show how rich and powerful they were."
+    },
+    "kn": {
+      "question": "ಮಹಾಜನಪದಗಳ ಆಡಳಿತಗಾರರು ತಮ್ಮ ರಾಜಧಾನಿ ನಗರಗಳ ಸುತ್ತಲೂ ಭಾರಿ ಕಲ್ಲಿನ ಅಥವಾ ಇಟ್ಟಿಗೆಯ ಕೋಟೆ ಗೋಡೆಗಳನ್ನು ಏಕೆ ನಿರ್ಮಿಸಿದರು?",
+      "options": [
+        "ಆಕ್ರಮಣಗಳಿಂದ ರಕ್ಷಿಸಿಕೊಳ್ಳಲು ಮತ್ತು ತಮ್ಮ ಸಂಪತ್ತು ಹಾಗೂ ಅಧಿಕಾರವನ್ನು ಪ್ರದರ್ಶಿಸಲು",
+        "ನದಿಯ ನೀರು ವಾಸಸ್ಥಳದ ಬೀದಿಗಳಿಗೆ ನುಗ್ಗಿ ಪ್ರವಾಹ ಉಂಟುಮಾಡದಂತೆ ತಡೆಯಲು",
+        "ನಗರಗಳನ್ನು ಬೇರೆ ಬೇರೆ ವರ್ಣಗಳಿಗೆ ಅನುಗುಣವಾಗಿ ವಲಯಗಳಾಗಿ ವಿಂಗಡಿಸಲು",
+        "ಗೋಡೆಗಳ ಒಳಗೆ ಕೃಷಿ ಧಾನ್ಯಗಳನ್ನು ಸಂಗ್ರಹಿಸಿಡಲು"
+      ],
+      "answer": "ಆಕ್ರಮಣಗಳಿಂದ ರಕ್ಷಿಸಿಕೊಳ್ಳಲು ಮತ್ತು ತಮ್ಮ ಸಂಪತ್ತು ಹಾಗೂ ಅಧಿಕಾರವನ್ನು ಪ್ರದರ್ಶಿಸಲು",
+      "reasoning": "ಮಹಾಜನಪದಗಳ ರಾಜಧಾನಿಗಳನ್ನು ಕೋಟೆ ಗೋಡೆಗಳಿಂದ ಭದ್ರಪಡಿಸಲಾಗಿತ್ತು. ಶತ್ರುಗಳ ದಾಳಿಯಿಂದ ರಕ್ಷಿಸಿಕೊಳ್ಳಲು ಮತ್ತು ತಾವು ಎಷ್ಟು ಶ್ರೀಮಂತರು ಹಾಗೂ ಶಕ್ತಿಶಾಲಿಗಳು ಎಂಬುದನ್ನು ತೋರ್ಪಡಿಸಲು ರಾಜರು ಇವುಗಳನ್ನು ನಿರ್ಮಿಸುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_his_kings_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What was the crop tax, known as 'bhaga' or share, usually fixed at in the Mahajanapadas?",
+      "options": [
+        "1/6th of what was produced",
+        "1/10th of what was produced",
+        "Half of what was produced",
+        "1/4th of what was produced"
+      ],
+      "answer": "1/6th of what was produced",
+      "reasoning": "Taxes on crops were the most important. Usually, the tax was fixed at 1/6th of what was produced, which was known as bhaga or a share."
+    },
+    "kn": {
+      "question": "ಮಹಾಜನಪದಗಳ ಕಾಲದಲ್ಲಿ 'ಭಾಗ' ಎಂದು ಕರೆಯಲಾಗುತ್ತಿದ್ದ ಕೃಷಿ ತೆರಿಗೆಯನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಎಷ್ಟು ನಿಗದಿಪಡಿಸಲಾಗುತ್ತಿತ್ತು?",
+      "options": [
+        "ಉತ್ಪಾದಿಸಿದ ಬೆಳೆಯ 1/6 ಭಾಗ",
+        "ಉತ್ಪಾದಿಸಿದ ಬೆಳೆಯ 1/10 ಭಾಗ",
+        "ಉತ್ಪಾದಿಸಿದ ಬೆಳೆಯ ಅರ್ಧ ಭಾಗ",
+        "ಉತ್ಪಾದಿಸಿದ ಬೆಳೆಯ 1/4 ಭಾಗ"
+      ],
+      "answer": "ಉತ್ಪಾದಿಸಿದ ಬೆಳೆಯ 1/6 ಭಾಗ",
+      "reasoning": "ಕೃಷಿ ಮೇಲಿನ ತೆರಿಗೆಗಳು ಪ್ರಮುಖವಾಗಿದ್ದವು. ಸಾಮಾನ್ಯವಾಗಿ ಕೃಷಿ ತೆರಿಗೆಯನ್ನು ಬೆಳೆದ ಬೆಳೆಯ ಆರನೇ ಒಂದು ಭಾಗಕ್ಕೆ (1/6) ನಿಗದಿಪಡಿಸಲಾಗಿತ್ತು. ಇದನ್ನು 'ಭಾಗ' ಎನ್ನಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_kings_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "How did craftspersons pay taxes to the rajas of the Mahajanapadas?",
+      "options": [
+        "By working for the king for one day every month",
+        "By donating part of their gold ornaments to the temple",
+        "By teaching their craft to the princes in the court",
+        "By purchasing weapons from the royal blacksmiths"
+      ],
+      "answer": "By working for the king for one day every month",
+      "reasoning": "Taxes on crafts-persons were paid in the form of labor. For example, a weaver or a smith might have to work for a day every month for the king."
+    },
+    "kn": {
+      "question": "ಮಹಾಜನಪದಗಳಲ್ಲಿ ಕುಶಲಕರ್ಮಿಗಳು ರಾಜನಿಗೆ ತೆರಿಗೆಯನ್ನು ಹೇಗೆ ಪಾವತಿಸುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಪ್ರತಿ ತಿಂಗಳು ಒಂದು ದಿನ ರಾಜನಿಗಾಗಿ ಉಚಿತವಾಗಿ ಕೆಲಸ ಮಾಡುವ ಮೂಲಕ",
+        "ತಮ್ಮ ಚಿನ್ನದ ಆಭರಣಗಳ ಒಂದು ಭಾಗವನ್ನು ದೇವಾಲಯಕ್ಕೆ ದಾನ ಮಾಡುವುದರ ಮೂಲಕ",
+        "ರಾಜಸಭೆಯಲ್ಲಿ ರಾಜಕುಮಾರರಿಗೆ ತಮ್ಮ ಕಲೆಯನ್ನು ಕಲಿಸುವ ಮೂಲಕ",
+        "ರಾಜಮನೆತನದ ಕಮ್ಮಾರರಿಂದ ಆಯುಧಗಳನ್ನು ಖರೀದಿಸುವ ಮೂಲಕ"
+      ],
+      "answer": "ಪ್ರತಿ ತಿಂಗಳು ಒಂದು ದಿನ ರಾಜನಿಗಾಗಿ ಉಚಿತವಾಗಿ ಕೆಲಸ ಮಾಡುವ ಮೂಲಕ",
+      "reasoning": "ಕುಶಲಕರ್ಮಿಗಳ ಮೇಲಿನ ತೆರಿಗೆಯನ್ನು ಶ್ರಮದ ರೂಪದಲ್ಲಿ (labor) ಪಡೆಯಲಾಗುತ್ತಿತ್ತು. ಉದಾಹರಣೆಗೆ, ನೇಕಾರ ಅಥವಾ ಕಮ್ಮಾರ ಪ್ರತಿ ತಿಂಗಳು ಒಂದು ದಿನ ರಾಜನಿಗಾಗಿ ಕೆಲಸ ಮಾಡಬೇಕಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c6_his_kings_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What was the main administrative difference between the kingdoms of Magadha and Vajji?",
+      "options": [
+        "Magadha was ruled by powerful individual monarchs, while Vajji was a republic ruled by an assembly of rajas",
+        "Magadha had no army, while Vajji had the largest army in the world",
+        "Magadha was ruled only by Shudra kings, while Vajji was ruled by priests",
+        "Magadha did not collect taxes, while Vajji had heavy taxes on crops"
+      ],
+      "answer": "Magadha was ruled by powerful individual monarchs, while Vajji was a republic ruled by an assembly of rajas",
+      "reasoning": "Magadha was a powerful monarchy under rulers like Bimbisara. Vajji had a Gana or Sangha government, where many rulers (rajas) met in assemblies to make decisions collectively."
+    },
+    "kn": {
+      "question": "ಮಗಧ ಮತ್ತು ವಜ್ಜಿ ರಾಜ್ಯಗಳ ಆಡಳಿತ ಪದ್ಧತಿಯ ನಡುವಿನ ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": [
+        "ಮಗಧವನ್ನು ಒಬ್ಬನೇ ಶಕ್ತಿಶಾಲಿ ರಾಜ ಆಳುತ್ತಿದ್ದನು, ವಜ್ಜಿಯು ಅನೇಕ ರಾಜರ ಸಭೆಯಿಂದ ಆಳಲ್ಪಡುತ್ತಿದ್ದ ಗಣರಾಜ್ಯವಾಗಿತ್ತು",
+        "ಮಗಧಕ್ಕೆ ಸೈನ್ಯವಿರಲಿಲ್ಲ, ವಜ್ಜಿಯು ಜಗತ್ತಿನಲ್ಲೇ ಅತಿ ದೊಡ್ಡ ಸೈನ್ಯವನ್ನು ಹೊಂದಿತ್ತು",
+        "ಮಗಧವನ್ನು ಶೂದ್ರ ರಾಜರು ಮಾತ್ರ ಆಳುತ್ತಿದ್ದರು, ವಜ್ಜಿಯನ್ನು ಅರ್ಚಕರು ಆಳುತ್ತಿದ್ದರು",
+        "ಮಗಧವು ತೆರಿಗೆ ವಸೂಲಿ ಮಾಡುತ್ತಿರಲಿಲ್ಲ, ವಜ್ಜಿಯಲ್ಲಿ ಕೃಷಿಯ ಮೇಲೆ ಭಾರಿ ತೆರಿಗೆ ಇತ್ತು"
+      ],
+      "answer": "ಮಗಧವನ್ನು ಒಬ್ಬನೇ ಶಕ್ತಿಶಾಲಿ ರಾಜ ಆಳುತ್ತಿದ್ದನು, ವಜ್ಜಿಯು ಅನೇಕ ರಾಜರ ಸಭೆಯಿಂದ ಆಳಲ್ಪಡುತ್ತಿದ್ದ ಗಣರಾಜ್ಯವಾಗಿತ್ತು",
+      "reasoning": "ಮಗಧವು ಬಿಂಬಿಸಾರನಂತಹ ಪ್ರಬಲ ರಾಜಪ್ರಭುತ್ವದ ಆಡಳಿತದಲ್ಲಿತ್ತು. ಆದರೆ ವಜ್ಜಿಯು ಗಣ ಅಥವಾ ಸಂಘವಾಗಿತ್ತು, ಇಲ್ಲಿ ಹಲವು ರಾಜರುಗಳು ಒಟ್ಟಾಗಿ ಸಭೆಗಳಲ್ಲಿ ಚರ್ಚಿಸಿ ತೀರ್ಮಾನಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c6_his_kings_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "To which new location was the capital of Magadha shifted from Rajagriha?",
+      "options": [
+        "Pataliputra",
+        "Vaishali",
+        "Ujjain",
+        "Taxila"
+      ],
+      "answer": "Pataliputra",
+      "reasoning": "The capital of Magadha was Rajagriha (present-day Rajgir in Bihar) for several years. Later, the capital was shifted to Pataliputra (present-day Patna)."
+    },
+    "kn": {
+      "question": "ಮಗಧದ ರಾಜಧಾನಿಯನ್ನು ರಾಜಗೃಹದಿಂದ ಯಾವ ಹೊಸ ಸ್ಥಳಕ್ಕೆ ಬದಲಾಯಿಸಲಾಯಿತು?",
+      "options": [
+        "ಪಾಟಲಿಪುತ್ರ",
+        "ವೈಶಾಲಿ",
+        "ಉಜ್ಜಯಿನಿ",
+        "ತಕ್ಷಶಿಲೆ"
+      ],
+      "answer": "ಪಾಟಲಿಪುತ್ರ",
+      "reasoning": "ಮಗಧದ ರಾಜಧಾನಿ ಹಲವು ವರ್ಷಗಳ ಕಾಲ ರಾಜಗೃಹವಾಗಿತ್ತು (ಇಂದಿನ ಬಿಹಾರದ ರಾಜಗೀರ್). ನಂತರ, ರಾಜಧಾನಿಯನ್ನು ಪಾಟಲಿಪುತ್ರಕ್ಕೆ (ಇಂದಿನ ಪಾಟ್ನಾ) ಬದಲಾಯಿಸಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c6_his_kings_013",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why did Alexander the Great's soldiers refuse to advance further east when they reached the Beas river?",
+      "options": [
+        "They heard that Indian rulers had vast armies of foot soldiers, chariots, and elephants",
+        "They wanted to return to Macedonia to vote in democratic elections",
+        "The climate was too cold and freezing for their survival in the winter",
+        "Indian rulers had developed iron firearms and gunpowder weapons"
+      ],
+      "answer": "They heard that Indian rulers had vast armies of foot soldiers, chariots, and elephants",
+      "reasoning": "Alexander's soldiers were tired and refused to go further because they had heard that the rulers of India had vast armies of foot soldiers, chariots, and elephants."
+    },
+    "kn": {
+      "question": "ಅಲೆಕ್ಸಾಂಡರನ ಸೈನಿಕರು ಬಿಯಾಸ್ ನದಿಯನ್ನು ತಲುಪಿದಾಗ ಭಾರತದ ಪೂರ್ವ ಭಾಗಕ್ಕೆ ದಂಡೆತ್ತಿ ಹೋಗಲು ಏಕೆ ನಿರಾಕರಿಸಿದರು?",
+      "options": [
+        "ಭಾರತದ ಆಡಳಿತಗಾರರು ಕಾಲ್ದಳ, ರಥಗಳು ಮತ್ತು ಆನೆಗಳ ಬೃಹತ್ ಸೈನ್ಯವನ್ನು ಹೊಂದಿದ್ದಾರೆ ಎಂದು ಕೇಳಿದ್ದರಿಂದ",
+        "ಪ್ರಜಾಪ್ರಭುತ್ವದ ಚುನಾವಣೆಯಲ್ಲಿ ಮತ ಚಲಾಯಿಸಲು ಅವರು ಮ್ಯಾಸಿಡೋನಿಯಾಕ್ಕೆ ಮರಳಲು ಬಯಸಿದ್ದರಿಂದ",
+        "ಚಳಿಗಾಲದಲ್ಲಿ ಬದುಕಲು ಹವಾಮಾನವು ಅತಿಯಾದ ಚಳಿಯಿಂದ ಕೂಡಿದ್ದರಿಂದ",
+        "ಭಾರತದ ರಾಜರು ಕಬ್ಬಿಣದ ಬಂದೂಕು ಮತ್ತು ಮದ್ದುಗುಂಡುಗಳ ಆಯುಧಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ್ದರಿಂದ"
+      ],
+      "answer": "ಭಾರತದ ಆಡಳಿತಗಾರರು ಕಾಲ್ದಳ, ರಥಗಳು ಮತ್ತು ಆನೆಗಳ ಬೃಹತ್ ಸೈನ್ಯವನ್ನು ಹೊಂದಿದ್ದಾರೆ ಎಂದು ಕೇಳಿದ್ದರಿಂದ",
+      "reasoning": "ಭಾರತದ ರಾಜರು ಬೃಹತ್ ಕಾಲ್ದಳ, ರಥಗಳು ಮತ್ತು ಆನೆಗಳ ಸೈನ್ಯವನ್ನು ಹೊಂದಿದ್ದಾರೆ ಎಂದು ಕೇಳಿದ್ದರಿಂದ ಅಲೆಕ್ಸಾಂಡರನ ಸೈನಿಕರು ಹೆದರಿ, ಮುಂದೆ ಸಾಗಲು ಒಪ್ಪದೆ ನಿರಾಕರಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c6_his_kings_014",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How did the introduction of iron plowshares change agriculture in the Janapadas?",
+      "options": [
+        "Heavy clayey soil could be turned over better, increasing crop yields",
+        "Iron plowshares were lighter and could be pulled by dogs",
+        "It allowed seeds to be sprayed with chemical solutions",
+        "It eliminated the need for animal power in plowing"
+      ],
+      "answer": "Heavy clayey soil could be turned over better, increasing crop yields",
+      "reasoning": "The use of iron plowshares meant that heavy, clayey soil could be turned over better than with wooden plowshares. This led to an increase in grain production."
+    },
+    "kn": {
+      "question": "ಕಬ್ಬಿಣದ ನೇಗಿಲುಗಳ ಬಳಕೆ ಆರಂಭವಾದದ್ದು ಜನಪದಗಳಲ್ಲಿ ಕೃಷಿಯನ್ನು ಹೇಗೆ ಬದಲಾಯಿಸಿತು?",
+      "options": [
+        "ಗಟ್ಟಿಯಾದ ಜೇಡಿಮಣ್ಣನ್ನು ಚೆನ್ನಾಗಿ ಮಗುಚಿ ಹಾಕಲು ನೆರವಾಯಿತು ಮತ್ತು ಬೆಳೆ ಇಳುವರಿ ಹೆಚ್ಚಿತು",
+        "ಕಬ್ಬಿಣದ ನೇಗಿಲುಗಳು ಹಗುರವಾಗಿದ್ದವು ಮತ್ತು ಅವುಗಳನ್ನು ನಾಯಿಗಳಿಂದ ಎಳೆಯಬಹುದಾಗಿತ್ತು",
+        "ಇದು ಬೀಜಗಳಿಗೆ ರಾಸಾಯನಿಕ ದ್ರಾವಣಗಳನ್ನು ಸಿಂಪಡಿಸಲು ಸಹಾಯ ಮಾಡಿತು",
+        "ನೇಗಿಲು ಹೊಡೆಯಲು ಪ್ರಾಣಿಗಳ ಶಕ್ತಿಯ ಅಗತ್ಯವನ್ನು ಇದು ಇಲ್ಲವಾಗಿಸಿತು"
+      ],
+      "answer": "ಗಟ್ಟಿಯಾದ ಜೇಡಿಮಣ್ಣನ್ನು ಚೆನ್ನಾಗಿ ಮಗುಚಿ ಹಾಕಲು ನೆರವಾಯಿತು ಮತ್ತು ಬೆಳೆ ಇಳುವರಿ ಹೆಚ್ಚಿತು",
+      "reasoning": "ಕಬ್ಬಿಣದ ನೇಗಿಲುಗಳ ಬಳಕೆಯಿಂದಾಗಿ, ಮರದ ನೇಗಿಲಿಗಿಂತ ಗಟ್ಟಿಯಾದ ಜೇಡಿಮಣ್ಣನ್ನು ಸುಲಭವಾಗಿ ಮಗುಚಿ ಹಾಕಲು ಸಾಧ್ಯವಾಯಿತು. ಇದು ಧಾನ್ಯಗಳ ಉತ್ಪಾದನೆ ಹೆಚ್ಚಾಗಲು ಕಾರಣವಾಯಿತು."
+    }
+  },
+  {
+    "id": "c6_his_kings_015",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What did the practice of 'transplanting paddy' involve, and why did it improve rice yields?",
+      "options": [
+        "Growing saplings separately and planting them, leading to higher plant survival rates",
+        "Scattering rice seeds on dry mountain peaks to grow in wild rain",
+        "Importing genetically modified rice saplings from other regions",
+        "Boiling rice seeds before planting them in clay soil"
+      ],
+      "answer": "Growing saplings separately and planting them, leading to higher plant survival rates",
+      "reasoning": "Instead of scattering seeds on the ground, saplings were grown and then planted in the fields. This led to increased production as many more plants survived."
+    },
+    "kn": {
+      "question": "ಭತ್ತದ ಸಸಿ ನಾಟಿ ಮಾಡುವ (transplanting paddy) ಪದ್ಧತಿ ಎಂದರೆ ಏನು ಮತ್ತು ಅದು ಭತ್ತದ ಇಳುವರಿಯನ್ನು ಹೇಗೆ ಹೆಚ್ಚಿಸಿತು?",
+      "options": [
+        "ಸಸಿಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಬೆಳೆಸಿ ನಂತರ ಹೊಲದಲ್ಲಿ ನೆಡುವುದು; ಇದರಿಂದ ಹೆಚ್ಚಿನ ಸಸಿಗಳು ಬದುಕುಳಿದವು",
+        "ಕಾಡು ಮಳೆಯಲ್ಲಿ ಬೆಳೆಯಲು ಒಣ ಪರ್ವತದ ಶಿಖರಗಳ ಮೇಲೆ ಭತ್ತದ ಬೀಜಗಳನ್ನು ಚದುರಿಸುವುದು",
+        "ಇತರ ಪ್ರದೇಶಗಳಿಂದ ತಳಿ ತಿದ್ದುಪಡಿ ಮಾಡಿದ ಭತ್ತದ ಸಸಿಗಳನ್ನು ಆಮದು ಮಾಡಿಕೊಳ್ಳುವುದು",
+        "ಜಿಗುಟು ಮಣ್ಣಿನಲ್ಲಿ ಬಿತ್ತುವ ಮೊದಲು ಭತ್ತದ ಬೀಜಗಳನ್ನು ಬೇಯಿಸುವುದು"
+      ],
+      "answer": "ಸಸಿಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಬೆಳೆಸಿ ನಂತರ ಹೊಲದಲ್ಲಿ ನೆಡುವುದು; ಇದರಿಂದ ಹೆಚ್ಚಿನ ಸಸಿಗಳು ಬದುಕುಳಿದವು",
+      "reasoning": "ನೇರವಾಗಿ ಬೀಜಗಳನ್ನು ಮಣ್ಣಿನಲ್ಲಿ ಚೆಲ್ಲುವ ಬದಲು, ಸಸಿಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಬೆಳೆಸಿ ನಂತರ ಹೊಲದಲ್ಲಿ ಕೆಸರಿನಲ್ಲಿ ನಾಟಿ ಮಾಡಲಾಗುತ್ತಿತ್ತು. ಇದರಿಂದ ಹೆಚ್ಚಿನ ಸಸಿಗಳು ಬದುಕುಳಿದು ಉತ್ಪಾದನೆ ಹೆಚ್ಚಾಯಿತು."
+    }
+  },
+  {
+    "id": "c6_his_kings_016",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Who was strictly excluded from participating in the decision-making assemblies of the Vajji Gana?",
+      "options": [
+        "Women, dasas (slaves), and kammakaras (laborers)",
+        "Wealthy rajas and merchants",
+        "Buddhist monks and sages",
+        "Priests and Kshatriya warriors"
+      ],
+      "answer": "Women, dasas (slaves), and kammakaras (laborers)",
+      "reasoning": "In the assemblies of Ganas/Sanghas, members met to debate and decide. However, women, dasas, and kammakaras were not allowed to participate in these assemblies."
+    },
+    "kn": {
+      "question": "ವಜ್ಜಿ ಗಣರಾಜ್ಯದ ತೀರ್ಮಾನಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವ ಸಭೆಗಳಲ್ಲಿ ಭಾಗವಹಿಸದಂತೆ ಯಾರನ್ನು ಕಡ್ಡಾಯವಾಗಿ ಹೊರಗಿಡಲಾಗಿತ್ತು?",
+      "options": [
+        "ಮಹಿಳೆಯರು, ದಾಸರು (ಗುಲಾಮರು) ಮತ್ತು ಕಮ್ಮಕಾರರು (ಕೂಲಿ ಕಾರ್ಮಿಕರು)",
+        "ಶ್ರೀಮಂತ ರಾಜರು ಮತ್ತು ವ್ಯಾಪಾರಿಗಳು",
+        "ಬೌದ್ಧ ಭಿಕ್ಷುಗಳು ಮತ್ತು ಋಷಿಗಳು",
+        "ಅರ್ಚಕರು ಮತ್ತು ಕ್ಷತ್ರಿಯ ಯೋಧರು"
+      ],
+      "answer": "ಮಹಿಳೆಯರು, ದಾಸರು (ಗುಲಾಮರು) ಮತ್ತು ಕಮ್ಮಕಾರರು (ಕೂಲಿ ಕಾರ್ಮಿಕರು)",
+      "reasoning": "ಗಣ ಅಥವಾ ಸಂಘಗಳ ಸಭೆಗಳಲ್ಲಿ ಚರ್ಚೆ ನಡೆಸಿ ನಿರ್ಧಾರ ಕೈಗೊಳ್ಳಲಾಗುತ್ತಿತ್ತು. ಆದರೆ ಈ ಸಭೆಗಳಲ್ಲಿ ಮಹಿಳೆಯರು, ದಾಸರು ಮತ್ತು ಕಮ್ಮಕಾರರಿಗೆ ಭಾಗವಹಿಸಲು ಅವಕಾಶವಿರಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_his_kings_017",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why did the Brahmins divide society into the Varna system, and how did they justify Shudras not performing rituals?",
+      "options": [
+        "They claimed it was based on birth and Shudras were meant only to serve the other three groups",
+        "They wanted Shudras to focus entirely on military training",
+        "They believed Shudras were too rich and did not need blessings",
+        "They claimed Shudras had to manage all political assemblies"
+      ],
+      "answer": "They claimed it was based on birth and Shudras were meant only to serve the other three groups",
+      "reasoning": "The priests established that varnas were determined by birth. Shudras were placed at the bottom, had to serve the other three groups, and were not allowed to perform rituals or study the Vedas."
+    },
+    "kn": {
+      "question": "ಬ್ರಾಹ್ಮಣರು ಸಮಾಜವನ್ನು ವರ್ಣ ವ್ಯವಸ್ಥೆಯಾಗಿ ಏಕೆ ವಿಂಗಡಿಸಿದರು ಮತ್ತು ಶೂದ್ರರು ಯಾಗಗಳನ್ನು ಮಾಡಬಾರದು ಎಂಬುದನ್ನು ಹೇಗೆ ಸಮರ್ಥಿಸಿಕೊಂಡರು?",
+      "options": [
+        "ವರ್ಣಗಳು ಜನ್ಮದ ಆಧಾರದಲ್ಲಿ ನಿರ್ಧಾರವಾಗುತ್ತವೆ ಮತ್ತು ಶೂದ್ರರು ಇತರ ಮೂರು ವರ್ಣಗಳಿಗೆ ಸೇವೆ ಸಲ್ಲಿಸಲು ಮಾತ್ರ ಸೀಮಿತ ಎಂದು ಹೇಳಿದರು",
+        "ಶೂದ್ರರು ಸಂಪೂರ್ಣವಾಗಿ ಮಿಲಿಟರಿ ತರಬೇತಿಯ ಮೇಲೆ ಗಮನ ಹರಿಸಬೇಕೆಂದು ಅವರು ಬಯಸಿದ್ದರು",
+        "ಶೂದ್ರರು ತುಂಬಾ ಶ್ರೀಮಂತರಾಗಿದ್ದಾರೆ ಮತ್ತು ಅವರಿಗೆ ಆಶೀರ್ವಾದದ ಅಗತ್ಯವಿಲ್ಲ ಎಂದು ನಂಬಿದ್ದರು",
+        "ಶೂದ್ರರು ಎಲ್ಲಾ ರಾಜಕೀಯ ಸಭೆಗಳನ್ನು ನಿರ್ವಹಿಸಬೇಕು ಎಂದು ಹೇಳಿದರು"
+      ],
+      "answer": "ವರ್ಣಗಳು ಜನ್ಮದ ಆಧಾರದಲ್ಲಿ ನಿರ್ಧಾರವಾಗುತ್ತವೆ ಮತ್ತು ಶೂದ್ರರು ಇತರ ಮೂರು ವರ್ಣಗಳಿಗೆ ಸೇವೆ ಸಲ್ಲಿಸಲು ಮಾತ್ರ ಸೀಮಿತ ಎಂದು ಹೇಳಿದರು",
+      "reasoning": "ಅರ್ಚಕರು ವರ್ಣಗಳು ಹುಟ್ಟಿನಿಂದ ನಿರ್ಧರಿಸಲ್ಪಡುತ್ತವೆ ಎಂದು ಸ್ಥಾಪಿಸಿದರು. ಶೂದ್ರರನ್ನು ಕೊನೆಯ ಸ್ಥಾನದಲ್ಲಿರಿಸಿ, ಅವರು ಉಳಿದ ಮೂರು ವರ್ಣಗಳಿಗೆ ಸೇವೆ ಸಲ್ಲಿಸಬೇಕು ಮತ್ತು ಅವರಿಗೆ ಯಜ್ಞ ಮಾಡುವ ಅಥವಾ ವೇದಗಳನ್ನು ಕಲಿಯುವ ಹಕ್ಕಿಲ್ಲ ಎಂದು ನಿಯಮಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c6_his_kings_018",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following varnas were allowed to perform sacrifices and rituals in ancient India? (Select all that apply)",
+      "options": [
+        "Brahmins",
+        "Kshatriyas",
+        "Vaishyas",
+        "Shudras"
+      ],
+      "answer": [
+        "Brahmins",
+        "Kshatriyas",
+        "Vaishyas"
+      ],
+      "reasoning": "Brahmins performed sacrifices, Kshatriyas (rulers) could perform sacrifices, and Vaishyas (farmers/traders) were also allowed to perform sacrifices. Shudras were excluded."
+    },
+    "kn": {
+      "question": "ಪ್ರಾಚೀನ ಭಾರತದಲ್ಲಿ ಕೆಳಗಿನ ಯಾವ ವರ್ಣಗಳ ಜನರಿಗೆ ಯಜ್ಞ ಮತ್ತು ಧಾರ್ಮಿಕ ವಿಧಿಗಳನ್ನು ಮಾಡಲು ಅನುಮತಿ ಇತ್ತು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಬ್ರಾಹ್ಮಣರು",
+        "ಕ್ಷತ್ರಿಯರು",
+        "ವೈಶ್ಯರು",
+        "ಶೂದ್ರರು"
+      ],
+      "answer": [
+        "ಬ್ರಾಹ್ಮಣರು",
+        "ಕ್ಷತ್ರಿಯರು",
+        "ವೈಶ್ಯರು"
+      ],
+      "reasoning": "ಬ್ರಾಹ್ಮಣರು ಯಾಗಗಳನ್ನು ನೆರವೇರಿಸುತ್ತಿದ್ದರು, ಕ್ಷತ್ರಿಯರು (ರಾಜರು) ಯಾಗಗಳನ್ನು ಮಾಡಿಸಬಹುದಿತ್ತು ಮತ್ತು ವೈಶ್ಯರಿಗೂ (ರೈತರು/ವ್ಯಾಪಾರಿಗಳು) ಯಾಗಗಳನ್ನು ಮಾಡಲು ಹಕ್ಕಿತ್ತು. ಶೂದ್ರರಿಗೆ ಅವಕಾಶವಿರಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_his_kings_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "What geographic and resource advantages helped Magadha become the most powerful Mahajanapada? (Select all that apply)",
+      "options": [
+        "Flow of rivers Ganga and Son for transport, water, and soil fertility",
+        "Presence of forests providing wood and elephants for the army",
+        "Iron ore mines in the region to make strong tools and weapons",
+        "Vast oil fields providing energy and trade resources"
+      ],
+      "answer": [
+        "Flow of rivers Ganga and Son for transport, water, and soil fertility",
+        "Presence of forests providing wood and elephants for the army",
+        "Iron ore mines in the region to make strong tools and weapons"
+      ],
+      "reasoning": "Magadha's power came from rivers (Ganga/Son) for transport and water, forests providing elephants and wood, and iron ore mines for weapons. There were no oil fields."
+    },
+    "kn": {
+      "question": "ಮಗಧವು ಅತ್ಯಂತ ಶಕ್ತಿಶಾಲಿ ಮಹಾಜನಪದವಾಗಿ ಹೊರಹೊಮ್ಮಲು ಸಹಾಯ ಮಾಡಿದ ಭೌಗೋಳಿಕ ಮತ್ತು ನೈಸರ್ಗಿಕ ಅನುಕೂಲಗಳು ಯಾವುವು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಸಾರಿಗೆ, ನೀರು ಮತ್ತು ಫಲವತ್ತತೆಗಾಗಿ ಹರಿಯುತ್ತಿದ್ದ ಗಂಗಾ ಮತ್ತು ಸೋನ್ ನದಿಗಳು",
+        "ಸೇನೆಗಾಗಿ ಆನೆಗಳು ಮತ್ತು ಕಟ್ಟಡಕ್ಕೆ ಮರಗಳನ್ನು ಒದಗಿಸುತ್ತಿದ್ದ ದಟ್ಟವಾದ ಕಾಡುಗಳು",
+        "ಬಲವಾದ ಆಯುಧ ಮತ್ತು ಉಪಕರಣಗಳನ್ನು ಮಾಡಲು ನೆರವಾದ ಕಬ್ಬಿಣದ ಅದಿರಿನ ಗಣಿಗಳು",
+        "ಇಂಧನ ಮತ್ತು ವ್ಯಾಪಾರದ ಮೂಲವಾಗಿದ್ದ ಬೃಹತ್ ತೈಲ ನಿಕ್ಷೇಪಗಳು"
+      ],
+      "answer": [
+        "ಸಾರಿಗೆ, ನೀರು ಮತ್ತು ಫಲವತ್ತತೆಗಾಗಿ ಹರಿಯುತ್ತಿದ್ದ ಗಂಗಾ ಮತ್ತು ಸೋನ್ ನದಿಗಳು",
+        "ಸೇನೆಗಾಗಿ ಆನೆಗಳು ಮತ್ತು ಕಟ್ಟಡಕ್ಕೆ ಮರಗಳನ್ನು ಒದಗಿಸುತ್ತಿದ್ದ ದಟ್ಟವಾದ ಕಾಡುಗಳು",
+        "ಬಲವಾದ ಆಯುಧ ಮತ್ತು ಉಪಕರಣಗಳನ್ನು ಮಾಡಲು ನೆರವಾದ ಕಬ್ಬಿಣದ ಅದಿರಿನ ಗಣಿಗಳು"
+      ],
+      "reasoning": "ಮಗಧಕ್ಕೆ ಗಂಗಾ ಮತ್ತು ಸೋನ್ ನದಿಗಳು ನೀರಿನ ಆಧಾರವಾಗಿದ್ದವು. ಅಲ್ಲಿನ ಕಾಡುಗಳಿಂದ ಸೈನ್ಯಕ್ಕೆ ಆನೆಗಳು ಮತ್ತು ಮರಮುಟ್ಟುಗಳು ಸಿಕ್ಕವು, ಅಲ್ಲದೆ ಕಬ್ಬಿಣದ ಗಣಿಗಳಿಂದ ಆಯುಧಗಳನ್ನು ಮಾಡಲು ಸಾಧ್ಯವಾಯಿತು."
+    }
+  },
+  {
+    "id": "c6_his_kings_020",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following were major changes that occurred in Indian agriculture about 2500 years ago? (Select all that apply)",
+      "options": [
+        "The growing use of iron plowshares to till hard clayey soil",
+        "The method of transplanting paddy saplings to increase crop yields",
+        "The introduction of chemical fertilizers to protect plants",
+        "The use of steam-powered threshing machines in harvest"
+      ],
+      "answer": [
+        "The growing use of iron plowshares to till hard clayey soil",
+        "The method of transplanting paddy saplings to increase crop yields"
+      ],
+      "reasoning": "Two major agricultural changes were the use of iron plowshares, which turned heavy clayey soil better, and transplanting paddy saplings, which increased crop survival. Chemical fertilizers and steam engines did not exist."
+    },
+    "kn": {
+      "question": "ಸುಮಾರು 2500 ವರ್ಷಗಳ ಹಿಂದೆ ಭಾರತದ ಕೃಷಿ ಕ್ಷೇತ್ರದಲ್ಲಿ ಸಂಭವಿಸಿದ ಪ್ರಮುಖ ಬದಲಾವಣೆಗಳು ಯಾವುವು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಗಟ್ಟಿಯಾದ ಜೇಡಿಮಣ್ಣನ್ನು ಉಳಲು ಕಬ್ಬಿಣದ ನೇಗಿಲುಗಳ ಬಳಕೆ ಹೆಚ್ಚಾಗಿದ್ದು",
+        "ಇಳುವರಿ ಹೆಚ್ಚಿಸಲು ಭತ್ತದ ಸಸಿಗಳನ್ನು ನಾಟಿ ಮಾಡುವ ಪದ್ಧತಿ ಜಾರಿಗೆ ಬಂದದ್ದು",
+        "ಸಸ್ಯಗಳನ್ನು ರಕ್ಷಿಸಲು ರಾಸಾಯನಿಕ ಗೊಬ್ಬರಗಳ ಬಳಕೆ ಆರಂಭವಾದದ್ದು",
+        "ಕೊಯ್ಲು ಮಾಡಲು ಹಬೆ ಚಾಲಿತ ಒಕ್ಕಣೆ ಯಂತ್ರಗಳ ಬಳಕೆ ಆರಂಭವಾಗಿದ್ದು"
+      ],
+      "answer": [
+        "ಗಟ್ಟಿಯಾದ ಜೇಡಿಮಣ್ಣನ್ನು ಉಳಲು ಕಬ್ಬಿಣದ ನೇಗಿಲುಗಳ ಬಳಕೆ ಹೆಚ್ಚಾಗಿದ್ದು",
+        "ಇಳುವರಿ ಹೆಚ್ಚಿಸಲು ಭತ್ತದ ಸಸಿಗಳನ್ನು ನಾಟಿ ಮಾಡುವ ಪದ್ಧತಿ ಜಾರಿಗೆ ಬಂದದ್ದು"
+      ],
+      "reasoning": "ಅಂದು ಕೃಷಿಯಲ್ಲಿ ಎರಡು ದೊಡ್ಡ ಬದಲಾವಣೆಗಳಾದವು: ಕಬ್ಬಿಣದ ನೇಗಿಲನ್ನು ಬಳಸಿ ಜೇಡಿಮಣ್ಣನ್ನು ಉಳುಮೆ ಮಾಡಲಾರಂಭಿಸಿದರು ಮತ್ತು ಭತ್ತದ ಸಸಿಗಳನ್ನು ನಾಟಿ ಮಾಡುವ ವಿಧಾನದಿಂದ ಇಳುವರಿ ಹೆಚ್ಚಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c6_his_kings_021",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following statements about the Gana or Sangha republics (such as Vajji) are correct? (Select all that apply)",
+      "options": [
+        "They were ruled by thousands of rajas who met in assemblies to debate and make decisions",
+        "Decisions were taken through discussion, debate, and consensus in assemblies",
+        "A single absolute king made all laws and was succeeded by his eldest son",
+        "Women, slaves, and landless laborers were the primary leaders in these assemblies"
+      ],
+      "answer": [
+        "They were ruled by thousands of rajas who met in assemblies to debate and make decisions",
+        "Decisions were taken through discussion, debate, and consensus in assemblies"
+      ],
+      "reasoning": "In a Gana or Sangha, there were many rulers, sometimes thousands. They met in assemblies to decide what to do through discussion and debate. Women, dasas, and kammakaras could not participate."
+    },
+    "kn": {
+      "question": "ಗಣ ಅಥವಾ ಸಂಘ ಗಣರಾಜ್ಯಗಳ (ವಜ್ಜಿಯಂತಹ) ಬಗ್ಗೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
+      "options": [
+        "ಅವುಗಳನ್ನು ಸಾವಿರಾರು ರಾಜರುಗಳು ಆಳುತ್ತಿದ್ದರು ಮತ್ತು ಇವರು ಸಭೆ ಸೇರಿ ಚರ್ಚಿಸುತ್ತಿದ್ದರು",
+        "ಸಭೆಗಳಲ್ಲಿ ಸುದೀರ್ಘ ಚರ್ಚೆ, ವಾದ-ವಿವಾದಗಳ ಮೂಲಕ ತೀರ್ಮಾನ ಕೈಗೊಳ್ಳಲಾಗುತ್ತಿತ್ತು",
+        "ಒಬ್ಬನೇ ರಾಜನು ಸರ್ವಾಧಿಕಾರದಿಂದ ಎಲ್ಲಾ ಕಾನೂನುಗಳನ್ನು ಮಾಡಿ ಮಗನಿಗೆ ಹಸ್ತಾಂತರಿಸುತ್ತಿದ್ದನು",
+        "ಈ ಸಭೆಗಳಲ್ಲಿ ಮಹಿಳೆಯರು, ಗುಲಾಮರು ಮತ್ತು ಭೂಹೀನ ಕಾರ್ಮಿಕರು ಪ್ರಮುಖ ನಾಯಕರಾಗಿದ್ದರು"
+      ],
+      "answer": [
+        "ಅವುಗಳನ್ನು ಸಾವಿರಾರು ರಾಜರುಗಳು ಆಳುತ್ತಿದ್ದರು ಮತ್ತು ಇವರು ಸಭೆ ಸೇರಿ ಚರ್ಚಿಸುತ್ತಿದ್ದರು",
+        "ಸಭೆಗಳಲ್ಲಿ ಸುದೀರ್ಘ ಚರ್ಚೆ, ವಾದ-ವಿವಾದಗಳ ಮೂಲಕ ತೀರ್ಮಾನ ಕೈಗೊಳ್ಳಲಾಗುತ್ತಿತ್ತು"
+      ],
+      "reasoning": "ಗಣ ಅಥವಾ ಸಂಘದಲ್ಲಿ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಆಡಳಿತಗಾರರಿದ್ದರು. ಇವರು ಸಭೆಗಳನ್ನು ನಡೆಸಿ ಚರ್ಚೆಗಳ ಮೂಲಕ ಸಾಮೂಹಿಕ ತೀರ್ಮಾನಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದರು. ಈ ಸಭೆಗಳಲ್ಲಿ ಮಹಿಳೆಯರು, ದಾಸರು ಮತ್ತು ಕಮ್ಮಕಾರರಿಗೆ ಪ್ರವೇಶವಿರಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c6_his_kings_022",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the Varnas with the duties assigned to them in the Varna system:",
+      "pairs": [
+        {
+          "left": "Brahmin",
+          "right": "Study and teach the Vedas, perform sacrifices"
+        },
+        {
+          "left": "Kshatriya",
+          "right": "Fight battles and protect people"
+        },
+        {
+          "left": "Vaishya",
+          "right": "Farmers, herders, and traders"
+        },
+        {
+          "left": "Shudra",
+          "right": "Serve the other three groups, perform no rituals"
+        }
+      ],
+      "reasoning": "The priests divided society into four varnas based on occupation: Brahmins (sages/priests), Kshatriyas (rulers/warriors), Vaishyas (producers), and Shudras (servants)."
+    },
+    "kn": {
+      "question": "ವರ್ಣಗಳನ್ನು ವರ್ಣ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಅವರಿಗೆ ನಿಯೋಜಿಸಲಾದ ಕರ್ತವ್ಯಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಬ್ರಾಹ್ಮಣರು",
+          "right": "ವೇದಗಳನ್ನು ಓದುವುದು ಮತ್ತು ಬೋಧಿಸುವುದು, ಯಜ್ಞ ಮಾಡಿಸುವುದು"
+        },
+        {
+          "left": "ಕ್ಷತ್ರಿಯರು",
+          "right": "ಯುದ್ಧ ಮಾಡುವುದು ಮತ್ತು ಜನರನ್ನು ರಕ್ಷಿಸುವುದು"
+        },
+        {
+          "left": "ವೈಶ್ಯರು",
+          "right": "ಕೃಷಿ, ಪಶುಸಂಗೋಪನೆ ಮತ್ತು ವ್ಯಾಪಾರ ಮಾಡುವುದು"
+        },
+        {
+          "left": "ಶೂದ್ರರು",
+          "right": "ಉಳಿದ ಮೂರು ಗುಂಪುಗಳಿಗೆ ಸೇವೆ ಮಾಡುವುದು, ಯಜ್ಞದ ಹಕ್ಕಿಲ್ಲದಿರುವುದು"
+        }
+      ],
+      "reasoning": "ಅರ್ಚಕರು ಸಮಾಜವನ್ನು ಕೆಲಸದ ಆಧಾರದ ಮೇಲೆ ನಾಲ್ಕು ವರ್ಣಗಳಾಗಿ ವಿಂಗಡಿಸಿದರು: ಬ್ರಾಹ್ಮಣರು (ಅಧ್ಯಯನ/ಬೋಧನೆ), ಕ್ಷತ್ರಿಯರು (ರಕ್ಷಣೆ/ಯುದ್ಧ), ವೈಶ್ಯರು (ಉತ್ಪಾದಕರು/ವ್ಯಾಪಾರ) ಮತ್ತು ಶೂದ್ರರು (ಸೇವೆ)."
+    }
+  },
+  {
+    "id": "c6_his_kings_023",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the historical terms of the Mahajanapadas with their descriptions:",
+      "pairs": [
+        {
+          "left": "Ashvamedha",
+          "right": "Ritual horse sacrifice to establish supremacy"
+        },
+        {
+          "left": "Bhaga",
+          "right": "Crop tax usually fixed at 1/6th of produce"
+        },
+        {
+          "left": "Fortification",
+          "right": "Building huge stone or brick walls for safety"
+        },
+        {
+          "left": "Painted Grey Ware",
+          "right": "Special grey pottery with painted geometric lines"
+        }
+      ],
+      "reasoning": "These are key features of the Mahajanapadas: Ashvamedha established kingship, Bhaga was the tax, fortification provided city defense, and PGW was a luxury ceramic type."
+    },
+    "kn": {
+      "question": "ಮಹಾಜನಪದಗಳ ಐತಿಹಾಸಿಕ ಪದಗಳನ್ನು ಅವುಗಳ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಅಶ್ವಮೇಧ",
+          "right": "ಸಾರ್ವಭೌಮತ್ವ ಸ್ಥಾಪಿಸಲು ಮಾಡುತ್ತಿದ್ದ ಕುದುರೆ ಬಲಿ ಯಾಗ"
+        },
+        {
+          "left": "ಭಾಗ",
+          "right": "ಉತ್ಪಾದನೆಯ 1/6 ಭಾಗಕ್ಕೆ ನಿಗದಿಯಾಗಿದ್ದ ಕೃಷಿ ತೆರಿಗೆ"
+        },
+        {
+          "left": "ಕೋಟೆ ಗೋಡೆ",
+          "right": "ಸುರಕ್ಷತೆಗಾಗಿ ನಗರದ ಸುತ್ತಲೂ ನಿರ್ಮಿಸುತ್ತಿದ್ದ ಭಾರಿ ಗೋಡೆಗಳು"
+        },
+        {
+          "left": "ಚಿತ್ರಿತ ಬೂದು ಪಾತ್ರೆ",
+          "right": "ರೇಖಾಗಣಿತದ ಚಿತ್ರಗಳಿದ್ದ ವಿಶೇಷ ಬೂದು ಬಣ್ಣದ ಮಡಕೆ"
+        }
+      ],
+      "reasoning": "ಇವು ಮಹಾಜನಪದಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳಾಗಿವೆ: ಅಶ್ವಮೇಧ ರಾಜತ್ವದ ಪ್ರಭಾವವನ್ನು ಬೆಳೆಸಿತು, ಭಾಗವು ಕೃಷಿ ತೆರಿಗೆಯಾಗಿತ್ತು, ಕೋಟೆ ಗೋಡೆಗಳು ನಗರಕ್ಕೆ ರಕ್ಷಣೆ ನೀಡಿದವು ಮತ್ತು ಚಿತ್ರಿತ ಬೂದು ಪಾತ್ರೆಗಳು ವಿಶೇಷ ಮಡಕೆಗಳಾಗಿದ್ದವು."
+    }
+  },
+  {
+    "id": "c6_his_kings_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the historical rulers or figures with their respective roles or events:",
+      "pairs": [
+        {
+          "left": "Bimbisara",
+          "right": "Early powerful monarch who expanded Magadha"
+        },
+        {
+          "left": "Alexander",
+          "right": "Macedonian conqueror whose soldiers refused to cross Beas"
+        },
+        {
+          "left": "Mahapadma Nanda",
+          "right": "Nanda dynasty ruler who expanded control to northwest"
+        },
+        {
+          "left": "Ajatasattu",
+          "right": "Ruler who sent minister Vassakara to meet Buddha"
+        }
+      ],
+      "reasoning": "These are key rulers in Class 6 history: Bimbisara expanded Magadha, Alexander's army stopped at the Beas, Mahapadma Nanda reached the northwest, and Ajatasattu sent his minister Vassakara to consult the Buddha about Vajji."
+    },
+    "kn": {
+      "question": "ಐತಿಹಾಸಿಕ ವ್ಯಕ್ತಿಗಳನ್ನು ಅವರ ವಿವರಣೆ ಅಥವಾ ಘಟನೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಬಿಂಬಿಸಾರ",
+          "right": "ಮಗಧವನ್ನು ವಿಸ್ತರಿಸಿದ ಆರಂಭಿಕ ಶಕ್ತಿಶಾಲಿ ರಾಜ"
+        },
+        {
+          "left": "ಅಲೆಕ್ಸಾಂಡರ್",
+          "right": "ಸೈನಿಕರು ಬಿಯಾಸ್ ದಾಟಲು ನಿರಾಕರಿಸಿದ ಮ್ಯಾಸಿಡೋನಿಯಾದ ವಿಜೇತ ದೊರೆ"
+        },
+        {
+          "left": "ಮಹಾಪದ್ಮ ನಂದ",
+          "right": "ಮಗಧದ ಗಡಿಯನ್ನು ವಾಯುವ್ಯ ಭಾರತಕ್ಕೆ ವಿಸ್ತರಿಸಿದ ನಂದ ರಾಜ"
+        },
+        {
+          "left": "ಅಜಾತಶತ್ರು",
+          "right": "ತನ್ನ ಮಂತ್ರಿ ವಸ್ಸಕಾರನನ್ನು ಬುದ್ಧನ ಬಳಿ ಕಳುಹಿಸಿದ ಮಗಧ ರಾಜ"
+        }
+      ],
+      "reasoning": "ಇವರು ಆ ಕಾಲದ ಪ್ರಮುಖ ಆಡಳಿತಗಾರರು: ಬಿಂಬಿಸಾರ ಮಗಧವನ್ನು ಬಲಪಡಿಸಿದನು, ಅಲೆಕ್ಸಾಂಡರನ ಸೈನ್ಯ ಬಿಯಾಸ್ ಬಳಿ ನಿಂತಿತು, ಮಹಾಪದ್ಮ ನಂದ ವಾಯುವ್ಯದವರೆಗೆ ಹರಡಿದನು ಮತ್ತು ಅಜಾತಶತ್ರು ವಜ್ಜಿಯ ವಿಷಯವಾಗಿ ಮಂತ್ರಿ ವಸ್ಸಕಾರನನ್ನು ಬುದ್ಧನ ಬಳಿ ಕಳುಹಿಸಿದನು."
+    }
+  },
+  {
+    "id": "c6_his_kings_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the agricultural and labor groups with their social status in the kingdoms:",
+      "pairs": [
+        {
+          "left": "Kammakaras",
+          "right": "Landless agricultural laborers who worked fields"
+        },
+        {
+          "left": "Grihapatis",
+          "right": "Independent, relatively wealthy landowners"
+        },
+        {
+          "left": "Dasas",
+          "right": "Slaves captured in war who had no rights"
+        },
+        {
+          "left": "Shudras",
+          "right": "Social group excluded from learning Vedas and rituals"
+        }
+      ],
+      "reasoning": "Janapada society had strict labor divisions: kammakaras were landless field hands, grihapatis were independent farmers, dasas were slaves without rights, and Shudras were excluded from Vedic rituals."
+    },
+    "kn": {
+      "question": "ಕೃಷಿ ಮತ್ತು ಕಾರ್ಮಿಕ ಗುಂಪುಗಳನ್ನು ಸಾಮ್ರಾಜ್ಯಗಳಲ್ಲಿ ಅವರಿಗಿದ್ದ ಸಾಮಾಜಿಕ ಸ್ಥಾನಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಕಮ್ಮಕಾರರು",
+          "right": "ಹೊಲಗಳಲ್ಲಿ ದುಡಿಯುತ್ತಿದ್ದ ಭೂಹೀನ ಕೂಲಿ ಕಾರ್ಮಿಕರು"
+        },
+        {
+          "left": "ಗೃಹಪತಿಗಳು",
+          "right": "ಸ್ವತಂತ್ರವಾಗಿ ಭೂಮಿ ಹೊಂದಿದ್ದ ರೈತರು/ಭೂಮಾಲೀಕರು"
+        },
+        {
+          "left": "ದಾಸರು",
+          "right": "ಯುದ್ಧದಲ್ಲಿ ಸೆರೆಹಿಡಿಯಲ್ಪಟ್ಟ ಹಕ್ಕುಗಳಿಲ್ಲದ ಗುಲಾಮರು"
+        },
+        {
+          "left": "ಶೂದ್ರರು",
+          "right": "ವೇದ ಕಲಿಯಲು ಮತ್ತು ಯಜ್ಞ ಮಾಡಲು ಹಕ್ಕಿಲ್ಲದ ಕೊನೆಯ ವರ್ಣದವರು"
+        }
+      ],
+      "reasoning": "ಆಗಿನ ಸಮಾಜದಲ್ಲಿ ಶ್ರಮದ ವಿಭಾಗಗಳಿದ್ದವು: ಕಮ್ಮಕಾರರು ಭೂಹೀನರಾಗಿದ್ದರು, ಗೃಹಪತಿಗಳು ಸ್ವತಂತ್ರ ಭೂಮಾಲೀಕರಾಗಿದ್ದರು, ದಾಸರು ಹಕ್ಕುಗಳಿಲ್ಲದ ಗುಲಾಮರಾಗಿದ್ದರು ಮತ್ತು ಶೂದ್ರರಿಗೆ ವೇದ ಕಲಿಯುವ ಅಥವಾ ಯಾಗ ಮಾಡುವ ಹಕ್ಕಿರಲಿಲ್ಲ."
+    }
+  }
+]

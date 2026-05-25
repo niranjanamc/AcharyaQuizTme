@@ -127,6 +127,39 @@
             { "id": "electricity_circuits", "name": "Electricity and Circuits" },
             { "id": "magnets", "name": "Fun with Magnets" }
           ]
+        },
+        {
+          "id": "english",
+          "name": "English (Honeysuckle)",
+          "chapters": [
+            { "id": "c6_eng_patrick", "name": "Who Did Patrick's Homework?" },
+            { "id": "c6_eng_master", "name": "How the Dog Found Himself a New Master!" },
+            { "id": "c6_eng_taro", "name": "Taro's Reward" },
+            { "id": "c6_eng_kalpana", "name": "An Indian-American Woman in Space: Kalpana Chawla" },
+            { "id": "c6_eng_school", "name": "A Different Kind of School" }
+          ]
+        },
+        {
+          "id": "history",
+          "name": "History (Our Pasts - I)",
+          "chapters": [
+            { "id": "c6_his_intro", "name": "What, Where, How and When?" },
+            { "id": "c6_hunting_gathering", "name": "From Hunting-Gathering to Growing Food" },
+            { "id": "c6_earliest_cities", "name": "In the Earliest Cities" },
+            { "id": "c6_books_burials", "name": "What Books and Burials Tell Us" },
+            { "id": "c6_kingdoms", "name": "Kingdoms, Kings and an Early Republic" }
+          ]
+        },
+        {
+          "id": "kannada",
+          "name": "Kannada (Siri Kannada)",
+          "chapters": [
+            { "id": "c6_kan_taayi", "name": "ಕನ್ನಡಿಗರ ತಾಯಿ (Mother of Kannadigas)" },
+            { "id": "c6_kan_ganga", "name": "ಗಂಗಾವತರಣ (Descent of Ganga)" },
+            { "id": "c6_kan_dharma", "name": "ಧರ್ಮಬುದ್ಧಿ (Virtuous Mind)" },
+            { "id": "c6_kan_hosavarsha", "name": "ಹೊಸವರ್ಷ (New Year)" },
+            { "id": "c6_kan_abbakka", "name": "ವೀರರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ (Heroic Queen Abbakka)" }
+          ]
         }
       ]
     },
