@@ -208,7 +208,14 @@ const GameArea = ({ level, selectedChapters, language, lives, streak, onCorrect,
 
       {currentQuestion && currentQuestion[language] ? (
         <QuizComponent 
-          questionData={{ ...currentQuestion[language], type: currentQuestion.type }} 
+          questionData={{ 
+            ...currentQuestion[language], 
+            type: currentQuestion.type,
+            image: currentQuestion.image ? {
+              ...currentQuestion.image,
+              alt: currentQuestion.image.alt?.[language] || currentQuestion.image.alt?.en || ''
+            } : null
+          }} 
           language={language}
           onAnswer={handleAnswer} 
         />

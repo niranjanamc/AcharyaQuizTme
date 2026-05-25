@@ -2143,5 +2143,172 @@
       "answer": "6400 ಚ.ಮೀ",
       "reasoning": "ಬದಿ = 320 / 4 = 80 ಮೀ. ವಿಸ್ತೀರ್ಣ = 80 × 80 = 6400 ಚ.ಮೀ."
     }
+  },
+  {
+    "id": "c6_math_pa_img_001",
+    "type": "image_single",
+    "difficulty": 1,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 300 200\\\" width=\\\"300\\\" height=\\\"200\\\" style=\\\"background:#fff\\\"><rect x=\\\"50\\\" y=\\\"30\\\" width=\\\"200\\\" height=\\\"120\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"2\\\"/><text x=\\\"150.0\\\" y=\\\"172.0\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">12 cm</text><text x=\\\"275.0\\\" y=\\\"95.0\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">5 cm</text><polyline points=\\\"60,30 60,40 50,40\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"240,30 240,40 250,40\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"240,150 240,140 250,140\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"60,150 60,140 50,140\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><text x=\\\"36.0\\\" y=\\\"24.0\\\" fill=\\\"#2563EB\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"15\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">A</text><text x=\\\"264.0\\\" y=\\\"24.0\\\" fill=\\\"#2563EB\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"15\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">B</text><text x=\\\"264.0\\\" y=\\\"166.0\\\" fill=\\\"#2563EB\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"15\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">C</text><text x=\\\"36.0\\\" y=\\\"166.0\\\" fill=\\\"#2563EB\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"15\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">D</text></svg>",
+      "alt": {
+        "en": "Rectangle with length 12 cm and width 5 cm",
+        "kn": "ಉದ್ದ 12 ಸೆಂ.ಮೀ ಮತ್ತು ಅಗಲ 5 ಸೆಂ.ಮೀ ಇರುವ ಆಯತ"
+      }
+    },
+    "en": {
+      "question": "What is the area of the rectangle shown above?",
+      "options": [
+        "17 sq cm",
+        "34 sq cm",
+        "60 sq cm",
+        "120 sq cm"
+      ],
+      "answer": "60 sq cm",
+      "reasoning": "Area of rectangle = length × width = 12 × 5 = 60 sq cm."
+    },
+    "kn": {
+      "question": "ಮೇಲೆ ತೋರಿಸಿರುವ ಆಯತದ ವಿಸ್ತೀರ್ಣ ಎಷ್ಟು?",
+      "options": [
+        "17 ಚ.ಸೆಂ.ಮೀ",
+        "34 ಚ.ಸೆಂ.ಮೀ",
+        "60 ಚ.ಸೆಂ.ಮೀ",
+        "120 ಚ.ಸೆಂ.ಮೀ"
+      ],
+      "answer": "60 ಚ.ಸೆಂ.ಮೀ",
+      "reasoning": "ಆಯತದ ವಿಸ್ತೀರ್ಣ = ಉದ್ದ × ಅಗಲ = 12 × 5 = 60 ಚ.ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c6_math_pa_img_002",
+    "type": "image_multiple",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "svg": "<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 300 200\\\" width=\\\"300\\\" height=\\\"200\\\" style=\\\"background:#fff\\\"><rect x=\\\"50\\\" y=\\\"30\\\" width=\\\"200\\\" height=\\\"120\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"2\\\"/><text x=\\\"150.0\\\" y=\\\"172.0\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">8 cm</text><text x=\\\"275.0\\\" y=\\\"95.0\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">8 cm</text><polyline points=\\\"60,30 60,40 50,40\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"240,30 240,40 250,40\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"240,150 240,140 250,140\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"60,150 60,140 50,140\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/></svg>",
+      "alt": {
+        "en": "Square with side length 8 cm",
+        "kn": "ಬದಿಯ ಉದ್ದ 8 ಸೆಂ.ಮೀ ಇರುವ ಚೌಕ"
+      }
+    },
+    "en": {
+      "question": "Which of the following statements are true about the square above?",
+      "options": [
+        "Perimeter is 32 cm",
+        "Area is 64 sq cm",
+        "Perimeter is 64 cm",
+        "Area is 32 sq cm"
+      ],
+      "answer": [
+        "Perimeter is 32 cm",
+        "Area is 64 sq cm"
+      ],
+      "reasoning": "Perimeter = 4 × side = 4 × 8 = 32 cm. Area = side × side = 8 × 8 = 64 sq cm."
+    },
+    "kn": {
+      "question": "ಮೇಲಿನ ಚೌಕದ ಬಗ್ಗೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ನಿಜ?",
+      "options": [
+        "ಸುತ್ತಳತೆ 32 ಸೆಂ.ಮೀ",
+        "ವಿಸ್ತೀರ್ಣ 64 ಚ.ಸೆಂ.ಮೀ",
+        "ಸುತ್ತಳತೆ 64 ಸೆಂ.ಮೀ",
+        "ವಿಸ್ತೀರ್ಣ 32 ಚ.ಸೆಂ.ಮೀ"
+      ],
+      "answer": [
+        "ಸುತ್ತಳತೆ 32 ಸೆಂ.ಮೀ",
+        "ವಿಸ್ತೀರ್ಣ 64 ಚ.ಸೆಂ.ಮೀ"
+      ],
+      "reasoning": "ಸುತ್ತಳತೆ = 4 × ಬದಿ = 4 × 8 = 32 ಸೆಂ.ಮೀ. ವಿಸ್ತೀರ್ಣ = ಬದಿ × ಬದಿ = 8 × 8 = 64 ಚ.ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c6_math_pa_img_003",
+    "type": "image_single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of these shapes has the largest perimeter?",
+      "options": [
+        {
+          "id": "optA",
+          "text": "Square (Side=4cm)",
+          "image": {
+            "type": "svg",
+            "svg": "<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 300 200\\\" width=\\\"300\\\" height=\\\"200\\\" style=\\\"background:#fff\\\"><rect x=\\\"50\\\" y=\\\"30\\\" width=\\\"200\\\" height=\\\"120\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"2\\\"/><text x=\\\"150.0\\\" y=\\\"172.0\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">4 cm</text><text x=\\\"275.0\\\" y=\\\"95.0\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">4 cm</text><polyline points=\\\"60,30 60,40 50,40\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"240,30 240,40 250,40\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"240,150 240,140 250,140\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"60,150 60,140 50,140\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/></svg>",
+            "alt": {
+              "en": "Square with side 4 cm",
+              "kn": "4 ಸೆಂ.ಮೀ ಬದಿಯಿರುವ ಚೌಕ"
+            }
+          }
+        },
+        {
+          "id": "optB",
+          "text": "Rectangle (7cm × 3cm)",
+          "image": {
+            "type": "svg",
+            "svg": "<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 300 200\\\" width=\\\"300\\\" height=\\\"200\\\" style=\\\"background:#fff\\\"><rect x=\\\"50\\\" y=\\\"30\\\" width=\\\"200\\\" height=\\\"120\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"2\\\"/><text x=\\\"150.0\\\" y=\\\"172.0\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">7 cm</text><text x=\\\"275.0\\\" y=\\\"95.0\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">3 cm</text><polyline points=\\\"60,30 60,40 50,40\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"240,30 240,40 250,40\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"240,150 240,140 250,140\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"60,150 60,140 50,140\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/></svg>",
+            "alt": {
+              "en": "Rectangle with sides 7 cm and 3 cm",
+              "kn": "7 ಸೆಂ.ಮೀ ಮತ್ತು 3 ಸೆಂ.ಮೀ ಬದಿಗಳ ಆಯತ"
+            }
+          }
+        },
+        {
+          "id": "optC",
+          "text": "Equilateral Triangle (Side=6cm)",
+          "image": {
+            "type": "svg",
+            "svg": "<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 300 200\\\" width=\\\"300\\\" height=\\\"200\\\" style=\\\"background:#fff\\\"><polygon points=\\\"40.0,180.0 260.0,180.0 150.0,-10.5\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"2\\\" stroke-linejoin=\\\"round\\\"/><text x=\\\"150.0\\\" y=\\\"198.0\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">6 cm</text><text x=\\\"218.9\\\" y=\\\"76.7\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">6 cm</text><text x=\\\"81.1\\\" y=\\\"76.7\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">6 cm</text><text x=\\\"28.0\\\" y=\\\"190.0\\\" fill=\\\"#2563EB\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"15\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">A</text><text x=\\\"272.0\\\" y=\\\"190.0\\\" fill=\\\"#2563EB\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"15\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">B</text><text x=\\\"150.0\\\" y=\\\"-20.5\\\" fill=\\\"#2563EB\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"15\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">C</text></svg>",
+            "alt": {
+              "en": "Triangle with all sides 6 cm",
+              "kn": "6 ಸೆಂ.ಮೀ ನ ಎಲ್ಲಾ ಬದಿಗಳಿರುವ ತ್ರಿಭುಜ"
+            }
+          }
+        }
+      ],
+      "answer": "optB",
+      "reasoning": "Square perimeter = 16 cm. Rectangle perimeter = 20 cm (7+3+7+3). Triangle perimeter = 18 cm. Rectangle is largest."
+    },
+    "kn": {
+      "question": "ಈ ಆಕಾರಗಳಲ್ಲಿ ಯಾವುದು ಅತಿ ದೊಡ್ಡ ಸುತ್ತಳತೆಯನ್ನು ಹೊಂದಿದೆ?",
+      "options": [
+        {
+          "id": "optA",
+          "text": "ಚೌಕ (ಬದಿ=4ಸೆಂ.ಮೀ)",
+          "image": {
+            "type": "svg",
+            "svg": "<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 300 200\\\" width=\\\"300\\\" height=\\\"200\\\" style=\\\"background:#fff\\\"><rect x=\\\"50\\\" y=\\\"30\\\" width=\\\"200\\\" height=\\\"120\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"2\\\"/><text x=\\\"150.0\\\" y=\\\"172.0\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">4 cm</text><text x=\\\"275.0\\\" y=\\\"95.0\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">4 cm</text><polyline points=\\\"60,30 60,40 50,40\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"240,30 240,40 250,40\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"240,150 240,140 250,140\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"60,150 60,140 50,140\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/></svg>",
+            "alt": {
+              "en": "Square with side 4 cm",
+              "kn": "4 ಸೆಂ.ಮೀ ಬದಿಯಿರುವ ಚೌಕ"
+            }
+          }
+        },
+        {
+          "id": "optB",
+          "text": "ಆಯತ (7ಸೆಂ.ಮೀ × 3ಸೆಂ.ಮೀ)",
+          "image": {
+            "type": "svg",
+            "svg": "<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 300 200\\\" width=\\\"300\\\" height=\\\"200\\\" style=\\\"background:#fff\\\"><rect x=\\\"50\\\" y=\\\"30\\\" width=\\\"200\\\" height=\\\"120\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"2\\\"/><text x=\\\"150.0\\\" y=\\\"172.0\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">7 cm</text><text x=\\\"275.0\\\" y=\\\"95.0\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">3 cm</text><polyline points=\\\"60,30 60,40 50,40\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"240,30 240,40 250,40\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"240,150 240,140 250,140\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/><polyline points=\\\"60,150 60,140 50,140\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"1\\\"/></svg>",
+            "alt": {
+              "en": "Rectangle with sides 7 cm and 3 cm",
+              "kn": "7 ಸೆಂ.ಮೀ ಮತ್ತು 3 ಸೆಂ.ಮೀ ಬದಿಗಳ ಆಯತ"
+            }
+          }
+        },
+        {
+          "id": "optC",
+          "text": "ಸಮಬಾಹು ತ್ರಿಭುಜ (ಬದಿ=6ಸೆಂ.ಮೀ)",
+          "image": {
+            "type": "svg",
+            "svg": "<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 300 200\\\" width=\\\"300\\\" height=\\\"200\\\" style=\\\"background:#fff\\\"><polygon points=\\\"40.0,180.0 260.0,180.0 150.0,-10.5\\\" fill=\\\"none\\\" stroke=\\\"#2563EB\\\" stroke-width=\\\"2\\\" stroke-linejoin=\\\"round\\\"/><text x=\\\"150.0\\\" y=\\\"198.0\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">6 cm</text><text x=\\\"218.9\\\" y=\\\"76.7\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">6 cm</text><text x=\\\"81.1\\\" y=\\\"76.7\\\" fill=\\\"#DC2626\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"14\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">6 cm</text><text x=\\\"28.0\\\" y=\\\"190.0\\\" fill=\\\"#2563EB\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"15\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">A</text><text x=\\\"272.0\\\" y=\\\"190.0\\\" fill=\\\"#2563EB\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"15\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">B</text><text x=\\\"150.0\\\" y=\\\"-20.5\\\" fill=\\\"#2563EB\\\" font-family=\\\"Arial, sans-serif\\\" font-size=\\\"15\\\" font-weight=\\\"bold\\\" text-anchor=\\\"middle\\\">C</text></svg>",
+            "alt": {
+              "en": "Triangle with all sides 6 cm",
+              "kn": "6 ಸೆಂ.ಮೀ ನ ಎಲ್ಲಾ ಬದಿಗಳಿರುವ ತ್ರಿಭುಜ"
+            }
+          }
+        }
+      ],
+      "answer": "optB",
+      "reasoning": "ಚೌಕದ ಸುತ್ತಳತೆ = 16 ಸೆಂ.ಮೀ. ಆಯತದ ಸುತ್ತಳತೆ = 20 ಸೆಂ.ಮೀ. ತ್ರಿಭುಜದ ಸುತ್ತಳತೆ = 18 ಸೆಂ.ಮೀ. ಆದ್ದರಿಂದ ಆಯತವು ದೊಡ್ಡದಾಗಿದೆ."
+    }
   }
 ]

@@ -33,6 +33,10 @@ def verify_db():
     # 2. Schema Validation & gathering valid questions
     valid_questions = []
     
+    # Resolve the project root for raster image file existence checks
+    project_root = os.path.dirname(os.path.dirname(__file__))
+    images_dir = os.path.join(project_root, 'public', 'images', 'questions')
+
     for idx, q in enumerate(all_questions):
         q_id = q.get('id', f"UnknownID_{idx}")
         file = q.get('_file')
@@ -46,23 +50,88 @@ def verify_db():
         kn = q['kn']
         
         q_type = q.get('type', 'single')
+
+        # Map image types to their effective answer type
+        effective_type = q_type
+        if q_type == 'image_single':
+            effective_type = 'single'
+        elif q_type == 'image_multiple':
+            effective_type = 'multiple'
+
+        # Validate the image field for image-based question types
+        if q_type in ('image_single', 'image_multiple'):
+            img = q.get('image')
+            
+            # Check if options have images
+            opts_have_images = any(isinstance(opt, dict) and 'image' in opt for lang_opts in (q.get('en', {}).get('options', []), q.get('kn', {}).get('options', [])) for opt in lang_opts)
+            
+            if not img and not opts_have_images:
+                issues.append(f"[{file}] {q_id} image-type question missing 'image' field and no options have images.")
+            elif img and not isinstance(img, dict):
+                issues.append(f"[{file}] {q_id} 'image' field must be an object.")
+            elif img:
+                img_type = img.get('type')
+                if img_type not in ('svg', 'raster'):
+                    issues.append(f"[{file}] {q_id} image.type must be 'svg' or 'raster', got '{img_type}'.")
+                elif img_type == 'svg':
+                    svg_str = img.get('svg', '')
+                    if not isinstance(svg_str, str) or len(svg_str.strip()) == 0:
+                        issues.append(f"[{file}] {q_id} image.svg must be a non-empty string.")
+                elif img_type == 'raster':
+                    src = img.get('src', '')
+                    if not isinstance(src, str) or len(src.strip()) == 0:
+                        issues.append(f"[{file}] {q_id} image.src must be a non-empty string.")
+                    else:
+                        full_path = os.path.join(images_dir, src)
+                        if not os.path.isfile(full_path):
+                            issues.append(f"[{file}] {q_id} raster image not found: public/images/questions/{src}")
+                # Validate alt text
+                alt = img.get('alt')
+                if not alt or not isinstance(alt, dict) or not alt.get('en'):
+                    issues.append(f"[{file}] {q_id} image.alt must be an object with at least an 'en' key.")
         
         schema_error = False
         for lang, lang_data in [('en', en), ('kn', kn)]:
-            if q_type == 'single':
-                if lang_data.get('answer') not in lang_data.get('options', []):
-                    issues.append(f"[{file}] {q_id} {lang.upper()} answer not in options.")
+            opts = lang_data.get('options', [])
+            
+            # Helper to validate option structure and extract valid IDs/texts
+            valid_option_values = []
+            for i, opt in enumerate(opts):
+                if isinstance(opt, dict):
+                    if 'id' not in opt:
+                        issues.append(f"[{file}] {q_id} {lang.upper()} option {i} missing 'id'.")
+                        schema_error = True
+                    else:
+                        valid_option_values.append(opt['id'])
+                    
+                    if 'image' in opt:
+                        img = opt['image']
+                        if not isinstance(img, dict):
+                            issues.append(f"[{file}] {q_id} {lang.upper()} option {i} 'image' must be an object.")
+                            schema_error = True
+                        else:
+                            img_type = img.get('type')
+                            if img_type not in ('svg', 'raster'):
+                                issues.append(f"[{file}] {q_id} {lang.upper()} option {i} image.type must be 'svg' or 'raster'.")
+                                schema_error = True
+                            # ... (similar checks for svg/raster content could be added here)
+                else:
+                    valid_option_values.append(opt)
+
+            if effective_type == 'single':
+                ans = lang_data.get('answer')
+                if ans not in valid_option_values:
+                    issues.append(f"[{file}] {q_id} {lang.upper()} answer not in options (or option IDs).")
                     schema_error = True
-            elif q_type == 'multiple':
+            elif effective_type == 'multiple':
                 ans_list = lang_data.get('answer', [])
                 if not isinstance(ans_list, list):
                     issues.append(f"[{file}] {q_id} {lang.upper()} answer must be a list for 'multiple' type.")
                     schema_error = True
                 else:
-                    opts = lang_data.get('options', [])
                     for a in ans_list:
-                        if a not in opts:
-                            issues.append(f"[{file}] {q_id} {lang.upper()} answer '{a}' not in options.")
+                        if a not in valid_option_values:
+                            issues.append(f"[{file}] {q_id} {lang.upper()} answer '{a}' not in options (or option IDs).")
                             schema_error = True
             elif q_type == 'match':
                 pairs = lang_data.get('pairs', [])

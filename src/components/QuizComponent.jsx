@@ -12,6 +12,8 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
   const [shuffledRights, setShuffledRights] = useState([]);
 
   const qType = questionData?.type || 'single';
+  // Map image types to their effective answer type for logic reuse
+  const effectiveType = qType.startsWith('image_') ? qType.replace('image_', '') : qType;
 
   useEffect(() => {
     setSelectedOption(null);
@@ -21,26 +23,28 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
     setIsCorrect(false);
     setIsPartiallyCorrect(false);
 
-    if (qType === 'match' && questionData.pairs) {
+    if (effectiveType === 'match' && questionData.pairs) {
       const rights = questionData.pairs.map(p => p.right);
       setShuffledRights(rights.sort(() => Math.random() - 0.5));
     }
-  }, [questionData, qType]);
+  }, [questionData, effectiveType]);
 
   if (!questionData) return <div>Loading...</div>;
 
   const handleSingleSubmit = (opt) => {
     soundEngine.playClick();
-    setSelectedOption(opt);
-    const correct = String(opt).trim() === String(questionData.answer).trim();
+    const optId = typeof opt === 'object' ? opt.id : opt;
+    setSelectedOption(optId);
+    const correct = String(optId).trim() === String(questionData.answer).trim();
     setIsCorrect(correct);
     setShowReasoning(true);
   };
 
   const handleMultipleToggle = (opt) => {
     if (showReasoning) return;
+    const optId = typeof opt === 'object' ? opt.id : opt;
     setSelectedOptions(prev => 
-      prev.includes(opt) ? prev.filter(o => o !== opt) : [...prev, opt]
+      prev.includes(optId) ? prev.filter(o => o !== optId) : [...prev, optId]
     );
   };
 
@@ -100,26 +104,60 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
       margin: '0 auto',
       width: '100%',
     }}>
+      {/* IMAGE BLOCK — renders diagram/photo above question text */}
+      {questionData.image && (
+        <div style={{
+          marginBottom: '16px',
+          display: 'flex',
+          justifyContent: 'center',
+          backgroundColor: '#fafafa',
+          borderRadius: '12px',
+          padding: '16px',
+          border: '1px solid #eee',
+          overflow: 'hidden'
+        }}>
+          {questionData.image.type === 'svg' ? (
+            <div 
+              dangerouslySetInnerHTML={{ __html: questionData.image.svg }}
+              style={{ maxWidth: '100%', maxHeight: '280px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}
+              role="img"
+              aria-label={questionData.image.alt || ''}
+            />
+          ) : (
+            <img 
+              src={`./images/questions/${questionData.image.src}`}
+              alt={questionData.image.alt || ''}
+              style={{ maxWidth: '100%', maxHeight: '280px', objectFit: 'contain', borderRadius: '8px' }}
+              loading="lazy"
+            />
+          )}
+        </div>
+      )}
+
       <h2 style={{ fontSize: '1.4rem', marginBottom: '20px', lineHeight: '1.4' }}>
         {questionData.question}
       </h2>
 
-      {/* SINGLE CHOICE */}
-      {qType === 'single' && (
+      {/* SINGLE CHOICE (also handles image_single) */}
+      {effectiveType === 'single' && (
         <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
           {questionData.options.map((opt, idx) => {
+            const optId = typeof opt === 'object' ? opt.id : opt;
+            const optText = typeof opt === 'object' ? opt.text : opt;
+            const optImage = typeof opt === 'object' ? opt.image : null;
+            
             let btnBg = '#f0f0f0';
             let btnColor = 'var(--text-dark)';
             
             if (showReasoning) {
-              if (String(opt).trim() === String(questionData.answer).trim()) {
+              if (String(optId).trim() === String(questionData.answer).trim()) {
                 btnBg = '#06D6A0';
                 btnColor = 'white';
-              } else if (opt === selectedOption && String(opt).trim() !== String(questionData.answer).trim()) {
+              } else if (optId === selectedOption && String(optId).trim() !== String(questionData.answer).trim()) {
                 btnBg = '#EF476F';
                 btnColor = 'white';
               }
-            } else if (opt === selectedOption) {
+            } else if (optId === selectedOption) {
               btnBg = 'var(--tuk-yellow)';
             }
 
@@ -133,29 +171,48 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
                   backgroundColor: btnBg, color: btnColor, fontSize: '1.1rem',
                   fontWeight: '600', cursor: showReasoning ? 'default' : 'pointer',
                   textAlign: 'left', transition: 'all 0.2s', display: 'flex',
-                  justifyContent: 'space-between', alignItems: 'center',
+                  flexDirection: optImage ? 'column' : 'row',
+                  justifyContent: optImage ? 'center' : 'space-between',
+                  alignItems: 'center', gap: optImage ? '10px' : '0',
                   boxShadow: showReasoning ? 'none' : '0 4px 6px rgba(0,0,0,0.05)'
                 }}
               >
-                {opt}
-                {showReasoning && String(opt).trim() === String(questionData.answer).trim() && <Check size={20} />}
-                {showReasoning && opt === selectedOption && String(opt).trim() !== String(questionData.answer).trim() && <X size={20} />}
+                {optImage && (
+                  <div style={{ width: '100%', display: 'flex', justifyContent: 'center', backgroundColor: 'white', padding: '10px', borderRadius: '8px' }}>
+                    {optImage.type === 'svg' ? (
+                      <div dangerouslySetInnerHTML={{ __html: optImage.svg }} style={{ maxWidth: '100%', maxHeight: '150px' }} />
+                    ) : (
+                      <img src={`./images/questions/${optImage.src}`} alt={optImage.alt || ''} style={{ maxWidth: '100%', maxHeight: '150px', objectFit: 'contain' }} loading="lazy" />
+                    )}
+                  </div>
+                )}
+                <div style={{ display: 'flex', width: '100%', justifyContent: 'space-between', alignItems: 'center' }}>
+                  <span>{optText}</span>
+                  <div>
+                    {showReasoning && String(optId).trim() === String(questionData.answer).trim() && <Check size={20} />}
+                    {showReasoning && optId === selectedOption && String(optId).trim() !== String(questionData.answer).trim() && <X size={20} />}
+                  </div>
+                </div>
               </button>
             );
           })}
         </div>
       )}
 
-      {/* MULTIPLE CHOICE */}
-      {qType === 'multiple' && (
+      {/* MULTIPLE CHOICE (also handles image_multiple) */}
+      {effectiveType === 'multiple' && (
         <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
           <div style={{ color: 'var(--accent-color)', fontSize: '0.9rem', marginBottom: '5px', fontWeight: 'bold' }}>
             <Lightbulb size={14} style={{ display: 'inline', marginRight: '5px', verticalAlign: 'text-bottom' }} />
             {language === 'kn' ? 'ಇದು ಬಹು-ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆ (ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಸರಿ ಉತ್ತರಗಳಿರಬಹುದು)' : 'Multiple Choice Question (Select all that apply)'}
           </div>
           {questionData.options.map((opt, idx) => {
-            const isSelected = selectedOptions.includes(opt);
-            const isActuallyCorrect = (questionData.answer || []).includes(opt);
+            const optId = typeof opt === 'object' ? opt.id : opt;
+            const optText = typeof opt === 'object' ? opt.text : opt;
+            const optImage = typeof opt === 'object' ? opt.image : null;
+            
+            const isSelected = selectedOptions.includes(optId);
+            const isActuallyCorrect = (questionData.answer || []).map(String).includes(String(optId));
             
             let btnBg = '#f0f0f0';
             let btnColor = 'var(--text-dark)';
@@ -182,20 +239,37 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
                   padding: '15px', borderRadius: '10px', border: `2px solid ${borderColor}`,
                   backgroundColor: btnBg, color: btnColor, fontSize: '1.1rem',
                   fontWeight: '600', cursor: showReasoning ? 'default' : 'pointer',
-                  display: 'flex', alignItems: 'center', gap: '15px', transition: 'all 0.2s'
+                  display: 'flex', flexDirection: optImage ? 'column' : 'row',
+                  alignItems: optImage ? 'flex-start' : 'center', gap: '15px', transition: 'all 0.2s'
                 }}
               >
-                <div style={{
-                  width: '24px', height: '24px', borderRadius: '4px', border: '2px solid',
-                  borderColor: isSelected ? 'var(--accent-color)' : '#ccc',
-                  display: 'flex', alignItems: 'center', justifyContent: 'center',
-                  backgroundColor: isSelected ? 'var(--accent-color)' : 'white'
-                }}>
-                  {isSelected && <Check size={16} color="white" />}
+                <div style={{ display: 'flex', alignItems: 'center', width: '100%', gap: '15px' }}>
+                  <div style={{
+                    width: '24px', height: '24px', borderRadius: '6px', flexShrink: 0,
+                    border: `2px solid ${isSelected ? 'var(--accent-color)' : '#ccc'}`,
+                    backgroundColor: isSelected ? 'var(--accent-color)' : 'white',
+                    display: 'flex', justifyContent: 'center', alignItems: 'center'
+                  }}>
+                    {isSelected && <Check size={16} color="white" strokeWidth={3} />}
+                  </div>
+                  <div style={{ flex: 1, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+                    <span>{optText}</span>
+                    <div>
+                      {showReasoning && isActuallyCorrect && <Check size={20} />}
+                      {showReasoning && isSelected && !isActuallyCorrect && <X size={20} />}
+                    </div>
+                  </div>
                 </div>
-                <div style={{ flex: 1 }}>{opt}</div>
-                {showReasoning && isActuallyCorrect && <Check size={20} />}
-                {showReasoning && isSelected && !isActuallyCorrect && <X size={20} />}
+                
+                {optImage && (
+                  <div style={{ width: '100%', display: 'flex', justifyContent: 'center', backgroundColor: 'white', padding: '10px', borderRadius: '8px', marginTop: '5px' }}>
+                    {optImage.type === 'svg' ? (
+                      <div dangerouslySetInnerHTML={{ __html: optImage.svg }} style={{ maxWidth: '100%', maxHeight: '150px' }} />
+                    ) : (
+                      <img src={`./images/questions/${optImage.src}`} alt={optImage.alt || ''} style={{ maxWidth: '100%', maxHeight: '150px', objectFit: 'contain' }} loading="lazy" />
+                    )}
+                  </div>
+                )}
               </div>
             );
           })}
@@ -208,7 +282,7 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
       )}
 
       {/* MATCHING */}
-      {qType === 'match' && (
+      {effectiveType === 'match' && (
         <div style={{ display: 'flex', flexDirection: 'column', gap: '15px' }}>
           {questionData.pairs.map((pair, idx) => {
             const userSelection = selectedMatches[pair.left] || '';
