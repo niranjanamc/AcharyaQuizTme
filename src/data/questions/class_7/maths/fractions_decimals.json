@@ -202,7 +202,7 @@
     "difficulty": 1,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 100\">\n  <rect x=\"20\" y=\"30\" width=\"200\" height=\"40\" fill=\"white\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <rect x=\"20\" y=\"30\" width=\"120\" height=\"40\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"60\" y1=\"30\" x2=\"60\" y2=\"70\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"100\" y1=\"30\" x2=\"100\" y2=\"70\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"140\" y1=\"30\" x2=\"140\" y2=\"70\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"180\" y1=\"30\" x2=\"180\" y2=\"70\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n</svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 100\">\n  <rect x=\"20\" y=\"30\" width=\"200\" height=\"40\" fill=\"white\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <rect x=\"20\" y=\"30\" width=\"120\" height=\"40\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"60\" y1=\"30\" x2=\"60\" y2=\"70\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"100\" y1=\"30\" x2=\"100\" y2=\"70\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"140\" y1=\"30\" x2=\"140\" y2=\"70\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"180\" y1=\"30\" x2=\"180\" y2=\"70\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n</svg>",
       "alt": {
         "en": "A rectangle divided into 5 equal parts, with 3 parts shaded.",
         "kn": "5 ಸಮಾನ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾದ ಆಯತ, 3 ಭಾಗಗಳನ್ನು ಛಾಯೆಗೊಳಿಸಲಾಗಿದೆ."
@@ -456,7 +456,7 @@
     "difficulty": 2,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <rect x=\"50\" y=\"50\" width=\"100\" height=\"100\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <rect x=\"150\" y=\"50\" width=\"100\" height=\"100\" fill=\"white\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"100\" x2=\"150\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <rect x=\"50\" y=\"50\" width=\"100\" height=\"50\" fill=\"#059669\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n</svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <rect x=\"50\" y=\"50\" width=\"100\" height=\"100\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <rect x=\"150\" y=\"50\" width=\"100\" height=\"100\" fill=\"white\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"100\" x2=\"150\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <rect x=\"50\" y=\"50\" width=\"100\" height=\"50\" fill=\"#059669\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n</svg>",
       "alt": {
         "en": "Two large squares representing 1 whole each. The first square is completely shaded, except half of it is double-shaded green.",
         "kn": "1 ಪೂರ್ಣವನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಎರಡು ದೊಡ್ಡ ಚೌಕಗಳು. ಮೊದಲ ಚೌಕವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಛಾಯೆಗೊಳಿಸಲಾಗಿದೆ, ಮತ್ತು ಅದರ ಅರ್ಧದಷ್ಟು ಹಸಿರು ಬಣ್ಣವನ್ನು ಹೊಂದಿದೆ."
@@ -526,7 +526,7 @@
     "difficulty": 2,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <rect x=\"50\" y=\"50\" width=\"200\" height=\"40\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <rect x=\"50\" y=\"50\" width=\"150\" height=\"40\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n  <line x1=\"100\" y1=\"50\" x2=\"100\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n  <line x1=\"150\" y1=\"50\" x2=\"150\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n  <line x1=\"200\" y1=\"50\" x2=\"200\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n</svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <rect x=\"50\" y=\"50\" width=\"200\" height=\"40\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <rect x=\"50\" y=\"50\" width=\"150\" height=\"40\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n  <line x1=\"100\" y1=\"50\" x2=\"100\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n  <line x1=\"150\" y1=\"50\" x2=\"150\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n  <line x1=\"200\" y1=\"50\" x2=\"200\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n</svg>",
       "alt": {
         "en": "A bar divided into 4 parts. 3 parts are shaded.",
         "kn": "4 ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾದ ಪಟ್ಟಿ. 3 ಭಾಗಗಳನ್ನು ಛಾಯೆಗೊಳಿಸಲಾಗಿದೆ."

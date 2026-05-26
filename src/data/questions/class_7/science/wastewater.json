@@ -5,13 +5,23 @@
     "difficulty": 1,
     "en": {
       "question": "What is the water mixed with lather, oil, and dirt that goes down the drains called?",
-      "options": ["Potable water", "Wastewater", "Groundwater", "Rainwater"],
+      "options": [
+        "Potable water",
+        "Wastewater",
+        "Groundwater",
+        "Rainwater"
+      ],
       "answer": "Wastewater",
       "reasoning": "Rich in lather, mixed with oil, black-brown water that goes down the drains from sinks, showers, toilets, laundries is called wastewater."
     },
     "kn": {
       "question": "ನೊರೆ, ಎಣ್ಣೆ ಮತ್ತು ಕೊಳೆಯೊಂದಿಗೆ ಬೆರೆತು ಒಳಚರಂಡಿಗೆ (drain) ಹೋಗುವ ನೀರನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
-      "options": ["ಕುಡಿಯುವ ನೀರು", "ತ್ಯಾಜ್ಯನೀರು (Wastewater)", "ಅಂತರ್ಜಲ", "ಮಳೆನೀರು"],
+      "options": [
+        "ಕುಡಿಯುವ ನೀರು",
+        "ತ್ಯಾಜ್ಯನೀರು (Wastewater)",
+        "ಅಂತರ್ಜಲ",
+        "ಮಳೆನೀರು"
+      ],
       "answer": "ತ್ಯಾಜ್ಯನೀರು (Wastewater)",
       "reasoning": "ಸಿಂಕ್‌ಗಳು, ಶೌಚಾಲಯಗಳು ಮತ್ತು ಲಾಂಡ್ರಿಗಳಿಂದ ಒಳಚರಂಡಿಗೆ ಹೋಗುವ ನೊರೆ, ಎಣ್ಣೆಯಿಂದ ಕೂಡಿದ ಕಪ್ಪು-ಕಂದು ಬಣ್ಣದ ನೀರನ್ನು ತ್ಯಾಜ್ಯನೀರು (wastewater) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
     }
@@ -22,13 +32,23 @@
     "difficulty": 1,
     "en": {
       "question": "What is the liquid waste produced by homes, industries, hospitals, and offices collectively called?",
-      "options": ["Sludge", "Sewage", "Biogas", "Compost"],
+      "options": [
+        "Sludge",
+        "Sewage",
+        "Biogas",
+        "Compost"
+      ],
       "answer": "Sewage",
       "reasoning": "Sewage is the wastewater released by homes, industries, hospitals, offices and other users."
     },
     "kn": {
       "question": "ಮನೆಗಳು, ಕೈಗಾರಿಕೆಗಳು, ಆಸ್ಪತ್ರೆಗಳು ಮತ್ತು ಕಛೇರಿಗಳಿಂದ ಉತ್ಪತ್ತಿಯಾಗುವ ದ್ರವ ತ್ಯಾಜ್ಯವನ್ನು ಒಟ್ಟಾರೆಯಾಗಿ ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
-      "options": ["ಕೆಸರು (Sludge)", "ಒಳಚರಂಡಿ ನೀರು (Sewage)", "ಬಯೋಗ್ಯಾಸ್", "ಗೊಬ್ಬರ (Compost)"],
+      "options": [
+        "ಕೆಸರು (Sludge)",
+        "ಒಳಚರಂಡಿ ನೀರು (Sewage)",
+        "ಬಯೋಗ್ಯಾಸ್",
+        "ಗೊಬ್ಬರ (Compost)"
+      ],
       "answer": "ಒಳಚರಂಡಿ ನೀರು (Sewage)",
       "reasoning": "ಮನೆಗಳು, ಕೈಗಾರಿಕೆಗಳು, ಆಸ್ಪತ್ರೆಗಳು, ಕಛೇರಿಗಳು ಮತ್ತು ಇತರರು ಬಿಡುಗಡೆ ಮಾಡುವ ತ್ಯಾಜ್ಯನೀರನ್ನು ಒಳಚರಂಡಿ ನೀರು (Sewage) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
     }
@@ -39,13 +59,23 @@
     "difficulty": 1,
     "en": {
       "question": "What are the small pipes and big pipes that carry sewage called?",
-      "options": ["Veins", "Arteries", "Sewers", "Tunnels"],
+      "options": [
+        "Veins",
+        "Arteries",
+        "Sewers",
+        "Tunnels"
+      ],
       "answer": "Sewers",
       "reasoning": "A network of big and small pipes called sewers forms the sewerage system which carries sewage from the point of production to the point of disposal."
     },
     "kn": {
       "question": "ತ್ಯಾಜ್ಯನೀರನ್ನು ಒಯ್ಯುವ ಸಣ್ಣ ಮತ್ತು ದೊಡ್ಡ ಕೊಳವೆಗಳನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
-      "options": ["ಅಭಿಧಮನಿಗಳು", "ಅಪಧಮನಿಗಳು", "ಒಳಚರಂಡಿಗಳು (Sewers)", "ಸುರಂಗಗಳು"],
+      "options": [
+        "ಅಭಿಧಮನಿಗಳು",
+        "ಅಪಧಮನಿಗಳು",
+        "ಒಳಚರಂಡಿಗಳು (Sewers)",
+        "ಸುರಂಗಗಳು"
+      ],
       "answer": "ಒಳಚರಂಡಿಗಳು (Sewers)",
       "reasoning": "ಒಳಚರಂಡಿಗಳು (sewers) ಎಂದು ಕರೆಯಲ್ಪಡುವ ದೊಡ್ಡ ಮತ್ತು ಸಣ್ಣ ಕೊಳವೆಗಳ ಜಾಲವು ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆಯನ್ನು (sewerage system) ರೂಪಿಸುತ್ತದೆ, ಇದು ತ್ಯಾಜ್ಯನೀರನ್ನು ಸಾಗಿಸುತ್ತದೆ."
     }
@@ -56,14 +86,32 @@
     "difficulty": 1,
     "en": {
       "question": "Which of the following are impurities generally found in sewage?",
-      "options": ["Human faeces", "Oil", "Clean drinking water", "Food waste"],
-      "answer": ["Human faeces", "Oil", "Food waste"],
+      "options": [
+        "Human faeces",
+        "Oil",
+        "Clean drinking water",
+        "Food waste"
+      ],
+      "answer": [
+        "Human faeces",
+        "Oil",
+        "Food waste"
+      ],
       "reasoning": "Sewage is a complex mixture containing suspended solids, organic and inorganic impurities, nutrients, and disease-causing bacteria. Clean water is not an impurity."
     },
     "kn": {
       "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ತ್ಯಾಜ್ಯನೀರಿನಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಕಂಡುಬರುವ ಕಲ್ಮಶಗಳು ಯಾವುವು?",
-      "options": ["ಮಾನವನ ಮಲ", "ಎಣ್ಣೆ", "ಶುದ್ಧ ಕುಡಿಯುವ ನೀರು", "ಆಹಾರದ ತ್ಯಾಜ್ಯ"],
-      "answer": ["ಮಾನವನ ಮಲ", "ಎಣ್ಣೆ", "ಆಹಾರದ ತ್ಯಾಜ್ಯ"],
+      "options": [
+        "ಮಾನವನ ಮಲ",
+        "ಎಣ್ಣೆ",
+        "ಶುದ್ಧ ಕುಡಿಯುವ ನೀರು",
+        "ಆಹಾರದ ತ್ಯಾಜ್ಯ"
+      ],
+      "answer": [
+        "ಮಾನವನ ಮಲ",
+        "ಎಣ್ಣೆ",
+        "ಆಹಾರದ ತ್ಯಾಜ್ಯ"
+      ],
       "reasoning": "ತ್ಯಾಜ್ಯನೀರು ಮಾನವನ ಮಲ, ಪ್ರಾಣಿಗಳ ತ್ಯಾಜ್ಯ, ಎಣ್ಣೆ, ಯೂರಿಯಾ ಮತ್ತು ಆಹಾರದ ತ್ಯಾಜ್ಯದಂತಹ ಕಲ್ಮಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಶುದ್ಧ ನೀರು ಕಲ್ಮಶವಲ್ಲ."
     }
   },
@@ -73,13 +121,23 @@
     "difficulty": 1,
     "en": {
       "question": "What is the network of sewers that transports sewage called?",
-      "options": ["Water cycle", "Sewerage", "Aqueduct", "Irrigation"],
+      "options": [
+        "Water cycle",
+        "Sewerage",
+        "Aqueduct",
+        "Irrigation"
+      ],
       "answer": "Sewerage",
       "reasoning": "Sewerage is a network of big and small pipes (sewers) that carry sewage from houses to the wastewater treatment plant."
     },
     "kn": {
       "question": "ತ್ಯಾಜ್ಯನೀರನ್ನು ಸಾಗಿಸುವ ಕೊಳವೆಗಳ ಜಾಲವನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
-      "options": ["ಜಲಚಕ್ರ", "ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆ (Sewerage)", "ಕಾಲುವೆ", "ನೀರಾವರಿ"],
+      "options": [
+        "ಜಲಚಕ್ರ",
+        "ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆ (Sewerage)",
+        "ಕಾಲುವೆ",
+        "ನೀರಾವರಿ"
+      ],
       "answer": "ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆ (Sewerage)",
       "reasoning": "ಮನೆಗಳಿಂದ ತ್ಯಾಜ್ಯನೀರನ್ನು ಸಂಸ್ಕರಣಾ ಘಟಕಕ್ಕೆ ಕೊಂಡೊಯ್ಯುವ ದೊಡ್ಡ ಮತ್ತು ಸಣ್ಣ ಕೊಳವೆಗಳ (sewers) ಜಾಲವನ್ನು ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆ (Sewerage) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
     }
@@ -90,7 +148,7 @@
     "difficulty": 1,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><rect x='50' y='50' width='200' height='100' fill='#E5E7EB' stroke='#1F2937' stroke-width='2'/><path d='M50 80 C100 80, 150 120, 250 80' fill='none' stroke='#3B82F6' stroke-width='30' opacity='0.5'/><line x1='150' y1='30' x2='150' y2='170' stroke='#1F2937' stroke-width='4'/><line x1='165' y1='30' x2='165' y2='170' stroke='#1F2937' stroke-width='4'/><line x1='135' y1='30' x2='135' y2='170' stroke='#1F2937' stroke-width='4'/><rect x='80' y='90' width='20' height='10' fill='#D97706'/><circle cx='100' cy='110' r='8' fill='#DC2626'/><circle cx='120' cy='95' r='12' fill='#10B981'/></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><rect x='50' y='50' width='200' height='100' fill='#E5E7EB' stroke='#1F2937' stroke-width='2'/><path d='M50 80 C100 80, 150 120, 250 80' fill='none' stroke='#3B82F6' stroke-width='30' opacity='0.5'/><line x1='150' y1='30' x2='150' y2='170' stroke='#1F2937' stroke-width='4'/><line x1='165' y1='30' x2='165' y2='170' stroke='#1F2937' stroke-width='4'/><line x1='135' y1='30' x2='135' y2='170' stroke='#1F2937' stroke-width='4'/><rect x='80' y='90' width='20' height='10' fill='#D97706'/><circle cx='100' cy='110' r='8' fill='#DC2626'/><circle cx='120' cy='95' r='12' fill='#10B981'/></svg>",
       "alt": {
         "en": "Diagram of water flowing through vertical metal bars, trapping large objects like plastics and rags",
         "kn": "ನೀರು ಲಂಬವಾದ ಲೋಹದ ಕಂಬಿಗಳ ಮೂಲಕ ಹರಿಯುವಾಗ ಪ್ಲಾಸ್ಟಿಕ್ ಮತ್ತು ಚಿಂದಿಗಳಂತಹ ದೊಡ್ಡ ವಸ್ತುಗಳನ್ನು ತಡೆಯುವ ರೇಖಾಚಿತ್ರ"
@@ -98,13 +156,23 @@
     },
     "en": {
       "question": "What is the name of the equipment shown in the diagram used at the first step of a wastewater treatment plant?",
-      "options": ["Bar screen", "Aerator", "Clarifier", "Skimmer"],
+      "options": [
+        "Bar screen",
+        "Aerator",
+        "Clarifier",
+        "Skimmer"
+      ],
       "answer": "Bar screen",
       "reasoning": "Wastewater is first passed through bar screens to remove large objects like rags, sticks, cans, plastic packets, and napkins."
     },
     "kn": {
       "question": "ತ್ಯಾಜ್ಯನೀರು ಸಂಸ್ಕರಣಾ ಘಟಕದ ಮೊದಲ ಹಂತದಲ್ಲಿ ಬಳಸುವ ರೇಖಾಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಸಾಧನದ ಹೆಸರೇನು?",
-      "options": ["ಕಬ್ಬಿಣದ ಜಾಲರಿ (Bar screen)", "ಏರೇಟರ್ (Aerator)", "ಕ್ಲಾರಿಫೈಯರ್ (Clarifier)", "ಸ್ಕಿಮ್ಮರ್ (Skimmer)"],
+      "options": [
+        "ಕಬ್ಬಿಣದ ಜಾಲರಿ (Bar screen)",
+        "ಏರೇಟರ್ (Aerator)",
+        "ಕ್ಲಾರಿಫೈಯರ್ (Clarifier)",
+        "ಸ್ಕಿಮ್ಮರ್ (Skimmer)"
+      ],
       "answer": "ಕಬ್ಬಿಣದ ಜಾಲರಿ (Bar screen)",
       "reasoning": "ಚಿಂದಿ ಬಟ್ಟೆಗಳು, ಕೋಲುಗಳು, ಪ್ಲಾಸ್ಟಿಕ್ ಪ್ಯಾಕೆಟ್‌ಗಳಂತಹ ದೊಡ್ಡ ವಸ್ತುಗಳನ್ನು ತೆಗೆದುಹಾಕಲು ತ್ಯಾಜ್ಯನೀರನ್ನು ಮೊದಲು ಕಬ್ಬಿಣದ ಜಾಲರಿಗಳ (Bar screens) ಮೂಲಕ ಹರಿಸಲಾಗುತ್ತದೆ."
     }
@@ -116,20 +184,44 @@
     "en": {
       "question": "Match the wastewater term with its meaning:",
       "pairs": [
-        { "left": "Sewage", "right": "Liquid waste from houses" },
-        { "left": "Sewers", "right": "Pipes carrying wastewater" },
-        { "left": "Sewerage", "right": "Network of sewer pipes" },
-        { "left": "WWTP", "right": "Place where wastewater is cleaned" }
+        {
+          "left": "Sewage",
+          "right": "Liquid waste from houses"
+        },
+        {
+          "left": "Sewers",
+          "right": "Pipes carrying wastewater"
+        },
+        {
+          "left": "Sewerage",
+          "right": "Network of sewer pipes"
+        },
+        {
+          "left": "WWTP",
+          "right": "Place where wastewater is cleaned"
+        }
       ],
       "reasoning": "These are the fundamental definitions related to the wastewater disposal system."
     },
     "kn": {
       "question": "ಪದವನ್ನು ಅದರ ಅರ್ಥದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
       "pairs": [
-        { "left": "ಒಳಚರಂಡಿ ನೀರು (Sewage)", "right": "ಮನೆಗಳಿಂದ ಬರುವ ದ್ರವ ತ್ಯಾಜ್ಯ" },
-        { "left": "ಒಳಚರಂಡಿಗಳು (Sewers)", "right": "ತ್ಯಾಜ್ಯನೀರನ್ನು ಒಯ್ಯುವ ಕೊಳವೆಗಳು" },
-        { "left": "ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆ (Sewerage)", "right": "ಒಳಚರಂಡಿ ಕೊಳವೆಗಳ ಜಾಲ" },
-        { "left": "WWTP", "right": "ತ್ಯಾಜ್ಯನೀರನ್ನು ಶುದ್ಧೀಕರಿಸುವ ಸ್ಥಳ" }
+        {
+          "left": "ಒಳಚರಂಡಿ ನೀರು (Sewage)",
+          "right": "ಮನೆಗಳಿಂದ ಬರುವ ದ್ರವ ತ್ಯಾಜ್ಯ"
+        },
+        {
+          "left": "ಒಳಚರಂಡಿಗಳು (Sewers)",
+          "right": "ತ್ಯಾಜ್ಯನೀರನ್ನು ಒಯ್ಯುವ ಕೊಳವೆಗಳು"
+        },
+        {
+          "left": "ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆ (Sewerage)",
+          "right": "ಒಳಚರಂಡಿ ಕೊಳವೆಗಳ ಜಾಲ"
+        },
+        {
+          "left": "WWTP",
+          "right": "ತ್ಯಾಜ್ಯನೀರನ್ನು ಶುದ್ಧೀಕರಿಸುವ ಸ್ಥಳ"
+        }
       ],
       "reasoning": "ಇವು ತ್ಯಾಜ್ಯನೀರು ವಿಲೇವಾರಿ ವ್ಯವಸ್ಥೆಗೆ ಸಂಬಂಧಿಸಿದ ಮೂಲಭೂತ ವ್ಯಾಖ್ಯಾನಗಳಾಗಿವೆ."
     }
@@ -140,13 +232,23 @@
     "difficulty": 1,
     "en": {
       "question": "Why should we not throw cooking oil and fats down the drain?",
-      "options": ["They make the water too clean", "They can harden and block the pipes", "They kill bacteria", "They produce biogas"],
+      "options": [
+        "They make the water too clean",
+        "They can harden and block the pipes",
+        "They kill bacteria",
+        "They produce biogas"
+      ],
       "answer": "They can harden and block the pipes",
       "reasoning": "Cooking oil and fats can harden and block the pipes. In an open drain, the fats clog the soil pores reducing its effectiveness in filtering water."
     },
     "kn": {
       "question": "ನಾವು ಅಡುಗೆ ಎಣ್ಣೆ ಮತ್ತು ಕೊಬ್ಬನ್ನು ಒಳಚರಂಡಿಗೆ (ಸಿಂಕ್‌ಗೆ) ಏಕೆ ಸುರಿಯಬಾರದು?",
-      "options": ["ಅವು ನೀರನ್ನು ತುಂಬಾ ಶುದ್ಧಗೊಳಿಸುತ್ತವೆ", "ಅವು ಗಟ್ಟಿಯಾಗಿ ಕೊಳವೆಗಳನ್ನು ಮುಚ್ಚಿಹಾಕಬಹುದು", "ಅವು ಬ್ಯಾಕ್ಟೀರಿಯಾವನ್ನು ಕೊಲ್ಲುತ್ತವೆ", "ಅವು ಬಯೋಗ್ಯಾಸ್ ಉತ್ಪಾದಿಸುತ್ತವೆ"],
+      "options": [
+        "ಅವು ನೀರನ್ನು ತುಂಬಾ ಶುದ್ಧಗೊಳಿಸುತ್ತವೆ",
+        "ಅವು ಗಟ್ಟಿಯಾಗಿ ಕೊಳವೆಗಳನ್ನು ಮುಚ್ಚಿಹಾಕಬಹುದು",
+        "ಅವು ಬ್ಯಾಕ್ಟೀರಿಯಾವನ್ನು ಕೊಲ್ಲುತ್ತವೆ",
+        "ಅವು ಬಯೋಗ್ಯಾಸ್ ಉತ್ಪಾದಿಸುತ್ತವೆ"
+      ],
       "answer": "ಅವು ಗಟ್ಟಿಯಾಗಿ ಕೊಳವೆಗಳನ್ನು ಮುಚ್ಚಿಹಾಕಬಹುದು",
       "reasoning": "ಅಡುಗೆ ಎಣ್ಣೆ ಮತ್ತು ಕೊಬ್ಬುಗಳು ಗಟ್ಟಿಯಾಗಿ ಕೊಳವೆಗಳನ್ನು ಮುಚ್ಚಿಹಾಕಬಹುದು. ತೆರೆದ ಚರಂಡಿಯಲ್ಲಿ, ಕೊಬ್ಬು ಮಣ್ಣಿನ ರಂಧ್ರಗಳನ್ನು ಮುಚ್ಚಿ ನೀರನ್ನು ಫಿಲ್ಟರ್ ಮಾಡುವ ಅದರ ಸಾಮರ್ಥ್ಯವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ."
     }
@@ -157,13 +259,23 @@
     "difficulty": 1,
     "en": {
       "question": "Where should used tea leaves, solid food remains, and cotton be thrown?",
-      "options": ["In the sink", "In the toilet", "In the dustbin", "In the drain"],
+      "options": [
+        "In the sink",
+        "In the toilet",
+        "In the dustbin",
+        "In the drain"
+      ],
       "answer": "In the dustbin",
       "reasoning": "Solid wastes like used tea leaves, food remains, and cotton should always be thrown in the dustbin because they can choke the drains."
     },
     "kn": {
       "question": "ಬಳಸಿದ ಚಹಾ ಎಲೆಗಳು, ಘನ ಆಹಾರದ ಉಳಿಕೆಗಳು ಮತ್ತು ಹತ್ತಿಯನ್ನು ಎಲ್ಲಿ ಎಸೆಯಬೇಕು?",
-      "options": ["ಸಿಂಕ್‌ನಲ್ಲಿ", "ಶೌಚಾಲಯದಲ್ಲಿ", "ಕಸದ ಬುಟ್ಟಿಯಲ್ಲಿ (Dustbin)", "ಚರಂಡಿಯಲ್ಲಿ"],
+      "options": [
+        "ಸಿಂಕ್‌ನಲ್ಲಿ",
+        "ಶೌಚಾಲಯದಲ್ಲಿ",
+        "ಕಸದ ಬುಟ್ಟಿಯಲ್ಲಿ (Dustbin)",
+        "ಚರಂಡಿಯಲ್ಲಿ"
+      ],
       "answer": "ಕಸದ ಬುಟ್ಟಿಯಲ್ಲಿ (Dustbin)",
       "reasoning": "ಚಹಾ ಎಲೆಗಳು ಮತ್ತು ಆಹಾರದ ಉಳಿಕೆಗಳಂತಹ ಘನ ತ್ಯಾಜ್ಯಗಳನ್ನು ಯಾವಾಗಲೂ ಕಸದ ಬುಟ್ಟಿಗೆ ಎಸೆಯಬೇಕು, ಏಕೆಂದರೆ ಅವು ಚರಂಡಿಗಳನ್ನು ಕಟ್ಟಿಕೊಳ್ಳುವಂತೆ ಮಾಡಬಹುದು."
     }
@@ -174,13 +286,23 @@
     "difficulty": 1,
     "en": {
       "question": "What happens if we drink untreated or contaminated water?",
-      "options": ["We get more energy", "We may suffer from water-borne diseases like cholera and typhoid", "Our eyesight improves", "Nothing happens"],
+      "options": [
+        "We get more energy",
+        "We may suffer from water-borne diseases like cholera and typhoid",
+        "Our eyesight improves",
+        "Nothing happens"
+      ],
       "answer": "We may suffer from water-borne diseases like cholera and typhoid",
       "reasoning": "Untreated water contains disease-causing microbes that can lead to water-borne diseases such as cholera, typhoid, polio, meningitis, and hepatitis."
     },
     "kn": {
       "question": "ನಾವು ಸಂಸ್ಕರಿಸದ ಅಥವಾ ಕಲುಷಿತ ನೀರನ್ನು ಕುಡಿದರೆ ಏನಾಗುತ್ತದೆ?",
-      "options": ["ನಮಗೆ ಹೆಚ್ಚು ಶಕ್ತಿ ಸಿಗುತ್ತದೆ", "ನಾವು ಕಾಲರಾ ಮತ್ತು ಟೈಫಾಯಿಡ್‌ನಂತಹ ನೀರಿನಿಂದ ಹರಡುವ ರೋಗಗಳಿಂದ ಬಳಲಬಹುದು", "ನಮ್ಮ ದೃಷ್ಟಿ ಸುಧಾರಿಸುತ್ತದೆ", "ಏನೂ ಆಗುವುದಿಲ್ಲ"],
+      "options": [
+        "ನಮಗೆ ಹೆಚ್ಚು ಶಕ್ತಿ ಸಿಗುತ್ತದೆ",
+        "ನಾವು ಕಾಲರಾ ಮತ್ತು ಟೈಫಾಯಿಡ್‌ನಂತಹ ನೀರಿನಿಂದ ಹರಡುವ ರೋಗಗಳಿಂದ ಬಳಲಬಹುದು",
+        "ನಮ್ಮ ದೃಷ್ಟಿ ಸುಧಾರಿಸುತ್ತದೆ",
+        "ಏನೂ ಆಗುವುದಿಲ್ಲ"
+      ],
       "answer": "ನಾವು ಕಾಲರಾ ಮತ್ತು ಟೈಫಾಯಿಡ್‌ನಂತಹ ನೀರಿನಿಂದ ಹರಡುವ ರೋಗಗಳಿಂದ ಬಳಲಬಹುದು",
       "reasoning": "ಸಂಸ್ಕರಿಸದ ನೀರಿನಲ್ಲಿ ರೋಗ-ಉಂಟುಮಾಡುವ ಸೂಕ್ಷ್ಮಜೀವಿಗಳಿರುತ್ತವೆ, ಇದು ಕಾಲರಾ, ಟೈಫಾಯಿಡ್, ಪೋಲಿಯೊ ಮತ್ತು ಹೆಪಟೈಟಿಸ್‌ನಂತಹ ನೀರಿನಿಂದ ಹರಡುವ ರೋಗಗಳಿಗೆ ಕಾರಣವಾಗಬಹುದು."
     }
@@ -191,7 +313,7 @@
     "difficulty": 2,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M50 50 L250 50 L200 150 L100 150 Z' fill='#E5E7EB' stroke='#1F2937' stroke-width='2'/><path d='M100 150 L200 150 L180 180 L120 180 Z' fill='#8B4513' stroke='#1F2937' stroke-width='2'/><path d='M50 80 L250 80 L200 150 L100 150 Z' fill='#3B82F6' opacity='0.5'/><line x1='150' y1='20' x2='150' y2='170' stroke='#DC2626' stroke-width='4'/><polygon points='150,170 140,160 160,160' fill='#DC2626'/><text x='200' y='170' font-family='Arial' font-size='12'>Settled solid waste</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M50 50 L250 50 L200 150 L100 150 Z' fill='#E5E7EB' stroke='#1F2937' stroke-width='2'/><path d='M100 150 L200 150 L180 180 L120 180 Z' fill='#8B4513' stroke='#1F2937' stroke-width='2'/><path d='M50 80 L250 80 L200 150 L100 150 Z' fill='#3B82F6' opacity='0.5'/><line x1='150' y1='20' x2='150' y2='170' stroke='#DC2626' stroke-width='4'/><polygon points='150,170 140,160 160,160' fill='#DC2626'/><text x='200' y='170' font-family='Arial' font-size='12'>Settled solid waste</text></svg>",
       "alt": {
         "en": "Diagram of a large tank sloping towards the middle where solid waste settles at the bottom",
         "kn": "ಮಧ್ಯದ ಕಡೆಗೆ ಇಳಿಜಾರಾಗಿರುವ ದೊಡ್ಡ ಟ್ಯಾಂಕ್‌ನ ರೇಖಾಚಿತ್ರ, ಅಲ್ಲಿ ಘನ ತ್ಯಾಜ್ಯವು ತಳದಲ್ಲಿ ನೆಲೆಗೊಳ್ಳುತ್ತದೆ"
@@ -199,13 +321,23 @@
     },
     "en": {
       "question": "In a wastewater treatment plant, what is the solid faeces that settles at the bottom of the clarifier tank called?",
-      "options": ["Scum", "Sludge", "Biogas", "Grit"],
+      "options": [
+        "Scum",
+        "Sludge",
+        "Biogas",
+        "Grit"
+      ],
       "answer": "Sludge",
       "reasoning": "The solid faeces that settles at the bottom of the primary clarifier tank is called sludge. It is removed with a scraper."
     },
     "kn": {
       "question": "ತ್ಯಾಜ್ಯನೀರು ಸಂಸ್ಕರಣಾ ಘಟಕದಲ್ಲಿ, ಕ್ಲಾರಿಫೈಯರ್ ಟ್ಯಾಂಕ್‌ನ ತಳದಲ್ಲಿ ನೆಲೆಗೊಳ್ಳುವ ಘನ ಮಲವನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
-      "options": ["ಸ್ಕಮ್ (Scum)", "ಕೆಸರು (Sludge)", "ಬಯೋಗ್ಯಾಸ್", "ಮರಳು (Grit)"],
+      "options": [
+        "ಸ್ಕಮ್ (Scum)",
+        "ಕೆಸರು (Sludge)",
+        "ಬಯೋಗ್ಯಾಸ್",
+        "ಮರಳು (Grit)"
+      ],
       "answer": "ಕೆಸರು (Sludge)",
       "reasoning": "ಪ್ರಾಥಮಿಕ ಕ್ಲಾರಿಫೈಯರ್ ಟ್ಯಾಂಕ್‌ನ ತಳದಲ್ಲಿ ನೆಲೆಗೊಳ್ಳುವ ಘನ ತ್ಯಾಜ್ಯವನ್ನು ಕೆಸರು (sludge) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದನ್ನು ಸ್ಕ್ರೇಪರ್ (scraper) ಮೂಲಕ ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ."
     }
@@ -216,13 +348,23 @@
     "difficulty": 2,
     "en": {
       "question": "How is 'scum' (like oil and grease) removed from the surface of wastewater in a clarifier?",
-      "options": ["Using a bar screen", "Using a skimmer", "Using a heater", "Using an aerator"],
+      "options": [
+        "Using a bar screen",
+        "Using a skimmer",
+        "Using a heater",
+        "Using an aerator"
+      ],
       "answer": "Using a skimmer",
       "reasoning": "A skimmer removes the floatable solids like oil and grease. Water so cleared is called clarified water."
     },
     "kn": {
       "question": "ಕ್ಲಾರಿಫೈಯರ್ ಟ್ಯಾಂಕ್‌ನಲ್ಲಿ ತ್ಯಾಜ್ಯನೀರಿನ ಮೇಲ್ಮೈಯಿಂದ 'ಸ್ಕಮ್' (ಎಣ್ಣೆ ಮತ್ತು ಜಿಡ್ಡು) ಅನ್ನು ಹೇಗೆ ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ?",
-      "options": ["ಕಬ್ಬಿಣದ ಜಾಲರಿ (bar screen) ಬಳಸಿ", "ಸ್ಕಿಮ್ಮರ್ (skimmer) ಬಳಸಿ", "ಹೀಟರ್ ಬಳಸಿ", "ಏರೇಟರ್ (aerator) ಬಳಸಿ"],
+      "options": [
+        "ಕಬ್ಬಿಣದ ಜಾಲರಿ (bar screen) ಬಳಸಿ",
+        "ಸ್ಕಿಮ್ಮರ್ (skimmer) ಬಳಸಿ",
+        "ಹೀಟರ್ ಬಳಸಿ",
+        "ಏರೇಟರ್ (aerator) ಬಳಸಿ"
+      ],
       "answer": "ಸ್ಕಿಮ್ಮರ್ (skimmer) ಬಳಸಿ",
       "reasoning": "ತೇಲುವ ಘನವಸ್ತುಗಳಾದ ಎಣ್ಣೆ ಮತ್ತು ಜಿಡ್ಡನ್ನು ಸ್ಕಿಮ್ಮರ್ ತೆಗೆದುಹಾಕುತ್ತದೆ. ಈ ರೀತಿ ಸ್ವಚ್ಛಗೊಳಿಸಿದ ನೀರನ್ನು ಸ್ಪಷ್ಟೀಕರಿಸಿದ ನೀರು (clarified water) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
     }
@@ -233,13 +375,23 @@
     "difficulty": 2,
     "en": {
       "question": "What is the purpose of pumping air into the clarified water in the aeration tank?",
-      "options": ["To cool the water", "To kill all bacteria", "To help aerobic bacteria grow and consume human waste", "To add oxygen for fishes"],
+      "options": [
+        "To cool the water",
+        "To kill all bacteria",
+        "To help aerobic bacteria grow and consume human waste",
+        "To add oxygen for fishes"
+      ],
       "answer": "To help aerobic bacteria grow and consume human waste",
       "reasoning": "Air is pumped into the clarified water to help aerobic bacteria grow. These bacteria consume human waste, food waste, and other unwanted matter still remaining in the water."
     },
     "kn": {
       "question": "ಏರೇಶನ್ ಟ್ಯಾಂಕ್‌ನಲ್ಲಿ ಸ್ಪಷ್ಟೀಕರಿಸಿದ ನೀರಿಗೆ ಗಾಳಿಯನ್ನು ಪಂಪ್ ಮಾಡುವ ಉದ್ದೇಶವೇನು?",
-      "options": ["ನೀರನ್ನು ತಂಪುಗೊಳಿಸಲು", "ಎಲ್ಲಾ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳನ್ನು ಕೊಲ್ಲಲು", "ಏರೋಬಿಕ್ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ಬೆಳೆಯಲು ಮತ್ತು ಮಾನವ ತ್ಯಾಜ್ಯವನ್ನು ಸೇವಿಸಲು ಸಹಾಯ ಮಾಡಲು", "ಮೀನುಗಳಿಗೆ ಆಮ್ಲಜನಕವನ್ನು ಸೇರಿಸಲು"],
+      "options": [
+        "ನೀರನ್ನು ತಂಪುಗೊಳಿಸಲು",
+        "ಎಲ್ಲಾ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳನ್ನು ಕೊಲ್ಲಲು",
+        "ಏರೋಬಿಕ್ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ಬೆಳೆಯಲು ಮತ್ತು ಮಾನವ ತ್ಯಾಜ್ಯವನ್ನು ಸೇವಿಸಲು ಸಹಾಯ ಮಾಡಲು",
+        "ಮೀನುಗಳಿಗೆ ಆಮ್ಲಜನಕವನ್ನು ಸೇರಿಸಲು"
+      ],
       "answer": "ಏರೋಬಿಕ್ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ಬೆಳೆಯಲು ಮತ್ತು ಮಾನವ ತ್ಯಾಜ್ಯವನ್ನು ಸೇವಿಸಲು ಸಹಾಯ ಮಾಡಲು",
       "reasoning": "ಏರೋಬಿಕ್ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ಬೆಳೆಯಲು ಸಹಾಯ ಮಾಡಲು ಗಾಳಿಯನ್ನು ಪಂಪ್ ಮಾಡಲಾಗುತ್ತದೆ. ಈ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ನೀರಿನಲ್ಲಿ ಉಳಿದಿರುವ ಮಾನವ ತ್ಯಾಜ್ಯ, ಆಹಾರ ತ್ಯಾಜ್ಯ ಇತ್ಯಾದಿಗಳನ್ನು ಸೇವಿಸುತ್ತವೆ."
     }
@@ -250,13 +402,23 @@
     "difficulty": 2,
     "en": {
       "question": "What is the gas produced when anaerobic bacteria decompose sludge?",
-      "options": ["Oxygen", "Biogas", "Nitrogen", "Ozone"],
+      "options": [
+        "Oxygen",
+        "Biogas",
+        "Nitrogen",
+        "Ozone"
+      ],
       "answer": "Biogas",
       "reasoning": "The sludge is transferred to a separate tank where it is decomposed by anaerobic bacteria. The biogas produced in the process can be used as fuel or to produce electricity."
     },
     "kn": {
       "question": "ಅನೇರೋಬಿಕ್ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ಕೆಸರನ್ನು (sludge) ವಿಘಟಿಸಿದಾಗ ಉತ್ಪತ್ತಿಯಾಗುವ ಅನಿಲ ಯಾವುದು?",
-      "options": ["ಆಮ್ಲಜನಕ", "ಬಯೋಗ್ಯಾಸ್", "ಸಾರಜನಕ", "ಓಝೋನ್"],
+      "options": [
+        "ಆಮ್ಲಜನಕ",
+        "ಬಯೋಗ್ಯಾಸ್",
+        "ಸಾರಜನಕ",
+        "ಓಝೋನ್"
+      ],
       "answer": "ಬಯೋಗ್ಯಾಸ್",
       "reasoning": "ಕೆಸರನ್ನು ಪ್ರತ್ಯೇಕ ಟ್ಯಾಂಕ್‌ಗೆ ವರ್ಗಾಯಿಸಲಾಗುತ್ತದೆ, ಅಲ್ಲಿ ಅದು ಅನೇರೋಬಿಕ್ ಬ್ಯಾಕ್ಟೀರಿಯಾದಿಂದ ವಿಘಟನೆಗೊಳ್ಳುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ಉತ್ಪತ್ತಿಯಾಗುವ ಬಯೋಗ್ಯಾಸ್ ಅನ್ನು ಇಂಧನವಾಗಿ ಬಳಸಬಹುದು."
     }
@@ -268,20 +430,44 @@
     "en": {
       "question": "Match the Wastewater Treatment Plant step with its function:",
       "pairs": [
-        { "left": "Bar screens", "right": "Removes large objects like rags and plastics" },
-        { "left": "Grit and sand removal", "right": "Slowing down water to let sand settle" },
-        { "left": "Primary Clarifier", "right": "Sludge settles, skimmer removes grease" },
-        { "left": "Aeration Tank", "right": "Bacteria consume organic waste" }
+        {
+          "left": "Bar screens",
+          "right": "Removes large objects like rags and plastics"
+        },
+        {
+          "left": "Grit and sand removal",
+          "right": "Slowing down water to let sand settle"
+        },
+        {
+          "left": "Primary Clarifier",
+          "right": "Sludge settles, skimmer removes grease"
+        },
+        {
+          "left": "Aeration Tank",
+          "right": "Bacteria consume organic waste"
+        }
       ],
       "reasoning": "These are the sequential steps in treating wastewater: 1) screen large items, 2) settle grit, 3) settle sludge and skim oil, 4) aerate for bacteria to eat waste."
     },
     "kn": {
       "question": "ತ್ಯಾಜ್ಯನೀರು ಸಂಸ್ಕರಣಾ ಘಟಕದ ಹಂತವನ್ನು ಅದರ ಕಾರ್ಯದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
       "pairs": [
-        { "left": "ಕಬ್ಬಿಣದ ಜಾಲರಿ (Bar screens)", "right": "ಚಿಂದಿ ಮತ್ತು ಪ್ಲಾಸ್ಟಿಕ್‌ನಂತಹ ದೊಡ್ಡ ವಸ್ತುಗಳನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ" },
-        { "left": "ಮರಳು ಮತ್ತು ಮರಳುಗಲ್ಲು ತೆಗೆಯುವಿಕೆ", "right": "ಮರಳು ನೆಲೆಗೊಳ್ಳಲು ನೀರಿನ ವೇಗವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು" },
-        { "left": "ಪ್ರಾಥಮಿಕ ಕ್ಲಾರಿಫೈಯರ್", "right": "ಕೆಸರು ನೆಲೆಗೊಳ್ಳುತ್ತದೆ, ಸ್ಕಿಮ್ಮರ್ ಜಿಡ್ಡನ್ನು ತೆಗೆಯುತ್ತದೆ" },
-        { "left": "ಏರೇಶನ್ ಟ್ಯಾಂಕ್ (Aeration Tank)", "right": "ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ಸಾವಯವ ತ್ಯಾಜ್ಯವನ್ನು ಸೇವಿಸುತ್ತವೆ" }
+        {
+          "left": "ಕಬ್ಬಿಣದ ಜಾಲರಿ (Bar screens)",
+          "right": "ಚಿಂದಿ ಮತ್ತು ಪ್ಲಾಸ್ಟಿಕ್‌ನಂತಹ ದೊಡ್ಡ ವಸ್ತುಗಳನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ"
+        },
+        {
+          "left": "ಮರಳು ಮತ್ತು ಮರಳುಗಲ್ಲು ತೆಗೆಯುವಿಕೆ",
+          "right": "ಮರಳು ನೆಲೆಗೊಳ್ಳಲು ನೀರಿನ ವೇಗವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು"
+        },
+        {
+          "left": "ಪ್ರಾಥಮಿಕ ಕ್ಲಾರಿಫೈಯರ್",
+          "right": "ಕೆಸರು ನೆಲೆಗೊಳ್ಳುತ್ತದೆ, ಸ್ಕಿಮ್ಮರ್ ಜಿಡ್ಡನ್ನು ತೆಗೆಯುತ್ತದೆ"
+        },
+        {
+          "left": "ಏರೇಶನ್ ಟ್ಯಾಂಕ್ (Aeration Tank)",
+          "right": "ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ಸಾವಯವ ತ್ಯಾಜ್ಯವನ್ನು ಸೇವಿಸುತ್ತವೆ"
+        }
       ],
       "reasoning": "ಇವು ತ್ಯಾಜ್ಯನೀರು ಸಂಸ್ಕರಣೆಯ ಅನುಕ್ರಮ ಹಂತಗಳಾಗಿವೆ: 1) ದೊಡ್ಡ ವಸ್ತುಗಳನ್ನು ತಡೆಯುವುದು, 2) ಮರಳು ನೆಲೆಗೊಳ್ಳುವುದು, 3) ಕೆಸರು ನೆಲೆಗೊಳ್ಳುವುದು, 4) ಬ್ಯಾಕ್ಟೀರಿಯಾ ಬೆಳೆಯಲು ಗಾಳಿ ಹಾಕುವುದು."
     }
@@ -292,13 +478,23 @@
     "difficulty": 2,
     "en": {
       "question": "What is 'Activated Sludge'?",
-      "options": ["Sludge containing radioactive chemicals", "Sludge containing active aerobic bacteria that settles down in the secondary clarifier", "Sludge used to make plastic", "Sludge that floats on top"],
+      "options": [
+        "Sludge containing radioactive chemicals",
+        "Sludge containing active aerobic bacteria that settles down in the secondary clarifier",
+        "Sludge used to make plastic",
+        "Sludge that floats on top"
+      ],
       "answer": "Sludge containing active aerobic bacteria that settles down in the secondary clarifier",
       "reasoning": "After aeration, the microbes settle down at the bottom of the tank as 'activated sludge'. It is about 97% water. The water is removed and dried sludge is used as manure."
     },
     "kn": {
       "question": "'ಸಕ್ರಿಯ ಕೆಸರು' (Activated Sludge) ಎಂದರೇನು?",
-      "options": ["ವಿಕಿರಣಶೀಲ ರಾಸಾಯನಿಕಗಳನ್ನು ಹೊಂದಿರುವ ಕೆಸರು", "ದ್ವಿತೀಯ ಕ್ಲಾರಿಫೈಯರ್‌ನಲ್ಲಿ ನೆಲೆಗೊಳ್ಳುವ ಸಕ್ರಿಯ ಏರೋಬಿಕ್ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳನ್ನು ಹೊಂದಿರುವ ಕೆಸರು", "ಪ್ಲಾಸ್ಟಿಕ್ ತಯಾರಿಸಲು ಬಳಸುವ ಕೆಸರು", "ಮೇಲೆ ತೇಲುವ ಕೆಸರು"],
+      "options": [
+        "ವಿಕಿರಣಶೀಲ ರಾಸಾಯನಿಕಗಳನ್ನು ಹೊಂದಿರುವ ಕೆಸರು",
+        "ದ್ವಿತೀಯ ಕ್ಲಾರಿಫೈಯರ್‌ನಲ್ಲಿ ನೆಲೆಗೊಳ್ಳುವ ಸಕ್ರಿಯ ಏರೋಬಿಕ್ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳನ್ನು ಹೊಂದಿರುವ ಕೆಸರು",
+        "ಪ್ಲಾಸ್ಟಿಕ್ ತಯಾರಿಸಲು ಬಳಸುವ ಕೆಸರು",
+        "ಮೇಲೆ ತೇಲುವ ಕೆಸರು"
+      ],
       "answer": "ದ್ವಿತೀಯ ಕ್ಲಾರಿಫೈಯರ್‌ನಲ್ಲಿ ನೆಲೆಗೊಳ್ಳುವ ಸಕ್ರಿಯ ಏರೋಬಿಕ್ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳನ್ನು ಹೊಂದಿರುವ ಕೆಸರು",
       "reasoning": "ಏರೇಶನ್ ನಂತರ, ಸೂಕ್ಷ್ಮಜೀವಿಗಳು ಟ್ಯಾಂಕ್‌ನ ತಳದಲ್ಲಿ 'ಸಕ್ರಿಯ ಕೆಸರು' ಆಗಿ ನೆಲೆಗೊಳ್ಳುತ್ತವೆ. ಇದರಲ್ಲಿ ಸುಮಾರು 97% ನೀರಿರುತ್ತದೆ. ನೀರನ್ನು ತೆಗೆದುಹಾಕಿದ ಒಣಗಿದ ಕೆಸರನ್ನು ಗೊಬ್ಬರವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ."
     }
@@ -309,14 +505,30 @@
     "difficulty": 2,
     "en": {
       "question": "Which of the following chemicals can be used to disinfect treated water before releasing it into the distribution system?",
-      "options": ["Chlorine", "Oxygen", "Ozone", "Oil"],
-      "answer": ["Chlorine", "Ozone"],
+      "options": [
+        "Chlorine",
+        "Oxygen",
+        "Ozone",
+        "Oil"
+      ],
+      "answer": [
+        "Chlorine",
+        "Ozone"
+      ],
       "reasoning": "Sometimes it is necessary to disinfect water with chemicals like chlorine and ozone before releasing it into the distribution system."
     },
     "kn": {
       "question": "ಸಂಸ್ಕರಿಸಿದ ನೀರನ್ನು ವಿತರಣಾ ವ್ಯವಸ್ಥೆಗೆ ಬಿಡುವ ಮೊದಲು ಅದನ್ನು ಸೋಂಕುಮುಕ್ತಗೊಳಿಸಲು ಕೆಳಗಿನ ಯಾವ ರಾಸಾಯನಿಕಗಳನ್ನು ಬಳಸಬಹುದು?",
-      "options": ["ಕ್ಲೋರಿನ್", "ಆಮ್ಲಜನಕ", "ಓಝೋನ್", "ಎಣ್ಣೆ"],
-      "answer": ["ಕ್ಲೋರಿನ್", "ಓಝೋನ್"],
+      "options": [
+        "ಕ್ಲೋರಿನ್",
+        "ಆಮ್ಲಜನಕ",
+        "ಓಝೋನ್",
+        "ಎಣ್ಣೆ"
+      ],
+      "answer": [
+        "ಕ್ಲೋರಿನ್",
+        "ಓಝೋನ್"
+      ],
       "reasoning": "ಕೆಲವೊಮ್ಮೆ ನೀರನ್ನು ವಿತರಣಾ ವ್ಯವಸ್ಥೆಗೆ ಬಿಡುವ ಮೊದಲು ಕ್ಲೋರಿನ್ ಮತ್ತು ಓಝೋನ್‌ನಂತಹ ರಾಸಾಯನಿಕಗಳೊಂದಿಗೆ ಸೋಂಕುಮುಕ್ತಗೊಳಿಸುವುದು ಅಗತ್ಯವಾಗಿರುತ್ತದೆ."
     }
   },
@@ -326,13 +538,23 @@
     "difficulty": 2,
     "en": {
       "question": "Why should paints, solvents, insecticides, and medicines NOT be thrown down the drain?",
-      "options": ["They may kill microbes that help purify water", "They will make the water smell good", "They will produce electricity", "They are too expensive"],
+      "options": [
+        "They may kill microbes that help purify water",
+        "They will make the water smell good",
+        "They will produce electricity",
+        "They are too expensive"
+      ],
       "answer": "They may kill microbes that help purify water",
       "reasoning": "Chemicals like paints, solvents, insecticides, motor oil, medicines may kill microbes that help purify water. So do not throw them down the drain."
     },
     "kn": {
       "question": "ಬಣ್ಣಗಳು, ದ್ರಾವಕಗಳು, ಕೀಟನಾಶಕಗಳು ಮತ್ತು ಔಷಧಿಗಳನ್ನು ಒಳಚರಂಡಿಗೆ (ಸಿಂಕ್‌ಗೆ) ಏಕೆ ಸುರಿಯಬಾರದು?",
-      "options": ["ಅವು ನೀರನ್ನು ಶುದ್ಧೀಕರಿಸಲು ಸಹಾಯ ಮಾಡುವ ಸೂಕ್ಷ್ಮಜೀವಿಗಳನ್ನು ಕೊಲ್ಲಬಹುದು", "ಅವು ನೀರನ್ನು ಸುವಾಸನೆಗೊಳಿಸುತ್ತವೆ", "ಅವು ವಿದ್ಯುತ್ ಉತ್ಪಾದಿಸುತ್ತವೆ", "ಅವು ತುಂಬಾ ದುಬಾರಿ"],
+      "options": [
+        "ಅವು ನೀರನ್ನು ಶುದ್ಧೀಕರಿಸಲು ಸಹಾಯ ಮಾಡುವ ಸೂಕ್ಷ್ಮಜೀವಿಗಳನ್ನು ಕೊಲ್ಲಬಹುದು",
+        "ಅವು ನೀರನ್ನು ಸುವಾಸನೆಗೊಳಿಸುತ್ತವೆ",
+        "ಅವು ವಿದ್ಯುತ್ ಉತ್ಪಾದಿಸುತ್ತವೆ",
+        "ಅವು ತುಂಬಾ ದುಬಾರಿ"
+      ],
       "answer": "ಅವು ನೀರನ್ನು ಶುದ್ಧೀಕರಿಸಲು ಸಹಾಯ ಮಾಡುವ ಸೂಕ್ಷ್ಮಜೀವಿಗಳನ್ನು ಕೊಲ್ಲಬಹುದು",
       "reasoning": "ಬಣ್ಣಗಳು, ಕೀಟನಾಶಕಗಳು ಮತ್ತು ಔಷಧಿಗಳಂತಹ ರಾಸಾಯನಿಕಗಳು ನೀರನ್ನು ಶುದ್ಧೀಕರಿಸಲು ಸಹಾಯ ಮಾಡುವ ಉಪಯುಕ್ತ ಸೂಕ್ಷ್ಮಜೀವಿಗಳನ್ನು ಕೊಲ್ಲಬಹುದು. ಹಾಗಾಗಿ ಅವನ್ನು ಚರಂಡಿಗೆ ಸುರಿಯಬಾರದು."
     }
@@ -343,13 +565,23 @@
     "difficulty": 2,
     "en": {
       "question": "What is a 'Vermi-processing toilet'?",
-      "options": ["A toilet cleaned by robots", "A toilet where human excreta is treated by earthworms", "A toilet without water", "A toilet made of plastic"],
+      "options": [
+        "A toilet cleaned by robots",
+        "A toilet where human excreta is treated by earthworms",
+        "A toilet without water",
+        "A toilet made of plastic"
+      ],
       "answer": "A toilet where human excreta is treated by earthworms",
       "reasoning": "A design of a toilet in which human excreta is treated by earthworms has been tested. The earthworms eat the waste and produce valuable compost."
     },
     "kn": {
       "question": "'ಎರೆಹುಳು-ಸಂಸ್ಕರಣಾ ಶೌಚಾಲಯ' (Vermi-processing toilet) ಎಂದರೇನು?",
-      "options": ["ರೋಬೋಟ್‌ಗಳು ಸ್ವಚ್ಛಗೊಳಿಸುವ ಶೌಚಾಲಯ", "ಎರೆಹುಳುಗಳ ಮೂಲಕ ಮಾನವ ಮಲವನ್ನು ಸಂಸ್ಕರಿಸುವ ಶೌಚಾಲಯ", "ನೀರಿಲ್ಲದ ಶೌಚಾಲಯ", "ಪ್ಲಾಸ್ಟಿಕ್‌ನಿಂದ ಮಾಡಿದ ಶೌಚಾಲಯ"],
+      "options": [
+        "ರೋಬೋಟ್‌ಗಳು ಸ್ವಚ್ಛಗೊಳಿಸುವ ಶೌಚಾಲಯ",
+        "ಎರೆಹುಳುಗಳ ಮೂಲಕ ಮಾನವ ಮಲವನ್ನು ಸಂಸ್ಕರಿಸುವ ಶೌಚಾಲಯ",
+        "ನೀರಿಲ್ಲದ ಶೌಚಾಲಯ",
+        "ಪ್ಲಾಸ್ಟಿಕ್‌ನಿಂದ ಮಾಡಿದ ಶೌಚಾಲಯ"
+      ],
       "answer": "ಎರೆಹುಳುಗಳ ಮೂಲಕ ಮಾನವ ಮಲವನ್ನು ಸಂಸ್ಕರಿಸುವ ಶೌಚಾಲಯ",
       "reasoning": "ಮಾನವ ಮಲವನ್ನು ಎರೆಹುಳುಗಳಿಂದ ಸಂಸ್ಕರಿಸುವ ಶೌಚಾಲಯದ ವಿನ್ಯಾಸವನ್ನು ಪರೀಕ್ಷಿಸಲಾಗಿದೆ. ಎರೆಹುಳುಗಳು ತ್ಯಾಜ್ಯವನ್ನು ತಿಂದು ಬೆಲೆಬಾಳುವ ಗೊಬ್ಬರವನ್ನು ಉತ್ಪಾದಿಸುತ್ತವೆ."
     }
@@ -368,13 +600,23 @@
     },
     "en": {
       "question": "What negative consequence will the action shown in the image cause?",
-      "options": ["It will make the water smell pleasant", "Fats will clog the soil pores in open drains, reducing water filtration", "It will kill the mosquitoes in the drain", "It will generate biogas immediately in the sink"],
+      "options": [
+        "It will make the water smell pleasant",
+        "Fats will clog the soil pores in open drains, reducing water filtration",
+        "It will kill the mosquitoes in the drain",
+        "It will generate biogas immediately in the sink"
+      ],
       "answer": "Fats will clog the soil pores in open drains, reducing water filtration",
       "reasoning": "Cooking oil and fats should be thrown in the dustbin. In open drains, fats clog the soil pores reducing its effectiveness in filtering water, and in pipes they harden and block them."
     },
     "kn": {
       "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಕ್ರಿಯೆಯು ಯಾವ ನಕಾರಾತ್ಮಕ ಪರಿಣಾಮವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ?",
-      "options": ["ಇದು ನೀರನ್ನು ಸುವಾಸನೆಗೊಳಿಸುತ್ತದೆ", "ಕೊಬ್ಬುಗಳು ತೆರೆದ ಚರಂಡಿಗಳಲ್ಲಿ ಮಣ್ಣಿನ ರಂಧ್ರಗಳನ್ನು ಮುಚ್ಚಿ, ನೀರು ಶೋಧನೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತವೆ", "ಇದು ಚರಂಡಿಯಲ್ಲಿರುವ ಸೊಳ್ಳೆಗಳನ್ನು ಕೊಲ್ಲುತ್ತದೆ", "ಇದು ಸಿಂಕ್‌ನಲ್ಲಿ ತಕ್ಷಣ ಬಯೋಗ್ಯಾಸ್ ಅನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ"],
+      "options": [
+        "ಇದು ನೀರನ್ನು ಸುವಾಸನೆಗೊಳಿಸುತ್ತದೆ",
+        "ಕೊಬ್ಬುಗಳು ತೆರೆದ ಚರಂಡಿಗಳಲ್ಲಿ ಮಣ್ಣಿನ ರಂಧ್ರಗಳನ್ನು ಮುಚ್ಚಿ, ನೀರು ಶೋಧನೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತವೆ",
+        "ಇದು ಚರಂಡಿಯಲ್ಲಿರುವ ಸೊಳ್ಳೆಗಳನ್ನು ಕೊಲ್ಲುತ್ತದೆ",
+        "ಇದು ಸಿಂಕ್‌ನಲ್ಲಿ ತಕ್ಷಣ ಬಯೋಗ್ಯಾಸ್ ಅನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ"
+      ],
       "answer": "ಕೊಬ್ಬುಗಳು ತೆರೆದ ಚರಂಡಿಗಳಲ್ಲಿ ಮಣ್ಣಿನ ರಂಧ್ರಗಳನ್ನು ಮುಚ್ಚಿ, ನೀರು ಶೋಧನೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತವೆ",
       "reasoning": "ಅಡುಗೆ ಎಣ್ಣೆಯನ್ನು ಕಸದ ಬುಟ್ಟಿಗೆ ಎಸೆಯಬೇಕು. ತೆರೆದ ಚರಂಡಿಗಳಲ್ಲಿ, ಕೊಬ್ಬು ಮಣ್ಣಿನ ರಂಧ್ರಗಳನ್ನು ಮುಚ್ಚಿ ನೀರನ್ನು ಫಿಲ್ಟರ್ ಮಾಡುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ ಮತ್ತು ಕೊಳವೆಗಳಲ್ಲಿ ಗಟ್ಟಿಯಾಗಿ ಮುಚ್ಚಿಹಾಕುತ್ತದೆ."
     }
@@ -385,13 +627,23 @@
     "difficulty": 3,
     "en": {
       "question": "Where are septic tanks suitable for use?",
-      "options": ["In large modern cities with sewerage networks", "Places where there is no sewerage system, for hospitals or isolated buildings", "On ships only", "Inside the wastewater treatment plant"],
+      "options": [
+        "In large modern cities with sewerage networks",
+        "Places where there is no sewerage system, for hospitals or isolated buildings",
+        "On ships only",
+        "Inside the wastewater treatment plant"
+      ],
       "answer": "Places where there is no sewerage system, for hospitals or isolated buildings",
       "reasoning": "Septic tanks are suitable for places where there is no sewerage system, for hospitals, isolated buildings or a cluster of 4 to 5 houses."
     },
     "kn": {
       "question": "ಸೆಪ್ಟಿಕ್ ಟ್ಯಾಂಕ್‌ಗಳ (septic tanks) ಬಳಕೆಗೆ ಯಾವ ಸ್ಥಳಗಳು ಸೂಕ್ತವಾಗಿವೆ?",
-      "options": ["ಒಳಚರಂಡಿ ಜಾಲಗಳನ್ನು ಹೊಂದಿರುವ ದೊಡ್ಡ ಆಧುನಿಕ ನಗರಗಳಲ್ಲಿ", "ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಇಲ್ಲದಿರುವ ಸ್ಥಳಗಳಲ್ಲಿ, ಆಸ್ಪತ್ರೆಗಳು ಅಥವಾ ಪ್ರತ್ಯೇಕ ಕಟ್ಟಡಗಳಲ್ಲಿ", "ಹಡಗುಗಳಲ್ಲಿ ಮಾತ್ರ", "ತ್ಯಾಜ್ಯನೀರು ಸಂಸ್ಕರಣಾ ಘಟಕದ ಒಳಗೆ"],
+      "options": [
+        "ಒಳಚರಂಡಿ ಜಾಲಗಳನ್ನು ಹೊಂದಿರುವ ದೊಡ್ಡ ಆಧುನಿಕ ನಗರಗಳಲ್ಲಿ",
+        "ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಇಲ್ಲದಿರುವ ಸ್ಥಳಗಳಲ್ಲಿ, ಆಸ್ಪತ್ರೆಗಳು ಅಥವಾ ಪ್ರತ್ಯೇಕ ಕಟ್ಟಡಗಳಲ್ಲಿ",
+        "ಹಡಗುಗಳಲ್ಲಿ ಮಾತ್ರ",
+        "ತ್ಯಾಜ್ಯನೀರು ಸಂಸ್ಕರಣಾ ಘಟಕದ ಒಳಗೆ"
+      ],
       "answer": "ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಇಲ್ಲದಿರುವ ಸ್ಥಳಗಳಲ್ಲಿ, ಆಸ್ಪತ್ರೆಗಳು ಅಥವಾ ಪ್ರತ್ಯೇಕ ಕಟ್ಟಡಗಳಲ್ಲಿ",
       "reasoning": "ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಇಲ್ಲದ ಸ್ಥಳಗಳಿಗೆ, ಆಸ್ಪತ್ರೆಗಳಿಗೆ, ಪ್ರತ್ಯೇಕ ಕಟ್ಟಡಗಳಿಗೆ ಅಥವಾ 4 ರಿಂದ 5 ಮನೆಗಳ ಗುಂಪಿಗೆ ಸೆಪ್ಟಿಕ್ ಟ್ಯಾಂಕ್‌ಗಳು ಸೂಕ್ತವಾಗಿವೆ."
     }
@@ -402,14 +654,30 @@
     "difficulty": 3,
     "en": {
       "question": "Which of the following diseases are caused by drinking contaminated water containing untreated human excreta?",
-      "options": ["Cholera", "Malaria", "Typhoid", "Diabetes"],
-      "answer": ["Cholera", "Typhoid"],
+      "options": [
+        "Cholera",
+        "Malaria",
+        "Typhoid",
+        "Diabetes"
+      ],
+      "answer": [
+        "Cholera",
+        "Typhoid"
+      ],
       "reasoning": "Untreated human excreta causes water pollution. It contains bacteria that cause water-borne diseases like cholera, typhoid, polio, meningitis, and hepatitis. Malaria is spread by mosquitoes, and diabetes is not an infectious disease."
     },
     "kn": {
       "question": "ಸಂಸ್ಕರಿಸದ ಮಾನವ ಮಲವನ್ನು ಒಳಗೊಂಡಿರುವ ಕಲುಷಿತ ನೀರನ್ನು ಕುಡಿಯುವುದರಿಂದ ಕೆಳಗಿನ ಯಾವ ರೋಗಗಳು ಉಂಟಾಗುತ್ತವೆ?",
-      "options": ["ಕಾಲರಾ", "ಮಲೇರಿಯಾ", "ಟೈಫಾಯಿಡ್", "ಮಧುಮೇಹ (Diabetes)"],
-      "answer": ["ಕಾಲರಾ", "ಟೈಫಾಯಿಡ್"],
+      "options": [
+        "ಕಾಲರಾ",
+        "ಮಲೇರಿಯಾ",
+        "ಟೈಫಾಯಿಡ್",
+        "ಮಧುಮೇಹ (Diabetes)"
+      ],
+      "answer": [
+        "ಕಾಲರಾ",
+        "ಟೈಫಾಯಿಡ್"
+      ],
       "reasoning": "ಸಂಸ್ಕರಿಸದ ಮಲವು ನೀರಿನ ಮಾಲಿನ್ಯವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಇದು ಕಾಲರಾ ಮತ್ತು ಟೈಫಾಯಿಡ್‌ನಂತಹ ರೋಗಗಳನ್ನು ಉಂಟುಮಾಡುವ ಬ್ಯಾಕ್ಟೀರಿಯಾವನ್ನು ಹೊಂದಿದೆ. ಮಲೇರಿಯಾವನ್ನು ಸೊಳ್ಳೆಗಳು ಹರಡುತ್ತವೆ."
     }
   },
@@ -419,13 +687,23 @@
     "difficulty": 3,
     "en": {
       "question": "What is the function of the 'grit and sand removal tank' in a WWTP?",
-      "options": ["To boil the water", "To decrease the speed of incoming wastewater so sand and grit settle down", "To add chlorine to the water", "To remove plastic bags"],
+      "options": [
+        "To boil the water",
+        "To decrease the speed of incoming wastewater so sand and grit settle down",
+        "To add chlorine to the water",
+        "To remove plastic bags"
+      ],
       "answer": "To decrease the speed of incoming wastewater so sand and grit settle down",
       "reasoning": "Water from the bar screens goes to a grit and sand removal tank. The speed of the incoming wastewater is decreased to allow sand, grit and pebbles to settle down."
     },
     "kn": {
       "question": "WWTP ಯಲ್ಲಿ 'ಮರಳು ಮತ್ತು ಮರಳುಗಲ್ಲು (grit) ತೆಗೆಯುವ ಟ್ಯಾಂಕ್‌'ನ ಕಾರ್ಯವೇನು?",
-      "options": ["ನೀರನ್ನು ಕುದಿಸುವುದು", "ಒಳಬರುವ ತ್ಯಾಜ್ಯನೀರಿನ ವೇಗವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು, ಇದರಿಂದ ಮರಳು ಮತ್ತು ಕಲ್ಲುಗಳು ನೆಲೆಗೊಳ್ಳುತ್ತವೆ", "ನೀರಿಗೆ ಕ್ಲೋರಿನ್ ಸೇರಿಸುವುದು", "ಪ್ಲಾಸ್ಟಿಕ್ ಚೀಲಗಳನ್ನು ತೆಗೆದುಹಾಕುವುದು"],
+      "options": [
+        "ನೀರನ್ನು ಕುದಿಸುವುದು",
+        "ಒಳಬರುವ ತ್ಯಾಜ್ಯನೀರಿನ ವೇಗವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು, ಇದರಿಂದ ಮರಳು ಮತ್ತು ಕಲ್ಲುಗಳು ನೆಲೆಗೊಳ್ಳುತ್ತವೆ",
+        "ನೀರಿಗೆ ಕ್ಲೋರಿನ್ ಸೇರಿಸುವುದು",
+        "ಪ್ಲಾಸ್ಟಿಕ್ ಚೀಲಗಳನ್ನು ತೆಗೆದುಹಾಕುವುದು"
+      ],
       "answer": "ಒಳಬರುವ ತ್ಯಾಜ್ಯನೀರಿನ ವೇಗವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು, ಇದರಿಂದ ಮರಳು ಮತ್ತು ಕಲ್ಲುಗಳು ನೆಲೆಗೊಳ್ಳುತ್ತವೆ",
       "reasoning": "ಕಬ್ಬಿಣದ ಜಾಲರಿಗಳಿಂದ ನೀರು ಮರಳು ತೆಗೆಯುವ ಟ್ಯಾಂಕ್‌ಗೆ ಹೋಗುತ್ತದೆ. ಮರಳು ಮತ್ತು ಸಣ್ಣ ಕಲ್ಲುಗಳು ತಳದಲ್ಲಿ ನೆಲೆಗೊಳ್ಳಲು ಅನುವು ಮಾಡಿಕೊಡಲು ಒಳಬರುವ ತ್ಯಾಜ್ಯನೀರಿನ ವೇಗವನ್ನು ಕಡಿಮೆ ಮಾಡಲಾಗುತ್ತದೆ."
     }
@@ -437,20 +715,44 @@
     "en": {
       "question": "Match the impurity type with its example found in sewage:",
       "pairs": [
-        { "left": "Organic impurities", "right": "Human faeces, animal waste, oil" },
-        { "left": "Inorganic impurities", "right": "Nitrates, Phosphates, Metals" },
-        { "left": "Nutrients", "right": "Phosphorus and Nitrogen" },
-        { "left": "Bacteria", "right": "Vibrio cholerae, Salmonella typhi" }
+        {
+          "left": "Organic impurities",
+          "right": "Human faeces, animal waste, oil"
+        },
+        {
+          "left": "Inorganic impurities",
+          "right": "Nitrates, Phosphates, Metals"
+        },
+        {
+          "left": "Nutrients",
+          "right": "Phosphorus and Nitrogen"
+        },
+        {
+          "left": "Bacteria",
+          "right": "Vibrio cholerae, Salmonella typhi"
+        }
       ],
       "reasoning": "Sewage contains organic waste (faeces, oil), inorganic impurities (nitrates, metals), nutrients (phosphorus), and disease-causing microbes (bacteria)."
     },
     "kn": {
       "question": "ಕಲ್ಮಶದ ಪ್ರಕಾರವನ್ನು ಒಳಚರಂಡಿ ನೀರಿನಲ್ಲಿ ಕಂಡುಬರುವ ಅದರ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
       "pairs": [
-        { "left": "ಸಾವಯವ ಕಲ್ಮಶಗಳು", "right": "ಮಾನವ ಮಲ, ಪ್ರಾಣಿಗಳ ತ್ಯಾಜ್ಯ, ಎಣ್ಣೆ" },
-        { "left": "ಅಜೈವಿಕ ಕಲ್ಮಶಗಳು", "right": "ನೈಟ್ರೇಟ್‌ಗಳು, ಫಾಸ್ಫೇಟ್‌ಗಳು, ಲೋಹಗಳು" },
-        { "left": "ಪೋಷಕಾಂಶಗಳು", "right": "ರಂಜಕ ಮತ್ತು ಸಾರಜನಕ" },
-        { "left": "ಬ್ಯಾಕ್ಟೀರಿಯಾ", "right": "ವಿಬ್ರಿಯೊ ಕಾಲರಾ, ಸಾಲ್ಮೊನೆಲ್ಲಾ ಟೈಫಿ" }
+        {
+          "left": "ಸಾವಯವ ಕಲ್ಮಶಗಳು",
+          "right": "ಮಾನವ ಮಲ, ಪ್ರಾಣಿಗಳ ತ್ಯಾಜ್ಯ, ಎಣ್ಣೆ"
+        },
+        {
+          "left": "ಅಜೈವಿಕ ಕಲ್ಮಶಗಳು",
+          "right": "ನೈಟ್ರೇಟ್‌ಗಳು, ಫಾಸ್ಫೇಟ್‌ಗಳು, ಲೋಹಗಳು"
+        },
+        {
+          "left": "ಪೋಷಕಾಂಶಗಳು",
+          "right": "ರಂಜಕ ಮತ್ತು ಸಾರಜನಕ"
+        },
+        {
+          "left": "ಬ್ಯಾಕ್ಟೀರಿಯಾ",
+          "right": "ವಿಬ್ರಿಯೊ ಕಾಲರಾ, ಸಾಲ್ಮೊನೆಲ್ಲಾ ಟೈಫಿ"
+        }
       ],
       "reasoning": "ತ್ಯಾಜ್ಯನೀರು ಸಾವಯವ ತ್ಯಾಜ್ಯ (ಮಲ), ಅಜೈವಿಕ ಕಲ್ಮಶಗಳು (ಲೋಹಗಳು), ಪೋಷಕಾಂಶಗಳು ಮತ್ತು ರೋಗ-ಉಂಟುಮಾಡುವ ಸೂಕ್ಷ್ಮಜೀವಿಗಳನ್ನು (ಬ್ಯಾಕ್ಟೀರಿಯಾ) ಒಳಗೊಂಡಿದೆ."
     }
@@ -461,13 +763,23 @@
     "difficulty": 3,
     "en": {
       "question": "Eucalyptus trees are often planted all along sewage ponds. Why?",
-      "options": ["To provide timber for the WWTP", "Because they absorb all surplus wastewater rapidly and release pure water vapour", "To provide shade for the bacteria", "To stop the bad smell completely"],
+      "options": [
+        "To provide timber for the WWTP",
+        "Because they absorb all surplus wastewater rapidly and release pure water vapour",
+        "To provide shade for the bacteria",
+        "To stop the bad smell completely"
+      ],
       "answer": "Because they absorb all surplus wastewater rapidly and release pure water vapour",
       "reasoning": "Eucalyptus trees absorb all surplus wastewater rapidly and release pure water vapour into the atmosphere, making them very useful along sewage ponds."
     },
     "kn": {
       "question": "ನೀಲಗಿರಿ (Eucalyptus) ಮರಗಳನ್ನು ಹೆಚ್ಚಾಗಿ ಒಳಚರಂಡಿ ಕೊಳಗಳ ಉದ್ದಕ್ಕೂ ಏಕೆ ನೆಡಲಾಗುತ್ತದೆ?",
-      "options": ["WWTP ಗೆ ಮರಮುಟ್ಟು ಒದಗಿಸಲು", "ಏಕೆಂದರೆ ಅವು ಎಲ್ಲಾ ಹೆಚ್ಚುವರಿ ತ್ಯಾಜ್ಯನೀರನ್ನು ವೇಗವಾಗಿ ಹೀರಿಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ಶುದ್ಧ ನೀರಿನ ಆವಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ", "ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳಿಗೆ ನೆರಳು ನೀಡಲು", "ಕೆಟ್ಟ ವಾಸನೆಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತಡೆಯಲು"],
+      "options": [
+        "WWTP ಗೆ ಮರಮುಟ್ಟು ಒದಗಿಸಲು",
+        "ಏಕೆಂದರೆ ಅವು ಎಲ್ಲಾ ಹೆಚ್ಚುವರಿ ತ್ಯಾಜ್ಯನೀರನ್ನು ವೇಗವಾಗಿ ಹೀರಿಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ಶುದ್ಧ ನೀರಿನ ಆವಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ",
+        "ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳಿಗೆ ನೆರಳು ನೀಡಲು",
+        "ಕೆಟ್ಟ ವಾಸನೆಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತಡೆಯಲು"
+      ],
       "answer": "ಏಕೆಂದರೆ ಅವು ಎಲ್ಲಾ ಹೆಚ್ಚುವರಿ ತ್ಯಾಜ್ಯನೀರನ್ನು ವೇಗವಾಗಿ ಹೀರಿಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ಶುದ್ಧ ನೀರಿನ ಆವಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ",
       "reasoning": "ನೀಲಗಿರಿ ಮರಗಳು ಹೆಚ್ಚುವರಿ ತ್ಯಾಜ್ಯನೀರನ್ನು ವೇಗವಾಗಿ ಹೀರಿಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ಶುದ್ಧ ನೀರಿನ ಆವಿಯನ್ನು ವಾತಾವರಣಕ್ಕೆ ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ, ಆದ್ದರಿಂದ ಅವುಗಳನ್ನು ಒಳಚರಂಡಿ ಕೊಳಗಳ ಉದ್ದಕ್ಕೂ ನೆಡಲಾಗುತ್ತದೆ."
     }
@@ -478,7 +790,7 @@
     "difficulty": 3,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M50 150 L250 150 L250 50 L50 50 Z' fill='#DBEAFE' stroke='#1F2937' stroke-width='2'/><circle cx='100' cy='130' r='5' fill='white'/><circle cx='120' cy='100' r='8' fill='white'/><circle cx='150' cy='120' r='6' fill='white'/><circle cx='180' cy='90' r='7' fill='white'/><circle cx='200' cy='140' r='5' fill='white'/><circle cx='220' cy='110' r='9' fill='white'/><path d='M150 150 L150 170' stroke='#1F2937' stroke-width='6'/><path d='M100 170 L200 170' stroke='#1F2937' stroke-width='6'/><text x='150' y='30' font-family='Arial' font-size='12' text-anchor='middle'>Air being pumped in</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M50 150 L250 150 L250 50 L50 50 Z' fill='#DBEAFE' stroke='#1F2937' stroke-width='2'/><circle cx='100' cy='130' r='5' fill='white'/><circle cx='120' cy='100' r='8' fill='white'/><circle cx='150' cy='120' r='6' fill='white'/><circle cx='180' cy='90' r='7' fill='white'/><circle cx='200' cy='140' r='5' fill='white'/><circle cx='220' cy='110' r='9' fill='white'/><path d='M150 150 L150 170' stroke='#1F2937' stroke-width='6'/><path d='M100 170 L200 170' stroke='#1F2937' stroke-width='6'/><text x='150' y='30' font-family='Arial' font-size='12' text-anchor='middle'>Air being pumped in</text></svg>",
       "alt": {
         "en": "Diagram showing air bubbles being pumped into a tank of water",
         "kn": "ನೀರಿನ ಟ್ಯಾಂಕ್‌ಗೆ ಗಾಳಿಯ ಗುಳ್ಳೆಗಳನ್ನು ಪಂಪ್ ಮಾಡುವುದನ್ನು ತೋರಿಸುವ ರೇಖಾಚಿತ್ರ"
@@ -486,14 +798,30 @@
     },
     "en": {
       "question": "In the aeration tank shown in the diagram, what is the effect of pumping air into the clarified water?",
-      "options": ["It allows aerobic bacteria to grow", "It allows the bacteria to consume human waste", "It creates sludge at the top", "It removes plastic waste"],
-      "answer": ["It allows aerobic bacteria to grow", "It allows the bacteria to consume human waste"],
+      "options": [
+        "It allows aerobic bacteria to grow",
+        "It allows the bacteria to consume human waste",
+        "It creates sludge at the top",
+        "It removes plastic waste"
+      ],
+      "answer": [
+        "It allows aerobic bacteria to grow",
+        "It allows the bacteria to consume human waste"
+      ],
       "reasoning": "Air is pumped to help aerobic bacteria grow. These bacteria consume the organic matter (human waste, food waste) still remaining in the clarified water."
     },
     "kn": {
       "question": "ರೇಖಾಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಏರೇಶನ್ ಟ್ಯಾಂಕ್‌ನಲ್ಲಿ, ಸ್ಪಷ್ಟೀಕರಿಸಿದ ನೀರಿಗೆ ಗಾಳಿಯನ್ನು ಪಂಪ್ ಮಾಡುವುದರ ಪರಿಣಾಮವೇನು?",
-      "options": ["ಇದು ಏರೋಬಿಕ್ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳನ್ನು ಬೆಳೆಯಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ", "ಇದು ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳಿಗೆ ಮಾನವ ತ್ಯಾಜ್ಯವನ್ನು ಸೇವಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ", "ಇದು ಮೇಲ್ಭಾಗದಲ್ಲಿ ಕೆಸರನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ", "ಇದು ಪ್ಲಾಸ್ಟಿಕ್ ತ್ಯಾಜ್ಯವನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ"],
-      "answer": ["ಇದು ಏರೋಬಿಕ್ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳನ್ನು ಬೆಳೆಯಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ", "ಇದು ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳಿಗೆ ಮಾನವ ತ್ಯಾಜ್ಯವನ್ನು ಸೇವಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ"],
+      "options": [
+        "ಇದು ಏರೋಬಿಕ್ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳನ್ನು ಬೆಳೆಯಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ",
+        "ಇದು ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳಿಗೆ ಮಾನವ ತ್ಯಾಜ್ಯವನ್ನು ಸೇವಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ",
+        "ಇದು ಮೇಲ್ಭಾಗದಲ್ಲಿ ಕೆಸರನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ",
+        "ಇದು ಪ್ಲಾಸ್ಟಿಕ್ ತ್ಯಾಜ್ಯವನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ"
+      ],
+      "answer": [
+        "ಇದು ಏರೋಬಿಕ್ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳನ್ನು ಬೆಳೆಯಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ",
+        "ಇದು ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳಿಗೆ ಮಾನವ ತ್ಯಾಜ್ಯವನ್ನು ಸೇವಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ"
+      ],
       "reasoning": "ಏರೋಬಿಕ್ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ಬೆಳೆಯಲು ಗಾಳಿಯನ್ನು ಪಂಪ್ ಮಾಡಲಾಗುತ್ತದೆ. ಈ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ನೀರಿನಲ್ಲಿ ಉಳಿದಿರುವ ಸಾವಯವ ವಸ್ತುಗಳನ್ನು (ಮಾನವ ತ್ಯಾಜ್ಯ, ಆಹಾರ ತ್ಯಾಜ್ಯ) ಸೇವಿಸುತ್ತವೆ."
     }
   },
@@ -503,13 +831,23 @@
     "difficulty": 3,
     "en": {
       "question": "What is the final step for treating the 'activated sludge' after the water is removed from it?",
-      "options": ["It is thrown in the ocean", "It is dried and used as manure", "It is used as drinking water", "It is turned into plastic"],
+      "options": [
+        "It is thrown in the ocean",
+        "It is dried and used as manure",
+        "It is used as drinking water",
+        "It is turned into plastic"
+      ],
       "answer": "It is dried and used as manure",
       "reasoning": "The activated sludge is about 97% water. After the water is removed by sand drying beds or machines, the dried sludge is used as manure, returning organic matter to the soil."
     },
     "kn": {
       "question": "ನೀರನ್ನು ತೆಗೆದುಹಾಕಿದ ನಂತರ 'ಸಕ್ರಿಯ ಕೆಸರನ್ನು' (activated sludge) ಸಂಸ್ಕರಿಸುವ ಅಂತಿಮ ಹಂತ ಯಾವುದು?",
-      "options": ["ಅದನ್ನು ಸಾಗರಕ್ಕೆ ಎಸೆಯಲಾಗುತ್ತದೆ", "ಅದನ್ನು ಒಣಗಿಸಿ ಗೊಬ್ಬರವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ", "ಅದನ್ನು ಕುಡಿಯುವ ನೀರಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ", "ಅದನ್ನು ಪ್ಲಾಸ್ಟಿಕ್ ಆಗಿ ಪರಿವರ್ತಿಸಲಾಗುತ್ತದೆ"],
+      "options": [
+        "ಅದನ್ನು ಸಾಗರಕ್ಕೆ ಎಸೆಯಲಾಗುತ್ತದೆ",
+        "ಅದನ್ನು ಒಣಗಿಸಿ ಗೊಬ್ಬರವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ",
+        "ಅದನ್ನು ಕುಡಿಯುವ ನೀರಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ",
+        "ಅದನ್ನು ಪ್ಲಾಸ್ಟಿಕ್ ಆಗಿ ಪರಿವರ್ತಿಸಲಾಗುತ್ತದೆ"
+      ],
       "answer": "ಅದನ್ನು ಒಣಗಿಸಿ ಗೊಬ್ಬರವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ",
       "reasoning": "ಸಕ್ರಿಯ ಕೆಸರಿನಲ್ಲಿ ಸುಮಾರು 97% ನೀರಿರುತ್ತದೆ. ಮರಳು ಒಣಗಿಸುವ ಹಾಸಿಗೆಗಳು ಅಥವಾ ಯಂತ್ರಗಳ ಮೂಲಕ ನೀರನ್ನು ತೆಗೆದ ನಂತರ, ಒಣಗಿದ ಕೆಸರನ್ನು ಗೊಬ್ಬರವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ."
     }
@@ -520,13 +858,23 @@
     "difficulty": 3,
     "en": {
       "question": "Which of the following describes an on-site sewage disposal system?",
-      "options": ["A central city WWTP", "Bar screens", "Septic tanks and composting pits", "Open drains"],
+      "options": [
+        "A central city WWTP",
+        "Bar screens",
+        "Septic tanks and composting pits",
+        "Open drains"
+      ],
       "answer": "Septic tanks and composting pits",
       "reasoning": "To improve sanitation, low cost onsite sewage disposal systems are being encouraged, such as septic tanks, chemical toilets, and composting pits."
     },
     "kn": {
       "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಸ್ಥಳದಲ್ಲೇ ಒಳಚರಂಡಿ ವಿಲೇವಾರಿ (on-site sewage disposal) ವ್ಯವಸ್ಥೆಯನ್ನು ಯಾವುದು ವಿವರಿಸುತ್ತದೆ?",
-      "options": ["ಕೇಂದ್ರ ನಗರದ WWTP (ತ್ಯಾಜ್ಯನೀರು ಸಂಸ್ಕರಣಾ ಘಟಕ)", "ಕಬ್ಬಿಣದ ಜಾಲರಿಗಳು (Bar screens)", "ಸೆಪ್ಟಿಕ್ ಟ್ಯಾಂಕ್‌ಗಳು ಮತ್ತು ಕಾಂಪೋಸ್ಟ್ ಹೊಂಡಗಳು", "ತೆರೆದ ಚರಂಡಿಗಳು"],
+      "options": [
+        "ಕೇಂದ್ರ ನಗರದ WWTP (ತ್ಯಾಜ್ಯನೀರು ಸಂಸ್ಕರಣಾ ಘಟಕ)",
+        "ಕಬ್ಬಿಣದ ಜಾಲರಿಗಳು (Bar screens)",
+        "ಸೆಪ್ಟಿಕ್ ಟ್ಯಾಂಕ್‌ಗಳು ಮತ್ತು ಕಾಂಪೋಸ್ಟ್ ಹೊಂಡಗಳು",
+        "ತೆರೆದ ಚರಂಡಿಗಳು"
+      ],
       "answer": "ಸೆಪ್ಟಿಕ್ ಟ್ಯಾಂಕ್‌ಗಳು ಮತ್ತು ಕಾಂಪೋಸ್ಟ್ ಹೊಂಡಗಳು",
       "reasoning": "ನೈರ್ಮಲ್ಯವನ್ನು ಸುಧಾರಿಸಲು, ಕಡಿಮೆ ವೆಚ್ಚದ ಸ್ಥಳದಲ್ಲೇ ಒಳಚರಂಡಿ ವಿಲೇವಾರಿ ವ್ಯವಸ್ಥೆಗಳನ್ನು (ಉದಾಹರಣೆಗೆ ಸೆಪ್ಟಿಕ್ ಟ್ಯಾಂಕ್‌ಗಳು, ರಾಸಾಯನಿಕ ಶೌಚಾಲಯಗಳು ಮತ್ತು ಕಾಂಪೋಸ್ಟ್ ಹೊಂಡಗಳು) ಪ್ರೋತ್ಸಾಹಿಸಲಾಗುತ್ತಿದೆ."
     }
@@ -538,20 +886,44 @@
     "en": {
       "question": "Match the waste item to the correct disposal method:",
       "pairs": [
-        { "left": "Cooking oil and fats", "right": "Dustbin (to prevent pipe blockage)" },
-        { "left": "Paints and medicines", "right": "Specialized hazardous waste disposal (not drains)" },
-        { "left": "Used tea leaves and cotton", "right": "Dustbin (to prevent choking drains)" },
-        { "left": "Human excreta", "right": "Sewerage system or Septic tank" }
+        {
+          "left": "Cooking oil and fats",
+          "right": "Dustbin (to prevent pipe blockage)"
+        },
+        {
+          "left": "Paints and medicines",
+          "right": "Specialized hazardous waste disposal (not drains)"
+        },
+        {
+          "left": "Used tea leaves and cotton",
+          "right": "Dustbin (to prevent choking drains)"
+        },
+        {
+          "left": "Human excreta",
+          "right": "Sewerage system or Septic tank"
+        }
       ],
       "reasoning": "Proper housekeeping practices dictate throwing solid food, oils, and chemicals into the trash or proper disposal sites, not the sink."
     },
     "kn": {
       "question": "ತ್ಯಾಜ್ಯ ವಸ್ತುವನ್ನು ಸರಿಯಾದ ವಿಲೇವಾರಿ ವಿಧಾನದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
       "pairs": [
-        { "left": "ಅಡುಗೆ ಎಣ್ಣೆ ಮತ್ತು ಕೊಬ್ಬುಗಳು", "right": "ಕಸದ ಬುಟ್ಟಿ (ಕೊಳವೆ ಕಟ್ಟಿಕೊಳ್ಳುವುದನ್ನು ತಡೆಯಲು)" },
-        { "left": "ಬಣ್ಣಗಳು ಮತ್ತು ಔಷಧಿಗಳು", "right": "ವಿಶೇಷ ಅಪಾಯಕಾರಿ ತ್ಯಾಜ್ಯ ವಿಲೇವಾರಿ (ಚರಂಡಿಗಳಲ್ಲ)" },
-        { "left": "ಬಳಸಿದ ಚಹಾ ಎಲೆಗಳು ಮತ್ತು ಹತ್ತಿ", "right": "ಕಸದ ಬುಟ್ಟಿ (ಚರಂಡಿ ಕಟ್ಟಿಕೊಳ್ಳುವುದನ್ನು ತಡೆಯಲು)" },
-        { "left": "ಮಾನವ ಮಲ", "right": "ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಅಥವಾ ಸೆಪ್ಟಿಕ್ ಟ್ಯಾಂಕ್" }
+        {
+          "left": "ಅಡುಗೆ ಎಣ್ಣೆ ಮತ್ತು ಕೊಬ್ಬುಗಳು",
+          "right": "ಕಸದ ಬುಟ್ಟಿ (ಕೊಳವೆ ಕಟ್ಟಿಕೊಳ್ಳುವುದನ್ನು ತಡೆಯಲು)"
+        },
+        {
+          "left": "ಬಣ್ಣಗಳು ಮತ್ತು ಔಷಧಿಗಳು",
+          "right": "ವಿಶೇಷ ಅಪಾಯಕಾರಿ ತ್ಯಾಜ್ಯ ವಿಲೇವಾರಿ (ಚರಂಡಿಗಳಲ್ಲ)"
+        },
+        {
+          "left": "ಬಳಸಿದ ಚಹಾ ಎಲೆಗಳು ಮತ್ತು ಹತ್ತಿ",
+          "right": "ಕಸದ ಬುಟ್ಟಿ (ಚರಂಡಿ ಕಟ್ಟಿಕೊಳ್ಳುವುದನ್ನು ತಡೆಯಲು)"
+        },
+        {
+          "left": "ಮಾನವ ಮಲ",
+          "right": "ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಅಥವಾ ಸೆಪ್ಟಿಕ್ ಟ್ಯಾಂಕ್"
+        }
       ],
       "reasoning": "ಸರಿಯಾದ ಮನೆಗೆಲಸದ ಅಭ್ಯಾಸಗಳೆಂದರೆ ಘನ ಆಹಾರ, ಎಣ್ಣೆಗಳು ಮತ್ತು ರಾಸಾಯನಿಕಗಳನ್ನು ಕಸದ ಬುಟ್ಟಿಗೆ ಅಥವಾ ಸರಿಯಾದ ವಿಲೇವಾರಿ ಸ್ಥಳಗಳಿಗೆ ಎಸೆಯುವುದು, ಸಿಂಕ್‌ಗೆ ಅಲ್ಲ."
     }
@@ -562,13 +934,23 @@
     "difficulty": 3,
     "en": {
       "question": "What is the result of letting open drains stagnate in the neighbourhood?",
-      "options": ["It creates a beautiful lake", "It purifies the groundwater", "It becomes a breeding ground for flies, mosquitoes and disease-causing microbes", "It increases soil fertility directly"],
+      "options": [
+        "It creates a beautiful lake",
+        "It purifies the groundwater",
+        "It becomes a breeding ground for flies, mosquitoes and disease-causing microbes",
+        "It increases soil fertility directly"
+      ],
       "answer": "It becomes a breeding ground for flies, mosquitoes and disease-causing microbes",
       "reasoning": "Open, unhygienic drains lead to stagnation, providing breeding grounds for mosquitoes, flies, and microbes that cause various diseases."
     },
     "kn": {
       "question": "ನೆರೆಹೊರೆಯಲ್ಲಿ ತೆರೆದ ಚರಂಡಿಗಳಲ್ಲಿ ನೀರು ನಿಲ್ಲಲು ಬಿಡುವುದರ ಪರಿಣಾಮವೇನು?",
-      "options": ["ಇದು ಸುಂದರವಾದ ಸರೋವರವನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ", "ಇದು ಅಂತರ್ಜಲವನ್ನು ಶುದ್ಧೀಕರಿಸುತ್ತದೆ", "ಇದು ನೊಣಗಳು, ಸೊಳ್ಳೆಗಳು ಮತ್ತು ರೋಗ-ಉಂಟುಮಾಡುವ ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಸಂತಾನೋತ್ಪತ್ತಿ ಕೇಂದ್ರವಾಗುತ್ತದೆ", "ಇದು ನೇರವಾಗಿ ಮಣ್ಣಿನ ಫಲವತ್ತತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ"],
+      "options": [
+        "ಇದು ಸುಂದರವಾದ ಸರೋವರವನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ",
+        "ಇದು ಅಂತರ್ಜಲವನ್ನು ಶುದ್ಧೀಕರಿಸುತ್ತದೆ",
+        "ಇದು ನೊಣಗಳು, ಸೊಳ್ಳೆಗಳು ಮತ್ತು ರೋಗ-ಉಂಟುಮಾಡುವ ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಸಂತಾನೋತ್ಪತ್ತಿ ಕೇಂದ್ರವಾಗುತ್ತದೆ",
+        "ಇದು ನೇರವಾಗಿ ಮಣ್ಣಿನ ಫಲವತ್ತತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ"
+      ],
       "answer": "ಇದು ನೊಣಗಳು, ಸೊಳ್ಳೆಗಳು ಮತ್ತು ರೋಗ-ಉಂಟುಮಾಡುವ ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಸಂತಾನೋತ್ಪತ್ತಿ ಕೇಂದ್ರವಾಗುತ್ತದೆ",
       "reasoning": "ತೆರೆದ, ಅನೈರ್ಮಲ್ಯದ ಚರಂಡಿಗಳಲ್ಲಿ ನೀರು ನಿಲ್ಲುವುದರಿಂದ, ಅದು ಸೊಳ್ಳೆಗಳು, ನೊಣಗಳು ಮತ್ತು ವಿವಿಧ ರೋಗಗಳನ್ನು ಉಂಟುಮಾಡುವ ಸೂಕ್ಷ್ಮಜೀವಿಗಳಿಗೆ ಸಂತಾನೋತ್ಪತ್ತಿ ಸ್ಥಳಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ."
     }

@@ -5,13 +5,23 @@
     "difficulty": 1,
     "en": {
       "question": "Which of the following is an example of a physical change?",
-      "options": ["Burning of wood", "Melting of ice", "Rusting of iron", "Digestion of food"],
+      "options": [
+        "Burning of wood",
+        "Melting of ice",
+        "Rusting of iron",
+        "Digestion of food"
+      ],
       "answer": "Melting of ice",
       "reasoning": "Melting of ice is a physical change because no new substance is formed; water just changes state."
     },
     "kn": {
       "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಭೌತಿಕ ಬದಲಾವಣೆಗೆ ಉದಾಹರಣೆ ಯಾವುದು?",
-      "options": ["ಮರ ಉರಿಯುವುದು", "ಮಂಜುಗಡ್ಡೆ ಕರಗುವುದು", "ಕಬ್ಬಿಣ ತುಕ್ಕು ಹಿಡಿಯುವುದು", "ಆಹಾರದ ಜೀರ್ಣಕ್ರಿಯೆ"],
+      "options": [
+        "ಮರ ಉರಿಯುವುದು",
+        "ಮಂಜುಗಡ್ಡೆ ಕರಗುವುದು",
+        "ಕಬ್ಬಿಣ ತುಕ್ಕು ಹಿಡಿಯುವುದು",
+        "ಆಹಾರದ ಜೀರ್ಣಕ್ರಿಯೆ"
+      ],
       "answer": "ಮಂಜುಗಡ್ಡೆ ಕರಗುವುದು",
       "reasoning": "ಮಂಜುಗಡ್ಡೆ ಕರಗುವುದು ಭೌತಿಕ ಬದಲಾವಣೆಯಾಗಿದೆ ಏಕೆಂದರೆ ಯಾವುದೇ ಹೊಸ ವಸ್ತು ಉಂಟಾಗುವುದಿಲ್ಲ; ನೀರು ಕೇವಲ ಸ್ಥಿತಿಯನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ."
     }
@@ -22,13 +32,23 @@
     "difficulty": 1,
     "en": {
       "question": "What kind of change is tearing a piece of paper?",
-      "options": ["Chemical change", "Physical change", "Irreversible chemical change", "Biological change"],
+      "options": [
+        "Chemical change",
+        "Physical change",
+        "Irreversible chemical change",
+        "Biological change"
+      ],
       "answer": "Physical change",
       "reasoning": "Tearing paper only changes its size and shape, not its chemical composition."
     },
     "kn": {
       "question": "ಕಾಗದದ ತುಂಡನ್ನು ಹರಿಯುವುದು ಯಾವ ರೀತಿಯ ಬದಲಾವಣೆಯಾಗಿದೆ?",
-      "options": ["ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ", "ಭೌತಿಕ ಬದಲಾವಣೆ", "ಬದಲಾಯಿಸಲಾಗದ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ", "ಜೈವಿಕ ಬದಲಾವಣೆ"],
+      "options": [
+        "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ",
+        "ಭೌತಿಕ ಬದಲಾವಣೆ",
+        "ಬದಲಾಯಿಸಲಾಗದ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ",
+        "ಜೈವಿಕ ಬದಲಾವಣೆ"
+      ],
       "answer": "ಭೌತಿಕ ಬದಲಾವಣೆ",
       "reasoning": "ಕಾಗದವನ್ನು ಹರಿಯುವುದರಿಂದ ಅದರ ಗಾತ್ರ ಮತ್ತು ಆಕಾರ ಮಾತ್ರ ಬದಲಾಗುತ್ತದೆ, ರಾಸಾಯನಿಕ ಸಂಯೋಜನೆಯಲ್ಲ."
     }
@@ -43,17 +63,27 @@
         "en": "Ice cube turning into a puddle of water upon heating",
         "kn": "ಬಿಸಿಮಾಡಿದಾಗ ಮಂಜುಗಡ್ಡೆ ನೀರಾಗುತ್ತಿರುವುದು"
       },
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"50\" y=\"50\" width=\"60\" height=\"60\" fill=\"#DBEAFE\" stroke=\"#2563EB\"/><path d=\"M130,80 L170,80\" stroke=\"#1F2937\" stroke-width=\"2\" marker-end=\"url(#a)\"/><ellipse cx=\"220\" cy=\"100\" rx=\"40\" ry=\"15\" fill=\"#60A5FA\"/><text x=\"150\" y=\"70\" text-anchor=\"middle\">Heat</text><defs><marker id=\"a\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8\" fill=\"none\" stroke=\"context-stroke\"/></marker></defs></svg>"
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"50\" y=\"50\" width=\"60\" height=\"60\" fill=\"#DBEAFE\" stroke=\"#2563EB\"/><path d=\"M130,80 L170,80\" stroke=\"#1F2937\" stroke-width=\"2\" marker-end=\"url(#a)\"/><ellipse cx=\"220\" cy=\"100\" rx=\"40\" ry=\"15\" fill=\"#60A5FA\"/><text x=\"150\" y=\"70\" text-anchor=\"middle\">Heat</text><defs><marker id=\"a\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8\" fill=\"none\" stroke=\"context-stroke\"/></marker></defs></svg>"
     },
     "en": {
       "question": "What type of change is shown when ice is heated to form water?",
-      "options": ["Chemical change", "Physical change", "Nuclear change", "Irreversible change"],
+      "options": [
+        "Chemical change",
+        "Physical change",
+        "Nuclear change",
+        "Irreversible change"
+      ],
       "answer": "Physical change",
       "reasoning": "Changing from solid to liquid is a change in physical state, hence a physical change."
     },
     "kn": {
       "question": "ಮಂಜುಗಡ್ಡೆಯನ್ನು ಬಿಸಿಮಾಡಿ ನೀರಾಗಿ ಮಾಡುವಾಗ ಯಾವ ರೀತಿಯ ಬದಲಾವಣೆ ಕಂಡುಬರುತ್ತದೆ?",
-      "options": ["ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ", "ಭೌತಿಕ ಬದಲಾವಣೆ", "ನ್ಯೂಕ್ಲಿಯರ್ ಬದಲಾವಣೆ", "ಅಪರಿವರ್ತನೀಯ ಬದಲಾವಣೆ"],
+      "options": [
+        "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ",
+        "ಭೌತಿಕ ಬದಲಾವಣೆ",
+        "ನ್ಯೂಕ್ಲಿಯರ್ ಬದಲಾವಣೆ",
+        "ಅಪರಿವರ್ತನೀಯ ಬದಲಾವಣೆ"
+      ],
       "answer": "ಭೌತಿಕ ಬದಲಾವಣೆ",
       "reasoning": "ಘನದಿಂದ ದ್ರವಕ್ಕೆ ಬದಲಾಗುವುದು ಭೌತಿಕ ಸ್ಥಿತಿಯ ಬದಲಾವಣೆಯಾಗಿದೆ, ಆದ್ದರಿಂದ ಇದು ಭೌತಿಕ ಬದಲಾವಣೆ."
     }
@@ -64,13 +94,23 @@
     "difficulty": 1,
     "en": {
       "question": "A change in which one or more new substances are formed is called a:",
-      "options": ["Physical change", "Chemical change", "Reversible change", "State change"],
+      "options": [
+        "Physical change",
+        "Chemical change",
+        "Reversible change",
+        "State change"
+      ],
       "answer": "Chemical change",
       "reasoning": "Chemical changes involve chemical reactions that produce entirely new substances."
     },
     "kn": {
       "question": "ಒಂದು ಅಥವಾ ಹೆಚ್ಚು ಹೊಸ ವಸ್ತುಗಳು ಉಂಟಾಗುವ ಬದಲಾವಣೆಯನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
-      "options": ["ಭೌತಿಕ ಬದಲಾವಣೆ", "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ", "ಪರಿವರ್ತನೀಯ ಬದಲಾವಣೆ", "ಸ್ಥಿತಿ ಬದಲಾವಣೆ"],
+      "options": [
+        "ಭೌತಿಕ ಬದಲಾವಣೆ",
+        "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ",
+        "ಪರಿವರ್ತನೀಯ ಬದಲಾವಣೆ",
+        "ಸ್ಥಿತಿ ಬದಲಾವಣೆ"
+      ],
       "answer": "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ",
       "reasoning": "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಹೊಸ ವಸ್ತುಗಳನ್ನು ಉತ್ಪಾದಿಸುವ ಕ್ರಿಯೆಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತವೆ."
     }
@@ -81,13 +121,23 @@
     "difficulty": 1,
     "en": {
       "question": "Which of the following is a characteristic of most physical changes?",
-      "options": ["A new substance is formed", "They are generally reversible", "Heat and light are always produced", "They are irreversible"],
+      "options": [
+        "A new substance is formed",
+        "They are generally reversible",
+        "Heat and light are always produced",
+        "They are irreversible"
+      ],
       "answer": "They are generally reversible",
       "reasoning": "Most physical changes, like melting and freezing, can be easily reversed."
     },
     "kn": {
       "question": "ಹೆಚ್ಚಿನ ಭೌತಿಕ ಬದಲಾವಣೆಗಳ ಲಕ್ಷಣ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು?",
-      "options": ["ಹೊಸ ವಸ್ತು ಉಂಟಾಗುತ್ತದೆ", "ಅವುಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಹಿಂದಿರುಗಿಸಬಹುದು", "ಶಾಖ ಮತ್ತು ಬೆಳಕು ಯಾವಾಗಲೂ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ", "ಅವು ಅಪರಿವರ್ತನೀಯವಾಗಿವೆ"],
+      "options": [
+        "ಹೊಸ ವಸ್ತು ಉಂಟಾಗುತ್ತದೆ",
+        "ಅವುಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಹಿಂದಿರುಗಿಸಬಹುದು",
+        "ಶಾಖ ಮತ್ತು ಬೆಳಕು ಯಾವಾಗಲೂ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ",
+        "ಅವು ಅಪರಿವರ್ತನೀಯವಾಗಿವೆ"
+      ],
       "answer": "ಅವುಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಹಿಂದಿರುಗಿಸಬಹುದು",
       "reasoning": "ಕರಗುವುದು ಮತ್ತು ಘನೀಕರಿಸುವಿಕೆಯಂತಹ ಹೆಚ್ಚಿನ ಭೌತಿಕ ಬದಲಾವಣೆಗಳನ್ನು ಸುಲಭವಾಗಿ ಹಿಂದಿರುಗಿಸಬಹುದು."
     }
@@ -98,14 +148,30 @@
     "difficulty": 1,
     "en": {
       "question": "Which of these represent examples of chemical changes?",
-      "options": ["Rusting of iron", "Cooking of food", "Boiling of water", "Cutting of wood"],
-      "answer": ["Rusting of iron", "Cooking of food"],
+      "options": [
+        "Rusting of iron",
+        "Cooking of food",
+        "Boiling of water",
+        "Cutting of wood"
+      ],
+      "answer": [
+        "Rusting of iron",
+        "Cooking of food"
+      ],
       "reasoning": "Boiling and cutting are physical changes, whereas rusting and cooking form new substances."
     },
     "kn": {
       "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
-      "options": ["ಕಬ್ಬಿಣ ತುಕ್ಕು ಹಿಡಿಯುವುದು", "ಆಹಾರ ಬೇಯಿಸುವುದು", "ನೀರು ಕುದಿಯುವುದು", "ಮರ ಕತ್ತರಿಸುವುದು"],
-      "answer": ["ಕಬ್ಬಿಣ ತುಕ್ಕು ಹಿಡಿಯುವುದು", "ಆಹಾರ ಬೇಯಿಸುವುದು"],
+      "options": [
+        "ಕಬ್ಬಿಣ ತುಕ್ಕು ಹಿಡಿಯುವುದು",
+        "ಆಹಾರ ಬೇಯಿಸುವುದು",
+        "ನೀರು ಕುದಿಯುವುದು",
+        "ಮರ ಕತ್ತರಿಸುವುದು"
+      ],
+      "answer": [
+        "ಕಬ್ಬಿಣ ತುಕ್ಕು ಹಿಡಿಯುವುದು",
+        "ಆಹಾರ ಬೇಯಿಸುವುದು"
+      ],
       "reasoning": "ಕುದಿಯುವುದು ಮತ್ತು ಕತ್ತರಿಸುವುದು ಭೌತಿಕ ಬದಲಾವಣೆಗಳು, ಆದರೆ ತುಕ್ಕು ಹಿಡಿಯುವುದು ಮತ್ತು ಬೇಯಿಸುವುದು ಹೊಸ ವಸ್ತುಗಳನ್ನು ರೂಪಿಸುತ್ತವೆ."
     }
   },
@@ -116,20 +182,44 @@
     "en": {
       "question": "Match the action to the type of change.",
       "pairs": [
-        {"left": "Dissolving sugar in water", "right": "Physical change"},
-        {"left": "Burning a piece of coal", "right": "Chemical change"},
-        {"left": "Melting of wax", "right": "Physical change"},
-        {"left": "Souring of milk", "right": "Chemical change"}
+        {
+          "left": "Dissolving sugar in water",
+          "right": "Physical change"
+        },
+        {
+          "left": "Burning a piece of coal",
+          "right": "Chemical change"
+        },
+        {
+          "left": "Melting of wax",
+          "right": "Physical change"
+        },
+        {
+          "left": "Souring of milk",
+          "right": "Chemical change"
+        }
       ],
       "reasoning": "Burning and souring create new substances, while melting and dissolving do not."
     },
     "kn": {
       "question": "ಕ್ರಿಯೆಯನ್ನು ಅದರ ಬದಲಾವಣೆಯ ಪ್ರಕಾರದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
       "pairs": [
-        {"left": "ನೀರಿನಲ್ಲಿ ಸಕ್ಕರೆ ಕರಗಿಸುವುದು", "right": "ಭೌತಿಕ ಬದಲಾವಣೆ"},
-        {"left": "ಕಲ್ಲಿದ್ದಲನ್ನು ಸುಡುವುದು", "right": "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ"},
-        {"left": "ಮೇಣ ಕರಗುವುದು", "right": "ಭೌತಿಕ ಬದಲಾವಣೆ"},
-        {"left": "ಹಾಲು ಹುಳಿಯಾಗುವುದು", "right": "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ"}
+        {
+          "left": "ನೀರಿನಲ್ಲಿ ಸಕ್ಕರೆ ಕರಗಿಸುವುದು",
+          "right": "ಭೌತಿಕ ಬದಲಾವಣೆ"
+        },
+        {
+          "left": "ಕಲ್ಲಿದ್ದಲನ್ನು ಸುಡುವುದು",
+          "right": "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ"
+        },
+        {
+          "left": "ಮೇಣ ಕರಗುವುದು",
+          "right": "ಭೌತಿಕ ಬದಲಾವಣೆ"
+        },
+        {
+          "left": "ಹಾಲು ಹುಳಿಯಾಗುವುದು",
+          "right": "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ"
+        }
       ],
       "reasoning": "ಸುಡುವುದು ಮತ್ತು ಹುಳಿಯಾಗುವಿಕೆಯು ಹೊಸ ವಸ್ತುಗಳನ್ನು ಸೃಷ್ಟಿಸುತ್ತವೆ, ಆದರೆ ಕರಗುವಿಕೆಗಳು ಸೃಷ್ಟಿಸುವುದಿಲ್ಲ."
     }
@@ -140,13 +230,23 @@
     "difficulty": 1,
     "en": {
       "question": "What is the brown layer formed on an iron object left in moist air?",
-      "options": ["Paint", "Zinc", "Rust", "Dust"],
+      "options": [
+        "Paint",
+        "Zinc",
+        "Rust",
+        "Dust"
+      ],
       "answer": "Rust",
       "reasoning": "The brown substance formed on iron due to oxygen and moisture is called rust."
     },
     "kn": {
       "question": "ತೇವಾಂಶವುಳ್ಳ ಗಾಳಿಯಲ್ಲಿಟ್ಟ ಕಬ್ಬಿಣದ ವಸ್ತುವಿನ ಮೇಲೆ ಉಂಟಾಗುವ ಕಂದು ಬಣ್ಣದ ಪದರ ಯಾವುದು?",
-      "options": ["ಬಣ್ಣ", "ಸತು", "ತುಕ್ಕು", "ಧೂಳು"],
+      "options": [
+        "ಬಣ್ಣ",
+        "ಸತು",
+        "ತುಕ್ಕು",
+        "ಧೂಳು"
+      ],
       "answer": "ತುಕ್ಕು",
       "reasoning": "ಆಮ್ಲಜನಕ ಮತ್ತು ತೇವಾಂಶದಿಂದಾಗಿ ಕಬ್ಬಿಣದ ಮೇಲೆ ಉಂಟಾಗುವ ಕಂದು ವಸ್ತುವನ್ನು ತುಕ್ಕು ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
     }
@@ -165,13 +265,23 @@
     },
     "en": {
       "question": "What two conditions are essential for the rusting shown in this picture?",
-      "options": ["Heat and light", "Oxygen and water (moisture)", "Nitrogen and dryness", "Carbon dioxide and pressure"],
+      "options": [
+        "Heat and light",
+        "Oxygen and water (moisture)",
+        "Nitrogen and dryness",
+        "Carbon dioxide and pressure"
+      ],
       "answer": "Oxygen and water (moisture)",
       "reasoning": "For rusting to occur, both oxygen (from air) and water (or moisture) must be present."
     },
     "kn": {
       "question": "ಈ ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ತುಕ್ಕು ಹಿಡಿಯಲು ಯಾವ ಎರಡು ಪರಿಸ್ಥಿತಿಗಳು ಅವಶ್ಯಕವಾಗಿವೆ?",
-      "options": ["ಶಾಖ ಮತ್ತು ಬೆಳಕು", "ಆಮ್ಲಜನಕ ಮತ್ತು ನೀರು (ತೇವಾಂಶ)", "ಸಾರಜನಕ ಮತ್ತು ಶುಷ್ಕತೆ", "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ಒತ್ತಡ"],
+      "options": [
+        "ಶಾಖ ಮತ್ತು ಬೆಳಕು",
+        "ಆಮ್ಲಜನಕ ಮತ್ತು ನೀರು (ತೇವಾಂಶ)",
+        "ಸಾರಜನಕ ಮತ್ತು ಶುಷ್ಕತೆ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ಒತ್ತಡ"
+      ],
       "answer": "ಆಮ್ಲಜನಕ ಮತ್ತು ನೀರು (ತೇವಾಂಶ)",
       "reasoning": "ತುಕ್ಕು ಹಿಡಿಯಲು, ಗಾಳಿಯ ಆಮ್ಲಜನಕ ಮತ್ತು ನೀರು (ಅಥವಾ ತೇವಾಂಶ) ಎರಡೂ ಇರಬೇಕು."
     }
@@ -182,13 +292,23 @@
     "difficulty": 1,
     "en": {
       "question": "Is a chemical change generally reversible or irreversible?",
-      "options": ["Reversible", "Irreversible", "Both", "Depends on temperature"],
+      "options": [
+        "Reversible",
+        "Irreversible",
+        "Both",
+        "Depends on temperature"
+      ],
       "answer": "Irreversible",
       "reasoning": "Chemical changes form new substances and are typically irreversible under normal conditions."
     },
     "kn": {
       "question": "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯು ಸಾಮಾನ್ಯವಾಗಿ ಪರಿವರ್ತನೀಯವೇ (reversible) ಅಥವಾ ಅಪರಿವರ್ತನೀಯವೇ?",
-      "options": ["ಪರಿವರ್ತನೀಯ", "ಅಪರಿವರ್ತನೀಯ", "ಎರಡೂ", "ತಾಪಮಾನವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ"],
+      "options": [
+        "ಪರಿವರ್ತನೀಯ",
+        "ಅಪರಿವರ್ತನೀಯ",
+        "ಎರಡೂ",
+        "ತಾಪಮಾನವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ"
+      ],
       "answer": "ಅಪರಿವರ್ತನೀಯ",
       "reasoning": "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳು ಹೊಸ ವಸ್ತುಗಳನ್ನು ರೂಪಿಸುತ್ತವೆ ಮತ್ತು ಸಾಮಾನ್ಯವಾಗಿ ಅಪರಿವರ್ತನೀಯವಾಗಿರುತ್ತವೆ."
     }
@@ -199,13 +319,23 @@
     "difficulty": 2,
     "en": {
       "question": "When a magnesium ribbon is burnt, what colour is the flame?",
-      "options": ["Brilliant white", "Deep red", "Yellow", "Blue"],
+      "options": [
+        "Brilliant white",
+        "Deep red",
+        "Yellow",
+        "Blue"
+      ],
       "answer": "Brilliant white",
       "reasoning": "Magnesium burns in air with a brilliant white flame, producing magnesium oxide."
     },
     "kn": {
       "question": "ಮೆಗ್ನೀಸಿಯಮ್ ಪಟ್ಟಿಯನ್ನು ಸುಟ್ಟಾಗ, ಯಾವ ಬಣ್ಣದ ಜ್ವಾಲೆ ಉಂಟಾಗುತ್ತದೆ?",
-      "options": ["ಅತ್ಯಂತ ಪ್ರಕಾಶಮಾನವಾದ ಬಿಳಿ", "ಗಾಢ ಕೆಂಪು", "ಹಳದಿ", "ನೀಲಿ"],
+      "options": [
+        "ಅತ್ಯಂತ ಪ್ರಕಾಶಮಾನವಾದ ಬಿಳಿ",
+        "ಗಾಢ ಕೆಂಪು",
+        "ಹಳದಿ",
+        "ನೀಲಿ"
+      ],
       "answer": "ಅತ್ಯಂತ ಪ್ರಕಾಶಮಾನವಾದ ಬಿಳಿ",
       "reasoning": "ಮೆಗ್ನೀಸಿಯಮ್ ಗಾಳಿಯಲ್ಲಿ ಪ್ರಕಾಶಮಾನವಾದ ಬಿಳಿ ಜ್ವಾಲೆಯೊಂದಿಗೆ ಉರಿದು ಮೆಗ್ನೀಸಿಯಮ್ ಆಕ್ಸೈಡ್ ಉತ್ಪಾದಿಸುತ್ತದೆ."
     }
@@ -220,17 +350,27 @@
         "en": "Burning magnesium ribbon producing white light",
         "kn": "ಬಿಳಿ ಬೆಳಕನ್ನು ಉತ್ಪಾದಿಸುವ ಉರಿಯುತ್ತಿರುವ ಮೆಗ್ನೀಸಿಯಮ್ ಪಟ್ಟಿ"
       },
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><path d=\"M100,100 L180,100\" stroke=\"#1F2937\" stroke-width=\"6\"/><path d=\"M180,95 Q200,80 185,100 Q200,120 180,105\" fill=\"#FBBF24\"/><circle cx=\"185\" cy=\"100\" r=\"10\" fill=\"#FFF\" filter=\"blur(2px)\"/></svg>"
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><path d=\"M100,100 L180,100\" stroke=\"#1F2937\" stroke-width=\"6\"/><path d=\"M180,95 Q200,80 185,100 Q200,120 180,105\" fill=\"#FBBF24\"/><circle cx=\"185\" cy=\"100\" r=\"10\" fill=\"#FFF\" filter=\"blur(2px)\"/></svg>"
     },
     "en": {
       "question": "What is the powdery ash formed after burning the magnesium ribbon?",
-      "options": ["Magnesium sulphate", "Magnesium oxide", "Magnesium hydroxide", "Magnesium carbonate"],
+      "options": [
+        "Magnesium sulphate",
+        "Magnesium oxide",
+        "Magnesium hydroxide",
+        "Magnesium carbonate"
+      ],
       "answer": "Magnesium oxide",
       "reasoning": "The new substance formed is magnesium oxide (MgO), which is a chemical change."
     },
     "kn": {
       "question": "ಮೆಗ್ನೀಸಿಯಮ್ ಪಟ್ಟಿಯನ್ನು ಸುಟ್ಟ ನಂತರ ಉಂಟಾಗುವ ಪುಡಿಯಂತಹ ಬೂದಿ ಯಾವುದು?",
-      "options": ["ಮೆಗ್ನೀಸಿಯಮ್ ಸಲ್ಫೇಟ್", "ಮೆಗ್ನೀಸಿಯಮ್ ಆಕ್ಸೈಡ್", "ಮೆಗ್ನೀಸಿಯಮ್ ಹೈಡ್ರಾಕ್ಸೈಡ್", "ಮೆಗ್ನೀಸಿಯಮ್ ಕಾರ್ಬೋನೇಟ್"],
+      "options": [
+        "ಮೆಗ್ನೀಸಿಯಮ್ ಸಲ್ಫೇಟ್",
+        "ಮೆಗ್ನೀಸಿಯಮ್ ಆಕ್ಸೈಡ್",
+        "ಮೆಗ್ನೀಸಿಯಮ್ ಹೈಡ್ರಾಕ್ಸೈಡ್",
+        "ಮೆಗ್ನೀಸಿಯಮ್ ಕಾರ್ಬೋನೇಟ್"
+      ],
       "answer": "ಮೆಗ್ನೀಸಿಯಮ್ ಆಕ್ಸೈಡ್",
       "reasoning": "ಉತ್ಪತ್ತಿಯಾಗುವ ಹೊಸ ವಸ್ತು ಮೆಗ್ನೀಸಿಯಮ್ ಆಕ್ಸೈಡ್ (MgO), ಇದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯಾಗಿದೆ."
     }
@@ -241,14 +381,32 @@
     "difficulty": 2,
     "en": {
       "question": "Which of the following can accompany a chemical change?",
-      "options": ["Production of heat or light", "Production of sound", "Change in smell", "Change in state without new substance"],
-      "answer": ["Production of heat or light", "Production of sound", "Change in smell"],
+      "options": [
+        "Production of heat or light",
+        "Production of sound",
+        "Change in smell",
+        "Change in state without new substance"
+      ],
+      "answer": [
+        "Production of heat or light",
+        "Production of sound",
+        "Change in smell"
+      ],
       "reasoning": "A chemical change may produce heat, light, sound, or a change in smell/colour."
     },
     "kn": {
       "question": "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯೊಂದಿಗೆ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಜೊತೆಯಾಗಬಹುದು?",
-      "options": ["ಶಾಖ ಅಥವಾ ಬೆಳಕಿನ ಉತ್ಪಾದನೆ", "ಶಬ್ದದ ಉತ್ಪಾದನೆ", "ವಾಸನೆಯಲ್ಲಿ ಬದಲಾವಣೆ", "ಹೊಸ ವಸ್ತು ಇಲ್ಲದೆ ಸ್ಥಿತಿಯಲ್ಲಿ ಬದಲಾವಣೆ"],
-      "answer": ["ಶಾಖ ಅಥವಾ ಬೆಳಕಿನ ಉತ್ಪಾದನೆ", "ಶಬ್ದದ ಉತ್ಪಾದನೆ", "ವಾಸನೆಯಲ್ಲಿ ಬದಲಾವಣೆ"],
+      "options": [
+        "ಶಾಖ ಅಥವಾ ಬೆಳಕಿನ ಉತ್ಪಾದನೆ",
+        "ಶಬ್ದದ ಉತ್ಪಾದನೆ",
+        "ವಾಸನೆಯಲ್ಲಿ ಬದಲಾವಣೆ",
+        "ಹೊಸ ವಸ್ತು ಇಲ್ಲದೆ ಸ್ಥಿತಿಯಲ್ಲಿ ಬದಲಾವಣೆ"
+      ],
+      "answer": [
+        "ಶಾಖ ಅಥವಾ ಬೆಳಕಿನ ಉತ್ಪಾದನೆ",
+        "ಶಬ್ದದ ಉತ್ಪಾದನೆ",
+        "ವಾಸನೆಯಲ್ಲಿ ಬದಲಾವಣೆ"
+      ],
       "reasoning": "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯು ಶಾಖ, ಬೆಳಕು, ಧ್ವನಿ ಅಥವಾ ವಾಸನೆ/ಬಣ್ಣದ ಬದಲಾವಣೆಯನ್ನು ಉಂಟುಮಾಡಬಹುದು."
     }
   },
@@ -258,13 +416,23 @@
     "difficulty": 2,
     "en": {
       "question": "What happens when carbon dioxide is passed through lime water?",
-      "options": ["It turns blue", "It turns milky", "It boils", "It turns red"],
+      "options": [
+        "It turns blue",
+        "It turns milky",
+        "It boils",
+        "It turns red"
+      ],
       "answer": "It turns milky",
       "reasoning": "Carbon dioxide reacts with lime water to form insoluble calcium carbonate, making it appear milky."
     },
     "kn": {
       "question": "ಸುಣ್ಣದ ನೀರಿನ ಮೂಲಕ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಹಾಯಿಸಿದಾಗ ಏನಾಗುತ್ತದೆ?",
-      "options": ["ಇದು ನೀಲಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ", "ಇದು ಹಾಲಿನಂತೆ ಬಿಳಿಯಾಗುತ್ತದೆ", "ಇದು ಕುದಿಯುತ್ತದೆ", "ಇದು ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ"],
+      "options": [
+        "ಇದು ನೀಲಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ",
+        "ಇದು ಹಾಲಿನಂತೆ ಬಿಳಿಯಾಗುತ್ತದೆ",
+        "ಇದು ಕುದಿಯುತ್ತದೆ",
+        "ಇದು ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ"
+      ],
       "answer": "ಇದು ಹಾಲಿನಂತೆ ಬಿಳಿಯಾಗುತ್ತದೆ",
       "reasoning": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಸುಣ್ಣದ ನೀರಿನೊಂದಿಗೆ ಬೆರೆತು ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್ ರೂಪಿಸುತ್ತದೆ, ಇದರಿಂದ ಅದು ಬಿಳಿಯಾಗುತ್ತದೆ."
     }
@@ -275,13 +443,23 @@
     "difficulty": 2,
     "en": {
       "question": "What is the chemical name of baking soda?",
-      "options": ["Sodium carbonate", "Sodium hydrogen carbonate (Sodium bicarbonate)", "Calcium carbonate", "Sodium chloride"],
+      "options": [
+        "Sodium carbonate",
+        "Sodium hydrogen carbonate (Sodium bicarbonate)",
+        "Calcium carbonate",
+        "Sodium chloride"
+      ],
       "answer": "Sodium hydrogen carbonate (Sodium bicarbonate)",
       "reasoning": "Baking soda is chemically known as sodium hydrogen carbonate (NaHCO3)."
     },
     "kn": {
       "question": "ಅಡುಗೆ ಸೋಡಾದ ರಾಸಾಯನಿಕ ಹೆಸರು ಏನು?",
-      "options": ["ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್", "ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್", "ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್", "ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್"],
+      "options": [
+        "ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್",
+        "ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್",
+        "ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್",
+        "ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್"
+      ],
       "answer": "ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್",
       "reasoning": "ಅಡುಗೆ ಸೋಡಾವನ್ನು ರಾಸಾಯನಿಕವಾಗಿ ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್ (NaHCO3) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
     }
@@ -293,20 +471,44 @@
     "en": {
       "question": "Match the reaction with its resulting visual change.",
       "pairs": [
-        {"left": "Copper sulphate + Iron", "right": "Blue solution turns green"},
-        {"left": "Magnesium burning", "right": "Brilliant white flame"},
-        {"left": "CO2 in lime water", "right": "Turns milky"},
-        {"left": "Rust on iron", "right": "Brownish layer"}
+        {
+          "left": "Copper sulphate + Iron",
+          "right": "Blue solution turns green"
+        },
+        {
+          "left": "Magnesium burning",
+          "right": "Brilliant white flame"
+        },
+        {
+          "left": "CO2 in lime water",
+          "right": "Turns milky"
+        },
+        {
+          "left": "Rust on iron",
+          "right": "Brownish layer"
+        }
       ],
       "reasoning": "These are classic signs of specific chemical changes taught in Class 7."
     },
     "kn": {
       "question": "ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯನ್ನು ಅದರ ದೃಶ್ಯ ಬದಲಾವಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
       "pairs": [
-        {"left": "ತಾಮ್ರದ ಸಲ್ಫೇಟ್ + ಕಬ್ಬಿಣ", "right": "ನೀಲಿ ದ್ರಾವಣ ಹಸಿರಾಗುತ್ತದೆ"},
-        {"left": "ಮೆಗ್ನೀಸಿಯಮ್ ಉರಿಯುವುದು", "right": "ಪ್ರಕಾಶಮಾನವಾದ ಬಿಳಿ ಜ್ವಾಲೆ"},
-        {"left": "ಸುಣ್ಣದ ನೀರಿನಲ್ಲಿ CO2", "right": "ಹಾಲಿನಂತೆ ಬಿಳಿಯಾಗುತ್ತದೆ"},
-        {"left": "ಕಬ್ಬಿಣದ ಮೇಲಿನ ತುಕ್ಕು", "right": "ಕಂದು ಬಣ್ಣದ ಪದರ"}
+        {
+          "left": "ತಾಮ್ರದ ಸಲ್ಫೇಟ್ + ಕಬ್ಬಿಣ",
+          "right": "ನೀಲಿ ದ್ರಾವಣ ಹಸಿರಾಗುತ್ತದೆ"
+        },
+        {
+          "left": "ಮೆಗ್ನೀಸಿಯಮ್ ಉರಿಯುವುದು",
+          "right": "ಪ್ರಕಾಶಮಾನವಾದ ಬಿಳಿ ಜ್ವಾಲೆ"
+        },
+        {
+          "left": "ಸುಣ್ಣದ ನೀರಿನಲ್ಲಿ CO2",
+          "right": "ಹಾಲಿನಂತೆ ಬಿಳಿಯಾಗುತ್ತದೆ"
+        },
+        {
+          "left": "ಕಬ್ಬಿಣದ ಮೇಲಿನ ತುಕ್ಕು",
+          "right": "ಕಂದು ಬಣ್ಣದ ಪದರ"
+        }
       ],
       "reasoning": "ಇವು 7ನೇ ತರಗತಿಯಲ್ಲಿ ಕಲಿಸಲಾಗುವ ನಿರ್ದಿಷ್ಟ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳ ಲಕ್ಷಣಗಳಾಗಿವೆ."
     }
@@ -321,17 +523,27 @@
         "en": "Iron pipe covered with a zinc coating",
         "kn": "ಸತುವಿನ ಲೇಪನವಿರುವ ಕಬ್ಬಿಣದ ಕೊಳವೆ"
       },
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"50\" y=\"80\" width=\"200\" height=\"40\" fill=\"#9CA3AF\"/><rect x=\"45\" y=\"75\" width=\"210\" height=\"50\" fill=\"none\" stroke=\"#34D399\" stroke-width=\"4\"/><text x=\"150\" y=\"60\" text-anchor=\"middle\">Zinc Coating</text><text x=\"150\" y=\"105\" text-anchor=\"middle\">Iron Pipe</text></svg>"
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"50\" y=\"80\" width=\"200\" height=\"40\" fill=\"#9CA3AF\"/><rect x=\"45\" y=\"75\" width=\"210\" height=\"50\" fill=\"none\" stroke=\"#34D399\" stroke-width=\"4\"/><text x=\"150\" y=\"60\" text-anchor=\"middle\">Zinc Coating</text><text x=\"150\" y=\"105\" text-anchor=\"middle\">Iron Pipe</text></svg>"
     },
     "en": {
       "question": "The process of depositing a layer of zinc on iron, as shown, is called:",
-      "options": ["Crystallisation", "Galvanisation", "Pasteurisation", "Vulcanisation"],
+      "options": [
+        "Crystallisation",
+        "Galvanisation",
+        "Pasteurisation",
+        "Vulcanisation"
+      ],
       "answer": "Galvanisation",
       "reasoning": "Galvanisation is used to protect iron from rusting by coating it with a layer of zinc."
     },
     "kn": {
       "question": "ತೋರಿಸಿರುವಂತೆ ಕಬ್ಬಿಣದ ಮೇಲೆ ಸತುವಿನ (Zinc) ಪದರವನ್ನು ಲೇಪಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
-      "options": ["ಹರಳುಗಟ್ಟುವಿಕೆ", "ಗ್ಯಾಲ್ವನೀಕರಣ (Galvanisation)", "ಪಾಶ್ಚರೀಕರಣ", "ವಲ್ಕನೀಕರಣ"],
+      "options": [
+        "ಹರಳುಗಟ್ಟುವಿಕೆ",
+        "ಗ್ಯಾಲ್ವನೀಕರಣ (Galvanisation)",
+        "ಪಾಶ್ಚರೀಕರಣ",
+        "ವಲ್ಕನೀಕರಣ"
+      ],
       "answer": "ಗ್ಯಾಲ್ವನೀಕರಣ (Galvanisation)",
       "reasoning": "ಕಬ್ಬಿಣ ತುಕ್ಕು ಹಿಡಿಯುವುದನ್ನು ತಡೆಯಲು ಅದರ ಮೇಲೆ ಸತುವಿನ ಲೇಪನ ಮಾಡುವುದನ್ನು ಗ್ಯಾಲ್ವನೀಕರಣ ಎನ್ನುತ್ತಾರೆ."
     }
@@ -342,13 +554,23 @@
     "difficulty": 2,
     "en": {
       "question": "Why are iron pipes in our homes galvanised?",
-      "options": ["To make them look shiny", "To increase water flow", "To prevent them from rusting", "To make the water pure"],
+      "options": [
+        "To make them look shiny",
+        "To increase water flow",
+        "To prevent them from rusting",
+        "To make the water pure"
+      ],
       "answer": "To prevent them from rusting",
       "reasoning": "Galvanisation prevents water and oxygen from reaching the iron, preventing rust."
     },
     "kn": {
       "question": "ನಮ್ಮ ಮನೆಗಳಲ್ಲಿನ ಕಬ್ಬಿಣದ ಕೊಳವೆಗಳನ್ನು (pipes) ಏಕೆ ಗ್ಯಾಲ್ವನೈಸ್ ಮಾಡಲಾಗಿರುತ್ತದೆ?",
-      "options": ["ಅವುಗಳನ್ನು ಹೊಳೆಯುವಂತೆ ಮಾಡಲು", "ನೀರಿನ ಹರಿವನ್ನು ಹೆಚ್ಚಿಸಲು", "ಅವು ತುಕ್ಕು ಹಿಡಿಯದಂತೆ ತಡೆಯಲು", "ನೀರನ್ನು ಶುದ್ಧಗೊಳಿಸಲು"],
+      "options": [
+        "ಅವುಗಳನ್ನು ಹೊಳೆಯುವಂತೆ ಮಾಡಲು",
+        "ನೀರಿನ ಹರಿವನ್ನು ಹೆಚ್ಚಿಸಲು",
+        "ಅವು ತುಕ್ಕು ಹಿಡಿಯದಂತೆ ತಡೆಯಲು",
+        "ನೀರನ್ನು ಶುದ್ಧಗೊಳಿಸಲು"
+      ],
       "answer": "ಅವು ತುಕ್ಕು ಹಿಡಿಯದಂತೆ ತಡೆಯಲು",
       "reasoning": "ಗ್ಯಾಲ್ವನೀಕರಣವು ನೀರು ಮತ್ತು ಆಮ್ಲಜನಕವನ್ನು ಕಬ್ಬಿಣ ತಲುಪದಂತೆ ತಡೆಯುತ್ತದೆ, ಇದರಿಂದ ತುಕ್ಕು ಹಿಡಿಯುವುದಿಲ್ಲ."
     }
@@ -367,13 +589,23 @@
     },
     "en": {
       "question": "A freshly cut apple turns brown if left out for some time. This is an example of:",
-      "options": ["A physical change", "A chemical change", "A state change", "Crystallisation"],
+      "options": [
+        "A physical change",
+        "A chemical change",
+        "A state change",
+        "Crystallisation"
+      ],
       "answer": "A chemical change",
       "reasoning": "The browning is due to a chemical reaction between enzymes in the apple and oxygen in the air."
     },
     "kn": {
       "question": "ಕತ್ತರಿಸಿದ ಸೇಬನ್ನು ಸ್ವಲ್ಪ ಸಮಯ ಹೊರಗಿಟ್ಟರೆ ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ. ಇದು ಯಾವುದಕ್ಕೆ ಉದಾಹರಣೆ?",
-      "options": ["ಭೌತಿಕ ಬದಲಾವಣೆ", "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ", "ಸ್ಥಿತಿಯ ಬದಲಾವಣೆ", "ಹರಳುಗಟ್ಟುವಿಕೆ"],
+      "options": [
+        "ಭೌತಿಕ ಬದಲಾವಣೆ",
+        "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ",
+        "ಸ್ಥಿತಿಯ ಬದಲಾವಣೆ",
+        "ಹರಳುಗಟ್ಟುವಿಕೆ"
+      ],
       "answer": "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ",
       "reasoning": "ಸೇಬಿನಲ್ಲಿರುವ ಕಿಣ್ವಗಳು ಮತ್ತು ಗಾಳಿಯಲ್ಲಿರುವ ಆಮ್ಲಜನಕದ ನಡುವಿನ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಿಂದ ಕಂದು ಬಣ್ಣ ಉಂಟಾಗುತ್ತದೆ."
     }
@@ -385,20 +617,44 @@
     "en": {
       "question": "Match the metal with its role in preventing rust.",
       "pairs": [
-        {"left": "Zinc", "right": "Coated on iron during galvanisation"},
-        {"left": "Chromium and Nickel", "right": "Mixed with iron to make stainless steel"},
-        {"left": "Iron", "right": "The metal being protected"},
-        {"left": "Oxygen and Water", "right": "Agents causing rust"}
+        {
+          "left": "Zinc",
+          "right": "Coated on iron during galvanisation"
+        },
+        {
+          "left": "Chromium and Nickel",
+          "right": "Mixed with iron to make stainless steel"
+        },
+        {
+          "left": "Iron",
+          "right": "The metal being protected"
+        },
+        {
+          "left": "Oxygen and Water",
+          "right": "Agents causing rust"
+        }
       ],
       "reasoning": "Different metals are alloyed or coated to prevent the rusting of iron."
     },
     "kn": {
       "question": "ತುಕ್ಕು ಹಿಡಿಯುವುದನ್ನು ತಡೆಯುವಲ್ಲಿ ಲೋಹಗಳನ್ನು ಅವುಗಳ ಪಾತ್ರದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
       "pairs": [
-        {"left": "ಸತು (Zinc)", "right": "ಗ್ಯಾಲ್ವನೀಕರಣದ ಸಮಯದಲ್ಲಿ ಕಬ್ಬಿಣದ ಮೇಲೆ ಲೇಪಿಸಲಾಗುತ್ತದೆ"},
-        {"left": "ಕ್ರೋಮಿಯಂ ಮತ್ತು ನಿಕಲ್", "right": "ಸ್ಟೇನ್ಲೆಸ್ ಸ್ಟೀಲ್ ಮಾಡಲು ಕಬ್ಬಿಣದೊಂದಿಗೆ ಬೆರೆಸಲಾಗುತ್ತದೆ"},
-        {"left": "ಕಬ್ಬಿಣ", "right": "ರಕ್ಷಿಸಲ್ಪಡುತ್ತಿರುವ ಲೋಹ"},
-        {"left": "ಆಮ್ಲಜನಕ ಮತ್ತು ನೀರು", "right": "ತುಕ್ಕುಗೆ ಕಾರಣವಾಗುವ ಏಜೆಂಟ್ ಗಳು"}
+        {
+          "left": "ಸತು (Zinc)",
+          "right": "ಗ್ಯಾಲ್ವನೀಕರಣದ ಸಮಯದಲ್ಲಿ ಕಬ್ಬಿಣದ ಮೇಲೆ ಲೇಪಿಸಲಾಗುತ್ತದೆ"
+        },
+        {
+          "left": "ಕ್ರೋಮಿಯಂ ಮತ್ತು ನಿಕಲ್",
+          "right": "ಸ್ಟೇನ್ಲೆಸ್ ಸ್ಟೀಲ್ ಮಾಡಲು ಕಬ್ಬಿಣದೊಂದಿಗೆ ಬೆರೆಸಲಾಗುತ್ತದೆ"
+        },
+        {
+          "left": "ಕಬ್ಬಿಣ",
+          "right": "ರಕ್ಷಿಸಲ್ಪಡುತ್ತಿರುವ ಲೋಹ"
+        },
+        {
+          "left": "ಆಮ್ಲಜನಕ ಮತ್ತು ನೀರು",
+          "right": "ತುಕ್ಕುಗೆ ಕಾರಣವಾಗುವ ಏಜೆಂಟ್ ಗಳು"
+        }
       ],
       "reasoning": "ಕಬ್ಬಿಣ ತುಕ್ಕು ಹಿಡಿಯುವುದನ್ನು ತಡೆಯಲು ವಿವಿಧ ಲೋಹಗಳನ್ನು ಲೇಪಿಸಲಾಗುತ್ತದೆ ಅಥವಾ ಬೆರೆಸಲಾಗುತ್ತದೆ."
     }
@@ -409,13 +665,23 @@
     "difficulty": 3,
     "en": {
       "question": "What happens when an iron nail is dropped into a blue copper sulphate solution?",
-      "options": ["The solution turns green and copper is deposited on the nail", "The nail dissolves completely", "The solution remains blue with no change", "The nail turns into gold"],
+      "options": [
+        "The solution turns green and copper is deposited on the nail",
+        "The nail dissolves completely",
+        "The solution remains blue with no change",
+        "The nail turns into gold"
+      ],
       "answer": "The solution turns green and copper is deposited on the nail",
       "reasoning": "Iron displaces copper from copper sulphate, forming green iron sulphate and a brown copper deposit."
     },
     "kn": {
       "question": "ನೀಲಿ ಬಣ್ಣದ ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ದ್ರಾವಣಕ್ಕೆ ಕಬ್ಬಿಣದ ಮೊಳೆಯನ್ನು ಹಾಕಿದಾಗ ಏನಾಗುತ್ತದೆ?",
-      "options": ["ದ್ರಾವಣ ಹಸಿರಾಗುತ್ತದೆ ಮತ್ತು ಮೊಳೆಯ ಮೇಲೆ ತಾಮ್ರ ಸಂಗ್ರಹವಾಗುತ್ತದೆ", "ಮೊಳೆ ಸಂಪೂರ್ಣವಾಗಿ ಕರಗುತ್ತದೆ", "ಯಾವುದೇ ಬದಲಾವಣೆಯಿಲ್ಲದೆ ದ್ರಾವಣ ನೀಲಿಯಾಗಿಯೇ ಇರುತ್ತದೆ", "ಮೊಳೆ ಚಿನ್ನವಾಗಿ ಬದಲಾಗುತ್ತದೆ"],
+      "options": [
+        "ದ್ರಾವಣ ಹಸಿರಾಗುತ್ತದೆ ಮತ್ತು ಮೊಳೆಯ ಮೇಲೆ ತಾಮ್ರ ಸಂಗ್ರಹವಾಗುತ್ತದೆ",
+        "ಮೊಳೆ ಸಂಪೂರ್ಣವಾಗಿ ಕರಗುತ್ತದೆ",
+        "ಯಾವುದೇ ಬದಲಾವಣೆಯಿಲ್ಲದೆ ದ್ರಾವಣ ನೀಲಿಯಾಗಿಯೇ ಇರುತ್ತದೆ",
+        "ಮೊಳೆ ಚಿನ್ನವಾಗಿ ಬದಲಾಗುತ್ತದೆ"
+      ],
       "answer": "ದ್ರಾವಣ ಹಸಿರಾಗುತ್ತದೆ ಮತ್ತು ಮೊಳೆಯ ಮೇಲೆ ತಾಮ್ರ ಸಂಗ್ರಹವಾಗುತ್ತದೆ",
       "reasoning": "ಕಬ್ಬಿಣವು ಕಾಪರ್ ಸಲ್ಫೇಟ್‌ನಿಂದ ತಾಮ್ರವನ್ನು ಸ್ಥಳಾಂತರಿಸುತ್ತದೆ, ಇದರಿಂದ ಹಸಿರು ಐರನ್ ಸಲ್ಫೇಟ್ ಉಂಟಾಗುತ್ತದೆ ಮತ್ತು ತಾಮ್ರ ಮೊಳೆಯ ಮೇಲಿರುತ್ತದೆ."
     }
@@ -430,18 +696,34 @@
         "en": "UV radiation hitting the Ozone layer",
         "kn": "ಓಝೋನ್ ಪದರಕ್ಕೆ ಅಪ್ಪಳಿಸುವ ಯುವಿ (UV) ವಿಕಿರಣ"
       },
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 150\"><path d=\"M20,100 L280,100\" stroke=\"#34D399\" stroke-width=\"4\"/><text x=\"150\" y=\"80\" text-anchor=\"middle\">Ozone Layer (O3)</text><path d=\"M150,30 L150,60\" stroke=\"#DC2626\" stroke-width=\"2\" marker-end=\"url(#a)\"/><text x=\"150\" y=\"20\" text-anchor=\"middle\">UV Radiation</text><defs><marker id=\"a\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8\" fill=\"none\" stroke=\"context-stroke\"/></marker></defs></svg>"
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 150\"><path d=\"M20,100 L280,100\" stroke=\"#34D399\" stroke-width=\"4\"/><text x=\"150\" y=\"80\" text-anchor=\"middle\">Ozone Layer (O3)</text><path d=\"M150,30 L150,60\" stroke=\"#DC2626\" stroke-width=\"2\" marker-end=\"url(#a)\"/><text x=\"150\" y=\"20\" text-anchor=\"middle\">UV Radiation</text><defs><marker id=\"a\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8\" fill=\"none\" stroke=\"context-stroke\"/></marker></defs></svg>"
     },
     "en": {
       "question": "The ozone layer protects us from UV radiation by breaking down into oxygen. Which statements are correct?",
-      "options": ["Breaking down of ozone is a chemical change", "Ozone and oxygen are the same substance", "It is a physical change", "Ozone acts as a natural shield"],
-      "answer": ["Breaking down of ozone is a chemical change", "Ozone acts as a natural shield"],
+      "options": [
+        "Breaking down of ozone is a chemical change",
+        "Ozone and oxygen are the same substance",
+        "It is a physical change",
+        "Ozone acts as a natural shield"
+      ],
+      "answer": [
+        "Breaking down of ozone is a chemical change",
+        "Ozone acts as a natural shield"
+      ],
       "reasoning": "Ozone (O3) breaks down into Oxygen (O2), which is a chemical change. Ozone is different from oxygen."
     },
     "kn": {
       "question": "ಓಝೋನ್ ಪದರವು ಆಮ್ಲಜನಕವಾಗಿ ಒಡೆಯುವ ಮೂಲಕ ನಮ್ಮನ್ನು UV ವಿಕಿರಣದಿಂದ ರಕ್ಷಿಸುತ್ತದೆ. ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ?",
-      "options": ["ಓಝೋನ್ ಒಡೆಯುವುದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ", "ಓಝೋನ್ ಮತ್ತು ಆಮ್ಲಜನಕ ಒಂದೇ ವಸ್ತು", "ಇದು ಭೌತಿಕ ಬದಲಾವಣೆ", "ಓಝೋನ್ ನೈಸರ್ಗಿಕ ಗುರಾಣಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ"],
-      "answer": ["ಓಝೋನ್ ಒಡೆಯುವುದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ", "ಓಝೋನ್ ನೈಸರ್ಗಿಕ ಗುರಾಣಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ"],
+      "options": [
+        "ಓಝೋನ್ ಒಡೆಯುವುದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ",
+        "ಓಝೋನ್ ಮತ್ತು ಆಮ್ಲಜನಕ ಒಂದೇ ವಸ್ತು",
+        "ಇದು ಭೌತಿಕ ಬದಲಾವಣೆ",
+        "ಓಝೋನ್ ನೈಸರ್ಗಿಕ ಗುರಾಣಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ"
+      ],
+      "answer": [
+        "ಓಝೋನ್ ಒಡೆಯುವುದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ",
+        "ಓಝೋನ್ ನೈಸರ್ಗಿಕ ಗುರಾಣಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ"
+      ],
       "reasoning": "ಓಝೋನ್ (O3) ಆಮ್ಲಜನಕ (O2) ಆಗಿ ಒಡೆಯುತ್ತದೆ, ಇದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ. ಓಝೋನ್ ಆಮ್ಲಜನಕಕ್ಕಿಂತ ಭಿನ್ನವಾಗಿದೆ."
     }
   },
@@ -451,13 +733,23 @@
     "difficulty": 3,
     "en": {
       "question": "How are large crystals of pure substances obtained from their solutions?",
-      "options": ["By boiling the solution completely", "By the process of crystallisation", "By filtering the solution", "By adding rust"],
+      "options": [
+        "By boiling the solution completely",
+        "By the process of crystallisation",
+        "By filtering the solution",
+        "By adding rust"
+      ],
       "answer": "By the process of crystallisation",
       "reasoning": "Crystallisation is a physical change used to obtain large, pure crystals of a substance from its saturated solution."
     },
     "kn": {
       "question": "ಅವುಗಳ ದ್ರಾವಣಗಳಿಂದ ಶುದ್ಧ ವಸ್ತುಗಳ ದೊಡ್ಡ ಹರಳುಗಳನ್ನು ಹೇಗೆ ಪಡೆಯಲಾಗುತ್ತದೆ?",
-      "options": ["ದ್ರಾವಣವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಕುದಿಸುವ ಮೂಲಕ", "ಹರಳುಗಟ್ಟುವಿಕೆ (crystallisation) ಪ್ರಕ್ರಿಯೆಯ ಮೂಲಕ", "ದ್ರಾವಣವನ್ನು ಸೋಸುವ ಮೂಲಕ", "ತುಕ್ಕನ್ನು ಸೇರಿಸುವ ಮೂಲಕ"],
+      "options": [
+        "ದ್ರಾವಣವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಕುದಿಸುವ ಮೂಲಕ",
+        "ಹರಳುಗಟ್ಟುವಿಕೆ (crystallisation) ಪ್ರಕ್ರಿಯೆಯ ಮೂಲಕ",
+        "ದ್ರಾವಣವನ್ನು ಸೋಸುವ ಮೂಲಕ",
+        "ತುಕ್ಕನ್ನು ಸೇರಿಸುವ ಮೂಲಕ"
+      ],
       "answer": "ಹರಳುಗಟ್ಟುವಿಕೆ (crystallisation) ಪ್ರಕ್ರಿಯೆಯ ಮೂಲಕ",
       "reasoning": "ಹರಳುಗಟ್ಟುವಿಕೆಯು ಒಂದು ಭೌತಿಕ ಬದಲಾವಣೆಯಾಗಿದ್ದು, ಪರ್ಯಾಪ್ತ ದ್ರಾವಣದಿಂದ ಶುದ್ಧ ಹರಳುಗಳನ್ನು ಪಡೆಯಲು ಇದನ್ನು ಬಳಸಲಾಗುತ್ತದೆ."
     }
@@ -469,20 +761,44 @@
     "en": {
       "question": "Match the chemical equations/names to their common names.",
       "pairs": [
-        {"left": "Iron oxide", "right": "Rust"},
-        {"left": "Sodium bicarbonate", "right": "Baking soda"},
-        {"left": "Acetic acid", "right": "Vinegar"},
-        {"left": "Calcium carbonate", "right": "Milky substance in lime water"}
+        {
+          "left": "Iron oxide",
+          "right": "Rust"
+        },
+        {
+          "left": "Sodium bicarbonate",
+          "right": "Baking soda"
+        },
+        {
+          "left": "Acetic acid",
+          "right": "Vinegar"
+        },
+        {
+          "left": "Calcium carbonate",
+          "right": "Milky substance in lime water"
+        }
       ],
       "reasoning": "Familiarity with everyday chemical names is key in understanding chemical changes."
     },
     "kn": {
       "question": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣಗಳು/ಹೆಸರುಗಳನ್ನು ಅವುಗಳ ಸಾಮಾನ್ಯ ಹೆಸರುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
       "pairs": [
-        {"left": "ಐರನ್ ಆಕ್ಸೈಡ್", "right": "ತುಕ್ಕು"},
-        {"left": "ಸೋಡಿಯಂ ಬೈಕಾರ್ಬೋನೇಟ್", "right": "ಅಡುಗೆ ಸೋಡಾ"},
-        {"left": "ಅಸಿಟಿಕ್ ಆಮ್ಲ", "right": "ವಿನೆಗರ್"},
-        {"left": "ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್", "right": "ಸುಣ್ಣದ ನೀರಿನಲ್ಲಿ ಉಂಟಾಗುವ ಬಿಳಿ ವಸ್ತು"}
+        {
+          "left": "ಐರನ್ ಆಕ್ಸೈಡ್",
+          "right": "ತುಕ್ಕು"
+        },
+        {
+          "left": "ಸೋಡಿಯಂ ಬೈಕಾರ್ಬೋನೇಟ್",
+          "right": "ಅಡುಗೆ ಸೋಡಾ"
+        },
+        {
+          "left": "ಅಸಿಟಿಕ್ ಆಮ್ಲ",
+          "right": "ವಿನೆಗರ್"
+        },
+        {
+          "left": "ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್",
+          "right": "ಸುಣ್ಣದ ನೀರಿನಲ್ಲಿ ಉಂಟಾಗುವ ಬಿಳಿ ವಸ್ತು"
+        }
       ],
       "reasoning": "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ದೈನಂದಿನ ರಾಸಾಯನಿಕ ಹೆಸರುಗಳ ಅರಿವು ಮುಖ್ಯವಾಗಿದೆ."
     }
@@ -493,13 +809,23 @@
     "difficulty": 3,
     "en": {
       "question": "Why is rusting faster in coastal areas?",
-      "options": ["The temperature is lower", "The air contains more moisture and salt", "There is more sunlight", "Coastal areas have more iron"],
+      "options": [
+        "The temperature is lower",
+        "The air contains more moisture and salt",
+        "There is more sunlight",
+        "Coastal areas have more iron"
+      ],
       "answer": "The air contains more moisture and salt",
       "reasoning": "Moisture and salt in the sea breeze speed up the chemical reaction of rusting."
     },
     "kn": {
       "question": "ಕರಾವಳಿ ಪ್ರದೇಶಗಳಲ್ಲಿ ತುಕ್ಕು ಹಿಡಿಯುವಿಕೆ ಏಕೆ ವೇಗವಾಗಿರುತ್ತದೆ?",
-      "options": ["ತಾಪಮಾನ ಕಡಿಮೆಯಿರುತ್ತದೆ", "ಗಾಳಿಯು ಹೆಚ್ಚು ತೇವಾಂಶ ಮತ್ತು ಉಪ್ಪನ್ನು ಹೊಂದಿರುತ್ತದೆ", "ಹೆಚ್ಚು ಸೂರ್ಯನ ಬೆಳಕು ಇರುತ್ತದೆ", "ಕರಾವಳಿ ಪ್ರದೇಶಗಳಲ್ಲಿ ಹೆಚ್ಚು ಕಬ್ಬಿಣ ಇರುತ್ತದೆ"],
+      "options": [
+        "ತಾಪಮಾನ ಕಡಿಮೆಯಿರುತ್ತದೆ",
+        "ಗಾಳಿಯು ಹೆಚ್ಚು ತೇವಾಂಶ ಮತ್ತು ಉಪ್ಪನ್ನು ಹೊಂದಿರುತ್ತದೆ",
+        "ಹೆಚ್ಚು ಸೂರ್ಯನ ಬೆಳಕು ಇರುತ್ತದೆ",
+        "ಕರಾವಳಿ ಪ್ರದೇಶಗಳಲ್ಲಿ ಹೆಚ್ಚು ಕಬ್ಬಿಣ ಇರುತ್ತದೆ"
+      ],
       "answer": "ಗಾಳಿಯು ಹೆಚ್ಚು ತೇವಾಂಶ ಮತ್ತು ಉಪ್ಪನ್ನು ಹೊಂದಿರುತ್ತದೆ",
       "reasoning": "ಸಮುದ್ರದ ಗಾಳಿಯಲ್ಲಿರುವ ತೇವಾಂಶ ಮತ್ತು ಉಪ್ಪು ತುಕ್ಕು ಹಿಡಿಯುವ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯನ್ನು ವೇಗಗೊಳಿಸುತ್ತದೆ."
     }
@@ -510,14 +836,32 @@
     "difficulty": 3,
     "en": {
       "question": "Which of the following processes are physical changes?",
-      "options": ["Crystallisation of copper sulphate", "Melting of wax", "Digestion of food", "Boiling of water"],
-      "answer": ["Crystallisation of copper sulphate", "Melting of wax", "Boiling of water"],
+      "options": [
+        "Crystallisation of copper sulphate",
+        "Melting of wax",
+        "Digestion of food",
+        "Boiling of water"
+      ],
+      "answer": [
+        "Crystallisation of copper sulphate",
+        "Melting of wax",
+        "Boiling of water"
+      ],
       "reasoning": "Digestion produces entirely new substances, making it a chemical change. The others are physical."
     },
     "kn": {
       "question": "ಕೆಳಗಿನ ಪ್ರಕ್ರಿಯೆಗಳಲ್ಲಿ ಯಾವುದು ಭೌತಿಕ ಬದಲಾವಣೆಗಳಾಗಿವೆ?",
-      "options": ["ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ನ ಹರಳುಗಟ್ಟುವಿಕೆ", "ಮೇಣ ಕರಗುವುದು", "ಆಹಾರದ ಜೀರ್ಣಕ್ರಿಯೆ", "ನೀರು ಕುದಿಯುವುದು"],
-      "answer": ["ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ನ ಹರಳುಗಟ್ಟುವಿಕೆ", "ಮೇಣ ಕರಗುವುದು", "ನೀರು ಕುದಿಯುವುದು"],
+      "options": [
+        "ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ನ ಹರಳುಗಟ್ಟುವಿಕೆ",
+        "ಮೇಣ ಕರಗುವುದು",
+        "ಆಹಾರದ ಜೀರ್ಣಕ್ರಿಯೆ",
+        "ನೀರು ಕುದಿಯುವುದು"
+      ],
+      "answer": [
+        "ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ನ ಹರಳುಗಟ್ಟುವಿಕೆ",
+        "ಮೇಣ ಕರಗುವುದು",
+        "ನೀರು ಕುದಿಯುವುದು"
+      ],
       "reasoning": "ಜೀರ್ಣಕ್ರಿಯೆಯು ಸಂಪೂರ್ಣವಾಗಿ ಹೊಸ ವಸ್ತುಗಳನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ, ಆದ್ದರಿಂದ ಇದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ. ಉಳಿದವು ಭೌತಿಕ ಬದಲಾವಣೆಗಳು."
     }
   },
@@ -531,17 +875,27 @@
         "en": "Large blue crystals forming in a beaker of solution",
         "kn": "ದ್ರಾವಣದ ಬೀಕರ್‌ನಲ್ಲಿ ರೂಪುಗೊಳ್ಳುತ್ತಿರುವ ದೊಡ್ಡ ನೀಲಿ ಹರಳುಗಳು"
       },
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"100\" y=\"50\" width=\"100\" height=\"100\" fill=\"none\" stroke=\"#2563EB\"/><path d=\"M100,100 L200,100 L200,150 L100,150 Z\" fill=\"#60A5FA\"/><polygon points=\"150,140 140,120 160,120\" fill=\"#1E3A8A\"/><polygon points=\"130,130 125,110 135,110\" fill=\"#1E3A8A\"/></svg>"
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"100\" y=\"50\" width=\"100\" height=\"100\" fill=\"none\" stroke=\"#2563EB\"/><path d=\"M100,100 L200,100 L200,150 L100,150 Z\" fill=\"#60A5FA\"/><polygon points=\"150,140 140,120 160,120\" fill=\"#1E3A8A\"/><polygon points=\"130,130 125,110 135,110\" fill=\"#1E3A8A\"/></svg>"
     },
     "en": {
       "question": "What process is shown where pure, large solid particles separate from a solution?",
-      "options": ["Evaporation", "Crystallisation", "Rusting", "Condensation"],
+      "options": [
+        "Evaporation",
+        "Crystallisation",
+        "Rusting",
+        "Condensation"
+      ],
       "answer": "Crystallisation",
       "reasoning": "Crystallisation is the process of forming solid crystals from a homogeneous solution."
     },
     "kn": {
       "question": "ದ್ರಾವಣದಿಂದ ಶುದ್ಧವಾದ, ದೊಡ್ಡ ಘನ ಕಣಗಳು ಬೇರ್ಪಡುವ ಈ ಪ್ರಕ್ರಿಯೆ ಯಾವುದು?",
-      "options": ["ಬಾಷ್ಪೀಕರಣ", "ಹರಳುಗಟ್ಟುವಿಕೆ", "ತುಕ್ಕು ಹಿಡಿಯುವಿಕೆ", "ಸಾಂದ್ರೀಕರಣ"],
+      "options": [
+        "ಬಾಷ್ಪೀಕರಣ",
+        "ಹರಳುಗಟ್ಟುವಿಕೆ",
+        "ತುಕ್ಕು ಹಿಡಿಯುವಿಕೆ",
+        "ಸಾಂದ್ರೀಕರಣ"
+      ],
       "answer": "ಹರಳುಗಟ್ಟುವಿಕೆ",
       "reasoning": "ಹರಳುಗಟ್ಟುವಿಕೆ ಎಂದರೆ ಏಕರೂಪದ ದ್ರಾವಣದಿಂದ ಘನ ಹರಳುಗಳನ್ನು ರೂಪಿಸುವ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ."
     }
@@ -552,13 +906,23 @@
     "difficulty": 3,
     "en": {
       "question": "How is stainless steel made?",
-      "options": ["By coating iron with zinc", "By mixing iron with carbon, chromium, nickel, and manganese", "By burning iron in oxygen", "By melting iron and copper together"],
+      "options": [
+        "By coating iron with zinc",
+        "By mixing iron with carbon, chromium, nickel, and manganese",
+        "By burning iron in oxygen",
+        "By melting iron and copper together"
+      ],
       "answer": "By mixing iron with carbon, chromium, nickel, and manganese",
       "reasoning": "Stainless steel is an alloy of iron with carbon, chromium, nickel, and manganese, which does not rust."
     },
     "kn": {
       "question": "ಸ್ಟೇನ್ಲೆಸ್ ಸ್ಟೀಲ್ ಅನ್ನು ಹೇಗೆ ತಯಾರಿಸಲಾಗುತ್ತದೆ?",
-      "options": ["ಕಬ್ಬಿಣದ ಮೇಲೆ ಸತುವನ್ನು ಲೇಪಿಸುವ ಮೂಲಕ", "ಕಬ್ಬಿಣದೊಂದಿಗೆ ಇಂಗಾಲ, ಕ್ರೋಮಿಯಂ, ನಿಕಲ್, ಮತ್ತು ಮ್ಯಾಂಗನೀಸ್ ಬೆರೆಸುವ ಮೂಲಕ", "ಆಮ್ಲಜನಕದಲ್ಲಿ ಕಬ್ಬಿಣವನ್ನು ಸುಡುವ ಮೂಲಕ", "ಕಬ್ಬಿಣ ಮತ್ತು ತಾಮ್ರವನ್ನು ಒಟ್ಟಿಗೆ ಕರಗಿಸುವ ಮೂಲಕ"],
+      "options": [
+        "ಕಬ್ಬಿಣದ ಮೇಲೆ ಸತುವನ್ನು ಲೇಪಿಸುವ ಮೂಲಕ",
+        "ಕಬ್ಬಿಣದೊಂದಿಗೆ ಇಂಗಾಲ, ಕ್ರೋಮಿಯಂ, ನಿಕಲ್, ಮತ್ತು ಮ್ಯಾಂಗನೀಸ್ ಬೆರೆಸುವ ಮೂಲಕ",
+        "ಆಮ್ಲಜನಕದಲ್ಲಿ ಕಬ್ಬಿಣವನ್ನು ಸುಡುವ ಮೂಲಕ",
+        "ಕಬ್ಬಿಣ ಮತ್ತು ತಾಮ್ರವನ್ನು ಒಟ್ಟಿಗೆ ಕರಗಿಸುವ ಮೂಲಕ"
+      ],
       "answer": "ಕಬ್ಬಿಣದೊಂದಿಗೆ ಇಂಗಾಲ, ಕ್ರೋಮಿಯಂ, ನಿಕಲ್, ಮತ್ತು ಮ್ಯಾಂಗನೀಸ್ ಬೆರೆಸುವ ಮೂಲಕ",
       "reasoning": "ಸ್ಟೇನ್ಲೆಸ್ ಸ್ಟೀಲ್ ಎಂಬುದು ಕಬ್ಬಿಣದ ಜೊತೆಗೆ ಇಂಗಾಲ, ಕ್ರೋಮಿಯಂ, ನಿಕಲ್ ಮತ್ತು ಮ್ಯಾಂಗನೀಸ್ ಬೆರೆಸಿದ ಮಿಶ್ರಲೋಹವಾಗಿದ್ದು, ಇದು ತುಕ್ಕು ಹಿಡಿಯುವುದಿಲ್ಲ."
     }
@@ -569,14 +933,30 @@
     "difficulty": 3,
     "en": {
       "question": "Which of these gases are evolved during common chemical changes mentioned in Class 7?",
-      "options": ["Carbon dioxide (from vinegar and baking soda)", "Hydrogen (from iron and copper sulphate)", "Oxygen (from ozone layer depletion)", "Nitrogen (from rusting)"],
-      "answer": ["Carbon dioxide (from vinegar and baking soda)", "Oxygen (from ozone layer depletion)"],
+      "options": [
+        "Carbon dioxide (from vinegar and baking soda)",
+        "Hydrogen (from iron and copper sulphate)",
+        "Oxygen (from ozone layer depletion)",
+        "Nitrogen (from rusting)"
+      ],
+      "answer": [
+        "Carbon dioxide (from vinegar and baking soda)",
+        "Oxygen (from ozone layer depletion)"
+      ],
       "reasoning": "Vinegar + baking soda releases CO2, and Ozone breaks down into Oxygen. Iron + Copper sulphate does not release hydrogen gas."
     },
     "kn": {
       "question": "7ನೇ ತರಗತಿಯಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾದ ಸಾಮಾನ್ಯ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳ ಸಮಯದಲ್ಲಿ ಈ ಕೆಳಗಿನ ಯಾವ ಅನಿಲಗಳು ಬಿಡುಗಡೆಯಾಗುತ್ತವೆ?",
-      "options": ["ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (ವಿನೆಗರ್ ಮತ್ತು ಅಡುಗೆ ಸೋಡಾದಿಂದ)", "ಹೈಡ್ರೋಜನ್ (ಕಬ್ಬಿಣ ಮತ್ತು ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ನಿಂದ)", "ಆಮ್ಲಜನಕ (ಓಝೋನ್ ಪದರದ ಸವೆತದಿಂದ)", "ಸಾರಜನಕ (ತುಕ್ಕು ಹಿಡಿಯುವಿಕೆಯಿಂದ)"],
-      "answer": ["ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (ವಿನೆಗರ್ ಮತ್ತು ಅಡುಗೆ ಸೋಡಾದಿಂದ)", "ಆಮ್ಲಜನಕ (ಓಝೋನ್ ಪದರದ ಸವೆತದಿಂದ)"],
+      "options": [
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (ವಿನೆಗರ್ ಮತ್ತು ಅಡುಗೆ ಸೋಡಾದಿಂದ)",
+        "ಹೈಡ್ರೋಜನ್ (ಕಬ್ಬಿಣ ಮತ್ತು ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ನಿಂದ)",
+        "ಆಮ್ಲಜನಕ (ಓಝೋನ್ ಪದರದ ಸವೆತದಿಂದ)",
+        "ಸಾರಜನಕ (ತುಕ್ಕು ಹಿಡಿಯುವಿಕೆಯಿಂದ)"
+      ],
+      "answer": [
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (ವಿನೆಗರ್ ಮತ್ತು ಅಡುಗೆ ಸೋಡಾದಿಂದ)",
+        "ಆಮ್ಲಜನಕ (ಓಝೋನ್ ಪದರದ ಸವೆತದಿಂದ)"
+      ],
       "reasoning": "ವಿನೆಗರ್ + ಅಡುಗೆ ಸೋಡಾ CO2 ಅನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ ಮತ್ತು ಓಝೋನ್ ಆಮ್ಲಜನಕವಾಗಿ ಒಡೆಯುತ್ತದೆ. ಕಬ್ಬಿಣ + ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಹೈಡ್ರೋಜನ್ ಅನಿಲವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವುದಿಲ್ಲ."
     }
   },
@@ -587,20 +967,44 @@
     "en": {
       "question": "Match the test/observation with the substance involved.",
       "pairs": [
-        {"left": "Pops with a burning match", "right": "Hydrogen gas"},
-        {"left": "Turns lime water milky", "right": "Carbon dioxide"},
-        {"left": "Leaves a white ash when burnt", "right": "Magnesium ribbon"},
-        {"left": "Turns from blue to green with iron", "right": "Copper sulphate"}
+        {
+          "left": "Pops with a burning match",
+          "right": "Hydrogen gas"
+        },
+        {
+          "left": "Turns lime water milky",
+          "right": "Carbon dioxide"
+        },
+        {
+          "left": "Leaves a white ash when burnt",
+          "right": "Magnesium ribbon"
+        },
+        {
+          "left": "Turns from blue to green with iron",
+          "right": "Copper sulphate"
+        }
       ],
       "reasoning": "These observations confirm the presence or production of specific chemicals in Class 7 experiments."
     },
     "kn": {
       "question": "ಪರೀಕ್ಷೆ/ವೀಕ್ಷಣೆಯನ್ನು ಅದರಲ್ಲಿ ಒಳಗೊಂಡಿರುವ ವಸ್ತುವಿನೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
       "pairs": [
-        {"left": "ಉರಿಯುತ್ತಿರುವ ಬೆಂಕಿಕಡ್ಡಿಯೊಂದಿಗೆ ಪಾಪ್ ಶಬ್ದ", "right": "ಹೈಡ್ರೋಜನ್ ಅನಿಲ"},
-        {"left": "ಸುಣ್ಣದ ನೀರನ್ನು ಹಾಲಿನಂತೆ ಮಾಡುತ್ತದೆ", "right": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"},
-        {"left": "ಸುಟ್ಟಾಗ ಬಿಳಿ ಬೂದಿಯನ್ನು ಬಿಡುತ್ತದೆ", "right": "ಮೆಗ್ನೀಸಿಯಮ್ ಪಟ್ಟಿ"},
-        {"left": "ಕಬ್ಬಿಣದೊಂದಿಗೆ ನೀಲಿಯಿಂದ ಹಸಿರಿಗೆ ತಿರುಗುತ್ತದೆ", "right": "ಕಾಪರ್ ಸಲ್ಫೇಟ್"}
+        {
+          "left": "ಉರಿಯುತ್ತಿರುವ ಬೆಂಕಿಕಡ್ಡಿಯೊಂದಿಗೆ ಪಾಪ್ ಶಬ್ದ",
+          "right": "ಹೈಡ್ರೋಜನ್ ಅನಿಲ"
+        },
+        {
+          "left": "ಸುಣ್ಣದ ನೀರನ್ನು ಹಾಲಿನಂತೆ ಮಾಡುತ್ತದೆ",
+          "right": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+        },
+        {
+          "left": "ಸುಟ್ಟಾಗ ಬಿಳಿ ಬೂದಿಯನ್ನು ಬಿಡುತ್ತದೆ",
+          "right": "ಮೆಗ್ನೀಸಿಯಮ್ ಪಟ್ಟಿ"
+        },
+        {
+          "left": "ಕಬ್ಬಿಣದೊಂದಿಗೆ ನೀಲಿಯಿಂದ ಹಸಿರಿಗೆ ತಿರುಗುತ್ತದೆ",
+          "right": "ಕಾಪರ್ ಸಲ್ಫೇಟ್"
+        }
       ],
       "reasoning": "ಈ ವೀಕ್ಷಣೆಗಳು 7ನೇ ತರಗತಿಯ ಪ್ರಯೋಗಗಳಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ರಾಸಾಯನಿಕಗಳ ಉಪಸ್ಥಿತಿ ಅಥವಾ ಉತ್ಪಾದನೆಯನ್ನು ಖಚಿತಪಡಿಸುತ್ತವೆ."
     }

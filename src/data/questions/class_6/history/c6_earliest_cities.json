@@ -5,13 +5,23 @@
     "difficulty": 1,
     "en": {
       "question": "Which was the first city of the Harappan civilization to be discovered in the Indian subcontinent?",
-      "options": ["Harappa", "Mohenjodaro", "Lothal", "Kalibangan"],
+      "options": [
+        "Harappa",
+        "Mohenjodaro",
+        "Lothal",
+        "Kalibangan"
+      ],
       "answer": "Harappa",
       "reasoning": "Harappa was the first city to be discovered, found about 150 years ago in Punjab (present-day Pakistan) by railway engineers, and subsequently studied by archaeologists."
     },
     "kn": {
       "question": "ಭಾರತೀಯ ಉಪಖಂಡದಲ್ಲಿ ಮೊದಲು ಪತ್ತೆಯಾದ ಹರಪ್ಪನ್ ನಾಗರಿಕತೆಯ ನಗರ ಯಾವುದು?",
-      "options": ["ಹರಪ್ಪ", "ಮೊಹೆಂಜೋದಾರೋ", "ಲೋಥಾಲ್", "ಕಾಲಿಬಂಗನ್"],
+      "options": [
+        "ಹರಪ್ಪ",
+        "ಮೊಹೆಂಜೋದಾರೋ",
+        "ಲೋಥಾಲ್",
+        "ಕಾಲಿಬಂಗನ್"
+      ],
       "answer": "ಹರಪ್ಪ",
       "reasoning": "ಸುಮಾರು 150 ವರ್ಷಗಳ ಹಿಂದೆ ಪಂಜಾಬ್‌ನಲ್ಲಿ (ಪ್ರಸ್ತುತ ಪಾಕಿಸ್ತಾನ) ರೈಲ್ವೆ ಇಂಜಿನಿಯರ್‌ಗಳು ಮೊದಲು ಪತ್ತೆಹಚ್ಚಿದ ಮತ್ತು ನಂತರ ಪುರಾತತ್ವಶಾಸ್ತ್ರಜ್ಞರಿಂದ ಅಧ್ಯಯನಕ್ಕೊಳಗಾದ ಮೊದಲ ನಗರ ಹರಪ್ಪ."
     }
@@ -22,13 +32,23 @@
     "difficulty": 1,
     "en": {
       "question": "The western part of Harappan cities was generally smaller but built on higher ground. What is it called?",
-      "options": ["Citadel", "Lower Town", "Garrison", "Basement"],
+      "options": [
+        "Citadel",
+        "Lower Town",
+        "Garrison",
+        "Basement"
+      ],
       "answer": "Citadel",
       "reasoning": "Harappan cities were divided into two or more parts. The part to the west was smaller but higher, and is described by archaeologists as the citadel."
     },
     "kn": {
       "question": "ಹರಪ್ಪನ್ ನಗರಗಳ ಪಶ್ಚಿಮ ಭಾಗವು ಸಾಮಾನ್ಯವಾಗಿ ಚಿಕ್ಕದಾಗಿದ್ದರೂ ಎತ್ತರದ ಪ್ರದೇಶದಲ್ಲಿದೆ. ಇದನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
-      "options": ["ಕೋಟೆ (Citadel)", "ಕೆಳ ನಗರ (Lower Town)", "ಸೇನಾ ನೆಲೆ", "ನೆಲಮಾಳಿಗೆ"],
+      "options": [
+        "ಕೋಟೆ (Citadel)",
+        "ಕೆಳ ನಗರ (Lower Town)",
+        "ಸೇನಾ ನೆಲೆ",
+        "ನೆಲಮಾಳಿಗೆ"
+      ],
       "answer": "ಕೋಟೆ (Citadel)",
       "reasoning": "ಹರಪ್ಪನ್ ನಗರಗಳನ್ನು ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿತ್ತು. ಪಶ್ಚಿಮದಲ್ಲಿದ್ದ ಚಿಕ್ಕದಾದ ಆದರೆ ಎತ್ತರದಲ್ಲಿದ್ದ ಭಾಗವನ್ನು ಪುರಾತತ್ವಶಾಸ್ತ್ರಜ್ಞರು 'ಕೋಟೆ' (Citadel) ಎಂದು ಕರೆದಿದ್ದಾರೆ."
     }
@@ -39,13 +59,23 @@
     "difficulty": 1,
     "en": {
       "question": "In which Harappan city was the famous brick-lined reservoir known as the 'Great Bath' discovered?",
-      "options": ["Mohenjodaro", "Harappa", "Dholavira", "Lothal"],
+      "options": [
+        "Mohenjodaro",
+        "Harappa",
+        "Dholavira",
+        "Lothal"
+      ],
       "answer": "Mohenjodaro",
       "reasoning": "A very special tank, which archaeologists call the Great Bath, was built in the citadel area of Mohenjodaro. It was lined with bricks and coated with plaster."
     },
     "kn": {
       "question": "ಪ್ರಸಿದ್ಧ ಇಟ್ಟಿಗೆಯಿಂದ ನಿರ್ಮಿತವಾದ 'ಮಹಾ ಸ್ನಾನಗೃಹ' (Great Bath) ಪತ್ತೆಯಾದ ಹರಪ್ಪನ್ ನಗರ ಯಾವುದು?",
-      "options": ["ಮೊಹೆಂಜೋದಾರೋ", "ಹರಪ್ಪ", "ಧೋಲಾವಿರಾ", "ಲೋಥಾಲ್"],
+      "options": [
+        "ಮೊಹೆಂಜೋದಾರೋ",
+        "ಹರಪ್ಪ",
+        "ಧೋಲಾವಿರಾ",
+        "ಲೋಥಾಲ್"
+      ],
       "answer": "ಮೊಹೆಂಜೋದಾರೋ",
       "reasoning": "ಮೊಹೆಂಜೋದಾರೋದ ಕೋಟೆ ಪ್ರದೇಶದಲ್ಲಿ ಮಹಾ ಸ್ನಾನಗೃಹ ಎಂದು ಕರೆಯಲಾಗುವ ವಿಶಿಷ್ಟ ಕೊಳವನ್ನು ನಿರ್ಮಿಸಲಾಗಿತ್ತು. ಇದಕ್ಕೆ ಇಟ್ಟಿಗೆಗಳನ್ನು ಜೋಡಿಸಿ ಪ್ಲಾಸ್ಟರ್ ಹಚ್ಚಲಾಗಿತ್ತು."
     }
@@ -56,13 +86,23 @@
     "difficulty": 1,
     "en": {
       "question": "What material was primarily used by the Harappans to make their flat, rectangular seals?",
-      "options": ["Stone", "Gold", "Wood", "Iron"],
+      "options": [
+        "Stone",
+        "Gold",
+        "Wood",
+        "Iron"
+      ],
       "answer": "Stone",
       "reasoning": "The Harappan seals were usually made of stone, and were rectangular in shape, often featuring an animal carved on them."
     },
     "kn": {
       "question": "ಹರಪ್ಪನ್ನರು ತಮ್ಮ ಚಪ್ಪಟೆಯಾದ, ಆಯತಾಕಾರದ ಮುದ್ರೆಗಳನ್ನು (seals) ತಯಾರಿಸಲು ಮುಖ್ಯವಾಗಿ ಯಾವ ವಸ್ತುವನ್ನು ಬಳಸುತ್ತಿದ್ದರು?",
-      "options": ["ಕಲ್ಲು", "ಚಿನ್ನ", "ಮರ", "ಕಬ್ಬಿಣ"],
+      "options": [
+        "ಕಲ್ಲು",
+        "ಚಿನ್ನ",
+        "ಮರ",
+        "ಕಬ್ಬಿಣ"
+      ],
       "answer": "ಕಲ್ಲು",
       "reasoning": "ಹರಪ್ಪನ್ ಮುದ್ರೆಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಕಲ್ಲಿನಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದ್ದವು. ಅವು ಆಯತಾಕಾರದಲ್ಲಿದ್ದು, ಸಾಮಾನ್ಯವಾಗಿ ಅವುಗಳ ಮೇಲೆ ಪ್ರಾಣಿಯ ಚಿತ್ರವನ್ನು ಕೆತ್ತಲಾಗಿರುತ್ತಿತ್ತು."
     }
@@ -73,13 +113,23 @@
     "difficulty": 1,
     "en": {
       "question": "From which present-day southern state of India did the Harappan rulers source gold?",
-      "options": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh"],
+      "options": [
+        "Karnataka",
+        "Tamil Nadu",
+        "Kerala",
+        "Andhra Pradesh"
+      ],
       "answer": "Karnataka",
       "reasoning": "The Harappans sourced gold from present-day Karnataka, which was famous for its gold reserves (like the Kolar mines)."
     },
     "kn": {
       "question": "ಹರಪ್ಪನ್ ಆಡಳಿತಗಾರರು ಚಿನ್ನವನ್ನು ಪ್ರಸ್ತುತ ಭಾರತದ ಯಾವ ದಕ್ಷಿಣದ ರಾಜ್ಯದಿಂದ ತರಿಸಿಕೊಳ್ಳುತ್ತಿದ್ದರು?",
-      "options": ["ಕರ್ನಾಟಕ", "ತಮಿಳುನಾಡು", "ಕೇರಳ", "ಆಂಧ್ರಪ್ರದೇಶ"],
+      "options": [
+        "ಕರ್ನಾಟಕ",
+        "ತಮಿಳುನಾಡು",
+        "ಕೇರಳ",
+        "ಆಂಧ್ರಪ್ರದೇಶ"
+      ],
       "answer": "ಕರ್ನಾಟಕ",
       "reasoning": "ಹರಪ್ಪನ್ನರು ಚಿನ್ನವನ್ನು ಪ್ರಸ್ತುತ ಕರ್ನಾಟಕದಿಂದ ಪಡೆಯುತ್ತಿದ್ದರು, ಇದು ಬಂಗಾರದ ನಿಕ್ಷೇಪಗಳಿಗೆ (ಕೋಲಾರ ಗಣಿಗಳಂತೆ) ಪ್ರಸಿದ್ಧವಾಗಿತ್ತು."
     }
@@ -90,13 +140,23 @@
     "difficulty": 1,
     "en": {
       "question": "What beautiful red stone was widely used by Harappan craftsmen to make beads?",
-      "options": ["Carnelian", "Jadeite", "Lapis Lazuli", "Emerald"],
+      "options": [
+        "Carnelian",
+        "Jadeite",
+        "Lapis Lazuli",
+        "Emerald"
+      ],
       "answer": "Carnelian",
       "reasoning": "Beads were often made of carnelian, a beautiful red stone. The stone was cut, shaped, polished, and bored with a hole through the center."
     },
     "kn": {
       "question": "ಹರಪ್ಪನ್ ಕುಶಲಕರ್ಮಿಗಳು ಮಣಿಗಳನ್ನು ತಯಾರಿಸಲು ಯಾವ ಸುಂದರವಾದ ಕೆಂಪು ಕಲ್ಲನ್ನು ವ್ಯಾಪಕವಾಗಿ ಬಳಸುತ್ತಿದ್ದರು?",
-      "options": ["ಕಾರ್ನೇಲಿಯನ್ (ಕೆಂಪು ರತ್ನ)", "ಜೇಡೈಟ್", "ಲಪಿಸ್ ಲಾಜುಲಿ", "ಪಚ್ಚೆ (ಎಮರಾಲ್ಡ್)"],
+      "options": [
+        "ಕಾರ್ನೇಲಿಯನ್ (ಕೆಂಪು ರತ್ನ)",
+        "ಜೇಡೈಟ್",
+        "ಲಪಿಸ್ ಲಾಜುಲಿ",
+        "ಪಚ್ಚೆ (ಎಮರಾಲ್ಡ್)"
+      ],
       "answer": "ಕಾರ್ನೇಲಿಯನ್ (ಕೆಂಪು ರತ್ನ)",
       "reasoning": "ಮಣಿಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಸುಂದರವಾದ ಕೆಂಪು ಕಲ್ಲಾದ ಕಾರ್ನೇಲಿಯನ್‌ನಿಂದ ತಯಾರಿಸಲಾಗುತ್ತಿತ್ತು. ಕಲ್ಲನ್ನು ಕತ್ತರಿಸಿ, ಆಕಾರ ನೀಡಿ, ಮೆರುಗುಗೊಳಿಸಿ, ಮಧ್ಯದಲ್ಲಿ ರಂಧ್ರ ಕೊರೆಯಲಾಗುತ್ತಿತ್ತು."
     }
@@ -134,13 +194,23 @@
     "difficulty": 2,
     "en": {
       "question": "In which Harappan sites did archaeologists find fire altars, indicating the performance of rituals or sacrifices?",
-      "options": ["Kalibangan and Lothal", "Harappa and Mohenjodaro", "Dholavira and Banawali", "Sutkagendor and Kot Diji"],
+      "options": [
+        "Kalibangan and Lothal",
+        "Harappa and Mohenjodaro",
+        "Dholavira and Banawali",
+        "Sutkagendor and Kot Diji"
+      ],
       "answer": "Kalibangan and Lothal",
       "reasoning": "Cities like Kalibangan (Rajasthan) and Lothal (Gujarat) had fire altars, which suggest that people may have performed religious sacrifices."
     },
     "kn": {
       "question": "ಧಾರ್ಮಿಕ ಆಚರಣೆ ಅಥವಾ ಯಾಗಗಳನ್ನು ಸೂಚಿಸುವ ಯಜ್ಞ ಕುಂಡಗಳು (fire altars) ಯಾವ ಹರಪ್ಪನ್ ತಾಣಗಳಲ್ಲಿ ಪತ್ತೆಯಾಗಿವೆ?",
-      "options": ["ಕಾಲಿಬಂಗನ್ ಮತ್ತು ಲೋಥಾಲ್", "ಹರಪ್ಪ ಮತ್ತು ಮೊಹೆಂಜೋದಾರೋ", "ಧೋಲಾವಿರಾ ಮತ್ತು ಬನಾವಲಿ", "ಸುತ್ಕಾಗೇಂದೋರ್ ಮತ್ತು ಕೋಟ್ ಡಿಜಿ"],
+      "options": [
+        "ಕಾಲಿಬಂಗನ್ ಮತ್ತು ಲೋಥಾಲ್",
+        "ಹರಪ್ಪ ಮತ್ತು ಮೊಹೆಂಜೋದಾರೋ",
+        "ಧೋಲಾವಿರಾ ಮತ್ತು ಬನಾವಲಿ",
+        "ಸುತ್ಕಾಗೇಂದೋರ್ ಮತ್ತು ಕೋಟ್ ಡಿಜಿ"
+      ],
       "answer": "ಕಾಲಿಬಂಗನ್ ಮತ್ತು ಲೋಥಾಲ್",
       "reasoning": "ಕಾಲಿಬಂಗನ್ (ರಾಜಸ್ಥಾನ) ಮತ್ತು ಲೋಥಾಲ್ (ಗುಜರಾತ್) ನಂತಹ ನಗರಗಳಲ್ಲಿ ಯಜ್ಞಕುಂಡಗಳು ಪತ್ತೆಯಾಗಿವೆ. ಇದರಿಂದ ಜನರು ಧಾರ್ಮಿಕ ಬಲಿ ಅಥವಾ ಯಾಗಗಳನ್ನು ಮಾಡುತ್ತಿದ್ದರು ಎಂದು ತಿಳಿಯುತ್ತದೆ."
     }
@@ -178,13 +248,23 @@
     "difficulty": 2,
     "en": {
       "question": "From which modern countries did the Harappans import tin, which was mixed with copper to produce bronze?",
-      "options": ["Afghanistan and Iran", "Oman and Iraq", "China and Japan", "Egypt and Sudan"],
+      "options": [
+        "Afghanistan and Iran",
+        "Oman and Iraq",
+        "China and Japan",
+        "Egypt and Sudan"
+      ],
       "answer": "Afghanistan and Iran",
       "reasoning": "Tin, which was mixed with copper to produce bronze, may have been brought from present-day Afghanistan and Iran by the Harappans."
     },
     "kn": {
       "question": "ಕಂಚು ತಯಾರಿಸಲು ತಾಮ್ರದೊಂದಿಗೆ ಬೆರೆಸುತ್ತಿದ್ದ ತವರವನ್ನು (tin) ಹರಪ್ಪನ್ನರು ಪ್ರಸ್ತುತ ಯಾವ ದೇಶಗಳಿಂದ ಆಮದು ಮಾಡಿಕೊಳ್ಳುತ್ತಿದ್ದರು?",
-      "options": ["ಅಫ್ಘಾನಿಸ್ತಾನ ಮತ್ತು ಇರಾನ್", "ಒಮಾನ್ ಮತ್ತು ಇರಾಕ್", "ಚೀನಾ ಮತ್ತು ಜಪಾನ್", "ಈಜಿಪ್ಟ್ ಮತ್ತು ಸುಡಾನ್"],
+      "options": [
+        "ಅಫ್ಘಾನಿಸ್ತಾನ ಮತ್ತು ಇರಾನ್",
+        "ಒಮಾನ್ ಮತ್ತು ಇರಾಕ್",
+        "ಚೀನಾ ಮತ್ತು ಜಪಾನ್",
+        "ಈಜಿಪ್ಟ್ ಮತ್ತು ಸುಡಾನ್"
+      ],
       "answer": "ಅಫ್ಘಾನಿಸ್ತಾನ ಮತ್ತು ಇರಾನ್",
       "reasoning": "ಕಂಚನ್ನು ತಯಾರಿಸಲು ತಾಮ್ರದೊಂದಿಗೆ ಬೆರೆಸಲಾಗುತ್ತಿದ್ದ ತವರವನ್ನು ಹರಪ್ಪನ್ನರು ಪ್ರಸ್ತುತ ಅಫ್ಘಾನಿಸ್ತಾನ ಮತ್ತು ಇರಾನ್ ದೇಶಗಳಿಂದ ತರಿಸಿಕೊಳ್ಳುತ್ತಿದ್ದರು."
     }
@@ -195,13 +275,23 @@
     "difficulty": 2,
     "en": {
       "question": "In which Harappan town in Gujarat was a huge dockyard found, where ships loaded and unloaded goods?",
-      "options": ["Lothal", "Dholavira", "Surkotada", "Rojdi"],
+      "options": [
+        "Lothal",
+        "Dholavira",
+        "Surkotada",
+        "Rojdi"
+      ],
       "answer": "Lothal",
       "reasoning": "Lothal had a dockyard, which was a huge brick tank where boats and ships came in from the sea and through the river channel, serving as a trading port."
     },
     "kn": {
       "question": "ಹಡಗುಗಳು ಬಂದು ಸರಕುಗಳನ್ನು ಇಳಿಸಲು ಬಳಸುತ್ತಿದ್ದ ಬೃಹತ್ ಬಂದರು/ಡಾಕ್‌ಯಾರ್ಡ್ ಪತ್ತೆಯಾದ ಗುಜರಾತ್‌ನ ಹರಪ್ಪನ್ ನಗರ ಯಾವುದು?",
-      "options": ["ಲೋಥಾಲ್", "ಧೋಲಾವಿರಾ", "ಸುರ್ಕೋಟಡಾ", "ರೋಜ್ದಿ"],
+      "options": [
+        "ಲೋಥಾಲ್",
+        "ಧೋಲಾವಿರಾ",
+        "ಸುರ್ಕೋಟಡಾ",
+        "ರೋಜ್ದಿ"
+      ],
       "answer": "ಲೋಥಾಲ್",
       "reasoning": "ಲೋಥಾಲ್‌ನಲ್ಲಿ ಒಂದು ಬಂದರು (dockyard) ಇತ್ತು, ಇದು ಇಟ್ಟಿಗೆಗಳಿಂದ ಕಟ್ಟಿದ ಬೃಹತ್ ಕೊಳವಾಗಿತ್ತು. ಇಲ್ಲಿ ಸಮುದ್ರ ಮತ್ತು ನದಿ ಕಾಲುವೆಯ ಮೂಲಕ ಹಡಗುಗಳು ಬಂದು ಸರಕುಗಳನ್ನು ತುಂಬುತ್ತಿದ್ದವು."
     }
@@ -212,13 +302,23 @@
     "difficulty": 2,
     "en": {
       "question": "Unlike most Harappan cities that were divided into two parts, which city in Gujarat was divided into three parts?",
-      "options": ["Dholavira", "Lothal", "Surkotada", "Chanhu-daro"],
+      "options": [
+        "Dholavira",
+        "Lothal",
+        "Surkotada",
+        "Chanhu-daro"
+      ],
       "answer": "Dholavira",
       "reasoning": "Dholavira, located on Khadir Beyt in the Rann of Kutch, was divided into three parts, and each part was surrounded by massive stone walls, with entrances through gateways."
     },
     "kn": {
       "question": "ಎರಡು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾದ ಇತರ ಹರಪ್ಪನ್ ನಗರಗಳಿಗಿಂತ ಭಿನ್ನವಾಗಿ, ಗುಜರಾತ್‌ನ ಯಾವ ನಗರವನ್ನು ಮೂರು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿತ್ತು?",
-      "options": ["ಧೋಲಾವಿರಾ", "ಲೋಥಾಲ್", "ಸುರ್ಕೋಟಡಾ", "ಚಾನ್ಹು-ದಾರೋ"],
+      "options": [
+        "ಧೋಲಾವಿರಾ",
+        "ಲೋಥಾಲ್",
+        "ಸುರ್ಕೋಟಡಾ",
+        "ಚಾನ್ಹು-ದಾರೋ"
+      ],
       "answer": "ಧೋಲಾವಿರಾ",
       "reasoning": "ಕಚ್‌ನ ರನ್ ಪ್ರದೇಶದಲ್ಲಿನ ಖಾದಿರ್ ಬೇಟ್‌ನಲ್ಲಿರುವ ಧೋಲಾವಿರಾ ನಗರವನ್ನು ಮೂರು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿತ್ತು. ಪ್ರತಿಯೊಂದು ಭಾಗವು ದ್ವಾರಗಳನ್ನು ಹೊಂದಿದ್ದ ಬೃಹತ್ ಕಲ್ಲಿನ ಗೋಡೆಗಳಿಂದ ಆವೃತವಾಗಿತ್ತು."
     }
@@ -364,14 +464,30 @@
     "difficulty": 1,
     "en": {
       "question": "Which of the following metals were commonly used by Harappan craftsmen to make ornaments, vessels, and tools? (Select all that apply)",
-      "options": ["Copper and Bronze", "Gold and Silver", "Iron and Steel", "Aluminum and Titanium"],
-      "answer": ["Copper and Bronze", "Gold and Silver"],
+      "options": [
+        "Copper and Bronze",
+        "Gold and Silver",
+        "Iron and Steel",
+        "Aluminum and Titanium"
+      ],
+      "answer": [
+        "Copper and Bronze",
+        "Gold and Silver"
+      ],
       "reasoning": "Archaeologists found copper, bronze, gold, and silver. Copper and bronze were used to make tools, weapons, ornaments, and vessels. Gold and silver were used to make ornaments and vessels. Iron was not known to them."
     },
     "kn": {
       "question": "ಹರಪ್ಪನ್ ಕುಶಲಕರ್ಮಿಗಳು ಆಭರಣಗಳು, ಪಾತ್ರೆಗಳು ಮತ್ತು ಉಪಕರಣಗಳನ್ನು ತಯಾರಿಸಲು ಕೆಳಗಿನ ಯಾವ ಲೋಹಗಳನ್ನು ಬಳಸುತ್ತಿದ್ದರು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
-      "options": ["ತಾಮ್ರ ಮತ್ತು ಕಂಚು", "ಚಿನ್ನ ಮತ್ತು ಬೆಳ್ಳಿ", "ಕಬ್ಬಿಣ ಮತ್ತು ಉಕ್ಕು", "ಅಲ್ಯೂಮಿನಿಯಂ ಮತ್ತು ಟೈಟಾನಿಯಂ"],
-      "answer": ["ತಾಮ್ರ ಮತ್ತು ಕಂಚು", "ಚಿನ್ನ ಮತ್ತು ಬೆಳ್ಳಿ"],
+      "options": [
+        "ತಾಮ್ರ ಮತ್ತು ಕಂಚು",
+        "ಚಿನ್ನ ಮತ್ತು ಬೆಳ್ಳಿ",
+        "ಕಬ್ಬಿಣ ಮತ್ತು ಉಕ್ಕು",
+        "ಅಲ್ಯೂಮಿನಿಯಂ ಮತ್ತು ಟೈಟಾನಿಯಂ"
+      ],
+      "answer": [
+        "ತಾಮ್ರ ಮತ್ತು ಕಂಚು",
+        "ಚಿನ್ನ ಮತ್ತು ಬೆಳ್ಳಿ"
+      ],
       "reasoning": "ಪುರಾತತ್ವಶಾಸ್ತ್ರಜ್ಞರಿಗೆ ತಾಮ್ರ, ಕಂಚು, ಚಿನ್ನ ಮತ್ತು ಬೆಳ್ಳಿಯ ವಸ್ತುಗಳು ಸಿಕ್ಕಿವೆ. ತಾಮ್ರ ಮತ್ತು ಕಂಚನ್ನು ಉಪಕರಣಗಳು, ಆಯುಧಗಳು, ಆಭರಣಗಳು ಹಾಗೂ ಪಾತ್ರೆಗಳನ್ನು ಮಾಡಲು ಬಳಸಲಾಗುತ್ತಿತ್ತು. ಚಿನ್ನ ಮತ್ತು ಬೆಳ್ಳಿಯನ್ನು ಆಭರಣ ಮತ್ತು ಪಾತ್ರೆಗಳಿಗೆ ಬಳಸುತ್ತಿದ್ದರು. ಕಬ್ಬಿಣದ ಬಳಕೆ ಅವರಿಗೆ ತಿಳಿದಿರಲಿಲ್ಲ."
     }
   },
@@ -414,14 +530,30 @@
     "difficulty": 2,
     "en": {
       "question": "Which of the following crops were grown by Harappans in the countryside to feed the city population? (Select all that apply)",
-      "options": ["Wheat and Barley", "Peas and Rice", "Coffee and Cocoa", "Potato and Tomato"],
-      "answer": ["Wheat and Barley", "Peas and Rice"],
+      "options": [
+        "Wheat and Barley",
+        "Peas and Rice",
+        "Coffee and Cocoa",
+        "Potato and Tomato"
+      ],
+      "answer": [
+        "Wheat and Barley",
+        "Peas and Rice"
+      ],
       "reasoning": "The Harappans grew wheat, barley, pulses, peas, paddy (rice), sesame, linseed, and mustard. Coffee and potatoes were not cultivated by them."
     },
     "kn": {
       "question": "ನಗರವಾಸಿಗಳಿಗೆ ಆಹಾರ ಪೂರೈಸಲು ಹರಪ್ಪನ್ ರೈತರು ಕೆಳಗಿನ ಯಾವ ಬೆಳೆಗಳನ್ನು ಬೆಳೆಯುತ್ತಿದ್ದರು? (ಎಲ್ಲಾ ಸೂಕ್ತ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ)",
-      "options": ["ಗೋಧಿ ಮತ್ತು ಬಾರ್ಲಿ", "ಬಟಾಣಿ ಮತ್ತು ಅಕ್ಕಿ", "ಕಾಫಿ ಮತ್ತು ಕೋಕೋ", "ಆಲೂಗಡ್ಡೆ ಮತ್ತು ಟೊಮೆಟೊ"],
-      "answer": ["ಗೋಧಿ ಮತ್ತು ಬಾರ್ಲಿ", "ಬಟಾಣಿ ಮತ್ತು ಅಕ್ಕಿ"],
+      "options": [
+        "ಗೋಧಿ ಮತ್ತು ಬಾರ್ಲಿ",
+        "ಬಟಾಣಿ ಮತ್ತು ಅಕ್ಕಿ",
+        "ಕಾಫಿ ಮತ್ತು ಕೋಕೋ",
+        "ಆಲೂಗಡ್ಡೆ ಮತ್ತು ಟೊಮೆಟೊ"
+      ],
+      "answer": [
+        "ಗೋಧಿ ಮತ್ತು ಬಾರ್ಲಿ",
+        "ಬಟಾಣಿ ಮತ್ತು ಅಕ್ಕಿ"
+      ],
       "reasoning": "ಹರಪ್ಪನ್ನರು ಗೋಧಿ, ಬಾರ್ಲಿ, ಬೇಳೆಕಾಳುಗಳು, ಬಟಾಣಿ, ಭತ್ತ (ಅಕ್ಕಿ), ಎಳ್ಳು, ಅಗಸೆಬೀಜ ಮತ್ತು ಸಾಸಿವೆಗಳನ್ನು ಬೆಳೆಯುತ್ತಿದ್ದರು. ಕಾಫಿ ಮತ್ತು ಆಲೂಗಡ್ಡೆಯನ್ನು ಅವರು ಬೆಳೆಯುತ್ತಿರಲಿಲ್ಲ."
     }
   },
@@ -465,20 +597,44 @@
     "en": {
       "question": "Match the Harappan sites with their notable features or discoveries:",
       "pairs": [
-        {"left": "Mohenjodaro", "right": "The Great Bath lined with bricks"},
-        {"left": "Lothal", "right": "Brick dockyard for ships"},
-        {"left": "Dholavira", "right": "Divided into three walled parts"},
-        {"left": "Kalibangan", "right": "Fire altars for sacrifices"}
+        {
+          "left": "Mohenjodaro",
+          "right": "The Great Bath lined with bricks"
+        },
+        {
+          "left": "Lothal",
+          "right": "Brick dockyard for ships"
+        },
+        {
+          "left": "Dholavira",
+          "right": "Divided into three walled parts"
+        },
+        {
+          "left": "Kalibangan",
+          "right": "Fire altars for sacrifices"
+        }
       ],
       "reasoning": "Each Harappan city had unique features: Mohenjodaro had the Great Bath, Lothal had a dockyard, Dholavira was divided into three sections (unlike the usual two), and Kalibangan had fire altars."
     },
     "kn": {
       "question": "ಹರಪ್ಪನ್ ತಾಣಗಳನ್ನು ಅವುಗಳ ಗಮನಾರ್ಹ ಲಕ್ಷಣಗಳು ಅಥವಾ ಆವಿಷ್ಕಾರಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
       "pairs": [
-        {"left": "ಮೊಹೆಂಜೋದಾರೋ", "right": "ಇಟ್ಟಿಗೆಗಳಿಂದ ನಿರ್ಮಿತ ಮಹಾ ಸ್ನಾನಗೃಹ"},
-        {"left": "ಲೋಥಾಲ್", "right": "ಹಡಗುಗಳ ಇಟ್ಟಿಗೆಯ ಬಂದರು (Dockyard)"},
-        {"left": "ಧೋಲಾವಿರಾ", "right": "ಮೂರು ಕೋಟೆಯ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ"},
-        {"left": "ಕಾಲಿಬಂಗನ್", "right": "ಯಜ್ಞ ಅಥವಾ ಬಲಿಗಾಗಿ ಯಜ್ಞ ಕುಂಡಗಳು"}
+        {
+          "left": "ಮೊಹೆಂಜೋದಾರೋ",
+          "right": "ಇಟ್ಟಿಗೆಗಳಿಂದ ನಿರ್ಮಿತ ಮಹಾ ಸ್ನಾನಗೃಹ"
+        },
+        {
+          "left": "ಲೋಥಾಲ್",
+          "right": "ಹಡಗುಗಳ ಇಟ್ಟಿಗೆಯ ಬಂದರು (Dockyard)"
+        },
+        {
+          "left": "ಧೋಲಾವಿರಾ",
+          "right": "ಮೂರು ಕೋಟೆಯ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ"
+        },
+        {
+          "left": "ಕಾಲಿಬಂಗನ್",
+          "right": "ಯಜ್ಞ ಅಥವಾ ಬಲಿಗಾಗಿ ಯಜ್ಞ ಕುಂಡಗಳು"
+        }
       ],
       "reasoning": "ಪ್ರತಿಯೊಂದು ಹರಪ್ಪನ್ ನಗರವು ವಿಶಿಷ್ಟ ಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿತ್ತು: ಮೊಹೆಂಜೋದಾರೋದಲ್ಲಿ ಮಹಾ ಸ್ನಾನಗೃಹ ಇತ್ತು, ಲೋಥಾಲ್‌ನಲ್ಲಿ ಬಂದರು ಇತ್ತು, ಧೋಲಾವಿರಾವನ್ನು ಮೂರು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿತ್ತು ಮತ್ತು ಕಾಲಿಬಂಗನ್‌ನಲ್ಲಿ ಯಜ್ಞಕುಂಡಗಳು ಸಿಕ್ಕಿವೆ."
     }
@@ -490,20 +646,44 @@
     "en": {
       "question": "Match the materials used in the Harappan civilization with their sourcing regions:",
       "pairs": [
-        {"left": "Copper", "right": "Rajasthan and Oman"},
-        {"left": "Gold", "right": "Karnataka"},
-        {"left": "Tin", "right": "Afghanistan and Iran"},
-        {"left": "Precious stones", "right": "Gujarat, Iran and Afghanistan"}
+        {
+          "left": "Copper",
+          "right": "Rajasthan and Oman"
+        },
+        {
+          "left": "Gold",
+          "right": "Karnataka"
+        },
+        {
+          "left": "Tin",
+          "right": "Afghanistan and Iran"
+        },
+        {
+          "left": "Precious stones",
+          "right": "Gujarat, Iran and Afghanistan"
+        }
       ],
       "reasoning": "The Harappans imported raw materials from distant places: copper from Rajasthan/Oman, gold from Karnataka, tin from Afghanistan/Iran, and precious stones from Gujarat/Iran/Afghanistan."
     },
     "kn": {
       "question": "ಹರಪ್ಪನ್ ನಾಗರಿಕತೆಯಲ್ಲಿ ಬಳಸುತ್ತಿದ್ದ ವಸ್ತುಗಳನ್ನು ಅವುಗಳನ್ನು ಪಡೆಯುತ್ತಿದ್ದ ಪ್ರಮುಖ ಪ್ರದೇಶಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
       "pairs": [
-        {"left": "ತಾಮ್ರ", "right": "ರಾಜಸ್ಥಾನ ಮತ್ತು ಒಮಾನ್"},
-        {"left": "ಚಿನ್ನ", "right": "ಕರ್ನಾಟಕ"},
-        {"left": "ತವರ (Tin)", "right": "ಅಫ್ಘಾನಿಸ್ತಾನ ಮತ್ತು ಇರಾನ್"},
-        {"left": "ಅಮೂಲ್ಯ ಕಲ್ಲುಗಳು", "right": "ಗುಜರಾತ್, ಇರಾನ್ ಮತ್ತು ಅಫ್ಘಾನಿಸ್ತಾನ"}
+        {
+          "left": "ತಾಮ್ರ",
+          "right": "ರಾಜಸ್ಥಾನ ಮತ್ತು ಒಮಾನ್"
+        },
+        {
+          "left": "ಚಿನ್ನ",
+          "right": "ಕರ್ನಾಟಕ"
+        },
+        {
+          "left": "ತವರ (Tin)",
+          "right": "ಅಫ್ಘಾನಿಸ್ತಾನ ಮತ್ತು ಇರಾನ್"
+        },
+        {
+          "left": "ಅಮೂಲ್ಯ ಕಲ್ಲುಗಳು",
+          "right": "ಗುಜರಾತ್, ಇರಾನ್ ಮತ್ತು ಅಫ್ಘಾನಿಸ್ತಾನ"
+        }
       ],
       "reasoning": "ಹರಪ್ಪನ್ನರು ಕಚ್ಚಾ ವಸ್ತುಗಳನ್ನು ದೂರದ ಸ್ಥಳಗಳಿಂದ ಆಮದು ಮಾಡಿಕೊಳ್ಳುತ್ತಿದ್ದರು: ರಾಜಸ್ಥಾನ/ಒಮಾನ್‌ನಿಂದ ತಾಮ್ರ, ಕರ್ನಾಟಕದಿಂದ ಚಿನ್ನ, ಅಫ್ಘಾನಿಸ್ತಾನ/ಇರಾನ್‌ನಿಂದ ತವರ ಮತ್ತು ಗುಜರಾತ್/ಇರಾನ್/ಅಫ್ಘಾನಿಸ್ತಾನದಿಂದ ಅಮೂಲ್ಯ ಕಲ್ಲುಗಳನ್ನು ತರಿಸುತ್ತಿದ್ದರು."
     }
@@ -515,20 +695,44 @@
     "en": {
       "question": "Match the city dwellers with their roles in Harappan society:",
       "pairs": [
-        {"left": "Rulers", "right": "Planned city layouts and organized raw materials"},
-        {"left": "Scribes", "right": "Prepared seals and kept written records"},
-        {"left": "Crafts-persons", "right": "Manufactured tools, beads, and terracotta toys"},
-        {"left": "Farmers", "right": "Supplied food grains and milk from countryside"}
+        {
+          "left": "Rulers",
+          "right": "Planned city layouts and organized raw materials"
+        },
+        {
+          "left": "Scribes",
+          "right": "Prepared seals and kept written records"
+        },
+        {
+          "left": "Crafts-persons",
+          "right": "Manufactured tools, beads, and terracotta toys"
+        },
+        {
+          "left": "Farmers",
+          "right": "Supplied food grains and milk from countryside"
+        }
       ],
       "reasoning": "Harappan society had a division of labor. Rulers planned cities, scribes handled writing and seals, crafts-persons produced artistic and utility items, and farmers supplied food."
     },
     "kn": {
       "question": "ಹರಪ್ಪನ್ ಸಮಾಜದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದ ಜನರನ್ನು ಅವರ ಪಾತ್ರಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
       "pairs": [
-        {"left": "ಆಡಳಿತಗಾರರು", "right": "ನಗರ ವಿನ್ಯಾಸ ರೂಪಿಸುತ್ತಿದ್ದರು ಮತ್ತು ಕಚ್ಚಾ ವಸ್ತುಗಳನ್ನು ತರಿಸುತ್ತಿದ್ದರು"},
-        {"left": "ಲಿಪಿಕಾರರು", "right": "ಮುದ್ರೆಗಳನ್ನು ಸಿದ್ಧಪಡಿಸುತ್ತಿದ್ದರು ಮತ್ತು ಬರವಣಿಗೆ ಬಲ್ಲವರಾಗಿದ್ದರು"},
-        {"left": "ಕುಶಲಕರ್ಮಿಗಳು", "right": "ಉಪಕರಣಗಳು, ಮಣಿಗಳು ಮತ್ತು ಮಣ್ಣಿನ ಆಟಿಕೆಗಳನ್ನು ತಯಾರಿಸುತ್ತಿದ್ದರು"},
-        {"left": "ರೈತರು", "right": "ಹಳ್ಳಿಗಾಡಿನಿಂದ ಆಹಾರ ಧಾನ್ಯಗಳು ಮತ್ತು ಹಾಲನ್ನು ಪೂರೈಸುತ್ತಿದ್ದರು"}
+        {
+          "left": "ಆಡಳಿತಗಾರರು",
+          "right": "ನಗರ ವಿನ್ಯಾಸ ರೂಪಿಸುತ್ತಿದ್ದರು ಮತ್ತು ಕಚ್ಚಾ ವಸ್ತುಗಳನ್ನು ತರಿಸುತ್ತಿದ್ದರು"
+        },
+        {
+          "left": "ಲಿಪಿಕಾರರು",
+          "right": "ಮುದ್ರೆಗಳನ್ನು ಸಿದ್ಧಪಡಿಸುತ್ತಿದ್ದರು ಮತ್ತು ಬರವಣಿಗೆ ಬಲ್ಲವರಾಗಿದ್ದರು"
+        },
+        {
+          "left": "ಕುಶಲಕರ್ಮಿಗಳು",
+          "right": "ಉಪಕರಣಗಳು, ಮಣಿಗಳು ಮತ್ತು ಮಣ್ಣಿನ ಆಟಿಕೆಗಳನ್ನು ತಯಾರಿಸುತ್ತಿದ್ದರು"
+        },
+        {
+          "left": "ರೈತರು",
+          "right": "ಹಳ್ಳಿಗಾಡಿನಿಂದ ಆಹಾರ ಧಾನ್ಯಗಳು ಮತ್ತು ಹಾಲನ್ನು ಪೂರೈಸುತ್ತಿದ್ದರು"
+        }
       ],
       "reasoning": "ಹರಪ್ಪನ್ ಸಮಾಜದಲ್ಲಿ ಶ್ರಮ ವಿಭಜನೆ ಇತ್ತು. ಆಡಳಿತಗಾರರು ನಗರಗಳನ್ನು ಯೋಜಿಸುತ್ತಿದ್ದರು, ಲಿಪಿಕಾರರು ಬರವಣಿಗೆ ಮತ್ತು ಮುದ್ರೆಗಳನ್ನು ನೋಡಿಕೊಳ್ಳುತ್ತಿದ್ದರು, ಕುಶಲಕರ್ಮಿಗಳು ಆಟಿಕೆ ಮತ್ತು ಕಲಾಕೃತಿಗಳನ್ನು ಮಾಡುತ್ತಿದ್ದರು ಮತ್ತು ರೈತರು ಆಹಾರ ನೀಡುತ್ತಿದ್ದರು."
     }
@@ -540,20 +744,44 @@
     "en": {
       "question": "Match the materials with the specific products Harappans manufactured from them:",
       "pairs": [
-        {"left": "Chert stone", "right": "Precise cubical weights"},
-        {"left": "Carnelian stone", "right": "Beautiful polished red beads"},
-        {"left": "Faience", "right": "Glazed beads, bangles, and tiny vessels"},
-        {"left": "Terracotta", "right": "Plow models and toy animals"}
+        {
+          "left": "Chert stone",
+          "right": "Precise cubical weights"
+        },
+        {
+          "left": "Carnelian stone",
+          "right": "Beautiful polished red beads"
+        },
+        {
+          "left": "Faience",
+          "right": "Glazed beads, bangles, and tiny vessels"
+        },
+        {
+          "left": "Terracotta",
+          "right": "Plow models and toy animals"
+        }
       ],
       "reasoning": "Harappans matched materials to functions: chert for weights, carnelian for red beads, faience for glazed ornaments/vessels, and terracotta (baked clay) for toys and models."
     },
     "kn": {
       "question": "ಸಾಮಗ್ರಿಗಳನ್ನು ಹರಪ್ಪನ್ನರು ಅವುಗಳಿಂದ ತಯಾರಿಸುತ್ತಿದ್ದ ನಿರ್ದಿಷ್ಟ ಉತ್ಪನ್ನಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
       "pairs": [
-        {"left": "ಚರ್ಟ್ ಕಲ್ಲು", "right": "ನಿಖರವಾದ ಘನಾಕೃತಿಯ ತೂಕದ ಕಲ್ಲುಗಳು"},
-        {"left": "ಕಾರ್ನೇಲಿಯನ್ ಕಲ್ಲು", "right": "ಮೆರುಗುಗೊಳಿಸಿದ ಸುಂದರ ಕೆಂಪು ಮಣಿಗಳು"},
-        {"left": "ಫೈಯೆನ್ಸ್", "right": "ಮೆರುಗುಳ್ಳ ಮಣಿಗಳು, ಬಳೆಗಳು ಮತ್ತು ಸಣ್ಣ ಪಾತ್ರೆಗಳು"},
-        {"left": "ಟೆರಾಕೋಟಾ", "right": "ನೇಗಿಲಿನ ಮಾದರಿಗಳು ಮತ್ತು ಆಟಿಕೆ ಪ್ರಾಣಿಗಳು"}
+        {
+          "left": "ಚರ್ಟ್ ಕಲ್ಲು",
+          "right": "ನಿಖರವಾದ ಘನಾಕೃತಿಯ ತೂಕದ ಕಲ್ಲುಗಳು"
+        },
+        {
+          "left": "ಕಾರ್ನೇಲಿಯನ್ ಕಲ್ಲು",
+          "right": "ಮೆರುಗುಗೊಳಿಸಿದ ಸುಂದರ ಕೆಂಪು ಮಣಿಗಳು"
+        },
+        {
+          "left": "ಫೈಯೆನ್ಸ್",
+          "right": "ಮೆರುಗುಳ್ಳ ಮಣಿಗಳು, ಬಳೆಗಳು ಮತ್ತು ಸಣ್ಣ ಪಾತ್ರೆಗಳು"
+        },
+        {
+          "left": "ಟೆರಾಕೋಟಾ",
+          "right": "ನೇಗಿಲಿನ ಮಾದರಿಗಳು ಮತ್ತು ಆಟಿಕೆ ಪ್ರಾಣಿಗಳು"
+        }
       ],
       "reasoning": "ಹರಪ್ಪನ್ನರು ವಿವಿಧ ವಸ್ತುಗಳಿಂದ ಆಯಾ ಉತ್ಪನ್ನಗಳನ್ನು ತಯಾರಿಸುತ್ತಿದ್ದರು: ಚರ್ಟ್‌ನಿಂದ ತೂಕದ ಕಲ್ಲುಗಳು, ಕಾರ್ನೇಲಿಯನ್‌ನಿಂದ ಕೆಂಪು ಮಣಿಗಳು, ಫೈಯೆನ್ಸ್‌ನಿಂದ ಹೊಳೆಯುವ ಆಭರಣಗಳು ಮತ್ತು ಟೆರಾಕೋಟಾದಿಂದ (ಬೇಯಿಸಿದ ಮಣ್ಣು) ಆಟಿಕೆಗಳನ್ನು ತಯಾರಿಸುತ್ತಿದ್ದರು."
     }

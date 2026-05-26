@@ -202,7 +202,7 @@
     "difficulty": 1,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <rect x=\"100\" y=\"50\" width=\"100\" height=\"100\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\" rx=\"2\"/>\n  <text x=\"150\" y=\"105\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"24\" text-anchor=\"middle\" font-weight=\"bold\">-18</text>\n  <text x=\"150\" y=\"140\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">÷ 3</text>\n</svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <rect x=\"100\" y=\"50\" width=\"100\" height=\"100\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\" rx=\"2\"/>\n  <text x=\"150\" y=\"105\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"24\" text-anchor=\"middle\" font-weight=\"bold\">-18</text>\n  <text x=\"150\" y=\"140\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">÷ 3</text>\n</svg>",
       "alt": {
         "en": "A box showing -18 divided by 3.",
         "kn": "-18 ನ್ನು 3 ರಿಂದ ಭಾಗಿಸುವಿಕೆಯನ್ನು ತೋರಿಸುವ ಬಾಕ್ಸ್."
@@ -493,7 +493,7 @@
     "difficulty": 2,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <rect x=\"50\" y=\"50\" width=\"200\" height=\"100\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"100\" x2=\"250\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"150\" y1=\"50\" x2=\"150\" y2=\"150\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"100\" y=\"85\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">-12</text>\n  <text x=\"200\" y=\"85\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">x</text>\n  <text x=\"100\" y=\"135\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">y</text>\n  <text x=\"200\" y=\"135\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">48</text>\n</svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <rect x=\"50\" y=\"50\" width=\"200\" height=\"100\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"100\" x2=\"250\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <line x1=\"150\" y1=\"50\" x2=\"150\" y2=\"150\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"100\" y=\"85\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">-12</text>\n  <text x=\"200\" y=\"85\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">x</text>\n  <text x=\"100\" y=\"135\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">y</text>\n  <text x=\"200\" y=\"135\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">48</text>\n</svg>",
       "alt": {
         "en": "A 2x2 grid where the product of rows and columns is constant.",
         "kn": "ಸಾಲುಗಳು ಮತ್ತು ಕಾಲಮ್‌ಗಳ ಗುಣಲಬ್ಧ ಸ್ಥಿರವಾಗಿರುವ 2x2 ಚೌಕ."
@@ -800,7 +800,7 @@
     "difficulty": 3,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <rect x=\"30\" y=\"50\" width=\"80\" height=\"80\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"70\" y=\"95\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"20\" text-anchor=\"middle\">x</text>\n  <text x=\"135\" y=\"95\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"20\" text-anchor=\"middle\">×</text>\n  <rect x=\"160\" y=\"50\" width=\"80\" height=\"80\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"200\" y=\"95\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"20\" text-anchor=\"middle\">y</text>\n  <text x=\"135\" y=\"150\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">Result is positive</text>\n</svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <rect x=\"30\" y=\"50\" width=\"80\" height=\"80\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"70\" y=\"95\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"20\" text-anchor=\"middle\">x</text>\n  <text x=\"135\" y=\"95\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"20\" text-anchor=\"middle\">×</text>\n  <rect x=\"160\" y=\"50\" width=\"80\" height=\"80\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"200\" y=\"95\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"20\" text-anchor=\"middle\">y</text>\n  <text x=\"135\" y=\"150\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">Result is positive</text>\n</svg>",
       "alt": {
         "en": "Two boxes labeled x and y multiplied together. The result is positive.",
         "kn": "x ಮತ್ತು y ಎಂದು ಲೇಬಲ್ ಮಾಡಲಾದ ಎರಡು ಬಾಕ್ಸ್‌ಗಳನ್ನು ಗುಣಿಸಲಾಗಿದೆ. ಫಲಿತಾಂಶ ಧನಾತ್ಮಕವಾಗಿದೆ."

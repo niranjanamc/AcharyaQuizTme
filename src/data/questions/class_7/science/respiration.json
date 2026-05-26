@@ -5,13 +5,23 @@
     "difficulty": 1,
     "en": {
       "question": "What is the process of breakdown of food in the cell with the release of energy called?",
-      "options": ["Digestion", "Cellular respiration", "Photosynthesis", "Excretion"],
+      "options": [
+        "Digestion",
+        "Cellular respiration",
+        "Photosynthesis",
+        "Excretion"
+      ],
       "answer": "Cellular respiration",
       "reasoning": "The process of breakdown of food in the cell with the release of energy is called cellular respiration. It takes place in the cells of all organisms."
     },
     "kn": {
       "question": "ಜೀವಕೋಶದಲ್ಲಿ ಶಕ್ತಿಯ ಬಿಡುಗಡೆಯೊಂದಿಗೆ ಆಹಾರವು ವಿಭಜನೆಯಾಗುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
-      "options": ["ಜೀರ್ಣಕ್ರಿಯೆ", "ಕೋಶೀಯ ಉಸಿರಾಟ", "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ", "ವಿಸರ್ಜನೆ"],
+      "options": [
+        "ಜೀರ್ಣಕ್ರಿಯೆ",
+        "ಕೋಶೀಯ ಉಸಿರಾಟ",
+        "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ",
+        "ವಿಸರ್ಜನೆ"
+      ],
       "answer": "ಕೋಶೀಯ ಉಸಿರಾಟ",
       "reasoning": "ಜೀವಕೋಶದಲ್ಲಿ ಶಕ್ತಿಯ ಬಿಡುಗಡೆಯೊಂದಿಗೆ ಆಹಾರವು ವಿಭಜನೆಯಾಗುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಕೋಶೀಯ ಉಸಿರಾಟ (cellular respiration) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
     }
@@ -22,13 +32,23 @@
     "difficulty": 1,
     "en": {
       "question": "Respiration that takes place in the presence of oxygen is called:",
-      "options": ["Anaerobic respiration", "Aerobic respiration", "Breathing", "Inhalation"],
+      "options": [
+        "Anaerobic respiration",
+        "Aerobic respiration",
+        "Breathing",
+        "Inhalation"
+      ],
       "answer": "Aerobic respiration",
       "reasoning": "When the breakdown of glucose occurs with the use of oxygen, it is called aerobic respiration."
     },
     "kn": {
       "question": "ಆಮ್ಲಜನಕದ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ನಡೆಯುವ ಉಸಿರಾಟವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
-      "options": ["ಆಮ್ಲಜನಕರಹಿತ ಉಸಿರಾಟ (Anaerobic)", "ಆಮ್ಲಜನಕಸಹಿತ ಉಸಿರಾಟ (Aerobic)", "ಉಸಿರಾಡುವಿಕೆ", "ಉಸಿರೆಳೆದುಕೊಳ್ಳುವಿಕೆ (Inhalation)"],
+      "options": [
+        "ಆಮ್ಲಜನಕರಹಿತ ಉಸಿರಾಟ (Anaerobic)",
+        "ಆಮ್ಲಜನಕಸಹಿತ ಉಸಿರಾಟ (Aerobic)",
+        "ಉಸಿರಾಡುವಿಕೆ",
+        "ಉಸಿರೆಳೆದುಕೊಳ್ಳುವಿಕೆ (Inhalation)"
+      ],
       "answer": "ಆಮ್ಲಜನಕಸಹಿತ ಉಸಿರಾಟ (Aerobic)",
       "reasoning": "ಆಮ್ಲಜನಕದ ಬಳಕೆಯೊಂದಿಗೆ ಗ್ಲೂಕೋಸ್ ವಿಭಜನೆಯಾಗುವುದನ್ನು ಆಮ್ಲಜನಕಸಹಿತ ಉಸಿರಾಟ (Aerobic respiration) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
     }
@@ -39,7 +59,7 @@
     "difficulty": 1,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <!-- Windpipe -->\n  <path d=\"M150,20 L150,60\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"10\"/>\n  <path d=\"M140,25 L160,25 M140,35 L160,35 M140,45 L160,45 M140,55 L160,55\" fill=\"none\" stroke=\"#FCA5A5\" stroke-width=\"2\"/>\n  <!-- Branching -->\n  <path d=\"M150,60 L120,90 M150,60 L180,90\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"8\"/>\n  <!-- Lungs -->\n  <path d=\"M120,90 C80,80 60,150 120,160 C140,160 140,110 120,90\" fill=\"#FECACA\" stroke=\"#FCA5A5\" stroke-width=\"2\"/>\n  <path d=\"M180,90 C220,80 240,150 180,160 C160,160 160,110 180,90\" fill=\"#FECACA\" stroke=\"#FCA5A5\" stroke-width=\"2\"/>\n  <!-- Diaphragm -->\n  <path d=\"M80,170 Q150,150 220,170\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"4\"/>\n  <text x=\"50\" y=\"40\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"14\">X</text>\n  <line x1=\"65\" y1=\"35\" x2=\"140\" y2=\"35\" stroke=\"#1F2937\" stroke-width=\"1.5\"/>\n</svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <!-- Windpipe -->\n  <path d=\"M150,20 L150,60\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"10\"/>\n  <path d=\"M140,25 L160,25 M140,35 L160,35 M140,45 L160,45 M140,55 L160,55\" fill=\"none\" stroke=\"#FCA5A5\" stroke-width=\"2\"/>\n  <!-- Branching -->\n  <path d=\"M150,60 L120,90 M150,60 L180,90\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"8\"/>\n  <!-- Lungs -->\n  <path d=\"M120,90 C80,80 60,150 120,160 C140,160 140,110 120,90\" fill=\"#FECACA\" stroke=\"#FCA5A5\" stroke-width=\"2\"/>\n  <path d=\"M180,90 C220,80 240,150 180,160 C160,160 160,110 180,90\" fill=\"#FECACA\" stroke=\"#FCA5A5\" stroke-width=\"2\"/>\n  <!-- Diaphragm -->\n  <path d=\"M80,170 Q150,150 220,170\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"4\"/>\n  <text x=\"50\" y=\"40\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"14\">X</text>\n  <line x1=\"65\" y1=\"35\" x2=\"140\" y2=\"35\" stroke=\"#1F2937\" stroke-width=\"1.5\"/>\n</svg>",
       "alt": {
         "en": "Human respiratory system showing the windpipe labeled as X, lungs, and diaphragm",
         "kn": "ಶ್ವಾಸನಾಳವನ್ನು X ಎಂದು ಗುರುತಿಸಿರುವ ಮಾನವ ಉಸಿರಾಟದ ವ್ಯವಸ್ಥೆ, ಶ್ವಾಸಕೋಶಗಳು ಮತ್ತು ವಪೆ"
@@ -47,13 +67,23 @@
     },
     "en": {
       "question": "In the diagram of the human respiratory system, what is the tube labeled 'X' called?",
-      "options": ["Oesophagus (Food pipe)", "Trachea (Windpipe)", "Blood vessel", "Small intestine"],
+      "options": [
+        "Oesophagus (Food pipe)",
+        "Trachea (Windpipe)",
+        "Blood vessel",
+        "Small intestine"
+      ],
       "answer": "Trachea (Windpipe)",
       "reasoning": "The tube that carries air from the nasal cavity to the lungs is called the trachea or windpipe."
     },
     "kn": {
       "question": "ಮಾನವನ ಉಸಿರಾಟದ ವ್ಯವಸ್ಥೆಯ ಚಿತ್ರದಲ್ಲಿ, 'X' ಎಂದು ಗುರುತಿಸಲಾದ ಕೊಳವೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
-      "options": ["ಅನ್ನನಾಳ (Food pipe)", "ಶ್ವಾಸನಾಳ (Trachea/Windpipe)", "ರಕ್ತನಾಳ", "ಸಣ್ಣ ಕರುಳು"],
+      "options": [
+        "ಅನ್ನನಾಳ (Food pipe)",
+        "ಶ್ವಾಸನಾಳ (Trachea/Windpipe)",
+        "ರಕ್ತನಾಳ",
+        "ಸಣ್ಣ ಕರುಳು"
+      ],
       "answer": "ಶ್ವಾಸನಾಳ (Trachea/Windpipe)",
       "reasoning": "ಮೂಗಿನ ಕುಹರದಿಂದ ಗಾಳಿಯನ್ನು ಶ್ವಾಸಕೋಶಕ್ಕೆ ಕೊಂಡೊಯ್ಯುವ ಕೊಳವೆಯನ್ನು ಶ್ವಾಸನಾಳ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
     }
@@ -64,13 +94,23 @@
     "difficulty": 1,
     "en": {
       "question": "What is the large, muscular sheet that forms the floor of the chest cavity called?",
-      "options": ["Rib cage", "Lungs", "Diaphragm", "Stomach"],
+      "options": [
+        "Rib cage",
+        "Lungs",
+        "Diaphragm",
+        "Stomach"
+      ],
       "answer": "Diaphragm",
       "reasoning": "A large, muscular sheet called the diaphragm forms the floor of the chest cavity. Its movement is essential for breathing."
     },
     "kn": {
       "question": "ಎದೆಯ ಕುಹರದ ತಳಭಾಗವನ್ನು ರೂಪಿಸುವ ದೊಡ್ಡ, ಸ್ನಾಯುವಿನ ಹಾಳೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
-      "options": ["ಪಕ್ಕೆಲುಬಿನ ಗೂಡು (Rib cage)", "ಶ್ವಾಸಕೋಶ", "ವಪೆ (Diaphragm)", "ಹೊಟ್ಟೆ"],
+      "options": [
+        "ಪಕ್ಕೆಲುಬಿನ ಗೂಡು (Rib cage)",
+        "ಶ್ವಾಸಕೋಶ",
+        "ವಪೆ (Diaphragm)",
+        "ಹೊಟ್ಟೆ"
+      ],
       "answer": "ವಪೆ (Diaphragm)",
       "reasoning": "ವಪೆ (ಡಯಾಫ್ರಾಮ್) ಎಂಬ ದೊಡ್ಡ, ಸ್ನಾಯುವಿನ ಹಾಳೆಯು ಎದೆಯ ಕುಹರದ (chest cavity) ತಳವನ್ನು ರೂಪಿಸುತ್ತದೆ. ಉಸಿರಾಟಕ್ಕೆ ಇದರ ಚಲನೆ ಅತ್ಯಗತ್ಯ."
     }
@@ -81,14 +121,32 @@
     "difficulty": 1,
     "en": {
       "question": "Which of the following are parts of the human breathing system?",
-      "options": ["Nasal cavity", "Lungs", "Trachea", "Liver"],
-      "answer": ["Nasal cavity", "Lungs", "Trachea"],
+      "options": [
+        "Nasal cavity",
+        "Lungs",
+        "Trachea",
+        "Liver"
+      ],
+      "answer": [
+        "Nasal cavity",
+        "Lungs",
+        "Trachea"
+      ],
       "reasoning": "Air passes through the nasal cavity, down the trachea (windpipe), and into the lungs. The liver is part of the digestive system."
     },
     "kn": {
       "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಮಾನವನ ಉಸಿರಾಟ ವ್ಯವಸ್ಥೆಯ ಭಾಗಗಳಾಗಿವೆ?",
-      "options": ["ಮೂಗಿನ ಕುಹರ (Nasal cavity)", "ಶ್ವಾಸಕೋಶ", "ಶ್ವಾಸನಾಳ (Trachea)", "ಯಕೃತ್ತು (Liver)"],
-      "answer": ["ಮೂಗಿನ ಕುಹರ (Nasal cavity)", "ಶ್ವಾಸಕೋಶ", "ಶ್ವಾಸನಾಳ (Trachea)"],
+      "options": [
+        "ಮೂಗಿನ ಕುಹರ (Nasal cavity)",
+        "ಶ್ವಾಸಕೋಶ",
+        "ಶ್ವಾಸನಾಳ (Trachea)",
+        "ಯಕೃತ್ತು (Liver)"
+      ],
+      "answer": [
+        "ಮೂಗಿನ ಕುಹರ (Nasal cavity)",
+        "ಶ್ವಾಸಕೋಶ",
+        "ಶ್ವಾಸನಾಳ (Trachea)"
+      ],
       "reasoning": "ಗಾಳಿಯು ಮೂಗಿನ ಕುಹರದ ಮೂಲಕ, ಶ್ವಾಸನಾಳದ ಮೂಲಕ ಹಾದುಹೋಗಿ ಶ್ವಾಸಕೋಶವನ್ನು ಪ್ರವೇಶಿಸುತ್ತದೆ. ಯಕೃತ್ತು ಜೀರ್ಣಾಂಗ ವ್ಯವಸ್ಥೆಯ ಭಾಗವಾಗಿದೆ."
     }
   },
@@ -99,20 +157,44 @@
     "en": {
       "question": "Match the term with its meaning related to breathing.",
       "pairs": [
-        {"left": "Inhalation", "right": "Taking in oxygen-rich air"},
-        {"left": "Exhalation", "right": "Giving out carbon dioxide-rich air"},
-        {"left": "Breathing rate", "right": "Number of breaths per minute"},
-        {"left": "Cellular respiration", "right": "Breakdown of food for energy"}
+        {
+          "left": "Inhalation",
+          "right": "Taking in oxygen-rich air"
+        },
+        {
+          "left": "Exhalation",
+          "right": "Giving out carbon dioxide-rich air"
+        },
+        {
+          "left": "Breathing rate",
+          "right": "Number of breaths per minute"
+        },
+        {
+          "left": "Cellular respiration",
+          "right": "Breakdown of food for energy"
+        }
       ],
       "reasoning": "Inhalation is taking air in, exhalation is giving it out. Breathing rate is the frequency of breaths, and cellular respiration releases energy from food."
     },
     "kn": {
       "question": "ಉಸಿರಾಟಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಪದವನ್ನು ಅದರ ಅರ್ಥದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
       "pairs": [
-        {"left": "ಉಸಿರೆಳೆದುಕೊಳ್ಳುವಿಕೆ (Inhalation)", "right": "ಆಮ್ಲಜನಕ-ಭರಿತ ಗಾಳಿಯನ್ನು ಒಳತೆಗೆದುಕೊಳ್ಳುವುದು"},
-        {"left": "ಉಸಿರುಬಿಡುವಿಕೆ (Exhalation)", "right": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್-ಭರಿತ ಗಾಳಿಯನ್ನು ಹೊರಹಾಕುವುದು"},
-        {"left": "ಉಸಿರಾಟದ ದರ", "right": "ನಿಮಿಷಕ್ಕೆ ಉಸಿರಾಟಗಳ ಸಂಖ್ಯೆ"},
-        {"left": "ಕೋಶೀಯ ಉಸಿರಾಟ", "right": "ಶಕ್ತಿಗಾಗಿ ಆಹಾರದ ವಿಭಜನೆ"}
+        {
+          "left": "ಉಸಿರೆಳೆದುಕೊಳ್ಳುವಿಕೆ (Inhalation)",
+          "right": "ಆಮ್ಲಜನಕ-ಭರಿತ ಗಾಳಿಯನ್ನು ಒಳತೆಗೆದುಕೊಳ್ಳುವುದು"
+        },
+        {
+          "left": "ಉಸಿರುಬಿಡುವಿಕೆ (Exhalation)",
+          "right": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್-ಭರಿತ ಗಾಳಿಯನ್ನು ಹೊರಹಾಕುವುದು"
+        },
+        {
+          "left": "ಉಸಿರಾಟದ ದರ",
+          "right": "ನಿಮಿಷಕ್ಕೆ ಉಸಿರಾಟಗಳ ಸಂಖ್ಯೆ"
+        },
+        {
+          "left": "ಕೋಶೀಯ ಉಸಿರಾಟ",
+          "right": "ಶಕ್ತಿಗಾಗಿ ಆಹಾರದ ವಿಭಜನೆ"
+        }
       ],
       "reasoning": "ಉಸಿರೆಳೆದುಕೊಳ್ಳುವಿಕೆ ಎಂದರೆ ಗಾಳಿಯನ್ನು ಒಳತೆಗೆದುಕೊಳ್ಳುವುದು, ಉಸಿರುಬಿಡುವಿಕೆ ಎಂದರೆ ಅದನ್ನು ಹೊರಹಾಕುವುದು."
     }
@@ -123,13 +205,23 @@
     "difficulty": 1,
     "en": {
       "question": "What happens to your breathing rate when you do heavy exercise?",
-      "options": ["It becomes slower", "It completely stops", "It increases", "It remains the same"],
+      "options": [
+        "It becomes slower",
+        "It completely stops",
+        "It increases",
+        "It remains the same"
+      ],
       "answer": "It increases",
       "reasoning": "During heavy exercise, the body needs more energy, so the breathing rate increases to supply more oxygen to the cells."
     },
     "kn": {
       "question": "ನೀವು ಭಾರೀ ವ್ಯಾಯಾಮ ಮಾಡುವಾಗ ನಿಮ್ಮ ಉಸಿರಾಟದ ದರ ಏನಾಗುತ್ತದೆ?",
-      "options": ["ಅದು ನಿಧಾನವಾಗುತ್ತದೆ", "ಅದು ಸಂಪೂರ್ಣವಾಗಿ ನಿಲ್ಲುತ್ತದೆ", "ಅದು ಹೆಚ್ಚಾಗುತ್ತದೆ", "ಅದು ಒಂದೇ ಆಗಿರುತ್ತದೆ"],
+      "options": [
+        "ಅದು ನಿಧಾನವಾಗುತ್ತದೆ",
+        "ಅದು ಸಂಪೂರ್ಣವಾಗಿ ನಿಲ್ಲುತ್ತದೆ",
+        "ಅದು ಹೆಚ್ಚಾಗುತ್ತದೆ",
+        "ಅದು ಒಂದೇ ಆಗಿರುತ್ತದೆ"
+      ],
       "answer": "ಅದು ಹೆಚ್ಚಾಗುತ್ತದೆ",
       "reasoning": "ಭಾರೀ ವ್ಯಾಯಾಮದ ಸಮಯದಲ್ಲಿ, ದೇಹಕ್ಕೆ ಹೆಚ್ಚು ಶಕ್ತಿಯ ಅಗತ್ಯವಿರುತ್ತದೆ, ಆದ್ದರಿಂದ ಜೀವಕೋಶಗಳಿಗೆ ಹೆಚ್ಚು ಆಮ್ಲಜನಕವನ್ನು ಪೂರೈಸಲು ಉಸಿರಾಟದ ದರವು ಹೆಚ್ಚಾಗುತ್ತದೆ."
     }
@@ -140,7 +232,7 @@
     "difficulty": 1,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <!-- Fish outline -->\n  <path d=\"M250,100 C250,140 180,150 100,150 L50,180 L50,120 C30,120 20,110 20,100 C20,90 30,80 50,80 L50,20 L100,50 C180,50 250,60 250,100\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <!-- Eye -->\n  <circle cx=\"200\" cy=\"90\" r=\"5\" fill=\"#1F2937\"/>\n  <!-- Gills area highlighted -->\n  <path d=\"M160,80 C150,90 150,110 160,120\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"4\"/>\n  <path d=\"M150,80 C140,90 140,110 150,120\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"4\"/>\n  <path d=\"M140,80 C130,90 130,110 140,120\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"4\"/>\n  <text x=\"100\" y=\"60\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\">X</text>\n  <line x1=\"110\" y1=\"65\" x2=\"140\" y2=\"85\" stroke=\"#DC2626\" stroke-width=\"1.5\"/>\n</svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <!-- Fish outline -->\n  <path d=\"M250,100 C250,140 180,150 100,150 L50,180 L50,120 C30,120 20,110 20,100 C20,90 30,80 50,80 L50,20 L100,50 C180,50 250,60 250,100\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <!-- Eye -->\n  <circle cx=\"200\" cy=\"90\" r=\"5\" fill=\"#1F2937\"/>\n  <!-- Gills area highlighted -->\n  <path d=\"M160,80 C150,90 150,110 160,120\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"4\"/>\n  <path d=\"M150,80 C140,90 140,110 150,120\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"4\"/>\n  <path d=\"M140,80 C130,90 130,110 140,120\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"4\"/>\n  <text x=\"100\" y=\"60\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\">X</text>\n  <line x1=\"110\" y1=\"65\" x2=\"140\" y2=\"85\" stroke=\"#DC2626\" stroke-width=\"1.5\"/>\n</svg>",
       "alt": {
         "en": "Diagram of a fish with the respiratory organs labeled as X",
         "kn": "ಉಸಿರಾಟದ ಅಂಗಗಳನ್ನು X ಎಂದು ಗುರುತಿಸಿರುವ ಮೀನಿನ ಚಿತ್ರ"
@@ -148,13 +240,23 @@
     },
     "en": {
       "question": "In the diagram of the fish, what are the respiratory organs labeled 'X' called?",
-      "options": ["Lungs", "Spiracles", "Gills", "Skin"],
+      "options": [
+        "Lungs",
+        "Spiracles",
+        "Gills",
+        "Skin"
+      ],
       "answer": "Gills",
       "reasoning": "Fish breathe using gills, which are projections of the skin well-supplied with blood vessels to absorb dissolved oxygen from water."
     },
     "kn": {
       "question": "ಮೀನಿನ ಚಿತ್ರದಲ್ಲಿ, 'X' ಎಂದು ಗುರುತಿಸಲಾದ ಉಸಿರಾಟದ ಅಂಗಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
-      "options": ["ಶ್ವಾಸಕೋಶ (Lungs)", "ಸ್ಪೈರಕಲ್‌ಗಳು (Spiracles)", "ಕಿವಿರುಗಳು (Gills)", "ಚರ್ಮ"],
+      "options": [
+        "ಶ್ವಾಸಕೋಶ (Lungs)",
+        "ಸ್ಪೈರಕಲ್‌ಗಳು (Spiracles)",
+        "ಕಿವಿರುಗಳು (Gills)",
+        "ಚರ್ಮ"
+      ],
       "answer": "ಕಿವಿರುಗಳು (Gills)",
       "reasoning": "ಮೀನುಗಳು ಕಿವಿರುಗಳನ್ನು (gills) ಬಳಸಿ ಉಸಿರಾಡುತ್ತವೆ, ಇವು ಚರ್ಮದ ಮೇಲ್ಮೈಗಳಾಗಿದ್ದು, ನೀರಿನಲ್ಲಿ ಕರಗಿದ ಆಮ್ಲಜನಕವನ್ನು ಹೀರಿಕೊಳ್ಳಲು ರಕ್ತನಾಳಗಳಿಂದ ಕೂಡಿರುತ್ತವೆ."
     }
@@ -165,13 +267,23 @@
     "difficulty": 1,
     "en": {
       "question": "During inhalation, what happens to the ribs?",
-      "options": ["They move downwards and inwards.", "They do not move at all.", "They melt.", "They move up and outwards."],
+      "options": [
+        "They move downwards and inwards.",
+        "They do not move at all.",
+        "They melt.",
+        "They move up and outwards."
+      ],
       "answer": "They move up and outwards.",
       "reasoning": "During inhalation, ribs move up and outwards and the diaphragm moves down. This increases the space in the chest cavity, and air rushes into the lungs."
     },
     "kn": {
       "question": "ಉಸಿರೆಳೆದುಕೊಳ್ಳುವ ಸಮಯದಲ್ಲಿ (inhalation), ಪಕ್ಕೆಲುಬುಗಳಿಗೆ ಏನಾಗುತ್ತದೆ?",
-      "options": ["ಅವು ಕೆಳಕ್ಕೆ ಮತ್ತು ಒಳಕ್ಕೆ ಚಲಿಸುತ್ತವೆ.", "ಅವು ಸ್ವಲ್ಪವೂ ಚಲಿಸುವುದಿಲ್ಲ.", "ಅವು ಕರಗುತ್ತವೆ.", "ಅವು ಮೇಲಕ್ಕೆ ಮತ್ತು ಹೊರಕ್ಕೆ ಚಲಿಸುತ್ತವೆ."],
+      "options": [
+        "ಅವು ಕೆಳಕ್ಕೆ ಮತ್ತು ಒಳಕ್ಕೆ ಚಲಿಸುತ್ತವೆ.",
+        "ಅವು ಸ್ವಲ್ಪವೂ ಚಲಿಸುವುದಿಲ್ಲ.",
+        "ಅವು ಕರಗುತ್ತವೆ.",
+        "ಅವು ಮೇಲಕ್ಕೆ ಮತ್ತು ಹೊರಕ್ಕೆ ಚಲಿಸುತ್ತವೆ."
+      ],
       "answer": "ಅವು ಮೇಲಕ್ಕೆ ಮತ್ತು ಹೊರಕ್ಕೆ ಚಲಿಸುತ್ತವೆ.",
       "reasoning": "ಉಸಿರೆಳೆದುಕೊಳ್ಳುವಾಗ, ಪಕ್ಕೆಲುಬುಗಳು ಮೇಲಕ್ಕೆ ಮತ್ತು ಹೊರಕ್ಕೆ ಚಲಿಸುತ್ತವೆ ಮತ್ತು ವಪೆ ಕೆಳಕ್ಕೆ ಚಲಿಸುತ್ತದೆ. ಇದು ಎದೆಯ ಕುಹರದಲ್ಲಿ ಜಾಗವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ ಮತ್ತು ಗಾಳಿಯು ಶ್ವಾಸಕೋಶದೊಳಗೆ ನುಗ್ಗುತ್ತದೆ."
     }
@@ -182,14 +294,30 @@
     "difficulty": 1,
     "en": {
       "question": "Which of the following organisms breathe through their skin?",
-      "options": ["Earthworm", "Frog", "Fish", "Dog"],
-      "answer": ["Earthworm", "Frog"],
+      "options": [
+        "Earthworm",
+        "Frog",
+        "Fish",
+        "Dog"
+      ],
+      "answer": [
+        "Earthworm",
+        "Frog"
+      ],
       "reasoning": "Earthworms breathe through their moist skin. Frogs have lungs but can also breathe through their skin, which is moist and slippery."
     },
     "kn": {
       "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವ ಜೀವಿಗಳು ತಮ್ಮ ಚರ್ಮದ ಮೂಲಕ ಉಸಿರಾಡುತ್ತವೆ?",
-      "options": ["ಎರೆಹುಳು", "ಕಪ್ಪೆ", "ಮೀನು", "ನಾಯಿ"],
-      "answer": ["ಎರೆಹುಳು", "ಕಪ್ಪೆ"],
+      "options": [
+        "ಎರೆಹುಳು",
+        "ಕಪ್ಪೆ",
+        "ಮೀನು",
+        "ನಾಯಿ"
+      ],
+      "answer": [
+        "ಎರೆಹುಳು",
+        "ಕಪ್ಪೆ"
+      ],
       "reasoning": "ಎರೆಹುಳುಗಳು ತಮ್ಮ ತೇವವಾದ ಚರ್ಮದ ಮೂಲಕ ಉಸಿರಾಡುತ್ತವೆ. ಕಪ್ಪೆಗಳು ಶ್ವಾಸಕೋಶಗಳನ್ನು ಹೊಂದಿವೆ ಆದರೆ ಅವು ತಮ್ಮ ತೇವವಾದ ಚರ್ಮದ ಮೂಲಕವೂ ಉಸಿರಾಡಬಲ್ಲವು."
     }
   },
@@ -199,13 +327,23 @@
     "difficulty": 2,
     "en": {
       "question": "What is produced during anaerobic respiration in yeast cells?",
-      "options": ["Carbon dioxide and water", "Alcohol and carbon dioxide", "Lactic acid and oxygen", "Glucose and oxygen"],
+      "options": [
+        "Carbon dioxide and water",
+        "Alcohol and carbon dioxide",
+        "Lactic acid and oxygen",
+        "Glucose and oxygen"
+      ],
       "answer": "Alcohol and carbon dioxide",
       "reasoning": "Yeast respires anaerobically (without oxygen) and breaks down glucose into alcohol and carbon dioxide, yielding energy."
     },
     "kn": {
       "question": "ಯೀಸ್ಟ್ ಜೀವಕೋಶಗಳಲ್ಲಿ ಆಮ್ಲಜನಕರಹಿತ (anaerobic) ಉಸಿರಾಟದ ಸಮಯದಲ್ಲಿ ಏನು ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ?",
-      "options": ["ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ನೀರು", "ಆಲ್ಕೋಹಾಲ್ ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್", "ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲ ಮತ್ತು ಆಮ್ಲಜನಕ", "ಗ್ಲೂಕೋಸ್ ಮತ್ತು ಆಮ್ಲಜನಕ"],
+      "options": [
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ನೀರು",
+        "ಆಲ್ಕೋಹಾಲ್ ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲ ಮತ್ತು ಆಮ್ಲಜನಕ",
+        "ಗ್ಲೂಕೋಸ್ ಮತ್ತು ಆಮ್ಲಜನಕ"
+      ],
       "answer": "ಆಲ್ಕೋಹಾಲ್ ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
       "reasoning": "ಯೀಸ್ಟ್ ಆಮ್ಲಜನಕರಹಿತವಾಗಿ ಉಸಿರಾಡುತ್ತದೆ (ಆಮ್ಲಜನಕವಿಲ್ಲದೆ) ಮತ್ತು ಗ್ಲೂಕೋಸ್ ಅನ್ನು ಆಲ್ಕೋಹಾಲ್ ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಆಗಿ ವಿಭಜಿಸಿ ಶಕ್ತಿಯನ್ನು ನೀಡುತ್ತದೆ."
     }
@@ -216,7 +354,7 @@
     "difficulty": 2,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <!-- Cockroach outline -->\n  <ellipse cx=\"150\" cy=\"100\" rx=\"60\" ry=\"30\" fill=\"#D97706\" stroke=\"#92400E\" stroke-width=\"2\"/>\n  <ellipse cx=\"80\" cy=\"100\" rx=\"15\" ry=\"20\" fill=\"#B45309\" stroke=\"#92400E\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"90\" x2=\"30\" y2=\"70\" stroke=\"#92400E\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"110\" x2=\"30\" y2=\"130\" stroke=\"#92400E\" stroke-width=\"2\"/>\n  <!-- Spiracles -->\n  <circle cx=\"120\" cy=\"80\" r=\"3\" fill=\"#1F2937\"/>\n  <circle cx=\"140\" cy=\"80\" r=\"3\" fill=\"#1F2937\"/>\n  <circle cx=\"160\" cy=\"80\" r=\"3\" fill=\"#1F2937\"/>\n  <circle cx=\"180\" cy=\"80\" r=\"3\" fill=\"#1F2937\"/>\n  <circle cx=\"120\" cy=\"120\" r=\"3\" fill=\"#1F2937\"/>\n  <circle cx=\"140\" cy=\"120\" r=\"3\" fill=\"#1F2937\"/>\n  <circle cx=\"160\" cy=\"120\" r=\"3\" fill=\"#1F2937\"/>\n  <circle cx=\"180\" cy=\"120\" r=\"3\" fill=\"#1F2937\"/>\n  <text x=\"210\" y=\"60\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\">Small openings</text>\n  <line x1=\"190\" y1=\"65\" x2=\"165\" y2=\"75\" stroke=\"#DC2626\" stroke-width=\"1.5\"/>\n</svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <!-- Cockroach outline -->\n  <ellipse cx=\"150\" cy=\"100\" rx=\"60\" ry=\"30\" fill=\"#D97706\" stroke=\"#92400E\" stroke-width=\"2\"/>\n  <ellipse cx=\"80\" cy=\"100\" rx=\"15\" ry=\"20\" fill=\"#B45309\" stroke=\"#92400E\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"90\" x2=\"30\" y2=\"70\" stroke=\"#92400E\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"110\" x2=\"30\" y2=\"130\" stroke=\"#92400E\" stroke-width=\"2\"/>\n  <!-- Spiracles -->\n  <circle cx=\"120\" cy=\"80\" r=\"3\" fill=\"#1F2937\"/>\n  <circle cx=\"140\" cy=\"80\" r=\"3\" fill=\"#1F2937\"/>\n  <circle cx=\"160\" cy=\"80\" r=\"3\" fill=\"#1F2937\"/>\n  <circle cx=\"180\" cy=\"80\" r=\"3\" fill=\"#1F2937\"/>\n  <circle cx=\"120\" cy=\"120\" r=\"3\" fill=\"#1F2937\"/>\n  <circle cx=\"140\" cy=\"120\" r=\"3\" fill=\"#1F2937\"/>\n  <circle cx=\"160\" cy=\"120\" r=\"3\" fill=\"#1F2937\"/>\n  <circle cx=\"180\" cy=\"120\" r=\"3\" fill=\"#1F2937\"/>\n  <text x=\"210\" y=\"60\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\">Small openings</text>\n  <line x1=\"190\" y1=\"65\" x2=\"165\" y2=\"75\" stroke=\"#DC2626\" stroke-width=\"1.5\"/>\n</svg>",
       "alt": {
         "en": "Diagram of a cockroach showing small openings on the sides of its body",
         "kn": "ದೇಹದ ಬದಿಗಳಲ್ಲಿ ಸಣ್ಣ ರಂಧ್ರಗಳನ್ನು ತೋರಿಸುವ ಜಿರಳೆಯ ಚಿತ್ರ"
@@ -260,20 +398,44 @@
     "en": {
       "question": "Match the organism with its respiratory organ.",
       "pairs": [
-        {"left": "Human", "right": "Lungs"},
-        {"left": "Fish", "right": "Gills"},
-        {"left": "Earthworm", "right": "Skin"},
-        {"left": "Cockroach", "right": "Tracheae / Spiracles"}
+        {
+          "left": "Human",
+          "right": "Lungs"
+        },
+        {
+          "left": "Fish",
+          "right": "Gills"
+        },
+        {
+          "left": "Earthworm",
+          "right": "Skin"
+        },
+        {
+          "left": "Cockroach",
+          "right": "Tracheae / Spiracles"
+        }
       ],
       "reasoning": "Humans use lungs, fish use gills, earthworms use their moist skin, and cockroaches use a tracheal system with spiracles."
     },
     "kn": {
       "question": "ಜೀವಿಯನ್ನು ಅದರ ಉಸಿರಾಟದ ಅಂಗದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
       "pairs": [
-        {"left": "ಮಾನವ", "right": "ಶ್ವಾಸಕೋಶ"},
-        {"left": "ಮೀನು", "right": "ಕಿವಿರುಗಳು (Gills)"},
-        {"left": "ಎರೆಹುಳು", "right": "ಚರ್ಮ"},
-        {"left": "ಜಿರಳೆ", "right": "ಶ್ವಾಸನಾಳ / ಸ್ಪೈರಕಲ್‌ಗಳು"}
+        {
+          "left": "ಮಾನವ",
+          "right": "ಶ್ವಾಸಕೋಶ"
+        },
+        {
+          "left": "ಮೀನು",
+          "right": "ಕಿವಿರುಗಳು (Gills)"
+        },
+        {
+          "left": "ಎರೆಹುಳು",
+          "right": "ಚರ್ಮ"
+        },
+        {
+          "left": "ಜಿರಳೆ",
+          "right": "ಶ್ವಾಸನಾಳ / ಸ್ಪೈರಕಲ್‌ಗಳು"
+        }
       ],
       "reasoning": "ಮಾನವರು ಶ್ವಾಸಕೋಶವನ್ನು, ಮೀನುಗಳು ಕಿವಿರುಗಳನ್ನು, ಎರೆಹುಳುಗಳು ತಮ್ಮ ತೇವವಾದ ಚರ್ಮವನ್ನು ಮತ್ತು ಜಿರಳೆಗಳು ಸ್ಪೈರಕಲ್‌ಗಳೊಂದಿಗೆ ಶ್ವಾಸನಾಳದ ವ್ಯವಸ್ಥೆಯನ್ನು ಬಳಸುತ್ತವೆ."
     }
@@ -338,14 +500,32 @@
     "difficulty": 2,
     "en": {
       "question": "Which of the following are products of aerobic respiration?",
-      "options": ["Carbon dioxide", "Alcohol", "Water", "Energy"],
-      "answer": ["Carbon dioxide", "Water", "Energy"],
+      "options": [
+        "Carbon dioxide",
+        "Alcohol",
+        "Water",
+        "Energy"
+      ],
+      "answer": [
+        "Carbon dioxide",
+        "Water",
+        "Energy"
+      ],
       "reasoning": "In aerobic respiration, glucose is broken down in the presence of oxygen into carbon dioxide, water, and energy. Alcohol is produced in anaerobic respiration by yeast."
     },
     "kn": {
       "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಆಮ್ಲಜನಕಸಹಿತ (aerobic) ಉಸಿರಾಟದ ಉತ್ಪನ್ನಗಳು ಯಾವುವು?",
-      "options": ["ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್", "ಆಲ್ಕೋಹಾಲ್", "ನೀರು", "ಶಕ್ತಿ"],
-      "answer": ["ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್", "ನೀರು", "ಶಕ್ತಿ"],
+      "options": [
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಆಲ್ಕೋಹಾಲ್",
+        "ನೀರು",
+        "ಶಕ್ತಿ"
+      ],
+      "answer": [
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ನೀರು",
+        "ಶಕ್ತಿ"
+      ],
       "reasoning": "ಆಮ್ಲಜನಕಸಹಿತ ಉಸಿರಾಟದಲ್ಲಿ, ಗ್ಲೂಕೋಸ್ ಆಮ್ಲಜನಕದ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್, ನೀರು ಮತ್ತು ಶಕ್ತಿಯಾಗಿ ವಿಭಜನೆಯಾಗುತ್ತದೆ."
     }
   },
@@ -355,7 +535,7 @@
     "difficulty": 2,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <!-- Exhalation experiment -->\n  <path d=\"M150,80 L150,180 C150,190 170,190 170,180 L170,80\" fill=\"none\" stroke=\"#9CA3AF\" stroke-width=\"2\"/>\n  <ellipse cx=\"160\" cy=\"80\" rx=\"10\" ry=\"3\" fill=\"#E5E7EB\" stroke=\"#9CA3AF\"/>\n  <!-- Straw -->\n  <line x1=\"160\" y1=\"160\" x2=\"100\" y2=\"40\" stroke=\"#2563EB\" stroke-width=\"4\"/>\n  <path d=\"M151,130 L151,180 C151,188 169,188 169,180 L169,130\" fill=\"#FEF08A\" opacity=\"0.5\"/>\n  <circle cx=\"160\" cy=\"150\" r=\"3\" fill=\"#FFFFFF\"/>\n  <circle cx=\"155\" cy=\"160\" r=\"2\" fill=\"#FFFFFF\"/>\n  <circle cx=\"165\" cy=\"170\" r=\"2.5\" fill=\"#FFFFFF\"/>\n  <text x=\"60\" y=\"30\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"14\">Air blown in</text>\n  <line x1=\"90\" y1=\"35\" x2=\"105\" y2=\"50\" stroke=\"#1F2937\" stroke-width=\"1.5\" marker-end=\"url(#arrow)\"/>\n  <defs>\n    <marker id=\"arrow\" markerWidth=\"8\" markerHeight=\"8\" refX=\"8\" refY=\"4\" orient=\"auto\">\n      <path d=\"M0,0 L8,4 L0,8\" fill=\"#1F2937\"/>\n    </marker>\n  </defs>\n</svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <!-- Exhalation experiment -->\n  <path d=\"M150,80 L150,180 C150,190 170,190 170,180 L170,80\" fill=\"none\" stroke=\"#9CA3AF\" stroke-width=\"2\"/>\n  <ellipse cx=\"160\" cy=\"80\" rx=\"10\" ry=\"3\" fill=\"#E5E7EB\" stroke=\"#9CA3AF\"/>\n  <!-- Straw -->\n  <line x1=\"160\" y1=\"160\" x2=\"100\" y2=\"40\" stroke=\"#2563EB\" stroke-width=\"4\"/>\n  <path d=\"M151,130 L151,180 C151,188 169,188 169,180 L169,130\" fill=\"#FEF08A\" opacity=\"0.5\"/>\n  <circle cx=\"160\" cy=\"150\" r=\"3\" fill=\"#FFFFFF\"/>\n  <circle cx=\"155\" cy=\"160\" r=\"2\" fill=\"#FFFFFF\"/>\n  <circle cx=\"165\" cy=\"170\" r=\"2.5\" fill=\"#FFFFFF\"/>\n  <text x=\"60\" y=\"30\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"14\">Air blown in</text>\n  <line x1=\"90\" y1=\"35\" x2=\"105\" y2=\"50\" stroke=\"#1F2937\" stroke-width=\"1.5\" marker-end=\"url(#arrow)\"/>\n  <defs>\n    <marker id=\"arrow\" markerWidth=\"8\" markerHeight=\"8\" refX=\"8\" refY=\"4\" orient=\"auto\">\n      <path d=\"M0,0 L8,4 L0,8\" fill=\"#1F2937\"/>\n    </marker>\n  </defs>\n</svg>",
       "alt": {
         "en": "Diagram showing air being blown through a straw into a test tube containing lime water",
         "kn": "ಸುಣ್ಣದ ನೀರನ್ನು (lime water) ಹೊಂದಿರುವ ಪರೀಕ್ಷಾ ನಾಳದೊಳಗೆ ಸ್ಟ್ರಾ ಮೂಲಕ ಗಾಳಿಯನ್ನು ಊದುತ್ತಿರುವುದನ್ನು ತೋರಿಸುವ ಚಿತ್ರ"
@@ -391,18 +571,36 @@
     "en": {
       "question": "Match the process with the condition of the ribs and diaphragm.",
       "pairs": [
-        {"left": "Inhalation", "right": "Ribs move up and out, diaphragm moves down"},
-        {"left": "Exhalation", "right": "Ribs move down and in, diaphragm moves up to normal position"},
-        {"left": "Sneezing", "right": "Expels unwanted particles from the nasal cavity"}
+        {
+          "left": "Inhalation",
+          "right": "Ribs move up and out, diaphragm moves down"
+        },
+        {
+          "left": "Exhalation",
+          "right": "Ribs move down and in, diaphragm moves up to normal position"
+        },
+        {
+          "left": "Sneezing",
+          "right": "Expels unwanted particles from the nasal cavity"
+        }
       ],
       "reasoning": "During inhalation, the chest cavity expands (ribs up/out, diaphragm down). During exhalation, it contracts. Sneezing clears the upper respiratory tract."
     },
     "kn": {
       "question": "ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪಕ್ಕೆಲುಬುಗಳು ಮತ್ತು ವಪೆಯ ಸ್ಥಿತಿಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
       "pairs": [
-        {"left": "ಉಸಿರೆಳೆದುಕೊಳ್ಳುವಿಕೆ (Inhalation)", "right": "ಪಕ್ಕೆಲುಬುಗಳು ಮೇಲಕ್ಕೆ/ಹೊರಕ್ಕೆ ಚಲಿಸುತ್ತವೆ, ವಪೆ ಕೆಳಕ್ಕೆ ಚಲಿಸುತ್ತದೆ"},
-        {"left": "ಉಸಿರುಬಿಡುವಿಕೆ (Exhalation)", "right": "ಪಕ್ಕೆಲುಬುಗಳು ಕೆಳಕ್ಕೆ/ಒಳಕ್ಕೆ ಚಲಿಸುತ್ತವೆ, ವಪೆ ಸಾಮಾನ್ಯ ಸ್ಥಿತಿಗೆ ಮೇಲಕ್ಕೆ ಚಲಿಸುತ್ತದೆ"},
-        {"left": "ಸೀನುವುದು (Sneezing)", "right": "ಮೂಗಿನ ಕುಹರದಿಂದ ಅನಗತ್ಯ ಕಣಗಳನ್ನು ಹೊರಹಾಕುತ್ತದೆ"}
+        {
+          "left": "ಉಸಿರೆಳೆದುಕೊಳ್ಳುವಿಕೆ (Inhalation)",
+          "right": "ಪಕ್ಕೆಲುಬುಗಳು ಮೇಲಕ್ಕೆ/ಹೊರಕ್ಕೆ ಚಲಿಸುತ್ತವೆ, ವಪೆ ಕೆಳಕ್ಕೆ ಚಲಿಸುತ್ತದೆ"
+        },
+        {
+          "left": "ಉಸಿರುಬಿಡುವಿಕೆ (Exhalation)",
+          "right": "ಪಕ್ಕೆಲುಬುಗಳು ಕೆಳಕ್ಕೆ/ಒಳಕ್ಕೆ ಚಲಿಸುತ್ತವೆ, ವಪೆ ಸಾಮಾನ್ಯ ಸ್ಥಿತಿಗೆ ಮೇಲಕ್ಕೆ ಚಲಿಸುತ್ತದೆ"
+        },
+        {
+          "left": "ಸೀನುವುದು (Sneezing)",
+          "right": "ಮೂಗಿನ ಕುಹರದಿಂದ ಅನಗತ್ಯ ಕಣಗಳನ್ನು ಹೊರಹಾಕುತ್ತದೆ"
+        }
       ],
       "reasoning": "ಉಸಿರೆಳೆದುಕೊಳ್ಳುವಾಗ, ಎದೆಯ ಕುಹರವು ಹಿಗ್ಗುತ್ತದೆ (ಪಕ್ಕೆಲುಬುಗಳು ಮೇಲೆ/ಹೊರಗೆ, ವಪೆ ಕೆಳಗೆ). ಉಸಿರುಬಿಡುವಾಗ ಅದು ಸಂಕುಚಿತಗೊಳ್ಳುತ್ತದೆ. ಸೀನುವುದು ಮೇಲ್ಭಾಗದ ಉಸಿರಾಟದ ಪ್ರದೇಶವನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸುತ್ತದೆ."
     }
@@ -440,13 +638,23 @@
     "difficulty": 2,
     "en": {
       "question": "How do plants exchange gases in their leaves?",
-      "options": ["Through gills", "Through tiny pores called stomata", "Through spiracles", "They do not exchange gases."],
+      "options": [
+        "Through gills",
+        "Through tiny pores called stomata",
+        "Through spiracles",
+        "They do not exchange gases."
+      ],
       "answer": "Through tiny pores called stomata",
       "reasoning": "In plants, each part can independently take in oxygen and give out carbon dioxide. Leaves have tiny pores called stomata for gas exchange."
     },
     "kn": {
       "question": "ಸಸ್ಯಗಳು ತಮ್ಮ ಎಲೆಗಳಲ್ಲಿ ಅನಿಲಗಳನ್ನು ಹೇಗೆ ವಿನಿಮಯ ಮಾಡಿಕೊಳ್ಳುತ್ತವೆ?",
-      "options": ["ಕಿವಿರುಗಳ ಮೂಲಕ", "ಪತ್ರರಂಧ್ರ (stomata) ಎಂಬ ಸಣ್ಣ ರಂಧ್ರಗಳ ಮೂಲಕ", "ಸ್ಪೈರಕಲ್‌ಗಳ ಮೂಲಕ", "ಅವು ಅನಿಲಗಳನ್ನು ವಿನಿಮಯ ಮಾಡಿಕೊಳ್ಳುವುದಿಲ್ಲ."],
+      "options": [
+        "ಕಿವಿರುಗಳ ಮೂಲಕ",
+        "ಪತ್ರರಂಧ್ರ (stomata) ಎಂಬ ಸಣ್ಣ ರಂಧ್ರಗಳ ಮೂಲಕ",
+        "ಸ್ಪೈರಕಲ್‌ಗಳ ಮೂಲಕ",
+        "ಅವು ಅನಿಲಗಳನ್ನು ವಿನಿಮಯ ಮಾಡಿಕೊಳ್ಳುವುದಿಲ್ಲ."
+      ],
       "answer": "ಪತ್ರರಂಧ್ರ (stomata) ಎಂಬ ಸಣ್ಣ ರಂಧ್ರಗಳ ಮೂಲಕ",
       "reasoning": "ಸಸ್ಯಗಳಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ಭಾಗವೂ ಸ್ವತಂತ್ರವಾಗಿ ಆಮ್ಲಜನಕವನ್ನು ಒಳತೆಗೆದುಕೊಳ್ಳಬಹುದು ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಹೊರಹಾಕಬಹುದು. ಎಲೆಗಳು ಅನಿಲ ವಿನಿಮಯಕ್ಕಾಗಿ ಪತ್ರರಂಧ್ರ (stomata) ಎಂಬ ಸಣ್ಣ ರಂಧ್ರಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ."
     }
@@ -517,7 +725,10 @@
         "Cellular respiration releases energy.",
         "Breathing occurs inside every cell."
       ],
-      "answer": ["Breathing is a physical process, while cellular respiration is a chemical process.", "Cellular respiration releases energy."],
+      "answer": [
+        "Breathing is a physical process, while cellular respiration is a chemical process.",
+        "Cellular respiration releases energy."
+      ],
       "reasoning": "Breathing is the physical process of inhaling and exhaling air. Cellular respiration is a chemical process occurring inside cells that breaks down food to release energy."
     },
     "kn": {
@@ -528,7 +739,10 @@
         "ಕೋಶೀಯ ಉಸಿರಾಟವು ಶಕ್ತಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
         "ಪ್ರತಿಯೊಂದು ಜೀವಕೋಶದ ಒಳಗೆ ಉಸಿರಾಡುವಿಕೆ (Breathing) ಸಂಭವಿಸುತ್ತದೆ."
       ],
-      "answer": ["ಉಸಿರಾಡುವಿಕೆ ಭೌತಿಕ ಪ್ರಕ್ರಿಯೆಯಾಗಿದ್ದರೆ, ಕೋಶೀಯ ಉಸಿರಾಟ ರಾಸಾಯನಿಕ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ.", "ಕೋಶೀಯ ಉಸಿರಾಟವು ಶಕ್ತಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ."],
+      "answer": [
+        "ಉಸಿರಾಡುವಿಕೆ ಭೌತಿಕ ಪ್ರಕ್ರಿಯೆಯಾಗಿದ್ದರೆ, ಕೋಶೀಯ ಉಸಿರಾಟ ರಾಸಾಯನಿಕ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ.",
+        "ಕೋಶೀಯ ಉಸಿರಾಟವು ಶಕ್ತಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ."
+      ],
       "reasoning": "ಉಸಿರಾಡುವಿಕೆ (Breathing) ಎಂದರೆ ಗಾಳಿಯನ್ನು ಒಳತೆಗೆದುಕೊಳ್ಳುವ ಮತ್ತು ಹೊರಹಾಕುವ ಭೌತಿಕ ಪ್ರಕ್ರಿಯೆ. ಕೋಶೀಯ ಉಸಿರಾಟವು ಶಕ್ತಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡಲು ಜೀವಕೋಶಗಳ ಒಳಗೆ ನಡೆಯುವ ರಾಸಾಯನಿಕ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ."
     }
   },
@@ -539,18 +753,36 @@
     "en": {
       "question": "Match the type of respiration with its characteristics.",
       "pairs": [
-        {"left": "Aerobic Respiration", "right": "Produces more energy, uses oxygen"},
-        {"left": "Anaerobic Respiration in Yeast", "right": "Produces alcohol and less energy"},
-        {"left": "Anaerobic Respiration in Muscles", "right": "Produces lactic acid temporarily"}
+        {
+          "left": "Aerobic Respiration",
+          "right": "Produces more energy, uses oxygen"
+        },
+        {
+          "left": "Anaerobic Respiration in Yeast",
+          "right": "Produces alcohol and less energy"
+        },
+        {
+          "left": "Anaerobic Respiration in Muscles",
+          "right": "Produces lactic acid temporarily"
+        }
       ],
       "reasoning": "Aerobic uses oxygen and is efficient. Yeast makes alcohol without oxygen. Human muscles temporarily make lactic acid without oxygen."
     },
     "kn": {
       "question": "ಉಸಿರಾಟದ ಪ್ರಕಾರವನ್ನು ಅದರ ಗುಣಲಕ್ಷಣಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
       "pairs": [
-        {"left": "ಆಮ್ಲಜನಕಸಹಿತ ಉಸಿರಾಟ (Aerobic)", "right": "ಹೆಚ್ಚು ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ, ಆಮ್ಲಜನಕವನ್ನು ಬಳಸುತ್ತದೆ"},
-        {"left": "ಯೀಸ್ಟ್‌ನಲ್ಲಿ ಆಮ್ಲಜನಕರಹಿತ ಉಸಿರಾಟ", "right": "ಆಲ್ಕೋಹಾಲ್ ಮತ್ತು ಕಡಿಮೆ ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ"},
-        {"left": "ಸ್ನಾಯುಗಳಲ್ಲಿ ಆಮ್ಲಜನಕರಹಿತ ಉಸಿರಾಟ", "right": "ತಾತ್ಕಾಲಿಕವಾಗಿ ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲವನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ"}
+        {
+          "left": "ಆಮ್ಲಜನಕಸಹಿತ ಉಸಿರಾಟ (Aerobic)",
+          "right": "ಹೆಚ್ಚು ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ, ಆಮ್ಲಜನಕವನ್ನು ಬಳಸುತ್ತದೆ"
+        },
+        {
+          "left": "ಯೀಸ್ಟ್‌ನಲ್ಲಿ ಆಮ್ಲಜನಕರಹಿತ ಉಸಿರಾಟ",
+          "right": "ಆಲ್ಕೋಹಾಲ್ ಮತ್ತು ಕಡಿಮೆ ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ"
+        },
+        {
+          "left": "ಸ್ನಾಯುಗಳಲ್ಲಿ ಆಮ್ಲಜನಕರಹಿತ ಉಸಿರಾಟ",
+          "right": "ತಾತ್ಕಾಲಿಕವಾಗಿ ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲವನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ"
+        }
       ],
       "reasoning": "ಆಮ್ಲಜನಕಸಹಿತ ಉಸಿರಾಟವು ಆಮ್ಲಜನಕವನ್ನು ಬಳಸುತ್ತದೆ ಮತ್ತು ಪರಿಣಾಮಕಾರಿಯಾಗಿದೆ. ಯೀಸ್ಟ್ ಆಮ್ಲಜನಕವಿಲ್ಲದೆ ಆಲ್ಕೋಹಾಲ್ ಅನ್ನು ಮಾಡುತ್ತದೆ. ಮಾನವ ಸ್ನಾಯುಗಳು ಆಮ್ಲಜನಕವಿಲ್ಲದೆ ತಾತ್ಕಾಲಿಕವಾಗಿ ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲವನ್ನು ತಯಾರಿಸುತ್ತವೆ."
     }
@@ -561,7 +793,7 @@
     "difficulty": 3,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <!-- Root cross section -->\n  <rect x=\"50\" y=\"100\" width=\"200\" height=\"80\" fill=\"#D97706\"/>\n  <circle cx=\"100\" cy=\"120\" r=\"15\" fill=\"#B45309\"/>\n  <circle cx=\"150\" cy=\"140\" r=\"15\" fill=\"#B45309\"/>\n  <circle cx=\"200\" cy=\"110\" r=\"15\" fill=\"#B45309\"/>\n  <circle cx=\"80\" cy=\"160\" r=\"15\" fill=\"#B45309\"/>\n  <circle cx=\"180\" cy=\"160\" r=\"15\" fill=\"#B45309\"/>\n  <path d=\"M150,100 C150,50 145,30 140,20 C135,30 155,50 155,100\" fill=\"#10B981\"/>\n  <text x=\"160\" y=\"50\" fill=\"#10B981\" font-family=\"Arial, sans-serif\" font-size=\"14\">Root hair</text>\n  <path d=\"M100,120 A10,10 0 0,0 120,120\" fill=\"none\" stroke=\"#60A5FA\" stroke-width=\"2\" stroke-dasharray=\"2,2\"/>\n  <text x=\"200\" y=\"140\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"12\">Air spaces</text>\n</svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\">\n  <!-- Root cross section -->\n  <rect x=\"50\" y=\"100\" width=\"200\" height=\"80\" fill=\"#D97706\"/>\n  <circle cx=\"100\" cy=\"120\" r=\"15\" fill=\"#B45309\"/>\n  <circle cx=\"150\" cy=\"140\" r=\"15\" fill=\"#B45309\"/>\n  <circle cx=\"200\" cy=\"110\" r=\"15\" fill=\"#B45309\"/>\n  <circle cx=\"80\" cy=\"160\" r=\"15\" fill=\"#B45309\"/>\n  <circle cx=\"180\" cy=\"160\" r=\"15\" fill=\"#B45309\"/>\n  <path d=\"M150,100 C150,50 145,30 140,20 C135,30 155,50 155,100\" fill=\"#10B981\"/>\n  <text x=\"160\" y=\"50\" fill=\"#10B981\" font-family=\"Arial, sans-serif\" font-size=\"14\">Root hair</text>\n  <path d=\"M100,120 A10,10 0 0,0 120,120\" fill=\"none\" stroke=\"#60A5FA\" stroke-width=\"2\" stroke-dasharray=\"2,2\"/>\n  <text x=\"200\" y=\"140\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"12\">Air spaces</text>\n</svg>",
       "alt": {
         "en": "Diagram showing root hair growing into soil particles with air spaces",
         "kn": "ಗಾಳಿಯ ಸ್ಥಳಗಳೊಂದಿಗೆ ಮಣ್ಣಿನ ಕಣಗಳಲ್ಲಿ ಬೇರಿನ ಕೂದಲು ಬೆಳೆಯುತ್ತಿರುವುದನ್ನು ತೋರಿಸುವ ಚಿತ್ರ"
@@ -624,20 +856,44 @@
     "en": {
       "question": "Match the concept with its correct statement regarding breathing.",
       "pairs": [
-        {"left": "Breathing rate at rest", "right": "About 15–18 times a minute"},
-        {"left": "Breathing rate during exercise", "right": "Can increase up to 25 times a minute"},
-        {"left": "Sneezing", "right": "Expels dust particles to keep air clean"},
-        {"left": "Yawning", "right": "Often occurs when sleepy or oxygen levels are low"}
+        {
+          "left": "Breathing rate at rest",
+          "right": "About 15–18 times a minute"
+        },
+        {
+          "left": "Breathing rate during exercise",
+          "right": "Can increase up to 25 times a minute"
+        },
+        {
+          "left": "Sneezing",
+          "right": "Expels dust particles to keep air clean"
+        },
+        {
+          "left": "Yawning",
+          "right": "Often occurs when sleepy or oxygen levels are low"
+        }
       ],
       "reasoning": "Normal breathing rate is 15-18 per min, which goes up to 25 during exercise. Sneezing cleans inhaled air. Yawning brings in extra oxygen when drowsy."
     },
     "kn": {
       "question": "ಉಸಿರಾಟದ ಪರಿಕಲ್ಪನೆಯನ್ನು ಅದರ ಸರಿಯಾದ ಹೇಳಿಕೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
       "pairs": [
-        {"left": "ವಿಶ್ರಾಂತಿ ಸಮಯದಲ್ಲಿ ಉಸಿರಾಟದ ದರ", "right": "ನಿಮಿಷಕ್ಕೆ ಸುಮಾರು 15-18 ಬಾರಿ"},
-        {"left": "ವ್ಯಾಯಾಮದ ಸಮಯದಲ್ಲಿ ಉಸಿರಾಟದ ದರ", "right": "ನಿಮಿಷಕ್ಕೆ 25 ಬಾರಿ ಹೆಚ್ಚಾಗಬಹುದು"},
-        {"left": "ಸೀನುವುದು", "right": "ಗಾಳಿಯನ್ನು ಸ್ವಚ್ಛವಾಗಿಡಲು ಧೂಳಿನ ಕಣಗಳನ್ನು ಹೊರಹಾಕುತ್ತದೆ"},
-        {"left": "ಆಕಳಿಕೆ", "right": "ನಿದ್ರೆ ಬಂದಾಗ ಅಥವಾ ಆಮ್ಲಜನಕದ ಮಟ್ಟ ಕಡಿಮೆಯಾದಾಗ ಸಂಭವಿಸುತ್ತದೆ"}
+        {
+          "left": "ವಿಶ್ರಾಂತಿ ಸಮಯದಲ್ಲಿ ಉಸಿರಾಟದ ದರ",
+          "right": "ನಿಮಿಷಕ್ಕೆ ಸುಮಾರು 15-18 ಬಾರಿ"
+        },
+        {
+          "left": "ವ್ಯಾಯಾಮದ ಸಮಯದಲ್ಲಿ ಉಸಿರಾಟದ ದರ",
+          "right": "ನಿಮಿಷಕ್ಕೆ 25 ಬಾರಿ ಹೆಚ್ಚಾಗಬಹುದು"
+        },
+        {
+          "left": "ಸೀನುವುದು",
+          "right": "ಗಾಳಿಯನ್ನು ಸ್ವಚ್ಛವಾಗಿಡಲು ಧೂಳಿನ ಕಣಗಳನ್ನು ಹೊರಹಾಕುತ್ತದೆ"
+        },
+        {
+          "left": "ಆಕಳಿಕೆ",
+          "right": "ನಿದ್ರೆ ಬಂದಾಗ ಅಥವಾ ಆಮ್ಲಜನಕದ ಮಟ್ಟ ಕಡಿಮೆಯಾದಾಗ ಸಂಭವಿಸುತ್ತದೆ"
+        }
       ],
       "reasoning": "ಸಾಮಾನ್ಯ ಉಸಿರಾಟದ ದರ ನಿಮಿಷಕ್ಕೆ 15-18, ವ್ಯಾಯಾಮದ ಸಮಯದಲ್ಲಿ 25 ಕ್ಕೆ ಏರುತ್ತದೆ. ಸೀನುವುದು ಉಸಿರಾಡುವ ಗಾಳಿಯನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸುತ್ತದೆ. ಆಕಳಿಕೆಯು ನಿದ್ರೆ ಬಂದಾಗ ಹೆಚ್ಚುವರಿ ಆಮ್ಲಜನಕವನ್ನು ತರುತ್ತದೆ."
     }

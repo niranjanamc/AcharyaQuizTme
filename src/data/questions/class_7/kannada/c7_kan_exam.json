@@ -1,0 +1,1411 @@
+[
+  {
+    "id": "c7_kan_exam_q1",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "What does the word 'Parikshe' mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Examination/Test",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Game",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Festival",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Holiday",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "'ಪರೀಕ್ಷೆ' ಪದದ ಅರ್ಥವೇನು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಪರೀಕ್ಷೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಆಟ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಹಬ್ಬ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ರಜೆ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q2",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Where do students usually write their exams?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In the classroom",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "In the market",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "In the forest",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "On the street",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ವಿದ್ಯಾರ್ಥಿಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಎಲ್ಲಿ ಪರೀಕ್ಷೆ ಬರೆಯುತ್ತಾರೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ತರಗತಿಯಲ್ಲಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಕಾಡಿನಲ್ಲಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ರಸ್ತೆಯಲ್ಲಿ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q3",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "How should a student prepare for an exam?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By studying hard",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "By sleeping all day",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "By watching TV",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "By copying",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ವಿದ್ಯಾರ್ಥಿಯು ಪರೀಕ್ಷೆಗೆ ಹೇಗೆ ಸಿದ್ಧರಾಗಬೇಕು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಕಷ್ಟಪಟ್ಟು ಓದುವುದರ ಮೂಲಕ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಇಡೀ ದಿನ ಮಲಗುವುದರ ಮೂಲಕ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಟಿವಿ ನೋಡುವುದರ ಮೂಲಕ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ನಕಲು ಮಾಡುವುದರ ಮೂಲಕ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q4",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Who evaluates the exam papers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Teachers",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Doctors",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Farmers",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Policemen",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಪರೀಕ್ಷೆಯ ಉತ್ತರ ಪತ್ರಿಕೆಗಳನ್ನು ಯಾರು ಮೌಲ್ಯಮಾಪನ ಮಾಡುತ್ತಾರೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಶಿಕ್ಷಕರು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ವೈದ್ಯರು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ರೈತರು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಪೊಲೀಸರು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q5",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Is copying in an exam a good habit?",
+      "options": [
+        {
+          "id": "A",
+          "text": "No, it is a bad habit",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Yes, it is very good",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Sometimes it is okay",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Everyone should do it",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ನಕಲು ಮಾಡುವುದು ಒಳ್ಳೆಯ ಅಭ್ಯಾಸವೇ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಇಲ್ಲ, ಇದು ಕೆಟ್ಟ ಅಭ್ಯಾಸ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಹೌದು, ಇದು ತುಂಬಾ ಒಳ್ಳೆಯದು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಕೆಲವೊಮ್ಮೆ ಪರವಾಗಿಲ್ಲ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಎಲ್ಲರೂ ಅದನ್ನು ಮಾಡಬೇಕು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q6",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "What is required to succeed in an exam?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Honesty and hard work",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Money",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Laziness",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Luck only",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಯಶಸ್ವಿಯಾಗಲು ಏನು ಬೇಕು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಪ್ರಾಮಾಣಿಕತೆ ಮತ್ತು ಕಠಿಣ ಪರಿಶ್ರಮ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಹಣ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಸೋಮಾರಿತನ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಕೇವಲ ಅದೃಷ್ಟ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q7",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "Why are exams conducted?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To test the student's knowledge",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "To punish the students",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "To waste time",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "To collect fees",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಪರೀಕ್ಷೆಗಳನ್ನು ಏಕೆ ನಡೆಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ವಿದ್ಯಾರ್ಥಿಯ ಜ್ಞಾನವನ್ನು ಪರೀಕ್ಷಿಸಲು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಶಿಕ್ಷೆ ನೀಡಲು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಲು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಶುಲ್ಕ ಸಂಗ್ರಹಿಸಲು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q8",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "How does a student feel before a difficult exam?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anxious or nervous",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Hungry",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Angry",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Sleepy",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಕಷ್ಟಕರವಾದ ಪರೀಕ್ಷೆಯ ಮೊದಲು ವಿದ್ಯಾರ್ಥಿಗೆ ಹೇಗೆ ಅನಿಸುತ್ತದೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಆತಂಕ ಅಥವಾ ಭಯ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಹಸಿವು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಕೋಪ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ನಿದ್ರೆ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q9",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "What should you do if you don't know an answer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Move to the next question and try later",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Start crying",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Ask the person next to you",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Tear the paper",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ನಿಮಗೆ ಉತ್ತರ ಗೊತ್ತಿಲ್ಲದಿದ್ದರೆ ನೀವು ಏನು ಮಾಡಬೇಕು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಮುಂದಿನ ಪ್ರಶ್ನೆಗೆ ಹೋಗಿ ನಂತರ ಪ್ರಯತ್ನಿಸಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಅಳಲು ಪ್ರಾರಂಭಿಸಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಪಕ್ಕದವರನ್ನು ಕೇಳಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಪತ್ರಿಕೆಯನ್ನು ಹರಿದುಹಾಕಿ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q10",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "What is the true measure of a student's character during an exam?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Their honesty",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Their handwriting",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "The pen they use",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Their clothes",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಪರೀಕ್ಷೆಯ ಸಮಯದಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿಯ ನೈಜ ಗುಣವನ್ನು ಯಾವುದರಿಂದ ಅಳೆಯಲಾಗುತ್ತದೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವರ ಪ್ರಾಮಾಣಿಕತೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಅವರ ಕೈಬರಹ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಅವರು ಬಳಸುವ ಪೆನ್",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವರ ಬಟ್ಟೆ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q11",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "What happens when someone is caught cheating?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are disqualified or punished",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "They get a prize",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "They are praised",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Nothing happens",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಯಾರಾದರೂ ನಕಲು ಮಾಡುತ್ತಾ ಸಿಕ್ಕಿಬಿದ್ದರೆ ಏನಾಗುತ್ತದೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವರನ್ನು ಅನರ್ಹಗೊಳಿಸಲಾಗುತ್ತದೆ ಅಥವಾ ಶಿಕ್ಷಿಸಲಾಗುತ್ತದೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಅವರಿಗೆ ಬಹುಮಾನ ಸಿಗುತ್ತದೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಅವರನ್ನು ಹೊಗಳಲಾಗುತ್ತದೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಏನೂ ಆಗುವುದಿಲ್ಲ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q12",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "Besides academic exams, what other exams do we face?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exams of life and challenges",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Only medical exams",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Only driving tests",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "No other exams",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಶೈಕ್ಷಣಿಕ ಪರೀಕ್ಷೆಗಳ ಜೊತೆಗೆ, ನಾವು ಬೇರೆ ಯಾವ ಪರೀಕ್ಷೆಗಳನ್ನು ಎದುರಿಸುತ್ತೇವೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಜೀವನದ ಪರೀಕ್ಷೆಗಳು ಮತ್ತು ಸವಾಲುಗಳು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ವೈದ್ಯಕೀಯ ಪರೀಕ್ಷೆಗಳು ಮಾತ್ರ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಚಾಲನಾ ಪರೀಕ್ಷೆಗಳು ಮಾತ್ರ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಬೇರೆ ಯಾವುದೇ ಪರೀಕ್ಷೆಗಳಿಲ್ಲ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q13",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "What is the central moral lesson of the story 'Parikshe'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Integrity is more important than mere marks",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Always get the highest score",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Studying all night is the only way",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Exams are useless",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "'ಪರೀಕ್ಷೆ' ಕಥೆಯ ಕೇಂದ್ರ ನೈತಿಕ ಪಾಠವೇನು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಕೇವಲ ಅಂಕಗಳಿಗಿಂತ ಪ್ರಾಮಾಣಿಕತೆ ಮುಖ್ಯ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಯಾವಾಗಲೂ ಅತಿ ಹೆಚ್ಚು ಅಂಕ ಪಡೆಯಬೇಕು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಇಡೀ ರಾತ್ರಿ ಓದುವುದೇ ಏಕೈಕ ಮಾರ್ಗ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಪರೀಕ್ಷೆಗಳು ನಿಷ್ಪ್ರಯೋಜಕ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q14",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "How can a student overcome exam fear?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Through consistent preparation and confidence",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "By ignoring the syllabus",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "By relying on others",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "By complaining to parents",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ವಿದ್ಯಾರ್ಥಿಯು ಪರೀಕ್ಷಾ ಭಯವನ್ನು ಹೇಗೆ ನಿವಾರಿಸಬಹುದು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ನಿರಂತರ ಸಿದ್ಧತೆ ಮತ್ತು ಆತ್ಮವಿಶ್ವಾಸದ ಮೂಲಕ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಪಠ್ಯಕ್ರಮವನ್ನು ನಿರ್ಲಕ್ಷಿಸುವ ಮೂಲಕ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಇತರರನ್ನು ಅವಲಂಬಿಸುವ ಮೂಲಕ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಪೋಷಕರಿಗೆ ದೂರು ನೀಡುವ ಮೂಲಕ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q15",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "Why do teachers value a student who fails honestly over one who passes by cheating?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because honesty builds true character",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Because failing is better than passing",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "They don't value honest failures",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Because they like giving low marks",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಶಿಕ್ಷಕರು ನಕಲು ಮಾಡಿ ಪಾಸಾಗುವ ವಿದ್ಯಾರ್ಥಿಗಿಂತ ಪ್ರಾಮಾಣಿಕವಾಗಿ ಫೇಲಾಗುವ ವಿದ್ಯಾರ್ಥಿಯನ್ನು ಏಕೆ ಗೌರವಿಸುತ್ತಾರೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಏಕೆಂದರೆ ಪ್ರಾಮಾಣಿಕತೆಯು ನಿಜವಾದ ವ್ಯಕ್ತಿತ್ವವನ್ನು ರೂಪಿಸುತ್ತದೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಏಕೆಂದರೆ ಪಾಸಾಗುವುದಕ್ಕಿಂತ ಫೇಲಾಗುವುದು ಉತ್ತಮ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಅವರು ಪ್ರಾಮಾಣಿಕ ವೈಫಲ್ಯಗಳನ್ನು ಗೌರವಿಸುವುದಿಲ್ಲ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಏಕೆಂದರೆ ಅವರು ಕಡಿಮೆ ಅಂಕಗಳನ್ನು ನೀಡಲು ಇಷ್ಟಪಡುತ್ತಾರೆ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q16",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "What is the ultimate goal of education beyond exams?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To build a knowledgeable and ethical person",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "To get a piece of paper",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "To become rich quickly",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "To boast to neighbors",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಪರೀಕ್ಷೆಗಳ ಆಚೆಗೆ ಶಿಕ್ಷಣದ ಅಂತಿಮ ಗುರಿ ಏನು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಜ್ಞಾನವುಳ್ಳ ಮತ್ತು ನೈತಿಕ ವ್ಯಕ್ತಿಯನ್ನು ರೂಪಿಸುವುದು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಒಂದು ತುಂಡು ಕಾಗದವನ್ನು ಪಡೆಯಲು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಬೇಗನೆ ಶ್ರೀಮಂತರಾಗಲು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ನೆರೆಹೊರೆಯವರಿಗೆ ಕೊಚ್ಚಿಕೊಳ್ಳಲು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q17",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "How should one handle failure in an exam?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Learn from mistakes and try harder",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Give up studying",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Blame the teacher",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Hide the results",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಪರೀಕ್ಷೆಯಲ್ಲಿನ ವೈಫಲ್ಯವನ್ನು ಒಬ್ಬರು ಹೇಗೆ ನಿಭಾಯಿಸಬೇಕು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ತಪ್ಪುಗಳಿಂದ ಕಲಿಯಿರಿ ಮತ್ತು ಹೆಚ್ಚು ಪ್ರಯತ್ನಿಸಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಓದುವುದನ್ನು ಬಿಟ್ಟುಬಿಡಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಶಿಕ್ಷಕರನ್ನು ದೂಷಿಸಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಫಲಿತಾಂಶಗಳನ್ನು ಮರೆಮಾಡಿ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_exam_q18",
+    "type": "multiple",
+    "difficulty": "easy",
+    "en": {
+      "question": "Which items are usually allowed in an exam hall?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pen and Pencil",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Eraser",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Mobile Phone",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Textbook",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    },
+    "kn": {
+      "question": "ಪರೀಕ್ಷಾ ಕೊಠಡಿಯಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ವಸ್ತುಗಳನ್ನು ಅನುಮತಿಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಪೆನ್ ಮತ್ತು ಪೆನ್ಸಿಲ್",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಅಳಿಸುವ ರಬ್ಬರ್",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಮೊಬೈಲ್ ಫೋನ್",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಪಠ್ಯಪುಸ್ತಕ",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    }
+  },
+  {
+    "id": "c7_kan_exam_q19",
+    "type": "multiple",
+    "difficulty": "medium",
+    "en": {
+      "question": "What are good study habits?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Making notes",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Revising regularly",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Studying only the night before",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Watching TV while studying",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    },
+    "kn": {
+      "question": "ಒಳ್ಳೆಯ ಅಧ್ಯಯನ ಅಭ್ಯಾಸಗಳು ಯಾವುವು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಟಿಪ್ಪಣಿಗಳನ್ನು ಮಾಡುವುದು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ನಿಯಮಿತವಾಗಿ ಪರಿಷ್ಕರಿಸುವುದು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಹಿಂದಿನ ರಾತ್ರಿ ಮಾತ್ರ ಓದುವುದು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಓದುವಾಗ ಟಿವಿ ನೋಡುವುದು",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    }
+  },
+  {
+    "id": "c7_kan_exam_q20",
+    "type": "multiple",
+    "difficulty": "hard",
+    "en": {
+      "question": "Which of these describe a well-prepared student?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Confident",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Calm and composed",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Panicking",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Looking for ways to cheat",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    },
+    "kn": {
+      "question": "ಚೆನ್ನಾಗಿ ಸಿದ್ಧವಾದ ವಿದ್ಯಾರ್ಥಿಯನ್ನು ಇವುಗಳಲ್ಲಿ ಯಾವುದು ವಿವರಿಸುತ್ತದೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಆತ್ಮವಿಶ್ವಾಸವುಳ್ಳ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಶಾಂತ ಮತ್ತು ನೆಮ್ಮದಿಯ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಗಾಬರಿಯಾಗುವ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ನಕಲು ಮಾಡಲು ದಾರಿ ಹುಡುಕುವ",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    }
+  },
+  {
+    "id": "c7_kan_exam_q21",
+    "type": "multiple",
+    "difficulty": "hard",
+    "en": {
+      "question": "Select the true statements about life's exams.",
+      "options": [
+        {
+          "id": "A",
+          "text": "They test our patience and courage",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "They teach us valuable lessons",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "They always happen in a classroom",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "They are graded with marks out of 100",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    },
+    "kn": {
+      "question": "ಜೀವನದ ಪರೀಕ್ಷೆಗಳ ಬಗ್ಗೆ ನಿಜವಾದ ಹೇಳಿಕೆಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವು ನಮ್ಮ ತಾಳ್ಮೆ ಮತ್ತು ಧೈರ್ಯವನ್ನು ಪರೀಕ್ಷಿಸುತ್ತವೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಅವು ನಮಗೆ ಅಮೂಲ್ಯವಾದ ಪಾಠಗಳನ್ನು ಕಲಿಸುತ್ತವೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವು ಯಾವಾಗಲೂ ತರಗತಿಯಲ್ಲಿ ನಡೆಯುತ್ತವೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವುಗಳಿಗೆ ೧೦೦ ಕ್ಕೆ ಅಂಕಗಳನ್ನು ನೀಡಲಾಗುತ್ತದೆ",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    }
+  },
+  {
+    "id": "c7_kan_exam_q22",
+    "type": "match",
+    "difficulty": "easy",
+    "en": {
+      "question": "Match the examination words with their meanings",
+      "pairs": [
+        {
+          "left": "Parikshe",
+          "right": "Exam"
+        },
+        {
+          "left": "Vidhyarthi",
+          "right": "Student"
+        },
+        {
+          "left": "Shikshaka",
+          "right": "Teacher"
+        },
+        {
+          "left": "Anka",
+          "right": "Marks"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಪದಗಳನ್ನು ಅವುಗಳ ಅರ್ಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+      "pairs": [
+        {
+          "left": "ಪರೀಕ್ಷೆ",
+          "right": "ಪರೀಕ್ಷೆ"
+        },
+        {
+          "left": "ವಿದ್ಯಾರ್ಥಿ",
+          "right": "ವಿದ್ಯಾರ್ಥಿ"
+        },
+        {
+          "left": "ಶಿಕ್ಷಕ",
+          "right": "ಶಿಕ್ಷಕ"
+        },
+        {
+          "left": "ಅಂಕ",
+          "right": "ಅಂಕಗಳು"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_kan_exam_q23",
+    "type": "match",
+    "difficulty": "medium",
+    "en": {
+      "question": "Match the action with its consequence in an exam",
+      "pairs": [
+        {
+          "left": "Hard work",
+          "right": "Good results"
+        },
+        {
+          "left": "Cheating",
+          "right": "Punishment"
+        },
+        {
+          "left": "Carelessness",
+          "right": "Poor marks"
+        },
+        {
+          "left": "Revision",
+          "right": "Better memory"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಪರೀಕ್ಷೆಯಲ್ಲಿನ ಕ್ರಿಯೆಯನ್ನು ಅದರ ಪರಿಣಾಮದೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+      "pairs": [
+        {
+          "left": "ಕಠಿಣ ಪರಿಶ್ರಮ",
+          "right": "ಒಳ್ಳೆಯ ಫಲಿತಾಂಶ"
+        },
+        {
+          "left": "ನಕಲು ಮಾಡುವುದು",
+          "right": "ಶಿಕ್ಷೆ"
+        },
+        {
+          "left": "ನಿರ್ಲಕ್ಷ್ಯ",
+          "right": "ಕಡಿಮೆ ಅಂಕಗಳು"
+        },
+        {
+          "left": "ಪುನರಾವರ್ತನೆ",
+          "right": "ಉತ್ತಮ ನೆನಪಿನ ಶಕ್ತಿ"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_kan_exam_q24",
+    "type": "match",
+    "difficulty": "medium",
+    "en": {
+      "question": "Match the study tool with its use",
+      "pairs": [
+        {
+          "left": "Textbook",
+          "right": "Reading chapters"
+        },
+        {
+          "left": "Notebook",
+          "right": "Writing notes"
+        },
+        {
+          "left": "Dictionary",
+          "right": "Finding meanings"
+        },
+        {
+          "left": "Timetable",
+          "right": "Managing time"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಅಧ್ಯಯನದ ಸಾಧನವನ್ನು ಅದರ ಉಪಯೋಗದೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+      "pairs": [
+        {
+          "left": "ಪಠ್ಯಪುಸ್ತಕ",
+          "right": "ಪಾಠಗಳನ್ನು ಓದಲು"
+        },
+        {
+          "left": "ನೋಟ್‌ಬುಕ್",
+          "right": "ಟಿಪ್ಪಣಿಗಳನ್ನು ಬರೆಯಲು"
+        },
+        {
+          "left": "ಶಬ್ದಕೋಶ",
+          "right": "ಅರ್ಥಗಳನ್ನು ಹುಡುಕಲು"
+        },
+        {
+          "left": "ವೇಳಾಪಟ್ಟಿ",
+          "right": "ಸಮಯ ನಿರ್ವಹಿಸಲು"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_kan_exam_q25",
+    "type": "match",
+    "difficulty": "hard",
+    "en": {
+      "question": "Match the emotion with the exam phase",
+      "pairs": [
+        {
+          "left": "Anxiety",
+          "right": "Before entering the hall"
+        },
+        {
+          "left": "Focus",
+          "right": "While writing answers"
+        },
+        {
+          "left": "Relief",
+          "right": "After submitting the paper"
+        },
+        {
+          "left": "Anticipation",
+          "right": "Waiting for results"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಭಾವನೆಯನ್ನು ಪರೀಕ್ಷೆಯ ಹಂತದೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+      "pairs": [
+        {
+          "left": "ಆತಂಕ",
+          "right": "ಕೊಠಡಿ ಪ್ರವೇಶಿಸುವ ಮೊದಲು"
+        },
+        {
+          "left": "ಏಕಾಗ್ರತೆ",
+          "right": "ಉತ್ತರಗಳನ್ನು ಬರೆಯುವಾಗ"
+        },
+        {
+          "left": "ನಿರಾಳತೆ",
+          "right": "ಪತ್ರಿಕೆಯನ್ನು ನೀಡಿದ ನಂತರ"
+        },
+        {
+          "left": "ನಿರೀಕ್ಷೆ",
+          "right": "ಫಲಿತಾಂಶಕ್ಕಾಗಿ ಕಾಯುವಾಗ"
+        }
+      ]
+    }
+  }
+]

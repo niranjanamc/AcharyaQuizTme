@@ -265,7 +265,7 @@
     "difficulty": 1,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\" width=\"300\" height=\"200\" style=\"background:#fff\"><line x1=\"80\" y1=\"160\" x2=\"220.0\" y2=\"160.0\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"80\" y1=\"160\" x2=\"80.0\" y2=\"20.0\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M 130.0,160.0 A 50 50 0 0 0 80.0,110.0\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"1\"/><text x=\"128.1\" y=\"111.9\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">∠ABC = 90°</text><circle cx=\"80\" cy=\"160\" r=\"3\" fill=\"#2563EB\"/></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"   style=\"background:#fff\"><line x1=\"80\" y1=\"160\" x2=\"220.0\" y2=\"160.0\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"80\" y1=\"160\" x2=\"80.0\" y2=\"20.0\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M 130.0,160.0 A 50 50 0 0 0 80.0,110.0\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"1\"/><text x=\"128.1\" y=\"111.9\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">∠ABC = 90°</text><circle cx=\"80\" cy=\"160\" r=\"3\" fill=\"#2563EB\"/></svg>",
       "alt": {
         "en": "An angle measuring 90 degrees",
         "kn": "90 ಡಿಗ್ರಿ ಅಳತೆಯ ಕೋನ"

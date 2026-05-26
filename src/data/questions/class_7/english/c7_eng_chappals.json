@@ -1,0 +1,1395 @@
+[
+  {
+    "id": "c7_eng_chappals_01",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Who did Mridu go to visit?",
+      "explanation": "Mridu went to her aunt Rukku Manni's house to meet Lalli, Ravi, and Meena.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her friend",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Her aunt Rukku Manni",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Her teacher",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Her grandparents",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಮೃದು ಯಾರನ್ನು ಭೇಟಿಯಾಗಲು ಹೋದಳು?",
+      "explanation": "ಮೃದು ಲಲ್ಲಿ, ರವಿ ಮತ್ತು ಮೀನಾರನ್ನು ಭೇಟಿಯಾಗಲು ತನ್ನ ಚಿಕ್ಕಮ್ಮ ರುಕ್ಕು ಮನ್ನಿಯ ಮನೆಗೆ ಹೋದಳು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವಳ ಸ್ನೇಹಿತೆಯನ್ನು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಅವಳ ಚಿಕ್ಕಮ್ಮ ರುಕ್ಕು ಮನ್ನಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವಳ ಶಿಕ್ಷಕರು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವಳ ಅಜ್ಜ-ಅಜ್ಜಿ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_chappals_02",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "What did Ravi show Mridu in the backyard?",
+      "explanation": "Ravi showed Mridu a small kitten hiding inside a torn football.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A puppy",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "A small kitten",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "A bird",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "A garden",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ರವಿ ಹಿತ್ತಲಿನಲ್ಲಿ ಮೃದುಳಿಗೆ ಏನು ತೋರಿಸಿದನು?",
+      "explanation": "ಹರಿದ ಫುಟ್‌ಬಾಲ್‌ನೊಳಗೆ ಅಡಗಿಕೊಂಡಿದ್ದ ಸಣ್ಣ ಬೆಕ್ಕಿನ ಮರಿಯನ್ನು ರವಿ ಮೃದುಳಿಗೆ ತೋರಿಸಿದನು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಒಂದು ನಾಯಿಮರಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಒಂದು ಸಣ್ಣ ಬೆಕ್ಕಿನ ಮರಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಒಂದು ಹಕ್ಕಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಒಂದು ತೋಟ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_chappals_03",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "What was the name of the kitten?",
+      "explanation": "Ravi named the kitten Mahendra Varma Pallava Poonai, or Mahendran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tommy",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Mahendran",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Kitty",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Raja",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಬೆಕ್ಕಿನ ಮರಿಯ ಹೆಸರೇನು?",
+      "explanation": "ರವಿ ಬೆಕ್ಕಿನ ಮರಿಗೆ ಮಹೇಂದ್ರ ವರ್ಮ ಪಲ್ಲವ ಪೂನೈ, ಅಥವಾ ಮಹೇಂದ್ರನ್ ಎಂದು ಹೆಸರಿಟ್ಟನು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಟಾಮಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಮಹೇಂದ್ರನ್",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಕಿಟ್ಟಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ರಾಜಾ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_chappals_04",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "What was Lalli learning to play?",
+      "explanation": "Lalli was learning to play the violin from the music master.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Flute",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Violin",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Guitar",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Piano",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಲಲ್ಲಿ ಏನು ನುಡಿಸಲು ಕಲಿಯುತ್ತಿದ್ದಳು?",
+      "explanation": "ಲಲ್ಲಿ ಸಂಗೀತ ಮೇಸ್ಟ್ರಿಂದ ಪಿಟೀಲು ನುಡಿಸಲು ಕಲಿಯುತ್ತಿದ್ದಳು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಕೊಳಲು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಪಿಟೀಲು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಗಿಟಾರ್",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಪಿಯಾನೋ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_chappals_05",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Who came to the gate asking for alms?",
+      "explanation": "A beggar came to the gate asking for help.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A postman",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "A beggar",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "A hawker",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "A relative",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಭಿಕ್ಷೆ ಬೇಡುತ್ತಾ ಗೇಟ್ ಬಳಿ ಬಂದವರು ಯಾರು?",
+      "explanation": "ಒಬ್ಬ ಭಿಕ್ಷುಕ ಸಹಾಯ ಕೇಳುತ್ತಾ ಗೇಟ್ ಬಳಿ ಬಂದನು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಪೋಸ್ಟ್ ಮ್ಯಾನ್",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಒಬ್ಬ ಭಿಕ್ಷುಕ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಬೀದಿ ವ್ಯಾಪಾರಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಒಬ್ಬ ಸಂಬಂಧಿ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_chappals_06",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "According to the poem 'The Rebel', what does the rebel do when everyone has short hair?",
+      "explanation": "A rebel does the opposite of what others do, so he lets his hair grow long.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cuts his hair short",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Lets his hair grow long",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Wears a hat",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Shaves his head",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "'ದಿ ರೆಬೆಲ್' ಪದ್ಯದ ಪ್ರಕಾರ, ಎಲ್ಲರಿಗೂ ಸಣ್ಣ ಕೂದಲು ಇದ್ದಾಗ ಬಂಡುಕೋರ ಏನು ಮಾಡುತ್ತಾನೆ?",
+      "explanation": "ಬಂಡುಕೋರನು ಇತರರು ಮಾಡುವುದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ ಮಾಡುತ್ತಾನೆ, ಆದ್ದರಿಂದ ಅವನು ತನ್ನ ಕೂದಲನ್ನು ಉದ್ದವಾಗಿ ಬೆಳೆಸುತ್ತಾನೆ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ತನ್ನ ಕೂದಲನ್ನು ಚಿಕ್ಕದಾಗಿ ಕತ್ತರಿಸುತ್ತಾನೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ತನ್ನ ಕೂದಲನ್ನು ಉದ್ದವಾಗಿ ಬೆಳೆಸುತ್ತಾನೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಟೋಪಿ ಧರಿಸುತ್ತಾನೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ತಲೆ ಬೋಳಿಸುತ್ತಾನೆ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_chappals_07",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "How did Ravi bring milk for the kitten?",
+      "explanation": "Ravi had to pretend he was hungry to secretly sneak out milk for the kitten.",
+      "options": [
+        {
+          "id": "A",
+          "text": "He bought it from a shop",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "He pretended to be hungry and drank some in front of Paati",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "He asked his mother",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "He found it in the garden",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ರವಿ ಬೆಕ್ಕಿನ ಮರಿಗೆ ಹಾಲು ತಂದಿದ್ದು ಹೇಗೆ?",
+      "explanation": "ರವಿ ಬೆಕ್ಕಿನ ಮರಿಗೆ ಗುಟ್ಟಾಗಿ ಹಾಲು ತರಲು ತನಗೆ ಹಸಿವಾಗಿದೆ ಎಂದು ನಟಿಸಬೇಕಾಯಿತು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವನು ಅದನ್ನು ಅಂಗಡಿಯಿಂದ ಖರೀದಿಸಿದನು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಅವನು ಹಸಿವಿನಿಂದ ಇರುವಂತೆ ನಟಿಸಿ ಪಾಟಿಯ ಮುಂದೆ ಸ್ವಲ್ಪ ಕುಡಿದನು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವನು ತನ್ನ ತಾಯಿಯನ್ನು ಕೇಳಿದನು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವನು ಅದನ್ನು ತೋಟದಲ್ಲಿ ಕಂಡುಕೊಂಡನು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_chappals_08",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "What secret did Meena share with Mridu?",
+      "explanation": "Meena shared the secret of the kitten they found outside the gate.",
+      "options": [
+        {
+          "id": "A",
+          "text": "They had hidden a kitten in the backyard",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "They had eaten all the sweets",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "They broke a window",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "They lost some money",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಮೀನಾ ಮೃದುವಿನೊಂದಿಗೆ ಯಾವ ರಹಸ್ಯವನ್ನು ಹಂಚಿಕೊಂಡಳು?",
+      "explanation": "ಗೇಟ್‌ನ ಹೊರಗೆ ಸಿಕ್ಕ ಬೆಕ್ಕಿನ ಮರಿಯ ರಹಸ್ಯವನ್ನು ಮೀನಾ ಹಂಚಿಕೊಂಡಳು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವರು ಹಿತ್ತಲಿನಲ್ಲಿ ಬೆಕ್ಕಿನ ಮರಿಯನ್ನು ಅಡಗಿಸಿಟ್ಟಿದ್ದರು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಅವರು ಎಲ್ಲಾ ಸಿಹಿತಿಂಡಿಗಳನ್ನು ತಿಂದಿದ್ದರು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಅವರು ಕಿಟಕಿಯನ್ನು ಒಡೆದಿದ್ದರು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವರು ಸ್ವಲ್ಪ ಹಣವನ್ನು ಕಳೆದುಕೊಂಡಿದ್ದರು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_eng_chappals_09",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "Whose chappals did the children give to the beggar?",
+      "explanation": "They gave the odd-looking chappals lying in the verandah, which belonged to the music master.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ravi's chappals",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Gopu Mama's chappals",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "The music master's chappals",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "Rukku Manni's chappals",
+          "isCorrect": false
+        }
+      ],
+      "answer": "C"
+    },
+    "kn": {
+      "question": "ಮಕ್ಕಳು ಭಿಕ್ಷುಕನಿಗೆ ಯಾರ ಚಪ್ಪಲಿಗಳನ್ನು ಕೊಟ್ಟರು?",
+      "explanation": "ಅವರು ವರಾಂಡದಲ್ಲಿ ಬಿದ್ದಿದ್ದ ವಿಲಕ್ಷಣವಾಗಿ ಕಾಣುವ ಚಪ್ಪಲಿಗಳನ್ನು ಕೊಟ್ಟರು, ಅದು ಸಂಗೀತ ಮೇಸ್ಟ್ರಿಗೆ ಸೇರಿತ್ತು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ರವಿ ಚಪ್ಪಲಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಗೋಪಾಲ ಮಾಮ ಚಪ್ಪಲಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಸಂಗೀತ ಮೇಸ್ಟ್ರ ಚಪ್ಪಲಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ರುಕ್ಕು ಮನ್ನಿ ಚಪ್ಪಲಿ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "C"
+    }
+  },
+  {
+    "id": "c7_eng_chappals_10",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "Why were the beggar's feet blistered?",
+      "explanation": "Walking barefoot on the hot road in summer caused pink peeling blisters on his feet.",
+      "options": [
+        {
+          "id": "A",
+          "text": "He was wearing tight shoes",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "He had walked barefoot on the hot tar road",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "He burnt them in a fire",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "He was sick",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಭಿಕ್ಷುಕನ ಪಾದಗಳು ಏಕೆ ಗುಳ್ಳೆಗಳಿಂದ ಕೂಡಿದ್ದವು?",
+      "explanation": "ಬೇಸಿಗೆಯಲ್ಲಿ ಬಿಸಿ ರಸ್ತೆಯಲ್ಲಿ ಬರಿಗಾಲಿನಲ್ಲಿ ನಡೆದಿದ್ದರಿಂದ ಅವನ ಪಾದಗಳ ಮೇಲೆ ಗುಲಾಬಿ ಬಣ್ಣದ ಗುಳ್ಳೆಗಳು ಎದ್ದಿದ್ದವು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವನು ಬಿಗಿಯಾದ ಬೂಟುಗಳನ್ನು ಧರಿಸಿದ್ದನು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಬಿಸಿ ಡಾಂಬರು ರಸ್ತೆಯಲ್ಲಿ ಬರಿಗಾಲಿನಲ್ಲಿ ನಡೆದಿದ್ದನು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಬೆಂಕಿಯಲ್ಲಿ ಸುಟ್ಟುಕೊಂಡಿದ್ದನು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವನಿಗೆ ಹುಷಾರಿರಲಿಲ್ಲ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_chappals_11",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "What does a rebel do when everybody praises the sun?",
+      "explanation": "The rebel always contradicts the majority, so he wishes for rain when others want sun.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Praises the moon",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Remarks on the need for rain",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Goes to sleep",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Complains about the heat",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಎಲ್ಲರೂ ಸೂರ್ಯನನ್ನು ಹೊಗಳಿದಾಗ ಬಂಡುಕೋರ ಏನು ಮಾಡುತ್ತಾನೆ?",
+      "explanation": "ಬಂಡುಕೋರ ಯಾವಾಗಲೂ ಬಹುಮತವನ್ನು ವಿರೋಧಿಸುತ್ತಾನೆ, ಆದ್ದರಿಂದ ಇತರರು ಸೂರ್ಯನನ್ನು ಬಯಸಿದಾಗ ಅವನು ಮಳೆಯನ್ನು ಬಯಸುತ್ತಾನೆ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಚಂದ್ರನನ್ನು ಹೊಗಳುತ್ತಾನೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಮಳೆಯ ಅಗತ್ಯತೆಯ ಬಗ್ಗೆ ಹೇಳುತ್ತಾನೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಮಲಗಲು ಹೋಗುತ್ತಾನೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಶಾಖದ ಬಗ್ಗೆ ದೂರು ನೀಡುತ್ತಾನೆ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_chappals_12",
+    "type": "hard",
+    "difficulty": "medium",
+    "en": {
+      "question": "What historical lineage did Ravi invent for the kitten?",
+      "explanation": "Ravi claimed it was a descendant of the Mahabalipuram Rishi-Cat and also connected it to the Egyptian cat goddess."
+    },
+    "kn": {
+      "question": "ಬೆಕ್ಕಿನ ಮರಿಗಾಗಿ ರವಿ ಯಾವ ಐತಿಹಾಸಿಕ ವಂಶಾವಳಿಯನ್ನು ಕಂಡುಹಿಡಿದನು?",
+      "explanation": "ರವಿ ಅದು ಮಹಾಬಲಿಪುರಂ ಋಷಿ-ಬೆಕ್ಕಿನ ವಂಶಸ್ಥರು ಎಂದು ಹೇಳಿಕೊಂಡನು ಮತ್ತು ಅದನ್ನು ಈಜಿಪ್ಟ್‌ನ ಬೆಕ್ಕು ದೇವತೆಗೆ ಸಂಪರ್ಕಿಸಿದನು."
+    }
+  },
+  {
+    "id": "c7_eng_chappals_13",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "How did Rukku Manni react when she found out about the missing chappals?",
+      "explanation": "She was furious with the children for giving away the music master's chappals.",
+      "options": [
+        {
+          "id": "A",
+          "text": "She laughed it off",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "She was angry and scolded the children",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "She ignored it",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "She bought new chappals for the master",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಕಾಣೆಯಾದ ಚಪ್ಪಲಿಗಳ ಬಗ್ಗೆ ತಿಳಿದಾಗ ರುಕ್ಕು ಮನ್ನಿ ಹೇಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಿದಳು?",
+      "explanation": "ಸಂಗೀತ ಮೇಸ್ಟ್ರ ಚಪ್ಪಲಿಗಳನ್ನು ಕೊಟ್ಟಿದ್ದಕ್ಕಾಗಿ ಅವಳು ಮಕ್ಕಳ ಮೇಲೆ ಕೋಪಗೊಂಡಿದ್ದಳು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವಳು ಅದನ್ನು ನಕ್ಕು ಬಿಟ್ಟಳು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಅವಳು ಕೋಪಗೊಂಡಳು ಮತ್ತು ಮಕ್ಕಳನ್ನು ಬೈದಳು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವಳು ಅದನ್ನು ನಿರ್ಲಕ್ಷಿಸಿದಳು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವಳು ಮೇಸ್ಟ್ರಿಗೆ ಹೊಸ ಚಪ್ಪಲಿಗಳನ್ನು ಖರೀದಿಸಿದಳು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_chappals_14",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "How did the music master's chappals look initially?",
+      "explanation": "They were old, dusty, and clearly showed the marks of every toe.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Brand new and shiny",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Black, dusty, and showing scrawny toe marks",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Colorful and stylish",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Made of expensive leather",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಆರಂಭದಲ್ಲಿ ಸಂಗೀತ ಮೇಸ್ಟ್ರ ಚಪ್ಪಲಿಗಳು ಹೇಗಿದ್ದವು?",
+      "explanation": "ಅವು ಹಳೆಯದಾಗಿದ್ದವು, ಧೂಳಿನಿಂದ ಕೂಡಿದ್ದವು ಮತ್ತು ಪ್ರತಿ ಕಾಲ್ಬೆರಳಿನ ಗುರುತುಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತಿದ್ದವು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಹೊಚ್ಚ ಹೊಸ ಮತ್ತು ಹೊಳೆಯುವ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಕಪ್ಪು, ಧೂಳು ಹಿಡಿದ ಮತ್ತು ಕಾಲ್ಬೆರಳುಗಳ ಗುರುತುಗಳನ್ನು ಹೊಂದಿರುವ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ವರ್ಣರಂಜಿತ ಮತ್ತು ಸೊಗಸಾದ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ದುಬಾರಿ ಚರ್ಮದಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_chappals_15",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "What did Rukku Manni give to the music master as a replacement?",
+      "explanation": "She brought out Gopu Mama's new chappals to appease the music master.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Money",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Gopu Mama's hardly worn new chappals",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "A pair of shoes",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Her own chappals",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಬದಲಿಗಾಗಿ ರುಕ್ಕು ಮನ್ನಿ ಸಂಗೀತ ಮೇಸ್ಟ್ರಿಗೆ ಏನು ಕೊಟ್ಟಳು?",
+      "explanation": "ಸಂಗೀತ ಮೇಸ್ಟ್ರನ್ನು ಸಮಾಧಾನಪಡಿಸಲು ಅವಳು ಗೋಪು ಮಾಮ ಅವರ ಹೊಸ ಚಪ್ಪಲಿಗಳನ್ನು ತಂದಳು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಹಣ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಗೋಪಾಲ ಮಾಮ ಹೊಸದಾಗಿ ಖರೀದಿಸಿದ ಚಪ್ಪಲಿಗಳು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಒಂದು ಜೊತೆ ಬೂಟುಗಳು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ತನ್ನ ಸ್ವಂತ ಚಪ್ಪಲಿಗಳು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_chappals_16",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "Why is it 'very good that we have rebels', according to the poem?",
+      "explanation": "They teach us to tolerate differences and add variety to society, even if you wouldn't want to be one.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because they are always right",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Because they add variety to society",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Because they follow all rules",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Because they are quiet",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಪದ್ಯದ ಪ್ರಕಾರ, 'ನಾವು ಬಂಡುಕೋರರನ್ನು ಹೊಂದಿರುವುದು ತುಂಬಾ ಒಳ್ಳೆಯದು' ಏಕೆ?",
+      "explanation": "ನಾವು ಒಬ್ಬರಾಗಲು ಬಯಸದಿದ್ದರೂ, ಭಿನ್ನಾಭಿಪ್ರಾಯಗಳನ್ನು ಸಹಿಸಿಕೊಳ್ಳಲು ಅವರು ನಮಗೆ ಕಲಿಸುತ್ತಾರೆ ಮತ್ತು ಸಮಾಜಕ್ಕೆ ವೈವಿಧ್ಯತೆಯನ್ನು ಸೇರಿಸುತ್ತಾರೆ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಏಕೆಂದರೆ ಅವರು ಯಾವಾಗಲೂ ಸರಿ ಇರುತ್ತಾರೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಏಕೆಂದರೆ ಅವರು ಸಮಾಜಕ್ಕೆ ವೈವಿಧ್ಯತೆಯನ್ನು ಸೇರಿಸುತ್ತಾರೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಏಕೆಂದರೆ ಅವರು ಎಲ್ಲಾ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸುತ್ತಾರೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಏಕೆಂದರೆ ಅವರು ಶಾಂತವಾಗಿರುತ್ತಾರೆ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_chappals_17",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "What did Gopu Mama usually do as soon as he returned from work?",
+      "explanation": "He was always in a hurry to get into his chappals after returning home.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Go to sleep",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Throw off his shoes and socks and get into chappals",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Eat dinner immediately",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Play the violin",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಗೋಪಾಲ ಮಾಮ ಕೆಲಸದಿಂದ ಹಿಂದಿರುಗಿದ ತಕ್ಷಣ ಸಾಮಾನ್ಯವಾಗಿ ಏನು ಮಾಡುತ್ತಿದ್ದರು?",
+      "explanation": "ಅವರು ಮನೆಗೆ ಹಿಂದಿರುಗಿದ ನಂತರ ತಮ್ಮ ಚಪ್ಪಲಿಗಳನ್ನು ಹಾಕಿಕೊಳ್ಳಲು ಯಾವಾಗಲೂ ಅವಸರದಲ್ಲಿರುತ್ತಿದ್ದರು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಮಲಗಲು ಹೋಗುತ್ತಿದ್ದರು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ತನ್ನ ಬೂಟುಗಳು ಮತ್ತು ಸಾಕ್ಸ್‌ಗಳನ್ನು ಎಸೆದು ಚಪ್ಪಲಿಗಳನ್ನು ಹಾಕಿಕೊಳ್ಳುತ್ತಿದ್ದರು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ತಕ್ಷಣ ಊಟ ಮಾಡುತ್ತಿದ್ದರು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಪಿಟೀಲು ನುಡಿಸುತ್ತಿದ್ದರು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_chappals_18",
+    "type": "multiple",
+    "difficulty": "easy",
+    "en": {
+      "question": "Which of these children were at Rukku Manni's house?",
+      "explanation": "Ravi, Meena, and Lalli lived there. Gopu was their Mama (uncle).",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ravi",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Meena",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Lalli",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "Gopu",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    "kn": {
+      "question": "ರುಕ್ಕು ಮನ್ನಿಯ ಮನೆಯಲ್ಲಿ ಈ ಮಕ್ಕಳಲ್ಲಿ ಯಾರು ಇದ್ದರು?",
+      "explanation": "ರವಿ, ಮೀನಾ ಮತ್ತು ಲಲ್ಲಿ ಅಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದರು. ಗೋಪಾಲ ಅವರ ಮಾಮ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ರವಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಮೀನಾ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಲಲ್ಲಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ಗೋಪಾಲ",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_chappals_19",
+    "type": "multiple",
+    "difficulty": "medium",
+    "en": {
+      "question": "What sounds scared the kitten?",
+      "explanation": "The kitten was startled by Lalli's screeching violin and Ravi's loud noises.",
+      "options": [
+        {
+          "id": "A",
+          "text": "'Kreech' from Lalli's violin",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "The barking of a dog",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "A loud 'sh' from Ravi",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "Thunder in the sky",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ]
+    },
+    "kn": {
+      "question": "ಯಾವ ಶಬ್ದಗಳು ಬೆಕ್ಕಿನ ಮರಿಯನ್ನು ಹೆದರಿಸಿದವು?",
+      "explanation": "ಲಲ್ಲಿಯ ಗೀಚುವ ಪಿಟೀಲು ಮತ್ತು ರವಿಯ ಜೋರಾದ ಶಬ್ದಗಳಿಂದ ಬೆಕ್ಕಿನ ಮರಿ ಬೆಚ್ಚಿಬಿದ್ದಿತು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಲಲ್ಲಿಯ ಪಿಟೀಲುವಿನಿಂದ 'ಕ್ರೀಚ್' ಶಬ್ದ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ನಾಯಿ ಬೊಗಳುವುದು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ರವಿಯ ಜೋರಾದ 'ಶ್' ಶಬ್ದ",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ಆಕಾಶದಲ್ಲಿ ಗುಡುಗು",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_chappals_20",
+    "type": "multiple",
+    "difficulty": "medium",
+    "en": {
+      "question": "According to the poet, what does a rebel do?",
+      "explanation": "A rebel always does the opposite of the current norm.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agrees with everyone",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Wears fantastic clothes when others wear uniform",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Stays quiet when others talk",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "Has a dog when others have cats",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    "kn": {
+      "question": "ಕವಿಯ ಪ್ರಕಾರ, ಬಂಡುಕೋರ ಏನು ಮಾಡುತ್ತಾನೆ?",
+      "explanation": "ಬಂಡುಕೋರ ಯಾವಾಗಲೂ ಪ್ರಸ್ತುತ ರೂಢಿಗೆ ವಿರುದ್ಧವಾಗಿ ಮಾಡುತ್ತಾನೆ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಎಲ್ಲರನ್ನೂ ಒಪ್ಪುತ್ತಾನೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಇತರರು ಸಮವಸ್ತ್ರ ಧರಿಸಿದಾಗ ಅದ್ಭುತ ಬಟ್ಟೆಗಳನ್ನು ಧರಿಸುತ್ತಾನೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಇತರರು ಮಾತನಾಡುವಾಗ ಸುಮ್ಮನಿರುತ್ತಾನೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ಇತರರು ಬೆಕ್ಕುಗಳನ್ನು ಹೊಂದಿರುವಾಗ ನಾಯಿಯನ್ನು ಹೊಂದಿದ್ದಾನೆ",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_chappals_21",
+    "type": "multiple",
+    "difficulty": "hard",
+    "en": {
+      "question": "Why did the children give the chappals to the beggar?",
+      "explanation": "Seeing his blistered feet, they felt deep sympathy and gave him the chappals.",
+      "options": [
+        {
+          "id": "A",
+          "text": "They felt sorry for him",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "His feet were covered in blisters",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "He had money to buy them",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "They wanted to get rid of old chappals",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    },
+    "kn": {
+      "question": "ಮಕ್ಕಳು ಭಿಕ್ಷುಕನಿಗೆ ಚಪ್ಪಲಿಗಳನ್ನು ಏಕೆ ಕೊಟ್ಟರು?",
+      "explanation": "ಅವನ ಗುಳ್ಳೆಗಳಿರುವ ಪಾದಗಳನ್ನು ಕಂಡು ಅವರಿಗೆ ತೀವ್ರ ಮರುಕ ಹುಟ್ಟಿತು ಮತ್ತು ಚಪ್ಪಲಿಗಳನ್ನು ಕೊಟ್ಟರು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವರಿಗೆ ಅವನ ಬಗ್ಗೆ ಮರುಕ ಹುಟ್ಟಿತು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಅವನ ಪಾದಗಳು ಗುಳ್ಳೆಗಳಿಂದ ಕೂಡಿದ್ದವು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವನ ಬಳಿ ಅವುಗಳನ್ನು ಖರೀದಿಸಲು ಹಣವಿತ್ತು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವರು ಹಳೆಯ ಚಪ್ಪಲಿಗಳನ್ನು ತೊಡೆದುಹಾಕಲು ಬಯಸಿದ್ದರು",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_chappals_22",
+    "type": "match",
+    "difficulty": "easy",
+    "en": {
+      "question": "Match the characters with their actions.",
+      "explanation": "Matching characters to their roles in the story.",
+      "pairs": [
+        {
+          "left": "Lalli",
+          "right": "Learning violin"
+        },
+        {
+          "left": "Beggar",
+          "right": "Had blistered feet"
+        },
+        {
+          "left": "Music Master",
+          "right": "Lost his chappals"
+        },
+        {
+          "left": "Rukku Manni",
+          "right": "Gave away Gopu Mama's chappals"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಪಾತ್ರಗಳನ್ನು ಅವುಗಳ ಕ್ರಿಯೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "explanation": "ಕಥೆಯಲ್ಲಿನ ಪಾತ್ರಗಳನ್ನು ಅವರ ಪಾತ್ರಗಳಿಗೆ ಹೊಂದಿಸುವುದು.",
+      "pairs": [
+        {
+          "left": "ಲಲ್ಲಿ",
+          "right": "ಪಿಟೀಲು ಕಲಿಯುತ್ತಿದ್ದಳು"
+        },
+        {
+          "left": "ಭಿಕ್ಷುಕ",
+          "right": "ಪಾದಗಳಲ್ಲಿ ಗುಳ್ಳೆಗಳಿದ್ದವು"
+        },
+        {
+          "left": "ಸಂಗೀತ ಮೇಷ್ಟ್ರು",
+          "right": "ತನ್ನ ಚಪ್ಪಲಿಗಳನ್ನು ಕಳೆದುಕೊಂಡರು"
+        },
+        {
+          "left": "ರುಕ್ಕು ಮನ್ನಿ",
+          "right": "ಗೋಪಾಲ ಮಾಮ ಅವರ ಚಪ್ಪಲಿಗಳನ್ನು ಕೊಟ್ಟಳು"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_chappals_23",
+    "type": "match",
+    "difficulty": "medium",
+    "en": {
+      "question": "Match the animal with the rebel's preference.",
+      "explanation": "The rebel always takes the opposing stance.",
+      "pairs": [
+        {
+          "left": "Everyone loves cats",
+          "right": "Rebel puts in a good word for dogs"
+        },
+        {
+          "left": "Everyone loves dogs",
+          "right": "Rebel expresses a preference for cats"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಪ್ರಾಣಿಯನ್ನು ಬಂಡುಕೋರನ ಆದ್ಯತೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "explanation": "ಬಂಡುಕೋರ ಯಾವಾಗಲೂ ವಿರೋಧಾಭಾಸದ ನಿಲುವನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತಾನೆ.",
+      "pairs": [
+        {
+          "left": "ಎಲ್ಲರೂ ಬೆಕ್ಕುಗಳನ್ನು ಪ್ರೀತಿಸುತ್ತಾರೆ",
+          "right": "ಬಂಡುಕೋರ ನಾಯಿಗಳ ಪರವಾಗಿ ಮಾತನಾಡುತ್ತಾನೆ"
+        },
+        {
+          "left": "ಎಲ್ಲರೂ ನಾಯಿಗಳನ್ನು ಪ್ರೀತಿಸುತ್ತಾರೆ",
+          "right": "ಬಂಡುಕೋರ ಬೆಕ್ಕುಗಳ ಬಗ್ಗೆ ಒಲವು ವ್ಯಕ್ತಪಡಿಸುತ್ತಾನೆ"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_chappals_24",
+    "type": "match",
+    "difficulty": "hard",
+    "en": {
+      "question": "Match the descriptive phrases to the objects.",
+      "explanation": "Descriptions of various items in the story.",
+      "pairs": [
+        {
+          "left": "Scrawny toe marks",
+          "right": "Music master's chappals"
+        },
+        {
+          "left": "Stiff, new and shiny",
+          "right": "Gopu Mama's chappals"
+        },
+        {
+          "left": "Torn and filled with sand",
+          "right": "Football where kitten hid"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ವಿವರಣಾತ್ಮಕ ನುಡಿಗಟ್ಟುಗಳನ್ನು ವಸ್ತುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "explanation": "ಕಥೆಯಲ್ಲಿನ ವಿವಿಧ ವಸ್ತುಗಳ ವಿವರಣೆಗಳು.",
+      "pairs": [
+        {
+          "left": "ತೆಳ್ಳಗಿನ ಕಾಲ್ಬೆರಳಿನ ಗುರುತುಗಳು",
+          "right": "ಸಂಗೀತ ಮೇಸ್ಟ್ರ ಚಪ್ಪಲಿಗಳು"
+        },
+        {
+          "left": "ಗಟ್ಟಿಯಾದ, ಹೊಸ ಮತ್ತು ಹೊಳೆಯುವ",
+          "right": "ಗೋಪಾಲ ಮಾಮ ಅವರ ಚಪ್ಪಲಿಗಳು"
+        },
+        {
+          "left": "ಹರಿದ ಮತ್ತು ಮರಳಿನಿಂದ ತುಂಬಿದ",
+          "right": "ಬೆಕ್ಕಿನ ಮರಿ ಅಡಗಿದ್ದ ಫುಟ್‌ಬಾಲ್"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_chappals_25",
+    "type": "match",
+    "difficulty": "hard",
+    "en": {
+      "question": "Match the Chappals story words with their meanings.",
+      "explanation": "Vocabulary matching.",
+      "pairs": [
+        {
+          "left": "Snooze",
+          "right": "Short sleep"
+        },
+        {
+          "left": "Blisters",
+          "right": "Swellings on skin containing clear liquid"
+        },
+        {
+          "left": "Scrawny",
+          "right": "Thin and bony"
+        },
+        {
+          "left": "Muttered",
+          "right": "Spoke in a low voice"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಪದಗಳನ್ನು ಅವುಗಳ ಅರ್ಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "explanation": "ಶಬ್ದಕೋಶ ಹೊಂದಾಣಿಕೆ.",
+      "pairs": [
+        {
+          "left": "ಸ್ನೂಜ್ (ಕಿರು ನಿದ್ದೆ)",
+          "right": "ಸಣ್ಣ ನಿದ್ದೆ"
+        },
+        {
+          "left": "ಗುಳ್ಳೆಗಳು",
+          "right": "ಸ್ಪಷ್ಟ ದ್ರವವನ್ನು ಹೊಂದಿರುವ ಚರ್ಮದ ಮೇಲಿನ ಊತಗಳು"
+        },
+        {
+          "left": "ತೆಳ್ಳಗಿನ (ಕೃಶವಾದ)",
+          "right": "ತೆಳ್ಳಗಿನ ಮತ್ತು ಮೂಳೆಗಳಿರುವ"
+        },
+        {
+          "left": "ಗುಣುಗುಟ್ಟಿದನು",
+          "right": "ಕಡಿಮೆ ಧ್ವನಿಯಲ್ಲಿ ಮಾತನಾಡಿದನು"
+        }
+      ]
+    }
+  }
+]

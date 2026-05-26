@@ -1,0 +1,1347 @@
+[
+  {
+    "id": "c7_eng_quality_01",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Who is Mr. Gessler?",
+      "explanation": "Mr. Gessler was a German shoemaker settled in London.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A baker",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "A shoemaker",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "A tailor",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "A doctor",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಶ್ರೀ ಗೆಸ್ಲರ್ ಯಾರು?",
+      "explanation": "ಶ್ರೀ ಗೆಸ್ಲರ್ ಲಂಡನ್‌ನಲ್ಲಿ ನೆಲೆಸಿದ್ದ ಜರ್ಮನ್ ಚಮ್ಮಾರ (ಶೂ ತಯಾರಕ).",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಬೇಕರ್ (ರೊಟ್ಟಿ ತಯಾರಕ)",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಚಮ್ಮಾರ (ಶೂ ತಯಾರಕ)",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ದರ್ಜಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ವೈದ್ಯ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_quality_02",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Where was Mr. Gessler's shop located?",
+      "explanation": "The shop was in a small by-street in a fashionable part of London.",
+      "options": [
+        {
+          "id": "A",
+          "text": "In a large mall",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "In a small by-street in London",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "In Germany",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "In a village",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಶ್ರೀ ಗೆಸ್ಲರ್ ಅವರ ಅಂಗಡಿ ಎಲ್ಲಿತ್ತು?",
+      "explanation": "ಅಂಗಡಿಯು ಲಂಡನ್‌ನ ಫ್ಯಾಷನಬಲ್ ಭಾಗದ ಸಣ್ಣ ಉಪ-ಬೀದಿಯಲ್ಲಿತ್ತು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ದೊಡ್ಡ ಮಾಲ್‌ನಲ್ಲಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಲಂಡನ್‌ನ ಸಣ್ಣ ಉಪ-ಬೀದಿಯಲ್ಲಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಜರ್ಮನಿಯಲ್ಲಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಒಂದು ಹಳ್ಳಿಯಲ್ಲಿ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_quality_03",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Did Mr. Gessler make shoes ready-made or only to order?",
+      "explanation": "He made only what was ordered.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only ready-made",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Only to order",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Both",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "He bought them from others",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಶ್ರೀ ಗೆಸ್ಲರ್ ಸಿದ್ಧವಾದ (ರೆಡಿಮೇಡ್) ಶೂಗಳನ್ನು ತಯಾರಿಸುತ್ತಿದ್ದರೋ ಅಥವಾ ಆರ್ಡರ್ ಮೇರೆಗೆ ಮಾತ್ರವೇ?",
+      "explanation": "ಅವರು ಆರ್ಡರ್ ಮಾಡಿದುದನ್ನು ಮಾತ್ರ ತಯಾರಿಸುತ್ತಿದ್ದರು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಸಿದ್ಧವಾದವು ಮಾತ್ರ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಆರ್ಡರ್ ಮೇರೆಗೆ ಮಾತ್ರ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಎರಡೂ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವರು ಬೇರೆಯವರಿಂದ ಖರೀದಿಸುತ್ತಿದ್ದರು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_quality_04",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "What did the author say about the shoes Mr. Gessler made?",
+      "explanation": "The shoes perfectly fitted the customer and lasted exceptionally long.",
+      "options": [
+        {
+          "id": "A",
+          "text": "They broke easily",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "They were uncomfortable",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "They never failed to fit and lasted terribly long",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "They were too expensive",
+          "isCorrect": false
+        }
+      ],
+      "answer": "C"
+    },
+    "kn": {
+      "question": "ಶ್ರೀ ಗೆಸ್ಲರ್ ತಯಾರಿಸಿದ ಬೂಟುಗಳ ಬಗ್ಗೆ ಲೇಖಕರು ಏನು ಹೇಳಿದರು?",
+      "explanation": "ಶೂಗಳು ಗ್ರಾಹಕರಿಗೆ ಸಂಪೂರ್ಣವಾಗಿ ಸರಿಹೊಂದುತ್ತಿದ್ದವು ಮತ್ತು ಅಸಾಧಾರಣವಾಗಿ ಹೆಚ್ಚು ಕಾಲ ಬಾಳಿಕೆ ಬರುತ್ತಿದ್ದವು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವು ಸುಲಭವಾಗಿ ಒಡೆಯುತ್ತಿದ್ದವು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಅವು ಅನಾನುಕೂಲವಾಗಿದ್ದವು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಅವು ಎಂದಿಗೂ ಸರಿಹೊಂದದಿರಲಿಲ್ಲ ಮತ್ತು ತುಂಬಾ ಕಾಲ ಬಾಳಿಕೆ ಬರುತ್ತಿದ್ದವು",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ಅವು ತುಂಬಾ ದುಬಾರಿಯಾಗಿದ್ದವು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "C"
+    }
+  },
+  {
+    "id": "c7_eng_quality_05",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "In the poem 'Trees', what do birds do in the trees?",
+      "explanation": "The poem says 'Trees are for birds' (implied for nesting and resting).",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sing songs",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Build nests",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Eat leaves",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Sleep all day",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "'ಟ್ರೀಸ್' (ಮರಗಳು) ಪದ್ಯದಲ್ಲಿ, ಪಕ್ಷಿಗಳು ಮರಗಳಲ್ಲಿ ಏನು ಮಾಡುತ್ತವೆ?",
+      "explanation": "ಪದ್ಯವು 'ಮರಗಳು ಪಕ್ಷಿಗಳಿಗಾಗಿ' ಎಂದು ಹೇಳುತ್ತದೆ (ಗೂಡುಕಟ್ಟಲು ಮತ್ತು ವಿಶ್ರಾಂತಿ ಪಡೆಯಲು ಎಂದು ಸೂಚಿಸಲಾಗಿದೆ).",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಹಾಡುಗಳನ್ನು ಹಾಡುತ್ತವೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಗೂಡುಗಳನ್ನು ಕಟ್ಟುತ್ತವೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಎಲೆಗಳನ್ನು ತಿನ್ನುತ್ತವೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ದಿನವಿಡೀ ಮಲಗುತ್ತವೆ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_quality_06",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Who makes tree houses according to the poem 'Trees'?",
+      "explanation": "Trees are for children to make tree houses.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adults",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Children",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Birds",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Animals",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "'ಮರಗಳು' ಪದ್ಯದ ಪ್ರಕಾರ ಮರದ ಮನೆಗಳನ್ನು (ಟ್ರೀ ಹೌಸ್) ಯಾರು ಮಾಡುತ್ತಾರೆ?",
+      "explanation": "ಮರಗಳು ಮಕ್ಕಳಿಗೆ ಮರದ ಮನೆಗಳನ್ನು ಮಾಡಲು ಇವೆ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ವಯಸ್ಕರು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಮಕ್ಕಳು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಪಕ್ಷಿಗಳು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಪ್ರಾಣಿಗಳು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_quality_07",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "How did Mr. Gessler react when the author complained about a pair of boots creaking?",
+      "explanation": "He took his craft seriously and promised to take them off the bill if he couldn't fix the creak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "He got angry",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "He said it was the author's fault",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "He asked the author to bring them back and offered a refund if they couldn't be fixed",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "He refused to listen",
+          "isCorrect": false
+        }
+      ],
+      "answer": "C"
+    },
+    "kn": {
+      "question": "ಬೂಟುಗಳ ಜೊತೆ ಶಬ್ದ (ಕ್ರೀಕ್) ಮಾಡುತ್ತಿದೆ ಎಂದು ಲೇಖಕರು ದೂರಿದಾಗ ಶ್ರೀ ಗೆಸ್ಲರ್ ಹೇಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಿದರು?",
+      "explanation": "ಅವರು ತಮ್ಮ ಕರಕುಶಲತೆಯನ್ನು ಗಂಭೀರವಾಗಿ ತೆಗೆದುಕೊಂಡರು ಮತ್ತು ಶಬ್ದವನ್ನು ಸರಿಪಡಿಸಲು ಸಾಧ್ಯವಾಗದಿದ್ದರೆ ಅವುಗಳನ್ನು ಬಿಲ್‌ನಿಂದ ತೆಗೆದುಹಾಕುವುದಾಗಿ ಭರವಸೆ ನೀಡಿದರು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವರು ಕೋಪಗೊಂಡರು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಅದು ಲೇಖಕರ ತಪ್ಪು ಎಂದು ಹೇಳಿದರು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಅವುಗಳನ್ನು ಮರಳಿ ತರಲು ಕೇಳಿದರು ಮತ್ತು ಸರಿಪಡಿಸಲು ಸಾಧ್ಯವಾಗದಿದ್ದರೆ ಹಣವನ್ನು ಹಿಂದಿರುಗಿಸುವುದಾಗಿ ಹೇಳಿದರು",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ಕೇಳಲು ನಿರಾಕರಿಸಿದರು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "C"
+    }
+  },
+  {
+    "id": "c7_eng_quality_08",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "What was Mr. Gessler's opinion of big firms?",
+      "explanation": "He felt big firms took business away from true craftsmen by advertising rather than quality.",
+      "options": [
+        {
+          "id": "A",
+          "text": "They produce the best shoes",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "They have no self-respect and get business by advertisement, not work",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "They are very friendly",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "They help small shoemakers",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ದೊಡ್ಡ ಸಂಸ್ಥೆಗಳ ಬಗ್ಗೆ ಶ್ರೀ ಗೆಸ್ಲರ್ ಅವರ ಅಭಿಪ್ರಾಯವೇನು?",
+      "explanation": "ಗುಣಮಟ್ಟಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿ ಜಾಹೀರಾತು ನೀಡುವ ಮೂಲಕ ದೊಡ್ಡ ಸಂಸ್ಥೆಗಳು ನಿಜವಾದ ಕುಶಲಕರ್ಮಿಗಳಿಂದ ವ್ಯಾಪಾರವನ್ನು ಕಸಿದುಕೊಳ್ಳುತ್ತವೆ ಎಂದು ಅವರು ಭಾವಿಸಿದರು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವರು ಅತ್ಯುತ್ತಮ ಶೂಗಳನ್ನು ಉತ್ಪಾದಿಸುತ್ತಾರೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಅವರಿಗೆ ಸ್ವಾಭಿಮಾನವಿಲ್ಲ ಮತ್ತು ಕೆಲಸದಿಂದಲ್ಲದೆ ಜಾಹೀರಾತಿನ ಮೂಲಕ ವ್ಯಾಪಾರ ಪಡೆಯುತ್ತಾರೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವರು ತುಂಬಾ ಸ್ನೇಹಪರರಾಗಿದ್ದಾರೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವರು ಸಣ್ಣ ಚಮ್ಮಾರರಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತಾರೆ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_quality_09",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "Why did the author order many pairs of boots even though he didn't need them?",
+      "explanation": "Seeing Mr. Gessler's struggle, the author ordered many boots to support him.",
+      "options": [
+        {
+          "id": "A",
+          "text": "To sell them",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "To help Mr. Gessler financially because his business was failing",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "He liked collecting boots",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "To give them to his friends",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ತನಗೆ ಅಗತ್ಯವಿಲ್ಲದಿದ್ದರೂ ಲೇಖಕರು ಅನೇಕ ಜೊತೆ ಬೂಟುಗಳನ್ನು ಏಕೆ ಆರ್ಡರ್ ಮಾಡಿದರು?",
+      "explanation": "ಶ್ರೀ ಗೆಸ್ಲರ್ ಅವರ ಹೋರಾಟವನ್ನು ನೋಡಿ, ಲೇಖಕರು ಅವರನ್ನು ಬೆಂಬಲಿಸಲು ಅನೇಕ ಬೂಟುಗಳನ್ನು ಆರ್ಡರ್ ಮಾಡಿದರು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವುಗಳನ್ನು ಮಾರಾಟ ಮಾಡಲು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಶ್ರೀ ಗೆಸ್ಲರ್ ಅವರ ವ್ಯಾಪಾರ ವಿಫಲವಾಗುತ್ತಿದ್ದರಿಂದ ಅವರಿಗೆ ಆರ್ಥಿಕವಾಗಿ ಸಹಾಯ ಮಾಡಲು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವರು ಬೂಟುಗಳನ್ನು ಸಂಗ್ರಹಿಸಲು ಇಷ್ಟಪಡುತ್ತಿದ್ದರು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ತನ್ನ ಸ್ನೇಹಿತರಿಗೆ ಕೊಡಲು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_quality_10",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "How did Mr. Gessler die?",
+      "explanation": "The new owner of the shop told the author that Mr. Gessler died of slow starvation, never leaving time to eat because he worked constantly on shoes.",
+      "options": [
+        {
+          "id": "A",
+          "text": "From a heart attack",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Slow starvation",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "In an accident",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Old age",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಶ್ರೀ ಗೆಸ್ಲರ್ ಹೇಗೆ ನಿಧನರಾದರು?",
+      "explanation": "ಅಂಗಡಿಯ ಹೊಸ ಮಾಲೀಕರು ಲೇಖಕರಿಗೆ ಶ್ರೀ ಗೆಸ್ಲರ್ ನಿಧಾನವಾದ ಹಸಿವಿನಿಂದ ಸತ್ತರು ಎಂದು ಹೇಳಿದರು, ಏಕೆಂದರೆ ಅವರು ಶೂಗಳ ಮೇಲೆ ನಿರಂತರವಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತಾ ಊಟಕ್ಕೂ ಸಮಯ ಬಿಡುತ್ತಿರಲಿಲ್ಲ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಹೃದಯಾಘಾತದಿಂದ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ನಿಧಾನವಾದ ಹಸಿವಿನಿಂದ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅಪಘಾತದಲ್ಲಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ವೃದ್ಧಾಪ್ಯದಿಂದ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_quality_11",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "According to the poem, what do fathers say when they look at trees in autumn?",
+      "explanation": "Fathers see the work involved: 'What a lot of leaves to rake this fall!'",
+      "options": [
+        {
+          "id": "A",
+          "text": "What a beautiful picture to paint!",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "What a lot of leaves to rake this fall!",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Let's climb the tree!",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Let's chop it down!",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಪದ್ಯದ ಪ್ರಕಾರ, ಶರತ್ಕಾಲದಲ್ಲಿ ಮರಗಳನ್ನು ನೋಡಿದಾಗ ತಂದೆಯಂದಿರು ಏನು ಹೇಳುತ್ತಾರೆ?",
+      "explanation": "ತಂದೆಯಂದಿರು ಅದರಲ್ಲಿರುವ ಕೆಲಸವನ್ನು ನೋಡುತ್ತಾರೆ: 'ಈ ಶರತ್ಕಾಲದಲ್ಲಿ ಗುಡಿಸಲು (ರೇಕಿಂಗ್) ಎಷ್ಟು ಎಲೆಗಳಿವೆ!'",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಚಿತ್ರಿಸಲು ಎಷ್ಟು ಸುಂದರವಾದ ಚಿತ್ರ!",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಈ ಶರತ್ಕಾಲದಲ್ಲಿ ಗುಡಿಸಲು ಎಷ್ಟು ಎಲೆಗಳಿವೆ!",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ನಾವು ಮರವನ್ನು ಹತ್ತೋಣ!",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅದನ್ನು ಕತ್ತರಿಸೋಣ!",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_quality_12",
+    "type": "hard",
+    "difficulty": "medium",
+    "en": {
+      "question": "What did Mr. Gessler consider shoemaking to be?",
+      "explanation": "When asked if his work was awfully hard, he answered with a German accent, 'Id is an Ardt!' (It is an Art!)."
+    },
+    "kn": {
+      "question": "ಶ್ರೀ ಗೆಸ್ಲರ್ ಶೂ ತಯಾರಿಕೆಯನ್ನು ಏನಂದು ಪರಿಗಣಿಸಿದ್ದರು?",
+      "explanation": "ನಿಮ್ಮ ಕೆಲಸವು ತುಂಬಾ ಕಷ್ಟವೇ ಎಂದು ಕೇಳಿದಾಗ, ಅವರು ಜರ್ಮನ್ ಉಚ್ಚಾರಣೆಯಲ್ಲಿ 'ಇದು ಒಂದು ಕಲೆ!' ಎಂದು ಉತ್ತರಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c7_eng_quality_13",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "What changes happened to Mr. Gessler over the years?",
+      "explanation": "He aged rapidly, lost his elder brother, lost one part of his shop, and struggled to make ends meet.",
+      "options": [
+        {
+          "id": "A",
+          "text": "He became very rich",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "He looked much older, lost his brother, and his business shrank",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "He moved to a bigger shop",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "He hired many workers",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ವರ್ಷಗಳಲ್ಲಿ ಶ್ರೀ ಗೆಸ್ಲರ್‌ಗೆ ಯಾವ ಬದಲಾವಣೆಗಳಾದವು?",
+      "explanation": "ಅವರಿಗೆ ವೇಗವಾಗಿ ವಯಸ್ಸಾಯಿತು, ತನ್ನ ಹಿರಿಯ ಸಹೋದರನನ್ನು ಕಳೆದುಕೊಂಡರು, ತನ್ನ ಅಂಗಡಿಯ ಒಂದು ಭಾಗವನ್ನು ಕಳೆದುಕೊಂಡರು ಮತ್ತು ಜೀವನ ಸಾಗಿಸಲು ಹೆಣಗಾಡಿದರು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವರು ತುಂಬಾ ಶ್ರೀಮಂತರಾದರು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಅವರು ತುಂಬಾ ವಯಸ್ಸಾದವರಂತೆ ಕಾಣುತ್ತಿದ್ದರು, ತಮ್ಮ ಸಹೋದರನನ್ನು ಕಳೆದುಕೊಂಡರು ಮತ್ತು ಅವರ ವ್ಯಾಪಾರ ಕುಗ್ಗಿತು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವರು ದೊಡ್ಡ ಅಂಗಡಿಗೆ ಸ್ಥಳಾಂತರಗೊಂಡರು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವರು ಅನೇಕ ಕೆಲಸಗಾರರನ್ನು ನೇಮಿಸಿಕೊಂಡರು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_quality_14",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "Why didn't the author visit Mr. Gessler's shop often?",
+      "explanation": "The boots were of such supreme quality that they lasted 'terribly' long, making frequent visits unnecessary.",
+      "options": [
+        {
+          "id": "A",
+          "text": "He didn't like Mr. Gessler",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Mr. Gessler's boots lasted so long that he didn't need new ones frequently",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "He lived too far away",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "The shoes were too expensive",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಲೇಖಕರು ಶ್ರೀ ಗೆಸ್ಲರ್ ಅವರ ಅಂಗಡಿಗೆ ಆಗಾಗ್ಗೆ ಏಕೆ ಭೇಟಿ ನೀಡುತ್ತಿರಲಿಲ್ಲ?",
+      "explanation": "ಬೂಟುಗಳು ಅಂತಹ ಸರ್ವೋಚ್ಚ ಗುಣಮಟ್ಟದ್ದಾಗಿದ್ದವು, ಅವು 'ಭಯಾನಕ'ವಾಗಿ ಹೆಚ್ಚು ಕಾಲ ಬಾಳಿಕೆ ಬರುತ್ತಿದ್ದವು, ಇದರಿಂದ ಆಗಾಗ್ಗೆ ಭೇಟಿ ನೀಡುವುದು ಅನಗತ್ಯವಾಗಿತ್ತು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವರಿಗೆ ಶ್ರೀ ಗೆಸ್ಲರ್ ಇಷ್ಟವಿರಲಿಲ್ಲ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಶ್ರೀ ಗೆಸ್ಲರ್ ಅವರ ಬೂಟುಗಳು ತುಂಬಾ ಕಾಲ ಬಾಳಿಕೆ ಬರುತ್ತಿದ್ದರಿಂದ ಅವರಿಗೆ ಆಗಾಗ್ಗೆ ಹೊಸದರ ಅಗತ್ಯವಿರಲಿಲ್ಲ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವರು ತುಂಬಾ ದೂರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದರು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಶೂಗಳು ತುಂಬಾ ದುಬಾರಿಯಾಗಿದ್ದವು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_quality_15",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "What did mothers say about trees in the poem?",
+      "explanation": "Mothers look at the aesthetic beauty: 'What a lovely picture to paint!'",
+      "options": [
+        {
+          "id": "A",
+          "text": "They provide shade",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "What a lovely picture to paint!",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "They drop too many leaves",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "They are good for climbing",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಪದ್ಯದಲ್ಲಿ ಮರಗಳ ಬಗ್ಗೆ ತಾಯಂದಿರು ಏನು ಹೇಳಿದರು?",
+      "explanation": "ತಾಯಂದಿರು ಸೌಂದರ್ಯವನ್ನು ನೋಡುತ್ತಾರೆ: 'ಚಿತ್ರಿಸಲು ಎಂತಹ ಸುಂದರವಾದ ಚಿತ್ರ!'",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವು ನೆರಳು ನೀಡುತ್ತವೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಚಿತ್ರಿಸಲು ಎಂತಹ ಸುಂದರವಾದ ಚಿತ್ರ!",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವು ತುಂಬಾ ಎಲೆಗಳನ್ನು ಉದುರಿಸುತ್ತವೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವು ಹತ್ತಲು ಒಳ್ಳೆಯದು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_quality_16",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "How does the young English man at the end of the story describe Mr. Gessler?",
+      "explanation": "The young man admitted Gessler made the best boots in London but starved himself because he wouldn't compromise on quality or speed.",
+      "options": [
+        {
+          "id": "A",
+          "text": "As a lazy man",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "As the best bootmaker in London, but a bit slow",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "As a man who wasted money",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "As someone who didn't know his craft",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಕಥೆಯ ಕೊನೆಯಲ್ಲಿ ಯುವ ಇಂಗ್ಲಿಷ್ ವ್ಯಕ್ತಿ ಶ್ರೀ ಗೆಸ್ಲರ್ ಅವರನ್ನು ಹೇಗೆ ವಿವರಿಸುತ್ತಾನೆ?",
+      "explanation": "ಗೆಸ್ಲರ್ ಲಂಡನ್‌ನ ಅತ್ಯುತ್ತಮ ಬೂಟುಗಳನ್ನು ತಯಾರಿಸಿದರು ಎಂದು ಆ ಯುವಕ ಒಪ್ಪಿಕೊಂಡನು ಆದರೆ ಗುಣಮಟ್ಟ ಅಥವಾ ವೇಗದಲ್ಲಿ ರಾಜಿ ಮಾಡಿಕೊಳ್ಳದ ಕಾರಣ ಉಪವಾಸದಿಂದ ಸತ್ತರು ಎಂದನು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಸೋಮಾರಿ ವ್ಯಕ್ತಿಯಾಗಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಲಂಡನ್‌ನ ಅತ್ಯುತ್ತಮ ಬೂಟ್ ತಯಾರಕನಾಗಿ, ಆದರೆ ಸ್ವಲ್ಪ ನಿಧಾನ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಹಣವನ್ನು ವ್ಯರ್ಥ ಮಾಡಿದ ವ್ಯಕ್ತಿಯಾಗಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ತನ್ನ ಕರಕುಶಲತೆ ತಿಳಿಯದ ವ್ಯಕ್ತಿಯಾಗಿ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_quality_17",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "What does the title 'Quality' refer to in the story?",
+      "explanation": "It refers to Mr. Gessler's uncompromising commitment to making perfect, high-quality boots.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The quality of leather used",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "The high standard of Mr. Gessler's boots and his dedication to his craft",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "The quality of big firms",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "The quality of the author's writing",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಕಥೆಯಲ್ಲಿ 'ಕ್ವಾಲಿಟಿ' (ಗುಣಮಟ್ಟ) ಶೀರ್ಷಿಕೆಯು ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "explanation": "ಇದು ಪರಿಪೂರ್ಣ, ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಬೂಟುಗಳನ್ನು ತಯಾರಿಸುವಲ್ಲಿ ಶ್ರೀ ಗೆಸ್ಲರ್ ಅವರ ರಾಜಿ ಮಾಡಿಕೊಳ್ಳದ ಬದ್ಧತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಬಳಸಿದ ಚರ್ಮದ ಗುಣಮಟ್ಟ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಶ್ರೀ ಗೆಸ್ಲರ್ ಅವರ ಬೂಟುಗಳ ಉನ್ನತ ಗುಣಮಟ್ಟ ಮತ್ತು ಅವರ ಕರಕುಶಲತೆಯ ಬಗ್ಗೆ ಅವರ ಸಮರ್ಪಣೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ದೊಡ್ಡ ಸಂಸ್ಥೆಗಳ ಗುಣಮಟ್ಟ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಲೇಖಕರ ಬರವಣಿಗೆಯ ಗುಣಮಟ್ಟ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_quality_18",
+    "type": "multiple",
+    "difficulty": "easy",
+    "en": {
+      "question": "According to the poem 'Trees', what are some activities people do with trees?",
+      "explanation": "The poem mentions swinging, tea parties, hide and seek, and timber.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Swing on them",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Have tea parties under them",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Hide behind them in 'Hide and Seek'",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "Cut them down for firewood",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    "kn": {
+      "question": "'ಮರಗಳು' ಪದ್ಯದ ಪ್ರಕಾರ, ಮರಗಳೊಂದಿಗೆ ಜನರು ಮಾಡುವ ಕೆಲವು ಚಟುವಟಿಕೆಗಳು ಯಾವುವು?",
+      "explanation": "ಪದ್ಯವು ಉಯ್ಯಾಲೆ, ಟೀ ಪಾರ್ಟಿಗಳು, ಕಣ್ಣಾಮುಚ್ಚಾಲೆ ಮತ್ತು ಮರದ ದಿಮ್ಮಿಗಳನ್ನು ಉಲ್ಲೇಖಿಸುತ್ತದೆ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವುಗಳ ಮೇಲೆ ಉಯ್ಯಾಲೆ ಆಡುವುದು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಅವುಗಳ ಕೆಳಗೆ ಟೀ ಪಾರ್ಟಿ ಮಾಡುವುದು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "'ಕಣ್ಣಾಮುಚ್ಚಾಲೆ' ಆಟದಲ್ಲಿ ಅವುಗಳ ಹಿಂದೆ ಅಡಗಿಕೊಳ್ಳುವುದು",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ಉರುವಲಿಗಾಗಿ ಅವುಗಳನ್ನು ಕಡಿಯುವುದು",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_quality_19",
+    "type": "multiple",
+    "difficulty": "medium",
+    "en": {
+      "question": "What characteristics described Mr. Gessler?",
+      "explanation": "He spoke with a German accent, loved his craft, and always bought the finest leather.",
+      "options": [
+        {
+          "id": "A",
+          "text": "He had a German accent",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "He was deeply devoted to bootmaking",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "He was very wealthy",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "He used only the best leather",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    "kn": {
+      "question": "ಯಾವ ಗುಣಲಕ್ಷಣಗಳು ಶ್ರೀ ಗೆಸ್ಲರ್ ಅವರನ್ನು ವಿವರಿಸುತ್ತವೆ?",
+      "explanation": "ಅವರು ಜರ್ಮನ್ ಉಚ್ಚಾರಣೆಯೊಂದಿಗೆ ಮಾತನಾಡುತ್ತಿದ್ದರು, ತಮ್ಮ ಕರಕುಶಲತೆಯನ್ನು ಪ್ರೀತಿಸುತ್ತಿದ್ದರು ಮತ್ತು ಯಾವಾಗಲೂ ಅತ್ಯುತ್ತಮವಾದ ಚರ್ಮವನ್ನು ಖರೀದಿಸುತ್ತಿದ್ದರು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವರು ಜರ್ಮನ್ ಉಚ್ಚಾರಣೆ ಹೊಂದಿದ್ದರು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಅವರು ಬೂಟ್ ತಯಾರಿಕೆಯಲ್ಲಿ ಆಳವಾಗಿ ಸಮರ್ಪಿತರಾಗಿದ್ದರು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವರು ತುಂಬಾ ಶ್ರೀಮಂತರಾಗಿದ್ದರು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವರು ಉತ್ತಮ ಚರ್ಮವನ್ನು ಮಾತ್ರ ಬಳಸುತ್ತಿದ್ದರು",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_quality_20",
+    "type": "multiple",
+    "difficulty": "medium",
+    "en": {
+      "question": "Why was Mr. Gessler's business failing?",
+      "explanation": "He lost customers because he refused to advertise and took a long time to fulfill orders due to his slow, meticulous work.",
+      "options": [
+        {
+          "id": "A",
+          "text": "He didn't advertise",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "He took a very long time to deliver the boots",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "His boots were of bad quality",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "People preferred the big firms",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    "kn": {
+      "question": "ಶ್ರೀ ಗೆಸ್ಲರ್ ಅವರ ವ್ಯಾಪಾರ ಏಕೆ ವಿಫಲವಾಯಿತು?",
+      "explanation": "ಅವರು ಜಾಹೀರಾತು ನೀಡಲು ನಿರಾಕರಿಸಿದ ಕಾರಣ ಮತ್ತು ಅವರ ನಿಧಾನಗತಿಯ, ನಿಖರವಾದ ಕೆಲಸದಿಂದಾಗಿ ಆದೇಶಗಳನ್ನು ಪೂರೈಸಲು ದೀರ್ಘ ಸಮಯ ತೆಗೆದುಕೊಂಡ ಕಾರಣ ಗ್ರಾಹಕರನ್ನು ಕಳೆದುಕೊಂಡರು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವರು ಜಾಹೀರಾತು ನೀಡಲಿಲ್ಲ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಬೂಟುಗಳನ್ನು ತಲುಪಿಸಲು ಅವರು ತುಂಬಾ ಸಮಯ ತೆಗೆದುಕೊಂಡರು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವರ ಬೂಟುಗಳು ಕಳಪೆ ಗುಣಮಟ್ಟದ್ದಾಗಿದ್ದವು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಜನರು ದೊಡ್ಡ ಸಂಸ್ಥೆಗಳಿಗೆ ಆದ್ಯತೆ ನೀಡಿದರು",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_quality_21",
+    "type": "hard",
+    "difficulty": "medium",
+    "en": {
+      "question": "How did the author describe the atmosphere inside Mr. Gessler's shop?",
+      "explanation": "It was restful as a church, with a soothing smell of leather."
+    },
+    "kn": {
+      "question": "ಶ್ರೀ ಗೆಸ್ಲರ್ ಅವರ ಅಂಗಡಿಯ ಒಳಗಿನ ವಾತಾವರಣವನ್ನು ಲೇಖಕರು ಹೇಗೆ ವಿವರಿಸಿದರು?",
+      "explanation": "ಇದು ಚರ್ಚ್‌ನಂತೆ ಪ್ರಶಾಂತವಾಗಿತ್ತು, ಚರ್ಮದ ಹಿತವಾದ ವಾಸನೆಯನ್ನು ಹೊಂದಿತ್ತು."
+    }
+  },
+  {
+    "id": "c7_eng_quality_22",
+    "type": "match",
+    "difficulty": "easy",
+    "en": {
+      "question": "Match the people to their view of trees in the poem.",
+      "explanation": "Different perspectives on trees as shown in the poem.",
+      "pairs": [
+        {
+          "left": "Children",
+          "right": "Hide and seek, swings"
+        },
+        {
+          "left": "Mothers",
+          "right": "Lovely picture to paint"
+        },
+        {
+          "left": "Fathers",
+          "right": "Leaves to rake"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಪದ್ಯದಲ್ಲಿನ ಜನರನ್ನು ಮರಗಳ ಬಗ್ಗೆ ಅವರ ದೃಷ್ಟಿಕೋನಕ್ಕೆ ಹೊಂದಿಸಿ.",
+      "explanation": "ಪದ್ಯದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಮರಗಳ ಮೇಲಿನ ವಿಭಿನ್ನ ದೃಷ್ಟಿಕೋನಗಳು.",
+      "pairs": [
+        {
+          "left": "ಮಕ್ಕಳು",
+          "right": "ಕಣ್ಣಾಮುಚ್ಚಾಲೆ, ಉಯ್ಯಾಲೆ"
+        },
+        {
+          "left": "ತಾಯಂದಿರು",
+          "right": "ಚಿತ್ರಿಸಲು ಸುಂದರವಾದ ಚಿತ್ರ"
+        },
+        {
+          "left": "ತಂದೆಯಂದಿರು",
+          "right": "ಗುಡಿಸಲು ಎಲೆಗಳು"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_quality_23",
+    "type": "match",
+    "difficulty": "medium",
+    "en": {
+      "question": "Match the events with their causes in 'Quality'.",
+      "explanation": "Cause and effect in Mr. Gessler's life.",
+      "pairs": [
+        {
+          "left": "Boots lasted terribly long",
+          "right": "Used best leather and technique"
+        },
+        {
+          "left": "Lost customers",
+          "right": "Took too much time to make boots"
+        },
+        {
+          "left": "Died of starvation",
+          "right": "Spent all money on rent and leather, didn't eat"
+        }
+      ]
+    },
+    "kn": {
+      "question": "'ಕ್ವಾಲಿಟಿ' ಯಲ್ಲಿನ ಘಟನೆಗಳನ್ನು ಅವುಗಳ ಕಾರಣಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "explanation": "ಶ್ರೀ ಗೆಸ್ಲರ್ ಅವರ ಜೀವನದಲ್ಲಿನ ಕಾರಣ ಮತ್ತು ಪರಿಣಾಮ.",
+      "pairs": [
+        {
+          "left": "ಬೂಟುಗಳು ತುಂಬಾ ಕಾಲ ಬಾಳಿಕೆ ಬಂದವು",
+          "right": "ಉತ್ತಮ ಚರ್ಮ ಮತ್ತು ತಂತ್ರವನ್ನು ಬಳಸಿದರು"
+        },
+        {
+          "left": "ಗ್ರಾಹಕರನ್ನು ಕಳೆದುಕೊಂಡರು",
+          "right": "ಬೂಟುಗಳನ್ನು ತಯಾರಿಸಲು ಹೆಚ್ಚು ಸಮಯ ತೆಗೆದುಕೊಂಡರು"
+        },
+        {
+          "left": "ಹಸಿವಿನಿಂದ ಸತ್ತರು",
+          "right": "ಎಲ್ಲಾ ಹಣವನ್ನು ಬಾಡಿಗೆ ಮತ್ತು ಚರ್ಮಕ್ಕೆ ಖರ್ಚು ಮಾಡಿದರು, ಊಟ ಮಾಡಲಿಲ್ಲ"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_quality_24",
+    "type": "match",
+    "difficulty": "hard",
+    "en": {
+      "question": "Match Mr. Gessler's quotes to their meanings.",
+      "explanation": "Translating Gessler's German accent to plain English meaning.",
+      "pairs": [
+        {
+          "left": "Id is an Ardt!",
+          "right": "Bootmaking is an art."
+        },
+        {
+          "left": "Dey get id all... dey get id by advertisement.",
+          "right": "Big firms get business through ads."
+        },
+        {
+          "left": "Zome boods are bad from birdt.",
+          "right": "Some leather/boots are inherently defective."
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಶ್ರೀ ಗೆಸ್ಲರ್ ಅವರ ಉಲ್ಲೇಖಗಳನ್ನು ಅವುಗಳ ಅರ್ಥಗಳಿಗೆ ಹೊಂದಿಸಿ.",
+      "explanation": "ಗೆಸ್ಲರ್ ಅವರ ಜರ್ಮನ್ ಉಚ್ಚಾರಣೆಯನ್ನು ಸರಳ ಇಂಗ್ಲಿಷ್ ಅರ್ಥಕ್ಕೆ ಭಾಷಾಂತರಿಸುವುದು.",
+      "pairs": [
+        {
+          "left": "ಇದು ಒಂದು ಕಲೆ! (Id is an Ardt!)",
+          "right": "ಬೂಟ್ ತಯಾರಿಕೆ ಒಂದು ಕಲೆ."
+        },
+        {
+          "left": "ಅವರು ಎಲ್ಲವನ್ನೂ ಪಡೆಯುತ್ತಾರೆ... ಅವರು ಅದನ್ನು ಜಾಹೀರಾತಿನ ಮೂಲಕ ಪಡೆಯುತ್ತಾರೆ.",
+          "right": "ದೊಡ್ಡ ಸಂಸ್ಥೆಗಳು ಜಾಹೀರಾತುಗಳ ಮೂಲಕ ವ್ಯಾಪಾರವನ್ನು ಪಡೆಯುತ್ತವೆ."
+        },
+        {
+          "left": "ಕೆಲವು ಬೂಟುಗಳು ಹುಟ್ಟಿನಿಂದಲೇ ಕೆಟ್ಟವು.",
+          "right": "ಕೆಲವು ಚರ್ಮ/ಬೂಟುಗಳು ಅಂತರ್ಗತವಾಗಿ ದೋಷಯುಕ್ತವಾಗಿವೆ."
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_quality_25",
+    "type": "match",
+    "difficulty": "hard",
+    "en": {
+      "question": "Match the Quality chapter words with their meanings.",
+      "explanation": "Vocabulary matching.",
+      "pairs": [
+        {
+          "left": "Guttural",
+          "right": "Harsh sounding, produced in the throat"
+        },
+        {
+          "left": "Incense",
+          "right": "The smell of leather comparing to a church"
+        },
+        {
+          "left": "Starvation",
+          "right": "Suffering or death caused by lack of food"
+        },
+        {
+          "left": "By-street",
+          "right": "A side street"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಪದಗಳನ್ನು ಅವುಗಳ ಅರ್ಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "explanation": "ಶಬ್ದಕೋಶ ಹೊಂದಾಣಿಕೆ.",
+      "pairs": [
+        {
+          "left": "ಗಟ್ಚರಲ್ (ಗಂಟಲಿನಿಂದ ಬರುವ)",
+          "right": "ಕಠಿಣವಾದ ಶಬ್ದ, ಗಂಟಲಿನಲ್ಲಿ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ"
+        },
+        {
+          "left": "ಇನ್ಸೆನ್ಸ್ (ಸುಗಂಧ/ಧೂಪ)",
+          "right": "ಚರ್ಚ್‌ಗೆ ಹೋಲಿಸುವ ಚರ್ಮದ ವಾಸನೆ"
+        },
+        {
+          "left": "ಸ್ಟಾರ್ವೇಶನ್ (ಹಸಿವು/ಉಪವಾಸ)",
+          "right": "ಆಹಾರದ ಕೊರತೆಯಿಂದ ಉಂಟಾಗುವ ಸಂಕಟ ಅಥವಾ ಸಾವು"
+        },
+        {
+          "left": "ಬೈ-ಸ್ಟ್ರೀಟ್ (ಉಪ-ಬೀದಿ)",
+          "right": "ಒಂದು ಅಡ್ಡ ರಸ್ತೆ"
+        }
+      ]
+    }
+  }
+]

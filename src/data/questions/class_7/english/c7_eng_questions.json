@@ -1,0 +1,1461 @@
+[
+  {
+    "id": "c7_eng_questions_01",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "What was the first question the king wanted answered?",
+      "explanation": "The king wanted to know the right time for every action to never fail.",
+      "options": [
+        {
+          "id": "A",
+          "text": "What is the right time to begin something?",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Which people should he listen to?",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "What is the most important thing to do?",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Where should he build his palace?",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ರಾಜನು ಉತ್ತರ ಬಯಸಿದ ಮೊದಲ ಪ್ರಶ್ನೆ ಏನಾಗಿತ್ತು?",
+      "explanation": "ಯಾವಾಗಲೂ ವಿಫಲರಾಗದಿರಲು ಪ್ರತಿಯೊಂದು ಕ್ರಿಯೆಗೂ ಸರಿಯಾದ ಸಮಯವನ್ನು ರಾಜ ತಿಳಿಯಲು ಬಯಸಿದ್ದನು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಯಾವುದನ್ನಾದರೂ ಪ್ರಾರಂಭಿಸಲು ಸರಿಯಾದ ಸಮಯ ಯಾವುದು?",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಅವನು ಯಾವ ಜನರ ಮಾತು ಕೇಳಬೇಕು?",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಮಾಡಬೇಕಾದ ಪ್ರಮುಖ ಕೆಲಸ ಯಾವುದು?",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವನು ತನ್ನ ಅರಮನೆಯನ್ನು ಎಲ್ಲಿ ಕಟ್ಟಬೇಕು?",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_eng_questions_02",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Where did the hermit live?",
+      "explanation": "The hermit lived in a wood which he never left.",
+      "options": [
+        {
+          "id": "A",
+          "text": "In a palace",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "In a wood",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "On a mountain",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "In a cave",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಸನ್ಯಾಸಿ ಎಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದನು?",
+      "explanation": "ಸನ್ಯಾಸಿಯು ಒಂದು ಕಾಡಿನಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದನು ಮತ್ತು ಅವನು ಅದನ್ನು ಎಂದಿಗೂ ಬಿಡಲಿಲ್ಲ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅರಮನೆಯಲ್ಲಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಕಾಡಿನಲ್ಲಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಪರ್ವತದ ಮೇಲೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಗುಹೆಯಲ್ಲಿ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_questions_03",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "What was the hermit doing when the king approached him?",
+      "explanation": "The hermit was digging the ground in front of his hut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Praying",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Sleeping",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Digging the ground",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "Eating",
+          "isCorrect": false
+        }
+      ],
+      "answer": "C"
+    },
+    "kn": {
+      "question": "ರಾಜನು ಸನ್ಯಾಸಿಯ ಬಳಿ ಬಂದಾಗ ಸನ್ಯಾಸಿ ಏನು ಮಾಡುತ್ತಿದ್ದನು?",
+      "explanation": "ಸನ್ಯಾಸಿಯು ತನ್ನ ಗುಡಿಸಲಿನ ಮುಂದೆ ನೆಲವನ್ನು ಅಗೆಯುತ್ತಿದ್ದನು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಪ್ರಾರ್ಥನೆ ಮಾಡುತ್ತಿದ್ದನು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಮಲಗಿದ್ದನು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ನೆಲವನ್ನು ಅಗೆಯುತ್ತಿದ್ದನು",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ತಿನ್ನುತ್ತಿದ್ದನು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "C"
+    }
+  },
+  {
+    "id": "c7_eng_questions_04",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Who came running out of the wood?",
+      "explanation": "A bearded man came running with his hands pressed against his stomach.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A tiger",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "A bearded man",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "A soldier",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "A child",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಕಾಡಿನಿಂದ ಓಡೋಡಿ ಬಂದದ್ದು ಯಾರು?",
+      "explanation": "ಹೊಟ್ಟೆಯ ಮೇಲೆ ಕೈಯಿಟ್ಟುಕೊಂಡು ಗಡ್ಡಧಾರಿ ಮನುಷ್ಯನೊಬ್ಬ ಓಡಿಬಂದನು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಒಂದು ಹುಲಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಗಡ್ಡಧಾರಿ ಮನುಷ್ಯ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಸೈನಿಕ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಮಗು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_questions_05",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "What is the shape of the squirrel's tail described in the poem?",
+      "explanation": "The poet says the squirrel wears 'a question mark for tail'.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exclamation mark",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Question mark",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Full stop",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Comma",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಪದ್ಯದಲ್ಲಿ ವಿವರಿಸಿದಂತೆ ಅಳಿಲಿನ ಬಾಲದ ಆಕಾರವೇನು?",
+      "explanation": "ಅಳಿಲು 'ಬಾಲಕ್ಕಾಗಿ ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಯನ್ನು' ಧರಿಸುತ್ತದೆ ಎಂದು ಕವಿ ಹೇಳುತ್ತಾರೆ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಆಶ್ಚರ್ಯಸೂಚಕ ಚಿಹ್ನೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಪೂರ್ಣವಿರಾಮ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅಲ್ಪವಿರಾಮ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_questions_06",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "What did the squirrel like to eat?",
+      "explanation": "The squirrel liked to tease and play, and sat up straight to eat a nut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fruits",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Insects",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "A nut",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "Leaves",
+          "isCorrect": false
+        }
+      ],
+      "answer": "C"
+    },
+    "kn": {
+      "question": "ಅಳಿಲು ಏನನ್ನು ತಿನ್ನಲು ಇಷ್ಟಪಡುತ್ತಿತ್ತು?",
+      "explanation": "ಅಳಿಲು ಆಟವಾಡಲು ಇಷ್ಟಪಡುತ್ತಿತ್ತು ಮತ್ತು ಬೀಜವನ್ನು ತಿನ್ನಲು ನೇರವಾಗಿ ಕುಳಿತಿತ್ತು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಹಣ್ಣುಗಳು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಕೀಟಗಳು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಬೀಜ (ನಟ್)",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ಎಲೆಗಳು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "C"
+    }
+  },
+  {
+    "id": "c7_eng_questions_07",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "Why did the bearded man want to kill the king?",
+      "explanation": "The king had put the man's brother to death and seized his property.",
+      "options": [
+        {
+          "id": "A",
+          "text": "To steal his gold",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Because the king put his brother to death",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "He wanted to become king",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "He was hired by enemies",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಗಡ್ಡಧಾರಿ ಮನುಷ್ಯ ರಾಜನನ್ನು ಏಕೆ ಕೊಲ್ಲಲು ಬಯಸಿದನು?",
+      "explanation": "ರಾಜನು ಆ ಮನುಷ್ಯನ ಸಹೋದರನನ್ನು ಕೊಂದಿದ್ದನು ಮತ್ತು ಅವನ ಆಸ್ತಿಯನ್ನು ವಶಪಡಿಸಿಕೊಂಡಿದ್ದನು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವನ ಚಿನ್ನವನ್ನು ಕದಿಯಲು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ರಾಜನು ಅವನ ಸಹೋದರನನ್ನು ಕೊಂದಿದ್ದರಿಂದ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವನು ರಾಜನಾಗಲು ಬಯಸಿದ್ದನು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಶತ್ರುಗಳು ಅವನನ್ನು ನೇಮಿಸಿದ್ದರು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_questions_08",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "How did the king help the hermit?",
+      "explanation": "Seeing the hermit was tired, the king took his spade and dug the beds.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gave him money",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Built a house for him",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Dug the beds for him",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "Gave him food",
+          "isCorrect": false
+        }
+      ],
+      "answer": "C"
+    },
+    "kn": {
+      "question": "ರಾಜನು ಸನ್ಯಾಸಿಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಿದನು?",
+      "explanation": "ಸನ್ಯಾಸಿ ದಣಿದಿರುವುದನ್ನು ಕಂಡು, ರಾಜನು ಅವನ ಗುದ್ದಲಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ನೆಲ ಅಗೆದನು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವನಿಗೆ ಹಣ ನೀಡಿದನು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಅವನಿಗಾಗಿ ಮನೆ ಕಟ್ಟಿದನು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಅವನಿಗಾಗಿ ನೆಲ ಅಗೆದನು",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ಅವನಿಗೆ ಆಹಾರ ನೀಡಿದನು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "C"
+    }
+  },
+  {
+    "id": "c7_eng_questions_09",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "Who wounded the bearded man?",
+      "explanation": "The king's bodyguard recognized the man and wounded him.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The hermit",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "The king's bodyguard",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "A wild animal",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "He hurt himself",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಗಡ್ಡಧಾರಿ ಮನುಷ್ಯನನ್ನು ಯಾರು ಗಾಯಗೊಳಿಸಿದರು?",
+      "explanation": "ರಾಜನ ಅಂಗರಕ್ಷಕನು ಆ ಮನುಷ್ಯನನ್ನು ಗುರುತಿಸಿ ಗಾಯಗೊಳಿಸಿದನು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಸನ್ಯಾಸಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ರಾಜನ ಅಂಗರಕ್ಷಕ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಒಂದು ಕಾಡು ಪ್ರಾಣಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ತಾನೇ ಗಾಯ ಮಾಡಿಕೊಂಡನು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_questions_10",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "According to the hermit, who is the most necessary person?",
+      "explanation": "The most necessary person is the one you are with right now.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The king",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "The person you are with at a particular moment",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Doctors",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Priests",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಸನ್ಯಾಸಿಯ ಪ್ರಕಾರ, ಅತ್ಯಂತ ಅಗತ್ಯವಾದ ವ್ಯಕ್ತಿ ಯಾರು?",
+      "explanation": "ಅತ್ಯಂತ ಅಗತ್ಯವಾದ ವ್ಯಕ್ತಿ ಎಂದರೆ ಈಗ ನಿಮ್ಮೊಂದಿಗಿರುವ ವ್ಯಕ್ತಿ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ರಾಜ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ನಿರ್ದಿಷ್ಟ ಕ್ಷಣದಲ್ಲಿ ನಿಮ್ಮೊಂದಿಗಿರುವ ವ್ಯಕ್ತಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ವೈದ್ಯರು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಪುರೋಹಿತರು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_questions_11",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "What did the king promise the bearded man?",
+      "explanation": "The king promised to send his doctor and servants to look after him and to restore his property.",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make him a minister",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "To restore his property",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "To give him gold",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "To punish his enemies",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ರಾಜನು ಗಡ್ಡಧಾರಿ ಮನುಷ್ಯನಿಗೆ ಏನು ಭರವಸೆ ನೀಡಿದನು?",
+      "explanation": "ರಾಜನು ತನ್ನ ವೈದ್ಯರು ಮತ್ತು ಸೇವಕರನ್ನು ಅವನನ್ನು ನೋಡಿಕೊಳ್ಳಲು ಕಳುಹಿಸುವುದಾಗಿ ಮತ್ತು ಅವನ ಆಸ್ತಿಯನ್ನು ಹಿಂದಿರುಗಿಸುವುದಾಗಿ ಭರವಸೆ ನೀಡಿದನು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವನನ್ನು ಮಂತ್ರಿಯನ್ನಾಗಿ ಮಾಡಲು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಅವನ ಆಸ್ತಿಯನ್ನು ಹಿಂದಿರುಗಿಸಲು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವನಿಗೆ ಚಿನ್ನ ನೀಡಲು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವನ ಶತ್ರುಗಳನ್ನು ಶಿಕ್ಷಿಸಲು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_questions_12",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "According to the hermit, what is the most important business?",
+      "explanation": "The most important business is to do good to the person you are with, because we are sent into this world for that purpose alone.",
+      "options": [
+        {
+          "id": "A",
+          "text": "To fight wars",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "To do good to the person you are with",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "To acquire wealth",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "To pray constantly",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಸನ್ಯಾಸಿಯ ಪ್ರಕಾರ, ಅತ್ಯಂತ ಪ್ರಮುಖ ಕೆಲಸ ಯಾವುದು?",
+      "explanation": "ಅತ್ಯಂತ ಪ್ರಮುಖವಾದ ಕೆಲಸವೆಂದರೆ ನಿಮ್ಮೊಂದಿಗಿರುವ ವ್ಯಕ್ತಿಗೆ ಒಳ್ಳೆಯದನ್ನು ಮಾಡುವುದು, ಏಕೆಂದರೆ ಅದಕ್ಕಾಗಿಯೇ ನಮ್ಮನ್ನು ಈ ಜಗತ್ತಿಗೆ ಕಳುಹಿಸಲಾಗಿದೆ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಯುದ್ಧಗಳನ್ನು ಮಾಡುವುದು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ನಿಮ್ಮೊಂದಿಗಿರುವ ವ್ಯಕ್ತಿಗೆ ಒಳ್ಳೆಯದನ್ನು ಮಾಡುವುದು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಸಂಪತ್ತನ್ನು ಗಳಿಸುವುದು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ನಿರಂತರವಾಗಿ ಪ್ರಾರ್ಥಿಸುವುದು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_questions_13",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "Why did the king put on ordinary clothes before visiting the hermit?",
+      "explanation": "The hermit only received common folk, so the king dressed like a commoner.",
+      "options": [
+        {
+          "id": "A",
+          "text": "He liked simple clothes",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "The hermit saw no one but simple people",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "His royal clothes were torn",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "To hide from his enemies",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಸನ್ಯಾಸಿಯನ್ನು ಭೇಟಿಯಾಗುವ ಮೊದಲು ರಾಜನು ಸಾಮಾನ್ಯ ಬಟ್ಟೆಗಳನ್ನು ಏಕೆ ಧರಿಸಿದನು?",
+      "explanation": "ಸನ್ಯಾಸಿಯು ಕೇವಲ ಸಾಮಾನ್ಯ ಜನರನ್ನು ಮಾತ್ರ ಭೇಟಿಯಾಗುತ್ತಿದ್ದನು, ಆದ್ದರಿಂದ ರಾಜನು ಸಾಮಾನ್ಯನಂತೆ ಉಡುಗೆ ಧರಿಸಿದನು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವನು ಸರಳ ಬಟ್ಟೆಗಳನ್ನು ಇಷ್ಟಪಡುತ್ತಿದ್ದನು",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಸನ್ಯಾಸಿಯು ಸಾಮಾನ್ಯ ಜನರನ್ನು ಹೊರತುಪಡಿಸಿ ಯಾರನ್ನೂ ನೋಡುತ್ತಿರಲಿಲ್ಲ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವನ ರಾಜವಸ್ತ್ರಗಳು ಹರಿದಿದ್ದವು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ತನ್ನ ಶತ್ರುಗಳಿಂದ ಅಡಗಿಕೊಳ್ಳಲು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_questions_14",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "What did the king use to dress the bearded man's wound?",
+      "explanation": "The king washed and covered the wound with his handkerchief and the hermit's towel.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A bandage from his bag",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "His handkerchief and the hermit's towel",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Leaves from the forest",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Cotton cloth from his bodyguard",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಗಡ್ಡಧಾರಿ ಮನುಷ್ಯನ ಗಾಯಕ್ಕೆ ಪಟ್ಟಿ ಕಟ್ಟಲು ರಾಜನು ಏನನ್ನು ಬಳಸಿದನು?",
+      "explanation": "ರಾಜನು ತನ್ನ ಕರವಸ್ತ್ರ ಮತ್ತು ಸನ್ಯಾಸಿಯ ಟವೆಲ್‌ನಿಂದ ಗಾಯವನ್ನು ತೊಳೆದು ಮುಚ್ಚಿದನು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ತನ್ನ ಚೀಲದಿಂದ ಬ್ಯಾಂಡೇಜ್",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ತನ್ನ ಕರವಸ್ತ್ರ ಮತ್ತು ಸನ್ಯಾಸಿಯ ಟವೆಲ್",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಕಾಡಿನ ಎಲೆಗಳು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ತನ್ನ ಅಂಗರಕ್ಷಕನಿಂದ ಹತ್ತಿ ಬಟ್ಟೆ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_questions_15",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "What does 'an overcoat of gray' refer to in 'The Squirrel'?",
+      "explanation": "It refers to the squirrel's gray fur that looks like a coat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The squirrel's tail",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "The squirrel's fur",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "The tree bark",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "The nut's shell",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "'ದಿ ಅಳಿಲು' ಪದ್ಯದಲ್ಲಿ 'ಬೂದು ಬಣ್ಣದ ಓವರ್‌ಕೋಟ್' ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "explanation": "ಇದು ಕೋಟ್‌ನಂತೆ ಕಾಣುವ ಅಳಿಲಿನ ಬೂದು ತುಪ್ಪಳವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅಳಿಲಿನ ಬಾಲ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಅಳಿಲಿನ ತುಪ್ಪಳ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಮರದ ತೊಗಟೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಬೀಜದ ಚಿಪ್ಪು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_questions_16",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "What happens if we ran around the squirrel's tree?",
+      "explanation": "The poem says 'And if we ran around his tree, He went the other way'.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It will come to us",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "It will drop the nut",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "It goes the other way",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "It will jump on us",
+          "isCorrect": false
+        }
+      ],
+      "answer": "C"
+    },
+    "kn": {
+      "question": "ನಾವು ಅಳಿಲಿನ ಮರದ ಸುತ್ತ ಓಡಿದರೆ ಏನಾಗುತ್ತದೆ?",
+      "explanation": "ಪದ್ಯವು 'ಮತ್ತು ನಾವು ಅವನ ಮರದ ಸುತ್ತ ಓಡಿದರೆ, ಅವನು ಬೇರೆ ದಾರಿಯಲ್ಲಿ ಹೋದನು' ಎಂದು ಹೇಳುತ್ತದೆ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅದು ನಮ್ಮ ಬಳಿ ಬರುತ್ತದೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಅದು ಬೀಜವನ್ನು ಬೀಳಿಸುತ್ತದೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಅದು ಬೇರೆ ದಾರಿಯಲ್ಲಿ ಹೋಗುತ್ತದೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ಅದು ನಮ್ಮ ಮೇಲೆ ಜಿಗಿಯುತ್ತದೆ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "C"
+    }
+  },
+  {
+    "id": "c7_eng_questions_17",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "How did the hermit finally answer the king's three questions?",
+      "explanation": "The hermit used the king's actions (digging beds, helping the wounded man) to practically explain the answers.",
+      "options": [
+        {
+          "id": "A",
+          "text": "By giving him a book",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Through the events that had just occurred",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "By asking him to meditate",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "By introducing him to the bearded man",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    },
+    "kn": {
+      "question": "ಸನ್ಯಾಸಿಯು ಅಂತಿಮವಾಗಿ ರಾಜನ ಮೂರು ಪ್ರಶ್ನೆಗಳಿಗೆ ಹೇಗೆ ಉತ್ತರಿಸಿದನು?",
+      "explanation": "ರಾಜನ ಕ್ರಿಯೆಗಳನ್ನು (ನೆಲ ಅಗೆಯುವುದು, ಗಾಯಾಳುವಿಗೆ ಸಹಾಯ ಮಾಡುವುದು) ಬಳಸಿಕೊಂಡು ಸನ್ಯಾಸಿಯು ಉತ್ತರಗಳನ್ನು ಪ್ರಾಯೋಗಿಕವಾಗಿ ವಿವರಿಸಿದನು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವನಿಗೆ ಒಂದು ಪುಸ್ತಕವನ್ನು ನೀಡುವ ಮೂಲಕ",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ಈಗಷ್ಟೇ ನಡೆದ ಘಟನೆಗಳ ಮೂಲಕ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವನನ್ನು ಧ್ಯಾನಿಸಲು ಕೇಳುವ ಮೂಲಕ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಗಡ್ಡಧಾರಿ ಮನುಷ್ಯನನ್ನು ಪರಿಚಯಿಸುವ ಮೂಲಕ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "B"
+    }
+  },
+  {
+    "id": "c7_eng_questions_18",
+    "type": "multiple",
+    "difficulty": "easy",
+    "en": {
+      "question": "Which of the following are the King's three questions?",
+      "explanation": "The King wanted to know the right time, the right people, and the most important task.",
+      "options": [
+        {
+          "id": "A",
+          "text": "What is the right time to begin something?",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Which people should he listen to?",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Where should he build his castle?",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "What is the most important thing for him to do?",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ರಾಜನ ಮೂರು ಪ್ರಶ್ನೆಗಳು ಯಾವುವು?",
+      "explanation": "ರಾಜನು ಸರಿಯಾದ ಸಮಯ, ಸರಿಯಾದ ಜನರು ಮತ್ತು ಪ್ರಮುಖ ಕೆಲಸವನ್ನು ತಿಳಿಯಲು ಬಯಸಿದ್ದನು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಯಾವುದನ್ನಾದರೂ ಪ್ರಾರಂಭಿಸಲು ಸರಿಯಾದ ಸಮಯ ಯಾವುದು?",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಅವನು ಯಾವ ಜನರ ಮಾತು ಕೇಳಬೇಕು?",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಅವನು ತನ್ನ ಕೋಟೆಯನ್ನು ಎಲ್ಲಿ ನಿರ್ಮಿಸಬೇಕು?",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವನು ಮಾಡಬೇಕಾದ ಪ್ರಮುಖ ಕೆಲಸ ಯಾವುದು?",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_questions_19",
+    "type": "multiple",
+    "difficulty": "medium",
+    "en": {
+      "question": "What did the bearded man promise to do for the king?",
+      "explanation": "The man promised to serve the king faithfully and tell his sons to do the same.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Serve him as his most faithful servant",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Give him wealth",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Order his sons to do the same",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "Leave the kingdom",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ]
+    },
+    "kn": {
+      "question": "ಗಡ್ಡಧಾರಿ ಮನುಷ್ಯನು ರಾಜನಿಗೆ ಏನು ಮಾಡುವುದಾಗಿ ಭರವಸೆ ನೀಡಿದನು?",
+      "explanation": "ಆ ಮನುಷ್ಯನು ರಾಜನಿಗೆ ನಿಷ್ಠೆಯಿಂದ ಸೇವೆ ಸಲ್ಲಿಸುವುದಾಗಿ ಮತ್ತು ತನ್ನ ಮಕ್ಕಳಿಗೂ ಹಾಗೆ ಮಾಡಲು ಹೇಳುವುದಾಗಿ ಭರವಸೆ ನೀಡಿದನು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವನ ಅತ್ಯಂತ ನಂಬಿಕಸ್ತ ಸೇವಕನಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸಲು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಅವನಿಗೆ ಸಂಪತ್ತು ನೀಡಲು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ತನ್ನ ಮಕ್ಕಳಿಗೂ ಹಾಗೆಯೇ ಮಾಡಲು ಆದೇಶಿಸಲು",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ರಾಜ್ಯವನ್ನು ಬಿಟ್ಟು ಹೋಗಲು",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_questions_20",
+    "type": "multiple",
+    "difficulty": "medium",
+    "en": {
+      "question": "How does the poet describe the squirrel?",
+      "explanation": "The poem describes its tail, its gray fur, and its playful nature.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wears an overcoat of gray",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Has a question mark for a tail",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Is very dangerous",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Likes to tease and play",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    "kn": {
+      "question": "ಕವಿಯು ಅಳಿಲನ್ನು ಹೇಗೆ ವಿವರಿಸುತ್ತಾನೆ?",
+      "explanation": "ಪದ್ಯವು ಅದರ ಬಾಲ, ಅದರ ಬೂದು ತುಪ್ಪಳ ಮತ್ತು ಅದರ ತಮಾಷೆಯ ಸ್ವಭಾವವನ್ನು ವಿವರಿಸುತ್ತದೆ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಬೂದು ಬಣ್ಣದ ಓವರ್‌ಕೋಟ್ ಧರಿಸುತ್ತದೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಬಾಲಕ್ಕಾಗಿ ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಯನ್ನು ಹೊಂದಿದೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ತುಂಬಾ ಅಪಾಯಕಾರಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಆಟವಾಡಲು ಇಷ್ಟಪಡುತ್ತದೆ",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_questions_21",
+    "type": "multiple",
+    "difficulty": "hard",
+    "en": {
+      "question": "According to the learned men, who should the king listen to?",
+      "explanation": "Different learned men gave different answers, including councillors, priests, doctors, and some said soldiers or magicians.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Councillors",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Priests",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Doctors",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "Magicians",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    "kn": {
+      "question": "ವಿದ್ವಾಂಸರ ಪ್ರಕಾರ, ರಾಜನು ಯಾರ ಮಾತನ್ನು ಕೇಳಬೇಕು?",
+      "explanation": "ವಿವಿಧ ವಿದ್ವಾಂಸರು ಕೌನ್ಸಿಲರ್‌ಗಳು, ಪುರೋಹಿತರು, ವೈದ್ಯರು ಮತ್ತು ಕೆಲವರು ಸೈನಿಕರು ಅಥವಾ ಮಾಂತ್ರಿಕರು ಸೇರಿದಂತೆ ವಿಭಿನ್ನ ಉತ್ತರಗಳನ್ನು ನೀಡಿದರು.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಕೌನ್ಸಿಲರ್ ಗಳು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಪುರೋಹಿತರು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ವೈದ್ಯರು",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ಮಾಂತ್ರಿಕರು",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_questions_22",
+    "type": "match",
+    "difficulty": "easy",
+    "en": {
+      "question": "Match the characters from Three Questions with their descriptions.",
+      "explanation": "The King wanted answers, the hermit was digging, the man wanted revenge, and the squirrel loves nuts.",
+      "pairs": [
+        {
+          "left": "King",
+          "right": "Wanted answers to 3 questions"
+        },
+        {
+          "left": "Hermit",
+          "right": "Digging the ground"
+        },
+        {
+          "left": "Bearded man",
+          "right": "Wanted revenge"
+        },
+        {
+          "left": "Squirrel",
+          "right": "Loves nuts"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಪಾತ್ರಗಳನ್ನು ಅವುಗಳ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "explanation": "ರಾಜನು ಉತ್ತರಗಳನ್ನು ಬಯಸಿದ್ದನು, ಸನ್ಯಾಸಿ ಅಗೆಯುತ್ತಿದ್ದನು, ಆ ಮನುಷ್ಯನು ಸೇಡು ತೀರಿಸಿಕೊಳ್ಳಲು ಬಯಸಿದ್ದನು ಮತ್ತು ಅಳಿಲು ಬೀಜಗಳನ್ನು ಪ್ರೀತಿಸುತ್ತದೆ.",
+      "pairs": [
+        {
+          "left": "ರಾಜ",
+          "right": "3 ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಗಳನ್ನು ಬಯಸಿದ್ದನು"
+        },
+        {
+          "left": "ಸನ್ಯಾಸಿ",
+          "right": "ನೆಲವನ್ನು ಅಗೆಯುತ್ತಿದ್ದನು"
+        },
+        {
+          "left": "ಗಡ್ಡಧಾರಿ ಮನುಷ್ಯ",
+          "right": "ಸೇಡು ತೀರಿಸಿಕೊಳ್ಳಲು ಬಯಸಿದ್ದನು"
+        },
+        {
+          "left": "ಅಳಿಲು",
+          "right": "ಬೀಜಗಳನ್ನು ಪ್ರೀತಿಸುತ್ತದೆ"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_questions_23",
+    "type": "match",
+    "difficulty": "medium",
+    "en": {
+      "question": "Match the vocabulary words with their meanings.",
+      "explanation": "Vocabulary matching from the story.",
+      "pairs": [
+        {
+          "left": "Council",
+          "right": "A group of people chosen to give advice"
+        },
+        {
+          "left": "Hermit",
+          "right": "A person who lives alone and simply"
+        },
+        {
+          "left": "Seized",
+          "right": "Took by force"
+        },
+        {
+          "left": "Fainted",
+          "right": "Lost consciousness"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಪದಗಳನ್ನು ಅವುಗಳ ಅರ್ಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "explanation": "ಕಥೆಯಿಂದ ಶಬ್ದಕೋಶ ಹೊಂದಾಣಿಕೆ.",
+      "pairs": [
+        {
+          "left": "ಕೌನ್ಸಿಲ್",
+          "right": "ಸಲಹೆ ನೀಡಲು ಆಯ್ಕೆ ಮಾಡಿದ ಜನರ ಗುಂಪು"
+        },
+        {
+          "left": "ಸನ್ಯಾಸಿ",
+          "right": "ಒಂಟಿಯಾಗಿ ಮತ್ತು ಸರಳವಾಗಿ ಬದುಕುವ ವ್ಯಕ್ತಿ"
+        },
+        {
+          "left": "ವಶಪಡಿಸಿಕೊಂಡರು",
+          "right": "ಬಲವಂತವಾಗಿ ತೆಗೆದುಕೊಂಡರು"
+        },
+        {
+          "left": "ಮೂರ್ಛೆ ಹೋದನು",
+          "right": "ಪ್ರಜ್ಞೆ ತಪ್ಪಿದನು"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_questions_24",
+    "type": "match",
+    "difficulty": "hard",
+    "en": {
+      "question": "Match the King's questions to the Hermit's answers.",
+      "explanation": "These are the final answers the hermit provided to the king.",
+      "pairs": [
+        {
+          "left": "Right time to do something",
+          "right": "Now"
+        },
+        {
+          "left": "Most necessary person",
+          "right": "The person you are with"
+        },
+        {
+          "left": "Most important business",
+          "right": "To do good to that person"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ರಾಜನ ಪ್ರಶ್ನೆಗಳನ್ನು ಸನ್ಯಾಸಿಯ ಉತ್ತರಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "explanation": "ಇವು ಸನ್ಯಾಸಿಯು ರಾಜನಿಗೆ ನೀಡಿದ ಅಂತಿಮ ಉತ್ತರಗಳು.",
+      "pairs": [
+        {
+          "left": "ಏನನ್ನಾದರೂ ಮಾಡಲು ಸರಿಯಾದ ಸಮಯ",
+          "right": "ಈಗ"
+        },
+        {
+          "left": "ಅತ್ಯಂತ ಅಗತ್ಯವಾದ ವ್ಯಕ್ತಿ",
+          "right": "ನಿಮ್ಮೊಂದಿಗಿರುವ ವ್ಯಕ್ತಿ"
+        },
+        {
+          "left": "ಅತ್ಯಂತ ಪ್ರಮುಖ ಕೆಲಸ",
+          "right": "ಆ ವ್ಯಕ್ತಿಗೆ ಒಳ್ಳೆಯದನ್ನು ಮಾಡುವುದು"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_eng_questions_25",
+    "type": "match",
+    "difficulty": "hard",
+    "en": {
+      "question": "Match the poet's phrases to their meanings in 'The Squirrel'.",
+      "explanation": "Matching poetic phrases with their literal descriptions.",
+      "pairs": [
+        {
+          "left": "Question mark for tail",
+          "right": "The curved shape of the tail"
+        },
+        {
+          "left": "Overcoat of gray",
+          "right": "The furry gray body"
+        },
+        {
+          "left": "Sat up straight",
+          "right": "Posture while eating a nut"
+        },
+        {
+          "left": "Went the other way",
+          "right": "Ran away when approached"
+        }
+      ]
+    },
+    "kn": {
+      "question": "'ದಿ ಅಳಿಲು' ಪದ್ಯದಲ್ಲಿನ ಕವಿಯ ನುಡಿಗಟ್ಟುಗಳನ್ನು ಅವುಗಳ ಅರ್ಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "explanation": "ಕಾವ್ಯಾತ್ಮಕ ನುಡಿಗಟ್ಟುಗಳನ್ನು ಅವುಗಳ ಅಕ್ಷರಶಃ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸುವುದು.",
+      "pairs": [
+        {
+          "left": "ಬಾಲಕ್ಕಾಗಿ ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆ",
+          "right": "ಬಾಲದ ಬಾಗಿದ ಆಕಾರ"
+        },
+        {
+          "left": "ಬೂದು ಬಣ್ಣದ ಓವರ್‌ಕೋಟ್",
+          "right": "ತುಪ್ಪಳದ ಬೂದು ದೇಹ"
+        },
+        {
+          "left": "ನೇರವಾಗಿ ಕುಳಿತಿತ್ತು",
+          "right": "ಬೀಜವನ್ನು ತಿನ್ನುವಾಗ ಭಂಗಿ"
+        },
+        {
+          "left": "ಬೇರೆ ದಾರಿಯಲ್ಲಿ ಹೋಯಿತು",
+          "right": "ಹತ್ತಿರ ಬಂದಾಗ ಓಡಿಹೋಯಿತು"
+        }
+      ]
+    }
+  }
+]

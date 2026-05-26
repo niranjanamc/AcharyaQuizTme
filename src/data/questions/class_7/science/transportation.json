@@ -5,13 +5,23 @@
     "difficulty": 1,
     "en": {
       "question": "Which fluid flows in the blood vessels of our body?",
-      "options": ["Water", "Blood", "Lymph", "Saliva"],
+      "options": [
+        "Water",
+        "Blood",
+        "Lymph",
+        "Saliva"
+      ],
       "answer": "Blood",
       "reasoning": "Blood is the fluid that flows in blood vessels. It transports substances like digested food and oxygen to all parts of the body."
     },
     "kn": {
       "question": "ನಮ್ಮ ದೇಹದ ರಕ್ತನಾಳಗಳಲ್ಲಿ ಹರಿಯುವ ದ್ರವ ಯಾವುದು?",
-      "options": ["ನೀರು", "ರಕ್ತ", "ದುಗ್ಧರಸ", "ಲಾಲಾರಸ"],
+      "options": [
+        "ನೀರು",
+        "ರಕ್ತ",
+        "ದುಗ್ಧರಸ",
+        "ಲಾಲಾರಸ"
+      ],
       "answer": "ರಕ್ತ",
       "reasoning": "ರಕ್ತವು ರಕ್ತನಾಳಗಳಲ್ಲಿ ಹರಿಯುವ ದ್ರವವಾಗಿದೆ. ಇದು ಜೀರ್ಣವಾದ ಆಹಾರ ಮತ್ತು ಆಮ್ಲಜನಕದಂತಹ ವಸ್ತುಗಳನ್ನು ದೇಹದ ಎಲ್ಲಾ ಭಾಗಗಳಿಗೆ ಸಾಗಿಸುತ್ತದೆ."
     }
@@ -22,13 +32,23 @@
     "difficulty": 1,
     "en": {
       "question": "Which pigment gives blood its red colour?",
-      "options": ["Chlorophyll", "Melanin", "Haemoglobin", "Carotene"],
+      "options": [
+        "Chlorophyll",
+        "Melanin",
+        "Haemoglobin",
+        "Carotene"
+      ],
       "answer": "Haemoglobin",
       "reasoning": "Haemoglobin is a red pigment present in red blood cells that binds with oxygen and transports it to all parts of the body."
     },
     "kn": {
       "question": "ಯಾವ ವರ್ಣದ್ರವ್ಯವು ರಕ್ತಕ್ಕೆ ಕೆಂಪು ಬಣ್ಣವನ್ನು ನೀಡುತ್ತದೆ?",
-      "options": ["ಕ್ಲೋರೊಫಿಲ್", "ಮೆಲನಿನ್", "ಹಿಮೋಗ್ಲೋಬಿನ್", "ಕ್ಯಾರೋಟಿನ್"],
+      "options": [
+        "ಕ್ಲೋರೊಫಿಲ್",
+        "ಮೆಲನಿನ್",
+        "ಹಿಮೋಗ್ಲೋಬಿನ್",
+        "ಕ್ಯಾರೋಟಿನ್"
+      ],
       "answer": "ಹಿಮೋಗ್ಲೋಬಿನ್",
       "reasoning": "ಹಿಮೋಗ್ಲೋಬಿನ್ ಕೆಂಪು ರಕ್ತ ಕಣಗಳಲ್ಲಿರುವ ಕೆಂಪು ವರ್ಣದ್ರವ್ಯವಾಗಿದ್ದು, ಇದು ಆಮ್ಲಜನಕದೊಂದಿಗೆ ಸೇರಿ ಅದನ್ನು ದೇಹದ ಎಲ್ಲಾ ಭಾಗಗಳಿಗೆ ಸಾಗಿಸುತ್ತದೆ."
     }
@@ -39,13 +59,23 @@
     "difficulty": 1,
     "en": {
       "question": "Which cells in the blood fight against germs that may enter our body?",
-      "options": ["Red Blood Cells (RBC)", "White Blood Cells (WBC)", "Platelets", "Plasma"],
+      "options": [
+        "Red Blood Cells (RBC)",
+        "White Blood Cells (WBC)",
+        "Platelets",
+        "Plasma"
+      ],
       "answer": "White Blood Cells (WBC)",
       "reasoning": "White Blood Cells (WBC) act as the body's defence system, fighting against disease-causing germs."
     },
     "kn": {
       "question": "ನಮ್ಮ ದೇಹವನ್ನು ಪ್ರವೇಶಿಸುವ ರೋಗಾಣುಗಳ ವಿರುದ್ಧ ಹೋರಾಡುವ ರಕ್ತದಲ್ಲಿನ ಕಣಗಳು ಯಾವುವು?",
-      "options": ["ಕೆಂಪು ರಕ್ತ ಕಣಗಳು (RBC)", "ಬಿಳಿ ರಕ್ತ ಕಣಗಳು (WBC)", "ಕಿರುತಟ್ಟೆಗಳು (Platelets)", "ಪ್ಲಾಸ್ಮಾ"],
+      "options": [
+        "ಕೆಂಪು ರಕ್ತ ಕಣಗಳು (RBC)",
+        "ಬಿಳಿ ರಕ್ತ ಕಣಗಳು (WBC)",
+        "ಕಿರುತಟ್ಟೆಗಳು (Platelets)",
+        "ಪ್ಲಾಸ್ಮಾ"
+      ],
       "answer": "ಬಿಳಿ ರಕ್ತ ಕಣಗಳು (WBC)",
       "reasoning": "ಬಿಳಿ ರಕ್ತ ಕಣಗಳು (WBC) ದೇಹದ ರಕ್ಷಣಾ ವ್ಯವಸ್ಥೆಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ, ರೋಗ-ಉಂಟುಮಾಡುವ ರೋಗಾಣುಗಳ ವಿರುದ್ಧ ಹೋರಾಡುತ್ತವೆ."
     }
@@ -56,13 +86,23 @@
     "difficulty": 1,
     "en": {
       "question": "What helps in the clotting of blood when we get injured?",
-      "options": ["RBC", "WBC", "Platelets", "Plasma"],
+      "options": [
+        "RBC",
+        "WBC",
+        "Platelets",
+        "Plasma"
+      ],
       "answer": "Platelets",
       "reasoning": "The clot is formed because of the presence of another type of cells in the blood, called platelets."
     },
     "kn": {
       "question": "ನಾವು ಗಾಯಗೊಂಡಾಗ ರಕ್ತ ಹೆಪ್ಪುಗಟ್ಟಲು ಯಾವುದು ಸಹಾಯ ಮಾಡುತ್ತದೆ?",
-      "options": ["ಕೆಂಪು ರಕ್ತ ಕಣಗಳು", "ಬಿಳಿ ರಕ್ತ ಕಣಗಳು", "ಕಿರುತಟ್ಟೆಗಳು (ಪ್ಲೇಟ್‌ಲೆಟ್‌ಗಳು)", "ಪ್ಲಾಸ್ಮಾ"],
+      "options": [
+        "ಕೆಂಪು ರಕ್ತ ಕಣಗಳು",
+        "ಬಿಳಿ ರಕ್ತ ಕಣಗಳು",
+        "ಕಿರುತಟ್ಟೆಗಳು (ಪ್ಲೇಟ್‌ಲೆಟ್‌ಗಳು)",
+        "ಪ್ಲಾಸ್ಮಾ"
+      ],
       "answer": "ಕಿರುತಟ್ಟೆಗಳು (ಪ್ಲೇಟ್‌ಲೆಟ್‌ಗಳು)",
       "reasoning": "ರಕ್ತದಲ್ಲಿರುವ ಕಿರುತಟ್ಟೆಗಳು (ಪ್ಲೇಟ್‌ಲೆಟ್‌ಗಳು) ಎಂಬ ಕಣಗಳ ಉಪಸ್ಥಿತಿಯಿಂದಾಗಿ ರಕ್ತ ಹೆಪ್ಪುಗಟ್ಟುತ್ತದೆ."
     }
@@ -73,13 +113,23 @@
     "difficulty": 1,
     "en": {
       "question": "Which organ pumps blood throughout the body?",
-      "options": ["Lungs", "Heart", "Brain", "Kidney"],
+      "options": [
+        "Lungs",
+        "Heart",
+        "Brain",
+        "Kidney"
+      ],
       "answer": "Heart",
       "reasoning": "The heart is an organ which beats continuously to act as a pump for the transport of blood."
     },
     "kn": {
       "question": "ದೇಹದಾದ್ಯಂತ ರಕ್ತವನ್ನು ಪಂಪ್ ಮಾಡುವ ಅಂಗ ಯಾವುದು?",
-      "options": ["ಶ್ವಾಸಕೋಶ", "ಹೃದಯ", "ಮೆದುಳು", "ಮೂತ್ರಪಿಂಡ"],
+      "options": [
+        "ಶ್ವಾಸಕೋಶ",
+        "ಹೃದಯ",
+        "ಮೆದುಳು",
+        "ಮೂತ್ರಪಿಂಡ"
+      ],
       "answer": "ಹೃದಯ",
       "reasoning": "ಹೃದಯವು ರಕ್ತ ಸಾಗಣೆಗೆ ಪಂಪ್‌ನಂತೆ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ನಿರಂತರವಾಗಿ ಬಡಿಯುವ ಒಂದು ಅಂಗವಾಗಿದೆ."
     }
@@ -90,14 +140,30 @@
     "difficulty": 1,
     "en": {
       "question": "Which of the following are the two main types of blood vessels?",
-      "options": ["Arteries", "Nerves", "Veins", "Tendons"],
-      "answer": ["Arteries", "Veins"],
+      "options": [
+        "Arteries",
+        "Nerves",
+        "Veins",
+        "Tendons"
+      ],
+      "answer": [
+        "Arteries",
+        "Veins"
+      ],
       "reasoning": "Arteries and veins are the two main types of blood vessels in the human body. Arteries carry oxygen-rich blood, while veins carry carbon dioxide-rich blood."
     },
     "kn": {
       "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ರಕ್ತನಾಳಗಳ ಎರಡು ಮುಖ್ಯ ವಿಧಗಳು ಯಾವುವು?",
-      "options": ["ಅಪಧಮನಿಗಳು", "ನರಗಳು", "ಅಭಿಧಮನಿಗಳು", "ಸ್ನಾಯುರಜ್ಜುಗಳು"],
-      "answer": ["ಅಪಧಮನಿಗಳು", "ಅಭಿಧಮನಿಗಳು"],
+      "options": [
+        "ಅಪಧಮನಿಗಳು",
+        "ನರಗಳು",
+        "ಅಭಿಧಮನಿಗಳು",
+        "ಸ್ನಾಯುರಜ್ಜುಗಳು"
+      ],
+      "answer": [
+        "ಅಪಧಮನಿಗಳು",
+        "ಅಭಿಧಮನಿಗಳು"
+      ],
       "reasoning": "ಅಪಧಮನಿಗಳು ಮತ್ತು ಅಭಿಧಮನಿಗಳು ಮಾನವ ದೇಹದ ಎರಡು ಮುಖ್ಯ ರಕ್ತನಾಳಗಳಾಗಿವೆ. ಅಪಧಮನಿಗಳು ಆಮ್ಲಜನಕ-ಭರಿತ ರಕ್ತವನ್ನು ಸಾಗಿಸುತ್ತವೆ ಮತ್ತು ಅಭಿಧಮನಿಗಳು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್-ಭರಿತ ರಕ್ತವನ್ನು ಸಾಗಿಸುತ್ತವೆ."
     }
   },
@@ -107,7 +173,7 @@
     "difficulty": 1,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M150 40 C100 -10, 30 50, 150 170 C270 50, 200 -10, 150 40 Z' fill='#DC2626' stroke='#1F2937' stroke-width='2'/><path d='M150 40 L150 170' stroke='#1F2937' stroke-width='2' stroke-dasharray='5,5'/><text x='110' y='100' font-family='Arial, sans-serif' font-size='14' fill='#1F2937'>Right</text><text x='190' y='100' font-family='Arial, sans-serif' font-size='14' fill='#1F2937'>Left</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M150 40 C100 -10, 30 50, 150 170 C270 50, 200 -10, 150 40 Z' fill='#DC2626' stroke='#1F2937' stroke-width='2'/><path d='M150 40 L150 170' stroke='#1F2937' stroke-width='2' stroke-dasharray='5,5'/><text x='110' y='100' font-family='Arial, sans-serif' font-size='14' fill='#1F2937'>Right</text><text x='190' y='100' font-family='Arial, sans-serif' font-size='14' fill='#1F2937'>Left</text></svg>",
       "alt": {
         "en": "Diagram showing the left and right sides of the heart",
         "kn": "ಹೃದಯದ ಎಡ ಮತ್ತು ಬಲ ಭಾಗಗಳನ್ನು ತೋರಿಸುವ ರೇಖಾಚಿತ್ರ"
@@ -115,13 +181,23 @@
     },
     "en": {
       "question": "Why is the heart divided into left and right halves?",
-      "options": ["To pump blood faster", "To separate oxygenated and deoxygenated blood", "To store extra blood", "To connect with the lungs"],
+      "options": [
+        "To pump blood faster",
+        "To separate oxygenated and deoxygenated blood",
+        "To store extra blood",
+        "To connect with the lungs"
+      ],
       "answer": "To separate oxygenated and deoxygenated blood",
       "reasoning": "The partition between the chambers helps to avoid mixing up of blood rich in oxygen with the blood rich in carbon dioxide."
     },
     "kn": {
       "question": "ಹೃದಯವನ್ನು ಎಡ ಮತ್ತು ಬಲ ಭಾಗಗಳಾಗಿ ಏಕೆ ವಿಂಗಡಿಸಲಾಗಿದೆ?",
-      "options": ["ರಕ್ತವನ್ನು ವೇಗವಾಗಿ ಪಂಪ್ ಮಾಡಲು", "ಆಮ್ಲಜನಕಯುಕ್ತ ಮತ್ತು ಆಮ್ಲಜನಕರಹಿತ ರಕ್ತವನ್ನು ಬೇರ್ಪಡಿಸಲು", "ಹೆಚ್ಚುವರಿ ರಕ್ತವನ್ನು ಸಂಗ್ರಹಿಸಲು", "ಶ್ವಾಸಕೋಶದೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧಿಸಲು"],
+      "options": [
+        "ರಕ್ತವನ್ನು ವೇಗವಾಗಿ ಪಂಪ್ ಮಾಡಲು",
+        "ಆಮ್ಲಜನಕಯುಕ್ತ ಮತ್ತು ಆಮ್ಲಜನಕರಹಿತ ರಕ್ತವನ್ನು ಬೇರ್ಪಡಿಸಲು",
+        "ಹೆಚ್ಚುವರಿ ರಕ್ತವನ್ನು ಸಂಗ್ರಹಿಸಲು",
+        "ಶ್ವಾಸಕೋಶದೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧಿಸಲು"
+      ],
       "answer": "ಆಮ್ಲಜನಕಯುಕ್ತ ಮತ್ತು ಆಮ್ಲಜನಕರಹಿತ ರಕ್ತವನ್ನು ಬೇರ್ಪಡಿಸಲು",
       "reasoning": "ಕೋಣೆಗಳ ನಡುವಿನ ವಿಭಜನೆಯು ಆಮ್ಲಜನಕ-ಭರಿತ ರಕ್ತ ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್-ಭರಿತ ರಕ್ತದ ಮಿಶ್ರಣವನ್ನು ತಡೆಯಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
     }
@@ -132,13 +208,23 @@
     "difficulty": 1,
     "en": {
       "question": "What is the throbbing sensation felt when you place your finger on your wrist called?",
-      "options": ["Heartbeat", "Pulse", "Blood pressure", "Respiration"],
+      "options": [
+        "Heartbeat",
+        "Pulse",
+        "Blood pressure",
+        "Respiration"
+      ],
       "answer": "Pulse",
       "reasoning": "This throbbing is called the pulse, and it is due to the blood flowing in the arteries."
     },
     "kn": {
       "question": "ನಿಮ್ಮ ಮಣಿಕಟ್ಟಿನ ಮೇಲೆ ಬೆರಳು ಇಟ್ಟಾಗ ಅನುಭವಿಸುವ ಬಡಿತವನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
-      "options": ["ಹೃದಯಬಡಿತ", "ನಾಡಿಬಡಿತ", "ರಕ್ತದೊತ್ತಡ", "ಉಸಿರಾಟ"],
+      "options": [
+        "ಹೃದಯಬಡಿತ",
+        "ನಾಡಿಬಡಿತ",
+        "ರಕ್ತದೊತ್ತಡ",
+        "ಉಸಿರಾಟ"
+      ],
       "answer": "ನಾಡಿಬಡಿತ",
       "reasoning": "ಈ ಬಡಿತವನ್ನು ನಾಡಿಬಡಿತ (Pulse) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಅಪಧಮನಿಗಳಲ್ಲಿ ಹರಿಯುವ ರಕ್ತದಿಂದಾಗಿ ಇದು ಉಂಟಾಗುತ್ತದೆ."
     }
@@ -150,20 +236,44 @@
     "en": {
       "question": "Match the following components of blood with their functions:",
       "pairs": [
-        { "left": "Red Blood Cells", "right": "Carry oxygen" },
-        { "left": "White Blood Cells", "right": "Fight infection" },
-        { "left": "Platelets", "right": "Clotting of blood" },
-        { "left": "Plasma", "right": "Liquid part of blood" }
+        {
+          "left": "Red Blood Cells",
+          "right": "Carry oxygen"
+        },
+        {
+          "left": "White Blood Cells",
+          "right": "Fight infection"
+        },
+        {
+          "left": "Platelets",
+          "right": "Clotting of blood"
+        },
+        {
+          "left": "Plasma",
+          "right": "Liquid part of blood"
+        }
       ],
       "reasoning": "RBCs contain haemoglobin to carry oxygen. WBCs fight germs. Platelets form clots. Plasma is the fluid part."
     },
     "kn": {
       "question": "ರಕ್ತದ ಈ ಕೆಳಗಿನ ಘಟಕಗಳನ್ನು ಅವುಗಳ ಕಾರ್ಯಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
       "pairs": [
-        { "left": "ಕೆಂಪು ರಕ್ತ ಕಣಗಳು", "right": "ಆಮ್ಲಜನಕವನ್ನು ಸಾಗಿಸುತ್ತವೆ" },
-        { "left": "ಬಿಳಿ ರಕ್ತ ಕಣಗಳು", "right": "ಸೋಂಕಿನ ವಿರುದ್ಧ ಹೋರಾಡುತ್ತವೆ" },
-        { "left": "ಕಿರುತಟ್ಟೆಗಳು", "right": "ರಕ್ತ ಹೆಪ್ಪುಗಟ್ಟುವಿಕೆ" },
-        { "left": "ಪ್ಲಾಸ್ಮಾ", "right": "ರಕ್ತದ ದ್ರವ ಭಾಗ" }
+        {
+          "left": "ಕೆಂಪು ರಕ್ತ ಕಣಗಳು",
+          "right": "ಆಮ್ಲಜನಕವನ್ನು ಸಾಗಿಸುತ್ತವೆ"
+        },
+        {
+          "left": "ಬಿಳಿ ರಕ್ತ ಕಣಗಳು",
+          "right": "ಸೋಂಕಿನ ವಿರುದ್ಧ ಹೋರಾಡುತ್ತವೆ"
+        },
+        {
+          "left": "ಕಿರುತಟ್ಟೆಗಳು",
+          "right": "ರಕ್ತ ಹೆಪ್ಪುಗಟ್ಟುವಿಕೆ"
+        },
+        {
+          "left": "ಪ್ಲಾಸ್ಮಾ",
+          "right": "ರಕ್ತದ ದ್ರವ ಭಾಗ"
+        }
       ],
       "reasoning": "RBC ಗಳು ಆಮ್ಲಜನಕ ಸಾಗಿಸಲು ಹಿಮೋಗ್ಲೋಬಿನ್ ಹೊಂದಿವೆ. WBC ಗಳು ರೋಗಾಣುಗಳ ವಿರುದ್ಧ ಹೋರಾಡುತ್ತವೆ. ಕಿರುತಟ್ಟೆಗಳು ರಕ್ತ ಹೆಪ್ಪುಗಟ್ಟಿಸುತ್ತವೆ. ಪ್ಲಾಸ್ಮಾ ರಕ್ತದ ದ್ರವ ರೂಪ."
     }
@@ -174,13 +284,23 @@
     "difficulty": 1,
     "en": {
       "question": "What is the normal resting pulse rate of an adult person?",
-      "options": ["72 to 80 beats per minute", "60 to 70 beats per minute", "80 to 100 beats per minute", "50 to 60 beats per minute"],
+      "options": [
+        "72 to 80 beats per minute",
+        "60 to 70 beats per minute",
+        "80 to 100 beats per minute",
+        "50 to 60 beats per minute"
+      ],
       "answer": "72 to 80 beats per minute",
       "reasoning": "A resting person usually has a pulse rate between 72 and 80 beats per minute."
     },
     "kn": {
       "question": "ವಯಸ್ಕ ವ್ಯಕ್ತಿಯ ಸಾಮಾನ್ಯ ವಿಶ್ರಾಂತಿ ನಾಡಿಬಡಿತ ದರ ಎಷ್ಟು?",
-      "options": ["ನಿಮಿಷಕ್ಕೆ 72 ರಿಂದ 80 ಬಡಿತಗಳು", "ನಿಮಿಷಕ್ಕೆ 60 ರಿಂದ 70 ಬಡಿತಗಳು", "ನಿಮಿಷಕ್ಕೆ 80 ರಿಂದ 100 ಬಡಿತಗಳು", "ನಿಮಿಷಕ್ಕೆ 50 ರಿಂದ 60 ಬಡಿತಗಳು"],
+      "options": [
+        "ನಿಮಿಷಕ್ಕೆ 72 ರಿಂದ 80 ಬಡಿತಗಳು",
+        "ನಿಮಿಷಕ್ಕೆ 60 ರಿಂದ 70 ಬಡಿತಗಳು",
+        "ನಿಮಿಷಕ್ಕೆ 80 ರಿಂದ 100 ಬಡಿತಗಳು",
+        "ನಿಮಿಷಕ್ಕೆ 50 ರಿಂದ 60 ಬಡಿತಗಳು"
+      ],
       "answer": "ನಿಮಿಷಕ್ಕೆ 72 ರಿಂದ 80 ಬಡಿತಗಳು",
       "reasoning": "ವಿಶ್ರಾಂತಿ ಪಡೆಯುತ್ತಿರುವ ವ್ಯಕ್ತಿಯು ಸಾಮಾನ್ಯವಾಗಿ ನಿಮಿಷಕ್ಕೆ 72 ರಿಂದ 80 ಬಡಿತಗಳ ನಾಡಿಬಡಿತ ದರವನ್ನು ಹೊಂದಿರುತ್ತಾನೆ."
     }
@@ -191,13 +311,23 @@
     "difficulty": 2,
     "en": {
       "question": "Which blood vessels have thick elastic walls?",
-      "options": ["Veins", "Arteries", "Capillaries", "Valves"],
+      "options": [
+        "Veins",
+        "Arteries",
+        "Capillaries",
+        "Valves"
+      ],
       "answer": "Arteries",
       "reasoning": "Arteries carry blood directly from the heart at high pressure, so they have thick elastic walls to withstand this pressure."
     },
     "kn": {
       "question": "ಯಾವ ರಕ್ತನಾಳಗಳು ದಪ್ಪನಾದ ಸ್ಥಿತಿಸ್ಥಾಪಕ ಗೋಡೆಗಳನ್ನು ಹೊಂದಿವೆ?",
-      "options": ["ಅಭಿಧಮನಿಗಳು", "ಅಪಧಮನಿಗಳು", "ಲೋಮನಾಳಗಳು", "ಕವಾಟಗಳು"],
+      "options": [
+        "ಅಭಿಧಮನಿಗಳು",
+        "ಅಪಧಮನಿಗಳು",
+        "ಲೋಮನಾಳಗಳು",
+        "ಕವಾಟಗಳು"
+      ],
       "answer": "ಅಪಧಮನಿಗಳು",
       "reasoning": "ಅಪಧಮನಿಗಳು ಹೃದಯದಿಂದ ಹೆಚ್ಚಿನ ಒತ್ತಡದಲ್ಲಿ ರಕ್ತವನ್ನು ಸಾಗಿಸುತ್ತವೆ, ಆದ್ದರಿಂದ ಈ ಒತ್ತಡವನ್ನು ತಡೆದುಕೊಳ್ಳಲು ಅವು ದಪ್ಪನಾದ ಸ್ಥಿತಿಸ್ಥಾಪಕ ಗೋಡೆಗಳನ್ನು ಹೊಂದಿವೆ."
     }
@@ -208,13 +338,23 @@
     "difficulty": 2,
     "en": {
       "question": "Why do veins have valves in them?",
-      "options": ["To pump blood faster", "To carry more oxygen", "To prevent the backflow of blood", "To absorb nutrients"],
+      "options": [
+        "To pump blood faster",
+        "To carry more oxygen",
+        "To prevent the backflow of blood",
+        "To absorb nutrients"
+      ],
       "answer": "To prevent the backflow of blood",
       "reasoning": "Veins carry blood back to the heart under lower pressure. Valves ensure that blood flows only in one direction—towards the heart."
     },
     "kn": {
       "question": "ಅಭಿಧಮನಿಗಳಲ್ಲಿ ಕವಾಟಗಳು ಏಕೆ ಇರುತ್ತವೆ?",
-      "options": ["ರಕ್ತವನ್ನು ವೇಗವಾಗಿ ಪಂಪ್ ಮಾಡಲು", "ಹೆಚ್ಚು ಆಮ್ಲಜನಕವನ್ನು ಸಾಗಿಸಲು", "ರಕ್ತವು ಹಿಂದಕ್ಕೆ ಹರಿಯುವುದನ್ನು ತಡೆಯಲು", "ಪೋಷಕಾಂಶಗಳನ್ನು ಹೀರಿಕೊಳ್ಳಲು"],
+      "options": [
+        "ರಕ್ತವನ್ನು ವೇಗವಾಗಿ ಪಂಪ್ ಮಾಡಲು",
+        "ಹೆಚ್ಚು ಆಮ್ಲಜನಕವನ್ನು ಸಾಗಿಸಲು",
+        "ರಕ್ತವು ಹಿಂದಕ್ಕೆ ಹರಿಯುವುದನ್ನು ತಡೆಯಲು",
+        "ಪೋಷಕಾಂಶಗಳನ್ನು ಹೀರಿಕೊಳ್ಳಲು"
+      ],
       "answer": "ರಕ್ತವು ಹಿಂದಕ್ಕೆ ಹರಿಯುವುದನ್ನು ತಡೆಯಲು",
       "reasoning": "ಅಭಿಧಮನಿಗಳು ಕಡಿಮೆ ಒತ್ತಡದಲ್ಲಿ ರಕ್ತವನ್ನು ಹೃದಯಕ್ಕೆ ಹಿಂತಿರುಗಿಸುತ್ತವೆ. ರಕ್ತವು ಹೃದಯದ ಕಡೆಗೆ ಒಂದೇ ದಿಕ್ಕಿನಲ್ಲಿ ಹರಿಯುವುದನ್ನು ಕವಾಟಗಳು ಖಚಿತಪಡಿಸುತ್ತವೆ."
     }
@@ -225,13 +365,23 @@
     "difficulty": 2,
     "en": {
       "question": "What are the extremely thin blood vessels that connect arteries and veins called?",
-      "options": ["Valves", "Aorta", "Capillaries", "Ventricles"],
+      "options": [
+        "Valves",
+        "Aorta",
+        "Capillaries",
+        "Ventricles"
+      ],
       "answer": "Capillaries",
       "reasoning": "On reaching the tissues, arteries divide into extremely thin tubes called capillaries, which later join to form veins."
     },
     "kn": {
       "question": "ಅಪಧಮನಿಗಳು ಮತ್ತು ಅಭಿಧಮನಿಗಳನ್ನು ಸಂಪರ್ಕಿಸುವ ಅತ್ಯಂತ ತೆಳುವಾದ ರಕ್ತನಾಳಗಳನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
-      "options": ["ಕವಾಟಗಳು", "ಮಹಾಪಧಮನಿ", "ಲೋಮನಾಳಗಳು (Capillaries)", "ಕುಕ್ಷಿಗಳು (Ventricles)"],
+      "options": [
+        "ಕವಾಟಗಳು",
+        "ಮಹಾಪಧಮನಿ",
+        "ಲೋಮನಾಳಗಳು (Capillaries)",
+        "ಕುಕ್ಷಿಗಳು (Ventricles)"
+      ],
       "answer": "ಲೋಮನಾಳಗಳು (Capillaries)",
       "reasoning": "ಅಂಗಾಂಶಗಳನ್ನು ತಲುಪಿದಾಗ, ಅಪಧಮನಿಗಳು ಲೋಮನಾಳಗಳು ಎಂಬ ಅತ್ಯಂತ ತೆಳುವಾದ ಕೊಳವೆಗಳಾಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತವೆ, ಇವು ನಂತರ ಸೇರಿ ಅಭಿಧಮನಿಗಳನ್ನು ರೂಪಿಸುತ್ತವೆ."
     }
@@ -242,14 +392,30 @@
     "difficulty": 2,
     "en": {
       "question": "Which of the following are chambers of the human heart?",
-      "options": ["Atria", "Ventricles", "Aorta", "Pulmonary vein"],
-      "answer": ["Atria", "Ventricles"],
+      "options": [
+        "Atria",
+        "Ventricles",
+        "Aorta",
+        "Pulmonary vein"
+      ],
+      "answer": [
+        "Atria",
+        "Ventricles"
+      ],
       "reasoning": "The heart has four chambers: two upper chambers called atria (singular: atrium) and two lower chambers called ventricles."
     },
     "kn": {
       "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಮಾನವನ ಹೃದಯದ ಕೋಣೆಗಳಾಗಿವೆ?",
-      "options": ["ಕರ್ಣಗಳು (Atria)", "ಕುಕ್ಷಿಗಳು (Ventricles)", "ಮಹಾಪಧಮನಿ", "ಶ್ವಾಸಕೋಶದ ಅಭಿಧಮನಿ"],
-      "answer": ["ಕರ್ಣಗಳು (Atria)", "ಕುಕ್ಷಿಗಳು (Ventricles)"],
+      "options": [
+        "ಕರ್ಣಗಳು (Atria)",
+        "ಕುಕ್ಷಿಗಳು (Ventricles)",
+        "ಮಹಾಪಧಮನಿ",
+        "ಶ್ವಾಸಕೋಶದ ಅಭಿಧಮನಿ"
+      ],
+      "answer": [
+        "ಕರ್ಣಗಳು (Atria)",
+        "ಕುಕ್ಷಿಗಳು (Ventricles)"
+      ],
       "reasoning": "ಹೃದಯವು ನಾಲ್ಕು ಕೋಣೆಗಳನ್ನು ಹೊಂದಿದೆ: ಮೇಲಿನ ಎರಡು ಕೋಣೆಗಳನ್ನು ಕರ್ಣಗಳು ಎಂದು ಮತ್ತು ಕೆಳಗಿನ ಎರಡು ಕೋಣೆಗಳನ್ನು ಕುಕ್ಷಿಗಳು ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
     }
   },
@@ -259,7 +425,7 @@
     "difficulty": 2,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M100 50 C120 10, 180 10, 200 50 C230 100, 150 180, 150 180 C150 180, 70 100, 100 50 Z' fill='none' stroke='#2563EB' stroke-width='2'/><path d='M150 20 L150 160' stroke='#DC2626' stroke-width='1.5'/><line x1='100' y1='100' x2='200' y2='100' stroke='#DC2626' stroke-width='1.5'/><text x='125' y='60' font-family='Arial' font-size='12' text-anchor='middle'>Right Atrium</text><text x='175' y='60' font-family='Arial' font-size='12' text-anchor='middle'>Left Atrium</text><text x='125' y='140' font-family='Arial' font-size='12' text-anchor='middle'>Right Ventricle</text><text x='175' y='140' font-family='Arial' font-size='12' text-anchor='middle'>Left Ventricle</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M100 50 C120 10, 180 10, 200 50 C230 100, 150 180, 150 180 C150 180, 70 100, 100 50 Z' fill='none' stroke='#2563EB' stroke-width='2'/><path d='M150 20 L150 160' stroke='#DC2626' stroke-width='1.5'/><line x1='100' y1='100' x2='200' y2='100' stroke='#DC2626' stroke-width='1.5'/><text x='125' y='60' font-family='Arial' font-size='12' text-anchor='middle'>Right Atrium</text><text x='175' y='60' font-family='Arial' font-size='12' text-anchor='middle'>Left Atrium</text><text x='125' y='140' font-family='Arial' font-size='12' text-anchor='middle'>Right Ventricle</text><text x='175' y='140' font-family='Arial' font-size='12' text-anchor='middle'>Left Ventricle</text></svg>",
       "alt": {
         "en": "Diagram showing the four chambers of the human heart",
         "kn": "ಮಾನವ ಹೃದಯದ ನಾಲ್ಕು ಕೋಣೆಗಳನ್ನು ತೋರಿಸುವ ರೇಖಾಚಿತ್ರ"
@@ -267,13 +433,23 @@
     },
     "en": {
       "question": "Which chambers are present at the top portion of the heart?",
-      "options": ["Ventricles", "Atria", "Aorta", "Septum"],
+      "options": [
+        "Ventricles",
+        "Atria",
+        "Aorta",
+        "Septum"
+      ],
       "answer": "Atria",
       "reasoning": "The two upper chambers of the heart are called the atria (singular: atrium)."
     },
     "kn": {
       "question": "ಹೃದಯದ ಮೇಲಿನ ಭಾಗದಲ್ಲಿರುವ ಕೋಣೆಗಳು ಯಾವುವು?",
-      "options": ["ಕುಕ್ಷಿಗಳು", "ಕರ್ಣಗಳು", "ಮಹಾಪಧಮನಿ", "ಸೆಪ್ಟಮ್"],
+      "options": [
+        "ಕುಕ್ಷಿಗಳು",
+        "ಕರ್ಣಗಳು",
+        "ಮಹಾಪಧಮನಿ",
+        "ಸೆಪ್ಟಮ್"
+      ],
       "answer": "ಕರ್ಣಗಳು",
       "reasoning": "ಹೃದಯದ ಮೇಲಿನ ಎರಡು ಕೋಣೆಗಳನ್ನು ಕರ್ಣಗಳು (ಅಟ್ರಿಯಾ) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
     }
@@ -284,7 +460,7 @@
     "difficulty": 2,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><circle cx='150' cy='60' r='15' fill='none' stroke='#1F2937' stroke-width='2'/><path d='M150 75 C120 120, 100 150, 100 180' fill='none' stroke='#2563EB' stroke-width='3'/><path d='M150 75 C180 120, 200 150, 200 180' fill='none' stroke='#2563EB' stroke-width='3'/><circle cx='100' cy='185' r='5' fill='#DC2626'/><circle cx='200' cy='185' r='5' fill='#DC2626'/></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><circle cx='150' cy='60' r='15' fill='none' stroke='#1F2937' stroke-width='2'/><path d='M150 75 C120 120, 100 150, 100 180' fill='none' stroke='#2563EB' stroke-width='3'/><path d='M150 75 C180 120, 200 150, 200 180' fill='none' stroke='#2563EB' stroke-width='3'/><circle cx='100' cy='185' r='5' fill='#DC2626'/><circle cx='200' cy='185' r='5' fill='#DC2626'/></svg>",
       "alt": {
         "en": "Diagram of a stethoscope showing chest piece and ear pieces",
         "kn": "ಎದೆಯ ತುಣುಕು ಮತ್ತು ಕಿವಿಯ ತುಣುಕುಗಳನ್ನು ತೋರಿಸುವ ಸ್ಟೆತೊಸ್ಕೋಪ್ ರೇಖಾಚಿತ್ರ"
@@ -292,13 +468,23 @@
     },
     "en": {
       "question": "What is the purpose of the device shown in the image?",
-      "options": ["To measure body temperature", "To amplify the sound of the heart", "To check blood pressure", "To measure breathing rate"],
+      "options": [
+        "To measure body temperature",
+        "To amplify the sound of the heart",
+        "To check blood pressure",
+        "To measure breathing rate"
+      ],
       "answer": "To amplify the sound of the heart",
       "reasoning": "A stethoscope is used by doctors to amplify the sound of the heart to check for the condition of the heart."
     },
     "kn": {
       "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಸಾಧನದ ಉದ್ದೇಶವೇನು?",
-      "options": ["ದೇಹದ ಉಷ್ಣತೆಯನ್ನು ಅಳೆಯಲು", "ಹೃದಯದ ಧ್ವನಿಯನ್ನು ವರ್ಧಿಸಲು", "ರಕ್ತದೊತ್ತಡವನ್ನು ಪರೀಕ್ಷಿಸಲು", "ಉಸಿರಾಟದ ದರವನ್ನು ಅಳೆಯಲು"],
+      "options": [
+        "ದೇಹದ ಉಷ್ಣತೆಯನ್ನು ಅಳೆಯಲು",
+        "ಹೃದಯದ ಧ್ವನಿಯನ್ನು ವರ್ಧಿಸಲು",
+        "ರಕ್ತದೊತ್ತಡವನ್ನು ಪರೀಕ್ಷಿಸಲು",
+        "ಉಸಿರಾಟದ ದರವನ್ನು ಅಳೆಯಲು"
+      ],
       "answer": "ಹೃದಯದ ಧ್ವನಿಯನ್ನು ವರ್ಧಿಸಲು",
       "reasoning": "ಸ್ಟೆತೊಸ್ಕೋಪ್ (Stethoscope) ಅನ್ನು ವೈದ್ಯರು ಹೃದಯದ ಸ್ಥಿತಿಯನ್ನು ಪರೀಕ್ಷಿಸಲು, ಹೃದಯದ ಧ್ವನಿಯನ್ನು ವರ್ಧಿಸಲು ಬಳಸುತ್ತಾರೆ."
     }
@@ -310,20 +496,44 @@
     "en": {
       "question": "Match the excretory organs/parts with their primary functions:",
       "pairs": [
-        { "left": "Kidneys", "right": "Filter waste from blood" },
-        { "left": "Ureters", "right": "Carry urine to bladder" },
-        { "left": "Urinary Bladder", "right": "Store urine" },
-        { "left": "Urethra", "right": "Expel urine from body" }
+        {
+          "left": "Kidneys",
+          "right": "Filter waste from blood"
+        },
+        {
+          "left": "Ureters",
+          "right": "Carry urine to bladder"
+        },
+        {
+          "left": "Urinary Bladder",
+          "right": "Store urine"
+        },
+        {
+          "left": "Urethra",
+          "right": "Expel urine from body"
+        }
       ],
       "reasoning": "Kidneys filter blood to produce urine, ureters carry it to the bladder, which stores it until it is passed out through the urethra."
     },
     "kn": {
       "question": "ವಿಸರ್ಜನಾ ಅಂಗಗಳು/ಭಾಗಗಳನ್ನು ಅವುಗಳ ಪ್ರಾಥಮಿಕ ಕಾರ್ಯಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
       "pairs": [
-        { "left": "ಮೂತ್ರಪಿಂಡಗಳು", "right": "ರಕ್ತದಿಂದ ತ್ಯಾಜ್ಯವನ್ನು ಫಿಲ್ಟರ್ ಮಾಡುತ್ತವೆ" },
-        { "left": "ಮೂತ್ರನಾಳಗಳು (Ureters)", "right": "ಮೂತ್ರಕೋಶಕ್ಕೆ ಮೂತ್ರವನ್ನು ಒಯ್ಯುತ್ತವೆ" },
-        { "left": "ಮೂತ್ರಕೋಶ", "right": "ಮೂತ್ರವನ್ನು ಸಂಗ್ರಹಿಸುತ್ತದೆ" },
-        { "left": "ಮೂತ್ರದ್ವಾರ (Urethra)", "right": "ಮೂತ್ರವನ್ನು ದೇಹದಿಂದ ಹೊರಹಾಕುತ್ತದೆ" }
+        {
+          "left": "ಮೂತ್ರಪಿಂಡಗಳು",
+          "right": "ರಕ್ತದಿಂದ ತ್ಯಾಜ್ಯವನ್ನು ಫಿಲ್ಟರ್ ಮಾಡುತ್ತವೆ"
+        },
+        {
+          "left": "ಮೂತ್ರನಾಳಗಳು (Ureters)",
+          "right": "ಮೂತ್ರಕೋಶಕ್ಕೆ ಮೂತ್ರವನ್ನು ಒಯ್ಯುತ್ತವೆ"
+        },
+        {
+          "left": "ಮೂತ್ರಕೋಶ",
+          "right": "ಮೂತ್ರವನ್ನು ಸಂಗ್ರಹಿಸುತ್ತದೆ"
+        },
+        {
+          "left": "ಮೂತ್ರದ್ವಾರ (Urethra)",
+          "right": "ಮೂತ್ರವನ್ನು ದೇಹದಿಂದ ಹೊರಹಾಕುತ್ತದೆ"
+        }
       ],
       "reasoning": "ಮೂತ್ರಪಿಂಡಗಳು ರಕ್ತವನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಿ ಮೂತ್ರವನ್ನು ಉತ್ಪಾದಿಸುತ್ತವೆ, ಮೂತ್ರನಾಳಗಳು ಅದನ್ನು ಮೂತ್ರಕೋಶಕ್ಕೆ ಸಾಗಿಸುತ್ತವೆ, ಮೂತ್ರದ್ವಾರದ ಮೂಲಕ ಹೊರಹಾಕುವವರೆಗೆ ಅದು ಮೂತ್ರಕೋಶದಲ್ಲಿ ಸಂಗ್ರಹವಾಗುತ್ತದೆ."
     }
@@ -334,13 +544,23 @@
     "difficulty": 2,
     "en": {
       "question": "What is the primary waste product excreted in human urine?",
-      "options": ["Uric acid", "Ammonia", "Urea", "Carbon dioxide"],
+      "options": [
+        "Uric acid",
+        "Ammonia",
+        "Urea",
+        "Carbon dioxide"
+      ],
       "answer": "Urea",
       "reasoning": "Human urine primarily consists of water (95%), urea (2.5%), and other waste products (2.5%). Aquatic animals excrete ammonia, while birds and reptiles excrete uric acid."
     },
     "kn": {
       "question": "ಮಾನವನ ಮೂತ್ರದಲ್ಲಿ ವಿಸರ್ಜಿಸಲ್ಪಡುವ ಪ್ರಾಥಮಿಕ ತ್ಯಾಜ್ಯ ವಸ್ತು ಯಾವುದು?",
-      "options": ["ಯೂರಿಕ್ ಆಮ್ಲ", "ಅಮೋನಿಯಾ", "ಯೂರಿಯಾ", "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"],
+      "options": [
+        "ಯೂರಿಕ್ ಆಮ್ಲ",
+        "ಅಮೋನಿಯಾ",
+        "ಯೂರಿಯಾ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್"
+      ],
       "answer": "ಯೂರಿಯಾ",
       "reasoning": "ಮಾನವನ ಮೂತ್ರವು ಮುಖ್ಯವಾಗಿ ನೀರು (95%), ಯೂರಿಯಾ (2.5%) ಮತ್ತು ಇತರ ತ್ಯಾಜ್ಯಗಳನ್ನು (2.5%) ಒಳಗೊಂಡಿರುತ್ತದೆ."
     }
@@ -351,13 +571,23 @@
     "difficulty": 2,
     "en": {
       "question": "Why do we sweat on a hot summer day?",
-      "options": ["To remove excess water only", "To cool our body", "To excrete proteins", "To absorb sunlight"],
+      "options": [
+        "To remove excess water only",
+        "To cool our body",
+        "To excrete proteins",
+        "To absorb sunlight"
+      ],
       "answer": "To cool our body",
       "reasoning": "Sweating helps to cool our body because the water in sweat evaporates, taking away body heat. It also helps excrete salts."
     },
     "kn": {
       "question": "ಬೇಸಿಗೆಯ ಬಿಸಿಲಿನಲ್ಲಿ ನಮಗೆ ಏಕೆ ಬೆವರು ಬರುತ್ತದೆ?",
-      "options": ["ಹೆಚ್ಚುವರಿ ನೀರನ್ನು ಮಾತ್ರ ತೆಗೆದುಹಾಕಲು", "ನಮ್ಮ ದೇಹವನ್ನು ತಂಪಾಗಿಸಲು", "ಪ್ರೋಟೀನ್‌ಗಳನ್ನು ವಿಸರ್ಜಿಸಲು", "ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಹೀರಿಕೊಳ್ಳಲು"],
+      "options": [
+        "ಹೆಚ್ಚುವರಿ ನೀರನ್ನು ಮಾತ್ರ ತೆಗೆದುಹಾಕಲು",
+        "ನಮ್ಮ ದೇಹವನ್ನು ತಂಪಾಗಿಸಲು",
+        "ಪ್ರೋಟೀನ್‌ಗಳನ್ನು ವಿಸರ್ಜಿಸಲು",
+        "ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಹೀರಿಕೊಳ್ಳಲು"
+      ],
       "answer": "ನಮ್ಮ ದೇಹವನ್ನು ತಂಪಾಗಿಸಲು",
       "reasoning": "ಬೆವರಿನಲ್ಲಿರುವ ನೀರು ಆವಿಯಾದಾಗ ದೇಹದ ಶಾಖವನ್ನು ತೆಗೆದುಕೊಂಡು ಹೋಗುತ್ತದೆ, ಇದು ನಮ್ಮ ದೇಹವನ್ನು ತಂಪಾಗಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
     }
@@ -368,13 +598,23 @@
     "difficulty": 2,
     "en": {
       "question": "Which vascular tissue transports water and nutrients from roots to leaves in plants?",
-      "options": ["Phloem", "Xylem", "Stomata", "Root hair"],
+      "options": [
+        "Phloem",
+        "Xylem",
+        "Stomata",
+        "Root hair"
+      ],
       "answer": "Xylem",
       "reasoning": "The vascular tissue for the transport of water and nutrients in plants is called xylem."
     },
     "kn": {
       "question": "ಸಸ್ಯಗಳಲ್ಲಿ ಬೇರುಗಳಿಂದ ಎಲೆಗಳಿಗೆ ನೀರು ಮತ್ತು ಪೋಷಕಾಂಶಗಳನ್ನು ಸಾಗಿಸುವ ನಾಳಾಂಶ (vascular tissue) ಯಾವುದು?",
-      "options": ["ಫ್ಲೋಯೆಮ್", "ಕ್ಸೈಲಮ್", "ಸ್ಟೊಮಾಟಾ", "ಬೇರಿನ ಕೂದಲು (Root hair)"],
+      "options": [
+        "ಫ್ಲೋಯೆಮ್",
+        "ಕ್ಸೈಲಮ್",
+        "ಸ್ಟೊಮಾಟಾ",
+        "ಬೇರಿನ ಕೂದಲು (Root hair)"
+      ],
       "answer": "ಕ್ಸೈಲಮ್",
       "reasoning": "ಸಸ್ಯಗಳಲ್ಲಿ ನೀರು ಮತ್ತು ಪೋಷಕಾಂಶಗಳ ಸಾಗಣೆಗಾಗಿ ಇರುವ ನಾಳಾಂಶವನ್ನು ಕ್ಸೈಲಮ್ (Xylem) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
     }
@@ -385,13 +625,23 @@
     "difficulty": 3,
     "en": {
       "question": "Which vascular tissue transports food synthesised in leaves to all parts of the plant?",
-      "options": ["Xylem", "Phloem", "Epidermis", "Cambium"],
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Epidermis",
+        "Cambium"
+      ],
       "answer": "Phloem",
       "reasoning": "Food is synthesised in leaves and transported to all other parts of the plant by the vascular tissue called phloem."
     },
     "kn": {
       "question": "ಎಲೆಗಳಲ್ಲಿ ಸಂಶ್ಲೇಷಿಸಲ್ಪಟ್ಟ ಆಹಾರವನ್ನು ಸಸ್ಯದ ಎಲ್ಲಾ ಭಾಗಗಳಿಗೆ ಸಾಗಿಸುವ ನಾಳಾಂಶ ಯಾವುದು?",
-      "options": ["ಕ್ಸೈಲಮ್", "ಫ್ಲೋಯೆಮ್", "ಎಪಿಡರ್ಮಿಸ್", "ಕ್ಯಾಂಬಿಯಂ"],
+      "options": [
+        "ಕ್ಸೈಲಮ್",
+        "ಫ್ಲೋಯೆಮ್",
+        "ಎಪಿಡರ್ಮಿಸ್",
+        "ಕ್ಯಾಂಬಿಯಂ"
+      ],
       "answer": "ಫ್ಲೋಯೆಮ್",
       "reasoning": "ಆಹಾರವು ಎಲೆಗಳಲ್ಲಿ ಸಂಶ್ಲೇಷಿಸಲ್ಪಡುತ್ತದೆ ಮತ್ತು ಫ್ಲೋಯೆಮ್ (Phloem) ಎಂಬ ನಾಳಾಂಶದ ಮೂಲಕ ಸಸ್ಯದ ಎಲ್ಲಾ ಇತರ ಭಾಗಗಳಿಗೆ ಸಾಗಿಸಲ್ಪಡುತ್ತದೆ."
     }
@@ -402,14 +652,30 @@
     "difficulty": 3,
     "en": {
       "question": "Which of the following processes help in the upward movement of water in tall trees?",
-      "options": ["Transpiration pull", "Photosynthesis", "Root pressure", "Respiration"],
-      "answer": ["Transpiration pull", "Root pressure"],
+      "options": [
+        "Transpiration pull",
+        "Photosynthesis",
+        "Root pressure",
+        "Respiration"
+      ],
+      "answer": [
+        "Transpiration pull",
+        "Root pressure"
+      ],
       "reasoning": "Evaporation of water from leaves generates a suction pull (transpiration pull) which can pull water to great heights. Root pressure also contributes."
     },
     "kn": {
       "question": "ಎತ್ತರದ ಮರಗಳಲ್ಲಿ ನೀರಿನ ಮೇಲ್ಮುಖ ಚಲನೆಗೆ ಕೆಳಗಿನ ಯಾವ ಪ್ರಕ್ರಿಯೆಗಳು ಸಹಾಯ ಮಾಡುತ್ತವೆ?",
-      "options": ["ಬಾಷ್ಪವಿಸರ್ಜನೆಯ ಎಳೆತ (Transpiration pull)", "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ", "ಬೇರಿನ ಒತ್ತಡ", "ಉಸಿರಾಟ"],
-      "answer": ["ಬಾಷ್ಪವಿಸರ್ಜನೆಯ ಎಳೆತ (Transpiration pull)", "ಬೇರಿನ ಒತ್ತಡ"],
+      "options": [
+        "ಬಾಷ್ಪವಿಸರ್ಜನೆಯ ಎಳೆತ (Transpiration pull)",
+        "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ",
+        "ಬೇರಿನ ಒತ್ತಡ",
+        "ಉಸಿರಾಟ"
+      ],
+      "answer": [
+        "ಬಾಷ್ಪವಿಸರ್ಜನೆಯ ಎಳೆತ (Transpiration pull)",
+        "ಬೇರಿನ ಒತ್ತಡ"
+      ],
       "reasoning": "ಎಲೆಗಳಿಂದ ನೀರಿನ ಆವಿಯಾಗುವಿಕೆಯು ಒಂದು ಹೀರುವಿಕೆಯ ಎಳೆತವನ್ನು (ಬಾಷ್ಪವಿಸರ್ಜನೆಯ ಎಳೆತ) ಉಂಟುಮಾಡುತ್ತದೆ, ಇದು ನೀರನ್ನು ಹೆಚ್ಚಿನ ಎತ್ತರಕ್ಕೆ ಎಳೆಯಬಲ್ಲದು. ಬೇರಿನ ಒತ್ತಡವೂ ಸಹ ಇದಕ್ಕೆ ಕೊಡುಗೆ ನೀಡುತ್ತದೆ."
     }
   },
@@ -427,13 +693,23 @@
     },
     "en": {
       "question": "In a cross-section of a stem under a microscope, what is the function of the inner thick-walled circular structures (xylem)?",
-      "options": ["Storing food", "Transporting water and minerals", "Conducting photosynthesis", "Transporting prepared food"],
+      "options": [
+        "Storing food",
+        "Transporting water and minerals",
+        "Conducting photosynthesis",
+        "Transporting prepared food"
+      ],
       "answer": "Transporting water and minerals",
       "reasoning": "The thick-walled inner vessels are xylem, which form a continuous network of channels that connect roots to leaves through the stem, transporting water and minerals."
     },
     "kn": {
       "question": "ಸೂಕ್ಷ್ಮದರ್ಶಕದ ಅಡಿಯಲ್ಲಿ ಕಾಂಡದ ಅಡ್ಡ-ವಿಭಾಗದಲ್ಲಿ, ಒಳಭಾಗದ ದಪ್ಪ-ಗೋಡೆಯ ವೃತ್ತಾಕಾರದ ರಚನೆಗಳ (ಕ್ಸೈಲಮ್) ಕಾರ್ಯವೇನು?",
-      "options": ["ಆಹಾರವನ್ನು ಸಂಗ್ರಹಿಸುವುದು", "ನೀರು ಮತ್ತು ಖನಿಜಗಳನ್ನು ಸಾಗಿಸುವುದು", "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ನಡೆಸುವುದು", "ತಯಾರಿಸಿದ ಆಹಾರವನ್ನು ಸಾಗಿಸುವುದು"],
+      "options": [
+        "ಆಹಾರವನ್ನು ಸಂಗ್ರಹಿಸುವುದು",
+        "ನೀರು ಮತ್ತು ಖನಿಜಗಳನ್ನು ಸಾಗಿಸುವುದು",
+        "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ನಡೆಸುವುದು",
+        "ತಯಾರಿಸಿದ ಆಹಾರವನ್ನು ಸಾಗಿಸುವುದು"
+      ],
       "answer": "ನೀರು ಮತ್ತು ಖನಿಜಗಳನ್ನು ಸಾಗಿಸುವುದು",
       "reasoning": "ದಪ್ಪ-ಗೋಡೆಯ ಒಳಗಿನ ನಾಳಗಳು ಕ್ಸೈಲಮ್ ಆಗಿದ್ದು, ಇವು ಕಾಂಡದ ಮೂಲಕ ಬೇರುಗಳನ್ನು ಎಲೆಗಳಿಗೆ ಸಂಪರ್ಕಿಸುವ ನಿರಂತರ ಜಾಲವನ್ನು ರೂಪಿಸುತ್ತವೆ, ಮತ್ತು ನೀರು ಮತ್ತು ಖನಿಜಗಳನ್ನು ಸಾಗಿಸುತ್ತವೆ."
     }
@@ -445,20 +721,44 @@
     "en": {
       "question": "Match the organisms with their primary excretory products:",
       "pairs": [
-        { "left": "Humans", "right": "Urea" },
-        { "left": "Fishes", "right": "Ammonia" },
-        { "left": "Birds", "right": "Uric acid" },
-        { "left": "Lizards", "right": "Uric acid" }
+        {
+          "left": "Humans",
+          "right": "Urea"
+        },
+        {
+          "left": "Fishes",
+          "right": "Ammonia"
+        },
+        {
+          "left": "Birds",
+          "right": "Uric acid"
+        },
+        {
+          "left": "Lizards",
+          "right": "Uric acid"
+        }
       ],
       "reasoning": "Mammals excrete urea. Aquatic animals like fish excrete ammonia directly into water. Birds, insects, and reptiles excrete a semi-solid white compound called uric acid to save water."
     },
     "kn": {
       "question": "ಜೀವಿಗಳನ್ನು ಅವುಗಳ ಪ್ರಾಥಮಿಕ ವಿಸರ್ಜನಾ ಉತ್ಪನ್ನಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
       "pairs": [
-        { "left": "ಮಾನವರು", "right": "ಯೂರಿಯಾ" },
-        { "left": "ಮೀನುಗಳು", "right": "ಅಮೋನಿಯಾ" },
-        { "left": "ಪಕ್ಷಿಗಳು", "right": "ಯೂರಿಕ್ ಆಮ್ಲ" },
-        { "left": "ಹಲ್ಲಿಗಳು", "right": "ಯೂರಿಕ್ ಆಮ್ಲ" }
+        {
+          "left": "ಮಾನವರು",
+          "right": "ಯೂರಿಯಾ"
+        },
+        {
+          "left": "ಮೀನುಗಳು",
+          "right": "ಅಮೋನಿಯಾ"
+        },
+        {
+          "left": "ಪಕ್ಷಿಗಳು",
+          "right": "ಯೂರಿಕ್ ಆಮ್ಲ"
+        },
+        {
+          "left": "ಹಲ್ಲಿಗಳು",
+          "right": "ಯೂರಿಕ್ ಆಮ್ಲ"
+        }
       ],
       "reasoning": "ಸಸ್ತನಿಗಳು ಯೂರಿಯಾವನ್ನು ವಿಸರ್ಜಿಸುತ್ತವೆ. ಜಲಚರಗಳು ಅಮೋನಿಯಾವನ್ನು ನೇರವಾಗಿ ನೀರಿಗೆ ವಿಸರ್ಜಿಸುತ್ತವೆ. ಪಕ್ಷಿಗಳು, ಕೀಟಗಳು ಮತ್ತು ಸರೀಸೃಪಗಳು ನೀರನ್ನು ಉಳಿಸಲು ಯೂರಿಕ್ ಆಮ್ಲ ಎಂಬ ಅರೆ-ಘನ ಬಿಳಿ ಸಂಯುಕ್ತವನ್ನು ವಿಸರ್ಜಿಸುತ್ತವೆ."
     }
@@ -469,13 +769,23 @@
     "difficulty": 3,
     "en": {
       "question": "What is the procedure of periodically filtering blood through an artificial kidney called?",
-      "options": ["Transfusion", "Dialysis", "Filtration", "Respiration"],
+      "options": [
+        "Transfusion",
+        "Dialysis",
+        "Filtration",
+        "Respiration"
+      ],
       "answer": "Dialysis",
       "reasoning": "When a person's kidneys fail, their blood is periodically filtered using an artificial kidney machine. This process is called dialysis."
     },
     "kn": {
       "question": "ಕೃತಕ ಮೂತ್ರಪಿಂಡದ ಮೂಲಕ ನಿಯತಕಾಲಿಕವಾಗಿ ರಕ್ತವನ್ನು ಫಿಲ್ಟರ್ ಮಾಡುವ ವಿಧಾನವನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
-      "options": ["ರಕ್ತ ವರ್ಗಾವಣೆ", "ಡಯಾಲಿಸಿಸ್ (Dialysis)", "ಶೋಧನೆ", "ಉಸಿರಾಟ"],
+      "options": [
+        "ರಕ್ತ ವರ್ಗಾವಣೆ",
+        "ಡಯಾಲಿಸಿಸ್ (Dialysis)",
+        "ಶೋಧನೆ",
+        "ಉಸಿರಾಟ"
+      ],
       "answer": "ಡಯಾಲಿಸಿಸ್ (Dialysis)",
       "reasoning": "ವ್ಯಕ್ತಿಯ ಮೂತ್ರಪಿಂಡಗಳು ವಿಫಲವಾದಾಗ, ಕೃತಕ ಮೂತ್ರಪಿಂಡದ ಯಂತ್ರವನ್ನು ಬಳಸಿ ರಕ್ತವನ್ನು ನಿಯತಕಾಲಿಕವಾಗಿ ಫಿಲ್ಟರ್ ಮಾಡಲಾಗುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಡಯಾಲಿಸಿಸ್ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
     }
@@ -486,13 +796,23 @@
     "difficulty": 3,
     "en": {
       "question": "Which of the following organisms do NOT have a circulatory system with blood?",
-      "options": ["Frogs and Toads", "Snakes and Lizards", "Sponges and Hydra", "Humans and Dogs"],
+      "options": [
+        "Frogs and Toads",
+        "Snakes and Lizards",
+        "Sponges and Hydra",
+        "Humans and Dogs"
+      ],
       "answer": "Sponges and Hydra",
       "reasoning": "Simple organisms like sponges and hydra do not have blood. The water in which they live brings food and oxygen as it enters their bodies, and carries away waste as it leaves."
     },
     "kn": {
       "question": "ಕೆಳಗಿನ ಯಾವ ಜೀವಿಗಳು ರಕ್ತದೊಂದಿಗೆ ರಕ್ತಪರಿಚಲನಾ ವ್ಯವಸ್ಥೆಯನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ?",
-      "options": ["ಕಪ್ಪೆಗಳು", "ಹಾವುಗಳು ಮತ್ತು ಹಲ್ಲಿಗಳು", "ಸ್ಪಂಜುಗಳು ಮತ್ತು ಹೈಡ್ರಾ", "ಮಾನವರು ಮತ್ತು ನಾಯಿಗಳು"],
+      "options": [
+        "ಕಪ್ಪೆಗಳು",
+        "ಹಾವುಗಳು ಮತ್ತು ಹಲ್ಲಿಗಳು",
+        "ಸ್ಪಂಜುಗಳು ಮತ್ತು ಹೈಡ್ರಾ",
+        "ಮಾನವರು ಮತ್ತು ನಾಯಿಗಳು"
+      ],
       "answer": "ಸ್ಪಂಜುಗಳು ಮತ್ತು ಹೈಡ್ರಾ",
       "reasoning": "ಸ್ಪಂಜುಗಳು ಮತ್ತು ಹೈಡ್ರಾದಂತಹ ಸರಳ ಜೀವಿಗಳಿಗೆ ರಕ್ತವಿರುವುದಿಲ್ಲ. ಅವು ವಾಸಿಸುವ ನೀರು ದೇಹದೊಳಗೆ ಪ್ರವೇಶಿಸುವಾಗ ಆಹಾರ ಮತ್ತು ಆಮ್ಲಜನಕವನ್ನು ತರುತ್ತದೆ, ಮತ್ತು ಹೊರಹೋಗುವಾಗ ತ್ಯಾಜ್ಯವನ್ನು ಒಯ್ಯುತ್ತದೆ."
     }
@@ -503,7 +823,7 @@
     "difficulty": 3,
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M100 40 C120 40, 130 70, 130 90 C130 110, 120 140, 100 140 C80 140, 70 110, 70 90 C70 70, 80 40, 100 40 Z' fill='#DC2626' stroke='#1F2937' stroke-width='2'/><path d='M200 40 C180 40, 170 70, 170 90 C170 110, 180 140, 200 140 C220 140, 230 110, 230 90 C230 70, 220 40, 200 40 Z' fill='#DC2626' stroke='#1F2937' stroke-width='2'/><path d='M120 90 L150 150 L180 90' fill='none' stroke='#DBEAFE' stroke-width='4'/><path d='M150 150 C140 170, 160 170, 150 190' fill='none' stroke='#1F2937' stroke-width='2'/></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><path d='M100 40 C120 40, 130 70, 130 90 C130 110, 120 140, 100 140 C80 140, 70 110, 70 90 C70 70, 80 40, 100 40 Z' fill='#DC2626' stroke='#1F2937' stroke-width='2'/><path d='M200 40 C180 40, 170 70, 170 90 C170 110, 180 140, 200 140 C220 140, 230 110, 230 90 C230 70, 220 40, 200 40 Z' fill='#DC2626' stroke='#1F2937' stroke-width='2'/><path d='M120 90 L150 150 L180 90' fill='none' stroke='#DBEAFE' stroke-width='4'/><path d='M150 150 C140 170, 160 170, 150 190' fill='none' stroke='#1F2937' stroke-width='2'/></svg>",
       "alt": {
         "en": "Diagram showing a pair of kidneys, ureters, and bladder",
         "kn": "ಒಂದು ಜೊತೆ ಮೂತ್ರಪಿಂಡಗಳು, ಮೂತ್ರನಾಳಗಳು ಮತ್ತು ಮೂತ್ರಕೋಶವನ್ನು ತೋರಿಸುವ ರೇಖಾಚಿತ್ರ"
@@ -511,14 +831,30 @@
     },
     "en": {
       "question": "Which of the following are parts of the human excretory system shown in the diagram?",
-      "options": ["Kidneys", "Lungs", "Ureters", "Heart"],
-      "answer": ["Kidneys", "Ureters"],
+      "options": [
+        "Kidneys",
+        "Lungs",
+        "Ureters",
+        "Heart"
+      ],
+      "answer": [
+        "Kidneys",
+        "Ureters"
+      ],
       "reasoning": "The human excretory system consists of two bean-shaped kidneys, two ureters (tubes), a urinary bladder, and a urethra."
     },
     "kn": {
       "question": "ರೇಖಾಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಮಾನವ ವಿಸರ್ಜನಾ ವ್ಯವಸ್ಥೆಯ ಭಾಗಗಳು ಯಾವುವು?",
-      "options": ["ಮೂತ್ರಪಿಂಡಗಳು", "ಶ್ವಾಸಕೋಶ", "ಮೂತ್ರನಾಳಗಳು (Ureters)", "ಹೃದಯ"],
-      "answer": ["ಮೂತ್ರಪಿಂಡಗಳು", "ಮೂತ್ರನಾಳಗಳು (Ureters)"],
+      "options": [
+        "ಮೂತ್ರಪಿಂಡಗಳು",
+        "ಶ್ವಾಸಕೋಶ",
+        "ಮೂತ್ರನಾಳಗಳು (Ureters)",
+        "ಹೃದಯ"
+      ],
+      "answer": [
+        "ಮೂತ್ರಪಿಂಡಗಳು",
+        "ಮೂತ್ರನಾಳಗಳು (Ureters)"
+      ],
       "reasoning": "ಮಾನವ ವಿಸರ್ಜನಾ ವ್ಯವಸ್ಥೆಯು ಹುರುಳಿ ಬೀಜದ ಆಕಾರದ ಎರಡು ಮೂತ್ರಪಿಂಡಗಳು, ಎರಡು ಮೂತ್ರನಾಳಗಳು, ಒಂದು ಮೂತ್ರಕೋಶ ಮತ್ತು ಮೂತ್ರದ್ವಾರವನ್ನು ಒಳಗೊಂಡಿದೆ."
     }
   },
@@ -528,13 +864,23 @@
     "difficulty": 3,
     "en": {
       "question": "How does water reach the tops of tall trees?",
-      "options": ["Pushed by the roots only", "Suction pull caused by transpiration", "Gravity", "Pumping by the stem"],
+      "options": [
+        "Pushed by the roots only",
+        "Suction pull caused by transpiration",
+        "Gravity",
+        "Pumping by the stem"
+      ],
       "answer": "Suction pull caused by transpiration",
       "reasoning": "Water lost through stomata by transpiration generates a suction pull that pulls water up from the roots to great heights in tall trees."
     },
     "kn": {
       "question": "ಎತ್ತರದ ಮರಗಳ ತುದಿಯನ್ನು ನೀರು ಹೇಗೆ ತಲುಪುತ್ತದೆ?",
-      "options": ["ಬೇರುಗಳಿಂದ ತಳ್ಳಲ್ಪಟ್ಟು", "ಬಾಷ್ಪವಿಸರ್ಜನೆಯಿಂದ ಉಂಟಾಗುವ ಹೀರುವಿಕೆ ಎಳೆತದಿಂದ", "ಗುರುತ್ವಾಕರ್ಷಣೆಯಿಂದ", "ಕಾಂಡವು ಪಂಪ್ ಮಾಡುವುದರಿಂದ"],
+      "options": [
+        "ಬೇರುಗಳಿಂದ ತಳ್ಳಲ್ಪಟ್ಟು",
+        "ಬಾಷ್ಪವಿಸರ್ಜನೆಯಿಂದ ಉಂಟಾಗುವ ಹೀರುವಿಕೆ ಎಳೆತದಿಂದ",
+        "ಗುರುತ್ವಾಕರ್ಷಣೆಯಿಂದ",
+        "ಕಾಂಡವು ಪಂಪ್ ಮಾಡುವುದರಿಂದ"
+      ],
       "answer": "ಬಾಷ್ಪವಿಸರ್ಜನೆಯಿಂದ ಉಂಟಾಗುವ ಹೀರುವಿಕೆ ಎಳೆತದಿಂದ",
       "reasoning": "ಬಾಷ್ಪವಿಸರ್ಜನೆಯ ಮೂಲಕ ಪತ್ರರಂಧ್ರಗಳಿಂದ ನೀರು ಕಳೆದುಕೊಳ್ಳುವುದು ಒಂದು ಹೀರುವಿಕೆ ಎಳೆತವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ, ಇದು ಎತ್ತರದ ಮರಗಳಲ್ಲಿ ಬೇರುಗಳಿಂದ ನೀರನ್ನು ಮೇಲಕ್ಕೆ ಎಳೆಯುತ್ತದೆ."
     }
@@ -546,20 +892,44 @@
     "en": {
       "question": "Match the blood vessels with their characteristics:",
       "pairs": [
-        { "left": "Pulmonary Artery", "right": "Carries deoxygenated blood to lungs" },
-        { "left": "Pulmonary Vein", "right": "Carries oxygenated blood to heart" },
-        { "left": "Normal Arteries", "right": "Carry oxygen-rich blood away from heart" },
-        { "left": "Normal Veins", "right": "Carry carbon dioxide-rich blood to heart" }
+        {
+          "left": "Pulmonary Artery",
+          "right": "Carries deoxygenated blood to lungs"
+        },
+        {
+          "left": "Pulmonary Vein",
+          "right": "Carries oxygenated blood to heart"
+        },
+        {
+          "left": "Normal Arteries",
+          "right": "Carry oxygen-rich blood away from heart"
+        },
+        {
+          "left": "Normal Veins",
+          "right": "Carry carbon dioxide-rich blood to heart"
+        }
       ],
       "reasoning": "The pulmonary artery is an exception; it carries deoxygenated blood from the heart to the lungs. The pulmonary vein carries oxygenated blood from the lungs back to the heart."
     },
     "kn": {
       "question": "ರಕ್ತನಾಳಗಳನ್ನು ಅವುಗಳ ಗುಣಲಕ್ಷಣಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
       "pairs": [
-        { "left": "ಶ್ವಾಸಕೋಶದ ಅಪಧಮನಿ", "right": "ಆಮ್ಲಜನಕರಹಿತ ರಕ್ತವನ್ನು ಶ್ವಾಸಕೋಶಕ್ಕೆ ಒಯ್ಯುತ್ತದೆ" },
-        { "left": "ಶ್ವಾಸಕೋಶದ ಅಭಿಧಮನಿ", "right": "ಆಮ್ಲಜನಕಯುಕ್ತ ರಕ್ತವನ್ನು ಹೃದಯಕ್ಕೆ ತರುತ್ತದೆ" },
-        { "left": "ಸಾಮಾನ್ಯ ಅಪಧಮನಿಗಳು", "right": "ಆಮ್ಲಜನಕ-ಭರಿತ ರಕ್ತವನ್ನು ಹೃದಯದಿಂದ ದೂರ ಒಯ್ಯುತ್ತವೆ" },
-        { "left": "ಸಾಮಾನ್ಯ ಅಭಿಧಮನಿಗಳು", "right": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್-ಭರಿತ ರಕ್ತವನ್ನು ಹೃದಯಕ್ಕೆ ತರುತ್ತವೆ" }
+        {
+          "left": "ಶ್ವಾಸಕೋಶದ ಅಪಧಮನಿ",
+          "right": "ಆಮ್ಲಜನಕರಹಿತ ರಕ್ತವನ್ನು ಶ್ವಾಸಕೋಶಕ್ಕೆ ಒಯ್ಯುತ್ತದೆ"
+        },
+        {
+          "left": "ಶ್ವಾಸಕೋಶದ ಅಭಿಧಮನಿ",
+          "right": "ಆಮ್ಲಜನಕಯುಕ್ತ ರಕ್ತವನ್ನು ಹೃದಯಕ್ಕೆ ತರುತ್ತದೆ"
+        },
+        {
+          "left": "ಸಾಮಾನ್ಯ ಅಪಧಮನಿಗಳು",
+          "right": "ಆಮ್ಲಜನಕ-ಭರಿತ ರಕ್ತವನ್ನು ಹೃದಯದಿಂದ ದೂರ ಒಯ್ಯುತ್ತವೆ"
+        },
+        {
+          "left": "ಸಾಮಾನ್ಯ ಅಭಿಧಮನಿಗಳು",
+          "right": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್-ಭರಿತ ರಕ್ತವನ್ನು ಹೃದಯಕ್ಕೆ ತರುತ್ತವೆ"
+        }
       ],
       "reasoning": "ಶ್ವಾಸಕೋಶದ ಅಪಧಮನಿ (Pulmonary Artery) ಒಂದು ಅಪವಾದವಾಗಿದೆ; ಇದು ಹೃದಯದಿಂದ ಶ್ವಾಸಕೋಶಕ್ಕೆ ಆಮ್ಲಜನಕರಹಿತ ರಕ್ತವನ್ನು ಒಯ್ಯುತ್ತದೆ. ಶ್ವಾಸಕೋಶದ ಅಭಿಧಮನಿ ಆಮ್ಲಜನಕಯುಕ್ತ ರಕ್ತವನ್ನು ಹಿಂತಿರುಗಿಸುತ್ತದೆ."
     }
@@ -570,13 +940,23 @@
     "difficulty": 3,
     "en": {
       "question": "How do plants increase the surface area of their roots to absorb more water and dissolved minerals?",
-      "options": ["By growing deeper into the soil", "By having root hairs", "By increasing root thickness", "By storing food in roots"],
+      "options": [
+        "By growing deeper into the soil",
+        "By having root hairs",
+        "By increasing root thickness",
+        "By storing food in roots"
+      ],
       "answer": "By having root hairs",
       "reasoning": "Root hairs significantly increase the surface area of the root for the absorption of water and mineral nutrients dissolved in water."
     },
     "kn": {
       "question": "ಹೆಚ್ಚು ನೀರು ಮತ್ತು ಕರಗಿದ ಖನಿಜಗಳನ್ನು ಹೀರಿಕೊಳ್ಳಲು ಸಸ್ಯಗಳು ತಮ್ಮ ಬೇರುಗಳ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಹೇಗೆ ಹೆಚ್ಚಿಸಿಕೊಳ್ಳುತ್ತವೆ?",
-      "options": ["ಮಣ್ಣಿನಲ್ಲಿ ಆಳವಾಗಿ ಬೆಳೆಯುವ ಮೂಲಕ", "ಬೇರಿನ ಕೂದಲುಗಳನ್ನು (Root hairs) ಹೊಂದುವ ಮೂಲಕ", "ಬೇರಿನ ದಪ್ಪವನ್ನು ಹೆಚ್ಚಿಸುವ ಮೂಲಕ", "ಬೇರುಗಳಲ್ಲಿ ಆಹಾರವನ್ನು ಸಂಗ್ರಹಿಸುವ ಮೂಲಕ"],
+      "options": [
+        "ಮಣ್ಣಿನಲ್ಲಿ ಆಳವಾಗಿ ಬೆಳೆಯುವ ಮೂಲಕ",
+        "ಬೇರಿನ ಕೂದಲುಗಳನ್ನು (Root hairs) ಹೊಂದುವ ಮೂಲಕ",
+        "ಬೇರಿನ ದಪ್ಪವನ್ನು ಹೆಚ್ಚಿಸುವ ಮೂಲಕ",
+        "ಬೇರುಗಳಲ್ಲಿ ಆಹಾರವನ್ನು ಸಂಗ್ರಹಿಸುವ ಮೂಲಕ"
+      ],
       "answer": "ಬೇರಿನ ಕೂದಲುಗಳನ್ನು (Root hairs) ಹೊಂದುವ ಮೂಲಕ",
       "reasoning": "ನೀರಿನಲ್ಲಿ ಕರಗಿರುವ ನೀರು ಮತ್ತು ಖನಿಜ ಪೋಷಕಾಂಶಗಳನ್ನು ಹೀರಿಕೊಳ್ಳಲು ಬೇರಿನ ಕೂದಲುಗಳು (Root hairs) ಬೇರಿನ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಗಣನೀಯವಾಗಿ ಹೆಚ್ಚಿಸುತ್ತವೆ."
     }

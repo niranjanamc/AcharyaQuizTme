@@ -77,6 +77,15 @@ def verify_db():
                     svg_str = img.get('svg', '')
                     if not isinstance(svg_str, str) or len(svg_str.strip()) == 0:
                         issues.append(f"[{file}] {q_id} image.svg must be a non-empty string.")
+                    else:
+                        if 'width="100%"' not in svg_str and "width='100%'" not in svg_str:
+                            issues.append(f"[{file}] {q_id} image.svg missing width='100%'")
+                        if 'height="100%"' not in svg_str and "height='100%'" not in svg_str:
+                            issues.append(f"[{file}] {q_id} image.svg missing height='100%'")
+                        if 'xmlns' not in svg_str:
+                            issues.append(f"[{file}] {q_id} image.svg missing xmlns attribute")
+                        if not svg_str.strip().endswith('</svg>'):
+                            issues.append(f"[{file}] {q_id} image.svg does not end with '</svg>'")
                 elif img_type == 'raster':
                     src = img.get('src', '')
                     if not isinstance(src, str) or len(src.strip()) == 0:
@@ -114,7 +123,24 @@ def verify_db():
                             if img_type not in ('svg', 'raster'):
                                 issues.append(f"[{file}] {q_id} {lang.upper()} option {i} image.type must be 'svg' or 'raster'.")
                                 schema_error = True
-                            # ... (similar checks for svg/raster content could be added here)
+                            elif img_type == 'svg':
+                                svg_str = img.get('svg', '')
+                                if not isinstance(svg_str, str) or len(svg_str.strip()) == 0:
+                                    issues.append(f"[{file}] {q_id} {lang.upper()} option {i} image.svg must be a non-empty string.")
+                                    schema_error = True
+                                else:
+                                    if 'width="100%"' not in svg_str and "width='100%'" not in svg_str:
+                                        issues.append(f"[{file}] {q_id} {lang.upper()} option {i} image.svg missing width='100%'")
+                                        schema_error = True
+                                    if 'height="100%"' not in svg_str and "height='100%'" not in svg_str:
+                                        issues.append(f"[{file}] {q_id} {lang.upper()} option {i} image.svg missing height='100%'")
+                                        schema_error = True
+                                    if 'xmlns' not in svg_str:
+                                        issues.append(f"[{file}] {q_id} {lang.upper()} option {i} image.svg missing xmlns attribute")
+                                        schema_error = True
+                                    if not svg_str.strip().endswith('</svg>'):
+                                        issues.append(f"[{file}] {q_id} {lang.upper()} option {i} image.svg does not end with '</svg>'")
+                                        schema_error = True
                 else:
                     valid_option_values.append(opt)
 

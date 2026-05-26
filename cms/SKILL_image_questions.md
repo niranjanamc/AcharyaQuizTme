@@ -58,7 +58,7 @@ The app currently supports three question types: `single`, `multiple`, and `matc
   "difficulty": 1,
   "image": {
     "type": "svg",
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'>...</svg>",
+    "svg": "<svg width='100%' height='100%' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'>...</svg>",
     "alt": {
       "en": "A triangle with sides labelled 5 cm, 7 cm, and 9 cm",
       "kn": "5 ಸೆಂ.ಮೀ., 7 ಸೆಂ.ಮೀ. ಮತ್ತು 9 ಸೆಂ.ಮೀ. ಬಾಹುಗಳಿರುವ ತ್ರಿಕೋನ"
@@ -88,7 +88,7 @@ The app currently supports three question types: `single`, `multiple`, and `matc
   "difficulty": 2,
   "image": {
     "type": "svg",
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'>...</svg>",
+    "svg": "<svg width='100%' height='100%' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'>...</svg>",
     "alt": {
       "en": "A shape made of two rectangles joined at one side",
       "kn": "ಒಂದು ಬದಿಯಲ್ಲಿ ಜೋಡಿಸಿದ ಎರಡು ಆಯತಗಳಿಂದ ಮಾಡಿದ ಆಕಾರ"
@@ -214,6 +214,7 @@ When using a photograph instead of an SVG diagram, replace the `image` object:
 
 | Property | Value | Notes |
 |---|---|---|
+| **Width & Height** | `width="100%" height="100%"` | **CRITICAL:** Always include so the SVG fills its container responsively and does not collapse. |
 | **viewBox (landscape)** | `0 0 300 200` | Use for wide diagrams: number lines, rectangles, bar charts |
 | **viewBox (square)** | `0 0 300 300` | Use for circles, coordinate planes, square shapes |
 | **xmlns** | `http://www.w3.org/2000/svg` | Always include for valid standalone SVG |
@@ -299,7 +300,7 @@ def angle_diagram(degrees, label=""):
 #### Example 1: Triangle with Labeled Sides
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
   <!-- Triangle shape -->
   <polygon
     points="150,20 30,170 270,170"
@@ -322,7 +323,7 @@ def angle_diagram(degrees, label=""):
 #### Example 2: Rectangle with Dimensions
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
   <!-- Rectangle -->
   <rect x="40" y="30" width="220" height="120" fill="#DBEAFE" stroke="#2563EB" stroke-width="2" rx="2"/>
   <!-- Width label (top) -->
@@ -351,7 +352,7 @@ def angle_diagram(degrees, label=""):
 #### Example 3: Number Line
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
   <!-- Main line -->
   <line x1="20" y1="50" x2="280" y2="50" stroke="#2563EB" stroke-width="2" stroke-linecap="round"/>
   <!-- Arrow at right end -->
@@ -558,9 +559,11 @@ Before committing any image-based question, verify every item:
 
 - [ ] **Valid XML**: The SVG string is well-formed XML (all tags closed, attributes quoted)
 - [ ] **`xmlns` attribute**: `xmlns="http://www.w3.org/2000/svg"` is present
+- [ ] **Dimensions set**: **CRITICAL:** `width="100%"` and `height="100%"` must be present on the `<svg>` root tag.
 - [ ] **`viewBox` set**: Uses `0 0 300 200` or `0 0 300 300`
 - [ ] **No inline `style` blocks**: Use attributes (`fill`, `stroke`) instead of CSS `<style>` elements for maximum compatibility
 - [ ] **No external resources**: No `<image href="...">`, no `@import`, no `<use xlink:href="...">`
+- [ ] **Labels present**: Geometry diagrams must have vertex labels (e.g., A, B, C) and measurement annotations.
 - [ ] **Measurements clearly visible**: Font size ≥ 14px, red (#DC2626) color, not overlapping shapes
 - [ ] **Sufficient contrast**: Blue shapes on white/light background
 - [ ] **No Kannada text in SVG**: All SVG labels use English/numeric values only
@@ -615,11 +618,13 @@ Generate {N} bilingual (English + Kannada) image-based quiz questions for the Bh
 1. Use inline SVG diagrams for all images (no raster).
 2. Follow the schema defined in cms/SKILL_image_questions.md §2.1 (image_single) or §2.2 (image_multiple).
 3. SVG guidelines:
+   - CRITICAL: `<svg>` root tag MUST include `width="100%"` and `height="100%"`.
    - viewBox: 300×200 (landscape) or 300×300 (square)
    - Colors: Blue #2563EB (shapes), Red #DC2626 (measurements), Green #059669 (highlights)
    - Font: Arial, 14px for labels
    - Include xmlns="http://www.w3.org/2000/svg"
    - No Kannada text inside SVG elements
+   - Geometry diagrams MUST include explicit vertex labels (A, B, C) and measurement annotations (sides, angles) directly in the SVG.
 4. Difficulty distribution: {D1_count} easy, {D2_count} medium, {D3_count} hard.
 5. Each question's answer MUST be derivable solely from the image.
 6. Provide complete Kannada translations for question, options, answer, and reasoning.
@@ -724,6 +729,10 @@ def validate_image_questions(questions, issues):
             svg = img.get('svg', '')
             if not svg.strip().startswith('<svg'):
                 issues.append(f"[{file}] {q_id} image.svg does not start with '<svg'")
+            if 'width="100%"' not in svg and "width='100%'" not in svg:
+                issues.append(f"[{file}] {q_id} image.svg missing width='100%'")
+            if 'height="100%"' not in svg and "height='100%'" not in svg:
+                issues.append(f"[{file}] {q_id} image.svg missing height='100%'")
             if 'xmlns' not in svg:
                 issues.append(f"[{file}] {q_id} image.svg missing xmlns attribute")
             if not svg.strip().endswith('</svg>'):

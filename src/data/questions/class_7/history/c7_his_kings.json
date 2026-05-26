@@ -1,0 +1,1419 @@
+[
+  {
+    "id": "c7_his_kings_01",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Who were the 'samantas'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Subordinates or big landlords to kings",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Traders from other countries",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Religious priests",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Village peasants",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "'ಸಾಮಂತರು' ಯಾರು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ರಾಜರ ಅಧೀನ ಅಧಿಕಾರಿಗಳು ಅಥವಾ ದೊಡ್ಡ ಜಮೀನ್ದಾರರು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಇತರ ದೇಶಗಳ ವ್ಯಾಪಾರಿಗಳು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಧಾರ್ಮಿಕ ಪುರೋಹಿತರು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಹಳ್ಳಿಯ ರೈತರು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_02",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "What does the title 'Maha-samanta' mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The great lord of a circle or region",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "The chief priest of the kingdom",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "The greatest warrior",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "The main tax collector",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "'ಮಹಾಸಾಮಂತ' ಎಂಬ ಬಿರುದಿನ ಅರ್ಥವೇನು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಒಂದು ಪ್ರದೇಶದ ಅಥವಾ ವಲಯದ ಮಹಾನ್ ಒಡೆಯ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ರಾಜ್ಯದ ಮುಖ್ಯ ಅರ್ಚಕ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಶ್ರೇಷ್ಠ ಯೋಧ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಮುಖ್ಯ ತೆರಿಗೆ ಸಂಗ್ರಾಹಕ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_03",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Who performed the 'hiranya-garbha' ritual?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dantidurga",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Rajaraja I",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Mahmud of Ghazni",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Prithviraj Chauhan",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "'ಹಿರಣ್ಯ-ಗರ್ಭ' ಆಚರಣೆಯನ್ನು ಯಾರು ಮಾಡಿದರು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ದಂತಿದುರ್ಗ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಒಂದನೇ ರಾಜರಾಜ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಘಜ್ನಿಯ ಮಹಮೂದ್",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಪೃಥ್ವಿರಾಜ್ ಚೌಹಾಣ್",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_04",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Which dynasty ruled in the region of modern Tamil Nadu?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cholas",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Rashtrakutas",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Palas",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Gurjara-Pratiharas",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಆಧುನಿಕ ತಮಿಳುನಾಡು ಪ್ರದೇಶದಲ್ಲಿ ಯಾವ ರಾಜವಂಶ ಆಳ್ವಿಕೆ ನಡೆಸಿತು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಚೋಳರು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ರಾಷ್ಟ್ರಕೂಟರು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಪಾಲರು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಗುರ್ಜರ-ಪ್ರತಿಹಾರರು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_05",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "What was the capital of the Rashtrakutas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Malkhed",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Kanchipuram",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Thanjavur",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Kannauj",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ರಾಷ್ಟ್ರಕೂಟರ ರಾಜಧಾನಿ ಯಾವುದಾಗಿತ್ತು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಮಳಖೇಡ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಕಾಂಚೀಪುರಂ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ತಂಜಾವೂರು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಕನೌಜ್",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_06",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Who was the founder of the Chola empire?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vijayalaya",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Rajendra I",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Rajaraja I",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Aditya I",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಚೋಳ ಸಾಮ್ರಾಜ್ಯದ ಸ್ಥಾಪಕ ಯಾರು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ವಿಜಯಾಲಯ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಒಂದನೇ ರಾಜೇಂದ್ರ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಒಂದನೇ ರಾಜರಾಜ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಒಂದನೇ ಆದಿತ್ಯ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_07",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Where was the famous temple of Brihadeshwara located?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thanjavur",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Madurai",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Kanchipuram",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Hampi",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಪ್ರಸಿದ್ಧ ಬೃಹದೇಶ್ವರ ದೇವಾಲಯ ಎಲ್ಲಿತ್ತು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ತಂಜಾವೂರು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಮಧುರೈ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಕಾಂಚೀಪುರಂ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಹಂಪಿ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_08",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "What was 'nadu' in the Chola administration?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A group of villages",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "A tax",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "A minister",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "A type of coin",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಚೋಳರ ಆಡಳಿತದಲ್ಲಿ 'ನಾಡು' ಎಂದರೇನು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಹಳ್ಳಿಗಳ ಗುಂಪು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಒಂದು ತೆರಿಗೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಒಬ್ಬ ಮಂತ್ರಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಒಂದು ರೀತಿಯ ನಾಣ್ಯ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_09",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "What is a 'prashasti'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A eulogy or a poem praising a ruler",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "A land grant to a temple",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "A title given to the army chief",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "A tax collected from merchants",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "'ಪ್ರಶಸ್ತಿ' ಎಂದರೇನು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಆಡಳಿತಗಾರನನ್ನು ಹೊಗಳುವ ಶ್ಲಾಘನೆ ಅಥವಾ ಕವಿತೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ದೇವಾಲಯಕ್ಕೆ ನೀಡಲಾದ ಭೂದಾನ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಸೈನ್ಯದ ಮುಖ್ಯಸ್ಥನಿಗೆ ನೀಡಿದ ಬಿರುದು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ವ್ಯಾಪಾರಿಗಳಿಂದ ಸಂಗ್ರಹಿಸಿದ ತೆರಿಗೆ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_10",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "Who wrote the long Sanskrit poem containing the history of kings who ruled over Kashmir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kalhana",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Banabhatta",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Chand Bardai",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Al-Biruni",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಕಾಶ್ಮೀರವನ್ನು ಆಳಿದ ರಾಜರ ಇತಿಹಾಸವನ್ನು ಒಳಗೊಂಡಿರುವ ಸುದೀರ್ಘ ಸಂಸ್ಕೃತ ಕಾವ್ಯವನ್ನು ಬರೆದವರು ಯಾರು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಕಲ್ಹಣ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಬಾಣಭಟ್ಟ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಚಾಂದ್ ಬರ್ದಾಯಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅಲ್-ಬಿರೌನಿ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_11",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "Which three dynasties fought in the 'tripartite struggle' for Kannauj?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gurjara-Pratiharas, Rashtrakutas, and Palas",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Cholas, Cheras, and Pandyas",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Chalukyas, Pallavas, and Rashtrakutas",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Mughals, Marathas, and Rajputs",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಕನೌಜ್‌ಗಾಗಿ ನಡೆದ 'ತ್ರಿಪಕ್ಷೀಯ ಹೋರಾಟ' ದಲ್ಲಿ ಯಾವ ಮೂರು ರಾಜವಂಶಗಳು ಹೋರಾಡಿದವು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಗುರ್ಜರ-ಪ್ರತಿಹಾರರು, ರಾಷ್ಟ್ರಕೂಟರು ಮತ್ತು ಪಾಲರು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಚೋಳರು, ಚೇರರು ಮತ್ತು ಪಾಂಡ್ಯರು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಚಾಲುಕ್ಯರು, ಪಲ್ಲವರು ಮತ್ತು ರಾಷ್ಟ್ರಕೂಟರು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಮೊಘಲರು, ಮರಾಠರು ಮತ್ತು ರಜಪೂತರು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_12",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "Why did Mahmud of Ghazni attack the temples in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To plunder their immense wealth",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "To establish a permanent empire in India",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "To spread his language",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "To learn from Indian architecture",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಘಜ್ನಿಯ ಮಹಮೂದ್ ಭಾರತದ ದೇವಾಲಯಗಳ ಮೇಲೆ ಏಕೆ ದಾಳಿ ಮಾಡಿದನು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವುಗಳ ಅಪಾರ ಸಂಪತ್ತನ್ನು ಲೂಟಿ ಮಾಡಲು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಭಾರತದಲ್ಲಿ ಶಾಶ್ವತ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಸ್ಥಾಪಿಸಲು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ತನ್ನ ಭಾಷೆಯನ್ನು ಹರಡಲು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಭಾರತೀಯ ವಾಸ್ತುಶಿಲ್ಪದಿಂದ ಕಲಿಯಲು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_13",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "Who wrote the 'Kitab al-Hind'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Al-Biruni",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Ibn Battuta",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Amir Khusrau",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Firdausi",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "'ಕಿತಾಬ್ ಅಲ್-ಹಿಂದ್' ಕೃತಿಯನ್ನು ಬರೆದವರು ಯಾರು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅಲ್-ಬಿರೌನಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಇಬ್ನ್ ಬತೂತ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಅಮೀರ್ ಖುಸ್ರೋ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಫಿರ್ದೌಸಿ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_14",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "Who defeated Prithviraja III in 1192?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sultan Muhammad Ghori",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Mahmud of Ghazni",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Qutbuddin Aibak",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Babur",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "1192 ರಲ್ಲಿ ಮೂರನೇ ಪೃಥ್ವಿರಾಜನನ್ನು ಸೋಲಿಸಿದವರು ಯಾರು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಸುಲ್ತಾನ್ ಮಹಮದ್ ಘೋರಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಘಜ್ನಿಯ ಮಹಮೂದ್",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಕುತುಬುದ್ದೀನ್ ಐಬಕ್",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಬಾಬರ್",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_15",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "What was 'Brahmadeya' in the Chola kingdom?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Land granted to Brahmanas",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "A tax on peasants",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "A type of military formation",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Land for maintaining a school",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಚೋಳ ಸಾಮ್ರಾಜ್ಯದಲ್ಲಿ 'ಬ್ರಹ್ಮದೇಯ' ಎಂದರೇನು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಬ್ರಾಹ್ಮಣರಿಗೆ ನೀಡಿದ ಭೂಮಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ರೈತರ ಮೇಲಿನ ತೆರಿಗೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಒಂದು ರೀತಿಯ ಮಿಲಿಟರಿ ರಚನೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಶಾಲೆಯನ್ನು ನಿರ್ವಹಿಸಲು ಮೀಸಲಾದ ಭೂಮಿ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_16",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "What does the Uttaramerur inscription provide details about?",
+      "options": [
+        {
+          "id": "A",
+          "text": "How the sabha (assembly) was organized",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "The trade routes to Southeast Asia",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "The weapons used in battles",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "The recipes for Chola feasts",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಉತ್ತರಮೇರೂರು ಶಾಸನವು ಯಾವುದರ ಬಗ್ಗೆ ವಿವರಗಳನ್ನು ನೀಡುತ್ತದೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಸಭಾ (ಮಂಡಳಿ) ಹೇಗೆ ಸಂಘಟಿತವಾಗಿತ್ತು ಎಂಬುದರ ಬಗ್ಗೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಆಗ್ನೇಯ ಏಷ್ಯಾಕ್ಕೆ ವ್ಯಾಪಾರ ಮಾರ್ಗಗಳ ಬಗ್ಗೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಯುದ್ಧಗಳಲ್ಲಿ ಬಳಸಿದ ಶಸ್ತ್ರಾಸ್ತ್ರಗಳ ಬಗ್ಗೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಚೋಳರ ಔತಣಕೂಟದ ಪಾಕವಿಧಾನಗಳ ಬಗ್ಗೆ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_17",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "Which Chola ruler developed a navy and led expeditions to Sri Lanka and Southeast Asia?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rajendra I",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Vijayalaya",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Parantaka I",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Karikala",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಯಾವ ಚೋಳ ರಾಜನು ನೌಕಾಪಡೆಯನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದನು ಮತ್ತು ಶ್ರೀಲಂಕಾ ಹಾಗೂ ಆಗ್ನೇಯ ಏಷ್ಯಾಕ್ಕೆ ದಂಡಯಾತ್ರೆಗಳನ್ನು ನಡೆಸಿದನು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಒಂದನೇ ರಾಜೇಂದ್ರ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ವಿಜಯಾಲಯ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಒಂದನೇ ಪರಾಂತಕ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಕರಿಕಾಲ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_his_kings_18",
+    "type": "multiple",
+    "difficulty": "medium",
+    "en": {
+      "question": "What were the methods used by new kings to gain wealth and power? (Select all that apply)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Collecting taxes from peasants and traders",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Plundering other kingdoms",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Giving up their kingdoms and becoming monks",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Claiming high titles like 'Maharaja-adhiraja'",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    "kn": {
+      "question": "ಹೊಸ ರಾಜರು ಸಂಪತ್ತು ಮತ್ತು ಅಧಿಕಾರವನ್ನು ಪಡೆಯಲು ಬಳಸಿದ ವಿಧಾನಗಳು ಯಾವುವು? (ಅನ್ವಯವಾಗುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆಮಾಡಿ)",
+      "options": [
+        {
+          "id": "A",
+          "text": "ರೈತರು ಮತ್ತು ವ್ಯಾಪಾರಿಗಳಿಂದ ತೆರಿಗೆ ಸಂಗ್ರಹಿಸುವುದು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಇತರ ರಾಜ್ಯಗಳನ್ನು ಲೂಟಿ ಮಾಡುವುದು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ತಮ್ಮ ರಾಜ್ಯಗಳನ್ನು ತ್ಯಜಿಸಿ ಸನ್ಯಾಸಿಗಳಾಗುವುದು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "'ಮಹಾರಾಜಾಧಿರಾಜ' ದಂತಹ ಉನ್ನತ ಬಿರುದುಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳುವುದು",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "c7_his_kings_19",
+    "type": "multiple",
+    "difficulty": "medium",
+    "en": {
+      "question": "Which of these were features of Chola temples? (Select all that apply)",
+      "options": [
+        {
+          "id": "A",
+          "text": "They were centers of craft production",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "They were only places of worship, isolated from the community",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "They maintained dancers, musicians, and sweepers",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "They were often endowed with land by rulers",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ]
+    },
+    "kn": {
+      "question": "ಇವುಗಳಲ್ಲಿ ಯಾವುದು ಚೋಳ ದೇವಾಲಯಗಳ ಲಕ್ಷಣಗಳಾಗಿದ್ದವು? (ಅನ್ವಯವಾಗುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆಮಾಡಿ)",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವು ಕರಕುಶಲ ಉತ್ಪಾದನೆಯ ಕೇಂದ್ರಗಳಾಗಿದ್ದವು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಅವು ಕೇವಲ ಪೂಜಾ ಸ್ಥಳಗಳಾಗಿದ್ದವು, ಸಮಾಜದಿಂದ ಪ್ರತ್ಯೇಕವಾಗಿದ್ದವು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಅವು ನರ್ತಕರು, ಸಂಗೀತಗಾರರು ಮತ್ತು ಗುಡಿಸುವವರನ್ನು ನಿರ್ವಹಿಸುತ್ತಿದ್ದವು",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ಆಡಳಿತಗಾರರು ಆಗಾಗ್ಗೆ ಅವುಗಳಿಗೆ ಭೂಮಿಯನ್ನು ದಾನ ನೀಡುತ್ತಿದ್ದರು",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "c7_his_kings_20",
+    "type": "multiple",
+    "difficulty": "hard",
+    "en": {
+      "question": "What were the qualifications necessary to become a member of a committee of the sabha in the Chola empire? (Select all that apply)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Must own land from which land revenue is collected",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Must have their own homes",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Must be between 35 and 70 years of age",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "Must have traveled outside India",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    "kn": {
+      "question": "ಚೋಳ ಸಾಮ್ರಾಜ್ಯದಲ್ಲಿ ಸಭೆಯ ಸಮಿತಿಯ ಸದಸ್ಯರಾಗಲು ಅಗತ್ಯವಾದ ಅರ್ಹತೆಗಳು ಯಾವುವು? (ಅನ್ವಯವಾಗುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆಮಾಡಿ)",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಭೂಕಂದಾಯವನ್ನು ಸಂಗ್ರಹಿಸುವ ಸ್ವಂತ ಭೂಮಿಯನ್ನು ಹೊಂದಿರಬೇಕು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ತಮ್ಮದೇ ಆದ ಸ್ವಂತ ಮನೆಗಳನ್ನು ಹೊಂದಿರಬೇಕು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ವಯಸ್ಸು 35 ರಿಂದ 70 ರ ನಡುವೆ ಇರಬೇಕು",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ಭಾರತದ ಹೊರಗೆ ಪ್ರಯಾಣಿಸಿರಬೇಕು",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "c7_his_kings_21",
+    "type": "multiple",
+    "difficulty": "hard",
+    "en": {
+      "question": "What types of land grants were recorded in copper plates? (Select all that apply)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Grants of land to Brahmanas",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Grants of land to build palaces for foreigners",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Vellanvagai (land of non-Brahmana peasant proprietors)",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "Devadana (land gifted to temples)",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ]
+    },
+    "kn": {
+      "question": "ತಾಮ್ರದ ಶಾಸನಗಳಲ್ಲಿ ಯಾವ ರೀತಿಯ ಭೂದಾನಗಳನ್ನು ದಾಖಲಿಸಲಾಗಿದೆ? (ಅನ್ವಯವಾಗುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆಮಾಡಿ)",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಬ್ರಾಹ್ಮಣರಿಗೆ ಭೂಮಿಯ ಅನುದಾನ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ವಿದೇಶಿಯರಿಗೆ ಅರಮನೆಗಳನ್ನು ನಿರ್ಮಿಸಲು ಭೂಮಿಯ ಅನುದಾನ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ವೆಳ್ಳನ್ ವಗೈ (ಬ್ರಾಹ್ಮಣೇತರ ರೈತ ಮಾಲೀಕರ ಭೂಮಿ)",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ದೇವದಾನ (ದೇವಾಲಯಗಳಿಗೆ ಉಡುಗೊರೆಯಾಗಿ ನೀಡಿದ ಭೂಮಿ)",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "c7_his_kings_22",
+    "type": "match",
+    "difficulty": "medium",
+    "en": {
+      "question": "Match the dynasties with their ruling regions:",
+      "pairs": [
+        {
+          "left": "Gurjara-Pratiharas",
+          "right": "Gujarat and Rajasthan"
+        },
+        {
+          "left": "Rashtrakutas",
+          "right": "Western Deccan"
+        },
+        {
+          "left": "Palas",
+          "right": "Bengal"
+        },
+        {
+          "left": "Cholas",
+          "right": "Tamil Nadu"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ರಾಜವಂಶಗಳನ್ನು ಅವುಗಳ ಆಡಳಿತ ಪ್ರದೇಶಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಗುರ್ಜರ-ಪ್ರತಿಹಾರರು",
+          "right": "ಗುಜರಾತ್ ಮತ್ತು ರಾಜಸ್ಥಾನ"
+        },
+        {
+          "left": "ರಾಷ್ಟ್ರಕೂಟರು",
+          "right": "ಪಶ್ಚಿಮ ಡೆಕ್ಕನ್"
+        },
+        {
+          "left": "ಪಾಲರು",
+          "right": "ಬಂಗಾಳ"
+        },
+        {
+          "left": "ಚೋಳರು",
+          "right": "ತಮಿಳುನಾಡು"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_his_kings_23",
+    "type": "match",
+    "difficulty": "medium",
+    "en": {
+      "question": "Match the historical terms with their meanings:",
+      "pairs": [
+        {
+          "left": "Ur",
+          "right": "Settlements of peasants"
+        },
+        {
+          "left": "Nadu",
+          "right": "Group of villages"
+        },
+        {
+          "left": "Nagarams",
+          "right": "Associations of traders"
+        },
+        {
+          "left": "Brahmadeya",
+          "right": "Land granted to Brahmanas"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಪದಗಳನ್ನು ಅವುಗಳ ಅರ್ಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಊರು",
+          "right": "ರೈತರ ವಸಾಹತುಗಳು"
+        },
+        {
+          "left": "ನಾಡು",
+          "right": "ಹಳ್ಳಿಗಳ ಗುಂಪು"
+        },
+        {
+          "left": "ನಗರಂಗಳು",
+          "right": "ವ್ಯಾಪಾರಿಗಳ ಸಂಘಗಳು"
+        },
+        {
+          "left": "ಬ್ರಹ್ಮದೇಯ",
+          "right": "ಬ್ರಾಹ್ಮಣರಿಗೆ ನೀಡಿದ ಭೂಮಿ"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_his_kings_24",
+    "type": "match",
+    "difficulty": "hard",
+    "en": {
+      "question": "Match the Chola land types with their descriptions:",
+      "pairs": [
+        {
+          "left": "Vellanvagai",
+          "right": "Land of non-Brahmana peasants"
+        },
+        {
+          "left": "Shalabhoga",
+          "right": "Land for maintenance of a school"
+        },
+        {
+          "left": "Devadana",
+          "right": "Land gifted to temples"
+        },
+        {
+          "left": "Pallichchhandam",
+          "right": "Land donated to Jaina institutions"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಚೋಳರ ಭೂಪ್ರಕಾರಗಳನ್ನು ಅವುಗಳ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ವೆಳ್ಳನ್ ವಗೈ",
+          "right": "ಬ್ರಾಹ್ಮಣೇತರ ರೈತರ ಭೂಮಿ"
+        },
+        {
+          "left": "ಶಾಲಾಭೋಗ",
+          "right": "ಶಾಲೆಯ ನಿರ್ವಹಣೆಗೆ ಮೀಸಲಾದ ಭೂಮಿ"
+        },
+        {
+          "left": "ದೇವದಾನ",
+          "right": "ದೇವಾಲಯಗಳಿಗೆ ದಾನ ನೀಡಿದ ಭೂಮಿ"
+        },
+        {
+          "left": "ಪಳ್ಳಿಚ್ಚಂದಂ",
+          "right": "ಜೈನ ಸಂಸ್ಥೆಗಳಿಗೆ ದಾನ ಮಾಡಿದ ಭೂಮಿ"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_his_kings_25",
+    "type": "match",
+    "difficulty": "hard",
+    "en": {
+      "question": "Match the rulers with their achievements:",
+      "pairs": [
+        {
+          "left": "Dantidurga",
+          "right": "Overthrew his Chalukya overlord"
+        },
+        {
+          "left": "Vijayalaya",
+          "right": "Captured the Kaveri delta from Muttaraiyar"
+        },
+        {
+          "left": "Rajendra I",
+          "right": "Raided the Ganga valley and Sri Lanka"
+        },
+        {
+          "left": "Prithviraja III",
+          "right": "Defeated Muhammad Ghori in 1191"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಆಡಳಿತಗಾರರನ್ನು ಅವರ ಸಾಧನೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ದಂತಿದುರ್ಗ",
+          "right": "ತನ್ನ ಚಾಲುಕ್ಯ ಅಧಿಪತಿಯನ್ನು ಪದಚ್ಯುತಗೊಳಿಸಿದನು"
+        },
+        {
+          "left": "ವಿಜಯಾಲಯ",
+          "right": "ಮುತ್ತರೈಯರ್ ಅವರಿಂದ ಕಾವೇರಿ ಡೆಲ್ಟಾವನ್ನು ವಶಪಡಿಸಿಕೊಂಡನು"
+        },
+        {
+          "left": "ಒಂದನೇ ರಾಜೇಂದ್ರ",
+          "right": "ಗಂಗಾ ಕಣಿವೆ ಮತ್ತು ಶ್ರೀಲಂಕಾದ ಮೇಲೆ ದಾಳಿ ಮಾಡಿದನು"
+        },
+        {
+          "left": "ಮೂರನೇ ಪೃಥ್ವಿರಾಜ",
+          "right": "1191 ರಲ್ಲಿ ಮುಹಮ್ಮದ್ ಘೋರಿಯನ್ನು ಸೋಲಿಸಿದನು"
+        }
+      ]
+    }
+  }
+]

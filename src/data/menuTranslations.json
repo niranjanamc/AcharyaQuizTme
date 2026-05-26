@@ -95,21 +95,63 @@
   "class_6/english": "ಇಂಗ್ಲಿಷ್",
   "class_6/history": "ಇತಿಹಾಸ (ನಮ್ಮ ಭೂತಕಾಲ - I)",
   "class_6/kannada": "ಕನ್ನಡ",
-  "c6_eng_patrick": "ಪ್ಯಾಟ್ರಿಕ್‌ನ ಮನೆಕೆಲಸವನ್ನು ಯಾರು ಮಾಡಿದರು?",
-  "c6_eng_master": "ನಾಯಿ ತನಗಾಗಿ ಹೊಸ ಯಜಮಾನನನ್ನು ಹೇಗೆ ಹುಡುಕಿಕೊಂಡಿತು!",
-  "c6_eng_taro": "ತಾರೋನಿಗೆ ಸಿಕ್ಕ ಬಹುಮಾನ",
-  "c6_eng_kalpana": "ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ಭಾರತೀಯ-ಅಮೇರಿಕನ್ ಮಹಿಳೆ: ಕಲ್ಪನಾ ಚಾವ್ಲಾ",
-  "c6_eng_school": "ವಿಭಿನ್ನ ರೀತಿಯ ಶಾಲೆ",
+  "c6_eng_patrick": {
+    "en": "Who Did Patrick's Homework?",
+    "kn": "ಪ್ಯಾಟ್ರಿಕ್ ನ ಮನೆಗೆಲಸ ಯಾರು ಮಾಡಿದರು?"
+  },
+  "c6_eng_master": {
+    "en": "How the Dog Found Himself a New Master!",
+    "kn": "ನಾಯಿ ತನ್ನ ಹೊಸ ಯಜಮಾನನನ್ನು ಹೇಗೆ ಹುಡುಕಿತು!"
+  },
+  "c6_eng_taro": {
+    "en": "Taro's Reward",
+    "kn": "ಟಾರೋನ ಪ್ರತಿಫಲ"
+  },
+  "c6_eng_kalpana": {
+    "en": "Kalpana Chawla",
+    "kn": "ಕಲ್ಪನಾ ಚಾವ್ಲಾ"
+  },
+  "c6_eng_school": {
+    "en": "A Different Kind of School",
+    "kn": "ಒಂದು ವಿಭಿನ್ನ ರೀತಿಯ ಶಾಲೆ"
+  },
   "c6_his_intro": "ಏನು, ಎಲ್ಲಿ, ಹೇಗೆ ಮತ್ತು ಯಾವಾಗ?",
-  "c6_hunting_gathering": "ಬೇಟೆಯಾಡುವುದರಿಂದ ಆಹಾರ ಬೆಳೆಯುವವರೆಗೆ",
-  "c6_earliest_cities": "ಪ್ರಾಚೀನ ನಗರಗಳಲ್ಲಿ",
-  "c6_books_burials": "ಪುಸ್ತಕಗಳು ಮತ್ತು ಸಮಾಧಿಗಳು ನಮಗೆ ತಿಳಿಸುವುದು",
-  "c6_kingdoms": "ರಾಜ್ಯಗಳು, ರಾಜರು ಮತ್ತು ಆರಂಭಿಕ ಗಣರಾಜ್ಯ",
-  "c6_kan_taayi": "ಕನ್ನಡಿಗರ ತಾಯಿ",
-  "c6_kan_ganga": "ಗಂಗಾವತರಣ",
-  "c6_kan_dharma": "ಧರ್ಮಬುದ್ಧಿ",
-  "c6_kan_hosavarsha": "ಹೊಸವರ್ಷ",
-  "c6_kan_abbakka": "ವೀರರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ",
+  "c6_hunting_gathering": {
+    "en": "From Hunting to Growing Food",
+    "kn": "ಬೇಟೆಯಿಂದ ಆಹಾರ ಬೆಳೆಯುವವರೆಗೆ"
+  },
+  "c6_earliest_cities": {
+    "en": "In the Earliest Cities",
+    "kn": "ಆರಂಭಿಕ ನಗರಗಳಲ್ಲಿ"
+  },
+  "c6_books_burials": {
+    "en": "What Books and Burials Tell Us",
+    "kn": "ಪುಸ್ತಕಗಳು ಮತ್ತು ಸಮಾಧಿಗಳು ಏನು ಹೇಳುತ್ತವೆ"
+  },
+  "c6_kingdoms": {
+    "en": "Kingdoms and Early Republic",
+    "kn": "ಸಾಮ್ರಾಜ್ಯಗಳು ಮತ್ತು ಆರಂಭಿಕ ಗಣರಾಜ್ಯ"
+  },
+  "c6_kan_taayi": {
+    "en": "ಕನ್ನಡಿಗರ ತಾಯಿ",
+    "kn": "ಕನ್ನಡಿಗರ ತಾಯಿ"
+  },
+  "c6_kan_ganga": {
+    "en": "ಗಂಗಾವತರಣ",
+    "kn": "ಗಂಗಾವತರಣ"
+  },
+  "c6_kan_dharma": {
+    "en": "ಧರ್ಮಬುದ್ಧಿ",
+    "kn": "ಧರ್ಮಬುದ್ಧಿ"
+  },
+  "c6_kan_hosavarsha": {
+    "en": "ಹೊಸವರ್ಷ",
+    "kn": "ಹೊಸವರ್ಷ"
+  },
+  "c6_kan_abbakka": {
+    "en": "ವೀರರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ",
+    "kn": "ವೀರರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ"
+  },
   "class_7/science": "ವಿಜ್ಞಾನ",
   "nutrition_plants": "ಸಸ್ಯಗಳಲ್ಲಿ ಪೋಷಣೆ",
   "nutrition_animals": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಪೋಷಣೆ",
@@ -136,5 +178,182 @@
   "practical_geometry": "ಪ್ರಾಯೋಗಿಕ ರೇಖಾಗಣಿತ",
   "algebraic_expressions": "ಬೀಜಗಣಿತದ ಅಭಿವ್ಯಕ್ತಿಗಳು",
   "exponents_powers": "ಘಾತಾಂಕಗಳು ಮತ್ತು ಘಾತಗಳು",
-  "solid_shapes": "ಘನಾಕೃತಿಗಳ ದೃಶ್ಯೀಕರಣ"
+  "solid_shapes": "ಘನಾಕೃತಿಗಳ ದೃಶ್ಯೀಕರಣ",
+  "class_7/english": "ಇಂಗ್ಲಿಷ್",
+  "class_7/history": "ಇತಿಹಾಸ (ನಮ್ಮ ಭೂತಕಾಲ - II)",
+  "class_7/kannada": "ಕನ್ನಡ",
+  "c7_eng_questions": "ಮೂರು ಪ್ರಶ್ನೆಗಳು",
+  "c7_eng_chappals": {
+    "en": "A Gift of Chappals",
+    "kn": "ಚಪ್ಪಲಿಗಳ ಕೊಡುಗೆ"
+  },
+  "c7_eng_hilsa": {
+    "en": "Gopal and the Hilsa Fish",
+    "kn": "ಗೋಪಾಲ್ ಮತ್ತು ಹಿಲ್ಸಾ ಮೀನು"
+  },
+  "c7_eng_ashes": {
+    "en": "The Ashes That Made Trees Bloom",
+    "kn": "ಮರಗಳನ್ನು ಅರಳಿಸಿದ ಬೂದಿ"
+  },
+  "c7_eng_quality": {
+    "en": "Quality",
+    "kn": "ಗುಣಮಟ್ಟ"
+  },
+  "c7_his_tracing": {
+    "en": "Tracing Changes Through a Thousand Years",
+    "kn": "ಸಾವಿರ ವರ್ಷಗಳ ಬದಲಾವಣೆಗಳು"
+  },
+  "c7_his_kings": {
+    "en": "Kingdoms and Early Republic",
+    "kn": "ಸಾಮ್ರಾಜ್ಯಗಳು ಮತ್ತು ಆರಂಭಿಕ ಗಣರಾಜ್ಯ"
+  },
+  "c7_his_sultans": {
+    "en": "The Delhi Sultans",
+    "kn": "ದೆಹಲಿ ಸುಲ್ತಾನರು"
+  },
+  "c7_his_mughals": {
+    "en": "The Mughal Empire",
+    "kn": "ಮೊಘಲ್ ಸಾಮ್ರಾಜ್ಯ"
+  },
+  "c7_his_rulers": {
+    "en": "Rulers and Buildings",
+    "kn": "ಆಡಳಿತಗಾರರು ಮತ್ತು ಕಟ್ಟಡಗಳು"
+  },
+  "c7_kan_puttajji": {
+    "en": "ಪುಟ್ಟಜ್ಜಿ ಪುಟ್ಟಜ್ಜಿ ಕಥೆ ಹೇಳು",
+    "kn": "ಪುಟ್ಟಜ್ಜಿ ಪುಟ್ಟಜ್ಜಿ ಕಥೆ ಹೇಳು"
+  },
+  "c7_kan_freedom": {
+    "en": "ಸ್ವಾತಂತ್ರ್ಯದೊಡ್ಡಾಟ",
+    "kn": "ಸ್ವಾತಂತ್ರ್ಯದೊಡ್ಡಾಟ"
+  },
+  "c7_kan_exam": {
+    "en": "ಪರೀಕ್ಷೆ",
+    "kn": "ಪರೀಕ್ಷೆ"
+  },
+  "c7_kan_architects": "ಭಾಗ್ಯಶಿಲ್ಪಿಗಳು",
+  "c7_kan_sailor": {
+    "en": "ಸಿಂಧಬಾದನ ಸಾಹಸ",
+    "kn": "ಸಿಂಧಬಾದನ ಸಾಹಸ"
+  },
+  "english": {
+    "en": "English",
+    "kn": "ಇಂಗ್ಲಿಷ್"
+  },
+  "c7_eng_patrick": {
+    "en": "Who Did Patrick's Homework?",
+    "kn": "ಪ್ಯಾಟ್ರಿಕ್ ನ ಮನೆಗೆಲಸ ಯಾರು ಮಾಡಿದರು?"
+  },
+  "c7_eng_master": {
+    "en": "How the Dog Found Himself a New Master!",
+    "kn": "ನಾಯಿ ತನ್ನ ಹೊಸ ಯಜಮಾನನನ್ನು ಹೇಗೆ ಹುಡುಕಿತು!"
+  },
+  "c7_eng_taro": {
+    "en": "Taro's Reward",
+    "kn": "ಟಾರೋನ ಪ್ರತಿಫಲ"
+  },
+  "c7_eng_kalpana": {
+    "en": "Kalpana Chawla",
+    "kn": "ಕಲ್ಪನಾ ಚಾವ್ಲಾ"
+  },
+  "c7_eng_school": {
+    "en": "A Different Kind of School",
+    "kn": "ಒಂದು ವಿಭಿನ್ನ ರೀತಿಯ ಶಾಲೆ"
+  },
+  "c7_eng_who": {
+    "en": "Who I Am",
+    "kn": "ನಾನು ಯಾರು"
+  },
+  "c7_eng_fair": {
+    "en": "Fair Play",
+    "kn": "ನ್ಯಾಯಸಮ್ಮತ ಆಟ"
+  },
+  "c7_eng_game": {
+    "en": "A Game of Chance",
+    "kn": "ಒಂದು ಅವಕಾಶದ ಆಟ"
+  },
+  "c7_eng_desert": {
+    "en": "Desert Animals",
+    "kn": "ಮರುಭೂಮಿಯ ಪ್ರಾಣಿಗಳು"
+  },
+  "c7_eng_banyan": {
+    "en": "The Banyan Tree",
+    "kn": "ಆಲದ ಮರ"
+  },
+  "c7_eng_teacher": {
+    "en": "The Tiny Teacher",
+    "kn": "ಪುಟ್ಟ ಶಿಕ್ಷಕ"
+  },
+  "c7_eng_alien": {
+    "en": "An Alien Hand",
+    "kn": "ಒಂದು ಅನ್ಯಗ್ರಹ ಜೀವಿ"
+  },
+  "c7_eng_detectives": {
+    "en": "Expert Detectives",
+    "kn": "ಪರಿಣತ ಪತ್ತೇದಾರರು"
+  },
+  "history": {
+    "en": "History",
+    "kn": "ಇತಿಹಾಸ"
+  },
+  "c7_his_intro": {
+    "en": "What, Where, How and When?",
+    "kn": "ಏನು, ಎಲ್ಲಿ, ಹೇಗೆ ಮತ್ತು ಯಾವಾಗ?"
+  },
+  "c7_his_hunt": {
+    "en": "From Hunting to Growing Food",
+    "kn": "ಬೇಟೆಯಿಂದ ಆಹಾರ ಬೆಳೆಯುವವರೆಗೆ"
+  },
+  "c7_his_cities": {
+    "en": "In the Earliest Cities",
+    "kn": "ಆರಂಭಿಕ ನಗರಗಳಲ್ಲಿ"
+  },
+  "c7_his_books": {
+    "en": "What Books and Burials Tell Us",
+    "kn": "ಪುಸ್ತಕಗಳು ಮತ್ತು ಸಮಾಧಿಗಳು ಏನು ಹೇಳುತ್ತವೆ"
+  },
+  "c7_his_newkings": {
+    "en": "New Kings and Kingdoms",
+    "kn": "ಹೊಸ ರಾಜರು ಮತ್ತು ಸಾಮ್ರಾಜ್ಯಗಳು"
+  },
+  "c7_his_towns": {
+    "en": "Towns, Traders and Craftspersons",
+    "kn": "ಪಟ್ಟಣಗಳು, ವ್ಯಾಪಾರಿಗಳು ಮತ್ತು ಕುಶಲಕರ್ಮಿಗಳು"
+  },
+  "c7_his_tribes": {
+    "en": "Tribes and Nomads",
+    "kn": "ಬುಡಕಟ್ಟುಗಳು ಮತ್ತು ಅಲೆಮಾರಿಗಳು"
+  },
+  "c7_his_devotional": {
+    "en": "Devotional Paths to the Divine",
+    "kn": "ದೈವಿಕ ಭಕ್ತಿಯ ಮಾರ್ಗಗಳು"
+  },
+  "kannada": {
+    "en": "Kannada",
+    "kn": "ಕನ್ನಡ"
+  },
+  "c7_kan_taayi": {
+    "en": "ಕನ್ನಡಿಗರ ತಾಯಿ",
+    "kn": "ಕನ್ನಡಿಗರ ತಾಯಿ"
+  },
+  "c7_kan_ganga": {
+    "en": "ಗಂಗಾವತರಣ",
+    "kn": "ಗಂಗಾವತರಣ"
+  },
+  "c7_kan_dharma": {
+    "en": "ಧರ್ಮಬುದ್ಧಿ",
+    "kn": "ಧರ್ಮಬುದ್ಧಿ"
+  },
+  "c7_kan_hosavarsha": {
+    "en": "ಹೊಸವರ್ಷ",
+    "kn": "ಹೊಸವರ್ಷ"
+  },
+  "c7_kan_abbakka": {
+    "en": "ವೀರರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ",
+    "kn": "ವೀರರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ"
+  },
+  "c7_kan_sankalpa": {
+    "en": "ಸಂಕಲ್ಪ ಗೀತೆ",
+    "kn": "ಸಂಕಲ್ಪ ಗೀತೆ"
+  }
 }

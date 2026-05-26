@@ -432,7 +432,7 @@
     },
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><rect x='50' y='50' width='200' height='100' fill='#DBEAFE' stroke='#2563EB' stroke-width='2'/><line x1='150' y1='30' x2='150' y2='170' stroke='#DC2626' stroke-width='2' stroke-dasharray='5,5'/><line x1='30' y1='100' x2='270' y2='100' stroke='#DC2626' stroke-width='2' stroke-dasharray='5,5'/></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><rect x='50' y='50' width='200' height='100' fill='#DBEAFE' stroke='#2563EB' stroke-width='2'/><line x1='150' y1='30' x2='150' y2='170' stroke='#DC2626' stroke-width='2' stroke-dasharray='5,5'/><line x1='30' y1='100' x2='270' y2='100' stroke='#DC2626' stroke-width='2' stroke-dasharray='5,5'/></svg>",
       "alt": {
         "en": "Rectangle with two lines of symmetry",
         "kn": "ಎರಡು ಸಮ್ಮಿತಿ ರೇಖೆಗಳಿರುವ ಆಯತ"
@@ -502,7 +502,7 @@
     },
     "image": {
       "type": "svg",
-      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><polygon points='150,30 50,170 250,170' fill='#DBEAFE' stroke='#2563EB' stroke-width='2'/><line x1='150' y1='10' x2='150' y2='190' stroke='#DC2626' stroke-width='2' stroke-dasharray='5,5'/></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><polygon points=\"150,30 50,170 250,170\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"150\" y1=\"10\" x2=\"150\" y2=\"190\" stroke=\"#DC2626\" stroke-width=\"2\" stroke-dasharray=\"5,5\"/><text x=\"150\" y=\"22\" fill=\"#1F2937\" font-family=\"Arial\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">A</text><text x=\"38\" y=\"180\" fill=\"#1F2937\" font-family=\"Arial\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">B</text><text x=\"262\" y=\"180\" fill=\"#1F2937\" font-family=\"Arial\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">C</text><line x1=\"98\" y1=\"94\" x2=\"105\" y2=\"102\" stroke=\"#059669\" stroke-width=\"2\"/><line x1=\"195\" y1=\"102\" x2=\"202\" y2=\"94\" stroke=\"#059669\" stroke-width=\"2\"/></svg>",
       "alt": {
         "en": "Isosceles triangle with one line of symmetry",
         "kn": "ಒಂದು ಸಮ್ಮಿತಿ ರೇಖೆಯಿರುವ ಸಮದ್ವಿಬಾಹು ತ್ರಿಕೋನ"
@@ -537,7 +537,7 @@
     },
     "image": {
       "type": "svg",
-      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 300'><polygon points='150,30 250,80 250,180 150,230 50,180 50,80' fill='#DBEAFE' stroke='#2563EB' stroke-width='2'/></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 300\"><polygon points=\"150,30 250,80 250,180 150,230 50,180 50,80\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"150\" y1=\"15\" x2=\"150\" y2=\"245\" stroke=\"#DC2626\" stroke-width=\"1.5\" stroke-dasharray=\"5,5\"/><line x1=\"50\" y1=\"80\" x2=\"250\" y2=\"180\" stroke=\"#DC2626\" stroke-width=\"1.5\" stroke-dasharray=\"5,5\"/><line x1=\"50\" y1=\"180\" x2=\"250\" y2=\"80\" stroke=\"#DC2626\" stroke-width=\"1.5\" stroke-dasharray=\"5,5\"/><line x1=\"35\" y1=\"130\" x2=\"265\" y2=\"130\" stroke=\"#DC2626\" stroke-width=\"1\" stroke-dasharray=\"3,3\"/><line x1=\"100\" y1=\"50\" x2=\"200\" y2=\"210\" stroke=\"#DC2626\" stroke-width=\"1\" stroke-dasharray=\"3,3\"/><line x1=\"200\" y1=\"50\" x2=\"100\" y2=\"210\" stroke=\"#DC2626\" stroke-width=\"1\" stroke-dasharray=\"3,3\"/><text x=\"150\" y=\"20\" fill=\"#1F2937\" font-family=\"Arial\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\">A</text><text x=\"262\" y=\"78\" fill=\"#1F2937\" font-family=\"Arial\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"start\">B</text><text x=\"262\" y=\"188\" fill=\"#1F2937\" font-family=\"Arial\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"start\">C</text><text x=\"150\" y=\"250\" fill=\"#1F2937\" font-family=\"Arial\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\">D</text><text x=\"36\" y=\"188\" fill=\"#1F2937\" font-family=\"Arial\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"end\">E</text><text x=\"36\" y=\"78\" fill=\"#1F2937\" font-family=\"Arial\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"end\">F</text><text x=\"150\" y=\"140\" fill=\"#DC2626\" font-family=\"Arial\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">6 lines</text></svg>",
       "alt": {
         "en": "Regular hexagon",
         "kn": "ನಿಯಮಿತ ಷಡ್ಭುಜಾಕೃತಿ"

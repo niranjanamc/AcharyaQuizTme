@@ -1,0 +1,1411 @@
+[
+  {
+    "id": "c7_kan_sailor_q1",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "What is the meaning of 'Satyavanta Navika'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Truthful Sailor",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "The Brave Soldier",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "The Clever King",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "The Poor Farmer",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "'ಸತ್ಯವಂತ ನಾವಿಕ' ಎಂಬುದರ ಅರ್ಥವೇನು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಸತ್ಯವಂತ ನಾವಿಕ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಧೈರ್ಯಶಾಲಿ ಸೈನಿಕ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಬುದ್ಧಿವಂತ ರಾಜ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಬಡ ರೈತ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q2",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Where does a sailor work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "On a ship",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "In an office",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "In a forest",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "In a hospital",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ನಾವಿಕ ಎಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಾನೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಹಡಗಿನಲ್ಲಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಕಚೇರಿಯಲ್ಲಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಕಾಡಿನಲ್ಲಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಆಸ್ಪತ್ರೆಯಲ್ಲಿ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q3",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "What quality was the sailor known for?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Truthfulness",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Laziness",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Greed",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Cowardice",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ನಾವಿಕನು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾಗಿದ್ದನು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಸತ್ಯಸಂಧತೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಸೋಮಾರಿತನ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ದುರಾಸೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಹೇಡಿತನ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q4",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "What did the sailor face while at sea?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A terrible storm",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "A ghost",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "A desert",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "A traffic jam",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಸಮುದ್ರದಲ್ಲಿದ್ದಾಗ ನಾವಿಕನು ಏನನ್ನು ಎದುರಿಸಿದನು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಭಯಾನಕ ಚಂಡಮಾರುತ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಭೂತ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಮರುಭೂಮಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಟ್ರಾಫಿಕ್ ಜಾಮ್",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q5",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Did the sailor abandon the ship in danger?",
+      "options": [
+        {
+          "id": "A",
+          "text": "No, he stayed till the end",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Yes, he ran away",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Yes, he jumped out",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "He hid in a box",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಅಪಾಯದಲ್ಲಿದ್ದಾಗ ನಾವಿಕನು ಹಡಗನ್ನು ತ್ಯಜಿಸಿದನೇ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಇಲ್ಲ, ಅವನು ಕೊನೆಯವರೆಗೂ ಉಳಿದನು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಹೌದು, ಅವನು ಓಡಿಹೋದನು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಹೌದು, ಅವನು ಜಿಗಿದನು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವನು ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಅಡಗಿಕೊಂಡನು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q6",
+    "type": "single",
+    "difficulty": "easy",
+    "en": {
+      "question": "Who gave orders to the sailor?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Captain",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "The King",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "The Passengers",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "The Pirate",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ನಾವಿಕನಿಗೆ ಆಜ್ಞೆಗಳನ್ನು ನೀಡಿದ್ದು ಯಾರು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಕ್ಯಾಪ್ಟನ್",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ರಾಜ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಪ್ರಯಾಣಿಕರು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಕಡಲ್ಗಳ್ಳ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q7",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "Why is the sailor called truthful and loyal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because he obeyed his duty even in danger",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Because he never lied to his friends",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Because he didn't steal",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Because he prayed daily",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ನಾವಿಕನನ್ನು ಸತ್ಯವಂತ ಮತ್ತು ನಿಷ್ಠಾವಂತ ಎಂದು ಏಕೆ ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಏಕೆಂದರೆ ಅವನು ಅಪಾಯದಲ್ಲೂ ತನ್ನ ಕರ್ತವ್ಯವನ್ನು ಪಾಲಿಸಿದನು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಏಕೆಂದರೆ ಅವನು ತನ್ನ ಸ್ನೇಹಿತರಿಗೆ ಎಂದೂ ಸುಳ್ಳು ಹೇಳಲಿಲ್ಲ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಏಕೆಂದರೆ ಅವನು ಕದಿಯಲಿಲ್ಲ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಏಕೆಂದರೆ ಅವನು ಪ್ರತಿದಿನ ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದನು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q8",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "What happened to the ship during the storm?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It caught fire and started sinking",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "It flew in the sky",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "It reached the shore safely",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "It turned into gold",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಚಂಡಮಾರುತದ ಸಮಯದಲ್ಲಿ ಹಡಗಿಗೆ ಏನಾಯಿತು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅದು ಬೆಂಕಿಗೆ ಆಹುತಿಯಾಗಿ ಮುಳುಗಲು ಪ್ರಾರಂಭಿಸಿತು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಅದು ಆಕಾಶದಲ್ಲಿ ಹಾರಿತು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಅದು ಸುರಕ್ಷಿತವಾಗಿ ದಡ ಸೇರಿತು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅದು ಚಿನ್ನವಾಗಿ ಬದಲಾಯಿತು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q9",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "How does the story inspire the readers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To stand firm on duty and truth",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "To become sailors",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "To be afraid of the sea",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "To swim faster",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಈ ಕಥೆಯು ಓದುಗರಿಗೆ ಹೇಗೆ ಸ್ಫೂರ್ತಿ ನೀಡುತ್ತದೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಕರ್ತವ್ಯ ಮತ್ತು ಸತ್ಯದ ಮೇಲೆ ದೃಢವಾಗಿ ನಿಲ್ಲಲು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ನಾವಿಕರಾಗಲು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಸಮುದ್ರಕ್ಕೆ ಹೆದರಲು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ವೇಗವಾಗಿ ಈಜಲು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q10",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "The boy stood on the burning deck because...",
+      "options": [
+        {
+          "id": "A",
+          "text": "He was waiting for his father's order to leave",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "He wanted to watch the fire",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "He couldn't swim",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "He fell asleep",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಹುಡುಗನು ಉರಿಯುತ್ತಿರುವ ಹಡಗಿನ ಮೇಲೆ ನಿಂತಿದ್ದನು ಏಕೆಂದರೆ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅವನು ಹೋಗಲು ತನ್ನ ತಂದೆಯ ಆದೇಶಕ್ಕಾಗಿ ಕಾಯುತ್ತಿದ್ದನು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಅವನು ಬೆಂಕಿಯನ್ನು ನೋಡಲು ಬಯಸಿದನು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಅವನಿಗೆ ಈಜಲು ಬರುತ್ತಿರಲಿಲ್ಲ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವನಿಗೆ ನಿದ್ರೆ ಬಂದಿತ್ತು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q11",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "What did the sailor boy ask his father?",
+      "options": [
+        {
+          "id": "A",
+          "text": "If his task was done",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "For some food",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "To give him a boat",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "To sing a song",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ನಾವಿಕ ಹುಡುಗ ತನ್ನ ತಂದೆಯನ್ನು ಏನು ಕೇಳಿದನು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ತನ್ನ ಕೆಲಸ ಮುಗಿದಿದೆಯೇ ಎಂದು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಸ್ವಲ್ಪ ಆಹಾರಕ್ಕಾಗಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಒಂದು ದೋಣಿಯನ್ನು ನೀಡಲು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಒಂದು ಹಾಡು ಹಾಡಲು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q12",
+    "type": "single",
+    "difficulty": "medium",
+    "en": {
+      "question": "Why didn't his father answer him?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because he was already dead below the deck",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Because it was too noisy",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Because he was angry",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Because he was sleeping",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಅವನ ತಂದೆ ಅವನಿಗೆ ಏಕೆ ಉತ್ತರಿಸಲಿಲ್ಲ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಏಕೆಂದರೆ ಅವನು ಆಗಲೇ ಹಡಗಿನ ಕೆಳಗೆ ಮೃತಪಟ್ಟಿದ್ದನು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಏಕೆಂದರೆ ಅಲ್ಲಿ ತುಂಬಾ ಶಬ್ದವಿತ್ತು",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಏಕೆಂದರೆ ಅವನು ಕೋಪಗೊಂಡಿದ್ದನು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಏಕೆಂದರೆ ಅವನು ಮಲಗಿದ್ದನು",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q13",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "What does the phrase 'burning deck' symbolize in life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A situation of extreme crisis and danger",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "A warm and cozy place",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "A place for cooking",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "A summer day",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಜೀವನದಲ್ಲಿ 'ಉರಿಯುತ್ತಿರುವ ಡೆಕ್' ಎಂಬ ನುಡಿಗಟ್ಟು ಏನನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅತ್ಯಂತ ಬಿಕ್ಕಟ್ಟು ಮತ್ತು ಅಪಾಯದ ಪರಿಸ್ಥಿತಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಬೆಚ್ಚಗಿನ ಮತ್ತು ಸ್ನೇಹಶೀಲ ಸ್ಥಳ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಅಡುಗೆ ಮಾಡುವ ಸ್ಥಳ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಬೇಸಿಗೆಯ ದಿನ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q14",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "The tragic end of the boy highlights which human virtue the most?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unwavering obedience and courage",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Patience",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Intelligence",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Kindness",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಹುಡುಗನ ದುರಂತ ಅಂತ್ಯವು ಯಾವ ಮಾನವ ಸದ್ಗುಣವನ್ನು ಹೆಚ್ಚು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಅಚಲವಾದ ವಿಧೇಯತೆ ಮತ್ತು ಧೈರ್ಯ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ತಾಳ್ಮೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಬುದ್ಧಿವಂತಿಕೆ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ದಯೆ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q15",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "How does the poet describe the boy's appearance amidst the flames?",
+      "options": [
+        {
+          "id": "A",
+          "text": "As beautiful and heroic as a prince",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Terrified and crying",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Ugly and dirty",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Invisible",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಬೆಂಕಿಯ ಜ್ವಾಲೆಗಳ ನಡುವೆ ಹುಡುಗನ ನೋಟವನ್ನು ಕವಿ ಹೇಗೆ ವಿವರಿಸುತ್ತಾರೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ರಾಜಕುಮಾರನಂತೆ ಸುಂದರ ಮತ್ತು ವೀರ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಭಯಭೀತ ಮತ್ತು ಅಳುತ್ತಿರುವ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಕುರೂಪಿ ಮತ್ತು ಕೊಳಕು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅದೃಶ್ಯ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q16",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "What is the ultimate message of the poem 'Satyavanta Navika'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Duty and honor are more precious than life itself",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Always run away from fire",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Never go on a ship",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Listen only to yourself",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "'ಸತ್ಯವಂತ ನಾವಿಕ' ಕವಿತೆಯ ಅಂತಿಮ ಸಂದೇಶವೇನು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಕರ್ತವ್ಯ ಮತ್ತು ಗೌರವವು ಜೀವನಕ್ಕಿಂತಲೂ ಅಮೂಲ್ಯವಾದದ್ದು",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಯಾವಾಗಲೂ ಬೆಂಕಿಯಿಂದ ದೂರ ಓಡಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಹಡಗಿನಲ್ಲಿ ಎಂದೂ ಹೋಗಬೇಡಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ನಿಮ್ಮ ಮಾತನ್ನು ಮಾತ್ರ ಕೇಳಿ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q17",
+    "type": "single",
+    "difficulty": "hard",
+    "en": {
+      "question": "Who is the boy in the historical reference of this poem (Casabianca)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Giocante, a young French naval officer's son",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "An Indian sailor",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "A British soldier",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "A fictional pirate",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    },
+    "kn": {
+      "question": "ಈ ಕವಿತೆಯ (ಕಾಸಾಬಿಯಾಂಕಾ) ಐತಿಹಾಸಿಕ ಉಲ್ಲೇಖದಲ್ಲಿರುವ ಹುಡುಗ ಯಾರು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಜಿಯೋಕಾಂಟೆ, ಯುವ ಫ್ರೆಂಚ್ ನೌಕಾ ಅಧಿಕಾರಿಯ ಮಗ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಒಬ್ಬ ಭಾರತೀಯ ನಾವಿಕ",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ಒಬ್ಬ ಬ್ರಿಟಿಷ್ ಸೈನಿಕ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಒಬ್ಬ ಕಾಲ್ಪನಿಕ ಕಡಲ್ಗಳ್ಳ",
+          "isCorrect": false
+        }
+      ],
+      "answer": "A"
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q18",
+    "type": "multiple",
+    "difficulty": "easy",
+    "en": {
+      "question": "Which of these words describe the sailor boy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Brave",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Truthful",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Cowardly",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Disobedient",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    },
+    "kn": {
+      "question": "ಈ ಪದಗಳಲ್ಲಿ ಯಾವುದು ನಾವಿಕ ಹುಡುಗನನ್ನು ವಿವರಿಸುತ್ತದೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಧೈರ್ಯಶಾಲಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಸತ್ಯವಂತ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಹೇಡಿ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಅವಿಧೇಯ",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q19",
+    "type": "multiple",
+    "difficulty": "medium",
+    "en": {
+      "question": "What dangers did the boy face on the ship?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raging fire",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Explosions",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Wild animals",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Starvation",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    },
+    "kn": {
+      "question": "ಹಡಗಿನಲ್ಲಿ ಹುಡುಗ ಎದುರಿಸಿದ ಅಪಾಯಗಳು ಯಾವುವು?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಭುಗಿಲೆದ್ದ ಬೆಂಕಿ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಸ್ಫೋಟಗಳು",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಕಾಡು ಪ್ರಾಣಿಗಳು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಹಸಿವು",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q20",
+    "type": "multiple",
+    "difficulty": "hard",
+    "en": {
+      "question": "What does the story of the truthful sailor teach us?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Importance of duty",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Sacrifice for a cause",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "How to sail a ship",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "How to fight pirates",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    },
+    "kn": {
+      "question": "ಸತ್ಯವಂತ ನಾವಿಕನ ಕಥೆಯು ನಮಗೆ ಏನನ್ನು ಕಲಿಸುತ್ತದೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ಕರ್ತವ್ಯದ ಮಹತ್ವ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಒಂದು ಕಾರಣಕ್ಕಾಗಿ ತ್ಯಾಗ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಹಡಗನ್ನು ಹೇಗೆ ಓಡಿಸುವುದು",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಕಡಲ್ಗಳ್ಳರೊಂದಿಗೆ ಹೇಗೆ ಹೋರಾಡುವುದು",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q21",
+    "type": "multiple",
+    "difficulty": "hard",
+    "en": {
+      "question": "Which of these emotions does the poem evoke?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sorrow and pity",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "Admiration and respect",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Happiness and joy",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Humor and laughter",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    },
+    "kn": {
+      "question": "ಈ ಕವಿತೆಯು ಯಾವ ಭಾವನೆಗಳನ್ನು ಮೂಡಿಸುತ್ತದೆ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ದುಃಖ ಮತ್ತು ಅಯ್ಯೋ ಎನಿಸುವಿಕೆ",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ಮೆಚ್ಚುಗೆ ಮತ್ತು ಗೌರವ",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ಸಂತೋಷ ಮತ್ತು ಆನಂದ",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ಹಾಸ್ಯ ಮತ್ತು ನಗು",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ]
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q22",
+    "type": "match",
+    "difficulty": "easy",
+    "en": {
+      "question": "Match the sailor words with their meanings",
+      "pairs": [
+        {
+          "left": "Navika",
+          "right": "Sailor"
+        },
+        {
+          "left": "Satyavanta",
+          "right": "Truthful"
+        },
+        {
+          "left": "Benki",
+          "right": "Fire"
+        },
+        {
+          "left": "Samudra",
+          "right": "Sea"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಪದಗಳನ್ನು ಅವುಗಳ ಅರ್ಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+      "pairs": [
+        {
+          "left": "ನಾವಿಕ",
+          "right": "ಹಡಗಿನವನು"
+        },
+        {
+          "left": "ಸತ್ಯವಂತ",
+          "right": "ಪ್ರಾಮಾಣಿಕ"
+        },
+        {
+          "left": "ಬೆಂಕಿ",
+          "right": "ಅಗ್ನಿ"
+        },
+        {
+          "left": "ಸಮುದ್ರ",
+          "right": "ಕಡಲು"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q23",
+    "type": "match",
+    "difficulty": "medium",
+    "en": {
+      "question": "Match the character with their action in the story",
+      "pairs": [
+        {
+          "left": "The Boy",
+          "right": "Stood on the deck"
+        },
+        {
+          "left": "The Father",
+          "right": "Lied dead below"
+        },
+        {
+          "left": "The Crew",
+          "right": "Fled the burning ship"
+        },
+        {
+          "left": "The Flames",
+          "right": "Surrounded the boy"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಕಥೆಯಲ್ಲಿನ ಪಾತ್ರವನ್ನು ಅವರ ಕ್ರಿಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+      "pairs": [
+        {
+          "left": "ಹುಡುಗ",
+          "right": "ಡೆಕ್ ಮೇಲೆ ನಿಂತಿದ್ದನು"
+        },
+        {
+          "left": "ತಂದೆ",
+          "right": "ಕೆಳಗೆ ಮೃತಪಟ್ಟಿದ್ದನು"
+        },
+        {
+          "left": "ಸಿಬ್ಬಂದಿ",
+          "right": "ಉರಿಯುತ್ತಿರುವ ಹಡಗಿನಿಂದ ಓಡಿಹೋದರು"
+        },
+        {
+          "left": "ಜ್ವಾಲೆಗಳು",
+          "right": "ಹುಡುಗನನ್ನು ಸುತ್ತುವರೆದವು"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q24",
+    "type": "match",
+    "difficulty": "medium",
+    "en": {
+      "question": "Match the English phrase with its Kannada translation",
+      "pairs": [
+        {
+          "left": "Burning deck",
+          "right": "Uriyuttiruva hadagu"
+        },
+        {
+          "left": "Fierce storm",
+          "right": "Bhayanaka chandamruta"
+        },
+        {
+          "left": "Brave heart",
+          "right": "Dhairyashali hrudaya"
+        },
+        {
+          "left": "Tragic end",
+          "right": "Durantha antya"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಇಂಗ್ಲಿಷ್ ನುಡಿಗಟ್ಟನ್ನು ಅದರ ಕನ್ನಡ ಅನುವಾದದೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+      "pairs": [
+        {
+          "left": "ಬರ್ನಿಂಗ್ ಡೆಕ್",
+          "right": "ಉರಿಯುತ್ತಿರುವ ಹಡಗು"
+        },
+        {
+          "left": "ಫಿಯರ್ಸ್ ಸ್ಟಾರ್ಮ್",
+          "right": "ಭಯಾನಕ ಚಂಡಮಾರುತ"
+        },
+        {
+          "left": "ಬ್ರೇವ್ ಹಾರ್ಟ್",
+          "right": "ಧೈರ್ಯಶಾಲಿ ಹೃದಯ"
+        },
+        {
+          "left": "ಟ್ರಾಜಿಕ್ ಎಂಡ್",
+          "right": "ದುರಂತ ಅಂತ್ಯ"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7_kan_sailor_q25",
+    "type": "match",
+    "difficulty": "hard",
+    "en": {
+      "question": "Match the poetic element with its significance in the story",
+      "pairs": [
+        {
+          "left": "Fire",
+          "right": "Destruction and test of courage"
+        },
+        {
+          "left": "Father's silence",
+          "right": "Absence of guidance/death"
+        },
+        {
+          "left": "Standing still",
+          "right": "Unwavering commitment"
+        },
+        {
+          "left": "The Ship",
+          "right": "The battlefield/duty station"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಕಾವ್ಯಾತ್ಮಕ ಅಂಶವನ್ನು ಕಥೆಯಲ್ಲಿನ ಅದರ ಮಹತ್ವದೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+      "pairs": [
+        {
+          "left": "ಬೆಂಕಿ",
+          "right": "ವಿನಾಶ ಮತ್ತು ಧೈರ್ಯದ ಪರೀಕ್ಷೆ"
+        },
+        {
+          "left": "ತಂದೆಯ ಮೌನ",
+          "right": "ಮಾರ್ಗದರ್ಶನದ ಕೊರತೆ/ಸಾವು"
+        },
+        {
+          "left": "ಸ್ಥಿರವಾಗಿ ನಿಲ್ಲುವುದು",
+          "right": "ಅಚಲವಾದ ಬದ್ಧತೆ"
+        },
+        {
+          "left": "ಹಡಗು",
+          "right": "ಯುದ್ಧಭೂಮಿ/ಕರ್ತವ್ಯದ ಸ್ಥಳ"
+        }
+      ]
+    }
+  }
+]

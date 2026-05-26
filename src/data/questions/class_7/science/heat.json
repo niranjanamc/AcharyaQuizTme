@@ -5,13 +5,23 @@
     "difficulty": 1,
     "en": {
       "question": "What is the SI unit of heat?",
-      "options": ["Joule", "Newton", "Watt", "Volt"],
+      "options": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Volt"
+      ],
       "answer": "Joule",
       "reasoning": "Heat is a form of energy, and its SI unit is the Joule."
     },
     "kn": {
       "question": "ಉಷ್ಣದ ಅಂತರರಾಷ್ಟ್ರೀಯ (SI) ಏಕಮಾನ ಯಾವುದು?",
-      "options": ["ಜೌಲ್", "ನ್ಯೂಟನ್", "ವ್ಯಾಟ್", "ವೋಲ್ಟ್"],
+      "options": [
+        "ಜೌಲ್",
+        "ನ್ಯೂಟನ್",
+        "ವ್ಯಾಟ್",
+        "ವೋಲ್ಟ್"
+      ],
       "answer": "ಜೌಲ್",
       "reasoning": "ಉಷ್ಣವು ಶಕ್ತಿಯ ಒಂದು ರೂಪವಾಗಿದೆ, ಮತ್ತು ಇದರ SI ಏಕಮಾನ ಜೌಲ್ ಆಗಿದೆ."
     }
@@ -22,13 +32,23 @@
     "difficulty": 1,
     "en": {
       "question": "What is the normal temperature of the human body?",
-      "options": ["35°C", "37°C", "42°C", "98°C"],
+      "options": [
+        "35°C",
+        "37°C",
+        "42°C",
+        "98°C"
+      ],
       "answer": "37°C",
       "reasoning": "The normal temperature of the human body is exactly 37°C."
     },
     "kn": {
       "question": "ಮಾನವನ ದೇಹದ ಸಾಮಾನ್ಯ ತಾಪಮಾನ ಎಷ್ಟು?",
-      "options": ["35°C", "37°C", "42°C", "98°C"],
+      "options": [
+        "35°C",
+        "37°C",
+        "42°C",
+        "98°C"
+      ],
       "answer": "37°C",
       "reasoning": "ಮಾನವನ ದೇಹದ ಸಾಮಾನ್ಯ ತಾಪಮಾನವು ನಿಖರವಾಗಿ 37°C ಆಗಿದೆ."
     }
@@ -43,17 +63,27 @@
         "en": "A clinical thermometer showing 37 degrees Celsius",
         "kn": "37 ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ ತೋರಿಸುತ್ತಿರುವ ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕ"
       },
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 100\"><rect x=\"20\" y=\"40\" width=\"260\" height=\"20\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\" rx=\"10\"/><circle cx=\"30\" cy=\"50\" r=\"15\" fill=\"#DC2626\"/><line x1=\"45\" y1=\"50\" x2=\"150\" y2=\"50\" stroke=\"#DC2626\" stroke-width=\"10\"/><text x=\"150\" y=\"30\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">37°C</text><text x=\"50\" y=\"80\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"12\">35°C</text><text x=\"250\" y=\"80\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"12\">42°C</text></svg>"
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 100\"><rect x=\"20\" y=\"40\" width=\"260\" height=\"20\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\" rx=\"10\"/><circle cx=\"30\" cy=\"50\" r=\"15\" fill=\"#DC2626\"/><line x1=\"45\" y1=\"50\" x2=\"150\" y2=\"50\" stroke=\"#DC2626\" stroke-width=\"10\"/><text x=\"150\" y=\"30\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">37°C</text><text x=\"50\" y=\"80\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"12\">35°C</text><text x=\"250\" y=\"80\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"12\">42°C</text></svg>"
     },
     "en": {
       "question": "What is the range of a clinical thermometer shown here?",
-      "options": ["0°C to 100°C", "35°C to 42°C", "-10°C to 110°C", "32°C to 212°C"],
+      "options": [
+        "0°C to 100°C",
+        "35°C to 42°C",
+        "-10°C to 110°C",
+        "32°C to 212°C"
+      ],
       "answer": "35°C to 42°C",
       "reasoning": "A clinical thermometer is designed to measure human body temperature, ranging from 35°C to 42°C."
     },
     "kn": {
       "question": "ಇಲ್ಲಿ ತೋರಿಸಿರುವ ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕದ ವ್ಯಾಪ್ತಿ ಎಷ್ಟು?",
-      "options": ["0°C ದಿಂದ 100°C", "35°C ದಿಂದ 42°C", "-10°C ದಿಂದ 110°C", "32°C ದಿಂದ 212°C"],
+      "options": [
+        "0°C ದಿಂದ 100°C",
+        "35°C ದಿಂದ 42°C",
+        "-10°C ದಿಂದ 110°C",
+        "32°C ದಿಂದ 212°C"
+      ],
       "answer": "35°C ದಿಂದ 42°C",
       "reasoning": "ಮಾನವನ ದೇಹದ ತಾಪಮಾನವನ್ನು ಅಳೆಯಲು ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ, ಇದರ ವ್ಯಾಪ್ತಿ 35°C ನಿಂದ 42°C ವರೆಗೆ ಇರುತ್ತದೆ."
     }
@@ -64,13 +94,23 @@
     "difficulty": 1,
     "en": {
       "question": "Which device is used to measure temperature?",
-      "options": ["Barometer", "Thermometer", "Lactometer", "Speedometer"],
+      "options": [
+        "Barometer",
+        "Thermometer",
+        "Lactometer",
+        "Speedometer"
+      ],
       "answer": "Thermometer",
       "reasoning": "A thermometer is an instrument used to measure the temperature of an object."
     },
     "kn": {
       "question": "ತಾಪಮಾನವನ್ನು ಅಳೆಯಲು ಬಳಸುವ ಸಾಧನ ಯಾವುದು?",
-      "options": ["ಬ್ಯಾರೋಮೀಟರ್", "ತಾಪಮಾಪಕ (ಥರ್ಮಾಮೀಟರ್)", "ಲ್ಯಾಕ್ಟೋಮೀಟರ್", "ಸ್ಪೀಡೋಮೀಟರ್"],
+      "options": [
+        "ಬ್ಯಾರೋಮೀಟರ್",
+        "ತಾಪಮಾಪಕ (ಥರ್ಮಾಮೀಟರ್)",
+        "ಲ್ಯಾಕ್ಟೋಮೀಟರ್",
+        "ಸ್ಪೀಡೋಮೀಟರ್"
+      ],
       "answer": "ತಾಪಮಾಪಕ (ಥರ್ಮಾಮೀಟರ್)",
       "reasoning": "ತಾಪಮಾಪಕವು ವಸ್ತುವಿನ ತಾಪಮಾನವನ್ನು ಅಳೆಯಲು ಬಳಸುವ ಸಾಧನವಾಗಿದೆ."
     }
@@ -81,13 +121,23 @@
     "difficulty": 1,
     "en": {
       "question": "By which process does heat transfer in solid objects?",
-      "options": ["Conduction", "Convection", "Radiation", "Insulation"],
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Insulation"
+      ],
       "answer": "Conduction",
       "reasoning": "In solids, heat is transferred by conduction, where heat flows from the hotter end to the colder end."
     },
     "kn": {
       "question": "ಘನ ವಸ್ತುಗಳಲ್ಲಿ ಉಷ್ಣವು ಯಾವ ಪ್ರಕ್ರಿಯೆಯ ಮೂಲಕ ವರ್ಗಾವಣೆಯಾಗುತ್ತದೆ?",
-      "options": ["ವಹನ", "ಸಂವಹನ", "ವಿಕಿರಣ", "ಅವಾಹಕತೆ"],
+      "options": [
+        "ವಹನ",
+        "ಸಂವಹನ",
+        "ವಿಕಿರಣ",
+        "ಅವಾಹಕತೆ"
+      ],
       "answer": "ವಹನ",
       "reasoning": "ಘನ ವಸ್ತುಗಳಲ್ಲಿ ಉಷ್ಣವು ವಹನ ಪ್ರಕ್ರಿಯೆಯ ಮೂಲಕ ವರ್ಗಾವಣೆಯಾಗುತ್ತದೆ."
     }
@@ -98,14 +148,32 @@
     "difficulty": 1,
     "en": {
       "question": "Which of the following are good conductors of heat?",
-      "options": ["Iron", "Copper", "Wood", "Aluminum"],
-      "answer": ["Iron", "Copper", "Aluminum"],
+      "options": [
+        "Iron",
+        "Copper",
+        "Wood",
+        "Aluminum"
+      ],
+      "answer": [
+        "Iron",
+        "Copper",
+        "Aluminum"
+      ],
       "reasoning": "Metals like iron, copper, and aluminum allow heat to pass through them easily."
     },
     "kn": {
       "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಉಷ್ಣದ ಉತ್ತಮ ವಾಹಕಗಳು ಯಾವುವು?",
-      "options": ["ಕಬ್ಬಿಣ", "ತಾಮ್ರ", "ಮರ", "ಅಲ್ಯೂಮಿನಿಯಂ"],
-      "answer": ["ಕಬ್ಬಿಣ", "ತಾಮ್ರ", "ಅಲ್ಯೂಮಿನಿಯಂ"],
+      "options": [
+        "ಕಬ್ಬಿಣ",
+        "ತಾಮ್ರ",
+        "ಮರ",
+        "ಅಲ್ಯೂಮಿನಿಯಂ"
+      ],
+      "answer": [
+        "ಕಬ್ಬಿಣ",
+        "ತಾಮ್ರ",
+        "ಅಲ್ಯೂಮಿನಿಯಂ"
+      ],
       "reasoning": "ಕಬ್ಬಿಣ, ತಾಮ್ರ ಮತ್ತು ಅಲ್ಯೂಮಿನಿಯಂನಂತಹ ಲೋಹಗಳು ಉಷ್ಣವನ್ನು ಸುಲಭವಾಗಿ ಹರಿಯಲು ಬಿಡುತ್ತವೆ."
     }
   },
@@ -116,20 +184,44 @@
     "en": {
       "question": "Match the materials with their property regarding heat.",
       "pairs": [
-        {"left": "Aluminum", "right": "Good Conductor"},
-        {"left": "Copper", "right": "Good Conductor"},
-        {"left": "Wood", "right": "Poor Conductor (Insulator)"},
-        {"left": "Plastic", "right": "Poor Conductor (Insulator)"}
+        {
+          "left": "Aluminum",
+          "right": "Good Conductor"
+        },
+        {
+          "left": "Copper",
+          "right": "Good Conductor"
+        },
+        {
+          "left": "Wood",
+          "right": "Poor Conductor (Insulator)"
+        },
+        {
+          "left": "Plastic",
+          "right": "Poor Conductor (Insulator)"
+        }
       ],
       "reasoning": "Metals are conductors, whereas wood and plastic are insulators."
     },
     "kn": {
       "question": "ಉಷ್ಣಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ವಸ್ತುಗಳನ್ನು ಅವುಗಳ ಗುಣಲಕ್ಷಣದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
       "pairs": [
-        {"left": "ಅಲ್ಯೂಮಿನಿಯಂ", "right": "ಉತ್ತಮ ವಾಹಕ"},
-        {"left": "ತಾಮ್ರ", "right": "ಉತ್ತಮ ವಾಹಕ"},
-        {"left": "ಮರ", "right": "ದುರ್ಬಲ ವಾಹಕ (ಅವಾಹಕ)"},
-        {"left": "ಪ್ಲಾಸ್ಟಿಕ್", "right": "ದುರ್ಬಲ ವಾಹಕ (ಅವಾಹಕ)"}
+        {
+          "left": "ಅಲ್ಯೂಮಿನಿಯಂ",
+          "right": "ಉತ್ತಮ ವಾಹಕ"
+        },
+        {
+          "left": "ತಾಮ್ರ",
+          "right": "ಉತ್ತಮ ವಾಹಕ"
+        },
+        {
+          "left": "ಮರ",
+          "right": "ದುರ್ಬಲ ವಾಹಕ (ಅವಾಹಕ)"
+        },
+        {
+          "left": "ಪ್ಲಾಸ್ಟಿಕ್",
+          "right": "ದುರ್ಬಲ ವಾಹಕ (ಅವಾಹಕ)"
+        }
       ],
       "reasoning": "ಲೋಹಗಳು ವಾಹಕಗಳಾಗಿವೆ, ಆದರೆ ಮರ ಮತ್ತು ಪ್ಲಾಸ್ಟಿಕ್ ಅವಾಹಕಗಳಾಗಿವೆ."
     }
@@ -140,13 +232,23 @@
     "difficulty": 1,
     "en": {
       "question": "Why do we wear dark-coloured clothes in winter?",
-      "options": ["They absorb more heat", "They reflect all heat", "They are lighter in weight", "They look better"],
+      "options": [
+        "They absorb more heat",
+        "They reflect all heat",
+        "They are lighter in weight",
+        "They look better"
+      ],
       "answer": "They absorb more heat",
       "reasoning": "Dark colours are good absorbers of heat, keeping our bodies warm during winter."
     },
     "kn": {
       "question": "ನಾವು ಚಳಿಗಾಲದಲ್ಲಿ ಗಾಢ ಬಣ್ಣದ ಬಟ್ಟೆಗಳನ್ನು ಏಕೆ ಧರಿಸುತ್ತೇವೆ?",
-      "options": ["ಅವು ಹೆಚ್ಚು ಉಷ್ಣವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ", "ಅವು ಎಲ್ಲಾ ಉಷ್ಣವನ್ನು ಪ್ರತಿಫಲಿಸುತ್ತವೆ", "ಅವು ತೂಕದಲ್ಲಿ ಹಗುರವಾಗಿರುತ್ತವೆ", "ಅವು ಸುಂದರವಾಗಿ ಕಾಣುತ್ತವೆ"],
+      "options": [
+        "ಅವು ಹೆಚ್ಚು ಉಷ್ಣವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ",
+        "ಅವು ಎಲ್ಲಾ ಉಷ್ಣವನ್ನು ಪ್ರತಿಫಲಿಸುತ್ತವೆ",
+        "ಅವು ತೂಕದಲ್ಲಿ ಹಗುರವಾಗಿರುತ್ತವೆ",
+        "ಅವು ಸುಂದರವಾಗಿ ಕಾಣುತ್ತವೆ"
+      ],
       "answer": "ಅವು ಹೆಚ್ಚು ಉಷ್ಣವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ",
       "reasoning": "ಗಾಢ ಬಣ್ಣಗಳು ಉಷ್ಣವನ್ನು ಚೆನ್ನಾಗಿ ಹೀರಿಕೊಳ್ಳುತ್ತವೆ, ಚಳಿಗಾಲದಲ್ಲಿ ನಮ್ಮ ದೇಹವನ್ನು ಬೆಚ್ಚಗಿಡುತ್ತವೆ."
     }
@@ -157,13 +259,23 @@
     "difficulty": 1,
     "en": {
       "question": "Which mode of heat transfer does not require any medium?",
-      "options": ["Conduction", "Convection", "Radiation", "Boiling"],
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Boiling"
+      ],
       "answer": "Radiation",
       "reasoning": "Radiation can transfer heat through a vacuum, like heat from the sun reaching Earth."
     },
     "kn": {
       "question": "ಯಾವ ಉಷ್ಣ ವರ್ಗಾವಣೆ ವಿಧಾನಕ್ಕೆ ಯಾವುದೇ ಮಾಧ್ಯಮದ ಅಗತ್ಯವಿಲ್ಲ?",
-      "options": ["ವಹನ", "ಸಂವಹನ", "ವಿಕಿರಣ", "ಕುದಿಯುವಿಕೆ"],
+      "options": [
+        "ವಹನ",
+        "ಸಂವಹನ",
+        "ವಿಕಿರಣ",
+        "ಕುದಿಯುವಿಕೆ"
+      ],
       "answer": "ವಿಕಿರಣ",
       "reasoning": "ವಿಕಿರಣ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ಉಷ್ಣವು ನಿರ್ವಾತದ ಮೂಲಕವೂ ವರ್ಗಾವಣೆಯಾಗುತ್ತದೆ (ಉದಾ: ಸೂರ್ಯನ ಉಷ್ಣ ಭೂಮಿಯನ್ನು ತಲುಪುವುದು)."
     }
@@ -182,13 +294,23 @@
     },
     "en": {
       "question": "Which heat transfer method is primarily used by the solar heater shown here to get heat from the sun?",
-      "options": ["Conduction", "Convection", "Radiation", "Insulation"],
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Insulation"
+      ],
       "answer": "Radiation",
       "reasoning": "The heat from the sun reaches the solar heater through radiation, which does not require a medium."
     },
     "kn": {
       "question": "ಇಲ್ಲಿ ತೋರಿಸಿರುವ ಸೌರ ಜಲತಾಪಕವು ಸೂರ್ಯನಿಂದ ಉಷ್ಣವನ್ನು ಪಡೆಯಲು ಪ್ರಾಥಮಿಕವಾಗಿ ಯಾವ ವಿಧಾನವನ್ನು ಬಳಸುತ್ತದೆ?",
-      "options": ["ವಹನ", "ಸಂವಹನ", "ವಿಕಿರಣ", "ಅವಾಹಕತೆ"],
+      "options": [
+        "ವಹನ",
+        "ಸಂವಹನ",
+        "ವಿಕಿರಣ",
+        "ಅವಾಹಕತೆ"
+      ],
       "answer": "ವಿಕಿರಣ",
       "reasoning": "ಸೂರ್ಯನ ಉಷ್ಣವು ವಿಕಿರಣದ ಮೂಲಕ ಸೌರ ಜಲತಾಪಕವನ್ನು ತಲುಪುತ್ತದೆ."
     }
@@ -199,13 +321,23 @@
     "difficulty": 2,
     "en": {
       "question": "What is the purpose of the kink in a clinical thermometer?",
-      "options": ["To make it look attractive", "To prevent mercury level from falling on its own", "To increase its range", "To help in magnifying the scale"],
+      "options": [
+        "To make it look attractive",
+        "To prevent mercury level from falling on its own",
+        "To increase its range",
+        "To help in magnifying the scale"
+      ],
       "answer": "To prevent mercury level from falling on its own",
       "reasoning": "The kink near the bulb prevents mercury from falling automatically, allowing accurate reading."
     },
     "kn": {
       "question": "ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕದಲ್ಲಿರುವ ಕಿಂಕ್ (ವಕ್ರತೆ) ಯ ಉದ್ದೇಶವೇನು?",
-      "options": ["ಅದನ್ನು ಆಕರ್ಷಕವಾಗಿ ಕಾಣುವಂತೆ ಮಾಡಲು", "ಪಾದರಸದ ಮಟ್ಟವು ತನ್ನಷ್ಟಕ್ಕೆ ತಾನೇ ಕೆಳಗೆ ಬೀಳದಂತೆ ತಡೆಯಲು", "ಅದರ ವ್ಯಾಪ್ತಿಯನ್ನು ಹೆಚ್ಚಿಸಲು", "ಮಾಪಕವನ್ನು ದೊಡ್ಡದಾಗಿ ಕಾಣುವಂತೆ ಮಾಡಲು"],
+      "options": [
+        "ಅದನ್ನು ಆಕರ್ಷಕವಾಗಿ ಕಾಣುವಂತೆ ಮಾಡಲು",
+        "ಪಾದರಸದ ಮಟ್ಟವು ತನ್ನಷ್ಟಕ್ಕೆ ತಾನೇ ಕೆಳಗೆ ಬೀಳದಂತೆ ತಡೆಯಲು",
+        "ಅದರ ವ್ಯಾಪ್ತಿಯನ್ನು ಹೆಚ್ಚಿಸಲು",
+        "ಮಾಪಕವನ್ನು ದೊಡ್ಡದಾಗಿ ಕಾಣುವಂತೆ ಮಾಡಲು"
+      ],
       "answer": "ಪಾದರಸದ ಮಟ್ಟವು ತನ್ನಷ್ಟಕ್ಕೆ ತಾನೇ ಕೆಳಗೆ ಬೀಳದಂತೆ ತಡೆಯಲು",
       "reasoning": "ಬಲ್ಬ್ ಬಳಿಯಿರುವ ಕಿಂಕ್ ಪಾದರಸವು ತನ್ನಷ್ಟಕ್ಕೆ ತಾನೇ ಕೆಳಗೆ ಬೀಳದಂತೆ ತಡೆಯುತ್ತದೆ, ಇದರಿಂದ ನಿಖರವಾದ ಓದುವಿಕೆ ಸಾಧ್ಯವಾಗುತ್ತದೆ."
     }
@@ -216,13 +348,23 @@
     "difficulty": 2,
     "en": {
       "question": "What is the typical range of a laboratory thermometer?",
-      "options": ["-10°C to 110°C", "35°C to 42°C", "0°C to 50°C", "-50°C to 50°C"],
+      "options": [
+        "-10°C to 110°C",
+        "35°C to 42°C",
+        "0°C to 50°C",
+        "-50°C to 50°C"
+      ],
       "answer": "-10°C to 110°C",
       "reasoning": "A standard laboratory thermometer ranges from -10°C to 110°C."
     },
     "kn": {
       "question": "ಪ್ರಯೋಗಾಲಯದ ತಾಪಮಾಪಕದ ಸಾಮಾನ್ಯ ವ್ಯಾಪ್ತಿ ಎಷ್ಟು?",
-      "options": ["-10°C ದಿಂದ 110°C", "35°C ದಿಂದ 42°C", "0°C ದಿಂದ 50°C", "-50°C ದಿಂದ 50°C"],
+      "options": [
+        "-10°C ದಿಂದ 110°C",
+        "35°C ದಿಂದ 42°C",
+        "0°C ದಿಂದ 50°C",
+        "-50°C ದಿಂದ 50°C"
+      ],
       "answer": "-10°C ದಿಂದ 110°C",
       "reasoning": "ಪ್ರಮಾಣಿತ ಪ್ರಯೋಗಾಲಯದ ತಾಪಮಾಪಕವು -10°C ನಿಂದ 110°C ವರೆಗಿನ ವ್ಯಾಪ್ತಿಯನ್ನು ಹೊಂದಿರುತ್ತದೆ."
     }
@@ -233,14 +375,30 @@
     "difficulty": 2,
     "en": {
       "question": "Which of the following statements are true about a sea breeze?",
-      "options": ["It blows from sea to land", "It occurs during the daytime", "It occurs during the night", "It blows from land to sea"],
-      "answer": ["It blows from sea to land", "It occurs during the daytime"],
+      "options": [
+        "It blows from sea to land",
+        "It occurs during the daytime",
+        "It occurs during the night",
+        "It blows from land to sea"
+      ],
+      "answer": [
+        "It blows from sea to land",
+        "It occurs during the daytime"
+      ],
       "reasoning": "During the day, land heats up faster, causing warm air to rise and cooler air from the sea to rush in."
     },
     "kn": {
       "question": "ಕಡಲ ಗಾಳಿಯ (sea breeze) ಬಗ್ಗೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿ?",
-      "options": ["ಇದು ಸಮುದ್ರದಿಂದ ಭೂಮಿಯ ಕಡೆಗೆ ಬೀಸುತ್ತದೆ", "ಇದು ಹಗಲಿನಲ್ಲಿ ಸಂಭವಿಸುತ್ತದೆ", "ಇದು ರಾತ್ರಿಯಲ್ಲಿ ಸಂಭವಿಸುತ್ತದೆ", "ಇದು ಭೂಮಿಯಿಂದ ಸಮುದ್ರದ ಕಡೆಗೆ ಬೀಸುತ್ತದೆ"],
-      "answer": ["ಇದು ಸಮುದ್ರದಿಂದ ಭೂಮಿಯ ಕಡೆಗೆ ಬೀಸುತ್ತದೆ", "ಇದು ಹಗಲಿನಲ್ಲಿ ಸಂಭವಿಸುತ್ತದೆ"],
+      "options": [
+        "ಇದು ಸಮುದ್ರದಿಂದ ಭೂಮಿಯ ಕಡೆಗೆ ಬೀಸುತ್ತದೆ",
+        "ಇದು ಹಗಲಿನಲ್ಲಿ ಸಂಭವಿಸುತ್ತದೆ",
+        "ಇದು ರಾತ್ರಿಯಲ್ಲಿ ಸಂಭವಿಸುತ್ತದೆ",
+        "ಇದು ಭೂಮಿಯಿಂದ ಸಮುದ್ರದ ಕಡೆಗೆ ಬೀಸುತ್ತದೆ"
+      ],
+      "answer": [
+        "ಇದು ಸಮುದ್ರದಿಂದ ಭೂಮಿಯ ಕಡೆಗೆ ಬೀಸುತ್ತದೆ",
+        "ಇದು ಹಗಲಿನಲ್ಲಿ ಸಂಭವಿಸುತ್ತದೆ"
+      ],
       "reasoning": "ಹಗಲಿನಲ್ಲಿ ಭೂಮಿಯು ವೇಗವಾಗಿ ಬಿಸಿಯಾಗುತ್ತದೆ, ಬಿಸಿ ಗಾಳಿ ಮೇಲೇರುತ್ತದೆ ಮತ್ತು ಸಮುದ್ರದಿಂದ ತಂಪಾದ ಗಾಳಿಯು ಭೂಮಿಯತ್ತ ಬೀಸುತ್ತದೆ."
     }
   },
@@ -254,17 +412,27 @@
         "en": "Diagram showing water heating in a beaker with upward and downward arrows",
         "kn": "ಬೀಕರ್‌ನಲ್ಲಿ ನೀರನ್ನು ಬಿಸಿಮಾಡುವುದನ್ನು ಮತ್ತು ಮೇಲ್ಮುಖ, ಕೆಳಮುಖ ಬಾಣಗಳನ್ನು ತೋರಿಸುವ ಚಿತ್ರ"
       },
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 300\"><rect x=\"100\" y=\"100\" width=\"100\" height=\"150\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M100,120 Q150,110 200,120\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"270\" r=\"10\" fill=\"#DC2626\"/><path d=\"M150,230 L150,150\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"2\" marker-end=\"url(#arrow)\"/><path d=\"M140,140 Q110,140 110,180 L110,220\" fill=\"none\" stroke=\"#059669\" stroke-width=\"2\" marker-end=\"url(#arrow)\"/><path d=\"M160,140 Q190,140 190,180 L190,220\" fill=\"none\" stroke=\"#059669\" stroke-width=\"2\" marker-end=\"url(#arrow)\"/><defs><marker id=\"arrow\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8\" fill=\"context-stroke\"/></marker></defs></svg>"
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 300\"><rect x=\"100\" y=\"100\" width=\"100\" height=\"150\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M100,120 Q150,110 200,120\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"270\" r=\"10\" fill=\"#DC2626\"/><path d=\"M150,230 L150,150\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"2\" marker-end=\"url(#arrow)\"/><path d=\"M140,140 Q110,140 110,180 L110,220\" fill=\"none\" stroke=\"#059669\" stroke-width=\"2\" marker-end=\"url(#arrow)\"/><path d=\"M160,140 Q190,140 190,180 L190,220\" fill=\"none\" stroke=\"#059669\" stroke-width=\"2\" marker-end=\"url(#arrow)\"/><defs><marker id=\"arrow\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8\" fill=\"context-stroke\"/></marker></defs></svg>"
     },
     "en": {
       "question": "What process is illustrated by the circulating arrows in this heating beaker?",
-      "options": ["Conduction", "Convection", "Radiation", "Sublimation"],
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Sublimation"
+      ],
       "answer": "Convection",
       "reasoning": "In liquids, heat transfer occurs via convection. Hot water rises, and cold water sinks, forming a current."
     },
     "kn": {
       "question": "ಈ ಬಿಸಿಯಾಗುತ್ತಿರುವ ಬೀಕರ್‌ನಲ್ಲಿ ತಿರುಗುತ್ತಿರುವ ಬಾಣಗಳಿಂದ ಯಾವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ವಿವರಿಸಲಾಗಿದೆ?",
-      "options": ["ವಹನ", "ಸಂವಹನ", "ವಿಕಿರಣ", "ಉತ್ಪತನ (Sublimation)"],
+      "options": [
+        "ವಹನ",
+        "ಸಂವಹನ",
+        "ವಿಕಿರಣ",
+        "ಉತ್ಪತನ (Sublimation)"
+      ],
       "answer": "ಸಂವಹನ",
       "reasoning": "ದ್ರವಗಳಲ್ಲಿ, ಉಷ್ಣ ವರ್ಗಾವಣೆಯು ಸಂವಹನದ ಮೂಲಕ ಸಂಭವಿಸುತ್ತದೆ. ಬಿಸಿ ನೀರು ಮೇಲೇರುತ್ತದೆ ಮತ್ತು ತಂಪಾದ ನೀರು ಕೆಳಗೆ ಹೋಗುತ್ತದೆ."
     }
@@ -275,13 +443,23 @@
     "difficulty": 2,
     "en": {
       "question": "When does the land breeze blow?",
-      "options": ["During the day", "During the night", "During monsoon only", "During summer noon"],
+      "options": [
+        "During the day",
+        "During the night",
+        "During monsoon only",
+        "During summer noon"
+      ],
       "answer": "During the night",
       "reasoning": "At night, land cools faster than the sea. The warm air above the sea rises, and cooler air from land moves towards the sea."
     },
     "kn": {
       "question": "ನೆಲದ ಗಾಳಿ (land breeze) ಯಾವಾಗ ಬೀಸುತ್ತದೆ?",
-      "options": ["ಹಗಲಿನಲ್ಲಿ", "ರಾತ್ರಿಯಲ್ಲಿ", "ಮುಂಗಾರಿನಲ್ಲಿ ಮಾತ್ರ", "ಬೇಸಿಗೆಯ ಮಧ್ಯಾಹ್ನ"],
+      "options": [
+        "ಹಗಲಿನಲ್ಲಿ",
+        "ರಾತ್ರಿಯಲ್ಲಿ",
+        "ಮುಂಗಾರಿನಲ್ಲಿ ಮಾತ್ರ",
+        "ಬೇಸಿಗೆಯ ಮಧ್ಯಾಹ್ನ"
+      ],
       "answer": "ರಾತ್ರಿಯಲ್ಲಿ",
       "reasoning": "ರಾತ್ರಿಯಲ್ಲಿ, ಸಮುದ್ರಕ್ಕಿಂತ ಭೂಮಿಯು ವೇಗವಾಗಿ ತಂಪಾಗುತ್ತದೆ. ಸಮುದ್ರದ ಮೇಲಿನ ಬಿಸಿ ಗಾಳಿ ಮೇಲೇರುತ್ತದೆ ಮತ್ತು ಭೂಮಿಯಿಂದ ತಂಪಾದ ಗಾಳಿ ಸಮುದ್ರದ ಕಡೆಗೆ ಚಲಿಸುತ್ತದೆ."
     }
@@ -293,20 +471,44 @@
     "en": {
       "question": "Match the phenomenon or choice of clothes to its corresponding condition.",
       "pairs": [
-        {"left": "Sea breeze", "right": "Blows during the day"},
-        {"left": "Land breeze", "right": "Blows during the night"},
-        {"left": "Dark colored clothes", "right": "Preferred in winter"},
-        {"left": "Light colored clothes", "right": "Preferred in summer"}
+        {
+          "left": "Sea breeze",
+          "right": "Blows during the day"
+        },
+        {
+          "left": "Land breeze",
+          "right": "Blows during the night"
+        },
+        {
+          "left": "Dark colored clothes",
+          "right": "Preferred in winter"
+        },
+        {
+          "left": "Light colored clothes",
+          "right": "Preferred in summer"
+        }
       ],
       "reasoning": "Sea breeze occurs at day, land breeze at night. Dark clothes absorb heat, light clothes reflect it."
     },
     "kn": {
       "question": "ವಿದ್ಯಮಾನ ಅಥವಾ ಬಟ್ಟೆಗಳ ಆಯ್ಕೆಯನ್ನು ಅದರ ಅನುಗುಣವಾದ ಸ್ಥಿತಿಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
       "pairs": [
-        {"left": "ಕಡಲ ಗಾಳಿ", "right": "ಹಗಲಿನಲ್ಲಿ ಬೀಸುತ್ತದೆ"},
-        {"left": "ನೆಲದ ಗಾಳಿ", "right": "ರಾತ್ರಿಯಲ್ಲಿ ಬೀಸುತ್ತದೆ"},
-        {"left": "ಗಾಢ ಬಣ್ಣದ ಬಟ್ಟೆಗಳು", "right": "ಚಳಿಗಾಲಕ್ಕೆ ಸೂಕ್ತ"},
-        {"left": "ತಿಳಿ ಬಣ್ಣದ ಬಟ್ಟೆಗಳು", "right": "ಬೇಸಿಗೆಗೆ ಸೂಕ್ತ"}
+        {
+          "left": "ಕಡಲ ಗಾಳಿ",
+          "right": "ಹಗಲಿನಲ್ಲಿ ಬೀಸುತ್ತದೆ"
+        },
+        {
+          "left": "ನೆಲದ ಗಾಳಿ",
+          "right": "ರಾತ್ರಿಯಲ್ಲಿ ಬೀಸುತ್ತದೆ"
+        },
+        {
+          "left": "ಗಾಢ ಬಣ್ಣದ ಬಟ್ಟೆಗಳು",
+          "right": "ಚಳಿಗಾಲಕ್ಕೆ ಸೂಕ್ತ"
+        },
+        {
+          "left": "ತಿಳಿ ಬಣ್ಣದ ಬಟ್ಟೆಗಳು",
+          "right": "ಬೇಸಿಗೆಗೆ ಸೂಕ್ತ"
+        }
       ],
       "reasoning": "ಕಡಲ ಗಾಳಿ ಹಗಲಿನಲ್ಲಿ, ನೆಲದ ಗಾಳಿ ರಾತ್ರಿಯಲ್ಲಿ ಬೀಸುತ್ತದೆ. ಗಾಢ ಬಣ್ಣದ ಬಟ್ಟೆಗಳು ಉಷ್ಣವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ, ತಿಳಿ ಬಣ್ಣದ ಬಟ್ಟೆಗಳು ಪ್ರತಿಫಲಿಸುತ್ತವೆ."
     }
@@ -317,13 +519,23 @@
     "difficulty": 2,
     "en": {
       "question": "Why do woollen clothes keep us warm in winter?",
-      "options": ["Wool produces heat", "Wool reflects heat from the sun", "Wool is a poor conductor and traps air", "Wool absorbs cold air"],
+      "options": [
+        "Wool produces heat",
+        "Wool reflects heat from the sun",
+        "Wool is a poor conductor and traps air",
+        "Wool absorbs cold air"
+      ],
       "answer": "Wool is a poor conductor and traps air",
       "reasoning": "Wool fibers trap air, which is a poor conductor of heat. This prevents the flow of heat from our body to the cold surroundings."
     },
     "kn": {
       "question": "ಚಳಿಗಾಲದಲ್ಲಿ ಉಣ್ಣೆಯ ಬಟ್ಟೆಗಳು ನಮ್ಮನ್ನು ಬೆಚ್ಚಗಿಡಲು ಕಾರಣವೇನು?",
-      "options": ["ಉಣ್ಣೆಯು ಉಷ್ಣವನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ", "ಉಣ್ಣೆಯು ಸೂರ್ಯನಿಂದ ಉಷ್ಣವನ್ನು ಪ್ರತಿಫಲಿಸುತ್ತದೆ", "ಉಣ್ಣೆಯು ದುರ್ಬಲ ವಾಹಕವಾಗಿದೆ ಮತ್ತು ಗಾಳಿಯನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ", "ಉಣ್ಣೆಯು ತಂಪಾದ ಗಾಳಿಯನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ"],
+      "options": [
+        "ಉಣ್ಣೆಯು ಉಷ್ಣವನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ",
+        "ಉಣ್ಣೆಯು ಸೂರ್ಯನಿಂದ ಉಷ್ಣವನ್ನು ಪ್ರತಿಫಲಿಸುತ್ತದೆ",
+        "ಉಣ್ಣೆಯು ದುರ್ಬಲ ವಾಹಕವಾಗಿದೆ ಮತ್ತು ಗಾಳಿಯನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ",
+        "ಉಣ್ಣೆಯು ತಂಪಾದ ಗಾಳಿಯನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ"
+      ],
       "answer": "ಉಣ್ಣೆಯು ದುರ್ಬಲ ವಾಹಕವಾಗಿದೆ ಮತ್ತು ಗಾಳಿಯನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ",
       "reasoning": "ಉಣ್ಣೆಯ ಎಳೆಗಳು ಗಾಳಿಯನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುತ್ತವೆ, ಇದು ಉಷ್ಣದ ದುರ್ಬಲ ವಾಹಕವಾಗಿದೆ. ಇದು ನಮ್ಮ ದೇಹದಿಂದ ತಂಪಾದ ಪರಿಸರಕ್ಕೆ ಉಷ್ಣ ಹರಿಯುವುದನ್ನು ತಡೆಯುತ್ತದೆ."
     }
@@ -338,17 +550,27 @@
         "en": "A metal rod heated at one end with wax pieces melting progressively",
         "kn": "ಒಂದು ತುದಿಯಲ್ಲಿ ಬಿಸಿಮಾಡಲಾದ ಲೋಹದ ಸಲಾಕೆ, ಅದರ ಮೇಲಿನ ಮೇಣದ ತುಂಡುಗಳು ಕರಗುತ್ತಿವೆ"
       },
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"50\" y=\"90\" width=\"200\" height=\"10\" fill=\"#1F2937\"/><circle cx=\"60\" cy=\"95\" r=\"15\" fill=\"#DC2626\"/><circle cx=\"120\" cy=\"100\" r=\"5\" fill=\"#EA580C\"/><circle cx=\"160\" cy=\"100\" r=\"5\" fill=\"#EA580C\"/><circle cx=\"200\" cy=\"100\" r=\"5\" fill=\"#EA580C\"/></svg>"
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"50\" y=\"90\" width=\"200\" height=\"10\" fill=\"#1F2937\"/><circle cx=\"60\" cy=\"95\" r=\"15\" fill=\"#DC2626\"/><circle cx=\"120\" cy=\"100\" r=\"5\" fill=\"#EA580C\"/><circle cx=\"160\" cy=\"100\" r=\"5\" fill=\"#EA580C\"/><circle cx=\"200\" cy=\"100\" r=\"5\" fill=\"#EA580C\"/></svg>"
     },
     "en": {
       "question": "The experiment shown involves heating one end of a rod to melt wax pieces. Which process is being demonstrated?",
-      "options": ["Convection", "Radiation", "Conduction", "Evaporation"],
+      "options": [
+        "Convection",
+        "Radiation",
+        "Conduction",
+        "Evaporation"
+      ],
       "answer": "Conduction",
       "reasoning": "Heat travels through the solid rod from the hotter end to the colder end by conduction, melting the wax pieces in sequence."
     },
     "kn": {
       "question": "ತೋರಿಸಿರುವ ಪ್ರಯೋಗದಲ್ಲಿ, ಮೇಣದ ತುಂಡುಗಳನ್ನು ಕರಗಿಸಲು ಸಲಾಕೆಯ ಒಂದು ತುದಿಯನ್ನು ಬಿಸಿಮಾಡಲಾಗುತ್ತದೆ. ಇದು ಯಾವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ?",
-      "options": ["ಸಂವಹನ", "ವಿಕಿರಣ", "ವಹನ", "ಬಾಷ್ಪೀಕರಣ"],
+      "options": [
+        "ಸಂವಹನ",
+        "ವಿಕಿರಣ",
+        "ವಹನ",
+        "ಬಾಷ್ಪೀಕರಣ"
+      ],
       "answer": "ವಹನ",
       "reasoning": "ಉಷ್ಣವು ಘನವಾದ ಸಲಾಕೆಯ ಮೂಲಕ ಬಿಸಿಯಾದ ತುದಿಯಿಂದ ತಂಪಾದ ತುದಿಗೆ ವಹನದ ಮೂಲಕ ಚಲಿಸುತ್ತದೆ, ಮತ್ತು ಮೇಣವನ್ನು ಕ್ರಮವಾಗಿ ಕರಗಿಸುತ್ತದೆ."
     }
@@ -359,13 +581,23 @@
     "difficulty": 2,
     "en": {
       "question": "Why are stainless steel cooking pans often provided with copper bottoms?",
-      "options": ["Copper is cheaper than steel", "Copper looks more beautiful", "Copper is a better conductor of heat than steel", "Copper is easier to clean"],
+      "options": [
+        "Copper is cheaper than steel",
+        "Copper looks more beautiful",
+        "Copper is a better conductor of heat than steel",
+        "Copper is easier to clean"
+      ],
       "answer": "Copper is a better conductor of heat than steel",
       "reasoning": "Copper conducts heat better and faster than stainless steel, allowing food to cook efficiently."
     },
     "kn": {
       "question": "ಸ್ಟೇನ್ಲೆಸ್ ಸ್ಟೀಲ್ ಅಡುಗೆ ಪಾತ್ರೆಗಳಿಗೆ ಹೆಚ್ಚಾಗಿ ತಾಮ್ರದ ತಳವನ್ನು ಏಕೆ ನೀಡಲಾಗುತ್ತದೆ?",
-      "options": ["ತಾಮ್ರವು ಉಕ್ಕಿಗಿಂತ ಅಗ್ಗವಾಗಿದೆ", "ತಾಮ್ರವು ಹೆಚ್ಚು ಸುಂದರವಾಗಿ ಕಾಣುತ್ತದೆ", "ತಾಮ್ರವು ಉಕ್ಕಿಗಿಂತ ಉಷ್ಣದ ಉತ್ತಮ ವಾಹಕವಾಗಿದೆ", "ತಾಮ್ರವನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸುವುದು ಸುಲಭ"],
+      "options": [
+        "ತಾಮ್ರವು ಉಕ್ಕಿಗಿಂತ ಅಗ್ಗವಾಗಿದೆ",
+        "ತಾಮ್ರವು ಹೆಚ್ಚು ಸುಂದರವಾಗಿ ಕಾಣುತ್ತದೆ",
+        "ತಾಮ್ರವು ಉಕ್ಕಿಗಿಂತ ಉಷ್ಣದ ಉತ್ತಮ ವಾಹಕವಾಗಿದೆ",
+        "ತಾಮ್ರವನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸುವುದು ಸುಲಭ"
+      ],
       "answer": "ತಾಮ್ರವು ಉಕ್ಕಿಗಿಂತ ಉಷ್ಣದ ಉತ್ತಮ ವಾಹಕವಾಗಿದೆ",
       "reasoning": "ತಾಮ್ರವು ಸ್ಟೇನ್ಲೆಸ್ ಸ್ಟೀಲ್ ಗಿಂತ ವೇಗವಾಗಿ ಮತ್ತು ಉತ್ತಮವಾಗಿ ಉಷ್ಣವನ್ನು ಹರಿಯಲು ಬಿಡುತ್ತದೆ."
     }
@@ -377,20 +609,44 @@
     "en": {
       "question": "Match the application with its primary mode of heat transfer.",
       "pairs": [
-        {"left": "Plastic handle of a frying pan", "right": "Insulation (prevents conduction)"},
-        {"left": "Sun's heat reaching Earth", "right": "Radiation"},
-        {"left": "Water boiling in a pot", "right": "Convection"},
-        {"left": "A metal spoon getting hot in soup", "right": "Conduction"}
+        {
+          "left": "Plastic handle of a frying pan",
+          "right": "Insulation (prevents conduction)"
+        },
+        {
+          "left": "Sun's heat reaching Earth",
+          "right": "Radiation"
+        },
+        {
+          "left": "Water boiling in a pot",
+          "right": "Convection"
+        },
+        {
+          "left": "A metal spoon getting hot in soup",
+          "right": "Conduction"
+        }
       ],
       "reasoning": "Each phenomenon relies on a specific physical property of heat transfer."
     },
     "kn": {
       "question": "ಅನ್ವಯವನ್ನು ಅದರ ಪ್ರಾಥಮಿಕ ಉಷ್ಣ ವರ್ಗಾವಣೆ ವಿಧಾನದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
       "pairs": [
-        {"left": "ಫ್ರೈಯಿಂಗ್ ಪ್ಯಾನ್‌ನ ಪ್ಲಾಸ್ಟಿಕ್ ಹಿಡಿಕೆ", "right": "ಅವಾಹಕತೆ (ವಹನವನ್ನು ತಡೆಯುತ್ತದೆ)"},
-        {"left": "ಸೂರ್ಯನ ಉಷ್ಣ ಭೂಮಿಯನ್ನು ತಲುಪುವುದು", "right": "ವಿಕಿರಣ"},
-        {"left": "ಮಡಕೆಯಲ್ಲಿ ನೀರು ಕುದಿಯುವುದು", "right": "ಸಂವಹನ"},
-        {"left": "ಸೂಪ್‌ನಲ್ಲಿರುವ ಲೋಹದ ಚಮಚ ಬಿಸಿಯಾಗುವುದು", "right": "ವಹನ"}
+        {
+          "left": "ಫ್ರೈಯಿಂಗ್ ಪ್ಯಾನ್‌ನ ಪ್ಲಾಸ್ಟಿಕ್ ಹಿಡಿಕೆ",
+          "right": "ಅವಾಹಕತೆ (ವಹನವನ್ನು ತಡೆಯುತ್ತದೆ)"
+        },
+        {
+          "left": "ಸೂರ್ಯನ ಉಷ್ಣ ಭೂಮಿಯನ್ನು ತಲುಪುವುದು",
+          "right": "ವಿಕಿರಣ"
+        },
+        {
+          "left": "ಮಡಕೆಯಲ್ಲಿ ನೀರು ಕುದಿಯುವುದು",
+          "right": "ಸಂವಹನ"
+        },
+        {
+          "left": "ಸೂಪ್‌ನಲ್ಲಿರುವ ಲೋಹದ ಚಮಚ ಬಿಸಿಯಾಗುವುದು",
+          "right": "ವಹನ"
+        }
       ],
       "reasoning": "ಪ್ರತಿಯೊಂದು ವಿದ್ಯಮಾನವು ಉಷ್ಣ ವರ್ಗಾವಣೆಯ ನಿರ್ದಿಷ್ಟ ಭೌತಿಕ ಗುಣವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ."
     }
@@ -401,13 +657,23 @@
     "difficulty": 3,
     "en": {
       "question": "Why does a thermos flask have double walls with a vacuum between them?",
-      "options": ["To make it strong", "To prevent heat loss by conduction and convection", "To prevent heat loss by radiation only", "To increase its weight"],
+      "options": [
+        "To make it strong",
+        "To prevent heat loss by conduction and convection",
+        "To prevent heat loss by radiation only",
+        "To increase its weight"
+      ],
       "answer": "To prevent heat loss by conduction and convection",
       "reasoning": "A vacuum does not have particles, so it completely stops heat transfer by conduction and convection."
     },
     "kn": {
       "question": "ಥರ್ಮೋಸ್ ಫ್ಲಾಸ್ಕ್ ಎರಡು ಗೋಡೆಗಳನ್ನು ಮತ್ತು ಅವುಗಳ ನಡುವೆ ನಿರ್ವಾತವನ್ನು ಏಕೆ ಹೊಂದಿರುತ್ತದೆ?",
-      "options": ["ಅದನ್ನು ಬಲಪಡಿಸಲು", "ವಹನ ಮತ್ತು ಸಂವಹನದಿಂದ ಉಷ್ಣ ನಷ್ಟವಾಗುವುದನ್ನು ತಡೆಯಲು", "ವಿಕಿರಣದಿಂದ ಮಾತ್ರ ಉಷ್ಣ ನಷ್ಟವಾಗುವುದನ್ನು ತಡೆಯಲು", "ಅದರ ತೂಕವನ್ನು ಹೆಚ್ಚಿಸಲು"],
+      "options": [
+        "ಅದನ್ನು ಬಲಪಡಿಸಲು",
+        "ವಹನ ಮತ್ತು ಸಂವಹನದಿಂದ ಉಷ್ಣ ನಷ್ಟವಾಗುವುದನ್ನು ತಡೆಯಲು",
+        "ವಿಕಿರಣದಿಂದ ಮಾತ್ರ ಉಷ್ಣ ನಷ್ಟವಾಗುವುದನ್ನು ತಡೆಯಲು",
+        "ಅದರ ತೂಕವನ್ನು ಹೆಚ್ಚಿಸಲು"
+      ],
       "answer": "ವಹನ ಮತ್ತು ಸಂವಹನದಿಂದ ಉಷ್ಣ ನಷ್ಟವಾಗುವುದನ್ನು ತಡೆಯಲು",
       "reasoning": "ನಿರ್ವಾತದಲ್ಲಿ ಕಣಗಳಿರುವುದಿಲ್ಲ, ಆದ್ದರಿಂದ ಇದು ವಹನ ಮತ್ತು ಸಂವಹನದಿಂದ ಉಷ್ಣ ವರ್ಗಾವಣೆಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತಡೆಯುತ್ತದೆ."
     }
@@ -422,18 +688,36 @@
         "en": "A pot on a stove demonstrating all three modes of heat transfer",
         "kn": "ಎಲ್ಲಾ ಮೂರು ಉಷ್ಣ ವರ್ಗಾವಣೆ ವಿಧಾನಗಳನ್ನು ಪ್ರದರ್ಶಿಸುವ, ಸ್ಟೌವ್ ಮೇಲಿರುವ ಮಡಕೆ"
       },
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 300\"><rect x=\"100\" y=\"180\" width=\"100\" height=\"20\" fill=\"#1F2937\"/><path d=\"M100,100 Q150,180 200,100\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"3\"/><path d=\"M150,180 L150,150\" stroke=\"#DC2626\" stroke-width=\"2\" marker-end=\"url(#a)\"/><path d=\"M140,140 Q110,140 110,180\" stroke=\"#059669\" stroke-width=\"2\" marker-end=\"url(#a)\"/><path d=\"M200,140 L240,140\" stroke=\"#EA580C\" stroke-width=\"2\" marker-end=\"url(#a)\"/><text x=\"250\" y=\"145\" font-family=\"Arial\">?</text><defs><marker id=\"a\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8\" fill=\"none\" stroke=\"context-stroke\"/></marker></defs></svg>"
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 300\"><rect x=\"100\" y=\"180\" width=\"100\" height=\"20\" fill=\"#1F2937\"/><path d=\"M100,100 Q150,180 200,100\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"3\"/><path d=\"M150,180 L150,150\" stroke=\"#DC2626\" stroke-width=\"2\" marker-end=\"url(#a)\"/><path d=\"M140,140 Q110,140 110,180\" stroke=\"#059669\" stroke-width=\"2\" marker-end=\"url(#a)\"/><path d=\"M200,140 L240,140\" stroke=\"#EA580C\" stroke-width=\"2\" marker-end=\"url(#a)\"/><text x=\"250\" y=\"145\" font-family=\"Arial\">?</text><defs><marker id=\"a\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8\" fill=\"none\" stroke=\"context-stroke\"/></marker></defs></svg>"
     },
     "en": {
       "question": "When a pan of water is boiled on a stove, which modes of heat transfer are taking place?",
-      "options": ["Conduction (stove to pan)", "Convection (within the water)", "Radiation (heat felt sideways from the pan)", "Condensation (inside the pan)"],
-      "answer": ["Conduction (stove to pan)", "Convection (within the water)", "Radiation (heat felt sideways from the pan)"],
+      "options": [
+        "Conduction (stove to pan)",
+        "Convection (within the water)",
+        "Radiation (heat felt sideways from the pan)",
+        "Condensation (inside the pan)"
+      ],
+      "answer": [
+        "Conduction (stove to pan)",
+        "Convection (within the water)",
+        "Radiation (heat felt sideways from the pan)"
+      ],
       "reasoning": "All three modes operate: the pan gets hot by conduction, water heats by convection, and warmth spreads sideways by radiation."
     },
     "kn": {
       "question": "ಸ್ಟೌವ್ ಮೇಲೆ ಪಾತ್ರೆಯಲ್ಲಿ ನೀರನ್ನು ಕುದಿಸಿದಾಗ, ಯಾವ ಉಷ್ಣ ವರ್ಗಾವಣೆ ವಿಧಾನಗಳು ನಡೆಯುತ್ತವೆ?",
-      "options": ["ವಹನ (ಸ್ಟೌವ್‌ನಿಂದ ಪಾತ್ರೆಗೆ)", "ಸಂವಹನ (ನೀರಿನೊಳಗೆ)", "ವಿಕಿರಣ (ಪಾತ್ರೆಯ ಪಕ್ಕದಿಂದ ಅನುಭವಿಸುವ ಉಷ್ಣ)", "ಸಾಂದ್ರೀಕರಣ (ಪಾತ್ರೆಯ ಒಳಗೆ)"],
-      "answer": ["ವಹನ (ಸ್ಟೌವ್‌ನಿಂದ ಪಾತ್ರೆಗೆ)", "ಸಂವಹನ (ನೀರಿನೊಳಗೆ)", "ವಿಕಿರಣ (ಪಾತ್ರೆಯ ಪಕ್ಕದಿಂದ ಅನುಭವಿಸುವ ಉಷ್ಣ)"],
+      "options": [
+        "ವಹನ (ಸ್ಟೌವ್‌ನಿಂದ ಪಾತ್ರೆಗೆ)",
+        "ಸಂವಹನ (ನೀರಿನೊಳಗೆ)",
+        "ವಿಕಿರಣ (ಪಾತ್ರೆಯ ಪಕ್ಕದಿಂದ ಅನುಭವಿಸುವ ಉಷ್ಣ)",
+        "ಸಾಂದ್ರೀಕರಣ (ಪಾತ್ರೆಯ ಒಳಗೆ)"
+      ],
+      "answer": [
+        "ವಹನ (ಸ್ಟೌವ್‌ನಿಂದ ಪಾತ್ರೆಗೆ)",
+        "ಸಂವಹನ (ನೀರಿನೊಳಗೆ)",
+        "ವಿಕಿರಣ (ಪಾತ್ರೆಯ ಪಕ್ಕದಿಂದ ಅನುಭವಿಸುವ ಉಷ್ಣ)"
+      ],
       "reasoning": "ಮೂರರ ಕಾರ್ಯವೂ ನಡೆಯುತ್ತದೆ: ಪಾತ್ರೆಯು ವಹನದಿಂದ ಬಿಸಿಯಾಗುತ್ತದೆ, ನೀರು ಸಂವಹನದಿಂದ ಬಿಸಿಯಾಗುತ್ತದೆ ಮತ್ತು ಉಷ್ಣವು ವಿಕಿರಣದಿಂದ ಪಕ್ಕಕ್ಕೆ ಹರಡುತ್ತದೆ."
     }
   },
@@ -443,13 +727,23 @@
     "difficulty": 3,
     "en": {
       "question": "Why is mercury used in traditional clinical thermometers?",
-      "options": ["It is non-toxic", "It expands uniformly with heat and doesn't stick to glass", "It is cheaper than alcohol", "It boils at a low temperature"],
+      "options": [
+        "It is non-toxic",
+        "It expands uniformly with heat and doesn't stick to glass",
+        "It is cheaper than alcohol",
+        "It boils at a low temperature"
+      ],
       "answer": "It expands uniformly with heat and doesn't stick to glass",
       "reasoning": "Mercury is a liquid metal that conducts heat well, expands uniformly, and is highly visible."
     },
     "kn": {
       "question": "ಸಾಂಪ್ರದಾಯಿಕ ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕಗಳಲ್ಲಿ ಪಾದರಸವನ್ನು ಏಕೆ ಬಳಸಲಾಗುತ್ತದೆ?",
-      "options": ["ಇದು ವಿಷಕಾರಿಯಲ್ಲ", "ಇದು ಉಷ್ಣದೊಂದಿಗೆ ಏಕರೂಪವಾಗಿ ಹಿಗ್ಗುತ್ತದೆ ಮತ್ತು ಗಾಜಿಗೆ ಅಂಟಿಕೊಳ್ಳುವುದಿಲ್ಲ", "ಇದು ಆಲ್ಕೋಹಾಲ್‌ಗಿಂತ ಅಗ್ಗವಾಗಿದೆ", "ಇದು ಕಡಿಮೆ ತಾಪಮಾನದಲ್ಲಿ ಕುದಿಯುತ್ತದೆ"],
+      "options": [
+        "ಇದು ವಿಷಕಾರಿಯಲ್ಲ",
+        "ಇದು ಉಷ್ಣದೊಂದಿಗೆ ಏಕರೂಪವಾಗಿ ಹಿಗ್ಗುತ್ತದೆ ಮತ್ತು ಗಾಜಿಗೆ ಅಂಟಿಕೊಳ್ಳುವುದಿಲ್ಲ",
+        "ಇದು ಆಲ್ಕೋಹಾಲ್‌ಗಿಂತ ಅಗ್ಗವಾಗಿದೆ",
+        "ಇದು ಕಡಿಮೆ ತಾಪಮಾನದಲ್ಲಿ ಕುದಿಯುತ್ತದೆ"
+      ],
       "answer": "ಇದು ಉಷ್ಣದೊಂದಿಗೆ ಏಕರೂಪವಾಗಿ ಹಿಗ್ಗುತ್ತದೆ ಮತ್ತು ಗಾಜಿಗೆ ಅಂಟಿಕೊಳ್ಳುವುದಿಲ್ಲ",
       "reasoning": "ಪಾದರಸವು ದ್ರವ ಲೋಹವಾಗಿದ್ದು ಅದು ಉಷ್ಣವನ್ನು ಚೆನ್ನಾಗಿ கடത്തುತ್ತದೆ, ಏಕರೂಪವಾಗಿ ಹಿಗ್ಗುತ್ತದೆ ಮತ್ತು ಸ್ಪಷ್ಟವಾಗಿ ಗೋಚರಿಸುತ್ತದೆ."
     }
@@ -461,20 +755,44 @@
     "en": {
       "question": "Match the type of thermometer to its typical usage or property.",
       "pairs": [
-        {"left": "Clinical thermometer", "right": "Measures human body temperature"},
-        {"left": "Laboratory thermometer", "right": "Measures temperature in science experiments"},
-        {"left": "Maximum-minimum thermometer", "right": "Records daily weather temperatures"},
-        {"left": "Digital thermometer", "right": "Does not contain toxic mercury"}
+        {
+          "left": "Clinical thermometer",
+          "right": "Measures human body temperature"
+        },
+        {
+          "left": "Laboratory thermometer",
+          "right": "Measures temperature in science experiments"
+        },
+        {
+          "left": "Maximum-minimum thermometer",
+          "right": "Records daily weather temperatures"
+        },
+        {
+          "left": "Digital thermometer",
+          "right": "Does not contain toxic mercury"
+        }
       ],
       "reasoning": "Different thermometers are designed with specific ranges and materials based on their use-case."
     },
     "kn": {
       "question": "ತಾಪಮಾಪಕದ ಪ್ರಕಾರವನ್ನು ಅದರ ಸಾಮಾನ್ಯ ಬಳಕೆ ಅಥವಾ ಗುಣಲಕ್ಷಣಕ್ಕೆ ಹೊಂದಿಸಿ.",
       "pairs": [
-        {"left": "ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕ", "right": "ಮಾನವನ ದೇಹದ ತಾಪಮಾನವನ್ನು ಅಳೆಯುತ್ತದೆ"},
-        {"left": "ಪ್ರಯೋಗಾಲಯದ ತಾಪಮಾಪಕ", "right": "ವಿಜ್ಞಾನ ಪ್ರಯೋಗಗಳಲ್ಲಿ ತಾಪಮಾನ ಅಳೆಯುತ್ತದೆ"},
-        {"left": "ಗರಿಷ್ಠ-ಕನಿಷ್ಠ ತಾಪಮಾಪಕ", "right": "ದೈನಂದಿನ ಹವಾಮಾನದ ತಾಪಮಾನವನ್ನು ದಾಖಲಿಸುತ್ತದೆ"},
-        {"left": "ಡಿಜಿಟಲ್ ತಾಪಮಾಪಕ", "right": "ವಿಷಕಾರಿ ಪಾದರಸವನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ"}
+        {
+          "left": "ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕ",
+          "right": "ಮಾನವನ ದೇಹದ ತಾಪಮಾನವನ್ನು ಅಳೆಯುತ್ತದೆ"
+        },
+        {
+          "left": "ಪ್ರಯೋಗಾಲಯದ ತಾಪಮಾಪಕ",
+          "right": "ವಿಜ್ಞಾನ ಪ್ರಯೋಗಗಳಲ್ಲಿ ತಾಪಮಾನ ಅಳೆಯುತ್ತದೆ"
+        },
+        {
+          "left": "ಗರಿಷ್ಠ-ಕನಿಷ್ಠ ತಾಪಮಾಪಕ",
+          "right": "ದೈನಂದಿನ ಹವಾಮಾನದ ತಾಪಮಾನವನ್ನು ದಾಖಲಿಸುತ್ತದೆ"
+        },
+        {
+          "left": "ಡಿಜಿಟಲ್ ತಾಪಮಾಪಕ",
+          "right": "ವಿಷಕಾರಿ ಪಾದರಸವನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ"
+        }
       ],
       "reasoning": "ವಿಭಿನ್ನ ತಾಪಮಾಪಕಗಳನ್ನು ಅವುಗಳ ಬಳಕೆಯ ಆಧಾರದ ಮೇಲೆ ನಿರ್ದಿಷ್ಟ ವ್ಯಾಪ್ತಿ ಮತ್ತು ವಸ್ತುಗಳೊಂದಿಗೆ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ."
     }
@@ -485,13 +803,23 @@
     "difficulty": 3,
     "en": {
       "question": "Why is there a shift towards using digital thermometers over mercury ones?",
-      "options": ["Digital ones are easily broken", "Mercury is a toxic substance and hard to dispose of", "Mercury thermometers are no longer accurate", "Digital thermometers are much cheaper to make"],
+      "options": [
+        "Digital ones are easily broken",
+        "Mercury is a toxic substance and hard to dispose of",
+        "Mercury thermometers are no longer accurate",
+        "Digital thermometers are much cheaper to make"
+      ],
       "answer": "Mercury is a toxic substance and hard to dispose of",
       "reasoning": "Mercury is highly toxic, so if a glass thermometer breaks, it creates a health and environmental hazard."
     },
     "kn": {
       "question": "ಪಾದರಸದ ತಾಪಮಾಪಕಗಳಿಗಿಂತ ಡಿಜಿಟಲ್ ತಾಪಮಾಪಕಗಳ ಬಳಕೆಯತ್ತ ಏಕೆ ಒಲವು ಹೆಚ್ಚಾಗುತ್ತಿದೆ?",
-      "options": ["ಡಿಜಿಟಲ್ ತಾಪಮಾಪಕಗಳು ಸುಲಭವಾಗಿ ಒಡೆಯುತ್ತವೆ", "ಪಾದರಸವು ವಿಷಕಾರಿ ವಸ್ತುವಾಗಿದ್ದು ಅದನ್ನು ವಿಲೇವಾರಿ ಮಾಡುವುದು ಕಷ್ಟ", "ಪಾದರಸದ ತಾಪಮಾಪಕಗಳು ಇನ್ನು ಮುಂದೆ ನಿಖರವಾಗಿಲ್ಲ", "ಡಿಜಿಟಲ್ ತಾಪಮಾಪಕಗಳನ್ನು ತಯಾರಿಸಲು ತುಂಬಾ ಅಗ್ಗವಾಗಿದೆ"],
+      "options": [
+        "ಡಿಜಿಟಲ್ ತಾಪಮಾಪಕಗಳು ಸುಲಭವಾಗಿ ಒಡೆಯುತ್ತವೆ",
+        "ಪಾದರಸವು ವಿಷಕಾರಿ ವಸ್ತುವಾಗಿದ್ದು ಅದನ್ನು ವಿಲೇವಾರಿ ಮಾಡುವುದು ಕಷ್ಟ",
+        "ಪಾದರಸದ ತಾಪಮಾಪಕಗಳು ಇನ್ನು ಮುಂದೆ ನಿಖರವಾಗಿಲ್ಲ",
+        "ಡಿಜಿಟಲ್ ತಾಪಮಾಪಕಗಳನ್ನು ತಯಾರಿಸಲು ತುಂಬಾ ಅಗ್ಗವಾಗಿದೆ"
+      ],
       "answer": "ಪಾದರಸವು ವಿಷಕಾರಿ ವಸ್ತುವಾಗಿದ್ದು ಅದನ್ನು ವಿಲೇವಾರಿ ಮಾಡುವುದು ಕಷ್ಟ",
       "reasoning": "ಪಾದರಸವು ಹೆಚ್ಚು ವಿಷಕಾರಿಯಾಗಿದೆ, ಆದ್ದರಿಂದ ಗಾಜಿನ ತಾಪಮಾಪಕ ಒಡೆದರೆ ಅದು ಆರೋಗ್ಯ ಮತ್ತು ಪರಿಸರಕ್ಕೆ ಅಪಾಯವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
     }
@@ -502,14 +830,32 @@
     "difficulty": 3,
     "en": {
       "question": "Which of the following are generally considered INSULATORS (poor conductors) of heat?",
-      "options": ["Air", "Water", "Copper", "Plastic"],
-      "answer": ["Air", "Water", "Plastic"],
+      "options": [
+        "Air",
+        "Water",
+        "Copper",
+        "Plastic"
+      ],
+      "answer": [
+        "Air",
+        "Water",
+        "Plastic"
+      ],
       "reasoning": "Both air and water are poor conductors of heat, which is why convection is their primary mode of heat transfer."
     },
     "kn": {
       "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಉಷ್ಣದ ಅವಾಹಕಗಳು (ದುರ್ಬಲ ವಾಹಕಗಳು) ಎಂದು ಸಾಮಾನ್ಯವಾಗಿ ಪರಿಗಣಿಸಲಾಗುವ ವಸ್ತುಗಳು ಯಾವುವು?",
-      "options": ["ಗಾಳಿ", "ನೀರು", "ತಾಮ್ರ", "ಪ್ಲಾಸ್ಟಿಕ್"],
-      "answer": ["ಗಾಳಿ", "ನೀರು", "ಪ್ಲಾಸ್ಟಿಕ್"],
+      "options": [
+        "ಗಾಳಿ",
+        "ನೀರು",
+        "ತಾಮ್ರ",
+        "ಪ್ಲಾಸ್ಟಿಕ್"
+      ],
+      "answer": [
+        "ಗಾಳಿ",
+        "ನೀರು",
+        "ಪ್ಲಾಸ್ಟಿಕ್"
+      ],
       "reasoning": "ಗಾಳಿ ಮತ್ತು ನೀರು ಎರಡೂ ಉಷ್ಣದ ದುರ್ಬಲ ವಾಹಕಗಳಾಗಿವೆ, ಅದಕ್ಕಾಗಿಯೇ ಸಂವಹನವು ಅವುಗಳ ಪ್ರಾಥಮಿಕ ಉಷ್ಣ ವರ್ಗಾವಣೆ ವಿಧಾನವಾಗಿದೆ."
     }
   },
@@ -527,13 +873,23 @@
     },
     "en": {
       "question": "An infrared camera creates images based on heat emitted by objects. What mode of heat transfer is it detecting?",
-      "options": ["Conduction", "Convection", "Radiation", "Insulation"],
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Insulation"
+      ],
       "answer": "Radiation",
       "reasoning": "All hot bodies emit heat via thermal radiation, mostly in the infrared spectrum."
     },
     "kn": {
       "question": "ಅತಿಗೆಂಪು ಕ್ಯಾಮರಾ ವಸ್ತುಗಳು ಹೊರಸೂಸುವ ಉಷ್ಣದ ಆಧಾರದ ಮೇಲೆ ಚಿತ್ರಗಳನ್ನು ರಚಿಸುತ್ತದೆ. ಅದು ಯಾವ ಉಷ್ಣ ವರ್ಗಾವಣೆ ವಿಧಾನವನ್ನು ಪತ್ತೆಹಚ್ಚುತ್ತಿದೆ?",
-      "options": ["ವಹನ", "ಸಂವಹನ", "ವಿಕಿರಣ", "ಅವಾಹಕತೆ"],
+      "options": [
+        "ವಹನ",
+        "ಸಂವಹನ",
+        "ವಿಕಿರಣ",
+        "ಅವಾಹಕತೆ"
+      ],
       "answer": "ವಿಕಿರಣ",
       "reasoning": "ಎಲ್ಲಾ ಬಿಸಿ ಕಾಯಗಳು ಉಷ್ಣದ ವಿಕಿರಣದ ಮೂಲಕ, ಹೆಚ್ಚಾಗಿ ಅತಿಗೆಂಪು ಸ್ಪೆಕ್ಟ್ರಮ್‌ನಲ್ಲಿ ಉಷ್ಣವನ್ನು ಹೊರಸೂಸುತ್ತವೆ."
     }
@@ -544,13 +900,23 @@
     "difficulty": 3,
     "en": {
       "question": "At what numerical value are the Celsius and Fahrenheit temperature scales exactly equal?",
-      "options": ["0", "100", "-40", "32"],
+      "options": [
+        "0",
+        "100",
+        "-40",
+        "32"
+      ],
       "answer": "-40",
       "reasoning": "Using the formula F = (C × 9/5) + 32, we find that -40°C is equal to -40°F."
     },
     "kn": {
       "question": "ಸೆಲ್ಸಿಯಸ್ ಮತ್ತು ಫ್ಯಾರನ್‌ಹೀಟ್ ತಾಪಮಾನ ಮಾಪಕಗಳು ಯಾವ ಸಂಖ್ಯಾತ್ಮಕ ಮೌಲ್ಯದಲ್ಲಿ ನಿಖರವಾಗಿ ಸಮಾನವಾಗಿರುತ್ತವೆ?",
-      "options": ["0", "100", "-40", "32"],
+      "options": [
+        "0",
+        "100",
+        "-40",
+        "32"
+      ],
       "answer": "-40",
       "reasoning": "ಸೂತ್ರವನ್ನು ಬಳಸುವ ಮೂಲಕ, -40°C ಎಂಬುದು -40°F ಗೆ ಸಮನಾಗಿರುತ್ತದೆ ಎಂದು ನಾವು ಕಂಡುಕೊಳ್ಳುತ್ತೇವೆ."
     }
@@ -562,20 +928,44 @@
     "en": {
       "question": "Match the temperature points with their correct values.",
       "pairs": [
-        {"left": "Boiling point of pure water", "right": "100°C"},
-        {"left": "Freezing point of pure water", "right": "0°C"},
-        {"left": "Normal human body temperature", "right": "37°C"},
-        {"left": "Point where Celsius and Fahrenheit intersect", "right": "-40°"}
+        {
+          "left": "Boiling point of pure water",
+          "right": "100°C"
+        },
+        {
+          "left": "Freezing point of pure water",
+          "right": "0°C"
+        },
+        {
+          "left": "Normal human body temperature",
+          "right": "37°C"
+        },
+        {
+          "left": "Point where Celsius and Fahrenheit intersect",
+          "right": "-40°"
+        }
       ],
       "reasoning": "These are fundamental temperature references in the Celsius scale."
     },
     "kn": {
       "question": "ತಾಪಮಾನ ಬಿಂದುಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಮೌಲ್ಯಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
       "pairs": [
-        {"left": "ಶುದ್ಧ ನೀರಿನ ಕುದಿಯುವ ಬಿಂದು", "right": "100°C"},
-        {"left": "ಶುದ್ಧ ನೀರಿನ ಘನೀಕರಣ ಬಿಂದು", "right": "0°C"},
-        {"left": "ಮಾನವನ ದೇಹದ ಸಾಮಾನ್ಯ ತಾಪಮಾನ", "right": "37°C"},
-        {"left": "ಸೆಲ್ಸಿಯಸ್ ಮತ್ತು ಫ್ಯಾರನ್‌ಹೀಟ್ ಸಂಧಿಸುವ ಬಿಂದು", "right": "-40°"}
+        {
+          "left": "ಶುದ್ಧ ನೀರಿನ ಕುದಿಯುವ ಬಿಂದು",
+          "right": "100°C"
+        },
+        {
+          "left": "ಶುದ್ಧ ನೀರಿನ ಘನೀಕರಣ ಬಿಂದು",
+          "right": "0°C"
+        },
+        {
+          "left": "ಮಾನವನ ದೇಹದ ಸಾಮಾನ್ಯ ತಾಪಮಾನ",
+          "right": "37°C"
+        },
+        {
+          "left": "ಸೆಲ್ಸಿಯಸ್ ಮತ್ತು ಫ್ಯಾರನ್‌ಹೀಟ್ ಸಂಧಿಸುವ ಬಿಂದು",
+          "right": "-40°"
+        }
       ],
       "reasoning": "ಇವು ಸೆಲ್ಸಿಯಸ್ ಮಾಪಕದಲ್ಲಿನ ಮೂಲಭೂತ ತಾಪಮಾನ ಉಲ್ಲೇಖಗಳಾಗಿವೆ."
     }
@@ -586,14 +976,32 @@
     "difficulty": 3,
     "en": {
       "question": "Which of these natural or human-made phenomena rely on Convection currents?",
-      "options": ["Sea breeze and Land breeze", "Trade winds in the atmosphere", "Ventilators near the ceiling of a room", "Heating of a solid iron bar"],
-      "answer": ["Sea breeze and Land breeze", "Trade winds in the atmosphere", "Ventilators near the ceiling of a room"],
+      "options": [
+        "Sea breeze and Land breeze",
+        "Trade winds in the atmosphere",
+        "Ventilators near the ceiling of a room",
+        "Heating of a solid iron bar"
+      ],
+      "answer": [
+        "Sea breeze and Land breeze",
+        "Trade winds in the atmosphere",
+        "Ventilators near the ceiling of a room"
+      ],
       "reasoning": "Convection currents occur in fluids (liquids and gases), driving winds and determining ventilator placement for hot air to escape."
     },
     "kn": {
       "question": "ಈ ಕೆಳಗಿನ ಯಾವ ನೈಸರ್ಗಿಕ ಅಥವಾ ಮಾನವ ನಿರ್ಮಿತ ವಿದ್ಯಮಾನಗಳು ಸಂವಹನ ಪ್ರವಾಹಗಳನ್ನು ಅವಲಂಬಿಸಿವೆ?",
-      "options": ["ಕಡಲ ಗಾಳಿ ಮತ್ತು ನೆಲದ ಗಾಳಿ", "ವಾತಾವರಣದಲ್ಲಿನ ವಾಣಿಜ್ಯ ಮಾರುತಗಳು", "ಕೋಣೆಯ ಛಾವಣಿಯ ಬಳಿ ಇರುವ ವಾತಾಯನಗಳು (Ventilators)", "ಘನ ಕಬ್ಬಿಣದ ಸಲಾಕೆಯನ್ನು ಬಿಸಿಮಾಡುವುದು"],
-      "answer": ["ಕಡಲ ಗಾಳಿ ಮತ್ತು ನೆಲದ ಗಾಳಿ", "ವಾತಾವರಣದಲ್ಲಿನ ವಾಣಿಜ್ಯ ಮಾರುತಗಳು", "ಕೋಣೆಯ ಛಾವಣಿಯ ಬಳಿ ಇರುವ ವಾತಾಯನಗಳು (Ventilators)"],
+      "options": [
+        "ಕಡಲ ಗಾಳಿ ಮತ್ತು ನೆಲದ ಗಾಳಿ",
+        "ವಾತಾವರಣದಲ್ಲಿನ ವಾಣಿಜ್ಯ ಮಾರುತಗಳು",
+        "ಕೋಣೆಯ ಛಾವಣಿಯ ಬಳಿ ಇರುವ ವಾತಾಯನಗಳು (Ventilators)",
+        "ಘನ ಕಬ್ಬಿಣದ ಸಲಾಕೆಯನ್ನು ಬಿಸಿಮಾಡುವುದು"
+      ],
+      "answer": [
+        "ಕಡಲ ಗಾಳಿ ಮತ್ತು ನೆಲದ ಗಾಳಿ",
+        "ವಾತಾವರಣದಲ್ಲಿನ ವಾಣಿಜ್ಯ ಮಾರುತಗಳು",
+        "ಕೋಣೆಯ ಛಾವಣಿಯ ಬಳಿ ಇರುವ ವಾತಾಯನಗಳು (Ventilators)"
+      ],
       "reasoning": "ಸಂವಹನ ಪ್ರವಾಹಗಳು ದ್ರವಗಳಲ್ಲಿ (ದ್ರವಗಳು ಮತ್ತು ಅನಿಲಗಳು) ಸಂಭವಿಸುತ್ತವೆ, ಮಾರುತಗಳನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತವೆ ಮತ್ತು ಬಿಸಿ ಗಾಳಿ ಹೊರಹೋಗಲು ವಾತಾಯನಗಳ ಸ್ಥಾನವನ್ನು ನಿರ್ಧರಿಸುತ್ತವೆ."
     }
   }

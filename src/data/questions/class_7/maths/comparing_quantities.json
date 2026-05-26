@@ -203,7 +203,7 @@
     "type": "image_single",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><rect x='50' y='80' width='200' height='40' fill='#DBEAFE' stroke='#2563EB' stroke-width='2'/><rect x='50' y='80' width='80' height='40' fill='#059669' stroke='#2563EB' stroke-width='2'/><text x='150' y='60' fill='#1F2937' font-family='Arial' font-size='14'>Total = 5 equal parts</text><text x='90' y='105' fill='#FFFFFF' font-family='Arial' font-size='14'>2 parts</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><rect x='50' y='80' width='200' height='40' fill='#DBEAFE' stroke='#2563EB' stroke-width='2'/><rect x='50' y='80' width='80' height='40' fill='#059669' stroke='#2563EB' stroke-width='2'/><text x='150' y='60' fill='#1F2937' font-family='Arial' font-size='14'>Total = 5 equal parts</text><text x='90' y='105' fill='#FFFFFF' font-family='Arial' font-size='14'>2 parts</text></svg>",
       "alt": {
         "en": "A rectangle divided into 5 equal parts, with 2 parts shaded green.",
         "kn": "ಆಯತವನ್ನು 5 ಸಮಾನ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ, ಅದರಲ್ಲಿ 2 ಭಾಗಗಳನ್ನು ಹಸಿರು ಬಣ್ಣದಿಂದ ಛಾಯೆಗೊಳಿಸಲಾಗಿದೆ."
@@ -319,7 +319,7 @@
     "type": "image_single",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><rect x='20' y='50' width='260' height='30' fill='#E5E7EB' stroke='#2563EB'/><rect x='20' y='50' width='195' height='30' fill='#059669' stroke='#2563EB'/><text x='150' y='40' fill='#1F2937' font-family='Arial' font-size='14'>Progress Bar: 75% Complete</text><text x='117' y='70' fill='#FFFFFF' font-family='Arial' font-size='14'>?</text><text x='150' y='110' fill='#DC2626' font-family='Arial' font-size='14'>Total files: 120</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><rect x='20' y='50' width='260' height='30' fill='#E5E7EB' stroke='#2563EB'/><rect x='20' y='50' width='195' height='30' fill='#059669' stroke='#2563EB'/><text x='150' y='40' fill='#1F2937' font-family='Arial' font-size='14'>Progress Bar: 75% Complete</text><text x='117' y='70' fill='#FFFFFF' font-family='Arial' font-size='14'>?</text><text x='150' y='110' fill='#DC2626' font-family='Arial' font-size='14'>Total files: 120</text></svg>",
       "alt": {
         "en": "A progress bar showing 75% complete for a total of 120 files.",
         "kn": "ಒಟ್ಟು 120 ಫೈಲ್‌ಗಳಿಗೆ 75% ಪೂರ್ಣಗೊಂಡಿರುವುದನ್ನು ತೋರಿಸುವ ಪ್ರೋಗ್ರೆಸ್ ಬಾರ್."
@@ -492,7 +492,7 @@
     "type": "image_single",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><text x='150' y='40' fill='#1F2937' font-family='Arial' font-size='16' font-weight='bold' text-anchor='middle'>DISCOUNT OFFER</text><rect x='80' y='60' width='140' height='80' fill='#FEE2E2' stroke='#DC2626' stroke-width='2'/><text x='150' y='90' fill='#DC2626' font-family='Arial' font-size='16' text-anchor='middle'>Marked Price</text><text x='150' y='110' fill='#DC2626' font-family='Arial' font-size='20' font-weight='bold' text-anchor='middle'>Rs 800</text><text x='150' y='160' fill='#059669' font-family='Arial' font-size='16' font-weight='bold' text-anchor='middle'>25% OFF!</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><text x='150' y='40' fill='#1F2937' font-family='Arial' font-size='16' font-weight='bold' text-anchor='middle'>DISCOUNT OFFER</text><rect x='80' y='60' width='140' height='80' fill='#FEE2E2' stroke='#DC2626' stroke-width='2'/><text x='150' y='90' fill='#DC2626' font-family='Arial' font-size='16' text-anchor='middle'>Marked Price</text><text x='150' y='110' fill='#DC2626' font-family='Arial' font-size='20' font-weight='bold' text-anchor='middle'>Rs 800</text><text x='150' y='160' fill='#059669' font-family='Arial' font-size='16' font-weight='bold' text-anchor='middle'>25% OFF!</text></svg>",
       "alt": {
         "en": "A discount tag showing Marked Price Rs 800 and 25% OFF.",
         "kn": "ಗುರುತಿಸಿದ ಬೆಲೆ 800 ರೂ. ಮತ್ತು 25% ರಿಯಾಯಿತಿ ತೋರಿಸುವ ಟ್ಯಾಗ್."
@@ -657,7 +657,7 @@
     "type": "image_multiple",
     "image": {
       "type": "svg",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><text x='150' y='30' fill='#1F2937' font-family='Arial' font-size='14' text-anchor='middle'>Sales Data</text><rect x='50' y='50' width='40' height='100' fill='#2563EB'/><rect x='110' y='90' width='40' height='60' fill='#059669'/><rect x='170' y='70' width='40' height='80' fill='#DC2626'/><rect x='230' y='30' width='40' height='120' fill='#EA580C'/><line x1='30' y1='150' x2='280' y2='150' stroke='#1F2937' stroke-width='2'/><text x='70' y='170' fill='#1F2937' font-family='Arial' font-size='12' text-anchor='middle'>Q1</text><text x='130' y='170' fill='#1F2937' font-family='Arial' font-size='12' text-anchor='middle'>Q2</text><text x='190' y='170' fill='#1F2937' font-family='Arial' font-size='12' text-anchor='middle'>Q3</text><text x='250' y='170' fill='#1F2937' font-family='Arial' font-size='12' text-anchor='middle'>Q4</text><text x='70' y='45' fill='#2563EB' font-family='Arial' font-size='12' text-anchor='middle'>500</text><text x='130' y='85' fill='#059669' font-family='Arial' font-size='12' text-anchor='middle'>300</text><text x='190' y='65' fill='#DC2626' font-family='Arial' font-size='12' text-anchor='middle'>400</text><text x='250' y='25' fill='#EA580C' font-family='Arial' font-size='12' text-anchor='middle'>600</text></svg>",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><text x='150' y='30' fill='#1F2937' font-family='Arial' font-size='14' text-anchor='middle'>Sales Data</text><rect x='50' y='50' width='40' height='100' fill='#2563EB'/><rect x='110' y='90' width='40' height='60' fill='#059669'/><rect x='170' y='70' width='40' height='80' fill='#DC2626'/><rect x='230' y='30' width='40' height='120' fill='#EA580C'/><line x1='30' y1='150' x2='280' y2='150' stroke='#1F2937' stroke-width='2'/><text x='70' y='170' fill='#1F2937' font-family='Arial' font-size='12' text-anchor='middle'>Q1</text><text x='130' y='170' fill='#1F2937' font-family='Arial' font-size='12' text-anchor='middle'>Q2</text><text x='190' y='170' fill='#1F2937' font-family='Arial' font-size='12' text-anchor='middle'>Q3</text><text x='250' y='170' fill='#1F2937' font-family='Arial' font-size='12' text-anchor='middle'>Q4</text><text x='70' y='45' fill='#2563EB' font-family='Arial' font-size='12' text-anchor='middle'>500</text><text x='130' y='85' fill='#059669' font-family='Arial' font-size='12' text-anchor='middle'>300</text><text x='190' y='65' fill='#DC2626' font-family='Arial' font-size='12' text-anchor='middle'>400</text><text x='250' y='25' fill='#EA580C' font-family='Arial' font-size='12' text-anchor='middle'>600</text></svg>",
       "alt": {
         "en": "Bar chart showing sales data: Q1=500, Q2=300, Q3=400, Q4=600.",
         "kn": "ಮಾರಾಟದ ಡೇಟಾವನ್ನು ತೋರಿಸುವ ಬಾರ್ ಚಾರ್ಟ್: Q1=500, Q2=300, Q3=400, Q4=600."
