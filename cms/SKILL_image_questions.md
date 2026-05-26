@@ -932,12 +932,15 @@ npm run build
 
 Must complete with `✓ built in X.XXs` and no errors.
 
-#### Step 8 — Commit and push
+#### Step 8 — Commit and publish to GitHub Pages
 
 ```bash
 git add -A
 git commit -m "feat: Add Class 9 question banks"
-git push origin main
+npm run publish
+# ↑ This runs: git push origin main && npm run build && gh-pages -d dist
+# ⚠️  NEVER use plain `git push` alone — it does NOT update GitHub Pages.
+# Always use `npm run publish` as the final step.
 ```
 
 ---
