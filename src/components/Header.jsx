@@ -46,7 +46,7 @@ const Header = ({ score, level, lives, correctInLevel, levelUpThreshold, streak,
           transform: 'translateX(-50%)',
           fontSize: '3rem',
           fontWeight: 'bold',
-          color: 'var(--tuk-yellow)',
+          color: 'var(--accent-yellow)',
           textShadow: '0 0 20px #FF9E00',
           animation: 'grandLevelUp 2s ease-out forwards',
           zIndex: 100,
@@ -64,7 +64,7 @@ const Header = ({ score, level, lives, correctInLevel, levelUpThreshold, streak,
             gap: '5px',
             fontWeight: 'bold',
             fontSize: '1.2rem',
-            color: 'var(--tuk-yellow)'
+            color: 'var(--accent-yellow)'
           }}>
             <Star fill="currentColor" size={24} /> {score}
           </div>

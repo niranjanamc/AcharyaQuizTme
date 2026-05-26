@@ -7,7 +7,7 @@ const GameOver = ({ score, level, stats, onRestart, language }) => {
 
   const labels = {
     title: language === 'kn' ? 'ಅಯ್ಯೋ!' : 'Oh no!',
-    subtitle: language === 'kn' ? 'ವಿಮಾನ ಕೆಟ್ಟುಹೋಯಿತು!' : 'The Vimana broke down!',
+    subtitle: language === 'kn' ? 'ರಸಪ್ರಶ್ನೆ ಮುಗಿದಿದೆ!' : 'Quiz Completed!',
     finalScore: language === 'kn' ? 'ಅಂತಿಮ ಅಂಕ:' : 'Final Score:',
     reachedLevel: language === 'kn' ? 'ತಲುಪಿದ ಹಂತ:' : 'Reached Level:',
     attempted: language === 'kn' ? 'ಪ್ರಯತ್ನಿಸಿದ ಪ್ರಶ್ನೆಗಳು:' : 'Questions Attempted:',

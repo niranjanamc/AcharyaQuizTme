@@ -158,7 +158,7 @@ const QuizComponent = ({ questionData, onAnswer, language }) => {
                 btnColor = 'white';
               }
             } else if (optId === selectedOption) {
-              btnBg = 'var(--tuk-yellow)';
+              btnBg = 'var(--accent-yellow)';
             }
 
             return (
