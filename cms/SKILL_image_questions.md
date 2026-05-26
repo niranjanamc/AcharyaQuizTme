@@ -1,7 +1,7 @@
 # SKILL: Image-Based Question Generation
 
 > **Audience**: AI agents and human content creators generating quiz questions for the Bhagiratha Quiz app.
-> **Last Updated**: 2026-05-25
+> **Last Updated**: 2026-05-27
 
 ---
 
@@ -15,6 +15,7 @@
 6. [Quality Checklist](#6-quality-checklist)
 7. [Content Generation Prompt Template](#7-content-generation-prompt-template)
 8. [Validation](#8-validation)
+9. [Adding a New Class — Bilingual Checklist](#9-adding-a-new-class--bilingual-checklist)
 
 ---
 
@@ -819,3 +820,163 @@ Always cross-reference this file when creating IDs to ensure they map to valid c
 ### Critical Geometry Requirement: Vertex & Edge Labels
 - **ALWAYS label vertices**: Any polygons (triangles, rectangles, squares, etc.) MUST include explicit text labels for their vertices (e.g., A, B, C for triangles; A, B, C, D for rectangles). Place them slightly outside the corners.
 - **ALWAYS label edges/angles**: Include text for the lengths of sides (e.g., '5 cm') and measures of angles if they are relevant to the question.
+
+---
+
+## 9. Adding a New Class — Bilingual Checklist
+
+> **This section is MANDATORY reading before adding any new class (Class 9, 10, etc.).**
+> Skipping steps here will cause the new class to display in English only, even when Kannada is selected.
+
+---
+
+### 9.1 Why Bilingual Breaks (The Root Cause)
+
+The app's `MainMenu.jsx` reads from `src/data/menuTranslations.json` to translate three levels of the curriculum tree:
+
+| Level | Key Format | Value Format | Example |
+|-------|-----------|-------------|--------|
+| **Class** | `"class_X"` | plain Kannada string | `"ತರಗತಿ 9 (NCERT)"` |
+| **Subject** | `"class_X/subject_id"` | plain Kannada string | `"ಗಣಿತ"` |
+| **Chapter** | `"chapter_id"` | `{"en": "...", "kn": "..."}` object | `{"en":"Motion","kn":"ಚಲನೆ"}` |
+
+⚠️ **If the Class or Subject keys are missing, those labels stay in English regardless of language selection.**
+
+Chapter keys may use either the old plain-string format OR the newer `{en, kn}` object — the app handles both. But Class and Subject keys **must always be plain strings**.
+
+---
+
+### 9.2 Step-by-Step Checklist
+
+#### Step 1 — Copy and fill the template script
+
+```bash
+cp cms/add_new_class_template.py cms/add_class_9_catalog.py
+```
+
+Edit `add_class_9_catalog.py` and fill in all `TODO` sections:
+- [ ] Set `CLASS_ID = "class_9"` and `CLASS_NAME`
+- [ ] Define `SUBJECTS` with all chapters (with unique IDs)
+- [ ] Fill in the `TRANSLATIONS` dict (see format rules below)
+
+#### Step 2 — Translation format rules
+
+```python
+TRANSLATIONS = {
+    # ── [A] Class and Subject top-level keys: PLAIN STRING ─────────────
+    # These MUST exist and MUST be plain Kannada strings.
+    "class_9":           "ತರಗತಿ 9 (NCERT)",
+    "class_9/maths":     "ಗಣಿತ",
+    "class_9/science":   "ವಿಜ್ಞಾನ",
+    "class_9/english":   "ಇಂಗ್ಲಿಷ್ (ಬೀಹೈವ್)",
+    "class_9/history":   "ಇತಿಹಾಸ",
+    "class_9/kannada":   "ಕನ್ನಡ",
+
+    # ── [B] Chapter keys: {en, kn} OBJECT ──────────────────────────────
+    "motion":  { "en": "Motion", "kn": "ಚಲನೆ" },
+    "tissues": { "en": "Tissues", "kn": "ಅಂಗಾಂಶಗಳು" },
+    # ... one entry per chapter
+}
+```
+
+> **Chapter ID collision rule**: If a chapter ID already exists in `menuTranslations.json` from a previous class (e.g., `sound` was added for Class 7), the existing translation will be reused. This is fine if the translation is accurate. If the chapter name differs between classes, use a class-prefixed ID (e.g., `sound_c9`).
+
+#### Step 3 — Run the catalog script
+
+```bash
+python3 cms/add_class_9_catalog.py
+```
+
+Expected output:
+```
+=== Setting up class_9 ===
+✅  Added class_9 to catalog.
+   catalog.json saved.
+
+✅  menuTranslations.json updated:
+   Added   : 18 keys
+   Updated : 0 keys
+   Skipped : 5 keys (already correct)
+
+=== Verifying bilingual support ===
+  ✅ class_9: ತರಗತಿ 9 (NCERT)
+  ✅ class_9/maths: ಗಣಿತ
+  ✅ class_9/science: ವಿಜ್ಞಾನ
+  ...
+✅  All 6 class/subject keys are correct plain strings.
+```
+
+#### Step 4 — Create question bank directories
+
+```bash
+mkdir -p src/data/questions/class_9/{maths,science,english,history,kannada}
+```
+
+#### Step 5 — Generate question bank JSON files
+
+Launch content-generation agents (see Section 7 for the prompt template). Pass the chapter list and prefix to each agent.
+
+#### Step 6 — Validate the database
+
+```bash
+python3 cms/verify_db.py
+```
+
+Must output: `=== Validation Passed! Zero duplicates found. Schema is perfect. ===`
+
+#### Step 7 — Build
+
+```bash
+npm run build
+```
+
+Must complete with `✓ built in X.XXs` and no errors.
+
+#### Step 8 — Commit and push
+
+```bash
+git add -A
+git commit -m "feat: Add Class 9 question banks"
+git push origin main
+```
+
+---
+
+### 9.3 Agent Prompt Snippet for Bilingual Compliance
+
+When spawning content-generation agents, always include this reminder block in the prompt:
+
+```
+## Bilingual Requirements
+- All questions MUST have both `en` and `kn` sections.
+- Every `options` list must have the same number of items in both languages.
+- Every `answer` must exactly match one of the `options` strings in the same language.
+- The `reasoning` field must be descriptive and educational in BOTH languages.
+- Do NOT add class/subject-level translations to question JSON files —
+  those belong only in menuTranslations.json and are handled by the catalog script.
+```
+
+---
+
+### 9.4 Verification Script
+
+The built-in `verify_bilingual()` function in `add_new_class_template.py` checks that all required class/subject keys exist and have the correct plain-string format. It will exit with code 1 and print specific errors if anything is wrong.
+
+For manual audit after the fact:
+
+```bash
+python3 - << 'EOF'
+import json
+CLASS_ID = "class_9"  # change as needed
+with open('src/data/menuTranslations.json') as f:
+    menu = json.load(f)
+with open('src/data/catalog.json') as f:
+    catalog = json.load(f)
+cls = next(c for c in catalog['classes'] if c['id'] == CLASS_ID)
+keys = [CLASS_ID] + [f"{CLASS_ID}/{s['id']}" for s in cls['subjects']]
+for k in keys:
+    v = menu.get(k)
+    status = '✅' if isinstance(v, str) else ('❌ MISSING' if v is None else '❌ WRONG FORMAT')
+    print(f"{status}  {k}: {v}")
+EOF
+```

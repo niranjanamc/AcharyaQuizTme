@@ -105,6 +105,20 @@ def update_menu():
         menu = json.load(f)
         
     translations = {
+        # ─────────────────────────────────────────────────────────────
+        # IMPORTANT: Top-level class and subject keys MUST be added.
+        # These are plain Kannada strings (not {en,kn} objects).
+        # Without these keys the class/subject names will NOT switch
+        # to Kannada when the user selects the Kannada language.
+        # ─────────────────────────────────────────────────────────────
+        "class_8":          "ತರಗತಿ 8 (NCERT)",
+        "class_8/maths":    "ಗಣಿತ",
+        "class_8/science":  "ವಿಜ್ಞಾನ",
+        "class_8/english":  "ಇಂಗ್ಲಿಷ್ (ಹನಿಡ್ಯೂ)",
+        "class_8/history":  "ಇತಿಹಾಸ (ನಮ್ಮ ಭೂತಕಾಲ - III)",
+        "class_8/kannada":  "ಕನ್ನಡ",
+
+        # Chapter-level entries use {en, kn} objects.
         # Maths
         "rational_numbers": { "en": "Rational Numbers", "kn": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು" },
         "linear_equations": { "en": "Linear Equations in One Variable", "kn": "ಒಂದು ಚರಾಕ್ಷರವುಳ್ಳ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳು" },
