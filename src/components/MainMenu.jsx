@@ -4,6 +4,15 @@ import { soundEngine } from '../utils/AudioEngine';
 import catalog from '../data/catalog.json';
 import menuTranslations from '../data/menuTranslations.json';
 
+// Handles both plain-string ("ಗಣಿತ") and object ({en:"Math", kn:"ಗಣಿತ"}) formats
+const getLabel = (key, language, fallback) => {
+  const val = menuTranslations[key];
+  if (!val) return fallback;
+  if (typeof val === 'string') return language === 'kn' ? val : fallback;
+  if (typeof val === 'object') return language === 'kn' ? (val.kn || fallback) : (val.en || fallback);
+  return fallback;
+};
+
 const Checkbox = ({ checked, indeterminate, onClick }) => {
   if (checked) return <CheckSquare size={18} fill="var(--accent-color)" stroke="white" onClick={onClick} style={{ cursor: 'pointer' }} />;
   if (indeterminate) return <CheckSquare size={18} fill="#ccc" stroke="#333" onClick={onClick} style={{ cursor: 'pointer', opacity: 0.7 }} />;
@@ -128,7 +137,7 @@ const MainMenu = ({ onStart }) => {
                     onClick={() => toggleNode(classPaths, !clsState.checked)} 
                   />
                   <strong style={{ fontSize: '1.1rem', color: 'var(--text-dark)' }}>
-                    {language === 'kn' ? (menuTranslations[cls.id] || cls.name) : cls.name}
+                    {getLabel(cls.id, language, cls.name)}
                   </strong>
                 </div>
 
@@ -149,7 +158,7 @@ const MainMenu = ({ onStart }) => {
                               onClick={() => toggleNode(subPaths, !subState.checked)} 
                             />
                             <span style={{ fontWeight: '600', color: 'var(--text-dark)' }}>
-                              {language === 'kn' ? (menuTranslations[`${cls.id}/${sub.id}`] || sub.name) : sub.name}
+                              {getLabel(`${cls.id}/${sub.id}`, language, sub.name)}
                             </span>
                           </div>
 
@@ -165,7 +174,7 @@ const MainMenu = ({ onStart }) => {
                                       onClick={() => toggleNode([chPath], !chChecked)} 
                                     />
                                     <span style={{ fontSize: '0.95rem', color: 'rgba(13, 71, 161, 0.8)', fontWeight: '500' }}>
-                                      {language === 'kn' ? (menuTranslations[ch.id] || ch.name) : ch.name}
+                                      {getLabel(ch.id, language, ch.name)}
                                     </span>
                                   </div>
                                 );

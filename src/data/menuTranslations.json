@@ -66,7 +66,10 @@
   "patterns_math": "ಗಣಿತದಲ್ಲಿನ ಮಾದರಿಗಳು",
   "lines_angles": "ರೇಖೆಗಳು ಮತ್ತು ಕೋನಗಳು",
   "number_play": "ಸಂಖ್ಯೆಗಳ ಆಟ",
-  "data_handling": "ದತ್ತಾಂಶ ನಿರ್ವಹಣೆ",
+  "data_handling": {
+    "en": "Data Handling",
+    "kn": "ದತ್ತಾಂಶ ನಿರ್ವಹಣೆ"
+  },
   "prime_time": "ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳ ಸಮಯ",
   "perimeter_area": "ಸುತ್ತಳತೆ ಮತ್ತು ವಿಸ್ತೀರ್ಣ",
   "fractions": "ಭಿನ್ನರಾಶಿಗಳು",
@@ -470,5 +473,11 @@
   "c8_kan_kranti": {
     "en": "ಕ್ರಾಂತಿ ಕಹಳೆ (Kranti Kahale)",
     "kn": "ಕ್ರಾಂತಿ ಕಹಳೆ"
-  }
+  },
+  "class_8": "ತರಗತಿ 8 (NCERT)",
+  "class_8/maths": "ಗಣಿತ",
+  "class_8/science": "ವಿಜ್ಞಾನ",
+  "class_8/english": "ಇಂಗ್ಲಿಷ್ (ಹನಿಡ್ಯೂ)",
+  "class_8/history": "ಇತಿಹಾಸ (ನಮ್ಮ ಭೂತಕಾಲ - III)",
+  "class_8/kannada": "ಕನ್ನಡ"
 }
