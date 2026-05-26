@@ -66,7 +66,7 @@
   "patterns_math": "ಗಣಿತದಲ್ಲಿನ ಮಾದರಿಗಳು",
   "lines_angles": "ರೇಖೆಗಳು ಮತ್ತು ಕೋನಗಳು",
   "number_play": "ಸಂಖ್ಯೆಗಳ ಆಟ",
-  "data_handling": "ದತ್ತಾಂಶ ನಿರ್ವಹಣೆ ಮತ್ತು ಪ್ರಸ್ತುತಿ",
+  "data_handling": "ದತ್ತಾಂಶ ನಿರ್ವಹಣೆ",
   "prime_time": "ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳ ಸಮಯ",
   "perimeter_area": "ಸುತ್ತಳತೆ ಮತ್ತು ವಿಸ್ತೀರ್ಣ",
   "fractions": "ಭಿನ್ನರಾಶಿಗಳು",
@@ -123,5 +123,18 @@
   "wastewater": "ತ್ಯಾಜ್ಯ ನೀರಿನ ಕಥೆ",
   "motion_time": "ಚಲನೆ ಮತ್ತು ಸಮಯ",
   "electric_current": "ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಮತ್ತು ಅದರ ಪರಿಣಾಮಗಳು",
-  "light": "ಬೆಳಕು"
+  "light": "ಬೆಳಕು",
+  "class_7": "ತರಗತಿ 7 (NCERT)",
+  "class_7/maths": "ಗಣಿತ",
+  "integers": "ಪೂರ್ಣಾಂಕಗಳು",
+  "fractions_decimals": "ಭಿನ್ನರಾಶಿಗಳು ಮತ್ತು ದಶಮಾಂಶಗಳು",
+  "simple_equations": "ಸರಳ ಸಮೀಕರಣಗಳು",
+  "triangles": "ತ್ರಿಭುಜ ಮತ್ತು ಅದರ ಗುಣಲಕ್ಷಣಗಳು",
+  "congruence": "ತ್ರಿಭುಜಗಳ ಸರ್ವಸಮತೆ",
+  "comparing_quantities": "ಪರಿಮಾಣಗಳ ಹೋಲಿಕೆ",
+  "rational_numbers": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು",
+  "practical_geometry": "ಪ್ರಾಯೋಗಿಕ ರೇಖಾಗಣಿತ",
+  "algebraic_expressions": "ಬೀಜಗಣಿತದ ಅಭಿವ್ಯಕ್ತಿಗಳು",
+  "exponents_powers": "ಘಾತಾಂಕಗಳು ಮತ್ತು ಘಾತಗಳು",
+  "solid_shapes": "ಘನಾಕೃತಿಗಳ ದೃಶ್ಯೀಕರಣ"
 }
