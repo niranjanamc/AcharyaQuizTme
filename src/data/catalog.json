@@ -621,108 +621,40 @@
         },
         {
           "id": "english",
-          "name": "English (Honeycomb & An Alien Hand)",
+          "name": "English (Honeycomb)",
           "chapters": [
             {
-              "id": "c7_eng_patrick",
-              "name": "Who Did Patrick's Homework?"
-            },
-            {
-              "id": "c7_eng_master",
-              "name": "How the Dog Found Himself a New Master!"
-            },
-            {
-              "id": "c7_eng_taro",
-              "name": "Taro's Reward"
-            },
-            {
-              "id": "c7_eng_kalpana",
-              "name": "Kalpana Chawla"
-            },
-            {
-              "id": "c7_eng_school",
-              "name": "A Different Kind of School"
-            },
-            {
-              "id": "c7_eng_who",
-              "name": "Who I Am"
-            },
-            {
-              "id": "c7_eng_fair",
-              "name": "Fair Play"
-            },
-            {
-              "id": "c7_eng_game",
-              "name": "A Game of Chance"
-            },
-            {
-              "id": "c7_eng_desert",
-              "name": "Desert Animals"
-            },
-            {
-              "id": "c7_eng_banyan",
-              "name": "The Banyan Tree"
-            },
-            {
-              "id": "c7_eng_teacher",
-              "name": "The Tiny Teacher"
-            },
-            {
-              "id": "c7_eng_alien",
-              "name": "An Alien Hand"
+              "id": "c7_eng_questions",
+              "name": "Three Questions & The Squirrel"
             },
             {
               "id": "c7_eng_chappals",
-              "name": "A Gift of Chappals"
+              "name": "A Gift of Chappals & The Rebel"
             },
             {
               "id": "c7_eng_hilsa",
-              "name": "Gopal and the Hilsa Fish"
+              "name": "Gopal and the Hilsa Fish & The Shed"
             },
             {
               "id": "c7_eng_ashes",
-              "name": "The Ashes That Made Trees Bloom"
+              "name": "The Ashes That Made Trees Bloom & Chivvy"
             },
             {
               "id": "c7_eng_quality",
-              "name": "Quality"
-            },
-            {
-              "id": "c7_eng_detectives",
-              "name": "Expert Detectives"
+              "name": "Quality & Trees"
             }
           ]
         },
         {
           "id": "history",
-          "name": "History (Our Pasts II)",
+          "name": "History (Our Pasts - II)",
           "chapters": [
-            {
-              "id": "c7_his_intro",
-              "name": "What, Where, How and When?"
-            },
-            {
-              "id": "c7_his_hunt",
-              "name": "From Hunting to Growing Food"
-            },
-            {
-              "id": "c7_his_cities",
-              "name": "In the Earliest Cities"
-            },
-            {
-              "id": "c7_his_books",
-              "name": "What Books and Burials Tell Us"
-            },
-            {
-              "id": "c7_his_kings",
-              "name": "Kingdoms and Early Republic"
-            },
             {
               "id": "c7_his_tracing",
               "name": "Tracing Changes Through a Thousand Years"
             },
             {
-              "id": "c7_his_newkings",
+              "id": "c7_his_kings",
               "name": "New Kings and Kingdoms"
             },
             {
@@ -736,64 +668,32 @@
             {
               "id": "c7_his_rulers",
               "name": "Rulers and Buildings"
-            },
-            {
-              "id": "c7_his_towns",
-              "name": "Towns, Traders and Craftspersons"
-            },
-            {
-              "id": "c7_his_tribes",
-              "name": "Tribes and Nomads"
-            },
-            {
-              "id": "c7_his_devotional",
-              "name": "Devotional Paths to the Divine"
             }
           ]
         },
         {
           "id": "kannada",
-          "name": "Kannada",
+          "name": "Kannada (Siri Kannada 7)",
           "chapters": [
             {
-              "id": "c7_kan_taayi",
-              "name": "ಕನ್ನಡಿಗರ ತಾಯಿ"
-            },
-            {
-              "id": "c7_kan_ganga",
-              "name": "ಗಂಗಾವತರಣ"
-            },
-            {
-              "id": "c7_kan_dharma",
-              "name": "ಧರ್ಮಬುದ್ಧಿ"
-            },
-            {
-              "id": "c7_kan_hosavarsha",
-              "name": "ಹೊಸವರ್ಷ"
-            },
-            {
-              "id": "c7_kan_abbakka",
-              "name": "ವೀರರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ"
-            },
-            {
-              "id": "c7_kan_sankalpa",
-              "name": "ಸಂಕಲ್ಪ ಗೀತೆ"
-            },
-            {
-              "id": "c7_kan_sailor",
-              "name": "ಸಿಂಧಬಾದನ ಸಾಹಸ"
-            },
-            {
-              "id": "c7_kan_exam",
-              "name": "ಪರೀಕ್ಷೆ"
+              "id": "c7_kan_puttajji",
+              "name": "ಪುಟ್ಟಜ್ಜಿ ಪುಟ್ಟಜ್ಜಿ ಕಥೆ ಹೇಳು (Puttajji Puttajji Kathe Helu)"
             },
             {
               "id": "c7_kan_freedom",
-              "name": "ಸ್ವಾತಂತ್ರ್ಯದೊಡ್ಡಾಟ"
+              "name": "ಬಿಡುಗಡೆಯ ಹಾಡು (Song of Freedom)"
             },
             {
-              "id": "c7_kan_puttajji",
-              "name": "ಪುಟ್ಟಜ್ಜಿ ಪುಟ್ಟಜ್ಜಿ ಕಥೆ ಹೇಳು"
+              "id": "c7_kan_exam",
+              "name": "ಪರೀಕ್ಷೆ (Examination)"
+            },
+            {
+              "id": "c7_kan_architects",
+              "name": "ಭಾಗ್ಯಶಿಲ್ಪಿಗಳು (Architects of Destiny)"
+            },
+            {
+              "id": "c7_kan_sailor",
+              "name": "ಸತ್ಯವಂತ ನಾವಿಕ (The Truthful Sailor)"
             }
           ]
         }
