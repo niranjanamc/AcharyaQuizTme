@@ -109,5 +109,19 @@
   "c6_kan_ganga": "ಗಂಗಾವತರಣ",
   "c6_kan_dharma": "ಧರ್ಮಬುದ್ಧಿ",
   "c6_kan_hosavarsha": "ಹೊಸವರ್ಷ",
-  "c6_kan_abbakka": "ವೀರರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ"
+  "c6_kan_abbakka": "ವೀರರಾಣಿ ಅಬ್ಬಕ್ಕದೇವಿ",
+  "class_7/science": "ವಿಜ್ಞಾನ",
+  "nutrition_plants": "ಸಸ್ಯಗಳಲ್ಲಿ ಪೋಷಣೆ",
+  "nutrition_animals": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಪೋಷಣೆ",
+  "respiration": "ಜೀವಿಗಳಲ್ಲಿ ಉಸಿರಾಟ",
+  "heat": "ಉಷ್ಣ",
+  "acids_bases_salts": "ಆಮ್ಲಗಳು, ಪ್ರತ್ಯಾಮ್ಲಗಳು ಮತ್ತು ಲವಣಗಳು",
+  "physical_chemical_changes": "ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳು",
+  "transportation": "ಪ್ರಾಣಿಗಳು ಮತ್ತು ಸಸ್ಯಗಳಲ್ಲಿ ಸಾಗಾಣಿಕೆ",
+  "reproduction_plants": "ಸಸ್ಯಗಳಲ್ಲಿ ಸಂತಾನೋತ್ಪತ್ತಿ",
+  "forests": "ಅರಣ್ಯಗಳು: ನಮ್ಮ ಜೀವನಾಡಿ",
+  "wastewater": "ತ್ಯಾಜ್ಯ ನೀರಿನ ಕಥೆ",
+  "motion_time": "ಚಲನೆ ಮತ್ತು ಸಮಯ",
+  "electric_current": "ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಮತ್ತು ಅದರ ಪರಿಣಾಮಗಳು",
+  "light": "ಬೆಳಕು"
 }
