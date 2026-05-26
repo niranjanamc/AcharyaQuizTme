@@ -1,0 +1,998 @@
+[
+  {
+    "id": "c8_sci_comb_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "A chemical process in which a substance reacts with oxygen to give off heat is called:",
+      "options": [
+        "Combustion",
+        "Rusting",
+        "Photosynthesis",
+        "Respiration"
+      ],
+      "answer": "Combustion",
+      "reasoning": "Combustion is a chemical process in which a substance reacts with oxygen to produce heat and sometimes light (either as a flame or a glow)."
+    },
+    "kn": {
+      "question": "ವಸ್ತುವೊಂದು ಆಮ್ಲಜನಕದೊಂದಿಗೆ ವರ್ತಿಸಿ ಶಾಖವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವ ರಾಸಾಯನಿಕ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ದಹನ ಕ್ರಿಯೆ (Combustion)",
+        "ತುಕ್ಕು ಹಿಡಿಯುವಿಕೆ",
+        "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ",
+        "ಉಸಿರಾಟ"
+      ],
+      "answer": "ದಹನ ಕ್ರಿಯೆ (Combustion)",
+      "reasoning": "ವಸ್ತುವೊಂದು ಆಮ್ಲಜನಕದೊಂದಿಗೆ ರಾಸಾಯನಿಕವಾಗಿ ವರ್ತಿಸಿ ಶಾಖ ಮತ್ತು ಬೆಳಕನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವ ಕ್ರಿಯೆಯನ್ನು ದಹನ ಕ್ರಿಯೆ ಎನ್ನುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "The substances which undergo combustion are said to be:",
+      "options": [
+        "Combustible",
+        "Non-combustible",
+        "Oxidisers",
+        "Reducers"
+      ],
+      "answer": "Combustible",
+      "reasoning": "Substances that catch fire and burn easily are called combustible substances. They are also called fuels."
+    },
+    "kn": {
+      "question": "ದಹನಕ್ಕೊಳಗಾಗುವ ವಸ್ತುಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ದಹ್ಯ ವಸ್ತುಗಳು (Combustible)",
+        "ದಹ್ಯವಲ್ಲದ ವಸ್ತುಗಳು",
+        "ಉತ್ಕರ್ಷಕಗಳು",
+        "ಅಪಕರ್ಷಕಗಳು"
+      ],
+      "answer": "ದಹ್ಯ ವಸ್ತುಗಳು (Combustible)",
+      "reasoning": "ಯಾವ ವಸ್ತುಗಳು ಸುಲಭವಾಗಿ ಉರಿದು ಶಾಖ ಮತ್ತು ಬೆಳಕನ್ನು ನೀಡುತ್ತವೆಯೋ ಅವುಗಳನ್ನು ದಹ್ಯ ವಸ್ತುಗಳು ಅಥವಾ ಇಂಧನಗಳು ಎನ್ನಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "The lowest temperature at which a substance catches fire is called its:",
+      "options": [
+        "Boiling point",
+        "Ignition temperature",
+        "Melting point",
+        "Critical temperature"
+      ],
+      "answer": "Ignition temperature",
+      "reasoning": "The lowest temperature at which a substance catches fire is called its ignition temperature. A combustible substance cannot catch fire or burn as long as its temperature is lower than its ignition temperature."
+    },
+    "kn": {
+      "question": "ಯಾವುದೇ ಒಂದು ವಸ್ತುವು ಬೆಂಕಿಯನ್ನು ಹೊತ್ತಿಕೊಳ್ಳುವ ಕನಿಷ್ಠ ತಾಪಮಾನವನ್ನು ಅದರ ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ಕುದಿಯುವ ಬಿಂದು",
+        "ದಹನ ತಾಪಮಾನ (Ignition temperature)",
+        "ಕರಗುವ ಬಿಂದು",
+        "ಕ್ರಾಂತಿಕಾರಿ ತಾಪಮಾನ"
+      ],
+      "answer": "ದಹನ ತಾಪಮಾನ (Ignition temperature)",
+      "reasoning": "ವಸ್ತುವೊಂದು ಬೆಂಕಿ ಹೊತ್ತಿಕೊಳ್ಳಲು ಅಗತ್ಯವಿರುವ ಕನಿಷ್ಠ ತಾಪಮಾನವನ್ನು ಅದರ ದಹನ ತಾಪಮಾನ ಎನ್ನಲಾಗುತ್ತದೆ. ಇದಕ್ಕಿಂತ ಕಡಿಮೆ ತಾಪಮಾನವಿದ್ದಾಗ ವಸ್ತುವು ಉರಿಯುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following is commonly used to extinguish electrical fires and oil fires?",
+      "options": [
+        "Water",
+        "Carbon dioxide (CO2)",
+        "Oxygen gas",
+        "Hydrochloric acid"
+      ],
+      "answer": "Carbon dioxide (CO2)",
+      "reasoning": "Water conducts electricity and can cause electric shocks in electrical fires, and oil floats on water making it ineffective. CO2, being heavier than oxygen, blankets the fire and cuts off oxygen supply without conducting electricity."
+    },
+    "kn": {
+      "question": "ವಿದ್ಯುತ್ ಉಪಕರಣಗಳು ಮತ್ತು ತೈಲಗಳಿಂದ ಉಂಟಾಗುವ ಬೆಂಕಿಯನ್ನು ನಂದಿಸಲು ಸಾಮಾನ್ಯವಾಗಿ ಕೆಳಗಿನ ಯಾವುದನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ನೀರು",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (CO2)",
+        "ಆಮ್ಲಜನಕ ಅನಿಲ",
+        "ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ"
+      ],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (CO2)",
+      "reasoning": "ನೀರು ವಿದ್ಯುತ್ ಹರಿಸುವುದರಿಂದ ಆಘಾತ ಉಂಟುಮಾಡಬಹುದು ಮತ್ತು ತೈಲವು ನೀರಿನ ಮೇಲೆ ತೇಲುವುದರಿಂದ ನೀರು ಸೂಕ್ತವಲ್ಲ. ಆದರೆ CO2 ಆಮ್ಲಜನಕಕ್ಕಿಂತ ಭಾರವಾಗಿದ್ದು, ಬೆಂಕಿಯನ್ನು ಆವರಿಸಿ ಆಮ್ಲಜನಕದ ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_005",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Select all the materials that are combustible in nature:",
+      "options": [
+        "Wood",
+        "Kerosene",
+        "Iron nails",
+        "Stone piece"
+      ],
+      "answer": [
+        "Wood",
+        "Kerosene"
+      ],
+      "reasoning": "Wood and kerosene react with oxygen to catch fire and burn, releasing heat. Iron nails and stone pieces do not burn and are non-combustible."
+    },
+    "kn": {
+      "question": "ದಹ್ಯ ಸ್ವಭಾವ ಹೊಂದಿರುವ (ಸುಲಭವಾಗಿ ಉರಿಯುವ) ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "ಮರ",
+        "ಸೀಮೆಎಣ್ಣೆ",
+        "ಕಬ್ಬಿಣದ ಮೊಳೆಗಳು",
+        "ಕಲ್ಲಿನ ತುಂಡು"
+      ],
+      "answer": [
+        "ಮರ",
+        "ಸೀಮೆಎಣ್ಣೆ"
+      ],
+      "reasoning": "ಮರ ಮತ್ತು ಸೀಮೆಎಣ್ಣೆ ಆಮ್ಲಜನಕದೊಂದಿಗೆ ವರ್ತಿಸಿ ಉರಿಯುತ್ತವೆ. ಕಬ್ಬಿಣದ ಮೊಳೆ ಮತ್ತು ಕಲ್ಲುಗಳು ದಹ್ಯವಲ್ಲದ ವಸ್ತುಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_img_006",
+    "type": "image_single",
+    "difficulty": 1,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Candle flame diagram showing three main zones: outer, middle, and inner zones",
+        "kn": "ಮೇಣದಬತ್ತಿಯ ಜ್ವಾಲೆಯ ಮೂರು ಪ್ರಮುಖ ವಲಯಗಳನ್ನು ತೋರಿಸುವ ಚಿತ್ರ: ಹೊರ, ಮಧ್ಯ ಮತ್ತು ಒಳ ವಲಯಗಳು"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"135\" y=\"140\" width=\"30\" height=\"50\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"150\" y1=\"140\" x2=\"150\" y2=\"125\" stroke=\"#1F2937\" stroke-width=\"3\"/><path d=\"M150,30 C110,80 110,130 150,135 C190,130 190,80 150,30 Z\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"3\"/><path d=\"M150,55 C125,90 125,125 150,130 C175,125 175,90 150,55 Z\" fill=\"#EA580C\" opacity=\"0.7\"/><path d=\"M150,90 C138,110 138,125 150,128 C162,125 162,110 150,90 Z\" fill=\"#1F2937\"/><text x=\"50\" y=\"50\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">Zone A (Outer)</text><path d=\"M85,50 L140,80\" stroke=\"#DC2626\" stroke-width=\"1\"/><text x=\"50\" y=\"95\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">Zone B (Middle)</text><path d=\"M85,95 L135,105\" stroke=\"#DC2626\" stroke-width=\"1\"/><text x=\"50\" y=\"140\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">Zone C (Inner)</text><path d=\"M85,140 L142,120\" stroke=\"#DC2626\" stroke-width=\"1\"/></svg>"
+    },
+    "en": {
+      "question": "In the candle flame diagram, which zone (labeled Zone A) is the hottest part of the flame?",
+      "options": [
+        "Zone A (Outer zone)",
+        "Zone B (Middle zone)",
+        "Zone C (Inner zone)",
+        "The candle wick itself"
+      ],
+      "answer": "Zone A (Outer zone)",
+      "reasoning": "The outermost zone (Zone A) is the hottest part of the candle flame. Complete combustion of wax vapors takes place here due to plenty of oxygen supply, emitting a blue, non-luminous flame."
+    },
+    "kn": {
+      "question": "ಮೇಣದಬತ್ತಿಯ ಜ್ವಾಲೆಯ ಚಿತ್ರದಲ್ಲಿ, ಅತ್ಯಂತ ಹೆಚ್ಚು ಬಿಸಿಯಾಗಿರುವ ಭಾಗ ಯಾವುದು (Zone A ಎಂದು ಲೇಬಲ್ ಮಾಡಲಾಗಿದೆ)?",
+      "options": [
+        "ಲಯ ಎ (ಹೊರ ವಲಯ)",
+        "ಲಯ ಬಿ (ಮಧ್ಯ ವಲಯ)",
+        "ಲಯ ಸಿ (ಒಳ ವಲಯ)",
+        "ಮೇಣದಬತ್ತಿಯ ಬತ್ತಿ"
+      ],
+      "answer": "ಲಯ ಎ (ಹೊರ ವಲಯ)",
+      "reasoning": "ಜ್ವಾಲೆಯ ಹೊರಗಿನ ವಲಯವು (ಲಯ ಎ) ಅತ್ಯಂತ ಬಿಸಿಯಾದ ಭಾಗವಾಗಿದೆ. ಆಮ್ಲಜನಕದ ಸಂಪೂರ್ಣ ಪೂರೈಕೆಯಿಂದಾಗಿ ಇಲ್ಲಿ ಮೇಣದ ಆವಿಯ ಸಂಪೂರ್ಣ ದಹನ ನಡೆದು ನೀಲಿ ಬಣ್ಣದಲ್ಲಿ ಉರಿಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_img_007",
+    "type": "image_single",
+    "difficulty": 1,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "The Fire Triangle illustrating Fuel, Oxygen, and Heat as three sides",
+        "kn": "ಇಂಧನ, ಆಮ್ಲಜನಕ ಮತ್ತು ಶಾಖವನ್ನು ಮೂರು ಬದಿಗಳಾಗಿ ತೋರಿಸುವ ಅಗ್ನಿ ತ್ರಿಕೋನದ ಚಿತ್ರ"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><line x1=\"150\" y1=\"30\" x2=\"50\" y2=\"160\" stroke=\"#EA580C\" stroke-width=\"6\"/><text x=\"80\" y=\"100\" fill=\"#EA580C\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" transform=\"rotate(-52 80 100)\" text-anchor=\"middle\">FUEL</text><line x1=\"150\" y1=\"30\" x2=\"250\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"6\"/><text x=\"220\" y=\"100\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" transform=\"rotate(52 220 100)\" text-anchor=\"middle\">OXYGEN</text><line x1=\"50\" y1=\"160\" x2=\"250\" y2=\"160\" stroke=\"#DC2626\" stroke-width=\"6\"/><text x=\"150\" y=\"180\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">HEAT</text><path d=\"M150,70 Q130,120 150,140 Q170,120 150,70 Z\" fill=\"#EA580C\" opacity=\"0.8\"/></svg>"
+    },
+    "en": {
+      "question": "The 'Fire Triangle' shows the three essential requirements to produce fire. What happens if any one of these three requirements is removed?",
+      "options": [
+        "The fire is extinguished",
+        "The fire becomes stronger",
+        "The temperature increases instantly",
+        "Only carbon dioxide gas is produced"
+      ],
+      "answer": "The fire is extinguished",
+      "reasoning": "A fire requires fuel, oxygen (air), and heat (to raise the temperature above ignition point). Removing any one of these elements breaks the combustion chain, and the fire is extinguished."
+    },
+    "kn": {
+      "question": "'ಅಗ್ನಿ ತ್ರಿಕೋನ' (Fire Triangle) ಬೆಂಕಿಯನ್ನು ಉಂಟುಮಾಡಲು ಅಗತ್ಯವಿರುವ ಮೂರು ಅಂಶಗಳನ್ನು ತೋರಿಸುತ್ತದೆ. ಈ ಮೂರು ಅವಶ್ಯಕತೆಗಳಲ್ಲಿ ಯಾವುದಾದರೂ ಒಂದನ್ನು ತೆಗೆದುಹಾಕಿದರೆ ಏನಾಗುತ್ತದೆ?",
+      "options": [
+        "ಬೆಂಕಿಯು ನಂದಿಹೋಗುತ್ತದೆ",
+        "ಬೆಂಕಿಯು ಮತ್ತಷ್ಟು ತೀವ್ರಗೊಳ್ಳುತ್ತದೆ",
+        "ತಾಪಮಾನವು ತಕ್ಷಣವೇ ಹೆಚ್ಚಾಗುತ್ತದೆ",
+        "ಕೇವಲ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ"
+      ],
+      "answer": "ಬೆಂಕಿಯು ನಂದಿಹೋಗುತ್ತದೆ",
+      "reasoning": "ಉರಿಯಲು ಇಂಧನ, ಆಮ್ಲಜನಕ ಮತ್ತು ಶಾಖದ ಅವಶ್ಯಕತೆಯಿರುತ್ತದೆ. ಇವುಗಳಲ್ಲಿ ಯಾವುದೇ ಒಂದನ್ನು ತೆಗೆದುಹಾಕಿದರೂ ದಹನ ಕ್ರಿಯೆ ಸ್ಥಗಿತಗೊಂಡು ಬೆಂಕಿ ನಂದಿಹೋಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_008",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the types of combustion with their correct examples:",
+      "pairs": [
+        {
+          "left": "Rapid combustion",
+          "right": "Gas burner catching fire instantly on striking matchstick"
+        },
+        {
+          "left": "Spontaneous combustion",
+          "right": "Forest fires or phosphorus burning in air on its own"
+        },
+        {
+          "left": "Explosion",
+          "right": "Crackers bursting with heat, light, and sound"
+        },
+        {
+          "left": "Slow combustion",
+          "right": "Rusting of iron or respiration in cells"
+        }
+      ],
+      "reasoning": "Rapid combustion happens quickly. Spontaneous combustion happens without external heat. Explosion releases gas and sound. Rusting/respiration are slow oxidation processes."
+    },
+    "kn": {
+      "question": "ದಹನ ಕ್ರಿಯೆಯ ಪ್ರಕಾರಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಉದಾಹರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಕ್ಷಿಪ್ರ ದಹನ",
+          "right": "ಬೆಂಕಿ ಕಡ್ಡಿ ಗೀಚಿದಾಗ ಗ್ಯಾಸ್ ಬರ್ನರ್ ತಕ್ಷಣವೇ ಹೊತ್ತಿಕೊಳ್ಳುವುದು"
+        },
+        {
+          "left": "ಸ್ವಯಂಪ್ರೇರಿತ ದಹನ",
+          "right": "ಕಾಡ್ಗಿಚ್ಚು ಅಥವಾ ರಂಜಕವು ಗಾಳಿಯಲ್ಲಿ ತಾನಾಗಿಯೇ ಉರಿಯುವುದು"
+        },
+        {
+          "left": "ಸ್ಫೋಟ",
+          "right": "ಶಾಖ, ಬೆಳಕು ಮತ್ತು ಶಬ್ದದೊಂದಿಗೆ ಪಟಾಕಿ ಸಿಡಿಯುವುದು"
+        },
+        {
+          "left": "ಮಂದ ದಹನ",
+          "right": "ಕಬ್ಬಿಣ ತುಕ್ಕು ಹಿಡಿಯುವುದು ಅಥವಾ ಜೀವಕೋಶದ ಉಸಿರಾಟ"
+        }
+      ],
+      "reasoning": "ಕ್ಷಿಪ್ರ ದಹನವು ತಕ್ಷಣವೇ ನಡೆಯುತ್ತದೆ. ಸ್ವಯಂಪ್ರೇರಿತ ದಹನಕ್ಕೆ ಬಾಹ್ಯ ಶಾಖ ಬೇಡ. ಸ್ಫೋಟವು ಶಬ್ದ ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ. ತುಕ್ಕು ಹಿಡಿಯುವುದು ನಿಧಾನಗತಿಯ ಉತ್ಕರ್ಷಣವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_009",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the substance with the nature of its flame when burnt:",
+      "pairs": [
+        {
+          "left": "Candle",
+          "right": "Forms a flame (wax vaporizes)"
+        },
+        {
+          "left": "Kerosene stove",
+          "right": "Forms a flame"
+        },
+        {
+          "left": "Charcoal",
+          "right": "Does not vaporize, glows without flame"
+        },
+        {
+          "left": "Camphor",
+          "right": "Vaporizes and forms a flame"
+        }
+      ],
+      "reasoning": "Substances which vaporize during burning give flames (candle, kerosene, camphor). Charcoal does not vaporize and thus only glows without forming a flame."
+    },
+    "kn": {
+      "question": "ವಸ್ತುಗಳನ್ನು ಅವು ಉರಿಯುವಾಗ ಉಂಟುಮಾಡುವ ಜ್ವಾಲೆಯ ಸ್ವಭಾವಕ್ಕೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಮೇಣದಬತ್ತಿ",
+          "right": "ಜ್ವಾಲೆಯನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ (ಮೇಣ ಆವಿಯಾಗುತ್ತದೆ)"
+        },
+        {
+          "left": "ಸೀಮೆಎಣ್ಣೆ ಒಲೆ",
+          "right": "ಜ್ವಾಲೆಯನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ"
+        },
+        {
+          "left": "ಿದ್ದಲು (Charcoal)",
+          "right": "ಆವಿಯಾಗುವುದಿಲ್ಲ, ಜ್ವಾಲೆಯಿಲ್ಲದೆ ಕೆಂಪಗೆ ಕಾಯುತ್ತದೆ"
+        },
+        {
+          "left": "ಕರ್ಪೂರ",
+          "right": "ಆವಿಯಾಗಿ ಜ್ವಾಲೆಯನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ"
+        }
+      ],
+      "reasoning": "ಉರಿಯುವಾಗ ಆವಿಯಾಗುವ ವಸ್ತುಗಳು ಜ್ವಾಲೆಯನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ (ಉದಾ: ಕರ್ಪೂರ, ಮೇಣ). ಇದ್ದಲು ಆವಿಯಾಗದ ಕಾರಣ ಜ್ವಾಲೆಯಿಲ್ಲದೆ ಕಾಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_010",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What are substances with very low ignition temperature that catch fire easily with a flame called?",
+      "options": [
+        "Combustible substances",
+        "Inflammable substances",
+        "Non-combustible substances",
+        "Oxidisers"
+      ],
+      "answer": "Inflammable substances",
+      "reasoning": "Substances which have very low ignition temperature and can easily catch fire with a flame are called inflammable substances. Examples include petrol, alcohol, and LPG."
+    },
+    "kn": {
+      "question": "ಅತಿ ಕಡಿಮೆ ದಹನ ತಾಪಮಾನ ಹೊಂದಿದ್ದು, ಜ್ವಾಲೆಯೊಂದಿಗೆ ಅತ್ಯಂತ ಸುಲಭವಾಗಿ ಉರಿಯುವ ವಸ್ತುಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ದಹ್ಯ ವಸ್ತುಗಳು",
+        "ಸುಲಭವಾಗಿ ದಹಿಸುವ ವಸ್ತುಗಳು (Inflammable)",
+        "ದಹ್ಯವಲ್ಲದ ವಸ್ತುಗಳು",
+        "ಉತ್ಕರ್ಷಕಗಳು"
+      ],
+      "answer": "ಸುಲಭವಾಗಿ ದಹಿಸುವ ವಸ್ತುಗಳು (Inflammable)",
+      "reasoning": "ಅತಿ ಕಡಿಮೆ ದಹನ ತಾಪಮಾನ ಹೊಂದಿರುವ ಪೆಟ್ರೋಲ್, ಆಲ್ಕೋಹಾಲ್ ಮತ್ತು ಎಲ್‌ಪಿಜಿ ಮುಂತಾದ ವಸ್ತುಗಳನ್ನು ಸುಲಭವಾಗಿ ದಹಿಸುವ (Inflammable) ವಸ್ತುಗಳು ಎನ್ನಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following is the best unit for expressing the calorific value of a fuel?",
+      "options": [
+        "kJ/kg",
+        "J/g",
+        "kcal/kg",
+        "kJ/g"
+      ],
+      "answer": "kJ/kg",
+      "reasoning": "The amount of heat energy produced on complete combustion of 1 kg of a fuel is called its calorific value. It is expressed in a unit called kilojoule per kilogram (kJ/kg)."
+    },
+    "kn": {
+      "question": "ಇಂಧನದ ಕ್ಯಾಲೋರಿ ಮೌಲ್ಯವನ್ನು ವ್ಯಕ್ತಪಡಿಸಲು ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಅತ್ಯಂತ ಸೂಕ್ತವಾದ ಮಾನದಂಡವಾಗಿದೆ?",
+      "options": [
+        "kJ/kg (ಕಿಲೋ ಜೂಲ್ ಪ್ರತಿ ಕಿಲೋಗ್ರಾಂ)",
+        "J/g",
+        "kcal/kg",
+        "kJ/g"
+      ],
+      "answer": "kJ/kg (ಕಿಲೋ ಜೂಲ್ ಪ್ರತಿ ಕಿಲೋಗ್ರಾಂ)",
+      "reasoning": "1 ಕೆಜಿ ಇಂಧನದ ಸಂಪೂರ್ಣ ದಹನದಿಂದ ಬಿಡುಗಡೆಯಾಗುವ ಶಾಖ ಶಕ್ತಿಯ ಪ್ರಮಾಣವನ್ನು ಅದರ ಕ್ಯಾಲೋರಿ ಮೌಲ್ಯ ಎನ್ನುತ್ತಾರೆ. ಇದನ್ನು ಕಿಲೋ ಜೂಲ್ ಪ್ರತಿ ಕಿಲೋಗ್ರಾಂ (kJ/kg) ಎಂಬ ಮಾನದಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why is the middle zone of a candle flame luminous (yellow)?",
+      "options": [
+        "Due to complete combustion of carbon particles",
+        "Due to incomplete combustion, leaving unburnt hot carbon particles that glow",
+        "Due to absence of carbon particles",
+        "Due to presence of nitrogen gas"
+      ],
+      "answer": "Due to incomplete combustion, leaving unburnt hot carbon particles that glow",
+      "reasoning": "In the middle zone, oxygen supply is partial. This leads to incomplete combustion of wax, leaving unburnt carbon particles. These hot particles glow yellow, creating a luminous zone."
+    },
+    "kn": {
+      "question": "ಮೇಣದಬತ್ತಿಯ ಜ್ವಾಲೆಯ ಮಧ್ಯ ಭಾಗವು ಹಳದಿ ಬಣ್ಣದಲ್ಲಿ ಪ್ರಕಾಶಮಾನವಾಗಿರಲು ಕಾರಣವೇನು?",
+      "options": [
+        "ಇಂಗಾಲದ ಕಣಗಳು ಸಂಪೂರ್ಣವಾಗಿ ದಹನವಾಗುವುದರಿಂದ",
+        "ಅಪೂರ್ಣ ದಹನದಿಂದಾಗಿ ಕರಗದ ಕರಕಲು ಇಂಗಾಲದ ಕಣಗಳು ಕಾಯ್ದು ಹೊಳೆಯುವುದರಿಂದ",
+        "ಇಂಗಾಲದ ಕಣಗಳು ಇಲ್ಲದಿರುವುದರಿಂದ",
+        "ಸಾರಜನಕ ಅನಿಲದ ಉಪಸ್ಥಿತಿಯಿಂದ"
+      ],
+      "answer": "ಅಪೂರ್ಣ ದಹನದಿಂದಾಗಿ ಕರಗದ ಕರಕಲು ಇಂಗಾಲದ ಕಣಗಳು ಕಾಯ್ದು ಹೊಳೆಯುವುದರಿಂದ",
+      "reasoning": "ಮಧ್ಯ ವಲಯದಲ್ಲಿ ಆಮ್ಲಜನಕ ಪೂರ್ಣ ಸಿಗದ ಕಾರಣ ಅಪೂರ್ಣ ದಹನವಾಗಿ ಇಂಗಾಲದ ಕಣಗಳು ಉಂಟಾಗುತ್ತವೆ. ಈ ಬಿಸಿಯಾದ ಇಂಗಾಲದ ಕಣಗಳು ಪ್ರಕಾಶಮಾನವಾಗಿ ಹಳದಿ ಬಣ್ಣದಲ್ಲಿ ಹೊಳೆಯುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which gaseous pollutant binds with hemoglobin in the blood, reducing its oxygen-carrying capacity and causing suffocation?",
+      "options": [
+        "Carbon dioxide",
+        "Carbon monoxide",
+        "Nitrogen dioxide",
+        "Sulphur dioxide"
+      ],
+      "answer": "Carbon monoxide",
+      "reasoning": "Incomplete combustion of fuels produces carbon monoxide (CO), a highly poisonous gas. It binds tightly with hemoglobin, preventing oxygen transport and can be fatal in closed rooms."
+    },
+    "kn": {
+      "question": "ರಕ್ತದಲ್ಲಿನ ಹಿಮೋಗ್ಲೋಬಿನ್‌ನೊಂದಿಗೆ ಬಂಧವನ್ನು ಏರ್ಪಡಿಸಿ ಆಮ್ಲಜನಕ ಸಾಗಿಸುವ ಸಾಮರ್ಥ್ಯ ಕುಂದಿಸುವ ವಿಷಕಾರಿ ಅನಿಲ ಯಾವುದು?",
+      "options": [
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಕಾರ್ಬನ್ ಮೊನಾಕ್ಸೈಡ್ (CO)",
+        "ನೈಟ್ರೋಜನ್ ಡೈಆಕ್ಸೈಡ್",
+        "ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್"
+      ],
+      "answer": "ಕಾರ್ಬನ್ ಮೊನಾಕ್ಸೈಡ್ (CO)",
+      "reasoning": "ಇಂಧನಗಳ ಅಪೂರ್ಣ ದಹನದಿಂದ ಅತ್ಯಂತ ವಿಷಕಾರಿಯಾದ ಕಾರ್ಬನ್ ಮೊನಾಕ್ಸೈಡ್ ಅನಿಲ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ಮುಚ್ಚಿದ ಕೋಣೆಯಲ್ಲಿ ಕಲ್ಲಿದ್ದಲು ಉರಿಸಿದಾಗ ಇದು ಉಸಿರುಗಟ್ಟಿಸಿ ಜೀವ ಹಾನಿ ಮಾಡಬಹುದು."
+    }
+  },
+  {
+    "id": "c8_sci_comb_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In matchsticks, which chemical compound present on the rubbing surface of the matchbox ignites first?",
+      "options": [
+        "Red phosphorus",
+        "Antimony trisulphide",
+        "Potassium chlorate",
+        "White phosphorus"
+      ],
+      "answer": "Red phosphorus",
+      "reasoning": "The rubbing surface contains red phosphorus and powdered glass. Friction converts some red phosphorus into white phosphorus, which reacts with potassium chlorate on the matchstick head to ignite antimony trisulphide."
+    },
+    "kn": {
+      "question": "ಬೆಂಕಿಪೆಟ್ಟಿಗೆಯ ಪಕ್ಕದ ಒರಟು ಮೇಲ್ಮೈಗೆ ಹಚ್ಚಲಾದ ಯಾವ ರಾಸಾಯನಿಕ ವಸ್ತುವು ಮೊದಲು ಉರಿಯಲು ಪ್ರಚೋದನೆ ನೀಡುತ್ತದೆ?",
+      "options": [
+        "ಕೆಂಪು ರಂಜಕ (Red Phosphorus)",
+        "ಆಂಟಿಮನಿ ಟ್ರೈಸಲ್ಫೈಡ್",
+        "ಪೊಟ್ಯಾಸಿಯಮ್ ಕ್ಲೋರೇಟ್",
+        "ಬಿಳಿ ರಂಜಕ"
+      ],
+      "answer": "ಕೆಂಪು ರಂಜಕ (Red Phosphorus)",
+      "reasoning": "ಒರಟು ಮೇಲ್ಮೈಯು ಕೆಂಪು ರಂಜಕ ಮತ್ತು ಗಾಜಿನ ಪುಡಿಯನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಘರ್ಷಣೆಯಿಂದ ಕೆಂಪು ರಂಜಕವು ಬಿಳಿ ರಂಜಕವಾಗಿ ಬದಲಾಗಿ, ಕಡ್ಡಿಯಲ್ಲಿರುವ ಪೊಟ್ಯಾಸಿಯಮ್ ಕ್ಲೋರೇಟ್ ನೊಂದಿಗೆ ವರ್ತಿಸಿ ಬೆಂಕಿ ಹೊತ್ತಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_015",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Select all the characteristics of an ideal or good fuel:",
+      "options": [
+        "It should have a high calorific value",
+        "It should leave behind large amounts of ash",
+        "It should have a moderate ignition temperature",
+        "It should be cheap and easily available"
+      ],
+      "answer": [
+        "It should have a high calorific value",
+        "It should have a moderate ignition temperature",
+        "It should be cheap and easily available"
+      ],
+      "reasoning": "A good fuel has high calorific value, moderate ignition temperature (neither too high nor too low), is cheap, easily transportable, and burns smoothly without leaving residue."
+    },
+    "kn": {
+      "question": "ಉತ್ತಮ ಅಥವಾ ಆದರ್ಶ ಇಂಧನದ ಎಲ್ಲಾ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "ಇದು ಹೆಚ್ಚಿನ ಕ್ಯಾಲೋರಿ ಮೌಲ್ಯ ಹೊಂದಿರಬೇಕು",
+        "ಇದು ಉರಿದ ನಂತರ ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದಲ್ಲಿ ಬೂದಿಯನ್ನು ಬಿಡಬೇಕು",
+        "ಇದು ಮಧ್ಯಮ ದಹನ ತಾಪಮಾನ ಹೊಂದಿರಬೇಕು",
+        "ಇದು ಅಗ್ಗವಾಗಿದ್ದು ಸುಲಭವಾಗಿ ದೊರೆಯುವಂತಿರಬೇಕು"
+      ],
+      "answer": [
+        "ಇದು ಹೆಚ್ಚಿನ ಕ್ಯಾಲೋರಿ ಮೌಲ್ಯ ಹೊಂದಿರಬೇಕು",
+        "ಇದು ಮಧ್ಯಮ ದಹನ ತಾಪಮಾನ ಹೊಂದಿರಬೇಕು",
+        "ಇದು ಅಗ್ಗವಾಗಿದ್ದು ಸುಲಭವಾಗಿ ದೊರೆಯುವಂತಿರಬೇಕು"
+      ],
+      "reasoning": "ಉತ್ತಮ ಇಂಧನವು ಸುಲಭವಾಗಿ ಉರಿಯುವಂತಿರಬೇಕು, ಬೂದಿ ಬಿಡಬಾರದು, ಹೆಚ್ಚಿನ ಶಾಖ ನೀಡಬೇಕು ಮತ್ತು ತಾಪಮಾನವು ಮಧ್ಯಮ ದರ್ಜೆಯಲ್ಲಿರಬೇಕು."
+    }
+  },
+  {
+    "id": "c8_sci_comb_img_016",
+    "type": "image_single",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Bar chart comparing calorific values of Cow Dung, Coal, CNG, and Hydrogen fuel",
+        "kn": "ಬೆರಣಿ, ಕಲ್ಲಿದ್ದಲು, ಸಿಎನ್‌ಜಿ ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಇಂಧನಗಳ ಕ್ಯಾಲೋರಿ ಮೌಲ್ಯ ಹೋಲಿಸುವ ಕಂಬ ಸಾಲು ನಕ್ಷೆ"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><line x1=\"50\" y1=\"20\" x2=\"50\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"50\" y1=\"160\" x2=\"280\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"45\" y=\"165\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"end\">0</text><text x=\"45\" y=\"90\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"end\">75k</text><text x=\"45\" y=\"25\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"end\">150k</text><rect x=\"70\" y=\"153\" width=\"30\" height=\"7\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><text x=\"85\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"9\" text-anchor=\"middle\">Dung</text><rect x=\"120\" y=\"132\" width=\"30\" height=\"28\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><text x=\"135\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"9\" text-anchor=\"middle\">Coal</text><rect x=\"170\" y=\"114\" width=\"30\" height=\"46\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><text x=\"185\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"9\" text-anchor=\"middle\">CNG</text><rect x=\"220\" y=\"20\" width=\"30\" height=\"140\" fill=\"#059669\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"235\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"9\" text-anchor=\"middle\">Hydro.</text><text x=\"150\" y=\"12\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\">Calorific Values (kJ/kg)</text></svg>"
+    },
+    "en": {
+      "question": "Hydrogen (highlighted in green) has the highest calorific value of 150,000 kJ/kg. What does a high calorific value signify about a fuel?",
+      "options": [
+        "It produces more heat energy per unit mass",
+        "It has a very high ignition temperature and is hard to burn",
+        "It is highly unstable and cannot be stored",
+        "It produces maximum smoke and soot on burning"
+      ],
+      "answer": "It produces more heat energy per unit mass",
+      "reasoning": "Calorific value represents the amount of heat energy released on burning 1 kg of fuel. A higher calorific value means the fuel is highly efficient and produces more energy per kilogram compared to others."
+    },
+    "kn": {
+      "question": "ಹಸಿರು ಬಣ್ಣದಲ್ಲಿ ತೋರಿಸಲಾದ ಹೈಡ್ರೋಜನ್‌ನ ಕ್ಯಾಲೋರಿ ಮೌಲ್ಯವು 150,000 kJ/kg ಆಗಿದೆ. ಹೆಚ್ಚಿನ ಕ್ಯಾಲೋರಿ ಮೌಲ್ಯವು ಇಂಧನದ ಬಗ್ಗೆ ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": [
+        "ಇದು ಪ್ರತಿ ಯುನಿಟ್ ದ್ರವ್ಯರಾಶಿಗೆ ಹೆಚ್ಚು ಶಾಖ ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ",
+        "ಇದು ಹೆಚ್ಚಿನ ದಹನ ತಾಪಮಾನ ಹೊಂದಿದ್ದು ಉರಿಸುವುದು ಕಷ್ಟ",
+        "ಇದು ಹೆಚ್ಚು ಅಸ್ಥಿರವಾಗಿದ್ದು ಸಂಗ್ರಹಿಸಲು ಬರುವುದಿಲ್ಲ",
+        "ಉರಿಯುವಾಗ ಇದು ಅತಿ ಹೆಚ್ಚು ಹೊಗೆಯನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ"
+      ],
+      "answer": "ಇದು ಪ್ರತಿ ಯುನಿಟ್ ದ್ರವ್ಯರಾಶಿಗೆ ಹೆಚ್ಚು ಶಾಖ ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ",
+      "reasoning": "ಕ್ಯಾಲೋರಿ ಮೌಲ್ಯ ಎಂದರೆ 1 ಕೆಜಿ ಇಂಧನ ಉರಿದಾಗ ಕೊಡುವ ಶಾಖ ಶಕ್ತಿಯಾಗಿದೆ. ಹೆಚ್ಚಿನ ಕ್ಯಾಲೋರಿ ಮೌಲ್ಯದ ಇಂಧನವು ಅತ್ಯಂತ ದಕ್ಷವಾಗಿದ್ದು ಹೆಚ್ಚು ಶಾಖ ನೀಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_img_017",
+    "type": "image_single",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Experiment demonstrating boiling water in a paper cup heated by a candle flame",
+        "kn": "ಮೇಣದಬತ್ತಿಯ ಜ್ವಾಲೆಯಿಂದ ಬಿಸಿಮಾಡುವ ಕಾಗದದ ಕಪ್‌ನಲ್ಲಿ ನೀರನ್ನು ಕುದಿಸುವುದನ್ನು ತೋರಿಸುವ ಪ್ರಯೋಗ"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><polygon points=\"110,60 190,60 170,120 130,120\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><polygon points=\"120,80 180,80 170,120 130,120\" fill=\"#059669\" opacity=\"0.4\"/><text x=\"150\" y=\"105\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\">Water</text><rect x=\"142\" y=\"160\" width=\"16\" height=\"30\" fill=\"#E5E7EB\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M150,130 Q140,150 150,160 Q160,150 150,130 Z\" fill=\"#EA580C\"/><path d=\"M150,130 L150,118\" stroke=\"#DC2626\" stroke-width=\"2\" marker-end=\"url(#a)\"/><defs><marker id=\"a\" markerWidth=\"6\" markerHeight=\"6\" refX=\"3\" refY=\"3\" orient=\"auto\"><path d=\"M0,0 L6,3 L0,6 Z\" fill=\"#DC2626\"/></marker></defs><text x=\"235\" y=\"85\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">Paper Cup</text><path d=\"M200,85 L180,85\" stroke=\"#DC2626\" stroke-dasharray=\"3,3\"/></svg>"
+    },
+    "en": {
+      "question": "In this experiment, water can be boiled in a paper cup without burning the paper. Why does the paper cup not catch fire?",
+      "options": [
+        "The heat supplied is quickly transferred to water by conduction, keeping paper below its ignition temperature",
+        "The paper becomes completely fireproof when it gets wet",
+        "Water chemically reacts with paper to make it non-combustible",
+        "The candle flame does not touch the paper directly"
+      ],
+      "answer": "The heat supplied is quickly transferred to water by conduction, keeping paper below its ignition temperature",
+      "reasoning": "Heat supplied to the paper cup is transferred to water by conduction. Therefore, in the presence of water, the temperature of the paper does not reach its ignition temperature, preventing it from burning."
+    },
+    "kn": {
+      "question": "ಈ ಪ್ರಯೋಗದಲ್ಲಿ, ಕಾಗದದ ಕಪ್ ಸುಡದೆಯೇ ಅದರಲ್ಲಿ ನೀರನ್ನು ಕುದಿಸಬಹುದು. ಕಾಗದದ ಕಪ್ ಏಕೆ ಬೆಂಕಿಯನ್ನು ಹೊತ್ತಿಕೊಳ್ಳುವುದಿಲ್ಲ?",
+      "options": [
+        "ಸರಬರಾಜು ಮಾಡಿದ ಶಾಖವು ಪ್ರವಹಿಸುವಿಕೆಯ ಮೂಲಕ ತಕ್ಷಣವೇ ನೀರಿಗೆ ವರ್ಗಾವಣೆಯಾಗಿ, ಕಾಗದದ ತಾಪಮಾನವು ಅದರ ದಹನ ತಾಪಮಾನಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವಂತೆ ಮಾಡುತ್ತದೆ",
+        "ಒದ್ದೆಯಾದಾಗ ಕಾಗದವು ಸಂಪೂರ್ಣವಾಗಿ ಬೆಂಕಿ ನಿರೋಧಕವಾಗುತ್ತದೆ",
+        "ನೀರು ಕಾಗದದೊಂದಿಗೆ ವರ್ತಿಸಿ ಅದಕ್ಕೆ ದಹನವಾಗದಂತೆ ಮಾಡುತ್ತದೆ",
+        "ಜ್ವಾಲೆಯು ಕಾಗದವನ್ನು ನೇರವಾಗಿ ಸ್ಪರ್ಶಿಸುವುದಿಲ್ಲ"
+      ],
+      "answer": "ಸರಬರಾಜು ಮಾಡಿದ ಶಾಖವು ಪ್ರವಹಿಸುವಿಕೆಯ ಮೂಲಕ ತಕ್ಷಣವೇ ನೀರಿಗೆ ವರ್ಗಾವಣೆಯಾಗಿ, ಕಾಗದದ ತಾಪಮಾನವು ಅದರ ದಹನ ತಾಪಮಾನಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವಂತೆ ಮಾಡುತ್ತದೆ",
+      "reasoning": "ಕಾಗದದ ಕಪ್‌ಗೆ ನೀಡಿದ ಶಾಖವು ಶಾಖ ಪ್ರವಹನದಿಂದ ನೀರನ್ನು ತಲುಪುತ್ತದೆ. ನೀರಿನ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ಕಾಗದದ ಉಷ್ಣತೆಯು ಅದರ ದಹನ ತಾಪಮಾನವನ್ನು ತಲುಪಲು ಸಾಧ್ಯವಾಗದ ಕಾರಣ ಕಪ್ ಸುಡುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_018",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following gases released due to incomplete combustion of coal or wood is extremely poisonous and can kill people sleeping in a closed room?",
+      "options": [
+        "Carbon dioxide",
+        "Carbon monoxide",
+        "Nitrogen dioxide",
+        "Oxygen"
+      ],
+      "answer": "Carbon monoxide",
+      "reasoning": "Burning coal in a closed room produces carbon monoxide (CO) due to insufficient oxygen. CO is highly poisonous and prevents blood hemoglobin from carrying oxygen, causing death."
+    },
+    "kn": {
+      "question": "ಮುಚ್ಚಿದ ಕೋಣೆಯಲ್ಲಿ ಕಲ್ಲಿದ್ದಲು ಉರಿಸಿದಾಗ ಬಿಡುಗಡೆಯಾಗುವ ಯಾವ ವಿಷಕಾರಿ ಅನಿಲವು ಕೋಣೆಯಲ್ಲಿ ಮಲಗಿರುವವರ ಜೀವಕ್ಕೆ ಕುತ್ತು ತರಬಹುದು?",
+      "options": [
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+        "ಕಾರ್ಬನ್ ಮೊನಾಕ್ಸೈಡ್ (CO)",
+        "ನೈಟ್ರೋಜನ್ ಡೈಆಕ್ಸೈಡ್",
+        "ಆಮ್ಲಜನಕ"
+      ],
+      "answer": "ಕಾರ್ಬನ್ ಮೊನಾಕ್ಸೈಡ್ (CO)",
+      "reasoning": "ಗಾಳಿ ಮುಚ್ಚಿದ ಕೋಣೆಯಲ್ಲಿ ಇದ್ದಲು ಉರಿಸಿದಾಗ ಅಪೂರ್ಣ ದಹನದಿಂದ ಅತ್ಯಂತ ವಿಷಕಾರಿಯಾದ ಕಾರ್ಬನ್ ಮೊನಾಕ್ಸೈಡ್ ಅನಿಲ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ. ಇದು ಉಸಿರಾಟವನ್ನು ನಿಲ್ಲಿಸಿ ಮರಣಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_019",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the types of combustion with their descriptions:",
+      "pairs": [
+        {
+          "left": "Rapid combustion",
+          "right": "Burns rapidly producing heat and light"
+        },
+        {
+          "left": "Spontaneous combustion",
+          "right": "Bursts into flame without any apparent cause"
+        },
+        {
+          "left": "Explosion",
+          "right": "Sudden reaction with heat, light, sound, and gas"
+        },
+        {
+          "left": "Slow oxidation",
+          "right": "Rusting of iron in moist air"
+        }
+      ],
+      "reasoning": "Rapid combustion needs external ignition. Spontaneous requires no external heat. Explosion releases gas and sound. Rusting is slow oxidation."
+    },
+    "kn": {
+      "question": "ದಹನ ಕ್ರಿಯೆಯ ವಿಧಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿವರಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಕ್ಷಿಪ್ರ ದಹನ",
+          "right": "ವೇಗವಾಗಿ ಉರಿದು ಶಾಖ ಮತ್ತು ಬೆಳಕನ್ನು ನೀಡುತ್ತದೆ"
+        },
+        {
+          "left": "ಸ್ವಯಂಪ್ರೇರಿತ ದಹನ",
+          "right": "ಯಾವುದೇ ಬಾಹ್ಯ ಕಾರಣವಿಲ್ಲದೆ ಬೆಂಕಿ ಹೊತ್ತಿಕೊಳ್ಳುತ್ತದೆ"
+        },
+        {
+          "left": "ಸ್ಫೋಟ",
+          "right": "ಹೆಚ್ಚಿನ ಶಾಖ, ಬೆಳಕು, ಶಬ್ದ ಹಾಗೂ ಅನಿಲದೊಂದಿಗೆ ತಕ್ಷಣವೇ ವರ್ತಿಸುತ್ತದೆ"
+        },
+        {
+          "left": "ಮಂದ ಉತ್ಕರ್ಷಣ",
+          "right": "ತೇವವಾದ ಗಾಳಿಯಲ್ಲಿ ಕಬ್ಬಿಣ ತುಕ್ಕು ಹಿಡಿಯುವುದು"
+        }
+      ],
+      "reasoning": "ಕ್ಷಿಪ್ರ ದಹನ ವೇಗವಾಗಿ ಆಗುತ್ತದೆ. ಸ್ವಯಂಪ್ರೇರಿತ ದಹನ ತಾನಾಗಿಯೇ ಆಗುತ್ತದೆ. ಸ್ಫೋಟವು ಶಬ್ದ ತರಂಗ ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ. ತುಕ್ಕು ಹಿಡಿಯುವುದು ಮಂದ ಉತ್ಕರ್ಷಣವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_020",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following are consequences of the incomplete combustion of fossil fuels? Select all that apply:",
+      "options": [
+        "Production of unburnt carbon particles (soot)",
+        "Release of highly poisonous carbon monoxide gas",
+        "Release of only pure oxygen gas",
+        "Increased risk of respiratory diseases like asthma"
+      ],
+      "answer": [
+        "Production of unburnt carbon particles (soot)",
+        "Release of highly poisonous carbon monoxide gas",
+        "Increased risk of respiratory diseases like asthma"
+      ],
+      "reasoning": "Incomplete combustion leaves unburnt carbon particles (fine dust causing respiratory issues like asthma) and produces toxic carbon monoxide gas."
+    },
+    "kn": {
+      "question": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳ ಅಪೂರ್ಣ ದಹನದಿಂದ ಕೆಳಗಿನ ಯಾವ ಪರಿಣಾಮಗಳು ಉಂಟಾಗುತ್ತವೆ? ಎಲ್ಲಾ ಸರಿಯಾದವುಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "ಕರಗದ ಇಂಗಾಲದ ಕಣಗಳು (ಕರಕಲು) ಉತ್ಪತ್ತಿಯಾಗುವುದು",
+        "ಅತ್ಯಂತ ವಿಷಕಾರಿಯಾದ ಕಾರ್ಬನ್ ಮೊನಾಕ್ಸೈಡ್ ಅನಿಲ ಬಿಡುಗಡೆ",
+        "ಕೇವಲ ಶುದ್ಧ ಆಮ್ಲಜನಕ ಅನಿಲ ಬಿಡುಗಡೆಯಾಗುವುದು",
+        "ಅಸ್ತಮಾದಂತಹ ಉಸಿರಾಟದ ಕಾಯಿಲೆಗಳ ಅಪಾಯ ಹೆಚ್ಚಾಗುವುದು"
+      ],
+      "answer": [
+        "ಕರಗದ ಇಂಗಾಲದ ಕಣಗಳು (ಕರಕಲು) ಉತ್ಪತ್ತಿಯಾಗುವುದು",
+        "ಅತ್ಯಂತ ವಿಷಕಾರಿಯಾದ ಕಾರ್ಬನ್ ಮೊನಾಕ್ಸೈಡ್ ಅನಿಲ ಬಿಡುಗಡೆ",
+        "ಅಸ್ತಮಾದಂತಹ ಉಸಿರಾಟದ ಕಾಯಿಲೆಗಳ ಅಪಾಯ ಹೆಚ್ಚಾಗುವುದು"
+      ],
+      "reasoning": "ಅಪೂರ್ಣ ದಹನದಿಂದ ಕಾರ್ಬನ್ ಮೊನಾಕ್ಸೈಡ್ ಮತ್ತು ಕರಕಲು ಸೂಕ್ಷ್ಮ ಇಂಗಾಲದ ಕಣಗಳು ಬಿಡುಗಡೆಯಾಗುತ್ತವೆ. ಇವುಗಳಿಂದ ಉಸಿರಾಟದ ಸಮಸ್ಯೆಗಳು ಎದುರಾಗುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_021",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is 'Global Warming' and which gas release is primarily blamed for it due to combustion?",
+      "options": [
+        "Cooling of the Earth's atmosphere caused by Nitrogen",
+        "Rise in temperature of the Earth's atmosphere caused by Carbon dioxide",
+        "Ozone depletion caused by Oxygen",
+        "Acid rain caused by Helium"
+      ],
+      "answer": "Rise in temperature of the Earth's atmosphere caused by Carbon dioxide",
+      "reasoning": "Combustion of most fuels releases carbon dioxide (CO2) into the environment. Increased concentration of CO2 in the air is believed to cause global warming by trapping heat (greenhouse effect)."
+    },
+    "kn": {
+      "question": "'ಜಾಗತಿಕ ತಾಪಮಾನ ಏರಿಕೆ' (Global Warming) ಎಂದರೇನು ಮತ್ತು ಇಂಧನಗಳ ದಹನದಿಂದ ಬಿಡುಗಡೆಯಾಗುವ ಯಾವ ಅನಿಲ ಇದಕ್ಕೆ ಪ್ರಮುಖ ಕಾರಣವಾಗಿದೆ?",
+      "options": [
+        "ಸಾರಜನಕದಿಂದ ಭೂಮಿಯ ವಾತಾವರಣ ತಂಪಾಗುವುದು",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್‌ನಿಂದ ಭೂಮಿಯ ವಾತಾವರಣದ ತಾಪಮಾನ ಹೆಚ್ಚಾಗುವುದು",
+        "ಆಮ್ಲಜನಕದಿಂದ ಓಝೋನ್ ಪದರ ಸವಕಳಿಯಾಗುವುದು",
+        "ಹೀಲಿಯಂನಿಂದ ಆಮ್ಲ ಮಳೆಯಾಗುವುದು"
+      ],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್‌ನಿಂದ ಭೂಮಿಯ ವಾತಾವರಣದ ತಾಪಮಾನ ಹೆಚ್ಚಾಗುವುದು",
+      "reasoning": "ಬಹುತೇಕ ಇಂಧನಗಳ ದಹನದಿಂದ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (CO2) ಪರಿಸರಕ್ಕೆ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ಗಾಳಿಯಲ್ಲಿ CO2 ಪ್ರಮಾಣ ಹೆಚ್ಚಾದರೆ ಹಸಿರುಮನೆ ಪರಿಣಾಮದಿಂದ ಜಾಗತಿಕ ತಾಪಮಾನ ಏರಿಕೆಯಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_022",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why is sodium stored in kerosene rather than left open in air or water?",
+      "options": [
+        "It dissolves in kerosene to form a stable alloy",
+        "It reacts vigorously with oxygen and moisture in air, catching fire spontaneously due to low ignition temperature",
+        "To keep its temperature above its ignition point",
+        "Kerosene changes its chemical state to non-metal"
+      ],
+      "answer": "It reacts vigorously with oxygen and moisture in air, catching fire spontaneously due to low ignition temperature",
+      "reasoning": "Sodium is highly reactive. It reacts vigorously with oxygen and moisture present in the air and water, generating high heat which causes it to catch fire. It does not react with kerosene, so it is safely stored there."
+    },
+    "kn": {
+      "question": "ಸೋಡಿಯಂ ಲೋಹವನ್ನು ಗಾಳಿಯಲ್ಲಿ ಅಥವಾ ನೀರಿನಲ್ಲಿ ಮುಕ್ತವಾಗಿ ಇಡದೆ ಸೀಮೆಎಣ್ಣೆಯಲ್ಲಿ ಏಕೆ ಸಂಗ್ರಹಿಸಿಡಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಇದು ಸೀಮೆಎಣ್ಣೆಯಲ್ಲಿ ಕರಗಿ ಸ್ಥಿರವಾದ ಮಿಶ್ರಲೋಹವಾಗುತ್ತದೆ",
+        "ಇದು ಗಾಳಿಯಲ್ಲಿನ ಆಮ್ಲಜನಕ ಮತ್ತು ತೇವಾಂಶದೊಂದಿಗೆ ತೀವ್ರವಾಗಿ ವರ್ತಿಸಿ ಕಡಿಮೆ ದಹನ ತಾಪಮಾನದಿಂದಾಗಿ ತಾನಾಗಿಯೇ ಉರಿಯುತ್ತದೆ",
+        "ಅದರ ತಾಪಮಾನವನ್ನು ದಹನ ತಾಪಮಾನಕ್ಕಿಂತ ಹೆಚ್ಚು ಇಡಲು",
+        "ಸೀಮೆಎಣ್ಣೆಯು ಅದರ ರಾಸಾಯನಿಕ ಸ್ಥಿತಿಯನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ"
+      ],
+      "answer": "ಇದು ಗಾಳಿಯಲ್ಲಿನ ಆಮ್ಲಜನಕ ಮತ್ತು ತೇವಾಂಶದೊಂದಿಗೆ ತೀವ್ರವಾಗಿ ವರ್ತಿಸಿ ಕಡಿಮೆ ದಹನ ತಾಪಮಾನದಿಂದಾಗಿ ತಾನಾಗಿಯೇ ಉರಿಯುತ್ತದೆ",
+      "reasoning": "ಸೋಡಿಯಂ ಅತ್ಯಂತ ಕ್ರಿಯಾಶೀಲ ಲೋಹವಾಗಿದ್ದು ಗಾಳಿ ಮತ್ತು ನೀರಿನೊಂದಿಗೆ ತೀವ್ರವಾಗಿ ವರ್ತಿಸಿ ಹೆಚ್ಚಿನ ಶಾಖ ಬಿಡುಗಡೆ ಮಾಡಿ ಬೆಂಕಿ ಹೊತ್ತಿಕೊಳ್ಳುತ್ತದೆ. ಸೀಮೆಎಣ್ಣೆಯೊಂದಿಗೆ ಇದು ವರ್ತಿಸುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_023",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following compounds is added to the head of a modern safety matchstick to act as the primary combustible fuel?",
+      "options": [
+        "Antimony trisulphide",
+        "Potassium chlorate",
+        "Red phosphorus",
+        "Starch"
+      ],
+      "answer": "Antimony trisulphide",
+      "reasoning": "The head of a safety match contains antimony trisulphide (which acts as fuel) and potassium chlorate (which acts as an oxidising agent) held together by glue and starch."
+    },
+    "kn": {
+      "question": "ಆಧುನಿಕ ಸುರಕ್ಷಿತ ಬೆಂಕಿ ಕಡ್ಡಿಯ ತಲೆಯಲ್ಲಿ ಪ್ರಮುಖ ದಹನಕಾರಿ ಇಂಧನವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ಕೆಳಗಿನ ಯಾವ ಸಂಯುಕ್ತವನ್ನು ಸೇರಿಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಆಂಟಿಮನಿ ಟ್ರೈಸಲ್ಫೈಡ್",
+        "ಪೊಟ್ಯಾಸಿಯಮ್ ಕ್ಲೋರೇಟ್",
+        "ಕೆಂಪು ರಂಜಕ",
+        "ಪಿಷ್ಟ (Starch)"
+      ],
+      "answer": "ಆಂಟಿಮನಿ ಟ್ರೈಸಲ್ಫೈಡ್",
+      "reasoning": "ಸುರಕ್ಷಿತ ಬೆಂಕಿ ಕಡ್ಡಿಯ ತಲೆಯಲ್ಲಿ ಆಂಟಿಮನಿ ಟ್ರೈಸಲ್ಫೈಡ್ (ಇಂಧನವಾಗಿ) ಮತ್ತು ಪೊಟ್ಯಾಸಿಯಮ್ ಕ್ಲೋರೇಟ್ (ಉತ್ಕರ್ಷಕವಾಗಿ) ಇರುತ್ತವೆ. ಇವೆರಡನ್ನು ಗಂಟು ಹಾಕಲು ಗ್ಲೂ ಮತ್ತು ಪಿಷ್ಟ ಬಳಸುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_024",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Acid rain is harmful for crops, buildings, and soils. Which gases released from coal/diesel combustion cause this?",
+      "options": [
+        "Sulphur dioxide and Nitrogen oxides",
+        "Carbon monoxide and Methane",
+        "Carbon dioxide and Oxygen",
+        "Hydrogen and Helium"
+      ],
+      "answer": "Sulphur dioxide and Nitrogen oxides",
+      "reasoning": "Burning of coal and diesel releases sulphur dioxide. Nitrogen oxides are released from petrol engines. These gases mix with rain water to form acids, causing acid rain."
+    },
+    "kn": {
+      "question": "ಆಮ್ಲ ಮಳೆಯು ಬೆಳೆಗಳು, ಕಟ್ಟಡಗಳು ಮತ್ತು ಮಣ್ಣಿಗೆ ಹಾನಿಕಾರಕವಾಗಿದೆ. ಕಲ್ಲಿದ್ದಲು/ಡೀಸೆಲ್ ದಹನದಿಂದ ಬಿಡುಗಡೆಯಾಗುವ ಯಾವ ಅನಿಲಗಳು ಇದಕ್ಕೆ ಕಾರಣವಾಗುತ್ತವೆ?",
+      "options": [
+        "ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ನೈಟ್ರೋಜನ್ ಆಕ್ಸೈಡ್‌ಗಳು",
+        "ಕಾರ್ಬನ್ ಮೊನಾಕ್ಸೈಡ್ ಮತ್ತು ಮಿಥೇನ್",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ಆಮ್ಲಜನಕ",
+        "ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಹೀಲಿಯಂ"
+      ],
+      "answer": "ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ನೈಟ್ರೋಜನ್ ಆಕ್ಸೈಡ್‌ಗಳು",
+      "reasoning": "ಕಲ್ಲಿದ್ದಲು ಮತ್ತು ಡೀಸೆಲ್ ದಹನದಿಂದ ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ ಹಾಗೂ ಇಂಜಿನ್ ಗಳಿಂದ ನೈಟ್ರೋಜನ್ ಆಕ್ಸೈಡ್ ಗಳು ಬಿಡುಗಡೆಯಾಗುತ್ತವೆ. ಇವು ಮಳೆನೀರಿನೊಂದಿಗೆ ಆಮ್ಲಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_025",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following methods are effective to control and extinguish a small household fire? Select all valid options:",
+      "options": [
+        "Cutting off air supply using a damp woolen blanket",
+        "Spraying water on a burning electrical switchboard",
+        "Using a CO2 fire extinguisher on oil fires",
+        "Blowing air rapidly using a fan"
+      ],
+      "answer": [
+        "Cutting off air supply using a damp woolen blanket",
+        "Using a CO2 fire extinguisher on oil fires"
+      ],
+      "reasoning": "Using a damp blanket cuts off oxygen. CO2 fire extinguishers are safe for oil/electrical fires. Spraying water on electrical boards can cause electrocution, and blowing air with a fan supplies more oxygen, worsening the fire."
+    },
+    "kn": {
+      "question": "ಮನೆಯಲ್ಲಿ ಸಂಭವಿಸುವ ಸಣ್ಣ ಬೆಂಕಿಯನ್ನು ನಿಯಂತ್ರಿಸಲು ಮತ್ತು ನಂದಿಸಲು ಕೆಳಗಿನ ಯಾವ ವಿಧಾನಗಳು ಪರಿಣಾಮಕಾರಿಯಾಗಿವೆ? ಎಲ್ಲಾ ಸರಿಯಾದ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "ಒದ್ದೆಯಾದ ಉಣ್ಣೆಯ ಕಂಬಳಿಯಿಂದ ಬೆಂಕಿಯನ್ನು ಮುಚ್ಚಿ ಗಾಳಿಯ ಪೂರೈಕೆ ತಡೆಯುವುದು",
+        "ಉರಿಯುತ್ತಿರುವ ವಿದ್ಯುತ್ ಬೋರ್ಡ್ ಮೇಲೆ ನೀರು ಚಿಮುಕಿಸುವುದು",
+        "ತೈಲದಿಂದ ಉಂಟಾದ ಬೆಂಕಿಗೆ CO2 ನಂದಕವನ್ನು ಬಳಸುವುದು",
+        "ಫ್ಯಾನ್ ಬಳಸಿ ವೇಗವಾಗಿ ಗಾಳಿ ಬೀಸುವುದು"
+      ],
+      "answer": [
+        "ಒದ್ದೆಯಾದ ಉಣ್ಣೆಯ ಕಂಬಳಿಯಿಂದ ಬೆಂಕಿಯನ್ನು ಮುಚ್ಚಿ ಗಾಳಿಯ ಪೂರೈಕೆ ತಡೆಯುವುದು",
+        "ತೈಲದಿಂದ ಉಂಟಾದ ಬೆಂಕಿಗೆ CO2 ನಂದಕವನ್ನು ಬಳಸುವುದು"
+      ],
+      "reasoning": "ಒದ್ದೆ ಕಂಬಳಿಯಿಂದ ಮುಚ್ಚುವುದರಿಂದ ಆಮ್ಲಜನಕದ ಪೂರೈಕೆ ನಿಲ್ಲುತ್ತದೆ. ತೈಲ ಮತ್ತು ವಿದ್ಯುತ್ ಬೆಂಕಿಗೆ CO2 ಬಳಸಬಹುದು. ವಿದ್ಯುತ್ ಬೋರ್ಡ್ ಗೆ ನೀರು ಹಾಕಬಾರದು ಮತ್ತು ಗಾಳಿ ಊದಿದರೆ ಬೆಂಕಿ ಹೆಚ್ಚುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_img_026",
+    "type": "image_single",
+    "difficulty": 3,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Goldsmith blowing air with a blowpipe into the outermost zone of a candle flame",
+        "kn": "ಲೋಹದ ಕೊಳವೆಯ ಮೂಲಕ ಮೇಣದಬತ್ತಿಯ ಹೊರ ವಲಯಕ್ಕೆ ಗಾಳಿ ಊದುತ್ತಿರುವ ಅಕ್ಕಸಾಲಿಗನ ಚಿತ್ರ"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"40\" y=\"120\" width=\"20\" height=\"60\" fill=\"#E5E7EB\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M50,90 Q40,110 50,120 Q60,110 50,90 Z\" fill=\"#EA580C\"/><path d=\"M180,80 L80,105\" stroke=\"#2563EB\" stroke-width=\"4\" fill=\"none\"/><path d=\"M80,105 L55,100\" stroke=\"#059669\" stroke-width=\"2\" stroke-dasharray=\"3,3\" fill=\"none\"/><circle cx=\"210\" cy=\"70\" r=\"15\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"210\" y=\"74\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"9\" text-anchor=\"middle\">Blow</text><text x=\"130\" y=\"150\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">Blowpipe directs</text><text x=\"130\" y=\"165\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">outermost zone</text></svg>"
+    },
+    "en": {
+      "question": "Why does a goldsmith blow air through a metallic blowpipe onto the outermost zone of a candle flame for melting gold and silver?",
+      "options": [
+        "Because the outermost zone is the hottest part and complete combustion occurs there",
+        "Because the innermost zone contains unburnt carbon which blocks the metal",
+        "To decrease the temperature of the flame to prevent evaporation",
+        "To make the flame yellow and luminous for better visibility"
+      ],
+      "answer": "Because the outermost zone is the hottest part and complete combustion occurs there",
+      "reasoning": "Goldsmiths blow the outermost zone of a flame with a metallic blowpipe because it is the non-luminous zone where complete combustion occurs. It has the highest temperature, making it ideal for melting metals quickly."
+    },
+    "kn": {
+      "question": "ಚಿನ್ನ ಮತ್ತು ಬೆಳ್ಳಿಯನ್ನು ಕರಗಿಸಲು ಅಕ್ಕಸಾಲಿಗನು ಲೋಹದ ಕೊಳವೆಯ ಮೂಲಕ ಮೇಣದಬತ್ತಿಯ ಜ್ವಾಲೆಯ ಅತ್ಯಂತ ಹೊರ ವಲಯಕ್ಕೆ ಗಾಳಿಯನ್ನು ಏಕೆ ಊದುತ್ತಾನೆ?",
+      "options": [
+        "ಏಕೆಂದರೆ ಹೊರ ವಲಯವು ಅತ್ಯಂತ ಬಿಸಿಯಾದ ಭಾಗವಾಗಿದ್ದು, ಅಲ್ಲಿ ಪೂರ್ಣ ದಹನ ನಡೆದಿರುತ್ತದೆ",
+        "ಏಕೆಂದರೆ ಒಳಗಿನ ವಲಯವು ಲೋಹವನ್ನು ತಡೆಯುವ ಕರಗದ ಇಂಗಾಲವನ್ನು ಹೊಂದಿರುತ್ತದೆ",
+        "ಲೋಹಗಳು ಆವಿಯಾಗದಂತೆ ತಡೆಯಲು ಜ್ವಾಲೆಯ ತಾಪಮಾನವನ್ನು ಕಡಿಮೆ ಮಾಡಲು",
+        "ಉತ್ತಮ ನೋಟಕ್ಕಾಗಿ ಜ್ವಾಲೆಯನ್ನು ಹಳದಿ ಮತ್ತು ಪ್ರಕಾಶಮಾನವಾಗಿಸಲು"
+      ],
+      "answer": "ಏಕೆಂದರೆ ಹೊರ ವಲಯವು ಅತ್ಯಂತ ಬಿಸಿಯಾದ ಭಾಗವಾಗಿದ್ದು, ಅಲ್ಲಿ ಪೂರ್ಣ ದಹನ ನಡೆದಿರುತ್ತದೆ",
+      "reasoning": "ಜ್ವಾಲೆಯ ಅತ್ಯಂತ ಹೊರ ವಲಯವು ಪೂರ್ಣ ದಹನಕ್ಕೊಳಗಾಗಿ ಅತ್ಯಂತ ಹೆಚ್ಚಿನ ತಾಪಮಾನ ಹೊಂದಿರುತ್ತದೆ. ಲೋಹದ ನಳಿಕೆಯಿಂದ ಗಾಳಿ ಊದಿದಾಗ ಈ ಬಿಸಿ ಭಾಗವು ಲೋಹದ ಮೇಲೆ ಕೇಂದ್ರೀಕೃತವಾಗಿ ಲೋಹ ಕರಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_027",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following substances burn to produce a flame? Select all valid options:",
+      "options": [
+        "LPG",
+        "Camphor",
+        "Charcoal",
+        "Molten wax (in candle)"
+      ],
+      "answer": [
+        "LPG",
+        "Camphor",
+        "Molten wax (in candle)"
+      ],
+      "reasoning": "Only substances that vaporize during burning produce a flame. LPG is already a gas, camphor and wax vaporize on heating. Charcoal does not vaporize and only glows."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವ ವಸ್ತುಗಳು ಜ್ವಾಲೆಯನ್ನುಂಟುಮಾಡಿ ಉರಿಯುತ್ತವೆ? ಎಲ್ಲಾ ಸರಿಯಾದ ಆಯ್ಕೆಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "LPG",
+        "ಕರ್ಪೂರ",
+        "ಿದ್ದಲು (Charcoal)",
+        "ಕರಗಿದ ಮೇಣ (ಮೇಣದಬತ್ತಿಯಲ್ಲಿ)"
+      ],
+      "answer": [
+        "LPG",
+        "ಕರ್ಪೂರ",
+        "ಕರಗಿದ ಮೇಣ (ಮೇಣದಬತ್ತಿಯಲ್ಲಿ)"
+      ],
+      "reasoning": "ಉರಿಯುವಾಗ ಆವಿಯಾಗುವ ವಸ್ತುಗಳು ಮಾತ್ರ ಜ್ವಾಲೆ ನೀಡುತ್ತವೆ. LPG, ಕರ್ಪೂರ ಹಾಗೂ ಮೇಣ ಆವಿಯಾಗುತ್ತವೆ ಆದರೆ ಇದ್ದಲು ಆವಿಯಾಗುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_028",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the chemicals in safety matches with their locations/purposes:",
+      "pairs": [
+        {
+          "left": "Antimony trisulphide",
+          "right": "Fuel present on the matchstick head"
+        },
+        {
+          "left": "Potassium chlorate",
+          "right": "Oxidizer present on the matchstick head"
+        },
+        {
+          "left": "Red phosphorus",
+          "right": "Present on the matchbox rubbing surface"
+        },
+        {
+          "left": "Powdered glass",
+          "right": "Frictional agent on matchbox rubbing surface"
+        }
+      ],
+      "reasoning": "Antimony trisulphide is the matchstick fuel. Potassium chlorate is the oxidizer. Red phosphorus is on the rubbing surface. Powdered glass provides friction."
+    },
+    "kn": {
+      "question": "ಬೆಂಕಿಪೆಟ್ಟಿಗೆ ಮತ್ತು ಕಡ್ಡಿಯ ರಾಸಾಯನಿಕಗಳನ್ನು ಅವುಗಳ ಸ್ಥಾನ ಮತ್ತು ಉದ್ದೇಶದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಆಂಟಿಮನಿ ಟ್ರೈಸಲ್ಫೈಡ್",
+          "right": "ಬೆಂಕಿಕಡ್ಡಿಯ ತಲೆಯಲ್ಲಿರುವ ಪ್ರಮುಖ ಇಂಧನ"
+        },
+        {
+          "left": "ಪೊಟ್ಯಾಸಿಯಮ್ ಕ್ಲೋರೇಟ್",
+          "right": "ಬೆಂಕಿಕಡ್ಡಿಯ ತಲೆಯಲ್ಲಿರುವ ಉತ್ಕರ್ಷಕ (Oxidizer)"
+        },
+        {
+          "left": "ಕೆಂಪು ರಂಜಕ",
+          "right": "ಬೆಂಕಿಪೆಟ್ಟಿಗೆಯ ಪಕ್ಕದ ಒರಟು ಮೇಲ್ಮೈಯಲ್ಲಿರುವುದು"
+        },
+        {
+          "left": "ಗಾಜಿನ ಪುಡಿ",
+          "right": "ಘರ್ಷಣೆ ಉಂಟುಮಾಡಲು ಬೆಂಕಿಪೆಟ್ಟಿಗೆಯ ಒರಟು ಮೇಲ್ಮೈಯಲ್ಲಿರುವುದು"
+        }
+      ],
+      "reasoning": "ಆಂಟಿಮನಿ ಟ್ರೈಸಲ್ಫೈಡ್ ಬೆಂಕಿಕಡ್ಡಿ ತಲೆಯ ಇಂಧನ. ಪೊಟ್ಯಾಸಿಯಮ್ ಕ್ಲೋರೇಟ್ ಉತ್ಕರ್ಷಕ. ಕೆಂಪು ರಂಜಕ ಬೆಂಕಿಪೆಟ್ಟಿಗೆಯ ಒರಟು ಮೇಲ್ಮೈಯಲ್ಲಿರುತ್ತದೆ. ಗಾಜಿನ ಪುಡಿ ಘರ್ಷಣೆ ಹೆಚ್ಚಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_029",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the fuel types with their approximate calorific values (in kJ/kg):",
+      "pairs": [
+        {
+          "left": "Cow dung cake",
+          "right": "6000 - 8000"
+        },
+        {
+          "left": "Coal",
+          "right": "25000 - 33000"
+        },
+        {
+          "left": "LPG / CNG",
+          "right": "50000 - 55000"
+        },
+        {
+          "left": "Hydrogen",
+          "right": "150000"
+        }
+      ],
+      "reasoning": "Cow dung has 6000-8000 kJ/kg. Coal is 25000-33000 kJ/kg. LPG/CNG is 50000-55000 kJ/kg. Hydrogen has the highest value of 150000 kJ/kg."
+    },
+    "kn": {
+      "question": "ಇಂಧನದ ಪ್ರಕಾರಗಳನ್ನು ಅವುಗಳ ಅಂದಾಜು ಕ್ಯಾಲೋರಿ ಮೌಲ್ಯಗಳೊಂದಿಗೆ (kJ/kg ಯಲ್ಲಿ) ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಬೆರಣಿ (Cow dung cake)",
+          "right": "6000 - 8000"
+        },
+        {
+          "left": "ಕಲ್ಲಿದ್ದಲು",
+          "right": "25000 - 33000"
+        },
+        {
+          "left": "LPG / CNG",
+          "right": "50000 - 55000"
+        },
+        {
+          "left": "ಹೈಡ್ರೋಜನ್",
+          "right": "150000"
+        }
+      ],
+      "reasoning": "ಬೆರಣಿಗೆ 6000-8000, ಕಲ್ಲಿದ್ದಲಿಗೆ 25000-33000, LPG/CNG ಗೆ 50000-55000 ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಗೆ ಅತಿ ಹೆಚ್ಚು ಅಂದರೆ 150000 kJ/kg ಮೌಲ್ಯ ಇರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_comb_030",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why is water NOT suitable to extinguish fires involving electrical equipment or inflammable liquids like petrol?",
+      "options": [
+        "Water conducts electricity and is heavier than petrol, making petrol float and burn on top",
+        "Water chemically combines with electricity to produce dangerous radiation",
+        "Water increases the ignition temperature of petrol",
+        "Water vaporizes and feeds the fire with oxygen"
+      ],
+      "answer": "Water conducts electricity and is heavier than petrol, making petrol float and burn on top",
+      "reasoning": "Water is a good conductor of electricity, posing a risk of shock. Additionally, water is heavier than petrol; hence, petrol floats on top of the water and continues to burn, spreading the fire further."
+    },
+    "kn": {
+      "question": "ವಿದ್ಯುತ್ ಉಪಕರಣಗಳು ಅಥವಾ ಪೆಟ್ರೋಲ್‌ನಂತಹ ಸುಲಭವಾಗಿ ದಹಿಸುವ ದ್ರವಗಳ ಬೆಂಕಿಯನ್ನು ನಂದಿಸಲು ನೀರು ಏಕೆ ಸೂಕ್ತವಲ್ಲ?",
+      "options": [
+        "ನೀರು ವಿದ್ಯುತ್ ಹರಿಸುತ್ತದೆ ಮತ್ತು ಪೆಟ್ರೋಲ್‌ಗಿಂತ ಭಾರವಾಗಿದ್ದು ಪೆಟ್ರೋಲ್ ಅದರ ಮೇಲೆ ತೇಲಿ ಉರಿಯುವಂತೆ ಮಾಡುತ್ತದೆ",
+        "ನೀರು ವಿದ್ಯುತ್‌ನೊಂದಿಗೆ ರಾಸಾಯನಿಕವಾಗಿ ಸಂಯೋಜನೆಗೊಂಡು ಅಪಾಯಕಾರಿ ವಿಕಿರಣ ಸೂಸುತ್ತದೆ",
+        "ನೀರು ಪೆಟ್ರೋಲ್‌ನ ದಹನ ತಾಪಮಾನವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ",
+        "ನೀರು ಆವಿಯಾಗಿ ಬೆಂಕಿಗೆ ಆಮ್ಲಜನಕ ಪೂರೈಸುತ್ತದೆ"
+      ],
+      "answer": "ನೀರು ವಿದ್ಯುತ್ ಹರಿಸುತ್ತದೆ ಮತ್ತು ಪೆಟ್ರೋಲ್‌ಗಿಂತ ಭಾರವಾಗಿದ್ದು ಪೆಟ್ರೋಲ್ ಅದರ ಮೇಲೆ ತೇಲಿ ಉರಿಯುವಂತೆ ಮಾಡುತ್ತದೆ",
+      "reasoning": "ನೀರು ವಿದ್ಯುತ್ ವಾಹಕವಾಗಿರುವುದರಿಂದ ಆಘಾತದ ಅಪಾಯವಿದೆ. ಪೆಟ್ರೋಲ್ ನೀರಿಗಿಂತ ಹಗುರವಾದ್ದರಿಂದ ನೀರಿನ ಮೇಲೆ ತೇಲಿ ಉರಿಯುತ್ತಲೇ ಇರುತ್ತದೆ ಮತ್ತು ಬೆಂಕಿ ಹೆಚ್ಚು ಹರಡುತ್ತದೆ."
+    }
+  }
+]

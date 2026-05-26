@@ -1,0 +1,1012 @@
+[
+  {
+    "id": "c8_math_rat_001",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the additive inverse of 2/8?",
+      "reasoning": "The additive inverse of a rational number a/b is -a/b, because their sum is 0. So, the additive inverse of 2/8 is -2/8.",
+      "options": [
+        "-2/8",
+        "8/2",
+        "-8/2",
+        "2/8"
+      ],
+      "answer": "-2/8"
+    },
+    "kn": {
+      "question": "2/8 \u0cb0 \u0cb8\u0c82\u0c95\u0cb2\u0ca8\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc1?",
+      "reasoning": "\u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 a/b \u0caf \u0cb8\u0c82\u0c95\u0cb2\u0ca8\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae\u0cb5\u0cc1 -a/b \u0c86\u0c97\u0cbf\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6, \u0c8f\u0c95\u0cc6\u0c82\u0ca6\u0cb0\u0cc6 \u0c85\u0cb5\u0cc1\u0c97\u0cb3 \u0cae\u0cca\u0ca4\u0ccd\u0ca4 0. \u0c86\u0ca6\u0ccd\u0ca6\u0cb0\u0cbf\u0c82\u0ca6 2/8 \u0cb0 \u0cb8\u0c82\u0c95\u0cb2\u0ca8\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae\u0cb5\u0cc1 -2/8 \u0c86\u0c97\u0cbf\u0ca6\u0cc6.",
+      "options": [
+        "-2/8",
+        "8/2",
+        "-8/2",
+        "2/8"
+      ],
+      "answer": "-2/8"
+    }
+  },
+  {
+    "id": "c8_math_rat_002",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Find the multiplicative inverse of -13.",
+      "reasoning": "The multiplicative inverse (or reciprocal) of a non-zero rational number a is 1/a, because their product is 1. Thus, the multiplicative inverse of -13 is -1/13.",
+      "options": [
+        "13",
+        "-1/13",
+        "1/13",
+        "-13"
+      ],
+      "answer": "-1/13"
+    },
+    "kn": {
+      "question": "-13 \u0cb0 \u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 \u0c95\u0c82\u0ca1\u0cc1\u0cb9\u0cbf\u0ca1\u0cbf\u0caf\u0cbf\u0cb0\u0cbf.",
+      "reasoning": "\u0cb6\u0cc2\u0ca8\u0ccd\u0caf\u0cb5\u0cb2\u0ccd\u0cb2\u0ca6 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 a \u0caf \u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae\u0cb5\u0cc1 (\u0cb5\u0ccd\u0caf\u0cc1\u0ca4\u0ccd\u0c95\u0ccd\u0cb0\u0cae) 1/a \u0c86\u0c97\u0cbf\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6, \u0c8f\u0c95\u0cc6\u0c82\u0ca6\u0cb0\u0cc6 \u0c85\u0cb5\u0cc1\u0c97\u0cb3 \u0c97\u0cc1\u0ca3\u0cb2\u0cac\u0ccd\u0ca7 1. \u0c86\u0ca6\u0ccd\u0ca6\u0cb0\u0cbf\u0c82\u0ca6 -13 \u0cb0 \u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae\u0cb5\u0cc1 -1/13 \u0c86\u0c97\u0cbf\u0ca6\u0cc6.",
+      "options": [
+        "13",
+        "-1/13",
+        "1/13",
+        "-13"
+      ],
+      "answer": "-1/13"
+    }
+  },
+  {
+    "id": "c8_math_rat_003",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Solve: 3/7 + (-6/11)",
+      "reasoning": "To add rational numbers with different denominators, find the LCM of 7 and 11 which is 77. The expression becomes: (3*11)/77 + (-6*7)/77 = 33/77 - 42/77 = -9/77.",
+      "options": [
+        "-9/77",
+        "-11/77",
+        "-3/77",
+        "-4/77"
+      ],
+      "answer": "-9/77"
+    },
+    "kn": {
+      "question": "\u0caa\u0cb0\u0cbf\u0cb9\u0cb0\u0cbf\u0cb8\u0cbf: 3/7 + (-6/11)",
+      "reasoning": "\u0cac\u0cc7\u0cb0\u0cc6 \u0cac\u0cc7\u0cb0\u0cc6 \u0c9b\u0cc7\u0ca6\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb9\u0cca\u0c82\u0ca6\u0cbf\u0cb0\u0cc1\u0cb5 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0c95\u0cc2\u0ca1\u0cbf\u0cb8\u0cb2\u0cc1, 7 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 11 \u0cb0 \u0cb2.\u0cb8\u0cbe.\u0c85. \u0c95\u0c82\u0ca1\u0cc1\u0cb9\u0cbf\u0ca1\u0cbf\u0caf\u0cbf\u0cb0\u0cbf, \u0c85\u0ca6\u0cc1 77. \u0cb8\u0cae\u0cc0\u0c95\u0cb0\u0ca3\u0cb5\u0cc1 \u0cb9\u0cc0\u0c97\u0cbe\u0c97\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6: (3*11)/77 + (-6*7)/77 = 33/77 - 42/77 = -9/77.",
+      "options": [
+        "-9/77",
+        "-11/77",
+        "-3/77",
+        "-4/77"
+      ],
+      "answer": "-9/77"
+    }
+  },
+  {
+    "id": "c8_math_rat_004",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which of the following is the identity element for the addition of rational numbers?",
+      "reasoning": "Zero (0) is the additive identity for rational numbers because adding zero to any rational number does not change its value (a + 0 = a).",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "None of these"
+      ],
+      "answer": "0"
+    },
+    "kn": {
+      "question": "\u0c95\u0cc6\u0cb3\u0c97\u0cbf\u0ca8\u0cb5\u0cc1\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc1 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3 \u0cb8\u0c82\u0c95\u0cb2\u0ca8\u0ca6 \u0c85\u0ca8\u0ca8\u0ccd\u0caf\u0ca4\u0cbe \u0c85\u0c82\u0cb6\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6?",
+      "reasoning": "\u0cb6\u0cc2\u0ca8\u0ccd\u0caf (0) \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3 \u0cb8\u0c82\u0c95\u0cb2\u0ca8\u0ca6 \u0c85\u0ca8\u0ca8\u0ccd\u0caf\u0ca4\u0cbe \u0c85\u0c82\u0cb6\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6 \u0c8f\u0c95\u0cc6\u0c82\u0ca6\u0cb0\u0cc6 \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cc6 \u0cb8\u0cca\u0ca8\u0ccd\u0ca8\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0c95\u0cc2\u0ca1\u0cbf\u0cb8\u0cbf\u0ca6\u0cb0\u0cc6 \u0c85\u0ca6\u0cb0 \u0cac\u0cc6\u0cb2\u0cc6 \u0cac\u0ca6\u0cb2\u0cbe\u0c97\u0cc1\u0cb5\u0cc1\u0ca6\u0cbf\u0cb2\u0ccd\u0cb2 (a + 0 = a).",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "\u0c87\u0cb5\u0cc1\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc2 \u0c85\u0cb2\u0ccd\u0cb2"
+      ],
+      "answer": "0"
+    }
+  },
+  {
+    "id": "c8_math_rat_005",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which of the following is the identity element for the multiplication of rational numbers?",
+      "reasoning": "One (1) is the multiplicative identity for rational numbers because multiplying any rational number by 1 does not change its value (a * 1 = a).",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "None of these"
+      ],
+      "answer": "1"
+    },
+    "kn": {
+      "question": "\u0c95\u0cc6\u0cb3\u0c97\u0cbf\u0ca8\u0cb5\u0cc1\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc1 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3 \u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0c85\u0ca8\u0ca8\u0ccd\u0caf\u0ca4\u0cbe \u0c85\u0c82\u0cb6\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6?",
+      "reasoning": "\u0c92\u0c82\u0ca6\u0cc1 (1) \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3 \u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0c85\u0ca8\u0ca8\u0ccd\u0caf\u0ca4\u0cbe \u0c85\u0c82\u0cb6\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6 \u0c8f\u0c95\u0cc6\u0c82\u0ca6\u0cb0\u0cc6 \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 1 \u0cb0\u0cbf\u0c82\u0ca6 \u0c97\u0cc1\u0ca3\u0cbf\u0cb8\u0cbf\u0ca6\u0cb0\u0cc6 \u0c85\u0ca6\u0cb0 \u0cac\u0cc6\u0cb2\u0cc6 \u0cac\u0ca6\u0cb2\u0cbe\u0c97\u0cc1\u0cb5\u0cc1\u0ca6\u0cbf\u0cb2\u0ccd\u0cb2 (a * 1 = a).",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "\u0c87\u0cb5\u0cc1\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc2 \u0c85\u0cb2\u0ccd\u0cb2"
+      ],
+      "answer": "1"
+    }
+  },
+  {
+    "id": "c8_math_rat_006",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the multiplicative inverse of 1/5?",
+      "reasoning": "The multiplicative inverse of a fraction a/b is b/a. Therefore, the multiplicative inverse of 1/5 is 5/1 = 5.",
+      "options": [
+        "1/5",
+        "-5",
+        "5",
+        "0"
+      ],
+      "answer": "5"
+    },
+    "kn": {
+      "question": "1/5 \u0cb0 \u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc1?",
+      "reasoning": "a/b \u0cad\u0cbf\u0ca8\u0ccd\u0ca8\u0cb0\u0cbe\u0cb6\u0cbf\u0caf \u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae\u0cb5\u0cc1 b/a \u0c86\u0c97\u0cbf\u0ca6\u0cc6. \u0c86\u0ca6\u0ccd\u0ca6\u0cb0\u0cbf\u0c82\u0ca6, 1/5 \u0cb0 \u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae\u0cb5\u0cc1 5/1 = 5 \u0c86\u0c97\u0cbf\u0ca6\u0cc6.",
+      "options": [
+        "1/5",
+        "-5",
+        "5",
+        "0"
+      ],
+      "answer": "5"
+    }
+  },
+  {
+    "id": "c8_math_rat_007",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the additive inverse of -5/9?",
+      "reasoning": "The additive inverse of a negative rational number -x is its positive counterpart x. So, the additive inverse of -5/9 is 5/9.",
+      "options": [
+        "5/9",
+        "-5/9",
+        "9/5",
+        "-9/5"
+      ],
+      "answer": "5/9"
+    },
+    "kn": {
+      "question": "-5/9 \u0cb0 \u0cb8\u0c82\u0c95\u0cb2\u0ca8\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc1?",
+      "reasoning": "\u0c8b\u0ca3\u0cbe\u0ca4\u0ccd\u0cae\u0c95 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 -x \u0ca8 \u0cb8\u0c82\u0c95\u0cb2\u0ca8\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae\u0cb5\u0cc1 \u0c85\u0ca6\u0cb0 \u0ca7\u0ca8\u0cbe\u0ca4\u0ccd\u0cae\u0c95 \u0cb0\u0cc2\u0caa x \u0c86\u0c97\u0cbf\u0ca6\u0cc6. \u0c86\u0ca6\u0ccd\u0ca6\u0cb0\u0cbf\u0c82\u0ca6 -5/9 \u0cb0 \u0cb8\u0c82\u0c95\u0cb2\u0ca8\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae\u0cb5\u0cc1 5/9 \u0c86\u0c97\u0cbf\u0ca6\u0cc6.",
+      "options": [
+        "5/9",
+        "-5/9",
+        "9/5",
+        "-9/5"
+      ],
+      "answer": "5/9"
+    }
+  },
+  {
+    "id": "c8_math_rat_img_008",
+    "difficulty": 1,
+    "type": "image_single",
+    "en": {
+      "question": "What rational number does the point P represent on the given number line?",
+      "reasoning": "The interval between 0 and 1 is divided into 8 equal parts. Point P is at the 3rd mark from 0, so it represents the rational number 3/8.",
+      "options": [
+        "1/8",
+        "3/8",
+        "5/8",
+        "7/8"
+      ],
+      "answer": "3/8"
+    },
+    "kn": {
+      "question": "\u0ca8\u0cc0\u0ca1\u0cbf\u0cb0\u0cc1\u0cb5 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cbe \u0cb0\u0cc7\u0c96\u0cc6\u0caf \u0cae\u0cc7\u0cb2\u0cc6 \u0cac\u0cbf\u0c82\u0ca6\u0cc1 P \u0caf\u0cbe\u0cb5 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6?",
+      "reasoning": "0 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 1 \u0cb0 \u0ca8\u0ca1\u0cc1\u0cb5\u0cbf\u0ca8 \u0c85\u0c82\u0ca4\u0cb0\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 8 \u0cb8\u0cae\u0cbe\u0ca8 \u0cad\u0cbe\u0c97\u0c97\u0cb3\u0cbe\u0c97\u0cbf \u0cb5\u0cbf\u0c82\u0c97\u0ca1\u0cbf\u0cb8\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6. \u0cac\u0cbf\u0c82\u0ca6\u0cc1 P \u0caf\u0cc1 0 \u0cb0\u0cbf\u0c82\u0ca6 3 \u0ca8\u0cc7 \u0c97\u0cc1\u0cb0\u0cc1\u0ca4\u0cbf\u0ca8\u0cb2\u0ccd\u0cb2\u0cbf\u0ca6\u0cc6, \u0c86\u0ca6\u0ccd\u0ca6\u0cb0\u0cbf\u0c82\u0ca6 \u0c87\u0ca6\u0cc1 3/8 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6.",
+      "options": [
+        "1/8",
+        "3/8",
+        "5/8",
+        "7/8"
+      ],
+      "answer": "3/8"
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 80\"><line x1=\"20\" y1=\"40\" x2=\"280\" y2=\"40\" stroke=\"#2563EB\" stroke-width=\"2\"/><polygon points=\"280,35 290,40 280,45\" fill=\"#2563EB\"/><polygon points=\"20,35 10,40 20,45\" fill=\"#2563EB\"/><line x1=\"30\" y1=\"35\" x2=\"30\" y2=\"45\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"30\" y=\"60\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">0</text><line x1=\"250\" y1=\"35\" x2=\"250\" y2=\"45\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"250\" y=\"60\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">1</text><line x1=\"112.5\" y1=\"35\" x2=\"112.5\" y2=\"45\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><circle cx=\"112.5\" cy=\"40\" r=\"5\" fill=\"#059669\"/><text x=\"112.5\" y=\"25\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">P</text></svg>",
+      "alt": {
+        "en": "A number line from 0 to 1 with point P located at 3/8.",
+        "kn": "0 \u0cb0\u0cbf\u0c82\u0ca6 1 \u0cb0\u0cb5\u0cb0\u0cc6\u0c97\u0cbf\u0ca8 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cbe \u0cb0\u0cc7\u0c96\u0cc6, \u0c87\u0cb2\u0ccd\u0cb2\u0cbf \u0cac\u0cbf\u0c82\u0ca6\u0cc1 P 3/8 \u0cb8\u0ccd\u0ca5\u0cbe\u0ca8\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf\u0ca6\u0cc6."
+      }
+    }
+  },
+  {
+    "id": "c8_math_rat_img_009",
+    "difficulty": 1,
+    "type": "image_single",
+    "en": {
+      "question": "What rational number represents the shaded portion of the rectangle shown in the image?",
+      "reasoning": "The rectangle is divided into 5 equal columns, and 2 columns are shaded. This represents the fraction/rational number 2/5.",
+      "options": [
+        "1/5",
+        "2/5",
+        "3/5",
+        "4/5"
+      ],
+      "answer": "2/5"
+    },
+    "kn": {
+      "question": "\u0c9a\u0cbf\u0ca4\u0ccd\u0cb0\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0ca4\u0ccb\u0cb0\u0cbf\u0cb8\u0cbf\u0cb0\u0cc1\u0cb5 \u0c86\u0caf\u0ca4\u0ca6 \u0ca8\u0cc6\u0cb0\u0cb3\u0cc1 \u0cae\u0cbe\u0ca1\u0cbf\u0ca6 \u0cad\u0cbe\u0c97\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 \u0caf\u0cbe\u0cb5 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6?",
+      "reasoning": "\u0c86\u0caf\u0ca4\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 5 \u0cb8\u0cae\u0cbe\u0ca8 \u0c95\u0cbe\u0cb2\u0cae\u0ccd\u200c\u0c97\u0cb3\u0cbe\u0c97\u0cbf \u0cb5\u0cbf\u0c82\u0c97\u0ca1\u0cbf\u0cb8\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 2 \u0c95\u0cbe\u0cb2\u0cae\u0ccd\u200c\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cc6\u0cb0\u0cb3\u0cc1 \u0cae\u0cbe\u0ca1\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6. \u0c87\u0ca6\u0cc1 2/5 \u0cad\u0cbf\u0ca8\u0ccd\u0ca8\u0cb0\u0cbe\u0cb6\u0cbf/\u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6.",
+      "options": [
+        "1/5",
+        "2/5",
+        "3/5",
+        "4/5"
+      ],
+      "answer": "2/5"
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 250 100\"><rect x=\"10\" y=\"10\" width=\"230\" height=\"80\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><rect x=\"10\" y=\"10\" width=\"92\" height=\"80\" fill=\"#DBEAFE\"/><line x1=\"56\" y1=\"10\" x2=\"56\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><line x1=\"102\" y1=\"10\" x2=\"102\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><line x1=\"148\" y1=\"10\" x2=\"148\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><line x1=\"194\" y1=\"10\" x2=\"194\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><text x=\"56\" y=\"55\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"16\" text-anchor=\"middle\">Shaded</text></svg>",
+      "alt": {
+        "en": "A rectangle divided into 5 equal vertical parts, with 2 parts shaded.",
+        "kn": "5 \u0cb8\u0cae\u0cbe\u0ca8 \u0cb2\u0c82\u0cac \u0cad\u0cbe\u0c97\u0c97\u0cb3\u0cbe\u0c97\u0cbf \u0cb5\u0cbf\u0c82\u0c97\u0ca1\u0cbf\u0cb8\u0cb2\u0cbe\u0ca6 \u0c92\u0c82\u0ca6\u0cc1 \u0c86\u0caf\u0ca4, \u0c87\u0ca6\u0cb0\u0cb2\u0ccd\u0cb2\u0cbf 2 \u0cad\u0cbe\u0c97\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cc6\u0cb0\u0cb3\u0cc1 \u0cae\u0cbe\u0ca1\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6."
+      }
+    }
+  },
+  {
+    "id": "c8_math_rat_010",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following are rational numbers?",
+      "reasoning": "A rational number is any number that can be written in the form p/q, where p and q are integers and q is not equal to 0. Since -3/4, 0 (0/1), and 5 (5/1) fit this definition, they are rational numbers. 1/0 is undefined since division by zero is not allowed.",
+      "options": [
+        "-3/4",
+        "0",
+        "5",
+        "1/0"
+      ],
+      "answer": [
+        "-3/4",
+        "0",
+        "5"
+      ]
+    },
+    "kn": {
+      "question": "\u0c95\u0cc6\u0cb3\u0c97\u0cbf\u0ca8\u0cb5\u0cc1\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0caf\u0cbe\u0cb5\u0cc1\u0cb5\u0cc1 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cbe\u0c97\u0cbf\u0cb5\u0cc6?",
+      "reasoning": "\u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cc1 p/q \u0cb0\u0cc2\u0caa\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0cac\u0cb0\u0cc6\u0caf\u0cac\u0cb9\u0cc1\u0ca6\u0cbe\u0ca6 \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cbe\u0c97\u0cbf\u0ca6\u0cc6, \u0c87\u0cb2\u0ccd\u0cb2\u0cbf p \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 q \u0caa\u0cc2\u0cb0\u0ccd\u0ca3\u0cbe\u0c82\u0c95\u0c97\u0cb3\u0cbe\u0c97\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, q \u0cb8\u0cca\u0ca8\u0ccd\u0ca8\u0cc6\u0c97\u0cc6 \u0cb8\u0cae\u0ca8\u0cbe\u0c97\u0cbf\u0cb0\u0cc1\u0cb5\u0cc1\u0ca6\u0cbf\u0cb2\u0ccd\u0cb2. -3/4, 0 (0/1) \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 5 (5/1) \u0c88 \u0cb5\u0ccd\u0caf\u0cbe\u0c96\u0ccd\u0caf\u0cbe\u0ca8\u0c95\u0ccd\u0c95\u0cc6 \u0cb9\u0cca\u0c82\u0ca6\u0cc1\u0cb5\u0cc1\u0ca6\u0cb0\u0cbf\u0c82\u0ca6, \u0c85\u0cb5\u0cc1\u0c97\u0cb3\u0cc1 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cc1. 1/0 \u0c85\u0ca8\u0cbf\u0caf\u0cae\u0cbf\u0ca4\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6 \u0c8f\u0c95\u0cc6\u0c82\u0ca6\u0cb0\u0cc6 \u0cb8\u0cca\u0ca8\u0ccd\u0ca8\u0cc6\u0caf\u0cbf\u0c82\u0ca6 \u0cad\u0cbe\u0c97\u0cbe\u0c95\u0cbe\u0cb0 \u0cb8\u0cbe\u0ca7\u0ccd\u0caf\u0cb5\u0cbf\u0cb2\u0ccd\u0cb2.",
+      "options": [
+        "-3/4",
+        "0",
+        "5",
+        "1/0"
+      ],
+      "answer": [
+        "-3/4",
+        "0",
+        "5"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_rat_011",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Find a rational number lying between 1/4 and 1/2.",
+      "reasoning": "To find a number between two rational numbers, we can take their average: (1/4 + 1/2) / 2 = (1/4 + 2/4) / 2 = (3/4) / 2 = 3/8. Since 1/4 (2/8) < 3/8 < 1/2 (4/8), 3/8 lies between them.",
+      "options": [
+        "3/8",
+        "1/8",
+        "5/8",
+        "7/8"
+      ],
+      "answer": "3/8"
+    },
+    "kn": {
+      "question": "1/4 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 1/2 \u0cb0 \u0ca8\u0ca1\u0cc1\u0cb5\u0cc6 \u0c87\u0cb0\u0cc1\u0cb5 \u0c92\u0c82\u0ca6\u0cc1 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0c95\u0c82\u0ca1\u0cc1\u0cb9\u0cbf\u0ca1\u0cbf\u0caf\u0cbf\u0cb0\u0cbf.",
+      "reasoning": "\u0c8e\u0cb0\u0ca1\u0cc1 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3 \u0ca8\u0ca1\u0cc1\u0cb5\u0cbf\u0ca8 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0c95\u0c82\u0ca1\u0cc1\u0cb9\u0cbf\u0ca1\u0cbf\u0caf\u0cb2\u0cc1, \u0c85\u0cb5\u0cc1\u0c97\u0cb3 \u0cb8\u0cb0\u0cbe\u0cb8\u0cb0\u0cbf\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca4\u0cc6\u0c97\u0cc6\u0ca6\u0cc1\u0c95\u0cca\u0cb3\u0ccd\u0cb3\u0cac\u0cb9\u0cc1\u0ca6\u0cc1: (1/4 + 1/2) / 2 = (1/4 + 2/4) / 2 = (3/4) / 2 = 3/8. 1/4 (2/8) < 3/8 < 1/2 (4/8) \u0c86\u0c97\u0cbf\u0cb0\u0cc1\u0cb5\u0cc1\u0ca6\u0cb0\u0cbf\u0c82\u0ca6, 3/8 \u0c85\u0cb5\u0cc1\u0c97\u0cb3 \u0ca8\u0ca1\u0cc1\u0cb5\u0cc6 \u0c87\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6.",
+      "options": [
+        "3/8",
+        "1/8",
+        "5/8",
+        "7/8"
+      ],
+      "answer": "3/8"
+    }
+  },
+  {
+    "id": "c8_math_rat_012",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Solve using appropriate properties: -2/3 * 3/5 + 5/2 - 3/5 * 1/6",
+      "reasoning": "Using Commutativity and Distributivity: -2/3 * 3/5 - 3/5 * 1/6 + 5/2 = 3/5 * (-2/3 - 1/6) + 5/2 = 3/5 * (-4/6 - 1/6) + 5/2 = 3/5 * (-5/6) + 5/2 = -1/2 + 5/2 = 4/2 = 2.",
+      "options": [
+        "2",
+        "1",
+        "0",
+        "3"
+      ],
+      "answer": "2"
+    },
+    "kn": {
+      "question": "\u0cb8\u0cc2\u0c95\u0ccd\u0ca4\u0cb5\u0cbe\u0ca6 \u0c97\u0cc1\u0ca3\u0cb2\u0c95\u0ccd\u0cb7\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0cac\u0cb3\u0cb8\u0cbf \u0caa\u0cb0\u0cbf\u0cb9\u0cb0\u0cbf\u0cb8\u0cbf: -2/3 * 3/5 + 5/2 - 3/5 * 1/6",
+      "reasoning": "\u0caa\u0cb0\u0cbf\u0cb5\u0cb0\u0ccd\u0ca4\u0ca8\u0cc0\u0caf \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cb5\u0cbf\u0cad\u0cbe\u0c9c\u0c95 \u0c97\u0cc1\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0cac\u0cb3\u0cb8\u0cbf: -2/3 * 3/5 - 3/5 * 1/6 + 5/2 = 3/5 * (-2/3 - 1/6) + 5/2 = 3/5 * (-4/6 - 1/6) + 5/2 = 3/5 * (-5/6) + 5/2 = -1/2 + 5/2 = 4/2 = 2.",
+      "options": [
+        "2",
+        "1",
+        "0",
+        "3"
+      ],
+      "answer": "2"
+    }
+  },
+  {
+    "id": "c8_math_rat_013",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "The product of two rational numbers is -9. If one of the numbers is -12, find the other.",
+      "reasoning": "Let the other rational number be x. Then, (-12) * x = -9. Therefore, x = -9 / -12 = 9/12 = 3/4.",
+      "options": [
+        "3/4",
+        "-3/4",
+        "4/3",
+        "-4/3"
+      ],
+      "answer": "3/4"
+    },
+    "kn": {
+      "question": "\u0c8e\u0cb0\u0ca1\u0cc1 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3 \u0c97\u0cc1\u0ca3\u0cb2\u0cac\u0ccd\u0ca7\u0cb5\u0cc1 -9 \u0c86\u0c97\u0cbf\u0ca6\u0cc6. \u0c85\u0cb5\u0cc1\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0c92\u0c82\u0ca6\u0cc1 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 -12 \u0c86\u0ca6\u0cb0\u0cc6, \u0c87\u0ca8\u0ccd\u0ca8\u0cca\u0c82\u0ca6\u0cc1 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0c95\u0c82\u0ca1\u0cc1\u0cb9\u0cbf\u0ca1\u0cbf\u0caf\u0cbf\u0cb0\u0cbf.",
+      "reasoning": "\u0cae\u0ca4\u0ccd\u0ca4\u0cca\u0c82\u0ca6\u0cc1 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 x \u0c86\u0c97\u0cbf\u0cb0\u0cb2\u0cbf. \u0c86\u0c97, (-12) * x = -9. \u0c86\u0ca6\u0ccd\u0ca6\u0cb0\u0cbf\u0c82\u0ca6, x = -9 / -12 = 9/12 = 3/4.",
+      "options": [
+        "3/4",
+        "-3/4",
+        "4/3",
+        "-4/3"
+      ],
+      "answer": "3/4"
+    }
+  },
+  {
+    "id": "c8_math_rat_014",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What number should be subtracted from -2/3 to get -1/6?",
+      "reasoning": "Let the number to be subtracted be x. So, -2/3 - x = -1/6. Re-arranging gives x = -2/3 - (-1/6) = -2/3 + 1/6 = -4/6 + 1/6 = -3/6 = -1/2.",
+      "options": [
+        "-1/2",
+        "1/2",
+        "-5/6",
+        "5/6"
+      ],
+      "answer": "-1/2"
+    },
+    "kn": {
+      "question": "-2/3 \u0cb0\u0cbf\u0c82\u0ca6 \u0caf\u0cbe\u0cb5 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0c95\u0cb3\u0cc6\u0ca6\u0cb0\u0cc6 -1/6 \u0cb8\u0cbf\u0c97\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6?",
+      "reasoning": "\u0c95\u0cb3\u0cc6\u0caf\u0cac\u0cc7\u0c95\u0cbe\u0ca6 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 x \u0c86\u0c97\u0cbf\u0cb0\u0cb2\u0cbf. \u0c86\u0ca6\u0ccd\u0ca6\u0cb0\u0cbf\u0c82\u0ca6, -2/3 - x = -1/6. \u0c87\u0ca6\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0cc1\u0ca8\u0cb0\u0ccd\u0c9c\u0ccb\u0ca1\u0cbf\u0cb8\u0cbf\u0ca6\u0cb0\u0cc6 x = -2/3 - (-1/6) = -2/3 + 1/6 = -4/6 + 1/6 = -3/6 = -1/2 \u0cb2\u0cad\u0ccd\u0caf\u0cb5\u0cbe\u0c97\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6.",
+      "options": [
+        "-1/2",
+        "1/2",
+        "-5/6",
+        "5/6"
+      ],
+      "answer": "-1/2"
+    }
+  },
+  {
+    "id": "c8_math_rat_015",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Rational numbers are NOT closed under which of the following arithmetic operations?",
+      "reasoning": "Rational numbers are closed under addition, subtraction, and multiplication because the result is always rational. However, for division, if we divide by zero, e.g., a / 0, the result is undefined, which is not rational. So they are not closed under division.",
+      "options": [
+        "Addition",
+        "Subtraction",
+        "Multiplication",
+        "Division"
+      ],
+      "answer": "Division"
+    },
+    "kn": {
+      "question": "\u0c95\u0cc6\u0cb3\u0c97\u0cbf\u0ca8 \u0caf\u0cbe\u0cb5 \u0c97\u0ca3\u0cbf\u0ca4\u0ca6 \u0c95\u0ccd\u0cb0\u0cbf\u0caf\u0cc6\u0caf\u0cb2\u0ccd\u0cb2\u0cbf \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cc1 \u0c86\u0cb5\u0cc3\u0ca4\u0ccd\u0ca4\u0cb5\u0cbe\u0c97\u0cbf\u0cb0\u0cc1\u0cb5\u0cc1\u0ca6\u0cbf\u0cb2\u0ccd\u0cb2?",
+      "reasoning": "\u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cc1 \u0cb8\u0c82\u0c95\u0cb2\u0ca8, \u0cb5\u0ccd\u0caf\u0cb5\u0c95\u0cb2\u0ca8 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0c86\u0cb5\u0cc3\u0ca4\u0ccd\u0ca4\u0cb5\u0cbe\u0c97\u0cbf\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0cb5\u0cc6 \u0c8f\u0c95\u0cc6\u0c82\u0ca6\u0cb0\u0cc6 \u0cab\u0cb2\u0cbf\u0ca4\u0cbe\u0c82\u0cb6\u0cb5\u0cc1 \u0caf\u0cbe\u0cb5\u0cbe\u0c97\u0cb2\u0cc2 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cbe\u0c97\u0cbf\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6. \u0c86\u0ca6\u0cb0\u0cc6 \u0cad\u0cbe\u0c97\u0cbe\u0c95\u0cbe\u0cb0\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf, \u0cb8\u0cca\u0ca8\u0ccd\u0ca8\u0cc6\u0caf\u0cbf\u0c82\u0ca6 \u0cad\u0cbe\u0c97\u0cbf\u0cb8\u0cbf\u0ca6\u0cbe\u0c97 (\u0c89\u0ca6\u0cbe\u0cb9\u0cb0\u0ca3\u0cc6\u0c97\u0cc6 a / 0), \u0cab\u0cb2\u0cbf\u0ca4\u0cbe\u0c82\u0cb6\u0cb5\u0cc1 \u0c85\u0ca8\u0cbf\u0caf\u0cae\u0cbf\u0ca4\u0cb5\u0cbe\u0c97\u0cbf\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6, \u0c85\u0ca6\u0cc1 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cb2\u0ccd\u0cb2. \u0c86\u0ca6\u0ccd\u0ca6\u0cb0\u0cbf\u0c82\u0ca6 \u0c85\u0cb5\u0cc1 \u0cad\u0cbe\u0c97\u0cbe\u0c95\u0cbe\u0cb0\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0c86\u0cb5\u0cc3\u0ca4\u0ccd\u0ca4\u0cb5\u0cbe\u0c97\u0cbf\u0cb0\u0cc1\u0cb5\u0cc1\u0ca6\u0cbf\u0cb2\u0ccd\u0cb2.",
+      "options": [
+        "\u0cb8\u0c82\u0c95\u0cb2\u0ca8",
+        "\u0cb5\u0ccd\u0caf\u0cb5\u0c95\u0cb2\u0ca8",
+        "\u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0",
+        "\u0cad\u0cbe\u0c97\u0cbe\u0c95\u0cbe\u0cb0"
+      ],
+      "answer": "\u0cad\u0cbe\u0c97\u0cbe\u0c95\u0cbe\u0cb0"
+    }
+  },
+  {
+    "id": "c8_math_rat_img_016",
+    "difficulty": 2,
+    "type": "image_single",
+    "en": {
+      "question": "Find the rational number represented by point A on the given number line.",
+      "reasoning": "The space between -1 and 0 is divided into 6 equal parts. Point A is located at the 5th mark to the left of 0 (or 1st mark to the right of -1), which represents -5/6.",
+      "options": [
+        "-1/6",
+        "-5/6",
+        "-2/3",
+        "-1/3"
+      ],
+      "answer": "-5/6"
+    },
+    "kn": {
+      "question": "\u0ca8\u0cc0\u0ca1\u0cbf\u0cb0\u0cc1\u0cb5 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cbe \u0cb0\u0cc7\u0c96\u0cc6\u0caf \u0cae\u0cc7\u0cb2\u0cc6 \u0cac\u0cbf\u0c82\u0ca6\u0cc1 A \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0cb5 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0c95\u0c82\u0ca1\u0cc1\u0cb9\u0cbf\u0ca1\u0cbf\u0caf\u0cbf\u0cb0\u0cbf.",
+      "reasoning": "-1 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 0 \u0cb0 \u0ca8\u0ca1\u0cc1\u0cb5\u0cbf\u0ca8 \u0c9c\u0cbe\u0c97\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 6 \u0cb8\u0cae\u0cbe\u0ca8 \u0cad\u0cbe\u0c97\u0c97\u0cb3\u0cbe\u0c97\u0cbf \u0cb5\u0cbf\u0c82\u0c97\u0ca1\u0cbf\u0cb8\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6. \u0cac\u0cbf\u0c82\u0ca6\u0cc1 A \u0caf\u0cc1 0 \u0cb0\u0cbf\u0c82\u0ca6 \u0c8e\u0ca1\u0c95\u0ccd\u0c95\u0cc6 5 \u0ca8\u0cc7 \u0c97\u0cc1\u0cb0\u0cc1\u0ca4\u0cbf\u0ca8\u0cb2\u0ccd\u0cb2\u0cbf\u0ca6\u0cc6 (\u0c85\u0ca5\u0cb5\u0cbe -1 \u0cb0\u0cbf\u0c82\u0ca6 \u0cac\u0cb2\u0c95\u0ccd\u0c95\u0cc6 1 \u0ca8\u0cc7 \u0c97\u0cc1\u0cb0\u0cc1\u0ca4\u0cc1), \u0c87\u0ca6\u0cc1 -5/6 \u0c85\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6.",
+      "options": [
+        "-1/6",
+        "-5/6",
+        "-2/3",
+        "-1/3"
+      ],
+      "answer": "-5/6"
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 80\"><line x1=\"20\" y1=\"40\" x2=\"280\" y2=\"40\" stroke=\"#2563EB\" stroke-width=\"2\"/><polygon points=\"280,35 290,40 280,45\" fill=\"#2563EB\"/><polygon points=\"20,35 10,40 20,45\" fill=\"#2563EB\"/><line x1=\"30\" y1=\"35\" x2=\"30\" y2=\"45\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"30\" y=\"60\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">-1</text><line x1=\"250\" y1=\"35\" x2=\"250\" y2=\"45\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"250\" y=\"60\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">0</text><line x1=\"66.6\" y1=\"35\" x2=\"66.6\" y2=\"45\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><circle cx=\"66.6\" cy=\"40\" r=\"5\" fill=\"#059669\"/><text x=\"66.6\" y=\"25\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">A</text></svg>",
+      "alt": {
+        "en": "Number line from -1 to 0 with point A marked at -5/6.",
+        "kn": "-1 \u0cb0\u0cbf\u0c82\u0ca6 0 \u0cb0\u0cb5\u0cb0\u0cc6\u0c97\u0cbf\u0ca8 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cbe \u0cb0\u0cc7\u0c96\u0cc6, \u0c87\u0ca6\u0cb0\u0cb2\u0ccd\u0cb2\u0cbf \u0cac\u0cbf\u0c82\u0ca6\u0cc1 A \u0caf\u0cc1 -5/6 \u0cb0\u0cb2\u0ccd\u0cb2\u0cbf\u0ca6\u0cc6."
+      }
+    }
+  },
+  {
+    "id": "c8_math_rat_img_017",
+    "difficulty": 2,
+    "type": "image_single",
+    "en": {
+      "question": "In the given Venn diagram, point B represents a number that is an Integer but not a Whole number. Which of the following numbers could point B be?",
+      "reasoning": "Integers include positive numbers, zero, and negative whole numbers. Whole numbers include only 0 and positive integers. Therefore, numbers that are Integers but not Whole numbers must be negative integers, such as -3.",
+      "options": [
+        "5",
+        "0",
+        "-3",
+        "1/2"
+      ],
+      "answer": "-3"
+    },
+    "kn": {
+      "question": "\u0ca8\u0cc0\u0ca1\u0cbf\u0cb0\u0cc1\u0cb5 \u0cb5\u0cc6\u0ca8\u0ccd \u0c9a\u0cbf\u0ca4\u0ccd\u0cb0\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf, \u0cac\u0cbf\u0c82\u0ca6\u0cc1 B \u0caa\u0cc2\u0cb0\u0ccd\u0ca3\u0cbe\u0c82\u0c95\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0caa\u0cc2\u0cb0\u0ccd\u0ca3 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cb2\u0ccd\u0cb2\u0ca6 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6. \u0cac\u0cbf\u0c82\u0ca6\u0cc1 B \u0caf\u0cbe\u0cb5 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cbe\u0c97\u0cbf\u0cb0\u0cac\u0cb9\u0cc1\u0ca6\u0cc1?",
+      "reasoning": "\u0caa\u0cc2\u0cb0\u0ccd\u0ca3\u0cbe\u0c82\u0c95\u0c97\u0cb3\u0cc1 \u0ca7\u0ca8\u0cbe\u0ca4\u0ccd\u0cae\u0c95 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cc1, \u0cb8\u0cca\u0ca8\u0ccd\u0ca8\u0cc6 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c8b\u0ca3\u0cbe\u0ca4\u0ccd\u0cae\u0c95 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0c92\u0cb3\u0c97\u0cca\u0c82\u0ca1\u0cbf\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0cb5\u0cc6. \u0caa\u0cc2\u0cb0\u0ccd\u0ca3 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cc1 \u0c95\u0cc7\u0cb5\u0cb2 0 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0ca7\u0ca8\u0cbe\u0ca4\u0ccd\u0cae\u0c95 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb9\u0cca\u0c82\u0ca6\u0cbf\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0cb5\u0cc6. \u0c86\u0ca6\u0ccd\u0ca6\u0cb0\u0cbf\u0c82\u0ca6, \u0caa\u0cc2\u0cb0\u0ccd\u0ca3\u0cbe\u0c82\u0c95\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1 \u0caa\u0cc2\u0cb0\u0ccd\u0ca3 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cb2\u0ccd\u0cb2\u0ca6 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cc1 \u0c8b\u0ca3\u0cbe\u0ca4\u0ccd\u0cae\u0c95 \u0caa\u0cc2\u0cb0\u0ccd\u0ca3\u0cbe\u0c82\u0c95\u0cb5\u0cbe\u0c97\u0cbf\u0cb0\u0cac\u0cc7\u0c95\u0cc1, \u0c89\u0ca6\u0cbe\u0cb9\u0cb0\u0ca3\u0cc6\u0c97\u0cc6 -3.",
+      "options": [
+        "5",
+        "0",
+        "-3",
+        "1/2"
+      ],
+      "answer": "-3"
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"5\" y=\"5\" width=\"290\" height=\"190\" fill=\"none\" stroke=\"#2563EB\" stroke-dasharray=\"4\" stroke-width=\"2\"/><text x=\"15\" y=\"25\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\">Rational Numbers (Q)</text><circle cx=\"150\" cy=\"110\" r=\"80\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><text x=\"150\" y=\"45\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Integers (Z)</text><circle cx=\"150\" cy=\"120\" r=\"55\" fill=\"#FFF\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><text x=\"150\" y=\"80\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Whole (W)</text><circle cx=\"150\" cy=\"130\" r=\"30\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><text x=\"150\" y=\"135\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Natural (N)</text><circle cx=\"100\" cy=\"110\" r=\"6\" fill=\"#059669\"/><text x=\"100\" y=\"100\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">B</text></svg>",
+      "alt": {
+        "en": "Venn diagram showing nested circles for Natural, Whole, Integers, and Rational numbers. Point B is inside Integers but outside Whole numbers.",
+        "kn": "\u0cb8\u0ccd\u0cb5\u0cbe\u0cad\u0cbe\u0cb5\u0cbf\u0c95, \u0caa\u0cc2\u0cb0\u0ccd\u0ca3, \u0caa\u0cc2\u0cb0\u0ccd\u0ca3\u0cbe\u0c82\u0c95 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cbf\u0c97\u0cc6 \u0cb8\u0c82\u0cac\u0c82\u0ca7\u0cbf\u0cb8\u0cbf\u0ca6 \u0cb5\u0cc6\u0ca8\u0ccd \u0c9a\u0cbf\u0ca4\u0ccd\u0cb0. \u0cac\u0cbf\u0c82\u0ca6\u0cc1 B \u0caa\u0cc2\u0cb0\u0ccd\u0ca3\u0cbe\u0c82\u0c95\u0c97\u0cb3 \u0c92\u0cb3\u0c97\u0cc6 \u0c86\u0ca6\u0cb0\u0cc6 \u0caa\u0cc2\u0cb0\u0ccd\u0ca3 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3 \u0cb9\u0cca\u0cb0\u0c97\u0cbf\u0ca6\u0cc6."
+      }
+    }
+  },
+  {
+    "id": "c8_math_rat_img_018",
+    "difficulty": 2,
+    "type": "image_multiple",
+    "en": {
+      "question": "Select the correct statements comparing the rational representations in Grid 1 and Grid 2.",
+      "reasoning": "Grid 1 has 2 out of 3 parts shaded, representing 2/3. Grid 2 has 1 out of 4 parts shaded, representing 1/4. Comparing them, 2/3 (0.66...) is indeed greater than 1/4 (0.25).",
+      "options": [
+        "Grid 1 represents the rational number 2/3",
+        "Grid 2 represents the rational number 1/4",
+        "The rational number represented by Grid 1 is greater than that of Grid 2",
+        "Grid 1 represents 1/3 and Grid 2 represents 3/4"
+      ],
+      "answer": [
+        "Grid 1 represents the rational number 2/3",
+        "Grid 2 represents the rational number 1/4",
+        "The rational number represented by Grid 1 is greater than that of Grid 2"
+      ]
+    },
+    "kn": {
+      "question": "\u0c97\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd 1 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c97\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd 2 \u0cb0\u0cb2\u0ccd\u0cb2\u0cbf\u0ca8 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0caa\u0ccd\u0cb0\u0cbe\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0ccd\u0caf\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb9\u0ccb\u0cb2\u0cbf\u0cb8\u0cc1\u0cb5 \u0cb8\u0cb0\u0cbf\u0caf\u0cbe\u0ca6 \u0cb9\u0cc7\u0cb3\u0cbf\u0c95\u0cc6\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0c86\u0cb0\u0cbf\u0cb8\u0cbf.",
+      "reasoning": "\u0c97\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd 1 \u0cb0\u0cb2\u0ccd\u0cb2\u0cbf 3 \u0cb0\u0cb2\u0ccd\u0cb2\u0cbf 2 \u0cad\u0cbe\u0c97\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cc6\u0cb0\u0cb3\u0cc1 \u0cae\u0cbe\u0ca1\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6, \u0c87\u0ca6\u0cc1 2/3 \u0c85\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6. \u0c97\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd 2 \u0cb0\u0cb2\u0ccd\u0cb2\u0cbf 4 \u0cb0\u0cb2\u0ccd\u0cb2\u0cbf 1 \u0cad\u0cbe\u0c97\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cc6\u0cb0\u0cb3\u0cc1 \u0cae\u0cbe\u0ca1\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6, \u0c87\u0ca6\u0cc1 1/4 \u0c85\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6. \u0c85\u0cb5\u0cc1\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb9\u0ccb\u0cb2\u0cbf\u0cb8\u0cbf\u0ca6\u0cbe\u0c97, 2/3 (0.66...) \u0caf\u0cc1 1/4 (0.25) \u0c97\u0cbf\u0c82\u0ca4 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbe\u0c97\u0cbf\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6.",
+      "options": [
+        "\u0c97\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd 1 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 2/3 \u0c85\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6",
+        "\u0c97\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd 2 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 1/4 \u0c85\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6",
+        "\u0c97\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd 1 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0cb5 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cc1 \u0c97\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd 2 \u0c97\u0cbf\u0c82\u0ca4 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbe\u0c97\u0cbf\u0ca6\u0cc6",
+        "\u0c97\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd 1 1/3 \u0c85\u0ca8\u0ccd\u0ca8\u0cc1 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c97\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd 2 3/4 \u0c85\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6"
+      ],
+      "answer": [
+        "\u0c97\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd 1 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 2/3 \u0c85\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6",
+        "\u0c97\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd 2 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 1/4 \u0c85\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6",
+        "\u0c97\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd 1 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0cb5 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cc1 \u0c97\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd 2 \u0c97\u0cbf\u0c82\u0ca4 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbe\u0c97\u0cbf\u0ca6\u0cc6"
+      ]
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 120\"><text x=\"70\" y=\"20\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">Grid 1</text><rect x=\"20\" y=\"30\" width=\"100\" height=\"60\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><rect x=\"20\" y=\"30\" width=\"66.6\" height=\"60\" fill=\"#DBEAFE\"/><line x1=\"53.3\" y1=\"30\" x2=\"53.3\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><line x1=\"86.6\" y1=\"30\" x2=\"86.6\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><text x=\"230\" y=\"20\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\">Grid 2</text><rect x=\"180\" y=\"30\" width=\"100\" height=\"60\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><rect x=\"180\" y=\"30\" width=\"25\" height=\"60\" fill=\"#DBEAFE\"/><line x1=\"205\" y1=\"30\" x2=\"205\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><line x1=\"230\" y1=\"30\" x2=\"230\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><line x1=\"255\" y1=\"30\" x2=\"255\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"1.5\"/></svg>",
+      "alt": {
+        "en": "Grid 1 is split into 3 columns (2 shaded, i.e., 2/3). Grid 2 is split into 4 columns (1 shaded, i.e., 1/4).",
+        "kn": "\u0c97\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd 1 \u0ca8\u0ccd\u0ca8\u0cc1 3 \u0c95\u0cbe\u0cb2\u0cae\u0ccd\u200c\u0c97\u0cb3\u0cbe\u0c97\u0cbf \u0cb5\u0cbf\u0c82\u0c97\u0ca1\u0cbf\u0cb8\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6 (2 \u0ca8\u0cc6\u0cb0\u0cb3\u0cc1 \u0cae\u0cbe\u0ca1\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6, \u0c85\u0c82\u0ca6\u0cb0\u0cc6 2/3). \u0c97\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd 2 \u0ca8\u0ccd\u0ca8\u0cc1 4 \u0c95\u0cbe\u0cb2\u0cae\u0ccd\u200c\u0c97\u0cb3\u0cbe\u0c97\u0cbf \u0cb5\u0cbf\u0c82\u0c97\u0ca1\u0cbf\u0cb8\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6 (1 \u0ca8\u0cc6\u0cb0\u0cb3\u0cc1 \u0cae\u0cbe\u0ca1\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6, \u0c85\u0c82\u0ca6\u0cb0\u0cc6 1/4)."
+      }
+    }
+  },
+  {
+    "id": "c8_math_rat_019",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "If a and b are rational numbers, which of the following operations are always closed?",
+      "reasoning": "Addition, subtraction, and multiplication of any two rational numbers always result in another rational number. However, division is not closed because dividing by zero is undefined.",
+      "options": [
+        "Addition (a + b is rational)",
+        "Subtraction (a - b is rational)",
+        "Multiplication (a * b is rational)",
+        "Division (a / b is rational)"
+      ],
+      "answer": [
+        "Addition (a + b is rational)",
+        "Subtraction (a - b is rational)",
+        "Multiplication (a * b is rational)"
+      ]
+    },
+    "kn": {
+      "question": "a \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 b \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cbe\u0c97\u0cbf\u0ca6\u0ccd\u0ca6\u0cb0\u0cc6, \u0c95\u0cc6\u0cb3\u0c97\u0cbf\u0ca8 \u0caf\u0cbe\u0cb5 \u0c95\u0ccd\u0cb0\u0cbf\u0caf\u0cc6\u0c97\u0cb3\u0cc1 \u0caf\u0cbe\u0cb5\u0cbe\u0c97\u0cb2\u0cc2 \u0c86\u0cb5\u0cc3\u0ca4\u0ccd\u0ca4\u0cb5\u0cbe\u0c97\u0cbf\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0cb5\u0cc6?",
+      "reasoning": "\u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0c8e\u0cb0\u0ca1\u0cc1 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3 \u0cb8\u0c82\u0c95\u0cb2\u0ca8, \u0cb5\u0ccd\u0caf\u0cb5\u0c95\u0cb2\u0ca8 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0cb5\u0cc1 \u0caf\u0cbe\u0cb5\u0cbe\u0c97\u0cb2\u0cc2 \u0cae\u0ca4\u0ccd\u0ca4\u0cca\u0c82\u0ca6\u0cc1 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cc0\u0ca1\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6. \u0c86\u0ca6\u0cb0\u0cc6 \u0cad\u0cbe\u0c97\u0cbe\u0c95\u0cbe\u0cb0\u0cb5\u0cc1 \u0cb8\u0cca\u0ca8\u0ccd\u0ca8\u0cc6\u0caf\u0cbf\u0c82\u0ca6 \u0cad\u0cbe\u0c97\u0cbf\u0cb8\u0cbf\u0ca6\u0cbe\u0c97 \u0cb5\u0ccd\u0caf\u0cbe\u0c96\u0ccd\u0caf\u0cbe\u0ca8\u0cbf\u0cb8\u0cb2\u0cbe\u0c97\u0ca6 \u0c95\u0cbe\u0cb0\u0ca3 \u0c86\u0cb5\u0cc3\u0ca4\u0ccd\u0ca4\u0cb5\u0cbe\u0c97\u0cbf\u0cb0\u0cc1\u0cb5\u0cc1\u0ca6\u0cbf\u0cb2\u0ccd\u0cb2.",
+      "options": [
+        "\u0cb8\u0c82\u0c95\u0cb2\u0ca8 (a + b \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cbe\u0c97\u0cbf\u0ca6\u0cc6)",
+        "\u0cb5\u0ccd\u0caf\u0cb5\u0c95\u0cb2\u0ca8 (a - b \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cbe\u0c97\u0cbf\u0ca6\u0cc6)",
+        "\u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0 (a * b \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cbe\u0c97\u0cbf\u0ca6\u0cc6)",
+        "\u0cad\u0cbe\u0c97\u0cbe\u0c95\u0cbe\u0cb0 (a / b \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cbe\u0c97\u0cbf\u0ca6\u0cc6)"
+      ],
+      "answer": [
+        "\u0cb8\u0c82\u0c95\u0cb2\u0ca8 (a + b \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cbe\u0c97\u0cbf\u0ca6\u0cc6)",
+        "\u0cb5\u0ccd\u0caf\u0cb5\u0c95\u0cb2\u0ca8 (a - b \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cbe\u0c97\u0cbf\u0ca6\u0cc6)",
+        "\u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0 (a * b \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cbe\u0c97\u0cbf\u0ca6\u0cc6)"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_rat_020",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following numbers are equal to their own multiplicative inverses?",
+      "reasoning": "The multiplicative inverse of a number is its reciprocal. The reciprocal of 1 is 1/1 = 1. The reciprocal of -1 is 1/(-1) = -1. Zero has no reciprocal, and the reciprocal of 2 is 1/2.",
+      "options": [
+        "1",
+        "-1",
+        "0",
+        "2"
+      ],
+      "answer": [
+        "1",
+        "-1"
+      ]
+    },
+    "kn": {
+      "question": "\u0c95\u0cc6\u0cb3\u0c97\u0cbf\u0ca8 \u0caf\u0cbe\u0cb5 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cc1 \u0ca4\u0cae\u0ccd\u0cae\u0ca6\u0cc7 \u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae\u0c95\u0ccd\u0c95\u0cc6 \u0cb8\u0cae\u0ca8\u0cbe\u0c97\u0cbf\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0cb5\u0cc6?",
+      "reasoning": "\u0c92\u0c82\u0ca6\u0cc1 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf \u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae\u0cb5\u0cc1 \u0c85\u0ca6\u0cb0 \u0cb5\u0ccd\u0caf\u0cc1\u0ca4\u0ccd\u0c95\u0ccd\u0cb0\u0cae\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6. 1 \u0cb0 \u0cb5\u0ccd\u0caf\u0cc1\u0ca4\u0ccd\u0c95\u0ccd\u0cb0\u0cae 1/1 = 1. -1 \u0cb0 \u0cb5\u0ccd\u0caf\u0cc1\u0ca4\u0ccd\u0c95\u0ccd\u0cb0\u0cae 1/(-1) = -1. \u0cb8\u0cca\u0ca8\u0ccd\u0ca8\u0cc6\u0c97\u0cc6 \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0cb5\u0ccd\u0caf\u0cc1\u0ca4\u0ccd\u0c95\u0ccd\u0cb0\u0cae\u0cb5\u0cbf\u0cb2\u0ccd\u0cb2 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 2 \u0cb0 \u0cb5\u0ccd\u0caf\u0cc1\u0ca4\u0ccd\u0c95\u0ccd\u0cb0\u0cae 1/2 \u0c86\u0c97\u0cbf\u0ca6\u0cc6.",
+      "options": [
+        "1",
+        "-1",
+        "0",
+        "2"
+      ],
+      "answer": [
+        "1",
+        "-1"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_rat_021",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Evaluate using distributive property: 2/5 * (-3/7) - 1/14 - 3/7 * 3/5",
+      "reasoning": "Rearranging: 2/5 * (-3/7) - 3/5 * 3/7 - 1/14 = -3/7 * (2/5 + 3/5) - 1/14 = -3/7 * (5/5) - 1/14 = -3/7 * 1 - 1/14 = -6/14 - 1/14 = -7/14 = -1/2.",
+      "options": [
+        "-1/2",
+        "1/2",
+        "-3/7",
+        "3/7"
+      ],
+      "answer": "-1/2"
+    },
+    "kn": {
+      "question": "\u0cb5\u0cbf\u0cad\u0cbe\u0c9c\u0c95 \u0c97\u0cc1\u0ca3\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 \u0cac\u0cb3\u0cb8\u0cbf \u0cae\u0ccc\u0cb2\u0ccd\u0caf\u0cc0\u0c95\u0cb0\u0cbf\u0cb8\u0cbf: 2/5 * (-3/7) - 1/14 - 3/7 * 3/5",
+      "reasoning": "\u0caa\u0cc1\u0ca8\u0cb0\u0ccd\u0c9c\u0ccb\u0ca1\u0cbf\u0cb8\u0cbf\u0ca6\u0cb0\u0cc6: 2/5 * (-3/7) - 3/5 * 3/7 - 1/14 = -3/7 * (2/5 + 3/5) - 1/14 = -3/7 * (5/5) - 1/14 = -3/7 * 1 - 1/14 = -6/14 - 1/14 = -7/14 = -1/2.",
+      "options": [
+        "-1/2",
+        "1/2",
+        "-3/7",
+        "3/7"
+      ],
+      "answer": "-1/2"
+    }
+  },
+  {
+    "id": "c8_math_rat_022",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "If you subtract 1/2 from a number and multiply the result by 1/2, you get 1/8. What is the number?",
+      "reasoning": "Let the number be x. According to the problem: (x - 1/2) * 1/2 = 1/8. Multiplying both sides by 2 gives x - 1/2 = 2/8 = 1/4. Adding 1/2 to both sides gives x = 1/4 + 1/2 = 1/4 + 2/4 = 3/4.",
+      "options": [
+        "3/4",
+        "1/4",
+        "5/8",
+        "7/8"
+      ],
+      "answer": "3/4"
+    },
+    "kn": {
+      "question": "\u0c92\u0c82\u0ca6\u0cc1 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cbf\u0c82\u0ca6 1/2 \u0c85\u0ca8\u0ccd\u0ca8\u0cc1 \u0c95\u0cb3\u0cc6\u0ca6\u0cc1, \u0cac\u0c82\u0ca6 \u0cab\u0cb2\u0cbf\u0ca4\u0cbe\u0c82\u0cb6\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 1/2 \u0cb0\u0cbf\u0c82\u0ca6 \u0c97\u0cc1\u0ca3\u0cbf\u0cb8\u0cbf\u0ca6\u0cb0\u0cc6 1/8 \u0cac\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6. \u0c86 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc1?",
+      "reasoning": "\u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 x \u0c86\u0c97\u0cbf\u0cb0\u0cb2\u0cbf. \u0caa\u0ccd\u0cb0\u0cb6\u0ccd\u0ca8\u0cc6\u0caf \u0caa\u0ccd\u0cb0\u0c95\u0cbe\u0cb0: (x - 1/2) * 1/2 = 1/8. \u0c8e\u0cb0\u0ca1\u0cc2 \u0cac\u0ca6\u0cbf\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 2 \u0cb0\u0cbf\u0c82\u0ca6 \u0c97\u0cc1\u0ca3\u0cbf\u0cb8\u0cbf\u0ca6\u0cb0\u0cc6, x - 1/2 = 2/8 = 1/4. \u0c8e\u0cb0\u0ca1\u0cc2 \u0cac\u0ca6\u0cbf\u0c97\u0cb3\u0cbf\u0c97\u0cc6 1/2 \u0c85\u0ca8\u0ccd\u0ca8\u0cc1 \u0c95\u0cc2\u0ca1\u0cbf\u0cb8\u0cbf\u0ca6\u0cb0\u0cc6 x = 1/4 + 1/2 = 1/4 + 2/4 = 3/4 \u0cb2\u0cad\u0ccd\u0caf\u0cb5\u0cbe\u0c97\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6.",
+      "options": [
+        "3/4",
+        "1/4",
+        "5/8",
+        "7/8"
+      ],
+      "answer": "3/4"
+    }
+  },
+  {
+    "id": "c8_math_rat_023",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following equations represent the distributive property of multiplication over addition or subtraction?",
+      "reasoning": "The first two options demonstrate the distributive property: a distributes to b and c over addition/subtraction. Option 3 is the Associative Property of Addition, and Option 4 is the Associative Property of Multiplication.",
+      "options": [
+        "a * (b + c) = a * b + a * c",
+        "(b - c) * a = b * a - c * a",
+        "a + (b + c) = (a + b) + c",
+        "a * (b * c) = (a * b) * c"
+      ],
+      "answer": [
+        "a * (b + c) = a * b + a * c",
+        "(b - c) * a = b * a - c * a"
+      ]
+    },
+    "kn": {
+      "question": "\u0c95\u0cc6\u0cb3\u0c97\u0cbf\u0ca8 \u0caf\u0cbe\u0cb5 \u0cb8\u0cae\u0cc0\u0c95\u0cb0\u0ca3\u0c97\u0cb3\u0cc1 \u0cb8\u0c82\u0c95\u0cb2\u0ca8 \u0c85\u0ca5\u0cb5\u0cbe \u0cb5\u0ccd\u0caf\u0cb5\u0c95\u0cb2\u0ca8\u0ca6 \u0cae\u0cc7\u0cb2\u0cbf\u0ca8 \u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0cb5\u0cbf\u0cad\u0cbe\u0c9c\u0c95 \u0c97\u0cc1\u0ca3\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0cb5\u0cc6?",
+      "reasoning": "\u0cae\u0cca\u0ca6\u0cb2 \u0c8e\u0cb0\u0ca1\u0cc1 \u0c86\u0caf\u0ccd\u0c95\u0cc6\u0c97\u0cb3\u0cc1 \u0cb5\u0cbf\u0cad\u0cbe\u0c9c\u0c95 \u0c97\u0cc1\u0ca3\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca4\u0ccb\u0cb0\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0cb5\u0cc6: a \u0caf\u0cc1 b \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 c \u0c97\u0cc6 \u0cb8\u0c82\u0c95\u0cb2\u0ca8/\u0cb5\u0ccd\u0caf\u0cb5\u0c95\u0cb2\u0ca8\u0ca6 \u0cae\u0cc7\u0cb2\u0cc6 \u0cb9\u0c82\u0c9a\u0cbf\u0c95\u0cc6\u0caf\u0cbe\u0c97\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6. \u0c86\u0caf\u0ccd\u0c95\u0cc6 3 \u0cb8\u0c82\u0c95\u0cb2\u0ca8\u0ca6 \u0cb8\u0cb9\u0cb5\u0cb0\u0ccd\u0ca4\u0ca8\u0cc6\u0caf \u0c97\u0cc1\u0ca3\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c86\u0caf\u0ccd\u0c95\u0cc6 4 \u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0cb8\u0cb9\u0cb5\u0cb0\u0ccd\u0ca4\u0ca8\u0cc6\u0caf \u0c97\u0cc1\u0ca3\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6.",
+      "options": [
+        "a * (b + c) = a * b + a * c",
+        "(b - c) * a = b * a - c * a",
+        "a + (b + c) = (a + b) + c",
+        "a * (b * c) = (a * b) * c"
+      ],
+      "answer": [
+        "a * (b + c) = a * b + a * c",
+        "(b - c) * a = b * a - c * a"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_rat_024",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Select the properties that are true for the division of rational numbers.",
+      "reasoning": "Division by zero is undefined. Any non-zero rational divided by itself is 1. Any rational divided by 1 is itself. Division is NOT commutative (e.g., 2 / 3 != 3 / 2).",
+      "options": [
+        "Division by zero is undefined",
+        "For any non-zero rational number a, a / a = 1",
+        "For any rational number a, a / 1 = a",
+        "Division is commutative for rational numbers"
+      ],
+      "answer": [
+        "Division by zero is undefined",
+        "For any non-zero rational number a, a / a = 1",
+        "For any rational number a, a / 1 = a"
+      ]
+    },
+    "kn": {
+      "question": "\u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3 \u0cad\u0cbe\u0c97\u0cbe\u0c95\u0cbe\u0cb0\u0c95\u0ccd\u0c95\u0cc6 \u0cb8\u0c82\u0cac\u0c82\u0ca7\u0cbf\u0cb8\u0cbf\u0ca6\u0c82\u0ca4\u0cc6 \u0cb8\u0cb0\u0cbf\u0caf\u0cbe\u0ca6 \u0c97\u0cc1\u0ca3\u0cb2\u0c95\u0ccd\u0cb7\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0c86\u0cb0\u0cbf\u0cb8\u0cbf.",
+      "reasoning": "\u0cb8\u0cca\u0ca8\u0ccd\u0ca8\u0cc6\u0caf\u0cbf\u0c82\u0ca6 \u0cad\u0cbe\u0c97\u0cbe\u0c95\u0cbe\u0cb0 \u0cae\u0cbe\u0ca1\u0cc1\u0cb5\u0cc1\u0ca6\u0cc1 \u0c85\u0ca8\u0cbf\u0cb0\u0ccd\u0ca6\u0cbf\u0cb7\u0ccd\u0c9f\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6. \u0cb6\u0cc2\u0ca8\u0ccd\u0caf\u0cb5\u0cb2\u0ccd\u0cb2\u0ca6 \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0c85\u0ca6\u0cc7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0cbf\u0c82\u0ca6 \u0cad\u0cbe\u0c97\u0cbf\u0cb8\u0cbf\u0ca6\u0cb0\u0cc6 1 \u0cac\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6. \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 1 \u0cb0\u0cbf\u0c82\u0ca6 \u0cad\u0cbe\u0c97\u0cbf\u0cb8\u0cbf\u0ca6\u0cb0\u0cc6 \u0c85\u0ca6\u0cc7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 \u0cac\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6. \u0cad\u0cbe\u0c97\u0cbe\u0c95\u0cbe\u0cb0\u0cb5\u0cc1 \u0caa\u0cb0\u0cbf\u0cb5\u0cb0\u0ccd\u0ca4\u0ca8\u0cc0\u0caf\u0cb5\u0cb2\u0ccd\u0cb2 (\u0c89\u0ca6\u0cbe: 2 / 3 != 3 / 2).",
+      "options": [
+        "\u0cb8\u0cca\u0ca8\u0ccd\u0ca8\u0cc6\u0caf\u0cbf\u0c82\u0ca6 \u0cad\u0cbe\u0c97\u0cbe\u0c95\u0cbe\u0cb0 \u0cae\u0cbe\u0ca1\u0cc1\u0cb5\u0cc1\u0ca6\u0cc1 \u0c85\u0ca8\u0cbf\u0cb0\u0ccd\u0ca6\u0cbf\u0cb7\u0ccd\u0c9f\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6",
+        "\u0cb6\u0cc2\u0ca8\u0ccd\u0caf\u0cb5\u0cb2\u0ccd\u0cb2\u0ca6 \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 a \u0c97\u0cc6, a / a = 1",
+        "\u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 a \u0c97\u0cc6, a / 1 = a",
+        "\u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cbf\u0c97\u0cc6 \u0cad\u0cbe\u0c97\u0cbe\u0c95\u0cbe\u0cb0\u0cb5\u0cc1 \u0caa\u0cb0\u0cbf\u0cb5\u0cb0\u0ccd\u0ca4\u0ca8\u0cc0\u0caf\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6"
+      ],
+      "answer": [
+        "\u0cb8\u0cca\u0ca8\u0ccd\u0ca8\u0cc6\u0caf\u0cbf\u0c82\u0ca6 \u0cad\u0cbe\u0c97\u0cbe\u0c95\u0cbe\u0cb0 \u0cae\u0cbe\u0ca1\u0cc1\u0cb5\u0cc1\u0ca6\u0cc1 \u0c85\u0ca8\u0cbf\u0cb0\u0ccd\u0ca6\u0cbf\u0cb7\u0ccd\u0c9f\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6",
+        "\u0cb6\u0cc2\u0ca8\u0ccd\u0caf\u0cb5\u0cb2\u0ccd\u0cb2\u0ca6 \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 a \u0c97\u0cc6, a / a = 1",
+        "\u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6 a \u0c97\u0cc6, a / 1 = a"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_rat_025",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following statement(s) are correct about rational numbers?",
+      "reasoning": "Between any two rational numbers, there are infinite rational numbers. The negative of 0 is 0, so its additive inverse is 0. Subtraction is not associative (e.g., (1-2)-3 = -4, but 1-(2-3) = 2). The multiplicative identity is 1, not 0.",
+      "options": [
+        "There are infinitely many rational numbers between any two rational numbers",
+        "The additive inverse of 0 is 0",
+        "Rational numbers are associative under subtraction",
+        "Zero is the multiplicative identity for rational numbers"
+      ],
+      "answer": [
+        "There are infinitely many rational numbers between any two rational numbers",
+        "The additive inverse of 0 is 0"
+      ]
+    },
+    "kn": {
+      "question": "\u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3 \u0cac\u0c97\u0ccd\u0c97\u0cc6 \u0c95\u0cc6\u0cb3\u0c97\u0cbf\u0ca8 \u0caf\u0cbe\u0cb5 \u0cb9\u0cc7\u0cb3\u0cbf\u0c95\u0cc6\u0c97\u0cb3\u0cc1 \u0cb8\u0cb0\u0cbf\u0caf\u0cbe\u0c97\u0cbf\u0cb5\u0cc6?",
+      "reasoning": "\u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0c8e\u0cb0\u0ca1\u0cc1 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3 \u0ca8\u0ca1\u0cc1\u0cb5\u0cc6 \u0c85\u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cbe\u0ca4 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cbf\u0cb5\u0cc6. 0 \u0cb0 \u0c8b\u0ca3\u0cbe\u0ca4\u0ccd\u0cae\u0c95 \u0cb0\u0cc2\u0caa 0 \u0c86\u0c97\u0cbf\u0ca6\u0cc6, \u0c86\u0ca6\u0ccd\u0ca6\u0cb0\u0cbf\u0c82\u0ca6 \u0c85\u0ca6\u0cb0 \u0cb8\u0c82\u0c95\u0cb2\u0ca8\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae 0. \u0cb5\u0ccd\u0caf\u0cb5\u0c95\u0cb2\u0ca8\u0cb5\u0cc1 \u0cb8\u0cb9\u0cb5\u0cb0\u0ccd\u0ca4\u0ca8\u0cc0\u0caf\u0cb5\u0cb2\u0ccd\u0cb2 (\u0c89\u0ca6\u0cbe: (1-2)-3 = -4, \u0c86\u0ca6\u0cb0\u0cc6 1-(2-3) = 2). \u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0c85\u0ca8\u0ca8\u0ccd\u0caf\u0ca4\u0cbe \u0c85\u0c82\u0cb6 1 \u0c86\u0c97\u0cbf\u0ca6\u0cc6, 0 \u0c85\u0cb2\u0ccd\u0cb2.",
+      "options": [
+        "\u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0c8e\u0cb0\u0ca1\u0cc1 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3 \u0ca8\u0ca1\u0cc1\u0cb5\u0cc6 \u0c85\u0ca8\u0c82\u0ca4 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cbf\u0cb5\u0cc6",
+        "0 \u0cb0 \u0cb8\u0c82\u0c95\u0cb2\u0ca8\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae\u0cb5\u0cc1 0 \u0c86\u0c97\u0cbf\u0ca6\u0cc6",
+        "\u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cc1 \u0cb5\u0ccd\u0caf\u0cb5\u0c95\u0cb2\u0ca8\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0cb8\u0cb9\u0cb5\u0cb0\u0ccd\u0ca4\u0ca8\u0cc0\u0caf\u0cb5\u0cbe\u0c97\u0cbf\u0cb5\u0cc6",
+        "\u0cb8\u0cca\u0ca8\u0ccd\u0ca8\u0cc6 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3 \u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0c85\u0ca8\u0ca8\u0ccd\u0caf\u0ca4\u0cbe \u0c85\u0c82\u0cb6\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6"
+      ],
+      "answer": [
+        "\u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0c8e\u0cb0\u0ca1\u0cc1 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3 \u0ca8\u0ca1\u0cc1\u0cb5\u0cc6 \u0c85\u0ca8\u0c82\u0ca4 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cbf\u0cb5\u0cc6",
+        "0 \u0cb0 \u0cb8\u0c82\u0c95\u0cb2\u0ca8\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae\u0cb5\u0cc1 0 \u0c86\u0c97\u0cbf\u0ca6\u0cc6"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_rat_026",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the algebraic properties of rational numbers with their general formulas.",
+      "reasoning": "Matches properties to algebraic representations.",
+      "pairs": [
+        {
+          "left": "Commutativity of Addition",
+          "right": "a + b = b + a"
+        },
+        {
+          "left": "Associativity of Addition",
+          "right": "a + (b + c) = (a + b) + c"
+        },
+        {
+          "left": "Distributive Property",
+          "right": "a * (b + c) = a * b + a * c"
+        },
+        {
+          "left": "Multiplicative Identity",
+          "right": "a * 1 = a"
+        }
+      ]
+    },
+    "kn": {
+      "question": "\u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3 \u0cac\u0cc0\u0c9c\u0c97\u0ca3\u0cbf\u0ca4\u0ca6 \u0c97\u0cc1\u0ca3\u0cb2\u0c95\u0ccd\u0cb7\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0c85\u0cb5\u0cc1\u0c97\u0cb3 \u09b8\u09be\u09a7\u09be\u09b0\u09a3 \u0cb8\u0cc2\u0ca4\u0ccd\u0cb0\u0c97\u0cb3\u0cca\u0c82\u0ca6\u0cbf\u0c97\u0cc6 \u0cb9\u0cca\u0c82\u0ca6\u0cbf\u0cb8\u0cbf.",
+      "reasoning": "\u0c97\u0cc1\u0ca3\u0cb2\u0c95\u0ccd\u0cb7\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0cac\u0cc0\u0c9c\u0c97\u0ca3\u0cbf\u0ca4\u0ca6 \u0caa\u0ccd\u0cb0\u0cbe\u0ca4\u0cbf\u0ca8\u0cbf\u0ca7\u0ccd\u0caf\u0c97\u0cb3\u0cca\u0c82\u0ca6\u0cbf\u0c97\u0cc6 \u0cb9\u0cca\u0c82\u0ca6\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6.",
+      "pairs": [
+        {
+          "left": "\u0cb8\u0c82\u0c95\u0cb2\u0ca8\u0ca6 \u0caa\u0cb0\u0cbf\u0cb5\u0cb0\u0ccd\u0ca4\u0ca8\u0cc0\u0caf \u0c97\u0cc1\u0ca3",
+          "right": "a + b = b + a"
+        },
+        {
+          "left": "\u0cb8\u0c82\u0c95\u0cb2\u0ca8\u0ca6 \u0cb8\u0cb9\u0cb5\u0cb0\u0ccd\u0ca4\u0ca8\u0cc6\u0caf \u0c97\u0cc1\u0ca3",
+          "right": "a + (b + c) = (a + b) + c"
+        },
+        {
+          "left": "\u0cb5\u0cbf\u0cad\u0cbe\u0c9c\u0c95 \u0c97\u0cc1\u0ca3",
+          "right": "a * (b + c) = a * b + a * c"
+        },
+        {
+          "left": "\u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0c85\u0ca8\u0ca8\u0ccd\u0caf\u0ca4\u0cbe \u0c85\u0c82\u0cb6",
+          "right": "a * 1 = a"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c8_math_rat_027",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the operations on rational numbers 2/3 and 1/3 to their correct results.",
+      "reasoning": "Calculates basic operations correctly.",
+      "pairs": [
+        {
+          "left": "2/3 + 1/3",
+          "right": "1"
+        },
+        {
+          "left": "2/3 - 1/3",
+          "right": "1/3"
+        },
+        {
+          "left": "2/3 * 1/3",
+          "right": "2/9"
+        },
+        {
+          "left": "2/3 / 1/3",
+          "right": "2"
+        }
+      ]
+    },
+    "kn": {
+      "question": "\u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cbe\u0ca6 2/3 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 1/3 \u0cb0 \u0cae\u0cc7\u0cb2\u0cbf\u0ca8 \u0c95\u0ccd\u0cb0\u0cbf\u0caf\u0cc6\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0c85\u0cb5\u0cc1\u0c97\u0cb3 \u0cb8\u0cb0\u0cbf\u0caf\u0cbe\u0ca6 \u0cab\u0cb2\u0cbf\u0ca4\u0cbe\u0c82\u0cb6\u0c97\u0cb3\u0cca\u0c82\u0ca6\u0cbf\u0c97\u0cc6 \u0cb9\u0cca\u0c82\u0ca6\u0cbf\u0cb8\u0cbf.",
+      "reasoning": "\u0cae\u0cc2\u0cb2 \u0c95\u0ccd\u0cb0\u0cbf\u0caf\u0cc6\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb8\u0cb0\u0cbf\u0caf\u0cbe\u0c97\u0cbf \u0cb2\u0cc6\u0c95\u0ccd\u0c95\u0cbe\u0c9a\u0cbe\u0cb0 \u0cae\u0cbe\u0ca1\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6.",
+      "pairs": [
+        {
+          "left": "2/3 + 1/3",
+          "right": "1"
+        },
+        {
+          "left": "2/3 - 1/3",
+          "right": "1/3"
+        },
+        {
+          "left": "2/3 * 1/3",
+          "right": "2/9"
+        },
+        {
+          "left": "2/3 / 1/3",
+          "right": "2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c8_math_rat_028",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the rational numbers or numbers to their correct classifications.",
+      "reasoning": "Classification of rational numbers and identities.",
+      "pairs": [
+        {
+          "left": "-5/6",
+          "right": "Negative Rational Number"
+        },
+        {
+          "left": "5/6",
+          "right": "Positive Rational Number"
+        },
+        {
+          "left": "0",
+          "right": "Additive Identity"
+        },
+        {
+          "left": "1",
+          "right": "Multiplicative Identity"
+        }
+      ]
+    },
+    "kn": {
+      "question": "\u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cc1 \u0c85\u0ca5\u0cb5\u0cbe \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0c85\u0cb5\u0cc1\u0c97\u0cb3 \u0cb8\u0cb0\u0cbf\u0caf\u0cbe\u0ca6 \u0cb5\u0cb0\u0ccd\u0c97\u0cc0\u0c95\u0cb0\u0ca3\u0c97\u0cb3\u0cca\u0c82\u0ca6\u0cbf\u0c97\u0cc6 \u0cb9\u0cca\u0c82\u0ca6\u0cbf\u0cb8\u0cbf.",
+      "reasoning": "\u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cc1 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c85\u0ca8\u0ca8\u0ccd\u0caf\u0ca4\u0cc6\u0c97\u0cb3 \u0cb5\u0cb0\u0ccd\u0c97\u0cc0\u0c95\u0cb0\u0ca3.",
+      "pairs": [
+        {
+          "left": "-5/6",
+          "right": "\u0c8b\u0ca3\u0cbe\u0ca4\u0ccd\u0cae\u0c95 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6"
+        },
+        {
+          "left": "5/6",
+          "right": "\u0ca7\u0ca8\u0cbe\u0ca4\u0ccd\u0cae\u0c95 \u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6"
+        },
+        {
+          "left": "0",
+          "right": "\u0cb8\u0c82\u0c95\u0cb2\u0ca8\u0ca6 \u0c85\u0ca8\u0ca8\u0ccd\u0caf\u0ca4\u0cbe \u0c85\u0c82\u0cb6"
+        },
+        {
+          "left": "1",
+          "right": "\u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0c85\u0ca8\u0ca8\u0ccd\u0caf\u0ca4\u0cbe \u0c85\u0c82\u0cb6"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c8_math_rat_029",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the linear equations involving rational numbers with their solutions.",
+      "reasoning": "Resolves equations for x.",
+      "pairs": [
+        {
+          "left": "x + 1/2 = 3/2",
+          "right": "x = 1"
+        },
+        {
+          "left": "x - 1/3 = 2/3",
+          "right": "x = 1"
+        },
+        {
+          "left": "2x = 5/3",
+          "right": "x = 5/6"
+        },
+        {
+          "left": "3x/2 = 1",
+          "right": "x = 2/3"
+        }
+      ]
+    },
+    "kn": {
+      "question": "\u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0c92\u0cb3\u0c97\u0cca\u0c82\u0ca1\u0cbf\u0cb0\u0cc1\u0cb5 \u0cb8\u0cb0\u0cb3 \u0cb8\u0cae\u0cc0\u0c95\u0cb0\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0c85\u0cb5\u0cc1\u0c97\u0cb3 \u0caa\u0cb0\u0cbf\u0cb9\u0cbe\u0cb0\u0c97\u0cb3\u0cca\u0c82\u0ca6\u0cbf\u0c97\u0cc6 \u0cb9\u0cca\u0c82\u0ca6\u0cbf\u0cb8\u0cbf.",
+      "reasoning": "x \u0c97\u0cbe\u0c97\u0cbf \u0cb8\u0cae\u0cc0\u0c95\u0cb0\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0cb0\u0cbf\u0cb9\u0cb0\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6.",
+      "pairs": [
+        {
+          "left": "x + 1/2 = 3/2",
+          "right": "x = 1"
+        },
+        {
+          "left": "x - 1/3 = 2/3",
+          "right": "x = 1"
+        },
+        {
+          "left": "2x = 5/3",
+          "right": "x = 5/6"
+        },
+        {
+          "left": "3x/2 = 1",
+          "right": "x = 2/3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c8_math_rat_030",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the math terms to their correct definitions.",
+      "reasoning": "Matches mathematical definitions to vocabulary terms.",
+      "pairs": [
+        {
+          "left": "Additive Inverse",
+          "right": "Negative of a number"
+        },
+        {
+          "left": "Multiplicative Inverse",
+          "right": "Reciprocal of a number"
+        },
+        {
+          "left": "Rational Number",
+          "right": "p/q form, q not zero"
+        },
+        {
+          "left": "Integer",
+          "right": "Whole numbers and their negatives"
+        }
+      ]
+    },
+    "kn": {
+      "question": "\u0c97\u0ca3\u0cbf\u0ca4\u0ca6 \u0caa\u0ca6\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0c85\u0cb5\u0cc1\u0c97\u0cb3 \u0cb8\u0cb0\u0cbf\u0caf\u0cbe\u0ca6 \u0cb5\u0ccd\u0caf\u0cbe\u0c96\u0ccd\u0caf\u0cbe\u0ca8\u0c97\u0cb3\u0cca\u0c82\u0ca6\u0cbf\u0c97\u0cc6 \u0cb9\u0cca\u0c82\u0ca6\u0cbf\u0cb8\u0cbf.",
+      "reasoning": "\u0c97\u0ca3\u0cbf\u0ca4\u0ca6 \u0cb5\u0ccd\u0caf\u0cbe\u0c96\u0ccd\u0caf\u0cbe\u0ca8\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb6\u0cac\u0ccd\u0ca6\u0c95\u0ccb\u0cb6\u0ca6 \u0caa\u0ca6\u0c97\u0cb3\u0cca\u0c82\u0ca6\u0cbf\u0c97\u0cc6 \u0cb9\u0cca\u0c82\u0ca6\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6.",
+      "pairs": [
+        {
+          "left": "\u0cb8\u0c82\u0c95\u0cb2\u0ca8\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae",
+          "right": "\u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf \u0c8b\u0ca3\u0cbe\u0ca4\u0ccd\u0cae\u0c95 \u0cb0\u0cc2\u0caa"
+        },
+        {
+          "left": "\u0c97\u0cc1\u0ca3\u0cbe\u0c95\u0cbe\u0cb0\u0ca6 \u0cb5\u0cbf\u0cb2\u0ccb\u0cae",
+          "right": "\u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf \u0cb5\u0ccd\u0caf\u0cc1\u0ca4\u0ccd\u0c95\u0ccd\u0cb0\u0cae"
+        },
+        {
+          "left": "\u0cad\u0cbe\u0c97\u0cb2\u0cac\u0ccd\u0ca7 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6",
+          "right": "p/q \u0cb0\u0cc2\u0caa, q \u0cb8\u0cca\u0ca8\u0ccd\u0ca8\u0cc6\u0caf\u0cb2\u0ccd\u0cb2"
+        },
+        {
+          "left": "\u0caa\u0cc2\u0cb0\u0ccd\u0ca3\u0cbe\u0c82\u0c95",
+          "right": "\u0caa\u0cc2\u0cb0\u0ccd\u0ca3 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cc1 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c85\u0cb5\u0cc1\u0c97\u0cb3 \u0c8b\u0ca3\u0cbe\u0ca4\u0ccd\u0cae\u0c95 \u0cb0\u0cc2\u0caa\u0c97\u0cb3\u0cc1"
+        }
+      ]
+    }
+  }
+]

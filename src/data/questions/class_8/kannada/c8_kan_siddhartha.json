@@ -1,0 +1,789 @@
+[
+  {
+    "id": "c8_kan_siddhartha_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who is the main protagonist of the story 'Siddharthana Karunya'?",
+      "options": [
+        "Siddhartha",
+        "Devadatta",
+        "Shuddhodana",
+        "Ananda"
+      ],
+      "answer": "Siddhartha",
+      "reasoning": "Prince Siddhartha, who later became Gautama Buddha, is the central character whose compassion is highlighted in the story."
+    },
+    "kn": {
+      "question": "'ಸಿದ್ಧಾರ್ಥನ ಕಾರುಣ್ಯ' ಕಥೆಯ ಪ್ರಮುಖ ನಾಯಕ ಯಾರು?",
+      "options": [
+        "ಸಿದ್ಧಾರ್ಥ",
+        "ದೇವದತ್ತ",
+        "ಶುದ್ಧೋದನ",
+        "ಆನಂದ"
+      ],
+      "answer": "ಸಿದ್ಧಾರ್ಥ",
+      "reasoning": "ನಂತರದ ದಿನಗಳಲ್ಲಿ ಜಗತ್ಪ್ರಸಿದ್ಧ ಬುದ್ಧನಾದ ರಾಜಕುಮಾರ ಸಿದ್ಧಾರ್ಥನೇ ಈ ಕಥೆಯ ಪ್ರಮುಖ ಪಾತ್ರಧಾರಿಯಾಗಿದ್ದಾನೆ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who shot the innocent swan with an arrow in the palace garden?",
+      "options": [
+        "Devadatta",
+        "Siddhartha",
+        "Shuddhodana",
+        "A hunter"
+      ],
+      "answer": "Devadatta",
+      "reasoning": "Devadatta, Siddhartha's cousin, shot the swan with an arrow for sport."
+    },
+    "kn": {
+      "question": "ಅರಮನೆಯ ಉದ್ಯಾನದಲ್ಲಿದ್ದ ಮುಗ್ಧ ಹಂಸಪಕ್ಷಿಗೆ ಬಾಣ ಹೊಡೆದು ಉರುಳಿಸಿದವನು ಯಾರು?",
+      "options": [
+        "ದೇವದತ್ತ",
+        "ಸಿದ್ಧಾರ್ಥ",
+        "ಶುದ್ಧೋದನ",
+        "ಬೇಟೆಗಾರ"
+      ],
+      "answer": "ದೇವದತ್ತ",
+      "reasoning": "ಸಿದ್ಧಾರ್ಥನ ದಾಯಾದಿ ಸಹೋದರನಾದ ದೇವದತ್ತನು ತನ್ನ ವಿನೋದಕ್ಕಾಗಿ ಹಂಸಕ್ಕೆ ಬಾಣ ಹೂಡಿ ಗಾಯಗೊಳಿಸುತ್ತಾನೆ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which creature did Siddhartha rescue, comfort, and nurse back to health?",
+      "options": [
+        "A swan",
+        "A deer",
+        "A peacock",
+        "A dove"
+      ],
+      "answer": "A swan",
+      "reasoning": "Siddhartha rescued a wounded swan, pulled out the arrow, and gently cleaned its wound."
+    },
+    "kn": {
+      "question": "ಸಿದ್ಧಾರ್ಥನು ಯಾವ ಪ್ರಾಣಿ ಅಥವಾ ಪಕ್ಷಿಯನ್ನು ರಕ್ಷಿಸಿ, ಉಪಚರಿಸಿ ಬದುಕಿಸಿದನು?",
+      "options": [
+        "ಹಂಸಪಕ್ಷಿ",
+        "ಜಿಂಕೆ",
+        "ನವಿಲು",
+        "ಪಾರಿವಾಳ"
+      ],
+      "answer": "ಹಂಸಪಕ್ಷಿ",
+      "reasoning": "ದೇವದತ್ತನ ಬಾಣದಿಂದ ಗಾಯಗೊಂಡು ಬಿದ್ದಿದ್ದ ಹಂಸಪಕ್ಷಿಯನ್ನು ಎತ್ತಿಕೊಂಡು ಆರೈಕೆ ಮಾಡಿ ಸಿದ್ಧಾರ್ಥನು ಪ್ರಾಣ ಉಳಿಸುತ್ತಾನೆ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What relation was Devadatta to Prince Siddhartha?",
+      "options": [
+        "Cousin brother",
+        "Uncle",
+        "Father",
+        "Friend"
+      ],
+      "answer": "Cousin brother",
+      "reasoning": "Devadatta was Siddhartha's cousin brother, being the son of the king's brother."
+    },
+    "kn": {
+      "question": "ದೇವದತ್ತನಿಗೂ ರಾಜಕುಮಾರ ಸಿದ್ಧಾರ್ಥನಿಗೂ ಇದ್ದ ಸಂಬಂಧವೇನು?",
+      "options": [
+        "ದಾಯಾದಿ ಸಹೋದರ (ದೊಡ್ಡಪ್ಪ/ಚಿಕ್ಕಪ್ಪನ ಮಗ)",
+        "ಮಾವ",
+        "ತಂದೆ",
+        "ಸ್ನೇಹಿತ"
+      ],
+      "answer": "ದಾಯಾದಿ ಸಹೋದರ (ದೊಡ್ಡಪ್ಪ/ಚಿಕ್ಕಪ್ಪನ ಮಗ)",
+      "reasoning": "ದೇವದತ್ತನು ಸಿದ್ಧಾರ್ಥನ ಸೋದರಸಂಬಂಧಿಯಾಗಿದ್ದು, ಶುದ್ಧೋದನ ಮಹಾರಾಜನ ಸಹೋದರನ ಮಗನಾಗಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who was Siddhartha's father, the king of the Shakya clan?",
+      "options": [
+        "King Shuddhodana",
+        "King Bimbisara",
+        "King Ashoka",
+        "King Siddhartha"
+      ],
+      "answer": "King Shuddhodana",
+      "reasoning": "King Shuddhodana was Siddhartha's father, who ruled Kapilavastu."
+    },
+    "kn": {
+      "question": "ಶಾಕ್ಯ ವಂಶದ ರಾಜನಾದ ಸಿದ್ಧಾರ್ಥನ ತಂದೆಯ ಹೆಸರೇನು?",
+      "options": [
+        "ಶುದ್ಧೋದನ ಮಹಾರಾಜ",
+        "ಬಿಂಬಿಸಾರ ರಾಜ",
+        "ಅಶೋಕ ಚಕ್ರವರ್ತಿ",
+        "ಸಿದ್ಧಾರ್ಥ ರಾಜ"
+      ],
+      "answer": "ಶುದ್ಧೋದನ ಮಹಾರಾಜ",
+      "reasoning": "ಸಿದ್ಧಾರ್ಥನ ತಂದೆ ಶುದ್ಧೋದನ ಮಹಾರಾಜರಾಗಿದ್ದು, ಅವರು ಕಪಿಲವಸ್ತು ನಗರದ ಅರಸರಾಗಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the name of the capital city/kingdom where these events occurred?",
+      "options": [
+        "Kapilavastu",
+        "Magadha",
+        "Ayodhya",
+        "Pataliputra"
+      ],
+      "answer": "Kapilavastu",
+      "reasoning": "Kapilavastu was the capital of the Shakya kingdom, where Siddhartha spent his childhood."
+    },
+    "kn": {
+      "question": "ಈ ಕಥಾ ಪ್ರಸಂಗ ನಡೆದ ಶಾಕ್ಯರ ಪ್ರಮುಖ ರಾಜಧಾನಿ ನಗರ ಯಾವುದು?",
+      "options": [
+        "ಕಪಿಲವಸ್ತು",
+        "ಮಗಧ",
+        "ಅಯೋಧ್ಯೆ",
+        "ಪಾಟಲಿಪುತ್ರ"
+      ],
+      "answer": "ಕಪಿಲವಸ್ತು",
+      "reasoning": "ಶಾಕ್ಯ ಗಣರಾಜ್ಯದ ರಾಜಧಾನಿಯಾದ ಕಪಿಲವಸ್ತು ನಗರದಲ್ಲಿ ಸಿದ್ಧಾರ್ಥನ ಬಾಲ್ಯದ ಈ ಘಟನೆಗಳು ಜರುಗಿದವು."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_007",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following traits represent Prince Siddhartha's personality as described in the story?",
+      "options": [
+        "Compassion (Karunya)",
+        "Non-violence (Ahimsa)",
+        "Aggressiveness",
+        "Selfishness"
+      ],
+      "answer": [
+        "Compassion (Karunya)",
+        "Non-violence (Ahimsa)"
+      ],
+      "reasoning": "Siddhartha demonstrated deep compassion (Karunya) and non-violence (Ahimsa) by protecting and healing the swan."
+    },
+    "kn": {
+      "question": "ಕಥೆಯಲ್ಲಿ ವರ್ಣಿಸಲಾದ ರಾಜಕುಮಾರ ಸಿದ್ಧಾರ್ಥನ ವ್ಯಕ್ತಿತ್ವದ ಲಕ್ಷಣಗಳು ಯಾವುವು?",
+      "options": [
+        "ಕರುಣೆ (ಕಾರುಣ್ಯ)",
+        "ಅಹಿಂಸೆ",
+        "ಆಕ್ರಮಣಕಾರಿ ಪ್ರವೃತ್ತಿ",
+        "ಸ್ವಾರ್ಥತೆ"
+      ],
+      "answer": [
+        "ಕರುಣೆ (ಕಾರುಣ್ಯ)",
+        "ಅಹಿಂಸೆ"
+      ],
+      "reasoning": "ಸಿದ್ಧಾರ್ಥನು ಗಾಯಗೊಂಡ ಹಕ್ಕಿಯನ್ನು ರಕ್ಷಿಸುವ ಮೂಲಕ ಜೀವಿಗಳ ಮೇಲಿನ ಕರುಣೆ ಮತ್ತು ಅಹಿಂಸಾ ಪ್ರವೃತ್ತಿಯನ್ನು ತೋರ್ಪಡಿಸುತ್ತಾನೆ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_008",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the characters of the story with their primary descriptions/actions:",
+      "pairs": [
+        {
+          "left": "Siddhartha",
+          "right": "Rescued and nursed the swan"
+        },
+        {
+          "left": "Devadatta",
+          "right": "Shot the swan with an arrow"
+        },
+        {
+          "left": "Shuddhodana",
+          "right": "Heard the case in his royal court"
+        },
+        {
+          "left": "Yashodhara",
+          "right": "Siddhartha's wife (introduced later)"
+        }
+      ],
+      "reasoning": "Siddhartha saved the swan, Devadatta shot it, and Shuddhodana judged the case."
+    },
+    "kn": {
+      "question": "ಕಥೆಯ ಪಾತ್ರಗಳನ್ನು ಅವುಗಳ ಮುಖ್ಯ ವಿವರಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ಸಿದ್ಧಾರ್ಥ",
+          "right": "ಹಂಸವನ್ನು ರಕ್ಷಿಸಿ ಆರೈಕೆ ಮಾಡಿದವನು"
+        },
+        {
+          "left": "ದೇವದತ್ತ",
+          "right": "ಹಕ್ಕಿಗೆ ಬಾಣ ಬಿಟ್ಟು ಗಾಯಗೊಳಿಸಿದವನು"
+        },
+        {
+          "left": "ಶುದ್ಧೋದನ",
+          "right": "ರಾಜಸಭೆಯಲ್ಲಿ ನ್ಯಾಯ ವಿಚಾರಣೆ ನಡೆಸಿದವನು"
+        },
+        {
+          "left": "ಯಶೋಧರೆ",
+          "right": "ಸಿದ್ಧಾರ್ಥನ ಪತ್ನಿ"
+        }
+      ],
+      "reasoning": "ಸಿದ್ಧಾರ್ಥ ಹಂಸವನ್ನು ರಕ್ಷಿಸಿದರೆ, ದೇವದತ್ತ ಬಾಣ ಹೊಡೆದನು ಮತ್ತು ಶುದ್ಧೋದನ ನ್ಯಾಯಾಧೀಶರಾಗಿ ಪ್ರಕರಣವನ್ನು ಆಲಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What argument did Devadatta put forward in the court to claim ownership of the swan?",
+      "options": [
+        "He shot it down and made it fall, so it belongs to him",
+        "He bought the swan from a merchant",
+        "The swan was found in his own garden",
+        "The swan was a gift from his father"
+      ],
+      "answer": "He shot it down and made it fall, so it belongs to him",
+      "reasoning": "Devadatta claimed ownership based on the logic of hunting: since he hit the prey, it was his property."
+    },
+    "kn": {
+      "question": "ಹಕ್ಕಿಯ ಮೇಲಿನ ಹಕ್ಕನ್ನು ಸಾಧಿಸಲು ದೇವದತ್ತನು ರಾಜಸಭೆಯಲ್ಲಿ ಮಂಡಿಸಿದ ವಾದವೇನು?",
+      "options": [
+        "ನನ್ನ ಬಾಣದಿಂದ ಹಕ್ಕಿ ಕೆಳಗೆ ಬಿದ್ದಿದ್ದರಿಂದ ಅದು ನನಗೆ ಸೇರಬೇಕು",
+        "ನಾನು ಆ ಹಕ್ಕಿಯನ್ನು ವ್ಯಾಪಾರಿಯಿಂದ ಖರೀದಿಸಿದ್ದೇನೆ",
+        "ಆ ಹಕ್ಕಿ ನನ್ನ ಸ್ವಂತ ತೋಟದಲ್ಲಿ ಸಿಕ್ಕಿತು",
+        "ಆ ಹಕ್ಕಿ ನನ್ನ ತಂದೆ ನನಗೆ ನೀಡಿದ ಉಡುಗೊರೆಯಾಗಿದೆ"
+      ],
+      "answer": "ನನ್ನ ಬಾಣದಿಂದ ಹಕ್ಕಿ ಕೆಳಗೆ ಬಿದ್ದಿದ್ದರಿಂದ ಅದು ನನಗೆ ಸೇರಬೇಕು",
+      "reasoning": "ದೇವದತ್ತನು ಬೇಟೆಯ ನಿಯಮದಂತೆ ತಾನು ಹಕ್ಕಿಯನ್ನು ಕೊಂದವನಾದ್ದರಿಂದ ಅದರ ಮೇಲೆ ತನಗೇ ಸಂಪೂರ್ಣ ಹಕ್ಕಿದೆ ಎಂದು ವಾದಿಸಿದನು."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What counter-argument did Siddhartha present to defend the swan?",
+      "options": [
+        "He saved the swan's life, and a savior has more right over life than a killer",
+        "He was the crown prince, so everything belonged to him",
+        "The swan was born in his room",
+        "The swan chose him by talking to him"
+      ],
+      "answer": "He saved the swan's life, and a savior has more right over life than a killer",
+      "reasoning": "Siddhartha argued that he saved the swan from death, and the protector has a supreme claim over life."
+    },
+    "kn": {
+      "question": "ದೇವದತ್ತನ ವಾದವನ್ನು ವಿರೋಧಿಸಿ ಸಿದ್ಧಾರ್ಥನು ಯಾವ ಉದಾತ್ತ ವಾದವನ್ನು ಮಂಡಿಸಿದನು?",
+      "options": [
+        "ನಾನು ಅದರ ಪ್ರಾಣವನ್ನು ರಕ್ಷಿಸಿದ್ದರಿಂದ, ಕೊಲ್ಲುವವನಿಗಿಂತ ಕಾಪಾಡುವವನಿಗೆ ಹೆಚ್ಚಿನ ಹಕ್ಕಿದೆ",
+        "ನಾನು ಯುವರಾಜನಾದ್ದರಿಂದ ದೇಶದಲ್ಲಿರುವ ಎಲ್ಲವೂ ನನಗೆ ಸೇರಬೇಕು",
+        "ಹಂಸವು ನನ್ನ ಕೋಣೆಯಲ್ಲಿ ಜನಿಸಿತು",
+        "ಹಕ್ಕಿಯು ನನ್ನೊಂದಿಗೆ ಮಾತನಾಡಿ ನನ್ನನ್ನೇ ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡಿತು"
+      ],
+      "answer": "ನಾನು ಅದರ ಪ್ರಾಣವನ್ನು ರಕ್ಷಿಸಿದ್ದರಿಂದ, ಕೊಲ್ಲುವವನಿಗಿಂತ ಕಾಪಾಡುವವನಿಗೆ ಹೆಚ್ಚಿನ ಹಕ್ಕಿದೆ",
+      "reasoning": "ಸಿದ್ಧಾರ್ಥನು ಹಕ್ಕಿಗೆ ಆಶ್ರಯ ಮತ್ತು ಹೊಸ ಜನ್ಮ ಕೊಟ್ಟವನು ತಾನೇ ಆಗಿರುವುದರಿಂದ, ರಕ್ಷಕನಿಗೇ ಮೊದಲ ಅಧಿಕಾರ ಎಂದು ವಾದಿಸಿದನು."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the Sanskrit Sandhi in the name 'Siddhartha' (Siddha + Artha)?",
+      "options": [
+        "Savarnadirgha Sandhi",
+        "Guna Sandhi",
+        "Vridhi Sandhi",
+        "Yan Sandhi"
+      ],
+      "answer": "Savarnadirgha Sandhi",
+      "reasoning": "Siddha (ends in 'a') + Artha (starts with 'a') forms 'Siddhartha' (long 'aa'). This is Savarnadirgha Sandhi."
+    },
+    "kn": {
+      "question": "'ಸಿದ್ಧಾರ್ಥ' (ಸಿದ್ಧ + ಅರ್ಥ) ಎಂಬ ಪದದಲ್ಲಿರುವ ಸಂಸ್ಕೃತ ಸಂಧಿ ಯಾವುದು?",
+      "options": [
+        "ಸವರ್ಣದೀರ್ಘ ಸಂಧಿ",
+        "ಗುಣ ಸಂಧಿ",
+        "ವೃದ್ಧಿ ಸಂಧಿ",
+        "ಯಣ್ ಸಂಧಿ"
+      ],
+      "answer": "ಸವರ್ಣದೀರ್ಘ ಸಂಧಿ",
+      "reasoning": "ಸಿದ್ಧ (ಅ) + ಅರ್ಥ (ಅ) ಸೇರಿದಾಗ ಸವರ್ಣಸ್ವರಗಳು ಒಂದರ ಮುಂದೊಂದು ಬಂದು ದೀರ್ಘಸ್ವರವಾದ 'ಆ' ಕಾರವು ಆದೇಶವಾಗಿ ಬಂದಿರುವುದರಿಂದ ಇದು ಸವರ್ಣದೀರ್ಘ ಸಂಧಿಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the meaning of the Kannada word 'ಕಾರುಣ್ಯ' (Karunya)?",
+      "options": [
+        "Compassion/Kindness",
+        "Jealousy",
+        "Pride/Arrogance",
+        "Anger/Aggression"
+      ],
+      "answer": "Compassion/Kindness",
+      "reasoning": "'Karunya' is a Sanskrit origin word used in Kannada, translating directly to mercy, empathy, or deep compassion."
+    },
+    "kn": {
+      "question": "'ಕಾರುಣ್ಯ' ಎಂಬ ತತ್ಸಮ ಪದದ ಕನ್ನಡ ಭಾಷೆಯ ಸರಿಯಾದ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಕರುಣೆ/ದಯೆ",
+        "ಅಸೂಯೆ/ಹೊಟ್ಟೆಕಿಚ್ಚು",
+        "ಅಹಂಕಾರ/ಗರ್ವ",
+        "ಕೋಪ/ಆಕ್ರೋಶ"
+      ],
+      "answer": "ಕರುಣೆ/ದಯೆ",
+      "reasoning": "'ಕಾರುಣ್ಯ' ಎಂದರೆ ಜೀವಿಗಳ ಮೇಲಿನ ಅಪಾರ ಕರುಣೆ, ದಯೆ ಅಥವಾ ಅನುಕಂಪ ಎಂದರ್ಥ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What was the final verdict announced by the court regarding the dispute of the swan?",
+      "options": [
+        "The swan belongs to Siddhartha because he saved its life",
+        "The swan belongs to Devadatta as he hunted it",
+        "The swan should be released into the wild immediately",
+        "The swan belongs to King Shuddhodana"
+      ],
+      "answer": "The swan belongs to Siddhartha because he saved its life",
+      "reasoning": "The court declared that life belongs to the protector who nurtured it, not the hunter who tried to destroy it."
+    },
+    "kn": {
+      "question": "ಹಂಸ ಪಕ್ಷಿಯ ವಿವಾದದ ಕೊನೆಯಲ್ಲಿ ನ್ಯಾಯಾಸ್ಥಾನವು ನೀಡಿದ ತೀರ್ಪು ಏನಾಗಿತ್ತು?",
+      "options": [
+        "ಪ್ರಾಣ ಉಳಿಸಿದ ಸಿದ್ಧಾರ್ಥನಿಗೆ ಹಕ್ಕಿ ಸೇರಬೇಕು",
+        "ಬೇಟೆಯಾಡಿದ ದೇವದತ್ತನಿಗೆ ಹಕ್ಕಿ ಸೇರಬೇಕು",
+        "ಹಕ್ಕಿಯನ್ನು ಕೂಡಲೇ ಕಾಡಿಗೆ ಬಿಡಬೇಕು",
+        "ಹಕ್ಕಿಯು ಶುದ್ಧೋದನ ಮಹಾರಾಜನಿಗೆ ಸೇರಬೇಕು"
+      ],
+      "answer": "ಪ್ರಾಣ ಉಳಿಸಿದ ಸಿದ್ಧಾರ್ಥನಿಗೆ ಹಕ್ಕಿ ಸೇರಬೇಕು",
+      "reasoning": "ನ್ಯಾಯಾಧೀಶರು ಜೀವಿಗಳು ಬದುಕಲು ಇಚ್ಛಿಸುತ್ತವೆ, ಹಾಗಾಗಿ ಜೀವ ರಕ್ಷಿಸಿದ ಸಿದ್ಧಾರ್ಥನಿಗೆ ಹಕ್ಕಿ ಸಲ್ಲಬೇಕು ಎಂದು ನ್ಯಾಯೋಚಿತ ತೀರ್ಪು ಕೊಟ್ಟರು."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What moral principle is established through this chapter?",
+      "options": [
+        "The savior is greater than the killer",
+        "Might is right",
+        "Hunting is a great sport",
+        "Kingdom affairs are more important than small animals"
+      ],
+      "answer": "The savior is greater than the killer",
+      "reasoning": "The moral of the story is 'Kolluvavaniginta kayuvavane migilu' (The savior is superior to the destroyer)."
+    },
+    "kn": {
+      "question": "ಈ ಪಾಠದ ಮೂಲಕ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಕಲಿಸುವ ಮುಖ್ಯ ನೈತಿಕ ತತ್ವ ಯಾವುದು?",
+      "options": [
+        "ಕೊಲ್ಲುವವನಿಗಿಂತ ಕಾಯುವವನೇ ಮಿಗಿಲು (ರಕ್ಷಕನೇ ಶ್ರೇಷ್ಠ)",
+        "ಬಲಿಷ್ಠನೇ ಸದಾ ಸರಿ",
+        "ಬೇಟೆಯಾಡುವುದು ಅತ್ಯುತ್ತಮ ಕ್ರೀಡೆಯಾಗಿದೆ",
+        "ಪ್ರಾಣಿಗಳಿಗಿಂತ ಸಾಮ್ರಾಜ್ಯದ ವಿಷಯಗಳೇ ಮುಖ್ಯ"
+      ],
+      "answer": "ಕೊಲ್ಲುವವನಿಗಿಂತ ಕಾಯುವವನೇ ಮಿಗಿಲು (ರಕ್ಷಕನೇ ಶ್ರೇಷ್ಠ)",
+      "reasoning": "'ಕೊಲ್ಲುವವನಿಗಿಂತ ಕಾಯುವವನೇ ಮಿಗಿಲು' ಎಂಬುದು ಈ ಘಟನೆಯ ಪ್ರಮುಖ ನೈತಿಕ ಸಂದೇಶವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_015",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Identify which of the following words are synonyms of 'ಹಂಸ' (Swan) in classical Kannada vocabulary.",
+      "options": [
+        "ಮರಾಳ",
+        "ರಾಜಹಂಸ",
+        "ವಾರಣ",
+        "ಖಗ"
+      ],
+      "answer": [
+        "ಮರಾಳ",
+        "ರಾಜಹಂಸ"
+      ],
+      "reasoning": "'Marala' and 'Rajahamsa' are synonyms of the swan. 'Varana' means elephant and 'Khaga' is a generic term for any bird."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಹಂಸ' ಎಂಬ ಪಕ್ಷಿಗೆ ಬಳಸುವ ಪರ್ಯಾಯ ಪದಗಳನ್ನು (ಸಮಾನಾರ್ಥಕ) ಗುರುತಿಸಿ.",
+      "options": [
+        "ಮರಾಳ",
+        "ರಾಜಹಂಸ",
+        "ವಾರಣ",
+        "ಖಗ"
+      ],
+      "answer": [
+        "ಮರಾಳ",
+        "ರಾಜಹಂಸ"
+      ],
+      "reasoning": "'ಮರಾಳ' ಮತ್ತು 'ರಾಜಹಂಸ' ಪದಗಳು ಹಂಸ ಪಕ್ಷಿಯನ್ನು ಸೂಚಿಸುತ್ತವೆ. 'ವಾರಣ' ಎಂದರೆ ಆನೆ, 'ಖಗ' ಎಂದರೆ ಸಾಧಾರಣವಾಗಿ ಹಕ್ಕಿ ಎಂದರ್ಥ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_016",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of these characters are primary disputants present in Shuddhodana's assembly during this trial?",
+      "options": [
+        "Prince Siddhartha",
+        "Devadatta",
+        "Gautama Buddha",
+        "Yashodhara"
+      ],
+      "answer": [
+        "Prince Siddhartha",
+        "Devadatta"
+      ],
+      "reasoning": "Siddhartha and Devadatta are the two parties presenting their claims to the king. Gautama Buddha is Siddhartha's future self, and Yashodhara is not part of this dispute."
+    },
+    "kn": {
+      "question": "ಶುದ್ಧೋದನನ ನ್ಯಾಯಾಲಯದಲ್ಲಿ ಹಂಸಕ್ಕಾಗಿ ವಾದ-ವಿವಾದ ನಡೆಸಿದ ಇಬ್ಬರು ಮುಖ್ಯ ವ್ಯಕ್ತಿಗಳು ಯಾರು?",
+      "options": [
+        "ರಾಜಕುಮಾರ ಸಿದ್ಧಾರ್ಥ",
+        "ದೇವದತ್ತ",
+        "ಗೌತಮ ಬುದ್ಧ",
+        "ಯಶೋಧರೆ"
+      ],
+      "answer": [
+        "ರಾಜಕುಮಾರ ಸಿದ್ಧಾರ್ಥ",
+        "ದೇವದತ್ತ"
+      ],
+      "reasoning": "ಸಿದ್ಧಾರ್ಥ ಮತ್ತು ದೇವದತ್ತ ಇಬ್ಬರೂ ಹಕ್ಕಿಗಾಗಿ ನ್ಯಾಯಸಭೆಯಲ್ಲಿ ವಾದ ಮಂಡಿಸಿದ ಪ್ರಮುಖ ಪಾತ್ರಗಳಾಗಿದ್ದಾರೆ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_017",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the words from the text with their appropriate English translations:",
+      "pairs": [
+        {
+          "left": "ಕಾರುಣ್ಯ",
+          "right": "Compassion"
+        },
+        {
+          "left": "ಆಕ್ರೋಶ",
+          "right": "Outrage/Anger"
+        },
+        {
+          "left": "ನ್ಯಾಯಸಭೆ",
+          "right": "Royal Court"
+        },
+        {
+          "left": "ಆಶ್ರಯ",
+          "right": "Shelter/Protection"
+        }
+      ],
+      "reasoning": "These are key vocabulary terms matching their standard English equivalents."
+    },
+    "kn": {
+      "question": "ಪಾಠದಲ್ಲಿ ಬಂದಿರುವ ಪದಗಳನ್ನು ಅವುಗಳ ಸೂಕ್ತ ಅರ್ಥದೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ಕಾರುಣ್ಯ",
+          "right": "ಕರುಣೆ"
+        },
+        {
+          "left": "ಆಕ್ರೋಶ",
+          "right": "ಸಿಟ್ಟು/ಕೋಪ"
+        },
+        {
+          "left": "ನ್ಯಾಯಸಭೆ",
+          "right": "ರಾಜಸಭೆ/ನ್ಯಾಯಾಲಯ"
+        },
+        {
+          "left": "ಆಶ್ರಯ",
+          "right": "ರಕ್ಷಣೆ/ನೆರಳು"
+        }
+      ],
+      "reasoning": "ಇವು ಕಥೆಯಲ್ಲಿ ಪಾತ್ರಗಳ ಭಾವನೆ ಮತ್ತು ಸಂದರ್ಭಗಳನ್ನು ಸೂಚಿಸಲು ಬಳಸಿದ ಪದಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_018",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "In the sentence 'ಹಕ್ಕಿಯನ್ನು ರಕ್ಷಿಸಿದ ಸಿದ್ಧಾರ್ಥನಿಗೆ ಹಕ್ಕಿ ಸೇರಬೇಕು', what grammatical category does the word 'ರಕ್ಷಿಸಿದ' fall under?",
+      "options": [
+        "Krudanta Visheshana",
+        "Krudanta Avyaya",
+        "Taddhitanta",
+        "Nipatha"
+      ],
+      "answer": "Krudanta Visheshana",
+      "reasoning": "'Rakshisida' is an adjective derived from a verb root (Krudanta), qualifying the noun 'Siddharthanige'. Therefore, it is a Krudanta Visheshana."
+    },
+    "kn": {
+      "question": "'ಹಕ್ಕಿಯನ್ನು ರಕ್ಷಿಸಿದ ಸಿದ್ಧಾರ್ಥನಿಗೆ ಹಕ್ಕಿ ಸೇರಬೇಕು' ಎಂಬ ವಾಕ್ಯದಲ್ಲಿ 'ರಕ್ಷಿಸಿದ' ಎಂಬ ಪದವು ವ್ಯಾಕರಣದ ಯಾವ ರೂಪವಾಗಿದೆ?",
+      "options": [
+        "ಕೃದಂತ ವಿಶೇಷಣ",
+        "ಕೃದಂತ ಅವ್ಯಯ",
+        "ತದ್ಧಿತಾಂತ",
+        "ನಿಪಾತ"
+      ],
+      "answer": "ಕೃದಂತ ವಿಶೇಷಣ",
+      "reasoning": "'ರಕ್ಷಿಸು' ಎಂಬ ಧಾತುವಿಗೆ 'ಇದ' ಪ್ರತ್ಯಯ ಸೇರಿ 'ರಕ್ಷಿಸಿದ' ಎಂಬ ಗುಣವಾಚಕ ರೂಪವಾಗಿ ಸಿದ್ಧಾರ್ಥನನ್ನು ವಿಶೇಷಿಸುವುದರಿಂದ ಇದು ಕೃದಂತ ವಿಶೇಷಣವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_019",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What type of noun is the proper name 'Kapilavastu'?",
+      "options": [
+        "Ankithanama",
+        "Rudhanama",
+        "Anvarthanama",
+        "Bhavanama"
+      ],
+      "answer": "Ankithanama",
+      "reasoning": "'Kapilavastu' is a specific name of a city, which categorizes it as a proper noun or Ankithanama in Kannada."
+    },
+    "kn": {
+      "question": "'ಕಪಿಲವಸ್ತು' ಎಂಬ ಪಟ್ಟಣದ ಹೆಸರು ವ್ಯಾಕರಣದಲ್ಲಿ ಯಾವ ನಾಮಪದಕ್ಕೆ ಉದಾಹರಣೆಯಾಗಿದೆ?",
+      "options": [
+        "ಅಂಕಿತನಾಮ",
+        "ರೂಢನಾಮ",
+        "ಅನ್ವರ್ಥನಾಮ",
+        "ಭಾವನಾಮ"
+      ],
+      "answer": "ಅಂಕಿತನಾಮ",
+      "reasoning": "ವ್ಯಕ್ತಿ, ಸ್ಥಳ ಅಥವಾ ವಸ್ತುವಿಗೆ ಗುರುತಿಸಲು ಇಟ್ಟಿರುವ ನಿರ್ದಿಷ್ಟ ಹೆಸರನ್ನು ಅಂಕಿತನಾಮ ಎನ್ನುತ್ತಾರೆ. ಕಪಿಲವಸ್ತು ಒಂದು ನಿರ್ದಿಷ್ಟ ಸ್ಥಳದ ಹೆಸರಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_020",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "In the compound word 'ಶರವೇಗ' (Shara vega - speed of arrow), what type of Samasa is applied?",
+      "options": [
+        "Tatpurusha Samasa",
+        "Karmadharaya Samasa",
+        "Dwigu Samasa",
+        "Dvandva Samasa"
+      ],
+      "answer": "Tatpurusha Samasa",
+      "reasoning": "'Sharada + vega = Sharavega' (speed of the arrow) has the genitive case in the first word, making it a Tatpurusha Samasa where the final word is prominent."
+    },
+    "kn": {
+      "question": "'ಶರವೇಗ' (ಶರದ + ವೇಗ) ಎಂಬ ಜಂಟಿ ಪದವು ವ್ಯಾಕರಣದ ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆಯಾಗಿದೆ?",
+      "options": [
+        "ತತ್ಪುರುಷ ಸಮಾಸ",
+        "ಕರ್ಮಧಾರಯ ಸಮಾಸ",
+        "ದ್ವಿಗು ಸಮಾಸ",
+        "ದ್ವಂದ್ವ ಸಮಾಸ"
+      ],
+      "answer": "ತತ್ಪುರುಷ ಸಮಾಸ",
+      "reasoning": "ಪೂರ್ವಪದವು ಷಷ್ಠೀ ವಿಭಕ್ತಿಯಲ್ಲಿದ್ದು (ಶರದ - ಬಾಣದ), ಉತ್ತರಪದದ ಅರ್ಥ ಪ್ರಧಾನವಾಗಿರುವ ಸಮಾಸವೇ ತತ್ಪುರುಷ ಸಮಾಸವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_021",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the figure of speech (Alankara) if a writer compares the pure white wings of the swan to fresh autumn clouds using comparison words like 'ante'?",
+      "options": [
+        "Upamalankara",
+        "Rupakalankara",
+        "Utprekshanalankara",
+        "Drishtantalankara"
+      ],
+      "answer": "Upamalankara",
+      "reasoning": "When a direct comparison is made between two objects (wings and clouds) using 'ante' (like), it is Upamalankara (Simile)."
+    },
+    "kn": {
+      "question": "ಹಂಸದ ಬೆಳ್ಳನೆಯ ರೆಕ್ಕೆಗಳನ್ನು 'ಶರತ್ಕಾಲದ ಬಿಳಿ ಮೋಡದಂತೆ' ಹೋಲಿಸಿ ಬರೆಯುವ ಅಲಂಕಾರ ಯಾವುದು?",
+      "options": [
+        "ಉಪಮಾಲಂಕಾರ",
+        "ರೂಪಕಾಲಂಕಾರ",
+        "ಉತ್ಪ್ರೇಕ್ಷಾಲಂಕಾರ",
+        "ದೃಷ್ಟಾಂತಾಲಂಕಾರ"
+      ],
+      "answer": "ಉಪಮಾಲಂಕಾರ",
+      "reasoning": "ಉಪಮೇಯವನ್ನು ಉಪಮಾನಕ್ಕೆ ಹೋಲಿಸಿ ನಡುವೆ 'ಅಂತೆ' ಎಂಬ ಹೋಲಿಕೆಯ ಪದವನ್ನು ಬಳಸುವುದನ್ನು ಉಪಮಾಲಂಕಾರ ಎನ್ನಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_022",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Identify the Kannada sandhi in the word 'ಕೊಲ್ಲುವವನಿಗಿಂತ' (Kolluvavanige + inta).",
+      "options": [
+        "Lopa Sandhi",
+        "Agama Sandhi",
+        "Adesha Sandhi",
+        "Jashthva Sandhi"
+      ],
+      "answer": "Lopa Sandhi",
+      "reasoning": "Kolluvavanige (ends in 'e') + inta (starts with 'i') = Kolluvavaniginta. The vowel 'e' is dropped, which is Lopa Sandhi."
+    },
+    "kn": {
+      "question": "'ಕೊಲ್ಲುವವನಿಗಿಂತ' (ಕೊಲ್ಲುವವನಿಗೆ + ಇಂತ) ಎಂಬ ಪದದ ಸಂಧಿ ಕಾರ್ಯದಲ್ಲಿ ಯಾವ ಸಂಧಿ ಕಂಡುಬರುತ್ತದೆ?",
+      "options": [
+        "ಲೋಪ ಸಂಧಿ",
+        "ಆಗಮ ಸಂಧಿ",
+        "ಆದೇಶ ಸಂಧಿ",
+        "ಜಶ್ತ್ವ ಸಂಧಿ"
+      ],
+      "answer": "ಲೋಪ ಸಂಧಿ",
+      "reasoning": "ಪೂರ್ವಪದದ ಕೊನೆಯ ಸ್ವರವಾದ 'ಗೆ' ಯಲ್ಲಿನ 'ಎ' ಕಾರವು ಸಂಧಿ ಕಾರ್ಯ ನಡೆಯುವಾಗ ಅರ್ಥ ಕೆಡದಂತೆ ಇಲ್ಲವಾಗುವುದರಿಂದ ಇದು ಲೋಪ ಸಂಧಿಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_023",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following words from the lesson are categorized as 'Tatsama' (words derived directly from Sanskrit without phonological changes)?",
+      "options": [
+        "ಕಾರುಣ್ಯ",
+        "ಪ್ರಾಣಿ",
+        "ಹಕ್ಕಿ",
+        "ಬಿಲ್ಲು"
+      ],
+      "answer": [
+        "ಕಾರುಣ್ಯ",
+        "ಪ್ರಾಣಿ"
+      ],
+      "reasoning": "'Karunya' and 'Prani' are Sanskrit loanwords (Tatsama) in Kannada. 'Hakki' (bird) and 'Billu' (bow) are native Kannada words (Deshya)."
+    },
+    "kn": {
+      "question": "ಪಾಠದಲ್ಲಿ ಕಂಡುಬರುವ ಯಾವ ಪದಗಳು 'ತತ್ಸಮ' (ಸಂಸ್ಕೃತ ಭಾಷೆಯಿಂದ ಯಥಾವತ್ತಾಗಿ ಕನ್ನಡಕ್ಕೆ ಬಂದ ಪದಗಳು) ಗುಂಪಿಗೆ ಸೇರುತ್ತವೆ?",
+      "options": [
+        "ಕಾರುಣ್ಯ",
+        "ಪ್ರಾಣಿ",
+        "ಹಕ್ಕಿ",
+        "ಬಿಲ್ಲು"
+      ],
+      "answer": [
+        "ಕಾರುಣ್ಯ",
+        "ಪ್ರಾಣಿ"
+      ],
+      "reasoning": "'ಕಾರುಣ್ಯ' ಮತ್ತು 'ಪ್ರಾಣಿ' ಸಂಸ್ಕೃತ ಪದಗಳಾಗಿದ್ದು ಕನ್ನಡದಲ್ಲೂ ಬಳಸಲಾಗುತ್ತದೆ. 'ಹಕ್ಕಿ' ಮತ್ತು 'ಬಿಲ್ಲು' ದೇಶ್ಯ (ಕನ್ನಡದ ಸ್ವಂತ) ಪದಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the following words from the text with their antonyms (Viruddha Padagalu):",
+      "pairs": [
+        {
+          "left": "ಅಹಿಂಸೆ",
+          "right": "ಹಿಂಸೆ"
+        },
+        {
+          "left": "ಕಾರುಣ್ಯ",
+          "right": "ಕ್ರೌರ್ಯ"
+        },
+        {
+          "left": "ರಕ್ಷಕ",
+          "right": "ಭಕ್ಷಕ"
+        },
+        {
+          "left": "ನ್ಯಾಯ",
+          "right": "ಅನ್ಯಾಯ"
+        }
+      ],
+      "reasoning": "Ahimsa (non-violence) opposes Himsa (violence), Karunya (compassion) opposes Kaurya (cruelty), Rakshaka (protector) opposes Bhakshaka (destroyer), and Nyaya opposes Anyaya."
+    },
+    "kn": {
+      "question": "ಈ ಪಾಠದಲ್ಲಿ ಬಳಕೆಯಾಗಿರುವ ಪದಗಳನ್ನು ಅವುಗಳ ವಿರುದ್ಧಾರ್ಥಕ ಪದಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ಅಹಿಂಸೆ",
+          "right": "ಹಿಂಸೆ"
+        },
+        {
+          "left": "ಕಾರುಣ್ಯ",
+          "right": "ಕ್ರೌರ್ಯ"
+        },
+        {
+          "left": "ರಕ್ಷಕ",
+          "right": "ಭಕ್ಷಕ"
+        },
+        {
+          "left": "ನ್ಯಾಯ",
+          "right": "ಅನ್ಯಾಯ"
+        }
+      ],
+      "reasoning": "ಅಹಿಂಸೆ ವಿರುದ್ಧ ಹಿಂಸೆ, ಕಾರುಣ್ಯ ವಿರುದ್ಧ ಕ್ರೌರ್ಯ, ರಕ್ಷಕನಿಗೆ ವಿರುದ್ಧವಾಗಿ ಭಕ್ಷಕ ಹಾಗೂ ನ್ಯಾಯ ಪದಕ್ಕೆ ವಿರುದ್ಧ ಪದ ಅನ್ಯಾಯ."
+    }
+  },
+  {
+    "id": "c8_kan_siddhartha_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the following grammatical elements from the chapter with their correct syntax labels:",
+      "pairs": [
+        {
+          "left": "ಸಿದ್ಧಾರ್ಥ",
+          "right": "ಅಂಕಿತನಾಮ (Proper Noun)"
+        },
+        {
+          "left": "ಕರುಣೆ",
+          "right": "ಭಾವನಾಮ (Abstract Noun)"
+        },
+        {
+          "left": "ಅವನು",
+          "right": "ಸರ್ವನಾಮ (Pronoun)"
+        },
+        {
+          "left": "ಬಿಳಿಯ",
+          "right": "ಗುಣವಾಚಕ (Adjective)"
+        }
+      ],
+      "reasoning": "Siddhartha is a proper noun, Karune represents a quality/feeling (abstract noun), Avanu is a pronoun, and Biliya indicates quality/color (adjective)."
+    },
+    "kn": {
+      "question": "ಪಾಠದಲ್ಲಿರುವ ಪದಗಳನ್ನು ಅವುಗಳ ವ್ಯಾಕರಣದ ಪರಿಭಾಷೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ಸಿದ್ಧಾರ್ಥ",
+          "right": "ಅಂಕಿತನಾಮ"
+        },
+        {
+          "left": "ಕರುಣೆ",
+          "right": "ಭಾವನಾಮ"
+        },
+        {
+          "left": "ಅವನು",
+          "right": "ಸರ್ವನಾಮ"
+        },
+        {
+          "left": "ಬಿಳಿಯ",
+          "right": "ಗುಣವಾಚಕ"
+        }
+      ],
+      "reasoning": "ಸಿದ್ಧಾರ್ಥ ವ್ಯಕ್ತಿಯ ಹೆಸರು, ಕರುಣೆ ಒಂದು ಭಾವನೆ, ಅವನು ನಾಮಪದಕ್ಕೆ ಬದಲಾಗಿ ಬಳಸುವ ಪದ ಮತ್ತು ಬಿಳಿಯ ಎಂಬುದು ಹಂಸದ ಬಣ್ಣವನ್ನು ಬಿಂಬಿಸುವ ವಿಶೇಷಣ."
+    }
+  }
+]

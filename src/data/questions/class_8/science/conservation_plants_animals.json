@@ -1,0 +1,716 @@
+[
+  {
+    "id": "c8_sci_cons_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following terms refers to the clearing of forests and using that land for other purposes?",
+      "options": ["Reforestation", "Deforestation", "Afforestation", "Desertification"],
+      "answer": "Deforestation",
+      "reasoning": "Deforestation is the permanent clearing or removal of forests and trees, usually to make the land available for agriculture, industrial development, or urban expansion."
+    },
+    "kn": {
+      "question": "ಕಾಡುಗಳನ್ನು ನಾಶಮಾಡಿ ಆ ಭೂಮಿಯನ್ನು ಇತರ ಉದ್ದೇಶಗಳಿಗಾಗಿ ಬಳಸಿಕೊಳ್ಳುವುದನ್ನು ಈ ಕೆಳಗಿನ ಯಾವ ಪದದಿಂದ ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": ["ಪುನರರಣ್ಯೀಕರಣ", "ಅರಣ್ಯನಾಶ", "ಹೊಸ ಅರಣ್ಯ ಬೆಳೆಸುವುದು", "ಮರುಭೂಮೀಕರಣ"],
+      "answer": "ಅರಣ್ಯನಾಶ",
+      "reasoning": "ಕೃಷಿ, ಕೈಗಾರಿಕಾ ಅಭಿವೃದ್ಧಿ ಅಥವಾ ನಗರೀಕರಣಕ್ಕಾಗಿ ಅರಣ್ಯಗಳು ಮತ್ತು ಮರಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಕತ್ತರಿಸಿ ತೆಗೆದುಹಾಕುವುದನ್ನು ಅರಣ್ಯನಾಶ (Deforestation) ಎನ್ನಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which book keeps a record of all the endangered animals and plants?",
+      "options": ["Blue Data Book", "Green Data Book", "Red Data Book", "Yellow Data Book"],
+      "answer": "Red Data Book",
+      "reasoning": "The Red Data Book is the state document established for documenting rare and endangered species of animals, plants, and fungi that exist within the territory of the state or country."
+    },
+    "kn": {
+      "question": "ಅಳಿವಿನಂಚಿನಲ್ಲಿರುವ ಎಲ್ಲಾ ಪ್ರಾಣಿಗಳು ಮತ್ತು ಸಸ್ಯಗಳ ದಾಖಲೆಯನ್ನು ಯಾವ ಪುಸ್ತಕದಲ್ಲಿ ಇಡಲಾಗುತ್ತದೆ?",
+      "options": ["ಬ್ಲೂ ಡೇಟಾ ಬುಕ್", "ಗ್ರೀನ್ ಡೇಟಾ ಬುಕ್", "ರೆಡ್ ಡೇಟಾ ಬುಕ್ (ಕೆಂಪು ದತ್ತಾಂಶ ಪುಸ್ತಕ)", "ಯೆಲ್ಲೋ ಡೇಟಾ ಬುಕ್"],
+      "answer": "ರೆಡ್ ಡೇಟಾ ಬುಕ್ (ಕೆಂಪು ದತ್ತಾಂಶ ಪುಸ್ತಕ)",
+      "reasoning": "ರೆಡ್ ಡೇಟಾ ಬುಕ್ (Red Data Book) ಎಂಬುದು ಒಂದು ರಾಜ್ಯ ಅಥವಾ ದೇಶದ ಭೂಪ್ರದೇಶದಲ್ಲಿ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಅಪರೂಪದ ಮತ್ತು ಅಳಿವಿನಂಚಿನಲ್ಲಿರುವ ಪ್ರಾಣಿ, ಸಸ್ಯ ಮತ್ತು ಶಿಲೀಂಧ್ರಗಳ ಪ್ರಭೇದಗಳನ್ನು ದಾಖಲಿಸಲು ಸ್ಥಾಪಿಸಲಾದ ಅಧಿಕೃತ ದಾಖಲೆಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Species of plants and animals that are found exclusively in a particular area and nowhere else are called:",
+      "options": ["Epidemic species", "Endemic species", "Exotic species", "Extinct species"],
+      "answer": "Endemic species",
+      "reasoning": "Endemic species are those species of plants and animals which are found exclusively in a particular area. They are not naturally found anywhere else."
+    },
+    "kn": {
+      "question": "ಒಂದು ನಿರ್ದಿಷ್ಟ ಪ್ರದೇಶದಲ್ಲಿ ಮಾತ್ರ ಕಂಡುಬರುವ ಮತ್ತು ಬೇರೆಲ್ಲೂ ನೈಸರ್ಗಿಕವಾಗಿ ಕಂಡುಬರದ ಸಸ್ಯ ಹಾಗೂ ಪ್ರಾಣಿಗಳ ಪ್ರಭೇದಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಸಾಂಕ್ರಾಮಿಕ ಪ್ರಭೇದಗಳು", "ಸ್ಥಳೀಯ ಪ್ರಭೇದಗಳು (Endemic)", "ವಿದೇಶಿ ಪ್ರಭೇದಗಳು", "ಅಳಿದುಹೋದ ಪ್ರಭೇದಗಳು"],
+      "answer": "ಸ್ಥಳೀಯ ಪ್ರಭೇದಗಳು (Endemic)",
+      "reasoning": "ಸ್ಥಳೀಯ ಪ್ರಭೇದಗಳು (Endemic species) ಎಂದರೆ ಕೇವಲ ಒಂದು ನಿರ್ದಿಷ್ಟ ಪ್ರದೇಶದಲ್ಲಿ ಮಾತ್ರ ವಿಶಿಷ್ಟವಾಗಿ ಕಂಡುಬರುವ ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿ ಪ್ರಭೇದಗಳಾಗಿವೆ. ಇವು ಬೇರೆಲ್ಲೂ ನೈಸರ್ಗಿಕವಾಗಿ ಸಿಗುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "An area reserved for wildlife where they can freely use the habitats and natural resources is called a:",
+      "options": ["National Park", "Biosphere Reserve", "Wildlife Sanctuary", "Zoological Garden"],
+      "answer": "National Park",
+      "reasoning": "National Parks are areas reserved for wildlife where they can freely use the habitats and natural resources, and human activities are strictly restricted."
+    },
+    "kn": {
+      "question": "ವನ್ಯಜೀವಿಗಳಿಗಾಗಿ ಮೀಸಲಿಟ್ಟ ಪ್ರದೇಶವಾಗಿದ್ದು, ಅಲ್ಲಿ ಅವುಗಳು ತಮ್ಮ ಆವಾಸಸ್ಥಾನಗಳು ಮತ್ತು ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಮುಕ್ತವಾಗಿ ಬಳಸಿಕೊಳ್ಳಬಹುದಾದ ಸ್ಥಳ ಯಾವುದು?",
+      "options": ["ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ", "ಜೀವಗೋಳ ಮೀಸಲು ಪ್ರದೇಶ", "ಅಭಯಾರಣ್ಯ", "ಮೃಗಾಲಯ"],
+      "answer": "ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ",
+      "reasoning": "ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನಗಳು (National Parks) ವನ್ಯಜೀವಿಗಳಿಗಾಗಿ ಮೀಸಲಿಟ್ಟ ದೊಡ್ಡ ಪ್ರದೇಶಗಳಾಗಿದ್ದು, ಅಲ್ಲಿ ಜೀವಿಗಳು ತಮ್ಮ ಆವಾಸಸ್ಥಾನ ಮತ್ತು ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಸ್ವತಂತ್ರವಾಗಿ ಬಳಸಿಕೊಳ್ಳಬಹುದು. ಇಲ್ಲಿ ಮಾನವ ಚಟುವಟಿಕೆಗಳಿಗೆ ಕಟ್ಟುನಿಟ್ಟಾದ ನಿರ್ಬಂಧಗಳಿರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_img_005",
+    "type": "image_single",
+    "difficulty": 1,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "A cut tree stump showing annual growth rings, colored in gray with blue outlines and a red diagonal slash indicating cutting",
+        "kn": "ಮರದ ಕತ್ತರಿಸಿದ ಬುಡದ ಚಿತ್ರ, ನೀಲಿ ರೇಖೆಗಳು ಮತ್ತು ಕತ್ತರಿಸಿರುವುದನ್ನು ಸೂಚಿಸುವ ಕೆಂಪು ಗೆರೆಯೊಂದಿಗೆ"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><ellipse cx=\"150\" cy=\"130\" rx=\"80\" ry=\"35\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"3\"/><ellipse cx=\"150\" cy=\"130\" rx=\"60\" ry=\"25\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><ellipse cx=\"150\" cy=\"130\" rx=\"40\" ry=\"18\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><ellipse cx=\"150\" cy=\"130\" rx=\"20\" ry=\"8\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><path d=\"M70,130 L70,180 A80,25 0 0,0 230,180 L230,130\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"3\"/><line x1=\"50\" y1=\"50\" x2=\"250\" y2=\"170\" stroke=\"#DC2626\" stroke-dasharray=\"none\" stroke-width=\"5\"/><line x1=\"250\" y1=\"50\" x2=\"50\" y2=\"170\" stroke=\"#DC2626\" stroke-dasharray=\"none\" stroke-width=\"5\"/><text x=\"150\" y=\"40\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"#DC2626\" text-anchor=\"middle\">DEFORESTATION</text></svg>"
+    },
+    "en": {
+      "question": "Which of the following is a direct consequence of the process shown in the diagram?",
+      "options": [
+        "Increase in the level of oxygen in the atmosphere",
+        "Increase in groundwater levels",
+        "Increase in the level of carbon dioxide in the atmosphere",
+        "Decrease in global temperatures"
+      ],
+      "answer": "Increase in the level of carbon dioxide in the atmosphere",
+      "reasoning": "Plants take in carbon dioxide for photosynthesis. Cutting down trees means fewer trees will consume carbon dioxide, leading to its accumulation in the atmosphere and causing global warming."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಪ್ರಕ್ರಿಯೆಯ (ಅರಣ್ಯನಾಶ) ನೇರ ಪರಿಣಾಮ ಯಾವುದು?",
+      "options": [
+        "ವಾತಾವರಣದಲ್ಲಿ ಆಮ್ಲಜನಕದ ಮಟ್ಟ ಹೆಚ್ಚಾಗುವುದು",
+        "ಅಂತರ್ಜಲ ಮಟ್ಟ ಹೆಚ್ಚಾಗುವುದು",
+        "ವಾತಾವರಣದಲ್ಲಿ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಮಟ್ಟ ಹೆಚ್ಚಾಗುವುದು",
+        "ಜಾಗತಿಕ ತಾಪಮಾನ ಕಡಿಮೆಯಾಗುವುದು"
+      ],
+      "answer": "ವಾತಾವರಣದಲ್ಲಿ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಮಟ್ಟ ಹೆಚ್ಚಾಗುವುದು",
+      "reasoning": "ಸಸ್ಯಗಳು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಗಾಗಿ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಬಳಸಿಕೊಳ್ಳುತ್ತವೆ. ಮರಗಳನ್ನು ಕಡಿಯುವುದರಿಂದ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಬಳಸುವ ಮರಗಳ ಸಂಖ್ಯೆ ಕಡಿಮೆಯಾಗಿ, ವಾತಾವರಣದಲ್ಲಿ ಅದರ ಪ್ರಮಾಣ ಹೆಚ್ಚುತ್ತದೆ. ಇದು ಜಾಗತಿಕ ತಾಪಮಾನ ಏರಿಕೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Felling of trees leads to an increase in carbon dioxide in the atmosphere, which traps heat reflected from the earth. This phenomenon is known as:",
+      "options": ["Acid rain", "Greenhouse effect (Global warming)", "Ozone depletion", "Eutrophication"],
+      "answer": "Greenhouse effect (Global warming)",
+      "reasoning": "Carbon dioxide traps heat radiation reflected from the earth's surface, preventing it from escaping into space. This leads to global warming."
+    },
+    "kn": {
+      "question": "ಮರಗಳನ್ನು ಕಡಿಯುವುದರಿಂದ ವಾತಾವರಣದಲ್ಲಿ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಪ್ರಮಾಣ ಹೆಚ್ಚಾಗುತ್ತದೆ, ಇದು ಭೂಮಿಯಿಂದ ಪ್ರತಿಫಲಿಸುವ ಶಾಖವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ. ಈ ವಿದ್ಯಮಾನವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಆಮ್ಲ ಮಳೆ", "ಹಸಿರುಮನೆ ಪರಿಣಾಮ (ಜಾಗತಿಕ ತಾಪಮಾನ ಏರಿಕೆ)", "ಓಝೋನ್ ಸವೆತ", "ಯೂಟ್ರೋಫಿಕೇಶನ್"],
+      "answer": "ಹಸಿರುಮನೆ ಪರಿಣಾಮ (ಜಾಗತಿಕ ತಾಪಮಾನ ಏರಿಕೆ)",
+      "reasoning": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಭೂಮಿಯ ಮೇಲ್ಮೈಯಿಂದ ಪ್ರತಿಫಲಿಸುವ ಶಾಖದ ಕಿರಣಗಳನ್ನು ಬಾಹ್ಯಾಕಾಶಕ್ಕೆ ಹೋಗದಂತೆ ತಡೆದು ಇಲ್ಲೇ ಹಿಡಿದಿಡುತ್ತದೆ. ಇದು ಜಾಗತಿಕ ತಾಪಮಾನ ಏರಿಕೆಗೆ (Global warming) ಕಾರಣವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_007",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following is a famous endemic animal found in the Pachmarhi Biosphere Reserve?",
+      "options": ["Asian Elephant", "Indian Giant Squirrel", "Bengal Tiger", "One-horned Rhinoceros"],
+      "answer": "Indian Giant Squirrel",
+      "reasoning": "The Indian Giant Squirrel and the flying squirrel are endemic fauna of the Pachmarhi Biosphere Reserve. They are not naturally found in other habitats."
+    },
+    "kn": {
+      "question": "ಪಚ್‌ಮಢಿ ಜೀವಗೋಳ ಮೀಸಲು ಪ್ರದೇಶದಲ್ಲಿ ಕಂಡುಬರುವ ಪ್ರಸಿದ್ಧ ಸ್ಥಳೀಯ (endemic) ಪ್ರಾಣಿ ಯಾವುದು?",
+      "options": ["ಏಷ್ಯನ್ ಆನೆ", "ಭಾರತದ ದೈತ್ಯ ಅಳಿಲು (Indian Giant Squirrel)", "ಬಂಗಾಳ ಹುಲಿ", "ಒಂಟಿ ಕೊಂಬಿನ ಖಡ್ಗಮೃಗ"],
+      "answer": "ಭಾರತದ ದೈತ್ಯ ಅಳಿಲು (Indian Giant Squirrel)",
+      "reasoning": "ಭಾರತದ ದೈತ್ಯ ಅಳಿಲು ಮತ್ತು ಹಾರುವ ಅಳಿಲು ಪಚ್‌ಮಢಿ ಜೀವಗೋಳ ಮೀಸಲು ಪ್ರದೇಶದ ವಿಶಿಷ್ಟ ಸ್ಥಳೀಯ ಪ್ರಾಣಿಗಳಾಗಿವೆ. ಇವು ಬೇರೆಲ್ಲೂ ಸಹಜವಾಗಿ ಕಂಡುಬರುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_008",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "The planting of new trees in place of destroyed forests is called:",
+      "options": ["Deforestation", "Reforestation", "Desertification", "Weeding"],
+      "answer": "Reforestation",
+      "reasoning": "Reforestation is the restocking of destroyed forests by planting new trees, preferably of the same species that were originally present."
+    },
+    "kn": {
+      "question": "ನಾಶವಾದ ಕಾಡುಗಳ ಜಾಗದಲ್ಲಿ ಹೊಸ ಮರಗಳನ್ನು ನೆಟ್ಟು ಕಾಡನ್ನು ಮರುಸ್ಥಾಪಿಸುವುದನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ಅರಣ್ಯನಾಶ", "ಪುನರರಣ್ಯೀಕರಣ (Reforestation)", "ಮರುಭೂಮೀಕರಣ", "ಕಳೆ ಕೀಳುವುದು"],
+      "answer": "ಪುನರರಣ್ಯೀಕರಣ (Reforestation)",
+      "reasoning": "ಪುನರರಣ್ಯೀಕರಣ ಎಂದರೆ ನಾಶವಾದ ಅರಣ್ಯಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಅಲ್ಲಿ ಮೊದಲಿದ್ದ ಪ್ರಭೇದಗಳ ಹೊಸ ಮರಗಳನ್ನು ನೆಡುವ ಮೂಲಕ ಕಾಡನ್ನು ಮರು ಬೆಳೆಸುವ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_009",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Select all the primary natural causes of deforestation:",
+      "options": ["Forest fires", "Building houses and factories", "Severe droughts", "Procuring wood for fuel"],
+      "answer": ["Forest fires", "Severe droughts"],
+      "reasoning": "Forest fires and severe droughts are natural causes of deforestation. Building houses, factories, and procuring wood are man-made causes."
+    },
+    "kn": {
+      "question": "ಅರಣ್ಯನಾಶಕ್ಕೆ ಕಾರಣವಾಗುವ ಪ್ರಮುಖ ನೈಸರ್ಗಿಕ ಕಾರಣಗಳನ್ನು ಆರಿಸಿ:",
+      "options": ["ಕಾಡ್ಗಿಚ್ಚು", "ಮನೆ ಮತ್ತು ಕಾರ್ಖಾನೆಗಳ ನಿರ್ಮಾಣ", "ತೀವ್ರ ಬರಗಾಲ", "ಇಂಧನಕ್ಕಾಗಿ ಕಟ್ಟಿಗೆ ಸಂಗ್ರಹಣೆ"],
+      "answer": ["ಕಾಡ್ಗಿಚ್ಚು", "ತೀವ್ರ ಬರಗಾಲ"],
+      "reasoning": "ಕಾಡ್ಗಿಚ್ಚು ಮತ್ತು ತೀವ್ರ ಬರಗಾಲಗಳು ಅರಣ್ಯನಾಶಕ್ಕೆ ನೈಸರ್ಗಿಕ ಕಾರಣಗಳಾಗಿವೆ. ಮನೆ, ಕಾರ್ಖಾನೆ ನಿರ್ಮಾಣ ಮತ್ತು ಸೌದೆ ಸಂಗ್ರಹಣೆಗಳು ಮಾನವ ನಿರ್ಮಿತ ಕಾರಣಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_010",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the conservation area with its correct definition:",
+      "pairs": [
+        {"left": "Biosphere Reserve", "right": "Large area for biodiversity conservation and traditional tribal life"},
+        {"left": "National Park", "right": "Strictly reserved area for wildlife protection without human interference"},
+        {"left": "Wildlife Sanctuary", "right": "Area protecting animals from any disturbance to them or their habitat"},
+        {"left": "Zoo", "right": "Artificial habitat where animals are kept for public viewing"}
+      ],
+      "reasoning": "Wildlife sanctuaries protect animals from disturbance. National parks protect the entire ecosystem. Biosphere reserves are vast and include tribal zones. Zoos are artificial captive spaces."
+    },
+    "kn": {
+      "question": "ಸಂರಕ್ಷಣಾ ವಲಯಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿವರಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಜೀವಗೋಳ ಮೀಸಲು ಪ್ರದೇಶ", "right": "ಜೀವವೈವಿಧ್ಯ ಸಂರಕ್ಷಣೆ ಮತ್ತು ಬುಡಕಟ್ಟು ಜನರ ಸಾಂಪ್ರದಾಯಿಕ ಜೀವನಕ್ಕಾಗಿ ಮೀಸಲಾದ ದೊಡ್ಡ ವಲಯ"},
+        {"left": "ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ", "right": "ಮಾನವ ಹಸ್ತಕ್ಷೇಪವಿಲ್ಲದೆ ವನ್ಯಜೀವಿಗಳ ರಕ್ಷಣೆಗಾಗಿ ಕಟ್ಟುನಿಟ್ಟಾಗಿ ಕಾಯ್ದಿರಿಸಿದ ಪ್ರದೇಶ"},
+        {"left": "ಅಭಯಾರಣ್ಯ", "right": "ಪ್ರಾಣಿಗಳಿಗೆ ಮತ್ತು ಅವುಗಳ ಆವಾಸಸ್ಥಾನಕ್ಕೆ ಯಾವುದೇ ತೊಂದರೆಯಾಗದಂತೆ ರಕ್ಷಿಸುವ ಪ್ರದೇಶ"},
+        {"left": "ಮೃಗಾಲಯ", "right": "ಸಾರ್ವಜನಿಕ ವೀಕ್ಷಣೆಗಾಗಿ ಕೃತಕ ಆವಾಸಸ್ಥಾನಗಳಲ್ಲಿ ಪ್ರಾಣಿಗಳನ್ನು ಇರಿಸುವ ಸ್ಥಳ"}
+      ],
+      "reasoning": "ಅಭಯಾರಣ್ಯಗಳು ಪ್ರಾಣಿಗಳನ್ನು ರಕ್ಷಿಸುತ್ತವೆ. ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನಗಳು ಸಂಪೂರ್ಣ ಪರಿಸರ ವ್ಯವಸ್ಥೆಯನ್ನು ರಕ್ಷಿಸುತ್ತವೆ. ಜೀವಗೋಳ ಮೀಸಲು ಪ್ರದೇಶಗಳು ದೊಡ್ಡದಾಗಿದ್ದು ಬುಡಕಟ್ಟು ಜನರನ್ನು ಒಳಗೊಂಡಿರುತ್ತವೆ. ಮೃಗಾಲಯಗಳು ಕೃತಕ ಸೆರೆಮನೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "How does deforestation lead to desertification?",
+      "options": [
+        "Fewer trees lead to more rainfall which washes away sand",
+        "Removal of topsoil exposes lower, hard, rocky layers, decreasing humus and fertility",
+        "It increases the moisture-holding capacity of the soil",
+        "It causes earthquakes that turn soil into rock"
+      ],
+      "answer": "Removal of topsoil exposes lower, hard, rocky layers, decreasing humus and fertility",
+      "reasoning": "Deforestation exposes the soil to erosion by wind and water. When the fertile topsoil is removed, the lower, rocky, less fertile layers are exposed, gradually turning fertile land into a desert."
+    },
+    "kn": {
+      "question": "ಅರಣ್ಯನಾಶವು ಹೇಗೆ ಮರುಭೂಮೀಕರಣಕ್ಕೆ (desertification) ಕಾರಣವಾಗುತ್ತದೆ?",
+      "options": [
+        "ಕಡಿಮೆ ಮರಗಳಿರುವುದರಿಂದ ಮಳೆ ಹೆಚ್ಚಾಗಿ ಮರಳು ಕೊಚ್ಚಿ ಹೋಗುತ್ತದೆ",
+        "ಮೇಲ್ಮಣ್ಣು ಕೊಚ್ಚಿಹೋಗಿ ಕೆಳಗಿನ ಗಟ್ಟಿಯಾದ ಬಂಡೆಗಳ ಪದರಗಳು ತೆರೆದುಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ಫಲವತ್ತತೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ",
+        "ಇದು ಮಣ್ಣಿನ ತೇವಾಂಶ ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ",
+        "ಇದು ಮಣ್ಣನ್ನು ಕಲ್ಲನ್ನಾಗಿ ಮಾಡುವ ಭೂಕಂಪಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ"
+      ],
+      "answer": "ಮೇಲ್ಮಣ್ಣು ಕೊಚ್ಚಿಹೋಗಿ ಕೆಳಗಿನ ಗಟ್ಟಿಯಾದ ಬಂಡೆಗಳ ಪದರಗಳು ತೆರೆದುಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ಫಲವತ್ತತೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ",
+      "reasoning": "ಮರಗಳು ಇಲ್ಲದಿದ್ದಾಗ ಗಾಳಿ ಮತ್ತು ನೀರಿನಿಂದ ಮಣ್ಣಿನ ಸವೆತ ಉಂಟಾಗುತ್ತದೆ. ಫಲವತ್ತಾದ ಮೇಲ್ಮಣ್ಣು ಕೊಚ್ಚಿಹೋದಾಗ ಕೆಳಗಿನ ಕಲ್ಲುಗಳಿಂದ ಕೂಡಿದ ಬಂಜರು ಪದರಗಳು ಹೊರಬರುತ್ತವೆ. ಇದು ಕ್ರಮೇಣ ಫಲವತ್ತಾದ ಭೂಮಿಯನ್ನು ಮರುಭೂಮಿಯನ್ನಾಗಿ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "The seasonal movement of birds from colder regions to warmer climates to lay eggs is known as:",
+      "options": ["Emmigration", "Immigration", "Migration", "Hibernation"],
+      "answer": "Migration",
+      "reasoning": "Migration is the regular, seasonal movement of animals and birds from one habitat to another, typically to escape harsh winter climates and to find food or suitable breeding grounds."
+    },
+    "kn": {
+      "question": "ಮೊಟ್ಟೆ ಇಡಲು ಶೀತ ಪ್ರದೇಶಗಳಿಂದ ಬೆಚ್ಚಗಿನ ಹವಾಮಾನದ ಕಡೆಗೆ ಹಕ್ಕಿಗಳು ಕಾಲೋಚಿತವಾಗಿ ಸಂಚರಿಸುವುದನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": ["ವಲಸೆ ಹೋಗುವಿಕೆ", "ಒಳವಲಸೆ", "ವಲಸೆ (Migration)", "ಶೀತಕಾಲದ ನಿದ್ರೆ (Hibernation)"],
+      "answer": "ವಲಸೆ (Migration)",
+      "reasoning": "ವಲಸೆ (Migration) ಎನ್ನುವುದು ಪ್ರಾಣಿಗಳು ಮತ್ತು ಪಕ್ಷಿಗಳು ಕಠಿಣ ಚಳಿಗಾಲದಿಂದ ಪಾರಾಗಲು, ಆಹಾರವನ್ನು ಹುಡುಕಲು ಅಥವಾ ಸಂತಾನೋತ್ಪತ್ತಿಗಾಗಿ ಒಂದು ಪ್ರದೇಶದಿಂದ ಇನ್ನೊಂದಕ್ಕೆ ಕೈಗೊಳ್ಳುವ ನಿಯಮಿತ ಪ್ರಯಾಣವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why is the recycling of paper encouraged to save forests?",
+      "options": [
+        "Recycled paper makes trees grow faster",
+        "It takes about 17 full-grown trees to make one tonne of paper",
+        "Recycled paper contains chemicals that repel insects",
+        "Paper cannot be made from fresh wood anymore"
+      ],
+      "answer": "It takes about 17 full-grown trees to make one tonne of paper",
+      "reasoning": "To manufacture one tonne of paper, 17 fully grown trees are cut down. Recycling paper helps save trees, water, and energy used in paper manufacturing."
+    },
+    "kn": {
+      "question": "ಕಾಡುಗಳನ್ನು ಉಳಿಸಲು ಕಾಗದದ ಮರುಬಳಕೆಯನ್ನು (recycling) ಏಕೆ ಪ್ರೋತ್ಸಾಹಿಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಮರುಬಳಕೆ ಮಾಡಿದ ಕಾಗದವು ಮರಗಳು ವೇಗವಾಗಿ ಬೆಳೆಯುವಂತೆ ಮಾಡುತ್ತದೆ",
+        "ಒಂದು ಟನ್ ಕಾಗದವನ್ನು ತಯಾರಿಸಲು ಸುಮಾರು 17 ಪೂರ್ಣ ಬೆಳೆದ ಮರಗಳು ಬೇಕಾಗುತ್ತವೆ",
+        "ಮರುಬಳಕೆಯ ಕಾಗದವು ಕೀಟಗಳನ್ನು ಓಡಿಸುವ ರಾಸಾಯನಿಕಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ",
+        "ಹೊಸ ಮರಗಳಿಂದ ಇನ್ನು ಮುಂದೆ ಕಾಗದವನ್ನು ತಯಾರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ"
+      ],
+      "answer": "ಒಂದು ಟನ್ ಕಾಗದವನ್ನು ತಯಾರಿಸಲು ಸುಮಾರು 17 ಪೂರ್ಣ ಬೆಳೆದ ಮರಗಳು ಬೇಕಾಗುತ್ತವೆ",
+      "reasoning": "ಒಂದು ಟನ್ ಕಾಗದವನ್ನು ತಯಾರಿಸಲು ಸುಮಾರು 17 ಪೂರ್ಣ ಬೆಳೆದ ಮರಗಳನ್ನು ಕಡಿಯಬೇಕಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ ಕಾಗದವನ್ನು ಮರುಬಳಕೆ ಮಾಡುವುದರಿಂದ ಮರಗಳನ್ನು ಕಡಿಯುವುದನ್ನು ತಪ್ಪಿಸಬಹುದು, ಜೊತೆಗೆ ನೀರು ಮತ್ತು ವಿದ್ಯುತ್ ಉಳಿಸಬಹುದು."
+    }
+  },
+  {
+    "id": "c8_sci_cons_img_014",
+    "type": "image_single",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Greenhouse effect diagram with Earth surface, atmosphere boundary in blue, sunlight entering, heat radiating outwards, and getting trapped by gas molecules",
+        "kn": "ಹಸಿರುಮನೆ ಅನಿಲಗಳಿಂದ ಶಾಖವು ಭೂಮಿಯ ವಾತಾವರಣದಲ್ಲಿ ಸಿಲುಕಿಕೊಳ್ಳುವುದನ್ನು ತೋರಿಸುವ ರೇಖಾಚಿತ್ರ"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"0\" y=\"0\" width=\"300\" height=\"200\" fill=\"#DBEAFE\"/><path d=\"M0,160 Q150,150 300,160 L300,200 L0,200 Z\" fill=\"#059669\"/><path d=\"M0,100 Q150,80 300,100\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"3\" stroke-dasharray=\"5,5\"/><path d=\"M40,20 L100,120\" stroke=\"#EA580C\" stroke-width=\"2\" marker-end=\"url(#arr)\"/><path d=\"M100,120 L130,70\" stroke=\"#DC2626\" stroke-width=\"2\" marker-end=\"url(#arr)\"/><path d=\"M130,70 L110,120\" stroke=\"#DC2626\" stroke-width=\"2\"/><circle cx=\"130\" cy=\"60\" r=\"8\" fill=\"#DC2626\"/><circle cx=\"110\" cy=\"55\" r=\"8\" fill=\"#DC2626\"/><text x=\"150\" y=\"120\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\" font-weight=\"bold\">Trapped Heat</text><text x=\"150\" y=\"75\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#2563EB\">CO2 / Greenhouse Gases</text><text x=\"20\" y=\"40\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#EA580C\">Sunlight</text><text x=\"150\" y=\"185\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#FFFFFF\" text-anchor=\"middle\">Earth Surface</text><defs><marker id=\"arr\" markerWidth=\"6\" markerHeight=\"6\" refX=\"3\" refY=\"3\" orient=\"auto\"><path d=\"M0,0 L6,3 L0,6 Z\" fill=\"context-fill\"/></marker></defs></svg>"
+    },
+    "en": {
+      "question": "Which gas, when its concentration increases as shown in the greenhouse effect, traps heat and leads to global warming?",
+      "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Helium"],
+      "answer": "Carbon Dioxide",
+      "reasoning": "Carbon dioxide (CO2) is a key greenhouse gas. It traps the infrared heat radiation reflected from the Earth's surface, causing the average temperature of the atmosphere to rise."
+    },
+    "kn": {
+      "question": "ಹಸಿರುಮನೆ ಪರಿಣಾಮದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ವಾತಾವರಣದಲ್ಲಿ ಪ್ರಮಾಣ ಹೆಚ್ಚಿದಾಗ ಶಾಖವನ್ನು ಹಿಡಿದಿಟ್ಟು ಜಾಗತಿಕ ತಾಪಮಾನಕ್ಕೆ ಕಾರಣವಾಗುವ ಅನಿಲ ಯಾವುದು?",
+      "options": ["ಸಾರಜನಕ (Nitrogen)", "ಆಮ್ಲಜನಕ (Oxygen)", "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (Carbon Dioxide)", "ಹೀಲಿಯಂ"],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (Carbon Dioxide)",
+      "reasoning": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (CO2) ಒಂದು ಪ್ರಮುಖ ಹಸಿರುಮನೆ ಅನಿಲವಾಗಿದೆ. ಇದು ಭೂಮಿಯಿಂದ ಹೊರಹೋಗುವ ಶಾಖದ ಕಿರಣಗಳನ್ನು ವಾತಾವರಣದೊಳಗೆ ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ, ಇದರಿಂದ ಭೂಮಿಯ ತಾಪಮಾನ ಏರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_img_015",
+    "type": "image_single",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Soil profile showing topsoil with plants, roots, and water table line drawn below, with water droplets seeping down",
+        "kn": "ಗಿಡಗಳು ಮತ್ತು ಮಣ್ಣಿನ ಪದರಗಳಿರುವ ಚಿತ್ರ, ನೀರು ಕೆಳಗೆ ಇಂಗುವುದನ್ನು ಮತ್ತು ಅಂತರ್ಜಲ ಮಟ್ಟವನ್ನು ತೋರಿಸುವ ರೇಖೆಗಳೊಂದಿಗೆ"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"0\" y=\"120\" width=\"300\" height=\"80\" fill=\"#DBEAFE\"/><line x1=\"0\" y1=\"120\" x2=\"300\" y2=\"120\" stroke=\"#2563EB\" stroke-dasharray=\"5,5\" stroke-width=\"2\"/><path d=\"M50,40 L50,80 M100,50 L100,80 M200,45 L200,80\" stroke=\"#059669\" stroke-width=\"4\"/><circle cx=\"50\" cy=\"35\" r=\"8\" fill=\"#059669\"/><circle cx=\"100\" cy=\"45\" r=\"6\" fill=\"#059669\"/><circle cx=\"200\" cy=\"40\" r=\"7\" fill=\"#059669\"/><path d=\"M40,80 Q50,95 60,110 M90,80 Q105,95 110,115 M190,80 Q200,95 210,110\" stroke=\"#EA580C\" stroke-width=\"1.5\" fill=\"none\"/><path d=\"M60,105 L60,130 M150,90 L150,140 M240,100 L240,135\" stroke=\"#2563EB\" stroke-width=\"1.5\" stroke-dasharray=\"3,3\"/><text x=\"150\" y=\"150\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#2563EB\" font-weight=\"bold\" text-anchor=\"middle\">Water Table (Groundwater)</text><text x=\"150\" y=\"105\" font-family=\"Arial, sans-serif\" font-size=\"10\" fill=\"#DC2626\" text-anchor=\"middle\">Infiltration (Water seeping down)</text></svg>"
+    },
+    "en": {
+      "question": "What is the process of water seeping down into the ground through the soil layers called, which is severely reduced by deforestation?",
+      "options": ["Evaporation", "Infiltration rate", "Transpiration", "Condensation"],
+      "answer": "Infiltration rate",
+      "reasoning": "Infiltration is the process by which water on the ground surface enters the soil. Deforestation reduces this rate because there are no tree roots to help make the soil porous and hold the water, leading to floods."
+    },
+    "kn": {
+      "question": "ಮಣ್ಣಿನ ಪದರಗಳ ಮೂಲಕ ನೀರು ನೆಲದ ಆಳಕ್ಕೆ ಇಂಗುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ? ಇದು ಅರಣ್ಯನಾಶದಿಂದ ತೀವ್ರವಾಗಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "options": ["ಬಾಷ್ಪೀಕರಣ", "ಇಂಗುವಿಕೆ ದರ (Infiltration rate)", "ಬಾಷ್ಪವಿಸರ್ಜನೆ", "ಸಾಂದ್ರೀಕರಣ"],
+      "answer": "ಇಂಗುವಿಕೆ ದರ (Infiltration rate)",
+      "reasoning": "ನೆಲದ ಮೇಲಿರುವ ನೀರು ಮಣ್ಣಿನ ಪದರಗಳ ಮೂಲಕ ಒಳಕ್ಕೆ ಇಳಿಯುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಇಂಗುವಿಕೆ (Infiltration) ಎನ್ನುತ್ತಾರೆ. ಮರಗಳು ಇಲ್ಲದಿದ್ದಾಗ ಮಣ್ಣಿನ ನೀರು ಹೀರಲು ಸಹಾಯ ಮಾಡುವ ಬೇರುಗಳು ಇರುವುದಿಲ್ಲ, ಇದರಿಂದ ನೀರು ಇಂಗುವ ದರ ಕಡಿಮೆಯಾಗಿ ಪ್ರವಾಹಗಳು ಉಂಟಾಗುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_006",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following acts was enacted in India to conserve forests and meet the basic needs of people living near forests?",
+      "options": ["Environment Protection Act", "Forest Conservation Act", "Wildlife Protection Act", "Water Conservation Act"],
+      "answer": "Forest Conservation Act",
+      "reasoning": "The Forest (Conservation) Act, enacted in India in 1980, aims at preservation and conservation of natural forests and safeguarding the rights of people living in or around them."
+    },
+    "kn": {
+      "question": "ಭಾರತದಲ್ಲಿ ಕಾಡುಗಳನ್ನು ಸಂರಕ್ಷಿಸಲು ಮತ್ತು ಕಾಡಿನ ಸಮೀಪ ವಾಸಿಸುವ ಜನರ ಮೂಲಭೂತ ಅಗತ್ಯಗಳನ್ನು ಪೂರೈಸಲು ಜಾರಿಗೆ ತಂದ ಕಾಯ್ದೆ ಯಾವುದು?",
+      "options": ["ಪರಿಸರ ಸಂರಕ್ಷಣಾ ಕಾಯ್ದೆ", "ಅರಣ್ಯ ಸಂರಕ್ಷಣಾ ಕಾಯ್ದೆ (Forest Conservation Act)", "ವನ್ಯಜೀವಿ ಸಂರಕ್ಷಣಾ ಕಾಯ್ದೆ", "ಜಲ ಸಂರಕ್ಷಣಾ ಕಾಯ್ದೆ"],
+      "answer": "ಅರಣ್ಯ ಸಂರಕ್ಷಣಾ ಕಾಯ್ದೆ (Forest Conservation Act)",
+      "reasoning": "1980 ರಲ್ಲಿ ಭಾರತದಲ್ಲಿ ಜಾರಿಗೆ ತರಲಾದ ಅರಣ್ಯ ಸಂರಕ್ಷಣಾ ಕಾಯ್ದೆಯು ನೈಸರ್ಗಿಕ ಕಾಡುಗಳ ರಕ್ಷಣೆ ಮತ್ತು ಅದರ ಸುತ್ತಮುತ್ತ ವಾಸಿಸುವ ಜನರ ಹಿತಾಸಕ್ತಿ ಹಾಗೂ ಪರಿಸರ ಸಮತೋಲನವನ್ನು ಕಾಪಾಡುವ ಉದ್ದೇಶ ಹೊಂದಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_017",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Biodiversity refers to:",
+      "options": [
+        "The size of forests in a country",
+        "The variety of organisms living in a specific region and their interrelationships",
+        "The amount of rainfall received in a year",
+        "The total number of humans living in forest areas"
+      ],
+      "answer": "The variety of organisms living in a specific region and their interrelationships",
+      "reasoning": "Biodiversity or biological diversity refers to the vast variety of plants, animals, and microorganisms living in an area, their interrelationships, and their interactions with the environment."
+    },
+    "kn": {
+      "question": "ಜೀವವೈವಿಧ್ಯ (Biodiversity) ಎಂದರೆ:",
+      "options": [
+        "ಒಂದು ದೇಶದಲ್ಲಿರುವ ಕಾಡುಗಳ ವಿಸ್ತೀರ್ಣ",
+        "ಒಂದು ನಿರ್ದಿಷ್ಟ ಪ್ರದೇಶದಲ್ಲಿ ವಾಸಿಸುವ ಜೀವಿಗಳ ವೈವಿಧ್ಯತೆ ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಪರಸ್ಪರ ಸಂಬಂಧಗಳು",
+        "ಒಂದು ವರ್ಷದಲ್ಲಿ ಬೀಳುವ ಒಟ್ಟು ಮಳೆಯ ಪ್ರಮಾಣ",
+        "ಅರಣ್ಯ ಪ್ರದೇಶದಲ್ಲಿ ವಾಸಿಸುವ ಒಟ್ಟು ಜನರ ಸಂಖ್ಯೆ"
+      ],
+      "answer": "ಒಂದು ನಿರ್ದಿಷ್ಟ ಪ್ರದೇಶದಲ್ಲಿ ವಾಸಿಸುವ ಜೀವಿಗಳ ವೈವಿಧ್ಯತೆ ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಪರಸ್ಪರ ಸಂಬಂಧಗಳು",
+      "reasoning": "ಜೀವವೈವಿಧ್ಯ ಎಂದರೆ ಒಂದು ನಿರ್ದಿಷ್ಟ ಪ್ರದೇಶದಲ್ಲಿ ಕಂಡುಬರುವ ವಿವಿಧ ಸಸ್ಯಗಳು, ಪ್ರಾಣಿಗಳು ಮತ್ತು ಸೂಕ್ಷ್ಮಜೀವಿಗಳು, ಅವುಗಳ ನಡುವಿನ ಪರಸ್ಪರ ಸಂಬಂಧಗಳು ಹಾಗೂ ಪರಿಸರದೊಂದಿಗಿನ ಅವುಗಳ ಸಂವಹನವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_018",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Select all the endemic flora (plants) of the Pachmarhi Biosphere Reserve:",
+      "options": ["Sal", "Wild Mango", "Teak", "Apple"],
+      "answer": ["Sal", "Wild Mango"],
+      "reasoning": "Sal and wild mango are two classic examples of the endemic flora of the Pachmarhi Biosphere Reserve."
+    },
+    "kn": {
+      "question": "ಪಚ್‌ಮಢಿ ಜೀವಗೋಳ ಮೀಸಲು ಪ್ರದೇಶದ ಸ್ಥಳೀಯ ಸಸ್ಯಸಂಪತ್ತನ್ನು (flora) ಆಯ್ಕೆಮಾಡಿ:",
+      "options": ["ಸಾಲ್ (Sal)", "ಕಾಡು ಮಾವು (Wild Mango)", "ತೇಗ (Teak)", "ಸೇಬು"],
+      "answer": ["ಸಾಲ್ (Sal)", "ಕಾಡು ಮಾವು (Wild Mango)"],
+      "reasoning": "ಸಾಲ್ ಮತ್ತು ಕಾಡು ಮಾವು ಪಚ್‌ಮಢಿ ಜೀವಗೋಳ ಮೀಸಲು ಪ್ರದೇಶದಲ್ಲಿ ಮಾತ್ರ ಕಾಣಸಿಗುವ ಎರಡು ಪ್ರಮುಖ ಸ್ಥಳೀಯ ಸಸ್ಯಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_019",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following factors can threaten the survival of endemic species?",
+      "options": [
+        "Introduction of new exotic species",
+        "Destruction of their natural habitats",
+        "Increasing human population",
+        "Establishing national parks"
+      ],
+      "answer": ["Introduction of new exotic species", "Destruction of their natural habitats", "Increasing human population"],
+      "reasoning": "Exotic species can compete with endemics, habitat destruction leaves them with no shelter, and human population growth increases resource pressure. Establishing parks protects them."
+    },
+    "kn": {
+      "question": "ಸ್ಥಳೀಯ ಪ್ರಭೇದಗಳ (endemic species) ಉಳಿവിന് ಈ ಕೆಳಗಿನ ಯಾವ ಅಂಶಗಳು ಬೆದರಿಕೆಯನ್ನು ಒಡ್ಡುತ್ತವೆ?",
+      "options": [
+        "ಹೊಸ ವಿದೇಶಿ ಪ್ರಭೇದಗಳ ಪರಿಚಯ",
+        "ಅವುಗಳ ನೈಸರ್ಗಿಕ ಆವಾಸಸ್ಥಾನಗಳ ನಾಶ",
+        "ಹೆಚ್ಚುತ್ತಿರುವ ಮಾನವ ಜನಸಂಖ್ಯೆ",
+        "ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನಗಳನ್ನು ಸ್ಥಾಪಿಸುವುದು"
+      ],
+      "answer": ["ಹೊಸ ವಿದೇಶಿ ಪ್ರಭೇದಗಳ ಪರಿಚಯ", "ಅವುಗಳ ನೈಸರ್ಗಿಕ ಆವಾಸಸ್ಥಾನಗಳ ನಾಶ", "ಹೆಚ್ಚುತ್ತಿರುವ ಮಾನವ ಜನಸಂಖ್ಯೆ"],
+      "reasoning": "ಹೊಸ ವಿದೇಶಿ ಪ್ರಭೇದಗಳು ಸ್ಥಳೀಯ ಜೀವಿಗಳೊಂದಿಗೆ ಸ್ಪರ್ಧಿಸುತ್ತವೆ, ಆವಾಸಸ್ಥಾನ ನಾಶವು ಅವುಗಳಿಗೆ ಆಶ್ರಯವಿಲ್ಲದಂತೆ ಮಾಡುತ್ತದೆ ಮತ್ತು ಜನಸಂಖ್ಯೆ ಬೆಳವಣಿಗೆಯು ಒತ್ತಡವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ. ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನಗಳು ಇವಕ್ಕೆ ರಕ್ಷಣೆ ನೀಡುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_020",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the species status with the correct example:",
+      "pairs": [
+        {"left": "Extinct Species", "right": "Dodo bird / Dinosaurs"},
+        {"left": "Endangered Species", "right": "Tiger / Wild Buffalo"},
+        {"left": "Endemic Species", "right": "Bison in Pachmarhi"},
+        {"left": "Exotic Species", "right": "Eucalyptus in India"}
+      ],
+      "reasoning": "Extinct means no longer alive anywhere. Endangered species face extinction risk. Endemic are limited to an area. Exotic are introduced from outside."
+    },
+    "kn": {
+      "question": "ಜೀವಿಗಳ ಸ್ಥಿತಿಯನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಅಳಿದುಹೋದ ಪ್ರಭೇದಗಳು", "right": "ಡೋಡೋ ಪಕ್ಷಿ / ಡೈನೋಸಾರ್‌ಗಳು"},
+        {"left": "ಅಳಿವಿನಂಚಿನಲ್ಲಿರುವ ಪ್ರಭೇದಗಳು", "right": "ಹುಲಿ / ಕಾಡುಕೋಣ (Wild Buffalo)"},
+        {"left": "ಸ್ಥಳೀಯ ಪ್ರಭೇದಗಳು", "right": "ಪಚ್‌ಮಢಿಯಲ್ಲಿರುವ ಬೈಸನ್"},
+        {"left": "ವಿದೇಶಿ ಪ್ರಭೇದಗಳು", "right": "ಭಾರತದಲ್ಲಿನ ಯೂಕಲಿಪ್ಟಸ್"}
+      ],
+      "reasoning": "ಅಳಿದುಹೋದ ಜೀವಿಗಳು ಜಗತ್ತಿನಲ್ಲಿ ಎಲ್ಲೂ ಇಲ್ಲ. ಅಳಿವಿನಂಚಿನಲ್ಲಿರುವ ಜೀವಿಗಳು ತೀವ್ರ ಅಪಾಯದಲ್ಲಿವೆ. ಸ್ಥಳೀಯ ಜೀವಿಗಳು ಒಂದು ಪ್ರದೇಶಕ್ಕೆ ಸೀಮಿತವಾಗಿವೆ. ವಿದೇಶಿ ಜೀವಿಗಳನ್ನು ಹೊರಗಿನಿಂದ ತರಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_021",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How does deforestation lead to a decrease in global rainfall?",
+      "options": [
+        "Fewer trees mean less transpiration, reducing water vapor released into the air to form clouds",
+        "It decreases atmospheric temperatures so clouds cannot condense",
+        "It prevents wind currents from blowing towards the land",
+        "It increases the chemical breakdown of water molecules in the atmosphere"
+      ],
+      "answer": "Fewer trees mean less transpiration, reducing water vapor released into the air to form clouds",
+      "reasoning": "Plants absorb water from the ground and release it as water vapor through transpiration. Reduced transpiration leads to less cloud formation, disrupting the water cycle and decreasing rainfall."
+    },
+    "kn": {
+      "question": "ಅರಣ್ಯನಾಶವು ಜಾಗತಿಕ ಮಳೆಯ ಪ್ರಮಾಣ ಕಡಿಮೆಯಾಗಲು ಹೇಗೆ ಕಾರಣವಾಗುತ್ತದೆ?",
+      "options": [
+        "ಕಡಿಮೆ ಮರಗಳಿರುವುದರಿಂದ ಬಾಷ್ಪವಿಸರ್ಜನೆ ಕಡಿಮೆಯಾಗಿ ಮೋಡಗಳ ರಚನೆಗೆ ಬೇಕಾದ ತೇವಾಂಶ ಇಳಿಮುಖವಾಗುತ್ತದೆ",
+        "ಇದು ವಾತಾವರಣದ ತಾಪಮಾನವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದರಿಂದ ಮೋಡಗಳು ಸಾಂದ್ರೀಕರಣಗೊಳ್ಳಲು ಸಾಧ್ಯವಿಲ್ಲ",
+        "ಇದು ಭೂಮಿಯ ಕಡೆಗೆ ಬೀಸುವ ಗಾಳಿಯ ಪ್ರವಾಹವನ್ನು ತಡೆಯುತ್ತದೆ",
+        "ಇದು ವಾತಾವರಣದಲ್ಲಿ ನೀರಿನ ಅಣುಗಳ ರಾಸಾಯನಿಕ ವಿಭಜನೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ"
+      ],
+      "answer": "ಕಡಿಮೆ ಮರಗಳಿರುವುದರಿಂದ ಬಾಷ್ಪವಿಸರ್ಜನೆ ಕಡಿಮೆಯಾಗಿ ಮೋಡಗಳ ರಚನೆಗೆ ಬೇಕಾದ ತೇವಾಂಶ ಇಳಿಮುಖವಾಗುತ್ತದೆ",
+      "reasoning": "ಸಸ್ಯಗಳು ಮಣ್ಣಿನಿಂದ ನೀರನ್ನು ಹೀರಿಕೊಂಡು ಬಾಷ್ಪವಿಸರ್ಜನೆಯ (transpiration) ಮೂಲಕ ಹಬೆಯಾಗಿ ವಾತಾವರಣಕ್ಕೆ ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ. ಮರಗಳು ಕಡಿಮೆಯಾದಾಗ ಈ ಹಬೆಯ ಪ್ರಮಾಣ ತಗ್ಗಿ ಮೋಡಗಳು ಉಂಟಾಗುವುದಿಲ್ಲ, ಇದರಿಂದ ಜಲಚಕ್ರ ಏರುಪೇರಾಗಿ ಮಳೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_022",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which properties of soil undergo change due to heavy soil erosion caused by deforestation?",
+      "options": [
+        "Nutrient content and texture",
+        "Water holding capacity and infiltration rate",
+        "Humus content",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "reasoning": "When trees are cleared, soil erosion removes the nutrient-rich topsoil layer. This alters soil texture, destroys organic humus, reduces infiltration, and lowers the soil's water-retention capacity."
+    },
+    "kn": {
+      "question": "ಅರಣ್ಯನಾಶದಿಂದ ಉಂಟಾಗುವ ತೀವ್ರ ಮಣ್ಣಿನ ಸವೆತದಿಂದಾಗಿ ಮಣ್ಣಿನ ಯಾವ ಗುಣಲಕ್ಷಣಗಳು ಬದಲಾಗುತ್ತವೆ?",
+      "options": [
+        "ಪೋಷಕಾಂಶಗಳ ಪ್ರಮಾಣ ಮತ್ತು ಮಣ್ಣಿನ ವಿನ್ಯಾಸ",
+        "ನೀರು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ಇಂಗುವಿಕೆ ದರ",
+        "ಹ್ಯೂಮಸ್ (ಸಾವಯವ ವಸ್ತು) ಪ್ರಮಾಣ",
+        "ಮೇಲಿನ ಎಲ್ಲವೂ"
+      ],
+      "answer": "ಮೇಲಿನ ಎಲ್ಲವೂ",
+      "reasoning": "ಮರಗಳನ್ನು ಕಡಿದಾಗ ಮಣ್ಣಿನ ಸವೆತವು ಪೋಷಕಾಂಶಭರಿತ ಮೇಲ್ಮಣ್ಣನ್ನು ಕೊಚ್ಚಿಹಾಕುತ್ತದೆ. ಇದು ಮಣ್ಣಿನ ವಿನ್ಯಾಸ, ಸಾವಯವ ಹ್ಯೂಮಸ್ ಅಂಶ, ನೀರು ಇಂಗುವ ದರ ಮತ್ತು ನೀರು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವ ಸಾಮರ್ಥ್ಯ ಸೇರಿದಂತೆ ಎಲ್ಲಾ ಲಕ್ಷಣಗಳನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_img_023",
+    "type": "image_single",
+    "difficulty": 3,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Concentric circle diagram of Biosphere Reserve: Core Zone in center (protected), Buffer Zone in middle (limited research), and Transition Zone on outside (settlements)",
+        "kn": "ಜೀವಗೋಳ ಮೀಸಲು ಪ್ರದೇಶದ ವಲಯಗಳನ್ನು ತೋರಿಸುವ ವೃತ್ತಾಕಾರದ ರೇಖಾಚಿತ್ರ: ಕೋರ್, ಬಫರ್ ಮತ್ತು ಪರಿವರ್ತನಾ ವಲಯಗಳು"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"150\" cy=\"100\" r=\"90\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"100\" r=\"60\" fill=\"none\" stroke=\"#2563EB\" stroke-dasharray=\"4,4\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"100\" r=\"30\" fill=\"#059669\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"150\" y=\"103\" font-family=\"Arial, sans-serif\" font-size=\"10\" fill=\"#FFFFFF\" font-weight=\"bold\" text-anchor=\"middle\">CORE</text><text x=\"150\" y=\"65\" font-family=\"Arial, sans-serif\" font-size=\"10\" fill=\"#EA580C\" font-weight=\"bold\" text-anchor=\"middle\">BUFFER</text><text x=\"150\" y=\"25\" font-family=\"Arial, sans-serif\" font-size=\"10\" fill=\"#2563EB\" font-weight=\"bold\" text-anchor=\"middle\">TRANSITION</text><line x1=\"230\" y1=\"30\" x2=\"210\" y2=\"50\" stroke=\"#DC2626\" stroke-width=\"1.5\"/><text x=\"245\" y=\"25\" font-family=\"Arial, sans-serif\" font-size=\"10\" fill=\"#DC2626\">Human Settlements</text></svg>"
+    },
+    "en": {
+      "question": "In the zonation of a Biosphere Reserve shown, which zone is kept completely free from human activity for conservation?",
+      "options": ["Transition Zone", "Buffer Zone", "Core Zone", "Outer Zone"],
+      "answer": "Core Zone",
+      "reasoning": "The Core Zone of a biosphere reserve is legally protected and entirely free from human interventions to preserve natural habitats, plants, and animals in their wild state."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಜೀವಗೋಳ ಮೀಸಲು ಪ್ರದೇಶದ ವಲಯಗಳಲ್ಲಿ, ಮಾನವ ಚಟುವಟಿಕೆಗಳಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ಮುಕ್ತವಾಗಿರಿಸಲಾದ ಭಾಗ ಯಾವುದು?",
+      "options": ["ಪರಿವರ್ತನಾ ವಲಯ (Transition Zone)", "ಬಫರ್ ವಲಯ (Buffer Zone)", "ಕೋರ್ ವಲಯ (Core Zone)", "ಹೊರ ವಲಯ"],
+      "answer": "ಕೋರ್ ವಲಯ (Core Zone)",
+      "reasoning": "ಜೀವಗೋಳ ಮೀಸಲು ಪ್ರದೇಶದ ಕೋರ್ ವಲಯವು ಕಾನೂನುಬದ್ಧವಾಗಿ ರಕ್ಷಿಸಲ್ಪಟ್ಟ ಪ್ರದೇಶವಾಗಿದ್ದು, ಇಲ್ಲಿ ಯಾವುದೇ ಮಾನವ ಹಸ್ತಕ್ಷೇಪಕ್ಕೆ ಅವಕಾಶವಿರುವುದಿಲ್ಲ. ಇದು ಪ್ರಕೃತಿ ಮತ್ತು ವನ್ಯಜೀವಿಗಳನ್ನು ಯಥಾಸ್ಥಿತಿಯಲ್ಲಿ ಸಂರಕ್ಷಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_img_024",
+    "type": "image_multiple",
+    "difficulty": 3,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Bar chart with year on x-axis and number of extinct species on y-axis, showing a dramatic rise from year 1800 to 2000",
+        "kn": "ವರ್ಷಗಳು ಕಳೆದಂತೆ ಜೀವಿಗಳು ಅಳಿದುಹೋಗುತ್ತಿರುವ ಪ್ರಮಾಣ ಹೆಚ್ಚುತ್ತಿರುವುದನ್ನು ತೋರಿಸುವ ಕಂಬ ಸಾಲು ನಕ್ಷೆ (Bar chart)"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"20\" x2=\"40\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"40\" y1=\"160\" x2=\"280\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><rect x=\"60\" y=\"130\" width=\"30\" height=\"30\" fill=\"#DBEAFE\" stroke=\"#2563EB\"/><rect x=\"110\" y=\"110\" width=\"30\" height=\"50\" fill=\"#DBEAFE\" stroke=\"#2563EB\"/><rect x=\"160\" y=\"80\" width=\"30\" height=\"80\" fill=\"#DBEAFE\" stroke=\"#2563EB\"/><rect x=\"210\" y=\"40\" width=\"30\" height=\"120\" fill=\"#059669\" stroke=\"#2563EB\"/><text x=\"75\" y=\"175\" font-family=\"Arial, sans-serif\" font-size=\"10\" fill=\"#2563EB\" text-anchor=\"middle\">1800</text><text x=\"125\" y=\"175\" font-family=\"Arial, sans-serif\" font-size=\"10\" fill=\"#2563EB\" text-anchor=\"middle\">1900</text><text x=\"175\" y=\"175\" font-family=\"Arial, sans-serif\" font-size=\"10\" fill=\"#2563EB\" text-anchor=\"middle\">1950</text><text x=\"225\" y=\"175\" font-family=\"Arial, sans-serif\" font-size=\"10\" fill=\"#2563EB\" text-anchor=\"middle\">2000</text><text x=\"15\" y=\"100\" font-family=\"Arial, sans-serif\" font-size=\"10\" fill=\"#DC2626\" transform=\"rotate(-90 15 100)\" text-anchor=\"middle\">Extinct Species</text><text x=\"150\" y=\"15\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" fill=\"#DC2626\" text-anchor=\"middle\">Species Extinction Trend</text></svg>"
+    },
+    "en": {
+      "question": "Based on the rising trend of species extinction shown in the graph, what factors directly accelerate this loss of biodiversity?",
+      "options": [
+        "Habitat fragmentation",
+        "Illegal poaching and hunting",
+        "Establishing community reserves",
+        "Introducing invasive alien species"
+      ],
+      "answer": ["Habitat fragmentation", "Illegal poaching and hunting", "Introducing invasive alien species"],
+      "reasoning": "Loss of biodiversity is accelerated by human activities like splitting habitats (fragmentation), hunting/poaching, and introducing foreign species that outcompete local wildlife."
+    },
+    "kn": {
+      "question": "ಗ್ರಾಫ್‌ನಲ್ಲಿ ಅಳಿವಿನ ಪ್ರಮಾಣ ಹೆಚ್ಚುತ್ತಿರುವುದನ್ನು ಗಮನಿಸಿ, ಜೀವವೈವಿಧ್ಯದ ಈ ನಷ್ಟಕ್ಕೆ ಯಾವ ಅಂಶಗಳು ನೇರವಾಗಿ ಕಾರಣವಾಗಿವೆ?",
+      "options": [
+        "ಆವಾಸಸ್ಥಾನಗಳ ವಿಘಟನೆ (Habitat fragmentation)",
+        "ಅಕ್ರಮ ಬೇಟೆ ಮತ್ತು ವನ್ಯಜೀವಿಗಳ ಹತ್ಯೆ",
+        "ಸಮುದಾಯ ಮೀಸಲು ಪ್ರದೇಶಗಳ ಸ್ಥಾಪನೆ",
+        "ಆಕ್ರಮಣಕಾರಿ ಪರಕೀಯ ಪ್ರಭೇದಗಳ ಪರಿಚಯ"
+      ],
+      "answer": ["ಆವಾಸಸ್ಥಾನಗಳ ವಿಘಟನೆ (Habitat fragmentation)", "ಅಕ್ರಮ ಬೇಟೆ ಮತ್ತು ವನ್ಯಜೀವಿಗಳ ಹತ್ಯೆ", "ಆಕ್ರಮಣಕಾರಿ ಪರಕೀಯ ಪ್ರಭೇದಗಳ ಪರಿಚಯ"],
+      "reasoning": "ವನ್ಯಜೀವಿಗಳ ಆವಾಸಸ್ಥಾನವನ್ನು ತುಂಡರಿಸುವುದು (ವಿಘಟನೆ), ಅಕ್ರಮ ಬೇಟೆ ಮತ್ತು ಹೊರಗಿನಿಂದ ಬಂದು ಇಲ್ಲಿನ ಜೀವಿಗಳ ಉಳಿವಿಗೇ ಮಾರಕವಾಗುವ ಆಕ್ರಮಣಕಾರಿ ಸಸ್ಯ/ಪ್ರಾಣಿಗಳ ಹರಡುವಿಕೆಯಿಂದ ಜೀವವೈವಿಧ್ಯ ವೇಗವಾಗಿ ನಶಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_025",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What was the main objective of launching 'Project Tiger' by the Government of India in 1973?",
+      "options": [
+        "To export tigers to foreign countries",
+        "To domesticate tigers as pets",
+        "To ensure the survival and maintenance of the tiger population in the country",
+        "To breed tigers in urban zoos only"
+      ],
+      "answer": "To ensure the survival and maintenance of the tiger population in the country",
+      "reasoning": "Project Tiger was launched on April 1, 1973, to protect tigers from poaching and habitat loss, ensuring a viable population of tigers in their natural habitats."
+    },
+    "kn": {
+      "question": "1973 ರಲ್ಲಿ ಭಾರತ ಸರ್ಕಾರವು 'ಪ್ರಾಜೆಕ್ಟ್ ಟೈಗರ್' (ಹುಲಿ ಯೋಜನೆ) ಅನ್ನು ಜಾರಿಗೆ ತಂದಿದ್ದರ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
+      "options": [
+        "ಹುಲಿಗಳನ್ನು ವಿದೇಶಗಳಿಗೆ ರಫ್ತು ಮಾಡಲು",
+        "ಹುಲಿಗಳನ್ನು ಸಾಕುಪ್ರಾಣಿಗಳಾಗಿ ಪಳಗಿಸಲು",
+        "ದೇಶದಲ್ಲಿ ಹುಲಿಗಳ ಜನಸಂಖ್ಯೆಯ ಉಳಿವು ಮತ್ತು ಅವುಗಳ ಸಂರಕ್ಷಣೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು",
+        "ನಗರದ ಮೃಗಾಲಯಗಳಲ್ಲಿ ಮಾತ್ರ ಹುಲಿಗಳ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡಲು"
+      ],
+      "answer": "ದೇಶದಲ್ಲಿ ಹುಲಿಗಳ ಜನಸಂಖ್ಯೆಯ ಉಳಿವು ಮತ್ತು ಅವುಗಳ ಸಂರಕ್ಷಣೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು",
+      "reasoning": "ಅಕ್ರಮ ಬೇಟೆ ಮತ್ತು ಕಾಡುಗಳ ನಾಶದಿಂದ ಹುಲಿಗಳ ಸಂಖ್ಯೆ ಭಾರಿ ಪ್ರಮಾಣದಲ್ಲಿ ಕುಸಿದಿದ್ದರಿಂದ, ಅವುಗಳನ್ನು ನೈಸರ್ಗಿಕ ಪರಿಸರದಲ್ಲಿ ಉಳಿಸಿ ಸಂರಕ್ಷಿಸಲು 1973 ರಲ್ಲಿ 'ಪ್ರಾಜೆಕ್ಟ್ ಟೈಗರ್' ಯೋಜನೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c8_sci_cons_026",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Select all statements that correctly highlight the role of Biosphere Reserves:",
+      "options": [
+        "They help in maintaining biodiversity and culture of that area",
+        "They are designed to completely stop tribal people from entering forests",
+        "They may contain other protected areas like national parks inside them",
+        "They generate electricity from forest water sources"
+      ],
+      "answer": [
+        "They help in maintaining biodiversity and culture of that area",
+        "They may contain other protected areas like national parks inside them"
+      ],
+      "reasoning": "Biosphere reserves conserve both biodiversity and tribal culture. For example, Pachmarhi Biosphere Reserve contains Satpura National Park and two wildlife sanctuaries (Bori and Pachmarhi)."
+    },
+    "kn": {
+      "question": "ಜೀವಗೋಳ ಮೀಸಲು ಪ್ರದೇಶಗಳ ಪಾತ್ರವನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸುವ ಹೇಳಿಕೆಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "ಅವು ಆ ಪ್ರದೇಶದ ಜೀವವೈವಿಧ್ಯತೆ ಮತ್ತು ಸಂಸ್ಕೃತಿಯನ್ನು ಕಾಪಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ",
+        "ಅವು ಬುಡಕಟ್ಟು ಜನರು ಕಾಡಿಗೆ ಪ್ರವೇಶಿಸುವುದನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತಡೆಯಲು ರೂಪಿತವಾಗಿವೆ",
+        "ಅವುಗಳ ಒಳಗೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನದಂತಹ ಇತರ ಸಂರಕ್ಷಿತ ಪ್ರದೇಶಗಳು ಇರಬಹುದು",
+        "ಅವು ಅರಣ್ಯದ ಜಲ ಮೂಲಗಳಿಂದ ವಿದ್ಯುತ್ ಉತ್ಪಾದಿಸುತ್ತವೆ"
+      ],
+      "answer": [
+        "ಅವು ಆ ಪ್ರದೇಶದ ಜೀವವೈವಿಧ್ಯತೆ ಮತ್ತು ಸಂಸ್ಕೃತಿಯನ್ನು ಕಾಪಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ",
+        "ಅವುಗಳ ಒಳಗೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನದಂತಹ ಇತರ ಸಂರಕ್ಷಿತ ಪ್ರದೇಶಗಳು ಇರಬಹುದು"
+      ],
+      "reasoning": "ಜೀವಗೋಳ ಮೀಸಲು ಪ್ರದೇಶಗಳು ಜೀವವೈವಿಧ್ಯ ಮತ್ತು ಅಲ್ಲಿನ ಬುಡಕಟ್ಟು ಜನರ ಸಾಂಪ್ರದಾಯಿಕ ಸಂಸ್ಕೃತಿ ಎರಡನ್ನೂ ಕಾಪಾಡುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಪಚ್‌ಮಢಿ ಜೀವಗೋಳ ಪ್ರದೇಶದೊಳಗೆ ಸಾತ್ಪುರ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನ ಮತ್ತು ಬೋರಿ ಹಾಗೂ ಪಚ್‌ಮಢಿ ಎಂಬ ಎರಡು ಅಭಯಾರಣ್ಯಗಳಿವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_027",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following are consequences of global warming caused by deforestation?",
+      "options": [
+        "Melting of polar glaciers",
+        "Disturbance in rainfall patterns and water cycles",
+        "Decrease in the frequency of droughts",
+        "Rise in sea levels"
+      ],
+      "answer": [
+        "Melting of polar glaciers",
+        "Disturbance in rainfall patterns and water cycles",
+        "Rise in sea levels"
+      ],
+      "reasoning": "Global warming causes thermal expansion of oceans and melting of polar ice caps, leading to sea-level rise. It also disrupts water cycles and increases drought frequencies."
+    },
+    "kn": {
+      "question": "ಅರಣ್ಯನಾಶದಿಂದ ಉಂಟಾಗುವ ಜಾಗತಿಕ ತಾಪಮಾನ ಏರಿಕೆಯ ಪರಿಣಾಮಗಳು ಯಾವುವು?",
+      "options": [
+        "ಧ್ರುವ ಪ್ರದೇಶದ ಹಿಮನದಿಗಳು ಕರಗುವುದು",
+        "ಮಳೆ ಮತ್ತು ಜಲಚಕ್ರದ ಮಾದರಿಗಳಲ್ಲಿ ಏರುಪೇರು ಉಂಟಾಗುವುದು",
+        "ಬರಗಾಲದ ಆವರ್ತನಗಳು ಕಡಿಮೆಯಾಗುವುದು",
+        "ಸಮುದ್ರ ಮಟ್ಟದಲ್ಲಿ ಏರಿಕೆ"
+      ],
+      "answer": [
+        "ಧ್ರುವ ಪ್ರದೇಶದ ಹಿಮನದಿಗಳು ಕರಗುವುದು",
+        "ಮಳೆ ಮತ್ತು ಜಲಚಕ್ರದ ಮಾದರಿಗಳಲ್ಲಿ ಏರುಪೇರು ಉಂಟಾಗುವುದು",
+        "ಸಮುದ್ರ ಮಟ್ಟದಲ್ಲಿ ಏರಿಕೆ"
+      ],
+      "reasoning": "ಜಾಗತಿಕ ತಾಪಮಾನ ಏರಿಕೆಯಿಂದಾಗಿ ಧ್ರುವಗಳ ಮೇಲಿನ ಹಿಮ ಕರಗಿ ಸಮುದ್ರ ಮಟ್ಟ ಹೆಚ್ಚಾಗುತ್ತದೆ. ಇದು ಜಲಚಕ್ರವನ್ನು ಏರುಪೇರಾಗಿಸಿ ತೀವ್ರ ಬರಗಾಲ ಮತ್ತು ಪ್ರವಾಹಗಳಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_028",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the plant/animal species from Red Data Book with their threat classifications:",
+      "pairs": [
+        {"left": "Extinct", "right": "Passenger pigeon"},
+        {"left": "Endangered", "right": "Bengal Tiger"},
+        {"left": "Vulnerable", "right": "One-horned Rhino"},
+        {"left": "Critically Endangered", "right": "Gharial / Great Indian Bustard"}
+      ],
+      "reasoning": "Extinct species have disappeared completely. Endangered are in immediate danger of extinction. Vulnerable are likely to become endangered. Critically endangered are facing an extremely high risk."
+    },
+    "kn": {
+      "question": "ಕೆಂಪು ದತ್ತಾಂಶ ಪುಸ್ತಕದಲ್ಲಿನ ಸಸ್ಯ/ಪ್ರಾಣಿ ಪ್ರಭೇದಗಳನ್ನು ಅವುಗಳ ಅಪಾಯದ ವರ್ಗೀಕರಣಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಅಳಿದುಹೋದ ಜೀವಿ", "right": "ಪ್ಯಾಸೆಂಜರ್ ಪಾರಿವಾಳ (Passenger pigeon)"},
+        {"left": "ಅಳಿವಿನಂಚಿನಲ್ಲಿರುವ ಜೀವಿ", "right": "ಬಂಗಾಳ ಹುಲಿ"},
+        {"left": "ಸುಲಭವಾಗಿ ಹಾನಿಗೊಳಗಾಗುವ ಜೀವಿ", "right": "ಒಂಟಿಕೊಂಬಿನ ಖಡ್ಗಮೃಗ"},
+        {"left": "ಅತಿ ತೀವ್ರ ಅಪಾಯದಲ್ಲಿರುವ ಜೀವಿ", "right": "ಘಾರಿಯಾಲ್ ಮೊಸಳೆ / ಗ್ರೇಟ್ ಇಂಡಿಯನ್ ಬಸ್ಟರ್ಡ್"}
+      ],
+      "reasoning": "ಅಳಿದುಹೋದ ಜೀವಿಗಳು ಭೂಮಿಯಿಂದ ಕಣ್ಮರೆಯಾಗಿವೆ. ಅಳಿವಿನಂಚಿನಲ್ಲಿರುವ ಜೀವಿಗಳು ತೀವ್ರ ಅಪಾಯದಲ್ಲಿವೆ. ಸುಲಭವಾಗಿ ಹಾನಿಗೊಳಗಾಗುವ ಜೀವಿಗಳು ಮುಂದಿನ ದಿನಗಳಲ್ಲಿ ಅಪಾಯಕ್ಕೆ ತುತ್ತಾಗಬಹುದು. ಅತಿ ತೀವ್ರ ಅಪಾಯದ ಜೀವಿಗಳ ಸಂತತಿ ಅತಿ ಶೀಘ್ರದಲ್ಲಿ ನಾಶವಾಗಬಹುದು."
+    }
+  },
+  {
+    "id": "c8_sci_cons_029",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the environmental impacts with their biological explanations:",
+      "pairs": [
+        {"left": "Desertification", "right": "Loss of topsoil leading to rocky, barren ground"},
+        {"left": "Global Warming", "right": "Trapping of infrared rays by elevated atmospheric CO2"},
+        {"left": "Droughts", "right": "Reduced rainfall due to diminished plant transpiration"},
+        {"left": "Floods", "right": "Decreased soil infiltration rate causing surface runoff"}
+      ],
+      "reasoning": "These are direct ecological consequences of deforestation, explained through changes in biological and soil properties."
+    },
+    "kn": {
+      "question": "ಪರಿಸರದ ಮೇಲಾಗುವ ಪರಿಣಾಮಗಳನ್ನು ಅವುಗಳ ಜೈವಿಕ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಮರುಭೂಮೀಕರಣ", "right": "ಮೇಲ್ಮಣ್ಣಿನ ನಷ್ಟದಿಂದಾಗಿ ಒಣ ಹಾಗೂ ಕಲ್ಲುಗಳಿಂದ ಕೂಡಿದ ಭೂಮಿಯಾಗುವುದು"},
+        {"left": "ಜಾಗತಿಕ ತಾಪಮಾನ ಏರಿಕೆ", "right": "ವಾತಾವರಣದಲ್ಲಿ CO2 ಹೆಚ್ಚಳದಿಂದ ಅತಿಗೆಂಪು ಕಿರಣಗಳು ಸಿಲುಕಿಕೊಳ್ಳುವುದು"},
+        {"left": "ಬರಗಾಲ", "right": "ಸಸ್ಯಗಳ ಬಾಷ್ಪವಿಸರ್ಜನೆ ಕಡಿಮೆಯಾಗುವುದರಿಂದ ಮಳೆಯ ಪ್ರಮಾಣ ತಗ್ಗುವುದು"},
+        {"left": "ಪ್ರವಾಹ", "right": "ಮಣ್ಣಿನ ಇಂಗುವಿಕೆ ದರ ಕಡಿಮೆಯಾಗುವುದರಿಂದ ನೀರು ಮೇಲ್ಮೈಯಲ್ಲಿ ವೇಗವಾಗಿ ಹರಿಯುವುದು"}
+      ],
+      "reasoning": "ಇವು ಅರಣ್ಯನಾಶದ ಪ್ರಮುಖ ಪರಿಸರ ಪರಿಣಾಮಗಳಾಗಿದ್ದು, ಮಣ್ಣು ಮತ್ತು ವಾತಾವರಣದ ಜೈವಿಕ ಬದಲಾವಣೆಗಳ ಮೂಲಕ ವಿವರಿಸಲ್ಪಟ್ಟಿವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_cons_030",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the conservation act or project with its launch details or scope:",
+      "pairs": [
+        {"left": "Project Tiger", "right": "Launched in 1973 to save Bengal Tigers"},
+        {"left": "Forest Conservation Act", "right": "Enacted in 1980 in India to protect natural forests"},
+        {"left": "Wildlife Sanctuary", "right": "Protects animals inside their natural habitat without human interference"},
+        {"left": "Project Elephant", "right": "Launched in 1992 for elephant corridor protection"}
+      ],
+      "reasoning": "These are milestones in India's legal and biodiversity conservation history."
+    },
+    "kn": {
+      "question": "ಸಂರಕ್ಷಣಾ ಯೋಜನೆ ಅಥವಾ ಕಾಯ್ದೆಗಳನ್ನು ಅವುಗಳ ಜಾರಿಯ ವಿವರಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಪ್ರಾಜೆಕ್ಟ್ ಟೈಗರ್", "right": "ಬಂಗಾಳ ಹುಲಿಗಳನ್ನು ಉಳಿಸಲು 1973 ರಲ್ಲಿ ಪ್ರಾರಂಭಿಸಲಾಯಿತು"},
+        {"left": "ಅರಣ್ಯ ಸಂರಕ್ಷಣಾ ಕಾಯ್ದೆ", "right": "ನೈಸರ್ಗಿಕ ಕಾಡುಗಳ ರಕ್ಷಣೆಗಾಗಿ ಭಾರತದಲ್ಲಿ 1980 ರಲ್ಲಿ ಜಾರಿಗೆ ತರಲಾಯಿತು"},
+        {"left": "ಅಭಯಾರಣ್ಯ", "right": "ನೈಸರ್ಗಿಕ ವಾತಾವರಣದಲ್ಲಿ ಪ್ರಾಣಿಗಳಿಗೆ ತೊಂದರೆಯಾಗದಂತೆ ರಕ್ಷಿಸುತ್ತದೆ"},
+        {"left": "ಪ್ರಾಜೆಕ್ಟ್ ಎಲಿಫೆಂಟ್", "right": "ಆನೆಗಳ ಸಂಚಾರ ಮಾರ್ಗಗಳನ್ನು ರಕ್ಷಿಸಲು 1992 ರಲ್ಲಿ ಪ್ರಾರಂಭಿಸಲಾಯಿತು"}
+      ],
+      "reasoning": "ಇವು ಭಾರತದ ಪರಿಸರ ಮತ್ತು ವನ್ಯಜೀವಿ ಸಂರಕ್ಷಣೆಯ ಇತಿಹಾಸದ ಪ್ರಮುಖ ಮೈಲಿಗಲ್ಲುಗಳಾಗಿವೆ."
+    }
+  }
+]

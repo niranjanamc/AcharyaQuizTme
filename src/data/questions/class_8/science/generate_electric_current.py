@@ -1,0 +1,1012 @@
+import json
+
+questions = [
+  # --- EASY QUESTIONS (10) ---
+  {
+    "id": "c8_sci_elec_001",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which of the following liquids is generally a good conductor of electricity?",
+      "options": [
+        "Distilled water",
+        "Lemon juice",
+        "Honey",
+        "Vegetable oil"
+      ],
+      "answer": "Lemon juice",
+      "reasoning": "Lemon juice contains citric acid, which dissociates into ions when dissolved in water. These free ions are capable of carrying electric charge, making lemon juice a good conductor of electricity. Honey and vegetable oil do not have free ions."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ದ್ರವಗಳಲ್ಲಿ ಯಾವುದು ಸಾಮಾನ್ಯವಾಗಿ ವಿದ್ಯುತ್‌ನ ಉತ್ತಮ ವಾಹಕವಾಗಿದೆ?",
+      "options": [
+        "ಬಟ್ಟಿ ಇಳಿಸಿದ ನೀರು",
+        "ನಿಂಬೆ ರಸ",
+        "ಜೇನುತುಪ್ಪ",
+        "ಸಸ್ಯಜನ್ಯ ಎಣ್ಣೆ"
+      ],
+      "answer": "ನಿಂಬೆ ರಸ",
+      "reasoning": "ನಿಂಬೆ ರಸವು ಸಿಟ್ರಿಕ್ ಆಮ್ಲವನ್ನು ಹೊಂದಿರುತ್ತದೆ, ಇದು ನೀರಿನಲ್ಲಿ ಕರಗಿದಾಗ ಅಯಾನುಗಳಾಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತದೆ. ಈ ಮುಕ್ತ ಅಯಾನುಗಳು ವಿದ್ಯುತ್ ಆವೇಶವನ್ನು ಸಾಗಿಸಲು ಶಕ್ತವಾಗಿರುತ್ತವೆ, ಇದು ನಿಂಬೆ ರಸವನ್ನು ವಿದ್ಯುತ್‌ನ ಉತ್ತಮ ವಾಹಕವನ್ನಾಗಿ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_002",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Distilled water does not conduct electricity because:",
+      "options": [
+        "It is highly acidic.",
+        "It does not contain any dissolved salts or ions.",
+        "It has a very high temperature.",
+        "It is a metal in liquid state."
+      ],
+      "answer": "It does not contain any dissolved salts or ions.",
+      "reasoning": "Distilled water is pure water and is completely free of any dissolved salts, minerals, or impurities. Without these dissolved substances, there are no free ions to conduct electricity, making it a poor conductor."
+    },
+    "kn": {
+      "question": "ಬಟ್ಟಿ ಇಳಿಸಿದ ನೀರು ವಿದ್ಯುತ್ ಅನ್ನು ಹರಿಸುವುದಿಲ್ಲ ಏಕೆಂದರೆ:",
+      "options": [
+        "ಇದು ಹೆಚ್ಚು ಆಮ್ಲೀಯವಾಗಿದೆ.",
+        "ಇದು ಯಾವುದೇ ಕರಗಿದ ಲವಣಗಳು ಅಥವಾ ಅಯಾನುಗಳನ್ನು ಹೊಂದಿಲ್ಲ.",
+        "ಇದು ಅತಿ ಹೆಚ್ಚಿನ ತಾಪಮಾನವನ್ನು ಹೊಂದಿದೆ.",
+        "ಇದು ದ್ರವ ಸ್ಥಿತಿಯಲ್ಲಿರುವ ಲೋಹವಾಗಿದೆ."
+      ],
+      "answer": "ಇದು ಯಾವುದೇ ಕರಗಿದ ಲವಣಗಳು ಅಥವಾ ಅಯಾನುಗಳನ್ನು ಹೊಂದಿಲ್ಲ.",
+      "reasoning": "ಬಟ್ಟಿ ಇಳಿಸಿದ ನೀರು ಶುದ್ಧ ನೀರಾಗಿದ್ದು, ಯಾವುದೇ ಕರಗಿದ ಲವಣಗಳು, ಖನಿಜಗಳು ಅಥವಾ ಕಲ್ಮಶಗಳಿಂದ ಮುಕ್ತವಾಗಿರುತ್ತದೆ. ಈ ಕರಗಿದ ವಸ್ತುಗಳಿಲ್ಲದೆ, ವಿದ್ಯುತ್ ಹರಿಸಲು ಯಾವುದೇ ಮುಕ್ತ ಅಯಾನುಗಳು ಇರುವುದಿಲ್ಲ, ಆದ್ದರಿಂದ ಇದು ವಿದ್ಯುತ್‌ನ ದುರ್ಬಲ ವಾಹಕವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_003",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which of the following is NOT a typical chemical effect of an electric current passing through a liquid?",
+      "options": [
+        "Formation of gas bubbles at the electrodes",
+        "Deposition of metals on electrodes",
+        "Heating up of a copper resistor wire in air",
+        "Change of color of the liquid solution"
+      ],
+      "answer": "Heating up of a copper resistor wire in air",
+      "reasoning": "The heating of a copper resistor wire in air is a heating (thermal) effect of electric current, not a chemical effect. Chemical effects involve chemical changes in the electrolyte, such as bubble formation, metal deposition, or color changes."
+    },
+    "kn": {
+      "question": "ದ್ರವದ ಮೂಲಕ ವಿದ್ಯುತ್ ಪ್ರವಾಹವು ಹಾದುಹೋದಾಗ ಕಂಡುಬರುವ ಕೆಳಗಿನ ಯಾವ ಬದಲಾವಣೆಯು ರಾಸಾಯನಿಕ ಪರಿಣಾಮವಲ್ಲ?",
+      "options": [
+        "ವಿದ್ಯುದ್ವಾರಗಳ ಬಳಿ ಅನಿಲದ ಗುಳ್ಳೆಗಳು ಉಂಟಾಗುವುದು",
+        "ವಿದ್ಯುದ್ವಾರಗಳ ಮೇಲೆ ಲೋಹಗಳು ಸಂಗ್ರಹವಾಗುವುದು (ಲೇಪನವಾಗುವುದು)",
+        "ಗಾಳಿಯಲ್ಲಿ ತಾಮ್ರದ ರೋಧಕ ತಂತಿಯು ಕಾಯುವುದು",
+        "ದ್ರವದ ಬಣ್ಣ ಬದಲಾಗುವುದು"
+      ],
+      "answer": "ಗಾಳಿಯಲ್ಲಿ ತಾಮ್ರದ ರೋಧಕ ತಂತಿಯು ಕಾಯುವುದು",
+      "reasoning": "ಗಾಳಿಯಲ್ಲಿ ತಾಮ್ರದ ರೋಧಕ ತಂತಿಯು ಬಿಸಿಯಾಗುವುದು ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಉಷ್ಣ ಪರಿಣಾಮವಾಗಿದೆ (heating effect), ಇದು ರಾಸಾಯನಿಕ ಪರಿಣಾಮವಲ್ಲ. ರಾಸಾಯನಿಕ ಪರಿಣಾಮಗಳು ದ್ರವದಲ್ಲಿನ ಅಯಾನುಗಳ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_img_004",
+    "difficulty": 1,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"110\" y=\"80\" width=\"80\" height=\"90\" fill=\"rgba(191, 219, 254, 0.4)\" stroke=\"#2563EB\" stroke-width=\"3\" rx=\"4\" /><line x1=\"110\" y1=\"100\" x2=\"190\" y2=\"100\" stroke=\"#60A5FA\" stroke-width=\"2\" /><text x=\"150\" y=\"130\" fill=\"#1D4ED8\" font-family=\"Arial, sans-serif\" font-size=\"10\" font-weight=\"bold\" text-anchor=\"middle\">Saltwater</text><line x1=\"135\" y1=\"60\" x2=\"135\" y2=\"130\" stroke=\"#374151\" stroke-width=\"5\" /><line x1=\"165\" y1=\"60\" x2=\"165\" y2=\"130\" stroke=\"#374151\" stroke-width=\"5\" /><rect x=\"60\" y=\"20\" width=\"40\" height=\"25\" fill=\"#1F2937\" stroke=\"#111827\" stroke-width=\"2\" /><text x=\"66\" y=\"36\" fill=\"#EF4444\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">-</text><text x=\"90\" y=\"36\" fill=\"#10B981\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">+</text><circle cx=\"230\" cy=\"32\" r=\"14\" fill=\"#FEF08A\" stroke=\"#CA8A04\" stroke-width=\"2\" /><path d=\"M 224,42 C 224,45 236,45 236,42 Z\" fill=\"#9CA3AF\" /><line x1=\"230\" y1=\"12\" x2=\"230\" y2=\"4\" stroke=\"#EAB308\" stroke-width=\"2\" /><line x1=\"216\" y1=\"20\" x2=\"210\" y2=\"14\" stroke=\"#EAB308\" stroke-width=\"2\" /><line x1=\"244\" y1=\"20\" x2=\"250\" y2=\"14\" stroke=\"#EAB308\" stroke-width=\"2\" /><line x1=\"212\" y1=\"32\" x2=\"204\" y2=\"32\" stroke=\"#EAB308\" stroke-width=\"2\" /><line x1=\"248\" y1=\"32\" x2=\"256\" y2=\"32\" stroke=\"#EAB308\" stroke-width=\"2\" /><path d=\"M 60,32 C 40,32 40,60 135,60\" fill=\"none\" stroke=\"#EF4444\" stroke-width=\"2\" /><path d=\"M 100,32 L 216,32\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"2\" /><path d=\"M 230,46 C 230,60 180,60 165,60\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"2\" /></svg>",
+      "alt": {
+        "en": "A conductivity tester circuit with a battery, a glowing bulb, and two carbon electrodes dipped in saltwater.",
+        "kn": "ವಿದ್ಯುತ್ ಬ್ಯಾಟರಿ, ಬೆಳಗುತ್ತಿರುವ ದೀಪ ಮತ್ತು ಉಪ್ಪುನೀರಿನಲ್ಲಿ ಮುಳುಗಿಸಿದ ಎರಡು ಕಾರ್ಬನ್ ವಿದ್ಯುದ್ವಾರಗಳನ್ನು ಹೊಂದಿರುವ ವಿದ್ಯುತ್ ವಾಹಕತೆ ಪರೀಕ್ಷಕ ಸರ್ಕ್ಯೂಟ್."
+      }
+    },
+    "en": {
+      "question": "In the tester circuit shown, the bulb glows brightly when the carbon rods are dipped in saltwater. What does this observation prove?",
+      "options": [
+        "Saltwater is a good conductor of electricity.",
+        "Saltwater is a poor conductor of electricity.",
+        "Electricity cannot travel through liquids.",
+        "Saltwater is an insulator."
+      ],
+      "answer": "Saltwater is a good conductor of electricity.",
+      "reasoning": "When the bulb glows in a tester circuit, it indicates that the circuit is complete and current is flowing through the liquid. Since the bulb glows brightly, saltwater is a good conductor of electricity due to the presence of free sodium ($Na^+$) and chloride ($Cl^-$) ions."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಪರೀಕ್ಷಕ ಸರ್ಕ್ಯೂಟ್‌ನಲ್ಲಿ, ಕಾರ್ಬನ್ ಕಡ್ಡಿಗಳನ್ನು ಉಪ್ಪುನೀರಿನಲ್ಲಿ ಮುಳುಗಿಸಿದಾಗ ದೀಪವು ಪ್ರಕಾಶಮಾನವಾಗಿ ಬೆಳಗುತ್ತದೆ. ಈ ವೀಕ್ಷಣೆಯು ಏನನ್ನು ಸಾಬೀತುಪಡಿಸುತ್ತದೆ?",
+      "options": [
+        "ಉಪ್ಪುನೀರು ವಿದ್ಯುತ್‌ನ ಉತ್ತಮ ವಾಹಕವಾಗಿದೆ.",
+        "ಉಪ್ಪುನೀರು ವಿದ್ಯುತ್‌ನ ದುರ್ಬಲ ವಾಹಕವಾಗಿದೆ.",
+        "ವಿದ್ಯುತ್ ದ್ರವಗಳ ಮೂಲಕ ಚಲಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+        "ಉಪ್ಪುನೀರು ಒಂದು ಅವಾಹಕವಾಗಿದೆ."
+      ],
+      "answer": "ಉಪ್ಪುನೀರು ವಿದ್ಯುತ್‌ನ ಉತ್ತಮ ವಾಹಕವಾಗಿದೆ.",
+      "reasoning": "ಪರೀಕ್ಷಕ ಸರ್ಕ್ಯೂಟ್‌ನಲ್ಲಿ ದೀಪವು ಬೆಳಗಿದರೆ, ಸರ್ಕ್ಯೂಟ್ ಪೂರ್ಣಗೊಂಡಿದೆ ಮತ್ತು ದ್ರವದ ಮೂಲಕ ವಿದ್ಯುತ್ ಹರಿಯುತ್ತಿದೆ ಎಂದು ಅರ್ಥ. ಉಪ್ಪುನೀರಿನಲ್ಲಿ ಮುಕ್ತ ಸೋಡಿಯಂ ಮತ್ತು ಕ್ಲೋರೈಡ್ ಅಯಾನುಗಳು ಇರುವುದರಿಂದ ಅದು ವಿದ್ಯುತ್‌ನ ಉತ್ತಮ ವಾಹಕವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_img_005",
+    "difficulty": 1,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><path d=\"M 140,50 A 10,10 0 0,1 160,50 L 160,65 L 140,65 Z\" fill=\"#EF4444\" opacity=\"0.8\" stroke=\"#B91C1C\" stroke-width=\"1.5\" /><line x1=\"138\" y1=\"65\" x2=\"162\" y2=\"65\" stroke=\"#B91C1C\" stroke-width=\"2\" /><line x1=\"145\" y1=\"65\" x2=\"145\" y2=\"120\" stroke=\"#9CA3AF\" stroke-width=\"2\" /><text x=\"128\" y=\"95\" fill=\"#374151\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\">Lead A</text><line x1=\"155\" y1=\"65\" x2=\"155\" y2=\"105\" stroke=\"#9CA3AF\" stroke-width=\"2\" /><text x=\"165\" y=\"95\" fill=\"#374151\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\">Lead B</text><text x=\"145\" y=\"132\" fill=\"#374151\" font-family=\"Arial, sans-serif\" font-size=\"9\" text-anchor=\"middle\">Longer</text><text x=\"155\" y=\"117\" fill=\"#374151\" font-family=\"Arial, sans-serif\" font-size=\"9\" text-anchor=\"middle\">Shorter</text></svg>",
+      "alt": {
+        "en": "An LED bulb showing two wire leads of different lengths: Lead A is longer, Lead B is shorter.",
+        "kn": "ಬೇರೆ ಬೇರೆ ಉದ್ದದ ಎರಡು ವೈರ್ ಲೀಡ್‌ಗಳನ್ನು ಹೊಂದಿರುವ ಎಲ್‌ಇಡಿ (LED) ಬಲ್ಬ್: ಲೀಡ್ A ಉದ್ದವಾಗಿದೆ, ಲೀಡ್ B ಗಿಡ್ಡವಾಗಿದೆ."
+      }
+    },
+    "en": {
+      "question": "The diagram shows an LED used in a tester circuit for weak currents. Which of the leads should be connected to the positive terminal of the battery?",
+      "options": [
+        "Lead A (the longer lead)",
+        "Lead B (the shorter lead)",
+        "Either lead can be connected to the positive terminal.",
+        "Neither lead needs to be connected to the battery."
+      ],
+      "answer": "Lead A (the longer lead)",
+      "reasoning": "An LED (Light Emitting Diode) is a polar device. The longer lead (anode) must always be connected to the positive terminal of the battery, and the shorter lead (cathode) must be connected to the negative terminal for current to flow and light it up."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರವು ದುರ್ಬಲ ವಿದ್ಯುತ್ ಪ್ರವಾಹವನ್ನು ಪತ್ತೆಹಚ್ಚುವ ಪರೀಕ್ಷಕ ಸರ್ಕ್ಯೂಟ್‌ನಲ್ಲಿ ಬಳಸುವ ಎಲ್‌ಇಡಿ (LED) ಅನ್ನು ತೋರಿಸುತ್ತದೆ. ಇದರ ಯಾವ ತಂತಿಯನ್ನು ಬ್ಯಾಟರಿಯ ಧನ ಧ್ರುವಕ್ಕೆ (+) ಜೋಡಿಸಬೇಕು?",
+      "options": [
+        "ಲೀಡ್ A (ಉದ್ದವಾದ ತಂತಿ)",
+        "ಲೀಡ್ B (ಗಿಡ್ಡವಾದ ತಂತಿ)",
+        "ಯಾವ ತಂತಿಯನ್ನಾದರೂ ಧನ ಧ್ರುವಕ್ಕೆ ಜೋಡಿಸಬಹುದು.",
+        "ಯಾವ ತಂತಿಯನ್ನೂ ಬ್ಯಾಟರಿಗೆ ಜೋಡಿಸುವ ಅಗತ್ಯವಿಲ್ಲ."
+      ],
+      "answer": "ಲೀಡ್ A (ಉದ್ದವಾದ ತಂತಿ)",
+      "reasoning": "ಎಲ್‌ಇಡಿಯು ಧ್ರುವೀಯತೆಯನ್ನು (polarity) ಹೊಂದಿರುವ ಸಾಧನವಾಗಿದೆ. ಪ್ರವಾಹ ಹರಿದು ಅದು ಬೆಳಗಲು ಅದರ ಉದ್ದವಾದ ತಂತಿಯನ್ನು (ಧನ ಧ್ರುವ) ಯಾವಾಗಲೂ ಬ್ಯಾಟರಿಯ ಧನ ಧ್ರುವಕ್ಕೆ ಮತ್ತು ಗಿಡ್ಡ ತಂತಿಯನ್ನು (ಋಣ ಧ್ರುವ) ಋಣ ಧ್ರುವಕ್ಕೆ ಜೋಡಿಸಬೇಕು."
+    }
+  },
+  {
+    "id": "c8_sci_elec_006",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the process of depositing a thin layer of a desired metal on another metal object using electricity called?",
+      "options": [
+        "Electrochemical reduction",
+        "Electroplating",
+        "Electrolysis",
+        "Galvanization"
+      ],
+      "answer": "Electroplating",
+      "reasoning": "Electroplating is the process of depositing a layer of any desired metal on another material by means of electricity. It is widely used in industry for coating metal objects with thin layers of different metals."
+    },
+    "kn": {
+      "question": "ವಿದ್ಯುತ್ ಶಕ್ತಿಯನ್ನು ಬಳಸಿಕೊಂಡು ಒಂದು ಲೋಹದ ವಸ್ತುವಿನ ಮೇಲೆ ಮತ್ತೊಂದು ಅಪೇಕ್ಷಿತ ಲೋಹದ ತೆಳುವಾದ ಪದರವನ್ನು ಲೇಪಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ವಿದ್ಯುತ್ ರಾಸಾಯನಿಕ ಅಪಕರ್ಷಣ",
+        "ವಿದ್ಯುಲ್ಲೇಪನ (Electroplating)",
+        "ವಿದ್ಯುದ್ವಿಭಜನೆ (Electrolysis)",
+        "ಗ್ಯಾಲ್ವನೈಸೇಶನ್"
+      ],
+      "answer": "ವಿದ್ಯುಲ್ಲೇಪನ (Electroplating)",
+      "reasoning": "ವಿದ್ಯುತ್ ಶಕ್ತಿಯ ಸಹಾಯದಿಂದ ಮತ್ತೊಂದು ವಸ್ತುವಿನ ಮೇಲೆ ಯಾವುದೇ ಅಪೇಕ್ಷಿತ ಲೋಹದ ಪದರವನ್ನು ಲೇಪಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ವಿದ್ಯುಲ್ಲೇಪನ ಎನ್ನಲಾಗುತ್ತದೆ. ಲೋಹದ ವಸ್ತುಗಳ ಮೇಲೆ ಬೇರೆ ಲೋಹದ ಪದರವನ್ನು ಲೇಪಿಸಲು ಕೈಗಾರಿಕೆಗಳಲ್ಲಿ ಇದನ್ನು ವ್ಯಾಪಕವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_007",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which metal is commonly electroplated on bicycle handlebars and bath taps to give them a shiny appearance and prevent scratches?",
+      "options": [
+        "Chromium",
+        "Zinc",
+        "Copper",
+        "Iron"
+      ],
+      "answer": "Chromium",
+      "reasoning": "Chromium has a shiny appearance, does not corrode easily, and resists scratches. Since chromium is expensive, the object is made from a cheaper metal (like iron) and electroplated with a thin layer of chromium."
+    },
+    "kn": {
+      "question": "ಬೈಸಿಕಲ್‌ನ ಹ್ಯಾಂಡಲ್‌ಬಾರ್ ಮತ್ತು ನಲ್ಲಿಗಳ ಮೇಲೆ ಹೊಳಪನ್ನು ನೀಡಲು ಮತ್ತು ಗೀರುಗಳನ್ನು ತಡೆಯಲು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಲೋಹವನ್ನು ವಿದ್ಯುಲ್ಲೇಪನ ಮಾಡಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಕ್ರೋಮಿಯಂ",
+        "ಸತು (Zinc)",
+        "ತಾಮ್ರ (Copper)",
+        "ಕಬ್ಬಿಣ (Iron)"
+      ],
+      "answer": "ಕ್ರೋಮಿಯಂ",
+      "reasoning": "ಕ್ರೋಮಿಯಂ ಹೊಳಪಾದ ನೋಟವನ್ನು ಹೊಂದಿದೆ, ಸುಲಭವಾಗಿ ತುಕ್ಕು ಹಿಡಿಯುವುದಿಲ್ಲ ಮತ್ತು ಗೀರುಗಳನ್ನು ಪ್ರತಿರೋಧಿಸುತ್ತದೆ. ಕ್ರೋಮಿಯಂ ದುಬಾರಿಯಾಗಿರುವುದರಿಂದ, ವಸ್ತುವನ್ನು ಅಗ್ಗದ ಲೋಹದಿಂದ (ಕಬ್ಬಿಣದಂತಹ) ತಯಾರಿಸಿ ಅದರ ಮೇಲೆ ಕ್ರೋಮಿಯಂನ ತೆಳುವಾದ ಪದರವನ್ನು ವಿದ್ಯುಲ್ಲೇಪನ ಮಾಡಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_008",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Select all the liquid solutions from the options below that are good conductors of electricity.",
+      "options": [
+        "Vinegar",
+        "Sugar solution in distilled water",
+        "Dilute hydrochloric acid",
+        "Honey"
+      ],
+      "answer": [
+        "Vinegar",
+        "Dilute hydrochloric acid"
+      ],
+      "reasoning": "Vinegar contains acetic acid, and dilute hydrochloric acid contains hydrochloric acid; both dissociate into conducting ions in water. Sugar is a covalent compound and does not form ions in distilled water. Honey is made of sugars and organic compounds which do not conduct electricity."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ದ್ರವ ದ್ರಾವಣಗಳಲ್ಲಿ ವಿದ್ಯುತ್‌ನ ಉತ್ತಮ ವಾಹಕಗಳಾಗಿರುವವುಗಳನ್ನು ಆರಿಸಿ.",
+      "options": [
+        "ವಿನೆಗರ್ (ಆಮ್ಲ)",
+        "ಬಟ್ಟಿ ಇಳಿಸಿದ ನೀರಿನಲ್ಲಿ ಸಕ್ಕರೆ ದ್ರಾವಣ",
+        "ಸಾರರಿಕ್ತ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ",
+        "ಜೇನುತುಪ್ಪ"
+      ],
+      "answer": [
+        "ವಿನೆಗರ್ (ಆಮ್ಲ)",
+        "ಸಾರರಿಕ್ತ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ"
+      ],
+      "reasoning": "ವಿನೆಗರ್ ಅಸಿಟಿಕ್ ಆಮ್ಲವನ್ನು ಮತ್ತು ಸಾರರಿಕ್ತ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲವು ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲವನ್ನು ಹೊಂದಿರುತ್ತವೆ; ಇವೆರಡೂ ನೀರಿನಲ್ಲಿ ಅಯಾನುಗಳಾಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತವೆ. ಸಕ್ಕರೆಯು ಸಹವೇಲೆನ್ಸೀಯ ಸಂಯುಕ್ತವಾಗಿದ್ದು ಅಯಾನುಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವುದಿಲ್ಲ. ಜೇನುತುಪ್ಪವು ವಿದ್ಯುತ್ ಹರಿಸುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_009",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match the materials with their electrical conductivity classifications.",
+      "pairs": [
+        {
+          "left": "Tap water",
+          "right": "Good conductor (contains mineral salts)"
+        },
+        {
+          "left": "Distilled water",
+          "right": "Poor conductor (no dissolved salts)"
+        },
+        {
+          "left": "Kerosene",
+          "right": "Poor conductor (organic liquid without ions)"
+        },
+        {
+          "left": "Lemon juice",
+          "right": "Good conductor (contains citric acid)"
+        }
+      ],
+      "reasoning": "Tap water has mineral ions; distilled water lacks salts; kerosene is an organic compound with no ions; lemon juice has conducting citric acid."
+    },
+    "kn": {
+      "question": "ವಸ್ತುಗಳನ್ನು ಅವುಗಳ ವಿದ್ಯುತ್ ವಾಹಕತೆಯ ವರ್ಗೀಕರಣದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ನಲ್ಲಿ ನೀರು (ನಲ್ಲಿಯ ನೀರು)",
+          "right": "ಉತ್ತಮ ವಾಹಕ (ಖನಿಜ ಲವಣಗಳನ್ನು ಹೊಂದಿದೆ)"
+        },
+        {
+          "left": "ಬಟ್ಟಿ ಇಳಿಸಿದ ನೀರು",
+          "right": "ದುರ್ಬಲ ವಾಹಕ (ಕರಗಿದ ಲವಣಗಳಿಲ್ಲ)"
+        },
+        {
+          "left": "ಸೀಮೆಎಣ್ಣೆ (ಕೆರೋಸಿನ್)",
+          "right": "ದುರ್ಬಲ ವಾಹಕ (ಅಯಾನುಗಳಿಲ್ಲದ ಸಾವಯವ ದ್ರವ)"
+        },
+        {
+          "left": "ನಿಂಬೆ ರಸ",
+          "right": "ಉತ್ತಮ ವಾಹಕ (ಸಿಟ್ರಿಕ್ ಆಮ್ಲವನ್ನು ಹೊಂದಿದೆ)"
+        }
+      ],
+      "reasoning": "ನಲ್ಲಿ ನೀರು ಖನಿಜ ಅಯಾನುಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ; ಬಟ್ಟಿ ಇಳಿಸಿದ ನೀರಿನಲ್ಲಿ ಲವಣಗಳಿಲ್ಲ; ಸೀಮೆಎಣ್ಣೆ ಅಯಾನುಗಳಿಲ್ಲದ ಸಾವಯವ ಸಂಯುಕ್ತವಾಗಿದೆ; ನಿಂಬೆ ರಸವು ವಾಹಕ ಸಿಟ್ರಿಕ್ ಆಮ್ಲವನ್ನು ಹೊಂದಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_010",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match the terms associated with electrolysis with their appropriate descriptions.",
+      "pairs": [
+        {
+          "left": "Anode",
+          "right": "Electrode connected to the positive terminal of the battery"
+        },
+        {
+          "left": "Cathode",
+          "right": "Electrode connected to the negative terminal of the battery"
+        },
+        {
+          "left": "Electrolyte",
+          "right": "Liquid solution that decomposes when current passes through"
+        },
+        {
+          "left": "Electrode",
+          "right": "Solid conductor (carbon rod or metal plate) in the liquid"
+        }
+      ],
+      "reasoning": "Anode is positive; cathode is negative; electrolyte is the conducting liquid; electrode is the solid conductor immersed in the liquid."
+    },
+    "kn": {
+      "question": "ವಿದ್ಯುದ್ವಿಭಜನೆಗೆ ಸಂಬಂಧಿಸಿದ ಪದಗಳನ್ನು ಅವುಗಳ ಸೂಕ್ತ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಧನ ವಿದ್ಯುದ್ವಾರ (Anode)",
+          "right": "ಬ್ಯಾಟರಿಯ ಧನ ಧ್ರುವಕ್ಕೆ ಜೋಡಿಸಲಾದ ವಿದ್ಯುದ್ವಾರ"
+        },
+        {
+          "left": "ಋಣ ವಿದ್ಯುದ್ವಾರ (Cathode)",
+          "right": "ಬ್ಯಾಟರಿಯ ಋಣ ಧ್ರುವಕ್ಕೆ ಜೋಡಿಸಲಾದ ವಿದ್ಯುದ್ವಾರ"
+        },
+        {
+          "left": "ವಿದ್ಯುದ್ವಿಭಾಜ್ಯ (Electrolyte)",
+          "right": "ವಿದ್ಯುತ್ ಹರಿದಾಗ ವಿಭಜನೆಗೊಳ್ಳುವ ದ್ರವ ದ್ರಾವಣ"
+        },
+        {
+          "left": "ವಿದ್ಯುದ್ವಾರ (Electrode)",
+          "right": "ದ್ರವದಲ್ಲಿ ಮುಳುಗಿಸಲಾದ ಘನ ವಾಹಕ (ಕಾರ್ಬನ್ ಕಡ್ಡಿ ಅಥವಾ ಲೋಹದ ಪಟ್ಟಿ)"
+        }
+      ],
+      "reasoning": "ಧನ ವಿದ್ಯುದ್ವಾರವು ಧನ ಧ್ರುವಕ್ಕೆ; ಋಣ ವಿದ್ಯುದ್ವಾರವು ಋಣ ಧ್ರುವಕ್ಕೆ ಜೋಡಿಸಲ್ಪಟ್ಟಿರುತ್ತದೆ; ವಿದ್ಯುದ್ವಿಭಾಜ್ಯ ಎಂಬುದು ವಾಹಕ ದ್ರವ; ವಿದ್ಯುದ್ವಾರವು ದ್ರವದಲ್ಲಿ ಮುಳುಗಿಸಿರುವ ಘನ ವಾಹಕವಾಗಿದೆ."
+    }
+  },
+  
+  # --- MEDIUM QUESTIONS (10) ---
+  {
+    "id": "c8_sci_elec_011",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Why does ordinary tap water conduct electricity, whereas pure distilled water does not?",
+      "options": [
+        "Tap water contains dissolved mineral salts and impurities that form free ions.",
+        "Tap water is a compound, whereas distilled water is a mixture.",
+        "Distilled water is highly reactive with carbon electrodes.",
+        "Tap water contains large amounts of dissolved hydrogen gas."
+      ],
+      "answer": "Tap water contains dissolved mineral salts and impurities that form free ions.",
+      "reasoning": "Tap water is not completely pure; it contains small amounts of dissolved mineral salts and impurities. These salts dissociate into free ions, which conduct electricity. Distilled water is pure and contains no dissolved salts or ions to carry charge."
+    },
+    "kn": {
+      "question": "ಸಾಮಾನ್ಯ ನಲ್ಲಿ ನೀರು ವಿದ್ಯುತ್ ಹರಿಸುತ್ತದೆ, ಆದರೆ ಶುದ್ಧ ಬಟ್ಟಿ ಇಳಿಸಿದ ನೀರು ಏಕೆ ಹರಿಸುವುದಿಲ್ಲ?",
+      "options": [
+        "ನಲ್ಲಿ ನೀರು ಕರಗಿದ ಖನಿಜ ಲವಣಗಳು ಮತ್ತು ಕಲ್ಮಶಗಳನ್ನು ಹೊಂದಿದ್ದು, ಅವು ಮುಕ್ತ ಅಯಾನುಗಳನ್ನು ರೂಪಿಸುತ್ತವೆ.",
+        "ನಲ್ಲಿ ನೀರು ಒಂದು ಸಂಯುಕ್ತವಾಗಿದೆ, ಆದರೆ ಬಟ್ಟಿ ಇಳಿಸಿದ ನೀರು ಮಿಶ್ರಣವಾಗಿದೆ.",
+        "ಬಟ್ಟಿ ಇಳಿಸಿದ ನೀರು ಕಾರ್ಬನ್ ವಿದ್ಯುದ್ವಾರಗಳೊಂದಿಗೆ ಹೆಚ್ಚು ವರ್ತಿಸುತ್ತದೆ.",
+        "ನಲ್ಲಿ ನೀರು ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದ ಕರಗಿದ ಹೈಡ್ರೋಜನ್ ಅನಿಲವನ್ನು ಹೊಂದಿದೆ."
+      ],
+      "answer": "ನಲ್ಲಿ ನೀರು ಕರಗಿದ ಖನಿಜ ಲವಣಗಳು ಮತ್ತು ಕಲ್ಮಶಗಳನ್ನು ಹೊಂದಿದ್ದು, ಅವು ಮುಕ್ತ ಅಯಾನುಗಳನ್ನು ರೂಪಿಸುತ್ತವೆ.",
+      "reasoning": "ನಲ್ಲಿ ನೀರು ಸಂಪೂರ್ಣವಾಗಿ ಶುದ್ಧವಾಗಿರುವುದಿಲ್ಲ; ಇದು ಸಣ್ಣ ಪ್ರಮಾಣದ ಕರಗಿದ ಖನಿಜ ಲವಣಗಳು ಮತ್ತು ಕಲ್ಮಶಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಈ ಲವಣಗಳು ಮುಕ್ತ ಅಯಾನುಗಳಾಗಿ ವಿಭಜನೆಗೊಂಡು ವಿದ್ಯುತ್ ಹರಿಸುತ್ತವೆ. ಬಟ್ಟಿ ಇಳಿಸಿದ ನೀರು ಶುದ್ಧವಾಗಿದ್ದು ಇಂತಹ ಯಾವುದೇ ಲವಣಗಳನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_012",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "During the electrolysis of acidified water, oxygen gas bubbles are formed at which electrode?",
+      "options": [
+        "At the electrode connected to the negative terminal of the battery",
+        "At the electrode connected to the positive terminal of the battery",
+        "At both electrodes equally",
+        "Oxygen does not form bubbles; it dissolves completely in water"
+      ],
+      "answer": "At the electrode connected to the positive terminal of the battery",
+      "reasoning": "Oxygen ions ($O^{2-}$) in water are negatively charged. During electrolysis, these negative ions migrate toward the positive electrode (anode), where they lose electrons to form oxygen gas ($O_2$) bubbles."
+    },
+    "kn": {
+      "question": "ಆಮ್ಲೀಕರಿಸಿದ ನೀರಿನ ವಿದ್ಯುದ್ವಿಭಜನೆಯ ಸಮಯದಲ್ಲಿ, ಆಮ್ಲಜನಕ (ಆಕ್ಸಿಜನ್) ಅನಿಲದ ಗುಳ್ಳೆಗಳು ಯಾವ ವಿದ್ಯುದ್ವಾರದಲ್ಲಿ ಉಂಟಾಗುತ್ತವೆ?",
+      "options": [
+        "ಬ್ಯಾಟರಿಯ ಋಣ ಧ್ರುವಕ್ಕೆ ಜೋಡಿಸಲಾದ ವಿದ್ಯುದ್ವಾರದಲ್ಲಿ",
+        "ಬ್ಯಾಟರಿಯ ಧನ ಧ್ರುವಕ್ಕೆ ಜೋಡಿಸಲಾದ ವಿದ್ಯುದ್ವಾರದಲ್ಲಿ",
+        "ಎರಡೂ ವಿದ್ಯುದ್ವಾರಗಳಲ್ಲಿ ಸಮಾನವಾಗಿ",
+        "ಆಕ್ಸಿಜನ್ ಗುಳ್ಳೆಗಳನ್ನು ಉಂಟುಮಾಡುವುದಿಲ್ಲ; ಅದು ನೀರಿನಲ್ಲಿ ಸಂಪೂರ್ಣವಾಗಿ ಕರಗುತ್ತದೆ"
+      ],
+      "answer": "ಬ್ಯಾಟರಿಯ ಧನ ಧ್ರುವಕ್ಕೆ ಜೋಡಿಸಲಾದ ವಿದ್ಯುದ್ವಾರದಲ್ಲಿ",
+      "reasoning": "ನೀರಿನಲ್ಲಿರುವ ಆಕ್ಸಿಜನ್ ಅಯಾನುಗಳು ಋಣಾತ್ಮಕ ಆವೇಶವನ್ನು ಹೊಂದಿರುತ್ತವೆ. ವಿದ್ಯುದ್ವಿಭಜನೆಯ ಸಮಯದಲ್ಲಿ, ಈ ಋಣ ಅಯಾನುಗಳು ಧನ ವಿದ್ಯುದ್ವಾರದ (ಅನೋಡ್) ಕಡೆಗೆ ಚಲಿಸುತ್ತವೆ, ಅಲ್ಲಿ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಕಳೆದುಕೊಂಡು ಆಕ್ಸಿಜನ್ ಅನಿಲದ ($O_2$) ಗುಳ್ಳೆಗಳನ್ನು ರೂಪಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_img_013",
+    "difficulty": 2,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"90\" y=\"70\" width=\"120\" height=\"110\" fill=\"rgba(191, 219, 254, 0.4)\" stroke=\"#2563EB\" stroke-width=\"3\" rx=\"4\" /><line x1=\"90\" y1=\"90\" x2=\"210\" y2=\"90\" stroke=\"#60A5FA\" stroke-width=\"2\" /><text x=\"150\" y=\"170\" fill=\"#1D4ED8\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\">Acidified Water</text><rect x=\"115\" y=\"50\" width=\"12\" height=\"100\" fill=\"#374151\" stroke=\"#1F2937\" stroke-width=\"1.5\" /><text x=\"121\" y=\"42\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">X</text><rect x=\"173\" y=\"50\" width=\"12\" height=\"100\" fill=\"#374151\" stroke=\"#1F2937\" stroke-width=\"1.5\" /><text x=\"179\" y=\"42\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">Y</text><circle cx=\"113\" cy=\"95\" r=\"3\" fill=\"#E0F2FE\" stroke=\"#0284C7\" stroke-width=\"1\" /><circle cx=\"110\" cy=\"115\" r=\"4\" fill=\"#E0F2FE\" stroke=\"#0284C7\" stroke-width=\"1\" /><circle cx=\"129\" cy=\"105\" r=\"3\" fill=\"#E0F2FE\" stroke=\"#0284C7\" stroke-width=\"1\" /><circle cx=\"129\" cy=\"130\" r=\"4\" fill=\"#E0F2FE\" stroke=\"#0284C7\" stroke-width=\"1\" /><circle cx=\"168\" cy=\"92\" r=\"3\" fill=\"#E0F2FE\" stroke=\"#0284C7\" stroke-width=\"1\" /><circle cx=\"169\" cy=\"108\" r=\"3\" fill=\"#E0F2FE\" stroke=\"#0284C7\" stroke-width=\"1\" /><circle cx=\"170\" cy=\"125\" r=\"3\" fill=\"#E0F2FE\" stroke=\"#0284C7\" stroke-width=\"1\" /><circle cx=\"188\" cy=\"98\" r=\"3\" fill=\"#E0F2FE\" stroke=\"#0284C7\" stroke-width=\"1\" /><circle cx=\"190\" cy=\"112\" r=\"4.5\" fill=\"#E0F2FE\" stroke=\"#0284C7\" stroke-width=\"1\" /><circle cx=\"189\" cy=\"135\" r=\"3\" fill=\"#E0F2FE\" stroke=\"#0284C7\" stroke-width=\"1\" /><rect x=\"130\" y=\"10\" width=\"40\" height=\"20\" fill=\"#1F2937\" stroke=\"#111827\" stroke-width=\"1.5\" /><text x=\"135\" y=\"24\" fill=\"#EF4444\" font-family=\"Arial, sans-serif\" font-size=\"10\" font-weight=\"bold\">+</text><text x=\"165\" y=\"24\" fill=\"#10B981\" font-family=\"Arial, sans-serif\" font-size=\"10\" font-weight=\"bold\">-</text><path d=\"M 130,20 Q 100,20 120,50\" fill=\"none\" stroke=\"#EF4444\" stroke-width=\"2\" /><path d=\"M 170,20 Q 200,20 180,50\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"2\" /></svg>",
+      "alt": {
+        "en": "Water electrolysis setup: Electrode X is connected to the positive terminal (+), Electrode Y is connected to the negative terminal (-). Bubble count around Y is double that of X.",
+        "kn": "ನೀರಿನ ವಿದ್ಯುದ್ವಿಭಜನೆಯ ಜೋಡಣೆ: ವಿದ್ಯುದ್ವಾರ X ಧನ ಧ್ರುವಕ್ಕೆ (+) ಜೋಡಿತವಾಗಿದೆ, ವಿದ್ಯುದ್ವಾರ Y ಋಣ ಧ್ರುವಕ್ಕೆ (-) ಜೋಡಿತವಾಗಿದೆ. Y ಸುತ್ತಲಿನ ಗುಳ್ಳೆಗಳ ಸಂಖ್ಯೆ X ಗಿಂತ ಎರಡರಷ್ಟಿದೆ."
+      }
+    },
+    "en": {
+      "question": "In the water electrolysis setup shown, which of the following statements is correct regarding Electrode X and Electrode Y?",
+      "options": [
+        "X is Anode (oxygen gas); Y is Cathode (hydrogen gas).",
+        "X is Cathode (hydrogen gas); Y is Anode (oxygen gas).",
+        "X is Anode (hydrogen gas); Y is Cathode (oxygen gas).",
+        "X is Cathode (oxygen gas); Y is Anode (hydrogen gas)."
+      ],
+      "answer": "X is Anode (oxygen gas); Y is Cathode (hydrogen gas).",
+      "reasoning": "Electrode X is connected to the positive terminal, making it the Anode where negatively charged oxygen ions form oxygen gas. Electrode Y is connected to the negative terminal, making it the Cathode where positively charged hydrogen ions form hydrogen gas. Water ($H_2O$) has two hydrogen atoms for every oxygen atom, so twice as much hydrogen gas is formed at Y."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ನೀರಿನ ವಿದ್ಯುದ್ವಿಭಜನೆಯ ಜೋಡಣೆಯಲ್ಲಿ, ವಿದ್ಯುದ್ವಾರ X ಮತ್ತು ವಿದ್ಯುದ್ವಾರ Y ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಯು ಸರಿಯಾಗಿದೆ?",
+      "options": [
+        "X ಎಂಬುದು ಧನ ವಿದ್ಯುದ್ವಾರ (ಆಕ್ಸಿಜನ್ ಅನಿಲ); Y ಎಂಬುದು ಋಣ ವಿದ್ಯುದ್ವಾರ (ಹೈಡ್ರೋಜನ್ ಅನಿಲ).",
+        "X ಎಂಬುದು ಋಣ ವಿದ್ಯುದ್ವಾರ (ಹೈಡ್ರೋಜನ್ ಅನಿಲ); Y ಎಂಬುದು ಧನ ವಿದ್ಯುದ್ವಾರ (ಆಕ್ಸಿಜನ್ ಅನಿಲ).",
+        "X ಎಂಬುದು ಧನ ವಿದ್ಯುದ್ವಾರ (ಹೈಡ್ರೋಜನ್ ಅನಿಲ); Y ಎಂಬುದು ಋಣ ವಿದ್ಯುದ್ವಾರ (ಆಕ್ಸಿಜನ್ ಅನಿಲ).",
+        "X ಎಂಬುದು ಋಣ ವಿದ್ಯುದ್ವಾರ (ಆಕ್ಸಿಜನ್ ಅನಿಲ); Y ಎಂಬುದು ಧನ ವಿದ್ಯುದ್ವಾರ (ಹೈಡ್ರೋಜನ್ ಅನಿಲ)."
+      ],
+      "answer": "X ಎಂಬುದು ಧನ ವಿದ್ಯುದ್ವಾರ (ಆಕ್ಸಿಜನ್ ಅನಿಲ); Y ಎಂಬುದು ಋಣ ವಿದ್ಯುದ್ವಾರ (ಹೈಡ್ರೋಜನ್ ಅನಿಲ).",
+      "reasoning": "ವಿದ್ಯುದ್ವಾರ X ಧನ ಧ್ರುವಕ್ಕೆ ಜೋಡಿತವಾಗಿರುವುದರಿಂದ ಅದು ಧನ ವಿದ್ಯುದ್ವಾರ (Anode) ಆಗಿದ್ದು, ಅಲ್ಲಿ ಆಕ್ಸಿಜನ್ ಅನಿಲ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. Y ಋಣ ಧ್ರುವಕ್ಕೆ ಜೋಡಿತವಾಗಿರುವುದರಿಂದ ಋಣ ವಿದ್ಯುದ್ವಾರ (Cathode) ಆಗಿದ್ದು ಹೈಡ್ರೋಜನ್ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ನೀರಿನಲ್ಲಿ ($H_2O$) ಹೈಡ್ರೋಜನ್ ಪ್ರಮಾಣವು ಆಕ್ಸಿಜನ್‌ಗಿಂತ ಎರಡರಷ್ಟಿರುವುದರಿಂದ Y ನಲ್ಲಿ ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದ ಗುಳ್ಳೆಗಳು ಕಂಡುಬರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_img_014",
+    "difficulty": 2,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"120\" y=\"60\" width=\"60\" height=\"60\" fill=\"#FDE047\" stroke=\"#CA8A04\" stroke-width=\"2\" rx=\"3\" /><circle cx=\"150\" cy=\"90\" r=\"22\" fill=\"#FFFFFF\" stroke=\"#374151\" stroke-width=\"2\" /><polygon points=\"150,72 155,90 145,90\" fill=\"#EF4444\" transform=\"rotate(30, 150, 90)\" /><polygon points=\"150,108 155,90 145,90\" fill=\"#9CA3AF\" transform=\"rotate(30, 150, 90)\" /><circle cx=\"150\" cy=\"90\" r=\"3\" fill=\"#374151\" /><text x=\"150\" y=\"79\" fill=\"#9CA3AF\" font-family=\"Arial, sans-serif\" font-size=\"8\" text-anchor=\"middle\">N</text><text x=\"150\" y=\"106\" fill=\"#9CA3AF\" font-family=\"Arial, sans-serif\" font-size=\"8\" text-anchor=\"middle\">S</text><path d=\"M 90,90 L 120,90 M 180,90 L 210,90\" stroke=\"#EA580C\" stroke-width=\"2.5\" /><path d=\"M 125,60 L 125,120 M 135,60 L 135,120 M 145,60 L 145,120 M 155,60 L 155,120 M 165,60 L 165,120 M 175,60 L 175,120\" stroke=\"#EA580C\" stroke-width=\"2\" opacity=\"0.9\" /><path d=\"M 90,90 Q 70,90 70,150\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"2.5\" /><path d=\"M 210,90 Q 230,90 230,150\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"2.5\" /><text x=\"150\" y=\"145\" fill=\"#CA8A04\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\">Magnetic Tester</text></svg>",
+      "alt": {
+        "en": "A conductivity tester using a magnetic compass. A wire wrapped around a matchbox containing a compass needle, which is deflected.",
+        "kn": "ಕಾಂತಸೂಚಿಯನ್ನು ಹೊಂದಿರುವ, ಪರೀಕ್ಷಕವಾಗಿ ಬಳಸುವ ತಂತಿ ಸುತ್ತಿದ ಬೆಂಕಿಪೆಟ್ಟಿಗೆ. ಕಾಂತಸೂಚಿಯ ಮುಳ್ಳು ವಿಚಲನೆಗೊಂಡಿದೆ."
+      }
+    },
+    "en": {
+      "question": "A tester is constructed by wrapping wire around a matchbox containing a compass needle as shown. When the free ends are dipped in a liquid, the needle deflects. What causes this deflection?",
+      "options": [
+        "The chemical reaction between the wire and the compass",
+        "The magnetic effect of the electric current flowing through the wire",
+        "The heat generated by the liquid on the compass",
+        "The physical force of liquid waves hitting the matchbox"
+      ],
+      "answer": "The magnetic effect of the electric current flowing through the wire",
+      "reasoning": "Even when a current is too weak to glow a bulb, it still creates a magnetic field around the wire (magnetic effect of current). This magnetic field acts on the magnetic compass needle inside, causing it to deflect."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ದಿಕ್ಸೂಚಿಯ ಮುಳ್ಳನ್ನು ಹೊಂದಿರುವ ಬೆಂಕಿಪೆಟ್ಟಿಗೆಯ ಸುತ್ತ ತಂತಿಯನ್ನು ಸುತ್ತಿ ಪರೀಕ್ಷಕವನ್ನು ತಯಾರಿಸಲಾಗಿದೆ. ತಂತಿಯ ಮುಕ್ತ ತುದಿಗಳನ್ನು ದ್ರವದಲ್ಲಿ ಮುಳುಗಿಸಿದಾಗ ಮುಳ್ಳು ವಿಚಲನೆಗೊಳ್ಳುತ್ತದೆ. ಈ ವಿಚಲನೆಗೆ ಕಾರಣವೇನು?",
+      "options": [
+        "ತಂತಿ ಮತ್ತು ದಿಕ್ಸೂಚಿಯ ನಡುವಿನ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ",
+        "ತಂತಿಯ ಮೂಲಕ ಹರಿಯುವ ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಕಾಂತೀಯ ಪರಿಣಾಮ",
+        "ದ್ರವದಿಂದ ದಿಕ್ಸೂಚಿಯ ಮೇಲೆ ಉಂಟಾಗುವ ಉಷ್ಣತೆ",
+        "ಬೆಂಕಿಪೆಟ್ಟಿಗೆಗೆ ತಗುಲುವ ದ್ರವ ತರಂಗಗಳ ಭೌತಿಕ ಬಲ"
+      ],
+      "answer": "ತಂತಿಯ ಮೂಲಕ ಹರಿಯುವ ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಕಾಂತೀಯ ಪರಿಣಾಮ",
+      "reasoning": "ವಿದ್ಯುತ್ ಪ್ರವಾಹವು ಬಲ್ಬ್ ಅನ್ನು ಬೆಳಗಿಸಲು ಸಾಧ್ಯವಾಗದಷ್ಟು ಅತ್ಯಂತ ದುರ್ಬಲವಾಗಿದ್ದರೂ, ಅದು ತಂತಿಯ ಸುತ್ತ ಕಾಂತೀಯ ಕ್ಷೇತ್ರವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ (ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಕಾಂತೀಯ ಪರಿಣಾಮ). ಈ ಕಾಂತೀಯ ಕ್ಷೇತ್ರವು ಒಳಗಿರುವ ಕಾಂತಸೂಚಿಯ ಮುಳ್ಳಿನ ಮೇಲೆ ವರ್ತಿಸಿ ಅದು ವಿಚಲನೆಗೊಳ್ಳುವಂತೆ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_015",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Which of the following changes can occur in a chemical solution when an electric current passes through it?",
+      "options": [
+        "Only the deposition of metals on the electrodes",
+        "Only the formation of gas bubbles at the electrodes",
+        "Only changes in the color of the solution",
+        "Any of these: bubble formation, metal deposition, or color changes"
+      ],
+      "answer": "Any of these: bubble formation, metal deposition, or color changes",
+      "reasoning": "Depending on the nature of the electrolyte and electrodes used, passing electric current can cause various chemical reactions, including: (1) gas release at electrodes, (2) metal deposits on electrodes, and (3) chemical reaction leading to color changes of the solution."
+    },
+    "kn": {
+      "question": "ವಿದ್ಯುತ್ ಪ್ರವಾಹವು ರಾಸಾಯನಿಕ ದ್ರಾವಣದ ಮೂಲಕ ಹಾದುಹೋದಾಗ ಕೆಳಗಿನ ಯಾವ ಬದಲಾವಣೆಗಳು ಉಂಟಾಗಬಹುದು?",
+      "options": [
+        "ವಿದ್ಯುದ್ವಾರಗಳ ಮೇಲೆ ಲೋಹಗಳು ಸಂಗ್ರಹವಾಗುವುದು ಮಾತ್ರ",
+        "ವಿದ್ಯುದ್ವಾರಗಳ ಬಳಿ ಅನಿಲದ ಗುಳ್ಳೆಗಳು ಉಂಟಾಗುವುದು ಮಾತ್ರ",
+        "ದ್ರಾವಣದ ಬಣ್ಣ ಬದಲಾಗುವುದು ಮಾತ್ರ",
+        "ಇವುಗಳಲ್ಲಿ ಯಾವುದಾದರೂ: ಗುಳ್ಳೆಗಳು ಉಂಟಾಗುವುದು, ಲೋಹ ಲೇಪನವಾಗುವುದು ಅಥವಾ ಬಣ್ಣ ಬದಲಾಗುವುದು"
+      ],
+      "answer": "ಇವುಗಳಲ್ಲಿ ಯಾವುದಾದರೂ: ಗುಳ್ಳೆಗಳು ಉಂಟಾಗುವುದು, ಲೋಹ ಲೇಪನವಾಗುವುದು ಅಥವಾ ಬಣ್ಣ ಬದಲಾಗುವುದು",
+      "reasoning": "ವಿದ್ಯುದ್ವಿಭಾಜ್ಯ ಮತ್ತು ಬಳಸಿದ ವಿದ್ಯುದ್ವಾರಗಳ ಸ್ವರೂಪಕ್ಕೆ ಅನುಗುಣವಾಗಿ, ವಿದ್ಯುತ್ ಹರಿಸಿದಾಗ ವಿವಿಧ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳು ಉಂಟಾಗಬಹುದು: ಅನಿಲದ ಗುಳ್ಳೆಗಳು ಉಂಟಾಗಬಹುದು, ಲೋಹಗಳು ಲೇಪನವಾಗಬಹುದು ಅಥವಾ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಿಂದ ದ್ರಾವಣದ ಬಣ್ಣ ಬದಲಾಗಬಹುದು."
+    }
+  },
+  {
+    "id": "c8_sci_elec_016",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "To prevent rusting, iron structures used in bridges and automobiles are coated with which metal?",
+      "options": [
+        "Chromium",
+        "Zinc",
+        "Copper",
+        "Silver"
+      ],
+      "answer": "Zinc",
+      "reasoning": "Zinc is electroplated on iron to prevent corrosion and rusting. Zinc acts as a protective barrier and is more reactive than iron, so it corrodes preferentially (sacrificial protection), protecting the underlying iron."
+    },
+    "kn": {
+      "question": "ಸೇತುವೆಗಳು ಮತ್ತು ವಾಹನಗಳಲ್ಲಿ ಬಳಸುವ ಕಬ್ಬಿಣವು ತುಕ್ಕು ಹಿಡಿಯದಂತೆ ತಡೆಯಲು ಅದಕ್ಕೆ ಯಾವ ಲೋಹದ ಲೇಪನವನ್ನು ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಕ್ರೋಮಿಯಂ",
+        "ಸತು (Zinc)",
+        "ತಾಮ್ರ (Copper)",
+        "ಬೆಳ್ಳಿ (Silver)"
+      ],
+      "answer": "ಸತು (Zinc)",
+      "reasoning": "ಕಬ್ಬಿಣವು ತುಕ್ಕು ಹಿಡಿಯದಂತೆ ತಡೆಯಲು ಅದರ ಮೇಲೆ ಸತುವನ್ನು ವಿದ್ಯುಲ್ಲೇಪನ ಮಾಡಲಾಗುತ್ತದೆ. ಸತುವು ರಕ್ಷಣಾತ್ಮಕ ಪದರವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ ಮತ್ತು ಕಬ್ಬಿಣಕ್ಕಿಂತ ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲವಾಗಿರುವುದರಿಂದ ಕಬ್ಬಿಣವನ್ನು ತುಕ್ಕಿನಿಂದ ರಕ್ಷಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_017",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Why is it highly dangerous to touch electrical switches or operate appliances with wet hands?",
+      "options": [
+        "Water decreases the voltage of the household electrical supply.",
+        "Water containing dissolved salts is a good conductor of electricity, increasing the risk of electric shock.",
+        "Water makes the plastic switch melt instantly.",
+        "Water increases the resistance of human skin dramatically."
+      ],
+      "answer": "Water containing dissolved salts is a good conductor of electricity, increasing the risk of electric shock.",
+      "reasoning": "Our hands are rarely wet with pure distilled water; water from taps or sweat contains dissolved salts, making it a good conductor. Wet skin has very low electrical resistance, allowing a large current to pass through the body if a switch is touched, resulting in a dangerous shock."
+    },
+    "kn": {
+      "question": "ಒದ್ದೆಯಾದ ಕೈಗಳಿಂದ ವಿದ್ಯುತ್ ಸ್ವಿಚ್‌ಗಳನ್ನು ಸ್ಪರ್ಶಿಸುವುದು ಅಥವಾ ಉಪಕರಣಗಳನ್ನು ಬಳಸುವುದು ಅತ್ಯಂತ ಅಪಾಯಕಾರಿ ಏಕೆ?",
+      "options": [
+        "ನೀರು ಮನೆಯ ವಿದ್ಯುತ್ ಸರಬರಾಜಿನ ವೋಲ್ಟೇಜ್ ಅನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+        "ಕರಗಿದ ಲವಣಗಳನ್ನು ಹೊಂದಿರುವ ನೀರು ವಿದ್ಯುತ್‌ನ ಉತ್ತಮ ವಾಹಕವಾಗಿದ್ದು, ವಿದ್ಯುತ್ ಆಘಾತದ (ಶಾಕ್) ಅಪಾಯವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+        "ನೀರು ಪ್ಲಾಸ್ಟಿಕ್ ಸ್ವಿಚ್ ಅನ್ನು ತಕ್ಷಣ ಕರಗುವಂತೆ ಮಾಡುತ್ತದೆ.",
+        "ನೀರು ಮಾನವ ಚರ್ಮದ ರೋಧವನ್ನು ತೀವ್ರವಾಗಿ ಹೆಚ್ಚಿಸುತ್ತದೆ."
+      ],
+      "answer": "ಕರಗಿದ ಲವಣಗಳನ್ನು ಹೊಂದಿರುವ ನೀರು ವಿದ್ಯುತ್‌ನ ಉತ್ತಮ ವಾಹಕವಾಗಿದ್ದು, ವಿದ್ಯುತ್ ಆಘಾತದ (ಶಾಕ್) ಅಪಾಯವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "reasoning": "ನಲ್ಲಿಯ ನೀರು ಅಥವಾ ನಮ್ಮ ಬೆವರಿನ ನೀರು ಕರಗಿದ ಲವಣಗಳನ್ನು ಹೊಂದಿದ್ದು ವಿದ್ಯುತ್ ಹರಿಸುತ್ತದೆ. ಚರ್ಮ ಒದ್ದೆಯಾದಾಗ ಅದರ ವಿದ್ಯುತ್ ರೋಧ ಕಡಿಮೆಯಾಗಿ ದೇಹದ ಮೂಲಕ ಹೆಚ್ಚಿನ ವಿದ್ಯುತ್ ಹರಿಯಲು ಕಾರಣವಾಗುತ್ತದೆ, ಇದು ಪ್ರಾಣಾಪಾಯ ಉಂಟುಮಾಡಬಲ್ಲ ಶಾಕ್ ನೀಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_018",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Select all the common applications of electroplating in commercial industries.",
+      "options": [
+        "Coating cheap jewelry with gold or silver to enhance appearance",
+        "Plating iron food cans with a layer of tin",
+        "Covering copper electric wires with PVC plastic coatings",
+        "Galvanizing iron girders used in bridges with a layer of zinc"
+      ],
+      "answer": [
+        "Coating cheap jewelry with gold or silver to enhance appearance",
+        "Plating iron food cans with a layer of tin",
+        "Galvanizing iron girders used in bridges with a layer of zinc"
+      ],
+      "reasoning": "Jewelry plating, tinning food cans, and zinc galvanizing iron are all chemical electroplating processes. Covering wires with PVC is a physical mechanical process of insulation, not electroplating."
+    },
+    "kn": {
+      "question": "ವಾಣಿಜ್ಯ ಕೈಗಾರಿಕೆಗಳಲ್ಲಿ ವಿದ್ಯುಲ್ಲೇಪನದ ಸಾಮಾನ್ಯ ಅನ್ವಯಿಕೆಗಳನ್ನು ಆರಿಸಿ.",
+      "options": [
+        "ಅಗ್ಗದ ಆಭರಣಗಳಿಗೆ ಆಕರ್ಷಕವಾಗಿ ಕಾಣಲು ಚಿನ್ನ ಅಥವಾ ಬೆಳ್ಳಿಯ ಲೇಪನ ನೀಡುವುದು",
+        "ಆಹಾರ ಸಂಗ್ರಹಿಸುವ ಕಬ್ಬಿಣದ ಡಬ್ಬಿಗಳಿಗೆ ತವರದ (Tin) ಲೇಪನ ನೀಡುವುದು",
+        "ತಾಮ್ರದ ವಿದ್ಯುತ್ ತಂತಿಗಳನ್ನು ಪಿವಿಸಿ (PVC) ಪ್ಲಾಸ್ಟಿಕ್‌ನಿಂದ ಮುಚ್ಚುವುದು",
+        "ಸೇತುವೆಗಳಲ್ಲಿ ಬಳಸುವ ಕಬ್ಬಿಣದ ಗಿರ್ಡರ್‌ಗಳಿಗೆ ಸತುವಿನ (Zinc) ಲೇಪನ ನೀಡುವುದು"
+      ],
+      "answer": [
+        "ಅಗ್ಗದ ಆಭರಣಗಳಿಗೆ ಆಕರ್ಷಕವಾಗಿ ಕಾಣಲು ಚಿನ್ನ ಅಥವಾ ಬೆಳ್ಳಿಯ ಲೇಪನ ನೀಡುವುದು",
+        "ಆಹಾರ ಸಂಗ್ರಹಿಸುವ ಕಬ್ಬಿಣದ ಡಬ್ಬಿಗಳಿಗೆ ತವರದ (Tin) ಲೇಪನ ನೀಡುವುದು",
+        "ಸೇತುವೆಗಳಲ್ಲಿ ಬಳಸುವ ಕಬ್ಬಿಣದ ಗಿರ್ಡರ್‌ಗಳಿಗೆ ಸತುವಿನ (Zinc) ಲೇಪನ ನೀಡುವುದು"
+      ],
+      "reasoning": "ಆಭರಣಗಳಿಗೆ ಚಿನ್ನ/ಬೆಳ್ಳಿ ಲೇಪಿಸುವುದು, ಆಹಾರದ ಡಬ್ಬಿಗಳಿಗೆ ತವರ ಲೇಪಿಸುವುದು ಮತ್ತು ಕಬ್ಬಿಣಕ್ಕೆ ಸತು ಲೇಪಿಸುವುದು ವಿದ್ಯುಲ್ಲೇಪನ ಪ್ರಕ್ರಿಯೆಗಳಾಗಿವೆ. ತಂತಿಗಳ ಮೇಲೆ PVC ಪ್ಲಾಸ್ಟಿಕ್ ಮುಚ್ಚುವುದು ಭೌತಿಕ ಪ್ರಕ್ರಿಯೆಯೇ ಹೊರತು ವಿದ್ಯುಲ್ಲೇಪನವಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_019",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following statements are correct regarding the chemical effects of electric current?",
+      "options": [
+        "Passing current through acidified water decomposes it into hydrogen and oxygen gases.",
+        "Electroplating can deposit a thin layer of gold on a cheaper metal.",
+        "Distilled water can be converted into a conductor by adding sugar.",
+        "The passage of current through a conducting liquid always leads to heating but never to any chemical change."
+      ],
+      "answer": [
+        "Passing current through acidified water decomposes it into hydrogen and oxygen gases.",
+        "Electroplating can deposit a thin layer of gold on a cheaper metal."
+      ],
+      "reasoning": "Acidified water undergoes electrolysis, decomposing into $H_2$ and $O_2$ gases. Electroplating is used to deposit gold on cheap metals. Adding sugar to distilled water does not make it a conductor because sugar does not form ions. Current passage through conducting liquids definitely causes chemical changes."
+    },
+    "kn": {
+      "question": "ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ರಾಸಾಯನಿಕ ಪರಿಣಾಮಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ?",
+      "options": [
+        "ಆಮ್ಲೀಕರಿಸಿದ ನೀರಿನ ಮೂಲಕ ವಿದ್ಯುತ್ ಹರಿಸಿದಾಗ ಅದು ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಆಕ್ಸಿಜನ್ ಅನಿಲಗಳಾಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತದೆ.",
+        "ವಿದ್ಯುಲ್ಲೇಪನದಿಂದ ಅಗ್ಗದ ಲೋಹದ ಮೇಲೆ ಚಿನ್ನದ ತೆಳುವಾದ ಪದರವನ್ನು ಲೇಪಿಸಬಹುದು.",
+        "ಬಟ್ಟಿ ಇಳಿಸಿದ ನೀರಿಗೆ ಸಕ್ಕರೆಯನ್ನು ಸೇರಿಸುವ ಮೂಲಕ ಅದನ್ನು ಉತ್ತಮ ವಾಹಕವಾಗಿ ಮಾಡಬಹುದು.",
+        "ವಾಹಕ ದ್ರವದ ಮೂಲಕ ವಿದ್ಯುತ್ ಹಾದುಹೋದಾಗ ಯಾವಾಗಲೂ ಕಾಯುತ್ತದೆ ಆದರೆ ಯಾವುದೇ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ ಉಂಟಾಗುವುದಿಲ್ಲ."
+      ],
+      "answer": [
+        "ಆಮ್ಲೀಕರಿಸಿದ ನೀರಿನ ಮೂಲಕ ವಿದ್ಯುತ್ ಹರಿಸಿದಾಗ ಅದು ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಆಕ್ಸಿಜನ್ ಅನಿಲಗಳಾಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತದೆ.",
+        "ವಿದ್ಯುಲ್ಲೇಪನದಿಂದ ಅಗ್ಗದ ಲೋಹದ ಮೇಲೆ ಚಿನ್ನದ ತೆಳುವಾದ ಪದರವನ್ನು ಲೇಪಿಸಬಹುದು."
+      ],
+      "reasoning": "ಆಮ್ಲೀಕರಿಸಿದ ನೀರು ವಿದ್ಯುದ್ವಿಭಜನೆಗೆ ಒಳಗಾಗಿ ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಆಕ್ಸಿಜನ್ ಆಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತದೆ. ಅಗ್ಗದ ಲೋಹದ ಮೇಲೆ ಚಿನ್ನ ಲೇಪಿಸಲು ವಿದ್ಯುಲ್ಲೇಪನ ಬಳಸುತ್ತಾರೆ. ಸಕ್ಕರೆ ಅಯಾನುಗಳನ್ನು ಉಂಟುಮಾಡದ ಕಾರಣ ಸಕ್ಕರೆ ಸೇರಿಸಿದರೆ ನೀರು ವಾಹಕವಾಗುವುದಿಲ್ಲ. ವಿದ್ಯುತ್ ಹರಿದಾಗ ದ್ರವಗಳಲ್ಲಿ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳು ಉಂಟಾಗುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_020",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the electroplated item with the primary metal coating deposited on it.",
+      "pairs": [
+        {
+          "left": "Bicycle rims and car bumpers",
+          "right": "Chromium (shiny, scratch resistant)"
+        },
+        {
+          "left": "Cheap artificial ornaments",
+          "right": "Gold or Silver (rich appearance, low cost)"
+        },
+        {
+          "left": "Iron sheets for roof construction",
+          "right": "Zinc (rust prevention by galvanization)"
+        },
+        {
+          "left": "Tin cans used for storing food",
+          "right": "Tin (less reactive than iron, prevents food spoilage)"
+        }
+      ],
+      "reasoning": "Bicycle rims use Chromium; ornaments use Gold/Silver; roof iron sheets use Zinc; food cans use Tin."
+    },
+    "kn": {
+      "question": "ವಿದ್ಯುಲ್ಲೇಪಿತ ವಸ್ತುಗಳನ್ನು ಅವುಗಳ ಮೇಲೆ ಲೇಪಿಸಲಾಗುವ ಪ್ರಮುಖ ಲೋಹದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಬೈಸಿಕಲ್ ರಿಮ್ಸ್ ಮತ್ತು ಕಾರಿನ ಬಂಪರ್ಸ್",
+          "right": "ಕ್ರೋಮಿಯಂ (ಹೊಳಪು ಮತ್ತು ಗೀರು ನಿರೋಧಕ)"
+        },
+        {
+          "left": "ಅಗ್ಗದ ಕೃತಕ ಆಭರಣಗಳು",
+          "right": "ಚಿನ್ನ ಅಥವಾ ಬೆಳ್ಳಿ (ಆಕರ್ಷಕ ನೋಟ, ಕಡಿಮೆ ವೆಚ್ಚ)"
+        },
+        {
+          "left": "ಛಾವಣಿ ನಿರ್ಮಾಣಕ್ಕೆ ಬಳಸುವ ಕಬ್ಬಿಣದ ಹಾಳೆಗಳು",
+          "right": "ಸತು (ಗ್ಯಾಲ್ವನೈಸೇಶನ್ ಮೂಲಕ ತುಕ್ಕು ತಡೆಗಟ್ಟುವಿಕೆ)"
+        },
+        {
+          "left": "ಆಹಾರ ಸಂಗ್ರಹಣೆಗೆ ಬಳಸುವ ಕಬ್ಬಿಣದ ಡಬ್ಬಿಗಳು",
+          "right": "ತವರ (ಕಬ್ಬಿಣಕ್ಕಿಂತ ಕಡಿಮೆ ಕ್ರಿಯಾಶೀಲ, ಆಹಾರ ಹಾಳಾಗುವುದನ್ನು ತಡೆಯುತ್ತದೆ)"
+        }
+      ],
+      "reasoning": "ಬೈಸಿಕಲ್ ರಿಮ್ಸ್‌ಗಳಿಗೆ ಕ್ರೋಮಿಯಂ ಲೇಪಿಸುತ್ತಾರೆ; ಕೃತಕ ಆಭರಣಗಳಿಗೆ ಚಿನ್ನ/ಬೆಳ್ಳಿ; ಕಬ್ಬಿಣದ ಹಾಳೆಗಳಿಗೆ ಸತು; ಆಹಾರದ ಡಬ್ಬಿಗಳಿಗೆ ತವರವನ್ನು ಲೇಪಿಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  
+  # --- HARD QUESTIONS (10) ---
+  {
+    "id": "c8_sci_elec_img_021",
+    "difficulty": 3,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"80\" y=\"60\" width=\"140\" height=\"120\" fill=\"rgba(147, 197, 253, 0.5)\" stroke=\"#2563EB\" stroke-width=\"3\" rx=\"4\" /><line x1=\"80\" y1=\"85\" x2=\"220\" y2=\"85\" stroke=\"#3B82F6\" stroke-width=\"2\" /><text x=\"150\" y=\"165\" fill=\"#1D4ED8\" font-family=\"Arial, sans-serif\" font-size=\"10\" font-weight=\"bold\" text-anchor=\"middle\">Copper Sulphate Solution</text><rect x=\"100\" y=\"45\" width=\"20\" height=\"80\" fill=\"#F97316\" stroke=\"#C2410C\" stroke-width=\"2\" /><text x=\"110\" y=\"35\" fill=\"#C2410C\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\">Copper</text><circle cx=\"180\" cy=\"70\" r=\"10\" fill=\"none\" stroke=\"#4B5563\" stroke-width=\"3\" /><line x1=\"180\" y1=\"80\" x2=\"180\" y2=\"125\" stroke=\"#4B5563\" stroke-width=\"4\" /><line x1=\"180\" y1=\"110\" x2=\"190\" y2=\"110\" stroke=\"#4B5563\" stroke-width=\"3\" /><line x1=\"180\" y1=\"120\" x2=\"190\" y2=\"120\" stroke=\"#4B5563\" stroke-width=\"3\" /><text x=\"180\" y=\"35\" fill=\"#4B5563\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\">Iron Key</text><rect x=\"120\" y=\"10\" width=\"60\" height=\"20\" fill=\"#1F2937\" stroke=\"#111827\" stroke-width=\"2\" /><text x=\"130\" y=\"24\" fill=\"#EF4444\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">+</text><text x=\"170\" y=\"24\" fill=\"#10B981\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">-</text><path d=\"M 120,20 L 110,20 L 110,45\" fill=\"none\" stroke=\"#EF4444\" stroke-width=\"2\" /><path d=\"M 180,20 L 180,60\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"2\" /><text x=\"145\" y=\"110\" fill=\"#EA580C\" font-family=\"Arial, sans-serif\" font-size=\"9\" font-weight=\"bold\">Cu²⁺</text><path d=\"M 130,110 L 160,110\" stroke=\"#EA580C\" stroke-width=\"1\" stroke-dasharray=\"2,2\" /><polygon points=\"160,110 155,107 155,113\" fill=\"#EA580C\" /></svg>",
+      "alt": {
+        "en": "Copper electroplating: Copper plate connected to positive terminal (+), Iron key connected to negative terminal (-), in copper sulphate solution.",
+        "kn": "ತಾಮ್ರದ ವಿದ್ಯುಲ್ಲೇಪನ: ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ದ್ರಾವಣದಲ್ಲಿ, ತಾಮ್ರದ ಪಟ್ಟಿಯನ್ನು ಧನ ಧ್ರುವಕ್ಕೂ (+) ಮತ್ತು ಕಬ್ಬಿಣದ ಕೀಲಿಯನ್ನು ಋಣ ಧ್ರುವಕ್ಕೂ (-) ಜೋಡಿಸಲಾಗಿದೆ."
+      }
+    },
+    "en": {
+      "question": "The diagram shows a setup for coating an iron key with copper. To deposit copper onto the key, why must the iron key be connected to the negative terminal of the battery?",
+      "options": [
+        "Positively charged copper ions ($Cu^{2+}$) in the solution are attracted to the negative electrode, where they gain electrons and deposit as copper metal.",
+        "Negatively charged copper ions in the solution are repelled by the positive copper plate.",
+        "The negative terminal heats the iron key, melting the copper directly onto its surface.",
+        "Connecting it to the positive terminal would release chlorine gas that destroys the key."
+      ],
+      "answer": "Positively charged copper ions ($Cu^{2+}$) in the solution are attracted to the negative electrode, where they gain electrons and deposit as copper metal.",
+      "reasoning": "Copper sulphate dissociates into positive copper ions ($Cu^{2+}$) and negative sulphate ions ($SO_4^{2-}$). Since opposite charges attract, the positive $Cu^{2+}$ ions migrate to the negative electrode (the iron key). There, they gain electrons from the circuit, turn into neutral copper atoms, and deposit as a layer on the key."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರವು ಕಬ್ಬಿಣದ ಕೀಲಿಯ ಮೇಲೆ ತಾಮ್ರದ ಲೇಪನವನ್ನು ನೀಡುವ ಜೋಡಣೆಯನ್ನು ತೋರಿಸುತ್ತದೆ. ಕೀಲಿಯ ಮೇಲೆ ತಾಮ್ರವು ಲೇಪನಗೊಳ್ಳಲು, ಅದನ್ನು ಬ್ಯಾಟರಿಯ ಋಣ ಧ್ರುವಕ್ಕೆ (-) ಏಕೆ ಜೋಡಿಸಬೇಕು?",
+      "options": [
+        "ದ್ರಾವಣದಲ್ಲಿರುವ ಧನಾವೇಶಿತ ತಾಮ್ರದ ಅಯಾನುಗಳು ($Cu^{2+}$) ಋಣ ವಿದ್ಯುದ್ವಾರಕ್ಕೆ ಆಕರ್ಷಿತಗೊಂಡು, ಅಲ್ಲಿ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಪಡೆದು ತಾಮ್ರದ ಲೋಹವಾಗಿ ಸಂಗ್ರಹವಾಗುತ್ತವೆ.",
+        "ದ್ರಾವಣದಲ್ಲಿರುವ ಋಣಾವೇಶಿತ ತಾಮ್ರದ ಅಯಾನುಗಳು ಧನ ತಾಮ್ರದ ಪಟ್ಟಿಯಿಂದ ವಿಕರ್ಷಿಸಲ್ಪಡುತ್ತವೆ.",
+        "ಋಣ ಧ್ರುವವು ಕಬ್ಬಿಣದ ಕೀಲಿಯನ್ನು ಕಾಯಿಸುತ್ತದೆ, ಇದು ತಾಮ್ರವನ್ನು ಅದರ ಮೇಲ್ಮೈ ಮೇಲೆ ನೇರವಾಗಿ ಕರಗಿಸುತ್ತದೆ.",
+        "ಧನ ಧ್ರುವಕ್ಕೆ ಜೋಡಿಸಿದರೆ ಕ್ಲೋರಿನ್ ಅನಿಲ ಬಿಡುಗಡೆಯಾಗಿ ಕೀಲಿಯನ್ನು ನಾಶಪಡಿಸುತ್ತದೆ."
+      ],
+      "answer": "ದ್ರಾವಣದಲ್ಲಿರುವ ಧನಾವೇಶಿತ ತಾಮ್ರದ ಅಯಾನುಗಳು ($Cu^{2+}$) ಋಣ ವಿದ್ಯುದ್ವಾರಕ್ಕೆ ಆಕರ್ಷಿತಗೊಂಡು, ಅಲ್ಲಿ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಪಡೆದು ತಾಮ್ರದ ಲೋಹವಾಗಿ ಸಂಗ್ರಹವಾಗುತ್ತವೆ.",
+      "reasoning": "ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಧನ ತಾಮ್ರದ ಅಯಾನುಗಳು ($Cu^{2+}$) ಮತ್ತು ಋಣ ಸಲ್ಫೇಟ್ ಅಯಾನುಗಳಾಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತದೆ. ವಿರುದ್ಧ ಆವೇಶಗಳು ಆಕರ್ಷಿಸುವುದರಿಂದ, ಧನಾವೇಶದ $Cu^{2+}$ ಅಯಾನುಗಳು ಋಣ ವಿದ್ಯುದ್ವಾರವಾದ ಕಬ್ಬಿಣದ ಕೀಲಿಯ ಕಡೆಗೆ ಚಲಿಸುತ್ತವೆ. ಅಲ್ಲಿ ಅವು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಪಡೆದು ತಾಮ್ರದ ಪರಮಾಣುಗಳಾಗಿ ಕೀಲಿಯ ಮೇಲೆ ಲೇಪನಗೊಳ್ಳುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_022",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "In the copper electroplating experiment shown previously, what is the chemical role of the copper plate connected to the positive terminal of the battery?",
+      "options": [
+        "It acts as a cathode and receives copper deposits from the iron key.",
+        "It dissolves copper into the solution, replacing the copper ions that were deposited on the key.",
+        "It releases oxygen gas bubbles to clean the solution.",
+        "It absorbs sulphate ions, converting the electrolyte into pure water."
+      ],
+      "answer": "It dissolves copper into the solution, replacing the copper ions that were deposited on the key.",
+      "reasoning": "As copper ions ($Cu^{2+}$) from the electrolyte deposit on the iron key, an equal amount of copper dissolves from the copper plate (anode) into the solution as $Cu^{2+}$ ions. This keeps the concentration of copper sulphate in the electrolyte constant."
+    },
+    "kn": {
+      "question": "ಹಿಂದಿನ ತಾಮ್ರದ ವಿದ್ಯುಲ್ಲೇಪನ ಪ್ರಯೋಗದಲ್ಲಿ, ಬ್ಯಾಟರಿಯ ಧನ ಧ್ರುವಕ್ಕೆ ಜೋಡಿಸಲಾದ ತಾಮ್ರದ ಪಟ್ಟಿಯ ರಾಸಾಯನಿಕ ಪಾತ್ರವೇನು?",
+      "options": [
+        "ಇದು ಋಣ ವಿದ್ಯುದ್ವಾರವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ ಮತ್ತು ಕಬ್ಬಿಣದ ಕೀಲಿಯಿಂದ ತಾಮ್ರವನ್ನು ಪಡೆಯುತ್ತದೆ.",
+        "ಇದು ಕೀಲಿಯ ಮೇಲೆ ಲೇಪನವಾದ ತಾಮ್ರದ ಅಯಾನುಗಳನ್ನು ಸರಿದೂಗಿಸಲು ದ್ರಾವಣದಲ್ಲಿ ಕರಗಿ ತಾಮ್ರದ ಅಯಾನುಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
+        "ಇದು ದ್ರಾವಣವನ್ನು ಶುದ್ಧೀಕರಿಸಲು ಆಕ್ಸಿಜನ್ ಅನಿಲದ ಗುಳ್ಳೆಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
+        "ಇದು ಸಲ್ಫೇಟ್ ಅಯಾನುಗಳನ್ನು ಹೀರಿಕೊಂಡು ವಿದ್ಯುದ್ವಿಭಾಜ್ಯವನ್ನು ಶುದ್ಧ ನೀರಾಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ."
+      ],
+      "answer": "ಇದು ಕೀಲಿಯ ಮೇಲೆ ಲೇಪನವಾದ ತಾಮ್ರದ ಅಯಾನುಗಳನ್ನು ಸರಿದೂಗಿಸಲು ದ್ರಾವಣದಲ್ಲಿ ಕರಗಿ ತಾಮ್ರದ ಅಯಾನುಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
+      "reasoning": "ದ್ರಾವಣದಲ್ಲಿನ ತಾಮ್ರದ ಅಯಾನುಗಳು ($Cu^{2+}$) ಕಬ್ಬಿಣದ ಕೀಲಿಯ ಮೇಲೆ ಲೇಪನಗೊಳ್ಳುತ್ತಿದ್ದಂತೆ, ಅಷ್ಟೇ ಪ್ರಮಾಣದ ತಾಮ್ರವು ಧನ ವಿದ್ಯುದ್ವಾರವಾದ ತಾಮ್ರದ ಪಟ್ಟಿಯಿಂದ ಕರಗಿ ದ್ರಾವಣವನ್ನು ಸೇರುತ್ತದೆ. ಇದು ದ್ರಾವಣದಲ್ಲಿ ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಸಾಂದ್ರತೆಯನ್ನು ಸ್ಥಿರವಾಗಿಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_023",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Who was the British chemist who first demonstrated in the year 1800 that passing electricity through water decomposes it into hydrogen and oxygen?",
+      "options": [
+        "Michael Faraday",
+        "William Nicholson",
+        "Alessandro Volta",
+        "Humphry Davy"
+      ],
+      "answer": "William Nicholson",
+      "reasoning": "In 1800, British chemist William Nicholson showed that when electrodes are immersed in water and a current is passed, bubbles of oxygen are formed at the positive electrode (anode) and bubbles of hydrogen are formed at the negative electrode (cathode)."
+    },
+    "kn": {
+      "question": "1800 ನೇ ಇಸವಿಯಲ್ಲಿ ನೀರಿನ ಮೂಲಕ ವಿದ್ಯುತ್ ಹರಿಸಿದಾಗ ಅದು ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಆಕ್ಸಿಜನ್ ಆಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತದೆ ಎಂದು ಮೊದಲ ಬಾರಿಗೆ ತೋರಿಸಿಕೊಟ್ಟ ಬ್ರಿಟಿಷ್ ರಸಾಯನಶಾಸ್ತ್ರಜ್ಞ ಯಾರು?",
+      "options": [
+        "ಮೈಕೆಲ್ ಫ್ಯಾರಡೆ",
+        "ವಿಲಿಯಂ ನಿಕೋಲ್ಸನ್",
+        "ಅಲೆಸ್ಸಾಂಡ್ರೊ ವೋಲ್ಟಾ",
+        "ಹಂಫ್ರಿ ಡೇವಿ"
+      ],
+      "answer": "ವಿಲಿಯಂ ನಿಕೋಲ್ಸನ್",
+      "reasoning": "1800 ರಲ್ಲಿ ಬ್ರಿಟಿಷ್ ರಸಾಯನಶಾಸ್ತ್ರಜ್ಞ ವಿಲಿಯಂ ನಿಕೋಲ್ಸನ್ ಅವರು ವಿದ್ಯುದ್ವಾರಗಳನ್ನು ನೀರಿನಲ್ಲಿ ಮುಳುಗಿಸಿ ವಿದ್ಯುತ್ ಹರಿಸಿದಾಗ, ಧನ ವಿದ್ಯುದ್ವಾರದ ಬಳಿ ಆಕ್ಸಿಜನ್ ಗುಳ್ಳೆಗಳು ಮತ್ತು ಋಣ ವಿದ್ಯುದ್ವಾರದ ಬಳಿ ಹೈಡ್ರೋಜನ್ ಗುಳ್ಳೆಗಳು ಉಂಟಾಗುತ್ತವೆ ಎಂದು ತೋರಿಸಿಕೊಟ್ಟರು."
+    }
+  },
+  {
+    "id": "c8_sci_elec_024",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "A student tests the conductivity of two liquids, A and B, using a standard bulb tester. The bulb glows brightly for liquid A, but glows very dimly for liquid B. Which conclusion is correct?",
+      "options": [
+        "Liquid A is a better conductor of electricity than liquid B.",
+        "Liquid B is a better conductor of electricity than liquid A.",
+        "Liquid A conducts electricity, but B does not conduct electricity at all.",
+        "Both liquids are equally good conductors, but the battery became weaker during the second test."
+      ],
+      "answer": "Liquid A is a better conductor of electricity than liquid B.",
+      "reasoning": "The brightness of the bulb depends on the magnitude of the current passing through it. A larger current flows through liquid A, making it a better conductor with higher concentration of free ions. Liquid B is a weaker conductor, allowing only a small current to flow, which makes the bulb glow dimly."
+    },
+    "kn": {
+      "question": "ವಿದ್ಯಾರ್ಥಿಯೊಬ್ಬನು ಸಾಮಾನ್ಯ ಬಲ್ಬ್ ಪರೀಕ್ಷಕ ಬಳಸಿ ಎರಡು ದ್ರವಗಳಾದ A ಮತ್ತು B ಗಳ ವಾಹಕತೆಯನ್ನು ಪರೀಕ್ಷಿಸುತ್ತಾನೆ. ದ್ರವ A ಗೆ ದೀಪವು ಪ್ರಕಾಶಮಾನವಾಗಿ ಬೆಳಗುತ್ತದೆ, ಆದರೆ ದ್ರವ B ಗೆ ಅತ್ಯಂತ ಮಂದವಾಗಿ ಬೆಳಗುತ್ತದೆ. ಯಾವ ತೀರ್ಮಾನ ಸರಿಯಾಗಿದೆ?",
+      "options": [
+        "ದ್ರವ A ಯು ದ್ರವ B ಗಿಂತ ವಿದ್ಯುತ್‌ನ ಉತ್ತಮ ವಾಹಕವಾಗಿದೆ.",
+        "ದ್ರವ B ಯು ದ್ರವ A ಗಿಂತ ವಿದ್ಯುತ್‌ನ ಉತ್ತಮ ವಾಹಕವಾಗಿದೆ.",
+        "ದ್ರವ A ವಿದ್ಯುತ್ ಹರಿಸುತ್ತದೆ, ಆದರೆ B ವಿದ್ಯುತ್ ಅನ್ನು ಸ್ವಲ್ಪವೂ ಹರಿಸುವುದಿಲ್ಲ.",
+        "ಎರಡೂ ದ್ರವಗಳು ಒಂದೇ ರೀತಿಯ ಉತ್ತಮ ವಾಹಕಗಳಾಗಿವೆ, ಆದರೆ ಎರಡನೇ ಪರೀಕ್ಷೆಯ ಸಮಯದಲ್ಲಿ ಬ್ಯಾಟರಿ ದುರ್ಬಲವಾಯಿತು."
+      ],
+      "answer": "ದ್ರವ A ಯು ದ್ರವ B ಗಿಂತ ವಿದ್ಯುತ್‌ನ ಉತ್ತಮ ವಾಹಕವಾಗಿದೆ.",
+      "reasoning": "ದೀಪದ ಪ್ರಕಾಶವು ಅದರ ಮೂಲಕ ಹರಿಯುವ ವಿದ್ಯುತ್ ಪ್ರಮಾಣವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ. ದ್ರವ A ಮೂಲಕ ಹೆಚ್ಚಿನ ಪ್ರವಾಹ ಹರಿಯುವುದರಿಂದ ಅದು ಉತ್ತಮ ವಾಹಕವಾಗಿದೆ (ಹೆಚ್ಚಿನ ಅಯಾನುಗಳನ್ನು ಹೊಂದಿದೆ). ದ್ರವ B ಮೂಲಕ ಕಡಿಮೆ ಪ್ರವಾಹ ಹರಿಯುವುದರಿಂದ ಬಲ್ಬ್ ಮಂದವಾಗಿ ಬೆಳಗುತ್ತದೆ, ಅಂದರೆ ಅದು ದುರ್ಬಲ ವಾಹಕವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_025",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "When a student inserts two wire ends of a tester circuit into a freshly cut half-potato, a greenish-blue spot develops around one of the wires after 30 minutes. To which terminal of the battery was this wire connected?",
+      "options": [
+        "The negative terminal",
+        "The positive terminal",
+        "It could be either terminal depending on the potato type.",
+        "Potatoes do not contain any moisture to conduct current."
+      ],
+      "answer": "The positive terminal",
+      "reasoning": "The greenish-blue spot around the wire inserted into the potato is formed due to a chemical reaction between the copper in the wire and the compounds in the potato, catalyzed by the electric current. This specific chemical effect only occurs at the wire connected to the positive terminal (anode)."
+    },
+    "kn": {
+      "question": "ವಿದ್ಯಾರ್ಥಿಯೊಬ್ಬನು ಪರೀಕ್ಷಕ ಸರ್ಕ್ಯೂಟ್‌ನ ಎರಡು ಮುಕ್ತ ತಂತಿಗಳನ್ನು ಕತ್ತರಿಸಿದ ಆಲೂಗಡ್ಡೆಯ ಅರ್ಧಭಾಗಕ್ಕೆ ಚುಚ್ಚುತ್ತಾನೆ. 30 ನಿಮಿಷಗಳ ನಂತರ ಒಂದು ತಂತಿಯ ಸುತ್ತ ಹಸಿರು-ನೀಲಿ ಬಣ್ಣದ ಕಲೆ ಉಂಟಾಗುತ್ತದೆ. ಈ ತಂತಿಯು ಬ್ಯಾಟರಿಯ ಯಾವ ಧ್ರುವಕ್ಕೆ ಜೋಡಿಸಲ್ಪಟ್ಟಿತ್ತು?",
+      "options": [
+        "ಋಣ ಧ್ರುವಕ್ಕೆ (-)",
+        "ಧನ ಧ್ರುವಕ್ಕೆ (+)",
+        "ಆಲೂಗಡ್ಡೆಯ ವಿಧವನ್ನು ಅವಲಂಬಿಸಿ ಯಾವುದೇ ಧ್ರುವವಿರಬಹುದು.",
+        "ಆಲೂಗಡ್ಡೆಯಲ್ಲಿ ವಿದ್ಯುತ್ ಹರಿಸಲು ಯಾವುದೇ ತೇವಾಂಶ ಇರುವುದಿಲ್ಲ."
+      ],
+      "answer": "ಧನ ಧ್ರುವಕ್ಕೆ (+)",
+      "reasoning": "ಆಲೂಗಡ್ಡೆಗೆ ಚುಚ್ಚಿದ ತಂತಿಯ ಸುತ್ತ ಹಸಿರು-ನೀಲಿ ಕಲೆ ಉಂಟಾಗುವುದು ತಂತಿಯಲ್ಲಿನ ತಾಮ್ರ ಮತ್ತು ಆಲೂಗಡ್ಡೆಯಲ್ಲಿನ ಸಂಯುಕ್ತಗಳ ನಡುವೆ ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಪ್ರಚೋದನೆಯಿಂದ ನಡೆಯುವ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಾಗಿದೆ. ಈ ವಿಶಿಷ್ಟ ರಾಸಾಯನಿಕ ಪರಿಣಾಮವು ಕೇವಲ ಧನ ಧ್ರುವಕ್ಕೆ (+) ಜೋಡಿಸಲಾದ ತಂತಿಯ ಬಳಿ ಮಾತ್ರ ಕಂಡುಬರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_026",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Why is tin electroplated on iron cans used for storing food, rather than using pure iron or zinc-plated iron?",
+      "options": [
+        "Tin is less reactive than iron, preventing food from reacting with iron and getting spoiled.",
+        "Tin is more reactive than zinc, providing sacrificial protection to food.",
+        "Tin contains organic compounds that act as food preservatives.",
+        "Tin coating makes the food cans much lighter and drop-proof."
+      ],
+      "answer": "Tin is less reactive than iron, preventing food from reacting with iron and getting spoiled.",
+      "reasoning": "Tin is less reactive than iron. By electroplating a thin layer of tin on iron cans, the food does not come into direct contact with the iron, which could react and ruin the food. Zinc-plated iron (galvanized iron) is not used for food because zinc is toxic and reacts with food acids."
+    },
+    "kn": {
+      "question": "ಆಹಾರವನ್ನು ಸಂಗ್ರಹಿಸಲು ಬಳಸುವ ಕಬ್ಬಿಣದ ಡಬ್ಬಿಗಳಿಗೆ ಶುದ್ಧ ಕಬ್ಬಿಣ ಅಥವಾ ಸತು ಲೇಪಿತ ಕಬ್ಬಿಣವನ್ನು ಬಳಸುವ ಬದಲು ತವರವನ್ನು (Tin) ಏಕೆ ವಿದ್ಯುಲ್ಲೇಪನ ಮಾಡಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ತವರವು ಕಬ್ಬಿಣಕ್ಕಿಂತ ಕಡಿಮೆ ಕ್ರಿಯಾಶೀಲವಾಗಿದೆ, ಇದು ಆಹಾರವು ಕಬ್ಬಿಣದೊಂದಿಗೆ ವರ್ತಿಸಿ ಹಾಳಾಗುವುದನ್ನು ತಡೆಯುತ್ತದೆ.",
+        "ತವರವು ಸತುಗಿಂತ ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲವಾಗಿದ್ದು ಆಹಾರಕ್ಕೆ ಬಲವಾದ ರಕ್ಷಣೆ ನೀಡುತ್ತದೆ.",
+        "ತವರವು ಆಹಾರವನ್ನು ಸಂರಕ್ಷಿಸುವ ನೈಸರ್ಗಿಕ ಜೈವಿಕ ಸಂಯುಕ್ತಗಳನ್ನು ಹೊಂದಿದೆ.",
+        "ತವರದ ಲೇಪನವು ಆಹಾರದ ಡಬ್ಬಿಗಳನ್ನು ಹೆಚ್ಚು ಹಗುರವಾಗಿಸುತ್ತದೆ."
+      ],
+      "answer": "ತವರವು ಕಬ್ಬಿಣಕ್ಕಿಂತ ಕಡಿಮೆ ಕ್ರಿಯಾಶೀಲವಾಗಿದೆ, ಇದು ಆಹಾರವು ಕಬ್ಬಿಣದೊಂದಿಗೆ ವರ್ತಿಸಿ ಹಾಳಾಗುವುದನ್ನು ತಡೆಯುತ್ತದೆ.",
+      "reasoning": "ತವರವು ಕಬ್ಬಿಣಕ್ಕಿಂತ ಕಡಿಮೆ ಕ್ರಿಯಾಶೀಲ ಲೋಹವಾಗಿದೆ. ಕಬ್ಬಿಣದ ಡಬ್ಬಿಗಳ ಮೇಲೆ ತವರವನ್ನು ಲೇಪಿಸುವುದರಿಂದ, ಆಹಾರವು ಕಬ್ಬಿಣದೊಂದಿಗೆ ನೇರ ಸಂಪರ್ಕಕ್ಕೆ ಬರುವುದಿಲ್ಲ. ಇದರಿಂದ ಆಹಾರ ವಿಷವಾಗುವುದು ಅಥವಾ ಹಾಳಾಗುವುದು ತಪ್ಪುತ್ತದೆ. ಸತುವು ವಿಷಕಾರಿಯಾಗಿದ್ದು ಆಹಾರದ ಆಮ್ಲಗಳೊಂದಿಗೆ ವರ್ತಿಸುವುದರಿಂದ ಅದನ್ನು ಬಳಸುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_027",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Select all the substances which, when dissolved in pure distilled water, will successfully make it a conductor of electricity.",
+      "options": [
+        "Common salt (sodium chloride)",
+        "Lemon juice (citric acid)",
+        "Sugar (sucrose)",
+        "Caustic soda (sodium hydroxide)"
+      ],
+      "answer": [
+        "Common salt (sodium chloride)",
+        "Lemon juice (citric acid)",
+        "Caustic soda (sodium hydroxide)"
+      ],
+      "reasoning": "To make water conduct electricity, we must introduce free ions. Acids (lemon juice/citric acid), bases (caustic soda/sodium hydroxide), and salts (common salt/sodium chloride) dissociate into positive and negative ions when dissolved. Sugar does not dissociate into ions, so it remains a non-conductor."
+    },
+    "kn": {
+      "question": "ಶುದ್ಧ ಬಟ್ಟಿ ಇಳಿಸಿದ ನೀರಿನಲ್ಲಿ ಕರಗಿಸಿದಾಗ ಅದನ್ನು ವಿದ್ಯುತ್ ವಾಹಕವನ್ನಾಗಿ ಮಾಡುವ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ.",
+      "options": [
+        "ಅಡುಗೆ ಉಪ್ಪು (ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್)",
+        "ನಿಂಬೆ ರಸ (ಸಿಟ್ರಿಕ್ ಆಮ್ಲ)",
+        "ಸಕ್ಕರೆ (ಸುಕ್ರೋಸ್)",
+        "ಕಾಸ್ಟಿಕ್ ಸೋಡಾ (ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ - ಪ್ರತ್ಯಾಮ್ಲ)"
+      ],
+      "answer": [
+        "ಅಡುಗೆ ಉಪ್ಪು (ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್)",
+        "ನಿಂಬೆ ರಸ (ಸಿಟ್ರಿಕ್ ಆಮ್ಲ)",
+        "ಕಾಸ್ಟಿಕ್ ಸೋಡಾ (ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ - ಪ್ರತ್ಯಾಮ್ಲ)"
+      ],
+      "reasoning": "ನೀರನ್ನು ವಾಹಕವನ್ನಾಗಿ ಮಾಡಲು ಮುಕ್ತ ಅಯಾನುಗಳ ಅವಶ್ಯಕತೆಯಿದೆ. ಆಮ್ಲಗಳು (ನಿಂಬೆ ರಸ), ಪ್ರತ್ಯಾಮ್ಲಗಳು (ಕಾಸ್ಟಿಕ್ ಸೋಡಾ) ಮತ್ತು ಲವಣಗಳು (ಅಡುಗೆ ಉಪ್ಪು) ನೀರಿನಲ್ಲಿ ಕರಗಿದಾಗ ಅಯಾನುಗಳಾಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತವೆ. ಸಕ್ಕರೆ ಅಯಾನುಗಳಾಗಿ ವಿಭಜನೆಗೊಳ್ಳುವುದಿಲ್ಲ, ಆದ್ದರಿಂದ ವಿದ್ಯುತ್ ಹರಿಸುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_028",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following conditions are essential for a successful metal electroplating process?",
+      "options": [
+        "The object to be plated must be connected to the negative terminal (cathode) of the battery.",
+        "The metal to be deposited must be used as the positive electrode (anode).",
+        "The electrolyte must be a solution of a soluble salt of the metal to be deposited.",
+        "The electrolyte must be a non-conducting organic liquid like alcohol or benzene."
+      ],
+      "answer": [
+        "The object to be plated must be connected to the negative terminal (cathode) of the battery.",
+        "The metal to be deposited must be used as the positive electrode (anode).",
+        "The electrolyte must be a solution of a soluble salt of the metal to be deposited."
+      ],
+      "reasoning": "For electroplating: (1) target object must be the cathode so positive metal ions deposit on it; (2) donor metal plate must be the anode to dissolve and replenish ions; (3) electrolyte must contain ions of the coating metal. A non-conducting liquid would halt current and block the process."
+    },
+    "kn": {
+      "question": "ಲೋಹದ ವಿದ್ಯುಲ್ಲೇಪನ ಪ್ರಕ್ರಿಯೆಯು ಯಶಸ್ವಿಯಾಗಲು ಅಗತ್ಯವಿರುವ ನಿಬಂಧನೆಗಳನ್ನು ಆರಿಸಿ.",
+      "options": [
+        "ಲೇಪನ ಪಡೆಯಬೇಕಾದ ವಸ್ತುವನ್ನು ಬ್ಯಾಟರಿಯ ಋಣ ಧ್ರುವಕ್ಕೆ (ಕ್ಯಾಥೋಡ್) ಜೋಡಿಸಬೇಕು.",
+        "ಯಾವ ಲೋಹವನ್ನು ಲೇಪಿಸಬೇಕೋ ಆ ಲೋಹದ ಪಟ್ಟಿಯನ್ನು ಧನ ಧ್ರುವಕ್ಕೆ (ಅನೋಡ್) ಜೋಡಿಸಬೇಕು.",
+        "ವಿದ್ಯುದ್ವಿಭಾಜ್ಯವು ಲೇಪಿಸಬೇಕಾದ ಲೋಹದ ಕರಗುವ ಲವಣದ ದ್ರಾವಣವಾಗಿರಬೇಕು.",
+        "ವಿದ್ಯುದ್ವಿಭಾಜ್ಯವು ಆಲ್ಕೋಹಾಲ್ ಅಥವಾ ಬೆಂಜೀನ್‌ನಂತಹ ವಿದ್ಯುತ್ ಹರಿಸದ ಸಾವಯವ ದ್ರವವಾಗಿರಬೇಕು."
+      ],
+      "answer": [
+        "ಲೇಪನ ಪಡೆಯಬೇಕಾದ ವಸ್ತುವನ್ನು ಬ್ಯಾಟರಿಯ ಋಣ ಧ್ರುವಕ್ಕೆ (ಕ್ಯಾಥೋಡ್) ಜೋಡಿಸಬೇಕು.",
+        "ಯಾವ ಲೋಹವನ್ನು ಲೇಪಿಸಬೇಕೋ ಆ ಲೋಹದ ಪಟ್ಟಿಯನ್ನು ಧನ ಧ್ರುವಕ್ಕೆ (ಅನೋಡ್) ಜೋಡಿಸಬೇಕು.",
+        "ವಿದ್ಯುದ್ವಿಭಾಜ್ಯವು ಲೇಪಿಸಬೇಕಾದ ಲೋಹದ ಕರಗುವ ಲವಣದ ದ್ರಾವಣವಾಗಿರಬೇಕು."
+      ],
+      "reasoning": "ವಿದ್ಯುಲ್ಲೇಪನದಲ್ಲಿ: (1) ಲೇಪನ ಪಡೆಯುವ ವಸ್ತು ಕ್ಯಾಥೋಡ್ ಆಗಿರಬೇಕು ಇದರಿಂದ ಧನ ಅಯಾನುಗಳು ಅದರ ಮೇಲೆ ಆಕರ್ಷಿತವಾಗುತ್ತವೆ; (2) ದಾನಿ ಲೋಹ ಅನೋಡ್ ಆಗಿರಬೇಕು ಇದರಿಂದ ಅದು ಕರಗಿ ಅಯಾನುಗಳನ್ನು ನೀಡುತ್ತದೆ; (3) ದ್ರಾವಣದಲ್ಲಿ ಲೇಪನ ಲೋಹದ ಅಯಾನುಗಳಿರಬೇಕು. ಆಲ್ಕೋಹಾಲ್‌ನಂತಹ ಅವಾಹಕ ದ್ರವಗಳು ವಿದ್ಯುತ್ ಹರಿಸದ ಕಾರಣ ಪ್ರಕ್ರಿಯೆ ನಡೆಯುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_029",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the electrical/chemical concepts with their correct scientific mechanisms.",
+      "pairs": [
+        {
+          "left": "Electrical conduction in tap water",
+          "right": "Movement of dissolved sodium, calcium, and chloride ions"
+        },
+        {
+          "left": "Chemical decomposition of water",
+          "right": "Splitting of H2O molecules into hydrogen and oxygen gases"
+        },
+        {
+          "left": "Deflection of magnetic needle",
+          "right": "Creation of magnetic field around wire by flowing current"
+        },
+        {
+          "left": "Electroplating metal deposition",
+          "right": "Positive metal cations gaining electrons at cathode surface"
+        }
+      ],
+      "reasoning": "Tap water conducts due to ions; decomposition of water splits molecules; compass deflection is due to current's magnetic field; electroplating is cations gaining electrons."
+    },
+    "kn": {
+      "question": "ವಿದ್ಯುತ್/ರಾಸಾಯನಿಕ ಪರಿಕಲ್ಪನೆಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವೈಜ್ಞಾನಿಕ ಕಾರ್ಯವಿಧಾನಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ನಲ್ಲಿ ನೀರಿನಲ್ಲಿ ವಿದ್ಯುತ್ ಪ್ರವಾಹ",
+          "right": "ಕರಗಿರುವ ಸೋಡಿಯಂ, ಕ್ಯಾಲ್ಸಿಯಂ ಮತ್ತು ಕ್ಲೋರೈಡ್ ಅಯಾನುಗಳ ಚಲನೆ"
+        },
+        {
+          "left": "ನೀರಿನ ರಾಸಾಯನಿಕ ವಿಭಜನೆ",
+          "right": "H2O ಅಣುಗಳು ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಆಕ್ಸಿಜನ್ ಅನಿಲಗಳಾಗಿ ಒಡೆಯುವುದು"
+        },
+        {
+          "left": "ಕಾಂತಸೂಚಿಯ ಮುಳ್ಳಿನ ವಿಚಲನೆ",
+          "right": "ಹರಿಯುವ ಪ್ರವಾಹದಿಂದ ತಂತಿಯ ಸುತ್ತ ಕಾಂತಕ್ಷೇತ್ರ ನಿರ್ಮಾಣವಾಗುವುದು"
+        },
+        {
+          "left": "ವಿದ್ಯುಲ್ಲೇಪನ ಲೋಹದ ಸಂಗ್ರಹ",
+          "right": "ಧನ ಲೋಹದ ಕ್ಯಾಟಯಾನುಗಳು ಕ್ಯಾಥೋಡ್ ಮೇಲ್ಮೈಯಲ್ಲಿ ಎಲೆಕ್ಟ್ರಾನ್ ಪಡೆಯುವುದು"
+        }
+      ],
+      "reasoning": "ನಲ್ಲಿ ನೀರು ಅಯಾನುಗಳಿಂದ ವಿದ್ಯುತ್ ಹರಿಸುತ್ತದೆ; ನೀರಿನ ವಿಭಜನೆಯು ಅಣುಗಳನ್ನು ಒಡೆಯುತ್ತದೆ; ದಿಕ್ಸೂಚಿ ವಿಚಲನೆ ಕಾಂತಕ್ಷೇತ್ರದಿಂದ ಆಗುತ್ತದೆ; ವಿದ್ಯುಲ್ಲೇಪನವು ಕ್ಯಾಟಯಾನುಗಳು ಎಲೆಕ್ಟ್ರಾನ್ ಪಡೆಯುವುದರಿಂದ ಆಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_elec_030",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the experiment setups with their corresponding chemical observations.",
+      "pairs": [
+        {
+          "left": "Electrolysis of water with carbon electrodes",
+          "right": "Bubbles at both prongs; oxygen at anode, hydrogen at cathode"
+        },
+        {
+          "left": "Copper sulphate electrolyte, copper anode, iron key",
+          "right": "Reddish-brown copper layer deposited on the key"
+        },
+        {
+          "left": "Electrodes inserted into cut raw potato",
+          "right": "A greenish-blue spot forms around the positive wire only"
+        },
+        {
+          "left": "Passing current through distilled water with sugar",
+          "right": "No bubbles, no color change, and bulb does not glow"
+        }
+      ],
+      "reasoning": "Electrolysis produces bubbles; copper plating coats the key; potato experiment produces a greenish-blue spot around positive wire; sugar solution does not conduct at all."
+    },
+    "kn": {
+      "question": "ಪ್ರಯೋಗದ ಜೋಡಣೆಗಳನ್ನು ಅವುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ರಾಸಾಯನಿಕ ವೀಕ್ಷಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಕಾರ್ಬನ್ ವಿದ್ಯುದ್ವಾರಗಳೊಂದಿಗೆ ನೀರಿನ ವಿದ್ಯುದ್ವಿಭಜನೆ",
+          "right": "ಎರಡೂ ವಿದ್ಯುದ್ವಾರಗಳಲ್ಲಿ ಗುಳ್ಳೆಗಳು; ಅನೋಡ್‌ನಲ್ಲಿ ಆಕ್ಸಿಜನ್, ಕ್ಯಾಥೋಡ್‌ನಲ್ಲಿ ಹೈಡ್ರೋಜನ್"
+        },
+        {
+          "left": "ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ವಿದ್ಯುದ್ವಿಭಾಜ್ಯ, ತಾಮ್ರದ ಅನೋಡ್, ಕಬ್ಬಿಣದ ಕೀಲಿ",
+          "right": "ಕಬ್ಬಿಣದ ಕೀಲಿಯ ಮೇಲೆ ಕೆಂಪು-ಕಂದು ಬಣ್ಣದ ತಾಮ್ರದ ಪದರ ಸಂಗ್ರಹ"
+        },
+        {
+          "left": "ಕತ್ತರಿಸಿದ ಹಸಿ ಆಲೂಗಡ್ಡೆಗೆ ವಿದ್ಯುದ್ವಾರಗಳನ್ನು ಚುಚ್ಚುವುದು",
+          "right": "ಕೇವಲ ಧನ ತಂತಿಯ (+) ಸುತ್ತ ಹಸಿರು-ನೀಲಿ ಬಣ್ಣದ ಕಲೆ ಉಂಟಾಗುವುದು"
+        },
+        {
+          "left": "ಸಕ್ಕರೆ ಸೇರಿಸಿದ ಬಟ್ಟಿ ಇಳಿಸಿದ ನೀರಿನಲ್ಲಿ ವಿದ್ಯುತ್ ಹರಿಸುವುದು",
+          "right": "ಯಾವುದೇ ಗುಳ್ಳೆಗಳಿಲ್ಲ, ಬಣ್ಣ ಬದಲಾವಣೆ ಇಲ್ಲ ಮತ್ತು ದೀಪ ಬೆಳಗುವುದಿಲ್ಲ"
+        }
+      ],
+      "reasoning": "ನೀರಿನ ವಿಭಜನೆಯು ಅನಿಲ ಗುಳ್ಳೆಗಳನ್ನು ನೀಡುತ್ತದೆ; ತಾಮ್ರ ಲೇಪನವು ಕೀಲಿಯ ಮೇಲೆ ತಾಮ್ರವನ್ನು ಸಂಗ್ರಹಿಸುತ್ತದೆ; ಆಲೂಗಡ್ಡೆ ಪ್ರಯೋಗವು ಧನ ಧ್ರುವದ ಬಳಿ ಕಲೆ ನೀಡುತ್ತದೆ; ಸಕ್ಕರೆ ದ್ರಾವಣ ವಿದ್ಯುತ್ ಹರಿಸುವುದಿಲ್ಲ."
+    }
+  }
+]
+
+# Write to electric_current.json
+out_path = '/Users/murthy/.gemini/antigravity/scratch/time-tuk-game/src/data/questions/class_8/science/electric_current.json'
+with open(out_path, 'w', encoding='utf-8') as f:
+    json.dump(questions, f, ensure_ascii=False, indent=2)
+
+print("Electric current questions generated successfully!")

@@ -1,0 +1,537 @@
+[
+  {
+    "id": "c8_his_country_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In which year was the Permanent Settlement of Bengal introduced by the British?",
+      "options": ["1793", "1765", "1822", "1859"],
+      "answer": "1793",
+      "reasoning": "The Permanent Settlement was introduced in 1793 under the governorship of Lord Cornwallis. Under this system, the revenue amount was fixed permanently, which meant it could not be increased in the future."
+    },
+    "kn": {
+      "question": "ಬಂಗಾಳದಲ್ಲಿ ಬ್ರಿಟಿಷರು 'ಖಾಯಂ ಜಮೀನ್ದಾರಿ ಪದ್ಧತಿ'ಯನ್ನು (Permanent Settlement) ಜಾರಿಗೆ ತಂದ ವರ್ಷ ಯಾವುದು?",
+      "options": ["1793", "1765", "1822", "1859"],
+      "answer": "1793",
+      "reasoning": "ಖಾಯಂ ಜಮೀನ್ದಾರಿ ಪದ್ಧತಿಯನ್ನು 1793 ರಲ್ಲಿ ಲಾರ್ಡ್ ಕಾರ್ನ್ ವಾಲಿಸ್ ಗವರ್ನರ್-ಜನರಲ್ ಆಗಿದ್ದಾಗ ಜಾರಿಗೆ ತರಲಾಯಿತು. ಈ ಪದ್ಧತಿಯಲ್ಲಿ ಸರ್ಕಾರಕ್ಕೆ ಪಾವತಿಸಬೇಕಾದ ಕಂದಾಯದ ಮೊತ್ತವನ್ನು ಶಾಶ್ವತವಾಗಿ ನಿಗದಿಪಡಿಸಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c8_his_country_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who was the Governor-General of India when the Permanent Settlement was introduced?",
+      "options": ["Lord Cornwallis", "Lord Wellesley", "Warren Hastings", "Thomas Munro"],
+      "answer": "Lord Cornwallis",
+      "reasoning": "Lord Cornwallis was the Governor-General of India when the Permanent Settlement was introduced in Bengal, Bihar, and Odisha in 1793 to secure a regular flow of revenue for the East India Company."
+    },
+    "kn": {
+      "question": "ಖಾಯಂ ಜಮೀನ್ದಾರಿ ಪದ್ಧತಿಯನ್ನು ಜಾರಿಗೆ ತಂದಾಗ ಭಾರತದ ಗವರ್ನರ್-ಜನರಲ್ ಯಾರಾಗಿದ್ದರು?",
+      "options": ["ಲಾರ್ಡ್ ಕಾರ್ನ್ ವಾಲಿಸ್", "ಲಾರ್ಡ್ ವೆಲ್ಲೆಸ್ಲಿ", "ವಾರೆನ್ ಹೇಸ್ಟಿಂಗ್ಸ್", "ಥಾಮಸ್ ಮನ್ರೋ"],
+      "answer": "ಲಾರ್ಡ್ ಕಾರ್ನ್ ವಾಲಿಸ್",
+      "reasoning": "1793 ರಲ್ಲಿ ಬಂಗಾಳ, ಬಿಹಾರ ಮತ್ತು ಒಡಿಶಾಗಳಲ್ಲಿ ಈಸ್ಟ್ ಇಂಡಿಯಾ ಕಂಪನಿಗೆ ನಿಯಮಿತ ಕಂದಾಯ ಆದಾಯವನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಲಾರ್ಡ್ ಕಾರ್ನ್ ವಾಲಿಸ್ ಗವರ್ನರ್-ಜನರಲ್ ಆಗಿದ್ದಾಗ ಈ ಪದ್ಧತಿಯನ್ನು ಜಾರಿಗೆ ತರಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c8_his_country_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What was the basic unit of land revenue under the Mahalwari system, which literally means a village or group of villages?",
+      "options": ["Mahal", "Ryot", "Bigha", "Zamin"],
+      "answer": "Mahal",
+      "reasoning": "Under the Mahalwari system, the revenue was collected from the village or a group of villages, which were collectively referred to as a 'Mahal'. The revenue was not fixed permanently but revised periodically."
+    },
+    "kn": {
+      "question": "ಮಹಲ್ವಾರಿ ಪದ್ಧತಿಯಲ್ಲಿ ಕಂದಾಯ ವಸೂಲಿಯ ಮೂಲ ಘಟಕವಾಗಿದ್ದ, ಒಂದು ಹಳ್ಳಿ ಅಥವಾ ಹಳ್ಳಿಗಳ ಗುಂಪನ್ನು ಸೂಚಿಸುವ ಪದ ಯಾವುದು?",
+      "options": ["ಮಹಲ್", "ರೈತ", "ಬಿಗಾ", "ಜಮೀನ್"],
+      "answer": "ಮಹಲ್",
+      "reasoning": "ಮಹಲ್ವಾರಿ ಪದ್ಧತಿಯಲ್ಲಿ ಭೂಕಂದಾಯವನ್ನು ಒಂದು ಹಳ್ಳಿ ಅಥವಾ ಹಳ್ಳಿಗಳ ಗುಂಪಿನಿಂದ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತಿತ್ತು. ಈ ಹಳ್ಳಿಗಳ ಗುಂಪನ್ನು 'ಮಹಲ್' ಎಂದು ಕರೆಯಲಾಗುತ್ತಿತ್ತು. ಇಲ್ಲಿ ಕಂದಾಯವನ್ನು ನಿಯತಕಾಲಿಕವಾಗಿ ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c8_his_country_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "By what name were the peasants/cultivators known under the land revenue systems of British India?",
+      "options": ["Ryots", "Zamindars", "Lathiyals", "Pundits"],
+      "answer": "Ryots",
+      "reasoning": "Peasants or cultivators in British India, especially in southern and western India, were referred to as 'Ryots'. In the Ryotwari system, the revenue settlement was made directly with them."
+    },
+    "kn": {
+      "question": "ಬ್ರಿಟಿಷ್ ಭಾರತದ ಭೂಕಂದಾಯ ಪದ್ಧತಿಗಳಲ್ಲಿ ರೈತರು ಅಥವಾ ಸಾಗುವಳಿದಾರರನ್ನು ಯಾವ ಹೆಸರಿನಿಂದ ಕರೆಯಲಾಗುತ್ತಿತ್ತು?",
+      "options": ["ರೈತರು (Ryots)", "ಜಮೀನ್ದಾರರು", "ಲಠಿಯಾಲರು", "ಪಂಡಿತರು"],
+      "answer": "ರೈತರು (Ryots)",
+      "reasoning": "ಬ್ರಿಟಿಷ್ ಭಾರತದಲ್ಲಿ, ವಿಶೇಷವಾಗಿ ದಕ್ಷಿಣ ಮತ್ತು ಪಶ್ಚಿಮ ಭಾರತದಲ್ಲಿ ರೈತರು ಅಥವಾ ಕೃಷಿಕರನ್ನು 'ರೈತ್' ಅಥವಾ 'ರೈತರು' ಎಂದು ಕರೆಯಲಾಗುತ್ತಿತ್ತು. ರೈತವಾರಿ ಪದ್ಧತಿಯಲ್ಲಿ ಕಂದಾಯವನ್ನು ನೇರವಾಗಿ ಇವರಿಂದಲೇ ವಸೂಲಿ ಮಾಡಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c8_his_country_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In which region of India was the Ryotwari system of land revenue primarily introduced?",
+      "options": ["Southern India", "Northern India", "Bengal Province", "Western Punjab"],
+      "answer": "Southern India",
+      "reasoning": "The Ryotwari system (also known as the Munro system) was primarily introduced in southern India, where there were no traditional zamindars. Settlements had to be made directly with the cultivators (ryots)."
+    },
+    "kn": {
+      "question": "ಭಾರತದ ಯಾವ ಭಾಗದಲ್ಲಿ ಪ್ರಮುಖವಾಗಿ 'ರೈತವಾರಿ ಪದ್ಧತಿ'ಯನ್ನು ಜಾರಿಗೆ ತರಲಾಯಿತು?",
+      "options": ["ದಕ್ಷಿಣ ಭಾರತ", "ಉತ್ತರ ಭಾರತ", "ಬಂಗಾಳ ಪ್ರಾಂತ್ಯ", "ಪಶ್ಚಿಮ ಪಂಜಾಬ್"],
+      "answer": "ದಕ್ಷಿಣ ಭಾರತ",
+      "reasoning": "ರೈತವಾರಿ ಪದ್ಧತಿಯನ್ನು (ಮನ್ರೋ ಪದ್ಧತಿ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ) ಪ್ರಮುಖವಾಗಿ ದಕ್ಷಿಣ ಭಾರತದಲ್ಲಿ ಜಾರಿಗೆ ತರಲಾಯಿತು. ಏಕೆಂದರೆ ಇಲ್ಲಿ ಸಾಂಪ್ರದಾಯಿಕ ಜಮೀನ್ದಾರರು ಇರಲಿಲ್ಲ. ಹೀಗಾಗಿ ನೇರವಾಗಿ ರೈತರೊಂದಿಗೆ ಒಪ್ಪಂದ ಮಾಡಿಕೊಳ್ಳಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c8_his_country_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which crop was highly valued by British planters in India because it produced a rich blue dye for clothing in Europe?",
+      "options": ["Indigo", "Opium", "Jute", "Tea"],
+      "answer": "Indigo",
+      "reasoning": "Indigo is a plant that produces a rich blue color used as a dye. In the 18th and 19th centuries, European cloth manufacturers preferred Indian indigo over European woad because it yielded a much brighter color."
+    },
+    "kn": {
+      "question": "ಬಟ್ಟೆಗಳಿಗೆ ಗಾಢವಾದ ನೀಲಿ ಬಣ್ಣ ನೀಡಲು ಯುರೋಪ್‌ನಲ್ಲಿ ಭಾರಿ ಬೇಡಿಕೆಯಿದ್ದ, ಬ್ರಿಟಿಷರು ಭಾರತದಲ್ಲಿ ಬೆಳೆಯಲು ಒತ್ತಾಯಿಸಿದ ಪ್ರಮುಖ ಬೆಳೆ ಯಾವುದು?",
+      "options": ["ನೀಲಿ (Indigo)", "ಅಫೀಮು", "ಸೆಣಬು", "ಚಹಾ"],
+      "answer": "ನೀಲಿ (Indigo)",
+      "reasoning": "ನೀಲಿ ಎಂಬುದು ಸಸ್ಯ ಜನ್ಯ ಬಣ್ಣವಾಗಿದೆ. 18 ಮತ್ತು 19 ನೇ ಶತಮಾನದಲ್ಲಿ ಯುರೋಪಿನ ಬಟ್ಟೆ ತಯಾರಕರು ಭಾರತದ ನೀಲಿಗೆ ಆದ್ಯತೆ ನೀಡಿದರು. ಏಕೆಂದರೆ ಇದು ಯುರೋಪ್‌ನಲ್ಲಿ ಬೆಳೆಯುತ್ತಿದ್ದ ವೋಡ್ (Woad) ಸಸ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚು ಆಕರ್ಷಕ ನೀಲಿ ಬಣ್ಣವನ್ನು ನೀಡುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c8_his_country_007",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In which year did the Blue Rebellion (Indigo Revolt) break out in Bengal, where peasants refused to grow indigo?",
+      "options": ["1859", "1793", "1822", "1917"],
+      "answer": "1859",
+      "reasoning": "In March 1859, thousands of ryots in Bengal refused to grow indigo, marking the beginning of the 'Blue Rebellion'. They attacked indigo factories and refused to pay rents to the planters."
+    },
+    "kn": {
+      "question": "ಬಂಗಾಳದ ರೈತರು ನೀಲಿ ಬೆಳೆಯಲು ನಿರಾಕರಿಸಿ ದಂಗೆ ಎದ್ದ ಪ್ರಸಿದ್ಧ 'ನೀಲಿ ದಂಗೆ' (Blue Rebellion) ಪ್ರಾರಂಭವಾದ ವರ್ಷ ಯಾವುದು?",
+      "options": ["1859", "1793", "1822", "1917"],
+      "answer": "1859",
+      "reasoning": "ಮಾರ್ಚ್ 1859 ರಲ್ಲಿ ಬಂಗಾಳದ ಸಾವಿರಾರು ರೈತರು ನೀಲಿ ಬೆಳೆಯಲು ನಿರಾಕರಿಸಿ ಬಂಡಾಯವೆದ್ದರು. ಇದನ್ನು 'ನೀಲಿ ದಂಗೆ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ರೈತರು ನೀಲಿ ಕಾರ್ಖಾನೆಗಳ ಮೇಲೆ ದಾಳಿ ನಡೆಸಿ, ಕಂದಾಯ ಪಾವತಿಯನ್ನು ನಿಲ್ಲಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c8_his_country_008",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which famous nationalist leader visited Champaran in Bihar in 1917 to lead a protest against the oppressive indigo planters?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose", "Bal Gangadhar Tilak"],
+      "answer": "Mahatma Gandhi",
+      "reasoning": "Mahatma Gandhi visited Champaran in 1917 after returning from South Africa. He was persuaded by a peasant to visit the area and see the plight of the indigo cultivators, leading to the Champaran Satyagraha."
+    },
+    "kn": {
+      "question": "ಬಿಹಾರದ ಚಂಪಾರಣ್‌ನಲ್ಲಿ ನೀಲಿ ಬೆಳೆಗಾರರ ದೌರ್ಜನ್ಯದ ವಿರುದ್ಧ ಪ್ರತಿಭಟಿಸಲು 1917 ರಲ್ಲಿ ಭೇಟಿ ನೀಡಿದ ಪ್ರಮುಖ ರಾಷ್ಟ್ರೀಯ ನಾಯಕ ಯಾರು?",
+      "options": ["ಮಹಾತ್ಮ ಗಾಂಧಿ", "ಜವಾಹರ್ ಲಾಲ್ ನೆಹರು", "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್", "ಬಾಲ ಗಂಗಾಧರ ತಿಲಕ್"],
+      "answer": "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+      "reasoning": "ದಕ್ಷಿಣ ಆಫ್ರಿಕಾದಿಂದ ಮರಳಿದ ನಂತರ ಮಹಾತ್ಮ ಗಾಂಧಿಯವರು 1917 ರಲ್ಲಿ ಬಿಹಾರದ ಚಂಪಾರಣ್‌ಗೆ ಭೇಟಿ ನೀಡಿದರು. ಸ್ಥಳೀಯ ರೈತರೊಬ್ಬರ ವಿನಂತಿಯ ಮೇರೆಗೆ ಅಲ್ಲಿಗೆ ತೆರಳಿ ನೀಲಿ ಬೆಳೆಗಾರರ ಪರವಾಗಿ ಚಂಪಾರಣ್ ಸತ್ಯಾಗ್ರಹ ಹೂಡಿದರು."
+    }
+  },
+  {
+    "id": "c8_his_country_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who devised the Mahalwari system of land revenue in the North-Western Provinces of Bengal Presidency?",
+      "options": ["Holt Mackenzie", "Thomas Munro", "Lord Cornwallis", "Alexander Read"],
+      "answer": "Holt Mackenzie",
+      "reasoning": "The Mahalwari system was devised by an Englishman named Holt Mackenzie and came into effect in 1822. He believed that the village was an important social institution in north Indian society and needed to be preserved."
+    },
+    "kn": {
+      "question": "ಬಂಗಾಳ ಪ್ರೆಸಿಡೆನ್ಸಿಯ ವಾಯುವ್ಯ ಪ್ರಾಂತ್ಯಗಳಲ್ಲಿ 'ಮಹಲ್ವಾರಿ ಪದ್ಧತಿ'ಯನ್ನು ರೂಪಿಸಿದ ಬ್ರಿಟಿಷ್ ಅಧಿಕಾರಿ ಯಾರು?",
+      "options": ["ಹೋಲ್ಟ್ ಮೆಕೆಂಜಿ", "ಥಾಮಸ್ ಮನ್ರೋ", "ಲಾರ್ಡ್ ಕಾರ್ನ್ ವಾಲಿಸ್", "ಅಲೆಕ್ಸಾಂಡರ್ ರೀಡ್"],
+      "answer": "ಹೋಲ್ಟ್ ಮೆಕೆಂಜಿ",
+      "reasoning": "ಮಹಲ್ವಾರಿ ಪದ್ಧತಿಯನ್ನು ಬ್ರಿಟಿಷ್ ಅಧಿಕಾರಿ ಹೋಲ್ಟ್ ಮೆಕೆಂಜಿ ರೂಪಿಸಿದನು ಮತ್ತು ಇದು 1822 ರಲ್ಲಿ ಜಾರಿಗೆ ಬಂದಿತು. ಆತ ಉತ್ತರ ಭಾರತದ ಹಳ್ಳಿಗಳನ್ನು ಒಂದು ಪ್ರಮುಖ ಸಾಮಾಜಿಕ ಸಂಸ್ಥೆಯಾಗಿ ಉಳಿಸಿಕೊಳ್ಳಲು ಬಯಸಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c8_his_country_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why was there a high demand for Indian indigo in Europe instead of woad, a plant grown in Europe that also produced blue dye?",
+      "options": [
+        "Indigo produced a rich, deep blue color, whereas woad produced a pale and dull blue",
+        "Woad was highly poisonous and banned by European governments",
+        "Indigo was much cheaper to import than growing woad locally",
+        "Woad could only grow in winter and had very low yield"
+      ],
+      "answer": "Indigo produced a rich, deep blue color, whereas woad produced a pale and dull blue",
+      "reasoning": "European cloth makers preferred Indian indigo because it gave a beautiful bright blue color. Woad, a plant of the temperate zones, yielded a dull and pale blue dye. This caused European woad producers to lobby their governments to ban indigo import, though it was eventually bypassed."
+    },
+    "kn": {
+      "question": "ಯುರೋಪ್‌ನಲ್ಲಿ ಬೆಳೆಯುತ್ತಿದ್ದ 'ವೋಡ್' (Woad) ಸಸ್ಯಕ್ಕಿಂತ ಭಾರತದ 'ನೀಲಿ' ಬೆಳೆಗೆ ಏಕೆ ಹೆಚ್ಚಿನ ಬೇಡಿಕೆಯಿತ್ತು?",
+      "options": [
+        "ನೀಲಿ ಸಸ್ಯವು ಗಾಢ ಮತ್ತು ಹೊಳೆಯುವ ನೀಲಿ ಬಣ್ಣ ನೀಡುತ್ತಿತ್ತು, ಆದರೆ ವೋಡ್ ಮಸುಕಾದ ಬಣ್ಣ ನೀಡುತ್ತಿತ್ತು",
+        "ವೋಡ್ ಸಸ್ಯವು ವಿಷಕಾರಿಯಾಗಿದ್ದರಿಂದ ಯುರೋಪಿಯನ್ ಸರ್ಕಾರಗಳು ಅದನ್ನು ನಿಷೇಧಿಸಿದ್ದವು",
+        "ಸ್ಥಳೀಯವಾಗಿ ವೋಡ್ ಬೆಳೆಯುವುದಕ್ಕಿಂತ ಭಾರತದಿಂದ ನೀಲಿ ಆಮದು ಮಾಡಿಕೊಳ್ಳುವುದು ಅಗ್ಗವಾಗಿತ್ತು",
+        "ವೋಡ್ ಕೇವಲ ಚಳಿಗಾಲದಲ್ಲಿ ಮಾತ್ರ ಬೆಳೆಯುತ್ತಿತ್ತು ಮತ್ತು ಇಳುವರಿ ತೀರಾ ಕಡಿಮೆಯಾಗಿತ್ತು"
+      ],
+      "answer": "ನೀಲಿ ಸಸ್ಯವು ಗಾಢ ಮತ್ತು ಹೊಳೆಯುವ ನೀಲಿ ಬಣ್ಣ ನೀಡುತ್ತಿತ್ತು, ಆದರೆ ವೋಡ್ ಮಸುಕಾದ ಬಣ್ಣ ನೀಡುತ್ತಿತ್ತು",
+      "reasoning": "ಭಾರತದ ನೀಲಿ ಸಸ್ಯದಿಂದ ಅತ್ಯಂತ ಸುಂದರವಾದ ಹಾಗೂ ಗಾಢವಾದ ನೀಲಿ ಬಣ್ಣ ಸಿಗುತ್ತಿತ್ತು. ಆದರೆ ಯುರೋಪಿನ ಸಮಶೀತೋಷ್ಣ ವಲಯದಲ್ಲಿ ಬೆಳೆಯುತ್ತಿದ್ದ ವೋಡ್ ಸಸ್ಯವು ಮಸುಕಾದ ಹಾಗೂ ತಿಳಿ ನೀಲಿ ಬಣ್ಣವನ್ನು ಮಾತ್ರ ನೀಡುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c8_his_country_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Under the Permanent Settlement, what role were the local Rajas and Taluqdars recognized as by the East India Company?",
+      "options": ["Zamindars", "Ryots", "Subadars", "Mahals"],
+      "answer": "Zamindars",
+      "reasoning": "Under the Permanent Settlement, the Rajas and Taluqdars were recognized as zamindars. They were given the responsibility to collect rent from the peasants and pay a fixed revenue to the Company."
+    },
+    "kn": {
+      "question": "ಖಾಯಂ ಜಮೀನ್ದಾರಿ ಪದ್ಧತಿಯ ಅಡಿಯಲ್ಲಿ ಸ್ಥಳೀಯ ರಾಜರು ಮತ್ತು ತಾಲೂಕುದಾರರನ್ನು ಕಂಪನಿಯು ಯಾವ ಹೆಸರಿನಿಂದ ಗುರುತಿಸಿತು?",
+      "options": ["ಜಮೀನ್ದಾರರು", "ರೈತರು (Ryots)", "ಸುಬೇದಾರರು", "ಮಹಲ್ ಗಳು"],
+      "answer": "ಜಮೀನ್ದಾರರು",
+      "reasoning": "ಖಾಯಂ ಜಮೀನ್ದಾರಿ ಪದ್ಧತಿಯ ಅಡಿಯಲ್ಲಿ ಸ್ಥಳೀಯ ರಾಜರು ಮತ್ತು ತಾಲೂಕುದಾರರನ್ನು ಕಂಪನಿಯು ಜಮೀನ್ದಾರರೆಂದು ಅಂಗೀಕರಿಸಿತು. ಅವರಿಗೆ ರೈತರಿಂದ ಬಾಡಿಗೆ ಸಂಗ್ರಹಿಸಿ ಕಂಪನಿಗೆ ನಿಯಮಿತ ಕಂದಾಯ ಪಾವತಿಸುವ ಹೊಣೆ ಹೊರಿಸಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c8_his_country_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What was the main drawback of the Permanent Settlement for the East India Company over time?",
+      "options": [
+        "The revenue was fixed permanently, so the Company could not increase it even when land cultivation expanded and prices rose",
+        "Zamindars became extremely loyal to the peasants and refused to collect rent",
+        "It led to the immediate collapse of the food crop market in Bengal",
+        "The peasants took over all the zamindari lands using court orders"
+      ],
+      "answer": "The revenue was fixed permanently, so the Company could not increase it even when land cultivation expanded and prices rose",
+      "reasoning": "Since the revenue was fixed permanently, the EIC could not benefit from the expansion of agriculture and rising crop prices in the 19th century. The zamindars kept the surplus profit, while the Company suffered from fixed returns."
+    },
+    "kn": {
+      "question": "ಖಾಯಂ ಜಮೀನ್ದಾರಿ ಪದ್ಧತಿಯಿಂದ ಬ್ರಿಟಿಷ್ ಈಸ್ಟ್ ಇಂಡಿಯಾ ಕಂಪನಿಗಿದ್ದ ಪ್ರಮುಖ ಅನನುಕೂಲವೇನು?",
+      "options": [
+        "ಕಂದಾಯವು ಶಾಶ್ವತವಾಗಿ ನಿಗದಿಯಾಗಿದ್ದರಿಂದ, ಕೃಷಿ ವಿಸ್ತರಣೆಗೊಂಡು ಬೆಲೆ ಹೆಚ್ಚಿದರೂ ಕಂಪನಿ ತನ್ನ ಆದಾಯ ಹೆಚ್ಚಿಸಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ",
+        "ಜಮೀನ್ದಾರರು ರೈತರಿಗೆ ನಿಷ್ಠರಾಗಿ ಕಂಪನಿಗೆ ಕಂದಾಯ ನೀಡುವುದನ್ನು ನಿಲ್ಲಿಸಿದರು",
+        "ಇದರಿಂದ ಬಂಗಾಳದಲ್ಲಿ ಆಹಾರ ಧಾನ್ಯಗಳ ಮಾರುಕಟ್ಟೆ ತಕ್ಷಣವೇ ನಾಶವಾಯಿತು",
+        "ರೈತರು ನ್ಯಾಯಾಲಯದ ಆದೇಶ ಬಳಸಿ ಜಮೀನ್ದಾರರ ಭೂಮಿಯನ್ನು ವಶಪಡಿಸಿಕೊಂಡರು"
+      ],
+      "answer": "ಕಂದಾಯವು ಶಾಶ್ವತವಾಗಿ ನಿಗದಿಯಾಗಿದ್ದರಿಂದ, ಕೃಷಿ ವಿಸ್ತರಣೆಗೊಂಡು ಬೆಲೆ ಹೆಚ್ಚಿದರೂ ಕಂಪನಿ ತನ್ನ ಆದಾಯ ಹೆಚ್ಚಿಸಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ",
+      "reasoning": "ಕಂದಾಯವನ್ನು ಶಾಶ್ವತವಾಗಿ ನಿಗದಿಪಡಿಸಿದ್ದರಿಂದ, 19 ನೇ ಶತಮಾನದಲ್ಲಿ ಕೃಷಿ ವಿಸ್ತರಣೆಯಾಗಿ ಭೂಮಿಯ ಬೆಲೆ ಹೆಚ್ಚಿದರೂ ಕಂಪನಿಗೆ ತನ್ನ ಪಾಲಿನ ಆದಾಯವನ್ನು ಹೆಚ್ಚಿಸಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಇದರ ಲಾಭವೆಲ್ಲ ಜಮೀನ್ದಾರರ ಪಾಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c8_his_country_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who initially tried the Ryotwari system on a small scale in territories taken over from Tipu Sultan, before Thomas Munro developed it?",
+      "options": ["Captain Alexander Read", "Holt Mackenzie", "Lord Cornwallis", "Warren Hastings"],
+      "answer": "Captain Alexander Read",
+      "reasoning": "The Ryotwari system was first tried on a small scale by Captain Alexander Read in some of the territories that were annexed by the Company after the wars with Tipu Sultan. It was subsequently developed and expanded by Thomas Munro."
+    },
+    "kn": {
+      "question": "ಥಾಮಸ್ ಮನ್ರೋ ರೈತವಾರಿ ಪದ್ಧತಿಯನ್ನು ವಿಸ್ತರಿಸುವ ಮುನ್ನ, ಟಿಪ್ಪು ಸುಲ್ತಾನನಿಂದ ಗೆದ್ದುಕೊಂಡ ಪ್ರದೇಶಗಳಲ್ಲಿ ಪ್ರಾಯೋಗಿಕವಾಗಿ ಜಾರಿಗೊಳಿಸಿದ ಬ್ರಿಟಿಷ್ ಅಧಿಕಾರಿ ಯಾರು?",
+      "options": ["ಕ್ಯಾಪ್ಟನ್ ಅಲೆಕ್ಸಾಂಡರ್ ರೀಡ್", "ಹೋಲ್ಟ್ ಮೆಕೆಂಜಿ", "ಲಾರ್ಡ್ ಕಾರ್ನ್ ವಾಲಿಸ್", "ವಾರೆನ್ ಹೇಸ್ಟಿಂಗ್ಸ್"],
+      "answer": ["ಕ್ಯಾಪ್ಟನ್ ಅಲೆಕ್ಸಾಂಡರ್ ರೀಡ್"],
+      "answer": "ಕ್ಯಾಪ್ಟನ್ Alexander Read",
+      "answer": "ಕ್ಯಾಪ್ಟನ್ ಅಲೆಕ್ಸಾಂಡರ್ ರೀಡ್",
+      "reasoning": "ಟಿಪ್ಪು ಸುಲ್ತಾನನ ಸೋಲಿನ ನಂತರ ಬ್ರಿಟಿಷರು ಸ್ವಾಧೀನಪಡಿಸಿಕೊಂಡ ಕೆಲವು ಪ್ರದೇಶಗಳಲ್ಲಿ ಕ್ಯಾಪ್ಟನ್ ಅಲೆಕ್ಸಾಂಡರ್ ರೀಡ್ ಈ ರೈತವಾರಿ ಪದ್ಧತಿಯನ್ನು ಪ್ರಾಯೋಗಿಕವಾಗಿ ಜಾರಿಗೆ ತಂದನು. ನಂತರ ಥಾಮಸ್ ಮನ್ರೋ ಇದನ್ನು ಇಡೀ ದಕ್ಷಿಣ ಭಾರತಕ್ಕೆ ವಿಸ್ತರಿಸಿದನು."
+    }
+  },
+  {
+    "id": "c8_his_country_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What were the two main systems of indigo cultivation in British India?",
+      "options": ["Nij and Ryoti", "Kheda and Champaran", "Zamin and Mahal", "Bigha and Satta"],
+      "answer": "Nij and Ryoti",
+      "reasoning": "There were two main systems of indigo cultivation: Nij and Ryoti. Under Nij, the planter produced indigo on land he directly controlled. Under Ryoti, the planter forced the ryots (peasants) to grow indigo on their own land under a contract."
+    },
+    "kn": {
+      "question": "ಬ್ರಿಟಿಷ್ ಭಾರತದಲ್ಲಿ ಚಾಲ್ತಿಯಲ್ಲಿದ್ದ ನೀಲಿ ಕೃಷಿಯ ಎರಡು ಪ್ರಮುಖ ಪದ್ಧತಿಗಳು ಯಾವುವು?",
+      "options": ["ನಿಜ್ ಮತ್ತು ರೈತಿ (Nij and Ryoti)", "ಖೇಡಾ ಮತ್ತು ಚಂಪಾರಣ್", "ಜಮೀನ್ ಮತ್ತು ಮಹಲ್", "ಬಿಗಾ ಮತ್ತು ಸತ್ತಾ"],
+      "answer": "ನಿಜ್ ಮತ್ತು ರೈತಿ (Nij and Ryoti)",
+      "reasoning": "ನೀಲಿ ಬೇಸಾಯದಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ವಿಧಾನಗಳಿದ್ದವು: 'ನಿಜ್' ಮತ್ತು 'ರೈತಿ'. ನಿಜ್ ವಿಧಾನದಲ್ಲಿ ಬೆಳೆಗಾರರು ತಮ್ಮ ಸ್ವಂತ ನಿಯಂತ್ರಣದಲ್ಲಿದ್ದ ಭೂಮಿಯಲ್ಲಿ ಕೃಷಿ ಮಾಡುತ್ತಿದ್ದರು. ರೈತಿ ವಿಧಾನದಲ್ಲಿ ರೈತರೊಂದಿಗೆ ಒಪ್ಪಂದ ಮಾಡಿಕೊಂಡು ಅವರ ಭೂಮಿಯಲ್ಲಿ ನೀಲಿ ಬೆಳೆಯುವಂತೆ ಬಲವಂತಪಡಿಸಲಾಗುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c8_his_country_015",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Under the 'Ryoti' system of indigo cultivation, what did the planters force the ryots to sign?",
+      "options": ["A contract or agreement called 'Satta'", "A land sale deed", "A tax exemption form", "A petition to the Governor"],
+      "answer": "A contract or agreement called 'Satta'",
+      "reasoning": "Under the Ryoti system, planters forced the ryots to sign a contract or agreement called a 'Satta'. Sometimes they pressured the village headmen to sign the contract on behalf of the ryots, forcing them to grow indigo on at least 25% of their land holding."
+    },
+    "kn": {
+      "question": "ನೀಲಿ ಕೃಷಿಯ 'ರೈತಿ' ಪದ್ಧತಿಯಲ್ಲಿ, ಬ್ರಿಟಿಷ್ ಬೆಳೆಗಾರರು ರೈತರಿಂದ ಯಾವ ಒಪ್ಪಂದಕ್ಕೆ ಸಹಿ ಹಾಕಿಸಿಕೊಳ್ಳುತ್ತಿದ್ದರು?",
+      "options": ["'ಸತ್ತಾ' (Satta) ಎಂದು ಕರೆಯಲಾಗುವ ಕರಾರು ಪತ್ರ", "ಭೂಮಿ ಮಾರಾಟದ ಪತ್ರ", "ತೆರಿಗೆ ವಿನಾಯಿತಿ ಪತ್ರ", "ಗವರ್ನರ್ ಗೆ ಸಲ್ಲಿಸುವ ಮನವಿ ಪತ್ರ"],
+      "answer": "'ಸತ್ತಾ' (Satta) ಎಂದು ಕರೆಯಲಾಗುವ ಕರಾರು ಪತ್ರ",
+      "reasoning": "ರೈತಿ ಪದ್ಧತಿಯಲ್ಲಿ ಬೆಳೆಗಾರರು ರೈತರಿಂದ ಬಲವಂತವಾಗಿ 'ಸತ್ತಾ' ಎಂಬ ಒಪ್ಪಂದ ಪತ್ರಕ್ಕೆ ಸಹಿ ಹಾಕಿಸಿಕೊಳ್ಳುತ್ತಿದ್ದರು. ಕೆಲವೊಮ್ಮೆ ಹಳ್ಳಿಯ ಮುಖ್ಯಸ್ಥನಿಗೂ ರೈತರ ಪರವಾಗಿ ಸಹಿ ಹಾಕಲು ಒತ್ತಡ ಹೇರುತ್ತಿದ್ದರು. ಇದರ ಪ್ರಕಾರ ರೈತರು ತಮ್ಮ ಶೇ. 25 ರಷ್ಟು ಭೂಮಿಯಲ್ಲಿ ನೀಲಿ ಬೆಳೆಯಬೇಕಿತ್ತು."
+    }
+  },
+  {
+    "id": "c8_his_country_016",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What was a major problem with 'Nij' cultivation of indigo for the planters?",
+      "options": [
+        "It required large, contiguous blocks of fertile land, which were hard to acquire in densely populated regions",
+        "Peasants refused to accept any wages for working on Nij lands",
+        "It was declared illegal by the East India Company Charter of 1813",
+        "Indigo crops grew extremely slow on Nij lands compared to Ryoti lands"
+      ],
+      "answer": "It required large, contiguous blocks of fertile land, which were hard to acquire in densely populated regions",
+      "reasoning": "In Nij cultivation, planters needed large compact blocks of fertile land to establish plantations. However, fertile lands in Bengal were already densely populated, making it difficult to acquire large areas except by evicting peasants, which led to tension."
+    },
+    "kn": {
+      "question": "ನೀಲಿ ಬೇಸಾಯದ 'ನಿಜ್' ಪದ್ಧತಿಯಲ್ಲಿ ಬ್ರಿಟಿಷ್ ಬೆಳೆಗಾರರು ಎದುರಿಸಿದ ಪ್ರಮುಖ ಸಮಸ್ಯೆ ಏನು?",
+      "options": [
+        "ಇದಕ್ಕೆ ಫಲವತ್ತಾದ ವಿಶಾಲವಾದ ಭೂಮಿ ಬೇಕಿತ್ತು, ಆದರೆ ಜನನಿಬಿಡ ಪ್ರದೇಶಗಳಲ್ಲಿ ಅಂತಹ ಭೂಮಿ ಸಿಗುವುದು ಕಷ್ಟವಾಗಿತ್ತು",
+        "ರೈತರು ನಿಜ್ ಭೂಮಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡಲು ಯಾವುದೇ ಕೂಲಿ ಪಡೆಯಲು ನಿರಾಕರಿಸಿದರು",
+        "1813 ರ ಚಾರ್ಟರ್ ಕಾಯ್ದೆಯಡಿಯಲ್ಲಿ ಇಂಗ್ಲಿಷ್ ಕಂಪನಿಯು ಇದನ್ನು ಕಾನೂನುಬಾಹಿರ ಎಂದು ಘೋಷಿಸಿತು",
+        "ರೈತಿ ಭೂಮಿಗೆ ಹೋಲಿಸಿದರೆ ನಿಜ್ ಭೂಮಿಯಲ್ಲಿ ನೀಲಿ ಬೆಳೆಗಳು ತೀರಾ ನಿಧಾನವಾಗಿ ಬೆಳೆಯುತ್ತಿದ್ದವು"
+      ],
+      "answer": "ಇದಕ್ಕೆ ಫಲವತ್ತಾದ ವಿಶಾಲವಾದ ಭೂಮಿ ಬೇಕಿತ್ತು, ಆದರೆ ಜನನಿಬಿಡ ಪ್ರದೇಶಗಳಲ್ಲಿ ಅಂತಹ ಭೂಮಿ ಸಿಗುವುದು ಕಷ್ಟವಾಗಿತ್ತು",
+      "reasoning": "ನಿಜ್ ಬೇಸಾಯ ಪದ್ಧತಿಯಲ್ಲಿ ಬೆಳೆಗಾರರು ದೊಡ್ಡ ತೋಟಗಳನ್ನು ಮಾಡಲು ಫಲವತ್ತಾದ ಹಾಗೂ ವಿಶಾಲವಾದ ಭೂಮಿಯನ್ನು ಬಯಸಿದರು. ಆದರೆ ಬಂಗಾಳದಲ್ಲಿ ಇಂತಹ ಭೂಮಿಗಳು ಈಗಾಗಲೇ ಜನನಿಬಿಡವಾಗಿದ್ದರಿಂದ ಜಾಗ ಪಡೆಯುವುದು ಕಷ್ಟವಾಗಿತ್ತು."
+    }
+  },
+  {
+    "id": "c8_his_country_017",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What was the outcome of the Indigo Commission appointed by the British government in 1860?",
+      "options": [
+        "It declared the planters guilty, criticizing their coercive methods, and stated that indigo cultivation was not profitable for ryots",
+        "It ordered the military to arrest all protesting peasants and force them to grow indigo",
+        "It banned the import of indigo from India to Europe entirely",
+        "It gave planters the authority to confiscate the peasants' land without compensation"
+      ],
+      "answer": "It declared the planters guilty, criticizing their coercive methods, and stated that indigo cultivation was not profitable for ryots",
+      "reasoning": "The Indigo Commission was set up in 1860. It found the planters guilty of using oppressive and harsh methods. It declared that indigo cultivation was not profitable for the ryots, and allowed them to refuse to grow indigo in the future after completing current contracts."
+    },
+    "kn": {
+      "question": "ಬ್ರಿಟಿಷ್ ಸರ್ಕಾರವು 1860 ರಲ್ಲಿ ನೇಮಿಸಿದ 'ನೀಲಿ ಆಯೋಗದ' (Indigo Commission) ತೀರ್ಪು ಏನಾಗಿತ್ತು?",
+      "options": [
+        "ಇದು ಬೆಳೆಗಾರರು ತಪ್ಪಿತಸ್ಥರೆಂದು ಘೋಷಿಸಿತು ಮತ್ತು ನೀಲಿ ಬೇಸಾಯವು ರೈತರಿಗೆ ಲಾಭದಾಯಕವಲ್ಲ ಎಂದು ತಿಳಿಸಿತು",
+        "ಇದು ಪ್ರತಿಭಟನಾಕಾರರನ್ನು ಬಂಧಿಸಲು ಮತ್ತು ಬಲವಂತವಾಗಿ ನೀಲಿ ಬೆಳೆಸಲು ಸೈನ್ಯಕ್ಕೆ ಆದೇಶಿಸಿತು",
+        "ಇದು ಭಾರತದಿಂದ ಯುರೋಪ್ ಗೆ ನೀಲಿ ರಫ್ತು ಮಾಡುವುದನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನಿಷೇಧಿಸಿತು",
+        "ಇದು ರೈತರ ಭೂಮಿಯನ್ನು ಯಾವುದೇ ಪರಿಹಾರವಿಲ್ಲದೆ ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಬೆಳೆಗಾರರಿಗೆ ಅಧಿಕಾರ ನೀಡಿತು"
+      ],
+      "answer": "ಇದು ಬೆಳೆಗಾರರು ತಪ್ಪಿತಸ್ಥರೆಂದು ಘೋಷಿಸಿತು ಮತ್ತು ನೀಲಿ ಬೇಸಾಯವು ರೈತರಿಗೆ ಲಾಭದಾಯಕವಲ್ಲ ಎಂದು ತಿಳಿಸಿತು",
+      "reasoning": "1860 ರ ನೀಲಿ ಆಯೋಗವು ಬ್ರಿಟಿಷ್ ಬೆಳೆಗಾರರ ಕ್ರೂರ ವರ್ತನೆ ಮತ್ತು ಬಲವಂತದ ನೀತಿಗಳನ್ನು ತೀವ್ರವಾಗಿ ಖಂಡಿಸಿತು. ನೀಲಿ ಬೆಳೆಯುವುದು ರೈತರಿಗೆ ನಷ್ಟ ತರುತ್ತದೆ ಎಂದು ಹೇಳಿದ ಆಯೋಗವು, ರೈತರು ತಮ್ಮ ಒಪ್ಪಂದ ಮುಗಿದ ನಂತರ ನೀಲಿ ಬೆಳೆಯುವುದನ್ನು ನಿಲ್ಲಿಸಬಹುದು ಎಂದು ತಿಳಿಸಿತು."
+    }
+  },
+  {
+    "id": "c8_his_country_018",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following revenue systems were introduced by the British in various parts of India?",
+      "options": ["Permanent Settlement", "Mahalwari Settlement", "Ryotwari Settlement", "Jagirdari Settlement"],
+      "answer": ["Permanent Settlement", "Mahalwari Settlement", "Ryotwari Settlement"],
+      "reasoning": "The British introduced three major land revenue systems: the Permanent Settlement in Bengal, the Mahalwari Settlement in the North-Western Provinces and Punjab, and the Ryotwari (or Munro) system in southern and western India. Jagirdari was a Mughal system, not introduced by the British."
+    },
+    "kn": {
+      "question": "ಭಾರತದ ವಿವಿಧ ಭಾಗಗಳಲ್ಲಿ ಬ್ರಿಟಿಷರು ಜಾರಿಗೆ ತಂದ ಪ್ರಮುಖ ಭೂಕಂದಾಯ ಪದ್ಧತಿಗಳು ಯಾವುವು?",
+      "options": ["ಖಾಯಂ ಜಮೀನ್ದಾರಿ ಪದ್ಧತಿ", "ಮಹಲ್ವಾರಿ ಪದ್ಧತಿ", "ರೈತವಾರಿ ಪದ್ಧತಿ", "ಜಾಗೀರ್ದಾರಿ ಪದ್ಧತಿ"],
+      "answer": ["ಖಾಯಂ ಜಮೀನ್ದಾರಿ ಪದ್ಧತಿ", "ಮಹಲ್ವಾರಿ ಪದ್ಧತಿ", "ರೈತವಾರಿ ಪದ್ಧತಿ"],
+      "reasoning": "ಬ್ರಿಟಿಷರು ಭಾರತದಲ್ಲಿ ಮೂರು ಪ್ರಮುಖ ಭೂಕಂದಾಯ ನೀತಿಗಳನ್ನು ತಂದರು: ಬಂಗಾಳದಲ್ಲಿ ಖಾಯಂ ಜಮೀನ್ದಾರಿ ಪದ್ಧತಿ, ಉತ್ತರ ಭಾರತದಲ್ಲಿ ಮಹಲ್ವಾರಿ ಪದ್ಧತಿ ಮತ್ತು ದಕ್ಷಿಣ ಹಾಗೂ ಪಶ್ಚಿಮ ಭಾರತದಲ್ಲಿ ರೈತವಾರಿ ಪದ್ಧತಿ. ಜಾಗೀರ್ದಾರಿ ಪದ್ಧತಿಯು ಮೊಘಲರ ಕಾಲದ್ದಾಗಿತ್ತು."
+    }
+  },
+  {
+    "id": "c8_his_country_019",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following statements about the Mahalwari system are correct?",
+      "options": [
+        "It was devised by Holt Mackenzie and introduced in 1822.",
+        "The revenue collected was fixed permanently and could not be changed.",
+        "The unit of revenue collection was the 'Mahal' (village or village estate).",
+        "The village headman, rather than the zamindar, was made responsible for collecting and paying revenue."
+      ],
+      "answer": [
+        "It was devised by Holt Mackenzie and introduced in 1822.",
+        "The unit of revenue collection was the 'Mahal' (village or village estate).",
+        "The village headman, rather than the zamindar, was made responsible for collecting and paying revenue."
+      ],
+      "reasoning": "The Mahalwari system was devised by Holt Mackenzie in 1822. The revenue was estimated for each plot in a village and added up for the entire village (Mahal). Crucially, the revenue was revised periodically (not fixed permanently), and the village headman was responsible for collection."
+    },
+    "kn": {
+      "question": "ಮಹಲ್ವಾರಿ ಪದ್ಧತಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ?",
+      "options": [
+        "ಇದನ್ನು ಹೋಲ್ಟ್ ಮೆಕೆಂಜಿ ರೂಪಿಸಿದನು ಮತ್ತು ಇದು 1822 ರಲ್ಲಿ ಜಾರಿಗೆ ಬಂದಿತು.",
+        "ಇದರಲ್ಲಿ ಕಂದಾಯದ ಮೊತ್ತವನ್ನು ಶಾಶ್ವತವಾಗಿ ನಿಗದಿಪಡಿಸಲಾಗಿತ್ತು.",
+        "ಕಂದಾಯದ ಘಟಕವು 'ಮಹಲ್' (ಹಳ್ಳಿ ಅಥವಾ ಹಳ್ಳಿಯ ಎಸ್ಟೇಟ್) ಆಗಿತ್ತು.",
+        "ಜಮೀನ್ದಾರರ ಬದಲಾಗಿ ಹಳ್ಳಿಯ ಪಟೇಲನಿಗೆ (ಮುಖ್ಯಸ್ಥನಿಗೆ) ಕಂದಾಯ ವಸೂಲಿಯ ಹೊಣೆ ನೀಡಲಾಗಿತ್ತು."
+      ],
+      "answer": [
+        "ಇದನ್ನು ಹೋಲ್ಟ್ ಮೆಕೆಂಜಿ ರೂಪಿಸಿದನು ಮತ್ತು ಇದು 1822 ರಲ್ಲಿ ಜಾರಿಗೆ ಬಂದಿತು.",
+        "ಕಂದಾಯದ ಘಟಕವು 'ಮಹಲ್' (ಹಳ್ಳಿ ಅಥವಾ ಹಳ್ಳಿಯ ಎಸ್ಟೇಟ್) ಆಗಿತ್ತು.",
+        "ಜಮೀನ್ದಾರರ ಬದಲಾಗಿ ಹಳ್ಳಿಯ ಪಟೇಲನಿಗೆ (ಮುಖ್ಯಸ್ಥನಿಗೆ) ಕಂದಾಯ ವಸೂಲಿಯ ಹೊಣೆ ನೀಡಲಾಗಿತ್ತು."
+      ],
+      "reasoning": "ಮಹಲ್ವಾರಿ ಪದ್ಧತಿಯನ್ನು 1822 ರಲ್ಲಿ ಹೋಲ್ಟ್ ಮೆಕೆಂಜಿ ತಂದನು. ಇಲ್ಲಿ ಕಂದಾಯವು ಶಾಶ್ವತವಾಗಿ ನಿಗದಿಯಾಗಿರಲಿಲ್ಲ, ಬದಲಿಗೆ ನಿಯಮಿತವಾಗಿ ಬದಲಾಗುತ್ತಿತ್ತು. ಹಳ್ಳಿಯ ಮುಖ್ಯಸ್ಥನೇ ಕಂದಾಯ ವಸೂಲಿ ಮಾಡಿ ನೀಡಬೇಕಿತ್ತು."
+    }
+  },
+  {
+    "id": "c8_his_country_020",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Why did the peasants of Bengal rise in the Blue Rebellion against indigo cultivation in 1859?",
+      "options": [
+        "They were trapped in a cycle of debt due to low prices paid for indigo by planters.",
+        "Planters used armed strongmen (lathiyals) to coerce and beat up peasants.",
+        "Indigo roots grew deep and exhausted the soil, making it unfit for growing rice.",
+        "The British government offered peasants free land in other provinces if they rebelled."
+      ],
+      "answer": [
+        "They were trapped in a cycle of debt due to low prices paid for indigo by planters.",
+        "Planters used armed strongmen (lathiyals) to coerce and beat up peasants.",
+        "Indigo roots grew deep and exhausted the soil, making it unfit for growing rice."
+      ],
+      "reasoning": "Peasants rebelled because indigo cultivation was extremely oppressive. Planters gave advances, trapping ryots in debt. The prices paid were low. The planters used 'lathiyals' (wielders of lathis) to terrorize them. Additionally, indigo ruined the soil, making it impossible to grow rice afterwards."
+    },
+    "kn": {
+      "question": "1859 ರ ನೀಲಿ ದಂಗೆಯಲ್ಲಿ ಬಂಗಾಳದ ರೈತರು ಬಂಡಾಯ ಏಳಲು ಕಾರಣಗಳೇನು?",
+      "options": [
+        "ಬೆಳೆಗಾರರು ನೀಡುತ್ತಿದ್ದ ಅಲ್ಪ ಬೆಲೆಯಿಂದಾಗಿ ರೈತರು ಸಾಲದ ಸುಳಿಗೆ ಸಿಲುಕಿದ್ದರು.",
+        "ಬೆಳೆಗಾರರು ರೈತರನ್ನು ಬೆದರಿಸಲು ಲಠಿಯಾಲರು ಎಂಬ ಬಲಶಾಲಿ ಗೂಂಡಾಗಳನ್ನು ಬಳಸುತ್ತಿದ್ದರು.",
+        "ನೀಲಿ ಸಸ್ಯದ ಬೇರುಗಳು ಆಳವಾಗಿ ಇಳಿದು ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಕೆಡಿಸುತ್ತಿದ್ದವು, ಇದರಿಂದ ಅಲ್ಲಿ ಭತ್ತ ಬೆಳೆಯಲು ಸಾಧ್ಯವಿರಲಿಲ್ಲ.",
+        "ರೈತರು ದಂಗೆ ಎದ್ದರೆ ಬ್ರಿಟಿಷ್ ಸರ್ಕಾರ ಬೇರೆಡೆ ಉಚಿತವಾಗಿ ಭೂಮಿ ನೀಡುವುದಾಗಿ ಘೋಷಿಸಿತ್ತು."
+      ],
+      "answer": [
+        "ಬೆಳೆಗಾರರು ನೀಡುತ್ತಿದ್ದ ಅಲ್ಪ ಬೆಲೆಯಿಂದಾಗಿ ರೈತರು ಸಾಲದ ಸುಳಿಗೆ ಸಿಲುಕಿದ್ದರು.",
+        "ಬೆಳೆಗಾರರು ರೈತರನ್ನು ಬೆದರಿಸಲು ಲಠಿಯಾಲರು ಎಂಬ ಬಲಶಾಲಿ ಗೂಂಡಾಗಳನ್ನು ಬಳಸುತ್ತಿದ್ದರು.",
+        "ನೀಲಿ ಸಸ್ಯದ ಬೇರುಗಳು ಆಳವಾಗಿ ಇಳಿದು ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಕೆಡಿಸುತ್ತಿದ್ದವು, ಇದರಿಂದ ಅಲ್ಲಿ ಭತ್ತ ಬೆಳೆಯಲು ಸಾಧ್ಯವಿರಲಿಲ್ಲ."
+      ],
+      "reasoning": "ನೀಲಿ ಕೃಷಿಯು ರೈತರನ್ನು ಸಾಲದ ಜಾಲದಲ್ಲಿ ಸಿಲುಕಿಸಿತ್ತು. ಬೆಳೆಗಾರರು ತುಂಬಾ ಕಡಿಮೆ ಬೆಲೆ ನೀಡುತ್ತಿದ್ದರು ಮತ್ತು ಲಠಿಯಾಲರಿಂದ ರೈತರ ಮೇಲೆ ದೌರ್ಜನ್ಯ ಎಸಗುತ್ತಿದ್ದರು. ನೀಲಿ ಬೆಳೆದ ಭೂಮಿಯಲ್ಲಿ ಮಣ್ಣಿನ ಸಾರ ಹೀರಿಹೋಗಿ ಭತ್ತ ಬೆಳೆಯಲು ಯೋಗ್ಯವಾಗಿರುತ್ತಿರಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_his_country_021",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following commercial crops were promoted or forced by the British in different parts of India for export to European markets?",
+      "options": ["Tea in Assam", "Jute in Bengal", "Cotton in Maharashtra", "Corn in Kashmir"],
+      "answer": ["Tea in Assam", "Jute in Bengal", "Cotton in Maharashtra"],
+      "reasoning": "The British realized that the countryside could grow crops required in Europe. They promoted/forced cultivation of Jute in Bengal, Tea in Assam, Sugarcane in UP, Wheat in Punjab, Cotton in Maharashtra and Gujarat, and Opium. Corn in Kashmir was not a major colonial commercial export crop."
+    },
+    "kn": {
+      "question": "ಯುರೋಪಿನ ಮಾರುಕಟ್ಟೆಯ ಅಗತ್ಯಗಳಿಗಾಗಿ ಬ್ರಿಟಿಷರು ಭಾರತದ ವಿವಿಧ ಭಾಗಗಳಲ್ಲಿ ಬೆಳೆಯಲು ಉತ್ತೇಜಿಸಿದ ಪ್ರಮುಖ ವಾಣಿಜ್ಯ ಬೆಳೆಗಳು ಯಾವುವು?",
+      "options": ["ಅಸ್ಸಾಂನಲ್ಲಿ ಚಹಾ", "ಬಂಗಾಳದಲ್ಲಿ ಸೆಣಬು", "ಮಹಾರಾಷ್ಟ್ರದಲ್ಲಿ ಹತ್ತಿ", "ಕಾಶ್ಮೀರದಲ್ಲಿ ಜೋಳ (Corn)"],
+      "answer": ["ಅಸ್ಸಾಂನಲ್ಲಿ ಚಹಾ", "ಬಂಗಾಳದಲ್ಲಿ ಸೆಣಬು", "ಮಹಾರಾಷ್ಟ್ರದಲ್ಲಿ ಹತ್ತಿ"],
+      "reasoning": "ಬ್ರಿಟಿಷರು ಭಾರತದ ಗ್ರಾಮೀಣ ಭಾಗವನ್ನು ತಮ್ಮ ಕೈಗಾರಿಕೆಗಳಿಗೆ ಬೇಕಾದ ಕಚ್ಚಾ ವಸ್ತುಗಳ ತಯಾರಿಕೆಗೆ ಬಳಸಿಕೊಂಡರು. ಅಸ್ಸಾಂನಲ್ಲಿ ಚಹಾ, ಬಂಗಾಳದಲ್ಲಿ ಸೆಣಬು, ಮಹಾರಾಷ್ಟ್ರದಲ್ಲಿ ಹತ್ತಿ ಮತ್ತು ಯುಪಿಯಲ್ಲಿ ಕಬ್ಬು ಬೆಳೆಯಲು ಪ್ರೋತ್ಸಾಹಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c8_his_country_022",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the land revenue systems with the British administrators or figures associated with them:",
+      "pairs": [
+        {"left": "Permanent Settlement", "right": "Lord Cornwallis"},
+        {"left": "Ryotwari System", "right": "Thomas Munro"},
+        {"left": "Mahalwari System", "right": "Holt Mackenzie"},
+        {"left": "Champaran Satyagraha", "right": "Mahatma Gandhi"}
+      ],
+      "reasoning": "Permanent Settlement was introduced by Lord Cornwallis in 1793. Ryotwari was popularized by Thomas Munro. Mahalwari was developed by Holt Mackenzie. Champaran movement was led by Mahatma Gandhi in 1917."
+    },
+    "kn": {
+      "question": "ಭೂಕಂದಾಯ ಪದ್ಧತಿಗಳನ್ನು ಅವುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಬ್ರಿಟಿಷ್ ಆಡಳಿತಗಾರರು ಅಥವಾ ನಾಯಕರೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಖಾಯಂ ಜಮೀನ್ದಾರಿ ಪದ್ಧತಿ", "right": "ಲಾರ್ಡ್ ಕಾರ್ನ್ ವಾಲಿಸ್"},
+        {"left": "ರೈತವಾರಿ ಪದ್ಧತಿ", "right": "ಥಾಮಸ್ ಮನ್ರೋ"},
+        {"left": "ಮಹಲ್ವಾರಿ ಪದ್ಧತಿ", "right": "ಹೋಲ್ಟ್ ಮೆಕೆಂಜಿ"},
+        {"left": "ಚಂಪಾರಣ್ ಸತ್ಯಾಗ್ರಹ", "right": "ಮಹಾತ್ಮ ಗಾಂಧಿ"}
+      ],
+      "reasoning": "ಖಾಯಂ ಜಮೀನ್ದಾರಿ ಪದ್ಧತಿಯನ್ನು ಲಾರ್ಡ್ ಕಾರ್ನ್ ವಾಲಿಸ್, ರೈತವಾರಿ ಪದ್ಧತಿಯನ್ನು ಥಾಮಸ್ ಮನ್ರೋ, ಮಹಲ್ವಾರಿ ಪದ್ಧತಿಯನ್ನು ಹೋಲ್ಟ್ ಮೆಕೆಂಜಿ ಮತ್ತು ಚಂಪಾರಣ್ ಸತ್ಯಾಗ್ರಹವನ್ನು ಮಹಾತ್ಮ ಗಾಂಧಿ ಮುನ್ನಡೆಸಿದರು."
+    }
+  },
+  {
+    "id": "c8_his_country_023",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the revenue terms of British India with their appropriate definitions:",
+      "pairs": [
+        {"left": "Mahal", "right": "A village or group of villages in revenue records"},
+        {"left": "Ryot", "right": "A peasant or cultivator who tilled the land"},
+        {"left": "Zamindar", "right": "A local chief recognized as a revenue collector"},
+        {"left": "Lathiyal", "right": "A strongman armed with a lathi used by planters"}
+      ],
+      "reasoning": "Mahal was a revenue estate/village. Ryots were peasants. Zamindars were revenue collectors. Lathiyals were club-wielding strongmen hired by indigo planters to coerce peasants."
+    },
+    "kn": {
+      "question": "ಬ್ರಿಟಿಷ್ ಭಾರತದ ಕಂದಾಯ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ಮಹಲ್", "right": "ಕಂದಾಯ ದಾಖಲೆಗಳಲ್ಲಿರುವ ಒಂದು ಹಳ್ಳಿ ಅಥವಾ ಹಳ್ಳಿಗಳ ಗುಂಪು"},
+        {"left": "ರೈತ (Ryot)", "right": "ಭೂಮಿಯನ್ನು ಉಳುಮೆ ಮಾಡುತ್ತಿದ್ದ ಸಾಗುವಳಿದಾರ"},
+        {"left": "ಜಮೀನ್ದಾರ", "right": "ಕಂದಾಯ ವಸೂಲಿಗಾರನಾಗಿ ಗುರುತಿಸಲ್ಪಟ್ಟ ಸ್ಥಳೀಯ ಮುಖ್ಯಸ್ಥ"},
+        {"left": "ಲಠಿಯಾಲ", "right": "ನೀಲಿ ಬೆಳೆಗಾರರು ಬಳಸುತ್ತಿದ್ದ ಲಠಿ ಹಿಡಿದ ಗೂಂಡಾಳುಗಳು"}
+      ],
+      "reasoning": "ಮಹಲ್ ಎಂದರೆ ಕಂದಾಯ ಘಟಕವಾಗಿರುವ ಹಳ್ಳಿ. ರೈತ ಎಂದರೆ ಕೃಷಿಕ. ಜಮೀನ್ದಾರ ಎಂದರೆ ಕಂದಾಯ ವಸೂಲಿಗಾರ. ಲಠಿಯಾಲರು ಎಂದರೆ ನೀಲಿ ಬೆಳೆಗಾರರು ರೈತರನ್ನು ಬೆದರಿಸಲು ಬಳಸುತ್ತಿದ್ದ ಗೂಂಡಾಗಳು."
+    }
+  },
+  {
+    "id": "c8_his_country_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the commercial crops promoted by the British with the primary provinces they were grown in:",
+      "pairs": [
+        {"left": "Indigo and Jute", "right": "Bengal Province"},
+        {"left": "Tea", "right": "Assam Province"},
+        {"left": "Sugarcane", "right": "United Provinces (UP)"},
+        {"left": "Wheat", "right": "Punjab Province"}
+      ],
+      "reasoning": "Indigo and Jute were heavily grown in Bengal. Tea plantations were set up in Assam. Sugarcane was grown in the United Provinces, and Wheat in Punjab."
+    },
+    "kn": {
+      "question": "ಬ್ರಿಟಿಷರು ಪ್ರೋತ್ಸಾಹಿಸಿದ ವಾಣಿಜ್ಯ ಬೆಲೆಗಳನ್ನು ಅವುಗಳನ್ನು ಬೆಳೆಯುತ್ತಿದ್ದ ಪ್ರಮುಖ ಪ್ರಾಂತ್ಯಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ನೀಲಿ ಮತ್ತು ಸೆಣಬು", "right": "ಬಂಗಾಳ ಪ್ರಾಂತ್ಯ"},
+        {"left": "ಚಹಾ", "right": "ಅಸ್ಸಾಂ ಪ್ರಾಂತ್ಯ"},
+        {"left": "ಕಬ್ಬು", "right": "ಯುನೈಟೆಡ್ ಪ್ರಾವಿನ್ಸ್ (ಈಗಿನ ಯುಪಿ)"},
+        {"left": "ಗೋದೂಮೆ", "right": "ಪಂಜಾಬ್ ಪ್ರಾಂತ್ಯ"}
+      ],
+      "reasoning": "ನೀಲಿ ಮತ್ತು ಸೆಣಬು ಬಂಗಾಳದಲ್ಲೂ, ಚಹಾ ಅಸ್ಸಾಂನಲ್ಲೂ, ಕಬ್ಬು ಯುನೈಟೆಡ್ ಪ್ರಾವಿನ್ಸ್‌ನಲ್ಲೂ ಹಾಗೂ ಗೋಧಿ ಪಂಜಾಬ್‌ನಲ್ಲೂ ಹೆಚ್ಚಾಗಿ ಬೆಳೆಯಲ್ಪಡುತ್ತಿತ್ತು."
+    }
+  },
+  {
+    "id": "c8_his_country_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the indigo cultivation terms with their correct descriptions:",
+      "pairs": [
+        {"left": "Nij system", "right": "Planter cultivated indigo on land he directly owned/leased"},
+        {"left": "Ryoti system", "right": "Planter forced ryots to grow indigo on their own lands"},
+        {"left": "Satta", "right": "The contract signed by ryots under pressure"},
+        {"left": "Bigha", "right": "A traditional unit of land measurement in Bengal"}
+      ],
+      "reasoning": "Nij system refers to cultivation on the planter's direct land. Ryoti system refers to cultivation on the ryot's land. Satta was the contract/agreement. Bigha was a unit of land measurement."
+    },
+    "kn": {
+      "question": "ನೀಲಿ ಬೇಸಾಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {"left": "ನಿಜ್ ಪದ್ಧತಿ", "right": "ಬೆಳೆಗಾರ ತನ್ನದೇ ಆದ ಸ್ವಂತ/ಗುತ್ತಿಗೆ ಭೂಮಿಯಲ್ಲಿ ನೀಲಿ ಬೆಳೆಯುವುದು"},
+        {"left": "ರೈತಿ ಪದ್ಧತಿ", "right": "ರೈತರ ಸ್ವಂತ ಭೂಮಿಯಲ್ಲಿ ನೀಲಿ ಬೆಳೆಯುವಂತೆ ಬಲವಂತಪಡಿಸುವುದು"},
+        {"left": "ಸತ್ತಾ", "right": "ರೈತರ ಮೇಲೆ ಒತ್ತಡ ಹೇರಿ ಸಹಿ ಮಾಡಿಸಿಕೊಳ್ಳುತ್ತಿದ್ದ ಒಪ್ಪಂದ ಪತ್ರ"},
+        {"left": "ಬಿಗಾ (Bigha)", "right": "ಬಂಗಾಳದಲ್ಲಿದ್ದ ಸಾಂಪ್ರದಾಯಿಕ ಭೂಮಾಪನ ಘಟಕ"}
+      ],
+      "reasoning": "ನಿಜ್ ಎಂದರೆ ಬೆಳೆಗಾರನ ಸ್ವಂತ ಜಮೀನಿನ ಬೇಸಾಯ. ರೈತಿ ಎಂದರೆ ರೈತನ ಜಮೀನಿನಲ್ಲಿ ಮಾಡಿಸುವ ಬೇಸಾಯ. ಸತ್ತಾ ಎಂಬುದು ಒಪ್ಪಂದವಾಗಿದ್ದು, ಬಿಗಾ ಎಂಬುದು ಬಂಗಾಳದ ಭೂಮಾಪನದ ಒಂದು ಘಟಕವಾಗಿತ್ತು."
+    }
+  }
+]

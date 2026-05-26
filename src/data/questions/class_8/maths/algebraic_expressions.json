@@ -1,0 +1,998 @@
+[
+  {
+    "id": "c8_math_alg_001",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Identify the coefficient of x in the term -7x.",
+      "options": [
+        "7",
+        "-7",
+        "x",
+        "-7x"
+      ],
+      "answer": "-7",
+      "reasoning": "The coefficient of a term is the numerical factor of that term. For the term -7x, the numerical factor multiplying the variable x is -7."
+    },
+    "kn": {
+      "question": "-7x ಪದದಲ್ಲಿ x ನ ಸಹಗುಣಕವನ್ನು ಗುರುತಿಸಿ.",
+      "options": [
+        "7",
+        "-7",
+        "x",
+        "-7x"
+      ],
+      "answer": "-7",
+      "reasoning": "ಒಂದು ಪದದ ಸಂಖ್ಯಾ ಅಪವರ್ತನವನ್ನು ಅದರ ಸಹಗುಣಕ ಎನ್ನುತ್ತಾರೆ. -7x ಪದದಲ್ಲಿ ಚರಾಕ್ಷರ x ಅನ್ನು ಗುಣಿಸುತ್ತಿರುವ ಸಂಖ್ಯಾ ಅಪವರ್ತನ -7 ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_alg_002",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Classify the algebraic expression 3x² + 5x - 7 based on the number of terms.",
+      "options": [
+        "Monomial",
+        "Binomial",
+        "Trinomial",
+        "Polynomial with 4 terms"
+      ],
+      "answer": "Trinomial",
+      "reasoning": "An algebraic expression containing three terms is called a trinomial. The terms in 3x² + 5x - 7 are 3x², 5x, and -7. Since there are exactly three terms, it is a trinomial."
+    },
+    "kn": {
+      "question": "ಪದಗಳ ಸಂಖ್ಯೆಯ ಆಧಾರದ ಮೇಲೆ 3x² + 5x - 7 ಬೀಜೋಕ್ತಿಯನ್ನು ವರ್ಗೀಕರಿಸಿ.",
+      "options": [
+        "ಏಕಪದೋಕ್ತಿ (Monomial)",
+        "ದ್ವಿಪದೋಕ್ತಿ (Binomial)",
+        "ತ್ರಿಪದೋಕ್ತಿ (Trinomial)",
+        "ಬಹುಪದೋಕ್ತಿ (Polynomial)"
+      ],
+      "answer": "ತ್ರಿಪದೋಕ್ತಿ (Trinomial)",
+      "reasoning": "ಮೂರು ಪದಗಳನ್ನು ಹೊಂದಿರುವ ಬೀಜೋಕ್ತಿಯನ್ನು ತ್ರಿಪದೋಕ್ತಿ ಎನ್ನುತ್ತೇವೆ. 3x² + 5x - 7 ಬೀಜೋಕ್ತಿಯಲ್ಲಿ 3x², 5x, ಮತ್ತು -7 ಎಂಬ ಮೂರು ಪದಗಳಿವೆ."
+    }
+  },
+  {
+    "id": "c8_math_alg_img_003",
+    "difficulty": 1,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"60\" y=\"40\" width=\"180\" height=\"100\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"150\" y=\"30\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">y</text><text x=\"45\" y=\"95\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">x</text><text x=\"150\" y=\"95\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">Area = ?</text></svg>",
+      "alt": {
+        "en": "A rectangle with side lengths x and y.",
+        "kn": "x ಮತ್ತು y ಅಳತೆಯ ಬಾಹುಗಳನ್ನು ಹೊಂದಿರುವ ಒಂದು ಆಯತ."
+      }
+    },
+    "en": {
+      "question": "Write the algebraic expression representing the area of the rectangle shown in the image.",
+      "options": [
+        "x + y",
+        "xy",
+        "2(x + y)",
+        "x² + y²"
+      ],
+      "answer": "xy",
+      "reasoning": "The area of a rectangle is calculated as Length × Width. Here, the length is y and the width is x. Therefore, the area is x × y = xy."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಆಯತದ ವಿಸ್ತೀರ್ಣವನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಬೀಜೋಕ್ತಿಯನ್ನು ಬರೆಯಿರಿ.",
+      "options": [
+        "x + y",
+        "xy",
+        "2(x + y)",
+        "x² + y²"
+      ],
+      "answer": "xy",
+      "reasoning": "ಆಯತದ ವಿಸ್ತೀರ್ಣ = ಉದ್ದ × ಅಗಲ. ಇಲ್ಲಿ ಉದ್ದ y ಮತ್ತು ಅಗಲ x ಆಗಿದೆ. ಆದ್ದರಿಂದ ವಿಸ್ತೀರ್ಣ = x × y = xy."
+    }
+  },
+  {
+    "id": "c8_math_alg_004",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Add the following algebraic terms: 3x, 7x, and -2x.",
+      "options": [
+        "8x",
+        "12x",
+        "10x",
+        "5x"
+      ],
+      "answer": "8x",
+      "reasoning": "These are like terms (all contain the variable x). We add their coefficients: 3 + 7 + (-2) = 10 - 2 = 8. So the sum is 8x."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಬೀಜಪದಗಳನ್ನು ಕೂಡಿಸಿ: 3x, 7x, ಮತ್ತು -2x.",
+      "options": [
+        "8x",
+        "12x",
+        "10x",
+        "5x"
+      ],
+      "answer": "8x",
+      "reasoning": "ಇವು ಸಜಾತೀಯ ಪದಗಳಾಗಿವೆ (ಎಲ್ಲದರಲ್ಲೂ ಚರಾಕ್ಷರ x ಇದೆ). ಅವುಗಳ ಸಹಗುಣಕಗಳನ್ನು ಕೂಡಿಸಿದಾಗ: 3 + 7 + (-2) = 8. ಆದ್ದರಿಂದ ಮೊತ್ತ 8x."
+    }
+  },
+  {
+    "id": "c8_math_alg_005",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match the algebraic expressions with their classifications.",
+      "pairs": [
+        {
+          "left": "3xy",
+          "right": "Monomial"
+        },
+        {
+          "left": "5x + 2y",
+          "right": "Binomial"
+        },
+        {
+          "left": "x² + x + 1",
+          "right": "Trinomial"
+        },
+        {
+          "left": "x³ + x² + x + 1",
+          "right": "Polynomial"
+        }
+      ],
+      "reasoning": "Expressions are classified by term count: Monomial (1 term), Binomial (2 terms), Trinomial (3 terms), and Polynomial (general term for one or more terms, here represented with 4 terms)."
+    },
+    "kn": {
+      "question": "ಬೀಜೋಕ್ತಿಗಳನ್ನು ಅವುಗಳ ವರ್ಗೀಕರಣದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "3xy",
+          "right": "Monomial"
+        },
+        {
+          "left": "5x + 2y",
+          "right": "Binomial"
+        },
+        {
+          "left": "x² + x + 1",
+          "right": "Trinomial"
+        },
+        {
+          "left": "x³ + x² + x + 1",
+          "right": "Polynomial"
+        }
+      ],
+      "reasoning": "ಬೀಜೋಕ್ತಿಗಳನ್ನು ಅವುಗಳ ಪದಗಳ ಸಂಖ್ಯೆಯ ಆಧಾರದ ಮೇಲೆ ವರ್ಗೀಕರಿಸಲಾಗುತ್ತದೆ: ಏಕಪದೋಕ್ತಿ (1 ಪದ), ದ್ವಿಪದೋಕ್ತಿ (2 ಪದಗಳು), ತ್ರಿಪದೋಕ್ತಿ (3 ಪದಗಳು) ಮತ್ತು ಬಹುಪದೋಕ್ತಿ (4 ಪದಗಳು)."
+    }
+  },
+  {
+    "id": "c8_math_alg_006",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Find the product of the monomials: 4x and 5y.",
+      "options": [
+        "9xy",
+        "20xy",
+        "20x²y²",
+        "9x²y²"
+      ],
+      "answer": "20xy",
+      "reasoning": "To multiply monomials, multiply the numerical coefficients and then multiply the algebraic variables. (4x) × (5y) = (4 × 5) × (x × y) = 20xy."
+    },
+    "kn": {
+      "question": "4x ಮತ್ತು 5y ಏಕಪದೋಕ್ತಿಗಳ ಗುಣಲಬ್ಧವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "9xy",
+        "20xy",
+        "20x²y²",
+        "9x²y²"
+      ],
+      "answer": "20xy",
+      "reasoning": "ಏಕಪದೋಕ್ತಿಗಳನ್ನು ಗುಣಿಸುವಾಗ ಸಂಖ್ಯಾ ಸಹಗುಣಕಗಳನ್ನು ಗುಣಿಸಿ ನಂತರ ಚರಾಕ್ಷರಗಳನ್ನು ಗುಣಿಸಬೇಕು: (4x) × (5y) = (4 × 5) × (x × y) = 20xy."
+    }
+  },
+  {
+    "id": "c8_math_alg_007",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the value of the algebraic expression 2x - 5 when x = 3?",
+      "options": [
+        "1",
+        "-1",
+        "6",
+        "11"
+      ],
+      "answer": "1",
+      "reasoning": "Substitute the value of x = 3 into the expression: 2(3) - 5 = 6 - 5 = 1."
+    },
+    "kn": {
+      "question": "x = 3 ಆದಾಗ, 2x - 5 ಬೀಜೋಕ್ತಿಯ ಮೌಲ್ಯ ಎಷ್ಟು?",
+      "options": [
+        "1",
+        "-1",
+        "6",
+        "11"
+      ],
+      "answer": "1",
+      "reasoning": "ಬೀಜೋಕ್ತಿಯಲ್ಲಿ x = 3 ಆದೇಶಿಸಿ: 2(3) - 5 = 6 - 5 = 1."
+    }
+  },
+  {
+    "id": "c8_math_alg_img_008",
+    "difficulty": 1,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"30\" y=\"30\" width=\"240\" height=\"140\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\" rx=\"10\"/><rect x=\"50\" y=\"50\" width=\"90\" height=\"100\" fill=\"none\" stroke=\"#059669\" stroke-width=\"2\" stroke-dasharray=\"5,5\"/><text x=\"95\" y=\"75\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">3x</text><text x=\"95\" y=\"105\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">5x</text><text x=\"95\" y=\"135\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">-2x</text><rect x=\"160\" y=\"50\" width=\"90\" height=\"100\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"2\" stroke-dasharray=\"5,5\"/><text x=\"205\" y=\"85\" fill=\"#EA580C\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">2y</text><text x=\"205\" y=\"125\" fill=\"#EA580C\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">4y</text></svg>",
+      "alt": {
+        "en": "A box containing two groups of terms: Group 1 has x-terms (3x, 5x, -2x) and Group 2 has y-terms (2y, 4y).",
+        "kn": "ಎರಡು ಗುಂಪುಗಳ ಪದಗಳನ್ನು ಹೊಂದಿರುವ ಬಾಕ್ಸ್: ಗುಂಪು 1 ರಲ್ಲಿ x-ಪದಗಳು (3x, 5x, -2x) ಮತ್ತು ಗುಂಪು 2 ರಲ್ಲಿ y-ಪದಗಳು (2y, 4y) ಇವೆ."
+      }
+    },
+    "en": {
+      "question": "Find the sum of all the x-terms shown in the green dashed box.",
+      "options": [
+        "8x",
+        "6x",
+        "10x",
+        "5x"
+      ],
+      "answer": "6x",
+      "reasoning": "The green dashed box contains three terms: 3x, 5x, and -2x. Summing them up: 3x + 5x + (-2x) = (3 + 5 - 2)x = 6x."
+    },
+    "kn": {
+      "question": "ಹಸಿರು ಚುಕ್ಕೆಗಳ ಬಾಕ್ಸ್‌ನಲ್ಲಿ ತೋರಿಸಿರುವ ಎಲ್ಲಾ x-ಪದಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "8x",
+        "6x",
+        "10x",
+        "5x"
+      ],
+      "answer": "6x",
+      "reasoning": "ಹಸಿರು ಬಾಕ್ಸ್‌ನಲ್ಲಿರುವ ಪದಗಳು: 3x, 5x, ಮತ್ತು -2x. ಇವುಗಳನ್ನು ಕೂಡಿದಾಗ: 3x + 5x - 2x = 6x."
+    }
+  },
+  {
+    "id": "c8_math_alg_009",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Identify all pairs of like terms from the options below.",
+      "options": [
+        "3x and -5x",
+        "4xy and 5yx",
+        "2x² and 2x",
+        "3ab and 3a"
+      ],
+      "answer": [
+        "3x and -5x",
+        "4xy and 5yx"
+      ],
+      "reasoning": "Like terms are terms that have the same algebraic variables raised to the same powers. 1) 3x and -5x both have the variable x. 2) 4xy and 5yx both have the variables x and y to power 1 (since xy = yx). 3) 2x² and 2x are unlike because the powers of x are different (2 and 1). 4) 3ab and 3a are unlike because their variables are different."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಆಯ್ಕೆಗಳಿಂದ ಸಜಾತೀಯ ಪದಗಳ ಎಲ್ಲಾ ಜೋಡಿಗಳನ್ನು ಗುರುತಿಸಿ.",
+      "options": [
+        "3x and -5x",
+        "4xy and 5yx",
+        "2x² and 2x",
+        "3ab and 3a"
+      ],
+      "answer": [
+        "3x and -5x",
+        "4xy and 5yx"
+      ],
+      "reasoning": "ಒಂದೇ ಚರಾಕ್ಷರಗಳನ್ನು ಮತ್ತು ಅವುಗಳ ಮೇಲೆ ಒಂದೇ ಘಾತಗಳನ್ನು ಹೊಂದಿರುವ ಪದಗಳನ್ನು ಸಜಾತೀಯ ಪದಗಳು ಎನ್ನಲಾಗುತ್ತದೆ. ಇಲ್ಲಿ (3x, -5x) ಮತ್ತು (4xy, 5yx) ಸಜಾತೀಯ ಜೋಡಿಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_math_alg_010",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Subtract 3a from 7a.",
+      "options": [
+        "4a",
+        "-4a",
+        "10a",
+        "4"
+      ],
+      "answer": "4a",
+      "reasoning": "Subtracting coefficients of like terms: 7a - 3a = (7 - 3)a = 4a."
+    },
+    "kn": {
+      "question": "7a ಇಂದ 3a ಅನ್ನು ಕಳೆಯಿರಿ.",
+      "options": [
+        "4a",
+        "-4a",
+        "10a",
+        "4"
+      ],
+      "answer": "4a",
+      "reasoning": "ಸಜಾತೀಯ ಪದಗಳ ಸಹಗುಣಕಗಳನ್ನು ಕಳೆಯುವುದು: 7a - 3a = (7 - 3)a = 4a."
+    }
+  },
+  {
+    "id": "c8_math_alg_img_011",
+    "difficulty": 2,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"90\" y=\"40\" width=\"80\" height=\"80\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><rect x=\"170\" y=\"40\" width=\"40\" height=\"80\" fill=\"#FFE4E6\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><rect x=\"90\" y=\"120\" width=\"80\" height=\"40\" fill=\"#FFE4E6\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><rect x=\"170\" y=\"120\" width=\"40\" height=\"40\" fill=\"#D1FAE5\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><text x=\"130\" y=\"85\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">a&sup2;</text><text x=\"190\" y=\"85\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">ab</text><text x=\"130\" y=\"145\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">ab</text><text x=\"190\" y=\"145\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">b&sup2;</text><text x=\"130\" y=\"30\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">a</text><text x=\"190\" y=\"30\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">b</text><text x=\"80\" y=\"85\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">a</text><text x=\"80\" y=\"145\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">b</text></svg>",
+      "alt": {
+        "en": "A square of side a+b divided into four regions of area a², ab, ab, and b².",
+        "kn": "a+b ಬಾಹುವನ್ನು ಹೊಂದಿರುವ ಚೌಕವನ್ನು a², ab, ab, ಮತ್ತು b² ವಿಸ್ತೀರ್ಣದ ನಾಲ್ಕು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಿರುವುದನ್ನು ತೋರಿಸುವ ಜ್ಯಾಮಿತೀಯ ಚಿತ್ರ."
+      }
+    },
+    "en": {
+      "question": "Which algebraic identity is geometrically proven by the area division shown in the image?",
+      "options": [
+        "(a + b)² = a² + 2ab + b²",
+        "(a - b)² = a² - 2ab + b²",
+        "a² - b² = (a - b)(a + b)",
+        "(x + a)(x + b) = x² + (a + b)x + ab"
+      ],
+      "answer": "(a + b)² = a² + 2ab + b²",
+      "reasoning": "The total area of the large square of side (a+b) is (a+b)². The sum of the areas of the four individual regions is a² + ab + ab + b² = a² + 2ab + b². Equating the two yields the identity (a+b)² = a² + 2ab + b²."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಜ್ಯಾಮಿತೀಯ ವಿಸ್ತೀರ್ಣ ವಿಭಜನೆಯು ಯಾವ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಸಾಬೀತುಪಡಿಸುತ್ತದೆ?",
+      "options": [
+        "(a + b)² = a² + 2ab + b²",
+        "(a - b)² = a² - 2ab + b²",
+        "a² - b² = (a - b)(a + b)",
+        "(x + a)(x + b) = x² + (a + b)x + ab"
+      ],
+      "answer": "(a + b)² = a² + 2ab + b²",
+      "reasoning": "(a+b) ಬಾಹುವಿನ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವು (a+b)² ಆಗಿದೆ. ನಾಲ್ಕು ಪ್ರತ್ಯೇಕ ಭಾಗಗಳ ವಿಸ್ತೀರ್ಣಗಳ ಮೊತ್ತ = a² + ab + ab + b² = a² + 2ab + b². ಆದ್ದರಿಂದ (a+b)² = a² + 2ab + b²."
+    }
+  },
+  {
+    "id": "c8_math_alg_012",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Simplify the algebraic expression: 2x(x - y) + 3y(x - y).",
+      "options": [
+        "2x² + xy - 3y²",
+        "2x² - xy - 3y²",
+        "2x² + 5xy - 3y²",
+        "2x² - 5xy + 3y²"
+      ],
+      "answer": "2x² + xy - 3y²",
+      "reasoning": "Expand the terms: 2x(x - y) = 2x² - 2xy. 3y(x - y) = 3xy - 3y². Adding them: 2x² - 2xy + 3xy - 3y² = 2x² + xy - 3y²."
+    },
+    "kn": {
+      "question": "ಬೀಜೋಕ್ತಿಯನ್ನು ಸರಳೀಕರಿಸಿ: 2x(x - y) + 3y(x - y).",
+      "options": [
+        "2x² + xy - 3y²",
+        "2x² - xy - 3y²",
+        "2x² + 5xy - 3y²",
+        "2x² - 5xy + 3y²"
+      ],
+      "answer": "2x² + xy - 3y²",
+      "reasoning": "ಪದಗಳನ್ನು ವಿಸ್ತರಿಸಿ: 2x(x - y) = 2x² - 2xy. 3y(x - y) = 3xy - 3y². ಇವೆರಡನ್ನೂ ಕೂಡಿದಾಗ: 2x² - 2xy + 3xy - 3y² = 2x² + xy - 3y²."
+    }
+  },
+  {
+    "id": "c8_math_alg_013",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Find the product of the binomials: (x + 3) and (x + 5).",
+      "options": [
+        "x² + 8x + 15",
+        "x² + 15x + 8",
+        "x² + 2x + 15",
+        "x² + 8x + 8"
+      ],
+      "answer": "x² + 8x + 15",
+      "reasoning": "Using the identity (x + a)(x + b) = x² + (a + b)x + ab. Here, a = 3 and b = 5. (x + 3)(x + 5) = x² + (3 + 5)x + (3 × 5) = x² + 8x + 15."
+    },
+    "kn": {
+      "question": "(x + 3) ಮತ್ತು (x + 5) ದ್ವಿಪದೋಕ್ತಿಗಳ ಗುಣಲಬ್ಧವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "x² + 8x + 15",
+        "x² + 15x + 8",
+        "x² + 2x + 15",
+        "x² + 8x + 8"
+      ],
+      "answer": "x² + 8x + 15",
+      "reasoning": "ನಿತ್ಯಸಮೀಕರಣ (x + a)(x + b) = x² + (a + b)x + ab ಬಳಸಿ. ಇಲ್ಲಿ a = 3 ಮತ್ತು b = 5. (x + 3)(x + 5) = x² + 8x + 15."
+    }
+  },
+  {
+    "id": "c8_math_alg_014",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the binomial products with their simplified quadratic expansions.",
+      "pairs": [
+        {
+          "left": "(x + 2)(x - 2)",
+          "right": "x² - 4"
+        },
+        {
+          "left": "(x + 2)²",
+          "right": "x² + 4x + 4"
+        },
+        {
+          "left": "(x - 2)²",
+          "right": "x² - 4x + 4"
+        },
+        {
+          "left": "(x + 2)(x + 3)",
+          "right": "x² + 5x + 6"
+        }
+      ],
+      "reasoning": "Using identities: 1) Difference of squares (a-b)(a+b)=a²-b²; 2) Square of sum (a+b)²=a²+2ab+b²; 3) Square of diff (a-b)²=a²-2ab+b²; 4) Product (x+a)(x+b)=x²+(a+b)x+ab."
+    },
+    "kn": {
+      "question": "ದ್ವಿಪದೋಕ್ತಿಗಳ ಗುಣಲಬ್ಧಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವರ್ಗ ಸಮೀಕರಣ ವಿಸ್ತರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "(x + 2)(x - 2)",
+          "right": "x² - 4"
+        },
+        {
+          "left": "(x + 2)²",
+          "right": "x² + 4x + 4"
+        },
+        {
+          "left": "(x - 2)²",
+          "right": "x² - 4x + 4"
+        },
+        {
+          "left": "(x + 2)(x + 3)",
+          "right": "x² + 5x + 6"
+        }
+      ],
+      "reasoning": "ಪ್ರಮಾಣಿತ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸಿ ವಿಸ್ತರಿಸಿದಾಗ ಇವುಗಳು ಹೊಂದಿಕೆಯಾಗುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_math_alg_015",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Calculate the numerical value of (98)² using an appropriate identity.",
+      "options": [
+        "10404",
+        "10204",
+        "10004",
+        "10400"
+      ],
+      "answer": "10404",
+      "reasoning": "We can write 102 as 100 + 2. Using the identity (a + b)² = a² + 2ab + b²: (100 + 2)² = 100² + 2(100)(2) + 2² = 10000 + 400 + 4 = 10404."
+    },
+    "kn": {
+      "question": "ಸೂಕ್ತವಾದ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಿಕೊಂಡು (98)² ರ ಸಂಖ್ಯಾತ್ಮಕ ಮೌಲ್ಯವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+      "options": [
+        "10404",
+        "10204",
+        "10004",
+        "10400"
+      ],
+      "answer": "10404",
+      "reasoning": "102 ಅನ್ನು 100 + 2 ಎಂದು ಬರೆಯಬಹುದು. (a+b)² ನಿತ್ಯಸಮೀಕರಣ ಬಳಸಿ: (100 + 2)² = 100² + 2(100)(2) + 2² = 10000 + 400 + 4 = 10404."
+    }
+  },
+  {
+    "id": "c8_math_alg_016",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Evaluate (98)² using a suitable algebraic identity.",
+      "options": [
+        "9604",
+        "9804",
+        "9404",
+        "9600"
+      ],
+      "answer": "9604",
+      "reasoning": "We can write 98 as 100 - 2. Using the identity (a - b)² = a² - 2ab + b²: (100 - 2)² = 100² - 2(100)(2) + 2² = 10000 - 400 + 4 = 9604."
+    },
+    "kn": {
+      "question": "ಸೂಕ್ತವಾದ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಿ (98)² ರ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "9604",
+        "9804",
+        "9404",
+        "9600"
+      ],
+      "answer": "9604",
+      "reasoning": "98 ಅನ್ನು 100 - 2 ಎಂದು ಬರೆಯಬಹುದು. (a-b)² ನಿತ್ಯಸಮೀಕರಣ ಬಳಸಿ: (100 - 2)² = 100² - 2(100)(2) + 2² = 10000 - 400 + 4 = 9604."
+    }
+  },
+  {
+    "id": "c8_math_alg_017",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following algebraic expressions are equivalent to (x - y)²?",
+      "options": [
+        "x² - 2xy + y²",
+        "y² - 2xy + x²,",
+        "(y - x)²",
+        "x² - y²"
+      ],
+      "answer": [
+        "x² - 2xy + y²",
+        "y² - 2xy + x²,",
+        "(y - x)²"
+      ],
+      "reasoning": "1) (x - y)² = x² - 2xy + y². 2) Since addition is commutative, x² - 2xy + y² = y² - 2xy + x². 3) (y - x)² = (-(x - y))² = (x - y)². 4) x² - y² is the difference of squares, which is (x - y)(x + y), not equivalent to (x - y)²."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಯಾವ ಬೀಜೋಕ್ತಿಗಳು (x - y)² ಗೆ ಸಮಾನವಾಗಿವೆ?",
+      "options": [
+        "x² - 2xy + y²",
+        "y² - 2xy + x²,",
+        "(y - x)²",
+        "x² - y²"
+      ],
+      "answer": [
+        "x² - 2xy + y²",
+        "y² - 2xy + x²,",
+        "(y - x)²"
+      ],
+      "reasoning": "(x-y)² = x² - 2xy + y². ಇದನ್ನು y² - 2xy + x² ಎಂದೂ ಬರೆಯಬಹುದು. ಮತ್ತು (y-x)² = (x-y)² ಆಗಿದೆ. ಆದರೆ x² - y² = (x-y)(x+y) ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_alg_img_018",
+    "difficulty": 2,
+    "type": "image_multiple",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><path d=\"M150,30 L210,50 L150,70 L90,50 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M90,50 L150,70 L150,140 L90,120 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M150,70 L210,50 L210,120 L150,140 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"110\" y=\"110\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">2x</text><text x=\"190\" y=\"110\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">3y</text><text x=\"160\" y=\"160\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">4z</text></svg>",
+      "alt": {
+        "en": "A 3D cuboid with side lengths 2x, 3y, and 4z.",
+        "kn": "2x, 3y, ಮತ್ತು 4z ಅಳತೆಯ ಬಾಹುಗಳನ್ನು ಹೊಂದಿರುವ ಒಂದು ಆಯತ ಘನ (ಲಯಬದ್ಧ ಘನಾಕೃತಿ)."
+      }
+    },
+    "en": {
+      "question": "For the cuboid shown in the image, which of the following algebraic expressions represent its volume or total surface area?",
+      "options": [
+        "Volume = 24xyz",
+        "Volume = 9x+y+z",
+        "Total Surface Area = 12xy + 24yz + 16zx",
+        "Total Surface Area = 24xy + 48yz + 32zx"
+      ],
+      "answer": [
+        "Volume = 24xyz",
+        "Total Surface Area = 12xy + 24yz + 16zx"
+      ],
+      "reasoning": "Volume = Length × Width × Height = 2x × 3y × 4z = 24xyz. Total Surface Area (TSA) = 2(lw + wh + hl) = 2(2x × 3y + 3y × 4z + 4z × 2x) = 2(6xy + 12yz + 8zx) = 12xy + 24yz + 16zx."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಆಯತ ಘನಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ, ಅದರ ಘನಫಲ ಅಥವಾ ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಸರಿಯಾದ ಬೀಜೋಕ್ತಿಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": [
+        "Volume = 24xyz",
+        "Volume = 9x+y+z",
+        "Total Surface Area = 12xy + 24yz + 16zx",
+        "Total Surface Area = 24xy + 48yz + 32zx"
+      ],
+      "answer": [
+        "Volume = 24xyz",
+        "Total Surface Area = 12xy + 24yz + 16zx"
+      ],
+      "reasoning": "ಘನಫಲ = ಉದ್ದ × ಅಗಲ × ಎತ್ತರ = 2x × 3y × 4z = 24xyz. ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ = 2(lw + wh + hl) = 2(6xy + 12yz + 8zx) = 12xy + 24yz + 16zx."
+    }
+  },
+  {
+    "id": "c8_math_alg_019",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Multiply the binomials: (2a + 3b) and (3a - 2b).",
+      "options": [
+        "6a² + 5ab - 6b²",
+        "6a² - 5ab - 6b²",
+        "6a² + 13ab - 6b²",
+        "6a² - 13ab + 6b²"
+      ],
+      "answer": "6a² + 5ab - 6b²",
+      "reasoning": "Multiply using FOIL method: (2a + 3b)(3a - 2b) = 2a(3a) + 2a(-2b) + 3b(3a) + 3b(-2b) = 6a² - 4ab + 9ab - 6b² = 6a² + 5ab - 6b²."
+    },
+    "kn": {
+      "question": "(2a + 3b) ಮತ್ತು (3a - 2b) ದ್ವಿಪದೋಕ್ತಿಗಳನ್ನು ಗುಣಿಸಿ.",
+      "options": [
+        "6a² + 5ab - 6b²",
+        "6a² - 5ab - 6b²",
+        "6a² + 13ab - 6b²",
+        "6a² - 13ab + 6b²"
+      ],
+      "answer": "6a² + 5ab - 6b²",
+      "reasoning": "(2a + 3b)(3a - 2b) = 2a(3a - 2b) + 3b(3a - 2b) = 6a² - 4ab + 9ab - 6b² = 6a² + 5ab - 6b²."
+    }
+  },
+  {
+    "id": "c8_math_alg_020",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the algebraic identities on the left with their descriptive names on the right.",
+      "pairs": [
+        {
+          "left": "(a + b)² = a² + 2ab + b²",
+          "right": "Square of Sum"
+        },
+        {
+          "left": "(a - b)² = a² - 2ab + b²",
+          "right": "Square of Difference"
+        },
+        {
+          "left": "a² - b² = (a - b)(a + b)",
+          "right": "Difference of Squares"
+        },
+        {
+          "left": "(x + a)(x + b) = x² + (a + b)x + ab",
+          "right": "Identity for Binomial Product"
+        }
+      ],
+      "reasoning": "These are the four standard algebraic identities taught in Class 8 Mathematics and their common names."
+    },
+    "kn": {
+      "question": "ಬೀಜಗಣಿತದ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಅವುಗಳ ಹೆಸರುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "(a + b)² = a² + 2ab + b²",
+          "right": "Square of Sum"
+        },
+        {
+          "left": "(a - b)² = a² - 2ab + b²",
+          "right": "Square of Difference"
+        },
+        {
+          "left": "a² - b² = (a - b)(a + b)",
+          "right": "Difference of Squares"
+        },
+        {
+          "left": "(x + a)(x + b) = x² + (a + b)x + ab",
+          "right": "Identity for Binomial Product"
+        }
+      ],
+      "reasoning": "ಇವು ಕ್ಲಾಸ್ 8 ಗಣಿತದಲ್ಲಿ ಕಲಿಯುವ ಪ್ರಮುಖ 4 ನಿತ್ಯಸಮೀಕರಣಗಳು ಮತ್ತು ಅವುಗಳ ಹೆಸರುಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_math_alg_021",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "If x + 1/x = 5, find the value of x² + 1/x².",
+      "options": [
+        "25",
+        "23",
+        "27",
+        "10"
+      ],
+      "answer": "23",
+      "reasoning": "Given x + 1/x = 5. Square both sides: (x + 1/x)² = 5² => x² + 2(x)(1/x) + 1/x² = 25 => x² + 2 + 1/x² = 25 => x² + 1/x² = 25 - 2 = 23."
+    },
+    "kn": {
+      "question": "x + 1/x = 5 ಆದರೆ, x² + 1/x² ರ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "25",
+        "23",
+        "27",
+        "10"
+      ],
+      "answer": "23",
+      "reasoning": "x + 1/x = 5 ಸಮೀಕರಣದ ಎರಡೂ ಬದಿ ವರ್ಗಗೊಳಿಸಿ: (x + 1/x)² = 5² => x² + 2 + 1/x² = 25 => x² + 1/x² = 23."
+    }
+  },
+  {
+    "id": "c8_math_alg_022",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Find the product: (2x + 5y)(4x² - 10xy + 25y²).",
+      "options": [
+        "8x³ + 125y³",
+        "8x³ - 125y³",
+        "8x³ + 20x²y + 125y³",
+        "8x³ - 20x²y + 125y³"
+      ],
+      "answer": "8x³ + 125y³",
+      "reasoning": "This fits the algebraic identity (a + b)(a² - ab + b²) = a³ + b³. Let a = 2x and b = 5y. Indeed, (2x)² = 4x², (2x)(5y) = 10xy, and (5y)² = 25y². So, the product is (2x)³ + (5y)³ = 8x³ + 125y³."
+    },
+    "kn": {
+      "question": "(2x + 5y)(4x² - 10xy + 25y²) ಗುಣಲಬ್ಧವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "8x³ + 125y³",
+        "8x³ - 125y³",
+        "8x³ + 20x²y + 125y³",
+        "8x³ - 20x²y + 125y³"
+      ],
+      "answer": "8x³ + 125y³",
+      "reasoning": "ಇದು (a + b)(a² - ab + b²) = a³ + b³ ರೂಪದಲ್ಲಿದೆ. ಇಲ್ಲಿ a = 2x ಮತ್ತು b = 5y. ಆದ್ದರಿಂದ ಗುಣಲಬ್ಧ = (2x)³ + (5y)³ = 8x³ + 125y³."
+    }
+  },
+  {
+    "id": "c8_math_alg_img_023",
+    "difficulty": 3,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><path d=\"M90,40 L210,40 L210,120 L170,120 L170,160 L90,160 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><rect x=\"170\" y=\"120\" width=\"40\" height=\"40\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"1.5\" stroke-dasharray=\"3,3\"/><text x=\"190\" y=\"145\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">b&sup2;</text><text x=\"150\" y=\"95\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">a&sup2; - b&sup2;</text><text x=\"150\" y=\"30\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">a</text><text x=\"75\" y=\"105\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">a</text></svg>",
+      "alt": {
+        "en": "A large square of side a with a corner square of side b cut out, representing area a²-b².",
+        "kn": "a ಬಾಹುವಿನ ದೊಡ್ಡ ಚೌಕದಿಂದ b ಬಾಹುವಿನ ಸಣ್ಣ ಚೌಕವನ್ನು ಕತ್ತರಿಸಿ ತೆಗೆದಿರುವುದನ್ನು ತೋರಿಸುವ ಚಿತ್ರ. ಇದು a²-b² ವಿಸ್ತೀರ್ಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ."
+      }
+    },
+    "en": {
+      "question": "Which of the following identities represents the shaded region of area a² - b² shown in the image?",
+      "options": [
+        "a² - b² = (a - b)(a + b)",
+        "a² - b² = (a - b)²",
+        "a² - b² = a² - 2ab + b²",
+        "a² - b² = a² + b² - 2ab"
+      ],
+      "answer": "a² - b² = (a - b)(a + b)",
+      "reasoning": "The area of the shaded region is the difference of the areas of the two squares: a² - b². Geometrically, this region can be rearranged into a rectangle of dimensions (a - b) by (a + b). Hence, a² - b² = (a - b)(a + b)."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಛಾಯೆಗೊಳಿಸಿದ ಭಾಗದ ವಿಸ್ತೀರ್ಣ a² - b² ಅನ್ನು ಕೆಳಗಿನ ಯಾವ ನಿತ್ಯಸಮೀಕರಣವು ಸರಿಯಾಗಿ ಪ್ರತಿನಿಧಿಸುತ್ತದೆ?",
+      "options": [
+        "a² - b² = (a - b)(a + b)",
+        "a² - b² = (a - b)²",
+        "a² - b² = a² - 2ab + b²",
+        "a² - b² = a² + b² - 2ab"
+      ],
+      "answer": "a² - b² = (a - b)(a + b)",
+      "reasoning": "ಛಾಯೆಗೊಳಿಸಿದ ಭಾಗದ ವಿಸ್ತೀರ್ಣವು ಎರಡು ಚೌಕಗಳ ವಿಸ್ತೀರ್ಣಗಳ ವ್ಯತ್ಯಾಸವಾಗಿದೆ: a² - b². ಇದನ್ನು ರೇಖಾಗಣಿತದ ಮರುಜೋಡಣೆಯಿಂದ (a-b) ಮತ್ತು (a+b) ಬಾಹುಗಳಿರುವ ಆಯತವಾಗಿ ಪರಿವರ್ತಿಸಬಹುದು. ಆದ್ದರಿಂದ, a² - b² = (a - b)(a + b)."
+    }
+  },
+  {
+    "id": "c8_math_alg_024",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "If a² + b² = 29 and ab = 10, which of the following are the possible values of a + b and a - b?",
+      "options": [
+        "a + b = 7 or -7",
+        "a - b = 3 or -3",
+        "a + b = 9 or -9",
+        "a - b = 5 or -5"
+      ],
+      "answer": [
+        "a + b = 7 or -7",
+        "a - b = 3 or -3"
+      ],
+      "reasoning": "Using algebraic identities: 1) (a + b)² = a² + b² + 2ab = 29 + 2(10) = 49 => a + b = ±7. 2) (a - b)² = a² + b² - 2ab = 29 - 2(10) = 9 => a - b = ±3."
+    },
+    "kn": {
+      "question": "a² + b² = 29 ಮತ್ತು ab = 10 ಆದರೆ, ಕೆಳಗಿನವುಗಳಲ್ಲಿ a + b ಮತ್ತು a - b ಗಳ ಸಾಧ್ಯವಿರುವ ಮೌಲ್ಯಗಳು ಯಾವುವು?",
+      "options": [
+        "a + b = 7 or -7",
+        "a - b = 3 or -3",
+        "a + b = 9 or -9",
+        "a - b = 5 or -5"
+      ],
+      "answer": [
+        "a + b = 7 or -7",
+        "a - b = 3 or -3"
+      ],
+      "reasoning": "(a+b)² = a² + b² + 2ab = 29 + 20 = 49 => a+b = ±7. (a-b)² = a² + b² - 2ab = 29 - 20 = 9 => a-b = ±3."
+    }
+  },
+  {
+    "id": "c8_math_alg_025",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Evaluate 153 × 147 using a suitable algebraic identity.",
+      "options": [
+        "22491",
+        "22500",
+        "22400",
+        "22509"
+      ],
+      "answer": "22491",
+      "reasoning": "We can write 153 × 147 as (150 + 3)(150 - 3). Using the identity (a + b)(a - b) = a² - b²: (150 + 3)(150 - 3) = 150² - 3² = 22500 - 9 = 22491."
+    },
+    "kn": {
+      "question": "ಸೂಕ್ತವಾದ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಿ 153 × 147 ರ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "22491",
+        "22500",
+        "22400",
+        "22509"
+      ],
+      "answer": "22491",
+      "reasoning": "153 × 147 ಅನ್ನು (150 + 3)(150 - 3) ಎಂದು ಬರೆಯಬಹುದು. (a+b)(a-b) = a² - b² ಸೂತ್ರ ಬಳಸಿ: 150² - 3² = 22500 - 9 = 22491."
+    }
+  },
+  {
+    "id": "c8_math_alg_026",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Simplify the expression: (1.5x - 4y)(1.5x + 4y + 3) - 4.5x + 16y.",
+      "options": [
+        "2.25x² - 16y² + 4y",
+        "2.25x² - 16y²",
+        "2.25x² + 16y² - 4y",
+        "2.25x² - 16y² - 4y"
+      ],
+      "answer": "2.25x² - 16y² + 4y",
+      "reasoning": "Expand: (1.5x - 4y)(1.5x + 4y + 3) = (1.5x - 4y)(1.5x + 4y) + 3(1.5x - 4y) = (2.25x² - 16y²) + 4.5x - 12y. Now include the remaining terms: 2.25x² - 16y² + 4.5x - 12y - 4.5x + 16y. Simplify like terms: 4.5x and -4.5x cancel out; -12y + 16y = 4y. Thus, the simplified expression is 2.25x² - 16y² + 4y."
+    },
+    "kn": {
+      "question": "ಬೀಜೋಕ್ತಿಯನ್ನು ಸರಳೀಕರಿಸಿ: (1.5x - 4y)(1.5x + 4y + 3) - 4.5x + 16y.",
+      "options": [
+        "2.25x² - 16y² + 4y",
+        "2.25x² - 16y²",
+        "2.25x² + 16y² - 4y",
+        "2.25x² - 16y² - 4y"
+      ],
+      "answer": "2.25x² - 16y² + 4y",
+      "reasoning": "ವಿಸ್ತರಣೆ: (1.5x-4y)(1.5x+4y) + 3(1.5x-4y) - 4.5x + 16y = 2.25x² - 16y² + 4.5x - 12y - 4.5x + 16y. ಇವುಗಳಲ್ಲಿ ಸಜಾತೀಯ ಪದಗಳನ್ನು ಸಂಕ್ಷೇಪಿಸಿದಾಗ 2.25x² - 16y² + 4y ಉಳಿಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_alg_027",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the algebraic expressions with their evaluated values when a = 3 and b = 2.",
+      "pairs": [
+        {
+          "left": "(a + b)²",
+          "right": "25"
+        },
+        {
+          "left": "(a - b)³",
+          "right": "1"
+        },
+        {
+          "left": "a² - b²",
+          "right": "5"
+        },
+        {
+          "left": "a² + b²",
+          "right": "13"
+        }
+      ],
+      "reasoning": "Substitute a=3, b=2: 1) (3+2)² = 25; 2) (3-2)³ = 1³ = 1; 3) 3² - 2² = 9 - 4 = 5; 4) 3² + 2² = 9 + 4 = 13."
+    },
+    "kn": {
+      "question": "a = 3 ಮತ್ತು b = 2 ಆದಾಗ, ಬೀಜೋಕ್ತಿಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಸಂಖ್ಯಾತ್ಮಕ ಮೌಲ್ಯಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "(a + b)²",
+          "right": "25"
+        },
+        {
+          "left": "(a - b)³",
+          "right": "1"
+        },
+        {
+          "left": "a² - b²",
+          "right": "5"
+        },
+        {
+          "left": "a² + b²",
+          "right": "13"
+        }
+      ],
+      "reasoning": "a=3, b=2 ಬೆಲೆಯನ್ನು ಆದೇಶಿಸಿದಾಗ: (3+2)² = 25, (3-2)³ = 1, 3²-2² = 5, ಮತ್ತು 3²+2² = 13 ಆಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_alg_028",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the quadratic expressions with their factored forms.",
+      "pairs": [
+        {
+          "left": "x² - 9",
+          "right": "(x - 3)(x + 3)"
+        },
+        {
+          "left": "x² - 6x + 9",
+          "right": "(x - 3)²"
+        },
+        {
+          "left": "x² + 6x + 9",
+          "right": "(x + 3)²"
+        },
+        {
+          "left": "x² - 5x + 6",
+          "right": "(x - 2)(x - 3)"
+        }
+      ],
+      "reasoning": "Factorizations: 1) x²-9 = (x-3)(x+3) using difference of squares. 2) x²-6x+9 = (x-3)² using (a-b)². 3) x²+6x+9 = (x+3)² using (a+b)². 4) Splitting middle term: x²-5x+6 = x²-2x-3x+6 = (x-2)(x-3)."
+    },
+    "kn": {
+      "question": "ವರ್ಗೋಕ್ತಿಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಅಪವರ್ತಿಸಿದ ರೂಪಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "x² - 9",
+          "right": "(x - 3)(x + 3)"
+        },
+        {
+          "left": "x² - 6x + 9",
+          "right": "(x - 3)²"
+        },
+        {
+          "left": "x² + 6x + 9",
+          "right": "(x + 3)²"
+        },
+        {
+          "left": "x² - 5x + 6",
+          "right": "(x - 2)(x - 3)"
+        }
+      ],
+      "reasoning": "ಅಪವರ್ತನದ ನಿಯಮಗಳು ಮತ್ತು ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸಿ ಇವುಗಳನ್ನು ಅಪವರ್ತಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_alg_029",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Select all algebraic identities that are true for all real values of their variables.",
+      "options": [
+        "(x + y)² = x² + 2xy + y²",
+        "(x - y)² = x² - 2xy + y²",
+        "x² - y² = (x - y)(x + y)",
+        "(x + a)(x + b) = x² + (a + b)x + ab"
+      ],
+      "answer": [
+        "(x + y)² = x² + 2xy + y²",
+        "(x - y)² = x² - 2xy + y²",
+        "x² - y² = (x - y)(x + y)",
+        "(x + a)(x + b) = x² + (a + b)x + ab"
+      ],
+      "reasoning": "An algebraic identity is an equation that is true for any values of its variables. All four listed options are standard, universally true algebraic identities."
+    },
+    "kn": {
+      "question": "ಅವುಗಳ ಚರಾಕ್ಷರಗಳ ಎಲ್ಲಾ ನೈಜ ಮೌಲ್ಯಗಳಿಗೂ ನಿಜವಾಗುವ ಬೀಜಗಣಿತದ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": [
+        "(x + y)² = x² + 2xy + y²",
+        "(x - y)² = x² - 2xy + y²",
+        "x² - y² = (x - y)(x + y)",
+        "(x + a)(x + b) = x² + (a + b)x + ab"
+      ],
+      "answer": [
+        "(x + y)² = x² + 2xy + y²",
+        "(x - y)² = x² - 2xy + y²",
+        "x² - y² = (x - y)(x + y)",
+        "(x + a)(x + b) = x² + (a + b)x + ab"
+      ],
+      "reasoning": "ನಿತ್ಯಸಮೀಕರಣವು ಚರಾಕ್ಷರಗಳ ಯಾವುದೇ ಬೆಲೆಗಳಿಗೂ ನಿಜವಾಗುವ ಒಂದು ಸಮೀಕರಣವಾಗಿದೆ. ನೀಡಲಾದ ನಾಲ್ಕೂ ಸಮೀಕರಣಗಳು ಸಾರ್ವತ್ರಿಕವಾಗಿ ನಿಜವಾಗುವ ಪ್ರಮಾಣಿತ ನಿತ್ಯಸಮೀಕರಣಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_math_alg_030",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "If x² + 1/x² = 27, find the positive value of x - 1/x.",
+      "options": [
+        "5",
+        "3",
+        "25",
+        "6"
+      ],
+      "answer": "5",
+      "reasoning": "We know that (x - 1/x)² = x² + 1/x² - 2(x)(1/x) = x² + 1/x² - 2. Substituting the given value: (x - 1/x)² = 27 - 2 = 25. Taking the positive square root gives x - 1/x = √25 = 5."
+    },
+    "kn": {
+      "question": "x² + 1/x² = 27 ಆದರೆ, x - 1/x ರ ಧನಾತ್ಮಕ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "5",
+        "3",
+        "25",
+        "6"
+      ],
+      "answer": "5",
+      "reasoning": "ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, (x - 1/x)² = x² + 1/x² - 2. ಬೆಲೆಯನ್ನು ಆದೇಶಿಸಿದಾಗ: (x - 1/x)² = 27 - 2 = 25. ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿದಾಗ ಧನಾತ್ಮಕ ಮೌಲ್ಯ x - 1/x = 5 ಆಗುತ್ತದೆ."
+    }
+  }
+]

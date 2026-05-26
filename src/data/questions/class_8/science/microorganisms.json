@@ -1,0 +1,996 @@
+[
+  {
+    "id": "c8_sci_micro_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following microorganisms promotes the formation of curd from milk?",
+      "options": [
+        "Amoeba",
+        "Lactobacillus",
+        "Yeast",
+        "Spirogyra"
+      ],
+      "answer": "Lactobacillus",
+      "reasoning": "Curd contains several microorganisms. Of these, the bacterium Lactobacillus promotes the formation of curd. It multiplies in milk and converts it into curd."
+    },
+    "kn": {
+      "question": "ಹಾಲನ್ನು ಮೊಸರಾಗಿ ಪರಿವರ್ತಿಸಲು ಸಹಾಯ ಮಾಡುವ ಸೂಕ್ಷ್ಮಜೀವಿ ಯಾವುದು?",
+      "options": [
+        "ಅಮೀಬಾ",
+        "ಲ್ಯಾಕ್ಟೋಬಾಸಿಲಸ್",
+        "ಯೀಸ್ಟ್",
+        "ಸ್ಪೈರೋಗೈರಾ"
+      ],
+      "answer": "ಲ್ಯಾಕ್ಟೋಬಾಸಿಲಸ್",
+      "reasoning": "ಮೊಸರು ಹಲವಾರು ಸೂಕ್ಷ್ಮಜೀವಿಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಅವುಗಳಲ್ಲಿ, ಲ್ಯಾಕ್ಟೋಬಾಸಿಲಸ್ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಹಾಲನ್ನು ಮೊಸರಾಗಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಇದು ಹಾಲಿನಲ್ಲಿ ಸಂತಾನೋತ್ಪತ್ತಿ ನಡೆಸಿ ಮೊಸರಾಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "The process of conversion of sugar into alcohol by yeast is called:",
+      "options": [
+        "Nitrogen fixation",
+        "Fermentation",
+        "Pasteurisation",
+        "Sterilisation"
+      ],
+      "answer": "Fermentation",
+      "reasoning": "The process of conversion of sugar into alcohol is known as fermentation. Louis Pasteur discovered fermentation in 1857."
+    },
+    "kn": {
+      "question": "ಯೀಸ್ಟ್ ಸಹಾಯದಿಂದ ಸಕ್ಕರೆಯನ್ನು ಆಲ್ಕೋಹಾಲ್ ಆಗಿ ಪರಿವರ್ತಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ಸಾರಜನಕ ಸ್ಥಿರೀಕರಣ",
+        "ಕಿಣ್ವನ ಕ್ರಿಯೆ (Fermentation)",
+        "ಪಾಶ್ಚರೀಕರಣ",
+        "ಕ್ರಿಮಿಶುದ್ಧೀಕರಣ"
+      ],
+      "answer": "ಕಿಣ್ವನ ಕ್ರಿಯೆ (Fermentation)",
+      "reasoning": "ಸಕ್ಕರೆಯನ್ನು ಆಲ್ಕೋಹಾಲ್ ಆಗಿ ಪರಿವರ್ತಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಕಿಣ್ವನ ಕ್ರಿಯೆ ಎನ್ನುತ್ತಾರೆ. ಲೂಯಿಸ್ ಪಾಶ್ಚರ್ 1857 ರಲ್ಲಿ ಕಿಣ್ವನ ಕ್ರಿಯೆಯನ್ನು ಕಂಡುಹಿಡಿದರು."
+    }
+  },
+  {
+    "id": "c8_sci_micro_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Yeast is widely used in the commercial production of:",
+      "options": [
+        "Sugar",
+        "Oxygen",
+        "Alcohol and Bread",
+        "Hydrochloric acid"
+      ],
+      "answer": "Alcohol and Bread",
+      "reasoning": "Yeast is used for the commercial production of alcohol and wine. It is also used in the baking industry for making breads, pastries, and cakes because it releases carbon dioxide gas during respiration."
+    },
+    "kn": {
+      "question": "ಯೀಸ್ಟ್ ಅನ್ನು ಕೆಳಗಿನ ಯಾವುದರ ವಾಣಿಜ್ಯ ಉತ್ಪಾದನೆಯಲ್ಲಿ ವ್ಯಾಪಕವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಸಕ್ಕರೆ",
+        "ಆಮ್ಲಜನಕ",
+        "ಆಲ್ಕೋಹಾಲ್ ಮತ್ತು ಬ್ರೆಡ್",
+        "ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ"
+      ],
+      "answer": "ಆಲ್ಕೋಹಾಲ್ ಮತ್ತು ಬ್ರೆಡ್",
+      "reasoning": "ಆಲ್ಕೋಹಾಲ್ ಮತ್ತು ವೈನ್ ಉತ್ಪಾದಿಸಲು ಯೀಸ್ಟ್ ಅನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಬ್ರೆಡ್, ಪೇಸ್ಟ್ರಿ ಮತ್ತು ಕೇಕ್ ತಯಾರಿಕೆಯಲ್ಲಿ ಹಿಟ್ಟು ಉಬ್ಬಲು ಇದು ಬಿಡುಗಡೆ ಮಾಡುವ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲ ಕಾರಣವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following is a single-celled protozoan that causes amoebic dysentery?",
+      "options": [
+        "Amoeba",
+        "Chlamydomonas",
+        "Penicillium",
+        "Bacteriophage"
+      ],
+      "answer": "Amoeba",
+      "reasoning": "Amoeba is a unicellular protozoan. It moves using pseudopodia (false feet) and some species cause diseases like amoebic dysentery."
+    },
+    "kn": {
+      "question": "ಅಮೀಬಿಕ್ ಭೇದಿಗೆ ಕಾರಣವಾಗುವ ಏಕಕೋಶೀಯ ಪ್ರೋಟೋಜೋವಾ (ಆದಿಜೀವಿ) ಯಾವುದು?",
+      "options": [
+        "ಅಮೀಬಾ",
+        "ಕ್ಲಾಮಿಡೋಮೊನಾಸ್",
+        "ಪೆನಿಸಿಲಿಯಂ",
+        "ಬ್ಯಾಕ್ಟೀರಿಯೊಫೇಜ್"
+      ],
+      "answer": "ಅಮೀಬಾ",
+      "reasoning": "ಅಮೀಬಾ ಒಂದು ಏಕಕೋಶೀಯ ಪ್ರೋಟೋಜೋವಾವಾಗಿದೆ. ಇದು ಮಿಥ್ಯಾಪಾದಗಳ (pseudopodia) ಸಹಾಯದಿಂದ ಚಲಿಸುತ್ತದೆ ಮತ್ತು ಭೇದಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_005",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Select all the major groups into which microorganisms are classified:",
+      "options": [
+        "Bacteria",
+        "Fungi",
+        "Protozoa",
+        "Insects"
+      ],
+      "answer": [
+        "Bacteria",
+        "Fungi",
+        "Protozoa"
+      ],
+      "reasoning": "Microorganisms are classified into four major groups: Bacteria, Fungi, Protozoa, and Algae. Insects are multicellular animals, not microorganisms."
+    },
+    "kn": {
+      "question": "ಸೂಕ್ಷ್ಮಜೀವಿಗಳನ್ನು ವರ್ಗೀಕರಿಸಲಾದ ಎಲ್ಲಾ ಪ್ರಮುಖ ಗುಂಪುಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು",
+        "ಶಿಲೀಂಧ್ರಗಳು (Fungi)",
+        "ಪ್ರೋಟೋಜೋವಾಗಳು (ಆದಿಜೀವಿಗಳು)",
+        "ಕೀಟಗಳು"
+      ],
+      "answer": [
+        "ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು",
+        "ಶಿಲೀಂಧ್ರಗಳು (Fungi)",
+        "ಪ್ರೋಟೋಜೋವಾಗಳು (ಆದಿಜೀವಿಗಳು)"
+      ],
+      "reasoning": "ಸೂಕ್ಷ್ಮಜೀವಿಗಳನ್ನು ನಾಲ್ಕು ಪ್ರಮುಖ ಗುಂಪುಗಳಾಗಿ ವರ್ಗೀಕರಿಸಲಾಗಿದೆ: ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು, ಶಿಲೀಂಧ್ರಗಳು, ಪ್ರೋಟೋಜೋವಾಗಳು ಮತ್ತು ಶೈವಲಗಳು. ಕೀಟಗಳು ಬಹುಕೋಶೀಯ ಜೀವಿಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_img_006",
+    "type": "image_single",
+    "difficulty": 1,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Irregular shaped cell with nucleus and pseudopodia label, representing Amoeba",
+        "kn": "ಕೋಶಕೇಂದ್ರ ಮತ್ತು ಮಿಥ್ಯಾಪಾದ ಲೇಬಲ್ ಹೊಂದಿರುವ ಅನಿಯಮಿತ ಆಕಾರದ ಜೀವಕೋಶ - ಅಮೀಬಾ"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><path d=\"M50,100 C40,50 100,30 150,50 C200,30 260,60 250,110 C240,160 180,180 120,160 C70,180 60,150 50,100 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"3\"/><circle cx=\"130\" cy=\"100\" r=\"15\" fill=\"#059669\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"130\" y=\"80\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Nucleus</text><path d=\"M210,55 L170,40\" stroke=\"#DC2626\" stroke-width=\"2\" marker-end=\"url(#a)\"/><text x=\"230\" y=\"60\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Pseudopodia</text><circle cx=\"90\" cy=\"80\" r=\"8\" fill=\"#EA580C\"/><text x=\"90\" y=\"65\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"middle\">Food Vacuole</text><defs><marker id=\"a\" markerWidth=\"6\" markerHeight=\"6\" refX=\"3\" refY=\"3\" orient=\"auto\"><path d=\"M0,0 L6,3 L0,6 Z\" fill=\"#DC2626\"/></marker></defs></svg>"
+    },
+    "en": {
+      "question": "Which unicellular protozoan is shown in the given diagram?",
+      "options": [
+        "Amoeba",
+        "Paramecium",
+        "Euglena",
+        "Spirogyra"
+      ],
+      "answer": "Amoeba",
+      "reasoning": "The diagram displays an Amoeba, characterized by an irregular shape, a distinct nucleus, and pseudopodia (false feet) used for locomotion and capturing food."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಏಕಕೋಶೀಯ ಆದಿಜೀವಿ (protozoan) ಯಾವುದು?",
+      "options": [
+        "ಅಮೀಬಾ",
+        "ಪ್ಯಾರಾಮೀಸಿಯಮ್",
+        "ಯುಗ್ಲಿನಾ",
+        "ಸ್ಪೈರೋಗೈರಾ"
+      ],
+      "answer": "ಅಮೀಬಾ",
+      "reasoning": "ಚಿತ್ರವು ಅಮೀಬಾವನ್ನು ತೋರಿಸುತ್ತದೆ. ಇದು ಅನಿಯಮಿತ ಆಕಾರ, ಕೋಶಕೇಂದ್ರ ಮತ್ತು ಆಹಾರ ಪಡೆಯಲು ಹಾಗೂ ಚಲಿಸಲು ಬಳಸುವ ಮಿಥ್ಯಾಪಾದಗಳನ್ನು (Pseudopodia) ಹೊಂದಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_img_007",
+    "type": "image_single",
+    "difficulty": 1,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Pear-shaped unicellular organism with flagella, representing Chlamydomonas alga",
+        "kn": "ಕಶಾಂಗಗಳನ್ನು ಹೊಂದಿರುವ ಪೇರಳೆ ಆಕಾರದ ಏಕಕೋಶ ಜೀವಿ - ಕ್ಲಾಮಿಡೋಮೊನಾಸ್"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><path d=\"M150,40 C110,80 110,150 150,170 C190,150 190,80 150,40 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"3\"/><path d=\"M145,45 Q120,10 90,30\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M155,45 Q180,10 210,30\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M125,100 C125,140 175,140 175,100 C175,120 125,120 125,100 Z\" fill=\"#059669\" opacity=\"0.7\"/><text x=\"60\" y=\"30\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Flagella</text><text x=\"150\" y=\"190\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Cell Wall</text></svg>"
+    },
+    "en": {
+      "question": "To which category of microorganisms does the organism shown (Chlamydomonas) belong?",
+      "options": [
+        "Bacteria",
+        "Fungi",
+        "Algae",
+        "Protozoa"
+      ],
+      "answer": "Algae",
+      "reasoning": "Chlamydomonas is a unicellular green alga. Algae are photosynthetic organisms containing chlorophyll and are found mostly in aquatic habitats."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಜೀವಿ (ಕ್ಲಾಮಿಡೋಮೊನಾಸ್) ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಯಾವ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": [
+        "ಬ್ಯಾಕ್ಟೀರಿಯಾ",
+        "ಶಿಲೀಂಧ್ರ",
+        "ಶೈವಲ (Algae)",
+        "ಆದಿಜೀವಿ (Protozoa)"
+      ],
+      "answer": "ಶೈವಲ (Algae)",
+      "reasoning": "ಕ್ಲಾಮಿಡೋಮೊನಾಸ್ ಒಂದು ಏಕಕೋಶೀಯ ಹಸಿರು ಶೈವಲವಾಗಿದೆ (Algae). ಶೈವಲಗಳು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ನಡೆಸುವ ಹಸಿರು ಜೀವಿಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_008",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the following microorganisms with their beneficial uses:",
+      "pairs": [
+        {
+          "left": "Lactobacillus",
+          "right": "Curd formation"
+        },
+        {
+          "left": "Yeast",
+          "right": "Baking bread"
+        },
+        {
+          "left": "Penicillium",
+          "right": "Antibiotic production"
+        },
+        {
+          "left": "Rhizobium",
+          "right": "Nitrogen fixation"
+        }
+      ],
+      "reasoning": "Lactobacillus makes curd. Yeast is used to bake bread. Penicillium is a fungus used to extract the antibiotic penicillin. Rhizobium fixes nitrogen in legume roots."
+    },
+    "kn": {
+      "question": "ಸೂಕ್ಷ್ಮಜೀವಿಗಳನ್ನು ಅವುಗಳ ಪ್ರಯೋಜನಕಾರಿ ಬಳಕೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಲ್ಯಾಕ್ಟೋಬಾಸಿಲಸ್",
+          "right": "ಮೊಸರು ತಯಾರಿಕೆ"
+        },
+        {
+          "left": "ಯೀಸ್ಟ್",
+          "right": "ಬ್ರೆಡ್ ತಯಾರಿಕೆ"
+        },
+        {
+          "left": "ಪೆನಿಸಿಲಿಯಂ",
+          "right": "ಪ್ರತಿಜೀವಕ (Antibiotic) ಉತ್ಪಾದನೆ"
+        },
+        {
+          "left": "ರೈಜೋಬಿಯಮ್",
+          "right": "ಸಾರಜನಕ ಸ್ಥಿರೀಕರಣ"
+        }
+      ],
+      "reasoning": "ಲ್ಯಾಕ್ಟೋಬಾಸಿಲಸ್ ಮೊಸರು ಮಾಡುತ್ತದೆ. ಯೀಸ್ಟ್ ಬ್ರೆಡ್ ಉಬ್ಬಲು ನೆರವಾಗುತ್ತದೆ. ಪೆನಿಸಿಲಿಯಂ ನಿಂದ ಪೆನಿಸಿಲಿನ್ ಎಂಬ ಪ್ರತಿಜೀವಕ ತಯಾರಿಸಲಾಗುತ್ತದೆ. ರೈಜೋಬಿಯಮ್ ಸಾರಜನಕವನ್ನು ಸ್ಥಿರೀಕರಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_009",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the human diseases with their causative microorganisms:",
+      "pairs": [
+        {
+          "left": "Tuberculosis",
+          "right": "Bacteria"
+        },
+        {
+          "left": "Malaria",
+          "right": "Protozoa"
+        },
+        {
+          "left": "Polio",
+          "right": "Virus"
+        },
+        {
+          "left": "Ringworm",
+          "right": "Fungi"
+        }
+      ],
+      "reasoning": "Tuberculosis is caused by Mycobacterium tuberculosis (bacteria). Malaria is caused by Plasmodium (protozoan). Polio is viral. Ringworm is a fungal infection of the skin."
+    },
+    "kn": {
+      "question": "ಮಾನವನ ಕಾಯಿಲೆಗಳನ್ನು ಅವುಗಳಿಗೆ ಕಾರಣವಾಗುವ ಸೂಕ್ಷ್ಮಜೀವಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಕ್ಷಯ ರೋಗ (Tuberculosis)",
+          "right": "ಬ್ಯಾಕ್ಟೀರಿಯಾ"
+        },
+        {
+          "left": "ಮಲೇರಿಯಾ",
+          "right": "ಪ್ರೋಟೋಜೋವಾ (ಆದಿಜೀವಿ)"
+        },
+        {
+          "left": "ಪೋಲಿಯೋ",
+          "right": "ವೈರಸ್"
+        },
+        {
+          "left": "ರಿಂಗ್‌ವರ್ಮ್ (ತಾಮರೆ)",
+          "right": "ಶಿಲೀಂಧ್ರ"
+        }
+      ],
+      "reasoning": "ಕ್ಷಯರೋಗ ಬ್ಯಾಕ್ಟೀರಿಯಾದಿಂದ ಬರುತ್ತದೆ. ಮಲೇರಿಯಾ ಪ್ಲಾಸ್ಮೋಡಿಯಂ ಎಂಬ ಆದಿಜೀವಿಯಿಂದ ಹರಡುತ್ತದೆ. ಪೋಲಿಯೋ ವೈರಸ್ ನಿಂದ ಬರುತ್ತದೆ. ತಾಮರೆ (Ringworm) ಚರ್ಮದ ಶಿಲೀಂಧ್ರ ಸೋಂಕು ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_010",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who discovered the vaccine for smallpox in 1798?",
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Edward Jenner",
+        "Robert Koch"
+      ],
+      "answer": "Edward Jenner",
+      "reasoning": "Edward Jenner discovered the vaccine for smallpox in 1798. He observed that milkmaids who got cowpox were immune to smallpox, leading to the vaccine design."
+    },
+    "kn": {
+      "question": "1798 ರಲ್ಲಿ ಸಿಡುಬು (smallpox) ರೋಗಕ್ಕೆ ಲಸಿಕೆಯನ್ನು ಕಂಡುಹಿಡಿದವರು ಯಾರು?",
+      "options": [
+        "ಲೂಯಿಸ್ ಪಾಶ್ಚರ್",
+        "ಅಲೆಕ್ಸಾಂಡರ್ ಫ್ಲೆಮಿಂಗ್",
+        "ಎಡ್ವರ್ಡ್ ಜೆನ್ನರ್",
+        "ರಾಬರ್ಟ್ ಕೋಚ್"
+      ],
+      "answer": "ಎಡ್ವರ್ಡ್ ಜೆನ್ನರ್",
+      "reasoning": "ಎಡ್ವರ್ಡ್ ಜೆನ್ನರ್ 1798 ರಲ್ಲಿ ಸಿಡುಬು ಕಾಯಿಲೆಗೆ ಲಸಿಕೆಯನ್ನು ಕಂಡುಹಿಡಿದರು. ಇದು ವೈದ್ಯಕೀಯ ಇತಿಹಾಸದ ಅತ್ಯಂತ ಪ್ರಮುಖ ಮೈಲಿಗಲ್ಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Antibiotics are medicines that kill or stop the growth of disease-causing microorganisms. They are effective against:",
+      "options": [
+        "Viruses",
+        "Bacteria",
+        "Insects",
+        "None of these"
+      ],
+      "answer": "Bacteria",
+      "reasoning": "Antibiotics are effective only against bacteria and some fungi. They do not work against viruses (like cold or flu) because viruses have different structural components and life cycles."
+    },
+    "kn": {
+      "question": "ಪ್ರತಿಜೀವಕಗಳು (Antibiotics) ರೋಗ ಉಂಟುಮಾಡುವ ಸೂಕ್ಷ್ಮಜೀವಿಗಳನ್ನು ಕೊಲ್ಲುವ ಔಷಧಗಳಾಗಿವೆ. ಇವು ಯಾವುದರ ವಿರುದ್ಧ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ?",
+      "options": [
+        "ವೈರಸ್‌ಗಳು",
+        "ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು",
+        "ಕೀಟಗಳು",
+        "ಇವು ಯಾವುದೂ ಅಲ್ಲ"
+      ],
+      "answer": "ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು",
+      "reasoning": "ಪ್ರತಿಜೀವಕಗಳು ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳ ವಿರುದ್ಧ ಮಾತ್ರ ಪರಿಣಾಮಕಾರಿ. ಇವು ವೈರಸ್ ಸೋಂಕುಗಳಿಗೆ (ಉದಾಹರಣೆಗೆ ನೆಗಡಿ, ಜ್ವರ) ಕೆಲಸ ಮಾಡುವುದಿಲ್ಲ ಏಕೆಂದರೆ ವೈರಸ್‌ಗಳು ವಿಭಿನ್ನ ರಚನೆ ಹೊಂದಿರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Malaria is transmitted from person to person through which insect carrier?",
+      "options": [
+        "Female Anopheles mosquito",
+        "Female Aedes mosquito",
+        "Housefly",
+        "Cockroach"
+      ],
+      "answer": "Female Anopheles mosquito",
+      "reasoning": "The female Anopheles mosquito acts as a carrier of the malaria parasite, Plasmodium. It bites infected humans and transmits the protozoan to healthy individuals."
+    },
+    "kn": {
+      "question": "ಮಲೇರಿಯಾ ರೋಗವು ಒಬ್ಬರಿಂದ ಇನ್ನೊಬ್ಬರಿಗೆ ಯಾವ ಕೀಟ ವಾಹಕದ ಮೂಲಕ ಹರಡುತ್ತದೆ?",
+      "options": [
+        "ಹೆಣ್ಣು ಅನಾಫಿಲಿಸ್ ಸೊಳ್ಳೆ",
+        "ಹೆಣ್ಣು ಈಡಿಸ್ ಸೊಳ್ಳೆ",
+        "ನೊಣ",
+        "ಜಿರಳೆ"
+      ],
+      "answer": "ಹೆಣ್ಣು ಅನಾಫಿಲಿಸ್ ಸೊಳ್ಳೆ",
+      "reasoning": "ಹೆಣ್ಣು ಅನಾಫಿಲಿಸ್ ಸೊಳ್ಳೆಯು ಮಲೇರಿಯಾ ಉಂಟುಮಾಡುವ ಪ್ಲಾಸ್ಮೋಡಿಯಂ ಆದಿಜೀವಿಯ ವಾಹಕವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which insect acts as a carrier of the Dengue virus?",
+      "options": [
+        "Female Anopheles mosquito",
+        "Female Aedes mosquito",
+        "Housefly",
+        "Honeybee"
+      ],
+      "answer": "Female Aedes mosquito",
+      "reasoning": "The female Aedes mosquito acts as the vector/carrier for the Dengue virus. Controlling mosquito breeding sites (standing water) helps control Dengue."
+    },
+    "kn": {
+      "question": "ಡೆಂಗ್ಯೂ ವೈರಸ್‌ನ ವಾಹಕವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಕೀಟ ಯಾವುದು?",
+      "options": [
+        "ಹೆಣ್ಣು ಅನಾಫಿಲಿಸ್ ಸೊಳ್ಳೆ",
+        "ಹೆಣ್ಣು ಈಡಿಸ್ ಸೊಳ್ಳೆ",
+        "ನೊಣ",
+        "ಜೇನುನೊಣ"
+      ],
+      "answer": "ಹೆಣ್ಣು ಈಡಿಸ್ ಸೊಳ್ಳೆ",
+      "reasoning": "ಹೆಣ್ಣು ಈಡಿಸ್ ಸೊಳ್ಳೆಯು ಡೆಂಗ್ಯೂ ವೈರಸ್ ಹರಡುವ ವಾಹಕವಾಗಿದೆ. ನಿಂತಿರುವ ನೀರನ್ನು ನಿಯಂತ್ರಿಸುವುದರಿಂದ ಸೊಳ್ಳೆಗಳ ಸಂತಾನೋತ್ಪತ್ತಿಯನ್ನು ತಡೆಯಬಹುದು."
+    }
+  },
+  {
+    "id": "c8_sci_micro_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "'Rust of wheat' is a common plant disease. What type of pathogen causes this disease and how does it transmit?",
+      "options": [
+        "Bacteria transmitted through Air",
+        "Fungi transmitted through Air and Seeds",
+        "Virus transmitted through Insects",
+        "Protozoa transmitted through Water"
+      ],
+      "answer": "Fungi transmitted through Air and Seeds",
+      "reasoning": "Rust of wheat is caused by fungi. The spores are transmitted through air currents and also via infected seed stocks."
+    },
+    "kn": {
+      "question": "'ಗೋಧಿಯ ತುಕ್ಕು ರೋಗ' (Rust of wheat) ಸಸ್ಯಗಳಲ್ಲಿ ಬರುವ ಒಂದು ಕಾಯಿಲೆ. ಇದು ಯಾವ ಸೂಕ್ಷ್ಮಜೀವಿ ಮತ್ತು ಪ್ರಸರಣ ಮಾರ್ಗದಿಂದ ಬರುತ್ತದೆ?",
+      "options": [
+        "ಗಾಳಿಯ ಮೂಲಕ ಹರಡುವ ಬ್ಯಾಕ್ಟೀರಿಯಾ",
+        "ಗಾಳಿ ಮತ್ತು ಬೀಜಗಳ ಮೂಲಕ ಹರಡುವ ಶಿಲೀಂಧ್ರ (Fungi)",
+        "ಕೀಟಗಳ ಮೂಲಕ ಹರಡುವ ವೈರಸ್",
+        "ನೀರಿನ ಮೂಲಕ ಹರಡುವ ಆದಿಜೀವಿ"
+      ],
+      "answer": "ಗಾಳಿ ಮತ್ತು ಬೀಜಗಳ ಮೂಲಕ ಹರಡುವ ಶಿಲೀಂಧ್ರ (Fungi)",
+      "reasoning": "ಗೋಧಿಯ ತುಕ್ಕು ರೋಗವು ಶಿಲೀಂಧ್ರಗಳಿಂದ ಬರುತ್ತದೆ. ಇದರ ಬೀಜಕಗಳು (spores) ಗಾಳಿಯ ಮೂಲಕ ಮತ್ತು ಸೋಂಕಿತ ಬೀಜಗಳ ಮೂಲಕ ಹರಡುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_015",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Select all the diseases that are caused by viral pathogens in humans:",
+      "options": [
+        "Measles",
+        "Cholera",
+        "Polio",
+        "Tuberculosis"
+      ],
+      "answer": [
+        "Measles",
+        "Polio"
+      ],
+      "reasoning": "Measles and Polio are viral diseases. Cholera and Tuberculosis are bacterial infections caused by Vibrio cholerae and Mycobacterium tuberculosis respectively."
+    },
+    "kn": {
+      "question": "ಮಾನವನಲ್ಲಿ ವೈರಸ್‌ನಿಂದ ಬರುವ ಎಲ್ಲಾ ರೋಗಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "ದಡಾರ (Measles)",
+        "ಕಾಲರಾ",
+        "ಪೋಲಿಯೋ",
+        "ಕ್ಷಯರೋಗ (Tuberculosis)"
+      ],
+      "answer": [
+        "ದಡಾರ (Measles)",
+        "ಪೋಲಿಯೋ"
+      ],
+      "reasoning": "ದಡಾರ ಮತ್ತು ಪೋಲಿಯೋ ವೈರಸ್‌ಗಳಿಂದ ಬರುವ ರೋಗಗಳು. ಕಾಲರಾ ಮತ್ತು ಕ್ಷಯ ರೋಗಗಳು ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳಿಂದ ಬರುವ ಕಾಯಿಲೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_img_016",
+    "type": "image_single",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Detailed drawing of a bacteriophage virus with hexagonal head, sheath, and tail fibers",
+        "kn": "ಷಡ್ಭುಜಾಕೃತಿಯ ತಲೆ, ನಡುದಂಡ ಮತ್ತು ಕರಳು ತಂತುಗಳನ್ನು ಹೊಂದಿರುವ ಬ್ಯಾಕ್ಟೀರಿಯೊಫೇಜ್ ವೈರಸ್‌ನ ಚಿತ್ರ"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><polygon points=\"150,20 180,35 180,70 150,85 120,70 120,35\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"3\"/><line x1=\"150\" y1=\"85\" x2=\"150\" y2=\"140\" stroke=\"#2563EB\" stroke-width=\"5\"/><line x1=\"155\" y1=\"95\" x2=\"155\" y2=\"130\" stroke=\"#EA580C\" stroke-width=\"2\"/><line x1=\"135\" y1=\"140\" x2=\"165\" y2=\"140\" stroke=\"#2563EB\" stroke-width=\"4\"/><path d=\"M135,140 L110,170 L100,180\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\"/><path d=\"M165,140 L190,170 L200,180\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\"/><path d=\"M150,140 L140,180\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\"/><path d=\"M150,140 L160,180\" stroke=\"#2563EB\" stroke-width=\"2\" fill=\"none\"/><text x=\"150\" y=\"55\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">Head (DNA)</text><text x=\"195\" y=\"115\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\">Sheath</text><text x=\"210\" y=\"165\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\">Tail Fibers</text></svg>"
+    },
+    "en": {
+      "question": "What type of biological entity is shown in the diagram?",
+      "options": [
+        "Unicellular bacterium",
+        "Virus (Bacteriophage)",
+        "Fungal spore",
+        "Protozoan parasite"
+      ],
+      "answer": "Virus (Bacteriophage)",
+      "reasoning": "The diagram displays a bacteriophage, which is a virus that infects and replicates inside bacterial cells. Viruses contain genetic material inside a protein coat but lack cellular machinery."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಜೈವಿಕ ಘಟಕ ಯಾವುದು?",
+      "options": [
+        "ಏಕಕೋಶ ಬ್ಯಾಕ್ಟೀರಿಯಾ",
+        "ವೈರಸ್ (ಬ್ಯಾಕ್ಟೀರಿಯೊಫೇಜ್)",
+        "ಶಿಲೀಂಧ್ರದ ಬೀಜಕ",
+        "ಆದಿಜೀವಿ ಪರಾವಲಂಬಿ"
+      ],
+      "answer": "ವೈರಸ್ (ಬ್ಯಾಕ್ಟೀರಿಯೊಫೇಜ್)",
+      "reasoning": "ಚಿತ್ರವು ಬ್ಯಾಕ್ಟೀರಿಯೊಫೇಜ್ ಅನ್ನು ತೋರಿಸುತ್ತದೆ. ಇದು ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳ ಮೇಲೆ ದಾಳಿ ಮಾಡುವ ವೈರಸ್ ಆಗಿದೆ. ವೈರಸ್‌ಗಳು ಪ್ರೋಟೀನ್ ಕವಚದೊಳಗೆ ತಳಿಗುಣದ ವಸ್ತುವನ್ನು ಹೊಂದಿರುತ್ತವೆ ಆದರೆ ಜೀವಕೋಶದ ರಚನೆ ಹೊಂದಿರುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_img_017",
+    "type": "image_single",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Bread mould fungal structure (Rhizopus) with hyphae and sporangia releasing spores",
+        "kn": "ಬೀಜಕಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವ ಹೈಫಾ ಮತ್ತು ಸ್ಪೊರಾಂಜಿಯಾಗಳನ್ನು ಹೊಂದಿರುವ ಬ್ರೆಡ್ ಶಿಲೀಂಧ್ರ ರಚನೆ"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><path d=\"M20,160 Q150,150 280,160\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"3\"/><path d=\"M80,158 Q75,180 70,190\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M80,158 Q85,180 90,190\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M200,155 Q195,180 190,190\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M200,155 Q205,180 210,190\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M80,158 Q90,90 100,50\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"3\"/><path d=\"M200,155 Q180,90 170,60\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"3\"/><circle cx=\"100\" cy=\"45\" r=\"15\" fill=\"#DBEAFE\" stroke=\"#EA580C\" stroke-width=\"3\"/><circle cx=\"170\" cy=\"55\" r=\"12\" fill=\"#DBEAFE\" stroke=\"#EA580C\" stroke-width=\"3\"/><circle cx=\"120\" cy=\"35\" r=\"2\" fill=\"#059669\"/><circle cx=\"125\" cy=\"45\" r=\"2\" fill=\"#059669\"/><circle cx=\"115\" cy=\"50\" r=\"2\" fill=\"#059669\"/><text x=\"145\" y=\"35\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Sporangium</text><text x=\"240\" y=\"145\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Hypha</text></svg>"
+    },
+    "en": {
+      "question": "Which multicellular organism growing on moist bread is depicted in the diagram?",
+      "options": [
+        "Amoeba",
+        "Spirogyra",
+        "Bread Mould (Rhizopus)",
+        "Paramecium"
+      ],
+      "answer": "Bread Mould (Rhizopus)",
+      "reasoning": "The diagram displays Rhizopus, commonly known as Bread Mould. It is a fungus that grows on stale, moist bread. It has fine thread-like projections called hyphae and knob-like structures called sporangia containing spores."
+    },
+    "kn": {
+      "question": "ತೇವವಾದ ಬ್ರೆಡ್ ಮೇಲೆ ಬೆಳೆಯುವ ಚಿತ್ರದಲ್ಲಿ ಚಿತ್ರಿಸಿರುವ ಬಹುಕೋಶ ಜೀವಿ ಯಾವುದು?",
+      "options": [
+        "ಅಮೀಬಾ",
+        "ಸ್ಪೈರೋಗೈರಾ",
+        "ಬ್ರೆಡ್ ಶಿಲೀಂಧ್ರ (ರೈಜೋಪಸ್)",
+        "ಪ್ಯಾರಾಮೀಸಿಯಮ್"
+      ],
+      "answer": "ಬ್ರೆಡ್ ಶಿಲೀಂಧ್ರ (ರೈಜೋಪಸ್)",
+      "reasoning": "ಚಿತ್ರವು ಬ್ರೆಡ್ ಶಿಲೀಂಧ್ರವನ್ನು (Rhizopus) ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇದು ತೇವವಾದ ಬ್ರೆಡ್ ಮೇಲೆ ಬೆಳೆಯುವ ಶಿಲೀಂಧ್ರವಾಗಿದೆ. ಇದು ಎಳೆಯಂತಹ ಹೈಫಾಗಳು ಮತ್ತು ಬೀಜಕಗಳನ್ನು ಹೊಂದಿರುವ ಗೋಳಾಕಾರದ ಸ್ಪೊರಾಂಜಿಯಾಗಳನ್ನು ಹೊಂದಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_018",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who discovered the first antibiotic, penicillin, in 1929?",
+      "options": [
+        "Louis Pasteur",
+        "Robert Koch",
+        "Alexander Fleming",
+        "Edward Jenner"
+      ],
+      "answer": "Alexander Fleming",
+      "reasoning": "In 1929, Alexander Fleming was working on a culture of disease-causing bacteria. He found spores of a green mould that prevented the growth of bacteria. This mould was Penicillium, leading to the discovery of penicillin."
+    },
+    "kn": {
+      "question": "1929 ರಲ್ಲಿ ಮೊದಲ ಪ್ರತಿಜೀವಕವಾದ ಪೆನಿಸಿಲಿನ್ ಅನ್ನು ಕಂಡುಹಿಡಿದವರು ಯಾರು?",
+      "options": [
+        "ಲೂಯಿಸ್ ಪಾಶ್ಚರ್",
+        "ರಾಬರ್ಟ್ ಕೋಚ್",
+        "ಅಲೆಕ್ಸಾಂಡರ್ ಫ್ಲೆಮಿಂಗ್",
+        "ಎಡ್ವರ್ಡ್ ಜೆನ್ನರ್"
+      ],
+      "answer": "ಅಲೆಕ್ಸಾಂಡರ್ ಫ್ಲೆಮಿಂಗ್",
+      "reasoning": "1929 ರಲ್ಲಿ ಅಲೆಕ್ಸಾಂಡರ್ ಫ್ಲೆಮಿಂಗ್ ಅವರು ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳ ಸಂವರ್ಧನೆಯ ಮೇಲೆ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾಗ, ಹಸಿರು ಶಿಲೀಂಧ್ರವೊಂದು ಬ್ಯಾಕ್ಟೀರಿಯಾದ ಬೆಳವಣಿಗೆಯನ್ನು ತಡೆಯುವುದನ್ನು ಗಮನಿಸಿದರು. ಇದರಿಂದ ಪೆನಿಸಿಲಿನ್ ಆವಿಷ್ಕಾರವಾಯಿತು."
+    }
+  },
+  {
+    "id": "c8_sci_micro_019",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the scientists with their groundbreaking microbiological discoveries:",
+      "pairs": [
+        {
+          "left": "Louis Pasteur",
+          "right": "Fermentation (1857)"
+        },
+        {
+          "left": "Alexander Fleming",
+          "right": "Penicillin (1929)"
+        },
+        {
+          "left": "Edward Jenner",
+          "right": "Smallpox vaccine (1798)"
+        },
+        {
+          "left": "Robert Koch",
+          "right": "Bacillus anthracis (1876)"
+        }
+      ],
+      "reasoning": "Louis Pasteur discovered fermentation. Alexander Fleming discovered Penicillin. Edward Jenner developed the smallpox vaccine. Robert Koch discovered the anthrax-causing bacterium."
+    },
+    "kn": {
+      "question": "ವಿಜ್ಞಾನಿಗಳನ್ನು ಅವರ ಮಹತ್ವದ ಸೂಕ್ಷ್ಮಜೀವವಿಜ್ಞಾನ ಸಂಶೋಧನೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಲೂಯಿಸ್ ಪಾಶ್ಚರ್",
+          "right": "ಕಿಣ್ವನ ಕ್ರಿಯೆ (1857)"
+        },
+        {
+          "left": "ಅಲೆಕ್ಸಾಂಡರ್ ಫ್ಲೆಮಿಂಗ್",
+          "right": "ಪೆನಿಸಿಲಿನ್ (1929)"
+        },
+        {
+          "left": "ಎಡ್ವರ್ಡ್ ಜೆನ್ನರ್",
+          "right": "ಸಿಡುಬು ಲಸಿಕೆ (1798)"
+        },
+        {
+          "left": "ರಾಬರ್ಟ್ ಕೋಚ್",
+          "right": "ಬ್ಯಾಸಿಲಸ್ ಆಂಥ್ರಾಸಿಸ್ (1876)"
+        }
+      ],
+      "reasoning": "ಲೂಯಿಸ್ ಪಾಶ್ಚರ್ ಕಿಣ್ವನ ಪತ್ತೆ ಮಾಡಿದರು. ಫ್ಲೆಮಿಂಗ್ ಪೆನಿಸಿಲಿನ್ ಪತ್ತೆ ಮಾಡಿದರು. ಜೆನ್ನರ್ ಸಿಡುಬು ಲಸಿಕೆ ಕಂಡುಹಿಡಿದರು. ಕೋಚ್ ಆಂಥ್ರಾಕ್ಸ್ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಪತ್ತೆ ಮಾಡಿದರು."
+    }
+  },
+  {
+    "id": "c8_sci_micro_020",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Select all the common chemical preservatives used to prevent the growth of microbes in food products:",
+      "options": [
+        "Sodium benzoate",
+        "Sodium metabisulphite",
+        "Copper sulphate",
+        "Sodium hydroxide"
+      ],
+      "answer": [
+        "Sodium benzoate",
+        "Sodium metabisulphite"
+      ],
+      "reasoning": "Sodium benzoate and sodium metabisulphite are common chemical preservatives used in jams and squashes to check the growth of microorganisms. Copper sulphate and sodium hydroxide are other chemical reagents not used in food."
+    },
+    "kn": {
+      "question": "ಆಹಾರ ಉತ್ಪನ್ನಗಳಲ್ಲಿ ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಬೆಳವಣಿಗೆ ತಡೆಯಲು ಬಳಸುವ ಎಲ್ಲಾ ಸಾಮಾನ್ಯ ರಾಸಾಯನಿಕ ಸಂರಕ್ಷಕಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "ಸೋಡಿಯಂ ಬೆಂಜೋಯೇಟ್",
+        "ಸೋಡಿಯಂ ಮೆಟಾಬೈಸಲ್ಫೇಟ್",
+        "ತಾಮ್ರದ ಸಲ್ಫೇಟ್",
+        "ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್"
+      ],
+      "answer": [
+        "ಸೋಡಿಯಂ ಬೆಂಜೋಯೇಟ್",
+        "ಸೋಡಿಯಂ ಮೆಟಾಬೈಸಲ್ಫೇಟ್"
+      ],
+      "reasoning": "ಸೋಡಿಯಂ ಬೆಂಜೋಯೇಟ್ ಮತ್ತು ಸೋಡಿಯಂ ಮೆಟಾಬೈಸಲ್ಫೇಟ್ ಜ್ಯಾಮ್ ಮತ್ತು ಹಣ್ಣಿನ ರಸಗಳಲ್ಲಿ ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಬೆಳವಣಿಗೆಯನ್ನು ನಿಯಂತ್ರಿಸಲು ಬಳಸುವ ಸಾಮಾನ್ಯ ರಾಸಾಯನಿಕ ಸಂರಕ್ಷಕಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_021",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the process of pasteurisation of milk?",
+      "options": [
+        "Heating milk to 100°C for 2 hours and filtering it",
+        "Heating milk to 70°C for 15-30 seconds, then cooling it suddenly and storing it",
+        "Freezing milk below 0°C and then boiling it rapidly",
+        "Adding chemical preservatives like chlorine to the milk"
+      ],
+      "answer": "Heating milk to 70°C for 15-30 seconds, then cooling it suddenly and storing it",
+      "reasoning": "Pasteurisation involves heating milk to about 70°C for 15 to 30 seconds and then suddenly chilling it and storing it. This prevents the growth of microbes without changing its flavor. It was discovered by Louis Pasteur."
+    },
+    "kn": {
+      "question": "ಹಾಲನ್ನು ಪಾಶ್ಚರೀಕರಣ (pasteurisation) ಮಾಡುವ ಸರಿಯಾದ ವಿಧಾನ ಯಾವುದು?",
+      "options": [
+        "ಹಾಲನ್ನು 100°C ಗೆ 2 ಗಂಟೆಗಳ ಕಾಲ ಕಾಯಿಸಿ ಸೋಸುವುದು",
+        "ಹಾಲನ್ನು 70°C ಗೆ 15-30 ಸೆಕೆಂಡುಗಳ ಕಾಲ ಕಾಯಿಸಿ, ನಂತರ ತಕ್ಷಣವೇ ತಂಪಾಗಿಸಿ ಸಂಗ್ರಹಿಸುವುದು",
+        "ಹಾಲನ್ನು 0°C ಗಿಂತ ಕಡಿಮೆ ತಾಪಮಾನದಲ್ಲಿ ಘನೀಕರಿಸಿ ತಕ್ಷಣ ಕುದಿಸುವುದು",
+        "ಹಾಲಿಗೆ ಕ್ಲೋರಿನ್‌ನಂತಹ ರಾಸಾಯನಿಕ ಸಂರಕ್ಷಕಗಳನ್ನು ಸೇರಿಸುವುದು"
+      ],
+      "answer": "ಹಾಲನ್ನು 70°C ಗೆ 15-30 ಸೆಕೆಂಡುಗಳ ಕಾಲ ಕಾಯಿಸಿ, ನಂತರ ತಕ್ಷಣವೇ ತಂಪಾಗಿಸಿ ಸಂಗ್ರಹಿಸುವುದು",
+      "reasoning": "ಪಾಶ್ಚರೀಕರಣ ಎಂದರೆ ಹಾಲನ್ನು ಸುಮಾರು 70°C ಗೆ 15 ರಿಂದ 30 ಸೆಕೆಂಡುಗಳ ಕಾಲ ಕಾಯಿಸಿ, ನಂತರ ತಕ್ಷಣವೇ ಅತ್ಯಂತ ತಂಪಾಗಿಸಿ ಸಂಗ್ರಹಿಸುವುದಾಗಿದೆ. ಇದು ಸೂಕ್ಷ್ಮಜೀವಿಗಳು ಬೆಳೆಯದಂತೆ ತಡೆಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_022",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why are viruses considered borderline entities between living and non-living?",
+      "options": [
+        "They have a cellular structure but do not move",
+        "They reproduce only inside the host organism's cells, showing no metabolic activity outside",
+        "They can feed on organic matter but do not breathe",
+        "They contain neither DNA nor RNA"
+      ],
+      "answer": "They reproduce only inside the host organism's cells, showing no metabolic activity outside",
+      "reasoning": "Viruses are microscopic but are different from other microorganisms. They reproduce only inside the cells of the host organism (bacterium, plant, or animal). Outside a host, they are inert and crystallizable, showing no characteristics of life."
+    },
+    "kn": {
+      "question": "ವೈರಸ್‌ಗಳನ್ನು ಸಜೀವಿ ಮತ್ತು ನಿರ್ಜೀವಿಗಳ ನಡುವಿನ ಗಡಿರೇಖೆಯ ಘಟಕಗಳೆಂದು ಏಕೆ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಅವು ಜೀವಕೋಶದ ರಚನೆ ಹೊಂದಿದ್ದರೂ ಚಲಿಸುವುದಿಲ್ಲ",
+        "ಅವು ಕೇವಲ ಅತಿಥೇಯ ಜೀವಿಯ ಜೀವಕೋಶದೊಳಗೆ ಮಾತ್ರ ಪ್ರತ್ಯುತ್ಪತ್ತಿ ನಡೆಸುತ್ತವೆ ಮತ್ತು ಹೊರಗೆ ಯಾವುದೇ ಜೈವಿಕ ಕ್ರಿಯೆ ತೋರಿಸುವುದಿಲ್ಲ",
+        "ಅವು ಸಾವಯವ ವಸ್ತುಗಳನ್ನು ತಿನ್ನುತ್ತವೆ ಆದರೆ ಉಸಿರಾಡುವುದಿಲ್ಲ",
+        "ಅವು ಡಿಎನ್ಎ (DNA) ಅಥವಾ ಆರ್ಎನ್ಎ (RNA) ಎರಡನ್ನೂ ಹೊಂದಿರುವುದಿಲ್ಲ"
+      ],
+      "answer": "ಅವು ಕೇವಲ ಅತಿಥೇಯ ಜೀವಿಯ ಜೀವಕೋಶದೊಳಗೆ ಮಾತ್ರ ಪ್ರತ್ಯುತ್ಪತ್ತಿ ನಡೆಸುತ್ತವೆ ಮತ್ತು ಹೊರಗೆ ಯಾವುದೇ ಜೈವಿಕ ಕ್ರಿಯೆ ತೋರಿಸುವುದಿಲ್ಲ",
+      "reasoning": "ವೈರಸ್‌ಗಳು ಕೇವಲ ಅತಿಥೇಯ (host) ಜೀವಕೋಶದೊಳಗೆ ಪ್ರವೇಶಿಸಿದಾಗ ಮಾತ್ರ ಜೀವಂತ ಲಕ್ಷಣ ತೋರಿಸಿ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ. ಹೊರಗಡೆ ಅವು ಕೇವಲ ಕಣಗಳಂತೆ ನಿರ್ಜೀವವಾಗಿರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_023",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Citrus canker is a disease affecting lemon and orange trees. It is caused by:",
+      "options": [
+        "A virus carried by insects",
+        "A fungus transmitted through soil",
+        "A bacterium transmitted through air",
+        "A protozoan transmitted through water"
+      ],
+      "answer": "A bacterium transmitted through air",
+      "reasoning": "Citrus canker is a bacterial disease affecting citrus plants. The pathogen is Xanthomonas axonopodis, and it is transmitted through the air."
+    },
+    "kn": {
+      "question": "ನಿಂಬೆ ಮತ್ತು ಕಿತ್ತಳೆ ಮರಗಳಿಗೆ ಬರುವ 'ಸಿಟ್ರಸ್ ಕ್ಯಾಂಕರ್' ರೋಗಕ್ಕೆ ಕಾರಣವೇನು?",
+      "options": [
+        "ಕೀಟಗಳಿಂದ ಹರಡುವ ವೈರಸ್",
+        "ಮಣ್ಣಿನ ಮೂಲಕ ಹರಡುವ ಶಿಲೀಂಧ್ರ",
+        "ಗಾಳಿಯ ಮೂಲಕ ಹರಡುವ ಬ್ಯಾಕ್ಟೀರಿಯಾ",
+        "ನೀರಿನ ಮೂಲಕ ಹರಡುವ ಆದಿಜೀವಿ"
+      ],
+      "answer": "ಗಾಳಿಯ ಮೂಲಕ ಹರಡುವ ಬ್ಯಾಕ್ಟೀರಿಯಾ",
+      "reasoning": "ಸಿಟ್ರಸ್ ಕ್ಯಾಂಕರ್ ನಿಂಬೆ ಜಾತಿಗೆ ಬರುವ ಬ್ಯಾಕ್ಟೀರಿಯಾ ರೋಗವಾಗಿದೆ. ಇದು ಗಾಳಿಯ ಮೂಲಕ ಹರಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_024",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which deadly human and cattle disease is caused by Bacillus anthracis, discovered by Robert Koch?",
+      "options": [
+        "Tuberculosis",
+        "Anthrax",
+        "Foot and Mouth disease",
+        "Malaria"
+      ],
+      "answer": "Anthrax",
+      "reasoning": "Robert Koch (1876) discovered the bacterium Bacillus anthracis which causes anthrax disease. Anthrax is a dangerous human and cattle disease. Cattle foot and mouth disease is viral."
+    },
+    "kn": {
+      "question": "ರಾಬರ್ಟ್ ಕೋಚ್ ಕಂಡುಹಿಡಿದ 'ಬ್ಯಾಸಿಲಸ್ ಆಂಥ್ರಾಸಿಸ್' ಬ್ಯಾಕ್ಟೀರಿಯಾದಿಂದ ಬರುವ ಮಾರಣಾಂತಿಕ ಮಾನವ ಮತ್ತು ಜಾನುವಾರು ರೋಗ ಯಾವುದು?",
+      "options": [
+        "ಕ್ಷಯರೋಗ (Tuberculosis)",
+        "ಆಂಥ್ರಾಕ್ಸ್ (Anthrax)",
+        "ಕಾಲು ಮತ್ತು ಬಾಯಿ ರೋಗ (ಕಾಲ ಜ್ವರ)",
+        "ಮಲೇರಿಯಾ"
+      ],
+      "answer": "ಆಂಥ್ರಾಕ್ಸ್ (Anthrax)",
+      "reasoning": "ರಾಬರ್ಟ್ ಕೋಚ್ 1876 ರಲ್ಲಿ ಆಂಥ್ರಾಕ್ಸ್ ರೋಗಕ್ಕೆ ಕಾರಣವಾಗುವ ಬ್ಯಾಸಿಲಸ್ ಆಂಥ್ರಾಸಿಸ್ ಬ್ಯಾಕ್ಟೀರಿಯಾವನ್ನು ಕಂಡುಹಿಡಿದರು. ಇದು ಮಾನವರು ಮತ್ತು ಜಾನುವಾರುಗಳಿಗೆ ಬರುವ ಭೀಕರ ರೋಗವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_025",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following act as carriers/vectors that transmit pathogenic microbes from infected to healthy hosts?",
+      "options": [
+        "Housefly",
+        "Female Anopheles mosquito",
+        "Female Aedes mosquito",
+        "Honeybee"
+      ],
+      "answer": [
+        "Housefly",
+        "Female Anopheles mosquito",
+        "Female Aedes mosquito"
+      ],
+      "reasoning": "Houseflies carry pathogens from garbage to food. Female Anopheles carries Malaria parasite (Plasmodium). Female Aedes carries Dengue virus. Honeybees are pollinators, not disease vectors."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಸೋಂಕಿತರಿಂದ ಆರೋಗ್ಯವಂತರಿಗೆ ರೋಗಕಾರಕ ಸೂಕ್ಷ್ಮಜೀವಿಗಳನ್ನು ಸಾಗಿಸುವ ವಾಹಕಗಳಾಗಿವೆ?",
+      "options": [
+        "ನೊಣ (Housefly)",
+        "ಹೆಣ್ಣು ಅನಾಫಿಲಿಸ್ ಸೊಳ್ಳೆ",
+        "ಹೆಣ್ಣು ಈಡಿಸ್ ಸೊಳ್ಳೆ",
+        "ಜೇನುನೊಣ"
+      ],
+      "answer": [
+        "ನೊಣ (Housefly)",
+        "ಹೆಣ್ಣು ಅನಾಫಿಲಿಸ್ ಸೊಳ್ಳೆ",
+        "ಹೆಣ್ಣು ಈಡಿಸ್ ಸೊಳ್ಳೆ"
+      ],
+      "reasoning": "ನೊಣಗಳು ಕಸದಿಂದ ಆಹಾರಕ್ಕೆ ರೋಗಕಾರಕಗಳನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತವೆ. ಹೆಣ್ಣು ಅನಾಫಿಲಿಸ್ ಮಲೇರಿಯಾವನ್ನು, ಹೆಣ್ಣು ಈಡಿಸ್ ಡೆಂಗ್ಯೂ ಹರಡುತ್ತವೆ. ಜೇನುನೊಣಗಳು ರೋಗ ವಾಹಕಗಳಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_img_026",
+    "type": "image_single",
+    "difficulty": 3,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Schematic of Nitrogen Cycle showing arrows for nitrogen fixation and denitrification back to atmosphere",
+        "kn": "ಸಾರಜನಕ ಸ್ಥಿರೀಕರಣ ಮತ್ತು ವಾತಾವರಣಕ್ಕೆ ಮರಳಿ ಹೋಗುವುದನ್ನು ತೋರಿಸುವ ಸಾರಜನಕ ಚಕ್ರದ ಚಿತ್ರ"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"70\" y=\"20\" width=\"160\" height=\"35\" rx=\"5\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"150\" y=\"42\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\">Atmospheric Nitrogen (N2)</text><rect x=\"70\" y=\"140\" width=\"160\" height=\"35\" rx=\"5\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"150\" y=\"162\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\">Nitrogen Compounds in Soil</text><path d=\"M90,55 L90,135\" stroke=\"#059669\" stroke-width=\"3\" marker-end=\"url(#a)\"/><text x=\"45\" y=\"95\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"middle\">Fixation</text><path d=\"M210,135 L210,55\" stroke=\"#EA580C\" stroke-width=\"3\" marker-end=\"url(#a)\"/><text x=\"255\" y=\"95\" fill=\"#EA580C\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"middle\">Denitrification</text><defs><marker id=\"a\" markerWidth=\"6\" markerHeight=\"6\" refX=\"3\" refY=\"3\" orient=\"auto\"><path d=\"M0,0 L6,3 L0,6 Z\" fill=\"#2563EB\"/></marker></defs></svg>"
+    },
+    "en": {
+      "question": "In the nitrogen cycle shown, which biological process converts nitrogen compounds in soil back to gaseous atmospheric nitrogen?",
+      "options": [
+        "Nitrogen Fixation",
+        "Nitrification",
+        "Denitrification",
+        "Ammonification"
+      ],
+      "answer": "Denitrification",
+      "reasoning": "Certain bacteria in soil (denitrifying bacteria) convert compounds of nitrogen in soil into gaseous nitrogen which goes back into the atmosphere, completing the nitrogen cycle."
+    },
+    "kn": {
+      "question": "ತೋರಿಸಿರುವ ಸಾರಜನಕ ಚಕ್ರದಲ್ಲಿ, ಮಣ್ಣಿನಲ್ಲಿರುವ ಸಾರಜನಕದ ಸಂಯುಕ್ತಗಳನ್ನು ಮತ್ತೆ ವಾತಾವರಣದ ಅನಿಲ ರೂಪದ ಸಾರಜನಕವನ್ನಾಗಿ ಮಾಡುವ ಪ್ರಕ್ರಿಯೆ ಯಾವುದು?",
+      "options": [
+        "ಸಾರಜನಕ ಸ್ಥಿರೀಕರಣ",
+        "ನೈಟ್ರೀಕರಣ",
+        "ಡಿನೈಟ್ರೀಕರಣ (Denitrification)",
+        "ಅಮೋನೀಕರಣ"
+      ],
+      "answer": "ಡಿನೈಟ್ರೀಕರಣ (Denitrification)",
+      "reasoning": "ಮಣ್ಣಿನಲ್ಲಿರುವ ಕೆಲವು ಡಿನೈಟ್ರಿಫೈಯಿಂಗ್ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ಸಾರಜನಕ ಸಂಯುಕ್ತಗಳನ್ನು ಸಾರಜನಕ ಅನಿಲವಾಗಿ ಪರಿವರ್ತಿಸಿ ವಾತಾವರಣಕ್ಕೆ ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_027",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following methods are used for preserving meat and fish against microbial spoilage?",
+      "options": [
+        "Salting (Dry salt coating)",
+        "Adding concentrated sugar syrups",
+        "Freezing/Chilling",
+        "Boiling continuously for days"
+      ],
+      "answer": [
+        "Salting (Dry salt coating)",
+        "Freezing/Chilling"
+      ],
+      "reasoning": "Meat and fish are commonly preserved by covering with dry salt (salting) to check bacterial growth by pulling out moisture, or by freezing. Concentrated sugar syrups are used for fruits/jams."
+    },
+    "kn": {
+      "question": "ಮಾಂಸ ಮತ್ತು ಮೀನುಗಳನ್ನು ಸೂಕ್ಷ್ಮಜೀವಿಗಳಿಂದ ಕೆಡದಂತೆ ಸಂರಕ್ಷಿಸಲು ಕೆಳಗಿನ ಯಾವ ವಿಧಾನಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಉಪ್ಪು ಹಾಕುವುದು (ಒಣ ಉಪ್ಪಿನ ಲೇಪನ)",
+        "ಸಾರೀಕೃತ ಸಕ್ಕರೆ ಪಾಕವನ್ನು ಸೇರಿಸುವುದು",
+        "ಶೈತ್ಯೀಕರಣ (ಘನೀಕರಿಸುವುದು)",
+        "ದಿನಗಟ್ಟಲೆ ನಿರಂತರವಾಗಿ ಕುದಿಸುವುದು"
+      ],
+      "answer": [
+        "ಉಪ್ಪು ಹಾಕುವುದು (ಒಣ ಉಪ್ಪಿನ ಲೇಪನ)",
+        "ಶೈತ್ಯೀಕರಣ (ಘನೀಕರಿಸುವುದು)"
+      ],
+      "reasoning": "ಮಾಂಸ ಮತ್ತು ಮೀನನ್ನು ಒಣ ಉಪ್ಪಿನಿಂದ ಮುಚ್ಚಿ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಬೆಳೆಯದಂತೆ ಮಾಡಲಾಗುತ್ತದೆ. ಶೈತ್ಯೀಕರಣ ಕೂಡ ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಬೆಳವಣಿಗೆಯನ್ನು ನಿಧಾನಗೊಳಿಸುತ್ತದೆ. ಸಕ್ಕರೆ ಪಾಕವನ್ನು ಹಣ್ಣುಗಳಿಗೆ ಬಳಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_028",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the diseases with their correct modes of transmission:",
+      "pairs": [
+        {
+          "left": "Tuberculosis",
+          "right": "Air"
+        },
+        {
+          "left": "Cholera",
+          "right": "Water / Food"
+        },
+        {
+          "left": "Hepatitis A",
+          "right": "Water"
+        },
+        {
+          "left": "Malaria",
+          "right": "Mosquito Bite"
+        }
+      ],
+      "reasoning": "Tuberculosis is airborne via droplets. Cholera is food/water borne. Hepatitis A virus is waterborne. Malaria is transmitted via mosquito bites."
+    },
+    "kn": {
+      "question": "ರೋಗಗಳನ್ನು ಅವುಗಳ ಹರಡುವ ಸರಿಯಾದ ಮಾರ್ಗಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಕ್ಷಯರೋಗ (Tuberculosis)",
+          "right": "ಗಾಳಿ"
+        },
+        {
+          "left": "ಕಾಲರಾ",
+          "right": "ನೀರು / ಆಹಾರ"
+        },
+        {
+          "left": "ಹೆಪಟೈಟಿಸ್ ಎ",
+          "right": "ನೀರು"
+        },
+        {
+          "left": "ಮಲೇರಿಯಾ",
+          "right": "ಸೊಳ್ಳೆ ಕಡಿತ"
+        }
+      ],
+      "reasoning": "ಕ್ಷಯ ರೋಗ ಗಾಳಿಯಲ್ಲಿ ಹನಿಗಳಿಂದ ಹರಡುತ್ತದೆ. ಕಾಲರಾ ದೂಷಿತ ಆಹಾರ/ನೀರಿನಿಂದ ಬರುತ್ತದೆ. ಹೆಪಟೈಟಿಸ್ ಎ ದೂಷಿತ ನೀರಿನಿಂದ ಬರುವ ವೈರಸ್ ರೋಗ. ಮಲೇರಿಯಾ ಸೊಳ್ಳೆ ಕಡಿತದಿಂದ ಹರಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_029",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the plant diseases with their causative microbial type:",
+      "pairs": [
+        {
+          "left": "Citrus canker",
+          "right": "Bacteria"
+        },
+        {
+          "left": "Rust of wheat",
+          "right": "Fungi"
+        },
+        {
+          "left": "Yellow vein mosaic of Bhindi",
+          "right": "Virus"
+        },
+        {
+          "left": "Malaria in humans",
+          "right": "Protozoa"
+        }
+      ],
+      "reasoning": "Citrus canker is bacterial. Rust of wheat is fungal. Yellow vein mosaic of Bhindi (okra) is a viral disease carried by insects. Malaria is protozoan."
+    },
+    "kn": {
+      "question": "ಸಸ್ಯಗಳ ರೋಗಗಳನ್ನು ಅವುಗಳಿಗೆ ಕಾರಣವಾಗುವ ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಪ್ರಕಾರದೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಸಿಟ್ರಸ್ ಕ್ಯಾಂಕರ್",
+          "right": "ಬ್ಯಾಕ್ಟೀರಿಯಾ"
+        },
+        {
+          "left": "ಗೋಧಿಯ ತುಕ್ಕು ರೋಗ",
+          "right": "ಶಿಲೀಂಧ್ರ (Fungi)"
+        },
+        {
+          "left": "ಬೆಂಡೆಕಾಯಿಯ ಹಳದಿ ನಾಳದ ಮೊಸಾಯಿಕ್",
+          "right": "ವೈರಸ್"
+        },
+        {
+          "left": "ಮಾನವರಲ್ಲಿ ಮಲೇರಿಯಾ",
+          "right": "ಪ್ರೋಟೋಜೋವಾ (ಆದಿಜೀವಿ)"
+        }
+      ],
+      "reasoning": "ಸಿಟ್ರಸ್ ಕ್ಯಾಂಕರ್ ಬ್ಯಾಕ್ಟೀರಿಯಾದಿಂದ, ಗೋಧಿ ತುಕ್ಕು ರೋಗ ಶಿಲೀಂಧ್ರದಿಂದ ಬರುತ್ತದೆ. ಬೆಂಡೆಕಾಯಿಯ ರೋಗ ವೈರಸ್ ನಿಂದ ಬರುತ್ತದೆ. ಮಲೇರಿಯಾ ಆದಿಜೀವಿಯಿಂದ ಬರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_micro_030",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "During bread making, yeast respiration releases which gas that fills the dough and causes it to rise?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon dioxide",
+      "reasoning": "Yeast reproduces rapidly and produces carbon dioxide during respiration. Bubbles of the gas fill the dough and increase its volume, which is the basis of the baking industry."
+    },
+    "kn": {
+      "question": "ಬ್ರೆಡ್ ತಯಾರಿಸುವಾಗ, ಯೀಸ್ಟ್‌ನ ಉಸಿರಾಟದಿಂದ ಬಿಡುಗಡೆಯಾಗುವ ಯಾವ ಅನಿಲವು ಹಿಟ್ಟಿನಲ್ಲಿ ಗುಳ್ಳೆಗಳನ್ನು ತುಂಬಿಸಿ ಹಿಟ್ಟು ಉಬ್ಬಲು ಕಾರಣವಾಗುತ್ತದೆ?",
+      "options": [
+        "ಆಮ್ಲಜನಕ",
+        "ಸಾರಜನಕ",
+        "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (Carbon dioxide)",
+        "ಹೈಡ್ರೋಜನ್"
+      ],
+      "answer": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (Carbon dioxide)",
+      "reasoning": "ಯೀಸ್ಟ್ ತ್ವರಿತವಾಗಿ ಸಂತಾನೋತ್ಪತ್ತಿ ನಡೆಸುತ್ತದೆ ಮತ್ತು ಉಸಿರಾಟದ ಸಮಯದಲ್ಲಿ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ. ಈ ಅನಿಲದ ಗುಳ್ಳೆಗಳು ಹಿಟ್ಟನ್ನು ಆವರಿಸಿ ಅದರ ಗಾತ್ರ ಹೆಚ್ಚಿಸುತ್ತವೆ."
+    }
+  }
+]

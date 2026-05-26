@@ -1,0 +1,789 @@
+[
+  {
+    "id": "c8_kan_buddha_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What was the childhood name of Gautama Buddha before he attained enlightenment?",
+      "options": [
+        "Siddhartha",
+        "Rahul",
+        "Devadatta",
+        "Mahavira"
+      ],
+      "answer": "Siddhartha",
+      "reasoning": "Gautama Buddha was born as Prince Siddhartha to King Shuddhodana and Queen Mayadevi."
+    },
+    "kn": {
+      "question": "ಜ್ಞಾನೋದಯ ಹೊಂದುವುದಕ್ಕಿಂತ ಮುಂಚೆ ಗೌತಮ ಬುದ್ಧನ ಬಾಲ್ಯದ ಹೆಸರೇನಾಗಿತ್ತು?",
+      "options": [
+        "ಸಿದ್ಧಾರ್ಥ",
+        "ರಾಹುಲ್",
+        "ದೇವದತ್ತ",
+        "ಮಹಾವೀರ"
+      ],
+      "answer": "ಸಿದ್ಧಾರ್ಥ",
+      "reasoning": "ಗೌತಮ ಬುದ್ಧನು ಶಾಕ್ಯ ಕುಲದ ರಾಜ ಶುದ್ಧೋದನ ಮತ್ತು ರಾಣಿ ಮಾಯಾದೇವಿಯ ಮಗನಾಗಿ ಜನ್ಮತಳೆದಾಗ ಅವನಿಗೆ ಸಿದ್ಧಾರ್ಥ ಎಂದು ಹೆಸರಿಸಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Under which type of tree did Siddhartha sit in meditation and attain final enlightenment?",
+      "options": [
+        "Bodhi tree (Pipal tree)",
+        "Banyan tree",
+        "Mango tree",
+        "Teak tree"
+      ],
+      "answer": "Bodhi tree (Pipal tree)",
+      "reasoning": "Siddhartha attained enlightenment under a Pipal tree in Bodh Gaya, which became known as the Bodhi tree (tree of wisdom)."
+    },
+    "kn": {
+      "question": "ಸಿದ್ಧಾರ್ಥನು ಯಾವ ವೃಕ್ಷದ (ಮರ) ಕೆಳಗೆ ತಪಸ್ಸನ್ನು ಆಚರಿಸಿ ಜ್ಞಾನೋದಯವನ್ನು ಪಡೆದನು?",
+      "options": [
+        "ಬೋಧಿ ವೃಕ್ಷ (ಅರಳಿ ಮರ)",
+        "ಆಲದ ಮರ",
+        "ಮಾವಿನ ಮರ",
+        "ತೇಗದ ಮರ"
+      ],
+      "answer": "ಬೋಧಿ ವೃಕ್ಷ (ಅರಳಿ ಮರ)",
+      "reasoning": "ಬಿಹಾರದ ಗಯಾದಲ್ಲಿ ಸಿದ್ಧಾರ್ಥನು ಜ್ಞಾನೋದಯ ಪಡೆದ ಅರಳಿ ಮರವನ್ನು 'ಬೋಧಿ ವೃಕ್ಷ' ಎಂದು ಜಗತ್ತಿನಾದ್ಯಂತ ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the literal meaning of the title 'Buddha'?",
+      "options": [
+        "The Enlightened/Awakened One",
+        "The Greatest Warrior",
+        "The Monarch of Peace",
+        "The Wandering Monk"
+      ],
+      "answer": "The Enlightened/Awakened One",
+      "reasoning": "The word 'Buddha' translates to 'the one who is awake' or 'the enlightened one' who understands the ultimate truth of existence."
+    },
+    "kn": {
+      "question": "'ಬುದ್ಧ' ಎಂಬ ಹೆಸರಿನ ಅಕ್ಷರಶಃ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಜ್ಞಾನೋದಯ ಹೊಂದಿದವನು/ಎಚ್ಚರಗೊಂಡವನು",
+        "ಅತಿ ಶ್ರೇಷ್ಠ ಯೋಧ",
+        "ಶಾಂತಿಯ ದೊರೆ",
+        "ಸಂಚಾರಿ ಸನ್ಯಾಸಿ"
+      ],
+      "answer": "ಜ್ಞಾನೋದಯ ಹೊಂದಿದವನು/ಎಚ್ಚರಗೊಂಡವನು",
+      "reasoning": "'ಬುದ್ಧ' ಎಂದರೆ ಸಂಸಾರದ ಮಾಯೆಯಿಂದ ಮುಕ್ತನಾಗಿ ಸತ್ಯವನ್ನು ಅರಿತುಕೊಂಡ ಜ್ಞಾನೋದಯಿ ಎಂದರ್ಥ."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Where did Buddha deliver his first sermon (known as Dharmachakra Pravartana) to his first five disciples?",
+      "options": [
+        "Sarnath",
+        "Bodh Gaya",
+        "Lumbini",
+        "Kushinagar"
+      ],
+      "answer": "Sarnath",
+      "reasoning": "Gautama Buddha gave his first sermon in Sarnath, near Varanasi, in the Deer Park."
+    },
+    "kn": {
+      "question": "ಬುದ್ಧನು ತನ್ನ ಮೊದಲ ಐದು ಜನ ಶಿಷ್ಯರಿಗೆ ಧರ್ಮೋಪದೇಶ ನೀಡಿದ (ಧರ್ಮಚಕ್ರ ಪ್ರವರ್ತನ) ಸ್ಥಳ ಯಾವುದು?",
+      "options": [
+        "ಸಾರನಾಥ",
+        "ಬೋಧಗಯಾ",
+        "ಲುಂಬಿನಿ",
+        "ಕುಶಿನಗರ"
+      ],
+      "answer": "ಸಾರನಾಥ",
+      "reasoning": "ಬುದ್ಧನು ಜ್ಞಾನೋದಯದ ನಂತರ ವಾರಣಾಸಿ ಹತ್ತಿರದ ಸಾರನಾಥದ ಜಿಂಕೆ ವನದಲ್ಲಿ ತನ್ನ ಮೊದಲ ಪ್ರವಚನವನ್ನು ನೀಡಿದನು."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which notorious bandit was transformed into a peaceful monk after encountering Gautama Buddha?",
+      "options": [
+        "Angulimala",
+        "Valmiki",
+        "Devadatta",
+        "Bimbisara"
+      ],
+      "answer": "Angulimala",
+      "reasoning": "Angulimala was a violent bandit who wore a necklace of human fingers. He was reformed by Buddha's calm compassion and teachings."
+    },
+    "kn": {
+      "question": "ಬುದ್ಧನ ಶಾಂತಿ ಮತ್ತು ಕರುಣೆಯ ಸಂದೇಶಕ್ಕೆ ತಲೆಬಾಗಿ ಅಹಿಂಸಾ ಮಾರ್ಗ ಹಿಡಿದ ಕ್ರೂರ ದರೋಡೆಕೋರ ಯಾರು?",
+      "options": [
+        "ಅಂಗುಲಿಮಾಲ",
+        "ವಾಲ್ಮೀಕಿ",
+        "ದೇವದತ್ತ",
+        "ಬಿಂಬಿಸಾರ"
+      ],
+      "answer": "ಅಂಗುಲಿಮಾಲ",
+      "reasoning": "ಜನರ ಬೆರಳುಗಳನ್ನು ಕತ್ತರಿಸಿ ಮಾಲೆ ಹಾಕಿಕೊಳ್ಳುತ್ತಿದ್ದ ದರೋಡೆಕೋರ ಅಂಗುಲಿಮಾಲನನ್ನು ಬುದ್ಧನು ಧರ್ಮದ ದಾರಿಗೆ ತಂದು ಸನ್ಯಾಸಿಯನ್ನಾಗಿ ಮಾಡಿದನು."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which language did Buddha choose to preach his teachings to ensure common people could understand him?",
+      "options": [
+        "Pali",
+        "Sanskrit",
+        "Prakrit",
+        "Kannada"
+      ],
+      "answer": "Pali",
+      "reasoning": "Pali was the vernacular language spoken by ordinary people in eastern India during Buddha's time, making his message accessible."
+    },
+    "kn": {
+      "question": "ಸಾಮಾನ್ಯ ಜನರಿಗೂ ಧರ್ಮದ ತತ್ವಗಳು ಸುಲಭವಾಗಿ ಅರ್ಥವಾಗಲಿ ಎಂದು ಬುದ್ಧನು ಯಾವ ಭಾಷೆಯಲ್ಲಿ ಉಪದೇಶ ನೀಡಿದನು?",
+      "options": [
+        "ಪಾಲಿ",
+        "ಸಂಸ್ಕೃತ",
+        "ಪ್ರಾಕೃತ",
+        "ಕನ್ನಡ"
+      ],
+      "answer": "ಪಾಲಿ",
+      "reasoning": "ಬುದ್ಧನ ಕಾಲದಲ್ಲಿ ಪ್ರಚಲಿತದಲ್ಲಿದ್ದ ಸಾಮಾನ್ಯ ಜನರ ಆಡುಭಾಷೆಯಾದ ಪಾಲಿ ಭಾಷೆಯಲ್ಲಿ ಬುದ್ಧನು ತನ್ನ ಪ್ರವಚನಗಳನ್ನು ನೀಡಿದನು."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_007",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following form the foundational pillars of Buddhism?",
+      "options": [
+        "Four Noble Truths (Arya Satyagalu)",
+        "Eightfold Path (Ashtanga Marga)",
+        "Rigid caste hierarchies",
+        "Performances of animal sacrifices"
+      ],
+      "answer": [
+        "Four Noble Truths (Arya Satyagalu)",
+        "Eightfold Path (Ashtanga Marga)"
+      ],
+      "reasoning": "The Four Noble Truths and the Eightfold Path represent the core philosophical and ethical teachings of Buddhism. Buddha rejected caste systems and animal sacrifices."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಬೌದ್ಧ ಧರ್ಮದ ಪ್ರಮುಖ ಬೌದ್ಧಿಕ ಮತ್ತು ಧಾರ್ಮಿಕ ಅಡಿಪಾಯಗಳಾಗಿವೆ?",
+      "options": [
+        "ನಾಲ್ಕು ಆರ್ಯ ಸತ್ಯಗಳು",
+        "ಅಷ್ಟಾಂಗ ಮಾರ್ಗ",
+        "ಜಾತಿ ವ್ಯವಸ್ಥೆಯ ಕಡ್ಡಾಯ ಪಾಲನೆ",
+        "ಪ್ರಾಣಿ ಬಲಿ ಯಾಗಗಳು"
+      ],
+      "answer": [
+        "ನಾಲ್ಕು ಆರ್ಯ ಸತ್ಯಗಳು",
+        "ಅಷ್ಟಾಂಗ ಮಾರ್ಗ"
+      ],
+      "reasoning": "ನಾಲ್ಕು ಆರ್ಯ ಸತ್ಯಗಳು ಮತ್ತು ಅಷ್ಟಾಂಗ ಮಾರ್ಗಗಳು ಬೌದ್ಧ ಧರ್ಮದ ನೈತಿಕ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಜೀವನಕ್ಕೆ ದಾರಿ ದೀಪಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_008",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the core terms of Buddhism with their respective philosophical descriptions:",
+      "pairs": [
+        {
+          "left": "Buddha",
+          "right": "The awakened teacher"
+        },
+        {
+          "left": "Dharma",
+          "right": "The cosmic teachings and path"
+        },
+        {
+          "left": "Sangha",
+          "right": "The monastic community"
+        },
+        {
+          "left": "Nirvana",
+          "right": "Liberation from cycles of birth"
+        }
+      ],
+      "reasoning": "These are the Three Jewels of Buddhism (Triratna) along with Nirvana, matching their definitions."
+    },
+    "kn": {
+      "question": "ಬೌದ್ಧ ಧರ್ಮದ ಪ್ರಮುಖ ಪರಿಕಲ್ಪನೆಗಳನ್ನು ಅವುಗಳ ತತ್ವಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ಬುದ್ಧ",
+          "right": "ಎಚ್ಚರಗೊಂಡ ಮಹಾಗುರು"
+        },
+        {
+          "left": "ಧರ್ಮ",
+          "right": "ವಿಶ್ವ ನಿಯಮ ಹಾಗೂ ಉಪದೇಶಗಳು"
+        },
+        {
+          "left": "ಸಂಘ",
+          "right": "ಬೌದ್ಧ ಭಿಕ್ಷುಗಳ ಪವಿತ್ರ ಸಮುದಾಯ"
+        },
+        {
+          "left": "ನಿರ್ವಾಣ",
+          "right": "ಭವಬಂಧನಗಳಿಂದ ಮುಕ್ತಿ"
+        }
+      ],
+      "reasoning": "ಇವು ಬೌದ್ಧ ಧರ್ಮದ 'ತ್ರಿರತ್ನ'ಗಳು ಮತ್ತು ಬದುಕಿನ ಕೊನೆಯ ಮುಕ್ತಿಯಾದ ನಿರ್ವಾಣದ ವಿವರಣೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who was the grieving mother whom Buddha asked to bring mustard seeds from a household where no one had ever died?",
+      "options": [
+        "Kisa Gotami",
+        "Yashodhara",
+        "Sujata",
+        "Prajapati Gautami"
+      ],
+      "answer": "Kisa Gotami",
+      "reasoning": "Kisa Gotami approached Buddha to revive her dead child. Buddha asked for mustard seeds from a death-free home to teach her the universality of death."
+    },
+    "kn": {
+      "question": "ಮೃತನಾದ ಮಗನನ್ನು ಬದುಕಿಸುವಂತೆ ಬೇಡಿದ ಯಾವ ತಾಯಿಗೆ ಸಾವು ಸಾರ್ವತ್ರಿಕ ಎಂದು ಮನವರಿಕೆ ಮಾಡಲು ಬುದ್ಧನು ಸಾಸಿವೆ ಕಾಳು ತರಲು ಹೇಳಿದನು?",
+      "options": [
+        "ಕಿಸಾ ಗೋತಮಿ",
+        "ಯಶೋಧರೆ",
+        "ಸುಜಾತಾ",
+        "ಪ್ರಜಾಪತಿ ಗೌತಮಿ"
+      ],
+      "answer": "ಕಿಸಾ ಗೋತಮಿ",
+      "reasoning": "ಕಿಸಾ ಗೋತಮಿಯ ಮಗ ತೀರಿಹೋದಾಗ, ಸಾವು ಪ್ರಕೃತಿಯ ನಿಯಮ ಎಂಬುದನ್ನು ತಿಳಿಸಲು ಬುದ್ಧನು ಸಾವಿಲ್ಲದ ಮನೆಯಿಂದ ಸಾಸಿವೆ ತರಲು ಹೇಳಿದರು."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What profound realization was Kisa Gotami supposed to achieve through the task of collecting mustard seeds?",
+      "options": [
+        "Death is an inevitable reality for all living beings",
+        "Mustard seeds possess medical powers to cure death",
+        "People are unwilling to share their seeds",
+        "Buddhists must cultivate mustard seeds"
+      ],
+      "answer": "Death is an inevitable reality for all living beings",
+      "reasoning": "By realizing that every house she visited had lost a loved one, she understood that death is a universal law of nature."
+    },
+    "kn": {
+      "question": "ಸಾಸಿವೆ ಕಾಳು ತರುವ ಪ್ರಯತ್ನದಲ್ಲಿ ವಿಫಲಳಾದಾಗ ಕಿಸಾ ಗೋತಮಿಗೆ ಆದ ಜ್ಞಾನೋದಯವೇನು?",
+      "options": [
+        "ಸಾವು ಎಂಬುದು ಜಗತ್ತಿನ ಎಲ್ಲ ಜೀವಿಗಳಿಗೂ ಅನಿವಾರ್ಯ",
+        "ಸಾಸಿವೆ ಕಾಳುಗಳು ಮೃತರನ್ನು ಬದುಕಿಸುವ ಶಕ್ತಿ ಹೊಂದಿವೆ",
+        "ಜನರು ತಮಗೆ ಸಹಾಯ ಮಾಡಲು ಇಷ್ಟಪಡುವುದಿಲ್ಲ",
+        "ಬೌದ್ಧರು ಕಡ್ಡಾಯವಾಗಿ ಸಾಸಿವೆ ಬೆಳೆಯಬೇಕು"
+      ],
+      "answer": "ಸಾವು ಎಂಬುದು ಜಗತ್ತಿನ ಎಲ್ಲ ಜೀವಿಗಳಿಗೂ ಅನಿವಾರ್ಯ",
+      "reasoning": "ಪ್ರತಿಯೊಂದು ಮನೆಯಲ್ಲೂ ಯಾರೋ ಒಬ್ಬರು ಮೃತಪಟ್ಟಿದ್ದಾರೆ ಎಂಬುದನ್ನು ಅರಿತ ಕಿಸಾ ಗೋತಮಿ ಸಾವು ಜಗತ್ತಿನ ಸತ್ಯ ಎಂಬುದನ್ನು ಒಪ್ಪಿಕೊಂಡಳು."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the first Noble Truth declared by Gautama Buddha?",
+      "options": [
+        "Life is full of suffering (Dukha)",
+        "Suffering can be stopped by buying goods",
+        "Suffering is caused by other people only",
+        "Enlightenment can only be bought by money"
+      ],
+      "answer": "Life is full of suffering (Dukha)",
+      "reasoning": "The first Noble Truth of Buddha is 'Sabbam Dukham' - everything in mundane existence is associated with suffering."
+    },
+    "kn": {
+      "question": "ಬುದ್ಧನು ಜಗತ್ತಿಗೆ ಸಾರಿದ ನಾಲ್ಕು ಆರ್ಯ ಸತ್ಯಗಳಲ್ಲಿ ಮೊದಲನೆಯ ಸತ್ಯ ಯಾವುದು?",
+      "options": [
+        "ಪ್ರಪಂಚವು ದುಃಖಮಯವಾಗಿದೆ (ದುಃಖ)",
+        "ದುಃಖವನ್ನು ವಸ್ತುಗಳನ್ನು ಖರೀದಿಸುವುದರಿಂದ ತಡೆಯಬಹುದು",
+        "ದುಃಖಕ್ಕೆ ಕೇವಲ ಇತರ ವ್ಯಕ್ತಿಗಳೇ ಕಾರಣ",
+        "ಜ್ಞಾನೋದಯವನ್ನು ಕೇವಲ ಹಣದಿಂದ ಮಾತ್ರ ಪಡೆಯಬಹುದು"
+      ],
+      "answer": "ಪ್ರಪಂಚವು ದುಃಖಮಯವಾಗಿದೆ (ದುಃಖ)",
+      "reasoning": "ಹುಟ್ಟು, ಸಾವು, ರೋಗ ಮತ್ತು ವೃದ್ಧಾಪ್ಯಗಳೆಲ್ಲವೂ ದುಃಖದ ರೂಪವಾಗಿದ್ದು ಪ್ರಪಂಚ ದುಃಖಮಯ ಎಂಬುದು ಮೊದಲ ಆರ್ಯ ಸತ್ಯ."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "According to Buddha's second Noble Truth, what is the root cause of all human suffering (Dukha Samudaya)?",
+      "options": [
+        "Craving and Desire (Trishna)",
+        "Lack of wealth",
+        "Not praying to gods",
+        "Absence of physical power"
+      ],
+      "answer": "Craving and Desire (Trishna)",
+      "reasoning": "Buddha taught that worldly desire, attachment, and greed (Trishna) are the primary causes of suffering."
+    },
+    "kn": {
+      "question": "ಬುದ್ಧನ ಎರಡನೇ ಆರ್ಯ ಸತ್ಯದ ಪ್ರಕಾರ ಮನುಷ್ಯನ ಎಲ್ಲಾ ದುಃಖಗಳಿಗೆ ಮೂಲ ಕಾರಣವೇನು?",
+      "options": [
+        "ಆಸೆ ಮತ್ತು ತೃಷ್ಣಾ (ದುರಾಸೆ)",
+        "ಹಣಕಾಸಿನ ಕೊರತೆ",
+        "ದೇವರನ್ನು ಪೂಜಿಸದೇ ಇರುವುದು",
+        "ದೈಹಿಕ ಬಲದ ಕೊರತೆ"
+      ],
+      "answer": "ಆಸೆ ಮತ್ತು ತೃಷ್ಣಾ (ದುರಾಸೆ)",
+      "reasoning": "ಆಸೆಯೇ ದುಃಖಕ್ಕೆ ಮೂಲ ಕಾರಣ (ತೃಷ್ಣಾ) ಎಂಬುದು ಬುದ್ಧನ ಎರಡನೇ ಪ್ರಮುಖ ಆರ್ಯ ಸತ್ಯವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who was the princess who married Siddhartha and later became the mother of his son Rahul?",
+      "options": [
+        "Yashodhara",
+        "Mayadevi",
+        "Sujata",
+        "Sanghamitra"
+      ],
+      "answer": "Yashodhara",
+      "reasoning": "Princess Yashodhara was Siddhartha's wife, who later joined the Buddhist monastic order as a nun."
+    },
+    "kn": {
+      "question": "ರಾಜಕುಮಾರ ಸಿದ್ಧಾರ್ಥನ ಪತ್ನಿ ಹಾಗೂ ಅವನ ಮಗ ರಾಹುಲನ ತಾಯಿಯ ಹೆಸರೇನು?",
+      "options": [
+        "ಯಶೋಧರೆ",
+        "ಮಾಯಾದೇವಿ",
+        "ಸುಜಾತಾ",
+        "ಸಂಘಮಿತ್ರೆ"
+      ],
+      "answer": "ಯಶೋಧರೆ",
+      "reasoning": "ಸಿದ್ಧಾರ್ಥನಿಗೆ ಯಶೋಧರೆ ಎಂಬ ರಾಜಕುಮಾರಿಯೊಂದಿಗೆ ವಿವಾಹವಾಗಿತ್ತು, ಇವರಿಬ್ಬರ ಮಗನ ಹೆಸರು ರಾಹುಲ್."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What are the 'Four Sights' that Siddhartha witnessed outside the palace that triggered his search for truth?",
+      "options": [
+        "An old man, a sick man, a corpse, and an ascetic",
+        "A child, a woman, a soldier, and a king",
+        "A swan, a hunter, a tiger, and a bird",
+        "A mountain, a river, a forest, and a sea"
+      ],
+      "answer": "An old man, a sick man, a corpse, and an ascetic",
+      "reasoning": "These four sights showed Siddhartha the inevitability of aging, disease, death, and the search for liberation through renunciation."
+    },
+    "kn": {
+      "question": "ಸಿದ್ಧಾರ್ಥನು ಅರಮನೆಯಿಂದ ಹೊರಬಂದಾಗ ಕಂಡ ಯಾವ ನಾಲ್ಕು ದೃಶ್ಯಗಳು ಅವನ ವೈರಾಗ್ಯಕ್ಕೆ ಕಾರಣವಾದವು?",
+      "options": [
+        "ವೃದ್ಧ, ರೋಗಿ, ಶವ (ಹೆಣ) ಮತ್ತು ಸನ್ಯಾಸಿ",
+        "ಮಗು, ಮಹಿಳೆ, ಸೈನಿಕ ಮತ್ತು ರಾಜ",
+        "ಹಂಸ, ಬೇಟೆಗಾರ, ಹುಲಿ ಮತ್ತು ಹಕ್ಕಿ",
+        "ಪರ್ವತ, ನದಿ, ಅರಣ್ಯ ಮತ್ತು ಸಮುದ್ರ"
+      ],
+      "answer": "ವೃದ್ಧ, ರೋಗಿ, ಶವ (ಹೆಣ) ಮತ್ತು ಸನ್ಯಾಸಿ",
+      "reasoning": "ವಯಸ್ಸಾದ ಮುದುಕ, ಕಾಯಿಲೆಯಿಂದ ನರಳುತ್ತಿರುವ ರೋಗಿ, ಸತ್ತವರ ಹೆಣ ಮತ್ತು ಪ್ರಶಾಂತ ಮುಖದ ಸನ್ಯಾಸಿಯನ್ನು ಕಂಡು ಸಿದ್ಧಾರ್ಥನ ಮನಸ್ಸು ಬದಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_015",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following principles belong to the Eightfold Path (Ashtanga Marga) recommended by Buddha?",
+      "options": [
+        "Right View (Samyak Drishti)",
+        "Right Action (Samyak Karmana)",
+        "Right Hoarding of wealth",
+        "Right Ritual Sacrifice"
+      ],
+      "answer": [
+        "Right View (Samyak Drishti)",
+        "Right Action (Samyak Karmana)"
+      ],
+      "reasoning": "Samyak Drishti and Samyak Karmana are parts of the ethical path of Buddha. He opposed hoarding and sacrifices."
+    },
+    "kn": {
+      "question": "ಬುದ್ಧನು ಬದುಕಿನ ಸುಧಾರಣೆಗೆ ಬೋಧಿಸಿದ ಅಷ್ಟಾಂಗ ಮಾರ್ಗದಲ್ಲಿರುವ ಪ್ರಮುಖ ನಿಯಮಗಳು ಯಾವುವು?",
+      "options": [
+        "ಸಮ್ಯಕ್ ದೃಷ್ಟಿ (ಒಳ್ಳೆಯ ನೋಟ)",
+        "ಸಮ್ಯಕ್ ಕರ್ಮ (ಒಳ್ಳೆಯ ನಡತೆ)",
+        "ಸಮ್ಯಕ್ ಆಸ್ತಿ ಸಂಗ್ರಹಣೆ",
+        "ಸಮ್ಯಕ್ ಯಜ್ಞ ಆಚರಣೆ"
+      ],
+      "answer": [
+        "ಸಮ್ಯಕ್ ದೃಷ್ಟಿ (ಒಳ್ಳೆಯ ನೋಟ)",
+        "ಸಮ್ಯಕ್ ಕರ್ಮ (ಒಳ್ಳೆಯ ನಡತೆ)"
+      ],
+      "reasoning": "ಸಮ್ಯಕ್ ದೃಷ್ಟಿ ಹಾಗೂ ಸಮ್ಯಕ್ ಕರ್ಮಗಳು ಅಷ್ಟಾಂಗ ಮಾರ್ಗದ ೮ ಸೂತ್ರಗಳಲ್ಲಿ ಪ್ರಮುಖವಾದವುಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_016",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Select the historical rulers who converted to Buddhism and actively spread the Buddha's message beyond India.",
+      "options": [
+        "Emperor Ashoka",
+        "King Kanishka",
+        "Emperor Akbar",
+        "King Pulakeshin II"
+      ],
+      "answer": [
+        "Emperor Ashoka",
+        "King Kanishka"
+      ],
+      "reasoning": "Emperor Ashoka of Maurya Empire and King Kanishka of Kushan Empire sent emissaries and patronized Buddhist councils to spread the faith. Akbar was a Mughal Emperor and Pulakeshin was a Hindu Chalukyan King."
+    },
+    "kn": {
+      "question": "ಬೌದ್ಧ ಧರ್ಮವನ್ನು ಸ್ವೀಕರಿಸಿ, ಬುದ್ಧನ ಶಾಂತಿ ಸಂದೇಶವನ್ನು ದೇಶ-ವಿದೇಶಗಳಲ್ಲಿ ಹರಡಲು ಶ್ರಮಿಸಿದ ಐತಿಹಾಸಿಕ ರಾಜರು ಯಾರು?",
+      "options": [
+        "ಅಶೋಕ ಚಕ್ರವರ್ತಿ",
+        "ಕನಿಷ್ಕ ರಾಜ",
+        "ಅಕ್ಬರ್ ಚಕ್ರವರ್ತಿ",
+        "ಇಮ್ಮಡಿ ಪುಲಕೇಶಿ"
+      ],
+      "answer": [
+        "ಅಶೋಕ ಚಕ್ರವರ್ತಿ",
+        "ಕನಿಷ್ಕ ರಾಜ"
+      ],
+      "reasoning": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಅಶೋಕ ಚಕ್ರವರ್ತಿ ಮತ್ತು ಕುಶಾನ ವಂಶದ ಕನಿಷ್ಕ ಮಹಾರಾಜರು ಬೌದ್ಧ ಧರ್ಮ ಪ್ರಚಾರಕ್ಕೆ ಮಹತ್ತರ ಕೊಡುಗೆ ನೀಡಿದರು."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_017",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the major landmarks of Buddha's life with their respective geographical locations:",
+      "pairs": [
+        {
+          "left": "Birth place",
+          "right": "Lumbini (Nepal)"
+        },
+        {
+          "left": "Enlightenment place",
+          "right": "Bodh Gaya"
+        },
+        {
+          "left": "First Sermon place",
+          "right": "Sarnath"
+        },
+        {
+          "left": "Death place (Mahaparinirvana)",
+          "right": "Kushinagar"
+        }
+      ],
+      "reasoning": "These are the four holy pilgrimage sites associated with Buddha's birth, enlightenment, first sermon, and passing."
+    },
+    "kn": {
+      "question": "ಬುದ್ಧನ ಜೀವನದ ಪ್ರಮುಖ ಘಟ್ಟಗಳನ್ನು ಅವು ನಡೆದ ಐತಿಹಾಸಿಕ ಸ್ಥಳಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ಜನನ ಸ್ಥಳ",
+          "right": "ಲುಂಬಿನಿ"
+        },
+        {
+          "left": "ಜ್ಞಾನೋದಯ ಪಡೆದ ಸ್ಥಳ",
+          "right": "ಬೋಧಗಯಾ"
+        },
+        {
+          "left": "ಮೊದಲ ಉಪದೇಶದ ಸ್ಥಳ",
+          "right": "ಸಾರನಾಥ"
+        },
+        {
+          "left": "ಮಹಾ ಪರಿನಿರ್ವಾಣ ಹೊಂದಿದ ಸ್ಥಳ",
+          "right": "ಕುಶಿನಗರ"
+        }
+      ],
+      "reasoning": "ಲುಂಬಿನಿಯಲ್ಲಿ ಜನನ, ಬೋಧಗಯಾದಲ್ಲಿ ಜ್ಞಾನೋದಯ, ಸಾರನಾಥದಲ್ಲಿ ಮೊದಲ ಉಪದೇಶ ಮತ್ತು ಕುಶಿನಗರದಲ್ಲಿ ಬುದ್ಧನ ಮಹಾಪರಿನಿರ್ವಾಣ ಸಂಭವಿಸಿತು."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_018",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the collective name of the canonical scriptures of Buddhism compiled by his disciples after his death?",
+      "options": [
+        "Tripitakas",
+        "Upanishads",
+        "Vedas",
+        "Angas"
+      ],
+      "answer": "Tripitakas",
+      "reasoning": "The Buddhist scriptures are divided into three parts: Sutta Pitaka, Vinaya Pitaka, and Abhidhamma Pitaka, collectively called Tripitakas ('Three Baskets')."
+    },
+    "kn": {
+      "question": "ಬುದ್ಧನ ಮಹಾಪರಿನಿರ್ವಾಣದ ನಂತರ ಅವರ ಶಿಷ್ಯರು ಕ್ರೋಢೀಕರಿಸಿದ ಬೌದ್ಧ ಧರ್ಮದ ಪವಿತ್ರ ಗ್ರಂಥಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ತ್ರಿಪಿಟಕಗಳು",
+        "ಉಪನಿಷತ್ತುಗಳು",
+        "ವೇದಗಳು",
+        "ಅಂಗಗಳು"
+      ],
+      "answer": "ತ್ರಿಪಿಟಕಗಳು",
+      "reasoning": "ಬುದ್ಧನ ಉಪದೇಶಗಳನ್ನು ಸುತ್ತ ಪೀಠಿಕಾ, ವಿನಯ ಪೀಠಿಕಾ ಮತ್ತು ಅಭಿಧಮ್ಮ ಪೀಠಿಕಾ ಎಂಬ ಮೂರು ವಿಭಾಗಗಳಲ್ಲಿ ಕ್ರೋಢೀಕರಿಸಲಾಗಿದ್ದು ಇವುಗಳನ್ನು ತ್ರಿಪಿಟಕಗಳು ಎನ್ನುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_019",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which specific book of the Khuddaka Nikaya contains verses summarizing the ethical teachings of Buddha, known as 'Dhammapada'?",
+      "options": [
+        "Sutta Pitaka",
+        "Vinaya Pitaka",
+        "Abhidhamma Pitaka",
+        "Jataka tales"
+      ],
+      "answer": "Sutta Pitaka",
+      "reasoning": "The Dhammapada is a collection of sayings of Buddha in verse form and is part of the Khuddaka Nikaya, which is a division of the Sutta Pitaka."
+    },
+    "kn": {
+      "question": "ಬುದ್ಧನ ಸೂಕ್ತಿಗಳು ಮತ್ತು ಉಪದೇಶಗಳ ಪದ್ಯ ರೂಪದ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಗ್ರಂಥ 'ಧಮ್ಮಪದ'ವು ಯಾವ ಪಿಟಕದ ಭಾಗವಾಗಿದೆ?",
+      "options": [
+        "ಸುತ್ತ ಪೀಠಿಕಾ",
+        "ವಿನಯ ಪೀಠಿಕಾ",
+        "ಅಭಿಧಮ್ಮ ಪೀಠಿಕಾ",
+        "ಜಾತಕ ಕಥೆಗಳು"
+      ],
+      "answer": "ಸುತ್ತ ಪೀಠಿಕಾ",
+      "reasoning": "'ಧಮ್ಮಪದ'ವು ಸುತ್ತ ಪೀಠಿಕಾದ ಅತ್ಯಂತ ಜನಪ್ರಿಯ ವಿಭಾಗವಾದ ಖುದ್ದಕ ನಿಕಾಯದ ಒಂದು ಪ್ರಮುಖ ಭಾಗವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_020",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Identify the Sanskrit Sandhi in the word 'ಜ್ಞಾನೋದಯ' (Jnana + Udaya = Jnanodaya).",
+      "options": [
+        "Guna Sandhi",
+        "Savarnadirgha Sandhi",
+        "Vridhi Sandhi",
+        "Yan Sandhi"
+      ],
+      "answer": "Guna Sandhi",
+      "reasoning": "Jnana ('a') + Udaya ('u') combines to form Jnanodaya ('o' sound). According to sandhi rules, a + u = o is Guna Sandhi."
+    },
+    "kn": {
+      "question": "'ಜ್ಞಾನೋದಯ' (ಜ್ಞಾನ + ಉದಯ) ಎಂಬ ಪದದಲ್ಲಿರುವ ಸಂಸ್ಕೃತ ಸಂಧಿ ಯಾವುದು?",
+      "options": [
+        "ಗುಣ ಸಂಧಿ",
+        "ಸವರ್ಣದೀರ್ಘ ಸಂಧಿ",
+        "ವೃದ್ಧಿ ಸಂಧಿ",
+        "ಯಣ್ ಸಂಧಿ"
+      ],
+      "answer": "ಗುಣ ಸಂಧಿ",
+      "reasoning": "ಜ್ಞಾನ (ಅ) + ಉದಯ (ಉ) ಸೇರಿದಾಗ ಓಕಾರವು ಆದೇಶವಾಗಿ ಬಂದಿರುವುದರಿಂದ ಇದು ಗುಣ ಸಂಧಿಯ ನಿಯಮಕ್ಕೆ ಸೇರುತ್ತದೆ (ಅ/ಆ ಕಾರಗಳ ಮುಂದೆ ಇ/ಈ ಬಂದರೆ ಏ, ಉ/ಊ ಬಂದರೆ ಓ ಆದೇಶವಾಗುತ್ತದೆ)."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_021",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the Kannada equivalent of the famous Buddhist refugee prayer chant 'Buddham Sharanam Gacchami'?",
+      "options": [
+        "ನಾನು ಬುದ್ಧನ ಶರಣು ಹೋಗುತ್ತೇನೆ (ಆಶ್ರಯ ಪಡೆಯುತ್ತೇನೆ)",
+        "ಬುದ್ಧನು ನನ್ನ ಹಿಂದೆ ಬರುತ್ತಾನೆ",
+        "ನಾನು ಬುದ್ಧನಿಗೆ ಉಡುಗೊರೆ ನೀಡುತ್ತೇನೆ",
+        "ಬುದ್ಧನು ನನ್ನನ್ನು ರಕ್ಷಿಸುತ್ತಾನೆ"
+      ],
+      "answer": "ನಾನು ಬುದ್ಧನ ಶರಣು ಹೋಗುತ್ತೇನೆ (ಆಶ್ರಯ ಪಡೆಯುತ್ತೇನೆ)",
+      "reasoning": "The Pali phrase 'Buddham Sharanam Gacchami' translates to 'I go to the Buddha for refuge/shelter' in Kannada."
+    },
+    "kn": {
+      "question": "ಬೌದ್ಧ ಧರ್ಮದ ಪ್ರಾರ್ಥನೆಯಾದ 'ಬುದ್ಧಂ ಶರಣಂ ಗಚ್ಛಾಮಿ' ಎಂಬುದರ ಕನ್ನಡ ಅನುವಾದವೇನು?",
+      "options": [
+        "ನಾನು ಬುದ್ಧನ ಶರಣು ಹೋಗುತ್ತೇನೆ (ಆಶ್ರಯ ಪಡೆಯುತ್ತೇನೆ)",
+        "ಬುದ್ಧನು ನನ್ನ ಹಿಂದೆ ಬರುತ್ತಾನೆ",
+        "ನಾನು ಬುದ್ಧನಿಗೆ ಉಡುಗೊರೆ ನೀಡುತ್ತೇನೆ",
+        "ಬುದ್ಧನು ನನ್ನನ್ನು ರಕ್ಷಿಸುತ್ತಾನೆ"
+      ],
+      "answer": "ನಾನು ಬುದ್ಧನ ಶರಣು ಹೋಗುತ್ತೇನೆ (ಆಶ್ರಯ ಪಡೆಯುತ್ತೇನೆ)",
+      "reasoning": "'ಬುದ್ಧಂ ಶರಣಂ ಗಚ್ಛಾಮಿ' ಎಂದರೆ ಜ್ಞಾನದ ಸಂಕೇತವಾದ ಬುದ್ಧನ ಆಶ್ರಯವನ್ನು ನಾನು ಹೊಂದುತ್ತೇನೆ ಎಂದರ್ಥ."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_022",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "In Kannada grammar, what type of Samasa is represented by the word 'Tripitaka' (meaning a group of three Pitakas)?",
+      "options": [
+        "Dwigu Samasa",
+        "Dvandva Samasa",
+        "Tatpurusha Samasa",
+        "Bahuvrihi Samasa"
+      ],
+      "answer": "Dwigu Samasa",
+      "reasoning": "When the first word of a compound word is a number (Mooru/Tri) and the final compound denotes a group, it is a Dwigu Samasa."
+    },
+    "kn": {
+      "question": "'ತ್ರಿಪಿಟಕ' (ಮೂರು ಪೀಠಿಕೆಗಳ ಸಮೂಹ) ಎಂಬ ಸಮಸ್ತ ಪದವು ವ್ಯಾಕರಣದ ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆಯಾಗಿದೆ?",
+      "options": [
+        "ದ್ವಿಗು ಸಮಾಸ",
+        "ದ್ವಂದ್ವ ಸಮಾಸ",
+        "ತತ್ಪುರುಷ ಸಮಾಸ",
+        "ಬಹುವ್ರೀಹಿ ಸಮಾಸ"
+      ],
+      "answer": "ದ್ವಿಗು ಸಮಾಸ",
+      "reasoning": "ಪೂರ್ವಪದವು ಸಂಖ್ಯಾವಾಚಕವಾಗಿದ್ದು (ತ್ರಿ - ಮೂರು), ಇಡೀ ಪದವು ಒಂದು ಸಮೂಹವನ್ನು ಸೂಚಿಸುವುದರಿಂದ ಇದು ದ್ವಿಗು ಸಮಾಸವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_023",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following are part of the 'Tripitakas' (Buddhist holy scriptures)?",
+      "options": [
+        "Sutta Pitaka",
+        "Vinaya Pitaka",
+        "Bhagavad Gita",
+        "Upanishad"
+      ],
+      "answer": [
+        "Sutta Pitaka",
+        "Vinaya Pitaka"
+      ],
+      "reasoning": "The Tripitakas consist of Sutta, Vinaya, and Abhidhamma Pitaka. Bhagavad Gita and Upanishads are Hindu scriptures."
+    },
+    "kn": {
+      "question": "ಬೌದ್ಧ ಧರ್ಮದ ಅಧಿಕೃತ ತ್ರಿಪಿಟಕಗಳಲ್ಲಿ ಸೇರಿರುವ ಗ್ರಂಥಗಳು ಯಾವುವು?",
+      "options": [
+        "ಸುತ್ತ ಪೀಠಿಕಾ",
+        "ವಿನಯ ಪೀಠಿಕಾ",
+        "ಭಗವದ್ಗೀತೆ",
+        "ಉಪನಿಷತ್ತು"
+      ],
+      "answer": [
+        "ಸುತ್ತ ಪೀಠಿಕಾ",
+        "ವಿನಯ ಪೀಠಿಕಾ"
+      ],
+      "reasoning": "ಸುತ್ತ ಪೀಠಿಕಾ (ಬುದ್ಧನ ಉಪದೇಶಗಳು) ಮತ್ತು ವಿನಯ ಪೀಠಿಕಾ (ಶಿಸ್ತಿನ ನಿಯಮಗಳು) ತ್ರಿಪಿಟಕಗಳ ಪ್ರಮುಖ ಭಾಗಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the Buddhist terms with their translated meanings in English/Kannada context:",
+      "pairs": [
+        {
+          "left": "ಅಹಿಂಸೆ",
+          "right": "Non-violence"
+        },
+        {
+          "left": "ತೃಷ್ಣಾ",
+          "right": "Extreme desire/craving"
+        },
+        {
+          "left": "ಬೋಧಿಸತ್ವ",
+          "right": "Buddha in previous births"
+        },
+        {
+          "left": "ಮಹಾಪರಿನಿರ್ವಾಣ",
+          "right": "The passing away of the Buddha"
+        }
+      ],
+      "reasoning": "These are key Buddhist terms associated with ethics, rebirth stories (Jatakamala), and his final transition."
+    },
+    "kn": {
+      "question": "ಬೌದ್ಧ ಪರಿಭಾಷೆಯ ಈ ಕೆಳಗಿನ ಪದಗಳನ್ನು ಅವುಗಳ ಅರ್ಥಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ಅಹಿಂಸೆ",
+          "right": "ಯಾವ ಜೀವಿಯನ್ನೂ ಕೊಲ್ಲದಿರುವುದು/ಹಿಂಸಿಸದಿರುವುದು"
+        },
+        {
+          "left": "ತೃಷ್ಣಾ",
+          "right": "ದುಃಖಕ್ಕೆ ಕಾರಣವಾದ ಅತಿಯಾದ ಆಸೆ"
+        },
+        {
+          "left": "ಬೋಧಿಸತ್ವ",
+          "right": "ಜ್ಞಾನೋದಯದ ಹಂತದಲ್ಲಿರುವ ಬುದ್ಧನ ಪೂರ್ವ ಜನ್ಮ ರೂಪ"
+        },
+        {
+          "left": "ಮಹಾಪರಿನಿರ್ವಾಣ",
+          "right": "ಬುದ್ಧನ ಭೌತಿಕ ದೇಹದ ಅಂತ್ಯ/ನಿರ್ಗಮನ"
+        }
+      ],
+      "reasoning": "ಅಹಿಂಸೆ ಎಂದರೆ ಹಿಂಸೆ ಮಾಡದಿರುವುದು, ತೃಷ್ಣಾ ಎಂದರೆ ದುರಾಸೆ, ಬೋಧಿಸತ್ವ ಬುದ್ಧನ ಪೂರ್ವಜನ್ಮ, ಮಹಾಪರಿನಿರ್ವಾಣ ಬುದ್ಧನ ಸಾವು."
+    }
+  },
+  {
+    "id": "c8_kan_buddha_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the following historical associates of Buddha with their correct descriptions:",
+      "pairs": [
+        {
+          "left": "Ananda",
+          "right": "Buddha's cousin and closest disciple"
+        },
+        {
+          "left": "Rahul",
+          "right": "Buddha's only son"
+        },
+        {
+          "left": "Mahaprajapati Gautami",
+          "right": "Buddha's stepmother/foster mother"
+        },
+        {
+          "left": "Sujata",
+          "right": "The village girl who offered kheer to fasting Buddha"
+        }
+      ],
+      "reasoning": "Ananda was his disciple, Rahul was his son, Prajapati raised him after Mayadevi died, and Sujata fed him before his enlightenment."
+    },
+    "kn": {
+      "question": "ಬುದ್ಧನ ಜೀವನಕ್ಕೆ ಹತ್ತಿರವಾದ ವ್ಯಕ್ತಿಗಳನ್ನು ಅವರ ವಿವರಣೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ಆನಂದ",
+          "right": "ಬುದ್ಧನ ಪ್ರೀತಿಯ ಶಿಷ್ಯ ಹಾಗೂ ಆಪ್ತ ಸಹಾಯಕ"
+        },
+        {
+          "left": "ರಾಹುಲ್",
+          "right": "ಬುದ್ಧ ಮತ್ತು ಯಶೋಧರೆಯರ ಏಕೈಕ ಪುತ್ರ"
+        },
+        {
+          "left": "ಮಹಾದೇವಿ ಪ್ರಜಾಪತಿ ಗೌತಮಿ",
+          "right": "ಸಿದ್ಧಾರ್ಥನನ್ನು ಸಾಕಿ ಬೆಳೆಸಿದ ಸಾಕುತಾಯಿ"
+        },
+        {
+          "left": "ಸುಜಾತಾ",
+          "right": "ಧ್ಯಾನಸ್ಥ ಸಿದ್ಧಾರ್ಥನಿಗೆ ಪಾಯಸ ನೀಡಿದ ಕನ್ಯೆ"
+        }
+      ],
+      "reasoning": "ಆನಂದ ಆಪ್ತ ಭಿಕ್ಷು, ರಾಹುಲ್ ಮಗ, ಗೌತಮಿ ಸಾಕುತಾಯಿ (ಬುದ್ಧನ ಚಿಕ್ಕಮ್ಮ), ಮತ್ತು ಸುಜಾತಾ ಅನ್ನಪಾಯಸ ನೀಡಿದ ಬಾಲಕಿಯಾಗಿದ್ದಾಳೆ."
+    }
+  }
+]

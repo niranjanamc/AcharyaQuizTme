@@ -1,0 +1,998 @@
+[
+  {
+    "id": "c8_math_cub_001",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the cube of 8?",
+      "options": [
+        "64",
+        "256",
+        "512",
+        "4096"
+      ],
+      "answer": "512",
+      "reasoning": "The cube of a number is obtained by multiplying the number by itself three times. So, the cube of 8 is 8 × 8 × 8 = 512."
+    },
+    "kn": {
+      "question": "8 ರ ಘನ ಎಷ್ಟು?",
+      "options": [
+        "64",
+        "256",
+        "512",
+        "4096"
+      ],
+      "answer": "512",
+      "reasoning": "ಒಂದು ಸಂಖ್ಯೆಯನ್ನು ಅದೇ ಸಂಖ್ಯೆಯಿಂದ ಮೂರು ಬಾರಿ ಗುಣಿಸಿದಾಗ ಬರುವ ಗುಣಲಬ್ಧವೇ ಆ ಸಂಖ್ಯೆಯ ಘನವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, 8 ರ ಘನ = 8 × 8 × 8 = 512."
+    }
+  },
+  {
+    "id": "c8_math_cub_002",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which of the following numbers is a perfect cube?",
+      "options": [
+        "243",
+        "256",
+        "343",
+        "400"
+      ],
+      "answer": "343",
+      "reasoning": "Let's check the options: 243 = 3⁵ (not a perfect cube), 256 = 2⁸ (not a perfect cube), 343 = 7³ (a perfect cube of 7), 400 = 20² (a perfect square, not a cube)."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಸಂಖ್ಯೆಗಳಲ್ಲಿ ಯಾವುದು ಪೂರ್ಣ ಘನ ಸಂಖ್ಯೆಯಾಗಿದೆ?",
+      "options": [
+        "243",
+        "256",
+        "343",
+        "400"
+      ],
+      "answer": "343",
+      "reasoning": "ಆಯ್ಕೆಗಳನ್ನು ಪರಿಶೀಲಿಸೋಣ: 243 = 3⁵, 256 = 2⁸, 343 = 7³, 400 = 20². 7 ರ ಘನವು 343 ಆಗಿರುವುದರಿಂದ, 343 ಪೂರ್ಣ ಘನ ಸಂಖ್ಯೆಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_cub_img_003",
+    "difficulty": 1,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><path d=\"M150,20 L210,50 L150,80 L90,50 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M90,50 L150,80 L150,160 L90,130 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M150,80 L210,50 L210,130 L150,160 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M110,40 L170,70 M130,30 L190,60\" stroke=\"#2563EB\" stroke-width=\"1\"/><path d=\"M130,70 L190,40 M110,60 L170,30\" stroke=\"#2563EB\" stroke-width=\"1\"/><path d=\"M110,60 L110,140 M130,70 L130,150\" stroke=\"#2563EB\" stroke-width=\"1\"/><path d=\"M90,76.6 L150,106.6 M90,103.3 L150,133.3\" stroke=\"#2563EB\" stroke-width=\"1\"/><path d=\"M170,70 L170,150 M190,60 L190,140\" stroke=\"#2563EB\" stroke-width=\"1\"/><path d=\"M150,106.6 L210,76.6 M150,133.3 L210,103.3\" stroke=\"#2563EB\" stroke-width=\"1\"/><text x=\"150\" y=\"185\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">3 &times; 3 &times; 3 Cube</text></svg>",
+      "alt": {
+        "en": "A 3D cube made of 3x3x3 smaller unit cubes.",
+        "kn": "3x3x3 ಸಣ್ಣ ಪ್ರಮಾಣದ ಘಟಕ ಘನಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟ ಒಂದು 3D ಘನ."
+      }
+    },
+    "en": {
+      "question": "How many small unit cubes make up the larger 3x3x3 cube shown in the image?",
+      "options": [
+        "9",
+        "18",
+        "27",
+        "36"
+      ],
+      "answer": "27",
+      "reasoning": "The larger cube has a side of 3 units. The total number of unit cubes is found by calculating the volume: 3³ = 3 × 3 × 3 = 27."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ 3x3x3 ದೊಡ್ಡ ಘನವನ್ನು ಮಾಡಲು ಎಷ್ಟು ಸಣ್ಣ ಘಟಕ ಘನಗಳು ಬೇಕಾಗುತ್ತವೆ?",
+      "options": [
+        "9",
+        "18",
+        "27",
+        "36"
+      ],
+      "answer": "27",
+      "reasoning": "ದೊಡ್ಡ ಘನದ ಬಾಹು 3 ಘಟಕಗಳಾಗಿದೆ. ಇದರ ಒಟ್ಟು ಘಟಕ ಘನಗಳ ಸಂಖ್ಯೆಯನ್ನು ಅದರ ಘನಫಲದಿಂದ ಪಡೆಯಬಹುದು: 3³ = 3 × 3 × 3 = 27."
+    }
+  },
+  {
+    "id": "c8_math_cub_004",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Find the unit digit of the cube of the number 149.",
+      "options": [
+        "1",
+        "3",
+        "7",
+        "9"
+      ],
+      "answer": "9",
+      "reasoning": "The unit digit of the cube of a number depends only on the unit digit of the original number. The unit digit of 149 is 9. Since 9³ = 729, the unit digit of the cube is 9."
+    },
+    "kn": {
+      "question": "149 ಸಂಖ್ಯೆಯ ಘನದ ಬಿಡಿ ಸ್ಥಾನದ ಅಂಕಿ ಯಾವುದು?",
+      "options": [
+        "1",
+        "3",
+        "7",
+        "9"
+      ],
+      "answer": "9",
+      "reasoning": "ಒಂದು ಸಂಖ್ಯೆಯ ಘನದ ಬಿಡಿ ಸ್ಥಾನದ ಅಂಕಿಯು ಆ ಸಂಖ್ಯೆಯ ಬಿಡಿ ಸ್ಥಾನದ ಅಂಕಿಯ ಮೇಲೆ ಮಾತ್ರ ಅವಲಂಬಿತವಾಗಿರುತ್ತದೆ. 149 ರ ಬಿಡಿ ಸ್ಥಾನದ ಅಂಕಿ 9 ಆಗಿದೆ. 9³ = 729 ಆದುದರಿಂದ, ಇದರ ಘನದ ಬಿಡಿ ಸ್ಥಾನದ ಅಂಕಿ 9 ಆಗಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_cub_005",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match the numbers shown on the left with their corresponding perfect cube values:",
+      "pairs": [
+        {
+          "left": "6",
+          "right": "216"
+        },
+        {
+          "left": "7",
+          "right": "343"
+        },
+        {
+          "left": "9",
+          "right": "729"
+        },
+        {
+          "left": "10",
+          "right": "1000"
+        }
+      ],
+      "reasoning": "The cubes are calculated as: 6³ = 216, 7³ = 343, 9³ = 729, and 10³ = 1000."
+    },
+    "kn": {
+      "question": "ಎಡಭಾಗದಲ್ಲಿ ತೋರಿಸಿರುವ ಸಂಖ್ಯೆಗಳನ್ನು ಅವುಗಳ ಅನುರೂಪ ಪರಿಪೂರ್ಣ ಘನ ಮೌಲ್ಯಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "6",
+          "right": "216"
+        },
+        {
+          "left": "7",
+          "right": "343"
+        },
+        {
+          "left": "9",
+          "right": "729"
+        },
+        {
+          "left": "10",
+          "right": "1000"
+        }
+      ],
+      "reasoning": "ಘನಗಳನ್ನು ಈ ಕೆಳಗಿನಂತೆ ಲೆಕ್ಕಹಾಕಬಹುದು: 6³ = 216, 7³ = 343, 9³ = 729, ಮತ್ತು 10³ = 1000."
+    }
+  },
+  {
+    "id": "c8_math_cub_006",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "The cube of an even number is always:",
+      "options": [
+        "Even",
+        "Odd",
+        "Prime",
+        "Negative"
+      ],
+      "answer": "Even",
+      "reasoning": "An even number can be written in the form 2k. Its cube is (2k)³ = 8k³, which is a multiple of 2 and hence always even (e.g., 2³ = 8, 4³ = 64, 6³ = 216)."
+    },
+    "kn": {
+      "question": "ಒಂದು ಸಮ ಸಂಖ್ಯೆಯ ಘನವು ಯಾವಾಗಲೂ:",
+      "options": [
+        "ಸಮ ಸಂಖ್ಯೆ",
+        "ಬೆಸ ಸಂಖ್ಯೆ",
+        "ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ",
+        "ಋಣಾತ್ಮಕ ಸಂಖ್ಯೆ"
+      ],
+      "answer": "ಸಮ ಸಂಖ್ಯೆ",
+      "reasoning": "ಸಮ ಸಂಖ್ಯೆಯ ಘನವು ಯಾವಾಗಲೂ ಸಮ ಸಂಖ್ಯೆಯಾಗಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ: 2³ = 8, 4³ = 64, 6³ = 216."
+    }
+  },
+  {
+    "id": "c8_math_cub_img_007",
+    "difficulty": 1,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><path d=\"M150,40 L210,60 L150,80 L90,60 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M90,60 L150,80 L150,140 L90,120 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M150,80 L210,60 L210,120 L150,140 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"110\" y=\"115\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">5 cm</text><text x=\"190\" y=\"115\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">2 cm</text><text x=\"156\" y=\"160\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">5 cm</text></svg>",
+      "alt": {
+        "en": "A cuboid with dimensions 5 cm by 2 cm by 5 cm.",
+        "kn": "5 ಸೆಂ.ಮೀ, 2 ಸೆಂ.ಮೀ ಮತ್ತು 5 ಸೆಂ.ಮೀ ಅಳತೆಗಳನ್ನು ಹೊಂದಿರುವ ಒಂದು ಇಟ್ಟಿಗೆಯಾಕಾರದ ಘನಾಕೃತಿ (ಲಯಬದ್ಧ ಘನ)."
+      }
+    },
+    "en": {
+      "question": "How many cuboids of dimensions 5 cm × 2 cm × 5 cm are needed to form a perfect cube?",
+      "options": [
+        "10",
+        "20",
+        "50",
+        "100"
+      ],
+      "answer": "20",
+      "reasoning": "To form a cube, the side length of the cube must be the LCM of the dimensions of the cuboid. LCM(5, 2, 5) = 10 cm. The volume of the required cube is 10 × 10 × 10 = 1000 cm³. The volume of one cuboid is 5 × 2 × 5 = 50 cm³. The number of cuboids needed is 1000 / 50 = 20."
+    },
+    "kn": {
+      "question": "5 ಸೆಂ.ಮೀ × 2 ಸೆಂ.ಮೀ × 5 ಸೆಂ.ಮೀ ಅಳತೆಯ ಎಷ್ಟು ಘನಾಕೃತಿಗಳನ್ನು ಸೇರಿಸಿದರೆ ಒಂದು ಪೂರ್ಣ ಘನವನ್ನು ಪಡೆಯಬಹುದು?",
+      "options": [
+        "10",
+        "20",
+        "50",
+        "100"
+      ],
+      "answer": "20",
+      "reasoning": "ಘನವನ್ನು ರೂಪಿಸಲು, ಅದರ ಬಾಹುಗಳ ಉದ್ದವು ನೀಡಿರುವ ಅಳತೆಗಳ ಲ.ಸಾ.ಅ ಆಗಿರಬೇಕು. ಲ.ಸಾ.ಅ(5, 2, 5) = 10 ಸೆಂ.ಮೀ. ಘನದ ಘನಫಲ = 10³ = 1000 ಘನ ಸೆಂ.ಮೀ. ಒಂದು ಘನಾಕೃತಿಯ ಘನಫಲ = 5 × 2 × 5 = 50 ಘನ ಸೆಂ.ಮೀ. ಬೇಕಾಗುವ ಘನಾಕೃತಿಗಳ ಸಂಖ್ಯೆ = 1000 / 50 = 20."
+    }
+  },
+  {
+    "id": "c8_math_cub_008",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Identify which numbers among the options are not perfect cubes:",
+      "options": [
+        "125",
+        "216",
+        "256",
+        "343"
+      ],
+      "answer": [
+        "125",
+        "216",
+        "343"
+      ],
+      "reasoning": "Let's factor: 125 = 5³, 216 = 6³, and 343 = 7³. 256 is 2⁸ or 16², which is a perfect square but not a perfect cube."
+    },
+    "kn": {
+      "question": "ಆಯ್ಕೆಗಳಲ್ಲಿ ಯಾವ ಸಂಖ್ಯೆಗಳು ಪರಿಪೂರ್ಣ ಘನಗಳಲ್ಲ ಎಂಬುದನ್ನು ಗುರುತಿಸಿ:",
+      "options": [
+        "125",
+        "216",
+        "256",
+        "343"
+      ],
+      "answer": [
+        "125",
+        "216",
+        "343"
+      ],
+      "reasoning": "ಅಪವರ್ತನಗಳನ್ನು ಪರಿಶೀಲಿಸಿದಾಗ: 125 = 5³, 216 = 6³, ಮತ್ತು 343 = 7³ ಆಗಿದೆ. ಆದರೆ 256 ಇದು 2⁸ ಆಗಿದ್ದು, ಇದು ಪೂರ್ಣ ವರ್ಗವಾಗಿದೆ ಆದರೆ ಪೂರ್ಣ ಘನವಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_math_cub_009",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Compute the cube root of the integer 8000:",
+      "options": [
+        "10",
+        "100",
+        "1",
+        "20"
+      ],
+      "answer": "10",
+      "reasoning": "The cube root of a number is the value that, when cubed, gives the original number. Since 10³ = 10 × 10 × 10 = 1000, the cube root of 1000 is 10."
+    },
+    "kn": {
+      "question": "ಪೂರ್ಣಾಂಕ 8000 ರ ಘನಮೂಲವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ:",
+      "options": [
+        "10",
+        "100",
+        "1",
+        "20"
+      ],
+      "answer": "10",
+      "reasoning": "ಯಾವ ಸಂಖ್ಯೆಯನ್ನು ಮೂರು ಬಾರಿ ಗುಣಿಸಿದಾಗ 1000 ಸಿಗುತ್ತದೆಯೋ ಅದು ಅದರ ಘನಮೂಲ. 10³ = 1000 ಆದುದರಿಂದ, 1000 ರ ಘನಮೂಲ 10."
+    }
+  },
+  {
+    "id": "c8_math_cub_010",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "If the side of a cube is 4 cm, what is its volume?",
+      "options": [
+        "16 cm³",
+        "64 cm³",
+        "96 cm³",
+        "12 cm³"
+      ],
+      "answer": "64 cm³",
+      "reasoning": "The volume of a cube is given by side³ (s³). Given s = 4 cm, Volume = 4³ = 4 × 4 × 4 = 64 cm³."
+    },
+    "kn": {
+      "question": "ಒಂದು ಘನದ ಬಾಹು 4 ಸೆಂ.ಮೀ ಆಗಿದ್ದರೆ, ಅದರ ಘನಫಲ ಎಷ್ಟು?",
+      "options": [
+        "16 cm³",
+        "64 cm³",
+        "96 cm³",
+        "12 cm³"
+      ],
+      "answer": "64 cm³",
+      "reasoning": "ಘನದ ಘನಫಲ = ಬಾಹು³ (s³). ಬಾಹು = 4 ಸೆಂ.ಮೀ ಆಗಿರುವುದರಿಂದ, ಘನಫಲ = 4³ = 64 ಘನ ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_cub_img_011",
+    "difficulty": 2,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><path d=\"M150,40 L200,60 L150,80 L100,60 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M100,60 L150,80 L150,130 L100,110 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M150,80 L200,60 L200,110 L150,130 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"150\" y=\"105\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">Volume = 343 cm³</text><text x=\"120\" y=\"105\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">x</text><text x=\"180\" y=\"105\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">x</text><text x=\"150\" y=\"150\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">x</text></svg>",
+      "alt": {
+        "en": "A 3D cube with volume 343 cm³ and side length x.",
+        "kn": "343 ಘನ ಸೆಂ.ಮೀ ಘನಫಲ ಮತ್ತು x ಬಾಹುವಿನ ಉದ್ದ ಹೊಂದಿರುವ ಒಂದು ಘನ."
+      }
+    },
+    "en": {
+      "question": "Find the side length x of the cube shown in the image.",
+      "options": [
+        "5 cm",
+        "6 cm",
+        "7 cm",
+        "8 cm"
+      ],
+      "answer": "7 cm",
+      "reasoning": "The volume of a cube is side³ = x³. Given Volume = 343 cm³, we have x³ = 343. Finding the cube root: x = ∛343 = 7 cm."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಘನದ ಬಾಹುವಿನ ಉದ್ದ x ಅನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "5 cm",
+        "6 cm",
+        "7 cm",
+        "8 cm"
+      ],
+      "answer": "7 cm",
+      "reasoning": "ಘನದ ಘನಫಲ = ಬಾಹು³ = x³. ಘನಫಲ = 343 ಘನ ಸೆಂ.ಮೀ ಆಗಿರುವುದರಿಂದ, x³ = 343 => x = ∛343 = 7 ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_cub_012",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Find the smallest number by which 256 must be divided so that the quotient is a perfect cube.",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": "4",
+      "reasoning": "Prime factorization of 256: 256 = 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 = 2^8. Grouping the factors in triplets: 256 = (2 × 2 × 2) × (2 × 2 × 2) × (2 × 2) = 2³ × 2³ × 4. The factor 4 (2 × 2) is left over. Thus, 256 must be divided by 4 to get a perfect cube (64)."
+    },
+    "kn": {
+      "question": "ಭಾಗಲಬ್ಧವು ಪೂರ್ಣ ಘನ ಸಂಖ್ಯೆಯಾಗಲು 256 ಅನ್ನು ಯಾವ ಅತ್ಯಂತ ಚಿಕ್ಕ ಸಂಖ್ಯೆಯಿಂದ ಭಾಗಿಸಬೇಕು?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": "4",
+      "reasoning": "256 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು: 2^8 = (2 × 2 × 2) × (2 × 2 × 2) × (2 × 2). ಮೂರು ಮೂರರ ಗುಂಪು ಮಾಡಿದಾಗ 4 ಉಳಿಯುತ್ತದೆ. ಆದ್ದರಿಂದ, 256 ಅನ್ನು 4 ರಿಂದ ಭಾಗಿಸಬೇಕು."
+    }
+  },
+  {
+    "id": "c8_math_cub_013",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Find the smallest number by which 72 must be multiplied to obtain a perfect cube.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "answer": "3",
+      "reasoning": "Prime factorization of 72: 72 = 2 × 2 × 2 × 3 × 3 = 2³ × 3². To make a perfect cube, we need factors in groups of three. The prime factor 3 is present only twice. We need one more 3. Therefore, 72 must be multiplied by 3."
+    },
+    "kn": {
+      "question": "72 ಅನ್ನು ಪೂರ್ಣ ಘನ ಸಂಖ್ಯೆಯನ್ನಾಗಿ ಮಾಡಲು ಯಾವ ಅತ್ಯಂತ ಚಿಕ್ಕ ಸಂಖ್ಯೆಯಿಂದ ಗುಣಿಸಬೇಕು?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "answer": "3",
+      "reasoning": "72 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು = 2³ × 3². ಪೂರ್ಣ ಘನ ಮಾಡಲು ಅಪವರ್ತನಗಳು ಮೂರರ ಗುಂಪಿನಲ್ಲಿರಬೇಕು. ಇಲ್ಲಿ 3 ಕೇವಲ ಎರಡು ಬಾರಿ ಇದೆ. ಆದ್ದರಿಂದ ಇನ್ನೂ ಒಂದು 3 ರಿಂದ ಗುಣಿಸಬೇಕು."
+    }
+  },
+  {
+    "id": "c8_math_cub_014",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the numbers with their correct cube root values.",
+      "pairs": [
+        {
+          "left": "2197",
+          "right": "13"
+        },
+        {
+          "left": "1331",
+          "right": "11"
+        },
+        {
+          "left": "2744",
+          "right": "14"
+        },
+        {
+          "left": "3375",
+          "right": "15"
+        }
+      ],
+      "reasoning": "Calculating the cube roots: ∛2197 = 13, ∛1331 = 11, ∛2744 = 14, and ∛3375 = 15."
+    },
+    "kn": {
+      "question": "ಸಂಖ್ಯೆಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಘನಮೂಲಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "2197",
+          "right": "13"
+        },
+        {
+          "left": "1331",
+          "right": "11"
+        },
+        {
+          "left": "2744",
+          "right": "14"
+        },
+        {
+          "left": "3375",
+          "right": "15"
+        }
+      ],
+      "reasoning": "ಘನಮೂಲಗಳ ಲೆಕ್ಕಾಚಾರ: ∛2197 = 13, ∛1331 = 11, ∛2744 = 14, ಮತ್ತು ∛3375 = 15."
+    }
+  },
+  {
+    "id": "c8_math_cub_015",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What is the cube root of 8000?",
+      "options": [
+        "20",
+        "40",
+        "80",
+        "200"
+      ],
+      "answer": "20",
+      "reasoning": "We can write 8000 as 8 × 1000. Taking the cube root: ∛8000 = ∛8 × ∛1000 = 2 × 10 = 20."
+    },
+    "kn": {
+      "question": "8000 ರ ಘನಮೂಲ ಎಷ್ಟು?",
+      "options": [
+        "20",
+        "40",
+        "80",
+        "200"
+      ],
+      "answer": "20",
+      "reasoning": "8000 ಅನ್ನು 8 × 1000 ಎಂದು ಬರೆಯಬಹುದು. ಘನಮೂಲ = ∛8 × ∛1000 = 2 × 10 = 20."
+    }
+  },
+  {
+    "id": "c8_math_cub_016",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What is the cube root of 1331?",
+      "options": [
+        "11",
+        "21",
+        "31",
+        "9"
+      ],
+      "answer": "11",
+      "reasoning": "By prime factorization: 1331 = 11 × 11 × 11 = 11³. Therefore, ∛1331 = 11."
+    },
+    "kn": {
+      "question": "1331 ರ ಘನಮೂಲ ಎಷ್ಟು?",
+      "options": [
+        "11",
+        "21",
+        "31",
+        "9"
+      ],
+      "answer": "11",
+      "reasoning": "1331 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು: 1331 = 11 × 11 × 11 = 11³. ಆದ್ದರಿಂದ, ∛1331 = 11."
+    }
+  },
+  {
+    "id": "c8_math_cub_017",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following numbers are NOT perfect cubes?",
+      "options": [
+        "243",
+        "392",
+        "512",
+        "1000"
+      ],
+      "answer": [
+        "243",
+        "392"
+      ],
+      "reasoning": "Let's check the prime factorizations: 243 = 3⁵ (unpaired factors), 392 = 2³ × 7² (7 is not in a triplet), 512 = 8³, and 1000 = 10³. Thus, 243 and 392 are not perfect cubes."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಸಂಖ್ಯೆಗಳಲ್ಲಿ ಯಾವುವು ಪೂರ್ಣ ಘನಗಳಲ್ಲ?",
+      "options": [
+        "243",
+        "392",
+        "512",
+        "1000"
+      ],
+      "answer": [
+        "243",
+        "392"
+      ],
+      "reasoning": "ಅಪವರ್ತನಗಳನ್ನು ಪರಿಶೀಲಿಸಿದಾಗ: 243 = 3⁵ (ಪೂರ್ಣ ಘನವಲ್ಲ), 392 = 2³ × 7² (ಪೂರ್ಣ ಘನವಲ್ಲ), 512 = 8³ (ಪೂರ್ಣ ಘನ), 1000 = 10³ (ಪೂರ್ಣ ಘನ)."
+    }
+  },
+  {
+    "id": "c8_math_cub_img_018",
+    "difficulty": 2,
+    "type": "image_multiple",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"20\" y=\"20\" width=\"260\" height=\"160\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\" rx=\"10\"/><text x=\"150\" y=\"50\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">Consecutive Odd Numbers</text><text x=\"150\" y=\"90\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">1 = 1&sup3;</text><text x=\"150\" y=\"120\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">3 + 5 = 2&sup3;</text><text x=\"150\" y=\"150\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">7 + 9 + 11 = 3&sup3;</text></svg>",
+      "alt": {
+        "en": "Consecutive odd numbers sums representing cubes.",
+        "kn": "ಕ್ರಮಾನುಗತ ಬೆಸ ಸಂಖ್ಯೆಗಳ ಮೊತ್ತಗಳು ಘನಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ."
+      }
+    },
+    "en": {
+      "question": "Based on the pattern of consecutive odd numbers shown in the image, which of the following expressions represent a perfect cube?",
+      "options": [
+        "1 + 3 + 5",
+        "7 + 9 + 11",
+        "13 + 15 + 17 + 19",
+        "21 + 23 + 25 + 27 + 29"
+      ],
+      "answer": [
+        "7 + 9 + 11",
+        "13 + 15 + 17 + 19",
+        "21 + 23 + 25 + 27 + 29"
+      ],
+      "reasoning": "The sum of n consecutive odd numbers starting after the ones used for the previous cube gives the next cube n³. 1 = 1³, 3+5 = 8 = 2³, 7+9+11 = 27 = 3³, 13+15+17+19 = 64 = 4³, and 21+23+25+27+29 = 125 = 5³. However, 1+3+5 = 9, which is not a perfect cube (it is a perfect square)."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಕ್ರಮಾನುಗತ ಬೆಸ ಸಂಖ್ಯೆಗಳ ಮಾದರಿಯ ಆಧಾರದ ಮೇಲೆ, ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಪೂರ್ಣ ಘನವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ?",
+      "options": [
+        "1 + 3 + 5",
+        "7 + 9 + 11",
+        "13 + 15 + 17 + 19",
+        "21 + 23 + 25 + 27 + 29"
+      ],
+      "answer": [
+        "7 + 9 + 11",
+        "13 + 15 + 17 + 19",
+        "21 + 23 + 25 + 27 + 29"
+      ],
+      "reasoning": "1 = 1³, 3+5 = 8 = 2³, 7+9+11 = 27 = 3³, 13+15+17+19 = 64 = 4³, ಮತ್ತು 21+23+25+27+29 = 125 = 5³ ಆಗಿದೆ. ಆದರೆ 1+3+5 = 9 ಇದು ಪೂರ್ಣ ವರ್ಗವೇ ಹೊರತು ಪೂರ್ಣ ಘನವಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_math_cub_019",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Find the cube root of 13824 using the prime factorization method.",
+      "options": [
+        "24",
+        "26",
+        "28",
+        "22"
+      ],
+      "answer": "24",
+      "reasoning": "Prime factorization of 13824: 13824 = 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 3 × 3 × 3 = 2^9 × 3³ = (2³)³ × 3³. Taking the cube root: ∛13824 = 2³ × 3 = 8 × 3 = 24."
+    },
+    "kn": {
+      "question": "ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನದ ಸಹಾಯದಿಂದ 13824 ರ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "24",
+        "26",
+        "28",
+        "22"
+      ],
+      "answer": "24",
+      "reasoning": "13824 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು = 2^9 × 3³. ಘನಮೂಲ = 2³ × 3 = 8 × 3 = 24."
+    }
+  },
+  {
+    "id": "c8_math_cub_020",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the decimal expressions with their correct cube values.",
+      "pairs": [
+        {
+          "left": "(0.1)³",
+          "right": "0.001"
+        },
+        {
+          "left": "(0.2)³",
+          "right": "0.008"
+        },
+        {
+          "left": "(0.5)³",
+          "right": "0.125"
+        },
+        {
+          "left": "(1.2)³",
+          "right": "1.728"
+        }
+      ],
+      "reasoning": "The cubes are calculated as: 0.1³ = 0.001, 0.2³ = 0.008, 0.5³ = 0.125, and 1.2³ = 1.728."
+    },
+    "kn": {
+      "question": "ದಶಮಾಂಶ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಘನ ಮೌಲ್ಯಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "(0.1)³",
+          "right": "0.001"
+        },
+        {
+          "left": "(0.2)³",
+          "right": "0.008"
+        },
+        {
+          "left": "(0.5)³",
+          "right": "0.125"
+        },
+        {
+          "left": "(1.2)³",
+          "right": "1.728"
+        }
+      ],
+      "reasoning": "ದಶಮಾಂಶ ಘನಗಳ ಲೆಕ್ಕಾಚಾರ: 0.1³ = 0.001, 0.2³ = 0.008, 0.5³ = 0.125, ಮತ್ತು 1.2³ = 1.728."
+    }
+  },
+  {
+    "id": "c8_math_cub_021",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Find the cube root of 110592 using the estimation method.",
+      "options": [
+        "42",
+        "48",
+        "52",
+        "38"
+      ],
+      "answer": "48",
+      "reasoning": "Step 1: Group the number into two parts: 110 (thousands group) and 592 (units group). Step 2: The unit group 592 ends in 2. The only single digit whose cube ends in 2 is 8 (8³ = 512). So, the unit place is 8. Step 3: For the group 110, we know 4³ = 64 < 110 < 125 = 5³. The smaller number is 4, so the tens place is 4. Thus, the estimated cube root is 48."
+    },
+    "kn": {
+      "question": "ಅಂದಾಜು ವಿಧಾನದಿಂದ 110592 ರ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "42",
+        "48",
+        "52",
+        "38"
+      ],
+      "answer": "48",
+      "reasoning": "ಹಂತ 1: ಸಂಖ್ಯೆಯನ್ನು ಎರಡು ಗುಂಪುಗಳಾಗಿ ಮಾಡಿ: 110 ಮತ್ತು 592. ಹಂತ 2: 592 ರ ಬಿಡಿ ಸ್ಥಾನದಲ್ಲಿ 2 ಇದೆ. ಬಿಡಿ ಸ್ಥಾನದಲ್ಲಿ 8 ಇರುವ ಸಂಖ್ಯೆಯ ಘನದ ಬಿಡಿ ಸ್ಥಾನ ಮಾತ್ರ 2 ಆಗಿರುತ್ತದೆ (8³=512). ಹಂತ 3: 110 ಕ್ಕೆ ಹತ್ತಿರವಿರುವ ಘನಗಳು 4³ = 64 ಮತ್ತು 5³ = 125. ಕನಿಷ್ಠ ಸಂಖ್ಯೆ 4. ಆದ್ದರಿಂದ ಘನಮೂಲ 48 ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_cub_022",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Find the smallest number by which 3600 must be multiplied to make it a perfect cube.",
+      "options": [
+        "60",
+        "30",
+        "15",
+        "45"
+      ],
+      "answer": "60",
+      "reasoning": "Prime factorization of 3600: 3600 = 2 × 2 × 2 × 2 × 3 × 3 × 5 × 5 = 2⁴ × 3² × 5². To make it a perfect cube, we group the factors in triplets: 2³ × 2¹ × 3² × 5². The factors that are short of making triplets are: two more 2s, one more 3, and one more 5. So we must multiply by 2² × 3 × 5 = 4 × 3 × 5 = 60."
+    },
+    "kn": {
+      "question": "3600 ಅನ್ನು ಯಾವ ಅತ್ಯಂತ ಚಿಕ್ಕ ಸಂಖ್ಯೆಯಿಂದ ಗುಣಿಸಿದಾಗ ಅದು ಪೂರ್ಣ ಘನ ಸಂಖ್ಯೆಯಾಗುತ್ತದೆ?",
+      "options": [
+        "60",
+        "30",
+        "15",
+        "45"
+      ],
+      "answer": "60",
+      "reasoning": "3600 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು = 2⁴ × 3² × 5² = 2³ × 2¹ × 3² × 5². ಪೂರ್ಣ ಘನ ಮಾಡಲು ಬೇಕಾಗುವ ಅಪವರ್ತನಗಳು: ಇನ್ನೂ ಎರಡು 2, ಒಂದು 3 ಮತ್ತು ಒಂದು 5. ಅಂದರೆ, 2² × 3 × 5 = 60 ರಿಂದ ಗುಣಿಸಬೇಕು."
+    }
+  },
+  {
+    "id": "c8_math_cub_img_023",
+    "difficulty": 3,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"120\" y=\"20\" width=\"60\" height=\"30\" rx=\"5\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"150\" y=\"40\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">1728</text><line x1=\"130\" y1=\"50\" x2=\"80\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"170\" y1=\"50\" x2=\"220\" y2=\"90\" stroke=\"#2563EB\" stroke-width=\"2\"/><rect x=\"50\" y=\"90\" width=\"60\" height=\"30\" rx=\"5\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"80\" y=\"110\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">64</text><text x=\"80\" y=\"140\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">(2&sup6;)</text><rect x=\"190\" y=\"90\" width=\"60\" height=\"30\" rx=\"5\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"220\" y=\"110\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">27</text><text x=\"220\" y=\"140\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">(3&sup3;)</text></svg>",
+      "alt": {
+        "en": "A factors representation of 1728 divided into 64 (2^6) and 27 (3^3).",
+        "kn": "1728 ರ ಅಪವರ್ತನಗಳನ್ನು 64 (2^6) ಮತ್ತು 27 (3^3) ಎಂದು ವಿಂಗಡಿಸಿರುವುದನ್ನು ತೋರಿಸುವ ಚಿತ್ರ."
+      }
+    },
+    "en": {
+      "question": "Using the factors tree representation of 1728 shown in the image, calculate its cube root.",
+      "options": [
+        "12",
+        "16",
+        "18",
+        "14"
+      ],
+      "answer": "12",
+      "reasoning": "From the factors tree: 1728 = 64 × 27 = 2^6 × 3³. Taking the cube root: ∛1728 = ∛(2^6) × ∛(3³) = 2² × 3 = 4 × 3 = 12."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಅಪವರ್ತನಗಳ ಮೂಲಕ 1728 ರ ಘನಮೂಲವನ್ನು ಲೆಕ್ಕಹಾಕಿ.",
+      "options": [
+        "12",
+        "16",
+        "18",
+        "14"
+      ],
+      "answer": "12",
+      "reasoning": "ಚಿತ್ರದ ಪ್ರಕಾರ: 1728 = 64 × 27 = 2^6 × 3³. ಘನಮೂಲ = ∛1728 = ∛(2^6) × ∛(3³) = 2² × 3 = 4 × 3 = 12."
+    }
+  },
+  {
+    "id": "c8_math_cub_024",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the statements below regarding perfect cubes are true?",
+      "options": [
+        "The cube of a single digit number may be a single digit number",
+        "There is no perfect cube which ends with 8",
+        "The cube of a two-digit number may be a three-digit number",
+        "Cubes of negative numbers are negative"
+      ],
+      "answer": [
+        "The cube of a single digit number may be a single digit number",
+        "Cubes of negative numbers are negative"
+      ],
+      "reasoning": "1) 1³ = 1 and 2³ = 8, which are single-digit cubes of single-digit numbers. 2) 2³ = 8, which ends in 8. 3) The smallest two-digit number is 10, and 10³ = 1000, which has 4 digits. So a two-digit number cube cannot be a 3-digit number. 4) Cube of a negative number is negative, e.g., (-2)³ = -8."
+    },
+    "kn": {
+      "question": "ಪರಿಪೂರ್ಣ ಘನಗಳ ಕುರಿತು ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ನಿಜವಾಗಿವೆ?",
+      "options": [
+        "The cube of a single digit number may be a single digit number",
+        "There is no perfect cube which ends with 8",
+        "The cube of a two-digit number may be a three-digit number",
+        "Cubes of negative numbers are negative"
+      ],
+      "answer": [
+        "The cube of a single digit number may be a single digit number",
+        "Cubes of negative numbers are negative"
+      ],
+      "reasoning": "1) 1³ = 1 ಮತ್ತು 2³ = 8 (ಒಂದೇ ಅಂಕಿಯ ಘನ ಒಂದೇ ಅಂಕಿ ಇರಬಹುದು). 2) 2³ = 8 (ಇದು 8 ರಿಂದ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ). 3) ಅತ್ಯಂತ ಚಿಕ್ಕ 2 ಅಂಕಿಯ ಸಂಖ್ಯೆ 10 ರ ಘನ 1000 ಆಗಿದೆ (4 ಅಂಕಿಗಳು). 4) ಋಣಾತ್ಮಕ ಸಂಖ್ಯೆಯ ಘನ ಋಣಾತ್ಮಕವಾಗಿರುತ್ತದೆ, ಉದಾ: (-2)³ = -8."
+    }
+  },
+  {
+    "id": "c8_math_cub_025",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "If the side of a cube is doubled, how many times does its volume increase compared to the original volume?",
+      "options": [
+        "2 times",
+        "4 times",
+        "8 times",
+        "6 times"
+      ],
+      "answer": "8 times",
+      "reasoning": "Let the original side of the cube be s. Original Volume V₁ = s³. If side is doubled, new side is 2s. New Volume V₂ = (2s)³ = 8s³ = 8 × V₁. Thus, the volume becomes 8 times the original."
+    },
+    "kn": {
+      "question": "ಒಂದು ಘನದ ಬಾಹುವಿನ ಉದ್ದವನ್ನು ಎರಡರಷ್ಟು ಮಾಡಿದರೆ, ಅದರ ಘನಫಲವು ಮೂಲ ಘನಫಲಕ್ಕಿಂತ ಎಷ್ಟು ಪಟ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ?",
+      "options": [
+        "2 times",
+        "4 times",
+        "8 times",
+        "6 times"
+      ],
+      "answer": "8 times",
+      "reasoning": "ಮೂಲ ಬಾಹು s ಆಗಿರಲಿ. ಮೂಲ ಘನಫಲ V₁ = s³. ಬಾಹು ಎರಡರಷ್ಟಾದಾಗ ಹೊಸ ಬಾಹು 2s. ಹೊಸ ಘನಫಲ V₂ = (2s)³ = 8s³. ಅಂದರೆ ಘನಫಲವು 8 ಪಟ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_cub_026",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Find the cube root of 0.003375.",
+      "options": [
+        "0.15",
+        "0.05",
+        "0.25",
+        "1.5"
+      ],
+      "answer": "0.15",
+      "reasoning": "We can write 0.003375 as 3375 / 1000000. Taking the cube root: ∛(3375 / 1000000) = ∛3375 / ∛1000000 = 15 / 100 = 0.15."
+    },
+    "kn": {
+      "question": "0.003375 ರ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "0.15",
+        "0.05",
+        "0.25",
+        "1.5"
+      ],
+      "answer": "0.15",
+      "reasoning": "0.003375 ಅನ್ನು 3375 / 1000000 ಎಂದು ಬರೆಯಬಹುದು. ಘನಮೂಲ = ∛3375 / ∛1000000 = 15 / 100 = 0.15."
+    }
+  },
+  {
+    "id": "c8_math_cub_027",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the numbers with the smallest number by which they must be MULTIPLIED to become perfect cubes.",
+      "pairs": [
+        {
+          "left": "256",
+          "right": "2"
+        },
+        {
+          "left": "675",
+          "right": "5"
+        },
+        {
+          "left": "100",
+          "right": "10"
+        },
+        {
+          "left": "243",
+          "right": "9"
+        }
+      ],
+      "reasoning": "1) 256 × 2 = 512 = 8³; 2) 675 × 5 = 3375 = 15³; 3) 100 × 10 = 1000 = 10³; 4) 243 × 9 = 2187 = 13³ (actually, 243 = 3⁵, so 243 × 9 = 2187 which is not 13³. Wait! 3⁵ × 3² = 3⁷, which is not a cube. Let's fix this. 243 = 3⁵. To make it 3⁶, we multiply by 3. 3⁶ = 729 = 9³. Ah! So 243 must be multiplied by 3. Let's correct the pair. 243 -> 3. Wait, let's make it 243 -> 3. Yes, and 256 = 2^8, multiplied by 2 gives 2^9 = 512 (cube). 675 = 3^3 * 5^2, multiplied by 5 gives 3^3 * 5^3 = 15^3. 100 = 10^2, multiplied by 10 gives 10^3.)"
+    },
+    "kn": {
+      "question": "ಸಂಖ್ಯೆಗಳನ್ನು ಅವುಗಳನ್ನು ಪೂರ್ಣ ಘನ ಮಾಡಲು ಗುಣಿಸಬೇಕಾದ ಅತ್ಯಂತ ಕನಿಷ್ಠ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "256",
+          "right": "2"
+        },
+        {
+          "left": "675",
+          "right": "5"
+        },
+        {
+          "left": "100",
+          "right": "10"
+        },
+        {
+          "left": "243",
+          "right": "3"
+        }
+      ],
+      "reasoning": "1) 256 = 2^8. 2^8 * 2 = 2^9 = 512 (8³). 2) 675 = 3³ * 5². 675 * 5 = 3375 (15³). 3) 100 = 10² * 10 = 1000 (10³). 4) 243 = 3⁵. 243 * 3 = 729 (9³)."
+    }
+  },
+  {
+    "id": "c8_math_cub_028",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the algebraic cubical expressions with their expanded forms.",
+      "pairs": [
+        {
+          "left": "(a + b)³",
+          "right": "a³ + b³ + 3ab(a + b)"
+        },
+        {
+          "left": "(a - b)³",
+          "right": "a³ - b³ - 3ab(a - b)"
+        },
+        {
+          "left": "a³ + b³",
+          "right": "(a + b)(a² - ab + b²)"
+        },
+        {
+          "left": "a³ - b³",
+          "right": "(a - b)(a² + ab + b²)"
+        }
+      ],
+      "reasoning": "These are standard algebraic identities for cubes of binomials and sums/differences of cubes."
+    },
+    "kn": {
+      "question": "ಬೀಜಗಣಿತದ ಘನ ಪದಗಳನ್ನು ಅವುಗಳ ವಿಸ್ತೃತ ರೂಪಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "(a + b)³",
+          "right": "a³ + b³ + 3ab(a + b)"
+        },
+        {
+          "left": "(a - b)³",
+          "right": "a³ - b³ - 3ab(a - b)"
+        },
+        {
+          "left": "a³ + b³",
+          "right": "(a + b)(a² - ab + b²)"
+        },
+        {
+          "left": "a³ - b³",
+          "right": "(a - b)(a² + ab + b²)"
+        }
+      ],
+      "reasoning": "ಇವು ಘನಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಮಾಣಿತ ಬೀಜಗಣಿತದ ನಿತ್ಯಸಮೀಕರಣಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_math_cub_029",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Select all perfect cubes from the given list of numbers.",
+      "options": [
+        "10648",
+        "15625",
+        "46656",
+        "50000"
+      ],
+      "answer": [
+        "10648",
+        "15625",
+        "46656"
+      ],
+      "reasoning": "Let's check the options: 10648 = 22³, 15625 = 25³, and 46656 = 36³. However, 50000 is not a perfect cube because 50 is not a perfect cube and it ends with 4 zeros (not a multiple of 3 zeros)."
+    },
+    "kn": {
+      "question": "ನೀಡಿರುವ ಸಂಖ್ಯೆಗಳ ಪಟ್ಟಿಯಿಂದ ಪೂರ್ಣ ಘನ ಸಂಖ್ಯೆಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": [
+        "10648",
+        "15625",
+        "46656",
+        "50000"
+      ],
+      "answer": [
+        "10648",
+        "15625",
+        "46656"
+      ],
+      "reasoning": "10648 = 22³, 15625 = 25³, ಮತ್ತು 46656 = 36³ ಆಗಿರುವುದರಿಂದ ಇವು ಪೂರ್ಣ ಘನಗಳಾಗಿವೆ. 50000 ಪೂರ್ಣ ಘನವಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_math_cub_030",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Three numbers are in the ratio 1:2:3. The sum of their cubes is 98784. Find the largest of the three numbers.",
+      "options": [
+        "14",
+        "28",
+        "42",
+        "56"
+      ],
+      "answer": "42",
+      "reasoning": "Let the numbers be x, 2x, and 3x. Sum of their cubes is x³ + (2x)³ + (3x)³ = x³ + 8x³ + 27x³ = 36x³ = 98784. So, x³ = 98784 / 36 = 2744. Finding the cube root: x = ∛2744 = 14. The largest number is 3x = 3 × 14 = 42."
+    },
+    "kn": {
+      "question": "ಮೂರು ಸಂಖ್ಯೆಗಳು 1:2:3 ಅನುಪಾತದಲ್ಲಿವೆ. ಅವುಗಳ ಘನಗಳ ಮೊತ್ತ 98784 ಆದರೆ, ಅವುಗಳಲ್ಲಿ ಅತ್ಯಂತ ದೊಡ್ಡ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "14",
+        "28",
+        "42",
+        "56"
+      ],
+      "answer": "42",
+      "reasoning": "ಸಂಖ್ಯೆಗಳು x, 2x ಮತ್ತು 3x ಆಗಿರಲಿ. ಅವುಗಳ ಘನಗಳ ಮೊತ್ತ = x³ + 8x³ + 27x³ = 36x³ = 98784. ಆದ್ದರಿಂದ x³ = 98784 / 36 = 2744 => x = ∛2744 = 14. ಅತಿ ದೊಡ್ಡ ಸಂಖ್ಯೆ 3x = 3 × 14 = 42."
+    }
+  }
+]

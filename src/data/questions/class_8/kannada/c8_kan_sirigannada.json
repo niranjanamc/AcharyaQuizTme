@@ -1,0 +1,789 @@
+[
+  {
+    "id": "c8_kan_sirigannada_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "How many letters (aksharas) are there in the standard Kannada Varnamale (alphabet)?",
+      "options": [
+        "49",
+        "51",
+        "34",
+        "15"
+      ],
+      "answer": "49",
+      "reasoning": "The standardized modern Kannada Varnamale consists of 49 alphabets divided into Swaras, Vyanjanas, and Yogavahas."
+    },
+    "kn": {
+      "question": "ಪ್ರಸ್ತುತ ಬಳಕೆಯಲ್ಲಿರುವ ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಒಟ್ಟು ಎಷ್ಟು ಅಕ್ಷರಗಳಿವೆ?",
+      "options": [
+        "೪೯",
+        "೫೧",
+        "೩೪",
+        "೧೫"
+      ],
+      "answer": "೪೯",
+      "reasoning": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ೧೫ ಸ್ವರಗಳು (ಋ ಸೇರಿದಂತೆ), ೩೪ ವ್ಯಂಜನಗಳು ಮತ್ತು ೨ ಯೋಗವಾಹಗಳು ಸೇರಿ ಒಟ್ಟು ೪೯ ಅಕ್ಷರಗಳಿವೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who was the second Kannada poet to receive the prestigious Jnanapith Award for his collection of poems 'Naku Thanti'?",
+      "options": [
+        "D.R. Bendre",
+        "Kuvempu",
+        "Masti Venkatesha Iyengar",
+        "Shivaram Karanth"
+      ],
+      "answer": "D.R. Bendre",
+      "reasoning": "D.R. Bendre (Ambikatanayadatta) received the Jnanapith Award in 1973 for his collection 'Naku Thanti'."
+    },
+    "kn": {
+      "question": "'ನಾಕು ತಂತಿ' ಕವನ ಸಂಕಲನಕ್ಕಾಗಿ ಕನ್ನಡಕ್ಕೆ ಎರಡನೇ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿಯನ್ನು ತಂದುಕೊಟ್ಟ ಕವಿ ಯಾರು?",
+      "options": [
+        "ದ.ರಾ. ಬೇಂದ್ರೆ",
+        "ಕುವೆಂಪು",
+        "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್",
+        "ಶಿವರಾಮ ಕಾರಂತ"
+      ],
+      "answer": "ದ.ರಾ. ಬೇಂದ್ರೆ",
+      "reasoning": "ವರಕವಿ ದ.ರಾ.ಬೇಂದ್ರೆ (ಅಂಬಿಕಾತನಯದತ್ತ) ಅವರಿಗೆ ೧೯೭೩ ರಲ್ಲಿ ಅವರ 'ನಾಕು ತಂತಿ' ಕವನ ಸಂಕಲನಕ್ಕಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ನೀಡಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In which year did the Government of India officially declare Kannada as a Classical Language (Shastreeya Bhashe)?",
+      "options": [
+        "2008",
+        "2004",
+        "2010",
+        "2012"
+      ],
+      "answer": "2008",
+      "reasoning": "Kannada was granted Classical Language status in November 2008 due to its ancient literary heritage spanning more than 2,000 years."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡದ ಪ್ರಾಚೀನತೆ ಮತ್ತು ಕೊಡುಗೆಯನ್ನು ಪರಿಗಣಿಸಿ ಭಾರತ ಸರ್ಕಾರವು ಕನ್ನಡಕ್ಕೆ 'ಶಾಸ್ತ್ರೀಯ ಭಾಷೆ' ಮಾನ್ಯತೆಯನ್ನು ನೀಡಿದ ವರ್ಷ ಯಾವುದು?",
+      "options": [
+        "೨೦೦೮",
+        "೨೦೦೪",
+        "೨೦೧೦",
+        "೨೦೧೨"
+      ],
+      "answer": "೨೦೦೮",
+      "reasoning": "ಕನ್ನಡ ಭಾಷೆಯ ಪ್ರಾಚೀನ ಸಾಹಿತ್ಯಿಕ ಪರಂಪರೆಯನ್ನು ಗೌರವಿಸಿ ೨೦೦೮ ರ ನವೆಂಬರ್‌ನಲ್ಲಿ ಶಾಸ್ತ್ರೀಯ ಭಾಷೆಯ ಸ್ಥಾನಮಾನ ಸಿಕ್ಕಿತು."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who is the author of 'Shabdamanidarpana', which is the most widely referred grammar textbook of Old Kannada?",
+      "options": [
+        "Keshiraja",
+        "Pampa",
+        "Nripatunga",
+        "Ranna"
+      ],
+      "answer": "Keshiraja",
+      "reasoning": "Keshiraja wrote 'Shabdamanidarpana' in the 13th century, detailing the rules of old Kannada grammar in sutras."
+    },
+    "kn": {
+      "question": "ಹಳಗನ್ನಡ ವ್ಯಾಕರಣ ನಿಯಮಗಳನ್ನು ಸೂತ್ರ ಹಾಗೂ ಉದಾಹರಣೆಗಳೊಂದಿಗೆ ವಿವರಿಸುವ 'ಶಬ್ದಮಣಿದರ್ಪಣ' ಕೃತಿಯ ಕರ್ತೃ ಯಾರು?",
+      "options": [
+        "ಕೇಶಿರಾಜ",
+        "ಪಂಪ",
+        "ನೃಪತುಂಗ",
+        "ರನ್ನ"
+      ],
+      "answer": "ಕೇಶಿರಾಜ",
+      "reasoning": "೧೩ನೇ ಶತಮಾನದ ವೈಯಾಕರಣಿ ಕೇಶಿರಾಜನು ಹಳಗನ್ನಡದ ವ್ಯಾಕರಣ ಗ್ರಂಥವಾದ 'ಶಬ್ದಮಣಿದರ್ಪಣ'ವನ್ನು ಕಂದ ಪದ್ಯಗಳ ರೂಪದಲ್ಲಿ ಬರೆದನು."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the short vowel (pronounced in one matra time) called in Kannada grammar?",
+      "options": [
+        "Hrasva Swara",
+        "Dirgha Swara",
+        "Plutha Swara",
+        "Yogavaha"
+      ],
+      "answer": "Hrasva Swara",
+      "reasoning": "A vowel that is pronounced in one matra (instant of time) is called Hrasva Swara, such as 'a', 'i', 'u', 'e', 'o'."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಒಂದು ಮಾತ್ರೆಗಳ ಕಾಲದಲ್ಲಿ ಉಚ್ಚರಿಸಲಾಗುವ ಲಘು ಸ್ವರಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ಹ್ರಸ್ವ ಸ್ವರ",
+        "ದೀರ್ಘ ಸ್ವರ",
+        "ಪ್ಲುತ ಸ್ವರ",
+        "ಯೋಗವಾಹ"
+      ],
+      "answer": "ಹ್ರಸ್ವ ಸ್ವರ",
+      "reasoning": "ಕೇವಲ ಒಂದು ಮಾತ್ರಾ ಕಾಲದಲ್ಲಿ ಸುಲಭವಾಗಿ ಉಚ್ಚರಿಸಬಹುದಾದ ಅ, ಇ, ಉ, ಎ, ಒ ಅಕ್ಷರಗಳನ್ನು ಹ್ರಸ್ವ ಸ್ವರಗಳು ಎನ್ನುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "How many Jnanapith awards have been won by Kannada writers so far?",
+      "options": [
+        "8",
+        "7",
+        "6",
+        "9"
+      ],
+      "answer": "8",
+      "reasoning": "Kannada literature has received 8 Jnanapith Awards, reflecting its immense contribution to Indian literature."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ರಂಗದಲ್ಲಿ ನೀಡಿದ ಸಾಹಿತ್ಯ ಸೇವೆಗಾಗಿ ಇದುವರೆಗೆ ಒಟ್ಟು ಎಷ್ಟು ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿಗಳು ದೊರೆತಿವೆ?",
+      "options": [
+        "೮",
+        "೭",
+        "೬",
+        "೯"
+      ],
+      "answer": "೮",
+      "reasoning": "ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಇದುವರೆಗೆ ೮ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿಗಳು ಲಭಿಸಿದ್ದು, ಇದು ಭಾರತೀಯ ಭಾಷೆಗಳಲ್ಲಿಯೇ ಅತಿ ಹೆಚ್ಚು ಪ್ರಶಸ್ತಿ ಗಳಿಸಿದ ಹಿರಿಮೆಗೆ ಪಾತ್ರವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_007",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following are categorized as 'Yogavahagalu' (letters that are pronounced along with other sounds) in Kannada alphabet?",
+      "options": [
+        "Anusvara (ಂ)",
+        "Visarga (ಃ)",
+        "Swaras like 'A'",
+        "Vyanjanas like 'Ka'"
+      ],
+      "answer": [
+        "Anusvara (ಂ)",
+        "Visarga (ಃ)"
+      ],
+      "reasoning": "Anusvara (ಂ) and Visarga (ಃ) are the two Yogavahas in Kannada. They depend on vowels to be pronounced."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವತಂತ್ರವಾಗಿರದೆ ಯೋಗವಹಿಸಿಕೊಂಡು ಉಚ್ಚರಿಸಲ್ಪಡುವ 'ಯೋಗವಾಹ' ಅಕ್ಷರಗಳು ಯಾವುವು?",
+      "options": [
+        "ಅನುಸ್ವಾರ (ಂ)",
+        "ವಿಸರ್ಗ (ಃ)",
+        "ಸ್ವರಗಳಾದ 'ಅ'",
+        "ವ್ಯಂಜನಗಳಾದ 'ಕ'"
+      ],
+      "answer": [
+        "ಅನುಸ್ವಾರ (ಂ)",
+        "ವಿಸರ್ಗ (ಃ)"
+      ],
+      "reasoning": "ಅನುಸ್ವಾರ (ಂ) ಮತ್ತು ವಿಸರ್ಗ (ಃ) ಇವೆರಡನ್ನು ಕನ್ನಡ ವ್ಯಾಕರಣದಲ್ಲಿ ಯೋಗವಾಹಗಳೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_008",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the following Jnanapith Award winners with the years they received the award:",
+      "pairs": [
+        {
+          "left": "Kuvempu",
+          "right": "1967"
+        },
+        {
+          "left": "D.R. Bendre",
+          "right": "1973"
+        },
+        {
+          "left": "K. Shivaram Karanth",
+          "right": "1977"
+        },
+        {
+          "left": "Masti Venkatesha Iyengar",
+          "right": "1983"
+        }
+      ],
+      "reasoning": "These are the first four Jnanapith awardees in Kannada along with their respective award years."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡದ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವಿಜೇತರನ್ನು ಪ್ರಶಸ್ತಿ ಲಭಿಸಿದ ವರ್ಷಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ಕುವೆಂಪು",
+          "right": "೧೯೬೭"
+        },
+        {
+          "left": "ದ.ರಾ. ಬೇಂದ್ರೆ",
+          "right": "೧೯೭೩"
+        },
+        {
+          "left": "ಕೋಟ ಶಿವರಾಮ ಕಾರಂತ",
+          "right": "೧೯೭೭"
+        },
+        {
+          "left": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್",
+          "right": "೧೯೮೩"
+        }
+      ],
+      "reasoning": "ಕುವೆಂಪು ೧೯೬೭ ರಲ್ಲಿ, ಬೇಂದ್ರೆ ೧೯೭೩ ರಲ್ಲಿ, ಕಾರಂತರು ೧೯೭೭ ರಲ್ಲಿ ಮತ್ತು ಮಾಸ್ತಿ ಅವರು ೧೯೮೩ ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪಡೆದರು."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In Kannada grammar, what are consonants (which cannot be pronounced independently without vowels) called?",
+      "options": [
+        "Vyanjanagalu",
+        "Swaragalu",
+        "Yogavahagalu",
+        "Avyayagalu"
+      ],
+      "answer": "Vyanjanagalu",
+      "reasoning": "Vyanjanas are consonants that are dependent on Swaras (vowels) for their complete pronunciation."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡ ವ್ಯಾಕರಣದಲ್ಲಿ ಸ್ವರಗಳ ಸಹಾಯವಿಲ್ಲದೆ ಸ್ವತಂತ್ರವಾಗಿ ಉಚ್ಚರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲದ ಅಕ್ಷರಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ವ್ಯಂಜನಗಳು",
+        "ಸ್ವರಗಳು",
+        "ಯೋಗವಾಹಗಳು",
+        "ಅವ್ಯಯಗಳು"
+      ],
+      "answer": "ವ್ಯಂಜನಗಳು",
+      "reasoning": "ಕಾಲಿನ ಗುರುತಿನಿಂದ ಕೂಡಿರುವ ಕ್, ಖ್ ಮೊದಲಾದ ವ್ಯಂಜನಗಳು ಸ್ವರ ಸೇರಿದಾಗ ಮಾತ್ರ ಪೂರ್ಣ ಅಕ್ಷರವಾಗುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What type of sandhi occurs when the consonant k, t, p is replaced by g, d, b as in 'Hosa' + 'Kannada' = 'Hosagannada'?",
+      "options": [
+        "Adesha Sandhi",
+        "Lopa Sandhi",
+        "Agama Sandhi",
+        "Guna Sandhi"
+      ],
+      "answer": "Adesha Sandhi",
+      "reasoning": "Adesha Sandhi is a Kannada sandhi where the starting consonant of the second word (k, t, p) is replaced by g, d, b."
+    },
+    "kn": {
+      "question": "'ಹೊಸ' + 'ಕನ್ನಡ' = 'ಹೊಸಗನ್ನಡ' ಎಂಬಲ್ಲಿ ಕ ಕಾರಕ್ಕೆ ಗ ಕಾರ ಬಂದಿರುವುದನ್ನು ಯಾವ ಸಂಧಿ ಎನ್ನಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಆದೇಶ ಸಂಧಿ",
+        "ಲೋಪ ಸಂಧಿ",
+        "ಆಗಮ ಸಂಧಿ",
+        "ಗುಣ ಸಂಧಿ"
+      ],
+      "answer": "ಆದೇಶ ಸಂಧಿ",
+      "reasoning": "ಪೂರ್ವಪದದ ಮುಂದೆ ಉತ್ತರಪದ ಸೇರಿದಾಗ ಉತ್ತರಪದದ ಆದಿಯಲ್ಲಿರುವ ಕ ವ್ಯಂಜನಕ್ಕೆ ಗ ವ್ಯಂಜನವು ಆದೇಶವಾಗಿ ಬಂದಿರುವುದರಿಂದ ಇದು ಆದೇಶ ಸಂಧಿಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which early kingdom of Karnataka is credited with making Kannada the official language of administration for the first time?",
+      "options": [
+        "Kadamba Dynasty",
+        "Rashtrakuta Dynasty",
+        "Hoysala Dynasty",
+        "Vijayanagara Empire"
+      ],
+      "answer": "Kadamba Dynasty",
+      "reasoning": "The Kadambas of Banavasi (founded by Mayurasharma) were the first to use Kannada officially, as evidenced by the Halmidi inscription."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡವನ್ನು ಮೊದಲ ಬಾರಿಗೆ ರಾಜ್ಯದ ಅಧಿಕೃತ ಆಡಳಿತ ಭಾಷೆಯನ್ನಾಗಿ ಮಾಡಿದ ಕರ್ನಾಟಕದ ಆದಿ ರಾಜವಂಶ ಯಾವುದು?",
+      "options": [
+        "ಕದಂಬ ರಾಜವಂಶ",
+        "ರಾಷ್ಟ್ರಕೂಟ ರಾಜವಂಶ",
+        "ಹೊಯ್ಸಳ ರಾಜವಂಶ",
+        "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ"
+      ],
+      "answer": "ಕದಂಬ ರಾಜವಂಶ",
+      "reasoning": "ಬನವಾಸಿಯನ್ನು ರಾಜಧಾನಿಯನ್ನಾಗಿಸಿಕೊಂಡು ಆಳಿದ ಕದಂಬರು ಸಂಸ್ಕೃತದ ಬದಲು ಕನ್ನಡವನ್ನು ಆಡಳಿತಕ್ಕೆ ಬಳಸಲು ಆರಂಭಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What is the first available prose work (Gadya) in Kannada literature, written by Shivakotacharya?",
+      "options": [
+        "Vaddaradhane",
+        "Kavirajamarga",
+        "Pampa Bharata",
+        "Shabdamanidarpana"
+      ],
+      "answer": "Vaddaradhane",
+      "reasoning": "Vaddaradhane is a 10th-century collection of stories about Jain monks and is the oldest surviving prose book in Kannada."
+    },
+    "kn": {
+      "question": "ಶಿವಕೋಟ್ಯಾಚಾರ್ಯರಿಂದ ರಚಿತವಾದ, ಕನ್ನಡದ ಅತ್ಯಂತ ಹಳೆಯ ಗದ್ಯ ಕೃತಿ (ಕಥಾಸಂಕಲನ) ಯಾವುದು?",
+      "options": [
+        "ವಡ್ಡಾರಾಧನೆ",
+        "ಕವಿರಾಜಮಾರ್ಗ",
+        "ಪಂಪ ಭಾರತ",
+        "ಶಬ್ದಮಣಿದರ್ಪಣ"
+      ],
+      "answer": "ವಡ್ಡಾರಾಧನೆ",
+      "reasoning": "ಕ್ರಿ.ಶ ೧೦ನೇ ಶತಮಾನದಲ್ಲಿ ರಚನೆಯಾದ ಜೈನ ಧರ್ಮದ ಮುನಿಗಳ ಕಥೆಗಳನ್ನು ಒಳಗೊಂಡಿರುವ 'ವಡ್ಡಾರಾಧನೆ' ಕನ್ನಡದ ಲಭ್ಯವಿರುವ ಪ್ರಥಮ ಗದ್ಯ ಕೃತಿಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "How many 'Vargiya Vyanjanagalu' (consonants classified based on pronunciation points) are there in the Kannada alphabet?",
+      "options": [
+        "25",
+        "9",
+        "34",
+        "15"
+      ],
+      "answer": "25",
+      "reasoning": "Vargiya Vyanjanas are divided into 5 groups of 5 consonants each (Ka-varga to Pa-varga), making it 25 in total."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಕ-ವರ್ಗದಿಂದ ಪ-ವರ್ಗದವರೆಗೆ ಇರುವ 'ವರ್ಗೀಯ ವ್ಯಂಜನ'ಗಳ ಒಟ್ಟು ಸಂಖ್ಯೆ ಎಷ್ಟು?",
+      "options": [
+        "೨೫",
+        "೯",
+        "೩೪",
+        "೧೫"
+      ],
+      "answer": "೨೫",
+      "reasoning": "ಕಂಠ್ಯ, ತಾಲವ್ಯ, ಮೂರ್ಧನ್ಯ, ದಂತ್ಯ ಮತ್ತು ಓಷ್ಠ್ಯ ಎಂಬ ೫ ವರ್ಗಗಳಲ್ಲಿ ತಲಾ ಐದರಂತೆ ಒಟ್ಟು ೨೫ ವರ್ಗೀಯ ವ್ಯಂಜನ ಅಕ್ಷರಗಳಿವೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which dialect of Kannada is spoken primarily in the northern districts like Dharwad, Belagavi, and Vijayapura?",
+      "options": [
+        "North Karnataka Kannada",
+        "Mysuru Kannada",
+        "Mangaluru Kannada",
+        "Kundapura Kannada"
+      ],
+      "answer": "North Karnataka Kannada",
+      "reasoning": "North Karnataka Kannada is a major regional dialect with distinct vocabulary and verb inflections used in Dharwad and surrounding areas."
+    },
+    "kn": {
+      "question": "ಧಾರವಾಡ, ಬೆಳಗಾವಿ ಮತ್ತು ವಿಜಯಪುರ ಪರಿಸರದಲ್ಲಿ ಮಾತನಾಡಲಾಗುವ ಕನ್ನಡದ ಪ್ರಮುಖ ಉಪಭಾಷೆ (ಪ್ರಾದೇಶಿಕ ಶೈಲಿ) ಯಾವುದು?",
+      "options": [
+        "ಉತ್ತರ ಕರ್ನಾಟಕ ಕನ್ನಡ",
+        "ಮೈಸೂರು ಕನ್ನಡ",
+        "ಮಂಗಳೂರು ಕನ್ನಡ",
+        "ಕುಂದಾಪುರ ಕನ್ನಡ"
+      ],
+      "answer": "ಉತ್ತರ ಕರ್ನಾಟಕ ಕನ್ನಡ",
+      "reasoning": "ವಿಶಿಷ್ಟ ಪದಬಳಕೆ ಮತ್ತು ಧ್ವನಿ ವ್ಯತ್ಯಾಸಗಳನ್ನು ಹೊಂದಿರುವ ಉತ್ತರ ಕರ್ನಾಟಕದ ಸೊಗಡು ಅಲ್ಲಿನ ಜನಬಳಕೆಯ ಭಾಷೆಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_015",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following are classified as native Kannada Sandhis (Sannihitha sandhis of Kannada origin)?",
+      "options": [
+        "Lopa Sandhi",
+        "Agama Sandhi",
+        "Savarnadirgha Sandhi",
+        "Guna Sandhi"
+      ],
+      "answer": [
+        "Lopa Sandhi",
+        "Agama Sandhi"
+      ],
+      "reasoning": "Lopa and Agama are native Kannada sandhis. Savarnadirgha and Guna are Sanskrit sandhis used in Kannada."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡದ ಸ್ವಂತ ಸಂಧಿಗಳಿಗೆ (ಕನ್ನಡ ಸಂಸ್ಕೃತವಲ್ಲದ ಮೂಲದ ಸಂಧಿಗಳು) ಉದಾಹರಣೆಯಾದವುಗಳನ್ನು ಆರಿಸಿ.",
+      "options": [
+        "ಲೋಪ ಸಂಧಿ",
+        "ಆಗಮ ಸಂಧಿ",
+        "ಸವರ್ಣದೀರ್ಘ ಸಂಧಿ",
+        "ಗುಣ ಸಂಧಿ"
+      ],
+      "answer": [
+        "ಲೋಪ ಸಂಧಿ",
+        "ಆಗಮ ಸಂಧಿ"
+      ],
+      "reasoning": "ಲೋಪ, ಆಗಮ ಮತ್ತು ಆದೇಶ ಸಂಧಿಗಳು ಕನ್ನಡದ ಸ್ವಂತ ಸಂಧಿಗಳಾಗಿದ್ದರೆ, ಸವರ್ಣದೀರ್ಘ ಮತ್ತು ಗುಣ ಸಂಧಿಗಳು ಸಂಸ್ಕೃತ ಸಂಧಿಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_016",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following letters are classified as 'Mahaaprana' (aspirated consonants) in the Kannada Varnamale?",
+      "options": [
+        "ಖ (Kha)",
+        "ಘ (Gha)",
+        "ಕ (Ka)",
+        "ಗ (Ga)"
+      ],
+      "answer": [
+        "ಖ (Kha)",
+        "ಘ (Gha)"
+      ],
+      "reasoning": "Mahaapranas are pronounced with a strong breath (aspirated), representing the 2nd and 4th columns of Vargiya Vyanjanas like 'Kha' and 'Gha'."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯ ವರ್ಗೀಯ ವ್ಯಂಜನಗಳಲ್ಲಿ 'ಮಹಾಪ್ರಾಣ' (ಹೆಚ್ಚು ಉಸಿರು ಕೊಟ್ಟು ಉಚ್ಚರಿಸುವ) ಅಕ್ಷರಗಳು ಯಾವುವು?",
+      "options": [
+        "ಖ",
+        "ಘ",
+        "ಕ",
+        "ಗ"
+      ],
+      "answer": [
+        "ಖ",
+        "ಘ"
+      ],
+      "reasoning": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳ ಎರಡು ಮತ್ತು ನಾಲ್ಕನೇ ಸಾಲಿನ ಅಕ್ಷರಗಳಾದ ಖ, ಘ ಮೊದಲಾದವುಗಳು ಮಹಾಪ್ರಾಣಾಕ್ಷರಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_017",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the following letters with their phonetic classification based on pronunciation place:",
+      "pairs": [
+        {
+          "left": "ಅ (a)",
+          "right": "Kanthya (Guttural)"
+        },
+        {
+          "left": "ತ (ta)",
+          "right": "Dantya (Dental)"
+        },
+        {
+          "left": "ಪ (pa)",
+          "right": "Oshthya (Labial)"
+        },
+        {
+          "left": "ಚ (cha)",
+          "right": "Talavya (Palatal)"
+        }
+      ],
+      "reasoning": "These correspond to the systematic classification of phonetics in Kannada grammar based on where the sound is produced."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡ ಅಕ್ಷರಗಳನ್ನು ಅವು ಉತ್ಪತ್ತಿಯಾಗುವ ಸ್ಥಾನಗಳ ಆಧಾರದ ಮೇಲೆ ವರ್ಗೀಕರಿಸಿ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಅ",
+          "right": "ಕಂಠ್ಯ (ಗಂಟಲಿನಿಂದ ಬರುವ ಧ್ವನಿ)"
+        },
+        {
+          "left": "ತ",
+          "right": "ದಂತ್ಯ (ಹಲ್ಲಿನ ಸಹಾಯದಿಂದ ಬರುವ ಧ್ವನಿ)"
+        },
+        {
+          "left": "ಪ",
+          "right": "ಓಷ್ಠ್ಯ (ತುಟಿಗಳ ಸಹಾಯದಿಂದ ಬರುವ ಧ್ವನಿ)"
+        },
+        {
+          "left": "ಚ",
+          "right": "ತಾಲವ್ಯ (ಅಂಗುಳಿನ ಸಹಾಯದಿಂದ ಬರುವ ಧ್ವನಿ)"
+        }
+      ],
+      "reasoning": "ಕಂಠ್ಯ (ಗಂಟಲು), ದಂತ್ಯ (ಹಲ್ಲು), ಓಷ್ಠ್ಯ (ತುಟಿ) ಮತ್ತು ತಾಲವ್ಯ (ಅಂಗುಳು) ಅಕ್ಷರಗಳು ಉತ್ಪತ್ತಿಯಾಗುವ ಶಾರೀರಿಕ ಸ್ಥಾನಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_018",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the grammatical term for Sanskrit words that undergo phonological modification when integrated into Kannada?",
+      "options": [
+        "Tadbhava",
+        "Tatsama",
+        "Deshya",
+        "Anyadeshya"
+      ],
+      "answer": "Tadbhava",
+      "reasoning": "Sanskrit words that are modified to suit Kannada phonetics are called Tadbhavas, such as 'Varsha' becoming 'Varusha'."
+    },
+    "kn": {
+      "question": "ಸಂಸ್ಕೃತ ಪದಗಳು ವಿಕಾರಗೊಂಡು (ಬದಲಾವಣೆ ಹೊಂದಿ) ಕನ್ನಡಕ್ಕೆ ಸೇರಿದಾಗ ಅವುಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ತದ್ಭವ",
+        "ತತ್ಸಮ",
+        "ದೇಶ್ಯ",
+        "ಅನ್ಯದೇಶ್ಯ"
+      ],
+      "answer": "ತದ್ಭವ",
+      "reasoning": "ಸಂಸ್ಕೃತ ಭಾಷೆಯ ಪದಗಳು ಯಥಾವತ್ತಾಗಿ ಬಂದರೆ ತತ್ಸಮ, ಬದಲಾವಣೆ ಹೊಂದಿ ಬಂದರೆ ತದ್ಭವ ಎನ್ನುತ್ತಾರೆ (ಉದಾ: ವರ್ಷ -> ವರುಷ)."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_019",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What type of Samasa is represented by 'Mukkan' (meaning three-eyed one, referring to Shiva)?",
+      "options": [
+        "Bahuvrihi Samasa",
+        "Karmadharaya Samasa",
+        "Dwigu Samasa",
+        "Tatpurusha Samasa"
+      ],
+      "answer": "Bahuvrihi Samasa",
+      "reasoning": "'Mukkan' represents a third person or entity (Lord Shiva) rather than either the number three or eyes directly. This is a Bahuvrihi Samasa."
+    },
+    "kn": {
+      "question": "'ಮುಕ್ಕಣ್ಣ' (ಮೂರು ಕಣ್ಣುಳ್ಳವನು ಯಾರು ಅವನು - ಶಿವ) ಎಂಬ ಪದವು ವ್ಯಾಕರಣದ ಯಾವ ಸಮಾಸಕ್ಕೆ ಸೂಕ್ತ ಉದಾಹರಣೆಯಾಗಿದೆ?",
+      "options": [
+        "ಬಹುವ್ರೀಹಿ ಸಮಾಸ",
+        "ಕರ್ಮಧಾರಯ ಸಮಾಸ",
+        "ದ್ವಿಗು ಸಮಾಸ",
+        "ತತ್ಪುರುಷ ಸಮಾಸ"
+      ],
+      "answer": "ಬಹುವ್ರೀಹಿ ಸಮಾಸ",
+      "reasoning": "ಪೂರ್ವ ಮತ್ತು ಉತ್ತರಪದಗಳ ಅರ್ಥ ಪ್ರಧಾನವಾಗಿರದೆ, ಬೇರೊಂದು ಮೂರನೇ ಪದದ ಅರ್ಥ ಪ್ರಧಾನವಾಗಿ ಬರುವ ಸಮಾಸವೇ ಬಹುವ್ರೀಹಿ ಸಮಾಸ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_020",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the term for the grammatical practice of repeating a word twice for emphasis, joy, or speed, such as 'Mane-mane' or 'Bere-bere'?",
+      "options": [
+        "Dvirukti",
+        "Jodu-nudi",
+        "Anukarana Shabda",
+        "Avyaya"
+      ],
+      "answer": "Dvirukti",
+      "reasoning": "Repeating a single word twice in quick succession to highlight urgency, enthusiasm, or detail is called Dvirukti."
+    },
+    "kn": {
+      "question": "ಒಂದೇ ಪದವನ್ನು ಅರ್ಥಕ್ಕೆ ವಿಶೇಷ ಒತ್ತು ನೀಡಲು ಸತತವಾಗಿ ಎರಡು ಬಾರಿ ಉಚ್ಚರಿಸುವ ವ್ಯಾಕರಣ ಕ್ರಿಯೆಗೆ (ಉದಾ: ಮನೆಮನೆ, ಬೇರೆಬೇರೆ) ಏನನ್ನುತ್ತಾರೆ?",
+      "options": [
+        "ದ್ವಿರುಕ್ತಿ",
+        "ಜೋಡುನುಡಿ",
+        "ಅನುಕರಣ ಶಬ್ದ",
+        "ಅವ್ಯಯ"
+      ],
+      "answer": "ದ್ವಿರುಕ್ತಿ",
+      "reasoning": "ಸಂಭ್ರಮ, ಆತುರ ಅಥವಾ ವ್ಯಾಪ್ತಿಯನ್ನು ತೋರ್ಪಡಿಸಲು ಒಂದೇ ಪದವನ್ನು ಎರಡೆರಡು ಬಾರಿ ಬಳಸುವುದನ್ನು ದ್ವಿರುಕ್ತಿ ಎನ್ನುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_021",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "In Kannada prosody (Chhandas), what is the technical name for a three-line stanza, which is famous in folk literature?",
+      "options": [
+        "Tripadi",
+        "Sangatya",
+        "Shatpadi",
+        "Kanda Padya"
+      ],
+      "answer": "Tripadi",
+      "reasoning": "Tripadi is a three-line stanza structure used extensively in folk poetry and famous in Sarvajna's vachanas."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡ ಛಂದಸ್ಸಿನಲ್ಲಿ ಜಾನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಸರ್ವಜ್ಞನ ವಚನಗಳಲ್ಲಿ ಪ್ರಸಿದ್ಧವಾಗಿರುವ ಮೂರು ಸಾಲುಗಳ ಪದ್ಯ ಪ್ರಕಾರ ಯಾವುದು?",
+      "options": [
+        "ತ್ರಿಪದಿ",
+        "ಸಾಂಗತ್ಯ",
+        "ಷಟ್ಪದಿ",
+        "ಕಂದ ಪದ್ಯ"
+      ],
+      "answer": "ತ್ರಿಪದಿ",
+      "reasoning": "ಮೂರು ಸಾಲುಗಳಲ್ಲಿ ಮಾತ್ರ ರಚನೆಯಾಗುವ, ವಿಶೇಷ ಲಯವಿರುವ ಪದ್ಯ ಪ್ರಕಾರಕ್ಕೆ ತ್ರಿಪದಿ ಎನ್ನಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_022",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Which historic stone inscription written by Ravikirti in Sanskrit and ancient Kannada script praises Chalukyan Emperor Pulakeshin II?",
+      "options": [
+        "Aihole Inscription",
+        "Halmidi Inscription",
+        "Badami Inscription",
+        "Talagunda Inscription"
+      ],
+      "answer": "Aihole Inscription",
+      "reasoning": "The Aihole inscription of 634 AD, composed by poet Ravikirti, documents the victory of Pulakeshin II over Harsha."
+    },
+    "kn": {
+      "question": "ಬಾಗಲಕೋಟೆ ಜಿಲ್ಲೆಯ ಐಹೊಳೆಯಲ್ಲಿ ರವಿಕೀರ್ತಿಯಿಂದ ಕೆತ್ತಲ್ಪಟ್ಟ ಪ್ರಸಿದ್ಧ ಪ್ರಶಸ್ತಿ ಶಾಸನ ಯಾವುದು?",
+      "options": [
+        "ಐಹೊಳೆ ಶಾಸನ",
+        "ಹಲ್ಮಿಡಿ ಶಾಸನ",
+        "ಬಾದಾಮಿ ಶಾಸನ",
+        "ತಾಳಗುಂದ ಶಾಸನ"
+      ],
+      "answer": "ಐಹೊಳೆ ಶಾಸನ",
+      "reasoning": "ಕ್ರಿ.ಶ ೬೩೪ ರ ಐಹೊಳೆಯ ಮೇಗುತಿ ಗುಡಿಯ ಗೋಡೆಯ ಮೇಲಿರುವ ಶಾಸನವು ಇಮ್ಮಡಿ ಪುಲಕೇಶಿಯ ವಿಜಯಯಾತ್ರೆಯನ್ನು ಸಂಸ್ಕೃತ ಮತ್ತು ಹಳಗನ್ನಡದಲ್ಲಿ ದಾಖಲಿಸಿದೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_023",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following represent correct Tatsama-Tadbhava word pairs?",
+      "options": [
+        "ಯುಗ - ಜುಗ",
+        "ವರ್ಷ - ವರುಷ",
+        "ಹಕ್ಕಿ - ಪಕ್ಷಿ",
+        "ಕಾಡು - ವನ"
+      ],
+      "answer": [
+        "ಯುಗ - ಜುಗ",
+        "ವರ್ಷ - ವರುಷ"
+      ],
+      "reasoning": "'Yuga - Juga' and 'Varsha - Varusha' are direct Tatsama-Tadbhava pairs. 'Hakki-Pakshi' and 'Kadu-Vana' are synonyms."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಸರಿಯಾದ ತತ್ಸಮ-ತದ್ಭವ ಜೋಡಿಗಳಾಗಿವೆ?",
+      "options": [
+        "ಯುಗ - ಜುಗ",
+        "ವರ್ಷ - ವರುಷ",
+        "ಹಕ್ಕಿ - ಪಕ್ಷಿ",
+        "ಕಾಡು - ವನ"
+      ],
+      "answer": [
+        "ಯುಗ - ಜುಗ",
+        "ವರ್ಷ - ವರುಷ"
+      ],
+      "reasoning": "ಸಂಸ್ಕೃತದ 'ಯುಗ' ಮತ್ತು 'ವರ್ಷ' ಪದಗಳು ಬದಲಾವಣೆ ಹೊಂದಿ ಕ್ರಮವಾಗಿ 'ಜುಗ' ಮತ್ತು 'ವರುಷ' ಎಂದಾಗುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the following compound words (Samasas) with their correct grammatical classification:",
+      "pairs": [
+        {
+          "left": "ರಾಜಮನೆತನ",
+          "right": "Tatpurusha Samasa"
+        },
+        {
+          "left": "ಮುಕ್ಕಣ್ಣ",
+          "right": "Bahuvrihi Samasa"
+        },
+        {
+          "left": "ಹೆಮ್ಮರ",
+          "right": "Karmadharaya Samasa"
+        },
+        {
+          "left": "ಕೆರೆಕಟ್ಟೆಗಳು",
+          "right": "Dvandva Samasa"
+        }
+      ],
+      "reasoning": "Rajamanetana is Tatpurusha (genitive), Mukkan is Bahuvrihi, Hemmara (hiriya+mara) is Karmadharaya, and Kerekattegalu is Dvandva (both nouns equal)."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಜೋಡಣೆಯಾದ ಪದಗಳನ್ನು ಅವುಗಳ ಸಮಾಸದ ವರ್ಗಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ರಾಜಮನೆತನ",
+          "right": "ತತ್ಪುರುಷ ಸಮಾಸ (ಷಷ್ಠೀ ತತ್ಪುರುಷ)"
+        },
+        {
+          "left": "ಮುಕ್ಕಣ್ಣ",
+          "right": "ಬಹುವ್ರೀಹಿ ಸಮಾಸ"
+        },
+        {
+          "left": "ಹೆಮ್ಮರ",
+          "right": "ಕರ್ಮಧಾರಯ ಸಮಾಸ"
+        },
+        {
+          "left": "ಕೆರೆಕಟ್ಟೆಗಳು",
+          "right": "ದ್ವಂದ್ವ ಸಮಾಸ"
+        }
+      ],
+      "reasoning": "ರಾಜಮನೆತನ ರಾಜನ+ಮನೆತನ, ಮುಕ್ಕಣ್ಣ ಮೂರು ಕಣ್ಣುಳ್ಳವನು, ಹೆಮ್ಮರ ಹಿರಿದಾದ+ಮರ ಮತ್ತು ಕೆರೆಕಟ್ಟೆಗಳು ಕೆರೆಯೂ+ಕಟ್ಟೆಯೂ ಎಂದು ವಿಗ್ರಹವಾಕ್ಯವಾಗುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_kan_sirigannada_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the historical eras of Kannada literature with their respective poets/literary milestones:",
+      "pairs": [
+        {
+          "left": "Halegannada (Old Kannada)",
+          "right": "Adikavi Pampa (10th century)"
+        },
+        {
+          "left": "Nadugannada (Middle Kannada)",
+          "right": "Basavanna and Vachanakaras"
+        },
+        {
+          "left": "Hosagannada (Modern Kannada)",
+          "right": "Kuvempu and Navodaya movement"
+        },
+        {
+          "left": "Purva Halegannada (Pre-Old Kannada)",
+          "right": "Halmidi Inscription (5th century)"
+        }
+      ],
+      "reasoning": "These milestones represent the timeline of Kannada language evolution from antiquity to the modern era."
+    },
+    "kn": {
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಚರಿತ್ರೆಯ ಘಟ್ಟಗಳನ್ನು ಅವುಗಳಿಗೆ ಪೂರಕವಾದ ಪ್ರಮುಖ ಕವಿಗಳು ಅಥವಾ ಕೃತಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "pairs": [
+        {
+          "left": "ಹಳಗನ್ನಡ ಕಾಲ",
+          "right": "ಆದಿಕವಿ ಪಂಪ ಮತ್ತು ಚಂಪೂ ಯುಗ"
+        },
+        {
+          "left": "ನಡುಗನ್ನಡ ಕಾಲ",
+          "right": "ಬಸವಣ್ಣ ಹಾಗೂ ವಚನ ಸಾಹಿತ್ಯ"
+        },
+        {
+          "left": "ಹೊಸಗನ್ನಡ ಕಾಲ",
+          "right": "ಕುವೆಂಪು ಮತ್ತು ನವೋದಯ ಸಾಹಿತ್ಯ"
+        },
+        {
+          "left": "ಪೂರ್ವದ ಹಳಗನ್ನಡ ಕಾಲ",
+          "right": "ಹಲ್ಮಿಡಿ ಶಾಸನ ಮತ್ತು ಆರಂಭಿಕ ಲಿಪಿ"
+        }
+      ],
+      "reasoning": "ಇದು ಕನ್ನಡ ಭಾಷೆ ಐತಿಹಾಸಿಕವಾಗಿ ನಾಲ್ಕು ಪ್ರಮುಖ ಕಾಲಘಟ್ಟಗಳಾಗಿ ಬೆಳೆದುಬಂದ ಹಾದಿಯನ್ನು ಬಿಂಬಿಸುತ್ತದೆ."
+    }
+  }
+]

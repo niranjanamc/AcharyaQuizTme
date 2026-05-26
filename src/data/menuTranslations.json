@@ -164,8 +164,14 @@
   "forests": "ಅರಣ್ಯಗಳು: ನಮ್ಮ ಜೀವನಾಡಿ",
   "wastewater": "ತ್ಯಾಜ್ಯ ನೀರಿನ ಕಥೆ",
   "motion_time": "ಚಲನೆ ಮತ್ತು ಸಮಯ",
-  "electric_current": "ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಮತ್ತು ಅದರ ಪರಿಣಾಮಗಳು",
-  "light": "ಬೆಳಕು",
+  "electric_current": {
+    "en": "Chemical Effects of Electric Current",
+    "kn": "ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ರಾಸಾಯನಿಕ ಪರಿಣಾಮಗಳು"
+  },
+  "light": {
+    "en": "Light",
+    "kn": "ಬೆಳಕು"
+  },
   "class_7": "ತರಗತಿ 7 (NCERT)",
   "class_7/maths": "ಗಣಿತ",
   "integers": "ಪೂರ್ಣಾಂಕಗಳು",
@@ -173,11 +179,23 @@
   "simple_equations": "ಸರಳ ಸಮೀಕರಣಗಳು",
   "triangles": "ತ್ರಿಭುಜ ಮತ್ತು ಅದರ ಗುಣಲಕ್ಷಣಗಳು",
   "congruence": "ತ್ರಿಭುಜಗಳ ಸರ್ವಸಮತೆ",
-  "comparing_quantities": "ಪರಿಮಾಣಗಳ ಹೋಲಿಕೆ",
-  "rational_numbers": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು",
+  "comparing_quantities": {
+    "en": "Comparing Quantities",
+    "kn": "ಪರಿಮಾಣಗಳ ಹೋಲಿಕೆ"
+  },
+  "rational_numbers": {
+    "en": "Rational Numbers",
+    "kn": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು"
+  },
   "practical_geometry": "ಪ್ರಾಯೋಗಿಕ ರೇಖಾಗಣಿತ",
-  "algebraic_expressions": "ಬೀಜಗಣಿತದ ಅಭಿವ್ಯಕ್ತಿಗಳು",
-  "exponents_powers": "ಘಾತಾಂಕಗಳು ಮತ್ತು ಘಾತಗಳು",
+  "algebraic_expressions": {
+    "en": "Algebraic Expressions and Identities",
+    "kn": "ಬೀಜೋಕ್ತಿಗಳು ಮತ್ತು ನಿತ್ಯಸಮೀಕರಣಗಳು"
+  },
+  "exponents_powers": {
+    "en": "Exponents and Powers",
+    "kn": "ಘಾತಾಂಕಗಳು ಮತ್ತು ಘಾತಗಳು"
+  },
   "solid_shapes": "ಘನಾಕೃತಿಗಳ ದೃಶ್ಯೀಕರಣ",
   "class_7/english": "ಇಂಗ್ಲಿಷ್",
   "class_7/history": "ಇತಿಹಾಸ (ನಮ್ಮ ಭೂತಕಾಲ - II)",
@@ -316,5 +334,141 @@
   "c7_kan_sankalpa": {
     "en": "ಸಂಕಲ್ಪ ಗೀತೆ",
     "kn": "ಸಂಕಲ್ಪ ಗೀತೆ"
+  },
+  "linear_equations": {
+    "en": "Linear Equations in One Variable",
+    "kn": "ಒಂದು ಚರಾಕ್ಷರವುಳ್ಳ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳು"
+  },
+  "quadrilaterals": {
+    "en": "Understanding Quadrilaterals",
+    "kn": "ಚತುರ್ಭುಜಗಳ ತಿಳುವಳಿಕೆ"
+  },
+  "squares_roots": {
+    "en": "Squares and Square Roots",
+    "kn": "ವರ್ಗಗಳು ಮತ್ತು ವರ್ಗಮೂಲಗಳು"
+  },
+  "cubes_roots": {
+    "en": "Cubes and Cube Roots",
+    "kn": "ಘನಗಳು ಮತ್ತು ಘನಮೂಲಗಳು"
+  },
+  "mensuration": {
+    "en": "Mensuration",
+    "kn": "ಕ್ಷೇತ್ರಗಣಿತ"
+  },
+  "proportions": {
+    "en": "Direct and Inverse Proportions",
+    "kn": "ನೇರ ಮತ್ತು ವಿಲೋಮ ಅನುಪಾತಗಳು"
+  },
+  "factorisation": {
+    "en": "Factorisation",
+    "kn": "ಅಪವರ್ತನೀಕರಣ"
+  },
+  "graphs": {
+    "en": "Introduction to Graphs",
+    "kn": "ನಕ್ಷೆಗಳ ಪರಿಚಯ"
+  },
+  "crop_production": {
+    "en": "Crop Production and Management",
+    "kn": "ಬೆಳೆ ಉತ್ಪಾದನೆ ಮತ್ತು ನಿರ್ವಹಣೆ"
+  },
+  "microorganisms": {
+    "en": "Microorganisms: Friend and Foe",
+    "kn": "ಸೂಕ್ಷ್ಮಜೀವಿಗಳು: ಮಿತ್ರ ಮತ್ತು ಶತ್ರು"
+  },
+  "coal_petroleum": {
+    "en": "Coal and Petroleum",
+    "kn": "ಕಲ್ಲಿದ್ದಲು ಮತ್ತು ಪೆಟ್ರೋಲಿಯಂ"
+  },
+  "combustion_flame": {
+    "en": "Combustion and Flame",
+    "kn": "ದಹನ ಮತ್ತು ಜ್ವಾಲೆ"
+  },
+  "conservation_plants_animals": {
+    "en": "Conservation of Plants and Animals",
+    "kn": "ಸಸ್ಯಗಳು ಮತ್ತು ಪ್ರಾಣಿಗಳ ಸಂರಕ್ಷಣೆ"
+  },
+  "reproduction_animals": {
+    "en": "Reproduction in Animals",
+    "kn": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಸಂತಾನೋತ್ಪತ್ತಿ"
+  },
+  "adolescence": {
+    "en": "Reaching the Age of Adolescence",
+    "kn": "ಹದಿಹರೆಯಕ್ಕೆ ತಲುಪುವುದು"
+  },
+  "force_pressure": {
+    "en": "Force and Pressure",
+    "kn": "ಬಲ ಮತ್ತು ಒತ್ತಡ"
+  },
+  "friction": {
+    "en": "Friction",
+    "kn": "ಘರ್ಷಣೆ"
+  },
+  "sound": {
+    "en": "Sound",
+    "kn": "ಶಬ್ದ"
+  },
+  "natural_phenomena": {
+    "en": "Some Natural Phenomena",
+    "kn": "ಕೆಲವು ನೈಸರ್ಗಿಕ ವಿದ್ಯಮಾನಗಳು"
+  },
+  "c8_eng_christmas": {
+    "en": "The Best Christmas Present in the World",
+    "kn": "ವಿಶ್ವದ ಅತ್ಯುತ್ತಮ ಕ್ರಿಸ್ಮಸ್ ಕೊಡುಗೆ"
+  },
+  "c8_eng_tsunami": {
+    "en": "The Tsunami",
+    "kn": "ಸುನಾಮಿ"
+  },
+  "c8_eng_glimpses": {
+    "en": "Glimpses of the Past",
+    "kn": "ಭೂತಕಾಲದ ನೋಟಗಳು"
+  },
+  "c8_eng_bepin": {
+    "en": "Bepin Choudhury's Lapse of Memory",
+    "kn": "ಬೆಪಿನ್ ಚೌಧುರಿಯವರ ಸ್ಮರಣಶಕ್ತಿ ಲೋಪ"
+  },
+  "c8_eng_summit": {
+    "en": "The Summit Within",
+    "kn": "ಅಂತರಂಗದ ಶಿಖರ"
+  },
+  "c8_his_trade": {
+    "en": "From Trade to Territory",
+    "kn": "ವ್ಯಾಪಾರದಿಂದ ಸಾಮ್ರಾಜ್ಯದವರೆಗೆ"
+  },
+  "c8_his_countryside": {
+    "en": "Ruling the Countryside",
+    "kn": "ಗ್ರಾಮೀಣ ಪ್ರದೇಶಗಳ ಆಡಳಿತ"
+  },
+  "c8_his_rebel": {
+    "en": "When People Rebel",
+    "kn": "ಜನರು ದಂಗೆ ಎದ್ದಾಗ"
+  },
+  "c8_his_education": {
+    "en": "Civilising the \"Native\", Educating the Nation",
+    "kn": "ಸ್ವದೇಶಿಗಳನ್ನು ಸುಸಂಸ್ಕೃತರನ್ನಾಗಿಸುವುದು, ರಾಷ್ಟ್ರಕ್ಕೆ ಶಿಕ್ಷಣ ನೀಡುವುದು"
+  },
+  "c8_his_national": {
+    "en": "The Making of the National Movement: 1870s-1947",
+    "kn": "ರಾಷ್ಟ್ರೀಯ ಚಳುವಳಿಯ ಸಂಘಟನೆ: ೧೮೭೦ರ ದಶಕದಿಂದ ೧೯೪೭ರವರೆಗೆ"
+  },
+  "c8_kan_kannadiga": {
+    "en": "ಕನ್ನಡತಿ / ಕನ್ನಡಿಗ (Kannadiga)",
+    "kn": "ಕನ್ನಡತಿ / ಕನ್ನಡಿಗ"
+  },
+  "c8_kan_siddhartha": {
+    "en": "ಸಿದ್ಧಾರ್ಥನ ಕಾರುಣ್ಯ (Siddharthana Karunya)",
+    "kn": "ಸಿದ್ಧಾರ್ಥನ ಕಾರುಣ್ಯ"
+  },
+  "c8_kan_buddha": {
+    "en": "ಬುದ್ಧನ ಸಂದೇಶ (Buddhana Sandesha)",
+    "kn": "ಬುದ್ಧನ ಸಂದೇಶ"
+  },
+  "c8_kan_sirigannada": {
+    "en": "ಸಿರಿಗನ್ನಡ (Sirigannada)",
+    "kn": "ಸಿರಿಗನ್ನಡ"
+  },
+  "c8_kan_kranti": {
+    "en": "ಕ್ರಾಂತಿ ಕಹಳೆ (Kranti Kahale)",
+    "kn": "ಕ್ರಾಂತಿ ಕಹಳೆ"
   }
 }

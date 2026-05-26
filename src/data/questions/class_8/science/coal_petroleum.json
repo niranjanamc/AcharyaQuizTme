@@ -1,0 +1,1000 @@
+[
+  {
+    "id": "c8_sci_coal_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following is a fossil fuel?",
+      "options": [
+        "Wood",
+        "Wind",
+        "Coal",
+        "Solar energy"
+      ],
+      "answer": "Coal",
+      "reasoning": "Fossil fuels are formed from the dead remains of living organisms buried under the Earth millions of years ago. Examples include coal, petroleum, and natural gas."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಪಳೆಯುಳಿಕೆ ಇಂಧನವಾಗಿದೆ (Fossil Fuel)?",
+      "options": [
+        "ಮರ",
+        "ಗಾಳಿ",
+        "ಕಲ್ಲಿದ್ದಲು",
+        "ಸೌರ ಶಕ್ತಿ"
+      ],
+      "answer": "ಕಲ್ಲಿದ್ದಲು",
+      "reasoning": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳು ಲಕ್ಷಾಂತರ ವರ್ಷಗಳ ಹಿಂದೆ ಭೂಮಿಯಡಿಯಲ್ಲಿ ಹೂತುಹೋದ ಜೀವಿಗಳ ಸತ್ತ ಅವಶೇಷಗಳಿಂದ ರೂಪುಗೊಂಡಿವೆ. ಕಲ್ಲಿದ್ದಲು, ಪೆಟ್ರೋಲಿಯಂ ಮತ್ತು ನೈಸರ್ಗಿಕ ಅನಿಲ ಇವುಗಳಿಗೆ ಉದಾಹರಣೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Coal is formed from the remains of:",
+      "options": [
+        "Animals only",
+        "Dense vegetation and plants",
+        "Marine organisms only",
+        "Inorganic rocks"
+      ],
+      "answer": "Dense vegetation and plants",
+      "reasoning": "About 300 million years ago, the Earth had dense forests in low-lying wetland areas. Due to natural processes like flooding, these forests got buried under the soil and compressed to form coal."
+    },
+    "kn": {
+      "question": "ಕಲ್ಲಿದ್ದಲು ಯಾವುದರ ಅವಶೇಷಗಳಿಂದ ರೂಪುಗೊಂಡಿದೆ?",
+      "options": [
+        "ಪ್ರಾಣಿಗಳಿಂದ ಮಾತ್ರ",
+        "ದಟ್ಟವಾದ ಸಸ್ಯವರ್ಗ ಮತ್ತು ಸಸ್ಯಗಳು",
+        "ಸಮುದ್ರ ಜೀವಿಗಳಿಂದ ಮಾತ್ರ",
+        "ಅಜೈವಿಕ ಬಂಡೆಗಳು"
+      ],
+      "answer": "ದಟ್ಟವಾದ ಸಸ್ಯವರ್ಗ ಮತ್ತು ಸಸ್ಯಗಳು",
+      "reasoning": "ಸುಮಾರು 300 ಮಿಲಿಯನ್ ವರ್ಷಗಳ ಹಿಂದೆ ಭೂಮಿಯ ತಗ್ಗು ಪ್ರದೇಶಗಳಲ್ಲಿ ದಟ್ಟವಾದ ಕಾಡುಗಳಿದ್ದವು. ಪ್ರವಾಹದಂತಹ ನೈಸರ್ಗಿಕ ಪ್ರಕ್ರಿಯೆಗಳಿಂದ ಇವು ಮಣ್ಣಿನಡಿಯಲ್ಲಿ ಹೂತುಹೋಗಿ, ಕಾಲಕ್ರಮೇಣ ಕಲ್ಲಿದ್ದಲಾಗಿ ಮಾರ್ಪಟ್ಟವು."
+    }
+  },
+  {
+    "id": "c8_sci_coal_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "The slow chemical process of conversion of dead vegetation into coal under high pressure and temperature is called:",
+      "options": [
+        "Carbonisation",
+        "Destructive distillation",
+        "Fractional distillation",
+        "Gasification"
+      ],
+      "answer": "Carbonisation",
+      "reasoning": "As dead plants got buried deeper under the soil, they were subjected to high temperature and high pressure. Under these conditions, dead plants slowly got converted to coal, a process called carbonisation."
+    },
+    "kn": {
+      "question": "ಹೆಚ್ಚಿನ ಒತ್ತಡ ಮತ್ತು ತಾಪಮಾನದಲ್ಲಿ ಸತ್ತ ಸಸ್ಯವರ್ಗವು ಕಲ್ಲಿದ್ದಲಾಗಿ ಪರಿವರ್ತನೆಗೊಳ್ಳುವ ನಿಧಾನಗತಿಯ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ಕಾರ್ಬೊನೈಸೇಶನ್ (Carbonisation)",
+        "ವಿನಾಶಕಾರಿ ಸ್ವೇದನ",
+        "ಭಿನ್ನೀಕರಣ ಸ್ವೇದನ",
+        "ಅನಿಲೀಕರಣ"
+      ],
+      "answer": "ಕಾರ್ಬೊನೈಸೇಶನ್ (Carbonisation)",
+      "reasoning": "ಸತ್ತ ಸಸ್ಯಗಳು ಮಣ್ಣಿನ ಆಳಕ್ಕೆ ಹೋದಂತೆ ಹೆಚ್ಚಿನ ತಾಪಮಾನ ಮತ್ತು ಒತ್ತಡಕ್ಕೆ ಒಳಗಾದವು. ಈ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ಸಸ್ಯಗಳು ನಿಧಾನವಾಗಿ ಕಲ್ಲಿದ್ದಲಾಗಿ ಬದಲಾದವು, ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಕಾರ್ಬೊನೈಸೇಶನ್ ಎನ್ನುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following is considered the cleanest gaseous fossil fuel?",
+      "options": [
+        "Coal Gas",
+        "Compressed Natural Gas (CNG)",
+        "LPG",
+        "Petrol vapour"
+      ],
+      "answer": "Compressed Natural Gas (CNG)",
+      "reasoning": "CNG is a very important fossil fuel because it is easy to transport through pipes and is a cleaner fuel because it produces less pollution and leaves no ash on burning."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಅತ್ಯಂತ ಸ್ವಚ್ಛವಾದ ಅನಿಲ ರೂಪದ ಪಳೆಯುಳಿಕೆ ಇಂಧನವೆಂದು ಪರಿಗಣಿಸಲ್ಪಟ್ಟಿದೆ?",
+      "options": [
+        "ಕಲ್ಲಿದ್ದಲು ಅನಿಲ",
+        "ಸಂಕುಚಿತ ನೈಸರ್ಗಿಕ ಅನಿಲ (CNG)",
+        "ದ್ರವೀಕೃತ ಪೆಟ್ರೋಲಿಯಂ ಅನಿಲ (LPG)",
+        "ಪೆಟ್ರೋಲ್ ಆವಿ"
+      ],
+      "answer": "ಸಂಕುಚಿತ ನೈಸರ್ಗಿಕ ಅನಿಲ (CNG)",
+      "reasoning": "ಸಿಎನ್‌ಜಿ (CNG) ಅತ್ಯಂತ ಪ್ರಮುಖ ಪಳೆಯುಳಿಕೆ ಇಂಧನವಾಗಿದ್ದು, ಇದು ದಹನವಾದಾಗ ಅತಿ ಕಡಿಮೆ ಮಾಲಿನ್ಯ ಉಂಟುಮಾಡುತ್ತದೆ ಮತ್ತು ಯಾವುದೇ ಬೂದಿಯನ್ನು ಬಿಡುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ ಇದನ್ನು ಸ್ವಚ್ಛ ಇಂಧನ ಎನ್ನಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_005",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Select all resources that are classified as exhaustible natural resources:",
+      "options": [
+        "Coal",
+        "Petroleum",
+        "Sunlight",
+        "Forests"
+      ],
+      "answer": [
+        "Coal",
+        "Petroleum",
+        "Forests"
+      ],
+      "reasoning": "Exhaustible resources are limited in nature and can be exhausted by human activities. Examples include coal, petroleum, natural gas, forests, and wildlife. Sunlight is inexhaustible."
+    },
+    "kn": {
+      "question": "ಮುಗಿದುಹೋಗುವ (Exhaustible) ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳಾಗಿ ವರ್ಗೀಕರಿಸಲಾದ ಎಲ್ಲಾ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "ಕಲ್ಲಿದ್ದಲು",
+        "ಪೆಟ್ರೋಲಿಯಂ",
+        "ಸೂರ್ಯನ ಬೆಳಕು",
+        "ಅರಣ್ಯಗಳು"
+      ],
+      "answer": [
+        "ಕಲ್ಲಿದ್ದಲು",
+        "ಪೆಟ್ರೋಲಿಯಂ",
+        "ಅರಣ್ಯಗಳು"
+      ],
+      "reasoning": "ಮುಗಿದುಹೋಗುವ ಸಂಪನ್ಮೂಲಗಳು ಪ್ರಕೃತಿಯಲ್ಲಿ ಸೀಮಿತವಾಗಿದ್ದು, ಮಾನವ ಚಟುವಟಿಕೆಗಳಿಂದ ಖಾಲಿಯಾಗಬಹುದು. ಕಲ್ಲಿದ್ದಲು, ಪೆಟ್ರೋಲಿಯಂ ಮತ್ತು ಕಾಡುಗಳು ಇದಕ್ಕೆ ಉದಾಹರಣೆ. ಸೂರ್ಯನ ಬೆಳಕು ಮುಗಿಯದ ಸಂಪನ್ಮೂಲವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_img_006",
+    "type": "image_single",
+    "difficulty": 1,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Cross section diagram of petroleum deposits under earth showing gas above oil, and oil above water",
+        "kn": "ನೀರಿನ ಮೇಲೆ ತೈಲ ಮತ್ತು ತೈಲದ ಮೇಲೆ ಅನಿಲದ ಪದರವನ್ನು ತೋರಿಸುವ ಭೂಮಿಯೊಳಗಿನ ಪೆಟ್ರೋಲಿಯಂ ನಿಕ್ಷೇಪದ ಅಡ್ಡ ನೋಟದ ಚಿತ್ರ"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"10\" y=\"10\" width=\"280\" height=\"40\" fill=\"#9CA3AF\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"150\" y=\"32\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">Impervious Rock</text><rect x=\"10\" y=\"50\" width=\"280\" height=\"30\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"150\" y=\"70\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\">Layer A (Gas)</text><rect x=\"10\" y=\"80\" width=\"280\" height=\"40\" fill=\"#EA580C\" opacity=\"0.6\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"150\" y=\"105\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\">Layer B (Oil)</text><rect x=\"10\" y=\"120\" width=\"280\" height=\"50\" fill=\"#059669\" opacity=\"0.3\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"150\" y=\"150\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\">Layer C (Water)</text><rect x=\"10\" y=\"170\" width=\"280\" height=\"20\" fill=\"#9CA3AF\"/></svg>"
+    },
+    "en": {
+      "question": "In the diagram of petroleum deposits, why is Layer A (Gas) located above Layer B (Oil)?",
+      "options": [
+        "Gas is lighter than oil and water, and they do not mix",
+        "Gas is heavier than oil, pushing oil down",
+        "Impervious rock chemically attracts gas molecules",
+        "Water pushes the gas upwards due to high pressure"
+      ],
+      "answer": "Gas is lighter than oil and water, and they do not mix",
+      "reasoning": "The deposit shows gas (Layer A) above oil (Layer B) because gas is lighter (less dense) than oil, and oil is lighter than water. Since oil and gas do not mix with water, they float on top in order of density."
+    },
+    "kn": {
+      "question": "ತೋರಿಸಿರುವ ತೈಲ ನಿಕ್ಷೇಪದ ಚಿತ್ರದಲ್ಲಿ, ಅನಿಲದ ಪದರವು (Layer A) ತೈಲದ ಪದರದ (Layer B) ಮೇಲೆ ಏಕೆ ಕಂಡುಬರುತ್ತದೆ?",
+      "options": [
+        "ಅನಿಲವು ತೈಲ ಮತ್ತು ನೀರಿಗಿಂತ ಹಗುರವಾಗಿದೆ ಹಾಗೂ ಅವು ಪರಸ್ಪರ ಬೆರೆಯುವುದಿಲ್ಲ",
+        "ಅನಿಲವು ತೈಲಕ್ಕಿಂತ ಭಾರವಾಗಿರುತ್ತದೆ, ಇದರಿಂದ ತೈಲವನ್ನು ಕೆಳಗೆ ತಳ್ಳುತ್ತದೆ",
+        "ಅಪ್ರವೇಶ್ಯ ಬಂಡೆಯು ರಾಸಾಯನಿಕವಾಗಿ ಅನಿಲ ಕಣಗಳನ್ನು ಆಕರ್ಷಿಸುತ್ತದೆ",
+        "ಹೆಚ್ಚಿನ ಒತ್ತಡದಿಂದಾಗಿ ನೀರು ಅನಿಲವನ್ನು ಮೇಲಕ್ಕೆ ತಳ್ಳುತ್ತದೆ"
+      ],
+      "answer": "ಅನಿಲವು ತೈಲ ಮತ್ತು ನೀರಿಗಿಂತ ಹಗುರವಾಗಿದೆ ಹಾಗೂ ಅವು ಪರಸ್ಪರ ಬೆರೆಯುವುದಿಲ್ಲ",
+      "reasoning": "ಅನಿಲವು (Layer A) ತೈಲಕ್ಕಿಂತ (Layer B) ಹಗುರವಾಗಿರುತ್ತದೆ ಮತ್ತು ತೈಲವು ನೀರಿಗಿಂತ (Layer C) ಹಗುರವಾಗಿರುತ್ತದೆ. ಅವು ನೀರು ಹಾಗೂ ಪರಸ್ಪರ ಬೆರೆಯದ ಕಾರಣ ಸಾಂದ್ರತೆಗೆ ಅನುಗುಣವಾಗಿ ಮೇಲೆ ತೇಲುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_img_007",
+    "type": "image_single",
+    "difficulty": 1,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Fractional distillation column diagram showing different fraction outlets",
+        "kn": "ವಿವಿಧ ಘಟಕಗಳ ನಿರ್ಗಮನ ದ್ವಾರಗಳನ್ನು ತೋರಿಸುವ ಪೆಟ್ರೋಲಿಯಂನ ಭಿನ್ನೀಕರಣ ಸ್ವೇದನ ಗೋಪುರದ ಚಿತ್ರ"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><path d=\"M110,20 L190,20 L190,170 L110,170 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"3\"/><line x1=\"190\" y1=\"40\" x2=\"240\" y2=\"40\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"245\" y=\"44\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\">Gas (LPG)</text><line x1=\"190\" y1=\"75\" x2=\"240\" y2=\"75\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"245\" y=\"79\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\">Petrol</text><line x1=\"190\" y1=\"110\" x2=\"240\" y2=\"110\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"245\" y=\"114\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\">Diesel</text><line x1=\"190\" y1=\"145\" x2=\"240\" y2=\"145\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"245\" y=\"149\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\">Lubricating Oil</text><line x1=\"60\" y1=\"150\" x2=\"110\" y2=\"150\" stroke=\"#EA580C\" stroke-width=\"4\"/><text x=\"55\" y=\"140\" fill=\"#EA580C\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">Crude Oil</text><circle cx=\"150\" cy=\"180\" r=\"10\" fill=\"#059669\"/><text x=\"150\" y=\"195\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"middle\">Heater</text></svg>"
+    },
+    "en": {
+      "question": "In the fractional distillation of petroleum shown, which fraction has the lowest boiling point and exits at the top of the tower?",
+      "options": [
+        "Diesel",
+        "Petrol",
+        "Petroleum Gas (LPG)",
+        "Lubricating Oil"
+      ],
+      "answer": "Petroleum Gas (LPG)",
+      "reasoning": "During fractional distillation, the constituents with the lowest boiling points (like Petroleum Gas) vaporize first and rise to the very top of the column to be collected, while heavier liquids condense lower down."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಪೆಟ್ರೋಲಿಯಂನ ಭಿನ್ನೀಕರಣ ಸ್ವೇದನ ಗೋಪುರದಲ್ಲಿ, ಅತಿ ಕಡಿಮೆ ಕುದಿಯುವ ಬಿಂದು ಹೊಂದಿರುವ ಮತ್ತು ಎಲ್ಲಕ್ಕಿಂತ ಮೇಲೆ ಸಂಗ್ರಹವಾಗುವ ಘಟಕ ಯಾವುದು?",
+      "options": [
+        "ಡೀಸೆಲ್",
+        "ಪೆಟ್ರೋಲ್",
+        "ಪೆಟ್ರೋಲಿಯಂ ಅನಿಲ (LPG)",
+        "ಲ್ಯೂಬ್ರಿಕೇಟಿಂಗ್ ಎಣ್ಣೆ"
+      ],
+      "answer": "ಪೆಟ್ರೋಲಿಯಂ ಅನಿಲ (LPG)",
+      "reasoning": "ಭಿನ್ನೀಕರಣ ಸ್ವೇದನದಲ್ಲಿ ಅತಿ ಕಡಿಮೆ ಕುದಿಯುವ ಬಿಂದು ಹೊಂದಿರುವ ಪೆಟ್ರೋಲಿಯಂ ಅನಿಲವು ಮೊದಲು ಆವಿಯಾಗಿ ಗೋಪುರದ ತುತ್ತ ತುದಿಯಲ್ಲಿ ಸಂಗ್ರಹವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_008",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the products obtained from coal with their correct descriptions:",
+      "pairs": [
+        {
+          "left": "Coke",
+          "right": "Tough, porous and black substance (pure carbon)"
+        },
+        {
+          "left": "Coal Tar",
+          "right": "Black, thick liquid with an unpleasant smell"
+        },
+        {
+          "left": "Coal Gas",
+          "right": "Fuel obtained during the processing of coal to coke"
+        },
+        {
+          "left": "Bitumen",
+          "right": "Petroleum product used for surfacing roads"
+        }
+      ],
+      "reasoning": "Coke is pure carbon. Coal Tar is a thick black liquid. Coal Gas is a byproduct fuel. Bitumen is a petroleum derivative used for road metal."
+    },
+    "kn": {
+      "question": "ಕಲ್ಲಿದ್ದಲಿನಿಂದ ಪಡೆಯುವ ಉತ್ಪನ್ನಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಕೋಕ್ (Coke)",
+          "right": "ಗಟ್ಟಿಯಾದ, ರಂಧ್ರಯುಕ್ತ ಮತ್ತು ಕಪ್ಪು ವಸ್ತು (ಶುದ್ಧ ಕಾರ್ಬನ್)"
+        },
+        {
+          "left": "ಕಲ್ಲಿದ್ದಲು ಡಾಂಬರು",
+          "right": "ಅಪ್ಯಾಯಮಾನ ವಾಸನೆಯುಳ್ಳ ದಪ್ಪನೆಯ ಕಪ್ಪು ದ್ರವ"
+        },
+        {
+          "left": "ಕಲ್ಲಿದ್ದಲು ಅನಿಲ",
+          "right": "ಕಲ್ಲಿದ್ದಲಿನಿಂದ ಕೋಕ್ ತಯಾರಿಸುವಾಗ ದೊರೆಯುವ ಇಂಧನ"
+        },
+        {
+          "left": "ಬಿಟುಮೆನ್ (Bitumen)",
+          "right": "ರಸ್ತೆ ಡಾಂಬರೀಕರಣಕ್ಕೆ ಬಳಸುವ ಪೆಟ್ರೋಲಿಯಂ ಉತ್ಪನ್ನ"
+        }
+      ],
+      "reasoning": "ಕೋಕ್ ಶುದ್ಧ ಇಂಗಾಲವಾಗಿದೆ. ಕಲ್ಲಿದ್ದಲು ಡಾಂಬರು ವಾಸನೆಯುಳ್ಳ ದಪ್ಪ ಕಪ್ಪು ದ್ರವ. ಕಲ್ಲಿದ್ದಲು ಅನಿಲ ಉಪ-ಉತ್ಪನ್ನ ಇಂಧನವಾಗಿದೆ. ಬಿಟುಮೆನ್ ರಸ್ತೆ ನಿರ್ಮಾಣಕ್ಕೆ ಬಳಸುವ ಇತ್ತೀಚಿನ ಪೆಟ್ರೋಲಿಯಂ ಉತ್ಪನ್ನವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_009",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the natural resources to their respective classes:",
+      "pairs": [
+        {
+          "left": "Sunlight",
+          "right": "Inexhaustible natural resource"
+        },
+        {
+          "left": "Coal",
+          "right": "Exhaustible natural resource"
+        },
+        {
+          "left": "Wildlife",
+          "right": "Exhaustible natural resource"
+        },
+        {
+          "left": "Wind",
+          "right": "Inexhaustible natural resource"
+        }
+      ],
+      "reasoning": "Sunlight and wind are unlimited and inexhaustible. Coal and wildlife are limited and can get exhausted by human exploitation."
+    },
+    "kn": {
+      "question": "ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವರ್ಗಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಸೂರ್ಯನ ಬೆಳಕು",
+          "right": "ಮುಗಿಯದ ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲ"
+        },
+        {
+          "left": "ಕಲ್ಲಿದ್ದಲು",
+          "right": "ಮುಗಿದುಹೋಗುವ ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲ"
+        },
+        {
+          "left": "ವನ್ಯಜೀವಿಗಳು",
+          "right": "ಮುಗಿದುಹೋಗುವ ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲ"
+        },
+        {
+          "left": "ಗಾಳಿ (Wind)",
+          "right": "ಮುಗಿಯದ ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲ"
+        }
+      ],
+      "reasoning": "ಸೂರ್ಯನ ಬೆಳಕು ಮತ್ತು ಗಾಳಿ ಪ್ರಕೃತಿಯಲ್ಲಿ ಅತಿ ಹೆಚ್ಚಾಗಿದ್ದು ಮುಗಿಯುವುದಿಲ್ಲ. ಕಲ್ಲಿದ್ದಲು ಮತ್ತು ವನ್ಯಜೀವಿಗಳು ಸೀಮಿತವಾಗಿದ್ದು ಮುಗಿದುಹೋಗುವ ಸಂಪನ್ಮೂಲಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_010",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which petroleum product has replaced coal tar for metalling (surfacing) the roads nowadays?",
+      "options": [
+        "Paraffin wax",
+        "Bitumen",
+        "Coke",
+        "Kerosene"
+      ],
+      "answer": "Bitumen",
+      "reasoning": "Nowadays, bitumen, a petroleum product, is used in place of coal tar for metalling the roads because it provides better durability and binding."
+    },
+    "kn": {
+      "question": "ಇತ್ತೀಚಿನ ದಿನಗಳಲ್ಲಿ ರಸ್ತೆಗಳ ಡಾಂಬರೀಕರಣಕ್ಕೆ ಕಲ್ಲಿದ್ದಲು ಡಾಂಬರಿನ ಬದಲಾಗಿ ಯಾವ ಪೆಟ್ರೋಲಿಯಂ ಉತ್ಪನ್ನವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಪ್ಯಾರಾಫಿನ್ ಮೇಣ",
+        "ಬಿಟುಮೆನ್ (Bitumen)",
+        "ಕೋಕ್",
+        "ಸೀಮೆಎಣ್ಣೆ"
+      ],
+      "answer": "ಬಿಟುಮೆನ್ (Bitumen)",
+      "reasoning": "ಇತ್ತೀಚಿನ ದಿನಗಳಲ್ಲಿ ಕಲ್ಲಿದ್ದಲು ಡಾಂಬರಿನ ಬದಲಾಗಿ ಬಿಟುಮೆನ್ ಎಂಬ ಪೆಟ್ರೋಲಿಯಂ ಉತ್ಪನ್ನವನ್ನು ರಸ್ತೆ ನಿರ್ಮಾಣಕ್ಕೆ ಬಳಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Petroleum is formed from the remains of organisms that lived in the:",
+      "options": [
+        "Deep forests",
+        "Swamps and marshes",
+        "Sea and oceans",
+        "Desert sand dunes"
+      ],
+      "answer": "Sea and oceans",
+      "reasoning": "Petroleum was formed from organisms living in the sea. As these organisms died, their bodies settled at the bottom of the sea and got covered with layers of sand and clay, transforming under high pressure and temperature over millions of years."
+    },
+    "kn": {
+      "question": "ಪೆಟ್ರೋಲಿಯಂ ಯಾವ ಪ್ರದೇಶಗಳಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದ ಜೀವಿಗಳ ಅವಶೇಷಗಳಿಂದ ರೂಪುಗೊಂಡಿದೆ?",
+      "options": [
+        "ದಟ್ಟ ಕಾಡುಗಳು",
+        "ಜೌಗು ಪ್ರದೇಶಗಳು",
+        "ಸಮುದ್ರ ಮತ್ತು ಮಹಾಸಾಗರಗಳು",
+        "ಮರುಭೂಮಿಗಳು"
+      ],
+      "answer": "ಸಮುದ್ರ ಮತ್ತು ಮಹಾಸಾಗರಗಳು",
+      "reasoning": "ಪೆಟ್ರೋಲಿಯಂ ಸಮುದ್ರದಲ್ಲಿ ಜೀವಿಸುತ್ತಿದ್ದ ಜೀವಿಗಳಿಂದ ರೂಪುಗೊಂಡಿತು. ಇವು ಸತ್ತಾಗ ಇವುಗಳ ದೇಹಗಳು ಸಮುದ್ರ ತಳ ಸೇರಿ ಮರಳು ಹಾಗೂ ಮಣ್ಣಿನಿಂದ ಮುಚ್ಚಲ್ಪಟ್ಟು ಲಕ್ಷಾಂತರ ವರ್ಷಗಳ ನಂತರ ತೈಲವಾಗಿ ಮಾರ್ಪಟ್ಟವು."
+    }
+  },
+  {
+    "id": "c8_sci_coal_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "The process of separating various constituents or fractions of petroleum is known as:",
+      "options": [
+        "Carbonisation",
+        "Refining",
+        "Destructive distillation",
+        "Polymerisation"
+      ],
+      "answer": "Refining",
+      "reasoning": "Petroleum is a dark, oily liquid. It is a mixture of various constituents. The process of separating these various constituents/fractions is called refining, carried out in a petroleum refinery."
+    },
+    "kn": {
+      "question": "ಪೆಟ್ರೋಲಿಯಂನ ವಿವಿಧ ಘಟಕಗಳು ಅಥವಾ ಭಾಗಗಳನ್ನು ಬೇರ್ಪಡಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ಕಾರ್ಬೊನೈಸೇಶನ್",
+        "ಶುದ್ಧೀಕರಣ (Refining)",
+        "ವಿನಾಶಕಾರಿ ಸ್ವೇದನ",
+        "ಬಹುರೂಪೀಕರಣ"
+      ],
+      "answer": "ಶುದ್ಧೀಕರಣ (Refining)",
+      "reasoning": "ಪೆಟ್ರೋಲಿಯಂ ಕಡು ಬಣ್ಣದ ಜಿಡ್ಡಿನ ದ್ರವವಾಗಿದೆ. ಅದರ ವಿವಿಧ ಉಪಯುಕ್ತ ಘಟಕಗಳನ್ನು ಬೇರ್ಪಡಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪೆಟ್ರೋಲಿಯಂ ಶುದ್ಧೀಕರಣ (Refining) ಎನ್ನುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In India, which association advises people on how to save petrol/diesel while driving?",
+      "options": [
+        "PCRA",
+        "ONGC",
+        "ISRO",
+        "GAIL"
+      ],
+      "answer": "PCRA",
+      "reasoning": "In India, the Petroleum Conservation Research Association (PCRA) advises people on how to conserve petrol/diesel while driving, promoting energy efficiency."
+    },
+    "kn": {
+      "question": "ಭಾರತದಲ್ಲಿ, ಚಾಲನೆ ಮಾಡುವಾಗ ಪೆಟ್ರೋಲ್/ಡೀಸೆಲ್ ಅನ್ನು ಹೇಗೆ ಉಳಿಸಬೇಕೆಂದು ಜನರಿಗೆ ಸಲಹೆ ನೀಡುವ ಸಂಸ್ಥೆ ಯಾವುದು?",
+      "options": [
+        "ಪಿಸಿಆರ್‌ಎ (PCRA)",
+        "ಒಎನ್‌ಜಿಸಿ (ONGC)",
+        "ಇಸ್ರೋ (ISRO)",
+        "ಗೇಲ್ (GAIL)"
+      ],
+      "answer": "ಪಿಸಿಆರ್‌ಎ (PCRA)",
+      "reasoning": "ಪೆಟ್ರೋಲಿಯಂ ಸಂರಕ್ಷಣಾ ಸಂಶೋಧನಾ ಸಂಸ್ಥೆಯು (PCRA) ವಾಹನ ಚಾಲನೆ ಮಾಡುವಾಗ ಇಂಧನ ಉಳಿಸುವ ಸಲಹೆಗಳನ್ನು ಜನರಿಗೆ ನೀಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Natural gas stored under high pressure is known as:",
+      "options": [
+        "LPG",
+        "CNG",
+        "Coal gas",
+        "Water gas"
+      ],
+      "answer": "CNG",
+      "reasoning": "Natural gas is stored under high pressure as Compressed Natural Gas (CNG). It is used for power generation and as a fuel for transport vehicles."
+    },
+    "kn": {
+      "question": "ನೈಸರ್ಗಿಕ ಅನಿಲವನ್ನು ಹೆಚ್ಚಿನ ಒತ್ತಡದಲ್ಲಿ ಸಂಗ್ರಹಿಸಿರುವುದನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "LPG",
+        "CNG (ಸಂಕುಚಿತ ನೈಸರ್ಗಿಕ ಅನಿಲ)",
+        "ಕಲ್ಲಿದ್ದಲು ಅನಿಲ",
+        "ಜಲ ಅನಿಲ"
+      ],
+      "answer": "CNG (ಸಂಕುಚಿತ ನೈಸರ್ಗಿಕ ಅನಿಲ)",
+      "reasoning": "ನೈಸರ್ಗಿಕ ಅನಿಲವನ್ನು ಹೆಚ್ಚಿನ ಒತ್ತಡದಲ್ಲಿ ಸಂಗ್ರಹಿಸಿದಾಗ ಅದನ್ನು ಸಂಕುಚಿತ ನೈಸರ್ಗಿಕ ಅನಿಲ (CNG) ಎನ್ನಲಾಗುತ್ತದೆ. ಇದನ್ನು ವಾಹನ ಇಂಧನವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_015",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Select all the products that are obtained during the refining of petroleum:",
+      "options": [
+        "Paraffin wax",
+        "Coke",
+        "Lubricating oil",
+        "Bitumen"
+      ],
+      "answer": [
+        "Paraffin wax",
+        "Lubricating oil",
+        "Bitumen"
+      ],
+      "reasoning": "Paraffin wax, lubricating oil, and bitumen are fractions obtained from refining petroleum. Coke is a product obtained from processing coal, not petroleum."
+    },
+    "kn": {
+      "question": "ಪೆಟ್ರೋಲಿಯಂ ಶುದ್ಧೀಕರಣದ ಸಮಯದಲ್ಲಿ ಪಡೆಯುವ ಎಲ್ಲಾ ಉತ್ಪನ್ನಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "ಪ್ಯಾರಾಫಿನ್ ಮೇಣ",
+        "ಕೋಕ್",
+        "ಲ್ಯೂಬ್ರಿಕೇಟಿಂಗ್ ಎಣ್ಣೆ",
+        "ಬಿಟುಮೆನ್"
+      ],
+      "answer": [
+        "ಪ್ಯಾರಾಫಿನ್ ಮೇಣ",
+        "ಲ್ಯೂಬ್ರಿಕೇಟಿಂಗ್ ಎಣ್ಣೆ",
+        "ಬಿಟುಮೆನ್"
+      ],
+      "reasoning": "ಪ್ಯಾರಾಫಿನ್ ಮೇಣ, ಲ್ಯೂಬ್ರಿಕೇಟಿಂಗ್ ಎಣ್ಣೆ ಮತ್ತು ಬಿಟುಮೆನ್ ಪೆಟ್ರೋಲಿಯಂನ ಉಪ-ಉತ್ಪನ್ನಗಳಾಗಿವೆ. ಆದರೆ ಕೋಕ್ ಕಲ್ಲಿದ್ದಲಿನ ಉಪ-ಉತ್ಪನ್ನವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_img_016",
+    "type": "image_single",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Bar chart comparing carbon content percentages in Peat, Lignite, Bituminous, and Anthracite coal",
+        "kn": "ಪೀಟ್, ಲಿಗ್ನೈಟ್, ಬಿಟುಮಿನಸ್ ಮತ್ತು ಆಂಥ್ರಾಸೈಟ್ ಕಲ್ಲಿದ್ದಲಿನಲ್ಲಿರುವ ಇಂಗಾಲದ ಪ್ರಮಾಣ ಹೋಲಿಸುವ ಕಂಬ ಸಾಲು ನಕ್ಷೆ"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><line x1=\"50\" y1=\"20\" x2=\"50\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"50\" y1=\"160\" x2=\"280\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"45\" y=\"165\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"end\">0%</text><text x=\"45\" y=\"90\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"end\">50%</text><text x=\"45\" y=\"25\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"end\">100%</text><rect x=\"70\" y=\"87\" width=\"30\" height=\"73\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"85\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"9\" text-anchor=\"middle\">Peat</text><rect x=\"120\" y=\"73\" width=\"30\" height=\"87\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"135\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"9\" text-anchor=\"middle\">Lignite</text><rect x=\"170\" y=\"52\" width=\"30\" height=\"108\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"185\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"9\" text-anchor=\"middle\">Bitum.</text><rect x=\"220\" y=\"31\" width=\"30\" height=\"129\" fill=\"#059669\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"235\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"9\" text-anchor=\"middle\">Anthr.</text><text x=\"150\" y=\"12\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\">Carbon Content in Coal Types</text></svg>"
+    },
+    "en": {
+      "question": "Based on the bar chart, which type of coal has the highest carbon content, making it the highest quality coal?",
+      "options": [
+        "Peat",
+        "Lignite",
+        "Bituminous",
+        "Anthracite"
+      ],
+      "answer": "Anthracite",
+      "reasoning": "Anthracite has the highest percentage of carbon (around 90-95%) among all coal types as shown in the graph. Higher carbon content results in higher heat output and fewer impurities."
+    },
+    "kn": {
+      "question": "ನೀಡಿರುವ ನಕ್ಷೆಯ ಆಧಾರದ ಮೇಲೆ, ಅತಿ ಹೆಚ್ಚು ಇಂಗಾಲದ ಪ್ರಮಾಣವನ್ನು ಹೊಂದಿರುವ ಮತ್ತು ಅತ್ಯುತ್ತಮ ಗುಣಮಟ್ಟದ ಕಲ್ಲಿದ್ದಲು ಪ್ರಕಾರ ಯಾವುದು?",
+      "options": [
+        "ಪೀಟ್",
+        "ಲಿಗ್ನೈಟ್",
+        "ಬಿಟುಮಿನಸ್",
+        "ಆಂಥ್ರಾಸೈಟ್"
+      ],
+      "answer": "ಆಂಥ್ರಾಸೈಟ್",
+      "reasoning": "ಆಂಥ್ರಾಸೈಟ್ ಕಲ್ಲಿದ್ದಲಿನಲ್ಲಿ ಅತ್ಯಂತ ಹೆಚ್ಚು ಇಂಗಾಲದ ಪ್ರಮಾಣ (ಸುಮಾರು 90-95%) ಇರುತ್ತದೆ. ಇದು ಹೊಗೆಯಿಲ್ಲದೆ ಹೆಚ್ಚು ಶಾಖ ನೀಡುವುದರಿಂದ ಅತ್ಯುತ್ತಮ ಕಲ್ಲಿದ್ದಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_img_017",
+    "type": "image_single",
+    "difficulty": 2,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Laboratory setup for destructive distillation of coal heating coal in absence of air",
+        "kn": "ಗಾಳಿಯ ಅನುಪಸ್ಥಿತಿಯಲ್ಲಿ ಕಲ್ಲಿದ್ದಲನ್ನು ಕಾಯಿಸುವ ಕಲ್ಲಿದ್ದಲಿನ ವಿನಾಶಕಾರಿ ಸ್ವೇದನದ ಪ್ರಯೋಗಾಲಯ ಜೋಡಣೆ"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"40\" y=\"60\" width=\"120\" height=\"25\" rx=\"5\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><rect x=\"50\" y=\"65\" width=\"30\" height=\"15\" fill=\"#1F2937\"/><text x=\"65\" y=\"53\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"middle\">Coal</text><path d=\"M50,110 L80,110 L65,85 Z\" fill=\"#EA580C\"/><text x=\"65\" y=\"125\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"middle\">Heat</text><path d=\"M150,72 L210,72 L210,110\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"3\"/><rect x=\"180\" y=\"110\" width=\"60\" height=\"50\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><rect x=\"182\" y=\"145\" width=\"56\" height=\"13\" fill=\"#1F2937\"/><text x=\"210\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"middle\">Coal Tar</text><path d=\"M230,115 L260,95\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\" marker-end=\"url(#a)\"/><text x=\"270\" y=\"90\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"middle\">Gas</text><defs><marker id=\"a\" markerWidth=\"6\" markerHeight=\"6\" refX=\"3\" refY=\"3\" orient=\"auto\"><path d=\"M0,0 L6,3 L0,6 Z\" fill=\"#2563EB\"/></marker></defs></svg>"
+    },
+    "en": {
+      "question": "What chemical process is demonstrated in the laboratory setup shown in the image?",
+      "options": [
+        "Fractional distillation of petroleum",
+        "Destructive distillation of coal",
+        "Carbonisation of vegetation",
+        "Steam gasification of wood"
+      ],
+      "answer": "Destructive distillation of coal",
+      "reasoning": "The setup shows the heating of coal strongly in the absence of air. This is called the destructive distillation of coal, producing coke (left in the test tube), coal tar (black liquid collected), and coal gas (escaping gas)."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಪ್ರಯೋಗಾಲಯ ಜೋಡಣೆಯಲ್ಲಿ ಯಾವ ರಾಸಾಯನಿಕ ಪ್ರಕ್ರಿಯೆಯನ್ನು ನಡೆಸಲಾಗುತ್ತಿದೆ?",
+      "options": [
+        "ಪೆಟ್ರೋಲಿಯಂನ ಭಿನ್ನೀಕರಣ ಸ್ವೇದನ",
+        "ಕಲ್ಲಿದ್ದಲಿನ ವಿನಾಶಕಾರಿ ಸ್ವೇದನ (Destructive distillation)",
+        "ಸಸ್ಯವರ್ಗದ ಕಾರ್ಬೊನೈಸೇಶನ್",
+        "ಮರದ ಹಬೆ ಅನಿಲೀಕರಣ"
+      ],
+      "answer": "ಕಲ್ಲಿದ್ದಲಿನ ವಿನಾಶಕಾರಿ ಸ್ವೇದನ (Destructive distillation)",
+      "reasoning": "ಚಿತ್ರವು ಗಾಳಿಯ ಅನುಪಸ್ಥಿತಿಯಲ್ಲಿ ಕಲ್ಲಿದ್ದಲನ್ನು ಬಲವಾಗಿ ಕಾಯಿಸುವುದನ್ನು ತೋರಿಸುತ್ತದೆ. ಇದು ಕಲ್ಲಿದ್ದಲಿನ ವಿನಾಶಕಾರಿ ಸ್ವೇದನವಾಗಿದ್ದು, ಕೋಕ್, ಕಲ್ಲಿದ್ದಲು ಡಾಂಬರು ಮತ್ತು ಕಲ್ಲಿದ್ದಲು ಅನಿಲವನ್ನು ನೀಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_018",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Which fraction of petroleum is traditionally used as fuel for stoves, lamps, and also as aviation fuel in jet aircraft?",
+      "options": [
+        "Petrol",
+        "Diesel",
+        "Kerosene",
+        "Lubricating oil"
+      ],
+      "answer": "Kerosene",
+      "reasoning": "Kerosene is a specific fraction of petroleum. Refined aviation-grade kerosene is used as jet fuel because of its optimal energy density and low freezing point."
+    },
+    "kn": {
+      "question": "ಪೆಟ್ರೋಲಿಯಂನ ಯಾವ ಘಟಕವನ್ನು ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ ಒಲೆಗಳು, ದೀಪಗಳಿಗೆ ಇಂಧನವಾಗಿ ಮತ್ತು ಜೆಟ್ ವಿಮಾನಗಳಲ್ಲಿ ವಿಮಾನ ಇಂಧನವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಪೆಟ್ರೋಲ್",
+        "ಡೀಸೆಲ್",
+        "ಸೀಮೆಎಣ್ಣೆ (Kerosene)",
+        "ಲ್ಯೂಬ್ರಿಕೇಟಿಂಗ್ ಎಣ್ಣೆ"
+      ],
+      "answer": "ಸೀಮೆಎಣ್ಣೆ (Kerosene)",
+      "reasoning": "ಸೀಮೆಎಣ್ಣೆಯನ್ನು ಮನೆಗಳಲ್ಲಿ ದೀಪ ಹಾಗೂ ಒಲೆಗಳಿಗೆ ಬಳಸಲಾಗುತ್ತದೆ. ಇದರ ಅತ್ಯಂತ ಶುದ್ಧೀಕರಿಸಿದ ರೂಪವನ್ನು ಜೆಟ್ ವಿಮಾನಗಳಲ್ಲಿ ಇಂಧನವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_019",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the petroleum fractions with their primary commercial uses:",
+      "pairs": [
+        {
+          "left": "LPG",
+          "right": "Fuel for home and industry"
+        },
+        {
+          "left": "Petrol",
+          "right": "Motor fuel and aviation solvent"
+        },
+        {
+          "left": "Paraffin wax",
+          "right": "Ointments, candles, and vaseline"
+        },
+        {
+          "left": "Diesel",
+          "right": "Fuel for heavy motor vehicles and generators"
+        }
+      ],
+      "reasoning": "LPG is domestic fuel. Petrol powers light motor vehicles. Paraffin wax is used in ointments/candles. Diesel powers heavy vehicles and generators."
+    },
+    "kn": {
+      "question": "ಪೆಟ್ರೋಲಿಯಂ ಘಟಕಗಳನ್ನು ಅವುಗಳ ಪ್ರಮುಖ ವಾಣಿಜ್ಯ ಬಳಕೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "LPG",
+          "right": "ಮನೆ ಮತ್ತು ಕೈಗಾರಿಕೆಗಳಿಗೆ ಇಂಧನ"
+        },
+        {
+          "left": "ಪೆಟ್ರೋಲ್",
+          "right": "ಮೋಟಾರು ಇಂಧನ ಮತ್ತು ಸಾಲ್ವೆಂಟ್"
+        },
+        {
+          "left": "ಪ್ಯಾರಾಫಿನ್ ಮೇಣ",
+          "right": "ಮುಲಾಮುಗಳು, ಮೇಣದಬತ್ತಿಗಳು ಮತ್ತು ವ್ಯಾಸಲಿನ್"
+        },
+        {
+          "left": "ಡೀಸೆಲ್",
+          "right": "ಭಾರೀ ವಾಹನಗಳು ಮತ್ತು ಜನರೇಟರ್‌ಗಳಿಗೆ ಇಂಧನ"
+        }
+      ],
+      "reasoning": "LPG ಗೃಹಬಳಕೆಯ ಇಂಧನ. ಪೆಟ್ರೋಲ್ ಲಘು ವಾಹನಗಳ ಇಂಧನ. ಪ್ಯಾರಾಫಿನ್ ಮೇಣದಿಂದ ಮುಲಾಮು/ವ್ಯಾಸಲಿನ್ ತಯಾರಿಸುತ್ತಾರೆ. ಡೀಸೆಲ್ ಭಾರಿ ವಾಹನ ಮತ್ತು ಜನರೇಟರ್ ಗೆ ಬಳಸುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_020",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Why are coal and petroleum classified as exhaustible fossil fuels? Select all valid reasons:",
+      "options": [
+        "They are formed very rapidly within days",
+        "Their reserves are highly limited in nature",
+        "It takes millions of years for dead organisms to transform into these fuels",
+        "They can be synthesized easily in laboratories"
+      ],
+      "answer": [
+        "Their reserves are highly limited in nature",
+        "It takes millions of years for dead organisms to transform into these fuels"
+      ],
+      "reasoning": "Fossil fuels require dead organisms to be subjected to high pressure and temperature over millions of years. Since their rate of consumption by humans is vastly faster than their geological formation rate, they are exhaustible."
+    },
+    "kn": {
+      "question": "ಕಲ್ಲಿದ್ದಲು ಮತ್ತು ಪೆಟ್ರೋಲಿಯಂ ಅನ್ನು ಮುಗಿದುಹೋಗುವ ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳೆಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ? ಎಲ್ಲಾ ಸರಿಯಾದ ಕಾರಣಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "ಅವು ಕೆಲವೇ ದಿನಗಳಲ್ಲಿ ತ್ವರಿತವಾಗಿ ರೂಪುಗೊಳ್ಳುತ್ತವೆ",
+        "ಅವುಗಳ ಸಂಗ್ರಹವು ಪ್ರಕೃತಿಯಲ್ಲಿ ಅತ್ಯಂತ ಸೀಮಿತವಾಗಿದೆ",
+        "ಸತ್ತ ಜೀವಿಗಳು ಈ ಇಂಧನಗಳಾಗಿ ಬದಲಾಗಲು ಲಕ್ಷಾಂತರ ವರ್ಷಗಳು ಬೇಕಾಗುತ್ತವೆ",
+        "ಅವುಗಳನ್ನು ಪ್ರಯೋಗಾಲಯದಲ್ಲಿ ಸುಲಭವಾಗಿ ತಯಾರಿಸಬಹುದು"
+      ],
+      "answer": [
+        "ಅವುಗಳ ಸಂಗ್ರಹವು ಪ್ರಕೃತಿಯಲ್ಲಿ ಅತ್ಯಂತ ಸೀಮಿತವಾಗಿದೆ",
+        "ಸತ್ತ ಜೀವಿಗಳು ಈ ಇಂಧನಗಳಾಗಿ ಬದಲಾಗಲು ಲಕ್ಷಾಂತರ ವರ್ಷಗಳು ಬೇಕಾಗುತ್ತವೆ"
+      ],
+      "reasoning": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳು ರೂಪುಗೊಳ್ಳಲು ಲಕ್ಷಾಂತರ ವರ್ಷಗಳು ಬೇಕು. ಅವುಗಳ ಬಳಕೆಯ ದರವು ಅವುಗಳ ರಚನೆಯ ದರಕ್ಕಿಂತ ತೀರ ಹೆಚ್ಚಿರುವುದರಿಂದ ಅವು ಸೀಮಿತ ಹಾಗೂ ಮುಗಿದುಹೋಗುವ ಸಂಪನ್ಮೂಲಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_021",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why is petroleum often referred to as 'Black Gold'?",
+      "options": [
+        "It is black in colour and as expensive as gold metal",
+        "Due to its great commercial value and numerous derivatives used in various industries",
+        "It contains traces of gold dissolved in it",
+        "It can be chemically converted into gold metal"
+      ],
+      "answer": "Due to its great commercial value and numerous derivatives used in various industries",
+      "reasoning": "Petroleum has immense commercial value. Many useful substances obtained from petroleum and natural gas (called petrochemicals) are used in manufacturing detergents, synthetic fibers, plastics, and fertilizers, earning it the name 'Black Gold'."
+    },
+    "kn": {
+      "question": "ಪೆಟ್ರೋಲಿಯಂ ಅನ್ನು ಹೆಚ್ಚಾಗಿ 'ಕಪ್ಪು ಚಿನ್ನ' (Black Gold) ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ಇದು ಕಪ್ಪು ಬಣ್ಣದ್ದಾಗಿದ್ದು ಚಿನ್ನದಷ್ಟೇ ದುಬಾರಿಯಾಗಿದೆ",
+        "ಇದರ ಅಗಾಧ ವಾಣಿಜ್ಯ ಮೌಲ್ಯ ಮತ್ತು ವಿವಿಧ ಕೈಗಾರಿಕೆಗಳಲ್ಲಿ ಬಳಸುವ ಅನೇಕ ಉಪ ಉತ್ಪನ್ನಗಳಿಂದಾಗಿ",
+        "ಇದರಲ್ಲಿ ಕರಗಿದ ಚಿನ್ನದ ಕಣಗಳು ಇರುತ್ತವೆ",
+        "ಇದನ್ನು ರಾಸಾಯನಿಕವಾಗಿ ಚಿನ್ನದ ಲೋಹವನ್ನಾಗಿ ಪರಿವರ್ತಿಸಬಹುದು"
+      ],
+      "answer": "ಇದರ ಅಗಾಧ ವಾಣಿಜ್ಯ ಮೌಲ್ಯ ಮತ್ತು ವಿವಿಧ ಕೈಗಾರಿಕೆಗಳಲ್ಲಿ ಬಳಸುವ ಅನೇಕ ಉಪ ಉತ್ಪನ್ನಗಳಿಂದಾಗಿ",
+      "reasoning": "ಪೆಟ್ರೋಲಿಯಂ ಅತ್ಯಂತ ಹೆಚ್ಚಿನ ಆರ್ಥಿಕ ಮತ್ತು ಕೈಗಾರಿಕಾ ಮಹತ್ವ ಹೊಂದಿದೆ. ಇದರಿಂದ ಪಡೆಯುವ ಪೆಟ್ರೋಕೆಮಿಕಲ್ಸ್ ಗಳನ್ನು ಪ್ಲಾಸ್ಟಿಕ್, ಕೃತಕ ನೂಲು ಮುಂತಾದ ಅನೇಕ ವಸ್ತುಗಳ ತಯಾರಿಕೆಯಲ್ಲಿ ಬಳಸುವುದರಿಂದ ಇದನ್ನು 'ಕಪ್ಪು ಚಿನ್ನ' ಎನ್ನಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_022",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the primary hydrocarbon constituent present in Natural Gas?",
+      "options": [
+        "Ethane",
+        "Butane",
+        "Methane",
+        "Propane"
+      ],
+      "answer": "Methane",
+      "reasoning": "Natural gas consists primarily of methane (usually about 75-90% or more), with smaller amounts of ethane, propane, and butane."
+    },
+    "kn": {
+      "question": "ನೈಸರ್ಗಿಕ ಅನಿಲದಲ್ಲಿರುವ ಪ್ರಮುಖ ಹೈಡ್ರೋಕಾರ್ಬನ್ ಘಟಕ ಯಾವುದು?",
+      "options": [
+        "ಇಥೇನ್",
+        "ಬ್ಯುಟೇನ್",
+        "ಮಿಥೇನ್",
+        "ಪ್ರೊಪೇನ್"
+      ],
+      "answer": "ಮಿಥೇನ್",
+      "reasoning": "ನೈಸರ್ಗಿಕ ಅನಿಲವು ಪ್ರಮುಖವಾಗಿ ಮಿಥೇನ್ (ಸುಮಾರು 75-90% ಕ್ಕಿಂತ ಹೆಚ್ಚು) ಅನಿಲವನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_023",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "In a petroleum refinery, what physical property allows different fractions to be separated during fractional distillation?",
+      "options": [
+        "Differences in solubility in water",
+        "Differences in boiling points of the components",
+        "Differences in chemical reactivity with acids",
+        "Differences in density at room temperature"
+      ],
+      "answer": "Differences in boiling points of the components",
+      "reasoning": "Fractional distillation separates a mixture into parts (fractions) based on their boiling points. Different hydrocarbon chains condense at different temperatures inside the distillation column."
+    },
+    "kn": {
+      "question": "ಪೆಟ್ರೋಲಿಯಂ ಶುದ್ಧೀಕರಣ ಘಟಕದಲ್ಲಿ, ಭಿನ್ನೀಕರಣ ಸ್ವೇದನದ ಸಮಯದಲ್ಲಿ ಯಾವ ಭೌತಿಕ ಗುಣಲಕ್ಷಣವು ವಿವಿಧ ಘಟಕಗಳನ್ನು ಬೇರ್ಪಡಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ?",
+      "options": [
+        "ನೀರಿನಲ್ಲಿ ಕರಗುವ ಪ್ರಮಾಣದಲ್ಲಿನ ವ್ಯತ್ಯಾಸ",
+        "ಘಟಕಗಳ ಕುದಿಯುವ ಬಿಂದುಗಳಲ್ಲಿನ (Boiling points) ವ್ಯತ್ಯಾಸ",
+        "ಆಮ್ಲಗಳೊಂದಿಗೆ ವರ್ತಿಸುವ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯ ವ್ಯತ್ಯಾಸ",
+        "ಕೋಣೆಯ ತಾಪಮಾನದಲ್ಲಿನ ಸಾಂದ್ರತೆಯ ವ್ಯತ್ಯಾಸ"
+      ],
+      "answer": "ಘಟಕಗಳ ಕುದಿಯುವ ಬಿಂದುಗಳಲ್ಲಿನ (Boiling points) ವ್ಯತ್ಯಾಸ",
+      "reasoning": "ಪೆಟ್ರೋಲಿಯಂನ ವಿವಿಧ ಘಟಕಗಳು ವಿಭಿನ್ನ ಕುದಿಯುವ ಬಿಂದುಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಈ ತತ್ವದ ಮೇಲೆ ಭಿನ್ನೀಕರಣ ಸ್ವೇದನ ಗೋಪುರದಲ್ಲಿ ತಾಪಮಾನಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಅವುಗಳನ್ನು ಬೇರ್ಪಡಿಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_024",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Many useful substances obtained from petroleum and natural gas are used in detergents, fibers, and plastics. These are collectively called:",
+      "options": [
+        "Petrochemicals",
+        "Polymer derivatives",
+        "Fossil salts",
+        "Inorganic chemicals"
+      ],
+      "answer": "Petrochemicals",
+      "reasoning": "Useful substances obtained from petroleum and natural gas are termed 'Petrochemicals'. They are starting materials for many industrial synthetics like polyester, nylon, acrylic, polythene, etc."
+    },
+    "kn": {
+      "question": "ಪೆಟ್ರೋಲಿಯಂ ಮತ್ತು ನೈಸರ್ಗಿಕ ಅನಿಲದಿಂದ ಪಡೆದ ಮತ್ತು ಡಿಟರ್ಜೆಂಟ್‌ಗಳು, ನೂಲುಗಳು ಹಾಗೂ ಪ್ಲಾಸ್ಟಿಕ್‌ಗಳಲ್ಲಿ ಬಳಸುವ ಉಪಯುಕ್ತ ವಸ್ತುಗಳನ್ನು ಒಟ್ಟಾಗಿ ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ಪೆಟ್ರೋಕೆಮಿಕಲ್ಸ್ (Petrochemicals)",
+        "ಪಾಲಿಮರ್ ಉತ್ಪನ್ನಗಳು",
+        "ಪಳೆಯುಳಿಕೆ ಲವಣಗಳು",
+        "ಅಜೈವಿಕ ರಾಸಾಯನಿಕಗಳು"
+      ],
+      "answer": "ಪೆಟ್ರೋಕೆಮಿಕಲ್ಸ್ (Petrochemicals)",
+      "reasoning": "ಪೆಟ್ರೋಲಿಯಂ ಮತ್ತು ನೈಸರ್ಗಿಕ ಅನಿಲದಿಂದ ಪಡೆಯುವ ಇಂತಹ ಉಪಯುಕ್ತ ರಾಸಾಯನಿಕ ವಸ್ತುಗಳನ್ನು ಪೆಟ್ರೋಕೆಮಿಕಲ್ಸ್ ಎನ್ನುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_025",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following statements regarding the geological formation of fossil fuels are correct?",
+      "options": [
+        "Coal was formed from land forests buried 300 million years ago",
+        "Petroleum was formed from sea organisms buried millions of years ago",
+        "Oxygen is highly required for the carbonisation process",
+        "High pressure and high temperature are essential for their formation"
+      ],
+      "answer": [
+        "Coal was formed from land forests buried 300 million years ago",
+        "Petroleum was formed from sea organisms buried millions of years ago",
+        "High pressure and high temperature are essential for their formation"
+      ],
+      "reasoning": "Coal formed from giant land plants, and petroleum formed from marine organisms. Both required anaerobic conditions (absence of oxygen) along with high temperature and pressure under the Earth's crust."
+    },
+    "kn": {
+      "question": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳ ರಚನೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ?",
+      "options": [
+        "ಕಲ್ಲಿದ್ದಲು 300 ಮಿಲಿಯನ್ ವರ್ಷಗಳ ಹಿಂದೆ ಹೂತುಹೋದ ಭೂಮಿಯ ಮೇಲಿನ ಕಾಡುಗಳಿಂದ ರೂಪುಗೊಂಡಿತು",
+        "ಪೆಟ್ರೋಲಿಯಂ ಮಿಲಿಯನ್ ವರ್ಷಗಳ ಹಿಂದೆ ಹೂತುಹೋದ ಸಮುದ್ರ ಜೀವಿಗಳಿಂದ ರೂಪುಗೊಂಡಿತು",
+        "ಕಾರ್ಬೊನೈಸೇಶನ್ ಪ್ರಕ್ರಿಯೆಗೆ ಆಮ್ಲಜನಕದ ಅವಶ್ಯಕತೆ ತುಂಬಾ ಇರುತ್ತದೆ",
+        "ಅವುಗಳ ರಚನೆಗೆ ಹೆಚ್ಚಿನ ಒತ್ತಡ ಮತ್ತು ಹೆಚ್ಚಿನ ತಾಪಮಾನ ಅತ್ಯಗತ್ಯ"
+      ],
+      "answer": [
+        "ಕಲ್ಲಿದ್ದಲು 300 ಮಿಲಿಯನ್ ವರ್ಷಗಳ ಹಿಂದೆ ಹೂತುಹೋದ ಭೂಮಿಯ ಮೇಲಿನ ಕಾಡುಗಳಿಂದ ರೂಪುಗೊಂಡಿತು",
+        "ಪೆಟ್ರೋಲಿಯಂ ಮಿಲಿಯನ್ ವರ್ಷಗಳ ಹಿಂದೆ ಹೂತುಹೋದ ಸಮುದ್ರ ಜೀವಿಗಳಿಂದ ರೂಪುಗೊಂಡಿತು",
+        "ಅವುಗಳ ರಚನೆಗೆ ಹೆಚ್ಚಿನ ಒತ್ತಡ ಮತ್ತು ಹೆಚ್ಚಿನ ತಾಪಮಾನ ಅತ್ಯಗತ್ಯ"
+      ],
+      "reasoning": "ಕಲ್ಲಿದ್ದಲು ಭೂಮಿಯ ಮೇಲಿನ ಸಸ್ಯಗಳಿಂದ ಮತ್ತು ಪೆಟ್ರೋಲಿಯಂ ಸಮುದ್ರ ಜೀವಿಗಳಿಂದ ರೂಪುಗೊಂಡವು. ಇವೆರಡರ ರಚನೆಗೆ ಗಾಳಿಯ ಅನುಪಸ್ಥಿತಿ (oxygen ರಹಿತ), ಹೆಚ್ಚಿನ ಒತ್ತಡ ಹಾಗೂ ಉಷ್ಣತೆ ಬೇಕು."
+    }
+  },
+  {
+    "id": "c8_sci_coal_img_026",
+    "type": "image_single",
+    "difficulty": 3,
+    "image": {
+      "type": "svg",
+      "alt": {
+        "en": "Molecular structure of methane showing one Carbon atom bonded to four Hydrogen atoms",
+        "kn": "ನಾಲ್ಕು ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳೊಂದಿಗೆ ಬಂಧ ಹೊಂದಿರುವ ಒಂದು ಕಾರ್ಬನ್ ಪರಮಾಣುವನ್ನು ತೋರಿಸುವ ಮಿಥೇನ್ ಅಣು ರಚನೆ"
+      },
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><circle cx=\"150\" cy=\"100\" r=\"22\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"3\"/><text x=\"150\" y=\"105\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">C</text><circle cx=\"150\" cy=\"40\" r=\"14\" fill=\"#059669\" opacity=\"0.8\"/><text x=\"150\" y=\"44\" fill=\"#FFF\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">H</text><line x1=\"150\" y1=\"78\" x2=\"150\" y2=\"54\" stroke=\"#2563EB\" stroke-width=\"3\"/><circle cx=\"150\" cy=\"160\" r=\"14\" fill=\"#059669\" opacity=\"0.8\"/><text x=\"150\" y=\"164\" fill=\"#FFF\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">H</text><line x1=\"150\" y1=\"122\" x2=\"150\" y2=\"146\" stroke=\"#2563EB\" stroke-width=\"3\"/><circle cx=\"90\" cy=\"100\" r=\"14\" fill=\"#059669\" opacity=\"0.8\"/><text x=\"90\" y=\"104\" fill=\"#FFF\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">H</text><line x1=\"128\" y1=\"100\" x2=\"104\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"3\"/><circle cx=\"210\" cy=\"100\" r=\"14\" fill=\"#059669\" opacity=\"0.8\"/><text x=\"210\" y=\"104\" fill=\"#FFF\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">H</text><line x1=\"172\" y1=\"100\" x2=\"196\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"3\"/></svg>"
+    },
+    "en": {
+      "question": "The molecular structure shown is the main constituent of which clean gaseous fuel?",
+      "options": [
+        "LPG",
+        "Coal Gas",
+        "Methane (CNG)",
+        "Acetylene"
+      ],
+      "answer": "Methane (CNG)",
+      "reasoning": "The diagram displays a molecule of Methane (CH4) consisting of one carbon atom and four hydrogen atoms. Methane is the primary constituent of CNG, natural gas, and biogas."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಲಾದ ಅಣು ರಚನೆಯು ಯಾವ ಸ್ವಚ್ಛ ಅನಿಲ ಇಂಧನದ ಪ್ರಮುಖ ಘಟಕವಾಗಿದೆ?",
+      "options": [
+        "LPG",
+        "ಕಲ್ಲಿದ್ದಲು ಅನಿಲ",
+        "ಮಿಥೇನ್ (CNG)",
+        "ಅಸಿಟಿಲಿನ್"
+      ],
+      "answer": "ಮಿಥೇನ್ (CNG)",
+      "reasoning": "ಚಿತ್ರವು ಒಂದು ಕಾರ್ಬನ್ ಮತ್ತು ನಾಲ್ಕು ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳಿರುವ ಮಿಥೇನ್ (CH4) ಅಣುವನ್ನು ತೋರಿಸುತ್ತದೆ. ಇದು ಸಿಎನ್‌ಜಿ (CNG) ಮತ್ತು ಜೈವಿಕ ಅನಿಲದ ಪ್ರಮುಖ ಘಟಕವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_027",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Select all the driving tips recommended by the Petroleum Conservation Research Association (PCRA) to save fuel:",
+      "options": [
+        "Drive at a constant and moderate speed",
+        "Switch off the engine at traffic lights or places where you have to wait",
+        "Ensure incorrect and low tyre pressure",
+        "Ensure regular maintenance of the vehicle"
+      ],
+      "answer": [
+        "Drive at a constant and moderate speed",
+        "Switch off the engine at traffic lights or places where you have to wait",
+        "Ensure regular maintenance of the vehicle"
+      ],
+      "reasoning": "PCRA tips include driving at moderate speeds, switching off engines at traffic lights, ensuring correct (not incorrect) tyre pressure, and regular maintenance of the vehicle to save fuel."
+    },
+    "kn": {
+      "question": "ಇಂಧನ ಉಳಿಸಲು ಪೆಟ್ರೋಲಿಯಂ ಸಂರಕ್ಷಣಾ ಸಂಶೋಧನಾ ಸಂಸ್ಥೆ (PCRA) ಶಿಫಾರಸು ಮಾಡಿದ ಎಲ್ಲಾ ವಾಹನ ಚಾಲನಾ ಸಲಹೆಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "ಸ್ಥಿರವಾದ ಮತ್ತು ಮಧ್ಯಮ ವೇಗದಲ್ಲಿ ಚಾಲನೆ ಮಾಡಿ",
+        "ಟ್ರಾಫಿಕ್ ಸಿಗ್ನಲ್‌ಗಳಲ್ಲಿ ಅಥವಾ ಕಾಯಬೇಕಾದ ಸ್ಥಳಗಳಲ್ಲಿ ಇಂಜಿನ್ ಆಫ್ ಮಾಡಿ",
+        "ಟೈರ್‌ಗಳಲ್ಲಿ ಕಡಿಮೆ ಒತ್ತಡವಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ",
+        "ವಾಹನದ ನಿಯಮಿತ ನಿರ್ವಹಣೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ"
+      ],
+      "answer": [
+        "ಸ್ಥಿರವಾದ ಮತ್ತು ಮಧ್ಯಮ ವೇಗದಲ್ಲಿ ಚಾಲನೆ ಮಾಡಿ",
+        "ಟ್ರಾಫಿಕ್ ಸಿಗ್ನಲ್‌ಗಳಲ್ಲಿ ಅಥವಾ ಕಾಯಬೇಕಾದ ಸ್ಥಳಗಳಲ್ಲಿ ಇಂಜಿನ್ ಆಫ್ ಮಾಡಿ",
+        "ವಾಹನದ ನಿಯಮಿತ ನಿರ್ವಹಣೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ"
+      ],
+      "reasoning": "ಸ್ಥಿರ ವೇಗ, ಸಿಗ್ನಲ್ ಗಳಲ್ಲಿ ಇಂಜಿನ್ ಆಫ್ ಮಾಡುವುದು, ಸರಿಯಾದ ಟೈರ್ ಒತ್ತಡ (ಕಡಿಮೆ ಅಲ್ಲ) ಮತ್ತು ವಾಹನದ ನಿಯಮಿತ ಸರ್ವಿಸಿಂಗ್ ಇವು ಪಿಸಿಆರ್‌ಎ ನ ಪ್ರಮುಖ ಇಂಧನ ಉಳಿತಾಯ ಸಲಹೆಗಳಾಗಿವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_028",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the chemical or product description with its correct name:",
+      "pairs": [
+        {
+          "left": "CH4",
+          "right": "Methane molecule"
+        },
+        {
+          "left": "Pure Carbon",
+          "right": "Coke"
+        },
+        {
+          "left": "Vaseline and candles",
+          "right": "Paraffin wax"
+        },
+        {
+          "left": "Road surfacing agent",
+          "right": "Bitumen"
+        }
+      ],
+      "reasoning": "CH4 is methane. Pure carbon is coke. Vaseline/candles use paraffin wax. Road surfacing uses bitumen."
+    },
+    "kn": {
+      "question": "ರಾಸಾಯನಿಕ ಅಥವಾ ಉತ್ಪನ್ನದ ವಿವರಣೆಯನ್ನು ಅದರ ಸರಿಯಾದ ಹೆಸರಿನೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "CH4",
+          "right": "ಮಿಥೇನ್ ಅಣು"
+        },
+        {
+          "left": "ಶುದ್ಧ ಕಾರ್ಬನ್",
+          "right": "ಕೋಕ್"
+        },
+        {
+          "left": "ವ್ಯಾಸಲಿನ್ ಮತ್ತು ಮೇಣದಬತ್ತಿ",
+          "right": "ಪ್ಯಾರಾಫಿನ್ ಮೇಣ"
+        },
+        {
+          "left": "ರಸ್ತೆ ಡಾಂಬರೀಕರಣ ಏಜೆಂಟ್",
+          "right": "ಬಿಟುಮೆನ್"
+        }
+      ],
+      "reasoning": "CH4 ಮಿಥೇನ್ ಆಗಿದೆ. ಶುದ್ಧ ಇಂಗಾಲ ಕೋಕ್ ಆಗಿದೆ. ವ್ಯಾಸಲಿನ್ ಪ್ಯಾರಾಫಿನ್ ಮೇಣದಿಂದ ಮಾಡುತ್ತಾರೆ. ರಸ್ತೆಗೆ ಬಿಟುಮೆನ್ ಬಳಸುತ್ತಾರೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_029",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the coal mining and extraction terms to their definitions:",
+      "pairs": [
+        {
+          "left": "Shaft mining",
+          "right": "Vertical shafts to reach coal deep underground"
+        },
+        {
+          "left": "Strip mining",
+          "right": "Removing soil and rocks to reach coal near the surface"
+        },
+        {
+          "left": "Carbonisation",
+          "right": "Conversion of dead plant matter into coal under high pressure"
+        },
+        {
+          "left": "Destructive distillation",
+          "right": "Heating coal in the absence of air to yield coke and tar"
+        }
+      ],
+      "reasoning": "Shaft mining reaches deep coal. Strip mining reaches shallow coal. Carbonisation is the geological process. Destructive distillation is laboratory heating."
+    },
+    "kn": {
+      "question": "ಕಲ್ಲಿದ್ದಲು ಗಣಿಗಾರಿಕೆ ಮತ್ತು ಹೊರತೆಗೆಯುವಿಕೆಯ ಪದಗಳನ್ನು ಅವುಗಳ ವ್ಯಾಖ್ಯಾನಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಆಳ ಗಣಿಗಾರಿಕೆ (Shaft mining)",
+          "right": "ಭೂಮಿಯ ಆಳದಲ್ಲಿನ ಕಲ್ಲಿದ್ದಲು ತಲುಪಲು ಲಂಬವಾದ ಸುರಂಗ ಕೊರೆಯುವುದು"
+        },
+        {
+          "left": "ಮೇಲ್ಮೈ ಗಣಿಗಾರಿಕೆ (Strip mining)",
+          "right": "ಮೇಲ್ಮೈ ಸಮೀಪವಿರುವ ಕಲ್ಲಿದ್ದಲು ಪಡೆಯಲು ಮಣ್ಣು ಮತ್ತು ಬಂಡೆಗಳನ್ನು ತೆಗೆಯುವುದು"
+        },
+        {
+          "left": "ಕಾರ್ಬೊನೈಸೇಶನ್",
+          "right": "ಹೆಚ್ಚಿನ ಒತ್ತಡದಲ್ಲಿ ಸತ್ತ ಸಸ್ಯಗಳು ಕಲ್ಲಿದ್ದಲಾಗಿ ಪರಿವರ್ತನೆಗೊಳ್ಳುವುದು"
+        },
+        {
+          "left": "ವಿನಾಶಕಾರಿ ಸ್ವೇದನ",
+          "right": "ಕೋಕ್ ಮತ್ತು ಡಾಂಬರು ಪಡೆಯಲು ಗಾಳಿಯಿಲ್ಲದೆ ಕಲ್ಲಿದ್ದಲನ್ನು ಕಾಯಿಸುವುದು"
+        }
+      ],
+      "reasoning": "ಆಳ ಗಣಿಗಾರಿಕೆಯಲ್ಲಿ ಆಳವಾದ ಸುರಂಗ ಇರುತ್ತದೆ. ಮೇಲ್ಮೈ ಗಣಿಗಾರಿಕೆಯಲ್ಲಿ ಮಣ್ಣು ತೆಗೆದು ಕಲ್ಲಿದ್ದಲು ಪಡೆಯಲಾಗುತ್ತದೆ. ಕಾರ್ಬೊನೈಸೇಶನ್ ನೈಸರ್ಗಿಕ ಪ್ರಕ್ರಿಯೆ. ವಿನಾಶಕಾರಿ ಸ್ವೇದನ ಕೃತಕ ಪ್ರಯೋಗಾಲಯ ಪ್ರಕ್ರಿಯೆ."
+    }
+  },
+  {
+    "id": "c8_sci_coal_030",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Burning of coal and petroleum releases oxides of which elements that dissolve in rain water to cause acid rain?",
+      "options": [
+        "Carbon and Hydrogen",
+        "Sulphur and Nitrogen",
+        "Sodium and Chlorine",
+        "Helium and Neon"
+      ],
+      "answer": "Sulphur and Nitrogen",
+      "reasoning": "Fossil fuels contain small amounts of sulphur and nitrogen. Burning them releases sulphur dioxide and nitrogen oxides, which dissolve in rainwater to form sulphuric acid and nitric acid, causing acid rain."
+    },
+    "kn": {
+      "question": "ಕಲ್ಲಿದ್ದಲು ಮತ್ತು ಪೆಟ್ರೋಲಿಯಂ ದಹನದಿಂದ ಬಿಡುಗಡೆಯಾಗುವ ಯಾವ ಧಾತುಗಳ ಆಕ್ಸೈಡ್‌ಗಳು ಮಳೆನೀರಿನಲ್ಲಿ ಕರಗಿ ಆಮ್ಲ ಮಳೆಗೆ (Acid Rain) ಕಾರಣವಾಗುತ್ತವೆ?",
+      "options": [
+        "ಕಾರ್ಬನ್ ಮತ್ತು ಹೈಡ್ರೋಜನ್",
+        "ಸಲ್ಫರ್ (ಗಂಧಕ) ಮತ್ತು ಸಾರಜನಕ (Nitrogen)",
+        "ಸೋಡಿಯಂ ಮತ್ತು ಕ್ಲೋರಿನ್",
+        "ಹೀಲಿಯಂ ಮತ್ತು ನಿಯಾನ್"
+      ],
+      "answer": "ಸಲ್ಫರ್ (ಗಂಧಕ) ಮತ್ತು ಸಾರಜನಕ (Nitrogen)",
+      "reasoning": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳಲ್ಲಿ ಸಲ್ಫರ್ ಮತ್ತು ನೈಟ್ರೋಜನ್ ಅಂಶವಿರುತ್ತದೆ. ಇವುಗಳ ದಹನದಿಂದ ಬಿಡುಗಡೆಯಾಗುವ ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ನೈಟ್ರೋಜನ್ ಆಕ್ಸೈಡ್‌ಗಳು ಮಳೆನೀರಿನಲ್ಲಿ ಕರಗಿ ಆಮ್ಲಗಳನ್ನು ರೂಪಿಸಿ ಆಮ್ಲ ಮಳೆಯನ್ನುಂಟುಮಾಡುತ್ತವೆ."
+    }
+  }
+]

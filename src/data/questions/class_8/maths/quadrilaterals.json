@@ -1,0 +1,1016 @@
+[
+  {
+    "id": "c8_math_quad_001",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the sum of all interior angles of a quadrilateral?",
+      "reasoning": "A quadrilateral can be split into two triangles by drawing a diagonal. The sum of angles in a triangle is 180°. Hence, for two triangles, the sum is 180° * 2 = 360°.",
+      "options": [
+        "180°",
+        "360°",
+        "540°",
+        "720°"
+      ],
+      "answer": "360°"
+    },
+    "kn": {
+      "question": "ಚತುರ್ಭುಜದ ಎಲ್ಲಾ ಒಳಕೋನಗಳ ಮೊತ್ತ ಎಷ್ಟು?",
+      "reasoning": "ಚತುರ್ಭುಜಕ್ಕೆ ಒಂದು ಕರ್ಣವನ್ನು ಎಳೆಯುವುದರಿಂದ ಅದನ್ನು ಎರಡು ತ್ರಿಕೋನಗಳಾಗಿ ವಿಂಗಡಿಸಬಹುದು. ತ್ರಿಕೋನದ ಕೋನಗಳ ಮೊತ್ತ 180°. ಆದ್ದರಿಂದ, ಎರಡು ತ್ರಿಕೋನಗಳಿಗೆ ಕೋನಗಳ ಮೊತ್ತ 180° * 2 = 360°.",
+      "options": [
+        "180°",
+        "360°",
+        "540°",
+        "720°"
+      ],
+      "answer": "360°"
+    }
+  },
+  {
+    "id": "c8_math_quad_002",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the sum of the measures of the exterior angles of any polygon?",
+      "reasoning": "The sum of the exterior angles of any convex polygon is always 360°, regardless of the number of sides it has.",
+      "options": [
+        "180°",
+        "360°",
+        "540°",
+        "720°"
+      ],
+      "answer": "360°"
+    },
+    "kn": {
+      "question": "ಯಾವುದೇ ಬಹುಭುಜಾಕೃತಿಯ ಹೊರಕೋನಗಳ ಅಳತೆಗಳ ಮೊತ್ತ ಎಷ್ಟು?",
+      "reasoning": "ಯಾವುದೇ ಪೀನ ಬಹುಭುಜಾಕೃತಿಯ ಹೊರಕೋನಗಳ ಮೊತ್ತವು ಅದರ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಲೆಕ್ಕಿಸದೆ ಯಾವಾಗಲೂ 360° ಆಗಿರುತ್ತದೆ.",
+      "options": [
+        "180°",
+        "360°",
+        "540°",
+        "720°"
+      ],
+      "answer": "360°"
+    }
+  },
+  {
+    "id": "c8_math_quad_003",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "How many diagonals does a triangle have?",
+      "reasoning": "A diagonal connects non-consecutive vertices. In a triangle, all vertices are consecutive (adjacent to each other). So a triangle has 0 diagonals.",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "0"
+    },
+    "kn": {
+      "question": "ತ್ರಿಕೋನವು ಎಷ್ಟು ಕರ್ಣಗಳನ್ನು ಹೊಂದಿದೆ?",
+      "reasoning": "ಕರ್ಣವು ಅನುಕ್ರಮವಲ್ಲದ ಶೃಂಗಗಳನ್ನು ಜೋಡಿಸುತ್ತದೆ. ತ್ರಿಕೋನದಲ್ಲಿ ಎಲ್ಲಾ ಶೃಂಗಗಳು ಅನುಕ್ರಮವಾಗಿರುತ್ತವೆ (ಪರಸ್ಪರ ಪಾರ್ಶ್ವದಲ್ಲಿರುತ್ತವೆ). ಆದ್ದರಿಂದ ತ್ರಿಕೋನವು 0 ಕರ್ಣಗಳನ್ನು ಹೊಂದಿದೆ.",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "0"
+    }
+  },
+  {
+    "id": "c8_math_quad_004",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "How many diagonals does a regular hexagon have?",
+      "reasoning": "The formula for the number of diagonals in a polygon with n sides is: n * (n - 3) / 2. For a hexagon (n = 6): 6 * (6 - 3) / 2 = 6 * 3 / 2 = 9.",
+      "options": [
+        "9",
+        "6",
+        "5",
+        "12"
+      ],
+      "answer": "9"
+    },
+    "kn": {
+      "question": "ನಿಯಮಿತ ಷಡ್ಭುಜಾಕೃತಿಯು (regular hexagon) ಎಷ್ಟು ಕರ್ಣಗಳನ್ನು ಹೊಂದಿದೆ?",
+      "reasoning": "n ಬಾಹುಗಳಿರುವ ಬಹುಭುಜಾಕೃತಿಯ ಕರ್ಣಗಳ ಸಂಖ್ಯೆಯ ಸೂತ್ರ: n * (n - 3) / 2. ಷಡ್ಭುಜಾಕೃತಿಗಾಗಿ (n = 6): 6 * (6 - 3) / 2 = 6 * 3 / 2 = 9.",
+      "options": [
+        "9",
+        "6",
+        "5",
+        "12"
+      ],
+      "answer": "9"
+    }
+  },
+  {
+    "id": "c8_math_quad_005",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "If the interior angles of a quadrilateral are 90°, 90°, 90° and x, what is the value of x?",
+      "reasoning": "The sum of interior angles of a quadrilateral is 360°. So, 90° + 90° + 90° + x = 360° => 270° + x = 360° => x = 90°.",
+      "options": [
+        "90°",
+        "180°",
+        "60°",
+        "120°"
+      ],
+      "answer": "90°"
+    },
+    "kn": {
+      "question": "ಒಂದು ಚತುರ್ಭುಜದ ಒಳಕೋನಗಳು 90°, 90°, 90° ಮತ್ತು x ಆಗಿದ್ದರೆ, x ನ ಬೆಲೆ ಎಷ್ಟು?",
+      "reasoning": "ಚತುರ್ಭುಜದ ಒಳಕೋನಗಳ ಮೊತ್ತ 360°. ಆದ್ದರಿಂದ, 90° + 90° + 90° + x = 360° => 270° + x = 360° => x = 90°.",
+      "options": [
+        "90°",
+        "180°",
+        "60°",
+        "120°"
+      ],
+      "answer": "90°"
+    }
+  },
+  {
+    "id": "c8_math_quad_006",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "A quadrilateral with opposite sides parallel is called a:",
+      "reasoning": "By definition, a quadrilateral with both pairs of opposite sides parallel is called a parallelogram.",
+      "options": [
+        "Parallelogram",
+        "Trapezium",
+        "Kite",
+        "None of these"
+      ],
+      "answer": "Parallelogram"
+    },
+    "kn": {
+      "question": "ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾನಾಂತರವಾಗಿರುವ ಚತುರ್ಭುಜವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "reasoning": "ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ, ಎರಡೂ ಜೋಡಿ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾನಾಂತರವಾಗಿರುವ ಚತುರ್ಭುಜವನ್ನು ಸಮಾನಾಂತರ ಚತುರ್ಭುಜ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+      "options": [
+        "ಸಮಾನಾಂತರ ಚತುರ್ಭುಜ",
+        "ತ್ರಾಪಿಜ್ಯ",
+        "ಗಾಳಿಪಟ",
+        "ಇವುಗಳಲ್ಲಿ ಯಾವುದೂ ಅಲ್ಲ"
+      ],
+      "answer": "ಸಮಾನಾಂತರ ಚತುರ್ಭುಜ"
+    }
+  },
+  {
+    "id": "c8_math_quad_007",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "A parallelogram having all sides equal and each angle 90° is a:",
+      "reasoning": "A square is a parallelogram with all sides equal (like a rhombus) and all angles equal to 90° (like a rectangle).",
+      "options": [
+        "Square",
+        "Rectangle",
+        "Rhombus",
+        "Trapezium"
+      ],
+      "answer": "Square"
+    },
+    "kn": {
+      "question": "ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮನಾಗಿದ್ದು, ಪ್ರತಿಯೊಂದು ಕೋನ 90° ಆಗಿರುವ ಸಮಾನಾಂತರ ಚತುರ್ಭುಜವು ಒಂದು:",
+      "reasoning": "ಚೌಕವು ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮನಾಗಿರುವ (ವಜ್ರಾಕೃತಿಯಂತೆ) ಮತ್ತು ಎಲ್ಲಾ ಕೋನಗಳು 90° ಆಗಿರುವ (ಆಯತದಂತೆ) ಸಮಾನಾಂತರ ಚತುರ್ಭುಜವಾಗಿದೆ.",
+      "options": [
+        "ಚೌಕ",
+        "ಆಯತ",
+        "ವಜ್ರಾಕೃತಿ",
+        "ತ್ರಾಪಿಜ್ಯ"
+      ],
+      "answer": "ಚೌಕ"
+    }
+  },
+  {
+    "id": "c8_math_quad_img_008",
+    "difficulty": 1,
+    "type": "image_single",
+    "en": {
+      "question": "Find the value of angle x in the given quadrilateral ABCD.",
+      "reasoning": "The sum of the interior angles of quadrilateral ABCD is 360°. So, 80° + 110° + 120° + x = 360° => 310° + x = 360° => x = 50°.",
+      "options": [
+        "50°",
+        "60°",
+        "70°",
+        "80°"
+      ],
+      "answer": "50°"
+    },
+    "kn": {
+      "question": "ನೀಡಿರುವ ಚತುರ್ಭುಜ ABCD ಯಲ್ಲಿ ಕೋನ x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "reasoning": "ಚತುರ್ಭುಜ ABCD ಯ ಒಳಕೋನಗಳ ಮೊತ್ತ 360°. ಆದ್ದರಿಂದ, 80° + 110° + 120° + x = 360° => 310° + x = 360° => x = 50°.",
+      "options": [
+        "50°",
+        "60°",
+        "70°",
+        "80°"
+      ],
+      "answer": "50°"
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 250 200\"><polygon points=\"30,170 80,40 220,60 180,170\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"20\" y=\"180\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">A</text><text x=\"75\" y=\"30\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">B</text><text x=\"230\" y=\"55\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">C</text><text x=\"190\" y=\"185\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">D</text><text x=\"50\" y=\"150\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\">80°</text><text x=\"95\" y=\"65\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\">110°</text><text x=\"180\" y=\"80\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\">120°</text><text x=\"160\" y=\"155\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\">x</text></svg>",
+      "alt": {
+        "en": "Quadrilateral ABCD with interior angles: A = 80 degrees, B = 110 degrees, C = 120 degrees, and D = x.",
+        "kn": "ಒಳಕೋನಗಳನ್ನು ಹೊಂದಿರುವ ಚತುರ್ಭುಜ ABCD: A = 80 ಡಿಗ್ರಿ, B = 110 ಡಿಗ್ರಿ, C = 120 ಡಿಗ್ರಿ ಮತ್ತು D = x."
+      }
+    }
+  },
+  {
+    "id": "c8_math_quad_img_009",
+    "difficulty": 1,
+    "type": "image_single",
+    "en": {
+      "question": "The polygon ABCDE in the image is a regular pentagon. What is the measure of the exterior angle x?",
+      "reasoning": "The sum of the exterior angles of any regular polygon is 360°. A regular pentagon has 5 sides and 5 equal exterior angles. Therefore, each exterior angle x = 360° / 5 = 72°.",
+      "options": [
+        "72°",
+        "108°",
+        "60°",
+        "90°"
+      ],
+      "answer": "72°"
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿರುವ ABCDE ಬಹುಭುಜಾಕೃತಿಯು ಒಂದು ನಿಯಮಿತ ಪಂಚಭುಜಾಕೃತಿಯಾಗಿದೆ. ಹೊರಕೋನ x ನ ಅಳತೆ ಎಷ್ಟು?",
+      "reasoning": "ಯಾವುದೇ ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿಯ ಹೊರಕೋನಗಳ ಮೊತ್ತ 360°. ನಿಯಮಿತ ಪಂಚಭುಜಾಕೃತಿಯು 5 ಬಾಹುಗಳನ್ನು ಮತ್ತು 5 ಸಮಾನ ಹೊರಕೋನಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಪ್ರತಿ ಹೊರಕೋನ x = 360° / 5 = 72°.",
+      "options": [
+        "72°",
+        "108°",
+        "60°",
+        "90°"
+      ],
+      "answer": "72°"
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 250 220\"><polygon points=\"125,20 220,89 184,200 66,200 30,89\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"66\" y1=\"200\" x2=\"240\" y2=\"200\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><path d=\"M184,200 A25,25 0 0,0 209,200\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"210\" y=\"190\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">x</text><text x=\"125\" y=\"15\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">A</text><text x=\"230\" y=\"90\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\">B</text><text x=\"190\" y=\"215\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\">C</text><text x=\"60\" y=\"215\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\">D</text><text x=\"20\" y=\"90\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\">E</text></svg>",
+      "alt": {
+        "en": "A regular pentagon ABCDE with side CD extended to show exterior angle x at vertex C.",
+        "kn": "ಬಾಹು CD ಯನ್ನು ವಿಸ್ತರಿಸಿ ಶೃಂಗ C ನಲ್ಲಿ ಹೊರಕೋನ x ಅನ್ನು ತೋರಿಸಿರುವ ನಿಯಮಿತ ಪಂಚಭುಜಾಕೃತಿ ABCDE."
+      }
+    }
+  },
+  {
+    "id": "c8_math_quad_010",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following are properties of a rectangle?",
+      "reasoning": "A rectangle is a parallelogram with four right angles. Its opposite sides are equal, and its diagonals are equal in length and bisect each other. However, they do not necessarily bisect at right angles (that is a property of squares and rhombuses).",
+      "options": [
+        "Opposite sides are equal in length",
+        "All interior angles measure 90°",
+        "The diagonals are equal in length",
+        "The diagonals always bisect each other at right angles"
+      ],
+      "answer": [
+        "Opposite sides are equal in length",
+        "All interior angles measure 90°",
+        "The diagonals are equal in length"
+      ]
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಆಯತದ ಗುಣಲಕ್ಷಣಗಳಾಗಿವೆ?",
+      "reasoning": "ಆಯತವು ನಾಲ್ಕು ಲಂಬಕೋನಗಳನ್ನು ಹೊಂದಿರುವ ಸಮಾನಾಂತರ ಚತುರ್ಭುಜವಾಗಿದೆ. ಅದರ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮನಾಗಿರುತ್ತವೆ ಮತ್ತು ಕರ್ಣಗಳ ಉದ್ದವು ಸಮನಾಗಿದ್ದು ಪರಸ್ಪರ ದ್ವಿಭಾಗಿಸುತ್ತವೆ. ಆದರೆ ಅವು ಲಂಬಕೋನದಲ್ಲಿ ದ್ವಿಭಾಗಿಸಬೇಕಾಗಿಲ್ಲ (ಅದು ಚೌಕ ಮತ್ತು ವಜ್ರಾಕೃತಿಯ ಗುಣವಾಗಿದೆ).",
+      "options": [
+        "ಅಭಿಮುಖ ಬಾಹುಗಳ ಉದ್ದವು ಸಮನಾಗಿರುತ್ತದೆ",
+        "ಎಲ್ಲಾ ಒಳಕೋನಗಳು 90° ಆಗಿರುತ್ತವೆ",
+        "ಕರ್ಣಗಳ ಉದ್ದವು ಸಮನಾಗಿರುತ್ತದೆ",
+        "ಕರ್ಣಗಳು ಯಾವಾಗಲೂ ಲಂಬಕೋನದಲ್ಲಿ ಪರಸ್ಪರ ದ್ವಿಭಾಗಿಸುತ್ತವೆ"
+      ],
+      "answer": [
+        "ಅಭಿಮುಖ ಬಾಹುಗಳ ಉದ್ದವು ಸಮನಾಗಿರುತ್ತದೆ",
+        "ಎಲ್ಲಾ ಒಳಕೋನಗಳು 90° ಆಗಿರುತ್ತವೆ",
+        "ಕರ್ಣಗಳ ಉದ್ದವು ಸಮನಾಗಿರುತ್ತದೆ"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_quad_011",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Find the number of sides of a regular polygon whose each exterior angle has a measure of 45°.",
+      "reasoning": "The number of sides of a regular polygon is given by 360° divided by the measure of each exterior angle: 360° / 45° = 8.",
+      "options": [
+        "8",
+        "6",
+        "10",
+        "12"
+      ],
+      "answer": "8"
+    },
+    "kn": {
+      "question": "ಪ್ರತಿಯೊಂದು ಹೊರಕೋನದ ಅಳತೆ 45° ಆಗಿರುವ ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿಯ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "reasoning": "ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿಯ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯು 360° ಯನ್ನು ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆಯಿಂದ ಭಾಗಿಸುವುದರಿಂದ ಲಭ್ಯವಾಗುತ್ತದೆ: 360° / 45° = 8.",
+      "options": [
+        "8",
+        "6",
+        "10",
+        "12"
+      ],
+      "answer": "8"
+    }
+  },
+  {
+    "id": "c8_math_quad_012",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Two adjacent angles of a parallelogram are in the ratio 3:2. Find the measure of the smaller angle.",
+      "reasoning": "Adjacent angles of a parallelogram are supplementary (sum is 180°). Let the angles be 3x and 2x. 3x + 2x = 180° => 5x = 180° => x = 36°. The smaller angle is 2x = 2 * 36° = 72°.",
+      "options": [
+        "72°",
+        "108°",
+        "120°",
+        "60°"
+      ],
+      "answer": "72°"
+    },
+    "kn": {
+      "question": "ಸಮಾನಾಂತರ ಚತುರ್ಭುಜದ ಎರಡು ಪಾರ್ಶ್ವ ಕೋನಗಳು 3:2 ಅನುಪಾತದಲ್ಲಿವೆ. ಚಿಕ್ಕ ಕೋನದ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "reasoning": "ಸಮಾನಾಂತರ ಚತುರ್ಭುಜದ ಪಾರ್ಶ್ವ ಕೋನಗಳು ಪರಿಪೂರಕವಾಗಿರುತ್ತವೆ (ಮೊತ್ತ 180°). ಕೋನಗಳು 3x ಮತ್ತು 2x ಆಗಿರಲಿ. 3x + 2x = 180° => 5x = 180° => x = 36°. ಚಿಕ್ಕ ಕೋನ 2x = 2 * 36° = 72°.",
+      "options": [
+        "72°",
+        "108°",
+        "120°",
+        "60°"
+      ],
+      "answer": "72°"
+    }
+  },
+  {
+    "id": "c8_math_quad_013",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "If two adjacent angles of a parallelogram are (3x - 4)° and (3x + 10)°, find the value of x.",
+      "reasoning": "Adjacent angles of a parallelogram sum to 180°. So: (3x - 4) + (3x + 10) = 180 => 6x + 6 = 180 => 6x = 174 => x = 29.",
+      "options": [
+        "29",
+        "30",
+        "28",
+        "31"
+      ],
+      "answer": "29"
+    },
+    "kn": {
+      "question": "ಸಮಾನಾಂತರ ಚತುರ್ಭುಜದ ಎರಡು ಪಾರ್ಶ್ವ ಕೋನಗಳು (3x - 4)° ಮತ್ತು (3x + 10)° ಆಗಿದ್ದರೆ, x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "reasoning": "ಸಮಾನಾಂತರ ಚತುರ್ಭುಜದ ಪಾರ್ಶ್ವ ಕೋನಗಳ ಮೊತ್ತ 180° ಆಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ: (3x - 4) + (3x + 10) = 180 => 6x + 6 = 180 => 6x = 174 => x = 29.",
+      "options": [
+        "29",
+        "30",
+        "28",
+        "31"
+      ],
+      "answer": "29"
+    }
+  },
+  {
+    "id": "c8_math_quad_014",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "The diagonals of a rhombus are of lengths 6 cm and 8 cm. What is the length of each side of the rhombus?",
+      "reasoning": "Diagonals of a rhombus bisect each other at right angles (90°). This forms four right-angled triangles with legs of half-diagonals (3 cm and 4 cm). The hypotenuse is the side of the rhombus: side = sqrt(3² + 4²) = sqrt(9 + 16) = sqrt(25) = 5 cm.",
+      "options": [
+        "5 cm",
+        "7 cm",
+        "10 cm",
+        "14 cm"
+      ],
+      "answer": "5 cm"
+    },
+    "kn": {
+      "question": "ವಜ್ರಾಕೃತಿಯ ಕರ್ಣಗಳ ಉದ್ದವು 6 ಸೆಂ.ಮೀ. ಮತ್ತು 8 ಸೆಂ.ಮೀ. ಆಗಿದೆ. ವಜ್ರಾಕೃತಿಯ ಪ್ರತಿ ಬಾಹುವಿನ ಉದ್ದ ಎಷ್ಟು?",
+      "reasoning": "ವಜ್ರಾಕೃತಿಯ ಕರ್ಣಗಳು ಲಂಬಕೋನದಲ್ಲಿ ಪರಸ್ಪರ ದ್ವಿಭಾಗಿಸುತ್ತವೆ. ಇದು ಅರ್ಧ ಕರ್ಣಗಳನ್ನು (3 ಸೆಂ.ಮೀ. ಮತ್ತು 4 ಸೆಂ.ಮೀ.) ಬಾಹುಗಳಾಗಿ ಹೊಂದಿರುವ ನಾಲ್ಕು ಲಂಬಕೋನ ತ್ರಿಕೋನಗಳನ್ನು ರೂಪಿಸುತ್ತದೆ. ವಿಕರ್ಣವು ವಜ್ರಾಕೃತಿಯ ಬಾಹುವಾಗಿದೆ: side = sqrt(3² + 4²) = sqrt(9 + 16) = sqrt(25) = 5 cm.",
+      "options": [
+        "5 cm",
+        "7 cm",
+        "10 cm",
+        "14 cm"
+      ],
+      "answer": "5 cm"
+    }
+  },
+  {
+    "id": "c8_math_quad_015",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "How many sides does a regular polygon have if each of its interior angles is 165°?",
+      "reasoning": "If each interior angle is 165°, then each exterior angle is 180° - 165° = 15°. Since the sum of all exterior angles is 360°, the number of sides is 360° / 15° = 24.",
+      "options": [
+        "24",
+        "15",
+        "12",
+        "20"
+      ],
+      "answer": "24"
+    },
+    "kn": {
+      "question": "ಪ್ರತಿಯೊಂದು ಒಳಕೋನ 165° ಆಗಿರುವ ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿಯು ಎಷ್ಟು ಬಾಹುಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ?",
+      "reasoning": "ಪ್ರತಿ ಒಳಕೋನ 165° ಆಗಿದ್ದರೆ, ಪ್ರತಿ ಹೊರಕೋನವು 180° - 165° = 15° ಆಗಿರುತ್ತದೆ. ಎಲ್ಲಾ ಹೊರಕೋನಗಳ ಮೊತ್ತ 360° ಆಗಿರುವುದರಿಂದ, ಬಾಹುಗಳ ಸಂಖ್ಯೆ 360° / 15° = 24.",
+      "options": [
+        "24",
+        "15",
+        "12",
+        "20"
+      ],
+      "answer": "24"
+    }
+  },
+  {
+    "id": "c8_math_quad_img_016",
+    "difficulty": 2,
+    "type": "image_single",
+    "en": {
+      "question": "In the given parallelogram PQRS, find the values of x and y.",
+      "reasoning": "In a parallelogram, opposite sides are equal in length. So, PQ = SR => 3x = 18 => x = 6. And PS = QR => 15 = 2y - 1 => 2y = 16 => y = 8. Thus, x=6 and y=8.",
+      "options": [
+        "x=6, y=8",
+        "x=6, y=7",
+        "x=5, y=8",
+        "x=6, y=6"
+      ],
+      "answer": "x=6, y=8"
+    },
+    "kn": {
+      "question": "ನೀಡಿರುವ ಸಮಾನಾಂತರ ಚತುರ್ಭುಜ PQRS ನಲ್ಲಿ, x ಮತ್ತು y ನ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "reasoning": "ಸಮಾನಾಂತರ ಚತುರ್ಭುಜದಲ್ಲಿ, ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, PQ = SR => 3x = 18 => x = 6. ಮತ್ತು PS = QR => 15 = 2y - 1 => 2y = 16 => y = 8. ಅಂದರೆ x=6 ಮತ್ತು y=8.",
+      "options": [
+        "x=6, y=8",
+        "x=6, y=7",
+        "x=5, y=8",
+        "x=6, y=6"
+      ],
+      "answer": "x=6, y=8"
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 250 160\"><polygon points=\"60,30 220,30 190,130 30,130\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"50\" y=\"25\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">P</text><text x=\"225\" y=\"25\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">Q</text><text x=\"195\" y=\"145\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">R</text><text x=\"20\" y=\"145\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">S</text><text x=\"140\" y=\"20\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">3x</text><text x=\"110\" y=\"145\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">18</text><text x=\"35\" y=\"85\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">15</text><text x=\"215\" y=\"85\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">2y - 1</text></svg>",
+      "alt": {
+        "en": "Parallelogram PQRS with PQ = 3x, SR = 18, PS = 15, and QR = 2y - 1.",
+        "kn": "PQ = 3x, SR = 18, PS = 15, ಮತ್ತು QR = 2y - 1 ಬಾಹುಗಳನ್ನು ಹೊಂದಿರುವ ಸಮಾನಾಂತರ ಚತುರ್ಭುಜ PQRS."
+      }
+    }
+  },
+  {
+    "id": "c8_math_quad_img_017",
+    "difficulty": 2,
+    "type": "image_single",
+    "en": {
+      "question": "In the given trapezium ABCD (where AB is parallel to CD), find the measures of angles x and y.",
+      "reasoning": "Since AB || CD, the consecutive interior angles on the same side of the transversal are supplementary. Therefore: A + D = 180° => 100° + x = 180° => x = 80°. Similarly, B + C = 180° => y + 110° = 180° => y = 70°.",
+      "options": [
+        "x=80°, y=70°",
+        "x=100°, y=110°",
+        "x=80°, y=80°",
+        "x=70°, y=70°"
+      ],
+      "answer": "x=80°, y=70°"
+    },
+    "kn": {
+      "question": "ನೀಡಿರುವ ತ್ರಾಪಿಜ್ಯ ABCD ಯಲ್ಲಿ (ಇಲ್ಲಿ AB ಯು CD ಗೆ ಸಮಾನಾಂತರವಾಗಿದೆ), ಕೋನ x ಮತ್ತು y ನ ಅಳತೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "reasoning": "AB || CD ಆಗಿರುವುದರಿಂದ, ಒಂದೇ ಬದಿಯ ಒಳಕೋನಗಳು ಪರಿಪೂರಕವಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ: A + D = 180° => 100° + x = 180° => x = 80°. ಅದೇ ರೀತಿ, B + C = 180° => y + 110° = 180° => y = 70°.",
+      "options": [
+        "x=80°, y=70°",
+        "x=100°, y=110°",
+        "x=80°, y=80°",
+        "x=70°, y=70°"
+      ],
+      "answer": "x=80°, y=70°"
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 250 160\"><polygon points=\"50,30 190,30 230,130 20,130\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"45\" y=\"25\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">A</text><text x=\"195\" y=\"25\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">B</text><text x=\"235\" y=\"145\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">C</text><text x=\"10\" y=\"145\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">D</text><text x=\"65\" y=\"55\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\">100°</text><text x=\"170\" y=\"55\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\">y</text><text x=\"195\" y=\"120\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\">110°</text><text x=\"45\" y=\"120\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\">x</text></svg>",
+      "alt": {
+        "en": "Trapezium ABCD with AB parallel to CD. Angle A = 100°, D = x, B = y, and C = 110°.",
+        "kn": "AB ಯು CD ಗೆ ಸಮಾನಾಂತರವಾಗಿರುವ ತ್ರಾಪಿಜ್ಯ ABCD. ಕೋನ A = 100°, D = x, B = y, ಮತ್ತು C = 110°."
+      }
+    }
+  },
+  {
+    "id": "c8_math_quad_018",
+    "difficulty": 2,
+    "type": "image_multiple",
+    "en": {
+      "question": "Based on the properties of a kite shown in the image, select the correct statements.",
+      "reasoning": "In a kite, diagonals are perpendicular to each other (intersect at 90°). One of the diagonals (the longer one, AC) bisects the other (BD). A kite has two pairs of equal consecutive sides: AB = AD and BC = CD. However, all four sides are not equal (that would make it a rhombus).",
+      "options": [
+        "Diagonals intersect at right angles (90°)",
+        "The diagonal AC bisects diagonal BD",
+        "AB is equal to AD, and BC is equal to CD",
+        "All four sides of the quadrilateral ABCD are equal in length"
+      ],
+      "answer": [
+        "Diagonals intersect at right angles (90°)",
+        "The diagonal AC bisects diagonal BD",
+        "AB is equal to AD, and BC is equal to CD"
+      ]
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಗಾಳಿಪಟದ ಗುಣಲಕ್ಷಣಗಳ ಆಧಾರದ ಮೇಲೆ, ಸರಿಯಾದ ಹೇಳಿಕೆಗಳನ್ನು ಆರಿಸಿ.",
+      "reasoning": "ಗಾಳಿಪಟದಲ್ಲಿ, ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ (90° ಯಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ). ಒಂದು ಕರ್ಣವು (ಉದ್ದನೆಯ ಕರ್ಣ AC) ಇನ್ನೊಂದನ್ನು (BD) ದ್ವಿಭಾಗಿಸುತ್ತದೆ. ಗಾಳಿಪಟವು ಎರಡು ಜೊತೆ ಸಮಾನ ಪಾರ್ಶ್ವ ಬಾಹುಗಳನ್ನು ಹೊಂದಿದೆ: AB = AD ಮತ್ತು BC = CD. ಆದರೆ ನಾಲ್ಕೂ ಬಾಹುಗಳು ಸಮನಾಗಿರುವುದಿಲ್ಲ.",
+      "options": [
+        "ಕರ್ಣಗಳು ಲಂಬಕೋನದಲ್ಲಿ (90°) ಛೇದಿಸುತ್ತವೆ",
+        "ಕರ್ಣ AC ಯು ಕರ್ಣ BD ಯನ್ನು ದ್ವಿಭಾಗಿಸುತ್ತದೆ",
+        "AB ಯು AD ಗೆ ಮತ್ತು BC ಯು CD ಗೆ ಸಮನಾಗಿರುತ್ತದೆ",
+        "ಚತುರ್ಭುಜ ABCD ಯ ಎಲ್ಲಾ ನಾಲ್ಕು ಬಾಹುಗಳು ಸಮಾನ ಉದ್ದವನ್ನು ಹೊಂದಿವೆ"
+      ],
+      "answer": [
+        "ಕರ್ಣಗಳು ಲಂಬಕೋನದಲ್ಲಿ (90°) ಛೇದಿಸುತ್ತವೆ",
+        "ಕರ್ಣ AC ಯು ಕರ್ಣ BD ಯನ್ನು ದ್ವಿಭಾಗಿಸುತ್ತದೆ",
+        "AB ಯು AD ಗೆ ಮತ್ತು BC ಯು CD ಗೆ ಸಮನಾಗಿರುತ್ತದೆ"
+      ]
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><polygon points=\"150,20 240,80 150,180 60,80\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"150\" y1=\"20\" x2=\"150\" y2=\"180\" stroke=\"#EA580C\" stroke-width=\"1.5\" stroke-dasharray=\"5,5\"/><line x1=\"60\" y1=\"80\" x2=\"240\" y2=\"80\" stroke=\"#EA580C\" stroke-width=\"1.5\" stroke-dasharray=\"5,5\"/><text x=\"150\" y=\"15\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"bold\">A</text><text x=\"248\" y=\"80\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"start\" font-weight=\"bold\">B</text><text x=\"150\" y=\"195\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"bold\">C</text><text x=\"52\" y=\"80\" fill=\"#1F2937\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"end\" font-weight=\"bold\">D</text><text x=\"156\" y=\"94\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" font-weight=\"bold\">90°</text><path d=\"M150,70 L160,70 L160,80\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"1\"/></svg>",
+      "alt": {
+        "en": "A diagram of a kite ABCD with diagonals AC and BD intersecting at 90 degrees.",
+        "kn": "ಕರ್ಣಗಳು AC ಮತ್ತು BD ಯು 90 ಡಿಗ್ರಿ ಕೋನದಲ್ಲಿ ಛೇದಿಸುವ ABCD ಗಾಳಿಪಟದ ರೇಖಾಚಿತ್ರ."
+      }
+    }
+  },
+  {
+    "id": "c8_math_quad_019",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "In a parallelogram ABCD, which of the following statements are ALWAYS true?",
+      "reasoning": "In any parallelogram: (1) Opposite angles are equal, (2) Adjacent angles are supplementary (sum to 180°), and (3) Diagonals bisect each other. However, diagonals are not always equal in length (they are equal only in rectangles and squares).",
+      "options": [
+        "Opposite angles are equal in measure",
+        "Adjacent angles are supplementary",
+        "The diagonals bisect each other",
+        "The diagonals are equal in length"
+      ],
+      "answer": [
+        "Opposite angles are equal in measure",
+        "Adjacent angles are supplementary",
+        "The diagonals bisect each other"
+      ]
+    },
+    "kn": {
+      "question": "ಸಮಾನಾಂತರ ಚತುರ್ಭುಜ ABCD ಯಲ್ಲಿ, ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಯಾವಾಗಲೂ ಸರಿಯಾಗಿರುತ್ತವೆ?",
+      "reasoning": "ಯಾವುದೇ ಸಮಾನಾಂತರ ಚತುರ್ಭುಜದಲ್ಲಿ: (1) ಅಭಿಮುಖ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ, (2) ಪಾರ್ಶ್ವ ಕೋನಗಳು ಪರಿಪೂರಕವಾಗಿರುತ್ತವೆ (ಮೊತ್ತ 180°), ಮತ್ತು (3) ಕರ್ಣಗಳು ಪರಸ್ಪರ ದ್ವಿಭಾಗಿಸುತ್ತವೆ. ಆದರೆ ಕರ್ಣಗಳು ಯಾವಾಗಲೂ ಸಮಾನ ಉದ್ದವನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ.",
+      "options": [
+        "ಅಭಿಮುಖ ಕೋನಗಳ ಅಳತೆಗಳು ಸಮನಾಗಿರುತ್ತವೆ",
+        "ಪಾರ್ಶ್ವ ಕೋನಗಳು ಪರಿಪೂರಕವಾಗಿರುತ್ತವೆ",
+        "ಕರ್ಣಗಳು ಪರಸ್ಪರ ದ್ವಿಭಾಗಿಸುತ್ತವೆ",
+        "ಕರ್ಣಗಳ ಉದ್ದವು ಸಮನಾಗಿರುತ್ತದೆ"
+      ],
+      "answer": [
+        "ಅಭಿಮುಖ ಕೋನಗಳ ಅಳತೆಗಳು ಸಮನಾಗಿರುತ್ತವೆ",
+        "ಪಾರ್ಶ್ವ ಕೋನಗಳು ಪರಿಪೂರಕವಾಗಿರುತ್ತವೆ",
+        "ಕರ್ಣಗಳು ಪರಸ್ಪರ ದ್ವಿಭಾಗಿಸುತ್ತವೆ"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_quad_020",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following quadrilaterals have diagonals that bisect each other at right angles?",
+      "reasoning": "The diagonals of a rhombus and a square bisect each other at right angles (90°). For a rectangle and general parallelogram, diagonals bisect each other, but not necessarily at right angles.",
+      "options": [
+        "Rhombus",
+        "Square",
+        "Rectangle",
+        "Parallelogram"
+      ],
+      "answer": [
+        "Rhombus",
+        "Square"
+      ]
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಯಾವ ಚತುರ್ಭುಜಗಳು ಪರಸ್ಪರ ಲಂಬಕೋನದಲ್ಲಿ ದ್ವಿಭಾಗಿಸುವ ಕರ್ಣಗಳನ್ನು ಹೊಂದಿವೆ?",
+      "reasoning": "ವಜ್ರಾಕೃತಿ ಮತ್ತು ಚೌಕದ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬಕೋನದಲ್ಲಿ (90°) ದ್ವಿಭಾಗಿಸುತ್ತವೆ. ಆಯತ ಮತ್ತು ಸಮಾನಾಂತರ ಚತುರ್ಭುಜಗಳ ಕರ್ಣಗಳು ದ್ವಿಭಾಗಿಸುತ್ತವೆ ಆದರೆ ಲಂಬಕೋನದಲ್ಲಲ್ಲ.",
+      "options": [
+        "ವಜ್ರಾಕೃತಿ",
+        "ಚೌಕ",
+        "ಆಯತ",
+        "ಸಮಾನಾಂತರ ಚತುರ್ಭುಜ"
+      ],
+      "answer": [
+        "ವಜ್ರಾಕೃತಿ",
+        "ಚೌಕ"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_quad_021",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "In a parallelogram ABCD, the bisectors of angle A and angle B meet at point O. What is the measure of angle AOB?",
+      "reasoning": "Adjacent angles of a parallelogram are supplementary: A + B = 180°. If AO and BO are bisectors, then in triangle AOB, the sum of angles OAB and OBA is: OAB + OBA = A/2 + B/2 = (A + B)/2 = 180° / 2 = 90°. Since angles in a triangle sum to 180°, angle AOB = 180° - 90° = 90°.",
+      "options": [
+        "90°",
+        "180°",
+        "60°",
+        "45°"
+      ],
+      "answer": "90°"
+    },
+    "kn": {
+      "question": "ಸಮಾನಾಂತರ ಚತುರ್ಭುಜ ABCD ಯಲ್ಲಿ, ಕೋನ A ಮತ್ತು ಕೋನ B ಯ ದ್ವಿಭಾಜಕಗಳು ಬಿಂದು O ನಲ್ಲಿ ಭೇಟಿಯಾಗುತ್ತವೆ. ಕೋನ AOB ಯ ಅಳತೆ ಎಷ್ಟು?",
+      "reasoning": "ಸಮಾನಾಂತರ ಚತುರ್ಭುಜದ ಪಾರ್ಶ್ವ ಕೋನಗಳು ಪರಿಪೂರಕವಾಗಿರುತ್ತವೆ: A + B = 180°. AO ಮತ್ತು BO ಗಳು ಕೋನ ದ್ವಿಭಾಜಕಗಳಾಗಿದ್ದರೆ, ತ್ರಿಕೋನ AOB ಯಲ್ಲಿ, OAB + OBA = A/2 + B/2 = (A + B)/2 = 180° / 2 = 90°. ತ್ರಿಕೋನದ ಕೋನಗಳ ಮೊತ್ತ 180° ಆಗಿರುವುದರಿಂದ, ಕೋನ AOB = 180° - 90° = 90°.",
+      "options": [
+        "90°",
+        "180°",
+        "60°",
+        "45°"
+      ],
+      "answer": "90°"
+    }
+  },
+  {
+    "id": "c8_math_quad_022",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "In a regular polygon of n sides, what is the formula for the measure of each interior angle?",
+      "reasoning": "The sum of all interior angles of an n-sided polygon is (n-2)*180°. For a regular polygon, all interior angles are equal. Thus, the measure of each interior angle is the total sum divided by the number of sides: (n-2)*180° / n.",
+      "options": [
+        "(n-2)*180° / n",
+        "(n-2)*180°",
+        "360° / n",
+        "(n-3)*180° / n"
+      ],
+      "answer": "(n-2)*180° / n"
+    },
+    "kn": {
+      "question": "n ಬಾಹುಗಳನ್ನು ಹೊಂದಿರುವ ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿಯಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ಒಳಕೋನದ ಅಳತೆಯ ಸೂತ್ರ ಯಾವುದು?",
+      "reasoning": "n-ಬಾಹುಗಳಿರುವ ಬಹುಭುಜಾಕೃತಿಯ ಒಳಕೋನಗಳ ಮೊತ್ತ (n-2)*180°. ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿಯಲ್ಲಿ ಎಲ್ಲಾ ಒಳಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ ಪ್ರತಿ ಒಳಕೋನದ ಅಳತೆಯು ಒಟ್ಟು ಮೊತ್ತವನ್ನು ಬಾಹುಗಳ ಸಂಖ್ಯೆಯಿಂದ ಭಾಗಿಸುವುದರಿಂದ ಲಭ್ಯವಾಗುತ್ತದೆ: (n-2)*180° / n.",
+      "options": [
+        "(n-2)*180° / n",
+        "(n-2)*180°",
+        "360° / n",
+        "(n-3)*180° / n"
+      ],
+      "answer": "(n-2)*180° / n"
+    }
+  },
+  {
+    "id": "c8_math_quad_023",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Select the correct classifications for the following polygons based on the number of sides.",
+      "reasoning": "A 3-sided polygon is a triangle; 5-sided is a pentagon; 7-sided is a heptagon. A 10-sided polygon is a decagon (a nonagon has 9 sides). Thus, the first three options are correct.",
+      "options": [
+        "A polygon with 3 sides is a triangle",
+        "A polygon with 5 sides is a pentagon",
+        "A polygon with 7 sides is a heptagon",
+        "A polygon with 10 sides is a nonagon"
+      ],
+      "answer": [
+        "A polygon with 3 sides is a triangle",
+        "A polygon with 5 sides is a pentagon",
+        "A polygon with 7 sides is a heptagon"
+      ]
+    },
+    "kn": {
+      "question": "ಬಾಹುಗಳ ಸಂಖ್ಯೆಯ ಆಧಾರದ ಮೇಲೆ ಬಹುಭುಜಾಕೃತಿಗಳ ಸರಿಯಾದ ವರ್ಗೀಕರಣಗಳನ್ನು ಆರಿಸಿ.",
+      "reasoning": "3 ಬಾಹುಗಳಿರುವುದು ತ್ರಿಕೋನ; 5 ಬಾಹುಗಳಿರುವುದು ಪಂಚಭುಜಾಕೃತಿ; 7 ಬಾಹುಗಳಿರುವುದು ಹೆಪ್ಟಾಭುಜಾಕೃತಿ. 10 ಬಾಹುಗಳಿರುವುದು ಡೆಕಾಭುಜಾಕೃತಿ (ನೋನಾಭುಜಾಕೃತಿಗೆ 9 ಬಾಹುಗಳಿವೆ).",
+      "options": [
+        "3 ಬಾಹುಗಳಿರುವ ಬಹುಭುಜಾಕೃತಿಯು ತ್ರಿಕೋನವಾಗಿದೆ",
+        "5 ಬಾಹುಗಳಿರುವ ಬಹುಭುಜಾಕೃತಿಯು ಪಂಚಭುಜಾಕೃತಿಯಾಗಿದೆ",
+        "7 ಬಾಹುಗಳಿರುವ ಬಹುಭುಜಾಕೃತಿಯು ಹೆಪ್ಟಾಭುಜಾಕೃತಿಯಾಗಿದೆ",
+        "10 ಬಾಹುಗಳಿರುವ ಬಹುಭುಜಾಕೃತಿಯು ನೋನಾಭುಜಾಕೃತಿಯಾಗಿದೆ"
+      ],
+      "answer": [
+        "3 ಬಾಹುಗಳಿರುವ ಬಹುಭುಜಾಕೃತಿಯು ತ್ರಿಕೋನವಾಗಿದೆ",
+        "5 ಬಾಹುಗಳಿರುವ ಬಹುಭುಜಾಕೃತಿಯು ಪಂಚಭುಜಾಕೃತಿಯಾಗಿದೆ",
+        "7 ಬಾಹುಗಳಿರುವ ಬಹುಭುಜಾಕೃತಿಯು ಹೆಪ್ಟಾಭುಜಾಕೃತಿಯಾಗಿದೆ"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_quad_024",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following statement(s) are correct about quadrilaterals?",
+      "reasoning": "A square has all sides equal, making it a rhombus, and all angles equal to 90°, making it a rectangle. A rhombus has opposite sides parallel, so it is a parallelogram. However, rectangles are not always squares because their adjacent sides may not be equal.",
+      "options": [
+        "All squares are rhombuses",
+        "All rhombuses are parallelograms",
+        "All squares are rectangles",
+        "All rectangles are squares"
+      ],
+      "answer": [
+        "All squares are rhombuses",
+        "All rhombuses are parallelograms",
+        "All squares are rectangles"
+      ]
+    },
+    "kn": {
+      "question": "ಚತುರ್ಭುಜಗಳ ಬಗ್ಗೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ?",
+      "reasoning": "ಚೌಕವು ಎಲ್ಲಾ ಬಾಹುಗಳನ್ನು ಸಮವಾಗಿ ಹೊಂದಿರುವುದರಿಂದ ಅದು ವಜ್ರಾಕೃತಿಯಾಗಿದೆ ಮತ್ತು ಎಲ್ಲಾ ಕೋನಗಳನ್ನು 90° ಹೊಂದಿರುವುದರಿಂದ ಅದು ಆಯತವಾಗಿದೆ. ವಜ್ರಾಕೃತಿಯ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾನಾಂತರವಾಗಿರುವುದರಿಂದ ಅದು ಸಮಾನಾಂತರ ಚತುರ್ಭುಜವಾಗಿದೆ. ಆದರೆ ಆಯತಗಳ ಪಾರ್ಶ್ವ ಬಾಹುಗಳು ಸಮನಾಗಿರದಿರುವುದರಿಂದ ಅವು ಚೌಕಗಳಲ್ಲ.",
+      "options": [
+        "ಎಲ್ಲಾ ಚೌಕಗಳು ವಜ್ರಾಕೃತಿಗಳಾಗಿವೆ",
+        "ಎಲ್ಲಾ ವಜ್ರಾಕೃತಿಗಳು ಸಮಾನಾಂತರ ಚತುರ್ಭುಜಗಳಾಗಿವೆ",
+        "ಎಲ್ಲಾ ಚೌಕಗಳು ಆಯತಗಳಾಗಿವೆ",
+        "ಎಲ್ಲಾ ಆಯತಗಳು ಚೌಕಗಳಾಗಿವೆ"
+      ],
+      "answer": [
+        "ಎಲ್ಲಾ ಚೌಕಗಳು ವಜ್ರಾಕೃತಿಗಳಾಗಿವೆ",
+        "ಎಲ್ಲಾ ವಜ್ರಾಕೃತಿಗಳು ಸಮಾನಾಂತರ ಚತುರ್ಭುಜಗಳಾಗಿವೆ",
+        "ಎಲ್ಲಾ ಚೌಕಗಳು ಆಯತಗಳಾಗಿವೆ"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_quad_025",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following statements about convex and concave polygons are correct?",
+      "reasoning": "Convex polygons contain their diagonals entirely inside, and all interior angles are less than 180°. Concave polygons have at least one interior angle greater than 180° (reflex angle), and parts of their diagonals lie outside. A regular hexagon is convex, not concave.",
+      "options": [
+        "Convex polygons have no portions of their diagonals in their exteriors",
+        "Concave polygons have at least one interior angle greater than 180°",
+        "Convex polygons have all interior angles less than 180°",
+        "A regular hexagon is a concave polygon"
+      ],
+      "answer": [
+        "Convex polygons have no portions of their diagonals in their exteriors",
+        "Concave polygons have at least one interior angle greater than 180°",
+        "Convex polygons have all interior angles less than 180°"
+      ]
+    },
+    "kn": {
+      "question": "ಪೀನ (convex) ಮತ್ತು ನಿಮ್ನ (concave) ಬಹುಭುಜಾಕೃತಿಗಳ ಬಗ್ಗೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ?",
+      "reasoning": "ಪೀನ ಬಹುಭುಜಾಕೃತಿಗಳ ಕರ್ಣಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಒಳಭಾಗದಲ್ಲಿರುತ್ತವೆ ಮತ್ತು ಎಲ್ಲಾ ಒಳಕೋನಗಳು 180° ಗಿಂತ ಕಡಿಮೆಯಿರುತ್ತವೆ. ನಿಮ್ನ ಬಹುಭುಜಾಕೃತಿಗಳು ಕನಿಷ್ಠ ಒಂದು ಸರಳಾಧಿಕ ಕೋನವನ್ನು (180° ಗಿಂತ ಹೆಚ್ಚು) ಹೊಂದಿರುತ್ತವೆ. ನಿಯಮಿತ ಷಡ್ಭುಜಾಕೃತಿಯು ಪೀನ ಬಹುಭುಜಾಕೃತಿಯಾಗಿದೆ.",
+      "options": [
+        "ಪೀನ ಬಹುಭುಜಾಕೃತಿಗಳ ಕರ್ಣಗಳ ಯಾವುದೇ ಭಾಗವು ಹೊರಭಾಗದಲ್ಲಿರುವುದಿಲ್ಲ",
+        "ನಿಮ್ನ ಬಹುಭುಜಾಕೃತಿಗಳು ಕನಿಷ್ಠ ಒಂದು 180° ಗಿಂತ ಹೆಚ್ಚಿನ ಒಳಕೋನವನ್ನು ಹೊಂದಿರುತ್ತವೆ",
+        "ಪೀನ ಬಹುಭುಜಾಕೃತಿಗಳ ಎಲ್ಲಾ ಒಳಕೋನಗಳು 180° ಗಿಂತ ಕಡಿಮೆಯಿರುತ್ತವೆ",
+        "ನಿಯಮಿತ ಷಡ್ಭುಜಾಕೃತಿಯು ಒಂದು ನಿಮ್ನ ಬಹುಭುಜಾಕೃತಿಯಾಗಿದೆ"
+      ],
+      "answer": [
+        "ಪೀನ ಬಹುಭುಜಾಕೃತಿಗಳ ಕರ್ಣಗಳ ಯಾವುದೇ ಭಾಗವು ಹೊರಭಾಗದಲ್ಲಿರುವುದಿಲ್ಲ",
+        "ನಿಮ್ನ ಬಹುಭುಜಾಕೃತಿಗಳು ಕನಿಷ್ಠ ಒಂದು 180° ಗಿಂತ ಹೆಚ್ಚಿನ ಒಳಕೋನವನ್ನು ಹೊಂದಿರುತ್ತವೆ",
+        "ಪೀನ ಬಹುಭುಜಾಕೃತಿಗಳ ಎಲ್ಲಾ ಒಳಕೋನಗಳು 180° ಗಿಂತ ಕಡಿಮೆಯಿರುತ್ತವೆ"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_quad_026",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the special types of quadrilaterals with their correct descriptions.",
+      "reasoning": "Matches quadrilaterals to descriptions.",
+      "pairs": [
+        {
+          "left": "Parallelogram",
+          "right": "Both pairs of opposite sides are parallel"
+        },
+        {
+          "left": "Rhombus",
+          "right": "A parallelogram with all sides of equal length"
+        },
+        {
+          "left": "Rectangle",
+          "right": "A parallelogram with a right angle"
+        },
+        {
+          "left": "Square",
+          "right": "A rectangle with sides of equal length"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ವಿಶೇಷ ರೀತಿಯ ಚತುರ್ಭುಜಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "reasoning": "ಚತುರ್ಭುಜಗಳನ್ನು ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸುತ್ತದೆ.",
+      "pairs": [
+        {
+          "left": "ಸಮಾನಾಂತರ ಚತುರ್ಭುಜ",
+          "right": "ಎರಡೂ ಜೋಡಿ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾನಾಂತರವಾಗಿವೆ"
+        },
+        {
+          "left": "ವಜ್ರಾಕೃತಿ",
+          "right": "ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮಾನ ಉದ್ದವಿರುವ ಸಮಾನಾಂತರ ಚತುರ್ಭುಜ"
+        },
+        {
+          "left": "ಆಯತ",
+          "right": "ಒಂದು ಲಂಬಕೋನವನ್ನು ಹೊಂದಿರುವ ಸಮಾನಾಂತರ ಚತುರ್ಭುಜ"
+        },
+        {
+          "left": "ಚೌಕ",
+          "right": "ಸಮಬಾಹುಗಳನ್ನು ಹೊಂದಿರುವ ಆಯತ"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c8_math_quad_027",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match each polygon to the correct number of diagonals it contains.",
+      "reasoning": "Polygon diagonals formula application.",
+      "pairs": [
+        {
+          "left": "Quadrilateral",
+          "right": "2 diagonals"
+        },
+        {
+          "left": "Pentagon",
+          "right": "5 diagonals"
+        },
+        {
+          "left": "Hexagon",
+          "right": "9 diagonals"
+        },
+        {
+          "left": "Triangle",
+          "right": "0 diagonals"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಪ್ರತಿಯೊಂದು ಬಹುಭುಜಾಕೃತಿಯನ್ನು ಅದು ಹೊಂದಿರುವ ಕರ್ಣಗಳ ಸರಿಯಾದ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "reasoning": "ಬಹುಭುಜಾಕೃತಿಯ ಕರ್ಣಗಳ ಸೂತ್ರದ ಅನ್ವಯ.",
+      "pairs": [
+        {
+          "left": "ಚತುರ್ಭುಜ",
+          "right": "2 ಕರ್ಣಗಳು"
+        },
+        {
+          "left": "ಪಂಚಭುಜಾಕೃತಿ",
+          "right": "5 ಕರ್ಣಗಳು"
+        },
+        {
+          "left": "ಷಡ್ಭುಜಾಕೃತಿ",
+          "right": "9 ಕರ್ಣಗಳು"
+        },
+        {
+          "left": "ತ್ರಿಕೋನ",
+          "right": "0 ಕರ್ಣಗಳು"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c8_math_quad_028",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the number of sides to the correct polygon name.",
+      "reasoning": "Naming of polygons by side count.",
+      "pairs": [
+        {
+          "left": "5 sides",
+          "right": "Pentagon"
+        },
+        {
+          "left": "6 sides",
+          "right": "Hexagon"
+        },
+        {
+          "left": "8 sides",
+          "right": "Octagon"
+        },
+        {
+          "left": "10 sides",
+          "right": "Decagon"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಸರಿಯಾದ ಬಹುಭುಜಾಕೃತಿಯ ಹೆಸರಿನೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "reasoning": "ಬಾಹುಗಳ ಸಂಖ್ಯೆಯ ಆಧಾರದ ಮೇಲೆ ಬಹುಭುಜಾಕೃತಿಗಳ ನಾಮಕರಣ.",
+      "pairs": [
+        {
+          "left": "5 ಬಾಹುಗಳು",
+          "right": "ಪಂಚಭುಜಾಕೃತಿ"
+        },
+        {
+          "left": "6 ಬಾಹುಗಳು",
+          "right": "ಷಡ್ಭುಜಾಕೃತಿ"
+        },
+        {
+          "left": "8 ಬಾಹುಗಳು",
+          "right": "ಅಷ್ಟಭುಜಾಕೃತಿ"
+        },
+        {
+          "left": "10 ಬಾಹುಗಳು",
+          "right": "ಡೆಕಾಭುಜಾಕೃತಿ"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c8_math_quad_029",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the measure of each exterior angle of a regular polygon with the number of its sides.",
+      "reasoning": "Calculation of sides from exterior angle.",
+      "pairs": [
+        {
+          "left": "120°",
+          "right": "3 sides"
+        },
+        {
+          "left": "90°",
+          "right": "4 sides"
+        },
+        {
+          "left": "60°",
+          "right": "6 sides"
+        },
+        {
+          "left": "45°",
+          "right": "8 sides"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿಯ ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆಯನ್ನು ಅದರ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "reasoning": "ಹೊರಕೋನದಿಂದ ಬಾಹುಗಳ ಲೆಕ್ಕಾಚಾರ.",
+      "pairs": [
+        {
+          "left": "120°",
+          "right": "3 sides"
+        },
+        {
+          "left": "90°",
+          "right": "4 sides"
+        },
+        {
+          "left": "60°",
+          "right": "6 sides"
+        },
+        {
+          "left": "45°",
+          "right": "8 sides"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c8_math_quad_030",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the properties to their corresponding geometric shapes or terms.",
+      "reasoning": "Geometric properties matching.",
+      "pairs": [
+        {
+          "left": "Adjacent angles sum is 180°",
+          "right": "Parallelogram adjacent angles"
+        },
+        {
+          "left": "Diagonals are perpendicular bisectors",
+          "right": "Rhombus diagonals"
+        },
+        {
+          "left": "Diagonals are equal and perpendicular",
+          "right": "Square diagonals"
+        },
+        {
+          "left": "Exactly one pair of parallel sides",
+          "right": "Trapezium"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಗುಣಲಕ್ಷಣಗಳನ್ನು ಅವುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಜ್ಯಾಮಿತೀಯ ಆಕಾರಗಳು ಅಥವಾ ಪದಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "reasoning": "ಜ್ಯಾಮಿತೀಯ ಗುಣಲಕ್ಷಣಗಳ ಹೊಂದಾಣಿಕೆ.",
+      "pairs": [
+        {
+          "left": "ಪಾರ್ಶ್ವ ಕೋನಗಳ ಮೊತ್ತ 180°",
+          "right": "ಸಮಾನಾಂತರ ಚತುರ್ಭುಜದ ಪಾರ್ಶ್ವ ಕೋನಗಳು"
+        },
+        {
+          "left": "ಕರ್ಣಗಳು ಲಂಬಾರ್ಧಕಗಳಾಗಿವೆ",
+          "right": "ವಜ್ರಾಕೃತಿಯ ಕರ್ಣಗಳು"
+        },
+        {
+          "left": "ಕರ್ಣಗಳು ಸಮ ಮತ್ತು ಲಂಬವಾಗಿವೆ",
+          "right": "ಚೌಕದ ಕರ್ಣಗಳು"
+        },
+        {
+          "left": "ನಿಖರವಾಗಿ ಒಂದು ಜೋಡಿ ಬಾಹುಗಳು ಸಮಾನಾಂತರ",
+          "right": "ತ್ರಾಪಿಜ್ಯ"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,1047 @@
+import json
+import os
+
+questions = [
+  # --- EASY QUESTIONS (10) ---
+  {
+    "id": "c8_sci_frict_001",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which of the following statements best defines friction?",
+      "options": [
+        "It is a force that opposes the relative motion between two surfaces in contact.",
+        "It is a force that attracts two objects towards each other.",
+        "It is a force that increases the speed of a moving object.",
+        "It is a force that exists only in liquids and gases."
+      ],
+      "answer": "It is a force that opposes the relative motion between two surfaces in contact.",
+      "reasoning": "Friction is a contact force that acts between two surfaces in contact and opposes their relative motion. It acts in a direction opposite to the direction of motion or the applied force."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳಲ್ಲಿ ಯಾವುದು ಘರ್ಷಣೆಯನ್ನು ಸರಿಯಾಗಿ ವ್ಯಾಖ್ಯಾನಿಸುತ್ತದೆ?",
+      "options": [
+        "ಇದು ಸಂಪರ್ಕದಲ್ಲಿರುವ ಎರಡು ಮೇಲ್ಮೈಗಳ ನಡುವಿನ ಸಾಪೇಕ್ಷ ಚಲನೆಯನ್ನು ವಿರೋಧಿಸುವ ಬಲವಾಗಿದೆ.",
+        "ಇದು ಎರಡು ವಸ್ತುಗಳನ್ನು ಪರಸ್ಪರ ಆಕರ್ಷಿಸುವ ಬಲವಾಗಿದೆ.",
+        "ಇದು ಚಲಿಸುವ ವಸ್ತುವಿನ ವೇಗವನ್ನು ಹೆಚ್ಚಿಸುವ ಬಲವಾಗಿದೆ.",
+        "ಇದು ದ್ರವ ಮತ್ತು ಅನಿಲಗಳಲ್ಲಿ ಮಾತ್ರ ಇರುವ ಬಲವಾಗಿದೆ."
+      ],
+      "answer": "ಇದು ಸಂಪರ್ಕದಲ್ಲಿರುವ ಎರಡು ಮೇಲ್ಮೈಗಳ ನಡುವಿನ ಸಾಪೇಕ್ಷ ಚಲನೆಯನ್ನು ವಿರೋಧಿಸುವ ಬಲವಾಗಿದೆ.",
+      "reasoning": "ಘರ್ಷಣೆಯು ಸಂಪರ್ಕದಲ್ಲಿರುವ ಎರಡು ಮೇಲ್ಮೈಗಳ ನಡುವೆ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಮತ್ತು ಅವುಗಳ ಸಾಪೇಕ್ಷ ಚಲನೆಯನ್ನು ವಿರೋಧಿಸುವ ಒಂದು ಸಂಪರ್ಕ ಬಲವಾಗಿದೆ. ಇದು ಚಲನೆಯ ಅಥವಾ ಅನ್ವಯಿಕ ಬಲದ ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_002",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which type of surface offers the least friction to a rolling ball?",
+      "options": [
+        "A wet glass sheet",
+        "A rough concrete floor",
+        "A woolen carpet",
+        "A sandy track"
+      ],
+      "answer": "A wet glass sheet",
+      "reasoning": "A wet glass sheet is very smooth and has fewer surface irregularities. Water acts as a lubricant, further reducing interlocking of irregularities, thus offering the least friction."
+    },
+    "kn": {
+      "question": "ಉರುಳುವ ಚೆಂಡಿಗೆ ಕೆಳಗಿನ ಯಾವ ಮೇಲ್ಮೈಯು ಅತ್ಯಂತ ಕಡಿಮೆ ಘರ್ಷಣೆಯನ್ನು ಒದಗಿಸುತ್ತದೆ?",
+      "options": [
+        "ಒದ್ದೆಯಾದ ಗಾಜಿನ ಹಾಳೆ",
+        "ಒರಟಾದ ಕಾಂಕ್ರೀಟ್ ನೆಲ",
+        "ಉಣ್ಣೆಯ ಕಾರ್ಪೆಟ್",
+        "ಮರಳಿನ ದಾರಿ"
+      ],
+      "answer": "ಒದ್ದೆಯಾದ ಗಾಜಿನ ಹಾಳೆ",
+      "reasoning": "ಒದ್ದೆಯಾದ ಗಾಜಿನ ಹಾಳೆಯು ತುಂಬಾ ನಯವಾಗಿದ್ದು, ಕಡಿಮೆ ಮೇಲ್ಮೈ ಅಸಮತೆಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. ನೀರು ನಯಗೊಳಿಸುವ ವಸ್ತುವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ, ಇದು ಅಸಮತೆಗಳ ಪರಸ್ಪರ ಬಂಧನವನ್ನು ಇನ್ನಷ್ಟು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ ಮತ್ತು ಕನಿಷ್ಠ ಘರ್ಷಣೆಯನ್ನು ಒದಗಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_003",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "If you apply a force towards the right on an object, in which direction does the frictional force act?",
+      "options": [
+        "Towards the left",
+        "Towards the right",
+        "Vertically upwards",
+        "Vertically downwards"
+      ],
+      "answer": "Towards the left",
+      "reasoning": "Frictional force always acts in a direction opposite to that of the applied force or the direction of relative motion. Since force is applied to the right, friction acts to the left."
+    },
+    "kn": {
+      "question": "ನೀವು ಒಂದು ವಸ್ತುವಿನ ಮೇಲೆ ಬಲಭಾಗಕ್ಕೆ ಬಲವನ್ನು ಪ್ರಯೋಗಿಸಿದರೆ, ಘರ್ಷಣಾ ಬಲವು ಯಾವ ದಿಕ್ಕಿನಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ?",
+      "options": [
+        "ಎಡಭಾಗಕ್ಕೆ",
+        "ಬಲಭಾಗಕ್ಕೆ",
+        "ಲಂಬವಾಗಿ ಮೇಲಕ್ಕೆ",
+        "ಲಂಬವಾಗಿ ಕೆಳಗೆ"
+      ],
+      "answer": "ಎಡಭಾಗಕ್ಕೆ",
+      "reasoning": "ಘರ್ಷಣಾ ಬಲವು ಯಾವಾಗಲೂ ಅನ್ವಯಿಕ ಬಲಕ್ಕೆ ಅಥವಾ ಸಾಪೇಕ್ಷ ಚಲನೆಯ ದಿಕ್ಕಿಗೆ ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಬಲವನ್ನು ಬಲಕ್ಕೆ ಪ್ರಯೋಗಿಸಿರುವುದರಿಂದ, ಘರ್ಷಣೆಯು ಎಡಕ್ಕೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_img_004",
+    "difficulty": 1,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 150\"><line x1=\"20\" y1=\"120\" x2=\"280\" y2=\"120\" stroke=\"#2563EB\" stroke-width=\"3\"/><rect x=\"100\" y=\"60\" width=\"100\" height=\"60\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"200\" y1=\"90\" x2=\"260\" y2=\"90\" stroke=\"#EA580C\" stroke-width=\"2.5\"/><polygon points=\"260,90 250,85 250,95\" fill=\"#EA580C\"/><text x=\"210\" y=\"80\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">Force (F)</text><line x1=\"100\" y1=\"90\" x2=\"40\" y2=\"90\" stroke=\"#059669\" stroke-width=\"2.5\"/><polygon points=\"40,90 50,85 50,95\" fill=\"#059669\"/><text x=\"45\" y=\"80\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">Friction (f)</text></svg>",
+      "alt": {
+        "en": "A block on a flat surface with a Force arrow pointing right and a Friction arrow pointing left.",
+        "kn": "ಫ್ಲಾಟ್ ಮೇಲ್ಮೈಯ ಮೇಲಿರುವ ಬ್ಲಾಕ್, ಬಲಕ್ಕೆ ತೋರಿಸುವ ಬಲದ ಬಾಣ ಮತ್ತು ಎಡಕ್ಕೆ ತೋರಿಸುವ ಘರ್ಷಣೆಯ ಬಾಣ."
+      }
+    },
+    "en": {
+      "question": "In the given diagram, if the block remains stationary despite the applied force F, which force is balancing F?",
+      "options": [
+        "Static Friction (f)",
+        "Gravitational Force",
+        "Sliding Friction",
+        "Normal Reaction"
+      ],
+      "answer": "Static Friction (f)",
+      "reasoning": "Since the block is stationary (at rest), the applied force F is perfectly balanced by the static friction (f) acting in the opposite direction. Static friction self-adjusts up to a maximum limit."
+    },
+    "kn": {
+      "question": "ನೀಡಿರುವ ಚಿತ್ರದಲ್ಲಿ, ಅನ್ವಯಿಕ ಬಲ F ಇದ್ದಾಗಲೂ ಬ್ಲಾಕ್ ಚಲಿಸದೆ ಸ್ಥಿರವಾಗಿದ್ದರೆ, F ಅನ್ನು ಯಾವ ಬಲವು ಸರಿದೂಗಿಸುತ್ತಿದೆ?",
+      "options": [
+        "ಸ್ಥಿರ ಘರ್ಷಣೆ (f)",
+        "ಗುರುತ್ವಾಕರ್ಷಣ ಬಲ",
+        "ಜಾರುವ ಘರ್ಷಣೆ",
+        "ಅಭಿಲಂಬ ಪ್ರತಿಕ್ರಿಯೆ"
+      ],
+      "answer": "ಸ್ಥಿರ ಘರ್ಷಣೆ (f)",
+      "reasoning": "ಬ್ಲಾಕ್ ಸ್ಥಿರವಾಗಿರುವುದರಿಂದ (ವಿಶ್ರಾಂತ ಸ್ಥಿತಿಯಲ್ಲಿ), ಅನ್ವಯಿಕ ಬಲ F ಅನ್ನು ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಸ್ಥಿರ ಘರ್ಷಣೆ (f) ಸಂಪೂರ್ಣವಾಗಿ ಸರಿದೂಗಿಸುತ್ತದೆ. ಸ್ಥಿರ ಘರ್ಷಣೆಯು ಗರಿಷ್ಠ ಮಿತಿಯವರೆಗೆ ಸ್ವಯಂ-ಹೊಂದಾಣಿಕೆಯಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_005",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Why do we slip when we step on a banana peel?",
+      "options": [
+        "The banana peel drastically reduces the friction between our feet and the ground.",
+        "The banana peel increases the interlocking between the shoe and the floor.",
+        "The banana peel exerts a large forward force on our feet.",
+        "The banana peel increases the roughness of the floor."
+      ],
+      "answer": "The banana peel drastically reduces the friction between our feet and the ground.",
+      "reasoning": "The banana peel has a smooth, slippery texture and acts as a barrier that prevents direct contact between our shoes and the ground, drastically reducing the frictional force necessary for walking."
+    },
+    "kn": {
+      "question": "ಬಾಳೆಹಣ್ಣಿನ ಸಿಪ್ಪೆಯ ಮೇಲೆ ಕಾಲಿಟ್ಟಾಗ ನಾವು ಏಕೆ ಜಾರುತ್ತೇವೆ?",
+      "options": [
+        "ಬಾಳೆಹಣ್ಣಿನ ಸಿಪ್ಪೆಯು ನಮ್ಮ ಪಾದಗಳು ಮತ್ತು ನೆಲದ ನಡುವಿನ ಘರ್ಷಣೆಯನ್ನು ತೀವ್ರವಾಗಿ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+        "ಬಾಳೆಹಣ್ಣಿನ ಸಿಪ್ಪೆಯು ಶೂ ಮತ್ತು ನೆಲದ ನಡುವಿನ ಪರಸ್ಪರ ಬಂಧನವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+        "ಬಾಳೆಹಣ್ಣಿನ ಸಿಪ್ಪೆಯು ನಮ್ಮ ಪಾದಗಳ ಮೇಲೆ ಹೆಚ್ಚಿನ ಮುನ್ನಡೆ ಬಲವನ್ನು ಪ್ರಯೋಗಿಸುತ್ತದೆ.",
+        "ಬಾಳೆಹಣ್ಣಿನ ಸಿಪ್ಪೆಯು ನೆಲದ ಒರಟುತನವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
+      ],
+      "answer": "ಬಾಳೆಹಣ್ಣಿನ ಸಿಪ್ಪೆಯು ನಮ್ಮ ಪಾದಗಳು ಮತ್ತು ನೆಲದ ನಡುವಿನ ಘರ್ಷಣೆಯನ್ನು ತೀವ್ರವಾಗಿ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+      "reasoning": "ಬಾಳೆಹಣ್ಣಿನ ಸಿಪ್ಪೆಯು ನಯವಾದ, ಜಾರುವ ವಿನ್ಯಾಸವನ್ನು ಹೊಂದಿದೆ ಮತ್ತು ನಮ್ಮ ಶೂಗಳು ಮತ್ತು ನೆಲದ ನಡುವೆ ನೇರ ಸಂಪರ್ಕವನ್ನು ತಡೆಯುವ ತಡೆಗೋಡೆಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಇದು ನಡೆಯಲು ಅಗತ್ಯವಾದ ಘರ್ಷಣಾ ಬಲವನ್ನು ತೀವ್ರವಾಗಿ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_006",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What happens to the force of friction if the two surfaces in contact are pressed together harder?",
+      "options": [
+        "Friction increases",
+        "Friction decreases",
+        "Friction remains unchanged",
+        "Friction becomes zero"
+      ],
+      "answer": "Friction increases",
+      "reasoning": "Friction is caused by the interlocking of irregularities on the two surfaces. When they are pressed harder, the irregularities interlock more strongly, leading to an increase in the force of friction."
+    },
+    "kn": {
+      "question": "ಸಂಪರ್ಕದಲ್ಲಿರುವ ಎರಡು ಮೇಲ್ಮೈಗಳನ್ನು ಹೆಚ್ಚು ಬಲವಾಗಿ ಒಟ್ಟಿಗೆ ಒತ್ತಿದಾಗ ಘರ್ಷಣಾ ಬಲಕ್ಕೆ ಏನಾಗುತ್ತದೆ?",
+      "options": [
+        "ಘರ್ಷಣೆ ಹೆಚ್ಚಾಗುತ್ತದೆ",
+        "ಘರ್ಷಣೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ",
+        "ಘರ್ಷಣೆಯಲ್ಲಿ ಯಾವುದೇ ಬದಲಾವಣೆ ಇರುವುದಿಲ್ಲ",
+        "ಘರ್ಷಣೆ ಶೂನ್ಯವಾಗುತ್ತದೆ"
+      ],
+      "answer": "ಘರ್ಷಣೆ ಹೆಚ್ಚಾಗುತ್ತದೆ",
+      "reasoning": "ಘರ್ಷಣೆಯು ಎರಡು ಮೇಲ್ಮೈಗಳ ಮೇಲಿನ ಅಸಮತೆಗಳ ಪರಸ್ಪರ ಬಂಧನದಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಅವುಗಳನ್ನು ಬಲವಾಗಿ ಒತ್ತಿದಾಗ, ಅಸಮತೆಗಳು ಹೆಚ್ಚು ಬಲವಾಗಿ ಬಂಧಿಸಲ್ಪಡುತ್ತವೆ, ಇದು ಘರ್ಷಣಾ ಬಲದ ಹೆಚ್ಚಳಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_007",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Select the methods that are commonly used to increase friction in daily life.",
+      "options": [
+        "Threading or grooving the soles of shoes",
+        "Making tread patterns on vehicle tyres",
+        "Applying grease to moving parts of a machine",
+        "Spreading fine sand on a wet playground"
+      ],
+      "answer": [
+        "Threading or grooving the soles of shoes",
+        "Making tread patterns on vehicle tyres",
+        "Spreading fine sand on a wet playground"
+      ],
+      "reasoning": "Threading soles, grooving tyres, and spreading sand increase surface roughness and interlocking, which increases friction and prevents slipping. Greasing reduces friction by creating a smooth lubricating layer."
+    },
+    "kn": {
+      "question": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಘರ್ಷಣೆಯನ್ನು ಹೆಚ್ಚಿಸಲು ಬಳಸುವ ವಿಧಾನಗಳನ್ನು ಆರಿಸಿ.",
+      "options": [
+        "ಶೂಗಳ ಅಡಿಭಾಗದಲ್ಲಿ ಸೀಳುಗಳು ಅಥವಾ ಗೆರೆಗಳನ್ನು ಮಾಡುವುದು",
+        "ವಾಹನಗಳ ಟೈರ್‌ಗಳ ಮೇಲೆ ಸೀಳುಗಳನ್ನು (ಟ್ರೆಡ್) ಮಾಡುವುದು",
+        "ಯಂತ್ರದ ಚಲಿಸುವ ಭಾಗಗಳಿಗೆ ಗ್ರೀಸ್ ಹಚ್ಚುವುದು",
+        "ಒದ್ದೆಯಾದ ಆಟದ ಮೈದಾನದಲ್ಲಿ ನುಣ್ಣನೆಯ ಮರಳನ್ನು ಹರಡುವುದು"
+      ],
+      "answer": [
+        "ಶೂಗಳ ಅಡಿಭಾಗದಲ್ಲಿ ಸೀಳುಗಳು ಅಥವಾ ಗೆರೆಗಳನ್ನು ಮಾಡುವುದು",
+        "ವಾಹನಗಳ ಟೈರ್‌ಗಳ ಮೇಲೆ ಸೀಳುಗಳನ್ನು (ಟ್ರೆಡ್) ಮಾಡುವುದು",
+        "ಒದ್ದೆಯಾದ ಆಟದ ಮೈದಾನದಲ್ಲಿ ನುಣ್ಣನೆಯ ಮರಳನ್ನು ಹರಡುವುದು"
+      ],
+      "reasoning": "ಶೂಗಳ ಅಡಿಭಾಗಕ್ಕೆ ಸೀಳುಗಳನ್ನು ಮಾಡುವುದು, ಟೈರ್‌ಗಳ ಮೇಲೆ ಗೆರೆಗಳನ್ನು ಮಾಡುವುದು ಮತ್ತು ಮರಳನ್ನು ಹರಡುವುದು ಮೇಲ್ಮೈ ಒರಟುತನ ಮತ್ತು ಪರಸ್ಪರ ಬಂಧನವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ, ಇದು ಘರ್ಷಣೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ ಮತ್ತು ಜಾರುವುದನ್ನು ತಡೆಯುತ್ತದೆ. ಗ್ರೀಸ್ ಹಚ್ಚುವುದರಿಂದ ಘರ್ಷಣೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_008",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following substances are used as lubricants to reduce friction?",
+      "options": [
+        "Grease",
+        "Fine talcum powder",
+        "Coarse sand",
+        "Castor oil"
+      ],
+      "answer": [
+        "Grease",
+        "Fine talcum powder",
+        "Castor oil"
+      ],
+      "reasoning": "Grease, oil, and talcum powder act as lubricants. They form a thin layer between the surfaces, filling the irregularities and reducing interlocking. Coarse sand increases roughness and friction."
+    },
+    "kn": {
+      "question": "ಘರ್ಷಣೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಕೆಳಗಿನ ಯಾವ ವಸ್ತುಗಳನ್ನು ನಯಗೊಳಿಸುವ ವಸ್ತುಗಳಾಗಿ (ಲೂಬ್ರಿಕೆಂಟ್ಸ್) ಬಳಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಗ್ರೀಸ್",
+        "ನುಣ್ಣನೆಯ ಟಾಲ್ಕಮ್ ಪೌಡರ್",
+        "ಒರಟಾದ ಮರಳು",
+        "ಹರಳೆಣ್ಣೆ"
+      ],
+      "answer": [
+        "ಗ್ರೀಸ್",
+        "ನುಣ್ಣನೆಯ ಟಾಲ್ಕಮ್ ಪೌಡರ್",
+        "ಹರಳೆಣ್ಣೆ"
+      ],
+      "reasoning": "ಗ್ರೀಸ್, ಎಣ್ಣೆ ಮತ್ತು ಟಾಲ್ಕಮ್ ಪೌಡರ್ ನಯಗೊಳಿಸುವ ವಸ್ತುಗಳಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ. ಅವು ಮೇಲ್ಮೈಗಳ ನಡುವೆ ತೆಳುವಾದ ಪದರವನ್ನು ರೂಪಿಸಿ ಅಸಮತೆಗಳನ್ನು ತುಂಬುತ್ತವೆ ಮತ್ತು ಬಂಧನವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತವೆ. ಒರಟಾದ ಮರಳು ಒರಟುತನ ಮತ್ತು ಘರ್ಷಣೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_009",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match the types of friction with their correct descriptions.",
+      "pairs": [
+        {
+          "left": "Static Friction",
+          "right": "Acts when a body is at rest and an external force is applied"
+        },
+        {
+          "left": "Sliding Friction",
+          "right": "Acts when one body slides over the surface of another"
+        },
+        {
+          "left": "Rolling Friction",
+          "right": "Acts when one body rolls over the surface of another"
+        },
+        {
+          "left": "Fluid Friction (Drag)",
+          "right": "Exerted by liquids and gases on objects moving through them"
+        }
+      ],
+      "reasoning": "Static friction keeps objects at rest; sliding occurs when one surface slides over another; rolling occurs when wheels or spheres roll; fluid friction is resistance in fluids."
+    },
+    "kn": {
+      "question": "ಘರ್ಷಣೆಯ ವಿಧಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಸ್ಥಿರ ಘರ್ಷಣೆ",
+          "right": "ಕಾಯವು ವಿಶ್ರಾಂತಿಯಲ್ಲಿದ್ದಾಗ ಮತ್ತು ಬಾಹ್ಯ ಬಲವನ್ನು ಪ್ರಯೋಗಿಸಿದಾಗ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ"
+        },
+        {
+          "left": "ಜಾರುವ ಘರ್ಷಣೆ",
+          "right": "ಒಂದು ಕಾಯವು ಮತ್ತೊಂದರ ಮೇಲ್ಮೈ ಮೇಲೆ ಜಾರುವಾಗ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ"
+        },
+        {
+          "left": "ಉರುಳುವ ಘರ್ಷಣೆ",
+          "right": "ಒಂದು ಕಾಯವು ಮತ್ತೊಂದರ ಮೇಲ್ಮೈ ಮೇಲೆ ಉರುಳುವಾಗ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ"
+        },
+        {
+          "left": "ದ್ರವ ಘರ್ಷಣೆ (ಡ್ರಾಗ್)",
+          "right": "ದ್ರವಗಳು ಮತ್ತು ಅನಿಲಗಳು ತಮ್ಮ ಮೂಲಕ ಚಲಿಸುವ ವಸ್ತುಗಳ ಮೇಲೆ ಪ್ರಯೋಗಿಸುತ್ತವೆ"
+        }
+      ],
+      "reasoning": "ಸ್ಥಿರ ಘರ್ಷಣೆಯು ಕಾಯಗಳನ್ನು ವಿಶ್ರಾಂತಿ ಸ್ಥಿತಿಯಲ್ಲಿಡುತ್ತದೆ; ಜಾರುವ ಘರ್ಷಣೆಯು ಒಂದು ಮೇಲ್ಮೈ ಮತ್ತೊಂದರ ಮೇಲೆ ಜಾರುವಾಗ ಉಂಟಾಗುತ್ತದೆ; ಉರುಳುವ ಘರ್ಷಣೆಯು ಚಕ್ರಗಳು ಅಥವಾ ಗೋಳಗಳು ಉರುಳುವಾಗ ಉಂಟಾಗುತ್ತದೆ; ದ್ರವ ಘರ್ಷಣೆಯು ದ್ರವಗಳಲ್ಲಿನ ಪ್ರತಿರೋಧವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_010",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match the action with its effect on friction.",
+      "pairs": [
+        {
+          "left": "Sprinkling powder on a carrom board",
+          "right": "Reduces friction to make coins slide easily"
+        },
+        {
+          "left": "Applying sand on a slippery road",
+          "right": "Increases friction to prevent vehicles from skidding"
+        },
+        {
+          "left": "Using ball bearings in ceiling fans",
+          "right": "Replaces sliding friction with smaller rolling friction"
+        },
+        {
+          "left": "Streamlining the body of a rocket",
+          "right": "Minimizes fluid friction from the atmosphere"
+        }
+      ],
+      "reasoning": "Powder reduces sliding friction, sand increases friction, ball bearings convert sliding to rolling friction, and streamlining reduces drag."
+    },
+    "kn": {
+      "question": "ಕ್ರಿಯೆಗಳನ್ನು ಘರ್ಷಣೆಯ ಮೇಲಾಗುವ ಅವುಗಳ ಪರಿಣಾಮದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಕ್ಯಾರಂ ಬೋರ್ಡ್ ಮೇಲೆ ಪೌಡರ್ ಉದುರಿಸುವುದು",
+          "right": "ಕಾಯಿಗಳು ಸುಲಭವಾಗಿ ಜಾರಲು ಘರ್ಷಣೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ"
+        },
+        {
+          "left": "ಜಾರುವ ರಸ್ತೆಯ ಮೇಲೆ ಮರಳನ್ನು ಹಾಕುವುದು",
+          "right": "ವಾಹನಗಳು ಜಾರದಂತೆ ತಡೆಯಲು ಘರ್ಷಣೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ"
+        },
+        {
+          "left": "ಸೀಲಿಂಗ್ ಫ್ಯಾನ್‌ಗಳಲ್ಲಿ ಬಾಲ್ ಬೇರಿಂಗ್‌ಗಳನ್ನು ಬಳಸುವುದು",
+          "right": "ಜಾರುವ ಘರ್ಷಣೆಯನ್ನು ಕಡಿಮೆ ಇರುವ ಉರುಳುವ ಘರ್ಷಣೆಯಾಗಿ ಬದಲಾಯಿಸುತ್ತದೆ"
+        },
+        {
+          "left": "ರಾಕೆಟ್‌ನ ದೇಹವನ್ನು ಸುಗಮ ಆಕಾರಕ್ಕೆ ತರುವುದು",
+          "right": "ವಾತಾವರಣದಿಂದ ಉಂಟಾಗುವ ದ್ರವ ಘರ್ಷಣೆಯನ್ನು ಕನಿಷ್ಠಗೊಳಿಸುತ್ತದೆ"
+        }
+      ],
+      "reasoning": "ಪೌಡರ್ ಜಾರುವ ಘರ್ಷಣೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ, ಮರಳು ಘರ್ಷಣೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ, ಬಾಲ್ ಬೇರಿಂಗ್‌ಗಳು ಜಾರುವ ಘರ್ಷಣೆಯನ್ನು ಉರುಳುವ ಘರ್ಷಣೆಯಾಗಿ ಪರಿವರ್ತಿಸುತ್ತವೆ ಮತ್ತು ಸುಗಮ ಆಕಾರವು ಡ್ರಾಗ್ ಅನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ."
+    }
+  },
+
+  # --- MEDIUM QUESTIONS (10) ---
+  {
+    "id": "c8_sci_frict_011",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Arrange the three types of friction in the increasing order of their magnitude (least first).",
+      "options": [
+        "Rolling friction < Sliding friction < Static friction",
+        "Static friction < Sliding friction < Rolling friction",
+        "Sliding friction < Rolling friction < Static friction",
+        "Rolling friction < Static friction < Sliding friction"
+      ],
+      "answer": "Rolling friction < Sliding friction < Static friction",
+      "reasoning": "Rolling friction is the smallest because the contact area is minimal. Sliding friction is larger than rolling but smaller than static friction, which is the maximum resistance offered before motion starts."
+    },
+    "kn": {
+      "question": "ಮೂರು ವಿಧದ ಘರ್ಷಣೆಗಳನ್ನು ಅವುಗಳ ಮೌಲ್ಯಗಳ ಏರಿಕೆ ಕ್ರಮದಲ್ಲಿ ಜೋಡಿಸಿ (ಅತಿ ಕಡಿಮೆ ಮೊದಲು).",
+      "options": [
+        "ಉರುಳುವ ಘರ್ಷಣೆ < ಜಾರುವ ಘರ್ಷಣೆ < ಸ್ಥಿರ ಘರ್ಷಣೆ",
+        "ಸ್ಥಿರ ಘರ್ಷಣೆ < ಜಾರುವ ಘರ್ಷಣೆ < ಉರುಳುವ ಘರ್ಷಣೆ",
+        "ಜಾರುವ ಘರ್ಷಣೆ < ಉರುಳುವ ಘರ್ಷಣೆ < ಸ್ಥಿರ ಘರ್ಷಣೆ",
+        "ಉರುಳುವ ಘರ್ಷಣೆ < ಸ್ಥಿರ ಘರ್ಷಣೆ < ಜಾರುವ ಘರ್ಷಣೆ"
+      ],
+      "answer": "ಉರುಳುವ ಘರ್ಷಣೆ < ಜಾರುವ ಘರ್ಷಣೆ < ಸ್ಥಿರ ಘರ್ಷಣೆ",
+      "reasoning": "ಸಂಪರ್ಕ ಪ್ರದೇಶವು ಕನಿಷ್ಠವಾಗಿರುವುದರಿಂದ ಉರುಳುವ ಘರ್ಷಣೆಯು ಅತ್ಯಂತ ಚಿಕ್ಕದಾಗಿದೆ. ಜಾರುವ ಘರ್ಷಣೆಯು ಉರುಳುವುದಕ್ಕಿಂತ ದೊಡ್ಡದಾಗಿದೆ ಆದರೆ ಸ್ಥಿರ ಘರ್ಷಣೆಗಿಂತ ಚಿಕ್ಕದಾಗಿದೆ, ಇದು ಚಲನೆ ಪ್ರಾರಂಭವಾಗುವ ಮೊದಲು ಎದುರಾಗುವ ಗರಿಷ್ಠ ಪ್ರತಿರೋಧವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_img_012",
+    "difficulty": 2,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 150\"><line x1=\"10\" y1=\"120\" x2=\"290\" y2=\"120\" stroke=\"#2563EB\" stroke-width=\"2\"/><rect x=\"20\" y=\"80\" width=\"60\" height=\"40\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"35\" y=\"105\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">Block</text><path d=\"M 80,100 L 110,100\" stroke=\"#2563EB\" stroke-width=\"2\"/><rect x=\"110\" y=\"85\" width=\"120\" height=\"30\" fill=\"#F3F4F6\" stroke=\"#2563EB\" stroke-width=\"2\" rx=\"4\"/><line x1=\"130\" y1=\"90\" x2=\"130\" y2=\"110\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><line x1=\"150\" y1=\"90\" x2=\"150\" y2=\"110\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><line x1=\"170\" y1=\"90\" x2=\"170\" y2=\"110\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><line x1=\"190\" y1=\"90\" x2=\"190\" y2=\"110\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><line x1=\"210\" y1=\"90\" x2=\"210\" y2=\"110\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><line x1=\"170\" y1=\"85\" x2=\"170\" y2=\"115\" stroke=\"#DC2626\" stroke-width=\"2\"/><text x=\"160\" y=\"80\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" font-weight=\"bold\">10 N</text><line x1=\"230\" y1=\"100\" x2=\"270\" y2=\"100\" stroke=\"#EA580C\" stroke-width=\"2\"/><polygon points=\"270,100 260,95 260,105\" fill=\"#EA580C\"/><text x=\"240\" y=\"90\" fill=\"#EA580C\" font-family=\"Arial, sans-serif\" font-size=\"10\" font-weight=\"bold\">Pull</text></svg>",
+      "alt": {
+        "en": "A spring balance hooked to a block on a horizontal table. The pointer on the balance reads 10 N.",
+        "kn": "ಸಮತಲ ಮೇಜಿನ ಮೇಲಿರುವ ಬ್ಲಾಕ್‌ಗೆ ಸಿಕ್ಕಿಸಲಾದ ಸ್ಪ್ರಿಂಗ್ ಬ್ಯಾಲೆನ್ಸ್. ಬ್ಯಾಲೆನ್ಸ್‌ನ ಮೇಲಿನ ಸೂಚಕವು 10 N ಅನ್ನು ತೋರಿಸುತ್ತದೆ."
+      }
+    },
+    "en": {
+      "question": "In the experiment shown, a spring balance reads 10 N when the block just starts to move. What does this reading represent?",
+      "options": [
+        "Limiting Static Friction",
+        "Sliding Friction",
+        "Rolling Friction",
+        "Gravitational Force"
+      ],
+      "answer": "Limiting Static Friction",
+      "reasoning": "The force required to overcome friction at the instant an object starts moving from rest is a measure of limiting static friction. Once the object starts moving, the force required to keep it moving is less (sliding friction)."
+    },
+    "kn": {
+      "question": "ತೋರಿಸಿರುವ ಪ್ರಯೋಗದಲ್ಲಿ, ಬ್ಲಾಕ್ ಕೇವಲ ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸಿದಾಗ ಸ್ಪ್ರಿಂಗ್ ಬ್ಯಾಲೆನ್ಸ್ 10 N ಅನ್ನು ತೋರಿಸುತ್ತದೆ. ಈ ರೀಡಿಂಗ್ ಏನನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ?",
+      "options": [
+        "ಗರಿಷ್ಠ ಸ್ಥಿರ ಘರ್ಷಣೆ (ಸೀಮಿತಗೊಳಿಸುವ ಘರ್ಷಣೆ)",
+        "ಜಾರುವ ಘರ್ಷಣೆ",
+        "ಉರುಳುವ ಘರ್ಷಣೆ",
+        "ಗುರುತ್ವಾಕರ್ಷಣ ಬಲ"
+      ],
+      "answer": "ಗರಿಷ್ಠ ಸ್ಥಿರ ಘರ್ಷಣೆ (ಸೀಮಿತಗೊಳಿಸುವ ಘರ್ಷಣೆ)",
+      "reasoning": "ವಸ್ತುವು ವಿಶ್ರಾಂತಿಯಿಂದ ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸಿದ ಕ್ಷಣದಲ್ಲಿ ಘರ್ಷಣೆಯನ್ನು ಜಯಿಸಲು ಅಗತ್ಯವಿರುವ ಬಲವು ಗರಿಷ್ಠ ಸ್ಥಿರ ಘರ್ಷಣೆಯ ಅಳತೆಯಾಗಿದೆ. ಕಾಯವು ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸಿದ ನಂತರ, ಅದನ್ನು ಚಲನೆಯಲ್ಲಿಡಲು ಬೇಕಾದ ಬಲವು ಕಡಿಮೆಯಾಗಿರುತ್ತದೆ (ಜಾರುವ ಘರ್ಷಣೆ)."
+    }
+  },
+  {
+    "id": "c8_sci_frict_013",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What is the special name given to the frictional force exerted by fluids (liquids and gases)?",
+      "options": [
+        "Drag",
+        "Push",
+        "Tension",
+        "Shear"
+      ],
+      "answer": "Drag",
+      "reasoning": "Fluid friction is scientifically referred to as 'drag'. It is the resistive force exerted by a fluid on any object moving through it, opposing its motion."
+    },
+    "kn": {
+      "question": "ದ್ರವಗಳು (ದ್ರವಗಳು ಮತ್ತು ಅನಿಲಗಳು) ಪ್ರಯೋಗಿಸುವ ಘರ್ಷಣಾ ಬಲಕ್ಕೆ ನೀಡಲಾದ ویژه ಹೆಸರು ಏನು?",
+      "options": [
+        "ಡ್ರಾಗ್ (ಎಳೆತ ಬಲ)",
+        "ನೂಕು ಬಲ",
+        "ಕರ್ಷಣ ಬಲ",
+        "ಕತ್ತರಿ ಬಲ"
+      ],
+      "answer": "ಡ್ರಾಗ್ (ಎಳೆತ ಬಲ)",
+      "reasoning": "ದ್ರವ ಘರ್ಷಣೆಯನ್ನು ವೈಜ್ಞಾನಿಕವಾಗಿ 'ಡ್ರಾಗ್' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದು ದ್ರವದ ಮೂಲಕ ಚಲಿಸುವ ಯಾವುದೇ ವಸ್ತುವಿನ ಮೇಲೆ ದ್ರವವು ಪ್ರಯೋಗಿಸುವ ಪ್ರತಿರೋಧ ಬಲವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_014",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Why are aeroplanes, birds, and rockets designed with a streamlined shape?",
+      "options": [
+        "To reduce the fluid friction (drag) offered by air.",
+        "To increase their weight and stability.",
+        "To maximize the gravitational pull on them.",
+        "To increase the air resistance acting on them."
+      ],
+      "answer": "To reduce the fluid friction (drag) offered by air.",
+      "reasoning": "As objects move through air, they experience air resistance (drag). A streamlined shape (tapered at both ends) allows the air to flow smoothly around the object, minimizing the drag and saving energy."
+    },
+    "kn": {
+      "question": "ವಿಮಾನಗಳು, ಹಕ್ಕಿಗಳು ಮತ್ತು ರಾಕೆಟ್‌ಗಳನ್ನು ಸುಗಮ ಆಕಾರದಲ್ಲಿ (ಸ್ಟ್ರೀಮ್‌ಲೈನ್ಡ್) ಏಕೆ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಗಾಳಿಯಿಂದ ಉಂಟಾಗುವ ದ್ರವ ಘರ್ಷಣೆಯನ್ನು (ಡ್ರಾಗ್) ಕಡಿಮೆ ಮಾಡಲು.",
+        "ಅವುಗಳ ತೂಕ ಮತ್ತು ಸ್ಥಿರತೆಯನ್ನು ಹೆಚ್ಚಿಸಲು.",
+        "ಅವುಗಳ ಮೇಲಿನ ಗುರುತ್ವಾಕರ್ಷಣೆಯನ್ನು ಗರಿಷ್ಠಗೊಳಿಸಲು.",
+        "ಅವುಗಳ ಮೇಲೆ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಗಾಳಿಯ ಪ್ರತಿರೋಧವನ್ನು ಹೆಚ್ಚಿಸಲು."
+      ],
+      "answer": "ಗಾಳಿಯಿಂದ ಉಂಟಾಗುವ ದ್ರವ ಘರ್ಷಣೆಯನ್ನು (ಡ್ರಾಗ್) ಕಡಿಮೆ ಮಾಡಲು.",
+      "reasoning": "ವಸ್ತುಗಳು ಗಾಳಿಯ ಮೂಲಕ ಚಲಿಸುವಾಗ, ಅವು ಗಾಳಿಯ ಪ್ರತಿರೋಧವನ್ನು (ಡ್ರಾಗ್) ಅನುಭವಿಸುತ್ತವೆ. ಸುಗಮ ಆಕಾರವು (ಎರಡೂ ತುದಿಗಳಲ್ಲಿ ಕಿರಿದಾದ ಆಕಾರ) ಗಾಳಿಯು ವಸ್ತುವಿನ ಸುತ್ತ ಸುಲಭವಾಗಿ ಹರಿಯುವಂತೆ ಮಾಡುತ್ತದೆ, ಡ್ರಾಗ್ ಅನ್ನು ಕನಿಷ್ಠಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಶಕ್ತಿಯನ್ನು ಉಳಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_img_015",
+    "difficulty": 2,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 150\"><path d=\"M 20,50 L 50,50 L 60,70 L 70,50 L 90,50 L 100,75 L 115,50 L 140,50 L 155,70 L 170,55 L 190,55 L 205,75 L 220,50 L 250,50 L 265,70 L 280,50\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"3\"/><path d=\"M 20,100 L 50,100 L 60,65 L 70,100 L 90,100 L 100,70 L 115,100 L 140,100 L 155,65 L 170,95 L 190,95 L 205,70 L 220,100 L 250,100 L 265,65 L 280,100\" fill=\"none\" stroke=\"#059669\" stroke-width=\"3\"/><circle cx=\"60\" cy=\"68\" r=\"4\" fill=\"#EA580C\"/><circle cx=\"100\" cy=\"72\" r=\"4\" fill=\"#EA580C\"/><circle cx=\"155\" cy=\"67\" r=\"4\" fill=\"#EA580C\"/><circle cx=\"205\" cy=\"72\" r=\"4\" fill=\"#EA580C\"/><circle cx=\"265\" cy=\"67\" r=\"4\" fill=\"#EA580C\"/><text x=\"30\" y=\"35\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">Surface 1</text><text x=\"30\" y=\"125\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">Surface 2</text><text x=\"120\" y=\"25\" fill=\"#EA580C\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">Interlocking Points</text></svg>",
+      "alt": {
+        "en": "Magnified view of two surfaces in contact showing interlocking of microscopic irregularities.",
+        "kn": "ಸೂಕ್ಷ್ಮ ಅಸಮತೆಗಳ ಪರಸ್ಪರ ಬಂಧನವನ್ನು ತೋರಿಸುವ ಸಂಪರ್ಕದಲ್ಲಿರುವ ಎರಡು ಮೇಲ್ಮೈಗಳ ವರ್ಧಿತ ನೋಟ."
+      }
+    },
+    "en": {
+      "question": "The magnified view shows the contact region of two solids. What fundamental physical quantity is caused by this microscopic interlocking?",
+      "options": [
+        "Friction",
+        "Pressure",
+        "Mass",
+        "Electrostatic charge"
+      ],
+      "answer": "Friction",
+      "reasoning": "At a microscopic level, all surfaces have irregularities (hills and valleys). When two surfaces come into contact, these irregularities interlock. This interlocking resists relative movement and causes the force of friction."
+    },
+    "kn": {
+      "question": "ವರ್ಧಿತ ನೋಟವು ಎರಡು ಘನವಸ್ತುಗಳ ಸಂಪರ್ಕ ಪ್ರದೇಶವನ್ನು ತೋರಿಸುತ್ತದೆ. ಈ ಸೂಕ್ಷ್ಮ ಪರಸ್ಪರ ಬಂಧನದಿಂದ ಉಂಟಾಗುವ ಮೂಲಭೂತ ಭೌತಿಕ ಪ್ರಮಾಣ ಯಾವುದು?",
+      "options": [
+        "ಘರ್ಷಣೆ",
+        "ಒತ್ತಡ",
+        "ರಾಶಿ",
+        "ಸ್ಥಿರ ವಿದ್ಯುತ್ ಆವೇಶ"
+      ],
+      "answer": "ಘರ್ಷಣೆ",
+      "reasoning": "ಸೂಕ್ಷ್ಮ ಮಟ್ಟದಲ್ಲಿ, ಎಲ್ಲಾ ಮೇಲ್ಮೈಗಳು ಅಸಮತೆಗಳನ್ನು (ಏರಿಳಿತಗಳು) ಹೊಂದಿರುತ್ತವೆ. ಎರಡು ಮೇಲ್ಮೈಗಳು ಸಂಪರ್ಕಕ್ಕೆ ಬಂದಾಗ, ಈ ಅಸಮತೆಗಳು ಪರಸ್ಪರ ಬಂಧಿಸಲ್ಪಡುತ್ತವೆ. ಈ ಬಂಧನವು ಸಾಪೇಕ್ಷ ಚಲನೆಯನ್ನು ವಿರೋಧಿಸುತ್ತದೆ ಮತ್ತು ಘರ್ಷಣಾ ಬಲಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_016",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Why is rolling friction much smaller than sliding friction?",
+      "options": [
+        "The area of contact is greatly reduced when rolling.",
+        "Rolling makes the surfaces smoother.",
+        "Rolling increases the irregularities on the surfaces.",
+        "Rolling is a fluid contact process."
+      ],
+      "answer": "The area of contact is greatly reduced when rolling.",
+      "reasoning": "In rolling, only a very small part of the wheel or roller is in contact with the surface at any instant. This reduces the area of contact and the degree of interlocking compared to sliding, where the entire surface slides over another."
+    },
+    "kn": {
+      "question": "ಉರುಳುವ ಘರ್ಷಣೆಯು ಜಾರುವ ಘರ್ಷಣೆಗಿಂತ ಏಕೆ ತುಂಬಾ ಕಡಿಮೆಯಾಗಿದೆ?",
+      "options": [
+        "ಉರುಳುವಾಗ ಸಂಪರ್ಕದ ವಿಸ್ತೀರ್ಣವು ಬಹಳವಾಗಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+        "ಉರುಳುವಿಕೆಯು ಮೇಲ್ಮೈಗಳನ್ನು ನಯವಾಗಿಸುತ್ತದೆ.",
+        "ಉರುಳುವಿಕೆಯು ಮೇಲ್ಮೈಗಳ ಮೇಲಿನ ಅಸಮತೆಗಳನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+        "ಉರುಳುವಿಕೆಯು ಒಂದು ದ್ರವ ಸಂಪರ್ಕ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ."
+      ],
+      "answer": "ಉರುಳುವಾಗ ಸಂಪರ್ಕದ ವಿಸ್ತೀರ್ಣವು ಬಹಳವಾಗಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "reasoning": "ಉರುಳುವಾಗ, ಯಾವುದೇ ಕ್ಷಣದಲ್ಲೂ ಚಕ್ರದ ಅಥವಾ ರೋಲರ್‌ನ ಅತ್ಯಂತ ಸಣ್ಣ ಭಾಗವು ಮಾತ್ರ ಮೇಲ್ಮೈಯೊಂದಿಗೆ ಸಂಪರ್ಕದಲ್ಲಿರುತ್ತದೆ. ಇದು ಸಂಪರ್ಕ ಪ್ರದೇಶವನ್ನು ಮತ್ತು ಅಸಮತೆಗಳ ಬಂಧನದ ಪ್ರಮಾಣವನ್ನು ಜಾರುವ ಘರ್ಷಣೆಗೆ ಹೋಲಿಸಿದರೆ ಗಮನಾರ್ಹವಾಗಿ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_017",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following factors affect the magnitude of fluid friction (drag) on an object moving through a fluid?",
+      "options": [
+        "The speed of the object with respect to the fluid",
+        "The shape of the moving object",
+        "The nature/viscosity of the fluid",
+        "The color of the object's surface"
+      ],
+      "answer": [
+        "The speed of the object with respect to the fluid",
+        "The shape of the moving object",
+        "The nature/viscosity of the fluid"
+      ],
+      "reasoning": "Drag depends on: (1) the speed of the object (higher speed means more drag), (2) the shape of the object (streamlined shapes experience less drag), and (3) the nature of the fluid (denser/more viscous fluids offer more resistance). Color has no effect."
+    },
+    "kn": {
+      "question": "ದ್ರವದ ಮೂಲಕ ಚಲಿಸುವ ವಸ್ತುವಿನ ಮೇಲಿನ ದ್ರವ ಘರ್ಷಣೆಯ (ಡ್ರಾಗ್) ಪ್ರಮಾಣವನ್ನು ಕೆಳಗಿನ ಯಾವ ಅಂಶಗಳು ನಿರ್ಧರಿಸುತ್ತವೆ?",
+      "options": [
+        "ದ್ರವಕ್ಕೆ ಸಾಪೇಕ್ಷವಾಗಿ ವಸ್ತುವಿನ ವೇಗ",
+        "ಚಲಿಸುವ ವಸ್ತುವಿನ ಆಕಾರ",
+        "ದ್ರವದ ಸ್ವರೂಪ/ಸ್ನಿಗ್ಧತೆ",
+        "ವಸ್ತುವಿನ ಮೇಲ್ಮೈ ಬಣ್ಣ"
+      ],
+      "answer": [
+        "ದ್ರವಕ್ಕೆ ಸಾಪೇಕ್ಷವಾಗಿ ವಸ್ತುವಿನ ವೇಗ",
+        "ಚಲಿಸುವ ವಸ್ತುವಿನ ಆಕಾರ",
+        "ದ್ರವದ ಸ್ವರೂಪ/ಸ್ನಿಗ್ಧತೆ"
+      ],
+      "reasoning": "ಡ್ರಾಗ್ ಕೆಳಗಿನವುಗಳನ್ನು ಅವಲಂಬಿಸಿದೆ: (1) ವಸ್ತುವಿನ ವೇಗ (ಹೆಚ್ಚಿನ ವೇಗ ಎಂದರೆ ಹೆಚ್ಚಿನ ಡ್ರಾಗ್), (2) ವಸ್ತುವಿನ ಆಕಾರ (ಸುಗಮ ಆಕಾರಗಳು ಕಡಿಮೆ ಡ್ರಾಗ್ ಅನುಭವಿಸುತ್ತವೆ), ಮತ್ತು (3) ದ್ರವದ ಸ್ವರೂಪ (ಹೆಚ್ಚಿನ ಸ್ನಿಗ್ಧತೆಯ ದ್ರವಗಳು ಹೆಚ್ಚಿನ ಪ್ರತಿರೋಧವನ್ನು ನೀಡುತ್ತವೆ). ಬಣ್ಣಕ್ಕೆ ಯಾವುದೇ ಸಂಬಂಧವಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_018",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Identify the disadvantages of friction in mechanical systems.",
+      "options": [
+        "It causes wear and tear of moving parts like bearings.",
+        "It generates heat, which wastes energy.",
+        "It allows vehicles to stop when brakes are applied.",
+        "It reduces the efficiency of machines."
+      ],
+      "answer": [
+        "It causes wear and tear of moving parts like bearings.",
+        "It generates heat, which wastes energy.",
+        "It reduces the efficiency of machines."
+      ],
+      "reasoning": "Friction is a disadvantage in machines because it causes wear and tear of parts, produces unwanted heat energy that damages machinery and wastes fuel, and reduces overall mechanical efficiency. Brakes stopping vehicles is an advantage, not a disadvantage."
+    },
+    "kn": {
+      "question": "ಯಾಂತ್ರಿಕ ವ್ಯವಸ್ಥೆಗಳಲ್ಲಿ ಘರ್ಷಣೆಯಿಂದ ಉಂಟಾಗುವ ಅನನುಕೂಲಗಳನ್ನು ಗುರುತಿಸಿ.",
+      "options": [
+        "ಇದು ಬೇರಿಂಗ್‌ಗಳಂತಹ ಚಲಿಸುವ ಭಾಗಗಳ ಸವೆತಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+        "ಇದು ಶಾಖವನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ, ಇದು ಶಕ್ತಿಯನ್ನು ವ್ಯರ್ಥ ಮಾಡುತ್ತದೆ.",
+        "ಬ್ರೇಕ್ ಹಾಕಿದಾಗ ವಾಹನಗಳು ನಿಲ್ಲಲು ಇದು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+        "ಇದು ಯಂತ್ರಗಳ ದಕ್ಷತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ."
+      ],
+      "answer": [
+        "ಇದು ಬೇರಿಂಗ್‌ಗಳಂತಹ ಚಲಿಸುವ ಭಾಗಗಳ ಸವೆತಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+        "ಇದು ಶಾಖವನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ, ಇದು ಶಕ್ತಿಯನ್ನು ವ್ಯರ್ಥ ಮಾಡುತ್ತದೆ.",
+        "ಇದು ಯಂತ್ರಗಳ ದಕ್ಷತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ."
+      ],
+      "reasoning": "ಘರ್ಷಣೆಯು ಯಂತ್ರಗಳಲ್ಲಿ ಅನನುಕೂಲವಾಗಿದೆ ಏಕೆಂದರೆ ಇದು ಭಾಗಗಳ ಸವೆತಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ, ಅನಗತ್ಯ ಶಾಖ ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸಿ ಇಂಧನವನ್ನು ವ್ಯರ್ಥ ಮಾಡುತ್ತದೆ ಮತ್ತು ಒಟ್ಟಾರೆ ಯಾಂತ್ರಿಕ ದಕ್ಷತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ. ಬ್ರೇಕ್ ಹಾಕುವುದು ಒಂದು ಅನುಕೂಲವಾಗಿದೆ, ಅನನುಕೂಲವಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_019",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the engineering solutions with their intended friction-related goals.",
+      "pairs": [
+        {
+          "left": "Using lubricants like grease",
+          "right": "To create a thin layer between sliding parts and reduce wear"
+        },
+        {
+          "left": "Using ball bearings",
+          "right": "To convert sliding friction to rolling friction in axles"
+        },
+        {
+          "left": "Grooving tyre threads",
+          "right": "To increase grip and prevent slipping on wet roads"
+        },
+        {
+          "left": "Streamlining aeroplanes",
+          "right": "To reduce air drag and fuel consumption"
+        }
+      ],
+      "reasoning": "Lubricants separate surfaces; ball bearings change friction type; grooving tyres increases mechanical grip; streamlining reduces aerodynamic drag."
+    },
+    "kn": {
+      "question": "ಎಂಜಿನಿಯರಿಂಗ್ ಪರಿಹಾರಗಳನ್ನು ಅವುಗಳ ಘರ್ಷಣೆಗೆ ಸಂಬಂಧಿಸಿದ ಗುರಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಗ್ರೀಸ್‌ನಂತಹ ನಯಗೊಳಿಸುವ ವಸ್ತುಗಳನ್ನು ಬಳಸುವುದು",
+          "right": "ಜಾರುವ ಭಾಗಗಳ ನಡುವೆ ತೆಳುವಾದ ಪದರವನ್ನು ನಿರ್ಮಿಸಿ ಸವೆತವನ್ನು ಕಡಿಮೆ ಮಾಡಲು"
+        },
+        {
+          "left": "ಬಾಲ್ ಬೇರಿಂಗ್‌ಗಳನ್ನು ಬಳಸುವುದು",
+          "right": "ಅಚ್ಚುಗಳಲ್ಲಿ ಜಾರುವ ಘರ್ಷಣೆಯನ್ನು ಉರುಳುವ ಘರ್ಷಣೆಯಾಗಿ ಪರಿವರ್ತಿಸಲು"
+        },
+        {
+          "left": "ಟೈರ್ ಗೆರೆಗಳನ್ನು ಆಳವಾಗಿಸುವುದು",
+          "right": "ಹಿಡಿತವನ್ನು ಹೆಚ್ಚಿಸಿ ಒದ್ದೆಯಾದ ರಸ್ತೆಗಳಲ್ಲಿ ಜಾರದಂತೆ ತಡೆಯಲು"
+        },
+        {
+          "left": "ವಿಮಾನಗಳನ್ನು ಸುಗಮ ಆಕಾರದಲ್ಲಿ ವಿನ್ಯಾಸಗೊಳಿಸುವುದು",
+          "right": "ಗಾಳಿಯ ಪ್ರತಿರೋಧ ಮತ್ತು ಇಂಧನ ಬಳಕೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಲು"
+        }
+      ],
+      "reasoning": "ನಯಗೊಳಿಸುವ ವಸ್ತುಗಳು ಮೇಲ್ಮೈಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸುತ್ತವೆ; ಬಾಲ್ ಬೇರಿಂಗ್‌ಗಳು ಘರ್ಷಣೆಯ ವಿಧವನ್ನು ಬದಲಾಯಿಸುತ್ತವೆ; ಟೈರ್ ಗೆರೆಗಳು ಗ್ರಿಪ್ ಹೆಚ್ಚಿಸುತ್ತವೆ; ಸುಗಮ ಆಕಾರವು ವಾಯುಬಲವೈಜ್ಞಾನಿಕ ಡ್ರಾಗ್ ಅನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_020",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the physical situations with the primary type of friction involved.",
+      "pairs": [
+        {
+          "left": "A heavy trunk pushed but not moving at all",
+          "right": "Static Friction"
+        },
+        {
+          "left": "A child sliding down a playground slide",
+          "right": "Sliding Friction"
+        },
+        {
+          "left": "A luggage suitcase with wheels rolling on a floor",
+          "right": "Rolling Friction"
+        },
+        {
+          "left": "A fish swimming through water",
+          "right": "Fluid Friction"
+        }
+      ],
+      "reasoning": "Static friction keeps the trunk at rest; the slide involves sliding; wheels rolling on floor involve rolling; swimming involves fluid drag."
+    },
+    "kn": {
+      "question": "ಭೌತಿಕ ಸನ್ನಿವೇಶಗಳನ್ನು ಅವುಗಳಲ್ಲಿ ಒಳಗೊಂಡಿರುವ ಪ್ರಾಥಮಿಕ ಘರ್ಷಣೆಯ ವಿಧದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಭಾರವಾದ ಪೆಟ್ಟಿಗೆಯನ್ನು ತಳ್ಳಿದರೂ ಅದು ಸ್ವಲ್ಪವೂ ಚಲಿಸದಿರುವುದು",
+          "right": "ಸ್ಥಿರ ಘರ್ಷಣೆ"
+        },
+        {
+          "left": "ಮಗು ಆಟದ ಮೈದಾನದ ಜಾರುಬಂಡಿಯ ಮೇಲೆ ಜಾರುತ್ತಿರುವುದು",
+          "right": "ಜಾರುವ ಘರ್ಷಣೆ"
+        },
+        {
+          "left": "ಚಕ್ರಗಳನ್ನು ಹೊಂದಿರುವ ಸೂಟ್‌ಕೇಸ್ ನೆಲದ ಮೇಲೆ ಚಲಿಸುತ್ತಿರುವುದು",
+          "right": "ಉರುಳುವ ಘರ್ಷಣೆ"
+        },
+        {
+          "left": "ಮೀನು ನೀರಿನಲ್ಲಿ ಈಜುತ್ತಿರುವುದು",
+          "right": "ದ್ರವ ಘರ್ಷಣೆ"
+        }
+      ],
+      "reasoning": "ಸ್ಥಿರ ಘರ್ಷಣೆಯು ಪೆಟ್ಟಿಗೆಯನ್ನು ವಿಶ್ರಾಂತಿಯಲ್ಲಿಡುತ್ತದೆ; ಜಾರುಬಂಡಿಯಲ್ಲಿ ಜಾರುವ ಘರ್ಷಣೆ ಇರುತ್ತದೆ; ಚಕ್ರಗಳು ಉರುಳುವ ಘರ್ಷಣೆಯನ್ನು ಹೊಂದಿವೆ; ಈಜುವುದು ದ್ರವ ಘರ್ಷಣೆಯನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ."
+    }
+  },
+
+  # --- HARD QUESTIONS (10) ---
+  {
+    "id": "c8_sci_frict_021",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "What is limiting friction?",
+      "options": [
+        "The maximum value of static friction before relative motion begins.",
+        "The friction acting when an object is moving at constant velocity.",
+        "The friction that acts on an object in a absolute vacuum.",
+        "The minimum sliding friction required to stop a moving train."
+      ],
+      "answer": "The maximum value of static friction before relative motion begins.",
+      "reasoning": "Static friction is a self-adjusting force that increases to match the applied force. Its maximum value is called the 'limiting friction'. If the applied force exceeds this, the object starts moving and sliding friction takes over."
+    },
+    "kn": {
+      "question": "ಸೀಮಿತಗೊಳಿಸುವ ಘರ್ಷಣೆ (ಲಿಮಿಟಿಂಗ್ ಫ್ರಿಕನ್) ಎಂದರೇನು?",
+      "options": [
+        "ಸಾಪೇಕ್ಷ ಚಲನೆ ಪ್ರಾರಂಭವಾಗುವ ಮೊದಲು ಸ್ಥಿರ ಘರ್ಷಣೆಯ ಗರಿಷ್ಠ ಮೌಲ್ಯ.",
+        "ವಸ್ತುವು ಸ್ಥಿರ ವೇಗದಲ್ಲಿ ಚಲಿಸುವಾಗ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಘರ್ಷಣೆ.",
+        "ಸಂಪೂರ್ಣ ನಿರ್ವಾತದಲ್ಲಿ ವಸ್ತುವಿನ ಮೇಲೆ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಘರ್ಷಣೆ.",
+        "ಚಲಿಸುವ ರೈಲನ್ನು ನಿಲ್ಲಿಸಲು ಅಗತ್ಯವಿರುವ ಕನಿಷ್ಠ ಜಾರುವ ಘರ್ಷಣೆ."
+      ],
+      "answer": "ಸಾಪೇಕ್ಷ ಚಲನೆ ಪ್ರಾರಂಭವಾಗುವ ಮೊದಲು ಸ್ಥಿರ ಘರ್ಷಣೆಯ ಗರಿಷ್ಠ ಮೌಲ್ಯ.",
+      "reasoning": "ಸ್ಥಿರ ಘರ್ಷಣೆಯು ಅನ್ವಯಿಕ ಬಲಕ್ಕೆ ಹೊಂದಿಕೊಳ್ಳುವ ಬಲವಾಗಿದೆ. ಇದರ ಗರಿಷ್ಠ ಮೌಲ್ಯವನ್ನು 'ಸೀಮಿತಗೊಳಿಸುವ ಘರ್ಷಣೆ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಅನ್ವಯಿಕ ಬಲವು ಇದನ್ನು ಮೀರಿದರೆ, ವಸ್ತುವು ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_img_022",
+    "difficulty": 3,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><line x1=\"20\" y1=\"180\" x2=\"280\" y2=\"180\" stroke=\"#2563EB\" stroke-width=\"2\"/><polygon points=\"40,180 260,180 260,70\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M 230,180 A 30,30 0 0,0 260,150\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"220\" y=\"165\" fill=\"#EA580C\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">θ</text><g transform=\"translate(150, 125) rotate(-24.2)\"><rect x=\"-30\" y=\"-15\" width=\"60\" height=\"30\" fill=\"#E5E7EB\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"0\" y1=\"0\" x2=\"-50\" y2=\"0\" stroke=\"#059669\" stroke-width=\"2\"/><polygon points=\"-50,0 -42,-4 -42,4\" fill=\"#059669\"/><text x=\"-45\" y=\"-10\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"10\" font-weight=\"bold\">f</text><line x1=\"0\" y1=\"0\" x2=\"0\" y2=\"-50\" stroke=\"#EA580C\" stroke-width=\"2\"/><polygon points=\"0,-50 -4,-42 4,-42\" fill=\"#EA580C\"/><text x=\"5\" y=\"-40\" fill=\"#EA580C\" font-family=\"Arial, sans-serif\" font-size=\"10\" font-weight=\"bold\">N</text></g><line x1=\"150\" y1=\"125\" x2=\"150\" y2=\"175\" stroke=\"#DC2626\" stroke-width=\"2\"/><polygon points=\"150,175 146,167 154,167\" fill=\"#DC2626\"/><text x=\"155\" y=\"170\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" font-weight=\"bold\">W</text></svg>",
+      "alt": {
+        "en": "A block on an inclined plane showing normal force N, gravitational force W, and frictional force f.",
+        "kn": "ಅಭಿಲಂಬ ಬಲ N, ಗುರುತ್ವಾಕರ್ಷಣ ಬಲ W ಮತ್ತು ಘರ್ಷಣಾ ಬಲ f ಅನ್ನು ತೋರಿಸುವ ಇಳಿಜಾರಿನ ಮೇಲಿರುವ ಬ್ಲಾಕ್."
+      }
+    },
+    "en": {
+      "question": "In the diagram, a block is at rest on an inclined plane. Which force prevents the block from sliding down?",
+      "options": [
+        "Frictional force (f)",
+        "Normal reaction (N)",
+        "Weight (W)",
+        "Centripetal force"
+      ],
+      "answer": "Frictional force (f)",
+      "reasoning": "The component of the block's weight (W) parallel to the incline acts down the slope. Frictional force (f) acts up the slope, balancing this component and preventing the block from sliding."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ, ಒಂದು ಬ್ಲಾಕ್ ಇಳಿಜಾರಿನ ಮೇಲೆ ವಿಶ್ರಾಂತಿಯಲ್ಲಿದೆ. ಬ್ಲಾಕ್ ಕೆಳಗೆ ಜಾರದಂತೆ ತಡೆಯುವ ಬಲ ಯಾವುದು?",
+      "options": [
+        "ಘರ್ಷಣಾ ಬಲ (f)",
+        "ಅಭಿಲಂಬ ಪ್ರತಿಕ್ರಿಯೆ (N)",
+        "ತೂಕ (W)",
+        "ಅಭಿಕೇಂದ್ರ ಬಲ"
+      ],
+      "answer": "ಘರ್ಷಣಾ ಬಲ (f)",
+      "reasoning": "ಇಳಿಜಾರಿಗೆ ಸಮಾನಾಂತರವಾಗಿರುವ ಬ್ಲಾಕ್‌ನ ತೂಕದ (W) ಘಟಕವು ಇಳಿಜಾರಿನ ಕೆಳಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಘರ್ಷಣಾ ಬಲವು (f) ಇಳಿಜಾರಿನ ಮೇಲಕ್ಕೆ ಕಾರ್ಯನಿರ್ವಹಿಸಿ ಈ ಘಟಕವನ್ನು ಸಮತೋಲನಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಜಾರದಂತೆ ತಡೆಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_023",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Why does rubbing your hands together vigorously produce heat?",
+      "options": [
+        "Mechanical work done against friction is converted into heat energy.",
+        "Friction releases latent heat from skin tissues.",
+        "Chemical reactions between skin oils are triggered by friction.",
+        "Friction creates electrical charges that heat the hands."
+      ],
+      "answer": "Mechanical work done against friction is converted into heat energy.",
+      "reasoning": "According to the law of conservation of energy, when we rub our hands, mechanical work is done to overcome the friction between them. This work is converted into thermal (heat) energy."
+    },
+    "kn": {
+      "question": "ಕೈಗಳನ್ನು ಬಲವಾಗಿ ಪರಸ್ಪರ ಉಜ್ಜಿದಾಗ ಶಾಖವು ಏಕೆ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ?",
+      "options": [
+        "ಘರ್ಷಣೆಯ ವಿರುದ್ಧ ಮಾಡಿದ ಯಾಂತ್ರಿಕ ಕೆಲಸವು ಶಾಖ ಶಕ್ತಿಯಾಗಿ ಪರಿವರ್ತನೆಗೊಳ್ಳುತ್ತದೆ.",
+        "ಘರ್ಷಣೆಯು ಚರ್ಮದ ಅಂಗಾಂಶಗಳಿಂದ ಸುಪ್ತ ಶಾಖವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
+        "ಚರ್ಮದ ಎಣ್ಣೆಗಳ ನಡುವಿನ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಗಳು ಘರ್ಷಣೆಯಿಂದ ಪ್ರಚೋದಿಸಲ್ಪಡುತ್ತವೆ.",
+        "ಘರ್ಷಣೆಯು ಕೈಗಳನ್ನು ಕಾಯಿಸುವ ವಿದ್ಯುತ್ ಆವೇಶಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+      ],
+      "answer": "ಘರ್ಷಣೆಯ ವಿರುದ್ಧ ಮಾಡಿದ ಯಾಂತ್ರಿಕ ಕೆಲಸವು ಶಾಖ ಶಕ್ತಿಯಾಗಿ ಪರಿವರ್ತನೆಗೊಳ್ಳುತ್ತದೆ.",
+      "reasoning": "ಶಕ್ತಿ ಸಂರಕ್ಷಣಾ ನಿಯಮದ ಪ್ರಕಾರ, ನಾವು ಕೈಗಳನ್ನು ಉಜ್ಜಿದಾಗ, ಅವುಗಳ ನಡುವಿನ ಘರ್ಷಣೆಯನ್ನು ಜಯಿಸಲು ಯಾಂತ್ರಿಕ ಕೆಲಸವನ್ನು ಮಾಡಬೇಕಾಗುತ್ತದೆ. ಈ ಕೆಲಸವು ಉಷ್ಣ (ಶಾಖ) ಶಕ್ತಿಯಾಗಿ ಪರಿವರ್ತನೆಗೊಳ್ಳುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_img_024",
+    "difficulty": 3,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><line x1=\"40\" y1=\"160\" x2=\"280\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"40\" y1=\"20\" x2=\"40\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"40\" y1=\"160\" x2=\"160\" y2=\"40\" stroke=\"#059669\" stroke-width=\"3\"/><line x1=\"160\" y1=\"40\" x2=\"160\" y2=\"55\" stroke=\"#EA580C\" stroke-width=\"2\" stroke-dasharray=\"3,3\"/><line x1=\"160\" y1=\"55\" x2=\"270\" y2=\"55\" stroke=\"#DC2626\" stroke-width=\"3\"/><text x=\"140\" y=\"30\" fill=\"#EA580C\" font-family=\"Arial, sans-serif\" font-size=\"10\" font-weight=\"bold\">Peak (A)</text><text x=\"80\" y=\"90\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"10\" font-weight=\"bold\">Static (B)</text><text x=\"200\" y=\"45\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" font-weight=\"bold\">Kinetic (C)</text><text x=\"140\" y=\"180\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\">Applied Force</text><text x=\"15\" y=\"100\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\" transform=\"rotate(-90 15,100)\">Friction Force</text></svg>",
+      "alt": {
+        "en": "A graph of frictional force vs applied force. It goes up linearly (Static), reaches a Peak (A), and then drops slightly to a constant line (Kinetic).",
+        "kn": "ಘರ್ಷಣಾ ಬಲ ಮತ್ತು ಅನ್ವಯಿಕ ಬಲದ ನಡುವಿನ ನಕ್ಷೆ. ಇದು ರೇಖೀಯವಾಗಿ ಹೆಚ್ಚಾಗುತ್ತದೆ (ಸ್ಥಿರ), ಗರಿಷ್ಠ ಮಿತಿಯನ್ನು (A) ತಲುಪುತ್ತದೆ ಮತ್ತು ನಂತರ ಸ್ವಲ್ಪ ಕುಸಿದು ಸ್ಥಿರ ರೇಖೆಯಾಗುತ್ತದೆ (ಚಲನ)."
+      }
+    },
+    "en": {
+      "question": "In the provided graph, what does the Peak (A) represent?",
+      "options": [
+        "Limiting Friction",
+        "Kinetic Friction",
+        "Rolling Friction",
+        "Zero Friction"
+      ],
+      "answer": "Limiting Friction",
+      "reasoning": "The peak value on the graph is the maximum static friction that acts before the object begins to move. This is called the limiting friction. Once motion starts, the friction drops to a slightly lower constant value called kinetic (sliding) friction."
+    },
+    "kn": {
+      "question": "ನೀಡಿರುವ ನಕ್ಷೆಯಲ್ಲಿ, ಗರಿಷ್ಠ ಬಿಂದು (A) ಏನನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ?",
+      "options": [
+        "ಸೀಮಿತಗೊಳಿಸುವ ಘರ್ಷಣೆ",
+        "ಚಲನ ಘರ್ಷಣೆ",
+        "ಉರುಳುವ ಘರ್ಷಣೆ",
+        "ಶೂನ್ಯ ಘರ್ಷಣೆ"
+      ],
+      "answer": "ಸೀಮಿತಗೊಳಿಸುವ ಘರ್ಷಣೆ",
+      "reasoning": "ನಕ್ಷೆಯಲ್ಲಿನ ಗರಿಷ್ಠ ಮೌಲ್ಯವು ವಸ್ತುವು ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಗರಿಷ್ಠ ಸ್ಥಿರ ಘರ್ಷಣೆಯಾಗಿದೆ. ಇದನ್ನು ಸೀಮಿತಗೊಳಿಸುವ ಘರ್ಷಣೆ ಎನ್ನಲಾಗುತ್ತದೆ. ಚಲನೆ ಪ್ರಾರಂಭವಾದ ನಂತರ, ಘರ್ಷಣೆಯು ಚಲನ (ಜಾರುವ) ಘರ್ಷಣೆ ಎಂಬ ಸ್ವಲ್ಪ ಕಡಿಮೆ ಮೌಲ್ಯಕ್ಕೆ ಇಳಿಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_025",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Why is it extremely difficult to walk on a wet marble floor or an oily floor?",
+      "options": [
+        "Water/oil fills the microscopic irregularities, reducing interlocking and friction.",
+        "Water/oil reacts with the floor, creating a magnetic repulsive force.",
+        "The viscosity of water/oil increases static friction to a level where we cannot lift our feet.",
+        "Water/oil increases the coefficient of friction, sticking our feet to the floor."
+      ],
+      "answer": "Water/oil fills the microscopic irregularities, reducing interlocking and friction.",
+      "reasoning": "Liquids like water and oil act as lubricants. They fill the microscopic valleys and hills (irregularities) on the floor and our soles, preventing direct physical contact and interlocking. This reduces friction to near zero, causing us to slip."
+    },
+    "kn": {
+      "question": "ಒದ್ದೆಯಾದ ಅಮೃತಶಿಲೆಯ ನೆಲ ಅಥವಾ ಎಣ್ಣೆಯುಕ್ತ ನೆಲದ ಮೇಲೆ ನಡೆಯುವುದು ಏಕೆ ಅತ್ಯಂತ ಕಷ್ಟಕರವಾಗಿರುತ್ತದೆ?",
+      "options": [
+        "ನೀರು/ಎಣ್ಣೆಯು ಸೂಕ್ಷ್ಮ ಅಸಮತೆಗಳನ್ನು ತುಂಬುತ್ತದೆ, ಇದು ಬಂಧನ ಮತ್ತು ಘರ್ಷಣೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+        "ನೀರು/ಎಣ್ಣೆಯು ನೆಲದೊಂದಿಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಿ ಕಾಂತೀಯ ವಿಕರ್ಷಣ ಬಲವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.",
+        "ನೀರು/ಎಣ್ಣೆಯ ಸ್ನಿಗ್ಧತೆಯು ಸ್ಥಿರ ಘರ್ಷಣೆಯನ್ನು ಹೆಚ್ಚಿಸುವುದರಿಂದ ನಾವು ಕಾಲುಗಳನ್ನು ಎತ್ತಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ.",
+        "ನೀರು/ಎಣ್ಣೆಯು ಘರ್ಷಣಾ ಗುಣಾಂಕವನ್ನು ಹೆಚ್ಚಿಸಿ ನಮ್ಮ ಪಾದಗಳನ್ನು ನೆಲಕ್ಕೆ ಅಂಟಿಸುತ್ತದೆ."
+      ],
+      "answer": "ನೀರು/ಎಣ್ಣೆಯು ಸೂಕ್ಷ್ಮ ಅಸಮತೆಗಳನ್ನು ತುಂಬುತ್ತದೆ, ಇದು ಬಂಧನ ಮತ್ತು ಘರ್ಷಣೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+      "reasoning": "ನೀರು ಮತ್ತು ಎಣ್ಣೆಯಂತಹ ದ್ರವಗಳು ನಯಗೊಳಿಸುವ ವಸ್ತುಗಳಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ. ಅವು ನೆಲ ಮತ್ತು ನಮ್ಮ ಶೂಗಳ ಅಡಿಭಾಗದ ಮೇಲಿನ ಸೂಕ್ಷ್ಮ ಅಸಮತೆಗಳನ್ನು ತುಂಬಿ ನೇರ ದೈಹಿಕ ಸಂಪರ್ಕವನ್ನು ತಡೆಯುತ್ತವೆ. ಇದು ಘರ್ಷಣೆಯನ್ನು ಶೂನ್ಯಕ್ಕೆ ಹತ್ತಿರವಾಗಿಸುವುದರಿಂದ ನಾವು ಜಾರುತ್ತೇವೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_026",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following statements about friction are scientifically accurate?",
+      "options": [
+        "Frictional force is independent of the area of contact for a given load.",
+        "Frictional force depends on the nature of the materials of the two surfaces in contact.",
+        "Frictional force depends directly on the surface area in contact.",
+        "Frictional force is directly proportional to the normal force pressing the surfaces together."
+      ],
+      "answer": [
+        "Frictional force is independent of the area of contact for a given load.",
+        "Frictional force depends on the nature of the materials of the two surfaces in contact.",
+        "Frictional force is directly proportional to the normal force pressing the surfaces together."
+      ],
+      "reasoning": "Surprisingly, friction is independent of the apparent area of contact (as long as weight is constant). It depends on: (1) the nature of materials (roughness, chemistry), and (2) the normal force pressing the surfaces together (f = u * N)."
+    },
+    "kn": {
+      "question": "ಘರ್ಷಣೆಯ ಬಗ್ಗೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ವೈಜ್ಞಾನಿಕವಾಗಿ ಸರಿಯಾಗಿವೆ?",
+      "options": [
+        "ಒಂದು ನಿರ್ದಿಷ್ಟ ಹೊರೆಗೆ ಘರ್ಷಣಾ ಬಲವು ಸಂಪರ್ಕದ ವಿಸ್ತೀರ್ಣದಿಂದ ಸ್ವತಂತ್ರವಾಗಿರುತ್ತದೆ.",
+        "ಘರ್ಷಣಾ ಬಲವು ಸಂಪರ್ಕದಲ್ಲಿರುವ ಎರಡು ಮೇಲ್ಮೈಗಳ ವಸ್ತುಗಳ ಸ್ವರೂಪವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ.",
+        "ಘರ್ಷಣಾ ಬಲವು ನೇರವಾಗಿ ಸಂಪರ್ಕದಲ್ಲಿರುವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ.",
+        "ಘರ್ಷಣಾ ಬಲವು ಮೇಲ್ಮೈಗಳನ್ನು ಒಟ್ಟಿಗೆ ಒತ್ತುವ ಅಭಿಲಂಬ ಬಲಕ್ಕೆ ನೇರ ಅನುಪಾತದಲ್ಲಿರುತ್ತದೆ."
+      ],
+      "answer": [
+        "ಒಂದು ನಿರ್ದಿಷ್ಟ ಹೊರೆಗೆ ಘರ್ಷಣಾ ಬಲವು ಸಂಪರ್ಕದ ವಿಸ್ತೀರ್ಣದಿಂದ ಸ್ವತಂತ್ರವಾಗಿರುತ್ತದೆ.",
+        "ಘರ್ಷಣಾ ಬಲವು ಸಂಪರ್ಕದಲ್ಲಿರುವ ಎರಡು ಮೇಲ್ಮೈಗಳ ವಸ್ತುಗಳ ಸ್ವರೂಪವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ.",
+        "ಘರ್ಷಣಾ ಬಲವು ಮೇಲ್ಮೈಗಳನ್ನು ಒಟ್ಟಿಗೆ ಒತ್ತುವ ಅಭಿಲಂಬ ಬಲಕ್ಕೆ ನೇರ ಅನುಪಾತದಲ್ಲಿರುತ್ತದೆ."
+      ],
+      "reasoning": "ಆಶ್ಚರ್ಯಕರವಾಗಿ, ಘರ್ಷಣಾ ಬಲವು ಸಂಪರ್ಕದ ವಿಸ್ತೀರ್ಣದಿಂದ ಸ್ವತಂತ್ರವಾಗಿರುತ್ತದೆ (ತೂಕವು ಸ್ಥಿರವಾಗಿದ್ದಾಗ). ಇದು: (1) ವಸ್ತುಗಳ ಸ್ವರೂಪ (ಒರಟುತನ, ರಾಸಾಯನಿಕ ಲಕ್ಷಣ) ಮತ್ತು (2) ಮೇಲ್ಮೈಗಳನ್ನು ಒತ್ತುವ ಅಭಿಲಂಬ ಬಲವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ (f = u * N)."
+    }
+  },
+  {
+    "id": "c8_sci_frict_027",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "What are the ways in which friction helps us in our daily activities?",
+      "options": [
+        "It enables us to write with a pen on paper.",
+        "It allows us to walk without slipping.",
+        "It helps in lighting a matchstick.",
+        "It makes machine components run cooler."
+      ],
+      "answer": [
+        "It enables us to write with a pen on paper.",
+        "It allows us to walk without slipping.",
+        "It helps in lighting a matchstick."
+      ],
+      "reasoning": "Friction is essential for writing (grip on paper), walking (pushing against the ground without sliding), and lighting matchsticks (friction generates the heat needed to ignite chemicals). It heats up machine components, which is a disadvantage, not a help."
+    },
+    "kn": {
+      "question": "ನಮ್ಮ ದೈನಂದಿನ ಚಟುವಟಿಕೆಗಳಲ್ಲಿ ಘರ್ಷಣೆಯು ನಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ?",
+      "options": [
+        "ಇದು ಪೆನ್ನಿನಿಂದ ಕಾಗದದ ಮೇಲೆ ಬರೆಯಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+        "ಇದು ಜಾರದಂತೆ ನಡೆಯಲು ನಮಗೆ ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.",
+        "ಇದು ಬೆಂಕಿಪೆಟ್ಟಿಗೆಯ ಕಡ್ಡಿಯನ್ನು ಗೀಚಿ ಉರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+        "ಇದು ಯಂತ್ರದ भागಗಳು ತಂಪಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ನೆರವಾಗುತ್ತದೆ."
+      ],
+      "answer": [
+        "ಇದು ಪೆನ್ನಿನಿಂದ ಕಾಗದದ ಮೇಲೆ ಬರೆಯಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+        "ಇದು ಜಾರದಂತೆ ನಡೆಯಲು ನಮಗೆ ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.",
+        "ಇದು ಬೆಂಕಿಪೆಟ್ಟಿಗೆಯ ಕಡ್ಡಿಯನ್ನು ಗೀಚಿ ಉರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+      ],
+      "reasoning": "ಬರೆಯಲು (ಕಾಗದದ ಮೇಲಿನ ಹಿಡಿತ), ನಡೆಯಲು (ಜಾರದಂತೆ ನೆಲದ ಮೇಲೆ ಒತ್ತಡ ಹಾಕುವುದು) ಮತ್ತು ಕಡ್ಡಿ ಗೀಚಲು (ಘರ್ಷಣೆಯು ರಾಸಾಯನಿಕಗಳನ್ನು ಹೊತ್ತಿಸಲು ಬೇಕಾದ ಶಾಖವನ್ನು ನೀಡುತ್ತದೆ) ಘರ್ಷಣೆ ಅತ್ಯಗತ್ಯ. ಇದು ಯಂತ್ರದ ಭಾಗಗಳನ್ನು ಕಾಯಿಸುತ್ತದೆ, ಇದು ಅನನುಕೂಲವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_028",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the friction concept with its physical/microscopic mechanism.",
+      "pairs": [
+        {
+          "left": "Friction-induced heating",
+          "right": "Conversion of kinetic energy into molecular vibrations"
+        },
+        {
+          "left": "Streamlining in rockets",
+          "right": "Shaping the structure to redirect fluid flow smoothly"
+        },
+        {
+          "left": "Interlocking",
+          "right": "Physical jamming of microscopic ridges of two surfaces"
+        },
+        {
+          "left": "Treadwear",
+          "right": "Gradual shearing off of surface material due to force"
+        }
+      ],
+      "reasoning": "Heating converts kinetic energy into thermal vibration; streamlining redirects flow; interlocking is ridges jamming; treadwear is wear due to shear force."
+    },
+    "kn": {
+      "question": "ಘರ್ಷಣೆಯ ಪರಿಕಲ್ಪನೆಗಳನ್ನು ಅವುಗಳ ಭೌತಿಕ/ಸೂಕ್ಷ್ಮ ಕಾರ್ಯವಿಧಾನದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಘರ್ಷಣೆಯಿಂದ ಉಂಟಾಗುವ ತಾಪನ",
+          "right": "ಚಲನ ಶಕ್ತಿಯು ಅಣುಗಳ ಕಂಪನಗಳಾಗಿ (ಶಾಖವಾಗಿ) ಪರಿವರ್ತನೆಗೊಳ್ಳುವುದು"
+        },
+        {
+          "left": "ರಾಕೆಟ್‌ಗಳ ಸುಗಮಗೊಳಿಸುವಿಕೆ",
+          "right": "ದ್ರವದ ಹರಿವನ್ನು ಸುಲಭವಾಗಿ ಮರುನಿರ್ದೇಶಿಸಲು ದೇಹದ ಆಕಾರವನ್ನು ಬದಲಿಸುವುದು"
+        },
+        {
+          "left": "ಪರಸ್ಪರ ಬಂಧನ",
+          "right": "ಎರಡು ಮೇಲ್ಮೈಗಳ ಸೂಕ್ಷ್ಮ ಅಸಮತೆಗಳು ಭೌತಿಕವಾಗಿ ಸಿಲುಕಿಕೊಳ್ಳುವುದು"
+        },
+        {
+          "left": "ಟ್ರೆಡ್ ಸವೆತ",
+          "right": "ಬಲದ ಕಾರಣದಿಂದ ಮೇಲ್ಮೈ ವಸ್ತುವಿನ ಸಣ್ಣ ಕಣಗಳು ಕ್ರಮೇಣ ಉದುರುವುದು"
+        }
+      ],
+      "reasoning": "ತಾಪನವು ಚಲನ ಶಕ್ತಿಯನ್ನು ಶಾಖವಾಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ; ಸುಗಮಗೊಳಿಸುವಿಕೆ ಹರಿವನ್ನು ಮರುನಿರ್ದೇಶಿಸುತ್ತದೆ; ಪರಸ್ಪರ ಬಂಧನ ಎಂದರೆ ಅಸಮತೆಗಳು ಸಿಲುಕುವುದು; ಟ್ರೆಡ್ ಸವೆತ ಎಂದರೆ ಮೇಲ್ಮೈ ಭಾಗಶಃ ಸವೆದುಹೋಗುವುದು."
+    }
+  },
+  {
+    "id": "c8_sci_frict_029",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the scientific phenomenon with the role of friction.",
+      "pairs": [
+        {
+          "left": "Meteors burning in the sky",
+          "right": "Extreme friction with high-speed atmospheric air"
+        },
+        {
+          "left": "Writing with chalk on a blackboard",
+          "right": "Rubbing shears chalk particles, leaving them on rough board"
+        },
+        {
+          "left": "Knotting a rope",
+          "right": "Friction between overlapping fibers keeps the knot intact"
+        },
+        {
+          "left": "Bicycles stopping",
+          "right": "Brake pads clamping the wheel rim to create friction"
+        }
+      ],
+      "reasoning": "Meteors burn due to air drag; chalk deposits on board due to rough friction; knots stay due to fiber friction; bicycle stops due to brake friction."
+    },
+    "kn": {
+      "question": "ವೈಜ್ಞಾನಿಕ ವಿದ್ಯಮಾನಗಳನ್ನು ಘರ್ಷಣೆಯ ಪಾತ್ರದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಉಲ್ಕೆಗಳು ಆಕಾಶದಲ್ಲಿ ಉರಿಯುವುದು",
+          "right": "ಹೆಚ್ಚಿನ ವೇಗದ ವಾತಾವರಣದ ಗಾಳಿಯೊಂದಿಗೆ ತೀವ್ರ ಘರ್ಷಣೆ"
+        },
+        {
+          "left": "ಕಪ್ಪು ಹಲಗೆಯ ಮೇಲೆ ಸೀಮೆಸುಣ್ಣದಿಂದ ಬರೆಯುವುದು",
+          "right": "ಉಜ್ಜುವಿಕೆಯಿಂದ ಕಣಗಳು ಸವೆದು ಒರಟಾದ ಹಲಗೆಯ ಮೇಲೆ ಉಳಿಯುವುದು"
+        },
+        {
+          "left": "ಹಗ್ಗಕ್ಕೆ ಗಂಟು ಹಾಕುವುದು",
+          "right": "ಒಂದರ ಮೇಲೊಂದು ಬರುವ ನಾರುಗಳ ನಡುವಿನ ಘರ್ಷಣೆಯು ಗಂಟನ್ನು ಭದ್ರವಾಗಿಡುತ್ತದೆ"
+        },
+        {
+          "left": "ಬೈಸಿಕಲ್ ನಿಲ್ಲುವುದು",
+          "right": "ಬ್ರೇಕ್ ಪ್ಯಾಡ್‌ಗಳು ಚಕ್ರದ ಅಂಚನ್ನು ಒತ್ತಿ ಘರ್ಷಣೆಯನ್ನು ಉಂಟುಮಾಡುವುದು"
+        }
+      ],
+      "reasoning": "ಉಲ್ಕೆಗಳು ವಾಯು ಪ್ರತಿರೋಧದಿಂದ ಉರಿಯುತ್ತವೆ; ಸೀಮೆಸುಣ್ಣದ ಕಣಗಳು ಹಲಗೆಯ ಮೇಲೆ ಸಂಗ್ರಹವಾಗುತ್ತವೆ; ಗಂಟುಗಳು ನಾರಿನ ಘರ್ಷಣೆಯಿಂದ ಇರುತ್ತವೆ; ಬೈಸಿಕಲ್ ಬ್ರೇಕ್ ಪ್ಯಾಡ್‌ಗಳ ಘರ್ಷಣೆಯಿಂದ ನಿಲ್ಲುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_sci_frict_030",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Why is the force required to keep a heavy crate sliding at a constant speed slightly less than the force required to start its motion from rest?",
+      "options": [
+        "Once motion starts, the irregularities do not get enough time to interlock deeply.",
+        "Sliding friction acts in the same direction as the motion.",
+        "The mass of the crate decreases slightly once it is in motion.",
+        "Air resistance helps in moving the crate forward."
+      ],
+      "answer": "Once motion starts, the irregularities do not get enough time to interlock deeply.",
+      "reasoning": "When the crate is at rest, the surface irregularities have completely interlocked. Once it starts moving, the sliding surfaces pass over each other quickly, and the irregularities do not get enough time to interlock deeply. Hence, sliding friction is less than limiting static friction."
+    },
+    "kn": {
+      "question": "ಭಾರವಾದ ಪೆಟ್ಟಿಗೆಯನ್ನು ಚಲನೆಯಲ್ಲಿಡಲು ಬೇಕಾದ ಬಲವು, ಅದನ್ನು ವಿಶ್ರಾಂತಿ ಸ್ಥಿತಿಯಿಂದ ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸಲು ಬೇಕಾದ ಬಲಕ್ಕಿಂತ ಏಕೆ ಸ್ವಲ್ಪ ಕಡಿಮೆಯಾಗಿರುತ್ತದೆ?",
+      "options": [
+        "ಚಲನೆ ಪ್ರಾರಂಭವಾದ ಮೇಲೆ, ಅಸಮತೆಗಳು ಆಳವಾಗಿ ಪರಸ್ಪರ ಬಂಧಿಸಲು ಸಾಕಷ್ಟು ಸಮಯ ಸಿಗುವುದಿಲ್ಲ.",
+        "ಜಾರುವ ಘರ್ಷಣೆಯು ಚಲನೆಯ ದಿಕ್ಕಿನಲ್ಲೇ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.",
+        "ವಸ್ತುವು ಚಲನೆಯಲ್ಲಿದ್ದಾಗ ಅದರ ರಾಶಿಯು ಸ್ವಲ್ಪ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+        "ಗಾಳಿಯ ಪ್ರತಿರೋಧವು ಪೆಟ್ಟಿಗೆಯನ್ನು ಮುಂದಕ್ಕೆ ತಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+      ],
+      "answer": "ಚಲನೆ ಪ್ರಾರಂಭವಾದ ಮೇಲೆ, ಅಸಮತೆಗಳು ಆಳವಾಗಿ ಪರಸ್ಪರ ಬಂಧಿಸಲು ಸಾಕಷ್ಟು ಸಮಯ ಸಿಗುವುದಿಲ್ಲ.",
+      "reasoning": "ವಸ್ತುವು ವಿಶ್ರಾಂತಿಯಲ್ಲಿದ್ದಾಗ, ಮೇಲ್ಮೈ ಅಸಮತೆಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಬಂಧಿಸಲ್ಪಡಟ್ಟಿರುತ್ತವೆ. ಅದು ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸಿದಾಗ, ಜಾರುವ ಮೇಲ್ಮೈಗಳು ವೇಗವಾಗಿ ಒಂದರ ಮೇಲೊಂದು ಚಲಿಸುತ್ತವೆ, ಮತ್ತು ಅಸಮತೆಗಳಿಗೆ ಪರಸ್ಪರ ಆಳವಾಗಿ ಬಂಧಿಸಲು ಸಮಯ ಸಿಗುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ ಜಾರುವ ಘರ್ಷಣೆಯು ಗರಿಷ್ಠ ಸ್ಥಿರ ಘರ್ಷಣೆಗಿಂತ ಕಡಿಮೆಯಾಗಿರುತ್ತದೆ."
+    }
+  }
+]
+
+# Write to friction.json
+out_path = '/Users/murthy/.gemini/antigravity/scratch/time-tuk-game/src/data/questions/class_8/science/friction.json'
+with open(out_path, 'w', encoding='utf-8') as f:
+    json.dump(questions, f, ensure_ascii=False, indent=2)
+
+print("Friction questions generated successfully!")

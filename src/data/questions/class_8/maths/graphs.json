@@ -1,0 +1,998 @@
+[
+  {
+    "id": "c8_math_graph_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What are the coordinates of the origin on a Cartesian plane?",
+      "options": [
+        "(0, 0)",
+        "(1, 1)",
+        "(0, 1)",
+        "(1, 0)"
+      ],
+      "answer": "(0, 0)",
+      "reasoning": "The origin is the starting point of the coordinate system, where the horizontal x-axis and the vertical y-axis intersect. At this point, the values of both x and y are zero, making the coordinates (0, 0)."
+    },
+    "kn": {
+      "question": "ಕಾರ್ಟೀಸಿಯನ್ ಸಮತಲದಲ್ಲಿ ಮೂಲಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು ಯಾವುವು?",
+      "options": [
+        "(0, 0)",
+        "(1, 1)",
+        "(0, 1)",
+        "(1, 0)"
+      ],
+      "answer": "(0, 0)",
+      "reasoning": "ಮೂಲಬಿಂದುವು ನಿರ್ದೇಶಾಂಕ ವ್ಯವಸ್ಥೆಯ ಆರಂಭಿಕ ಬಿಂದುವಾಗಿದೆ, ಇಲ್ಲಿ ಸಮತಲವಾದ x-ಅಕ್ಷ ಮತ್ತು ಲಂಬವಾದ y-ಅಕ್ಷಗಳು ಪರಸ್ಪರ ಛೇದಿಸುತ್ತವೆ. ಈ ಬಿಂದುವಿನಲ್ಲಿ, x ಮತ್ತು y ಎರಡರ ಮೌಲ್ಯಗಳೂ ಶೂನ್ಯವಾಗಿರುತ್ತವೆ, ಆದ್ದರಿಂದ ನಿರ್ದೇಶಾಂಕಗಳು (0, 0) ಆಗಿರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Determine the exact location of the point (3, 0) on the coordinate axes.",
+      "options": [
+        "On the y-axis",
+        "On the x-axis",
+        "At the origin",
+        "In the second quadrant"
+      ],
+      "answer": "On the y-axis",
+      "reasoning": "For any point (x, y), if the x-coordinate is 0, the point lies on the vertical axis (y-axis). Here, the point (0, 5) has x = 0, so it lies on the y-axis, 5 units above the origin."
+    },
+    "kn": {
+      "question": "ನಿರ್ದೇಶಾಂಕ ಅಕ್ಷಗಳ ಮೇಲೆ (3, 0) ಬಿಂದುವಿನ ನಿಖರವಾದ ಸ್ಥಾನವನ್ನು ನಿರ್ಧರಿಸಿ.",
+      "options": [
+        "y-ಅಕ್ಷದ ಮೇಲೆ",
+        "x-ಅಕ್ಷದ ಮೇಲೆ",
+        "ಮೂಲಬಿಂದುವಿನಲ್ಲಿ",
+        "ಎರಡನೇ ಚತುರ್ಥಕದಲ್ಲಿ"
+      ],
+      "answer": "y-ಅಕ್ಷದ ಮೇಲೆ",
+      "reasoning": "ಯಾವುದೇ ಬಿಂದು (x, y) ಗಾಗಿ, x-ನಿರ್ದೇಶಾಂಕವು 0 ಆಗಿದ್ದರೆ, ಆ ಬಿಂದುವು ಲಂಬ ಅಕ್ಷದ (y-ಅಕ್ಷ) ಮೇಲೆ ಇರುತ್ತದೆ. ಇಲ್ಲಿ, (0, 5) ಬಿಂದುವಿನ x = 0 ಆಗಿರುವುದರಿಂದ, ಇದು y-ಅಕ್ಷದ ಮೇಲೆ ಮೂಲಬಿಂದುವಿನಿಂದ 5 ಮಾನಗಳಷ್ಟು ಮೇಲಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Where does the point (3, 0) lie on a coordinate graph?",
+      "options": [
+        "On the x-axis",
+        "On the y-axis",
+        "In the first quadrant",
+        "At the origin"
+      ],
+      "answer": "On the x-axis",
+      "reasoning": "For any point (x, y), if the y-coordinate is 0, the point lies on the horizontal axis (x-axis). Since the point is (3, 0), the y-coordinate is 0, placing it on the x-axis, 3 units to the right of the origin."
+    },
+    "kn": {
+      "question": "ನಿರ್ದೇಶಾಂಕ ನಕ್ಷೆಯಲ್ಲಿ (3, 0) ಬಿಂದುವು ಎಲ್ಲಿ ನೆಲೆಗೊಂಡಿದೆ?",
+      "options": [
+        "x-ಅಕ್ಷದ ಮೇಲೆ",
+        "y-ಅಕ್ಷದ ಮೇಲೆ",
+        "ಮೊದಲ ಚತುರ್ಥಕದಲ್ಲಿ",
+        "ಮೂಲಬಿಂದುವಿನಲ್ಲಿ"
+      ],
+      "answer": "x-ಅಕ್ಷದ ಮೇಲೆ",
+      "reasoning": "ಯಾವುದೇ ಬಿಂದು (x, y) ಗಾಗಿ, y-ನಿರ್ದೇಶಾಂಕವು 0 ಆಗಿದ್ದರೆ, ಆ ಬಿಂದುವು ಸಮತಲ ಅಕ್ಷದ (x-ಅಕ್ಷ) ಮೇಲೆ ಇರುತ್ತದೆ. ಇಲ್ಲಿ (3, 0) ಬಿಂದುವಿನ y-ನಿರ್ದೇಶಾಂಕವು 0 ಆಗಿರುವುದರಿಂದ, ಇದು x-ಅಕ್ಷದ ಮೇಲೆ ಮೂಲಬಿಂದುವಿನಿಂದ 3 ಮಾನಗಳಷ್ಟು ಬಲಕ್ಕೆ ನೆಲೆಗೊಂಡಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "For the coordinate pair (5, 8), what is the alternative term for the y-coordinate?",
+      "options": [
+        "Abscissa",
+        "Ordinate",
+        "Origin",
+        "Quadrant"
+      ],
+      "answer": "Abscissa",
+      "reasoning": "In Cartesian coordinates, the first number in the ordered pair (x, y) represents the horizontal distance and is called the 'abscissa'. The second number represents the vertical distance and is called the 'ordinate'."
+    },
+    "kn": {
+      "question": "ನಿರ್ದೇಶಾಂಕ ಜೋಡಿ (5, 8) ಗಾಗಿ, y-ನಿರ್ದೇಶಾಂಕದ ಪರ್ಯಾಯ ಪದ ಯಾವುದು?",
+      "options": [
+        "ಭುಜ (Abscissa)",
+        "ಕೋಟಿ (Ordinate)",
+        "ಮೂಲಬಿಂದು (Origin)",
+        "ಚತುರ್ಥಕ (Quadrant)"
+      ],
+      "answer": "ಭುಜ (Abscissa)",
+      "reasoning": "ಕಾರ್ಟೀಸಿಯನ್ ನಿರ್ದೇಶಾಂಕಗಳಲ್ಲಿ, ಕ್ರಮಯುಕ್ತ ಜೋಡಿ (x, y) ಯಲ್ಲಿನ ಮೊದಲ ಸಂಖ್ಯೆಯು ಸಮತಲ ದೂರವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ ಮತ್ತು ಇದನ್ನು 'ಭುಜ' (abscissa) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಎರಡನೇ ಸಂಖ್ಯೆಯು ಲಂಬ ದೂರವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ ಮತ್ತು ಇದನ್ನು 'ಕೋಟಿ' (ordinate) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In the coordinate pair (5, 8), the y-coordinate is also known as what?",
+      "options": [
+        "Ordinate",
+        "Abscissa",
+        "Slope",
+        "Origin"
+      ],
+      "answer": "Ordinate",
+      "reasoning": "In the Cartesian coordinate system, the vertical coordinate (y-coordinate) of a point is referred to as the 'ordinate'. For the point (5, 8), 8 is the ordinate."
+    },
+    "kn": {
+      "question": "(5, 8) ನಿರ್ದೇಶಾಂಕ ಜೋಡಿಯಲ್ಲಿ, y-ನಿರ್ದೇಶಾಂಕವನ್ನು ಇನ್ನೊಂದು ಹೆಸರಿನಿಂದ ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": [
+        "ಕೋಟಿ (Ordinate)",
+        "ಭುಜ (Abscissa)",
+        "ಇಳಿಜಾರು (Slope)",
+        "ಮೂಲಬಿಂದು (Origin)"
+      ],
+      "answer": "ಕೋಟಿ (Ordinate)",
+      "reasoning": "ಕಾರ್ಟೀಸಿಯನ್ ನಿರ್ದೇಶಾಂಕ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ, ಒಂದು ಬಿಂದುವಿನ ಲಂಬ ನಿರ್ದೇಶಾಂಕವನ್ನು (y-ನಿರ್ದೇಶಾಂಕ) 'ಕೋಟಿ' (ordinate) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. (5, 8) ಬಿಂದುವಿನಲ್ಲಿ 8 ಎಂಬುದು ಕೋಟಿ ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the coordinate of a point that lies on the x-axis at a distance of 4 units to the right of the origin?",
+      "options": [
+        "(4, 0)",
+        "(0, 4)",
+        "(4, 4)",
+        "(0, 0)"
+      ],
+      "answer": "(4, 0)",
+      "reasoning": "A point lying on the x-axis has a y-coordinate of 0. Since it is at a distance of 4 units to the right of the origin along the horizontal axis, its x-coordinate is 4. Thus, the coordinates are (4, 0)."
+    },
+    "kn": {
+      "question": "ಮೂಲಬಿಂದುವಿನಿಂದ ಬಲಕ್ಕೆ x-ಅಕ್ಷದ ಮೇಲೆ 4 ಮಾನಗಳಷ್ಟು ದೂರದಲ್ಲಿರುವ ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕ ಯಾವುದು?",
+      "options": [
+        "(4, 0)",
+        "(0, 4)",
+        "(4, 4)",
+        "(0, 0)"
+      ],
+      "answer": "(4, 0)",
+      "reasoning": "x-ಅಕ್ಷದ ಮೇಲಿರುವ ಬಿಂದುವಿನ y-ನಿರ್ದೇಶಾಂಕವು ಶೂನ್ಯವಾಗಿರುತ್ತದೆ. ಇದು ಮೂಲಬಿಂದುವಿನಿಂದ ಬಲಕ್ಕೆ 4 ಮಾನಗಳಷ್ಟು ದೂರದಲ್ಲಿರುವುದರಿಂದ, ಇದರ x-ನಿರ್ದೇಶಾಂಕ 4 ಆಗಿದೆ. ಆದ್ದರಿಂದ ನಿರ್ದೇಶಾಂಕಗಳು (4, 0) ಆಗಿರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_007",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "If a point's coordinates are (x, y), which coordinate indicates the vertical distance from the x-axis?",
+      "options": [
+        "y-coordinate",
+        "x-coordinate",
+        "Both x and y",
+        "Neither x nor y"
+      ],
+      "answer": "y-coordinate",
+      "reasoning": "The x-coordinate tells us how far right or left a point is from the y-axis. The y-coordinate tells us how far up or down a point is from the x-axis, representing the vertical distance."
+    },
+    "kn": {
+      "question": "ಒಂದು ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು (x, y) ಆಗಿದ್ದರೆ, ಇವುಗಳಲ್ಲಿ ಯಾವುದು x-ಅಕ್ಷದಿಂದ ಇರುವ ಲಂಬ ದೂರವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": [
+        "y-ನಿರ್ದೇಶಾಂಕ",
+        "x-ನಿರ್ದೇಶಾಂಕ",
+        "x ಮತ್ತು y ಎರಡೂ",
+        "x ಅಥವಾ y ಎರಡೂ ಅಲ್ಲ"
+      ],
+      "answer": "y-ನಿರ್ದೇಶಾಂಕ",
+      "reasoning": "x-ನಿರ್ದೇಶಾಂಕವು ಬಿಂದುವು y-ಅಕ್ಷದಿಂದ ಎಷ್ಟು ಬಲಕ್ಕೆ ಅಥವಾ ಎಡಕ್ಕೆ ಇದೆ ಎಂಬುದನ್ನು ತಿಳಿಸುತ್ತದೆ. y-ನಿರ್ದೇಶಾಂಕವು ಬಿಂದುವು x-ಅಕ್ಷದಿಂದ ಎಷ್ಟು ಮೇಲೆ ಅಥವಾ ಕೆಳಗೆ ಇದೆ ಎಂಬುದನ್ನು ತಿಳಿಸುತ್ತದೆ, ಇದು ಲಂಬ ದೂರವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_img_008",
+    "type": "image_single",
+    "difficulty": 1,
+    "en": {
+      "question": "Find the coordinates of the point A shown in the graph.",
+      "options": [
+        "(2, 3)",
+        "(3, 2)",
+        "(2, 0)",
+        "(0, 3)"
+      ],
+      "answer": "(2, 3)",
+      "reasoning": "To find the coordinates of point A, trace down vertically to the horizontal x-axis to find the x-value, which is 2. Then trace horizontally to the vertical y-axis to find the y-value, which is 3. Writing it in the form (x, y) gives (2, 3)."
+    },
+    "kn": {
+      "question": "ನಕ್ಷೆಯಲ್ಲಿ ತೋರಿಸಿರುವ ಬಿಂದು A ಯ ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "(2, 3)",
+        "(3, 2)",
+        "(2, 0)",
+        "(0, 3)"
+      ],
+      "answer": "(2, 3)",
+      "reasoning": "ಬಿಂದು A ಯ ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು, ಅದರಿಂದ ಕೆಳಕ್ಕೆ ಲಂಬವಾಗಿ ಸಮತಲ x-ಅಕ್ಷದ ಕಡೆಗೆ ಹೋದಾಗ x = 2 ಸಿಗುತ್ತದೆ. ನಂತರ ಅಡ್ಡಲಾಗಿ ಲಂಬ y-ಅಕ್ಷದ ಕಡೆಗೆ ಹೋದಾಗ y = 3 ಸಿಗುತ್ತದೆ. ಇದನ್ನು (x, y) ರೂಪದಲ್ಲಿ ಬರೆದಾಗ (2, 3) ದೊರೆಯುತ್ತದೆ."
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"40\" y1=\"20\" x2=\"40\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"80\" y1=\"20\" x2=\"80\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"160\" y1=\"20\" x2=\"160\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"200\" y1=\"20\" x2=\"200\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"240\" y1=\"20\" x2=\"240\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"135\" x2=\"260\" y2=\"135\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"110\" x2=\"260\" y2=\"110\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"85\" x2=\"260\" y2=\"85\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"60\" x2=\"260\" y2=\"60\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"35\" x2=\"260\" y2=\"35\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><text x=\"40\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">0</text><text x=\"80\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">1</text><text x=\"120\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">2</text><text x=\"160\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">3</text><text x=\"200\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">4</text><text x=\"240\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">5</text><text x=\"25\" y=\"139\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"end\">1</text><text x=\"25\" y=\"114\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"end\">2</text><text x=\"25\" y=\"89\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"end\">3</text><text x=\"25\" y=\"64\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"end\">4</text><text x=\"25\" y=\"39\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"end\">5</text><line x1=\"120\" y1=\"85\" x2=\"120\" y2=\"160\" stroke=\"#EA580C\" stroke-dasharray=\"3\" stroke-width=\"1.5\"/><line x1=\"40\" y1=\"85\" x2=\"120\" y2=\"85\" stroke=\"#EA580C\" stroke-dasharray=\"3\" stroke-width=\"1.5\"/><circle cx=\"120\" cy=\"85\" r=\"5\" fill=\"#059669\"/><text x=\"130\" y=\"80\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">A</text></svg>",
+      "alt": {
+        "en": "Cartesian grid with point A plotted at coordinate (2, 3)",
+        "kn": "ನಿರ್ದೇಶಾಂಕ (2, 3) ರ ಬಳಿ ಗುರುತಿಸಲಾದ ಬಿಂದು A ಅನ್ನು ಹೊಂದಿರುವ ಕಾರ್ಟೀಸಿಯನ್ ನಕ್ಷೆ"
+      }
+    }
+  },
+  {
+    "id": "c8_math_graph_009",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Select all the points that lie on the x-axis.",
+      "options": [
+        "(2, 0)",
+        "(0, 5)",
+        "(-3, 0)",
+        "(0, 0)"
+      ],
+      "answer": [
+        "(2, 0)",
+        "(-3, 0)",
+        "(0, 0)"
+      ],
+      "reasoning": "A point lies on the x-axis if its y-coordinate is exactly 0. Let's analyze the options: (2, 0) has y=0 (on x-axis); (0, 5) has x=0, y=5 (on y-axis); (-3, 0) has y=0 (on x-axis); (0, 0) has both coordinates 0, which is the intersection of both axes and therefore lies on both the x-axis and y-axis. So (2,0), (-3,0), and (0,0) all lie on the x-axis."
+    },
+    "kn": {
+      "question": "x-ಅಕ್ಷದ ಮೇಲಿರುವ ಎಲ್ಲಾ ಬಿಂದುಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": [
+        "(2, 0)",
+        "(0, 5)",
+        "(-3, 0)",
+        "(0, 0)"
+      ],
+      "answer": [
+        "(2, 0)",
+        "(-3, 0)",
+        "(0, 0)"
+      ],
+      "reasoning": "ಯಾವುದೇ ಬಿಂದುವಿನ y-ನಿರ್ದೇಶಾಂಕವು 0 ಆಗಿದ್ದರೆ ಅದು x-ಅಕ್ಷದ ಮೇಲೆ ಇರುತ್ತದೆ. ಆಯ್ಕೆಗಳನ್ನು ಗಮನಿಸಿ: (2, 0) ನ y=0 (x-ಅಕ್ಷದ ಮೇಲೆ); (0, 5) ನ x=0 (y-ಅಕ್ಷದ ಮೇಲೆ); (-3, 0) ನ y=0 (x-ಅಕ್ಷದ ಮೇಲೆ); (0, 0) ಎಂಬುದು ಮೂಲಬಿಂದುವಾಗಿದ್ದು ಎರಡೂ ಅಕ್ಷಗಳ ಛೇದನ ಬಿಂದುವಾಗಿದೆ, ಆದ್ದರಿಂದ ಇದು x-ಅಕ್ಷದ ಮೇಲೂ ಇರುತ್ತದೆ. ಹೀಗಾಗಿ (2,0), (-3,0) ಮತ್ತು (0,0) ಬಿಂದುಗಳು x-ಅಕ್ಷದ ಮೇಲಿವೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_010",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the coordinates with their location on a graph.",
+      "pairs": [
+        {
+          "left": "(0, 0)",
+          "right": "Origin"
+        },
+        {
+          "left": "(5, 0)",
+          "right": "x-axis"
+        },
+        {
+          "left": "(0, -3)",
+          "right": "y-axis"
+        },
+        {
+          "left": "(2, 3)",
+          "right": "First Quadrant"
+        }
+      ],
+      "reasoning": "1. (0, 0) is the intersection of axes, known as the Origin.\n2. (5, 0) has y = 0, so it lies on the x-axis.\n3. (0, -3) has x = 0, so it lies on the y-axis.\n4. (2, 3) has both coordinates positive, placing it in the First Quadrant."
+    },
+    "kn": {
+      "question": "ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ನಕ್ಷೆಯಲ್ಲಿ ಅವುಗಳ ಸ್ಥಾನದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "(0, 0)",
+          "right": "ಮೂಲಬಿಂದು (Origin)"
+        },
+        {
+          "left": "(5, 0)",
+          "right": "x-ಅಕ್ಷ (x-axis)"
+        },
+        {
+          "left": "(0, -3)",
+          "right": "y-ಅಕ್ಷ (y-axis)"
+        },
+        {
+          "left": "(2, 3)",
+          "right": "ಮೊದಲ ಚತುರ್ಥಕ (First Quadrant)"
+        }
+      ],
+      "reasoning": "1. (0, 0) ಎಂಬುದು ಅಕ್ಷಗಳು ಛೇದಿಸುವ ಮೂಲಬಿಂದುವಾಗಿದೆ.\n2. (5, 0) ನಲ್ಲಿ y = 0 ಆಗಿರುವುದರಿಂದ ಇದು x-ಅಕ್ಷದ ಮೇಲಿದೆ.\n3. (0, -3) ನಲ್ಲಿ x = 0 ಆಗಿರುವುದರಿಂದ ಇದು y-ಅಕ್ಷದ ಮೇಲಿದೆ.\n4. (2, 3) ನ ಎರಡು ನಿರ್ದೇಶಾಂಕಗಳು ಧನ ಸಂಖ್ಯೆಗಳಾಗಿದ್ದು ಇದು ಮೊದಲ ಚತುರ್ಥಕದಲ್ಲಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "If the relationship between two variables is represented by the equation y = 3x - 1, find the y-coordinate of the point whose x-coordinate is 2.",
+      "options": [
+        "(2, 5)",
+        "(2, 6)",
+        "(5, 2)",
+        "(2, 7)"
+      ],
+      "answer": "(2, 5)",
+      "reasoning": "Substitute x = 2 into the linear equation: y = 3(2) - 1 = 6 - 1 = 5. So the y-coordinate is 5. Combining x and y, the point is represented by the coordinate pair (2, 5)."
+    },
+    "kn": {
+      "question": "ಎರಡು ಚರಾಕ್ಷರಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು y = 3x - 1 ಎಂಬ ಸಮೀಕರಣದಿಂದ ಪ್ರತಿನಿಧಿಸಿದರೆ, x-ನಿರ್ದೇಶಾಂಕ 2 ಆಗಿರುವ ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕ ಯಾವುದು?",
+      "options": [
+        "(2, 5)",
+        "(2, 6)",
+        "(5, 2)",
+        "(2, 7)"
+      ],
+      "answer": "(2, 5)",
+      "reasoning": "ರೇಖಾತ್ಮಕ ಸಮೀಕರಣದಲ್ಲಿ x = 2 ಅನ್ನು ಆದೇಶಿಸಿದಾಗ: y = 3(2) - 1 = 6 - 1 = 5 ದೊರೆಯುತ್ತದೆ. ಆದ್ದರಿಂದ y-ನಿರ್ದೇಶಾಂಕ 5 ಆಗಿದೆ. x ಮತ್ತು y ಅನ್ನು ಒಟ್ಟಿಗೆ ಬರೆದಾಗ ನಿರ್ದೇಶಾಂಕ ಜೋಡಿ (2, 5) ಆಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "A car travels at a constant speed of 40 km/h. Which linear equation represents the distance 'd' (in km) traveled in 't' hours?",
+      "options": [
+        "d = 40t",
+        "t = 40d",
+        "d = t + 40",
+        "d = 40/t"
+      ],
+      "answer": "d = 40t",
+      "reasoning": "Since distance = speed * time, and speed is a constant 40 km/h, the distance 'd' is directly proportional to time 't'. Thus, the relation is represented by the linear equation d = 40t."
+    },
+    "kn": {
+      "question": "ಒಂದು ಕಾರು ಗಂಟೆಗೆ 40 ಕಿಮೀ ಸ್ಥಿರ ವೇಗದಲ್ಲಿ ಚಲಿಸುತ್ತದೆ. 't' ಗಂಟೆಗಳಲ್ಲಿ ಕ್ರಮಿಸಿದ ದೂರ 'd' (ಕಿಮೀಗಳಲ್ಲಿ) ಅನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಸಮೀಕರಣ ಯಾವುದು?",
+      "options": [
+        "d = 40t",
+        "t = 40d",
+        "d = t + 40",
+        "d = 40/t"
+      ],
+      "answer": "d = 40t",
+      "reasoning": "ದೂರ = ವೇಗ * ಕಾಲ. ಇಲ್ಲಿ ವೇಗವು ಸ್ಥಿರವಾಗಿ 40 ಕಿಮೀ/ಗಂಟೆ ಆಗಿರುವುದರಿಂದ, ಕ್ರಮಿಸಿದ ದೂರ 'd' ಕಾಲ 't' ಗೆ ನೇರ ಅನುಪಾತದಲ್ಲಿದೆ. ಆದ್ದರಿಂದ, ಈ ಸಂಬಂಧವನ್ನು d = 40t ಎಂಬ ಸಮೀಕರಣದಿಂದ ಪ್ರತಿನಿಧಿಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In a line graph representing the cost of apples, if 1 kg of apples costs ₹120, what is the cost of 3.5 kg of apples?",
+      "options": [
+        "₹420",
+        "₹360",
+        "₹480",
+        "₹400"
+      ],
+      "answer": "₹420",
+      "reasoning": "The cost of apples is directly proportional to their weight. If the cost of 1 kg is ₹120, the cost of 3.5 kg is: 3.5 * 120 = 420. Thus, the cost is ₹420."
+    },
+    "kn": {
+      "question": "ಸೇಬು ಹಣ್ಣುಗಳ ಬೆಲೆಯನ್ನು ತೋರಿಸುವ ರೇಖಾತ್ಮಕ ನಕ್ಷೆಯಲ್ಲಿ, 1 ಕೆಜಿ ಸೇಬಿನ ಬೆಲೆ ₹120 ಆಗಿದ್ದರೆ, 3.5 ಕೆಜಿ ಸೇಬಿನ ಬೆಲೆ ಎಷ್ಟು?",
+      "options": [
+        "₹420",
+        "₹360",
+        "₹480",
+        "₹400"
+      ],
+      "answer": "₹420",
+      "reasoning": "ಸೇಬಿನ ಒಟ್ಟು ಬೆಲೆಯು ಅದರ ತೂಕಕ್ಕೆ ನೇರ ಅನುಪಾತದಲ್ಲಿದೆ. 1 ಕೆಜಿ ಸೇಬಿನ ಬೆಲೆ ₹120 ಆಗಿರುವುದರಿಂದ, 3.5 ಕೆಜಿಯ ಬೆಲೆ: 3.5 * 120 = ₹420 ಆಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "In the Cartesian coordinate system, if the x-coordinate of a point is positive and its y-coordinate is negative, in which quadrant does it lie?",
+      "options": [
+        "Fourth Quadrant",
+        "First Quadrant",
+        "Second Quadrant",
+        "Third Quadrant"
+      ],
+      "answer": "Fourth Quadrant",
+      "reasoning": "The four quadrants are structured as follows:\n- Quadrant I: (+x, +y)\n- Quadrant II: (-x, +y)\n- Quadrant III: (-x, -y)\n- Quadrant IV: (+x, -y)\nSince the x-coordinate is positive (+) and the y-coordinate is negative (-), the point lies in the Fourth Quadrant."
+    },
+    "kn": {
+      "question": "ಕಾರ್ಟೀಸಿಯನ್ ನಿರ್ದೇಶಾಂಕ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ, ಒಂದು ಬಿಂದುವಿನ x-ನಿರ್ದೇಶಾಂಕವು ಧನ (+) ಮತ್ತು y-ನಿರ್ದೇಶಾಂಕವು ಋಣ (-) ಆಗಿದ್ದರೆ, ಆ ಬಿಂದುವು ಯಾವ ಚತುರ್ಥಕದಲ್ಲಿದೆ?",
+      "options": [
+        "ನಾಲ್ಕನೇ ಚತುರ್ಥಕ",
+        "ಮೊದಲ ಚತುರ್ಥಕ",
+        "ಎರಡನೇ ಚತುರ್ಥಕ",
+        "ಮೂರನೇ ಚತುರ್ಥಕ"
+      ],
+      "answer": "ನಾಲ್ಕನೇ ಚತುರ್ಥಕ",
+      "reasoning": "ನಾಲ್ಕು ಚತುರ್ಥಕಗಳ ಲಕ್ಷಣಗಳು ಹೀಗಿವೆ:\n- ಚತುರ್ಥಕ I: (+x, +y)\n- ಚತುರ್ಥಕ II: (-x, +y)\n- ಚತುರ್ಥಕ III: (-x, -y)\n- ಚತುರ್ಥಕ IV: (+x, -y)\nಇಲ್ಲಿ x-ನಿರ್ದೇಶಾಂಕವು ಧನ (+) ಮತ್ತು y-ನಿರ್ದೇಶಾಂಕವು ಋಣ (-) ಆಗಿರುವುದರಿಂದ, ಬಿಂದುವು ನಾಲ್ಕನೇ ಚತುರ್ಥಕದಲ್ಲಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_img_015",
+    "type": "image_single",
+    "difficulty": 2,
+    "en": {
+      "question": "Based on the distance-time graph, what is the speed of the moving object?",
+      "options": [
+        "20 km/h",
+        "30 km/h",
+        "40 km/h",
+        "60 km/h"
+      ],
+      "answer": "20 km/h",
+      "reasoning": "Speed is defined as Distance / Time. It represents the slope of the distance-time graph. From the graph, we can identify a coordinate point where Time = 3 hours and Distance = 60 km. Speed = 60 km / 3 hours = 20 km/h. Since it is a straight line passing through the origin, the speed is constant at 20 km/h."
+    },
+    "kn": {
+      "question": "ದೂರ-ಕಾಲದ ನಕ್ಷೆಯ ಆಧಾರದ ಮೇಲೆ, ಚಲಿಸುತ್ತಿರುವ ವಸ್ತುವಿನ ವೇಗ ಎಷ್ಟು?",
+      "options": [
+        "20 km/h",
+        "30 km/h",
+        "40 km/h",
+        "60 km/h"
+      ],
+      "answer": "20 km/h",
+      "reasoning": "ವೇಗ = ದೂರ / ಕಾಲ. ಇದು ದೂರ-ಕಾಲದ ನಕ್ಷೆಯ ಇಳಿಜಾರನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ನಕ್ಷೆಯಲ್ಲಿ ಕಾಲ = 3 ಗಂಟೆಗಳು ಆದಾಗ ದೂರ = 60 ಕಿಮೀ ಎಂದು ಗುರುತಿಸಬಹುದು. ಆದ್ದರಿಂದ, ವೇಗ = 60 ಕಿಮೀ / 3 ಗಂಟೆ = 20 ಕಿಮೀ/ಗಂಟೆ. ನಕ್ಷೆಯು ನೇರ ರೇಖೆಯಾಗಿರುವುದರಿಂದ ವೇಗವು 20 ಕಿಮೀ/ಗಂಟೆಯಾಗಿ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ."
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"40\" y1=\"20\" x2=\"40\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"90\" y1=\"20\" x2=\"90\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"140\" y1=\"20\" x2=\"140\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"190\" y1=\"20\" x2=\"190\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"240\" y1=\"20\" x2=\"240\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"130\" x2=\"260\" y2=\"130\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"100\" x2=\"260\" y2=\"100\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"70\" x2=\"260\" y2=\"70\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"40\" x2=\"260\" y2=\"40\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><text x=\"40\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">0</text><text x=\"90\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">1</text><text x=\"140\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">2</text><text x=\"190\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">3</text><text x=\"240\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">4</text><text x=\"25\" y=\"134\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">20</text><text x=\"25\" y=\"104\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">40</text><text x=\"25\" y=\"74\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">60</text><text x=\"25\" y=\"44\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">80</text><text x=\"150\" y=\"195\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Time (hours)</text><text x=\"15\" y=\"90\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\" transform=\"rotate(-90, 15, 90)\">Distance (km)</text><line x1=\"40\" y1=\"160\" x2=\"240\" y2=\"40\" stroke=\"#2563EB\" stroke-width=\"2.5\"/><line x1=\"190\" y1=\"70\" x2=\"190\" y2=\"160\" stroke=\"#EA580C\" stroke-dasharray=\"3\" stroke-width=\"1.5\"/><line x1=\"40\" y1=\"70\" x2=\"190\" y2=\"70\" stroke=\"#EA580C\" stroke-dasharray=\"3\" stroke-width=\"1.5\"/><circle cx=\"190\" cy=\"70\" r=\"5\" fill=\"#059669\"/></svg>",
+      "alt": {
+        "en": "Distance-time graph starting from (0,0) and passing through (3, 60)",
+        "kn": "(0,0) ದಿಂದ ಪ್ರಾರಂಭವಾಗಿ (3, 60) ಬಿಂದುವಿನ ಮೂಲಕ ಹಾದುಹೋಗುವ ದೂರ-ಕಾಲದ ನಕ್ಷೆ"
+      }
+    }
+  },
+  {
+    "id": "c8_math_graph_img_016",
+    "type": "image_single",
+    "difficulty": 2,
+    "en": {
+      "question": "At what time of the day was the maximum temperature recorded according to the line graph?",
+      "options": [
+        "2 PM",
+        "10 AM",
+        "6 AM",
+        "6 PM"
+      ],
+      "answer": "2 PM",
+      "reasoning": "Look at the temperature points on the line graph. The temperatures are 30°C at 6 AM, 36°C at 10 AM, 40°C at 2 PM, and 34°C at 6 PM. The highest point corresponds to 40°C, which was recorded at 2 PM."
+    },
+    "kn": {
+      "question": "ರೇಖಾತ್ಮಕ ನಕ್ಷೆಯ ಪ್ರಕಾರ, ದಿನದ ಯಾವ ಸಮಯದಲ್ಲಿ ಗರಿಷ್ಠ ತಾಪಮಾನ ದಾಖಲಾಗಿದೆ?",
+      "options": [
+        "2 PM",
+        "10 AM",
+        "6 AM",
+        "6 PM"
+      ],
+      "answer": "2 PM",
+      "reasoning": "ನಕ್ಷೆಯಲ್ಲಿನ ತಾಪಮಾನದ ಬಿಂದುಗಳನ್ನು ಗಮನಿಸಿ. ಬೆಳಿಗ್ಗೆ 6 ಗಂಟೆಗೆ 30°C, 10 ಗಂಟೆಗೆ 36°C, ಮಧ್ಯಾಹ್ನ 2 ಗಂಟೆಗೆ 40°C ಮತ್ತು ಸಂಜೆ 6 ಗಂಟೆಗೆ 34°C ತಾಪಮಾನವಿದೆ. ನಕ್ಷೆಯ ಅತ್ಯಂತ ಎತ್ತರದ ಬಿಂದು 40°C ಆಗಿದ್ದು, ಇದು ಮಧ್ಯಾಹ್ನ 2 ಗಂಟೆಗೆ ದಾಖಲಾಗಿದೆ."
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"50\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"50\" y1=\"20\" x2=\"50\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"60\" y1=\"20\" x2=\"60\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"180\" y1=\"20\" x2=\"180\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"240\" y1=\"20\" x2=\"240\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"50\" y1=\"140\" x2=\"260\" y2=\"140\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"50\" y1=\"120\" x2=\"260\" y2=\"120\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"50\" y1=\"100\" x2=\"260\" y2=\"100\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"50\" y1=\"80\" x2=\"260\" y2=\"80\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"50\" y1=\"60\" x2=\"260\" y2=\"60\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"50\" y1=\"40\" x2=\"260\" y2=\"40\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><text x=\"60\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">6 AM</text><text x=\"120\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">10 AM</text><text x=\"180\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">2 PM</text><text x=\"240\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">6 PM</text><text x=\"35\" y=\"144\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">30</text><text x=\"35\" y=\"124\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">32</text><text x=\"35\" y=\"104\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">34</text><text x=\"35\" y=\"84\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">36</text><text x=\"35\" y=\"64\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">38</text><text x=\"35\" y=\"44\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">40</text><text x=\"150\" y=\"195\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Time of Day</text><text x=\"15\" y=\"90\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\" transform=\"rotate(-90, 15, 90)\">Temp (°C)</text><polyline points=\"60,140 120,80 180,40 240,100\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2.5\"/><circle cx=\"60\" cy=\"140\" r=\"4\" fill=\"#059669\"/><circle cx=\"120\" cy=\"80\" r=\"4\" fill=\"#059669\"/><circle cx=\"180\" cy=\"40\" r=\"4\" fill=\"#059669\"/><circle cx=\"240\" cy=\"100\" r=\"4\" fill=\"#059669\"/><line x1=\"180\" y1=\"40\" x2=\"180\" y2=\"160\" stroke=\"#EA580C\" stroke-dasharray=\"3\" stroke-width=\"1.5\"/><line x1=\"50\" y1=\"40\" x2=\"180\" y2=\"40\" stroke=\"#EA580C\" stroke-dasharray=\"3\" stroke-width=\"1.5\"/></svg>",
+      "alt": {
+        "en": "Line graph showing temperature changes at 6 AM, 10 AM, 2 PM, and 6 PM",
+        "kn": "ಬೆಳಿಗ್ಗೆ 6, 10 ಮತ್ತು ಮಧ್ಯಾಹ್ನ 2, ಸಂಜೆ 6 ಗಂಟೆಗೆ ತಾಪಮಾನ ಬದಲಾವಣೆಯನ್ನು ತೋರಿಸುವ ರೇಖಾತ್ಮಕ ನಕ್ಷೆ"
+      }
+    }
+  },
+  {
+    "id": "c8_math_graph_017",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Select all the independent variables in the following situations.",
+      "options": [
+        "Time in a distance-time graph",
+        "Quantity of petrol purchased in a cost-quantity graph",
+        "Distance traveled in a distance-time graph",
+        "Total cost in a cost-quantity graph"
+      ],
+      "answer": [
+        "Time in a distance-time graph",
+        "Quantity of petrol purchased in a cost-quantity graph"
+      ],
+      "reasoning": "An independent variable is a variable that is changed or controlled in a relationship to test its effects on the dependent variable. It is plotted on the horizontal x-axis:\n- Time flows independently of distance traveled (Time is independent, Distance is dependent).\n- The quantity of petrol purchased is chosen by the customer, and determines the total cost (Quantity is independent, Cost is dependent)."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಸಂದರ್ಭಗಳಲ್ಲಿ ಸ್ವತಂತ್ರ ಚರಾಕ್ಷರಗಳನ್ನು (independent variables) ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": [
+        "ದೂರ-ಕಾಲದ ನಕ್ಷೆಯಲ್ಲಿ ಇರುವ 'ಕಾಲ'",
+        "ಬೆಲೆ-ಪ್ರಮಾಣದ ನಕ್ಷೆಯಲ್ಲಿ ಖರೀದಿಸಿದ 'ಪೆಟ್ರೋಲ್ ಪ್ರಮಾಣ'",
+        "ದೂರ-ಕಾಲದ ನಕ್ಷೆಯಲ್ಲಿ ಕ್ರಮಿಸಿದ 'ದೂರ'",
+        "ಬೆಲೆ-ಪ್ರಮಾಣದ ನಕ್ಷೆಯಲ್ಲಿನ 'ಒಟ್ಟು ಬೆಲೆ'"
+      ],
+      "answer": [
+        "ದೂರ-ಕಾಲದ ನಕ್ಷೆಯಲ್ಲಿ ಇರುವ 'ಕಾಲ'",
+        "ಬೆಲೆ-ಪ್ರಮಾಣದ ನಕ್ಷೆಯಲ್ಲಿ ಖರೀದಿಸಿದ 'ಪೆಟ್ರೋಲ್ ಪ್ರಮಾಣ'"
+      ],
+      "reasoning": "ಸ್ವತಂತ್ರ ಚರಾಕ್ಷರವು ಮತ್ತೊಂದು ಚರಾಕ್ಷರದ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿರದೆ ಸ್ವತಂತ್ರವಾಗಿರುತ್ತದೆ. ಇದನ್ನು ನಕ್ಷೆಯ ಸಮತಲ x-ಅಕ್ಷದ ಮೇಲೆ ಗುರುತಿಸಲಾಗುತ್ತದೆ:\n- ಚಲಿಸಿದ ದೂರವು ಕಾಲದ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿದೆ ಆದರೆ ಕಾಲ ಸ್ವತಂತ್ರವಾಗಿದೆ (ಕಾಲ ಸ್ವತಂತ್ರ, ದೂರ ಪರತಂತ್ರ).\n- ಖರೀದಿಸುವ ಪೆಟ್ರೋಲ್ ಪ್ರಮಾಣವನ್ನು ಗ್ರಾಹಕರು ನಿರ್ಧರಿಸುತ್ತಾರೆ, ಇದು ಒಟ್ಟು ಬೆಲೆಯನ್ನು ನಿರ್ಧರಿಸುತ್ತದೆ (ಪ್ರಮಾಣ ಸ್ವತಂತ್ರ, ಒಟ್ಟು ಬೆಲೆ ಪರತಂತ್ರ)."
+    }
+  },
+  {
+    "id": "c8_math_graph_018",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Select all coordinate points that lie on the straight line passing through the origin represented by y = 2x.",
+      "options": [
+        "(1, 2)",
+        "(3, 6)",
+        "(2, 1)",
+        "(0, 0)"
+      ],
+      "answer": [
+        "(1, 2)",
+        "(3, 6)",
+        "(0, 0)"
+      ],
+      "reasoning": "For a point (x, y) to lie on the line y = 2x, its y-coordinate must be exactly twice its x-coordinate. Let's check each point:\n- (1, 2): 2 = 2(1) (Yes)\n- (3, 6): 6 = 2(3) (Yes)\n- (2, 1): 1 = 2(2) => 1 = 4 (No, this is (1, 2) reversed)\n- (0, 0): 0 = 2(0) (Yes, the origin lies on this line)"
+    },
+    "kn": {
+      "question": "y = 2x ಸಮೀಕರಣದಿಂದ ಪ್ರತಿನಿಧಿಸುವ ಮತ್ತು ಮೂಲಬಿಂದುವಿನ ಮೂಲಕ ಹಾದುಹೋಗುವ ಸರಳ ರೇಖೆಯ ಮೇಲಿರುವ ಎಲ್ಲಾ ಬಿಂದುಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": [
+        "(1, 2)",
+        "(3, 6)",
+        "(2, 1)",
+        "(0, 0)"
+      ],
+      "answer": [
+        "(1, 2)",
+        "(3, 6)",
+        "(0, 0)"
+      ],
+      "reasoning": "ಬಿಂದು (x, y) ಯು y = 2x ರೇಖೆಯ ಮೇಲಿರಬೇಕಾದರೆ, ಅದರ y-ನಿರ್ದೇಶಾಂಕವು x-ನಿರ್ದೇಶಾಂಕದ ಎರಡರಷ್ಟಿರಬೇಕು. ಪರೀಕ್ಷಿಸೋಣ:\n- (1, 2): 2 = 2(1) (ಹೌದು)\n- (3, 6): 6 = 2(3) (ಹೌದು)\n- (2, 1): 1 = 2(2) => 1 = 4 (ತಪ್ಪು)\n- (0, 0): 0 = 2(0) (ಹೌದು, ಮೂಲಬಿಂದುವು ಈ ರೇಖೆಯ ಮೇಲಿದೆ)"
+    }
+  },
+  {
+    "id": "c8_math_graph_019",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the graph terms with their correct definitions.",
+      "pairs": [
+        {
+          "left": "Linear Graph",
+          "right": "A graph consisting of uninterrupted straight line segments"
+        },
+        {
+          "left": "Independent Variable",
+          "right": "A variable whose value does not depend on another"
+        },
+        {
+          "left": "Dependent Variable",
+          "right": "A variable whose value depends on another"
+        },
+        {
+          "left": "Origin",
+          "right": "The intersection of x-axis and y-axis"
+        }
+      ],
+      "reasoning": "1. Linear graph: represents a relationship with a straight line.\n2. Independent variable: graphed on x-axis, not dependent on others.\n3. Dependent variable: graphed on y-axis, changes based on independent variable.\n4. Origin: point (0, 0) where x and y axes meet."
+    },
+    "kn": {
+      "question": "ನಕ್ಷೆಯ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ರೇಖಾತ್ಮಕ ನಕ್ಷೆ (Linear Graph)",
+          "right": "ಸರಳ ರೇಖಾಖಂಡಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟ ನಕ್ಷೆ"
+        },
+        {
+          "left": "ಸ್ವತಂತ್ರ ಚರಾಕ್ಷರ (Independent)",
+          "right": "ಯಾರ ಮೇಲೂ ಅವಲಂಬಿತವಾಗಿರದ ಮತ್ತು ಬದಲಿಸಬಹುದಾದ ಮೌಲ್ಯ"
+        },
+        {
+          "left": "ಪರತಂತ್ರ ಚರಾಕ್ಷರ (Dependent)",
+          "right": "ಸ್ವತಂತ್ರ ಚರಾಕ್ಷರದ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿ ಬದಲಾಗುವ ಮೌಲ್ಯ"
+        },
+        {
+          "left": "ಮೂಲಬಿಂದು (Origin)",
+          "right": "x-ಅಕ್ಷ ಮತ್ತು y-ಅಕ್ಷಗಳು ಪರಸ್ಪರ ಸಂಧಿಸುವ ಬಿಂದು"
+        }
+      ],
+      "reasoning": "1. ರೇಖಾತ್ಮಕ ನಕ್ಷೆ: ನೇರ ರೇಖೆಗಳ ಮೂಲಕ ಸಂಬಂಧವನ್ನು ತೋರಿಸುವ ನಕ್ಷೆ.\n2. ಸ್ವತಂತ್ರ ಚರಾಕ್ಷರ: ಸಾಮಾನ್ಯವಾಗಿ x-ಅಕ್ಷದ ಮೇಲಿರುತ್ತದೆ ಮತ್ತು ಮತ್ತೊಂದು ಚರಾಕ್ಷರದಿಂದ ಬಾಧಿತವಾಗುವುದಿಲ್ಲ.\n3. ಪರತಂತ್ರ ಚರಾಕ್ಷರ: ಸ್ವತಂತ್ರ ಚರಾಕ್ಷರದ ಮೌಲ್ಯಕ್ಕೆ ತಕ್ಕಂತೆ ಬದಲಾಗುವ y-ಅಕ್ಷದ ಮೇಲಿನ ಮೌಲ್ಯ.\n4. ಮೂಲಬಿಂದು: (0, 0) ಬಿಂದುವಾಗಿದ್ದು ಎರಡು ಅಕ್ಷಗಳ ಸಂಧಿಸುವ ಸ್ಥಳವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_020",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the x-coordinates with their corresponding y-coordinates on the line represented by y = 3x - 2.",
+      "pairs": [
+        {
+          "left": "x = 1",
+          "right": "y = 1"
+        },
+        {
+          "left": "x = 2",
+          "right": "y = 4"
+        },
+        {
+          "left": "x = 0",
+          "right": "y = -2"
+        },
+        {
+          "left": "x = 3",
+          "right": "y = 7"
+        }
+      ],
+      "reasoning": "Substitute x values into y = 3x - 2:\n1. x=1 => y = 3(1)-2 = 1.\n2. x=2 => y = 3(2)-2 = 4.\n3. x=0 => y = 3(0)-2 = -2.\n4. x=3 => y = 3(3)-2 = 7."
+    },
+    "kn": {
+      "question": "y = 3x - 2 ಸಮೀಕರಣದ ರೇಖೆಯ ಮೇಲಿರುವ x-ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಅವುಗಳಿಗೆ ಹೊಂದುವ y-ನಿರ್ದೇಶಾಂಕಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "x = 1",
+          "right": "y = 1"
+        },
+        {
+          "left": "x = 2",
+          "right": "y = 4"
+        },
+        {
+          "left": "x = 0",
+          "right": "y = -2"
+        },
+        {
+          "left": "x = 3",
+          "right": "y = 7"
+        }
+      ],
+      "reasoning": "y = 3x - 2 ರೇಖೆಯಲ್ಲಿ x ನ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ:\n1. x=1 ಆದಾಗ y = 3(1)-2 = 1.\n2. x=2 ಆದಾಗ y = 3(2)-2 = 4.\n3. x=0 ಆದಾಗ y = 3(0)-2 = -2.\n4. x=3 ಆದಾಗ y = 3(3)-2 = 7."
+    }
+  },
+  {
+    "id": "c8_math_graph_021",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "A line segment connects points (2, 3) and (8, 7). Find the coordinates of the midpoint of this line segment.",
+      "options": [
+        "(5, 5)",
+        "(6, 5)",
+        "(5, 6)",
+        "(10, 10)"
+      ],
+      "answer": "(5, 5)",
+      "reasoning": "The midpoint formula is given by M = ((x1 + x2)/2, (y1 + y2)/2). Substitute the coordinates (2, 3) and (8, 7):\nMidpoint = ((2 + 8)/2, (3 + 7)/2) = (10/2, 10/2) = (5, 5)."
+    },
+    "kn": {
+      "question": "(2, 3) ಮತ್ತು (8, 7) ಬಿಂದುಗಳನ್ನು ಸಂಪರ್ಕಿಸುವ ರೇಖಾಖಂಡದ ಮಧ್ಯಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "(5, 5)",
+        "(6, 5)",
+        "(5, 6)",
+        "(10, 10)"
+      ],
+      "answer": "(5, 5)",
+      "reasoning": "ಮಧ್ಯಬಿಂದುವಿನ ಸೂತ್ರ: M = ((x1 + x2)/2, (y1 + y2)/2) ಆಗಿದೆ. (2, 3) ಮತ್ತು (8, 7) ಬಿಂದುಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ:\nಮಧ್ಯಬಿಂದು = ((2 + 8)/2, (3 + 7)/2) = (10/2, 10/2) = (5, 5) ದೊರೆಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_022",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "A straight line passes through points (0, 2) and (3, 8). Which linear equation represents this line?",
+      "options": [
+        "y = 2x + 2",
+        "y = 3x + 2",
+        "y = 2x",
+        "y = 2x + 3"
+      ],
+      "answer": "y = 2x + 2",
+      "reasoning": "Step 1: Find the slope (m) of the line: m = (y2 - y1) / (x2 - x1) = (8 - 2) / (3 - 0) = 6 / 3 = 2.\nStep 2: Find the y-intercept (c). The line passes through (0, 2), which means the intercept c = 2.\nStep 3: Write in slope-intercept form (y = mx + c): y = 2x + 2."
+    },
+    "kn": {
+      "question": "(0, 2) ಮತ್ತು (3, 8) ಬಿಂದುಗಳ ಮೂಲಕ ಹಾದುಹೋಗುವ ಸರಳ ರೇಖೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಸಮೀಕರಣ ಯಾವುದು?",
+      "options": [
+        "y = 2x + 2",
+        "y = 3x + 2",
+        "y = 2x",
+        "y = 2x + 3"
+      ],
+      "answer": "y = 2x + 2",
+      "reasoning": "ಹಂತ 1: ರೇಖೆಯ ಇಳಿಜಾರನ್ನು (m) ಕಂಡುಹಿಡಿಯಿರಿ: m = (y2 - y1) / (x2 - x1) = (8 - 2) / (3 - 0) = 6 / 3 = 2.\nಹಂತ 2: y-ಅಂತಃಖಂಡವನ್ನು (c) ಗುರುತಿಸಿ. ರೇಖೆಯು (0, 2) ಮೂಲಕ ಹಾದುಹೋಗುವುದರಿಂದ c = 2.\nಹಂತ 3: ಸಮೀಕರಣ ರೂಪದಲ್ಲಿ ಬರೆದಾಗ (y = mx + c): y = 2x + 2."
+    }
+  },
+  {
+    "id": "c8_math_graph_023",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Three vertices of a rectangle are plotted at coordinates (2, 2), (6, 2), and (6, 5). What are the coordinates of the fourth vertex?",
+      "options": [
+        "(2, 5)",
+        "(5, 2)",
+        "(2, 6)",
+        "(5, 5)"
+      ],
+      "answer": "(2, 5)",
+      "reasoning": "Let the vertices of rectangle ABCD be A(2,2), B(6,2), C(6,5) and D(x,y). Looking at the sides, AB is horizontal (y=2) from x=2 to x=6 (length 4). BC is vertical (x=6) from y=2 to y=5 (height 3). The side CD must be horizontal from x=6 to x=2 at height y=5, which makes D's coordinates (2, 5). Also, AD must be vertical at x=2 from y=2 to y=5, which matches (2, 5)."
+    },
+    "kn": {
+      "question": "ಒಂದು ಆಯತದ ಮೂರು ಶೃಂಗಗಳು (2, 2), (6, 2) ಮತ್ತು (6, 5) ನಿರ್ದೇಶಾಂಕಗಳಲ್ಲಿವೆ. ಅದರ ನಾಲ್ಕನೇ ಶೃಂಗದ ನಿರ್ದೇಶಾಂಕಗಳು ಯಾವುವು?",
+      "options": [
+        "(2, 5)",
+        "(5, 2)",
+        "(2, 6)",
+        "(5, 5)"
+      ],
+      "answer": "(2, 5)",
+      "reasoning": "ಆಯತದ ಶೃಂಗಗಳು A(2,2), B(6,2), C(6,5) ಮತ್ತು D(x,y) ಆಗಿರಲಿ. ಅಡ್ಡ ಬಾಹು AB ಯು y=2 ರಲ್ಲಿದ್ದು ಉದ್ದ 4 ಮಾನಗಳಿವೆ. ಲಂಬ ಬಾಹು BC ಯು x=6 ರಲ್ಲಿದ್ದು ಎತ್ತರ 3 ಮಾನಗಳಿವೆ. ಎದುರಿನ ಬಾಹು CD ಅಡ್ಡವಾಗಿದ್ದು x=6 ರಿಂದ x=2 ಕ್ಕೆ y=5 ರ ಎತ್ತರದಲ್ಲಿರಬೇಕು. ಆದ್ದರಿಂದ ನಾಲ್ಕನೇ ಶೃಂಗದ ನಿರ್ದೇಶಾಂಕಗಳು (2, 5) ಆಗುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_024",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "A line graph represents the linear equation y = 2x - 4. At what point does this line intersect the horizontal x-axis?",
+      "options": [
+        "(2, 0)",
+        "(0, -4)",
+        "(0, 2)",
+        "(-4, 0)"
+      ],
+      "answer": "(2, 0)",
+      "reasoning": "A line intersects the x-axis where the y-value is exactly 0. Substitute y = 0 into the equation: 0 = 2x - 4 => 2x = 4 => x = 2. Therefore, the intersection point is (2, 0)."
+    },
+    "kn": {
+      "question": "ಒಂದು ಸರಳ ರೇಖೆಯು y = 2x - 4 ಸಮೀಕರಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಈ ರೇಖೆಯು ಸಮತಲ x-ಅಕ್ಷವನ್ನು ಯಾವ ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತದೆ?",
+      "options": [
+        "(2, 0)",
+        "(0, -4)",
+        "(0, 2)",
+        "(-4, 0)"
+      ],
+      "answer": "(2, 0)",
+      "reasoning": "ರೇಖೆಯು x-ಅಕ್ಷವನ್ನು ಛೇದಿಸುವಾಗ y ಮೌಲ್ಯ ಶೂನ್ಯವಾಗಿರುತ್ತದೆ. y = 0 ಅನ್ನು ಆದೇಶಿಸಿದಾಗ: 0 = 2x - 4 => 2x = 4 => x = 2. ಆದ್ದರಿಂದ ಛೇದಿಸುವ ಬಿಂದುವು (2, 0) ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_graph_img_025",
+    "type": "image_single",
+    "difficulty": 3,
+    "en": {
+      "question": "The graph shows the relationship between the side length of a square and its area. What is the nature of this graph?",
+      "options": [
+        "It is a non-linear graph.",
+        "It is a linear graph.",
+        "It is a bar graph.",
+        "It is a horizontal line graph."
+      ],
+      "answer": "It is a non-linear graph.",
+      "reasoning": "A linear graph must be a straight line, representing a constant rate of change. The relationship between side length (x) and area (y) of a square is y = x². Since the rate of change is not constant (area increases quadratically), the resulting graph is curved. Therefore, it is a non-linear graph."
+    },
+    "kn": {
+      "question": "ನಕ್ಷೆಯು ಚೌಕದ ಬಾಹುವಿನ ಉದ್ದ ಮತ್ತು ಅದರ ವಿಸ್ತೀರ್ಣದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ. ಈ ನಕ್ಷೆಯ ಸ್ವರೂಪವೇನು?",
+      "options": [
+        "ಇದು ರೇಖಾತ್ಮಕವಲ್ಲದ ನಕ್ಷೆಯಾಗಿದೆ.",
+        "ಇದು ರೇಖಾತ್ಮಕ ನಕ್ಷೆಯಾಗಿದೆ.",
+        "ಇದು ಕಂಬ ಸಾಲು ನಕ್ಷೆಯಾಗಿದೆ.",
+        "ಇದು ಸಮತಲ ರೇಖಾತ್ಮಕ ನಕ್ಷೆಯಾಗಿದೆ."
+      ],
+      "answer": "ಇದು ರೇಖಾತ್ಮಕವಲ್ಲದ ನಕ್ಷೆಯಾಗಿದೆ.",
+      "reasoning": "ರೇಖಾತ್ಮಕ ನಕ್ಷೆಯು ನೇರ ರೇಖೆಯಾಗಿದ್ದು ಸ್ಥಿರ ಬದಲಾವಣೆ ದರವನ್ನು ತೋರಿಸಬೇಕು. ಚೌಕದ ಬಾಹು (x) ಮತ್ತು ವಿಸ್ತೀರ್ಣ (y) ದ ನಡುವಿನ ಸಂಬಂಧ y = x² ಆಗಿದೆ. ಬದಲಾವಣೆಯ ದರವು ಸ್ಥಿರವಾಗಿಲ್ಲದಿರುವುದರಿಂದ (ವಿಸ್ತೀರ್ಣವು ವರ್ಗ ರೂಪದಲ್ಲಿ ಹೆಚ್ಚಾಗುತ್ತದೆ), ಈ ನಕ್ಷೆಯು ವಕ್ರರೇಖೆಯಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ ಇದು ರೇಖಾತ್ಮಕವಲ್ಲದ ನಕ್ಷೆಯಾಗಿದೆ."
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"40\" y1=\"20\" x2=\"40\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"90\" y1=\"20\" x2=\"90\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"140\" y1=\"20\" x2=\"140\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"190\" y1=\"20\" x2=\"190\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"240\" y1=\"20\" x2=\"240\" y2=\"160\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"130\" x2=\"260\" y2=\"130\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"100\" x2=\"260\" y2=\"100\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"70\" x2=\"260\" y2=\"70\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"40\" x2=\"260\" y2=\"40\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><text x=\"40\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">0</text><text x=\"90\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">1</text><text x=\"140\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">2</text><text x=\"190\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">3</text><text x=\"240\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">4</text><text x=\"25\" y=\"134\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">4</text><text x=\"25\" y=\"104\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">8</text><text x=\"25\" y=\"74\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">12</text><text x=\"25\" y=\"44\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">16</text><text x=\"150\" y=\"195\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">Side of Square (cm)</text><text x=\"15\" y=\"90\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\" transform=\"rotate(-90, 15, 90)\">Area (sq. cm)</text><path d=\"M 40,160 C 90,158 140,135 240,40\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2.5\"/><circle cx=\"40\" cy=\"160\" r=\"4.5\" fill=\"#059669\"/><circle cx=\"90\" cy=\"152.5\" r=\"4.5\" fill=\"#059669\"/><circle cx=\"140\" cy=\"130\" r=\"4.5\" fill=\"#059669\"/><circle cx=\"190\" cy=\"92.5\" r=\"4.5\" fill=\"#059669\"/><circle cx=\"240\" cy=\"40\" r=\"4.5\" fill=\"#059669\"/></svg>",
+      "alt": {
+        "en": "Quadratic curved line graph representing side vs area of a square",
+        "kn": "ಚೌಕದ ಬಾಹು ಮತ್ತು ವಿಸ್ತೀರ್ಣವನ್ನು ತೋರಿಸುವ ವರ್ಗೀಯ ವಕ್ರರೇಖಾ ನಕ್ಷೆ"
+      }
+    }
+  },
+  {
+    "id": "c8_math_graph_img_026",
+    "type": "image_single",
+    "difficulty": 3,
+    "en": {
+      "question": "Based on the plotted triangle PQR on the coordinate grid, what are the coordinates of the vertex R?",
+      "options": [
+        "(1, 4)",
+        "(4, 1)",
+        "(1, 1)",
+        "(5, 1)"
+      ],
+      "answer": "(1, 4)",
+      "reasoning": "Look at the vertex R of the triangle PQR. Checking its alignment horizontally to the left on the vertical y-axis gives 4, and tracing straight down vertically to the horizontal x-axis gives 1. Thus, the coordinate pair (x, y) for point R is (1, 4)."
+    },
+    "kn": {
+      "question": "ನಿರ್ದೇಶಾಂಕ ನಕ್ಷೆಯಲ್ಲಿ ಗುರುತಿಸಲಾದ ತ್ರಿಕೋನ PQR ನ ಆಧಾರದ ಮೇಲೆ, ಶೃಂಗ R ನ ನಿರ್ದೇಶಾಂಕಗಳು ಯಾವುವು?",
+      "options": [
+        "(1, 4)",
+        "(4, 1)",
+        "(1, 1)",
+        "(5, 1)"
+      ],
+      "answer": "(1, 4)",
+      "reasoning": "ತ್ರಿಕೋನ PQR ನ ಶೃಂಗ R ಅನ್ನು ಗಮನಿಸಿ. ಈ ಬಿಂದುವಿನಿಂದ ಲಂಬವಾಗಿ ಕೆಳಗೆ ಬಂದಾಗ x-ಅಕ್ಷದ ಮೇಲೆ 1 ದೊರೆಯುತ್ತದೆ, ಮತ್ತು ಅಡ್ಡಲಾಗಿ ಎಡಕ್ಕೆ ಹೋದಾಗ y-ಅಕ್ಷದ ಮೇಲೆ 4 ದೊರೆಯುತ್ತದೆ. ಆದ್ದರಿಂದ R ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು (1, 4) ಆಗಿದೆ."
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"180\" x2=\"260\" y2=\"180\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"40\" y1=\"10\" x2=\"40\" y2=\"180\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"75\" y1=\"10\" x2=\"75\" y2=\"180\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"110\" y1=\"10\" x2=\"110\" y2=\"180\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"145\" y1=\"10\" x2=\"145\" y2=\"180\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"180\" y1=\"10\" x2=\"180\" y2=\"180\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"215\" y1=\"10\" x2=\"215\" y2=\"180\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"250\" y1=\"10\" x2=\"250\" y2=\"180\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"145\" x2=\"260\" y2=\"145\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"110\" x2=\"260\" y2=\"110\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"75\" x2=\"260\" y2=\"75\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><line x1=\"40\" y1=\"40\" x2=\"260\" y2=\"40\" stroke=\"#E5E7EB\" stroke-width=\"1\"/><text x=\"40\" y=\"195\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">0</text><text x=\"75\" y=\"195\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">1</text><text x=\"110\" y=\"195\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">2</text><text x=\"145\" y=\"195\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">3</text><text x=\"180\" y=\"195\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">4</text><text x=\"215\" y=\"195\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">5</text><text x=\"250\" y=\"195\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"middle\">6</text><text x=\"30\" y=\"149\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">1</text><text x=\"30\" y=\"114\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">2</text><text x=\"30\" y=\"79\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">3</text><text x=\"30\" y=\"44\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"11\" text-anchor=\"end\">4</text><polygon points=\"75,145 215,145 75,40\" fill=\"#DBEAFE\" fill-opacity=\"0.6\" stroke=\"#2563EB\" stroke-width=\"2.5\"/><circle cx=\"75\" cy=\"145\" r=\"4.5\" fill=\"#059669\"/><circle cx=\"215\" cy=\"145\" r=\"4.5\" fill=\"#059669\"/><circle cx=\"75\" cy=\"40\" r=\"4.5\" fill=\"#059669\"/><text x=\"80\" y=\"135\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">P</text><text x=\"220\" y=\"135\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">Q</text><text x=\"80\" y=\"35\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">R</text></svg>",
+      "alt": {
+        "en": "Triangle PQR with P(1,1), Q(5,1), and R(1,4) on a coordinate plane",
+        "kn": "ನಿರ್ದೇಶಾಂಕ ಸಮತಲದಲ್ಲಿ P(1,1), Q(5,1) ಮತ್ತು R(1,4) ಶೃಂಗಗಳನ್ನು ಹೊಂದಿರುವ ತ್ರಿಕೋನ PQR"
+      }
+    }
+  },
+  {
+    "id": "c8_math_graph_027",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Select all sets of points that are collinear (meaning they lie on the same straight line).",
+      "options": [
+        "(1, 1), (2, 2), (3, 3)",
+        "(1, 2), (2, 4), (3, 6)",
+        "(1, 3), (2, 4), (3, 5)",
+        "(1, 1), (2, 3), (3, 6)"
+      ],
+      "answer": [
+        "(1, 1), (2, 2), (3, 3)",
+        "(1, 2), (2, 4), (3, 6)",
+        "(1, 3), (2, 4), (3, 5)"
+      ],
+      "reasoning": "Points are collinear if they lie on a line of the form y = mx + c (slope is constant between any two points):\n- Set 1: (1,1), (2,2), (3,3) lie on the line y = x (slope = 1). Collinear.\n- Set 2: (1,2), (2,4), (3,6) lie on the line y = 2x (slope = 2). Collinear.\n- Set 3: (1,3), (2,4), (3,5) lie on the line y = x + 2 (slope = 1). Collinear.\n- Set 4: (1,1), (2,3), (3,6). Slope between first two is (3-1)/(2-1) = 2. Slope between last two is (6-3)/(3-2) = 3. Slopes are different, so not collinear."
+    },
+    "kn": {
+      "question": "ಸರೇಖಾಸ್ಥಿತವಾಗಿರುವ (ಒಂದೇ ಸರಳ ರೇಖೆಯ ಮೇಲಿರುವ) ಎಲ್ಲಾ ಬಿಂದುಗಳ ಗುಂಪುಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": [
+        "(1, 1), (2, 2), (3, 3)",
+        "(1, 2), (2, 4), (3, 6)",
+        "(1, 3), (2, 4), (3, 5)",
+        "(1, 1), (2, 3), (3, 6)"
+      ],
+      "answer": [
+        "(1, 1), (2, 2), (3, 3)",
+        "(1, 2), (2, 4), (3, 6)",
+        "(1, 3), (2, 4), (3, 5)"
+      ],
+      "reasoning": "ಯಾವುದೇ ಎರಡು ಬಿಂದುಗಳ ನಡುವಿನ ಇಳಿಜಾರು ಸ್ಥಿರವಾಗಿದ್ದರೆ ಆ ಬಿಂದುಗಳು ಸರೇಖಾಸ್ಥಿತಿಯಲ್ಲಿರುತ್ತವೆ (y = mx + c ರೂಪದ ರೇಖೆಯಲ್ಲಿರುತ್ತವೆ):\n- ಗುಂಪು 1: (1,1), (2,2), (3,3) ಬಿಂದುಗಳು y = x ರೇಖೆಯ ಮೇಲಿವೆ (ಇಳಿಜಾರು = 1). ಸರೇಖಾಸ್ಥಿತ.\n- ಗುಂಪು 2: (1,2), (2,4), (3,6) ಬಿಂದುಗಳು y = 2x ರೇಖೆಯ ಮೇಲಿವೆ (ಇಳಿಜಾರು = 2). ಸರೇಖಾಸ್ಥಿತ.\n- ಗುಂಪು 3: (1,3), (2,4), (3,5) ಬಿಂದುಗಳು y = x + 2 ರೇಖೆಯ ಮೇಲಿವೆ (ಇಳಿಜಾರು = 1). ಸರೇಖಾಸ್ಥಿತ.\n- ಗುಂಪು 4: (1,1), (2,3), (3,6). ಮೊದಲ ಎರಡು ಬಿಂದುಗಳ ಇಳಿಜಾರು 2 ಮತ್ತು ಕೊನೆಯ ಎರಡರ ನಡುವಿನ ಇಳಿಜಾರು 3 ಆಗಿದೆ. ಇಳಿಜಾರುಗಳು ಬೇರೆ ಇರುವುದರಿಂದ ಇವು ಸರೇಖಾಸ್ಥಿತಿಯಲ್ಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_math_graph_028",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following statements about Cartesian coordinate graphs are true?",
+      "options": [
+        "The coordinate of any point on the y-axis has x = 0.",
+        "The coordinate of any point on the x-axis has y = 0.",
+        "The point (3, 4) is the same as the point (4, 3).",
+        "A line graph can have a curve instead of a straight line."
+      ],
+      "answer": [
+        "The coordinate of any point on the y-axis has x = 0.",
+        "The coordinate of any point on the x-axis has y = 0."
+      ],
+      "reasoning": "Let's check the truths of the statements:\n1. On the y-axis, the horizontal distance from the y-axis is 0, so x = 0. True.\n2. On the x-axis, the vertical distance from the x-axis is 0, so y = 0. True.\n3. The point (3, 4) represents 3 units on x and 4 units on y, whereas (4, 3) represents 4 units on x and 3 units on y. They are distinct points. False.\n4. A line graph is constructed by connecting points with straight line segments, not curved paths. False."
+    },
+    "kn": {
+      "question": "ಕಾರ್ಟೀಸಿಯನ್ ನಿರ್ದೇಶಾಂಕ ನಕ್ಷೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ನಿಜವಾಗಿವೆ?",
+      "options": [
+        "y-ಅಕ್ಷದ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದುವಿನ x-ನಿರ್ದೇಶಾಂಕ ಶೂನ್ಯವಾಗಿರುತ್ತದೆ (x = 0).",
+        "x-ಅಕ್ಷದ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದುವಿನ y-ನಿರ್ದೇಶಾಂಕ ಶೂನ್ಯವಾಗಿರುತ್ತದೆ (y = 0).",
+        "ಬಿಂದು (3, 4) ಮತ್ತು ಬಿಂದು (4, 3) ಎರಡೂ ಒಂದೇ ಬಿಂದುಗಳಾಗಿವೆ.",
+        "ರೇಖಾ ನಕ್ಷೆಯು ನೇರ ರೇಖೆಗಳ ಬದಲಾಗಿ ವಕ್ರರೇಖೆಯನ್ನು ಹೊಂದಿರಬಹುದು."
+      ],
+      "answer": [
+        "y-ಅಕ್ಷದ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದುವಿನ x-ನಿರ್ದೇಶಾಂಕ ಶೂನ್ಯವಾಗಿರುತ್ತದೆ (x = 0).",
+        "x-ಅಕ್ಷದ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದುವಿನ y-ನಿರ್ದೇಶಾಂಕ ಶೂನ್ಯವಾಗಿರುತ್ತದೆ (y = 0)."
+      ],
+      "reasoning": "ಹೇಳಿಕೆಗಳನ್ನು ಪರಿಶೀಲಿಸೋಣ:\n1. y-ಅಕ್ಷದ ಮೇಲೆ ಸಮತಲ ಅಂತರವಿಲ್ಲದ ಕಾರಣ x = 0 ಆಗಿರುತ್ತದೆ. ಇದು ನಿಜ.\n2. x-ಅಕ್ಷದ ಮೇಲೆ ಲಂಬ ಅಂತರವಿಲ್ಲದ ಕಾರಣ y = 0 ಆಗಿರುತ್ತದೆ. ಇದು ನಿಜ.\n3. (3, 4) ಬಿಂದುವಿನಲ್ಲಿ x=3, y=4 ಆದರೆ (4, 3) ಬಿಂದುವಿನಲ್ಲಿ x=4, y=3 ಆಗಿರುವುದರಿಂದ ಇವೆರಡೂ ಬೇರೆ ಬೇರೆ ಬಿಂದುಗಳಾಗಿವೆ. ಇದು ತಪ್ಪು.\n4. ರೇಖಾ ನಕ್ಷೆಯನ್ನು ನೇರ ರೇಖಾಖಂಡಗಳಿಂದ ಜೋಡಿಸಲಾಗುತ್ತದೆ, ವಕ್ರರೇಖೆಗಳಿಂದಲ್ಲ. ಇದು ತಪ್ಪು."
+    }
+  },
+  {
+    "id": "c8_math_graph_029",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the x-coordinates with the correct coordinate points lying on the line y = 4x - 3.",
+      "pairs": [
+        {
+          "left": "x = 1",
+          "right": "(1, 1)"
+        },
+        {
+          "left": "x = 2",
+          "right": "(2, 5)"
+        },
+        {
+          "left": "x = 0",
+          "right": "(0, -3)"
+        },
+        {
+          "left": "x = -1",
+          "right": "(-1, -7)"
+        }
+      ],
+      "reasoning": "Substitute x values into the equation y = 4x - 3:\n1. x = 1 => y = 4(1) - 3 = 1 => point is (1, 1).\n2. x = 2 => y = 4(2) - 3 = 5 => point is (2, 5).\n3. x = 0 => y = 4(0) - 3 = -3 => point is (0, -3).\n4. x = -1 => y = 4(-1) - 3 = -7 => point is (-1, -7)."
+    },
+    "kn": {
+      "question": "y = 4x - 3 ರೇಖೆಯ ಮೇಲಿರುವ x-ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ನಿರ್ದೇಶಾಂಕ ಬಿಂದುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "x = 1",
+          "right": "(1, 1)"
+        },
+        {
+          "left": "x = 2",
+          "right": "(2, 5)"
+        },
+        {
+          "left": "x = 0",
+          "right": "(0, -3)"
+        },
+        {
+          "left": "x = -1",
+          "right": "(-1, -7)"
+        }
+      ],
+      "reasoning": "y = 4x - 3 ರೇಖೆಯ ಸಮೀಕರಣದಲ್ಲಿ x ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ:\n1. x = 1 => y = 4(1) - 3 = 1 => ಬಿಂದು (1, 1).\n2. x = 2 => y = 4(2) - 3 = 5 => ಬಿಂದು (2, 5).\n3. x = 0 => y = 4(0) - 3 = -3 => ಬಿಂದು (0, -3).\n4. x = -1 => y = 4(-1) - 3 = -7 => ಬಿಂದು (-1, -7)."
+    }
+  },
+  {
+    "id": "c8_math_graph_030",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the geometric description of coordinates with the corresponding shape description.",
+      "pairs": [
+        {
+          "left": "A horizontal line segment",
+          "right": "Points have the same y-coordinate but different x-coordinates"
+        },
+        {
+          "left": "A vertical line segment",
+          "right": "Points have the same x-coordinate but different y-coordinates"
+        },
+        {
+          "left": "A square",
+          "right": "Four vertices with coordinates forming equal horizontal and vertical lengths"
+        },
+        {
+          "left": "The origin",
+          "right": "The point where the coordinates are both zero"
+        }
+      ],
+      "reasoning": "1. Horizontal lines have constant height (constant y) and varying width (varying x).\n2. Vertical lines have constant width (constant x) and varying height (varying y).\n3. A square requires horizontal/vertical sides of equal length.\n4. Origin is (0, 0) where x and y coordinates are zero."
+    },
+    "kn": {
+      "question": "ನಿರ್ದೇಶಾಂಕಗಳ ಜ್ಯಾಮಿತೀಯ ವಿವರಣೆಯನ್ನು ಅದಕ್ಕೆ ಹೊಂದುವ ನಕ್ಷೆಯ ಆಕೃತಿಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಸಮತಲ ರೇಖಾಖಂಡ (Horizontal)",
+          "right": "ಬಿಂದುಗಳು ಒಂದೇ y-ನಿರ್ದೇಶಾಂಕ ಆದರೆ ಬೇರೆ ಬೇರೆ x-ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ"
+        },
+        {
+          "left": "ಲಂಬ ರೇಖಾಖಂಡ (Vertical)",
+          "right": "ಬಿಂದುಗಳು ಒಂದೇ x-ನಿರ್ದೇಶಾಂಕ ಆದರೆ ಬೇರೆ ಬೇರೆ y-ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ"
+        },
+        {
+          "left": "ಚೌಕ (Square)",
+          "right": "ಸಮವಾದ ಸಮತಲ ಮತ್ತು ಲಂಬ ಉದ್ದಗಳನ್ನು ರೂಪಿಸುವ ನಾಲ್ಕು ನಿರ್ದೇಶಾಂಕ ಶೃಂಗಗಳು"
+        },
+        {
+          "left": "ಮೂಲಬಿಂದು (Origin)",
+          "right": "ಎರಡೂ ನಿರ್ದೇಶಾಂಕಗಳು ಶೂನ್ಯವಾಗಿರುವ ಬಿಂದು"
+        }
+      ],
+      "reasoning": "1. ಸಮತಲ ರೇಖಾಖಂಡಗಳು ಒಂದೇ ಎತ್ತರದಲ್ಲಿರುತ್ತವೆ (ಸ್ಥಿರ y) ಮತ್ತು x ಮೌಲ್ಯ ಬದಲಾಗುತ್ತದೆ.\n2. ಲಂಬ ರೇಖಾಖಂಡಗಳು ಒಂದೇ ಅಗಲದಲ್ಲಿರುತ್ತವೆ (ಸ್ಥಿರ x) ಮತ್ತು y ಮೌಲ್ಯ ಬದಲಾಗುತ್ತದೆ.\n3. ಚೌಕಕ್ಕೆ ಸಮಾನವಾದ ಉದ್ದದ ಸಮತಲ ಹಾಗೂ ಲಂಬ ಬಾಹುಗಳು ಇರಬೇಕು.\n4. ಮೂಲಬಿಂದು ಎಂಬುದು x ಮತ್ತು y ಎರಡೂ ಶೂನ್ಯವಾಗಿರುವ (0, 0) ಬಿಂದುವಾಗಿದೆ."
+    }
+  }
+]

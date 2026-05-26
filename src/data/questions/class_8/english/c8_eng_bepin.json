@@ -1,0 +1,793 @@
+[
+  {
+    "id": "c8_eng_bepin_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "In which book shop did Bepin Choudhury buy books every Monday?",
+      "options": [
+        "Kalicharan's book shop",
+        "Ray & Sons Book Depot",
+        "Calcutta Library Stall",
+        "New Market Book House"
+      ],
+      "answer": "Kalicharan's book shop",
+      "reasoning": "Every Monday, on his way back from work, Bepin Choudhury would stop at Kalicharan's book shop in New Market to buy books."
+    },
+    "kn": {
+      "question": "ಬೆಪಿನ್ ಚೌಧರಿ ಅವರು ಪ್ರತಿ ಸೋಮವಾರ ಯಾವ ಪುಸ್ತಕದ ಅಂಗಡಿಯಲ್ಲಿ ಪುಸ್ತಕಗಳನ್ನು ಖರೀದಿಸುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಕಾಲಿಚರಣ್ ಪುಸ್ತಕದ ಅಂಗಡಿ (Kalicharan's book shop)",
+        "ರಾಯ್ & ಸನ್ಸ್ ಬುಕ್ ಡಿಪೋ",
+        "ಕಲ್ಕತ್ತಾ ಲೈಬ್ರರಿ ಸ್ಟಾಲ್",
+        "ನ್ಯೂ ಮಾರ್ಕೆಟ್ ಬುಕ್ ಹೌಸ್"
+      ],
+      "answer": "ಕಾಲಿಚರಣ್ ಪುಸ್ತಕದ ಅಂಗಡಿ (Kalicharan's book shop)",
+      "reasoning": "ಪ್ರತಿ ಸೋಮವಾರ, ಕೆಲಸ ಮುಗಿಸಿ ಮನೆಗೆ ಮರಳುವ ದಾರಿಯಲ್ಲಿ, ಬೆಪಿನ್ ಚೌಧರಿ ಅವರು ನ್ಯೂ ಮಾರ್ಕೆಟ್‌ನಲ್ಲಿರುವ ಕಾಲಿಚರಣ್ ಅವರ ಪುಸ್ತಕದ ಅಂಗಡಿಗೆ ಭೇಟಿ ನೀಡಿ ಪುಸ್ತಕಗಳನ್ನು ಖರೀದಿಸುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What was the name of the man who approached Bepin Choudhury at the book shop and claimed to know him?",
+      "options": [
+        "Parimal Ghose",
+        "Dinesh Mukerji",
+        "Chunilal",
+        "Haridas Bagchi"
+      ],
+      "answer": "Parimal Ghose",
+      "reasoning": "A man named Parimal Ghose approached Bepin Babu at Kalicharan's book shop, claiming they had met in Ranchi in 1958."
+    },
+    "kn": {
+      "question": "ಪುಸ್ತಕದ ಅಂಗಡಿಯಲ್ಲಿ ಬೆಪಿನ್ ಚೌಧರಿ ಅವರನ್ನು ಸಂಪರ್ಕಿಸಿ, ತನಗೆ ಅವರು ಗೊತ್ತು ಎಂದು ಹೇಳಿದ ವ್ಯಕ್ತಿಯ ಹೆಸರೇನು?",
+      "options": [
+        "ಪರಿಮಳ್ ಘೋಷ್ (Parimal Ghose)",
+        "ದಿನೇಶ್ ಮುಖರ್ಜಿ",
+        "ಚುನಿಲಾಲ್",
+        "ಹರಿದಾಸ್ ಬಾಗ್ಚಿ"
+      ],
+      "answer": "ಪರಿಮಳ್ ಘೋಷ್ (Parimal Ghose)",
+      "reasoning": "ಪರಿಮಳ್ ಘೋಷ್ ಎಂಬ ವ್ಯಕ್ತಿ ಕಾಲಿಚರಣ್ ಪುಸ್ತಕದ ಅಂಗಡಿಯಲ್ಲಿ ಬೆಪಿನ್ ಬಾಬು ಅವರನ್ನು ಸಂಪರ್ಕಿಸಿ, ತಾವು 1858 ರ ಅಕ್ಟೋಬರ್‌ನಲ್ಲಿ ರಾಂಚಿಯಲ್ಲಿ ಭೇಟಿಯಾಗಿದ್ದೆವು ಎಂದು ಹೇಳಿದನು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who was Chunilal in relation to Bepin Choudhury?",
+      "options": [
+        "His school friend",
+        "His business partner",
+        "His landlord",
+        "His family doctor"
+      ],
+      "answer": "His school friend",
+      "reasoning": "Chunilal was an old school friend of Bepin Choudhury who was going through a difficult financial phase and visited Bepin frequently for job assistance."
+    },
+    "kn": {
+      "question": "ಬೆಪಿನ್ ಚೌಧರಿ ಅವರಿಗೆ ಚುನಿಲಾಲ್ ಏನಾಗಬೇಕಿತ್ತು?",
+      "options": [
+        "ಅವರ ಶಾಲಾ ಗೆಳೆಯ",
+        "ಅವರ ವ್ಯವಹಾರದ ಪಾಲುದಾರ",
+        "ಅವರ ಮನೆ ಮಾಲೀಕ",
+        "ಅವರ ಕೌಟುಂಬಿಕ ವೈದ್ಯ"
+      ],
+      "answer": "ಅವರ ಶಾಲಾ ಗೆಳೆಯ",
+      "reasoning": "ಚುನಿಲಾಲ್ ಬೆಪಿನ್ ಚೌಧರಿ ಅವರ ಹಳೆಯ ಶಾಲಾ ಸ್ನೇಹಿತನಾಗಿದ್ದು, ಆರ್ಥಿಕ ತೊಂದರೆಯಲ್ಲಿದ್ದರಿಂದ ಕೆಲಸದ ಸಹಾಯಕ್ಕಾಗಿ ಬೆಪಿನ್ ಬಾಬು ಅವರನ್ನು ಪದೇ ಪದೇ ಭೇಟಿ ಮಾಡುತ್ತಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "How many books did Bepin Choudhury buy at a time during his weekly bookstore visits?",
+      "options": [
+        "Five books",
+        "Two books",
+        "One book",
+        "Ten books"
+      ],
+      "answer": "Five books",
+      "reasoning": "Bepin Babu bought at least five books at a time to last him through the week, as he was a solitary person who loved reading."
+    },
+    "kn": {
+      "question": "ಬೆಪಿನ್ ಚೌಧರಿ ಅವರು ತಮ್ಮ ವಾರಕ್ಕೊಮ್ಮೆಯ ಪುಸ್ತಕದ ಅಂಗಡಿ ಭೇಟಿಯ ಸಮಯದಲ್ಲಿ ಒಮ್ಮೆಗೆ ಎಷ್ಟು ಪುಸ್ತಕಗಳನ್ನು ಖರೀದಿಸುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಐದು ಪುಸ್ತಕಗಳು (Five books)",
+        "ಎರಡು ಪುಸ್ತಕಗಳು",
+        "ಒಂದು ಪುಸ್ತಕ",
+        "ಹತ್ತು ಪುಸ್ತಕಗಳು"
+      ],
+      "answer": "ಐದು ಪುಸ್ತಕಗಳು (Five books)",
+      "reasoning": "ಓದುವುದನ್ನು ಇಷ್ಟಪಡುತ್ತಿದ್ದ ಮತ್ತು ಏಕಾಂಗಿಯಾಗಿದ್ದ ಬೆಪಿನ್ ಬಾಬು ಇಡೀ ವಾರ ಓದಲು ಒಮ್ಮೆಗೆ ಕನಿಷ್ಠ ಐದು ಪುಸ್ತಕಗಳನ್ನು ಖರೀದಿಸುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Which city did Parimal Ghose insist Bepin Choudhury visited in October 1958?",
+      "options": [
+        "Ranchi",
+        "Kanpur",
+        "Calcutta",
+        "Delhi"
+      ],
+      "answer": "Ranchi",
+      "reasoning": "Parimal Ghose insisted that Bepin Babu had visited Ranchi in October 1958 and stayed there for a week, experiencing various events."
+    },
+    "kn": {
+      "question": "ಅಕ್ಟೋಬರ್ 1958 ರಲ್ಲಿ ಬೆಪಿನ್ ಚೌಧರಿ ಅವರು ಯಾವ ನಗರಕ್ಕೆ ಭೇಟಿ ನೀಡಿದ್ದರು ಎಂದು ಪರಿಮಳ್ ಘೋಷ್ ಒತ್ತಾಯಿಸಿ ಹೇಳಿದರು?",
+      "options": [
+        "ರಾಂಚಿ (Ranchi)",
+        "ಕಾನ್ಪುರ",
+        "ಕಲ್ಕತ್ತಾ",
+        "ದೆಹಲಿ"
+      ],
+      "answer": "ರಾಂಚಿ (Ranchi)",
+      "reasoning": "1958 ರ ಅಕ್ಟೋಬರ್‌ನಲ್ಲಿ ಬೆಪಿನ್ ಬಾಬು ರಾಂಚಿಗೆ ಭೇಟಿ ನೀಡಿ ಅಲ್ಲಿ ಒಂದು ವಾರ ತಂಗಿದ್ದರು ಮತ್ತು ಹಲವು ಘಟನೆಗಳನ್ನು ಅನುಭವಿಸಿದ್ದರು ಎಂದು ಪರಿಮಳ್ ಘೋಷ್ ಒತ್ತಾಯಿಸಿ ಹೇಳಿದನು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Who was Paresh Chanda in the story?",
+      "options": [
+        "A young physician",
+        "Bepin's office manager",
+        "A book store owner",
+        "Chunilal's landlord"
+      ],
+      "answer": "A young physician",
+      "reasoning": "Paresh Chanda was the young physician with bright eyes and a sharp nose whom Bepin Babu consulted for his memory loss."
+    },
+    "kn": {
+      "question": "ಕಥೆಯಲ್ಲಿ ಪರೇಶ್ ಚಂದಾ ಯಾರಾಗಿದ್ದರು?",
+      "options": [
+        "ಯುವ ವೈದ್ಯರು (Physician)",
+        "ಬೆಪಿನ್ ಅವರ ಕಚೇರಿ ವ್ಯವಸ್ಥಾಪಕರು",
+        "ಪುಸ್ತಕದ ಅಂಗಡಿಯ ಮಾಲೀಕರು",
+        "ಚುನಿಲಾಲ್ ಅವರ ಮನೆ ಮಾಲೀಕರು"
+      ],
+      "answer": "ಯುವ ವೈದ್ಯರು (Physician)",
+      "reasoning": "ಪರೇಶ್ ಚಂದಾ ಅವರು ಪ್ರಖರ ಕಣ್ಣುಗಳು ಮತ್ತು ಚೂಪಾದ ಮೂಗು ಹೊಂದಿದ್ದ ಯುವ ವೈದ್ಯರಾಗಿದ್ದು, ಬೆಪಿನ್ ಬಾಬು ತಮ್ಮ ಸ್ಮರಣಶಕ್ತಿ ನಷ್ಟದ ಬಗ್ಗೆ ಇವರನ್ನು ಸಂಪರ್ಕಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_007",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Which of the following character traits apply to Bepin Choudhury as described in the story?",
+      "options": [
+        "He was a serious, honest, and hardworking employee",
+        "He lived alone and was not a good mixer",
+        "He had few friends and disliked idle chat",
+        "He was a highly social person who hosted weekly parties"
+      ],
+      "answer": [
+        "He was a serious, honest, and hardworking employee",
+        "He lived alone and was not a good mixer",
+        "He had few friends and disliked idle chat"
+      ],
+      "reasoning": "Bepin Babu lived alone, had few friends, didn't like idle conversation, and had been working seriously in a big firm for twenty-five years."
+    },
+    "kn": {
+      "question": "ಕಥೆಯಲ್ಲಿ ವಿವರಿಸಿದಂತೆ ಬೆಪಿನ್ ಚೌಧರಿ ಅವರ ವ್ಯಕ್ತಿತ್ವದ ಲಕ್ಷಣಗಳಿಗೆ ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಅನ್ವಯಿಸುತ್ತವೆ?",
+      "options": [
+        "ಅವರು ಗಂಭೀರ, ಪ್ರಾಮಾಣಿಕ ಮತ್ತು ಕಷ್ಟಪಟ್ಟು ಕೆಲಸ ಮಾಡುವ ಉದ್ಯೋಗಿಯಾಗಿದ್ದರು",
+        "ಅವರು ಏಕಾಂಗಿಯಾಗಿ ವಾಸಿಸುತ್ತಿದ್ದರು ಮತ್ತು ಜನರೊಂದಿಗೆ ಹೆಚ್ಚು ಬೆರೆಯುತ್ತಿರಲಿಲ್ಲ",
+        "ಅವರು ಕೆಲವೇ ಸ್ನೇಹಿತರನ್ನು ಹೊಂದಿದ್ದರು ಮತ್ತು ಹರಟೆ ಹೊಡೆಯುವುದನ್ನು ಇಷ್ಟಪಡುತ್ತಿರಲಿಲ್ಲ",
+        "ಅವರು ವಾರಕ್ಕೊಮ್ಮೆ ಪಾರ್ಟಿಗಳನ್ನು ಆಯೋಜಿಸುವ ಅತ್ಯಂತ ಸಾಮಾಜಿಕ ವ್ಯಕ್ತಿಯಾಗಿದ್ದರು"
+      ],
+      "answer": [
+        "ಅವರು ಗಂಭೀರ, ಪ್ರಾಮಾಣಿಕ ಮತ್ತು ಕಷ್ಟಪಟ್ಟು ಕೆಲಸ ಮಾಡುವ ಉದ್ಯೋಗಿಯಾಗಿದ್ದರು",
+        "ಅವರು ಏಕಾಂಗಿಯಾಗಿ ವಾಸಿಸುತ್ತಿದ್ದರು ಮತ್ತು ಜನರೊಂದಿಗೆ ಹೆಚ್ಚು ಬೆರೆಯುತ್ತಿರಲಿಲ್ಲ",
+        "ಅವರು ಕೆಲವೇ ಸ್ನೇಹಿತರನ್ನು ಹೊಂದಿದ್ದರು ಮತ್ತು ಹರಟೆ ಹೊಡೆಯುವುದನ್ನು ಇಷ್ಟಪಡುತ್ತಿರಲಿಲ್ಲ"
+      ],
+      "reasoning": "ಬೆಪಿನ್ ಬಾಬು ಏಕಾಂಗಿಯಾಗಿದ್ದರು, ಕೆಲವೇ ಸ್ನೇಹಿತರಿದ್ದರು, ಹರಟೆಯನ್ನು ಇಷ್ಟಪಡುತ್ತಿರಲಿಲ್ಲ ಮತ್ತು ದೊಡ್ಡ ಕಂಪನಿಯಲ್ಲಿ ಇಪ್ಪತ್ತೈದು ವರ್ಷಗಳಿಂದ ಪ್ರಾಮಾಣಿಕವಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_008",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match the characters with their role or relationship in Bepin Babu's life:",
+      "pairs": [
+        {
+          "left": "Chunilal",
+          "right": "Schoolmate who orchestrated the amnesia prank"
+        },
+        {
+          "left": "Parimal Ghose",
+          "right": "Person who pretended to know Bepin from a Ranchi trip"
+        },
+        {
+          "left": "Dinesh Mukerji",
+          "right": "Acquaintance who falsely confirmed Bepin was in Ranchi"
+        },
+        {
+          "left": "Haridas Bagchi",
+          "right": "Kanpur friend who moved to Japan with his wife"
+        }
+      ],
+      "reasoning": "Chunilal created the prank, Parimal played the Ranchi contact, Dinesh falsely verified, and Haridas was Bepin's real friend in Kanpur."
+    },
+    "kn": {
+      "question": "ಬೆಪಿನ್ ಬಾಬು ಅವರ ಜೀವನದಲ್ಲಿನ ಪಾತ್ರಗಳನ್ನು ಅವರ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಚುನಿಲಾಲ್",
+          "right": "ಮರೆವಿನ ನಾಟಕವನ್ನು ಸಂಘಟಿಸಿದ ಶಾಲಾ ಗೆಳೆಯ"
+        },
+        {
+          "left": "ಪರಿಮಳ್ ಘೋಷ್",
+          "right": "ರಾಂಚಿ ಪ್ರವಾಸದಿಂದ ಬೆಪಿನ್ ಅವರನ್ನು ಬಲ್ಲೆ ಎಂದು ನಟಿಸಿದ ವ್ಯಕ್ತಿ"
+        },
+        {
+          "left": "ದಿನೇಶ್ ಮುಖರ್ಜಿ",
+          "right": "ಬೆಪಿನ್ ರಾಂಚಿಯಲ್ಲಿದ್ದರು ಎಂದು ಸುಳ್ಳು ದೃಢೀಕರಣ ನೀಡಿದ ಪರಿಚಯಸ್ಥ"
+        },
+        {
+          "left": "ಹರಿದಾಸ್ ಬಾಗ್ಚಿ",
+          "right": "ತನ್ನ ಪತ್ನಿಯೊಂದಿಗೆ ಜಪಾನ್‌ಗೆ ತೆರಳಿದ ಕಾನ್ಪುರದ ಸ್ನೇಹಿತ"
+        }
+      ],
+      "reasoning": "ಚುನಿಲಾಲ್ ಪ್ರ್ಯಾಂಕ್ ಸಂಘಟಿಸಿದನು, ಪರಿಮಳ್ ರಾಂಚಿ ಪರಿಚಯಸ್ಥನಾಗಿ ನಟಿಸಿದನು, ದಿನೇಶ್ ದೃಢೀಕರಿಸಿದನು ಮತ್ತು ಹರಿದಾಸ್ ಕಾನ್ಪುರದ ನಿಜವಾದ ಸ್ನೇಹಿತನಾಗಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_009",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What physical evidence on his right knee did Bepin Babu inspect after talking to Parimal Ghose?",
+      "options": [
+        "A round cut mark",
+        "A deep blue bruise",
+        "A black birthmark",
+        "A bandage from an operation"
+      ],
+      "answer": "A round cut mark",
+      "reasoning": "Parimal Ghose mentioned Bepin had a fall at Hudroo Falls and cut his right knee. Inspecting his knee, Bepin indeed found a round cut mark."
+    },
+    "kn": {
+      "question": "ಪರಿಮಳ್ ಘೋಷ್ ಜೊತೆ ಮಾತನಾಡಿದ ನಂತರ ಬೆಪಿನ್ ಬಾಬು ತಮ್ಮ ಬಲಗಾಲ ಮೊಣಕಾಲಿನ ಮೇಲೆ ಯಾವ ಭೌತಿಕ ಪುರಾವೆಯನ್ನು ಪರೀಕ್ಷಿಸಿದರು?",
+      "options": [
+        "ಒಂದು ದುಂಡಗಿನ ಕಟ್ ಗುರುತು (Cut mark)",
+        "ಒಂದು ಆಳವಾದ ನೀಲಿ ಗಾಯದ ಕಲೆ",
+        "ಒಂದು ಕಪ್ಪು ಮಚ್ಚೆ",
+        "ಆಪರೇಷನ್‌ನ ಬ್ಯಾಂಡೇಜ್"
+      ],
+      "answer": "ಒಂದು ದುಂಡಗಿನ ಕಟ್ ಗುರುತು (Cut mark)",
+      "reasoning": "ಹುದ್ರೂ ಜಲಪಾತದಲ್ಲಿ ಬಿದ್ದು ಬಲ ಮೊಣಕಾಲು ಗಾಯ ಮಾಡಿಕೊಂಡಿದ್ದೀರಿ ಎಂದು ಪರಿಮಳ್ ಹೇಳಿದ್ದರಿಂದ, ಬೆಪಿನ್ ಬಾಬು ಮೊಣಕಾಲನ್ನು ನೋಡಿದಾಗ ಅಲ್ಲಿ ದುಂಡಗಿನ ಕತ್ತರಿಸಿದ ಗುರುತು ಇತ್ತು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_010",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why could Bepin Babu not write a letter to Haridas Bagchi in Kanpur to confirm his whereabouts?",
+      "options": [
+        "Haridas had left for Japan with his wife, and Bepin did not have his address",
+        "Haridas was deceased",
+        "Haridas and Bepin had a major fight",
+        "Bepin had forgotten Haridas's name"
+      ],
+      "answer": "Haridas had left for Japan with his wife, and Bepin did not have his address",
+      "reasoning": "Bepin Babu thought about writing to Haridas in Kanpur, but recalled that Haridas had left for Japan with his wife a few weeks prior and he did not have his new address."
+    },
+    "kn": {
+      "question": "ತಾವು ಅಕ್ಟೋಬರ್ 1958 ರಲ್ಲಿ ಎಲ್ಲಿದ್ದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಬೆಪಿನ್ ಬಾಬು ಕಾನ್ಪುರದ ಹರಿದಾಸ್ ಬಾಗ್ಚಿಗೆ ಪತ್ರ ಬರೆಯಲು ಏಕೆ ಸಾಧ್ಯವಾಗಲಿಲ್ಲ?",
+      "options": [
+        "ಹರಿದಾಸ್ ತಮ್ಮ ಪತ್ನಿಯೊಂದಿಗೆ ಜಪಾನ್‌ಗೆ ಹೋಗಿದ್ದರು ಮತ್ತು ಬೆಪಿನ್ ಅವರ ಬಳಿ ಹೊಸ ವಿಳಾಸ ಇರಲಿಲ್ಲ",
+        "ಹರಿದಾಸ್ ಮರಣ ಹೊಂದಿದ್ದರು",
+        "ಹರಿದಾಸ್ ಮತ್ತು ಬೆಪಿನ್ ನಡುವೆ ದೊಡ್ಡ ಜಗಳ ನಡೆದಿತ್ತು",
+        "ಬೆಪಿನ್ ಹರಿದಾಸ್ ಅವರ ಹೆಸರನ್ನು ಮರೆತಿದ್ದರು"
+      ],
+      "answer": "ಹರಿದಾಸ್ ತಮ್ಮ ಪತ್ನಿಯೊಂದಿಗೆ ಜಪಾನ್‌ಗೆ ಹೋಗಿದ್ದರು ಮತ್ತು ಬೆಪಿನ್ ಅವರ ಬಳಿ ಹೊಸ ವಿಳಾಸ ಇರಲಿಲ್ಲ",
+      "reasoning": "ಬೆಪಿನ್ ಬಾಬು ಹರಿದಾಸ್ ಅವರಿಗೆ ಪತ್ರ ಬರೆಯಲು ಯೋಚಿಸಿದರು, ಆದರೆ ಹರಿದಾಸ್ ಕೆಲವು ವಾರಗಳ ಹಿಂದೆ ಪತ್ನಿಯೊಂದಿಗೆ ಜಪಾನ್‌ಗೆ ತೆರಳಿದ್ದು ಅವರ ಹೊಸ ವಿಳಾಸ ತಮ್ಮ ಬಳಿ ಇಲ್ಲದಿರುವುದು ನೆನಪಾಯಿತು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Who was Dinesh Mukerji according to Parimal Ghose's account of the Ranchi trip?",
+      "options": [
+        "A fellow acquaintance who was also in Ranchi and lived in a bungalow",
+        "Bepin's boss at the firm",
+        "The manager of the Ranchi hotel",
+        "A distant cousin of Bepin Choudhury"
+      ],
+      "answer": "A fellow acquaintance who was also in Ranchi and lived in a bungalow",
+      "reasoning": "Parimal Ghose mentioned that Dinesh Mukerji was also in Ranchi during Bepin's visit and stayed in a bungalow because Bepin preferred home-cooked food."
+    },
+    "kn": {
+      "question": "ಪರಿಮಳ್ ಘೋಷ್ ವಿವರಣೆಯ ಪ್ರಕಾರ, ರಾಂಚಿ ಪ್ರವಾಸದ ಸಮಯದಲ್ಲಿ ದಿನೇಶ್ ಮುಖರ್ಜಿ ಯಾರಾಗಿದ್ದರು?",
+      "options": [
+        "ಅದೇ ಸಮಯದಲ್ಲಿ ರಾಂಚಿಯಲ್ಲಿದ್ದು ಬಂಗಲೆಯಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದ ಒಬ್ಬ ಪರಿಚಯಸ್ಥ",
+        "ಬೆಪಿನ್ ಅವರ ಕಚೇರಿಯ ಬಾಸ್",
+        "ರಾಂಚಿ ಹೋಟೆಲ್‌ನ ವ್ಯವಸ್ಥಾಪಕ",
+        "ಬೆಪಿನ್ ಚೌಧರಿ ಅವರ ದೂರದ ಸಂಬಂಧಿ"
+      ],
+      "answer": "ಅದೇ ಸಮಯದಲ್ಲಿ ರಾಂಚಿಯಲ್ಲಿದ್ದು ಬಂಗಲೆಯಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದ ಒಬ್ಬ ಪರಿಚಯಸ್ಥ",
+      "reasoning": "ಬೆಪಿನ್ ಬಾಬು ಹೋಟೆಲ್ ಊಟ ಇಷ್ಟಪಡದೆ ಬಂಗಲೆಯಲ್ಲಿ ಉಳಿದುಕೊಂಡಾಗ, ದಿನೇಶ್ ಮುಖರ್ಜಿ ಸಹ ರಾಂಚಿಯಲ್ಲೇ ಇದ್ದು ಬಂಗಲೆಯಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದರು ಎಂದು ಪರಿಮಳ್ ತಿಳಿಸಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "What was Bepin Babu's reaction when Dinesh Mukerji confirmed over the phone that they were in Ranchi in October 1958?",
+      "options": [
+        "He dropped the receiver in shock and lost his appetite for lunch",
+        "He laughed out loud and thought Dinesh was joking",
+        "He immediately booked a train ticket to Ranchi",
+        "He called Dr. Chanda to declare himself cured"
+      ],
+      "answer": "He dropped the receiver in shock and lost his appetite for lunch",
+      "reasoning": "When Dinesh confirmed they were in Ranchi in '58, Bepin slammed the receiver down, shook his head in distress, and could not eat his lunch despite the efforts of his servant."
+    },
+    "kn": {
+      "question": "ಅಕ್ಟೋಬರ್ 1958 ರಲ್ಲಿ ತಾವಿಬ್ಬರೂ ರಾಂಚಿಯಲ್ಲಿದ್ದೆವು ಎಂದು ದಿನೇಶ್ ಮುಖರ್ಜಿ ದೂರವಾಣಿಯಲ್ಲಿ ದೃಢಪಡಿಸಿದಾಗ ಬೆಪಿನ್ ಬಾಬು ಅವರ ಪ್ರತಿಕ್ರಿಯೆ ಏನಾಗಿತ್ತು?",
+      "options": [
+        "ಅವರು ಆಘಾತದಿಂದ ರಿಸೀವರ್ ಅನ್ನು ಕೆಳಗೆ ಹಾಕಿ ಮಧ್ಯಾಹ್ನದ ಊಟದ ಹಸಿವನ್ನೇ ಕಳೆದುಕೊಂಡರು",
+        "ಅವರು ಜೋರಾಗಿ ನಕ್ಕು ದಿನೇಶ್ ತಮಾಷೆ ಮಾಡುತ್ತಿದ್ದಾರೆ ಎಂದು ಭಾವಿಸಿದರು",
+        "ಅವರು ತಕ್ಷಣವೇ ರಾಂಚಿಗೆ ರೈಲು ಟಿಕೆಟ್ ಬುಕ್ ಮಾಡಿದರು",
+        "ಅವರು ತಮಗೆ ಗುಣವಾಗಿದೆ ಎಂದು ತಿಳಿಸಲು ಡಾ. ಚಂದಾ ಅವರಿಗೆ ಕರೆ ಮಾಡಿದರು"
+      ],
+      "answer": "ಅವರು ಆಘಾತದಿಂದ ರಿಸೀವರ್ ಅನ್ನು ಕೆಳಗೆ ಹಾಕಿ ಮಧ್ಯಾಹ್ನದ ಊಟದ ಹಸಿವನ್ನೇ ಕಳೆದುಕೊಂಡರು",
+      "reasoning": "ದಿನೇಶ್ ಮಾತು ಕೇಳಿ ಬೆಪಿನ್ ಬಾಬು ಆಘಾತಗೊಂಡು ಫೋನ್ ರಿಸೀವರ್ ಕೆಳಗಿಟ್ಟರು. ಅವರ ತಲೆ ಸುತ್ತಿದಂತಾಗಿ ಸೇವಕ ತಂದಿದ್ದ ಮಧ್ಯಾಹ್ನದ ಊಟವನ್ನು ಮುಟ್ಟಲೂ ಇಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Why did Chunilal play this elaborate memory-loss prank on Bepin Choudhury?",
+      "options": [
+        "To punish Bepin for refusing to help him with a job during his financial hardship",
+        "To test a psychological theory for a magazine article",
+        "To steal money from Bepin's safe while he was away",
+        "To show that he was a better researcher than Bepin"
+      ],
+      "answer": "To punish Bepin for refusing to help him with a job during his financial hardship",
+      "reasoning": "Chunilal designed this prank as retribution. In his letter, he explained that since Bepin had not helped him despite their old school friendship, he used his imagination to teach Bepin a lesson."
+    },
+    "kn": {
+      "question": "ಬೆಪಿನ್ ಚೌಧರಿ ಅವರ ಮೇಲೆ ಚುನಿಲಾಲ್ ಈ ಮರೆವಿನ ಆಟವನ್ನು ಏಕೆ ಆಡಿದರು?",
+      "options": [
+        "ತಮ್ಮ ಆರ್ಥಿಕ ಸಂಕಷ್ಟದ ಸಮಯದಲ್ಲಿ ಕೆಲಸ ಕೊಡಿಸಲು ನಿರಾಕರಿಸಿದ ಬೆಪಿನ್ ಬಾಬುಗೆ ಶಿಕ್ಷೆ ನೀಡಲು",
+        "ಪತ್ರಿಕೆಯ ಲೇಖನಕ್ಕಾಗಿ ಮನೋವೈಜ್ಞಾನಿಕ ಸಿದ್ಧಾಂತವನ್ನು ಪರೀಕ್ಷಿಸಲು",
+        "ಬೆಪಿನ್ ಹೊರಹೋಗಿದ್ದಾಗ ಅವರ ಮನೆಯಲ್ಲಿದ್ದ ಹಣವನ್ನು ಕದಿಯಲು",
+        "ತಾವು ಬೆಪಿನ್‌ಗಿಂತ ಉತ್ತಮ ಸಂಶೋಧಕ ಎಂದು ಸಾಬೀತುಪಡಿಸಲು"
+      ],
+      "answer": "ತಮ್ಮ ಆರ್ಥಿಕ ಸಂಕಷ್ಟದ ಸಮಯದಲ್ಲಿ ಕೆಲಸ ಕೊಡಿಸಲು ನಿರಾಕರಿಸಿದ ಬೆಪಿನ್ ಬಾಬುಗೆ ಶಿಕ್ಷೆ ನೀಡಲು",
+      "reasoning": "ಚುನಿಲಾಲ್ ತನಗೆ ಸಹಾಯ ಮಾಡದ ಬೆಪಿನ್ ಬಾಬುಗೆ ಪಾಠ ಕಲಿಸಲು ಈ ಆಟವಾಡಿದ್ದನು. ತನ್ನ ಹಳೆಯ ಸ್ನೇಹಿತ ತನಗೆ ಕಷ್ಟದಲ್ಲಿದ್ದಾಗ ಬೆನ್ನಿಗೆ ನಿಲ್ಲದ್ದಕ್ಕೆ ಈ ರೀತಿ ತನ್ನ ಕಲ್ಪನಾ ಶಕ್ತಿಯನ್ನು ಬಳಸಿ ಶಿಕ್ಷಿಸಿದ್ದಾಗಿ ಬರೆದಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Where did Bepin Choudhury faint during his visit to Ranchi?",
+      "options": [
+        "At Hudroo Falls",
+        "At Ranchi Railway Station",
+        "In the Morabadi Hills",
+        "Inside Dinesh Mukerji's bungalow"
+      ],
+      "answer": "At Hudroo Falls",
+      "reasoning": "Bepin Choudhury went to Hudroo Falls in Ranchi to jog his memory. However, he was found unconscious by two Gujarati gentlemen near a boulder."
+    },
+    "kn": {
+      "question": "ರಾಂಚಿ ಪ್ರವಾಸದ ಸಮಯದಲ್ಲಿ ಬೆಪಿನ್ ಚೌಧರಿ ಅವರು ಎಲ್ಲಿ ಪ್ರಜ್ಞೆ ಕಳೆದುಕೊಂಡು ಬಿದ್ದರು?",
+      "options": [
+        "ಹುದ್ರೂ ಜಲಪಾತದಲ್ಲಿ (Hudroo Falls)",
+        "ರಾಂಚಿ ರೈಲ್ವೆ ನಿಲ್ದಾಣದಲ್ಲಿ",
+        "ಮೊರಾಬಾದಿ ಬೆಟ್ಟಗಳಲ್ಲಿ",
+        "ದಿನೇಶ್ ಮುಖರ್ಜಿ ಅವರ ಬಂಗಲೆಯಲ್ಲಿ"
+      ],
+      "answer": "ಹುದ್ರೂ ಜಲಪಾತದಲ್ಲಿ (Hudroo Falls)",
+      "reasoning": "ನೆನಪು ಮರಳಿ ಪಡೆಯಲು ಬೆಪಿನ್ ಬಾಬು ರಾಂಚಿಯ ಹುದ್ರೂ ಜಲಪಾತಕ್ಕೆ ಹೋಗಿದ್ದರು. ಆದರೆ ಅಲ್ಲಿ ಬಂಡೆಯೊಂದರ ಬಳಿ ಪ್ರಜ್ಞೆ ತಪ್ಪಿ ಬಿದ್ದಿದ್ದ ಅವರನ್ನು ಗುಜರಾತಿ ಪ್ರವಾಸಿಗರು ಪತ್ತೆ ಮಾಡಿದರು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_015",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which intimate personal details did Parimal Ghose mention that convinced Bepin Babu the stranger knew him?",
+      "options": [
+        "The death of Bepin Babu's wife ten years ago",
+        "The insanity and death of Bepin's only brother",
+        "Bepin Babu's habit of carrying a bag of books on trips",
+        "The name of Bepin Babu's favorite school teacher"
+      ],
+      "answer": [
+        "The death of Bepin Babu's wife ten years ago",
+        "The insanity and death of Bepin's only brother",
+        "Bepin Babu's habit of carrying a bag of books on trips"
+      ],
+      "reasoning": "Parimal Ghose spoke about Bepin's wife dying ten years ago, his brother dying insane, and his habit of carrying books. He did not mention a school teacher."
+    },
+    "kn": {
+      "question": "ಅಪರಿಚಿತನಿಗೆ ತನ್ನ ವೈಯಕ್ತಿಕ ವಿವರಗಳು ತಿಳಿದಿವೆ ಎಂದು ಬೆಪಿನ್ ಬಾಬು ನಂಬಲು ಪರಿಮಳ್ ಘೋಷ್ ಹೇಳಿದ ಯಾವ ವಿಷಯಗಳು ಕಾರಣವಾಗಿದ್ದವು?",
+      "options": [
+        "ಹತ್ತು ವರ್ಷಗಳ ಹಿಂದೆ ಬೆಪಿನ್ ಬಾಬು ಪತ್ನಿ ಮರಣ ಹೊಂದಿದ್ದು",
+        "ಬೆಪಿನ್ ಅವರ ಏಕೈಕ ಸಹೋದರ ಹುಚ್ಚುತನದಿಂದ ಮೃತಪಟ್ಟಿದ್ದು",
+        "ಪ್ರವಾಸಗಳಲ್ಲಿ ಬೆಪಿನ್ ಬಾಬು ಪುಸ್ತಕಗಳ ಚೀಲವನ್ನು ಹೊತ್ತುಕೊಂಡು ಹೋಗುವ ಅಭ್ಯಾಸ",
+        "ಬೆಪಿನ್ ಬಾಬು ಅವರ ಪ್ರೀತಿಯ ಶಾಲಾ ಶಿಕ್ಷಕರ ಹೆಸರು"
+      ],
+      "answer": [
+        "ಹತ್ತು ವರ್ಷಗಳ ಹಿಂದೆ ಬೆಪಿನ್ ಬಾಬು ಪತ್ನಿ ಮರಣ ಹೊಂದಿದ್ದು",
+        "ಬೆಪಿನ್ ಅವರ ಏಕೈಕ ಸಹೋದರ ಹುಚ್ಚುತನದಿಂದ ಮೃತಪಟ್ಟಿದ್ದು",
+        "ಪ್ರವಾಸಗಳಲ್ಲಿ ಬೆಪಿನ್ ಬಾಬು ಪುಸ್ತಕಗಳ ಚೀಲವನ್ನು ಹೊತ್ತುಕೊಂಡು ಹೋಗುವ ಅಭ್ಯಾಸ"
+      ],
+      "reasoning": "ಪರಿಮಳ್ ಜಿಮ್ ಪತ್ನಿಯ ಸಾವು, ಸಹೋದರನ ಹುಚ್ಚುತನದ ಸಾವು ಮತ್ತು ಪುಸ್ತಕ ಸಾಗಿಸುವ ಅಭ್ಯಾಸದ ಬಗ್ಗೆ ಹೇಳಿದನು. ಶಿಕ್ಷಕರ ಹೆಸರನ್ನು ಅವನು ಉಲ್ಲೇಖಿಸಿರಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_016",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following places did Bepin Choudhury actually visit in the course of the story?",
+      "options": [
+        "Kalicharan's book shop in New Market",
+        "The town of Ranchi in Jharkhand",
+        "Haridas Bagchi's residence in Kanpur",
+        "Burlington House Nursing Home"
+      ],
+      "answer": [
+        "Kalicharan's book shop in New Market",
+        "The town of Ranchi in Jharkhand"
+      ],
+      "reasoning": "Bepin Babu visited Kalicharan's book shop and Ranchi. He never went to Kanpur in the story, and Burlington House is from the first chapter, not this one."
+    },
+    "kn": {
+      "question": "ಕಥೆಯ ಅವಧಿಯಲ್ಲಿ ಬೆಪಿನ್ ಚೌಧರಿ ಅವರು ಈ ಕೆಳಗಿನ ಯಾವ ಸ್ಥಳಗಳಿಗೆ ಭೇಟಿ ನೀಡಿದ್ದರು?",
+      "options": [
+        "ನ್ಯೂ ಮಾರ್ಕೆಟ್‌ನಲ್ಲಿರುವ ಕಾಲಿಚರಣ್ ಪುಸ್ತಕದ ಅಂಗಡಿ",
+        "ಜಾರ್ಖಂಡ್‌ನ ರಾಂಚಿ ಪಟ್ಟಣ",
+        "ಕಾನ್ಪುರದಲ್ಲಿರುವ ಹರಿದಾಸ್ ಬಾಗ್ಚಿಯವರ ನಿವಾಸ",
+        "ಬರ್ಲಿಂಗ್ಟನ್ ಹೌಸ್ ನರ್ಸಿಂಗ್ ಹೋಮ್"
+      ],
+      "answer": [
+        "ನ್ಯೂ ಮಾರ್ಕೆಟ್‌ನಲ್ಲಿರುವ ಕಾಲಿಚರಣ್ ಪುಸ್ತಕದ ಅಂಗಡಿ",
+        "ಜಾರ್ಖಂಡ್‌ನ ರಾಂಚಿ ಪಟ್ಟಣ"
+      ],
+      "reasoning": "ಬೆಪಿನ್ ಬಾಬು ಕಾಲಿಚರಣ್ ಅಂಗಡಿ ಮತ್ತು ರಾಂಚಿಗೆ ಭೇಟಿ ನೀಡಿದರು. ಅವರು ಕಾನ್ಪುರಕ್ಕೆ ಹೋಗಲಿಲ್ಲ ಮತ್ತು ಬರ್ಲಿಂಗ್ಟನ್ ಹೌಸ್ ಮೊದಲ ಅಧ್ಯಾಯಕ್ಕೆ ಸೇರಿದ್ದಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_017",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the locations from the story with their corresponding roles in Bepin Babu's mind or actions:",
+      "pairs": [
+        {
+          "left": "New Market Shop",
+          "right": "Where Bepin met the stranger who triggered his mental crisis"
+        },
+        {
+          "left": "Kanpur",
+          "right": "Where Bepin believed he was staying during the Puja of 1958"
+        },
+        {
+          "left": "Ranchi Station",
+          "right": "Where Bepin realized immediately upon arrival that he had never been there"
+        },
+        {
+          "left": "Hudroo",
+          "right": "The waterfalls where Bepin was found unconscious by tourists"
+        }
+      ],
+      "reasoning": "Bepin met Parimal in New Market, thought he was in Kanpur, realized Ranchi was unfamiliar at the station, and fainted at Hudroo."
+    },
+    "kn": {
+      "question": "ಕಥೆಯ ಸ್ಥಳಗಳನ್ನು ಬೆಪಿನ್ ಬಾಬು ಅವರ ಮನಸ್ಸು ಅಥವಾ ಕ್ರಮಗಳಲ್ಲಿನ ಪಾತ್ರಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ನ್ಯೂ ಮಾರ್ಕೆಟ್ ಅಂಗಡಿ",
+          "right": "ಮಾನಸಿಕ ಆತಂಕಕ್ಕೆ ಕಾರಣವಾದ ಅಪರಿಚಿತನನ್ನು ಬೆಪಿನ್ ಭೇಟಿಯಾದ ಸ್ಥಳ"
+        },
+        {
+          "left": "ಕಾನ್ಪುರ",
+          "right": "1958 ರ ಪೂಜೆಯ ಸಮಯದಲ್ಲಿ ತಾವು ಅಲ್ಲಿ ತಂಗಿದ್ದೆ ಎಂದು ಬೆಪಿನ್ ನಂಬಿದ್ದ ಸ್ಥಳ"
+        },
+        {
+          "left": "ರಾಂಚಿ ನಿಲ್ದಾಣ",
+          "right": "ತಾವು ಎಂದಿಗೂ ಅಲ್ಲಿಗೆ ಬಂದಿಲ್ಲ ಎಂದು ಬೆಪಿನ್ ಅಲ್ಲಿಗೆ ತಲುಪಿದ ತಕ್ಷಣ ಅರಿತ ಸ್ಥಳ"
+        },
+        {
+          "left": "ಹುದ್ರೂ",
+          "right": "ಪ್ರವಾಸಿಗರಿಗೆ ಬೆಪಿನ್ ಪ್ರಜ್ಞಾಹೀನ ಸ್ಥಿತಿಯಲ್ಲಿ ಪತ್ತೆಯಾದ ಜಲಪಾತ"
+        }
+      ],
+      "reasoning": "ನ್ಯೂ ಮಾರ್ಕೆಟ್‌ನಲ್ಲಿ ಅಪರಿಚಿತ ಸಿಕ್ಕಿದನು, ಕಾನ್ಪುರದಲ್ಲಿದ್ದೆ ಎಂದು ನಂಬಿದ್ದರು, ರಾಂಚಿ ನಿಲ್ದಾಣ ತಲುಪಿದಾಗ ಅಲ್ಲಿಗೆ ಬಂದಿಲ್ಲ ಎಂದು ಅರಿತರು ಮತ್ತು ಹುದ್ರೂನಲ್ಲಿ ಪ್ರಜ್ಞೆ ತಪ್ಪಿದರು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_018",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What did Chunilal send to Bepin Babu's house that finally solved the mystery of his amnesia?",
+      "options": [
+        "A letter detailing how he had plotted the prank to take revenge",
+        "A set of old school photographs proving they visited Ranchi together",
+        "A newspaper cutting containing the medical report of Bepin's fall",
+        "A packet of medicines to cure his mental ailment"
+      ],
+      "answer": "A letter detailing how he had plotted the prank to take revenge",
+      "reasoning": "Chunilal sent a letter in a green envelope containing a long letter explaining that the whole amnesia was a trick played by him because Bepin refused to help him in his bad days."
+    },
+    "kn": {
+      "question": "ಬೆಪಿನ್ ಬಾಬು ಅವರ ಮರೆವಿನ ರಹಸ್ಯವನ್ನು ಕೊನೆಗೂ ಬಗೆಹರಿಸಿದ ಯಾವ ವಸ್ತುವನ್ನು ಚುನಿಲಾಲ್ ಅವರ ಮನೆಗೆ ಕಳುಹಿಸಿದರು?",
+      "options": [
+        "ತಾವು ಪ್ರತೀಕಾರ ತೀರಿಸಿಕೊಳ್ಳಲು ಈ ಸಂಚನ್ನು ಹೇಗೆ ರೂಪಿಸಿದೆವು ಎಂದು ವಿವರಿಸುವ ಪತ್ರ",
+        "ತಾವು ಒಟ್ಟಿಗೆ ರಾಂಚಿಗೆ ಹೋಗಿದ್ದೆವು ಎಂದು ಸಾಬೀತುಪಡಿಸುವ ಹಳೆಯ ಶಾಲಾ ಫೋಟೋಗಳು",
+        "ಬೆಪಿನ್ ಬಿದ್ದಿದ್ದ ವೈದ್ಯಕೀಯ ವರದಿ ಹೊಂದಿದ್ದ ಪತ್ರಿಕೆಯ ತುಣುಕು",
+        "ಅವರ ಮಾನಸಿಕ ಕಾಯಿಲೆಯನ್ನು ಗುಣಪಡಿಸಲು ಔಷಧಿಗಳ ಪ್ಯಾಕೆಟ್"
+      ],
+      "answer": "ತಾವು ಪ್ರತೀಕಾರ ತೀರಿಸಿಕೊಳ್ಳಲು ಈ ಸಂಚನ್ನು ಹೇಗೆ ರೂಪಿಸಿದೆವು ಎಂದು ವಿವರಿಸುವ ಪತ್ರ",
+      "reasoning": "ಚುನಿಲಾಲ್ ಹಸಿರು ಲಕೋಟೆಯಲ್ಲಿ ಸುದೀರ್ಘ ಪತ್ರವೊಂದನ್ನು ಕಳುಹಿಸಿದನು. ತನಗೆ ಆರ್ಥಿಕ ತೊಂದರೆಯಿದ್ದಾಗ ಬೆಪಿನ್ ಸಹಾಯ ಮಾಡದ್ದಕ್ಕೆ ಸೇಡಿನ ರೂಪದಲ್ಲಿ ಈ ಇಡೀ ನಾಟಕವಾಡಿದ್ದಾಗಿ ಅದರಲ್ಲಿ ವಿವರಿಸಿದ್ದನು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_019",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "How did Dr. Paresh Chanda react to Bepin Babu's memory loss problem during their consultation?",
+      "options": [
+        "He found it unique, admitted it was outside his field, and suggested visiting Ranchi to revive his memory",
+        "He immediately diagnosed it as a case of severe dementia and prescribed heavy medicines",
+        "He blamed the books Bepin read and asked him to stop reading",
+        "He suggested that Bepin should take a long vacation in England"
+      ],
+      "answer": "He found it unique, admitted it was outside his field, and suggested visiting Ranchi to revive his memory",
+      "reasoning": "Dr. Chanda confessed that Bepin's case was unique and outside his regular medical practice. He suggested a practical approach: to visit Ranchi so that the sights might trigger his memory."
+    },
+    "kn": {
+      "question": "ಸಮಾಲೋಚನೆಯ ಸಮಯದಲ್ಲಿ ಬೆಪಿನ್ ಬಾಬು ಅವರ ಸ್ಮರಣಶಕ್ತಿ ಕಳೆದುಹೋದ ಸಮಸ್ಯೆಗೆ ಡಾ. ಪರೇಶ್ ಚಂದಾ ಹೇಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಿದರು?",
+      "options": [
+        "ಅವರು ಇದು ಅಪರೂಪದ್ದು ಎಂದರು ಮತ್ತು ತಮ್ಮ ವೈದ್ಯಕೀಯ ಕ್ಷೇತ್ರದ ಮಿತಿಯಾಚೆಗಿದ್ದು ನೆನಪು ಮರುಕಳಿಸಲು ರಾಂಚಿಗೆ ಹೋಗಲು ಸೂಚಿಸಿದರು",
+        "ಅವರು ತಕ್ಷಣವೇ ಇದು ತೀವ್ರ ಬುದ್ಧಿಮಾಂದ್ಯತೆಯ ಪ್ರಕರಣ ಎಂದು ನಿರ್ಧರಿಸಿ ಭಾರಿ ಔಷಧಿಗಳನ್ನು ಶಿಫಾರಸು ಮಾಡಿದರು",
+        "ಬೆಪಿನ್ ಓದುವ ಪುಸ್ತಕಗಳೇ ಇದಕ್ಕೆ ಕಾರಣ ಎಂದು ದೂಷಿಸಿ ಓದುವುದನ್ನು ನಿಲ್ಲಿಸಲು ಹೇಳಿದರು",
+        "ಅವರು ಬೆಪಿನ್ ಇಂಗ್ಲೆಂಡ್‌ನಲ್ಲಿ ದೀರ್ಘ ರಜೆ ಕಳೆಯಬೇಕು ಎಂದು ಸಲಹೆ ನೀಡಿದರು"
+      ],
+      "answer": "ಅವರು ಇದು ಅಪರೂಪದ್ದು ಎಂದರು ಮತ್ತು ತಮ್ಮ ವೈದ್ಯಕೀಯ ಕ್ಷೇತ್ರದ ಮಿತಿಯಾಚೆಗಿದ್ದು ನೆನಪು ಮರುಕಳಿಸಲು ರಾಂಚಿಗೆ ಹೋಗಲು ಸೂಚಿಸಿದರು",
+      "reasoning": "ಡಾ. ಚಂದಾ ಈ ಪ್ರಕರಣ ತಮ್ಮ ಸಾಮಾನ್ಯ ವೈದ್ಯಕೀಯ ಅನುಭವದಿಂದ ಹೊರಗಿದೆ ಎಂದು ಒಪ್ಪಿಕೊಂಡರು. ಪ್ರಾಯೋಗಿಕ ಪರಿಹಾರವಾಗಿ ರಾಂಚಿಗೆ ಭೇಟಿ ನೀಡಿದರೆ ಅಲ್ಲಿನ ದೃಶ್ಯಗಳು ನೆನಪು ತರಬಹುದು ಎಂದು ಸೂಚಿಸಿದರು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_020",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What lie did Bepin Choudhury tell Dr. Paresh Chanda when the doctor came to see him after the truth was revealed?",
+      "options": [
+        "That his memory came back as soon as he got off the train at Ranchi station",
+        "That Chunilal had poisoned his food causing him to forget things",
+        "That he had decided to go to Japan to meet Haridas Bagchi",
+        "That he had indeed visited Ranchi in 1958 and found the house he stayed in"
+      ],
+      "answer": "That his memory came back as soon as he got off the train at Ranchi station",
+      "reasoning": "Embarrassed that he was tricked by Chunilal, Bepin lied to Dr. Chanda, telling him that his memory returned automatically as soon as he set foot on the Ranchi railway station platform."
+    },
+    "kn": {
+      "question": "ನಿಜಾಂಶ ಬಯಲಾದ ನಂತರ ಡಾ. ಪರೇಶ್ ಚಂದಾ ಅವರು ಭೇಟಿಯಾದಾಗ ಬೆಪಿನ್ ಚೌಧರಿ ಅವರಿಗೆ ಯಾವ ಸುಳ್ಳನ್ನು ಹೇಳಿದರು?",
+      "options": [
+        "ರಾಂಚಿ ನಿಲ್ದಾಣದಲ್ಲಿ ರೈಲಿನಿಂದ ಇಳಿದ ತಕ್ಷಣ ತಮ್ಮ ನೆನಪು ಮರಳಿ ಬಂದಿತು ಎಂದು",
+        "ಚುನಿಲಾಲ್ ತಮಗೆ ವಿಷವುಣಿಸಿದ್ದರಿಂದ ನೆನಪು ತಪ್ಪಿಹೋಗಿತ್ತು ಎಂದು",
+        "ತಾವು ಹರಿದಾಸ್ ಬಾಗ್ಚಿಯನ್ನು ಭೇಟಿಯಾಗಲು ಜಪಾನ್‌ಗೆ ಹೋಗಲು ನಿರ್ಧರಿಸಿದ್ದೇವೆ ಎಂದು",
+        "ತಾವು ನಿಜವಾಗಿಯೂ 1958 ರಲ್ಲಿ ರಾಂಚಿಗೆ ಹೋಗಿದ್ದೆವು ಮತ್ತು ತಂಗಿದ್ದ ಬಂಗಲೆಯನ್ನು ಪತ್ತೆಹಚ್ಚಿದ್ದೇವೆ ಎಂದು"
+      ],
+      "answer": "ರಾಂಚಿ ನಿಲ್ದಾಣದಲ್ಲಿ ರೈಲಿನಿಂದ ಇಳಿದ ತಕ್ಷಣ ತಮ್ಮ ನೆನಪು ಮರಳಿ ಬಂದಿತು ಎಂದು",
+      "reasoning": "ಚುನಿಲಾಲ್‌ನಿಂದ ತಾವು ಮೋಸಹೋಗಿರುವುದನ್ನು ಒಪ್ಪಿಕೊಳ್ಳಲು ಮುಜುಗರಪಟ್ಟುಕೊಂಡು, ಬೆಪಿನ್ ಬಾಬು ರಾಂಚಿ ನಿಲ್ದಾಣದಲ್ಲಿ ಕಾಲಿಟ್ಟ ತಕ್ಷಣ ತಮಗೆ ನೆನಪು ಮರಳಿ ಬಂತು ಎಂದು ಸುಳ್ಳು ಹೇಳಿದರು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_021",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Why did Bepin Babu tell Dr. Chanda he had sent for him and requested a painkiller?",
+      "options": [
+        "He had a pain in the hip from a fall he had in Ranchi",
+        "He had a severe pain in his knee due to the old cut mark",
+        "He was suffering from a major stomach ache due to tension",
+        "He wanted to test if Dr. Chanda was a competent physician"
+      ],
+      "answer": "He had a pain in the hip from a fall he had in Ranchi",
+      "reasoning": "To maintain his lie that he went to Ranchi and fell there, Bepin Babu told the doctor he had a pain in the hip from his fall at Hudroo and asked for a painkiller."
+    },
+    "kn": {
+      "question": "ತಾವು ಡಾ. ಚಂದಾ ಅವರನ್ನು ಕರೆಯಿಸಿಕೊಂಡಿದ್ದು ನೋವು ನಿವಾರಕ (painkiller) ಕೇಳಲು ಎಂದು ಬೆಪಿನ್ ಬಾಬು ಏಕೆ ಹೇಳಿದರು?",
+      "options": [
+        "ರಾಂಚಿಯಲ್ಲಿ ಬಿದ್ದಿದ್ದರಿಂದ ಸೊಂಟದಲ್ಲಿ (hip) ತೀವ್ರವಾದ ನೋವು ಕಾಣಿಸಿಕೊಂಡಿದೆ ಎಂದು",
+        "ಹಳೆಯ ಗಾಯದ ಗುರುತಿನಿಂದಾಗಿ ಮೊಣಕಾಲಿನಲ್ಲಿ ತೀವ್ರ ನೋವು ಕಾಣಿಸಿಕೊಂಡಿದೆ ಎಂದು",
+        "ಆತಂಕದಿಂದಾಗಿ ಹೊಟ್ಟೆ ನೋವು ಕಾಣಿಸಿಕೊಂಡಿದೆ ಎಂದು",
+        "ಡಾ. ಚಂದಾ ಅವರು ಸಮರ್ಥ ವೈದ್ಯರೇ ಎಂದು ಪರೀಕ್ಷಿಸಲು"
+      ],
+      "answer": "ರಾಂಚಿಯಲ್ಲಿ ಬಿದ್ದಿದ್ದರಿಂದ ಸೊಂಟದಲ್ಲಿ (hip) ತೀವ್ರವಾದ ನೋವು ಕಾಣಿಸಿಕೊಂಡಿದೆ ಎಂದು",
+      "reasoning": "ತಾವು ರಾಂಚಿಗೆ ಹೋಗಿ ಅಲ್ಲಿ ಬಿದ್ದಿದ್ದೆವು ಎಂಬ ಸುಳ್ಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲು ಬೆಪಿನ್ ಬಾಬು ತಮಗೆ ಹುದ್ರೂನಲ್ಲಿ ಬಿದ್ದಿದ್ದರಿಂದ ಸೊಂಟ ನೋವು ಬಂದಿದೆ ಎಂದು ಹೇಳಿ ಪೇನ್‌ಕಿಲ್ಲರ್ ಕೇಳಿದರು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_022",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What does Chunilal's letter imply about Bepin Choudhury's behavior during Chunilal's hard times?",
+      "options": [
+        "Bepin was unhelpful and ignored their old school friendship",
+        "Bepin had lent a lot of money to Chunilal which Chunilal lost",
+        "Bepin had tried his best but couldn't secure a job",
+        "Bepin had moved away to another town to avoid Chunilal"
+      ],
+      "answer": "Bepin was unhelpful and ignored their old school friendship",
+      "reasoning": "Chunilal's letter points out that Bepin, despite having resources, refused to help a school friend when he was in need, showing a lack of empathy."
+    },
+    "kn": {
+      "question": "ಚುನಿಲಾಲ್ ಅವರ ಕಷ್ಟದ ಸಮಯದಲ್ಲಿ ಬೆಪಿನ್ ಚೌಧರಿ ಅವರ ವರ್ತನೆಯ ಬಗ್ಗೆ ಚುನಿಲಾಲ್ ಪತ್ರವು ಏನನ್ನು ಧ್ವನಿಸುತ್ತದೆ?",
+      "options": [
+        "ಬೆಪಿನ್ ಯಾವುದೇ ಸಹಾಯ ಮಾಡಲಿಲ್ಲ ಮತ್ತು ಅವರ ಹಳೆಯ ಶಾಲಾ ಸ್ನೇಹವನ್ನು ನಿರ್ಲಕ್ಷಿಸಿದರು",
+        "ಬೆಪಿನ್ ಚುನಿಲಾಲ್‌ಗೆ ಸಾಕಷ್ಟು ಸಾಲ ನೀಡಿದ್ದರು ಆದರೆ ಚುನಿಲಾಲ್ ಅದನ್ನು ಕಳೆದುಕೊಂಡಿದ್ದರು",
+        "ಬೆಪಿನ್ ಪ್ರಯತ್ನಿಸಿದರೂ ಕೆಲಸ ಕೊಡಿಸಲು ಸಾಧ್ಯವಾಗಿರಲಿಲ್ಲ",
+        "ಬೆಪಿನ್ ಚುನಿಲಾಲ್‌ನನ್ನು ತಪ್ಪಿಸಲು ಬೇರೆ ಊರಿಗೆ ಹೋಗಿದ್ದರು"
+      ],
+      "answer": "ಬೆಪಿನ್ ಯಾವುದೇ ಸಹಾಯ ಮಾಡಲಿಲ್ಲ ಮತ್ತು ಅವರ ಹಳೆಯ ಶಾಲಾ ಸ್ನೇಹವನ್ನು ನಿರ್ಲಕ್ಷಿಸಿದರು",
+      "reasoning": "ತಮ್ಮ ಹಳೆಯ ಸ್ನೇಹದ ಹೊರತಾಗಿಯೂ ಬೆಪಿನ್ ಬಾಬು ತಮಗೆ ಸಹಾಯ ಮಾಡದೆ ನಿರ್ಲಕ್ಷಿಸಿದ್ದನ್ನು ಚುನಿಲಾಲ್ ತನ್ನ ಪತ್ರದಲ್ಲಿ ಸಾಬೀತುಪಡಿಸಿದನು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_023",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Which of the following people were part of Chunilal's conspiracy or played a role in verifying the false Ranchi trip?",
+      "options": [
+        "Parimal Ghose",
+        "Dinesh Mukerji",
+        "Dr. Paresh Chanda",
+        "Bepin's servant Sitaram"
+      ],
+      "answer": [
+        "Parimal Ghose",
+        "Dinesh Mukerji"
+      ],
+      "reasoning": "Parimal Ghose and Dinesh Mukerji were in on the joke. Dr. Chanda and the servant Sitaram were innocent and did not know about Chunilal's prank."
+    },
+    "kn": {
+      "question": "ರಾಂಚಿ ಪ್ರವಾಸದ ಸುಳ್ಳು ಕಥೆಯನ್ನು ದೃಢಪಡಿಸಲು ಚುನಿಲಾಲ್ ಮಾಡಿದ ಸಂಚಿನಲ್ಲಿ ಈ ಕೆಳಗಿನ ಯಾರು ಭಾಗಿಯಾಗಿದ್ದರು ಅಥವಾ ಅದಕ್ಕೆ ಸಹಾಯ ಮಾಡಿದರು?",
+      "options": [
+        "ಪರಿಮಳ್ ಘೋಷ್",
+        "ದಿನೇಶ್ ಮುಖರ್ಜಿ",
+        "ಡಾ. ಪರೇಶ್ ಚಂದಾ",
+        "ಬೆಪಿನ್ ಅವರ ಆಳು ಸೀತಾರಾಮ್"
+      ],
+      "answer": [
+        "ಪರಿಮಳ್ ಘೋಷ್",
+        "ದಿನೇಶ್ ಮುಖರ್ಜಿ"
+      ],
+      "reasoning": "ಪರಿಮಳ್ ಘೋಷ್ ಮತ್ತು ದಿನೇಶ್ ಮುಖರ್ಜಿ ಈ ಸಂಚಿನಲ್ಲಿ ಶಾಮೀಲಾಗಿದ್ದರು. ಡಾ. ಚಂದಾ ಮತ್ತು ಸೀತಾರಾಮ್ ನಿರಪರಾಧಿಗಳಾಗಿದ್ದರು ಮತ್ತು ಅವರಿಗೆ ಚುನಿಲಾಲ್‌ನ ಸಂಚು ತಿಳಿದಿರಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_024",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the clues given by Parimal Ghose with Bepin Babu's internal reasoning or reactions:",
+      "pairs": [
+        {
+          "left": "Ranchi stay in 1958",
+          "right": "Bepin knew he spent the Puja of 1958 with a friend in Kanpur"
+        },
+        {
+          "left": "Dinesh Mukerji's house",
+          "right": "Parimal said Dinesh stayed in a bungalow, but Bepin called Dinesh to verify"
+        },
+        {
+          "left": "Right knee scar",
+          "right": "Bepin rolled up his trousers and found a scar he couldn't explain"
+        },
+        {
+          "left": "Solitary behavior",
+          "right": "Parimal knew Bepin preferred home-cooked food and had no children"
+        }
+      ],
+      "reasoning": "Bepin knew he was in Kanpur, called Dinesh to double-check the bungalow stay, found a knee scar he couldn't remember getting, and was shocked by the stranger's knowledge of his personal life."
+    },
+    "kn": {
+      "question": "ಪರಿಮಳ್ ಘೋಷ್ ನೀಡಿದ ಸುಳಿವುಗಳನ್ನು ಬೆಪಿನ್ ಬಾಬು ಅವರ ಆಂತರಿಕ ತಾರ್ಕಿಕ ಚಿಂತನೆ ಅಥವಾ ಪ್ರತಿಕ್ರಿಯೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "1958 ರ ರಾಂಚಿ ವಾಸ್ತವ್ಯ",
+          "right": "1958 ರ ಪೂಜೆಯನ್ನು ಕಾನ್ಪುರದಲ್ಲಿದ್ದ ಸ್ನೇಹಿತನೊಂದಿಗೆ ಕಳೆದಿದ್ದೆ ಎಂದು ಬೆಪಿನ್ ತಿಳಿದಿದ್ದರು"
+        },
+        {
+          "left": "ದಿನೇಶ್ ಮುಖರ್ಜಿ ಮನೆ",
+          "right": "ದಿನೇಶ್ ಬಂಗಲೆಯಲ್ಲಿ ತಂಗಿದ್ದರು ಎಂದು ಪರಿಮಳ್ ಹೇಳಿದ್ದನು, ಬೆಪಿನ್ ಪರಿಶೀಲಿಸಲು ಕರೆ ಮಾಡಿದರು"
+        },
+        {
+          "left": "ಬಲಗಾಲ ಮೊಣಕಾಲಿನ ಗಾಯ",
+          "right": "ಬೆಪಿನ್ ಪ್ಯಾಂಟ್ ಮೇಲೆತ್ತಿ ನೋಡಿ ತನಗೆ ನೆನಪಿಲ್ಲದ ಹಳೆಯ ಗಾಯದ ಗುರುತನ್ನು ಕಂಡರು"
+        },
+        {
+          "left": "ಏಕಾಂಗಿ ವರ್ತನೆ",
+          "right": "ಬೆಪಿನ್ ಹೋಟೆಲ್ ಊಟ ಇಷ್ಟಪಡುವುದಿಲ್ಲ ಮತ್ತು ಮಕ್ಕಳಿಲ್ಲದ ವಿಷಯ ಪರಿಮಳ್‌ಗೆ ತಿಳಿದಿತ್ತು"
+        }
+      ],
+      "reasoning": "ಕಾನ್ಪುರದಲ್ಲಿದ್ದೆ ಎಂದು ಭಾವಿಸಿದ್ದರು, ದಿನೇಶ್‌ಗೆ ಕರೆ ಮಾಡಿದರು, ಮೊಣಕಾಲಿನ ಗುರುತು ಕಂಡು ಗಾಬರಿಯಾದರು ಮತ್ತು ವೈಯಕ್ತಿಕ ವಿವರಗಳು ತಿಳಿದಿದ್ದಕ್ಕೆ ಆಶ್ಚರ್ಯಪಟ್ಟರು."
+    }
+  },
+  {
+    "id": "c8_eng_bepin_025",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the emotional responses of Bepin Babu with their respective stages in the narrative:",
+      "pairs": [
+        {
+          "left": "At Kalicharan's shop",
+          "right": "Annoyed but slightly shaken by the stranger's confidence"
+        },
+        {
+          "left": "After calling Dinesh",
+          "right": "Horrified and losing his confidence in his own memory"
+        },
+        {
+          "left": "At Hudroo Falls",
+          "right": "Hopeless and completely fainted due to mental exhaustion"
+        },
+        {
+          "left": "Upon reading the letter",
+          "right": "Relieved from amnesia fear but feeling foolish and embarrassed"
+        }
+      ],
+      "reasoning": "Bepin moved from irritation at the bookstore, to horror after calling Dinesh, to fainting in despair at Hudroo, and finally to relief mixed with embarrassment upon reading the letter."
+    },
+    "kn": {
+      "question": "ಕಥೆಯ ವಿವಿಧ ಹಂತಗಳಲ್ಲಿ ಬೆಪಿನ್ ಬಾಬು ಅವರ ಭಾವನಾತ್ಮಕ ಸ್ಥಿತಿಗಳನ್ನು ಆಯಾ ಸಂದರ್ಭಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
+      "pairs": [
+        {
+          "left": "ಕಾಲಿಚರಣ್ ಅಂಗಡಿಯಲ್ಲಿ",
+          "right": "ಅಪರಿಚಿತನ ಧೈರ್ಯ ನೋಡಿ ಕಿರಿಕಿರಿ ಆದರೆ ಸ್ವಲ್ಪ ಆತಂಕಕ್ಕೊಳಗಾದರು"
+        },
+        {
+          "left": "ದಿನೇಶ್‌ಗೆ ಕರೆ ಮಾಡಿದ ನಂತರ",
+          "right": "ಗಾಬರಿಯಾಗಿ ತನ್ನ ಸ್ವಂತ ನೆನಪಿನ ಶಕ್ತಿಯ ಮೇಲೆಯೇ ವಿಶ್ವಾಸ ಕಳೆದುಕೊಂಡರು"
+        },
+        {
+          "left": "ಹುದ್ರೂ ಜಲಪಾತದಲ್ಲಿ",
+          "right": "ಹತಾಶರಾಗಿ ಮಾನಸಿಕ ಆಯಾಸದಿಂದ ಪ್ರಜ್ಞೆ ತಪ್ಪಿ ಬಿದ್ದರು"
+        },
+        {
+          "left": "ಪತ್ರ ಓದಿದ ನಂತರ",
+          "right": "ಮರೆವಿನ ಭಯದಿಂದ ಮುಕ್ತಿ ಆದರೆ ಮೂರ್ಖರಾಗಿದ್ದಕ್ಕೆ ಮುಜುಗರ ಅನುಭವಿಸಿದರು"
+        }
+      ],
+      "reasoning": "ಬೆಪಿನ್ ಬಾಬು ಕಾಲಿಚರಣ್ ಅಂಗಡಿಯಲ್ಲಿ ಕಿರಿಕಿರಿಗೊಂಡರು, ದಿನೇಶ್ ದೃಢೀಕರಣದ ನಂತರ ಬೆಚ್ಚಿಬಿದ್ದರು, ಹುದ್ರೂನಲ್ಲಿ ಪ್ರಜ್ಞೆ ತಪ್ಪಿದರು ಮತ್ತು ಪತ್ರ ಓದಿದ ನಂತರ ನಿರಾಳತೆಯ ಜೊತೆಗೆ ಮುಜುಗರ ಅನುಭವಿಸಿದರು."
+    }
+  }
+]

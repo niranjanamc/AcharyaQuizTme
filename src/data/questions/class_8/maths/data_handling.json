@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "c8_math_data_001",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What name is given to a representation of data that uses pictures or symbols?",
+      "reasoning": "A pictograph represents data through pictures or symbols. Each symbol represents a specific number of items.",
+      "options": [
+        "Pictograph",
+        "Bar graph",
+        "Histogram",
+        "Pie chart"
+      ],
+      "answer": "Pictograph"
+    },
+    "kn": {
+      "question": "ಚಿತ್ರಗಳು ಅಥವಾ ಚಿಹ್ನೆಗಳನ್ನು ಬಳಸುವ ದತ್ತಾಂಶದ ಪ್ರತಿನಿಧಿಸುವಿಕೆಗೆ ಯಾವ ಹೆಸರನ್ನು ನೀಡಲಾಗಿದೆ?",
+      "reasoning": "ಚಿತ್ರಲೇಖವು ಚಿತ್ರಗಳು ಅಥವಾ ಚಿಹ್ನೆಗಳ ಮೂಲಕ ದತ್ತಾಂಶಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಪ್ರತಿ ಚಿಹ್ನೆಯು ನಿರ್ದಿಷ್ಟ ಸಂಖ್ಯೆಯ ವಸ್ತುಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+      "options": [
+        "ಚಿತ್ರಲೇಖ",
+        "ಸ್ತಂಭ ಲೇಖಚಿತ್ರ",
+        "ಆಯತಚಿತ್ರ",
+        "ವೃತ್ತ ನಕ್ಷೆ"
+      ],
+      "answer": "ಚಿತ್ರಲೇಖ"
+    }
+  },
+  {
+    "id": "c8_math_data_002",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "The number of times a particular entry or observation occurs in a data set is called its:",
+      "reasoning": "Frequency is the number of times a specific value or event occurs in a set of data.",
+      "options": [
+        "Frequency",
+        "Class interval",
+        "Range",
+        "Tally mark"
+      ],
+      "answer": "Frequency"
+    },
+    "kn": {
+      "question": "ದತ್ತಾಂಶಗಳ ಗುಂಪಿನಲ್ಲಿ ಒಂದು ನಿರ್ದಿಷ್ಟ ನಮೂದು ಎಷ್ಟು ಬಾರಿ ಪುನರಾವರ್ತನೆಯಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಆ ನಮೂದಿನ ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "reasoning": "ಆವೃತ್ತಿಯು ದತ್ತಾಂಶಗಳ ಗುಂಪಿನಲ್ಲಿ ಒಂದು ನಿರ್ದಿಷ್ಟ ಬೆಲೆ ಅಥವಾ ಘಟನೆ ಎಷ್ಟು ಬಾರಿ ಸಂಭವಿಸುತ್ತದೆ ಎಂಬುದರ ಸಂಖ್ಯೆಯಾಗಿದೆ.",
+      "options": [
+        "ಆವೃತ್ತಿ",
+        "ವರ್ಗಾಂತರ",
+        "ವ್ಯಾಪ್ತಿ",
+        "ಟ್ಯಾಲಿ ಗುರುತು"
+      ],
+      "answer": "ಆವೃತ್ತಿ"
+    }
+  },
+  {
+    "id": "c8_math_data_003",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the range of the data set: 10, 20, 30, 40, 50?",
+      "reasoning": "Range is the difference between the highest value and the lowest value in the data. Range = 50 - 10 = 40.",
+      "options": [
+        "40",
+        "50",
+        "10",
+        "30"
+      ],
+      "answer": "40"
+    },
+    "kn": {
+      "question": "10, 20, 30, 40, 50 ದತ್ತಾಂಶಗಳ ಗುಂಪಿನ ವ್ಯಾಪ್ತಿ (range) ಎಷ್ಟು?",
+      "reasoning": "ವ್ಯಾಪ್ತಿಯು ದತ್ತಾಂಶದಲ್ಲಿನ ಗರಿಷ್ಠ ಬೆಲೆ ಮತ್ತು ಕನಿಷ್ಠ ಬೆಲೆಯ ನಡುವಿನ ವ್ಯತ್ಯಾಸವಾಗಿದೆ. ವ್ಯಾಪ್ತಿ = 50 - 10 = 40.",
+      "options": [
+        "40",
+        "50",
+        "10",
+        "30"
+      ],
+      "answer": "40"
+    }
+  },
+  {
+    "id": "c8_math_data_004",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "When data is grouped into ranges like 0-10 or 10-20, what is each group called?",
+      "reasoning": "Grouped data is organized into intervals, and each of these groups is called a class interval (e.g., 0-10, 10-20).",
+      "options": [
+        "Class interval",
+        "Class mark",
+        "Frequency",
+        "Range"
+      ],
+      "answer": "Class interval"
+    },
+    "kn": {
+      "question": "ದತ್ತಾಂಶವನ್ನು 0-10 ಅಥವಾ 10-20 ರಂತಹ ವ್ಯಾಪ್ತಿಗಳಲ್ಲಿ ವರ್ಗೀಕರಿಸಿದಾಗ, ಪ್ರತಿ ಗುಂಪನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "reasoning": "ವರ್ಗೀಕೃತ ದತ್ತಾಂಶವನ್ನು ಅಂತರಗಳಾಗಿ ಸಂಘಟಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಈ ಪ್ರತಿಯೊಂದು ಗುಂಪನ್ನು ವರ್ಗಾಂತರ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ (ಉದಾ: 0-10, 10-20).",
+      "options": [
+        "ವರ್ಗಾಂತರ",
+        "ವರ್ಗ ಮಧ್ಯಬಿಂದು",
+        "ಆವೃತ್ತಿ",
+        "ವ್ಯಾಪ್ತಿ"
+      ],
+      "answer": "ವರ್ಗಾಂತರ"
+    }
+  },
+  {
+    "id": "c8_math_data_005",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "If a fair coin is tossed, what is the probability of getting a Head?",
+      "reasoning": "Tossing a coin has 2 equally likely outcomes: Head (H) or Tail (T). The probability of getting a Head is: Favorable outcome / Total outcomes = 1 / 2.",
+      "options": [
+        "1/2",
+        "1",
+        "0",
+        "1/4"
+      ],
+      "answer": "1/2"
+    },
+    "kn": {
+      "question": "ಒಂದು ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮಿದಾಗ, ಶಿರ (Head) ಬೀಳುವ ಸಂಭವನೀಯತೆ ಎಷ್ಟು?",
+      "reasoning": "ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮಿದಾಗ 2 ಸಮಾನ ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳಿವೆ: ಶಿರ (H) ಅಥವಾ ಪುಚ್ಛ (T). ಶಿರ ಬೀಳುವ ಸಂಭವನೀಯತೆ: ಅನುಕೂಲಕರ ಫಲಿತಾಂಶ / ಒಟ್ಟು ಫಲಿತಾಂಶ = 1 / 2.",
+      "options": [
+        "1/2",
+        "1",
+        "0",
+        "1/4"
+      ],
+      "answer": "1/2"
+    }
+  },
+  {
+    "id": "c8_math_data_006",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "When an unbiased die is thrown, what is the total number of possible outcomes?",
+      "reasoning": "A die has 6 faces numbered 1, 2, 3, 4, 5, and 6. Therefore, throwing a die results in 6 possible outcomes.",
+      "options": [
+        "6",
+        "1",
+        "12",
+        "2"
+      ],
+      "answer": "6"
+    },
+    "kn": {
+      "question": "ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸಿದಾಗ, ಲಭ್ಯವಿರುವ ಒಟ್ಟು ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
+      "reasoning": "ದಾಳವು 1, 2, 3, 4, 5 ಮತ್ತು 6 ಸಂಖ್ಯೆಗಳನ್ನು ಹೊಂದಿರುವ 6 ಮುಖಗಳನ್ನು ಹೊಂದಿದೆ. ಆದ್ದರಿಂದ, ದಾಳವನ್ನು ಉರುಳಿಸಿದಾಗ 6 ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳು ದೊರೆಯುತ್ತವೆ.",
+      "options": [
+        "6",
+        "1",
+        "12",
+        "2"
+      ],
+      "answer": "6"
+    }
+  },
+  {
+    "id": "c8_math_data_007",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "A circle graph that shows the relationship of parts to a whole is also called a:",
+      "reasoning": "A circle graph, representing components as sectors of a circle, is commonly called a pie chart.",
+      "options": [
+        "Pie chart",
+        "Bar graph",
+        "Histogram",
+        "Line graph"
+      ],
+      "answer": "Pie chart"
+    },
+    "kn": {
+      "question": "ಭಾಗಗಳಿಗೂ ಮತ್ತು ಇಡೀ ಚಿತ್ರಕ್ಕೂ ಇರುವ ಸಂಬಂಧವನ್ನು ತೋರಿಸುವ ವೃತ್ತಾಕಾರದ ನಕ್ಷೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "reasoning": "ಭಾಗಗಳನ್ನು ವೃತ್ತದ ವಲಯಗಳಾಗಿ ಪ್ರತಿನಿಧಿಸುವ ವೃತ್ತಾಕಾರದ ನಕ್ಷೆಯನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ವೃತ್ತ ನಕ್ಷೆ (pie chart) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+      "options": [
+        "ವೃತ್ತ ನಕ್ಷೆ",
+        "ಸ್ತಂಭ ಲೇಖಚಿತ್ರ",
+        "ಆಯತಚಿತ್ರ",
+        "ರೇಖಾ ನಕ್ಷೆ"
+      ],
+      "answer": "ವೃತ್ತ ನಕ್ಷೆ"
+    }
+  },
+  {
+    "id": "c8_math_data_img_008",
+    "difficulty": 1,
+    "type": "image_single",
+    "en": {
+      "question": "Based on the pie chart in the image, what is the central angle for the sector representing Food?",
+      "reasoning": "The total central angle of a circle is 360°. The Food sector represents 50% of the total. Therefore, its central angle is 50% of 360° = (50/100) * 360° = 180°.",
+      "options": [
+        "180°",
+        "90°",
+        "120°",
+        "270°"
+      ],
+      "answer": "180°"
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿರುವ ವೃತ್ತ ನಕ್ಷೆಯ ಆಧಾರದ ಮೇಲೆ, ಆಹಾರವನ್ನು ಪ್ರತಿನಿಧಿಸುವ ವಲಯದ ಕೇಂದ್ರ ಕೋನ ಎಷ್ಟು?",
+      "reasoning": "ವೃತ್ತದ ಒಟ್ಟು ಕೇಂದ್ರ ಕೋನ 360° ಆಗಿರುತ್ತದೆ. ಆಹಾರ ವಲಯವು ಒಟ್ಟು ಮೊತ್ತದ ಶೇ. 50 ರಷ್ಟನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, ಅದರ ಕೇಂದ್ರ ಕೋನವು 360° ರ ಶೇ. 50 = (50/100) * 360° = 180°.",
+      "options": [
+        "180°",
+        "90°",
+        "120°",
+        "270°"
+      ],
+      "answer": "180°"
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"80\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M100,100 L20,100 A80,80 0 0,1 180,100 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><path d=\"M100,100 L180,100 A80,80 0 0,1 100,180 Z\" fill=\"#FFF\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><path d=\"M100,100 L100,180 A80,80 0 0,1 20,100 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><text x=\"100\" y=\"60\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">Food (50%)</text><text x=\"140\" y=\"130\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Rent (25%)</text><text x=\"60\" y=\"130\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Saving (25%)</text></svg>",
+      "alt": {
+        "en": "A pie chart showing three categories: Food (50 percent), Rent (25 percent), and Saving (25 percent).",
+        "kn": "ಮೂರು ವಿಭಾಗಗಳನ್ನು ತೋರಿಸುವ ವೃತ್ತ ನಕ್ಷೆ: ಆಹಾರ (50 ಶೇಕಡಾ), ಬಾಡಿಗೆ (25 ಶೇಕಡಾ), ಮತ್ತು ಉಳಿತಾಯ (25 ಶೇಕಡಾ)."
+      }
+    }
+  },
+  {
+    "id": "c8_math_data_img_009",
+    "difficulty": 1,
+    "type": "image_single",
+    "en": {
+      "question": "If you spin the wheel shown in the image, what is the probability of the pointer landing on Green?",
+      "reasoning": "The wheel is divided into 4 equal sectors, so the total number of outcomes is 4. There is 1 sector labeled Green. The probability of landing on Green is: 1 / 4.",
+      "options": [
+        "1/4",
+        "1/2",
+        "3/4",
+        "1"
+      ],
+      "answer": "1/4"
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಚಕ್ರವನ್ನು ತಿರುಗಿಸಿದರೆ, ಸೂಚಿ ಹಸಿರು ಬಣ್ಣದ ಮೇಲೆ ನಿಲ್ಲುವ ಸಂಭವನೀಯತೆ ಎಷ್ಟು?",
+      "reasoning": "ಚಕ್ರವನ್ನು 4 ಸಮಾನ ವಲಯಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ, ಆದ್ದರಿಂದ ಒಟ್ಟು ಫಲಿತಾಂಶಗಳ ಸಂಖ್ಯೆ 4. ಹಸಿರು ಬಣ್ಣದ 1 ವಲಯವಿದೆ. ಹಸಿರು ಮೇಲೆ ನಿಲ್ಲುವ ಸಂಭವನೀಯತೆ: 1 / 4.",
+      "options": [
+        "1/4",
+        "1/2",
+        "3/4",
+        "1"
+      ],
+      "answer": "1/4"
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"80\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M100,100 L100,20 A80,80 0 0,1 180,100 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><text x=\"135\" y=\"65\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Red</text><path d=\"M100,100 L180,100 A80,80 0 0,1 100,180 Z\" fill=\"#FFF\" stroke=\"#2563EB\" stroke-width=\"1\"/><text x=\"135\" y=\"135\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Blue</text><path d=\"M100,100 L100,180 A80,80 0 0,1 20,100 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><text x=\"65\" y=\"135\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Green</text><path d=\"M100,100 L20,100 A80,80 0 0,1 100,20 Z\" fill=\"#FFF\" stroke=\"#2563EB\" stroke-width=\"1\"/><text x=\"65\" y=\"65\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Yellow</text><polygon points=\"100,100 100,40 105,45 95,45\" fill=\"#059669\"/><circle cx=\"100\" cy=\"100\" r=\"8\" fill=\"#059669\"/></svg>",
+      "alt": {
+        "en": "A spinning wheel divided into 4 equal sectors labeled Red, Blue, Green, and Yellow.",
+        "kn": "ಕೆಂಪು, ನೀಲಿ, ಹಸಿರು ಮತ್ತು ಹಳದಿ ಎಂದು ಗುರುತಿಸಲಾದ 4 ಸಮಾನ ವಲಯಗಳಿರುವ ಒಂದು ಗಾಳಿಚಕ್ರ."
+      }
+    }
+  },
+  {
+    "id": "c8_math_data_010",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following graphs are commonly used to represent grouped data distributions?",
+      "reasoning": "Histograms, pie charts, and frequency polygons are designed to represent grouped data or continuous frequency distributions. Pictographs represent discrete, ungrouped data points.",
+      "options": [
+        "Histogram",
+        "Pie chart",
+        "Frequency polygon",
+        "Pictograph"
+      ],
+      "answer": [
+        "Histogram",
+        "Pie chart",
+        "Frequency polygon"
+      ]
+    },
+    "kn": {
+      "question": "ವರ್ಗೀಕೃತ ದತ್ತಾಂಶ ವಿತರಣೆಗಳನ್ನು ಪ್ರತಿನಿಧಿಸಲು ಸಾಮಾನ್ಯವಾಗಿ ಕೆಳಗಿನ ಯಾವ ನಕ್ಷೆಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "reasoning": "ಆಯತಚಿತ್ರಗಳು, ವೃತ್ತ ನಕ್ಷೆಗಳು ಮತ್ತು ಆವೃತ್ತಿ ಬಹುಭುಜಾಕೃತಿಗಳನ್ನು ವರ್ಗೀಕೃತ ದತ್ತಾಂಶ ಅಥವಾ ನಿರಂತರ ಆವೃತ್ತಿ ವಿತರಣೆಗಳನ್ನು ಪ್ರತಿನಿಧಿಸಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ. ಚಿತ್ರಲೇಖವು ವರ್ಗೀಕರಿಸದ ಪ್ರತ್ಯೇಕ ದತ್ತಾಂಶಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+      "options": [
+        "ಆಯತಚಿತ್ರ",
+        "ವೃತ್ತ ನಕ್ಷೆ",
+        "ಆವೃತ್ತಿ ಬಹುಭುಜಾಕೃತಿ",
+        "ಚಿತ್ರಲೇಖ"
+      ],
+      "answer": [
+        "ಆಯತಚಿತ್ರ",
+        "ವೃತ್ತ ನಕ್ಷೆ",
+        "ಆವೃತ್ತಿ ಬಹುಭುಜಾಕೃತಿ"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_data_011",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "For the class interval 20-30, what is the upper class limit?",
+      "reasoning": "In a class interval, the lower number is the lower class limit and the higher number is the upper class limit. For 20-30, the upper limit is 30.",
+      "options": [
+        "30",
+        "20",
+        "25",
+        "10"
+      ],
+      "answer": "30"
+    },
+    "kn": {
+      "question": "ವರ್ಗಾಂತರ 20-30 ಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ, ಮೇಲ್ಮಿತಿ (upper class limit) ಯಾವುದು?",
+      "reasoning": "ವರ್ಗಾಂತರದಲ್ಲಿ, ಚಿಕ್ಕ ಸಂಖ್ಯೆಯು ಕೆಳಮಿತಿ ಮತ್ತು ದೊಡ್ಡ ಸಂಖ್ಯೆಯು ಮೇಲ್ಮಿತಿಯಾಗಿರುತ್ತದೆ. 20-30 ಕ್ಕೆ ಮೇಲ್ಮಿತಿ 30 ಆಗಿದೆ.",
+      "options": [
+        "30",
+        "20",
+        "25",
+        "10"
+      ],
+      "answer": "30"
+    }
+  },
+  {
+    "id": "c8_math_data_012",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "For the class interval 20-30, what is the class size?",
+      "reasoning": "Class size (or width) is the difference between the upper class limit and the lower class limit. Class size = 30 - 20 = 10.",
+      "options": [
+        "10",
+        "25",
+        "20",
+        "30"
+      ],
+      "answer": "10"
+    },
+    "kn": {
+      "question": "ವರ್ಗಾಂತರ 20-30 ರ ವರ್ಗ ಗಾತ್ರ (class size) ಎಷ್ಟು?",
+      "reasoning": "ವರ್ಗ ಗಾತ್ರವು ಮೇಲ್ಮಿತಿ ಮತ್ತು ಕೆಳಮಿತಿಯ ನಡುವಿನ ವ್ಯತ್ಯಾಸವಾಗಿದೆ. ವರ್ಗ ಗಾತ್ರ = 30 - 20 = 10.",
+      "options": [
+        "10",
+        "25",
+        "20",
+        "30"
+      ],
+      "answer": "10"
+    }
+  },
+  {
+    "id": "c8_math_data_013",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What is the probability of getting an even number when a standard six-sided die is rolled?",
+      "reasoning": "The possible outcomes are {1, 2, 3, 4, 5, 6} (total 6 outcomes). Even numbers are {2, 4, 6} (3 favorable outcomes). Probability = 3 / 6 = 1/2.",
+      "options": [
+        "1/2",
+        "1/3",
+        "2/3",
+        "1/6"
+      ],
+      "answer": "1/2"
+    },
+    "kn": {
+      "question": "ಒಂದು ಆರು ಮುಖಗಳ ಸಾಮಾನ್ಯ ದಾಳವನ್ನು ಉರುಳಿಸಿದಾಗ ಸಮ ಸಂಖ್ಯೆ ಬೀಳುವ ಸಂಭವನೀಯತೆ ಎಷ್ಟು?",
+      "reasoning": "ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳು {1, 2, 3, 4, 5, 6} (ಒಟ್ಟು 6 ಫಲಿತಾಂಶಗಳು). ಸಮ ಸಂಖ್ಯೆಗಳು {2, 4, 6} (3 ಅನುಕೂಲಕರ ಫಲಿತಾಂಶಗಳು). ಸಂಭವನೀಯತೆ = 3 / 6 = 1/2.",
+      "options": [
+        "1/2",
+        "1/3",
+        "2/3",
+        "1/6"
+      ],
+      "answer": "1/2"
+    }
+  },
+  {
+    "id": "c8_math_data_014",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "A bag contains 4 red balls and 6 blue balls. What is the probability of randomly drawing a red ball?",
+      "reasoning": "Total number of balls = 4 (red) + 6 (blue) = 10. Number of red balls (favorable outcomes) = 4. Probability = 4 / 10 = 2 / 5.",
+      "options": [
+        "2/5",
+        "3/5",
+        "4/5",
+        "1/2"
+      ],
+      "answer": "2/5"
+    },
+    "kn": {
+      "question": "ಒಂದು ಚೀಲದಲ್ಲಿ 4 ಕೆಂಪು ಮತ್ತು 6 ನೀಲಿ ಚೆಂಡುಗಳಿವೆ. ಯಾದೃಚ್ಛಿಕವಾಗಿ ಒಂದು ಕೆಂಪು ಚೆಂಡನ್ನು ತೆಗೆಯುವ ಸಂಭವನೀಯತೆ ಎಷ್ಟು?",
+      "reasoning": "ಒಟ್ಟು ಚೆಂಡುಗಳ ಸಂಖ್ಯೆ = 4 (ಕೆಂಪು) + 6 (ನೀಲಿ) = 10. ಕೆಂಪು ಚೆಂಡುಗಳ ಸಂಖ್ಯೆ (ಅನುಕೂಲಕರ ಫಲಿತಾಂಶ) = 4. ಸಂಭವನೀಯತೆ = 4 / 10 = 2 / 5.",
+      "options": [
+        "2/5",
+        "3/5",
+        "4/5",
+        "1/2"
+      ],
+      "answer": "2/5"
+    }
+  },
+  {
+    "id": "c8_math_data_015",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "In a pie chart, if a category represents 20% of the total data, what is the central angle for its sector?",
+      "reasoning": "The total central angle is 360°. Since the sector represents 20% of the data, the central angle is: 20% of 360° = (20/100) * 360° = 72°.",
+      "options": [
+        "72°",
+        "36°",
+        "54°",
+        "90°"
+      ],
+      "answer": "72°"
+    },
+    "kn": {
+      "question": "ವೃತ್ತ ನಕ್ಷೆಯಲ್ಲಿ, ಒಂದು ವರ್ಗವು ಒಟ್ಟು ದತ್ತಾಂಶದ ಶೇ. 20 ರಷ್ಟನ್ನು ಪ್ರತಿನಿಧಿಸಿದರೆ, ಅದರ ವಲಯದ ಕೇಂದ್ರ ಕೋನ ಎಷ್ಟು?",
+      "reasoning": "ಒಟ್ಟು ಕೇಂದ್ರ ಕೋನ 360° ಆಗಿದೆ. ವಲಯವು ಶೇ. 20 ರಷ್ಟನ್ನು ಪ್ರತಿನಿಧಿಸುವುದರಿಂದ, ಕೇಂದ್ರ ಕೋನವು: 360° ರ ಶೇ. 20 = (20/100) * 360° = 72°.",
+      "options": [
+        "72°",
+        "36°",
+        "54°",
+        "90°"
+      ],
+      "answer": "72°"
+    }
+  },
+  {
+    "id": "c8_math_data_img_016",
+    "difficulty": 2,
+    "type": "image_single",
+    "en": {
+      "question": "Based on the double bar graph in the image, by how many marks did the student improve in Mathematics from Term 1 to Term 2?",
+      "reasoning": "The student scored 80 marks in Term 1 and 90 marks in Term 2 for Mathematics. The improvement is: 90 - 80 = 10 marks.",
+      "options": [
+        "10 marks",
+        "20 marks",
+        "5 marks",
+        "15 marks"
+      ],
+      "answer": "10 marks"
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿರುವ ದ್ವಿ ಸ್ತಂಭ ನಕ್ಷೆಯ ಆಧಾರದ ಮೇಲೆ, ವಿದ್ಯಾರ್ಥಿಯು ಗಣಿತದಲ್ಲಿ ಸೆಮಿಸ್ಟರ್ 1 ರಿಂದ ಸೆಮಿಸ್ಟರ್ 2 ಕ್ಕೆ ಎಷ್ಟು ಅಂಕಗಳ ಸುಧಾರಣೆ ಕಂಡಿದ್ದಾನೆ?",
+      "reasoning": "ವಿದ್ಯಾರ್ಥಿಯು ಗಣಿತದಲ್ಲಿ ಸೆಮಿಸ್ಟರ್ 1 ರಲ್ಲಿ 80 ಅಂಕಗಳನ್ನು ಮತ್ತು ಸೆಮಿಸ್ಟರ್ 2 ರಲ್ಲಿ 90 ಅಂಕಗಳನ್ನು ಗಳಿಸಿದ್ದಾನೆ. ಸುಧಾರಣೆ: 90 - 80 = 10 ಅಂಕಗಳು.",
+      "options": [
+        "10 ಅಂಕಗಳು",
+        "20 ಅಂಕಗಳು",
+        "5 ಅಂಕಗಳು",
+        "15 ಅಂಕಗಳು"
+      ],
+      "answer": "10 ಅಂಕಗಳು"
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><line x1=\"40\" y1=\"20\" x2=\"40\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"40\" y1=\"160\" x2=\"280\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"35\" y=\"160\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"end\">0</text><text x=\"35\" y=\"120\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"end\">40</text><text x=\"35\" y=\"80\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"end\">80</text><text x=\"35\" y=\"40\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"end\">120</text><rect x=\"70\" y=\"80\" width=\"20\" height=\"80\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><rect x=\"90\" y=\"70\" width=\"20\" height=\"90\" fill=\"#059669\" stroke=\"#2563EB\" stroke-width=\"1\"/><text x=\"90\" y=\"175\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Maths</text><rect x=\"150\" y=\"90\" width=\"20\" height=\"70\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><rect x=\"170\" y=\"85\" width=\"20\" height=\"75\" fill=\"#059669\" stroke=\"#2563EB\" stroke-width=\"1\"/><text x=\"170\" y=\"175\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Science</text><rect x=\"210\" y=\"20\" width=\"12\" height=\"12\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><text x=\"230\" y=\"30\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\">Term 1</text><rect x=\"210\" y=\"40\" width=\"12\" height=\"12\" fill=\"#059669\" stroke=\"#2563EB\" stroke-width=\"1\"/><text x=\"230\" y=\"50\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\">Term 2</text></svg>",
+      "alt": {
+        "en": "A double bar graph showing Term 1 (80 marks) and Term 2 (90 marks) scores for Maths, and Term 1 (70 marks) and Term 2 (75 marks) scores for Science.",
+        "kn": "ಗಣಿತದಲ್ಲಿ ಸೆಮಿಸ್ಟರ್ 1 (80 ಅಂಕಗಳು) ಮತ್ತು ಸೆಮಿಸ್ಟರ್ 2 (90 ಅಂಕಗಳು) ಹಾಗೂ ವಿಜ್ಞಾನದಲ್ಲಿ ಸೆಮಿಸ್ಟರ್ 1 (70 ಅಂಕಗಳು) ಮತ್ತು ಸೆಮಿಸ್ಟರ್ 2 (75 ಅಂಕಗಳು) ಅಂಕಗಳನ್ನು ತೋರಿಸುವ ದ್ವಿ ಸ್ತಂಭ ನಕ್ಷೆ."
+      }
+    }
+  },
+  {
+    "id": "c8_math_data_img_017",
+    "difficulty": 2,
+    "type": "image_single",
+    "en": {
+      "question": "Using the histogram in the image, how many teachers are in the age group of 30 to 40 years?",
+      "reasoning": "The age group 30-40 consists of two class intervals: 30-35 (frequency = 12) and 35-40 (frequency = 8). The total number of teachers is 12 + 8 = 20.",
+      "options": [
+        "20",
+        "12",
+        "8",
+        "4"
+      ],
+      "answer": "20"
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿರುವ ಆಯತಚಿತ್ರವನ್ನು ಬಳಸಿ, 30 ರಿಂದ 40 ವರ್ಷ ವಯಸ್ಸಿನ ಗುಂಪಿನಲ್ಲಿರುವ ಶಿಕ್ಷಕರ ಒಟ್ಟು ಸಂಖ್ಯೆ ಎಷ್ಟು?",
+      "reasoning": "30-40 ವಯಸ್ಸಿನ ಗುಂಪು ಎರಡು ವರ್ಗಾಂತರಗಳನ್ನು ಒಳಗೊಂಡಿದೆ: 30-35 (ಆವೃತ್ತಿ = 12) ಮತ್ತು 35-40 (ಆವೃತ್ತಿ = 8). ಶಿಕ್ಷಕರ ಒಟ್ಟು ಸಂಖ್ಯೆ = 12 + 8 = 20.",
+      "options": [
+        "20",
+        "12",
+        "8",
+        "4"
+      ],
+      "answer": "20"
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><line x1=\"40\" y1=\"20\" x2=\"40\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"40\" y1=\"160\" x2=\"280\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"35\" y=\"160\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"end\">0</text><text x=\"35\" y=\"120\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"end\">4</text><text x=\"35\" y=\"80\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"end\">8</text><text x=\"35\" y=\"40\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"end\">12</text><rect x=\"50\" y=\"110\" width=\"40\" height=\"50\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><rect x=\"90\" y=\"40\" width=\"40\" height=\"120\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><rect x=\"130\" y=\"80\" width=\"40\" height=\"80\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><rect x=\"170\" y=\"120\" width=\"40\" height=\"40\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><text x=\"50\" y=\"175\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"middle\">25</text><text x=\"90\" y=\"175\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"middle\">30</text><text x=\"130\" y=\"175\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"middle\">35</text><text x=\"170\" y=\"175\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"middle\">40</text><text x=\"210\" y=\"175\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\" text-anchor=\"middle\">45</text><text x=\"150\" y=\"195\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"12\" text-anchor=\"middle\">Ages of Teachers</text></svg>",
+      "alt": {
+        "en": "A histogram showing teacher ages: 25-30 has 5, 30-35 has 12, 35-40 has 8, and 40-45 has 4.",
+        "kn": "ಶಿಕ್ಷಕರ ವಯಸ್ಸನ್ನು ತೋರಿಸುವ ಆಯತಚಿತ್ರ: 25-30 ವಯಸ್ಸಿನ 5, 30-35 ವಯಸ್ಸಿನ 12, 35-40 ವಯಸ್ಸಿನ 8, ಮತ್ತು 40-45 ವಯಸ್ಸಿನ 4 ಜನರಿದ್ದಾರೆ."
+      }
+    }
+  },
+  {
+    "id": "c8_math_data_img_018",
+    "difficulty": 2,
+    "type": "image_multiple",
+    "en": {
+      "question": "Select the correct probability statements for spinning the wheel shown in the image.",
+      "reasoning": "There are 8 equal sectors: 3 Red (R), 3 Blue (B), and 2 Green (G). Probability of Red = 3/8; Blue = 3/8; Green = 2/8 = 1/4. Thus, all four options are correct since 2/8 and 1/4 are equivalent fractions.",
+      "options": [
+        "Probability of landing on Red is 3/8",
+        "Probability of landing on Blue is 3/8",
+        "Probability of landing on Green is 1/4",
+        "Probability of landing on Green is 2/8"
+      ],
+      "answer": [
+        "Probability of landing on Red is 3/8",
+        "Probability of landing on Blue is 3/8",
+        "Probability of landing on Green is 1/4",
+        "Probability of landing on Green is 2/8"
+      ]
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಚಕ್ರವನ್ನು ತಿರುಗಿಸುವಾಗ ಸರಿಯಾದ ಸಂಭವನೀಯತೆಯ ಹೇಳಿಕೆಗಳನ್ನು ಆರಿಸಿ.",
+      "reasoning": "ಒಟ್ಟು 8 ವಲಯಗಳಿವೆ: 3 ಕೆಂಪು (R), 3 ನೀಲಿ (B) ಮತ್ತು 2 ಹಸಿರು (G). ಕೆಂಪು ಬಣ್ಣದ ಸಂಭವನೀಯತೆ = 3/8; ನೀಲಿ = 3/8; ಹಸಿರು = 2/8 = 1/4. ಆದ್ದರಿಂದ ನಾಲ್ಕೂ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ ಏಕೆಂದರೆ 2/8 ಮತ್ತು 1/4 ಸಮಾನ ಭಿನ್ನರಾಶಿಗಳಾಗಿವೆ.",
+      "options": [
+        "ಕೆಂಪು ಬಣ್ಣದ ಮೇಲೆ ನಿಲ್ಲುವ ಸಂಭವನೀಯತೆ 3/8 ಆಗಿದೆ",
+        "ನೀಲಿ ಬಣ್ಣದ ಮೇಲೆ ನಿಲ್ಲುವ ಸಂಭವನೀಯತೆ 3/8 ಆಗಿದೆ",
+        "ಹಸಿರು ಬಣ್ಣದ ಮೇಲೆ ನಿಲ್ಲುವ ಸಂಭವನೀಯತೆ 1/4 ಆಗಿದೆ",
+        "ಹಸಿರು ಬಣ್ಣದ ಮೇಲೆ ನಿಲ್ಲುವ ಸಂಭವನೀಯತೆ 2/8 ಆಗಿದೆ"
+      ],
+      "answer": [
+        "ಕೆಂಪು ಬಣ್ಣದ ಮೇಲೆ ನಿಲ್ಲುವ ಸಂಭವನೀಯತೆ 3/8 ಆಗಿದೆ",
+        "ನೀಲಿ ಬಣ್ಣದ ಮೇಲೆ ನಿಲ್ಲುವ ಸಂಭವನೀಯತೆ 3/8 ಆಗಿದೆ",
+        "ಹಸಿರು ಬಣ್ಣದ ಮೇಲೆ ನಿಲ್ಲುವ ಸಂಭವನೀಯತೆ 1/4 ಆಗಿದೆ",
+        "ಹಸಿರು ಬಣ್ಣದ ಮೇಲೆ ನಿಲ್ಲುವ ಸಂಭವನೀಯತೆ 2/8 ಆಗಿದೆ"
+      ]
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"80\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M100,100 L180,100 A80,80 0 0,1 156.5,156.5 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><path d=\"M100,100 L156.5,156.5 A80,80 0 0,1 100,180 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><path d=\"M100,100 L100,180 A80,80 0 0,1 43.4,156.5 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><path d=\"M100,100 L43.4,156.5 A80,80 0 0,1 20,100 Z\" fill=\"#FFF\" stroke=\"#2563EB\" stroke-width=\"1\"/><path d=\"M100,100 L20,100 A80,80 0 0,1 43.4,43.4 Z\" fill=\"#FFF\" stroke=\"#2563EB\" stroke-width=\"1\"/><path d=\"M100,100 L43.4,43.4 A80,80 0 0,1 100,20 Z\" fill=\"#FFF\" stroke=\"#2563EB\" stroke-width=\"1\"/><path d=\"M100,100 L100,20 A80,80 0 0,1 156.5,43.4 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><path d=\"M100,100 L156.5,43.4 A80,80 0 0,1 180,100 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><text x=\"140\" y=\"115\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\">R</text><text x=\"120\" y=\"140\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\">R</text><text x=\"80\" y=\"140\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"10\">R</text><text x=\"60\" y=\"115\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\">B</text><text x=\"60\" y=\"80\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\">B</text><text x=\"80\" y=\"60\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"10\">B</text><text x=\"120\" y=\"60\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"10\">G</text><text x=\"140\" y=\"80\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"10\">G</text><polygon points=\"100,100 100,40 105,45 95,45\" fill=\"#EA580C\"/><circle cx=\"100\" cy=\"100\" r=\"6\" fill=\"#EA580C\"/></svg>",
+      "alt": {
+        "en": "Spin-wheel divided into 8 equal sectors with labels: 3 sectors labeled R (Red), 3 labeled B (Blue), and 2 labeled G (Green).",
+        "kn": "8 ಸಮಾನ ವಲಯಗಳಿರುವ ಒಂದು ತಿರುಗುವ ಚಕ್ರ. ಇದರಲ್ಲಿ R (ಕೆಂಪು) ಎಂದು ಬರೆದಿರುವ 3 ವಲಯಗಳು, B (ನೀಲಿ) ಎಂದು ಬರೆದಿರುವ 3 ವಲಯಗಳು ಮತ್ತು G (ಹಸಿರು) ಎಂದು ಬರೆದಿರುವ 2 ವಲಯಗಳಿವೆ."
+      }
+    }
+  },
+  {
+    "id": "c8_math_data_019",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "When two fair coins are tossed simultaneously, which of the following are possible outcomes in the sample space?",
+      "reasoning": "When two coins are tossed, there are 2 * 2 = 4 outcomes: HH, HT, TH, and TT. 'TTT' is an outcome for tossing three coins, so it is not in the sample space of two coins.",
+      "options": [
+        "Head-Head (HH)",
+        "Head-Tail (HT)",
+        "Tail-Head (TH)",
+        "Tail-Tail-Tail (TTT)"
+      ],
+      "answer": [
+        "Head-Head (HH)",
+        "Head-Tail (HT)",
+        "Tail-Head (TH)"
+      ]
+    },
+    "kn": {
+      "question": "ಎರಡು ನಾಣ್ಯಗಳನ್ನು ಏಕಕಾಲದಲ್ಲಿ ಚಿಮ್ಮಿದಾಗ, ಮಾದರಿ ಆವರಣದಲ್ಲಿ (sample space) ಕೆಳಗಿನ ಯಾವ ಫಲಿತಾಂಶಗಳು ಸಾಧ್ಯವಾಗಿವೆ?",
+      "reasoning": "ಎರಡು ನಾಣ್ಯಗಳನ್ನು ಚಿಮ್ಮಿದಾಗ 2 * 2 = 4 ಫಲಿತಾಂಶಗಳು ದೊರೆಯುತ್ತವೆ: HH, HT, TH ಮತ್ತು TT. 'TTT' ಮೂರು ನಾಣ್ಯಗಳನ್ನು ಚಿಮ್ಮಿದಾಗ ಬರುವ ಫಲಿತಾಂಶವಾಗಿದೆ.",
+      "options": [
+        "ಶಿರ-ಶಿರ (HH)",
+        "ಶಿರ-ಪುಚ್ಛ (HT)",
+        "ಪುಚ್ಛ-ಶಿರ (TH)",
+        "ಪುಚ್ಛ-ಪುಚ್ಛ-ಪುಚ್ಛ (TTT)"
+      ],
+      "answer": [
+        "ಶಿರ-ಶಿರ (HH)",
+        "ಶಿರ-ಪುಚ್ಛ (HT)",
+        "ಪುಚ್ಛ-ಶಿರ (TH)"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_data_020",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following are examples of random experiments?",
+      "reasoning": "A random experiment is an experiment where the outcome cannot be predicted with certainty. Coin tosses, die rolls, and card draws are random. Boiling water at 100°C is deterministic because we know it will boil, so it is not a random experiment.",
+      "options": [
+        "Tossing a fair coin to see if it lands Heads or Tails",
+        "Rolling a standard six-sided die to see which face turns up",
+        "Drawing a card from a well-shuffled deck of playing cards",
+        "Heating water to 100°C under normal pressure to see if it boils"
+      ],
+      "answer": [
+        "Tossing a fair coin to see if it lands Heads or Tails",
+        "Rolling a standard six-sided die to see which face turns up",
+        "Drawing a card from a well-shuffled deck of playing cards"
+      ]
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಯಾದೃಚ್ಛಿಕ ಪ್ರಯೋಗಗಳಿಗೆ (random experiments) ಉದಾಹರಣೆಗಳಾಗಿವೆ?",
+      "reasoning": "ಯಾದೃಚ್ಛಿಕ ಪ್ರಯೋಗವೆಂದರೆ ಫಲಿತಾಂಶವನ್ನು ಖಚಿತವಾಗಿ ಊಹಿಸಲು ಸಾಧ್ಯವಿಲ್ಲದ ಪ್ರಯೋಗವಾಗಿದೆ. ನಾಣ್ಯ ಚಿಮ್ಮುವುದು, ದಾಳ ಉರುಳಿಸುವುದು ಮತ್ತು ಎಲೆ ಆರಿಸುವುದು ಯಾದೃಚ್ಛಿಕವಾಗಿವೆ. 100°C ನಲ್ಲಿ ನೀರು ಕುದಿಯುವುದು ಖಚಿತವಾದ ಫಲಿತಾಂಶವಾಗಿದೆ.",
+      "options": [
+        "ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮಿ ಶಿರ ಅಥವಾ ಪುಚ್ಛ ಬೀಳುತ್ತದೆಯೇ ಎಂದು ನೋಡುವುದು",
+        "ದಾಳವನ್ನು ಉರುಳಿಸಿ ಯಾವ ಮುಖ ಮೇಲಕ್ಕೆ ಬರುತ್ತದೆ ಎಂದು ನೋಡುವುದು",
+        "ಚೆನ್ನಾಗಿ ಬೆರೆಸಿದ ಇಸ್ಪೀಟ್ ಎಲೆಗಳ ಕಟ್ಟುಗಳಿಂದ ಒಂದು ಎಲೆಯನ್ನು ಆರಿಸುವುದು",
+        "ಸಾಮಾನ್ಯ ಒತ್ತಡದಲ್ಲಿ ನೀರನ್ನು 100°C ಗೆ ಕಾಯಿಸಿ ಕುದಿಯುತ್ತದೆಯೇ ಎಂದು ನೋಡುವುದು"
+      ],
+      "answer": [
+        "ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮಿ ಶಿರ ಅಥವಾ ಪುಚ್ಛ ಬೀಳುತ್ತದೆಯೇ ಎಂದು ನೋಡುವುದು",
+        "ದಾಳವನ್ನು ಉರುಳಿಸಿ ಯಾವ ಮುಖ ಮೇಲಕ್ಕೆ ಬರುತ್ತದೆ ಎಂದು ನೋಡುವುದು",
+        "ಚೆನ್ನಾಗಿ ಬೆರೆಸಿದ ಇಸ್ಪೀಟ್ ಎಲೆಗಳ ಕಟ್ಟುಗಳಿಂದ ಒಂದು ಎಲೆಯನ್ನು ಆರಿಸುವುದು"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_data_021",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "In a class of 40 students, 25 students like Mathematics. If this data is represented on a pie chart, what is the central angle for the sector representing students who do NOT like Mathematics?",
+      "reasoning": "Number of students who do NOT like Maths = 40 - 25 = 15. The fraction is 15/40. The central angle is: (15/40) * 360° = (3/8) * 360° = 3 * 45° = 135°.",
+      "options": [
+        "135°",
+        "225°",
+        "90°",
+        "180°"
+      ],
+      "answer": "135°"
+    },
+    "kn": {
+      "question": "40 ವಿದ್ಯಾರ್ಥಿಗಳಿರುವ ತರಗತಿಯಲ್ಲಿ, 25 ವಿದ್ಯಾರ್ಥಿಗಳು ಗಣಿತವನ್ನು ಇಷ್ಟಪಡುತ್ತಾರೆ. ಈ ದತ್ತಾಂಶವನ್ನು ವೃತ್ತ ನಕ್ಷೆಯಲ್ಲಿ ಪ್ರತಿನಿಧಿಸಿದರೆ, ಗಣಿತವನ್ನು ಇಷ್ಟಪಡದ ವಿದ್ಯಾರ್ಥಿಗಳ ವಲಯದ ಕೇಂದ್ರ ಕೋನ ಎಷ್ಟು?",
+      "reasoning": "ಗಣಿತ ಇಷ್ಟಪಡದ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆ = 40 - 25 = 15. ಭಿನ್ನರಾಶಿ 15/40 ಆಗಿದೆ. ಕೇಂದ್ರ ಕೋನ = (15/40) * 360° = (3/8) * 360° = 3 * 45° = 135°.",
+      "options": [
+        "135°",
+        "225°",
+        "90°",
+        "180°"
+      ],
+      "answer": "135°"
+    }
+  },
+  {
+    "id": "c8_math_data_022",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "When a card is drawn from a well-shuffled pack of 52 playing cards, what is the probability of getting a red king?",
+      "reasoning": "A pack of 52 cards contains 26 red cards and 26 black cards. There are 4 kings in total, of which 2 are red (King of Hearts, King of Diamonds). Probability = 2 / 52 = 1 / 26.",
+      "options": [
+        "1/26",
+        "1/13",
+        "1/52",
+        "2/13"
+      ],
+      "answer": "1/26"
+    },
+    "kn": {
+      "question": "ಚೆನ್ನಾಗಿ ಬೆರೆಸಿದ 52 ಇಸ್ಪೀಟ್ ಎಲೆಗಳ ಕಟ್ಟುಗಳಿಂದ ಒಂದು ಎಲೆಯನ್ನು ಆರಿಸಿದಾಗ, ಕೆಂಪು ರಾಜ (red king) ದೊರೆಯುವ ಸಂಭವನೀಯತೆ ಎಷ್ಟು?",
+      "reasoning": "52 ಎಲೆಗಳ ಕಟ್ಟುಗಳಲ್ಲಿ 26 ಕೆಂಪು ಮತ್ತು 26 ಕಪ್ಪು ಎಲೆಗಳಿರುತ್ತವೆ. ಒಟ್ಟು 4 ರಾಜರಿದ್ದು, ಅವರಲ್ಲಿ 2 ಕೆಂಪು ರಾಜರು (ಹಾರ್ಟ್ಸ್ ಮತ್ತು ಡೈಮಂಡ್ಸ್ ರಾಜರು). ಸಂಭವನೀಯತೆ = 2 / 52 = 1 / 26.",
+      "options": [
+        "1/26",
+        "1/13",
+        "1/52",
+        "2/13"
+      ],
+      "answer": "1/26"
+    }
+  },
+  {
+    "id": "c8_math_data_023",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "A standard six-sided die is thrown once. Which of the following events have a probability of exactly 1/2?",
+      "reasoning": "Outcomes are {1, 2, 3, 4, 5, 6} (6 outcomes). Prime numbers are {2, 3, 5} (prob = 3/6 = 1/2); odd numbers are {1, 3, 5} (prob = 3/6 = 1/2); even numbers are {2, 4, 6} (prob = 3/6 = 1/2). Numbers greater than 4 are {5, 6} (prob = 2/6 = 1/3).",
+      "options": [
+        "Getting a prime number",
+        "Getting an odd number",
+        "Getting an even number",
+        "Getting a number greater than 4"
+      ],
+      "answer": [
+        "Getting a prime number",
+        "Getting an odd number",
+        "Getting an even number"
+      ]
+    },
+    "kn": {
+      "question": "ಒಂದು ದಾಳವನ್ನು ಒಮ್ಮೆ ಉರುಳಿಸಲಾಗುತ್ತದೆ. ಕೆಳಗಿನ ಯಾವ ಘಟನೆಗಳು ನಿಖರವಾಗಿ 1/2 ರಷ್ಟು ಸಂಭವನೀಯತೆಯನ್ನು ಹೊಂದಿವೆ?",
+      "reasoning": "ಒಟ್ಟು ಫಲಿತಾಂಶಗಳು {1, 2, 3, 4, 5, 6} (6 ಫಲಿತಾಂಶಗಳು). ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು {2, 3, 5} (ಸಂಭವನೀಯತೆ = 3/6 = 1/2); ಬೆಸ ಸಂಖ್ಯೆಗಳು {1, 3, 5} (ಸಂಭವನೀಯತೆ = 1/2); ಸಮ ಸಂಖ್ಯೆಗಳು {2, 4, 6} (ಸಂಭವನೀಯತೆ = 1/2). 4 ಕ್ಕಿಂತ ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳು {5, 6} (ಸಂಭವನೀಯತೆ = 2/6 = 1/3).",
+      "options": [
+        "ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ ಬೀಳುವುದು",
+        "ಬೆಸ ಸಂಖ್ಯೆ ಬೀಳುವುದು",
+        "ಸಮ ಸಂಖ್ಯೆ ಬೀಳುವುದು",
+        "4 ಕ್ಕಿಂತ ದೊಡ್ಡದಾದ ಸಂಖ್ಯೆ ಬೀಳುವುದು"
+      ],
+      "answer": [
+        "ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ ಬೀಳುವುದು",
+        "ಬೆಸ ಸಂಖ್ಯೆ ಬೀಳುವುದು",
+        "ಸಮ ಸಂಖ್ಯೆ ಬೀಳುವುದು"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_data_024",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Select the correct statements about histograms used to represent data.",
+      "reasoning": "All statements are correct. A histogram represents grouped data with contiguous rectangular bars. The width of bars represents class intervals on the x-axis, and the height represents frequency on the y-axis.",
+      "options": [
+        "It is a graphical representation of a grouped frequency distribution",
+        "There are no gaps between consecutive rectangular bars",
+        "Class intervals are represented along the horizontal axis",
+        "Frequencies are represented along the vertical axis"
+      ],
+      "answer": [
+        "It is a graphical representation of a grouped frequency distribution",
+        "There are no gaps between consecutive rectangular bars",
+        "Class intervals are represented along the horizontal axis",
+        "Frequencies are represented along the vertical axis"
+      ]
+    },
+    "kn": {
+      "question": "ದತ್ತಾಂಶಗಳನ್ನು ಪ್ರತಿನಿಧಿಸಲು ಬಳಸುವ ಆಯತಚಿತ್ರಗಳ (histograms) ಬಗ್ಗೆ ಸರಿಯಾದ ಹೇಳಿಕೆಗಳನ್ನು ಆರಿಸಿ.",
+      "reasoning": "ಎಲ್ಲಾ ಹೇಳಿಕೆಗಳೂ ಸರಿಯಾಗಿವೆ. ಆಯತಚಿತ್ರವು ವರ್ಗೀಕೃತ ದತ್ತಾಂಶವನ್ನು ಪರಸ್ಪರ ಅಂಟಿಕೊಂಡಿರುವ ಆಯತಾಕಾರದ ಸ್ತಂಭಗಳಿಂದ ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಸ್ತಂಭಗಳ ಅಗಲ ವರ್ಗಾಂತರಗಳನ್ನು ಮತ್ತು ಎತ್ತರ ಆವೃತ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+      "options": [
+        "ಇದು ವರ್ಗೀಕೃತ ಆವೃತ್ತಿ ವಿತರಣೆಯ ರೇಖಾಚಿತ್ರದ ಪ್ರಾತಿನಿಧ್ಯವಾಗಿದೆ",
+        "ಅನುಕ್ರಮ ಆಯತಾಕಾರದ ಸ್ತಂಭಗಳ ನಡುವೆ ಯಾವುದೇ ಅಂತರವಿರುವುದಿಲ್ಲ",
+        "ವರ್ಗಾಂತರಗಳನ್ನು ಸಮತಲ ಅಕ್ಷದ (horizontal axis) ಉದ್ದಕ್ಕೂ ಪ್ರತಿನಿಧಿಸಲಾಗುತ್ತದೆ",
+        "ಆವೃತ್ತಿಗಳನ್ನು ಲಂಬ ಅಕ್ಷದ (vertical axis) ಉದ್ದಕ್ಕೂ ಪ್ರತಿನಿಧಿಸಲಾಗುತ್ತದೆ"
+      ],
+      "answer": [
+        "ಇದು ವರ್ಗೀಕೃತ ಆವೃತ್ತಿ ವಿತರಣೆಯ ರೇಖಾಚಿತ್ರದ ಪ್ರಾತಿನಿಧ್ಯವಾಗಿದೆ",
+        "ಅನುಕ್ರಮ ಆಯತಾಕಾರದ ಸ್ತಂಭಗಳ ನಡುವೆ ಯಾವುದೇ ಅಂತರವಿರುವುದಿಲ್ಲ",
+        "ವರ್ಗಾಂತರಗಳನ್ನು ಸಮತಲ ಅಕ್ಷದ (horizontal axis) ಉದ್ದಕ್ಕೂ ಪ್ರತಿನಿಧಿಸಲಾಗುತ್ತದೆ",
+        "ಆವೃತ್ತಿಗಳನ್ನು ಲಂಬ ಅಕ್ಷದ (vertical axis) ಉದ್ದಕ್ಕೂ ಪ್ರತಿನಿಧಿಸಲಾಗುತ್ತದೆ"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_data_025",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Two standard six-sided dice are thrown simultaneously. Which of the following outcomes result in a sum of exactly 8?",
+      "reasoning": "The outcomes summing to 8 are: (2, 6), (3, 5), (4, 4), (5, 3), and (6, 2). Since a standard die only has numbers 1 to 6, the outcome (1, 7) is impossible.",
+      "options": [
+        "(2, 6)",
+        "(3, 5)",
+        "(4, 4)",
+        "(1, 7)"
+      ],
+      "answer": [
+        "(2, 6)",
+        "(3, 5)",
+        "(4, 4)"
+      ]
+    },
+    "kn": {
+      "question": "ಎರಡು ಸಾಮಾನ್ಯ ದಾಳಗಳನ್ನು ಏಕಕಾಲದಲ್ಲಿ ಉರುಳಿಸಲಾಗುತ್ತದೆ. ಕೆಳಗಿನ ಯಾವ ಫಲಿತಾಂಶಗಳ ಮೊತ್ತ ನಿಖರವಾಗಿ 8 ಆಗಿರುತ್ತದೆ?",
+      "reasoning": "ಮೊತ್ತ 8 ನೀಡುವ ಫಲಿತಾಂಶಗಳು: (2, 6), (3, 5), (4, 4), (5, 3) ಮತ್ತು (6, 2). ಸಾಮಾನ್ಯ ದಾಳದಲ್ಲಿ ಕೇವಲ 1 ರಿಂದ 6 ಸಂಖ್ಯೆಗಳು ಇರುವುದರಿಂದ, (1, 7) ಫಲಿತಾಂಶ ಸಾಧ್ಯವಿಲ್ಲ.",
+      "options": [
+        "(2, 6)",
+        "(3, 5)",
+        "(4, 4)",
+        "(1, 7)"
+      ],
+      "answer": [
+        "(2, 6)",
+        "(3, 5)",
+        "(4, 4)"
+      ]
+    }
+  },
+  {
+    "id": "c8_math_data_026",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the different graphical representations of data with their correct descriptions.",
+      "reasoning": "Matches graphs to descriptions.",
+      "pairs": [
+        {
+          "left": "Pictograph",
+          "right": "Data representation using pictures or symbols"
+        },
+        {
+          "left": "Bar Graph",
+          "right": "Data representation using bars of uniform width"
+        },
+        {
+          "left": "Double Bar Graph",
+          "right": "Shows two sets of data simultaneously for comparison"
+        },
+        {
+          "left": "Pie Chart",
+          "right": "Shows relationship of parts to a whole using a circle"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ದತ್ತಾಂಶಗಳ ವಿವಿಧ ರೇಖಾಚಿತ್ರ ಪ್ರಾತಿನಿಧ್ಯಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "reasoning": "ರೇಖಾಚಿತ್ರಗಳನ್ನು ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸುತ್ತದೆ.",
+      "pairs": [
+        {
+          "left": "ಚಿತ್ರಲೇಖ",
+          "right": "ಚಿತ್ರಗಳು ಅಥವಾ ಚಿಹ್ನೆಗಳನ್ನು ಬಳಸಿದ ದತ್ತಾಂಶ ಪ್ರಾತಿನಿಧ್ಯ"
+        },
+        {
+          "left": "ಸ್ತಂಭ ಲೇಖಚಿತ್ರ",
+          "right": "ಸಮ ಅಗಲದ ಸ್ತಂಭಗಳನ್ನು ಬಳಸಿದ ದತ್ತಾಂಶ ಪ್ರಾತಿನಿಧ್ಯ"
+        },
+        {
+          "left": "ದ್ವಿ ಸ್ತಂಭ ಲೇಖಚಿತ್ರ",
+          "right": "ಹೋಲಿಕೆಗಾಗಿ ಏಕಕಾಲದಲ್ಲಿ ಎರಡು ದತ್ತಾಂಶ ಗುಂಪುಗಳನ್ನು ತೋರಿಸುತ್ತದೆ"
+        },
+        {
+          "left": "ವೃತ್ತ ನಕ್ಷೆ",
+          "right": "ಭಾಗಗಳಿಗೂ ಇಡೀ ಚಿತ್ರಕ್ಕೂ ಇರುವ ಸಂಬಂಧವನ್ನು ತೋರಿಸುವ ವೃತ್ತ"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c8_math_data_027",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the probability terms with their correct definitions.",
+      "reasoning": "Probability terminology matching.",
+      "pairs": [
+        {
+          "left": "Random Experiment",
+          "right": "Outcomes cannot be predicted with certainty"
+        },
+        {
+          "left": "Event",
+          "right": "An outcome or collection of outcomes of an experiment"
+        },
+        {
+          "left": "Probability of Event",
+          "right": "Favorable outcomes / total possible outcomes"
+        },
+        {
+          "left": "Equally Likely",
+          "right": "Each outcome has the exact same chance of occurring"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಸಂಭವನೀಯತೆಯ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವ್ಯಾಖ್ಯಾನಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "reasoning": "ಸಂಭವನೀಯತೆಯ ಪದಕೋಶದ ಹೊಂದಾಣಿಕೆ.",
+      "pairs": [
+        {
+          "left": "ಯಾದೃಚ್ಛಿಕ ಪ್ರಯೋಗ",
+          "right": "ಫಲಿತಾಂಶಗಳನ್ನು ಖಚಿತವಾಗಿ ಊಹಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ"
+        },
+        {
+          "left": "ಘಟನೆ (Event)",
+          "right": "ಪ್ರಯೋಗದ ಒಂದು ಅಥವಾ ಫಲಿತಾಂಶಗಳ ಸಂಗ್ರಹ"
+        },
+        {
+          "left": "ಘಟನೆಯ ಸಂಭವನೀಯತೆ",
+          "right": "ಅನುಕೂಲಕರ ಫಲಿತಾಂಶಗಳು / ಒಟ್ಟು ಫಲಿತಾಂಶಗಳು"
+        },
+        {
+          "left": "ಸಮ ಸಂಭವನೀಯತೆ",
+          "right": "ಪ್ರತಿ ಫಲಿತಾಂಶಕ್ಕೂ ಸಂಭವಿಸಲು ಸಮಾನ ಅವಕಾಶವಿರುತ್ತದೆ"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c8_math_data_028",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "For the class interval 40-50, match the terms to their correct numerical values.",
+      "reasoning": "Class interval properties calculations.",
+      "pairs": [
+        {
+          "left": "Lower class limit",
+          "right": "40"
+        },
+        {
+          "left": "Upper class limit",
+          "right": "50"
+        },
+        {
+          "left": "Class mark (midpoint)",
+          "right": "45"
+        },
+        {
+          "left": "Class width (size)",
+          "right": "10"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ವರ್ಗಾಂತರ 40-50 ಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ, ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಸಂಖ್ಯಾತ್ಮಕ ಬೆಲೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "reasoning": "ವರ್ಗಾಂತರದ ಗುಣಲಕ್ಷಣಗಳ ಲೆಕ್ಕಾಚಾರ.",
+      "pairs": [
+        {
+          "left": "ವರ್ಗಾಂತರದ ಕೆಳಮಿತಿ",
+          "right": "40"
+        },
+        {
+          "left": "ವರ್ಗಾಂತರದ ಮೇಲ್ಮಿತಿ",
+          "right": "50"
+        },
+        {
+          "left": "ವರ್ಗ ಮಧ್ಯಬಿಂದು",
+          "right": "45"
+        },
+        {
+          "left": "ವರ್ಗ ಗಾತ್ರ",
+          "right": "10"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c8_math_data_029",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the outcomes of rolling a standard six-sided die to their correct mathematical probabilities.",
+      "reasoning": "Die probability outcomes.",
+      "pairs": [
+        {
+          "left": "Getting a 4 on a die",
+          "right": "1/6"
+        },
+        {
+          "left": "Getting a number less than 7",
+          "right": "1"
+        },
+        {
+          "left": "Getting a number greater than 6",
+          "right": "0"
+        },
+        {
+          "left": "Getting an even number",
+          "right": "1/2"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ಸಾಮಾನ್ಯ ದಾಳವನ್ನು ಉರುಳಿಸುವ ವಿವಿಧ ಫಲಿತಾಂಶಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಸಂಭವನೀಯತೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "reasoning": "ದಾಳದ ಸಂಭವನೀಯತೆಯ ಫಲಿತಾಂಶಗಳು.",
+      "pairs": [
+        {
+          "left": "ದಾಳದ ಮೇಲೆ 4 ಬೀಳುವುದು",
+          "right": "1/6"
+        },
+        {
+          "left": "7 ಕ್ಕಿಂತ ಕಡಿಮೆ ಸಂಖ್ಯೆ ಬೀಳುವುದು",
+          "right": "1"
+        },
+        {
+          "left": "6 ಕ್ಕಿಂತ ದೊಡ್ಡ ಸಂಖ್ಯೆ ಬೀಳುವುದು",
+          "right": "0"
+        },
+        {
+          "left": "ಸಮ ಸಂಖ್ಯೆ ಬೀಳುವುದು",
+          "right": "1/2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c8_math_data_030",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the data handling terms to their correct definitions.",
+      "reasoning": "Data terminology definitions.",
+      "pairs": [
+        {
+          "left": "Raw Data",
+          "right": "Unorganized data collected initially"
+        },
+        {
+          "left": "Frequency",
+          "right": "Number of times a specific value occurs"
+        },
+        {
+          "left": "Class Mark",
+          "right": "The mid-point of a class interval"
+        },
+        {
+          "left": "Range",
+          "right": "Difference between highest and lowest values"
+        }
+      ]
+    },
+    "kn": {
+      "question": "ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆಯ ಪದಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವ್ಯಾಖ್ಯಾನಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "reasoning": "ದತ್ತಾಂಶ ಪದಕೋಶದ ವ್ಯಾಖ್ಯಾನಗಳು.",
+      "pairs": [
+        {
+          "left": "ಕಚ್ಚಾ ದತ್ತಾಂಶ",
+          "right": "ಆರಂಭದಲ್ಲಿ ಸಂಗ್ರಹಿಸಿದ ಅಸಂಘಟಿತ ದತ್ತಾಂಶ"
+        },
+        {
+          "left": "ಆವೃತ್ತಿ",
+          "right": "ನಿರ್ದಿಷ್ಟ ಬೆಲೆ ಸಂಭವಿಸುವ ಸಂಖ್ಯೆ"
+        },
+        {
+          "left": "ವರ್ಗ ಮಧ್ಯಬಿಂದು",
+          "right": "ವರ್ಗಾಂತರದ ಮಧ್ಯಬಿಂದು"
+        },
+        {
+          "left": "ವ್ಯಾಪ್ತಿ (Range)",
+          "right": "ಗರಿಷ್ಠ ಮತ್ತು ಕನಿಷ್ಠ ಬೆಲೆಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸ"
+        }
+      ]
+    }
+  }
+]

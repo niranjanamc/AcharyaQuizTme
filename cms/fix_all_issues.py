@@ -1,226 +1,187 @@
-#!/usr/bin/env python3
-"""
-Comprehensive fix script for all validation issues found by verify_db.py.
-
-Fixes:
-1. Legacy dict-based 'pairs' format -> list of {left, right} objects
-2. Exact duplicate question texts in spellbee/level_1.json (add specifics to generic questions)
-3. Exact duplicate match question texts in world_capitals.json
-4. Exact/Fuzzy duplicate questions in class_5 grammar, kannada vocabulary
-5. Cross-file exact duplicate questions
-6. Remaining old-format pairs in class_6 science/maths files
-"""
-
-import os
 import json
+import os
 
-DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'src', 'data', 'questions')
+BASE = '/Users/murthy/.gemini/antigravity/scratch/time-tuk-game/src/data/questions'
 
+def load_json(fpath):
+    with open(fpath, 'r', encoding='utf-8') as f:
+        return json.load(f)
 
-def convert_dict_pairs_to_list(q, lang):
-    """Convert old {key: value} pairs format to [{left, right}] list format."""
-    if lang in q and 'pairs' in q[lang]:
-        pairs = q[lang]['pairs']
-        if isinstance(pairs, dict):
-            q[lang]['pairs'] = [{"left": k, "right": v} for k, v in pairs.items()]
-            return True
-    return False
-
+def save_json(fpath, data):
+    with open(fpath, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
 def fix_all():
-    fixed_files = []
+    # 1. Natural Phenomena
+    fpath = os.path.join(BASE, 'class_8/science/natural_phenomena.json')
+    data = load_json(fpath)
+    for q in data:
+        if q['id'] == 'c8_sci_nat_024':
+            q['kn']['answer'] = [
+                'ಟೆಕ್ಟಾನಿಕ್ ತಟ್ಟೆಗಳು ವರ್ಷಕ್ಕೆ ಕೆಲವು ಸೆಂಟಿಮೀಟರ್‌ಗಳಷ್ಟು ಅತ್ಯಂತ ನಿಧಾನಗತಿಯಲ್ಲಿ ಚಲಿಸುತ್ತಿರುತ್ತವೆ',
+                'ಘರ್ಷಣೆಯ ಕಾರಣದಿಂದಾಗಿ ತಟ್ಟೆಗಳ ಗಡಿಯಲ್ಲಿ ಒತ್ತಡ ಸಂಗ್ರಹವಾಗುತ್ತದೆ, ಇದು ಭೂಕಂಪನವಾಗಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ'
+            ]
+    save_json(fpath, data)
+    print("Fixed natural_phenomena.json")
 
-    for root, dirs, files in os.walk(DATA_DIR):
-        for filename in sorted(files):
-            if not filename.endswith('.json'):
-                continue
+    # 2. Coal & Petroleum
+    fpath = os.path.join(BASE, 'class_8/science/coal_petroleum.json')
+    data = load_json(fpath)
+    for q in data:
+        if q['id'] == 'c8_sci_coal_024':
+            q['kn']['answer'] = "ಪೆಟ್ರೋಕೆಮಿಕಲ್ಸ್ (Petrochemicals)"
+    save_json(fpath, data)
+    print("Fixed coal_petroleum.json")
 
-            path = os.path.join(root, filename)
-            rel_path = os.path.relpath(path, DATA_DIR)
-            modified = False
+    # 3. Bepin's Memory
+    fpath = os.path.join(BASE, 'class_8/english/c8_eng_bepin.json')
+    data = load_json(fpath)
+    for q in data:
+        if q['id'] == 'c8_eng_bepin_010':
+            q['kn']['answer'] = "ಹರಿದಾಸ್ ತಮ್ಮ ಪತ್ನಿಯೊಂದಿಗೆ ಜಪಾನ್‌ಗೆ ಹೋಗಿದ್ದರು ಮತ್ತು ಬೆಪಿನ್ ಅವರ ಬಳಿ ಹೊಸ ವಿಳಾಸ ಇರಲಿಲ್ಲ"
+    save_json(fpath, data)
+    print("Fixed c8_eng_bepin.json")
 
-            try:
-                with open(path, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-            except Exception as e:
-                print(f"  ERROR loading {rel_path}: {e}")
-                continue
+    # 4. Glimpses of the Past
+    fpath = os.path.join(BASE, 'class_8/english/c8_eng_glimpses.json')
+    data = load_json(fpath)
+    for q in data:
+        if q['id'] == 'c8_eng_glim_001':
+            q['kn']['answer'] = "ಲತಾ ಮಂಗೇಶ್ಕರ್"
+    save_json(fpath, data)
+    print("Fixed c8_eng_glimpses.json")
 
-            if not isinstance(data, list):
-                continue
+    # 5. Data Handling
+    fpath = os.path.join(BASE, 'class_8/maths/data_handling.json')
+    data = load_json(fpath)
+    for q in data:
+        if q['id'] == 'c8_math_data_img_016':
+            q['kn']['answer'] = "10 ಅಂಕಗಳು"
+        if q['id'] == 'c8_math_data_001':
+            # Rephrase duplicate from Class 6
+            q['en']['question'] = "What name is given to a representation of data that uses pictures or symbols?"
+            q['kn']['question'] = "ಚಿತ್ರಗಳು ಅಥವಾ ಚಿಹ್ನೆಗಳನ್ನು ಬಳಸುವ ದತ್ತಾಂಶದ ಪ್ರತಿನಿಧಿಸುವಿಕೆಗೆ ಯಾವ ಹೆಸರನ್ನು ನೀಡಲಾಗಿದೆ?"
+        if q['id'] == 'c8_math_data_004':
+            # Revert to original meaning
+            q['en']['question'] = "When data is grouped into ranges like 0-10 or 10-20, what is each group called?"
+            q['kn']['question'] = "ದತ್ತಾಂಶವನ್ನು 0-10 ಅಥವಾ 10-20 ರಂತಹ ವ್ಯಾಪ್ತಿಗಳಲ್ಲಿ ವರ್ಗೀಕರಿಸಿದಾಗ, ಪ್ರತಿ ಗುಂಪನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?"
+    save_json(fpath, data)
+    print("Fixed data_handling.json")
 
-            for q in data:
-                q_id = q.get('id', '')
-                q_type = q.get('type', 'single')
-
-                # ── Fix 1: Dict-based pairs → list format (all match questions) ──
-                if q_type == 'match':
-                    for lang in ['en', 'kn']:
-                        if convert_dict_pairs_to_list(q, lang):
-                            modified = True
-
-                # ── Fix 2: Spellbee level_1 - make generic question texts unique ──
-                if filename == 'level_1.json' and 'spellbee' in rel_path:
-                    en = q.get('en', {})
-                    kn = q.get('kn', {})
-                    generic_q = en.get('question', '')
-                    opts = en.get('options', [])
-                    # Add the words being tested to disambiguate
-                    if generic_q in (
-                        'Choose the correctly spelled word:',
-                        'Choose the correct spelling:',
-                        'Which of these is correctly spelled?',
-                        'Match the misspelled word to its correct spelling:',
-                        'Select all the correctly spelled words:',
-                        'Match the word to its missing letters:',
-                    ) and opts:
-                        # Build a short identifier from first 2 options
-                        tag = ' / '.join(opts[:2])
-                        new_q = f"{generic_q} ({tag})"
-                        en['question'] = new_q
-                        kn['question'] = f"{kn.get('question', generic_q)} ({tag})"
-                        modified = True
-
-                # ── Fix 3: World capitals - make match question texts unique ──
-                if filename == 'world_capitals.json' and 'gk' in rel_path:
-                    en = q.get('en', {})
-                    kn = q.get('kn', {})
-                    if q_type == 'match' and en.get('question') == 'Match the following countries with their capitals:':
-                        # Use the left side items to differentiate
-                        pairs = en.get('pairs', [])
-                        if pairs:
-                            countries = ', '.join(p.get('left', '') for p in pairs[:2])
-                            new_q = f"Match the following countries with their capitals: ({countries}...)"
-                            en['question'] = new_q
-                            # Update Kannada similarly
-                            kn_pairs = kn.get('pairs', [])
-                            kn_countries = ', '.join(p.get('left', '') for p in kn_pairs[:2]) if kn_pairs else countries
-                            kn['question'] = f"ಕೆಳಗಿನ ದೇಶಗಳನ್ನು ಅವುಗಳ ರಾಜಧಾನಿಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ: ({kn_countries}...)"
-                            modified = True
-
-                # ── Fix 4: Iraq/Iran near-duplicate in world_capitals ──
-                if q_id == 'gen_gk_cap_single_22' and filename == 'world_capitals.json':
-                    en = q.get('en', {})
-                    if en.get('question') == "What is the capital of Iraq?":
-                        en['question'] = "Baghdad is the capital city of which Middle Eastern country?"
-                        kn = q.get('kn', {})
-                        kn['question'] = "ಬಾಗ್ದಾದ್ ಯಾವ ಮಧ್ಯಪ್ರಾಚ್ಯ ದೇಶದ ರಾಜಧಾನಿಯಾಗಿದೆ?"
-                        modified = True
-
-                # ── Fix 5: Class 5 English grammar fuzzy duplicates ──
-                if q_id == 'c5_eng_gram_008':  # past tense of 'sleep' vs 'see'
-                    en = q.get('en', {})
-                    if "past tense of 'sleep'" in en.get('question', ''):
-                        en['question'] = "Which of the following is the correct past tense form of the verb 'sleep'?"
-                        kn = q.get('kn', {})
-                        kn['question'] = "'Sleep' ಕ್ರಿಯಾಪದದ ಭೂತಕಾಲದ ಸರಿಯಾದ ರೂಪ ಯಾವುದು?"
-                        modified = True
-
-                if q_id == 'c5_eng_gram_032':  # irregular vs regular past tense match
-                    en = q.get('en', {})
-                    if 'irregular past tense' in en.get('question', ''):
-                        en['question'] = "Match the verbs with their IRREGULAR past tense forms (not following -ed rule):"
-                        kn = q.get('kn', {})
-                        kn['question'] = "ಕ್ರಿಯಾಪದಗಳನ್ನು ಅವುಗಳ ಅನಿಯಮಿತ ಭೂತಕಾಲ ರೂಪಗಳೊಂದಿಗೆ (–ed ನಿಯಮ ಅನ್ವಯಿಸದ) ಹೊಂದಿಸಿ:"
-                        modified = True
-
-                # ── Fix 6: Class 5 Kannada vocabulary fuzzy duplicates ──
-                # "What is the Kannada word for 'X'?" questions are too similar
-                VOCAB_REWRITES = {
-                    'c5_kan_voc_s_7':  ("Which Kannada word means 'Leg'?", "ಕನ್ನಡದಲ್ಲಿ 'ಕಾಲು' ಎಂಬ ಅರ್ಥ ಇರುವ ಪದ ಯಾವುದು?"),
-                    'c5_kan_voc_s_13': ("Which Kannada word represents the organ used for hearing?", "ಕೇಳುವ ಅಂಗಕ್ಕೆ ಕನ್ನಡದಲ್ಲಿ ಯಾವ ಪದ ಬಳಸುತ್ತೇವೆ?"),
-                    'c5_kan_voc_s_15': ("Which Kannada word means 'Mother'?", "ಕನ್ನಡದಲ್ಲಿ 'ತಾಯಿ' ಅಥವಾ 'ಅಮ್ಮ' ಅರ್ಥ ಬರುವ ಪದ ಯಾವುದು?"),
-                    'c5_kan_voc_s_16': ("Which Kannada word represents the upper limb of the body?", "ದೇಹದ ಮೇಲ್ಭಾಗದ ಅಂಗಕ್ಕೆ ಕನ್ನಡದಲ್ಲಿ ಯಾವ ಪದ ಬಳಸುತ್ತೇವೆ?"),
-                    'c5_kan_voc_s_20': ("Which Kannada word refers to a male sibling?", "ಗಂಡು ಒಡಹುಟ್ಟಿದವನಿಗೆ ಕನ್ನಡದಲ್ಲಿ ಯಾವ ಪದ ಬಳಸುತ್ತೇವೆ?"),
+    # 6. Quadrilaterals
+    fpath = os.path.join(BASE, 'class_8/maths/quadrilaterals.json')
+    data = load_json(fpath)
+    for q in data:
+        if q['id'] == 'c8_math_quad_018':
+            q['image'] = {
+                "type": "svg",
+                "svg": '<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200"><polygon points="150,20 240,80 150,180 60,80" fill="#DBEAFE" stroke="#2563EB" stroke-width="2"/><line x1="150" y1="20" x2="150" y2="180" stroke="#EA580C" stroke-width="1.5" stroke-dasharray="5,5"/><line x1="60" y1="80" x2="240" y2="80" stroke="#EA580C" stroke-width="1.5" stroke-dasharray="5,5"/><text x="150" y="15" fill="#1F2937" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" font-weight="bold">A</text><text x="248" y="80" fill="#1F2937" font-family="Arial, sans-serif" font-size="12" text-anchor="start" font-weight="bold">B</text><text x="150" y="195" fill="#1F2937" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" font-weight="bold">C</text><text x="52" y="80" fill="#1F2937" font-family="Arial, sans-serif" font-size="12" text-anchor="end" font-weight="bold">D</text><text x="156" y="94" fill="#DC2626" font-family="Arial, sans-serif" font-size="10" font-weight="bold">90°</text><path d="M150,70 L160,70 L160,80" fill="none" stroke="#EA580C" stroke-width="1"/></svg>',
+                "alt": {
+                  "en": "A diagram of a kite ABCD with diagonals AC and BD intersecting at 90 degrees.",
+                  "kn": "ಕರ್ಣಗಳು AC ಮತ್ತು BD ಯು 90 ಡಿಗ್ರಿ ಕೋನದಲ್ಲಿ ಛೇದಿಸುವ ABCD ಗಾಳಿಪಟದ ರೇಖಾಚಿತ್ರ."
                 }
-                if q_id in VOCAB_REWRITES:
-                    en_q, kn_q = VOCAB_REWRITES[q_id]
-                    q['en']['question'] = en_q
-                    q['kn']['question'] = kn_q
-                    modified = True
+            }
+    save_json(fpath, data)
+    print("Fixed quadrilaterals.json")
 
-                # ── Fix 7: Puzzle sequences fuzzy duplicates ──
-                SEQ_REWRITES = {
-                    'gen_puz_seq_109': (
-                        "Find the next term: 2, 4, 8, 16, ___",
-                        "ಮುಂದಿನ ಪದ ಹುಡುಕಿ: 2, 4, 8, 16, ___"
-                    ),
-                    'gen_puz_seq_137': (
-                        "Identify the next number: 31, 28, 25, 22, ___",
-                        "ಮುಂದಿನ ಸಂಖ್ಯೆ ಗುರುತಿಸಿ: 31, 28, 25, 22, ___"
-                    ),
-                }
-                if q_id in SEQ_REWRITES:
-                    en_q, kn_q = SEQ_REWRITES[q_id]
-                    q['en']['question'] = en_q
-                    q['kn']['question'] = kn_q
-                    modified = True
+    # 7 & 8. Linear Equations
+    fpath = os.path.join(BASE, 'class_8/maths/linear_equations.json')
+    data = load_json(fpath)
+    for q in data:
+        if q['id'] == 'c8_math_lin_014':
+            q['kn']['answer'] = "45 ಮತ್ತು 27"
+        if q['id'] == 'c8_math_lin_022':
+            q['kn']['answer'] = "14 ವರ್ಷಗಳು"
+    save_json(fpath, data)
+    print("Fixed linear_equations.json")
 
-                # ── Fix 8: Class 6 separation.json - "Match the term to its definition" duplicate ──
-                if q_id == 'c6_sci_ec_30':
-                    en = q.get('en', {})
-                    if en.get('question') == 'Match the term to its definition:':
-                        en['question'] = 'Match the electrical term to its correct definition:'
-                        kn = q.get('kn', {})
-                        kn['question'] = 'ವಿದ್ಯುತ್ ಪದವನ್ನು ಅದರ ಸರಿಯಾದ ವ್ಯಾಖ್ಯಾನದೊಂದಿಗೆ ಹೊಂದಿಸಿ:'
-                        modified = True
+    # 9. History Trade (Duplicate)
+    fpath = os.path.join(BASE, 'class_8/history/c8_his_trade.json')
+    data = load_json(fpath)
+    for q in data:
+        if q['id'] == 'c8_his_trade_022':
+            q['en']['question'] = "Match the British historical terms of trade with their correct explanations:"
+            q['kn']['question'] = "ಬ್ರಿಟಿಷ್ ಇತಿಹಾಸದ ವ್ಯಾಪಾರ ನಿಯಮಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿವರಣೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:"
+        if q['id'] == 'c8_his_trade_023':
+            q['en']['question'] = "Match the historical battles and annexations with their correct years:"
+            q['kn']['question'] = "ಐತಿಹಾಸಿಕ ಯುದ್ಧಗಳು ಮತ್ತು ಸ್ವಾಧೀನಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವರ್ಷಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:"
+    save_json(fpath, data)
+    print("Fixed c8_his_trade.json")
 
-                # ── Fix 9: Class 6 diversity_living - exact duplicate with living_organisms ──
-                if q_id == 'c6_sci_dl_05':
-                    en = q.get('en', {})
-                    expected = 'The presence of specific features or certain habits which enable a plant or an animal to live in its surroundings is called:'
-                    if en.get('question') == expected:
-                        en['question'] = 'Specific features or habits that help organisms survive in their habitat are referred to as:'
-                        kn = q.get('kn', {})
-                        kn['question'] = 'ಜೀವಿಗಳು ತಮ್ಮ ಆವಾಸಸ್ಥಾನದಲ್ಲಿ ಬದುಕಲು ಸಹಾಯ ಮಾಡುವ ನಿರ್ದಿಷ್ಟ ಲಕ್ಷಣಗಳು ಅಥವಾ ಅಭ್ಯಾಸಗಳನ್ನು _____ ಎಂದು ಕರೆಯುತ್ತಾರೆ:'
-                        modified = True
+    # 10. Cubes and Cube Roots (Fuzzy duplicates)
+    fpath = os.path.join(BASE, 'class_8/maths/cubes_roots.json')
+    data = load_json(fpath)
+    for q in data:
+        if q['id'] == 'c8_math_cub_009':
+            q['en']['question'] = "Compute the cube root of the integer 8000:"
+            q['kn']['question'] = "ಪೂರ್ಣಾಂಕ 8000 ರ ಘನಮೂಲವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ:"
+        if q['id'] == 'c8_math_cub_008':
+            q['en']['question'] = "Identify which numbers among the options are not perfect cubes:"
+            q['kn']['question'] = "ಆಯ್ಕೆಗಳಲ್ಲಿ ಯಾವ ಸಂಖ್ಯೆಗಳು ಪರಿಪೂರ್ಣ ಘನಗಳಲ್ಲ ಎಂಬುದನ್ನು ಗುರುತಿಸಿ:"
+        if q['id'] == 'c8_math_cub_005':
+            q['en']['question'] = "Match the numbers shown on the left with their corresponding perfect cube values:"
+            q['kn']['question'] = "ಎಡಭಾಗದಲ್ಲಿ ತೋರಿಸಿರುವ ಸಂಖ್ಯೆಗಳನ್ನು ಅವುಗಳ ಅನುರೂಪ ಪರಿಪೂರ್ಣ ಘನ ಮೌಲ್ಯಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:"
+        if q['id'] == 'c8_math_cub_024':
+            q['en']['question'] = "Which of the statements below regarding perfect cubes are true?"
+            q['kn']['question'] = "ಪರಿಪೂರ್ಣ ಘನಗಳ ಕುರಿತು ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ನಿಜವಾಗಿವೆ?"
+    save_json(fpath, data)
+    print("Fixed cubes_roots.json")
 
-                # ── Fix 10: Class 6 maths data_handling exact duplicate ──
-                if q_id == 'c6_math_dh_39':
-                    en = q.get('en', {})
-                    if en.get('question') == 'Match the data collection scenario with the most suitable representation.':
-                        en['question'] = 'Match each data set description with the chart type best suited to display it:'
-                        kn = q.get('kn', {})
-                        kn['question'] = 'ಪ್ರತಿಯೊಂದು ದತ್ತಾಂಶ ಸೆಟ್ ವಿವರಣೆಯನ್ನು ಅದನ್ನು ತೋರಿಸಲು ಸೂಕ್ತವಾದ ಚಾರ್ಟ್ ಪ್ರಕಾರದೊಂದಿಗೆ ಹೊಂದಿಸಿ:'
-                        modified = True
+    # 11. Algebraic Expressions (Fuzzy duplicates)
+    fpath = os.path.join(BASE, 'class_8/maths/algebraic_expressions.json')
+    data = load_json(fpath)
+    for q in data:
+        if q['id'] == 'c8_math_alg_015':
+            q['en']['question'] = "Calculate the numerical value of (98)² using an appropriate identity."
+            q['kn']['question'] = "ಸೂಕ್ತವಾದ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಿಕೊಂಡು (98)² ರ ಸಂಖ್ಯಾತ್ಮಕ ಮೌಲ್ಯವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ."
+    save_json(fpath, data)
+    print("Fixed algebraic_expressions.json")
 
-                # ── Fix 11: Class 6 prime_time - "Which of these are composite numbers?" duplicate ──
-                if q_id == 'c6_math_pt_38':
-                    en = q.get('en', {})
-                    if 'composite numbers' in en.get('question', '').lower():
-                        en['question'] = 'Select all the composite numbers from the list below:'
-                        kn = q.get('kn', {})
-                        kn['question'] = 'ಕೆಳಗಿನ ಪಟ್ಟಿಯಿಂದ ಎಲ್ಲಾ ಸಂಯುಕ್ತ ಸಂಖ್ಯೆಗಳನ್ನು ಆರಿಸಿ:'
-                        modified = True
+    # 12. Graphs (Fuzzy duplicates)
+    fpath = os.path.join(BASE, 'class_8/maths/graphs.json')
+    data = load_json(fpath)
+    for q in data:
+        if q['id'] == 'c8_math_graph_002':
+            q['en']['question'] = "Determine the exact location of the point (3, 0) on the coordinate axes."
+            q['kn']['question'] = "ನಿರ್ದೇಶಾಂಕ ಅಕ್ಷಗಳ ಮೇಲೆ (3, 0) ಬಿಂದುವಿನ ನಿಖರವಾದ ಸ್ಥಾನವನ್ನು ನಿರ್ಧರಿಸಿ."
+        if q['id'] == 'c8_math_graph_004':
+            q['en']['question'] = "For the coordinate pair (5, 8), what is the alternative term for the y-coordinate?"
+            q['kn']['question'] = "ನಿರ್ದೇಶಾಂಕ ಜೋಡಿ (5, 8) ಗಾಗಿ, y-ನಿರ್ದೇಶಾಂಕದ ಪರ್ಯಾಯ ಪದ ಯಾವುದು?"
+    save_json(fpath, data)
+    print("Fixed graphs.json")
 
-                # ── Fix 12: Class 6 plants fuzzy duplicate (shrubs vs herbs) ──
-                if q_id == 'c6_sci_pl_32':
-                    en = q.get('en', {})
-                    if 'shrubs' in en.get('question', '').lower():
-                        en['question'] = 'Identify plants that have woody stems but are shorter than trees (shrubs):'
-                        kn = q.get('kn', {})
-                        kn['question'] = 'ಮರಗಳಿಗಿಂತ ಕಡಿಮೆ ಎತ್ತರದ ಮರ ಕಾಂಡಗಳನ್ನು ಹೊಂದಿರುವ ಗಿಡಗಳನ್ನು (ಪೊದೆಗಿಡ) ಗುರುತಿಸಿ:'
-                        modified = True
+    # 13. Factorisation (Fuzzy duplicate)
+    fpath = os.path.join(BASE, 'class_8/maths/factorisation.json')
+    data = load_json(fpath)
+    for q in data:
+        if q['id'] == 'c8_math_fact_017':
+            q['en']['question'] = "Which of the following algebraic expressions have (x - 5) as one of their factors? (Select all that apply)"
+            q['kn']['question'] = "ಕೆಳಗಿನ ಬೀಜೋಕ್ತಿಗಳಲ್ಲಿ ಯಾವುದು (x - 5) ಅನ್ನು ಒಂದು ಅಪವರ್ತನವಾಗಿ ಹೊಂದಿದೆ? (ಅನ್ವಯಿಸುವ ಎಲ್ಲವನ್ನೂ ಆರಿಸಿ)"
+        if q['id'] == 'c8_math_fact_027':
+            q['en']['question'] = "Find which of the algebraic expressions listed are equivalent to (2x - 3y)²."
+            q['kn']['question'] = "ಪಟ್ಟಿಯಲ್ಲಿರುವ ಯಾವ ಬೀಜೋಕ್ತಿಗಳು (2x - 3y)² ಗೆ ಸಮನಾಗಿವೆ ಎಂಬುದನ್ನು ಕಂಡುಕೊಳ್ಳಿ."
+    save_json(fpath, data)
+    print("Fixed factorisation.json")
 
-                # ── Fix 13: prime_time divisibility rule fuzzy duplicate ──
-                if q_id == 'c6_math_pt_20':
-                    en = q.get('en', {})
-                    if "divisible by 5" in en.get('question', ''):
-                        en['question'] = "A number is divisible by 5 if its units digit is:"
-                        kn = q.get('kn', {})
-                        kn['question'] = "ಒಂದು ಸಂಖ್ಯೆ 5 ರಿಂದ ಭಾಗಾಕಾರ ಆಗುತ್ತದೆ ಎಂದರೆ ಅದರ ಒಂದರ ಅಂಕಿ:"
-                        modified = True
+    # 14. Adolescence (Fuzzy duplicate)
+    fpath = os.path.join(BASE, 'class_8/science/adolescence.json')
+    data = load_json(fpath)
+    for q in data:
+        if q['id'] == 'c8_sci_adol_009':
+            q['en']['question'] = "Choose all the secondary sexual characteristics that develop in boys when they undergo puberty:"
+            q['kn']['question'] = "HUಡುಗರು ಹದಿಹರೆಯಕ್ಕೆ ಒಳಗಾದಾಗ ಅವರಲ್ಲಿ ಬೆಳೆಯುವ ಎಲ್ಲಾ ದ್ವಿತೀಯ ಲೈಂಗಿಕ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಆರಿಸಿ:"
+    save_json(fpath, data)
+    print("Fixed adolescence.json")
 
-            if modified:
-                with open(path, 'w', encoding='utf-8') as f:
-                    json.dump(data, f, indent=2, ensure_ascii=False)
-                print(f"  Fixed: {rel_path}")
-                fixed_files.append(rel_path)
+    # 15. Proportions (Fuzzy duplicate)
+    fpath = os.path.join(BASE, 'class_8/maths/proportions.json')
+    data = load_json(fpath)
+    for q in data:
+        if q['id'] == 'c8_math_prop_004':
+            q['en']['question'] = "From the options below, select all the situations that represent an inverse proportion:"
+            q['kn']['question'] = "ಕೆಳಗಿನ ಆಯ್ಕೆಗಳಿಂದ, ವಿಲೋಮ ಅನುಪಾತವನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಎಲ್ಲಾ ಸಂದರ್ಭಗಳನ್ನು ಆರಿಸಿ:"
+    save_json(fpath, data)
+    print("Fixed proportions.json")
 
-    print(f"\nTotal files fixed: {len(fixed_files)}")
-
-
-if __name__ == "__main__":
-    print("Running comprehensive fix script...")
+if __name__ == '__main__':
     fix_all()
-    print("Done.")

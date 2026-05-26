@@ -1,0 +1,1030 @@
+[
+  {
+    "id": "c8_math_prop_001",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "If two quantities x and y are in direct proportion, which of the following relations is correct?",
+      "options": [
+        "x / y = constant",
+        "x × y = constant",
+        "x + y = constant",
+        "x - y = constant"
+      ],
+      "answer": "x / y = constant",
+      "reasoning": "Two quantities x and y are said to be in direct proportion if they increase or decrease together in such a way that the ratio of their corresponding values remains constant. That is, x/y = k (where k is a constant)."
+    },
+    "kn": {
+      "question": "ಎರಡು ಪರಿಮಾಣಗಳು x ಮತ್ತು y ನೇರ ಅನುಪಾತದಲ್ಲಿದ್ದರೆ, ಈ ಕೆಳಗಿನ ಯಾವ ಸಂಬಂಧವು ಸರಿಯಾಗಿದೆ?",
+      "options": [
+        "x / y = ಸ್ಥಿರಾಂಕ",
+        "x × y = ಸ್ಥಿರಾಂಕ",
+        "x + y = ಸ್ಥಿರಾಂಕ",
+        "x - y = ಸ್ಥಿರಾಂಕ"
+      ],
+      "answer": "x / y = ಸ್ಥಿರಾಂಕ",
+      "reasoning": "ಎರಡು ಪರಿಮಾಣಗಳು x ಮತ್ತು y ನೇರ ಅನುಪಾತದಲ್ಲಿದ್ದಾಗ, ಅವುಗಳು ಜೊತೆಯಾಗಿ ಹೆಚ್ಚಾಗುತ್ತವೆ ಅಥವಾ ಕಡಿಮೆಯಾಗುತ್ತವೆ, ಇದರಿಂದಾಗಿ ಅವುಗಳ ಅನುರೂಪ ಮೌಲ್ಯಗಳ ಅನುಪಾತವು ಬದಲಾಗದೆ ಹಾಗೇ ಇರುತ್ತದೆ. ಅಂದರೆ, x/y = k (ಇಲ್ಲಿ k ಒಂದು ಸ್ಥಿರಾಂಕ)."
+    }
+  },
+  {
+    "id": "c8_math_prop_002",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "If two quantities x and y vary inversely with each other, which of the following relations is correct?",
+      "options": [
+        "x × y = constant",
+        "x / y = constant",
+        "x + y = constant",
+        "x - y = constant"
+      ],
+      "answer": "x × y = constant",
+      "reasoning": "Two quantities x and y are said to vary inversely if an increase in x causes a proportional decrease in y (and vice versa) such that their product remains constant. That is, x × y = k (where k is a constant)."
+    },
+    "kn": {
+      "question": "ಎರಡು ಪರಿಮಾಣಗಳು x ಮತ್ತು y ಪರಸ್ಪರ ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿದ್ದರೆ, ಈ ಕೆಳಗಿನ ಯಾವ ಸಂಬಂಧವು ಸರಿಯಾಗಿದೆ?",
+      "options": [
+        "x × y = ಸ್ಥಿರಾಂಕ",
+        "x / y = ಸ್ಥಿರಾಂಕ",
+        "x + y = ಸ್ಥಿರಾಂಕ",
+        "x - y = ಸ್ಥಿರಾಂಕ"
+      ],
+      "answer": "x × y = ಸ್ಥಿರಾಂಕ",
+      "reasoning": "x ಪರಿಮಾಣವು ಹೆಚ್ಚಾದಾಗ y ಪರಿಮಾಣವು ಪ್ರಮಾಣಾನುಗುಣವಾಗಿ ಕಡಿಮೆಯಾಗುವಂತೆ (ಅಥವಾ ಪ್ರತಿಯಾಗಿ) ಎರಡು ಪರಿಮಾಣಗಳು ಬದಲಾದರೆ ಅವುಗಳು ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿವೆ ಎನ್ನಲಾಗುತ್ತದೆ, ಇದರಿಂದ ಅವುಗಳ ಗುಣಲಬ್ಧವು ಸ್ಥಿರವಾಗಿರುತ್ತದೆ. ಅಂದರೆ, x × y = k (ಇಲ್ಲಿ k ಒಂದು ಸ್ಥಿರಾಂಕ)."
+    }
+  },
+  {
+    "id": "c8_math_prop_003",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "The cost of 5 kg of sugar is ₹240. What is the cost of 8 kg of sugar under the same rate?",
+      "options": [
+        "₹384",
+        "₹320",
+        "₹400",
+        "₹360"
+      ],
+      "answer": "₹384",
+      "reasoning": "Since quantity of sugar and cost are in direct proportion, we have: x1 / y1 = x2 / y2. Here, 5 / 240 = 8 / y2. Solving for y2: y2 = (240 × 8) / 5 = 48 × 8 = ₹384."
+    },
+    "kn": {
+      "question": "5 ಕೆಜಿ ಸಕ್ಕರೆಯ ಬೆಲೆ ₹240 ಆಗಿದೆ. ಅದೇ ದರದಲ್ಲಿ 8 ಕೆಜಿ ಸಕ್ಕರೆಯ ಬೆಲೆ ಎಷ್ಟು?",
+      "options": [
+        "₹384",
+        "₹320",
+        "₹400",
+        "₹360"
+      ],
+      "answer": "₹384",
+      "reasoning": "ಸಕ್ಕರೆಯ ಪ್ರಮಾಣ ಮತ್ತು ಬೆಲೆಯು ನೇರ ಅನುಪಾತದಲ್ಲಿರುವುದರಿಂದ: x1 / y1 = x2 / y2. ಇಲ್ಲಿ, 5 / 240 = 8 / y2. y2 ಅನ್ನು ಬಿಡಿಸಿದಾಗ: y2 = (240 × 8) / 5 = 48 × 8 = ₹384."
+    }
+  },
+  {
+    "id": "c8_math_prop_004",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "From the options below, select all the situations that represent an inverse proportion:",
+      "options": [
+        "Number of articles purchased and their total cost.",
+        "Distance traveled by a car and petrol consumed (at uniform speed).",
+        "Time spent on a journey and distance traveled (at uniform speed).",
+        "Number of workers and time taken to complete a job."
+      ],
+      "answer": [
+        "Number of articles purchased and their total cost.",
+        "Distance traveled by a car and petrol consumed (at uniform speed).",
+        "Time spent on a journey and distance traveled (at uniform speed)."
+      ],
+      "reasoning": "Let's check the proportions:\n1. Articles and cost: More articles mean more cost. (Direct)\n2. Distance and petrol: More distance traveled consumes more petrol. (Direct)\n3. Time and distance: More time spent traveling results in more distance covered. (Direct)\n4. Workers and time: More workers take less time to complete a job. (Inverse)"
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಆಯ್ಕೆಗಳಿಂದ, ವಿಲೋಮ ಅನುಪಾತವನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಎಲ್ಲಾ ಸಂದರ್ಭಗಳನ್ನು ಆರಿಸಿ:",
+      "options": [
+        "ಖರೀದಿಸಿದ ವಸ್ತುಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಅವುಗಳ ಒಟ್ಟು ವೆಚ್ಚ.",
+        "ಕಾರು ಚಲಿಸಿದ ದೂರ ಮತ್ತು ಬಳಕೆಯಾದ ಪೆಟ್ರೋಲ್ (ಏಕರೂಪದ ವೇಗದಲ್ಲಿ).",
+        "ಪ್ರಯಾಣಕ್ಕೆ ತೆಗೆದುಕೊಂಡ ಸಮಯ ಮತ್ತು ಕ್ರಮಿಸಿದ ದೂರ (ಏಕರೂಪದ ವೇಗದಲ್ಲಿ).",
+        "ಕೆಲಸಗಾರರ ಸಂಖ್ಯೆ ಮತ್ತು ಕೆಲಸ ಮುಗಿಸಲು ಬೇಕಾಗುವ ಸಮಯ."
+      ],
+      "answer": [
+        "ಖರೀದಿಸಿದ ವಸ್ತುಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಅವುಗಳ ಒಟ್ಟು ವೆಚ್ಚ.",
+        "ಕಾರು ಚಲಿಸಿದ ದೂರ ಮತ್ತು ಬಳಕೆಯಾದ ಪೆಟ್ರೋಲ್ (ಏಕರೂಪದ ವೇಗದಲ್ಲಿ).",
+        "ಪ್ರಯಾಣಕ್ಕೆ ತೆಗೆದುಕೊಂಡ ಸಮಯ ಮತ್ತು ಕ್ರಮಿಸಿದ ದೂರ (ಏಕರೂಪದ ವೇಗದಲ್ಲಿ)."
+      ],
+      "reasoning": "ಅನುಪಾತಗಳನ್ನು ಪರಿಶೀಲಿಸೋಣ:\n1. ವಸ್ತುಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ವೆಚ್ಚ: ಹೆಚ್ಚು ವಸ್ತುಗಳಿದ್ದರೆ ಹೆಚ್ಚು ವೆಚ್ಚವಾಗುತ್ತದೆ. (ನೇರ ಅನುಪಾತ)\n2. ದೂರ ಮತ್ತು ಪೆಟ್ರೋಲ್: ಹೆಚ್ಚು ದೂರ ಚಲಿಸಿದರೆ ಹೆಚ್ಚು ಪೆಟ್ರೋಲ್ ಬಳಕೆಯಾಗುತ್ತದೆ. (ನೇರ ಅನುಪಾತ)\n3. ಸಮಯ ಮತ್ತು ದೂರ: ಹೆಚ್ಚು ಸಮಯ ಚಲಿಸಿದರೆ ಹೆಚ್ಚು ದೂರ ಕ್ರಮಿಸಲಾಗುತ್ತದೆ. (ನೇರ ಅನುಪಾತ)\n4. ಕೆಲಸಗಾರರು ಮತ್ತು ಸಮಯ: ಹೆಚ್ಚು ಕೆಲಸಗಾರರಿದ್ದರೆ ಕೆಲಸ ಮುಗಿಸಲು ಕಡಿಮೆ ಸಮಯ ಬೇಕಾಗುತ್ತದೆ. (ವಿಲೋಮ ಅನುಪಾತ)"
+    }
+  },
+  {
+    "id": "c8_math_prop_005",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following situations represent an inverse proportion? (Select all that apply)",
+      "options": [
+        "Speed of a vehicle and time taken to cover a fixed distance.",
+        "Number of workers on a job and time taken to complete the job.",
+        "Population of a country and area of land per person.",
+        "Number of family members and total monthly grocery consumption."
+      ],
+      "answer": [
+        "Speed of a vehicle and time taken to cover a fixed distance.",
+        "Number of workers on a job and time taken to complete the job.",
+        "Population of a country and area of land per person."
+      ],
+      "reasoning": "Let's analyze the relations:\n1. Speed and Time: If speed increases, time to cover a fixed distance decreases. (Inverse)\n2. Workers and Time: If the number of workers increases, time to finish the job decreases. (Inverse)\n3. Population and Land per person: If population increases, the average land area available per person decreases. (Inverse)\n4. Family members and Grocery consumption: More members mean more food consumed. (Direct)"
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಯಾವ ಸನ್ನಿವೇಶಗಳು ವಿಲೋಮ ಅನುಪಾತವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ? (ಅನ್ವಯಿಸುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ)",
+      "options": [
+        "ವಾಹನದ ವೇಗ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ದೂರವನ್ನು ಕ್ರಮಿಸಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ.",
+        "ಕೆಲಸದಲ್ಲಿರುವ ಕೆಲಸಗಾರರ ಸಂಖ್ಯೆ ಮತ್ತು ಕೆಲಸವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ.",
+        "ದೇಶದ ಜನಸಂಖ್ಯೆ ಮತ್ತು ಪ್ರತಿ ವ್ಯಕ್ತಿಗೆ ಲಭ್ಯವಿರುವ ಭೂಮಿಯ ವಿಸ್ತೀರ್ಣ.",
+        "ಕುಟುಂಬದ ಸದಸ್ಯರ ಸಂಖ್ಯೆ ಮತ್ತು ಒಟ್ಟು ಮಾಸಿಕ ದಿನಸಿ ಬಳಕೆ."
+      ],
+      "answer": [
+        "ವಾಹನದ ವೇಗ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ದೂರವನ್ನು ಕ್ರಮಿಸಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ.",
+        "ಕೆಲಸದಲ್ಲಿರುವ ಕೆಲಸಗಾರರ ಸಂಖ್ಯೆ ಮತ್ತು ಕೆಲಸವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ.",
+        "ದೇಶದ ಜನಸಂಖ್ಯೆ ಮತ್ತು ಪ್ರತಿ ವ್ಯಕ್ತಿಗೆ ಲಭ್ಯವಿರುವ ಭೂಮಿಯ ವಿಸ್ತೀರ್ಣ."
+      ],
+      "reasoning": "ಸಂಬಂಧಗಳನ್ನು ವಿಶ್ಲೇಷಿಸೋಣ:\n1. ವೇಗ ಮತ್ತು ಸಮಯ: ವೇಗ ಹೆಚ್ಚಾದರೆ, ನಿರ್ದಿಷ್ಟ ದೂರವನ್ನು ಕ್ರಮಿಸಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ ಕಡಿಮೆಯಾಗುತ್ತದೆ. (ವಿಲೋಮ ಅನುಪಾತ)\n2. ಕೆಲಸಗಾರರು ಮತ್ತು ಸಮಯ: ಕೆಲಸಗಾರರ ಸಂಖ್ಯೆ ಹೆಚ್ಚಾದರೆ, ಕೆಲಸ ಮುಗಿಸಲು ಬೇಕಾಗುವ ಸಮಯ ಕಡಿಮೆಯಾಗುತ್ತದೆ. (ವಿಲೋಮ ಅನುಪಾತ)\n3. ಜನಸಂಖ್ಯೆ ಮತ್ತು ಭೂಮಿ: ಜನಸಂಖ್ಯೆ ಹೆಚ್ಚಾದರೆ, ಪ್ರತಿ ವ್ಯಕ್ತಿಗೆ ಸಿಗುವ ಸರಾಸರಿ ಭೂಮಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ. (ವಿಲೋಮ ಅನುಪಾತ)\n4. ಕುಟುಂಬ ಸದಸ್ಯರು ಮತ್ತು ದಿನಸಿ ಬಳಕೆ: ಹೆಚ್ಚು ಸದಸ್ಯರಿದ್ದರೆ ಹೆಚ್ಚು ದಿನಸಿ ಬೇಕಾಗುತ್ತದೆ. (ನೇರ ಅನುಪಾತ)"
+    }
+  },
+  {
+    "id": "c8_math_prop_006",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match the scenario descriptions to their correct proportion types.",
+      "pairs": [
+        {
+          "left": "Wages earned vs Hours worked",
+          "right": "Direct Proportion (constant ratio)"
+        },
+        {
+          "left": "Speed vs Time (fixed distance)",
+          "right": "Inverse Proportion (constant product)"
+        },
+        {
+          "left": "Workers vs Days (fixed task)",
+          "right": "Inverse Proportion (constant product)"
+        },
+        {
+          "left": "Side of square vs its Perimeter",
+          "right": "Direct Proportion (constant ratio)"
+        }
+      ],
+      "reasoning": "Wages increase as working hours increase (Direct, Wages/Hours = const). Speed and Time vary inversely (Speed × Time = Distance). More workers mean fewer days for a task (Workers × Days = Work). The perimeter of a square is 4 times its side, so they are in direct proportion (Perimeter/Side = 4)."
+    },
+    "kn": {
+      "question": "ವಿವಿಧ ಸನ್ನಿವೇಶಗಳ ವಿವರಣೆಯನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಅನುಪಾತದ ವಿಧಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "ಗಳಿಸಿದ ಕೂಲಿ ಮತ್ತು ಕೆಲಸ ಮಾಡಿದ ಗಂಟೆಗಳು",
+          "right": "ನೇರ ಅನುಪಾತ (ಸ್ಥಿರ ಅನುಪಾತ)"
+        },
+        {
+          "left": "ವೇಗ ಮತ್ತು ಸಮಯ (ನಿರ್ದಿಷ್ಟ ದೂರಕ್ಕೆ)",
+          "right": "ವಿಲೋಮ ಅನುಪಾತ (ಸ್ಥಿರ ಗುಣಲಬ್ಧ)"
+        },
+        {
+          "left": "ಕೆಲಸಗಾರರು ಮತ್ತು ದಿನಗಳು (ಸ್ಥಿರ ಕೆಲಸಕ್ಕೆ)",
+          "right": "ವಿಲೋಮ ಅನುಪಾತ (ಸ್ಥಿರ ಗುಣಲಬ್ಧ)"
+        },
+        {
+          "left": "ಚೌಕದ ಬಾಹು ಮತ್ತು ಅದರ ಸುತ್ತಳತೆ",
+          "right": "ನೇರ ಅನುಪಾತ (ಸ್ಥಿರ ಅನುಪಾತ)"
+        }
+      ],
+      "reasoning": "ಕೆಲಸ ಮಾಡಿದ ಗಂಟೆಗಳು ಹೆಚ್ಚಾದಂತೆ ಕೂಲಿ ಹೆಚ್ಚಾಗುತ್ತದೆ (ನೇರ, ಕೂಲಿ/ಗಂಟೆ = ಸ್ಥಿರ). ವೇಗ ಮತ್ತು ಸಮಯ ವಿಲೋಮವಾಗಿ ಬದಲಾಗುತ್ತವೆ (ವೇಗ × ಸಮಯ = ದೂರ). ಹೆಚ್ಚು ಕೆಲಸಗಾರರಿದ್ದರೆ ಕೆಲಸಕ್ಕೆ ಕಡಿಮೆ ದಿನಗಳು ಬೇಕಾಗುತ್ತವೆ (ಕೆಲಸಗಾರರು × ದಿನಗಳು = ಕೆಲಸ). ಚೌಕದ ಸುತ್ತಳತೆಯು ಅದರ ಬಾಹುವಿನ 4 ಪಟ್ಟು ಇರುತ್ತದೆ, ಅಂದರೆ ಅವು ನೇರ ಅನುಪಾತದಲ್ಲಿರುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_math_prop_007",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match each numeric table relation with its correct mathematical proportion and constant of variation (k).",
+      "pairs": [
+        {
+          "left": "x: [2, 4], y: [10, 20]",
+          "right": "Direct Proportion (k=5)"
+        },
+        {
+          "left": "x: [2, 4], y: [20, 10]",
+          "right": "Inverse Proportion (k=40)"
+        },
+        {
+          "left": "x: [3, 6], y: [12, 24]",
+          "right": "Direct Proportion (k=4)"
+        },
+        {
+          "left": "x: [3, 6], y: [16, 8]",
+          "right": "Inverse Proportion (k=48)"
+        }
+      ],
+      "reasoning": "1. y/x = 10/2 = 20/4 = 5. (Direct, k=5)\n2. x × y = 2 × 20 = 4 × 10 = 40. (Inverse, k=40)\n3. y/x = 12/3 = 24/6 = 4. (Direct, k=4)\n4. x × y = 3 × 16 = 6 × 8 = 48. (Inverse, k=48)"
+    },
+    "kn": {
+      "question": "ಸಂಖ್ಯಾತ್ಮಕ ಕೋಷ್ಟಕದ ಸಂಬಂಧಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಗಣಿತದ ಅನುಪಾತ ಮತ್ತು ಸ್ಥಿರಾಂಕದೊಂದಿಗೆ (k) ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "x: [2, 4], y: [10, 20]",
+          "right": "ನೇರ ಅನುಪಾತ (k=5)"
+        },
+        {
+          "left": "x: [2, 4], y: [20, 10]",
+          "right": "ವಿಲೋಮ ಅನುಪಾತ (k=40)"
+        },
+        {
+          "left": "x: [3, 6], y: [12, 24]",
+          "right": "ನೇರ ಅನುಪಾತ (k=4)"
+        },
+        {
+          "left": "x: [3, 6], y: [16, 8]",
+          "right": "ವಿಲೋಮ ಅನುಪಾತ (k=48)"
+        }
+      ],
+      "reasoning": "1. y/x = 10/2 = 20/4 = 5. (ನೇರ, k=5)\n2. x × y = 2 × 20 = 4 × 10 = 40. (ವಿಲೋಮ, k=40)\n3. y/x = 12/3 = 24/6 = 4. (ನೇರ, k=4)\n4. x × y = 3 × 16 = 6 × 8 = 48. (ವಿಲೋಮ, k=48)"
+    }
+  },
+  {
+    "id": "c8_math_prop_008",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "An electric pole 14 meters high casts a shadow of 10 meters. Under similar conditions, find the height of a tree that casts a shadow of 15 meters.",
+      "options": [
+        "21 meters",
+        "18 meters",
+        "25 meters",
+        "20 meters"
+      ],
+      "answer": "21 meters",
+      "reasoning": "The height of an object and the length of its shadow are in direct proportion. Let the height of the tree be 'x'. Then, 14 / 10 = x / 15. Solving for x: x = (14 × 15) / 10 = 210 / 10 = 21 meters."
+    },
+    "kn": {
+      "question": "14 ಮೀಟರ್ ಎತ್ತರದ ವಿದ್ಯುತ್ ಕಂಬವು 10 ಮೀಟರ್ ಉದ್ದದ ನೆರಳನ್ನು ನೀಡುತ್ತದೆ. ಅದೇ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ, 15 ಮೀಟರ್ ಉದ್ದದ ನೆರಳನ್ನು ನೀಡುವ ಮರದ ಎತ್ತರವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "21 ಮೀಟರ್",
+        "18 ಮೀಟರ್",
+        "25 ಮೀಟರ್",
+        "20 ಮೀಟರ್"
+      ],
+      "answer": "21 ಮೀಟರ್",
+      "reasoning": "ವಸ್ತುವಿನ ಎತ್ತರ ಮತ್ತು ಅದರ ನೆರಳಿನ ಉದ್ದವು ನೇರ ಅನುಪಾತದಲ್ಲಿರುತ್ತವೆ. ಮರದ ಎತ್ತರ 'x' ಆಗಿರಲಿ. ಆಗ, 14 / 10 = x / 15. x ಅನ್ನು ಬಿಡಿಸಿದಾಗ: x = (14 × 15) / 10 = 210 / 10 = 21 ಮೀಟರ್."
+    }
+  },
+  {
+    "id": "c8_math_prop_img_009",
+    "difficulty": 1,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"280\" height=\"180\" rx=\"6\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><rect x=\"30\" y=\"50\" width=\"240\" height=\"100\" fill=\"#ffffff\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"30\" y1=\"100\" x2=\"270\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"90\" y1=\"50\" x2=\"90\" y2=\"150\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><line x1=\"150\" y1=\"50\" x2=\"150\" y2=\"150\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><line x1=\"210\" y1=\"50\" x2=\"210\" y2=\"150\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><text x=\"35\" y=\"80\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#059669\">Books (x)</text><text x=\"35\" y=\"130\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#059669\">Cost (y)</text><text x=\"115\" y=\"80\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#2563EB\">2</text><text x=\"115\" y=\"130\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#2563EB\">50</text><text x=\"175\" y=\"80\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#2563EB\">4</text><text x=\"170\" y=\"130\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#2563EB\">100</text><text x=\"235\" y=\"80\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#2563EB\">6</text><text x=\"235\" y=\"130\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#DC2626\">?</text></svg>",
+      "alt": {
+        "en": "A direct proportion table showing that 2 books cost 50 rupees, 4 books cost 100 rupees, and 6 books cost a red question mark.",
+        "kn": "2 ಪುಸ್ತಕಗಳ ಬೆಲೆ 50 ರೂಪಾಯಿ, 4 ಪುಸ್ತಕಗಳ ಬೆಲೆ 100 ರೂಪಾಯಿ ಮತ್ತು 6 ಪುಸ್ತಕಗಳ ಬೆಲೆ ಕೆಂಪು ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಯಾಗಿರುವ ಒಂದು ನೇರ ಅನುಪಾತದ ಕೋಷ್ಟಕ."
+      }
+    },
+    "en": {
+      "question": "Find the missing value (marked with '?') in the direct proportion table shown in the image.",
+      "options": [
+        "150",
+        "120",
+        "180",
+        "160"
+      ],
+      "answer": "150",
+      "reasoning": "Since books (x) and cost (y) are in direct proportion, the ratio x/y must be constant. Here, 2 / 50 = 4 / 100 = 1 / 25. Thus, 6 / y = 1 / 25 => y = 6 × 25 = 150."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ನೇರ ಅನುಪಾತದ ಕೋಷ್ಟಕದಲ್ಲಿ ಬಿಟ್ಟುಹೋದ ಸಂಖ್ಯೆಯನ್ನು ('?' ಚಿಹ್ನೆ ಇರುವ ಜಾಗ) ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "150",
+        "120",
+        "180",
+        "160"
+      ],
+      "answer": "150",
+      "reasoning": "ಪುಸ್ತಕಗಳ ಸಂಖ್ಯೆ (x) ಮತ್ತು ಬೆಲೆ (y) ನೇರ ಅನುಪಾತದಲ್ಲಿರುವುದರಿಂದ, x/y ಅನುಪಾತವು ಸ್ಥಿರವಾಗಿರಬೇಕು. ಇಲ್ಲಿ, 2 / 50 = 4 / 100 = 1 / 25. ಆದ್ದರಿಂದ, 6 / y = 1 / 25 => y = 6 × 25 = 150."
+    }
+  },
+  {
+    "id": "c8_math_prop_img_010",
+    "difficulty": 1,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"170\" x2=\"260\" y2=\"170\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M 255,166 L 260,170 L 255,174\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"40\" y1=\"170\" x2=\"40\" y2=\"20\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M 36,25 L 40,20 L 44,25\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"40\" y1=\"170\" x2=\"240\" y2=\"50\" stroke=\"#059669\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"140\" r=\"3\" fill=\"#DC2626\"/><circle cx=\"140\" cy=\"110\" r=\"3\" fill=\"#DC2626\"/><circle cx=\"190\" cy=\"80\" r=\"3\" fill=\"#DC2626\"/><line x1=\"90\" y1=\"140\" x2=\"90\" y2=\"170\" stroke=\"#DC2626\" stroke-dasharray=\"2\"/><line x1=\"90\" y1=\"140\" x2=\"40\" y2=\"140\" stroke=\"#DC2626\" stroke-dasharray=\"2\"/><line x1=\"140\" y1=\"110\" x2=\"140\" y2=\"170\" stroke=\"#DC2626\" stroke-dasharray=\"2\"/><line x1=\"140\" y1=\"110\" x2=\"40\" y2=\"110\" stroke=\"#DC2626\" stroke-dasharray=\"2\"/><line x1=\"190\" y1=\"80\" x2=\"190\" y2=\"170\" stroke=\"#DC2626\" stroke-dasharray=\"2\"/><line x1=\"190\" y1=\"80\" x2=\"40\" y2=\"80\" stroke=\"#DC2626\" stroke-dasharray=\"2\"/><text x=\"262\" y=\"175\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#2563EB\">x</text><text x=\"30\" y=\"18\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#2563EB\">y</text><text x=\"95\" y=\"135\" font-family=\"Arial, sans-serif\" font-size=\"10\" fill=\"#DC2626\">(2, 4)</text><text x=\"145\" y=\"105\" font-family=\"Arial, sans-serif\" font-size=\"10\" fill=\"#DC2626\">(4, 8)</text><text x=\"195\" y=\"75\" font-family=\"Arial, sans-serif\" font-size=\"10\" fill=\"#DC2626\">(6, y)</text></svg>",
+      "alt": {
+        "en": "A coordinate graph showing a straight line representing direct proportion passing through points (2,4), (4,8), and (6,y).",
+        "kn": "ಬಿಂದುಗಳು (2,4), (4,8), ಮತ್ತು (6,y) ಗಳ ಮೂಲಕ ಹಾದುಹೋಗುವ ನೇರ ಅನುಪಾತವನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಸರಳ ರೇಖೆಯ ನಕ್ಷೆ."
+      }
+    },
+    "en": {
+      "question": "The graph shows a direct proportion between two variables x and y. Find the value of 'y' when x = 6.",
+      "options": [
+        "12",
+        "10",
+        "14",
+        "16"
+      ],
+      "answer": "12",
+      "reasoning": "Since x and y are in direct proportion, the ratio y/x must be constant. Looking at the points: 4/2 = 8/4 = 2. So the constant ratio is 2. Therefore, y/6 = 2 => y = 6 × 2 = 12."
+    },
+    "kn": {
+      "question": "ನಕ್ಷೆಯು x ಮತ್ತು y ಚರಪರಿಮಾಣಗಳ ನಡುವಿನ ನೇರ ಅನುಪಾತವನ್ನು ತೋರಿಸುತ್ತದೆ. x = 6 ಆದಾಗ 'y' ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "12",
+        "10",
+        "14",
+        "16"
+      ],
+      "answer": "12",
+      "reasoning": "x ಮತ್ತು y ನೇರ ಅನುಪಾತದಲ್ಲಿರುವುದರಿಂದ, y/x ನ ಅನುಪಾತವು ಸ್ಥಿರವಾಗಿರುತ್ತದೆ. ಬಿಂದುಗಳನ್ನು ನೋಡಿದಾಗ: 4/2 = 8/4 = 2. ಅಂದರೆ ಸ್ಥಿರ ಅನುಪಾತವು 2 ಆಗಿದೆ. ಆದ್ದರಿಂದ, y/6 = 2 => y = 6 × 2 = 12."
+    }
+  },
+  {
+    "id": "c8_math_prop_011",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "If x and y vary inversely, and x = 15 when y = 6, find the value of y when x = 10.",
+      "options": [
+        "9",
+        "4",
+        "12",
+        "15"
+      ],
+      "answer": "9",
+      "reasoning": "Since x and y vary inversely, their product remains constant: x × y = k. Thus, x1 × y1 = x2 × y2 => 15 × 6 = 10 × y2 => 90 = 10 × y2 => y2 = 90 / 10 = 9."
+    },
+    "kn": {
+      "question": "x ಮತ್ತು y ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿದ್ದು, x = 15 ಆದಾಗ y = 6 ಆಗಿದ್ದರೆ, x = 10 ಆದಾಗ y ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "9",
+        "4",
+        "12",
+        "15"
+      ],
+      "answer": "9",
+      "reasoning": "x ಮತ್ತು y ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿರುವುದರಿಂದ, ಅವುಗಳ ಗುಣಲಬ್ಧವು ಸ್ಥಿರವಾಗಿರುತ್ತದೆ: x × y = k. ಆದ್ದರಿಂದ, x1 × y1 = x2 × y2 => 15 × 6 = 10 × y2 => 90 = 10 × y2 => y2 = 90 / 10 = 9."
+    }
+  },
+  {
+    "id": "c8_math_prop_012",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "A train travels 75 km in 1 hour. Assuming uniform speed, how far will it travel in 20 minutes?",
+      "options": [
+        "25 km",
+        "30 km",
+        "15 km",
+        "50 km"
+      ],
+      "answer": "25 km",
+      "reasoning": "Distance and time are in direct proportion at a uniform speed. Let the distance traveled in 20 minutes be 'd'. Note that 1 hour = 60 minutes. Therefore: 75 / 60 = d / 20. Solving for d: d = (75 × 20) / 60 = 75 / 3 = 25 km."
+    },
+    "kn": {
+      "question": "ಒಂದು ರೈಲು 1 ಗಂಟೆಯಲ್ಲಿ 75 ಕಿ.ಮೀ ಚಲಿಸುತ್ತದೆ. ರೈಲಿನ ವೇಗ ಒಂದೇ ಸಮನಾಗಿದ್ದರೆ, ಅದು 20 ನಿಮಿಷಗಳಲ್ಲಿ ಎಷ್ಟು ದೂರ ಕ್ರಮಿಸುತ್ತದೆ?",
+      "options": [
+        "25 ಕಿ.ಮೀ",
+        "30 ಕಿ.ಮೀ",
+        "15 ಕಿ.ಮೀ",
+        "50 ಕಿ.ಮೀ"
+      ],
+      "answer": "25 ಕಿ.ಮೀ",
+      "reasoning": "ಏಕರೂಪದ ವೇಗದಲ್ಲಿ ದೂರ ಮತ್ತು ಸಮಯ ನೇರ ಅನುಪಾತದಲ್ಲಿರುತ್ತವೆ. 20 ನಿಮಿಷಗಳಲ್ಲಿ ಕ್ರಮಿಸಿದ ದೂರ 'd' ಆಗಿರಲಿ. 1 ಗಂಟೆ = 60 ನಿಮಿಷಗಳು. ಆದ್ದರಿಂದ: 75 / 60 = d / 20. d ಅನ್ನು ಬಿಡಿಸಿದಾಗ: d = (75 × 20) / 60 = 75 / 3 = 25 ಕಿ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_prop_013",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "If 15 men can build a wall in 48 hours, how many men will be required to do the same work in 30 hours?",
+      "options": [
+        "24 men",
+        "20 men",
+        "30 men",
+        "18 men"
+      ],
+      "answer": "24 men",
+      "reasoning": "Number of men and time taken are in inverse proportion. Let the number of men required be 'x'. Thus, 15 × 48 = x × 30. Solving for x: x = (15 × 48) / 30 = 720 / 30 = 24 men."
+    },
+    "kn": {
+      "question": "15 ಜನರು ಒಂದು ಗೋಡೆಯನ್ನು ಕಟ್ಟಲು 48 ಗಂಟೆಗಳನ್ನು ತೆಗೆದುಕೊಂಡರೆ, ಅದೇ ಕೆಲಸವನ್ನು 30 ಗಂಟೆಗಳಲ್ಲಿ ಮುಗಿಸಲು ಎಷ್ಟು ಜನರ ಅಗತ್ಯವಿದೆ?",
+      "options": [
+        "24 ಜನರು",
+        "20 ಜನರು",
+        "30 ಜನರು",
+        "18 ಜನರು"
+      ],
+      "answer": "24 ಜನರು",
+      "reasoning": "ಕೆಲಸಗಾರರ ಸಂಖ್ಯೆ ಮತ್ತು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿರುತ್ತವೆ. ಬೇಕಾಗುವ ಜನರ ಸಂಖ್ಯೆ 'x' ಆಗಿರಲಿ. ಆದ್ದರಿಂದ, 15 × 48 = x × 30. x ಅನ್ನು ಬಿಡಿಸಿದಾಗ: x = (15 × 48) / 30 = 720 / 30 = 24 ಜನರು."
+    }
+  },
+  {
+    "id": "c8_math_prop_014",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Let x and y be two mathematical quantities. In which of the following cases are they in direct proportion? (Select all that apply)",
+      "options": [
+        "x / y = 12",
+        "y = 5x",
+        "x = 2y",
+        "x × y = 30"
+      ],
+      "answer": [
+        "x / y = 12",
+        "y = 5x",
+        "x = 2y"
+      ],
+      "reasoning": "Let's check the algebraic definition of direct proportion (y/x = constant or x/y = constant):\n1. x/y = 12: Ratio is constant. (Direct)\n2. y = 5x => y/x = 5: Ratio is constant. (Direct)\n3. x = 2y => x/y = 2: Ratio is constant. (Direct)\n4. x × y = 30: Product is constant, representing inverse proportion."
+    },
+    "kn": {
+      "question": "x ಮತ್ತು y ಎರಡು ಗಣಿತೀಯ ಪರಿಮಾಣಗಳಾಗಿರಲಿ. ಈ ಕೆಳಗಿನ ಯಾವ ಸಂದರ್ಭಗಳಲ್ಲಿ ಅವು ನೇರ ಅನುಪಾತದಲ್ಲಿರುತ್ತವೆ? (ಅನ್ವಯಿಸುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ)",
+      "options": [
+        "x / y = 12",
+        "y = 5x",
+        "x = 2y",
+        "x × y = 30"
+      ],
+      "answer": [
+        "x / y = 12",
+        "y = 5x",
+        "x = 2y"
+      ],
+      "reasoning": "ನೇರ ಅನುಪಾತದ ಬೀಜಗಣಿತದ ವ್ಯಾಖ್ಯಾನವನ್ನು ಪರಿಶೀಲಿಸೋಣ (y/x = ಸ್ಥಿರಾಂಕ ಅಥವಾ x/y = ಸ್ಥಿರಾಂಕ):\n1. x/y = 12: ಅನುಪಾತ ಸ್ಥಿರವಾಗಿದೆ. (ನೇರ ಅನುಪಾತ)\n2. y = 5x => y/x = 5: ಅನುಪಾತ ಸ್ಥಿರವಾಗಿದೆ. (ನೇರ ಅನುಪಾತ)\n3. x = 2y => x/y = 2: ಅನುಪಾತ ಸ್ಥಿರವಾಗಿದೆ. (ನೇರ ಅನುಪಾತ)\n4. x × y = 30: ಗುಣಲಬ್ಧ ಸ್ಥಿರವಾಗಿದೆ, ಇದು ವಿಲೋಮ ಅನುಪಾತವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_prop_015",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "If the cost of 12 identical notebooks is ₹180, which of the following statements are correct? (Select all that apply)",
+      "options": [
+        "The cost of 1 notebook is ₹15.",
+        "The cost of 10 notebooks is ₹150.",
+        "The cost of 20 notebooks is ₹300.",
+        "The cost of 5 notebooks is ₹80."
+      ],
+      "answer": [
+        "The cost of 1 notebook is ₹15.",
+        "The cost of 10 notebooks is ₹150.",
+        "The cost of 20 notebooks is ₹300."
+      ],
+      "reasoning": "Since cost and number of notebooks are in direct proportion:\nCost of 1 notebook = 180 / 12 = ₹15. (Correct)\nCost of 10 notebooks = 10 × 15 = ₹150. (Correct)\nCost of 20 notebooks = 20 × 15 = ₹300. (Correct)\nCost of 5 notebooks = 5 × 15 = ₹75 (not ₹80). (Incorrect)"
+    },
+    "kn": {
+      "question": "12 ಒಂದೇ ತರಹದ ನೋಟ್‌ಬುಕ್‌ಗಳ ಬೆಲೆ ₹180 ಆದರೆ, ಈ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ? (ಅನ್ವಯಿಸುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ)",
+      "options": [
+        "1 ನೋಟ್‌ಬುಕ್‌ನ ಬೆಲೆ ₹15 ಆಗಿದೆ.",
+        "10 ನೋಟ್‌ಬುಕ್‌ಗಳ ಬೆಲೆ ₹150 ಆಗಿದೆ.",
+        "20 ನೋಟ್‌ಬುಕ್‌ಗಳ ಬೆಲೆ ₹300 ಆಗಿದೆ.",
+        "5 ನೋಟ್‌ಬುಕ್‌ಗಳ ಬೆಲೆ ₹80 ಆಗಿದೆ."
+      ],
+      "answer": [
+        "1 ನೋಟ್‌ಬುಕ್‌ನ ಬೆಲೆ ₹15 ಆಗಿದೆ.",
+        "10 ನೋಟ್‌ಬುಕ್‌ಗಳ ಬೆಲೆ ₹150 ಆಗಿದೆ.",
+        "20 ನೋಟ್‌ಬುಕ್‌ಗಳ ಬೆಲೆ ₹300 ಆಗಿದೆ."
+      ],
+      "reasoning": "ವೆಚ್ಚ ಮತ್ತು ನೋಟ್‌ಬುಕ್‌ಗಳ ಸಂಖ್ಯೆಯು ನೇರ ಅನುಪಾತದಲ್ಲಿರುವುದರಿಂದ:\n1 ನೋಟ್‌ಬುಕ್‌ನ ಬೆಲೆ = 180 / 12 = ₹15. (ಸರಿ)\n10 ನೋಟ್‌ಬುಕ್‌ಗಳ ಬೆಲೆ = 10 × 15 = ₹150. (ಸರಿ)\n20 ನೋಟ್‌ಬುಕ್‌ಗಳ ಬೆಲೆ = 20 × 15 = ₹300. (ಸರಿ)\n5 ನೋಟ್‌ಬುಕ್‌ಗಳ ಬೆಲೆ = 5 × 15 = ₹75 ಆಗುತ್ತದೆ, ₹80 ಅಲ್ಲ. (ತಪ್ಪು)"
+    }
+  },
+  {
+    "id": "c8_math_prop_016",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the value of x with the value of y such that x and y vary inversely with a constant of variation k = 120 (i.e. x × y = 120).",
+      "pairs": [
+        {
+          "left": "x = 10",
+          "right": "y = 12"
+        },
+        {
+          "left": "x = 5",
+          "right": "y = 24"
+        },
+        {
+          "left": "x = 8",
+          "right": "y = 15"
+        },
+        {
+          "left": "x = 12",
+          "right": "y = 10"
+        }
+      ],
+      "reasoning": "Since x and y vary inversely with k = 120, y = 120/x:\n- If x = 10, y = 120/10 = 12.\n- If x = 5, y = 120/5 = 24.\n- If x = 8, y = 120/8 = 15.\n- If x = 12, y = 120/12 = 10."
+    },
+    "kn": {
+      "question": "ಸ್ಥಿರಾಂಕ k = 120 ಇರುವಂತೆ (ಅಂದರೆ x × y = 120) ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿ ಬದಲಾಗುವ x ಮತ್ತು y ಗಳ ಬೆಲೆಗಳನ್ನು ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "x = 10",
+          "right": "y = 12"
+        },
+        {
+          "left": "x = 5",
+          "right": "y = 24"
+        },
+        {
+          "left": "x = 8",
+          "right": "y = 15"
+        },
+        {
+          "left": "x = 12",
+          "right": "y = 10"
+        }
+      ],
+      "reasoning": "x ಮತ್ತು y ಸ್ಥಿರಾಂಕ k = 120 ಯೊಂದಿಗೆ ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿ ಬದಲಾಗುವುದರಿಂದ, y = 120/x:\n- x = 10 ಆದರೆ, y = 120/10 = 12.\n- x = 5 ಆದರೆ, y = 120/5 = 24.\n- x = 8 ಆದರೆ, y = 120/8 = 15.\n- x = 12 ಆದರೆ, y = 120/12 = 10."
+    }
+  },
+  {
+    "id": "c8_math_prop_017",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the map distance with the corresponding actual ground distance using the map scale: 2 cm = 50 km (or 1 cm = 25 km).",
+      "pairs": [
+        {
+          "left": "4 cm",
+          "right": "100 km"
+        },
+        {
+          "left": "10 cm",
+          "right": "250 km"
+        },
+        {
+          "left": "1 cm",
+          "right": "25 km"
+        },
+        {
+          "left": "6 cm",
+          "right": "150 km"
+        }
+      ],
+      "reasoning": "Map distance and actual distance are in direct proportion. The scale is 1 cm = 25 km. Therefore, actual distance = Map distance × 25 km/cm:\n- 4 cm = 4 × 25 = 100 km.\n- 10 cm = 10 × 25 = 250 km.\n- 1 cm = 1 × 25 = 25 km.\n- 6 cm = 6 × 25 = 150 km."
+    },
+    "kn": {
+      "question": "ನಕ್ಷೆಯ ಪ್ರಮಾಣ 2 ಸೆಂ.ಮೀ = 50 ಕಿ.ಮೀ (ಅಂದರೆ 1 ಸೆಂ.ಮೀ = 25 ಕಿ.ಮೀ) ಬಳಸಿ, ನಕ್ಷೆಯ ದೂರವನ್ನು ಭೂಮಿಯ ಮೇಲಿನ ನೈಜ ದೂರಕ್ಕೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "4 ಸೆಂ.ಮೀ",
+          "right": "100 ಕಿ.ಮೀ"
+        },
+        {
+          "left": "10 ಸೆಂ.ಮೀ",
+          "right": "250 ಕಿ.ಮೀ"
+        },
+        {
+          "left": "1 ಸೆಂ.ಮೀ",
+          "right": "25 ಕಿ.ಮೀ"
+        },
+        {
+          "left": "6 ಸೆಂ.ಮೀ",
+          "right": "150 ಕಿ.ಮೀ"
+        }
+      ],
+      "reasoning": "ನಕ್ಷೆಯ ದೂರ ಮತ್ತು ನೈಜ ದೂರ ನೇರ ಅನುಪಾತದಲ್ಲಿರುತ್ತವೆ. ಪ್ರಮಾಣ 1 ಸೆಂ.ಮೀ = 25 ಕಿ.ಮೀ. ಆದ್ದರಿಂದ, ನೈಜ ದೂರ = ನಕ್ಷೆಯ ದೂರ × 25:\n- 4 ಸೆಂ.ಮೀ = 4 × 25 = 100 ಕಿ.ಮೀ.\n- 10 sೆಂ.ಮೀ = 10 × 25 = 250 ಕಿ.ಮೀ.\n- 1 ಸೆಂ.ಮೀ = 1 × 25 = 25 ಕಿ.ಮೀ.\n- 6 ಸೆಂ.ಮೀ = 6 × 25 = 150 ಕಿ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_prop_018",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "A car takes 2 hours to reach a destination by traveling at a speed of 60 km/h. How long will it take when the car travels at a speed of 80 km/h?",
+      "options": [
+        "1.5 hours",
+        "1.2 hours",
+        "2.5 hours",
+        "1.75 hours"
+      ],
+      "answer": "1.5 hours",
+      "reasoning": "Speed and time are in inverse proportion when the distance is constant. Speed1 × Time1 = Speed2 × Time2. Here, 60 × 2 = 80 × Time2. 120 = 80 × Time2 => Time2 = 120 / 80 = 1.5 hours (or 1 hour 30 minutes)."
+    },
+    "kn": {
+      "question": "ಒಂದು ಕಾರು 60 ಕಿ.ಮೀ/ಗಂಟೆ ವೇಗದಲ್ಲಿ ಚಲಿಸಿ ಒಂದು ನಿರ್ದಿಷ್ಟ ಸ್ಥಳವನ್ನು ತಲುಪಲು 2 ಗಂಟೆ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ. ಕಾರು 80 ಕಿ.ಮೀ/ಗಂಟೆ ವೇಗದಲ್ಲಿ ಚಲಿಸಿದರೆ ಎಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ?",
+      "options": [
+        "1.5 ಗಂಟೆಗಳು",
+        "1.2 ಗಂಟೆಗಳು",
+        "2.5 ಗಂಟೆಗಳು",
+        "1.75 ಗಂಟೆಗಳು"
+      ],
+      "answer": "1.5 ಗಂಟೆಗಳು",
+      "reasoning": "ದೂರವು ಸ್ಥಿರವಾಗಿರುವಾಗ ವೇಗ ಮತ್ತು ಸಮಯ ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿರುತ್ತವೆ. ವೇಗ1 × ಸಮಯ1 = ವೇಗ2 × ಸಮಯ2. ಇಲ್ಲಿ, 60 × 2 = 80 × ಸಮಯ2. 120 = 80 × ಸಮಯ2 => ಸಮಯ2 = 120 / 80 = 1.5 ಗಂಟೆಗಳು (ಅಂದರೆ 1 ಗಂಟೆ 30 ನಿಮಿಷಗಳು)."
+    }
+  },
+  {
+    "id": "c8_math_prop_img_019",
+    "difficulty": 2,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"280\" height=\"180\" rx=\"6\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><circle cx=\"100\" cy=\"100\" r=\"40\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"3\"/><circle cx=\"100\" cy=\"100\" r=\"35\" fill=\"none\" stroke=\"#2563EB\" stroke-dasharray=\"6\"/><circle cx=\"170\" cy=\"100\" r=\"20\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"3\"/><circle cx=\"170\" cy=\"100\" r=\"16\" fill=\"none\" stroke=\"#2563EB\" stroke-dasharray=\"4\"/><circle cx=\"100\" cy=\"100\" r=\"4\" fill=\"#059669\"/><circle cx=\"170\" cy=\"100\" r=\"4\" fill=\"#059669\"/><line x1=\"100\" y1=\"100\" x2=\"170\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"1.5\" stroke-dasharray=\"2\"/><text x=\"70\" y=\"45\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#DC2626\">Gear A (24 teeth)</text><text x=\"75\" y=\"155\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#DC2626\">Speed = 10 RPM</text><text x=\"165\" y=\"65\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#DC2626\">Gear B (12 teeth)</text><text x=\"165\" y=\"135\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#DC2626\">Speed = ? RPM</text></svg>",
+      "alt": {
+        "en": "Two meshed gears, Gear A with 24 teeth rotating at 10 RPM, and Gear B with 12 teeth rotating at a speed of question mark RPM.",
+        "kn": "ಸ್ಪರ್ಶಿಸುವ ಎರಡು ಗೇರ್‌ಗಳು, ಗೇರ್ A 24 ಹಲ್ಲುಗಳನ್ನು ಹೊಂದಿದ್ದು 10 RPM ವೇಗದಲ್ಲಿ ತಿರುಗುತ್ತದೆ ಮತ್ತು ಗೇರ್ B 12 ಹಲ್ಲುಗಳನ್ನು ಹೊಂದಿದ್ದು ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆ RPM ವೇಗದಲ್ಲಿ ತಿರುಗುತ್ತದೆ."
+      }
+    },
+    "en": {
+      "question": "Two gears A and B are meshed together. The number of teeth and speed of rotation (RPM) vary inversely. Find the speed of Gear B in RPM.",
+      "options": [
+        "20 RPM",
+        "5 RPM",
+        "15 RPM",
+        "30 RPM"
+      ],
+      "answer": "20 RPM",
+      "reasoning": "Since the number of teeth and speed are in inverse proportion: TeethA × SpeedA = TeethB × SpeedB. Here, 24 × 10 = 12 × SpeedB. 240 = 12 × SpeedB => SpeedB = 240 / 12 = 20 RPM."
+    },
+    "kn": {
+      "question": "ಎರಡು ಗೇರ್‌ಗಳು A ಮತ್ತು B ಪರಸ್ಪರ ಸ್ಪರ್ಶಿಸುತ್ತವೆ. ಹಲ್ಲುಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ತಿರುಗುವಿಕೆಯ ವೇಗ (RPM) ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿರುತ್ತವೆ. ಗೇರ್ B ಯ ವೇಗವನ್ನು RPM ನಲ್ಲಿ ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "20 RPM",
+        "5 RPM",
+        "15 RPM",
+        "30 RPM"
+      ],
+      "answer": "20 RPM",
+      "reasoning": "ಗೇರ್ ಹಲ್ಲುಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ವೇಗ ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿರುವುದರಿಂದ: ಹಲ್ಲುಗಳುA × ವೇಗA = ಹಲ್ಲುಗಳುB × ವೇಗB. ಇಲ್ಲಿ, 24 × 10 = 12 × ವೇಗB. 240 = 12 × ವೇಗB => ವೇಗB = 240 / 12 = 20 RPM."
+    }
+  },
+  {
+    "id": "c8_math_prop_img_020",
+    "difficulty": 2,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"15\" y=\"15\" width=\"270\" height=\"170\" rx=\"6\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><circle cx=\"60\" cy=\"80\" r=\"8\" fill=\"#059669\"/><circle cx=\"220\" cy=\"80\" r=\"8\" fill=\"#059669\"/><line x1=\"60\" y1=\"80\" x2=\"220\" y2=\"80\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"60\" y1=\"90\" x2=\"220\" y2=\"90\" stroke=\"#DC2626\" stroke-width=\"1.5\"/><line x1=\"60\" y1=\"85\" x2=\"60\" y2=\"95\" stroke=\"#DC2626\" stroke-width=\"1.5\"/><line x1=\"220\" y1=\"85\" x2=\"220\" y2=\"95\" stroke=\"#DC2626\" stroke-width=\"1.5\"/><rect x=\"70\" y=\"130\" width=\"160\" height=\"35\" fill=\"#ffffff\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><text x=\"45\" y=\"60\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#059669\">Town A</text><text x=\"205\" y=\"60\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#059669\">Town B</text><text x=\"125\" y=\"105\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#DC2626\">5 cm (on Map)</text><text x=\"80\" y=\"152\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#2563EB\">Scale: 1 cm = 40 km</text></svg>",
+      "alt": {
+        "en": "A map diagram showing Town A and Town B separated by 5 cm on map with a scale bar indicating 1 cm = 40 km.",
+        "kn": "ನಕ್ಷೆಯಲ್ಲಿ 5 ಸೆಂ.ಮೀ ದೂರವಿರುವ ಪಟ್ಟಣ A ಮತ್ತು ಪಟ್ಟಣ B ಚಿತ್ರ, ಪ್ರಮಾಣವು 1 ಸೆಂ.ಮೀ = 40 ಕಿ.ಮೀ ಎಂದು ತೋರಿಸುತ್ತಿದೆ."
+      }
+    },
+    "en": {
+      "question": "According to the map scale shown in the image, what is the actual ground distance between Town A and Town B?",
+      "options": [
+        "200 km",
+        "160 km",
+        "240 km",
+        "80 km"
+      ],
+      "answer": "200 km",
+      "reasoning": "The map distance and actual ground distance are in direct proportion. The scale is 1 cm = 40 km. Given the map distance is 5 cm, the actual distance is 5 cm × 40 km/cm = 200 km."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ನಕ್ಷೆಯ ಪ್ರಮಾಣಕ್ಕೆ ಅನುಗುಣವಾಗಿ, ಪಟ್ಟಣ A ಮತ್ತು ಪಟ್ಟಣ B ನಡುವಿನ ನೈಜ ಭೂಮಿಯ ಮೇಲಿನ ದೂರ ಎಷ್ಟು?",
+      "options": [
+        "200 ಕಿ.ಮೀ",
+        "160 ಕಿ.ಮೀ",
+        "240 ಕಿ.ಮೀ",
+        "80 ಕಿ.ಮೀ"
+      ],
+      "answer": "200 ಕಿ.ಮೀ",
+      "reasoning": "ನಕ್ಷೆಯ ದೂರ ಮತ್ತು ಭೂಮಿಯ ಮೇಲಿನ ನೈಜ ದೂರ ನೇರ ಅನುಪಾತದಲ್ಲಿರುತ್ತವೆ. ನಕ್ಷೆಯ ಪ್ರಮಾಣ 1 ಸೆಂ.ಮೀ = 40 ಕಿ.ಮೀ ಆಗಿದೆ. ನಕ್ಷೆಯ ಮೇಲಿನ ದೂರ 5 ಸೆಂ.ಮೀ ಇರುವುದರಿಂದ, ನೈಜ ದೂರ = 5 × 40 = 200 ಕಿ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_prop_021",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "A camp has food provisions for 120 men for 20 days. If 30 more men join the camp, how long will the provisions last?",
+      "options": [
+        "16 days",
+        "15 days",
+        "18 days",
+        "12 days"
+      ],
+      "answer": "16 days",
+      "reasoning": "The number of men and the number of days the provisions last are in inverse proportion. Initially, we have Men1 = 120, Days1 = 20. Total provision = 120 × 20 = 2400 man-days. When 30 more men join, Men2 = 120 + 30 = 150. Let the new number of days be 'd'. Then, 150 × d = 2400 => d = 2400 / 150 = 16 days."
+    },
+    "kn": {
+      "question": "ಒಂದು ಶಿಬಿರದಲ್ಲಿ 120 ಜನರಿಗೆ 20 ದಿನಗಳಿಗೆ ಸಾಕಾಗುವಷ್ಟು ಆಹಾರ ಸಾಮಗ್ರಿ ಇದೆ. ಇನ್ನೂ 30 ಜನರು ಹೆಚ್ಚುವರಿಯಾಗಿ ಶಿಬಿರಕ್ಕೆ ಸೇರಿದರೆ, ಆ ಸಾಮಗ್ರಿ ಎಷ್ಟು ದಿನಗಳಿಗೆ ಸಾಕಾಗುತ್ತದೆ?",
+      "options": [
+        "16 ದಿನಗಳು",
+        "15 ದಿನಗಳು",
+        "18 ದಿನಗಳು",
+        "12 ದಿನಗಳು"
+      ],
+      "answer": "16 ದಿನಗಳು",
+      "reasoning": "ಜನರ ಸಂಖ್ಯೆ ಮತ್ತು ಆಹಾರ ಸಾಮಗ್ರಿ ಸಾಕಾಗುವ ದಿನಗಳ ಸಂಖ್ಯೆ ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿರುತ್ತವೆ. ಪ್ರಾರಂಭದಲ್ಲಿ, ಜನರು = 120, ದಿನಗಳು = 20. ಒಟ್ಟು ಆಹಾರ ಸಾಮಗ್ರಿ = 120 × 20 = 2400 ಮಾನವ-ದಿನಗಳು. 30 ಹೊಸ ಜನರು ಸೇರಿದಾಗ, ಒಟ್ಟು ಜನರು = 120 + 30 = 150. ಬೇಕಾಗುವ ದಿನಗಳ ಸಂಖ್ಯೆ 'd' ಆಗಿರಲಿ. ಆಗ, 150 × d = 2400 => d = 2400 / 150 = 16 ದಿನಗಳು."
+    }
+  },
+  {
+    "id": "c8_math_prop_022",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "6 pipes can fill a tank in 1 hour 20 minutes. How long will it take if only 5 pipes of the same type are used?",
+      "options": [
+        "96 minutes",
+        "80 minutes",
+        "100 minutes",
+        "90 minutes"
+      ],
+      "answer": "96 minutes",
+      "reasoning": "Number of pipes and time taken are in inverse proportion. First, convert time to minutes: 1 hour 20 minutes = 80 minutes. Let the time taken by 5 pipes be 't'. Then, 6 × 80 = 5 × t => 480 = 5t => t = 480 / 5 = 96 minutes (or 1 hour 36 minutes)."
+    },
+    "kn": {
+      "question": "6 ಕೊಳವೆಗಳು ಒಂದು ತೊಟ್ಟಿಯನ್ನು ತುಂಬಲು 1 ಗಂಟೆ 20 ನಿಮಿಷ ತೆಗೆದುಕೊಳ್ಳುತ್ತವೆ. ಅದೇ ತರಹದ ಕೇವಲ 5 ಕೊಳವೆಗಳನ್ನು ಬಳಸಿದರೆ ತೊಟ್ಟಿ ತುಂಬಲು ಎಷ್ಟು ಸಮಯ ಬೇಕಾಗುತ್ತದೆ?",
+      "options": [
+        "96 ನಿಮಿಷಗಳು",
+        "80 ನಿಮಿಷಗಳು",
+        "100 ನಿಮಿಷಗಳು",
+        "90 ನಿಮಿಷಗಳು"
+      ],
+      "answer": "96 ನಿಮಿಷಗಳು",
+      "reasoning": "ಕೊಳವೆಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ತಗಲುವ ಸಮಯ ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿರುತ್ತವೆ. ಮೊದಲಿಗೆ, ಸಮಯವನ್ನು ನಿಮಿಷಕ್ಕೆ ಪರಿವರ್ತಿಸಿ: 1 ಗಂಟೆ 20 ನಿಮಿಷ = 80 ನಿಮಿಷ. 5 ಕೊಳವೆಗಳು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ 't' ಆಗಿರಲಿ. ಆಗ, 6 × 80 = 5 × t => 480 = 5t => t = 480 / 5 = 96 ನಿಮಿಷಗಳು (ಅಂದರೆ 1 ಗಂಟೆ 36 ನಿಮಿಷಗಳು)."
+    }
+  },
+  {
+    "id": "c8_math_prop_023",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "If a machine in a soft drink factory fills 840 bottles in 6 hours, how many bottles will it fill in 5 hours?",
+      "options": [
+        "700",
+        "720",
+        "680",
+        "750"
+      ],
+      "answer": "700",
+      "reasoning": "The number of bottles filled is in direct proportion to the time taken. Let the number of bottles filled in 5 hours be 'x'. Then, 840 / 6 = x / 5 => 140 = x / 5 => x = 140 × 5 = 700 bottles."
+    },
+    "kn": {
+      "question": "ತಂಪು ಪಾನೀಯ ಕಾರ್ಖಾನೆಯೊಂದರ ಯಂತ್ರವು 6 ಗಂಟೆಗಳಲ್ಲಿ 840 ಬಾಟಲಿಗಳನ್ನು ತುಂಬುತ್ತದೆ. ಅದು 5 ಗಂಟೆಗಳಲ್ಲಿ ಎಷ್ಟು ಬಾಟಲಿಗಳನ್ನು ತುಂಬಬಹುದು?",
+      "options": [
+        "700",
+        "720",
+        "680",
+        "750"
+      ],
+      "answer": "700",
+      "reasoning": "ತುಂಬಲಾದ ಬಾಟಲಿಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ ನೇರ ಅನುಪಾತದಲ್ಲಿರುತ್ತವೆ. 5 ಗಂಟೆಗಳಲ್ಲಿ ತುಂಬುವ ಬಾಟಲಿಗಳ ಸಂಖ್ಯೆ 'x' ಆಗಿರಲಿ. ಆಗ, 840 / 6 = x / 5 => 140 = x / 5 => x = 140 × 5 = 700 ಬಾಟಲಿಗಳು."
+    }
+  },
+  {
+    "id": "c8_math_prop_024",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "In which of the following cases will the two quantities vary inversely with each other? (Select all that apply)",
+      "options": [
+        "The number of workers and the time taken to complete a job.",
+        "Speed of a car and the time taken to cover a fixed distance.",
+        "The area of cultivated land and the crop harvested.",
+        "The time taken for a journey and the distance traveled at a constant speed."
+      ],
+      "answer": [
+        "The number of workers and the time taken to complete a job.",
+        "Speed of a car and the time taken to cover a fixed distance."
+      ],
+      "reasoning": "Let's check each option:\n1. Workers and Time: More workers mean less time to complete a job. (Inverse Variation)\n2. Speed and Time: Higher speed means less time to cover a fixed distance. (Inverse Variation)\n3. Cultivated Land and Crop: More land results in more crop. (Direct Variation)\n4. Time and Distance (at constant speed): More time means more distance covered. (Direct Variation)"
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನ ಯಾವ ಸಂದರ್ಭಗಳಲ್ಲಿ ಎರಡು ಪರಿಮಾಣಗಳು ಪರಸ್ಪರ ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿ ಬದಲಾಗುತ್ತವೆ? (ಅನ್ವಯಿಸುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ)",
+      "options": [
+        "ಕೆಲಸಗಾರರ ಸಂಖ್ಯೆ ಮತ್ತು ಕೆಲಸ ಪೂರ್ಣಗೊಳಿಸಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ.",
+        "ಕಾರಿನ ವೇಗ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ದೂರವನ್ನು ಕ್ರಮಿಸಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ.",
+        "ಕೃಷಿ ಭೂಮಿಯ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಕೊಯ್ಲು ಮಾಡಿದ ಬೆಳೆ.",
+        "ಸ್ಥಿರ ವೇಗದಲ್ಲಿ ಪ್ರಯಾಣದ ಸಮಯ ಮತ್ತು ಕ್ರಮಿಸಿದ ದೂರ."
+      ],
+      "answer": [
+        "ಕೆಲಸಗಾರರ ಸಂಖ್ಯೆ ಮತ್ತು ಕೆಲಸ ಪೂರ್ಣಗೊಳಿಸಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ.",
+        "ಕಾರಿನ ವೇಗ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ದೂರವನ್ನು ಕ್ರಮಿಸಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ."
+      ],
+      "reasoning": "ಪ್ರತಿ ಆಯ್ಕೆಯನ್ನು ಪರಿಶೀಲಿಸೋಣ:\n1. ಕೆಲಸಗಾರರು ಮತ್ತು ಸಮಯ: ಹೆಚ್ಚು ಕೆಲಸಗಾರರಿದ್ದರೆ ಕೆಲಸ ಮುಗಿಸಲು ಕಡಿಮೆ ಸಮಯ ಬೇಕು. (ವಿಲೋಮ)\n2. ವೇಗ ಮತ್ತು ಸಮಯ: ಹೆಚ್ಚಿನ ವೇಗವಿದ್ದರೆ ನಿರ್ದಿಷ್ಟ ದೂರಕ್ಕೆ ಕಡಿಮೆ ಸಮಯ ಬೇಕು. (ವಿಲೋಮ)\n3. ಕೃಷಿ ಭೂಮಿ ಮತ್ತು ಬೆಳೆ: ಹೆಚ್ಚು ಭೂಮಿಯಿದ್ದರೆ ಹೆಚ್ಚು ಬೆಳೆ ಸಿಗುತ್ತದೆ. (ನೇರ)\n4. ಪ್ರಯಾಣದ ಸಮಯ ಮತ್ತು ದೂರ (ಸ್ಥಿರ ವೇಗದಲ್ಲಿ): ಹೆಚ್ಚು ಸಮಯ ಪ್ರಯಾಣಿಸಿದರೆ ಹೆಚ್ಚು ದೂರ ಚಲಿಸಬಹುದು. (ನೇರ)"
+    }
+  },
+  {
+    "id": "c8_math_prop_025",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "In a hostel with 100 students, the food provisions last for 20 days. If 25 students leave the hostel, which of the following statements are correct? (Select all that apply)",
+      "options": [
+        "The remaining number of students is 75.",
+        "The food stock will now last for 26.67 days.",
+        "The total number of student-days of food is 2000.",
+        "The food stock will now last for 15 days."
+      ],
+      "answer": [
+        "The remaining number of students is 75.",
+        "The food stock will now last for 26.67 days.",
+        "The total number of student-days of food is 2000."
+      ],
+      "reasoning": "Let's calculate the values for inverse proportion:\n- Initial students = 100, Days = 20. Total provisions = 100 × 20 = 2000 student-days. (Correct)\n- Remaining students after 25 leave = 100 - 25 = 75. (Correct)\n- Let the new number of days be 'd'. Then, 75 × d = 2000 => d = 2000 / 75 = 80 / 3 ≈ 26.67 days. (Correct)\n- The statement that the food stock lasts for 15 days is incorrect."
+    },
+    "kn": {
+      "question": "100 ವಿದ್ಯಾರ್ಥಿಗಳಿರುವ ವಸತಿ ನಿಲಯವೊಂದರಲ್ಲಿ 20 ದಿನಗಳಿಗೆ ಸಾಕಾಗುವಷ್ಟು ಆಹಾರ ಸಾಮಗ್ರಿ ಇದೆ. 25 ವಿದ್ಯಾರ್ಥಿಗಳು ವಸತಿ ನಿಲಯವನ್ನು ತೊರೆದರೆ, ಈ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ? (ಅನ್ವಯಿಸುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ)",
+      "options": [
+        "ಉಳಿದಿರುವ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆ 75 ಆಗಿದೆ.",
+        "ಆಹಾರ ಸಾಮಗ್ರಿ ಈಗ 26.67 ದಿನಗಳವರೆಗೆ ಸಾಕಾಗುತ್ತದೆ.",
+        "ಒಟ್ಟು ವಿದ್ಯಾರ್ಥಿ-ದಿನಗಳ ಆಹಾರ ಸಾಮಗ್ರಿ ಸಾಮರ್ಥ್ಯ 2000 ಆಗಿದೆ.",
+        "ಆಹಾರ ಸಾಮಗ್ರಿ ಈಗ 15 ದಿನಗಳವರೆಗೆ ಸಾಕಾಗುತ್ತದೆ."
+      ],
+      "answer": [
+        "ಉಳಿದಿರುವ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆ 75 ಆಗಿದೆ.",
+        "ಆಹಾರ ಸಾಮಗ್ರಿ ಈಗ 26.67 ದಿನಗಳವರೆಗೆ ಸಾಕಾಗುತ್ತದೆ.",
+        "ಒಟ್ಟು ವಿದ್ಯಾರ್ಥಿ-ದಿನಗಳ ಆಹಾರ ಸಾಮಗ್ರಿ ಸಾಮರ್ಥ್ಯ 2000 ಆಗಿದೆ."
+      ],
+      "reasoning": "ವಿಲೋಮ ಅನುಪಾತದ ಮೌಲ್ಯಗಳನ್ನು ಲೆಕ್ಕಹಾಕೋಣ:\n- ಆರಂಭಿಕ ವಿದ್ಯಾರ್ಥಿಗಳು = 100, ದಿನಗಳು = 20. ಒಟ್ಟು ಸಾಮಗ್ರಿ = 100 × 20 = 2000 ವಿದ್ಯಾರ್ಥಿ-ದಿನಗಳು. (ಸರಿ)\n- 25 ವಿದ್ಯಾರ್ಥಿಗಳು ಹೋದ ನಂತರ ಉಳಿದ ವಿದ್ಯಾರ್ಥಿಗಳು = 100 - 25 = 75. (ಸರಿ)\n- ಹೊಸ ದಿನಗಳ ಸಂಖ್ಯೆ 'd' ಆಗಿರಲಿ. ಆಗ, 75 × d = 2000 => d = 2000 / 75 = 80 / 3 ≈ 26.67 ದಿನಗಳು. (ಸರಿ)\n- ಆಹಾರ ಸಾಮಗ್ರಿ 15 ದಿನಗಳಿಗೆ ಸಾಕಾಗುತ್ತದೆ ಎಂಬ ಹೇಳಿಕೆ ತಪ್ಪಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_prop_026",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the number of workers with the number of days they will take to complete a project requiring 240 worker-days of total labor.",
+      "pairs": [
+        {
+          "left": "10 workers",
+          "right": "24 days"
+        },
+        {
+          "left": "20 workers",
+          "right": "12 days"
+        },
+        {
+          "left": "15 workers",
+          "right": "16 days"
+        },
+        {
+          "left": "30 workers",
+          "right": "8 days"
+        }
+      ],
+      "reasoning": "Since the total labor is 240 worker-days, Workers × Days = 240:\n- 10 workers × 24 days = 240.\n- 20 workers × 12 days = 240.\n- 15 workers × 16 days = 240.\n- 30 workers × 8 days = 240."
+    },
+    "kn": {
+      "question": "ಒಟ್ಟು 240 ಮಾನವ-ದಿನಗಳ ಶ್ರಮದ ಅಗತ್ಯವಿರುವ ಯೋಜನೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಬೇಕಾದ ಕೆಲಸಗಾರರ ಸಂಖ್ಯೆಯನ್ನು ದಿನಗಳ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "10 ಕೆಲಸಗಾರರು",
+          "right": "24 ದಿನಗಳು"
+        },
+        {
+          "left": "20 ಕೆಲಸಗಾರರು",
+          "right": "12 ದಿನಗಳು"
+        },
+        {
+          "left": "15 ಕೆಲಸಗಾರರು",
+          "right": "16 ದಿನಗಳು"
+        },
+        {
+          "left": "30 ಕೆಲಸಗಾರರು",
+          "right": "8 ದಿನಗಳು"
+        }
+      ],
+      "reasoning": "ಒಟ್ಟು ಶ್ರಮ 240 ಮಾನವ-ದಿನಗಳು ಆಗಿರುವುದರಿಂದ, ಕೆಲಸಗಾರರು × ದಿನಗಳು = 240:\n- 10 ಕೆಲಸಗಾರರು × 24 ದಿನಗಳು = 240.\n- 20 ಕೆಲಸಗಾರರು × 12 ದಿನಗಳು = 240.\n- 15 ಕೆಲಸಗಾರರು × 16 ದಿನಗಳು = 240.\n- 30 ಕೆಲಸಗಾರರು × 8 ದಿನಗಳು = 240."
+    }
+  },
+  {
+    "id": "c8_math_prop_027",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the average speed of an airplane with the time it takes to travel a fixed distance of 3000 km.",
+      "pairs": [
+        {
+          "left": "500 km/h",
+          "right": "6 hours"
+        },
+        {
+          "left": "600 km/h",
+          "right": "5 hours"
+        },
+        {
+          "left": "750 km/h",
+          "right": "4 hours"
+        },
+        {
+          "left": "1000 km/h",
+          "right": "3 hours"
+        }
+      ],
+      "reasoning": "Speed and time vary inversely for a fixed distance. Speed × Time = 3000 km:\n- 500 km/h × 6 h = 3000 km.\n- 600 km/h × 5 h = 3000 km.\n- 750 km/h × 4 h = 3000 km.\n- 1000 km/h × 3 h = 3000 km."
+    },
+    "kn": {
+      "question": "ಸ್ಥಿರವಾದ 3000 ಕಿ.ಮೀ ದೂರವನ್ನು ಕ್ರಮಿಸಲು ವಿಮಾನದ ಸರಾಸರಿ ವೇಗವನ್ನು ಅದು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "500 ಕಿ.ಮೀ/ಗಂಟೆ",
+          "right": "6 ಗಂಟೆಗಳು"
+        },
+        {
+          "left": "600 ಕಿ.ಮೀ/ಗಂಟೆ",
+          "right": "5 ಗಂಟೆಗಳು"
+        },
+        {
+          "left": "750 ಕಿ.ಮೀ/ಗಂಟೆ",
+          "right": "4 ಗಂಟೆಗಳು"
+        },
+        {
+          "left": "1000 ಕಿ.ಮೀ/ಗಂಟೆ",
+          "right": "3 ಗಂಟೆಗಳು"
+        }
+      ],
+      "reasoning": "ನಿರ್ದಿಷ್ಟ ದೂರಕ್ಕೆ ವೇಗ ಮತ್ತು ಸಮಯ ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿ ಬದಲಾಗುತ್ತವೆ. ವೇಗ × ಸಮಯ = 3000 ಕಿ.ಮೀ:\n- 500 ಕಿ.ಮೀ/ಗಂಟೆ × 6 ಗಂಟೆ = 3000 ಕಿ.ಮೀ.\n- 600 ಕಿ.ಮೀ/ಗಂಟೆ × 5 ಗಂಟೆ = 3000 ಕಿ.ಮೀ.\n- 750 ಕಿ.ಮೀ/ಗಂಟೆ × 4 ಗಂಟೆ = 3000 ಕಿ.ಮೀ.\n- 1000 ಕಿ.ಮೀ/ಗಂಟೆ × 3 ಗಂಟೆ = 3000 ಕಿ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_prop_028",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "A loaded truck travels 14 km in 25 minutes. If the speed remains the same, how far can it travel in 5 hours?",
+      "options": [
+        "168 km",
+        "140 km",
+        "150 km",
+        "180 km"
+      ],
+      "answer": "168 km",
+      "reasoning": "Distance and time are in direct proportion since speed is constant. First, convert 5 hours into minutes: 5 × 60 = 300 minutes. Let the distance covered be 'x'. We set up the proportion: 14 / 25 = x / 300. Solving for x: x = (14 × 300) / 25 = 14 × 12 = 168 km."
+    },
+    "kn": {
+      "question": "ಸರಕು ತುಂಬಿದ ಲಾರಿಯೊಂದು 25 ನಿಮಿಷಗಳಲ್ಲಿ 14 ಕಿ.ಮೀ ಚಲಿಸುತ್ತದೆ. ಲಾರಿಯ ವೇಗ ಒಂದೇ ಸಮನಾಗಿದ್ದರೆ, ಅದು 5 ಗಂಟೆಗಳಲ್ಲಿ ಎಷ್ಟು ದೂರ ಚಲಿಸಬಹುದು?",
+      "options": [
+        "168 ಕಿ.ಮೀ",
+        "140 ಕಿ.ಮೀ",
+        "150 ಕಿ.ಮೀ",
+        "180 ಕಿ.ಮೀ"
+      ],
+      "answer": "168 ಕಿ.ಮೀ",
+      "reasoning": "ವೇಗ ಸ್ಥಿರವಾಗಿರುವುದರಿಂದ ದೂರ ಮತ್ತು ಸಮಯ ನೇರ ಅನುಪಾತದಲ್ಲಿರುತ್ತವೆ. ಮೊದಲಿಗೆ, 5 ಗಂಟೆಗಳನ್ನು ನಿಮಿಷಗಳಿಗೆ ಪರಿವರ್ತಿಸಿ: 5 × 60 = 300 ನಿಮಿಷಗಳು. ಕ್ರಮಿಸುವ ದೂರ 'x' ಆಗಿರಲಿ. ನೇರ ಅನುಪಾತದ ಸೂತ್ರ: 14 / 25 = x / 300. x ಅನ್ನು ಬಿಡಿಸಿದಾಗ: x = (14 × 300) / 25 = 14 × 12 = 168 ಕಿ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_prop_029",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "If 52 men can complete a piece of work in 35 days, in how many days will 28 men complete the same work?",
+      "options": [
+        "65 days",
+        "70 days",
+        "60 days",
+        "50 days"
+      ],
+      "answer": "65 days",
+      "reasoning": "The number of men and the number of days are in inverse proportion. Men1 × Days1 = Men2 × Days2. Here, 52 × 35 = 28 × Days2. Solving for Days2: Days2 = (52 × 35) / 28 = (13 × 4 × 35) / (7 × 4) = 13 × 5 = 65 days."
+    },
+    "kn": {
+      "question": "52 ಜನರು ಒಂದು ಕೆಲಸವನ್ನು 35 ದಿನಗಳಲ್ಲಿ ಪೂರ್ಣಗೊಳಿಸಿದರೆ, ಅದೇ ಕೆಲಸವನ್ನು 28 ಜನರು ಎಷ್ಟು ದಿನಗಳಲ್ಲಿ ಪೂರ್ಣಗೊಳಿಸಬಹುದು?",
+      "options": [
+        "65 ದಿನಗಳು",
+        "70 ದಿನಗಳು",
+        "60 ದಿನಗಳು",
+        "50 ದಿನಗಳು"
+      ],
+      "answer": "65 ದಿನಗಳು",
+      "reasoning": "ಜನರ ಸಂಖ್ಯೆ ಮತ್ತು ತೆಗೆದುಕೊಳ್ಳುವ ದಿನಗಳು ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿರುತ್ತವೆ. ಜನರು1 × ದಿನಗಳು1 = ಜನರು2 × ದಿನಗಳು2. ಇಲ್ಲಿ, 52 × 35 = 28 × ದಿನಗಳು2. ದಿನಗಳು2 ಅನ್ನು ಬಿಡಿಸಿದಾಗ: ದಿನಗಳು2 = (52 × 35) / 28 = (13 × 4 × 35) / (7 × 4) = 13 × 5 = 65 ದಿನಗಳು."
+    }
+  },
+  {
+    "id": "c8_math_prop_img_030",
+    "difficulty": 3,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"280\" height=\"180\" rx=\"6\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1.5\"/><rect x=\"30\" y=\"40\" width=\"100\" height=\"50\" fill=\"#ffffff\" stroke=\"#2563EB\" stroke-width=\"2\"/><rect x=\"170\" y=\"40\" width=\"100\" height=\"50\" fill=\"#ffffff\" stroke=\"#2563EB\" stroke-width=\"2\"/><circle cx=\"55\" cy=\"65\" r=\"8\" fill=\"#059669\"/><circle cx=\"80\" cy=\"65\" r=\"8\" fill=\"#059669\"/><circle cx=\"105\" cy=\"65\" r=\"8\" fill=\"#059669\"/><circle cx=\"80\" cy=\"80\" r=\"6\" fill=\"#059669\"/><circle cx=\"195\" cy=\"65\" r=\"8\" fill=\"#059669\"/><circle cx=\"220\" cy=\"65\" r=\"8\" fill=\"#059669\"/><circle cx=\"245\" cy=\"65\" r=\"8\" fill=\"#059669\"/><circle cx=\"185\" cy=\"80\" r=\"6\" fill=\"#059669\"/><circle cx=\"210\" cy=\"80\" r=\"6\" fill=\"#059669\"/><circle cx=\"235\" cy=\"80\" r=\"6\" fill=\"#059669\"/><circle cx=\"220\" cy=\"50\" r=\"6\" fill=\"#059669\"/><circle cx=\"245\" cy=\"50\" r=\"6\" fill=\"#059669\"/><text x=\"40\" y=\"120\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">4 Workers</text><text x=\"40\" y=\"145\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">Time = 6 hours</text><text x=\"180\" y=\"120\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">8 Workers</text><text x=\"180\" y=\"145\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">Time = ? hours</text><line x1=\"140\" y1=\"65\" x2=\"160\" y2=\"65\" stroke=\"#EA580C\" stroke-width=\"2\"/><path d=\"M 155,61 L 160,65 L 155,69\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"2\"/></svg>",
+      "alt": {
+        "en": "An illustration showing 4 workers icons requiring 6 hours of time, and 8 workers icons requiring a red question mark of hours.",
+        "kn": "4 ಕೆಲಸಗಾರರ ಚಿಹ್ನೆಯು 6 ಗಂಟೆಗಳ ಸಮಯವನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ ಮತ್ತು 8 ಕೆಲಸಗಾರರ ಚಿಹ್ನೆಯು ಕೆಂಪು ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಯ ಗಂಟೆಗಳ ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ ಎಂದು ತೋರಿಸುವ ಚಿತ್ರ."
+      }
+    },
+    "en": {
+      "question": "If 4 workers can build a wall in 6 hours as shown in the image, how many hours will 8 workers take to build the same wall?",
+      "options": [
+        "3 hours",
+        "12 hours",
+        "4 hours",
+        "2 hours"
+      ],
+      "answer": "3 hours",
+      "reasoning": "The number of workers and the time taken are in inverse proportion. Let the time taken by 8 workers be 't'. Then: Workers1 × Time1 = Workers2 × Time2 => 4 × 6 = 8 × t => 24 = 8t => t = 24 / 8 = 3 hours."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ 4 ಕೆಲಸಗಾರರು ಒಂದು ಗೋಡೆಯನ್ನು ಕಟ್ಟಲು 6 ಗಂಟೆಗಳನ್ನು ತೆಗೆದುಕೊಂಡರೆ, ಅದೇ ಗೋಡೆಯನ್ನು ಕಟ್ಟಲು 8 ಕೆಲಸಗಾರರು ಎಷ್ಟು ಗಂಟೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತಾರೆ?",
+      "options": [
+        "3 ಗಂಟೆಗಳು",
+        "12 ಗಂಟೆಗಳು",
+        "4 ಗಂಟೆಗಳು",
+        "2 ಗಂಟೆಗಳು"
+      ],
+      "answer": "3 ಗಂಟೆಗಳು",
+      "reasoning": "ಕೆಲಸಗಾರರ ಸಂಖ್ಯೆ ಮತ್ತು ತಗಲುವ ಸಮಯ ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿರುತ್ತವೆ. 8 ಕೆಲಸಗಾರರು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ 't' ಆಗಿರಲಿ. ಆಗ: ಕೆಲಸಗಾರರು1 × ಸಮಯ1 = ಕೆಲಸಗಾರರು2 × ಸಮಯ2 => 4 × 6 = 8 × t => 24 = 8t => t = 24 / 8 = 3 ಗಂಟೆಗಳು."
+    }
+  }
+]

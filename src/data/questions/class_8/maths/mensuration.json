@@ -1,0 +1,688 @@
+[
+  {
+    "id": "c8_math_mens_001",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the area of a square whose side length is 8 cm?",
+      "options": ["64 cm²", "32 cm²", "16 cm²", "48 cm²"],
+      "answer": "64 cm²",
+      "reasoning": "The area of a square is calculated using the formula: Area = side × side. Given the side length of the square is 8 cm, the Area = 8 cm × 8 cm = 64 cm²."
+    },
+    "kn": {
+      "question": "8 ಸೆಂ.ಮೀ ಬಾಹುವಿನ ಉದ್ದವಿರುವ ಒಂದು ಚೌಕದ ವಿಸ್ತೀರ್ಣ ಎಷ್ಟು?",
+      "options": ["64 ಚ.ಸೆಂ.ಮೀ", "32 ಚ.ಸೆಂ.ಮೀ", "16 ಚ.ಸೆಂ.ಮೀ", "48 ಚ.ಸೆಂ.ಮೀ"],
+      "answer": "64 ಚ.ಸೆಂ.ಮೀ",
+      "reasoning": "ಚೌಕದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರ: ವಿಸ್ತೀರ್ಣ = ಬಾಹು × ಬಾಹು. ನೀಡಲಾದ ಬಾಹುವಿನ ಉದ್ದ 8 ಸೆಂ.ಮೀ ಆಗಿದೆ, ಆದ್ದರಿಂದ ವಿಸ್ತೀರ್ಣ = 8 ಸೆಂ.ಮೀ × 8 ಸೆಂ.ಮೀ = 64 ಚ.ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_mens_002",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Find the perimeter of a rectangle with length 15 cm and width 10 cm.",
+      "options": ["50 cm", "150 cm", "25 cm", "60 cm"],
+      "answer": "50 cm",
+      "reasoning": "The perimeter of a rectangle is given by the formula: Perimeter = 2 × (length + width). Here, length = 15 cm and width = 10 cm. Therefore, Perimeter = 2 × (15 + 10) = 2 × 25 = 50 cm."
+    },
+    "kn": {
+      "question": "ಉದ್ದ 15 ಸೆಂ.ಮೀ ಮತ್ತು ಅಗಲ 10 ಸೆಂ.ಮೀ ಇರುವ ಆಯತದ ಸುತ್ತಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["50 ಸೆಂ.ಮೀ", "150 ಸೆಂ.ಮೀ", "25 ಸೆಂ.ಮೀ", "60 ಸೆಂ.ಮೀ"],
+      "answer": "50 ಸೆಂ.ಮೀ",
+      "reasoning": "ಆಯತದ ಸುತ್ತಳತೆಯ ಸೂತ್ರ: ಸುತ್ತಳತೆ = 2 × (ಉದ್ದ + ಅಗಲ). ಇಲ್ಲಿ, ಉದ್ದ = 15 ಸೆಂ.ಮೀ ಮತ್ತು ಅಗಲ = 10 ಸೆಂ.ಮೀ. ಆದ್ದರಿಂದ, ಸುತ್ತಳತೆ = 2 × (15 + 10) = 2 × 25 = 50 ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_mens_003",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the formula for the area of a circle with radius 'r'?",
+      "options": ["πr²", "2πr", "πd", "2πr²"],
+      "answer": "πr²",
+      "reasoning": "The area of a circle is the region enclosed by its boundary. It is calculated using the formula Area = πr², where 'r' is the radius of the circle."
+    },
+    "kn": {
+      "question": "'r' ತ್ರಿಜ್ಯವನ್ನು ಹೊಂದಿರುವ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ ಯಾವುದು?",
+      "options": ["πr²", "2πr", "πd", "2πr²"],
+      "answer": "πr²",
+      "reasoning": "ವೃತ್ತದ ವಿಸ್ತೀರ್ಣವು ಅದರ ಪರಿಧಿಯಿಂದ ಆವೃತವಾದ ಪ್ರದೇಶವಾಗಿದೆ. ಇದನ್ನು ವಿಸ್ತೀರ್ಣ = πr² ಸೂತ್ರವನ್ನು ಬಳಸಿ ಲೆಕ್ಕಹಾಕಲಾಗುತ್ತದೆ, ಇಲ್ಲಿ 'r' ಎಂಬುದು ವೃತ್ತದ ತ್ರಿಜ್ಯವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_mens_004",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following statements about a cube are true? (Select all that apply)",
+      "options": [
+        "It has 6 faces.",
+        "It has 12 edges.",
+        "It has 8 vertices.",
+        "All faces are congruent rectangles."
+      ],
+      "answer": [
+        "It has 6 faces.",
+        "It has 12 edges.",
+        "It has 8 vertices."
+      ],
+      "reasoning": "A cube is a three-dimensional solid object bounded by six square faces, facets or sides, with three meeting at each vertex. It has 6 faces (which are congruent squares, not general rectangles), 12 equal edges, and 8 vertices."
+    },
+    "kn": {
+      "question": "ಘನಕ್ಕೆ (Cube) ಸಂಬಂಧಿಸಿದಂತೆ ಈ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ? (ಅನ್ವಯಿಸುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ)",
+      "options": [
+        "ಇದು 6 ಮುಖಗಳನ್ನು ಹೊಂದಿದೆ.",
+        "ಇದು 12 ಅಂಚುಗಳನ್ನು ಹೊಂದಿದೆ.",
+        "ಇದು 8 ಶೃಂಗಗಳನ್ನು ಹೊಂದಿದೆ.",
+        "ಎಲ್ಲಾ ಮುಖಗಳು ಸರ್ವಸಮ ಆಯತಗಳಾಗಿರುತ್ತವೆ."
+      ],
+      "answer": [
+        "ಇದು 6 ಮುಖಗಳನ್ನು ಹೊಂದಿದೆ.",
+        "ಇದು 12 ಅಂಚುಗಳನ್ನು ಹೊಂದಿದೆ.",
+        "ಇದು 8 ಶೃಂಗಗಳನ್ನು ಹೊಂದಿದೆ."
+      ],
+      "reasoning": "ಘನವು (ಚೌಕಘನ) 6 ಚೌಕಾಕಾರದ ಮುಖಗಳಿಂದ ಆವೃತವಾದ 3D ಘನವಸ್ತುವಾಗಿದೆ. ಇದು 6 ಮುಖಗಳನ್ನು (ಇವು ಸರ್ವಸಮ ಚೌಕಗಳಾಗಿರುತ್ತವೆ, ಸಾಮಾನ್ಯ ಆಯತಗಳಲ್ಲ), 12 ಸಮನಾದ ಅಂಚುಗಳನ್ನು ಮತ್ತು 8 ಶೃಂಗಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_mens_005",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following are valid units for measuring volume? (Select all that apply)",
+      "options": ["cm³", "m³", "litres", "cm²"],
+      "answer": ["cm³", "m³", "litres"],
+      "reasoning": "Volume is measured in cubic units. Therefore, cm³ (cubic centimeters) and m³ (cubic meters) are units of volume. Additionally, litres is a standard metric unit used to measure liquid volume. cm² is a unit of area."
+    },
+    "kn": {
+      "question": "ಘನಫಲವನ್ನು ಅಳೆಯಲು ಬಳಸುವ ಮಾನ್ಯತೆ ಪಡೆದ ಏಕಮಾನಗಳು ಯಾವುವು? (ಅನ್ವಯಿಸುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ)",
+      "options": ["ಸೆಂ.ಮೀ³", "ಮೀ³", "ಲೀಟರ್‌ಗಳು", "ಸೆಂ.ಮೀ²"],
+      "answer": ["ಸೆಂ.ಮೀ³", "ಮೀ³", "ಲೀಟರ್‌ಗಳು"],
+      "reasoning": "ಘನಫಲವನ್ನು ಘನ ಏಕಮಾನಗಳಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಸೆಂ.ಮೀ³ (ಘನ ಸೆಂಟಿಮೀಟರ್) ಮತ್ತು ಮೀ³ (ಘನ ಮೀಟರ್) ಘನಫಲದ ಏಕಮಾನಗಳಾಗಿವೆ. ಇದರೊಂದಿಗೆ, ದ್ರವದ ಘನಫಲವನ್ನು ಅಳೆಯಲು ಲೀಟರ್ ಅನ್ನು ಪ್ರಮಾಣಿತ ಏಕಮಾನವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ. ಸೆಂ.ಮೀ² ಎಂಬುದು ವಿಸ್ತೀರ್ಣದ ಏಕಮಾನವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_mens_006",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match the 2D shapes with their correct area formulas.",
+      "pairs": [
+        { "left": "Square", "right": "Side × Side" },
+        { "left": "Rectangle", "right": "Length × Breadth" },
+        { "left": "Triangle", "right": "1/2 × Base × Height" },
+        { "left": "Circle", "right": "π × radius²" }
+      ],
+      "reasoning": "The area formulas are basic geometric relations: Square area is side squared (s²); Rectangle area is length times width (l × w); Triangle area is half of base times height (1/2 × b × h); and Circle area is pi times radius squared (πr²)."
+    },
+    "kn": {
+      "question": "ದ್ವಿಮಿತ್ ಪ್ರಾತಿನಿಧ್ಯದ (2D) ಆಕೃತಿಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವಿಸ್ತೀರ್ಣ ಸೂತ್ರಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        { "left": "ಚೌಕ", "right": "ಬಾಹು × ಬಾಹು" },
+        { "left": "ಆಯತ", "right": "ಉದ್ದ × ಅಗಲ" },
+        { "left": "ತ್ರಿಕೋನ", "right": "1/2 × ಪಾದ × ಎತ್ತರ" },
+        { "left": "ವೃತ್ತ", "right": "π × ತ್ರಿಜ್ಯ²" }
+      ],
+      "reasoning": "ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರಗಳು ಮೂಲಭೂತ ಜ್ಯಾಮಿತೀಯ ಸಂಬಂಧಗಳಾಗಿವೆ: ಚೌಕದ ವಿಸ್ತೀರ್ಣ = ಬಾಹು × ಬಾಹು; ಆಯತದ ವಿಸ್ತೀರ್ಣ = ಉದ್ದ × ಅಗಲ; ತ್ರಿಕೋನದ ವಿಸ್ತೀರ್ಣ = 1/2 × ಪಾದ × ಎತ್ತರ; ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ = π × ತ್ರಿಜ್ಯ²."
+    }
+  },
+  {
+    "id": "c8_math_mens_007",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match each 3D shape with the total number of faces it possesses.",
+      "pairs": [
+        { "left": "Cube", "right": "6 faces" },
+        { "left": "Triangular Pyramid", "right": "4 faces" },
+        { "left": "Square Pyramid", "right": "5 faces" },
+        { "left": "Triangular Prism", "right": "5 faces" }
+      ],
+      "reasoning": "A cube has 6 square faces. A triangular pyramid (tetrahedron) has 4 triangular faces. A square pyramid has 1 square base and 4 triangular lateral faces, making 5 faces. A triangular prism has 2 triangular bases and 3 rectangular lateral faces, making 5 faces."
+    },
+    "kn": {
+      "question": "ಪ್ರತಿ ತ್ರಿಮಿತ್ (3D) ಆಕೃತಿಯನ್ನು ಅದು ಹೊಂದಿರುವ ಒಟ್ಟು ಮುಖಗಳ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        { "left": "ಘನ (Cube)", "right": "6 ಮುಖಗಳು" },
+        { "left": "ತ್ರಿಕೋನ ಪಿರಮಿಡ್", "right": "4 ಮುಖಗಳು" },
+        { "left": "ಚೌಕ ಪಿರಮಿಡ್", "right": "5 ಮುಖಗಳು" },
+        { "left": "ತ್ರಿಕೋನ ಪ್ರಿಸ್ಮ್", "right": "5 ಮುಖಗಳು" }
+      ],
+      "reasoning": "ಘನವು 6 ಚೌಕಾಕಾರದ ಮುಖಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. ತ್ರಿಕೋನ ಪಿರಮಿಡ್ (ನಾಲ್ಕುಮುಖಿ) 4 ತ್ರಿಕೋನಾಕಾರದ ಮುಖಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಚೌಕ ಪಿರಮಿಡ್ 1 ಚೌಕಾಕಾರದ ಪಾದ ಮತ್ತು 4 ತ್ರಿಕೋನಾಕಾರದ ಪಾರ್ಶ್ವ ಮುಖಗಳನ್ನು ಹೊಂದಿ ಒಟ್ಟು 5 ಮುಖಗಳನ್ನು ಹೊಂದಿದೆ. ತ್ರಿಕೋನ ಪ್ರಿಸ್ಮ್ 2 ತ್ರಿಕೋನಾಕಾರದ ಪಾದಗಳು ಮತ್ತು 3 ಆಯತಾಕಾರದ ಪಾರ್ಶ್ವ ಮುಖಗಳನ್ನು ಹೊಂದಿ ಒಟ್ಟು 5 ಮುಖಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_mens_008",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "The area of a parallelogram is 24 cm² and its base is 6 cm. Find its height.",
+      "options": ["4 cm", "6 cm", "8 cm", "12 cm"],
+      "answer": "4 cm",
+      "reasoning": "The formula for the area of a parallelogram is: Area = Base × Height. Given Area = 24 cm² and Base = 6 cm. Substituting these values: 24 = 6 × Height. Height = 24 / 6 = 4 cm."
+    },
+    "kn": {
+      "question": "ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣ 24 ಚ.ಸೆಂ.ಮೀ ಮತ್ತು ಅದರ ಪಾದ 6 ಸೆಂ.ಮೀ ಆಗಿದೆ. ಅದರ ಎತ್ತರವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["4 ಸೆಂ.ಮೀ", "6 ಸೆಂ.ಮೀ", "8 ಸೆಂ.ಮೀ", "12 ಸೆಂ.ಮೀ"],
+      "answer": "4 ಸೆಂ.ಮೀ",
+      "reasoning": "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ: ವಿಸ್ತೀರ್ಣ = ಪಾದ × ಎತ್ತರ. ನೀಡಲಾದ ವಿಸ್ತೀರ್ಣ = 24 ಚ.ಸೆಂ.ಮೀ ಮತ್ತು ಪಾದ = 6 ಸೆಂ.ಮೀ. ಈ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: 24 = 6 × ಎತ್ತರ. ಎತ್ತರ = 24 / 6 = 4 ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_mens_img_009",
+    "difficulty": 1,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"80,40 220,40 260,140 50,140\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"80\" y1=\"40\" x2=\"80\" y2=\"140\" stroke=\"#059669\" stroke-width=\"2\" stroke-dasharray=\"4\"/><polygon points=\"80,140 80,130 90,130 90,140\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"1\"/><circle cx=\"80\" cy=\"40\" r=\"3\" fill=\"#059669\"/><circle cx=\"220\" cy=\"40\" r=\"3\" fill=\"#059669\"/><circle cx=\"260\" cy=\"140\" r=\"3\" fill=\"#059669\"/><circle cx=\"50\" cy=\"140\" r=\"3\" fill=\"#059669\"/><text x=\"75\" y=\"30\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">A</text><text x=\"225\" y=\"30\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">B</text><text x=\"265\" y=\"155\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">C</text><text x=\"40\" y=\"155\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">D</text><text x=\"140\" y=\"30\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">7 cm</text><text x=\"140\" y=\"160\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">9 cm</text><text x=\"90\" y=\"90\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">5 cm</text></svg>",
+      "alt": {
+        "en": "Trapezium ABCD with parallel sides AB = 7 cm, CD = 9 cm, and height = 5 cm.",
+        "kn": "ಸಮಾಂತರ ಬಾಹುಗಳು AB = 7 ಸೆಂ.ಮೀ, CD = 9 ಸೆಂ.ಮೀ ಮತ್ತು ಎತ್ತರ = 5 ಸೆಂ.ಮೀ ಇರುವ ತ್ರಾಪಿಜ್ಯ ABCD."
+      }
+    },
+    "en": {
+      "question": "Calculate the area of the trapezium ABCD shown in the image.",
+      "options": ["40 cm²", "35 cm²", "80 cm²", "45 cm²"],
+      "answer": "40 cm²",
+      "reasoning": "The area of a trapezium is given by the formula: Area = 1/2 × (sum of parallel sides) × height. Here, the parallel sides are AB = 7 cm and CD = 9 cm, and the height h = 5 cm. Therefore, Area = 1/2 × (7 + 9) × 5 = 1/2 × 16 × 5 = 8 × 5 = 40 cm²."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ತ್ರಾಪಿಜ್ಯ ABCD ಯ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕಹಾಕಿ.",
+      "options": ["40 ಚ.ಸೆಂ.ಮೀ", "35 ಚ.ಸೆಂ.ಮೀ", "80 ಚ.ಸೆಂ.ಮೀ", "45 ಚ.ಸೆಂ.ಮೀ"],
+      "answer": "40 ಚ.ಸೆಂ.ಮೀ",
+      "reasoning": "ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ: ವಿಸ್ತೀರ್ಣ = 1/2 × (ಸಮಾಂತರ ಬಾಹುಗಳ ಮೊತ್ತ) × ಎತ್ತರ. ಇಲ್ಲಿ, ಸಮಾಂತರ ಬಾಹುಗಳು AB = 7 ಸೆಂ.ಮೀ ಮತ್ತು CD = 9 ಸೆಂ.ಮೀ, ಮತ್ತು ಎತ್ತರ h = 5 ಸೆಂ.ಮೀ. ಆದ್ದರಿಂದ, ವಿಸ್ತೀರ್ಣ = 1/2 × (7 + 9) × 5 = 1/2 × 16 × 5 = 8 × 5 = 40 ಚ.ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_mens_img_010",
+    "difficulty": 1,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"50,100 150,40 250,100 130,160\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"50\" y1=\"100\" x2=\"250\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-dasharray=\"4\"/><line x1=\"150\" y1=\"40\" x2=\"150\" y2=\"100\" stroke=\"#059669\" stroke-width=\"1.5\" stroke-dasharray=\"3\"/><line x1=\"130\" y1=\"160\" x2=\"130\" y2=\"100\" stroke=\"#059669\" stroke-width=\"1.5\" stroke-dasharray=\"3\"/><polygon points=\"150,100 150,90 160,90 160,100\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"1\"/><polygon points=\"130,100 130,110 140,110 140,100\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"1\"/><circle cx=\"50\" cy=\"100\" r=\"3\" fill=\"#059669\"/><circle cx=\"150\" cy=\"40\" r=\"3\" fill=\"#059669\"/><circle cx=\"250\" cy=\"100\" r=\"3\" fill=\"#059669\"/><circle cx=\"130\" cy=\"160\" r=\"3\" fill=\"#059669\"/><text x=\"35\" y=\"105\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">A</text><text x=\"145\" y=\"30\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">B</text><text x=\"260\" y=\"105\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">C</text><text x=\"125\" y=\"175\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">D</text><text x=\"165\" y=\"105\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#DC2626\">12 cm (AC)</text><text x=\"155\" y=\"70\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#DC2626\">3 cm</text><text x=\"135\" y=\"135\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#DC2626\">5 cm</text></svg>",
+      "alt": {
+        "en": "Quadrilateral ABCD with diagonal AC = 12 cm. Heights from B and D to AC are 3 cm and 5 cm respectively.",
+        "kn": "ಕರ್ಣ AC = 12 ಸೆಂ.ಮೀ ಹೊಂದಿರುವ ಚತುರ್ಭುಜ ABCD. ಶೃಂಗಗಳು B ಮತ್ತು D ಇಂದ AC ಗೆ ಎಳೆದ ಎತ್ತರಗಳು ಕ್ರಮವಾಗಿ 3 ಸೆಂ.ಮೀ ಮತ್ತು 5 ಸೆಂ.ಮೀ ಆಗಿವೆ."
+      }
+    },
+    "en": {
+      "question": "Find the area of the general quadrilateral ABCD shown in the image.",
+      "options": ["48 cm²", "96 cm²", "36 cm²", "60 cm²"],
+      "answer": "48 cm²",
+      "reasoning": "The area of a general quadrilateral with diagonal 'd' and heights h1 and h2 from opposing vertices is given by: Area = 1/2 × d × (h1 + h2). Here, d = 12 cm, h1 = 3 cm, and h2 = 5 cm. Therefore, Area = 1/2 × 12 × (3 + 5) = 6 × 8 = 48 cm²."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಸಾಮಾನ್ಯ ಚತುರ್ಭುಜ ABCD ಯ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["48 ಚ.ಸೆಂ.ಮೀ", "96 ಚ.ಸೆಂ.ಮೀ", "36 ಚ.ಸೆಂ.ಮೀ", "60 ಚ.ಸೆಂ.ಮೀ"],
+      "answer": "48 ಚ.ಸೆಂ.ಮೀ",
+      "reasoning": "ಕರ್ಣ 'd' ಮತ್ತು ಅಭಿಮುಖ ಶೃಂಗಗಳಿಂದ ಎಳೆದ ಎತ್ತರಗಳು h1 ಮತ್ತು h2 ಹೊಂದಿರುವ ಸಾಮಾನ್ಯ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ: ವಿಸ್ತೀರ್ಣ = 1/2 × d × (h1 + h2). ಇಲ್ಲಿ, d = 12 ಸೆಂ.ಮೀ, h1 = 3 ಸೆಂ.ಮೀ, ಮತ್ತು h2 = 5 ಸೆಂ.ಮೀ. ಆದ್ದರಿಂದ, ವಿಸ್ತೀರ್ಣ = 1/2 × 12 × (3 + 5) = 6 × 8 = 48 ಚ.ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_mens_011",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Calculate the volume of a cuboid with length 10 cm, width 8 cm, and height 6 cm.",
+      "options": ["480 cm³", "240 cm³", "376 cm³", "188 cm³"],
+      "answer": "480 cm³",
+      "reasoning": "The volume of a cuboid is calculated using the formula: Volume = length × width × height. Substituting the given values: Volume = 10 cm × 8 cm × 6 cm = 480 cm³."
+    },
+    "kn": {
+      "question": "ಉದ್ದ 10 ಸೆಂ.ಮೀ, ಅಗಲ 8 ಸೆಂ.ಮೀ ಮತ್ತು ಎತ್ತರ 6 ಸೆಂ.ಮೀ ಇರುವ ಆಯತಘನದ ಘನಫಲವನ್ನು ಲೆಕ್ಕಹಾಕಿ.",
+      "options": ["480 ಸೆಂ.ಮೀ³", "240 ಸೆಂ.ಮೀ³", "376 ಸೆಂ.ಮೀ³", "188 ಸೆಂ.ಮೀ³"],
+      "answer": "480 ಸೆಂ.ಮೀ³",
+      "reasoning": "ಆಯತಘನದ ಘನಫಲದ ಸೂತ್ರ: ಘನಫಲ = ಉದ್ದ × ಅಗಲ × ಎತ್ತರ. ನೀಡಲಾದ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: ಘನಫಲ = 10 ಸೆಂ.ಮೀ × 8 ಸೆಂ.ಮೀ × 6 ಸೆಂ.ಮೀ = 480 ಸೆಂ.ಮೀ³."
+    }
+  },
+  {
+    "id": "c8_math_mens_012",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Find the total surface area of a cube whose side length is 5 cm.",
+      "options": ["150 cm²", "125 cm²", "100 cm²", "250 cm²"],
+      "answer": "150 cm²",
+      "reasoning": "The total surface area of a cube with side 'a' is given by the formula: Total Surface Area = 6a². Since side a = 5 cm, Total Surface Area = 6 × (5)² = 6 × 25 = 150 cm²."
+    },
+    "kn": {
+      "question": "ಬಾಹುವಿನ ಉದ್ದ 5 ಸೆಂ.ಮೀ ಇರುವ ಒಂದು ಚೌಕಘನದ (ಘನ) ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["150 ಚ.ಸೆಂ.ಮೀ", "125 ಚ.ಸೆಂ.ಮೀ", "100 ಚ.ಸೆಂ.ಮೀ", "250 ಚ.ಸೆಂ.ಮೀ"],
+      "answer": "150 ಚ.ಸೆಂ.ಮೀ",
+      "reasoning": "ಬಾಹು 'a' ಹೊಂದಿರುವ ಚೌಕಘನದ ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ: ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ = 6a². ಇಲ್ಲಿ ಬಾಹು a = 5 ಸೆಂ.ಮೀ, ಆದ್ದರಿಂದ ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ = 6 × (5)² = 6 × 25 = 150 ಚ.ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_mens_013",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Find the curved surface area of a cylinder with radius 7 cm and height 10 cm. (Take π = 22/7)",
+      "options": ["440 cm²", "220 cm²", "748 cm²", "1540 cm²"],
+      "answer": "440 cm²",
+      "reasoning": "The curved surface area (CSA) of a cylinder is given by the formula: CSA = 2πrh. Substituting r = 7 cm, h = 10 cm, and π = 22/7: CSA = 2 × (22/7) × 7 × 10 = 2 × 22 × 10 = 440 cm²."
+    },
+    "kn": {
+      "question": "7 ಸೆಂ.ಮೀ ತ್ರಿಜ್ಯ ಮತ್ತು 10 ಸೆಂ.ಮೀ ಎತ್ತರ ಹೊಂದಿರುವ ಸಿಲಿಂಡರ್‌ನ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. (π = 22/7 ಎಂದು ತೆಗೆದುಕೊಳ್ಳಿ)",
+      "options": ["440 ಚ.ಸೆಂ.ಮೀ", "220 ಚ.ಸೆಂ.ಮೀ", "748 ಚ.ಸೆಂ.ಮೀ", "1540 ಚ.ಸೆಂ.ಮೀ"],
+      "answer": "440 ಚ.ಸೆಂ.ಮೀ",
+      "reasoning": "ಸಿಲಿಂಡರ್‌ನ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣದ (CSA) ಸೂತ್ರ: ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ = 2πrh. ಇಲ್ಲಿ r = 7 ಸೆಂ.ಮೀ, h = 10 ಸೆಂ.ಮೀ, ಮತ್ತು π = 22/7 ಆದೇಶಿಸಿದಾಗ: ವಿಸ್ತೀರ್ಣ = 2 × (22/7) × 7 × 10 = 2 × 22 × 10 = 440 ಚ.ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_mens_014",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "A cylinder has a radius of 14 cm and height of 5 cm. Which of the following statements are correct? (Take π = 22/7) (Select all that apply)",
+      "options": [
+        "The volume is 3080 cm³.",
+        "The curved surface area is 440 cm².",
+        "The area of its base is 616 cm².",
+        "The total surface area is 1232 cm²."
+      ],
+      "answer": [
+        "The volume is 3080 cm³.",
+        "The curved surface area is 440 cm².",
+        "The area of its base is 616 cm²."
+      ],
+      "reasoning": "Let's check the properties of the cylinder with r = 14 cm, h = 5 cm:\n1. Volume = πr²h = (22/7) × 14 × 14 × 5 = 22 × 2 × 14 × 5 = 3080 cm³. (Correct)\n2. Curved Surface Area (CSA) = 2πrh = 2 × (22/7) × 14 × 5 = 440 cm². (Correct)\n3. Base Area = πr² = (22/7) × 14 × 14 = 616 cm². (Correct)\n4. Total Surface Area (TSA) = CSA + 2 × Base Area = 440 + 2 × 616 = 440 + 1232 = 1672 cm², not 1232 cm². (Incorrect)"
+    },
+    "kn": {
+      "question": "ಒಂದು ಸಿಲಿಂಡರ್‌ನ ತ್ರಿಜ್ಯ 14 ಸೆಂ.ಮೀ ಮತ್ತು ಎತ್ತರ 5 ಸೆಂ.ಮೀ ಆಗಿದೆ. ಈ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ? (π = 22/7 ಎಂದು ತೆಗೆದುಕೊಳ್ಳಿ) (ಅನ್ವಯಿಸುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ)",
+      "options": [
+        "ಅದರ ಘನಫಲವು 3080 ಸೆಂ.ಮೀ³ ಆಗಿದೆ.",
+        "ಅದರ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವು 440 ಚ.ಸೆಂ.ಮೀ ಆಗಿದೆ.",
+        "ಅದರ ಪಾದದ ವಿಸ್ತೀರ್ಣವು 616 ಚ.ಸೆಂ.ಮೀ ಆಗಿದೆ.",
+        "ಅದರ ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವು 1232 ಚ.ಸೆಂ.ಮೀ ಆಗಿದೆ."
+      ],
+      "answer": [
+        "ಅದರ ಘನಫಲವು 3080 ಸೆಂ.ಮೀ³ ಆಗಿದೆ.",
+        "ಅದರ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವು 440 ಚ.ಸೆಂ.ಮೀ ಆಗಿದೆ.",
+        "ಅದರ ಪಾದದ ವಿಸ್ತೀರ್ಣವು 616 ಚ.ಸೆಂ.ಮೀ ಆಗಿದೆ."
+      ],
+      "reasoning": "r = 14 ಸೆಂ.ಮೀ, h = 5 ಸೆಂ.ಮೀ ಹೊಂದಿರುವ ಸಿಲಿಂಡರ್‌ನ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಪರಿಶೀಲಿಸೋಣ:\n1. ಘನಫಲ = πr²h = (22/7) × 14 × 14 × 5 = 3080 ಸೆಂ.ಮೀ³. (ಸರಿ)\n2. ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (CSA) = 2πrh = 2 × (22/7) × 14 × 5 = 440 ಚ.ಸೆಂ.ಮೀ. (ಸರಿ)\n3. ಪಾದದ ವಿಸ್ತೀರ್ಣ = πr² = (22/7) × 14 × 14 = 616 ಚ.ಸೆಂ.ಮೀ. (ಸರಿ)\n4. ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (TSA) = CSA + 2 × ಪಾದದ ವಿಸ್ತೀರ್ಣ = 440 + 2 × 616 = 1672 ಚ.ಸೆಂ.ಮೀ. ಆದ್ದರಿಂದ 1232 ಚ.ಸೆಂ.ಮೀ ಎಂಬುದು ತಪ್ಪಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_mens_015",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "For a right circular cylinder with radius 'r' and height 'h', which formulas are correct? (Select all that apply)",
+      "options": [
+        "Volume = πr²h",
+        "Curved Surface Area = 2πrh",
+        "Total Surface Area = 2πr(r + h)",
+        "Lateral Surface Area = πr(r + h)"
+      ],
+      "answer": [
+        "Volume = πr²h",
+        "Curved Surface Area = 2πrh",
+        "Total Surface Area = 2πr(r + h)"
+      ],
+      "reasoning": "The standard formulas for a cylinder of radius r and height h are: Volume = Base area × height = πr²h. Curved (or Lateral) Surface Area = Perimeter of base × height = 2πrh. Total Surface Area = Curved Surface Area + 2 × Base Area = 2πrh + 2πr² = 2πr(h + r). The expression πr(r+h) is incorrect."
+    },
+    "kn": {
+      "question": "ತ್ರಿಜ್ಯ 'r' ಮತ್ತು ಎತ್ತರ 'h' ಇರುವ ನೇರ ವೃತ್ತಪಾದ ಸಿಲಿಂಡರ್‌ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಯಾವ ಸೂತ್ರಗಳು ಸರಿಯಾಗಿವೆ? (ಅನ್ವಯಿಸುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ)",
+      "options": [
+        "ಘನಫಲ = πr²h",
+        "ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ = 2πrh",
+        "ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ = 2πr(r + h)",
+        "ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ = πr(r + h)"
+      ],
+      "answer": [
+        "ಘನಫಲ = πr²h",
+        "ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ = 2πrh",
+        "ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ = 2πr(r + h)"
+      ],
+      "reasoning": "r ತ್ರಿಜ್ಯ ಮತ್ತು h ಎತ್ತರ ಇರುವ ಸಿಲಿಂಡರ್‌ನ ಪ್ರಮಾಣಿತ ಸೂತ್ರಗಳು: ಘನಫಲ = ಪಾದದ ವಿಸ್ತೀರ್ಣ × ಎತ್ತರ = πr²h. ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ = ಪಾದದ ಪರಿಧಿ × ಎತ್ತರ = 2πrh. ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ = ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ + 2 × ಪಾದದ ವಿಸ್ತೀರ್ಣ = 2πrh + 2πr² = 2πr(h + r). πr(r+h) ಸೂತ್ರವು ತಪ್ಪಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_mens_016",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the surface area terms for a cuboid (length l, width b, height h) and cube (side a) with their mathematical expressions.",
+      "pairs": [
+        { "left": "Lateral Surface Area of Cuboid", "right": "2h(l + b)" },
+        { "left": "Total Surface Area of Cuboid", "right": "2(lb + bh + hl)" },
+        { "left": "Lateral Surface Area of Cube", "right": "4a²" },
+        { "left": "Total Surface Area of Cube", "right": "6a²" }
+      ],
+      "reasoning": "The lateral surface area of a cuboid represents the area of the 4 walls: 2(l+b)h. Total surface area is the area of all 6 faces: 2(lb+bh+hl). For a cube, each face is a²; lateral surface area of 4 faces is 4a², and total surface area of 6 faces is 6a²."
+    },
+    "kn": {
+      "question": "ಆಯತಘನ (ಉದ್ದ l, ಅಗಲ b, ಎತ್ತರ h) ಮತ್ತು ಚೌಕಘನ (ಬಾಹು a) ಗಳ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣದ ಪದಗಳನ್ನು ಅವುಗಳ ಗಣಿತದ ಸೂತ್ರಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        { "left": "ಆಯತಘನದ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ", "right": "2h(l + b)" },
+        { "left": "ಆಯತಘನದ ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ", "right": "2(lb + bh + hl)" },
+        { "left": "ಚೌಕಘನದ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ", "right": "4a²" },
+        { "left": "ಚೌಕಘನದ ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ", "right": "6a²" }
+      ],
+      "reasoning": "ಆಯತಘನದ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವು 4 ಗೋಡೆಗಳ ವಿಸ್ತೀರ್ಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ: 2h(l+b). ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವು ಎಲ್ಲಾ 6 ಮುಖಗಳ ವಿಸ್ತೀರ್ಣವಾಗಿದೆ: 2(lb+bh+hl). ಚೌಕಘನಕ್ಕೆ ಪ್ರತಿ ಮುಖದ ವಿಸ್ತೀರ್ಣ a² ಆಗಿರುವುದರಿಂದ, 4 ಪಾರ್ಶ್ವ ಮುಖಗಳ ವಿಸ್ತೀರ್ಣ 4a² ಮತ್ತು 6 ಮುಖಗಳ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣ 6a² ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_mens_017",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the volume formula descriptions with their corresponding mathematical expressions.",
+      "pairs": [
+        { "left": "Volume of Cuboid", "right": "l × b × h" },
+        { "left": "Volume of Cube", "right": "a³" },
+        { "left": "Volume of Cylinder", "right": "πr²h" },
+        { "left": "Volume of Cylinder with doubled radius", "right": "4πr²h" }
+      ],
+      "reasoning": "Volume of a cuboid is product of dimensions (l × b × h). Volume of a cube is side cubed (a³). Volume of a cylinder is πr²h. If the radius is doubled (2r), the volume becomes π(2r)²h = 4πr²h."
+    },
+    "kn": {
+      "question": "ಘನಫಲದ ಸೂತ್ರಗಳ ವಿವರಣೆಗಳನ್ನು ಅವುಗಳ ಗಣಿತದ ಸೂತ್ರಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        { "left": "ಆಯತಘನದ ಘನಫಲ", "right": "l × b × h" },
+        { "left": "ಚೌಕಘನದ ಘನಫಲ", "right": "a³" },
+        { "left": "ಸಿಲಿಂಡರ್‌ನ ಘನಫಲ", "right": "πr²h" },
+        { "left": "ತ್ರಿಜ್ಯವನ್ನು ದ್ವಿಗುಣಗೊಳಿಸಿದ ಸಿಲಿಂಡರ್‌ನ ಘನಫಲ", "right": "4πr²h" }
+      ],
+      "reasoning": "ಆಯತಘನದ ಘನಫಲವು ಅದರ ಆಯಾಮಗಳ ಗುಣಲಬ್ಧವಾಗಿದೆ (l × b × h). ಚೌಕಘನದ ಘನಫಲವು ಬಾಹುವಿನ ಘನವಾಗಿದೆ (a³). ಸಿಲಿಂಡರ್‌ನ ಘನಫಲ πr²h ಆಗಿದೆ. ತ್ರಿಜ್ಯವನ್ನು ದ್ವಿಗುಣಗೊಳಿಸಿದರೆ (2r), ಘನಫಲವು π(2r)²h = 4πr²h ಆಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_mens_018",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "A road roller of diameter 84 cm and length 1 m takes 750 complete revolutions to move once over to level a road. Find the area of the road (in m²).",
+      "options": ["1980 m²", "990 m²", "3960 m²", "1540 m²"],
+      "answer": "1980 m²",
+      "reasoning": "The area leveled in one revolution equals the curved surface area (CSA) of the roller (which is a cylinder). Diameter = 84 cm => radius r = 42 cm = 0.42 m. Length (height) h = 1 m. CSA = 2πrh = 2 × (22/7) × 0.42 × 1 = 2 × 22 × 0.06 × 1 = 2.64 m². Total area leveled in 750 revolutions = 750 × 2.64 m² = 1980 m²."
+    },
+    "kn": {
+      "question": "84 ಸೆಂ.ಮೀ ವ್ಯಾಸ ಮತ್ತು 1 ಮೀ ಉದ್ದವಿರುವ ರಸ್ತೆ ರೋಲರ್ ಒಂದು ರಸ್ತೆಯನ್ನು ಸಮತಟ್ಟು ಮಾಡಲು 750 ಪೂರ್ಣ ಸುತ್ತುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ. ರಸ್ತೆಯ ವಿಸ್ತೀರ್ಣವನ್ನು (ಚ.ಮೀ ನಲ್ಲಿ) ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["1980 ಚ.ಮೀ", "990 ಚ.ಮೀ", "3960 ಚ.ಮೀ", "1540 ಚ.ಮೀ"],
+      "answer": "1980 ಚ.ಮೀ",
+      "reasoning": "ಒಂದು ಸುತ್ತಿನಲ್ಲಿ ಸಮತಟ್ಟಾಗುವ ರಸ್ತೆಯ ವಿಸ್ತೀರ್ಣವು ರೋಲರ್‌ನ (ಸಿಲಿಂಡರ್ ರೂಪದಲ್ಲಿರುವ) ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣಕ್ಕೆ (CSA) ಸಮನಾಗಿರುತ್ತದೆ. ವ್ಯಾಸ = 84 ಸೆಂ.ಮೀ => ತ್ರಿಜ್ಯ r = 42 ಸೆಂ.ಮೀ = 0.42 ಮೀ. ಉದ್ದ (ಎತ್ತರ) h = 1 ಮೀ. ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ = 2πrh = 2 × (22/7) × 0.42 × 1 = 2.64 ಚ.ಮೀ. 750 ಸುತ್ತುಗಳಲ್ಲಿ ಸಮತಟ್ಟಾಗುವ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣ = 750 × 2.64 = 1980 ಚ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_mens_img_019",
+    "difficulty": 2,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"150,20 270,100 150,180 30,100\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"150\" y1=\"20\" x2=\"150\" y2=\"180\" stroke=\"#2563EB\" stroke-width=\"1.5\" stroke-dasharray=\"4\"/><line x1=\"30\" y1=\"100\" x2=\"270\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"1.5\" stroke-dasharray=\"4\"/><path d=\"M150,110 L160,110 L160,100\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"1\"/><circle cx=\"150\" cy=\"20\" r=\"3\" fill=\"#059669\"/><circle cx=\"270\" cy=\"100\" r=\"3\" fill=\"#059669\"/><circle cx=\"150\" cy=\"180\" r=\"3\" fill=\"#059669\"/><circle cx=\"30\" cy=\"100\" r=\"3\" fill=\"#059669\"/><text x=\"145\" y=\"15\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">A</text><text x=\"275\" y=\"105\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">B</text><text x=\"145\" y=\"195\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">C</text><text x=\"15\" y=\"105\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">D</text><text x=\"105\" y=\"60\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#DC2626\">d1 = 16 cm (AC)</text><text x=\"190\" y=\"115\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#DC2626\">d2 = 30 cm (BD)</text></svg>",
+      "alt": {
+        "en": "Rhombus ABCD with diagonals AC = 16 cm and BD = 30 cm intersecting perpendicularly.",
+        "kn": "ಪರಸ್ಪರ ಲಂಬವಾಗಿ ಛೇದಿಸುವ ಕರ್ಣಗಳು AC = 16 ಸೆಂ.ಮೀ ಮತ್ತು BD = 30 ಸೆಂ.ಮೀ ಹೊಂದಿರುವ ವಜ್ರಾಕೃತಿ ABCD."
+      }
+    },
+    "en": {
+      "question": "Find the area of the rhombus ABCD shown in the image.",
+      "options": ["240 cm²", "480 cm²", "120 cm²", "360 cm²"],
+      "answer": "240 cm²",
+      "reasoning": "The area of a rhombus is given by the formula: Area = 1/2 × d1 × d2, where d1 and d2 are the lengths of the diagonals. Given d1 = 16 cm and d2 = 30 cm, the Area = 1/2 × 16 × 30 = 8 × 30 = 240 cm²."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ವಜ್ರಾಕೃತಿ ABCD ಯ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["240 ಚ.ಸೆಂ.ಮೀ", "480 ಚ.ಸೆಂ.ಮೀ", "120 ಚ.ಸೆಂ.ಮೀ", "360 ಚ.ಸೆಂ.ಮೀ"],
+      "answer": "240 ಚ.ಸೆಂ.ಮೀ",
+      "reasoning": "ವಜ್ರಾಕೃತಿಯ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ: ವಿಸ್ತೀರ್ಣ = 1/2 × d1 × d2, ಇಲ್ಲಿ d1 ಮತ್ತು d2 ಕರ್ಣಗಳ ಉದ್ದಗಳಾಗಿವೆ. ನೀಡಲಾದ d1 = 16 ಸೆಂ.ಮೀ ಮತ್ತು d2 = 30 ಸೆಂ.ಮೀ ಆದಾಗ, ವಿಸ್ತೀರ್ಣ = 1/2 × 16 × 30 = 8 × 30 = 240 ಚ.ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_mens_img_020",
+    "difficulty": 2,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"90,30 210,30 270,100 210,170 90,170 30,100\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"30\" y1=\"100\" x2=\"270\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"1.5\" stroke-dasharray=\"4\"/><line x1=\"90\" y1=\"30\" x2=\"90\" y2=\"100\" stroke=\"#059669\" stroke-width=\"1.5\" stroke-dasharray=\"3\"/><line x1=\"90\" y1=\"170\" x2=\"90\" y2=\"100\" stroke=\"#059669\" stroke-width=\"1.5\" stroke-dasharray=\"3\"/><circle cx=\"90\" cy=\"30\" r=\"3\" fill=\"#059669\"/><circle cx=\"210\" cy=\"30\" r=\"3\" fill=\"#059669\"/><circle cx=\"270\" cy=\"100\" r=\"3\" fill=\"#059669\"/><circle cx=\"210\" cy=\"170\" r=\"3\" fill=\"#059669\"/><circle cx=\"90\" cy=\"170\" r=\"3\" fill=\"#059669\"/><circle cx=\"30\" cy=\"100\" r=\"3\" fill=\"#059669\"/><text x=\"85\" y=\"20\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">A</text><text x=\"210\" y=\"20\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">B</text><text x=\"275\" y=\"105\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">C</text><text x=\"210\" y=\"185\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">D</text><text x=\"85\" y=\"185\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">E</text><text x=\"15\" y=\"105\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#DC2626\">F</text><text x=\"140\" y=\"25\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#DC2626\">5 cm</text><text x=\"140\" y=\"95\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#DC2626\">11 cm</text><text x=\"140\" y=\"185\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#DC2626\">5 cm</text><text x=\"95\" y=\"65\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#DC2626\">3 cm</text><text x=\"95\" y=\"145\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#DC2626\">3 cm</text></svg>",
+      "alt": {
+        "en": "Hexagonal shape ABCDEF divided by diagonal FC = 11 cm into two identical trapezia of height 3 cm with parallel sides of 5 cm and 11 cm.",
+        "kn": "ಕರ್ಣ FC = 11 ಸೆಂ.ಮೀ ಮೂಲಕ ಸಮಾಂತರ ಬಾಹುಗಳು 5 ಸೆಂ.ಮೀ ಮತ್ತು 11 ಸೆಂ.ಮೀ ಹಾಗೂ 3 ಸೆಂ.ಮೀ ಎತ್ತರವಿರುವ ಎರಡು ಸಮಾನ ತ್ರಾಪಿಜ್ಯಗಳಾಗಿ ವಿಂಗಡಿಸಲ್ಪಟ್ಟ ಷಡ್ಭುಜಾಕೃತಿ ABCDEF."
+      }
+    },
+    "en": {
+      "question": "A regular hexagonal-shaped park ABCDEF is divided as shown in the figure. Find the total area of the park.",
+      "options": ["48 cm²", "96 cm²", "24 cm²", "64 cm²"],
+      "answer": "48 cm²",
+      "reasoning": "The hexagon is divided by diagonal FC = 11 cm into two identical trapezia: ABCF and CDEF. For each trapezium, the parallel sides are AB = 5 cm and FC = 11 cm, and the height h = 3 cm. Area of one trapezium = 1/2 × (5 + 11) × 3 = 1/2 × 16 × 3 = 8 × 3 = 24 cm². Since both parts are identical, Total Area = 2 × 24 cm² = 48 cm²."
+    },
+    "kn": {
+      "question": "ಕ್ರಮಬದ್ಧ ಷಡ್ಭುಜಾಕೃತಿಯ ಆಕಾರದ ಉದ್ಯಾನವನ ABCDEF ಅನ್ನು ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ವಿಂಗಡಿಸಲಾಗಿದೆ. ಉದ್ಯಾನವನದ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["48 ಚ.ಸೆಂ.ಮೀ", "96 ಚ.ಸೆಂ.ಮೀ", "24 ಚ.ಸೆಂ.ಮೀ", "64 ಚ.ಸೆಂ.ಮೀ"],
+      "answer": "48 ಚ.ಸೆಂ.ಮೀ",
+      "reasoning": "ಷಡ್ಭುಜಾಕೃತಿಯನ್ನು ಕರ್ಣ FC = 11 ಸೆಂ.ಮೀ ಮೂಲಕ ಎರಡು ಸಮಾನ ತ್ರಾಪಿಜ್ಯಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ: ABCF ಮತ್ತು CDEF. ಪ್ರತಿ ತ್ರಾಪಿಜ್ಯದ ಸಮಾಂತರ ಬಾಹುಗಳು AB = 5 ಸೆಂ.ಮೀ ಮತ್ತು FC = 11 ಸೆಂ.ಮೀ ಆಗಿದ್ದು, ಎತ್ತರ h = 3 ಸೆಂ.ಮೀ ಆಗಿದೆ. ಒಂದು ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣ = 1/2 × (5 + 11) × 3 = 1/2 × 16 × 3 = 8 × 3 = 24 ಚ.ಸೆಂ.ಮೀ. ಎರಡೂ ಭಾಗಗಳು ಒಂದೇ ತೆರನಾಗಿರುವುದರಿಂದ, ಒಟ್ಟು ವಿಸ್ತೀರ್ಣ = 2 × 24 = 48 ಚ.ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_mens_021",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "A rectangular paper of width 14 cm is rolled along its width (making width the height) to form a cylinder of radius 20 cm. Find the volume of the cylinder. (Take π = 22/7)",
+      "options": ["17600 cm³", "8800 cm³", "35200 cm³", "12000 cm³"],
+      "answer": "17600 cm³",
+      "reasoning": "When the paper is rolled along its width, the width of the paper becomes the height (h) of the cylinder. So, h = 14 cm, and the given radius r = 20 cm. The volume of the cylinder V = πr²h = (22/7) × (20)² × 14 = (22/7) × 400 × 14 = 22 × 400 × 2 = 17600 cm³."
+    },
+    "kn": {
+      "question": "14 ಸೆಂ.ಮೀ ಅಗಲವಿರುವ ಒಂದು ಆಯತಾಕಾರದ ಕಾಗದವನ್ನು ಅದರ ಅಗಲಕ್ಕೆ ಅನುಗುಣವಾಗಿ ರೋಲ್ ಮಾಡಿ (ಅಗಲವನ್ನು ಎತ್ತರವಾಗಿಸಿ) 20 ಸೆಂ.ಮೀ ತ್ರಿಜ್ಯವಿರುವ ಸಿಲಿಂಡರ್ ಅನ್ನು ತಯಾರಿಸಲಾಗಿದೆ. ಈ ಸಿಲಿಂಡರ್‌ನ ಘನಫಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. (π = 22/7 ಎಂದು ತೆಗೆದುಕೊಳ್ಳಿ)",
+      "options": ["17600 ಸೆಂ.ಮೀ³", "8800 ಸೆಂ.ಮೀ³", "35200 ಸೆಂ.ಮೀ³", "12000 ಸೆಂ.ಮೀ³"],
+      "answer": "17600 ಸೆಂ.ಮೀ³",
+      "reasoning": "ಕಾಗದವನ್ನು ಅಗಲಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಮಡಚಿದಾಗ, ಕಾಗದದ ಅಗಲವು ಸಿಲಿಂಡರ್‌ನ ಎತ್ತರವಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ ಎತ್ತರ h = 14 ಸೆಂ.ಮೀ, ಮತ್ತು ತ್ರಿಜ್ಯ r = 20 ಸೆಂ.ಮೀ. ಸಿಲಿಂಡರ್‌ನ ಘನಫಲ V = πr²h = (22/7) × (20)² × 14 = (22/7) × 400 × 14 = 22 × 400 × 2 = 17600 ಸೆಂ.ಮೀ³."
+    }
+  },
+  {
+    "id": "c8_math_mens_022",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Water is pouring into a cuboidal reservoir at the rate of 60 liters per minute. If the volume of the reservoir is 108 m³, find the number of hours it will take to fill the reservoir. (1 m³ = 1000 liters)",
+      "options": ["30 hours", "18 hours", "45 hours", "60 hours"],
+      "answer": "30 hours",
+      "reasoning": "Volume of reservoir = 108 m³. Since 1 m³ = 1000 liters, the capacity in liters = 108 × 1000 = 108,000 liters. Rate of water flow = 60 liters/minute. Rate per hour = 60 × 60 = 3600 liters/hour. Time taken to fill the reservoir = Total Capacity / Rate per hour = 108,000 / 3600 = 30 hours."
+    },
+    "kn": {
+      "question": "ಒಂದು ಆಯತಘನಾಕಾರದ ಜಲಾಶಯಕ್ಕೆ ನಿಮಿಷಕ್ಕೆ 60 ಲೀಟರ್ ದರದಲ್ಲಿ ನೀರು ಬೀಳುತ್ತಿದೆ. ಜಲಾಶಯದ ಘನಫಲ 108 ಮೀ³ ಆಗಿದ್ದರೆ, ಜಲಾಶಯವು ಪೂರ್ಣ ತುಂಬಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯವನ್ನು ಗಂಟೆಗಳಲ್ಲಿ ಕಂಡುಹಿಡಿಯಿರಿ. (1 ಮೀ³ = 1000 ಲೀಟರ್)",
+      "options": ["30 ಗಂಟೆಗಳು", "18 ಗಂಟೆಗಳು", "45 ಗಂಟೆಗಳು", "60 ಗಂಟೆಗಳು"],
+      "answer": "30 ಗಂಟೆಗಳು",
+      "reasoning": "ಜಲಾಶಯದ ಘನಫಲ = 108 ಮೀ³. 1 ಮೀ³ = 1000 ಲೀಟರ್ ಆಗಿರುವುದರಿಂದ, ಒಟ್ಟು ಸಾಮರ್ಥ್ಯ = 108 × 1000 = 108,000 ಲೀಟರ್. ನೀರು ತುಂಬುವ ದರ = ನಿಮಿಷಕ್ಕೆ 60 ಲೀಟರ್. ಅಂದರೆ ಗಂಟೆಗೆ = 60 × 60 = 3600 ಲೀಟರ್/ಗಂಟೆ. ಜಲಾಶಯ ತುಂಬಲು ತಗಲುವ ಸಮಯ = ಒಟ್ಟು ಸಾಮರ್ಥ್ಯ / ಗಂಟೆಯ ದರ = 108,000 / 3600 = 30 ಗಂಟೆಗಳು."
+    }
+  },
+  {
+    "id": "c8_math_mens_023",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "A cuboid has dimensions 60 cm × 54 cm × 30 cm. How many small cubes with side 6 cm can be placed in the given cuboid?",
+      "options": ["450", "500", "400", "900"],
+      "answer": "450",
+      "reasoning": "The number of cubes that can fit is the volume of the cuboid divided by the volume of one small cube. Volume of cuboid = 60 × 54 × 30 = 97200 cm³. Volume of small cube = 6³ = 216 cm³. Number of cubes = 97200 / 216 = 450. Alternatively, along length: 60/6 = 10 cubes; along width: 54/6 = 9 cubes; along height: 30/6 = 6 cubes (wait, 30/6 = 5 cubes). Total cubes = 10 × 9 × 5 = 450."
+    },
+    "kn": {
+      "question": "ಒಂದು ಆಯತಘನದ ಅಳತೆಗಳು 60 ಸೆಂ.ಮೀ × 54 sೆಂ.ಮೀ × 30 ಸೆಂ.ಮೀ ಇವೆ. ಅದರೊಳಗೆ ಇಡಬಹುದಾದ 6 ಸೆಂ.ಮೀ ಬಾಹುವಿರುವ ಸಣ್ಣ ಚೌಕಘನಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
+      "options": ["450", "500", "400", "900"],
+      "answer": "450",
+      "reasoning": "ಹಿಡಿಸಬಹುದಾದ ಚೌಕಘನಗಳ ಸಂಖ್ಯೆಯು ಆಯತಘನದ ಘನಫಲ ಮತ್ತು ಒಂದು ಸಣ್ಣ ಚೌಕಘನದ ಘನಫಲದ ಭಾಗಲಬ್ಧವಾಗಿರುತ್ತದೆ. ಆಯತಘನದ ಘನಫಲ = 60 × 54 × 30 = 97200 ಸೆಂ.ಮೀ³. ಸಣ್ಣ ಚೌಕಘನದ ಘನಫಲ = 6³ = 216 ಸೆಂ.ಮೀ³. ಒಟ್ಟು ಚೌಕಘನಗಳು = 97200 / 216 = 450. ಪರ್ಯಾಯವಾಗಿ, ಉದ್ದದ ಉದ್ದಕ್ಕೂ: 60/6 = 10; ಅಗಲದ ಉದ್ದಕ್ಕೂ: 54/6 = 9; ಎತ್ತರದ ಉದ್ದಕ್ಕೂ: 30/6 = 5. ಒಟ್ಟು ಚೌಕಘನಗಳು = 10 × 9 × 5 = 450."
+    }
+  },
+  {
+    "id": "c8_math_mens_024",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "If the radius of a right circular cylinder is doubled and its height is halved, which of the following statements are true? (Select all that apply)",
+      "options": [
+        "Its curved surface area remains the same.",
+        "Its volume is doubled.",
+        "Its total surface area is doubled.",
+        "Its volume is quadrupled."
+      ],
+      "answer": [
+        "Its curved surface area remains the same.",
+        "Its volume is doubled."
+      ],
+      "reasoning": "Let original radius be r and height be h.\nOriginal CSA = 2πrh. Original Volume = πr²h.\nNew radius R = 2r, new height H = h/2.\nNew CSA = 2π(2r)(h/2) = 2πrh (remains same). (True)\nNew Volume = π(2r)²(h/2) = π(4r²)(h/2) = 2πr²h (doubled). (True)\nTotal surface area formula is 2πr(r+h), which does not scale by a simple factor of 2 here."
+    },
+    "kn": {
+      "question": "ಒಂದು ನೇರ ವೃತ್ತಪಾದ ಸಿಲಿಂಡರ್‌ನ ತ್ರಿಜ್ಯವನ್ನು ದ್ವಿಗುಣಗೊಳಿಸಿ ಮತ್ತು ಅದರ ಎತ್ತರವನ್ನು ಅರ್ಧದಷ್ಟು ಮಾಡಿದರೆ, ಈ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ನಿಜ? (ಅನ್ವಯಿಸುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ)",
+      "options": [
+        "ಅದರ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವು ಬದಲಾಗದೆ ಹಾಗೇ ಇರುತ್ತದೆ.",
+        "ಅದರ ಘನಫಲವು ದ್ವಿಗುಣಗೊಳ್ಳುತ್ತದೆ.",
+        "ಅದರ ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವು ದ್ವಿಗುಣಗೊಳ್ಳುತ್ತದೆ.",
+        "ಅದರ ಘನಫಲವು ನಾಲ್ಕು ಪಟ್ಟಾಗುತ್ತದೆ."
+      ],
+      "answer": [
+        "ಅದರ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವು ಬದಲಾಗದೆ ಹಾಗೇ ಇರುತ್ತದೆ.",
+        "ಅದರ ಘನಫಲವು ದ್ವಿಗುಣಗೊಳ್ಳುತ್ತದೆ."
+      ],
+      "reasoning": "ಮೂಲ ತ್ರಿಜ್ಯ r ಮತ್ತು ಎತ್ತರ h ಎನ್ನೋಣ. ಮೂಲ CSA = 2πrh, ಮೂಲ ಘನಫಲ = πr²h.\nಹೊಸ ತ್ರಿಜ್ಯ R = 2r, ಹೊಸ ಎತ್ತರ H = h/2.\nಹೊಸ CSA = 2π(2r)(h/2) = 2πrh (ಬದಲಾಗುವುದಿಲ್ಲ). (ನಿಜ)\nಹೊಸ ಘನಫಲ = π(2r)²(h/2) = π(4r²)(h/2) = 2πr²h (ದ್ವಿಗುಣಗೊಳ್ಳುತ್ತದೆ). (ನಿಜ)\nಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ ಸೂತ್ರ 2πr(r+h) ಆಗಿದ್ದು, ಇದು ಈ ಸಂದರ್ಭದಲ್ಲಿ ನಿಖರವಾಗಿ 2 ರಷ್ಟು ಹೆಚ್ಚಾಗುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_math_mens_025",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "A cuboidal box has length 2 m, breadth 1.5 m, and height 1 m. Which of the following calculated properties are correct? (Select all that apply)",
+      "options": [
+        "The lateral surface area is 7 m².",
+        "The total surface area is 13 m².",
+        "The volume is 3 m³.",
+        "The length of its longest diagonal is 2.5 m."
+      ],
+      "answer": [
+        "The lateral surface area is 7 m².",
+        "The total surface area is 13 m².",
+        "The volume is 3 m³."
+      ],
+      "reasoning": "Let's calculate each property for l = 2, b = 1.5, h = 1:\n1. Lateral Surface Area (LSA) = 2h(l + b) = 2 × 1 × (2 + 1.5) = 7 m². (Correct)\n2. Total Surface Area (TSA) = 2(lb + bh + hl) = 2(2×1.5 + 1.5×1 + 1×2) = 2(3 + 1.5 + 2) = 2(6.5) = 13 m². (Correct)\n3. Volume = l × b × h = 2 × 1.5 × 1 = 3 m³. (Correct)\n4. Longest diagonal = √(l² + b² + h²) = √(4 + 2.25 + 1) = √7.25 ≈ 2.69 m, not 2.5 m. (Incorrect)"
+    },
+    "kn": {
+      "question": "ಒಂದು ಆಯತಘನಾಕಾರದ ಪೆಟ್ಟಿಗೆಯ ಉದ್ದ 2 ಮೀ, ಅಗಲ 1.5 ಮೀ ಮತ್ತು ಎತ್ತರ 1 ಮೀ ಆಗಿದೆ. ಈ ಕೆಳಗಿನ ಯಾವ ಗುಣಲಕ್ಷಣಗಳು ಸರಿಯಾಗಿವೆ? (ಅನ್ವಯಿಸುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ)",
+      "options": [
+        "ಅದರ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವು 7 ಚ.ಮೀ ಆಗಿದೆ.",
+        "ಅದರ ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವು 13 ಚ.ಮೀ ಆಗಿದೆ.",
+        "ಅದರ ಘನಫಲವು 3 ಮೀ³ ಆಗಿದೆ.",
+        "ಅದರ ಅತ್ಯಂತ ಉದ್ದವಾದ ಕರ್ಣದ ಉದ್ದವು 2.5 ಮೀ ಆಗಿದೆ."
+      ],
+      "answer": [
+        "ಅದರ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವು 7 ಚ.ಮೀ ಆಗಿದೆ.",
+        "ಅದರ ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವು 13 ಚ.ಮೀ ಆಗಿದೆ.",
+        "ಅದರ ಘನಫಲವು 3 ಮೀ³ ಆಗಿದೆ."
+      ],
+      "reasoning": "l = 2, b = 1.5, h = 1 ಇರುವ ಆಯತಘನದ ಗುಣಲಕ್ಷಣಗಳು ಹೀಗಿವೆ:\n1. ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (LSA) = 2h(l + b) = 2 × 1 × (2 + 1.5) = 7 ಚ.ಮೀ. (ಸರಿ)\n2. ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (TSA) = 2(lb + bh + hl) = 2(2×1.5 + 1.5×1 + 1×2) = 13 ಚ.ಮೀ. (ಸರಿ)\n3. ಘನಫಲ = l × b × h = 2 × 1.5 × 1 = 3 ಮೀ³. (ಸರಿ)\n4. ಅತ್ಯಂತ ಉದ್ದದ ಕರ್ಣ = √(l² + b² + h²) = √(4 + 2.25 + 1) = √7.25 ≈ 2.69 ಮೀ, 2.5 ಮೀ ಅಲ್ಲ. (ತಪ್ಪು)"
+    }
+  },
+  {
+    "id": "c8_math_mens_026",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the following scaling actions on the side 'a' of a cube to the corresponding ratio of its new surface area to the original surface area.",
+      "pairs": [
+        { "left": "Side is doubled", "right": "4 : 1" },
+        { "left": "Side is halved", "right": "1 : 4" },
+        { "left": "Side is tripled", "right": "9 : 1" },
+        { "left": "Side is quadrupled", "right": "16 : 1" }
+      ],
+      "reasoning": "The surface area of a cube is proportional to the square of its side length (Area ∝ a²). If side is multiplied by 'k', the area is multiplied by k²:\n- Doubled (k=2) => Area is 2² = 4 times. Ratio = 4:1\n- Halved (k=1/2) => Area is (1/2)² = 1/4 times. Ratio = 1:4\n- Tripled (k=3) => Area is 3² = 9 times. Ratio = 9:1\n- Quadrupled (k=4) => Area is 4² = 16 times. Ratio = 16:1"
+    },
+    "kn": {
+      "question": "ಒಂದು ಚೌಕಘನದ ಬಾಹು 'a' ನ ಮೇಲಿನ ಕೆಳಗಿನ ಬದಲಾವಣೆಗಳನ್ನು ಅದರ ಹೊಸ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಮೂಲ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣದ ಅನುಪಾತದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        { "left": "ಬಾಹುವನ್ನು ದ್ವಿಗುಣಗೊಳಿಸಿದಾಗ", "right": "4 : 1" },
+        { "left": "ಬಾಹುವನ್ನು ಅರ್ಧದಷ್ಟು ಮಾಡಿದಾಗ", "right": "1 : 4" },
+        { "left": "ಬಾಹುವನ್ನು ಮೂರು ಪಟ್ಟು ಮಾಡಿದಾಗ", "right": "9 : 1" },
+        { "left": "ಬಾಹುವನ್ನು ನಾಲ್ಕು ಪಟ್ಟು ಮಾಡಿದಾಗ", "right": "16 : 1" }
+      ],
+      "reasoning": "ಚೌಕಘನದ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವು ಅದರ ಬಾಹುವಿನ ವರ್ಗಕ್ಕೆ ನೇರ ಅನುಪಾತದಲ್ಲಿರುತ್ತದೆ (ವಿಸ್ತೀರ್ಣ ∝ a²). ಬಾಹುವನ್ನು 'k' ಪಟ್ಟು ಹೆಚ್ಚಿಸಿದರೆ, ವಿಸ್ತೀರ್ಣವು k² ಪಟ್ಟು ಹೆಚ್ಚುತ್ತದೆ:\n- ದ್ವಿಗುಣ (k=2) => ವಿಸ್ತೀರ್ಣ 4 ಪಟ್ಟು. ಅನುಪಾತ = 4:1\n- ಅರ್ಧದಷ್ಟು (k=1/2) => ವಿಸ್ತೀರ್ಣ 1/4 ರಷ್ಟು. ಅನುಪಾತ = 1:4\n- ಮೂರು ಪಟ್ಟು (k=3) => ವಿಸ್ತೀರ್ಣ 9 ಪಟ್ಟು. ಅನುಪಾತ = 9:1\n- ನಾಲ್ಕು ಪಟ್ಟು (k=4) => ವಿಸ್ತೀರ್ಣ 16 ಪಟ್ಟು. ಅನುಪಾತ = 16:1"
+    }
+  },
+  {
+    "id": "c8_math_mens_027",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the changes in the dimensions of a cylinder (radius r, height h) to the ratio of the new volume to the original volume.",
+      "pairs": [
+        { "left": "Radius is doubled, height is same", "right": "4 : 1" },
+        { "left": "Height is doubled, radius is same", "right": "2 : 1" },
+        { "left": "Radius is halved, height is same", "right": "1 : 4" },
+        { "left": "Radius is doubled, height is halved", "right": "2 : 1" }
+      ],
+      "reasoning": "Volume of a cylinder V = πr²h. Thus, V is proportional to r² and h.\n1. Radius doubled (2r) => (2r)² × h = 4r²h. Ratio = 4:1\n2. Height doubled (2h) => r² × (2h) = 2r²h. Ratio = 2:1\n3. Radius halved (r/2) => (r/2)² × h = 1/4 r²h. Ratio = 1:4\n4. Radius doubled, height halved => (2r)² × (h/2) = 4r² × h/2 = 2r²h. Ratio = 2:1"
+    },
+    "kn": {
+      "question": "ಸಿಲಿಂಡರ್‌ನ ಆಯಾಮಗಳಲ್ಲಿನ (ತ್ರಿಜ್ಯ r, ಎತ್ತರ h) ಬದಲಾವಣೆಗಳನ್ನು ಅದರ ಹೊಸ ಘನಫಲ ಮತ್ತು ಮೂಲ ಘನಫಲಗಳ ಅನುಪಾತದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        { "left": "ತ್ರಿಜ್ಯ ದ್ವಿಗುಣಗೊಂಡಾಗ, ಎತ್ತರ ಬದಲಾಗದಿದ್ದಾಗ", "right": "4 : 1" },
+        { "left": "ಎತ್ತರ ದ್ವಿಗುಣಗೊಂಡಾಗ, ತ್ರಿಜ್ಯ ಬದಲಾಗದಿದ್ದಾಗ", "right": "2 : 1" },
+        { "left": "ತ್ರಿಜ್ಯ ಅರ್ಧದಷ್ಟಾದಾಗ, ಎತ್ತರ ಬದಲಾಗದಿದ್ದಾಗ", "right": "1 : 4" },
+        { "left": "ತ್ರಿಜ್ಯ ದ್ವಿಗುಣಗೊಂಡು, ಎತ್ತರ ಅರ್ಧದಷ್ಟಾದಾಗ", "right": "2 : 1" }
+      ],
+      "reasoning": "ಸಿಲಿಂಡರ್‌ನ ಘನಫಲ V = πr²h. ಅಂದರೆ ಘನಫಲವು r² ಮತ್ತು h ಗೆ ನೇರ ಅನುಪಾತದಲ್ಲಿರುತ್ತದೆ.\n1. ತ್ರಿಜ್ಯ ದ್ವಿಗುಣ (2r) => (2r)² × h = 4r²h. ಅನುಪಾತ = 4:1\n2. ಎತ್ತರ ದ್ವಿಗುಣ (2h) => r² × (2h) = 2r²h. ಅನುಪಾತ = 2:1\n3. ತ್ರಿಜ್ಯ ಅರ್ಧದಷ್ಟು (r/2) => (r/2)² × h = 1/4 r²h. ಅನುಪಾತ = 1:4\n4. ತ್ರಿಜ್ಯ ದ್ವಿಗುಣ ಮತ್ತು ಎತ್ತರ ಅರ್ಧ => (2r)² × (h/2) = 2r²h. ಅನುಪಾತ = 2:1"
+    }
+  },
+  {
+    "id": "c8_math_mens_028",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "The perimeter of one face of a cube is 24 cm. Find its volume.",
+      "options": ["216 cm³", "144 cm³", "36 cm³", "96 cm³"],
+      "answer": "216 cm³",
+      "reasoning": "A face of a cube is a square. Let the side length of the cube be 'a'. The perimeter of a square face = 4a. Given, 4a = 24 cm => a = 6 cm. The volume of a cube is given by a³ = 6³ = 6 × 6 × 6 = 216 cm³."
+    },
+    "kn": {
+      "question": "ಚೌಕಘನದ ಒಂದು ಮುಖದ ಸುತ್ತಳತೆಯು 24 ಸೆಂ.ಮೀ ಆಗಿದೆ. ಅದರ ಘನಫಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["216 ಸೆಂ.ಮೀ³", "144 ಸೆಂ.ಮೀ³", "36 ಸೆಂ.ಮೀ³", "96 ಸೆಂ.ಮೀ³"],
+      "answer": "216 ಸೆಂ.ಮೀ³",
+      "reasoning": "ಚೌಕಘನದ ಮುಖವು ಚೌಕವಾಗಿರುತ್ತದೆ. ಘನದ ಬಾಹುವಿನ ಉದ್ದ 'a' ಆಗಿರಲಿ. ಚೌಕದ ಮುಖದ ಸುತ್ತಳತೆ = 4a. ನೀಡಲಾದ ಸುತ್ತಳತೆ 24 ಸೆಂ.ಮೀ ಆದಾಗ, 4a = 24 => a = 6 ಸೆಂ.ಮೀ. ಚೌಕಘನದ ಘನಫಲ = a³ = 6³ = 216 ಸೆಂ.ಮೀ³."
+    }
+  },
+  {
+    "id": "c8_math_mens_029",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "The volume of a cylinder is 448π cm³ and its height is 7 cm. Find its lateral surface area in terms of π.",
+      "options": ["112π cm²", "56π cm²", "224π cm²", "64π cm²"],
+      "answer": "112π cm²",
+      "reasoning": "Volume of a cylinder V = πr²h. We are given V = 448π cm³ and h = 7 cm. Therefore, 448π = π × r² × 7 => 448 = 7r² => r² = 64 => r = 8 cm. The lateral surface area of a cylinder is given by CSA = 2πrh = 2 × π × 8 × 7 = 112π cm²."
+    },
+    "kn": {
+      "question": "ಒಂದು ಸಿಲಿಂಡರ್‌ನ ಘನಫಲ 448π ಸೆಂ.ಮೀ³ ಮತ್ತು ಅದರ ಎತ್ತರ 7 ಸೆಂ.ಮೀ ಆಗಿದೆ. ಅದರ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು π ರೂಪದಲ್ಲಿ ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["112π ಚ.ಸೆಂ.ಮೀ", "56π ಚ.ಸೆಂ.ಮೀ", "224π ಚ.ಸೆಂ.ಮೀ", "64π ಚ.ಸೆಂ.ಮೀ"],
+      "answer": "112π ಚ.ಸೆಂ.ಮೀ",
+      "reasoning": "ಸಿಲಿಂಡರ್‌ನ ಘನಫಲ V = πr²h. ಇಲ್ಲಿ V = 448π ಸೆಂ.ಮೀ³ ಮತ್ತು h = 7 ಸೆಂ.ಮೀ. ಆದ್ದರಿಂದ, 448π = π × r² × 7 => 448 = 7r² => r² = 64 => r = 8 ಸೆಂ.ಮೀ. ಸಿಲಿಂಡರ್‌ನ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ = 2πrh = 2 × π × 8 × 7 = 112π ಚ.ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_mens_img_030",
+    "difficulty": 3,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><ellipse cx=\"150\" cy=\"50\" rx=\"80\" ry=\"25\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><ellipse cx=\"150\" cy=\"50\" rx=\"50\" ry=\"15\" fill=\"#ffffff\" stroke=\"#2563EB\" stroke-dasharray=\"3\"/><path d=\"M 70,50 L 70,150 A 80,25 0 0,0 230,150 L 230,50 A 80,25 0 0,1 70,50\" fill=\"#DBEAFE\" opacity=\"0.5\" stroke=\"none\"/><line x1=\"70\" y1=\"50\" x2=\"70\" y2=\"150\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"230\" y1=\"50\" x2=\"230\" y2=\"150\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M 70,150 A 80,25 0 0,0 230,150\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><path d=\"M 70,150 A 80,25 0 0,1 230,150\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"1.5\" stroke-dasharray=\"4\"/><line x1=\"150\" y1=\"50\" x2=\"200\" y2=\"50\" stroke=\"#DC2626\" stroke-width=\"1.5\"/><circle cx=\"150\" cy=\"50\" r=\"3\" fill=\"#059669\"/><circle cx=\"200\" cy=\"50\" r=\"2\" fill=\"#DC2626\"/><line x1=\"150\" y1=\"50\" x2=\"230\" y2=\"50\" stroke=\"#059669\" stroke-width=\"1.5\" stroke-dasharray=\"2\"/><circle cx=\"230\" cy=\"50\" r=\"2\" fill=\"#059669\"/><line x1=\"250\" y1=\"50\" x2=\"250\" y2=\"150\" stroke=\"#EA580C\" stroke-width=\"1.5\"/><path d=\"M 250,50 L 246,55 M 250,50 L 254,55 M 250,150 L 246,145 M 250,150 L 254,145\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"1.5\"/><text x=\"155\" y=\"45\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#DC2626\">r = 4 cm</text><text x=\"180\" y=\"65\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#059669\">R = 5 cm</text><text x=\"260\" y=\"105\" font-family=\"Arial, sans-serif\" font-size=\"11\" fill=\"#EA580C\">h = 14 cm</text></svg>",
+      "alt": {
+        "en": "A hollow cylindrical pipe with inner radius r = 4 cm, outer radius R = 5 cm, and height h = 14 cm.",
+        "kn": "ಒಳಗಿನ ತ್ರಿಜ್ಯ r = 4 ಸೆಂ.ಮೀ, ಹೊರಗಿನ ತ್ರಿಜ್ಯ R = 5 ಸೆಂ.ಮೀ ಮತ್ತು ಎತ್ತರ h = 14 ಸೆಂ.ಮೀ ಹೊಂದಿರುವ ಟೊಳ್ಳಾದ ಸಿಲಿಂಡರಾಕಾರದ ಕೊಳವೆ."
+      }
+    },
+    "en": {
+      "question": "Find the volume of the metal used to make the hollow cylindrical pipe shown in the image. (Take π = 22/7)",
+      "options": ["396 cm³", "198 cm³", "792 cm³", "254 cm³"],
+      "answer": "396 cm³",
+      "reasoning": "The volume of metal in a hollow cylinder is given by the formula: Volume = π(R² - r²)h, where R is the outer radius, r is the inner radius, and h is the height. Here, R = 5 cm, r = 4 cm, and h = 14 cm. Therefore, Volume = (22/7) × (5² - 4²) × 14 = (22/7) × (25 - 16) × 14 = 22 × 9 × 2 = 396 cm³."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಟೊಳ್ಳಾದ ಸಿಲಿಂಡರಾಕಾರದ ಕೊಳವೆಯನ್ನು ತಯಾರಿಸಲು ಬಳಸಲಾದ ಲೋಹದ ಘನಫಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. (π = 22/7 ಎಂದು ತೆಗೆದುಕೊಳ್ಳಿ)",
+      "options": ["396 ಸೆಂ.ಮೀ³", "198 ಸೆಂ.ಮೀ³", "792 ಸೆಂ.ಮೀ³", "254 ಸೆಂ.ಮೀ³"],
+      "answer": "396 ಸೆಂ.ಮೀ³",
+      "reasoning": "ಟೊಳ್ಳಾದ ಸಿಲಿಂಡರ್‌ನಲ್ಲಿರುವ ಲೋಹದ ಘನಫಲದ ಸೂತ್ರ: ಘನಫಲ = π(R² - r²)h, ಇಲ್ಲಿ R ಹೊರಗಿನ ತ್ರಿಜ್ಯ, r ಒಳಗಿನ ತ್ರಿಜ್ಯ, ಮತ್ತು h ಎತ್ತರವಾಗಿದೆ. ನೀಡಲಾದ R = 5 ಸೆಂ.ಮೀ, r = 4 ಸೆಂ.ಮೀ, ಮತ್ತು h = 14 ಸೆಂ.ಮೀ. ಆದ್ದರಿಂದ, ಘನಫಲ = (22/7) × (5² - 4²) × 14 = (22/7) × (25 - 16) × 14 = 22 × 9 × 2 = 396 ಸೆಂ.ಮೀ³."
+    }
+  }
+]

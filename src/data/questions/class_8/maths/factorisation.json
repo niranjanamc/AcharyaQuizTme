@@ -1,0 +1,998 @@
+[
+  {
+    "id": "c8_math_fact_001",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the highest common factor (HCF) of the terms 2x and 4?",
+      "options": [
+        "2",
+        "x",
+        "2x",
+        "4"
+      ],
+      "answer": "2",
+      "reasoning": "The term 2x can be factored as 2 * x, and 4 can be factored as 2 * 2. The highest common factor of 2 and 4 is 2. The variable x is only present in the first term, so the HCF is 2."
+    },
+    "kn": {
+      "question": "2x ಮತ್ತು 4 ಪದಗಳ ಅತ್ಯುನ್ನತ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ (HCF) ಯಾವುದು?",
+      "options": [
+        "2",
+        "x",
+        "2x",
+        "4"
+      ],
+      "answer": "2",
+      "reasoning": "2x ಪದವನ್ನು 2 * x ಎಂದು ಮತ್ತು 4 ಅನ್ನು 2 * 2 ಎಂದು ಅಪವರ್ತಿಸಬಹುದು. ಇವೆರಡರಲ್ಲೂ ಇರುವ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ 2 ಆಗಿದೆ. x ಕೇವಲ ಮೊದಲ ಪದದಲ್ಲಿದೆ. ಆದ್ದರಿಂದ ಅತ್ಯುನ್ನತ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ 2."
+    }
+  },
+  {
+    "id": "c8_math_fact_002",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Find the highest common factor (HCF) of 12a²b and 15ab².",
+      "options": [
+        "3ab",
+        "3a²b²",
+        "6ab",
+        "12ab"
+      ],
+      "answer": "3ab",
+      "reasoning": "Factorising the terms: 12a²b = 3 * 4 * a * a * b and 15ab² = 3 * 5 * a * b * b. The common factors are 3, a, and b. Therefore, HCF = 3 * a * b = 3ab."
+    },
+    "kn": {
+      "question": "12a²b ಮತ್ತು 15ab² ರ ಅತ್ಯುನ್ನತ ಸಾಮಾನ್ಯ ಅಪವರ್ತನವನ್ನು (HCF) ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": [
+        "3ab",
+        "3a²b²",
+        "6ab",
+        "12ab"
+      ],
+      "answer": "3ab",
+      "reasoning": "ಪದಗಳ ಅಪವರ್ತನಗಳು: 12a²b = 3 * 4 * a * a * b ಮತ್ತು 15ab² = 3 * 5 * a * b * b. ಇವುಗಳಲ್ಲಿರುವ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳು 3, a ಮತ್ತು b. ಆದ್ದರಿಂದ, HCF = 3 * a * b = 3ab."
+    }
+  },
+  {
+    "id": "c8_math_fact_003",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the factorised form of the expression 7x - 42?",
+      "options": [
+        "7(x - 6)",
+        "7(x - 42)",
+        "x(7 - 6)",
+        "7x(1 - 6)"
+      ],
+      "answer": "7(x - 6)",
+      "reasoning": "We can write 7x - 42 by taking out the common numerical factor. The HCF of 7 and 42 is 7. Thus, 7x - 42 = 7(x) - 7(6) = 7(x - 6)."
+    },
+    "kn": {
+      "question": "7x - 42 ಬೀಜೋಕ್ತಿಯ ಅಪವರ್ತಿಸಿದ ರೂಪ ಯಾವುದು?",
+      "options": [
+        "7(x - 6)",
+        "7(x - 42)",
+        "x(7 - 6)",
+        "7x(1 - 6)"
+      ],
+      "answer": "7(x - 6)",
+      "reasoning": "7 ಮತ್ತು 42 ರ ಅತ್ಯುನ್ನತ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ 7 ಆಗಿದೆ. ಆದ್ದರಿಂದ, 7x - 42 = 7(x) - 7(6) = 7(x - 6)."
+    }
+  },
+  {
+    "id": "c8_math_fact_004",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Factorise the quadratic expression: a² + 8a + 16.",
+      "options": [
+        "(a + 4)²",
+        "(a - 4)²",
+        "(a + 8)²",
+        "(a + 2)(a + 8)"
+      ],
+      "answer": "(a + 4)²",
+      "reasoning": "This expression fits the identity (x + y)² = x² + 2xy + y². Here, a² + 8a + 16 = a² + 2(a)(4) + 4² = (a + 4)²."
+    },
+    "kn": {
+      "question": "a² + 8a + 16 ಬೀಜೋಕ್ತಿಯನ್ನು ಅಪವರ್ತಿಸಿ.",
+      "options": [
+        "(a + 4)²",
+        "(a - 4)²",
+        "(a + 8)²",
+        "(a + 2)(a + 8)"
+      ],
+      "answer": "(a + 4)²",
+      "reasoning": "ಇದು (x + y)² = x² + 2xy + y² ನಿತ್ಯಸಮೀಕರಣದ ರೂಪದಲ್ಲಿದೆ. ಇಲ್ಲಿ, a² + 8a + 16 = a² + 2(a)(4) + 4² = (a + 4)²."
+    }
+  },
+  {
+    "id": "c8_math_fact_005",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "What is the factorised form of x² - 9?",
+      "options": [
+        "(x - 3)(x + 3)",
+        "(x - 3)²",
+        "(x + 3)²",
+        "(x - 9)(x + 1)"
+      ],
+      "answer": "(x - 3)(x + 3)",
+      "reasoning": "Using the difference of squares identity, a² - b² = (a - b)(a + b). Here, x² - 9 = x² - 3² = (x - 3)(x + 3)."
+    },
+    "kn": {
+      "question": "x² - 9 ರ ಅಪವರ್ತಿಸಿದ ರೂಪ ಯಾವುದು?",
+      "options": [
+        "(x - 3)(x + 3)",
+        "(x - 3)²",
+        "(x + 3)²",
+        "(x - 9)(x + 1)"
+      ],
+      "answer": "(x - 3)(x + 3)",
+      "reasoning": "ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸದ ನಿತ್ಯಸಮೀಕರಣ a² - b² = (a - b)(a + b) ಅನ್ನು ಬಳಸಿದಾಗ, x² - 9 = x² - 3² = (x - 3)(x + 3) ಆಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_fact_006",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Divide the monomial 10x² by 2x.",
+      "options": [
+        "5x",
+        "5",
+        "5x²",
+        "20x³"
+      ],
+      "answer": "5x",
+      "reasoning": "10x² / 2x = (10 / 2) * (x² / x) = 5 * x = 5x."
+    },
+    "kn": {
+      "question": "10x² ಏಕಪದೋಕ್ತಿಯನ್ನು 2x ರಿಂದ ಭಾಗಿಸಿ.",
+      "options": [
+        "5x",
+        "5",
+        "5x²",
+        "20x³"
+      ],
+      "answer": "5x",
+      "reasoning": "10x² / 2x = (10 / 2) * (x² / x) = 5 * x = 5x."
+    }
+  },
+  {
+    "id": "c8_math_fact_007",
+    "type": "single",
+    "difficulty": 1,
+    "en": {
+      "question": "Factorise: 3x + 3y.",
+      "options": [
+        "3(x + y)",
+        "3xy",
+        "3x(1 + y)",
+        "3(x - y)"
+      ],
+      "answer": "3(x + y)",
+      "reasoning": "Taking the common factor 3 out: 3x + 3y = 3(x + y)."
+    },
+    "kn": {
+      "question": "ಅಪವರ್ತಿಸಿ: 3x + 3y.",
+      "options": [
+        "3(x + y)",
+        "3xy",
+        "3x(1 + y)",
+        "3(x - y)"
+      ],
+      "answer": "3(x + y)",
+      "reasoning": "ಸಾಮಾನ್ಯ ಅಪವರ್ತನ 3 ಅನ್ನು ಹೊರತೆಗೆದಾಗ: 3x + 3y = 3(x + y)."
+    }
+  },
+  {
+    "id": "c8_math_fact_img_008",
+    "type": "image_single",
+    "difficulty": 1,
+    "en": {
+      "question": "In the given area model, a rectangle ABCD of height 3 is divided into two sections with areas 3x and 6. What is the total length (width) of the rectangle?",
+      "options": [
+        "x + 2",
+        "x + 6",
+        "3x + 2",
+        "x + 3"
+      ],
+      "answer": "x + 2",
+      "reasoning": "The area of a rectangle is Height * Length. Here, Total Area = 3x + 6. Height = 3. Therefore, Length = Total Area / Height = (3x + 6) / 3 = 3(x + 2) / 3 = x + 2."
+    },
+    "kn": {
+      "question": "ನೀಡಿರುವ ವಿಸ್ತೀರ್ಣದ ಮಾದರಿಯಲ್ಲಿ, 3 ರಷ್ಟು ಎತ್ತರವಿರುವ ಆಯತ ABCD ಅನ್ನು 3x ಮತ್ತು 6 ವಿಸ್ತೀರ್ಣವಿರುವ ಎರಡು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ. ಆಯತದ ಒಟ್ಟು ಉದ್ದ (ಅಗಲ) ಎಷ್ಟು?",
+      "options": [
+        "x + 2",
+        "x + 6",
+        "3x + 2",
+        "x + 3"
+      ],
+      "answer": "x + 2",
+      "reasoning": "ಆಯತದ ವಿಸ್ತೀರ್ಣ = ಎತ್ತರ * ಉದ್ದ. ಇಲ್ಲಿ, ಒಟ್ಟು ವಿಸ್ತೀರ್ಣ = 3x + 6. ಎತ್ತರ = 3. ಆದ್ದರಿಂದ, ಉದ್ದ = ಒಟ್ಟು ವಿಸ್ತೀರ್ಣ / ಎತ್ತರ = (3x + 6) / 3 = 3(x + 2) / 3 = x + 2."
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"40\" width=\"200\" height=\"120\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"150\" y1=\"40\" x2=\"150\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-dasharray=\"4\"/><text x=\"25\" y=\"105\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">3</text><text x=\"100\" y=\"105\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">3x</text><text x=\"200\" y=\"105\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">6</text><text x=\"45\" y=\"35\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">A</text><text x=\"255\" y=\"35\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">B</text><text x=\"255\" y=\"175\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">C</text><text x=\"45\" y=\"175\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">D</text></svg>",
+      "alt": {
+        "en": "Area model showing a rectangle divided into 3x and 6 with height 3",
+        "kn": "ಎತ್ತರ 3 ಮತ್ತು 3x ಹಾಗೂ 6 ವಿಸ್ತೀರ್ಣಗಳಾಗಿ ವಿಂಗಡಿಸಲಾದ ಆಯತದ ವಿಸ್ತೀರ್ಣ ಮಾದರಿ"
+      }
+    }
+  },
+  {
+    "id": "c8_math_fact_009",
+    "type": "multiple",
+    "difficulty": 1,
+    "en": {
+      "question": "Select all the terms that are factors of 12x²y.",
+      "options": [
+        "3x",
+        "4xy",
+        "6x²",
+        "5xy"
+      ],
+      "answer": [
+        "3x",
+        "4xy",
+        "6x²"
+      ],
+      "reasoning": "12x²y can be written as 2 * 2 * 3 * x * x * y. Dividing 12x²y by each term: 12x²y / 3x = 4xy (factor), 12x²y / 4xy = 3x (factor), 12x²y / 6x² = 2y (factor). But 12x²y is not divisible by 5xy without leaving a fraction, so 5xy is not a factor."
+    },
+    "kn": {
+      "question": "12x²y ನ ಅಪವರ್ತನಗಳಾಗಿರುವ ಎಲ್ಲಾ ಪದಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": [
+        "3x",
+        "4xy",
+        "6x²",
+        "5xy"
+      ],
+      "answer": [
+        "3x",
+        "4xy",
+        "6x²"
+      ],
+      "reasoning": "12x²y ಅನ್ನು 2 * 2 * 3 * x * x * y ಎಂದು ಬರೆಯಬಹುದು. 12x²y ಅನ್ನು ಪ್ರತಿ ಪದದಿಂದ ಭಾಗಿಸಿದಾಗ: 12x²y / 3x = 4xy (ಅಪವರ್ತನ), 12x²y / 4xy = 3x (ಅಪವರ್ತನ), 12x²y / 6x² = 2y (ಅಪವರ್ತನ). ಆದರೆ 12x²y ಪದವು 5xy ನಿಂದ ಶೇಷವಿಲ್ಲದೆ ಭಾಗವಾಗುವುದಿಲ್ಲ, ಆದ್ದರಿಂದ 5xy ಅಪವರ್ತನವಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_math_fact_010",
+    "type": "match",
+    "difficulty": 1,
+    "en": {
+      "question": "Match each algebraic expression with its correct factorised form.",
+      "pairs": [
+        {
+          "left": "x² - 4",
+          "right": "(x - 2)(x + 2)"
+        },
+        {
+          "left": "x² - 4x + 4",
+          "right": "(x - 2)²"
+        },
+        {
+          "left": "x² + 4x + 4",
+          "right": "(x + 2)²"
+        },
+        {
+          "left": "2x - 4",
+          "right": "2(x - 2)"
+        }
+      ],
+      "reasoning": "1. x² - 4 uses the identity a² - b² = (a - b)(a + b) => (x - 2)(x + 2).\n2. x² - 4x + 4 is a perfect square trinomial matching (a - b)² = a² - 2ab + b² => (x - 2)².\n3. x² + 4x + 4 matches (a + b)² = a² + 2ab + b² => (x + 2)².\n4. 2x - 4 has 2 as a common factor => 2(x - 2)."
+    },
+    "kn": {
+      "question": "ಪ್ರತಿಯೊಂದು ಬೀಜೋಕ್ತಿಯನ್ನು ಅದರ ಸರಿಯಾದ ಅಪವರ್ತಿಸಿದ ರೂಪದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "x² - 4",
+          "right": "(x - 2)(x + 2)"
+        },
+        {
+          "left": "x² - 4x + 4",
+          "right": "(x - 2)²"
+        },
+        {
+          "left": "x² + 4x + 4",
+          "right": "(x + 2)²"
+        },
+        {
+          "left": "2x - 4",
+          "right": "2(x - 2)"
+        }
+      ],
+      "reasoning": "1. a² - b² = (a - b)(a + b) ನಿತ್ಯಸಮೀಕರಣದಿಂದ: x² - 4 = (x - 2)(x + 2).\n2. (a - b)² = a² - 2ab + b² ನಿತ್ಯಸಮೀಕರಣದಿಂದ: x² - 4x + 4 = (x - 2)².\n3. (a + b)² = a² + 2ab + b² ನಿತ್ಯಸಮೀಕರಣದಿಂದ: x² + 4x + 4 = (x + 2)².\n4. ಸಾಮಾನ್ಯ ಅಪವರ್ತನ 2 ಹೊರತೆಗೆದಾಗ: 2x - 4 = 2(x - 2)."
+    }
+  },
+  {
+    "id": "c8_math_fact_011",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Factorise the quadratic trinomial: x² - 7x + 12.",
+      "options": [
+        "(x - 3)(x - 4)",
+        "(x - 2)(x - 5)",
+        "(x + 3)(x + 4)",
+        "(x - 3)(x + 4)"
+      ],
+      "answer": "(x - 3)(x - 4)",
+      "reasoning": "To split the middle term, we find two numbers that multiply to +12 (the product of coefficient of x² and the constant term) and add up to -7 (coefficient of x). These numbers are -3 and -4. So, x² - 7x + 12 = x² - 3x - 4x + 12 = x(x - 3) - 4(x - 3) = (x - 3)(x - 4)."
+    },
+    "kn": {
+      "question": "x² - 7x + 12 ವರ್ಗ ತ್ರಿಪದೋಕ್ತಿಯನ್ನು ಅಪವರ್ತಿಸಿ.",
+      "options": [
+        "(x - 3)(x - 4)",
+        "(x - 2)(x - 5)",
+        "(x + 3)(x + 4)",
+        "(x - 3)(x + 4)"
+      ],
+      "answer": "(x - 3)(x - 4)",
+      "reasoning": "ಮಧ್ಯದ ಪದವನ್ನು ವಿಭಜಿಸಲು, ಗುಣಿಸಿದಾಗ +12 ಮತ್ತು ಕೂಡಿಸಿದಾಗ -7 ಬರುವ ಎರಡು ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಆ ಸಂಖ್ಯೆಗಳು -3 ಮತ್ತು -4. ಹೀಗೆ, x² - 7x + 12 = x² - 3x - 4x + 12 = x(x - 3) - 4(x - 3) = (x - 3)(x - 4) ಆಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_fact_012",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Factorise the expression by regrouping: xy - xz + y - z.",
+      "options": [
+        "(x + 1)(y - z)",
+        "(x - 1)(y - z)",
+        "(x + 1)(y + z)",
+        "(xy - z)(x + 1)"
+      ],
+      "answer": "(x + 1)(y - z)",
+      "reasoning": "Regroup terms as: (xy - xz) + (y - z). Take out common factor x from the first group and 1 from the second: x(y - z) + 1(y - z). Now, factor out the binomial (y - z) to get (x + 1)(y - z)."
+    },
+    "kn": {
+      "question": "ಗುಂಪುಗಳಾಗಿ ಮರುಜೋಡಿಸುವ ಮೂಲಕ ಈ ಬೀಜೋಕ್ತಿಯನ್ನು ಅಪವರ್ತಿಸಿ: xy - xz + y - z.",
+      "options": [
+        "(x + 1)(y - z)",
+        "(x - 1)(y - z)",
+        "(x + 1)(y + z)",
+        "(xy - z)(x + 1)"
+      ],
+      "answer": "(x + 1)(y - z)",
+      "reasoning": "ಪದಗಳನ್ನು ಮರುಜೋಡಿಸಿದಾಗ: (xy - xz) + (y - z) ಎಂದಾಗುತ್ತದೆ. ಮೊದಲ ಗುಂಪಿನಿಂದ x ಮತ್ತು ಎರಡನೇ ಗುಂಪಿನಿಂದ 1 ಅನ್ನು ಹೊರತೆಗೆದಾಗ: x(y - z) + 1(y - z) ಸಿಗುತ್ತದೆ. ಈಗ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ (y - z) ಅನ್ನು ಹೊರತೆಗೆದಾಗ (x + 1)(y - z) ದೊರೆಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_fact_013",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "Divide (5x² - 6x) by x.",
+      "options": [
+        "5x - 6",
+        "5x² - 6",
+        "5x - 6x",
+        "5x + 6"
+      ],
+      "answer": "5x - 6",
+      "reasoning": "Divide each term of the numerator by the denominator: (5x² - 6x) / x = 5x²/x - 6x/x = 5x - 6. Alternatively, factor out x from the numerator first: x(5x - 6) / x = 5x - 6."
+    },
+    "kn": {
+      "question": "(5x² - 6x) ಅನ್ನು x ನಿಂದ भागಿಸಿ.",
+      "options": [
+        "5x - 6",
+        "5x² - 6",
+        "5x - 6x",
+        "5x + 6"
+      ],
+      "answer": "5x - 6",
+      "reasoning": "ಅಂಶದ ಪ್ರತಿ ಪದವನ್ನು ಛೇದದಿಂದ ಭಾಗಿಸಿ: (5x² - 6x) / x = 5x²/x - 6x/x = 5x - 6. ಅಥವಾ ಮೊದಲು ಅಂಶದಿಂದ x ಅನ್ನು ಹೊರತೆಗೆಯಿರಿ: x(5x - 6) / x = 5x - 6."
+    }
+  },
+  {
+    "id": "c8_math_fact_014",
+    "type": "single",
+    "difficulty": 2,
+    "en": {
+      "question": "If (x - 3)(x + m) = x² - x - 6, what is the value of m?",
+      "options": [
+        "2",
+        "-2",
+        "3",
+        "6"
+      ],
+      "answer": "2",
+      "reasoning": "Expanding the left side gives: (x - 3)(x + m) = x² + mx - 3x - 3m = x² + (m - 3)x - 3m. Comparing coefficients with the right side x² - x - 6: the coefficient of x gives m - 3 = -1 => m = 2. Also, the constant term gives -3m = -6 => m = 2."
+    },
+    "kn": {
+      "question": "(x - 3)(x + m) = x² - x - 6 ಆಗಿದ್ದರೆ, m ನ ಬೆಲೆ ಎಷ್ಟು?",
+      "options": [
+        "2",
+        "-2",
+        "3",
+        "6"
+      ],
+      "answer": "2",
+      "reasoning": "ಎಡಭಾಗವನ್ನು ವಿಸ್ತರಿಸಿದಾಗ: (x - 3)(x + m) = x² + (m - 3)x - 3m ದೊರೆಯುತ್ತದೆ. ಇದನ್ನು ಬಲಭಾಗದ x² - x - 6 ರೊಂದಿಗೆ ಹೋಲಿಸಿದಾಗ: x ನ ಸಹಗುಣಕದಿಂದ m - 3 = -1 => m = 2. ಅದೇ ರೀತಿ ಸ್ಥಿರ ಪದದಿಂದ -3m = -6 => m = 2."
+    }
+  },
+  {
+    "id": "c8_math_fact_img_015",
+    "type": "image_single",
+    "difficulty": 2,
+    "en": {
+      "question": "This square area model represents the expansion of which factorised algebraic expression?",
+      "options": [
+        "(x + 3)²",
+        "(x - 3)²",
+        "x² + 9",
+        "(x + 3)(x - 3)"
+      ],
+      "answer": "(x + 3)²",
+      "reasoning": "The side lengths of the outer square are both (x + 3). The total area of the square is the product of its sides: (x + 3) * (x + 3) = (x + 3)². Alternatively, sum the individual areas of the four smaller sections: x² + 3x + 3x + 9 = x² + 6x + 9, which factors back to (x + 3)²."
+    },
+    "kn": {
+      "question": "ಈ ಚೌಕಾಕಾರದ ವಿಸ್ತೀರ್ಣ ಮಾದರಿಯು ಯಾವ ಅಪವರ್ತಿಸಿದ ಬೀಜೋಕ್ತಿಯ ವಿಸ್ತರಣೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ?",
+      "options": [
+        "(x + 3)²",
+        "(x - 3)²",
+        "x² + 9",
+        "(x + 3)(x - 3)"
+      ],
+      "answer": "(x + 3)²",
+      "reasoning": "ಹೊರಗಿನ ಚೌಕದ ಎರಡು ಬಾಹುಗಳ ಉದ್ದಗಳು (x + 3) ಆಗಿವೆ. ಚೌಕದ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವು ಬಾಹುಗಳ ಗುಣಲಬ್ಧವಾಗಿದೆ: (x + 3) * (x + 3) = (x + 3)². ಅಥವಾ ನಾಲ್ಕು ಸಣ್ಣ ಭಾಗಗಳ ವಿಸ್ತೀರ್ಣವನ್ನು ಕೂಡಿದಾಗ: x² + 3x + 3x + 9 = x² + 6x + 9 ಸಿಗುತ್ತದೆ, ಇದು (x + 3)² ನ ಅಪವರ್ತಿತ ರೂಪವಾಗಿದೆ."
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 300\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"50\" width=\"200\" height=\"200\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"170\" y1=\"50\" x2=\"170\" y2=\"250\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-dasharray=\"4\"/><line x1=\"50\" y1=\"170\" x2=\"250\" y2=\"170\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-dasharray=\"4\"/><text x=\"110\" y=\"115\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">x²</text><text x=\"210\" y=\"115\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">3x</text><text x=\"110\" y=\"215\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">3x</text><text x=\"210\" y=\"215\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">9</text><text x=\"110\" y=\"35\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">x</text><text x=\"210\" y=\"35\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">3</text><text x=\"35\" y=\"115\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">x</text><text x=\"35\" y=\"215\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">3</text></svg>",
+      "alt": {
+        "en": "Square area model representing x squared, two 3x areas, and 9",
+        "kn": "x ವರ್ಗ, ಎರಡು 3x ಭಾಗಗಳು ಮತ್ತು 9 ನ್ನು ತೋರಿಸುವ ಚೌಕಾಕಾರದ ವಿಸ್ತೀರ್ಣ ಮಾದರಿ"
+      }
+    }
+  },
+  {
+    "id": "c8_math_fact_img_016",
+    "type": "image_single",
+    "difficulty": 2,
+    "en": {
+      "question": "In the given diagram, the total area of the rectangle is 2ab + 8a. If the height of the rectangle is 2a, what is its total length?",
+      "options": [
+        "b + 4",
+        "b + 8",
+        "2b + 4",
+        "b + 8a"
+      ],
+      "answer": "b + 4",
+      "reasoning": "The total area of the rectangle is Area = 2ab + 8a. We know that Area = Height * Length. Given Height = 2a. Therefore, Length = Area / Height = (2ab + 8a) / 2a. Factoring out 2a from the numerator: 2a(b + 4) / 2a = b + 4."
+    },
+    "kn": {
+      "question": "ನೀಡಿರುವ ಚಿತ್ರದಲ್ಲಿ ಆಯತದ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣ 2ab + 8a ಆಗಿದೆ. ಆಯತದ ಎತ್ತರ 2a ಆಗಿದ್ದರೆ, ಅದರ ಒಟ್ಟು ಉದ್ದ ಎಷ್ಟು?",
+      "options": [
+        "b + 4",
+        "b + 8",
+        "2b + 4",
+        "b + 8a"
+      ],
+      "answer": "b + 4",
+      "reasoning": "ಆಯತದ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣ = ಎತ್ತರ * ಉದ್ದ. ಇಲ್ಲಿ ವಿಸ್ತೀರ್ಣ = 2ab + 8a ಮತ್ತು ಎತ್ತರ = 2a. ಉದ್ದ = ವಿಸ್ತೀರ್ಣ / ಎತ್ತರ = (2ab + 8a) / 2a. ಅಂಶದಿಂದ 2a ಅನ್ನು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿ ಹೊರತೆಗೆದಾಗ: 2a(b + 4) / 2a = b + 4."
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"50\" width=\"200\" height=\"100\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"160\" y1=\"50\" x2=\"160\" y2=\"150\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-dasharray=\"4\"/><text x=\"105\" y=\"105\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">2ab</text><text x=\"205\" y=\"105\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">8a</text><text x=\"30\" y=\"105\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">2a</text></svg>",
+      "alt": {
+        "en": "Rectangle with parts of area 2ab and 8a, with height labeled as 2a",
+        "kn": "2ab ಮತ್ತು 8a ವಿಸ್ತೀರ್ಣ ಭಾಗಗಳು ಹಾಗೂ 2a ಎತ್ತರವಿರುವ ಆಯತ"
+      }
+    }
+  },
+  {
+    "id": "c8_math_fact_017",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Which of the following algebraic expressions have (x - 5) as one of their factors? (Select all that apply)",
+      "options": [
+        "x² - 25",
+        "x² - 10x + 25",
+        "x² - 6x + 5",
+        "x² + 6x + 5"
+      ],
+      "answer": [
+        "x² - 25",
+        "x² - 10x + 25",
+        "x² - 6x + 5"
+      ],
+      "reasoning": "Let's factorise each option:\n1. x² - 25 = (x - 5)(x + 5) => has factor (x - 5).\n2. x² - 10x + 25 = (x - 5)² => has factor (x - 5).\n3. x² - 6x + 5 = (x - 5)(x - 1) => has factor (x - 5).\n4. x² + 6x + 5 = (x + 5)(x + 1) => does not have (x - 5) as a factor."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಬೀಜೋಕ್ತಿಗಳಲ್ಲಿ ಯಾವುದು (x - 5) ಅನ್ನು ಒಂದು ಅಪವರ್ತನವಾಗಿ ಹೊಂದಿದೆ? (ಅನ್ವಯಿಸುವ ಎಲ್ಲವನ್ನೂ ಆರಿಸಿ)",
+      "options": [
+        "x² - 25",
+        "x² - 10x + 25",
+        "x² - 6x + 5",
+        "x² + 6x + 5"
+      ],
+      "answer": [
+        "x² - 25",
+        "x² - 10x + 25",
+        "x² - 6x + 5"
+      ],
+      "reasoning": "ಪ್ರತಿಯೊಂದು ಆಯ್ಕೆಯ ಅಪವರ್ತನಗಳನ್ನು ಪರಿಶೀಲಿಸೋಣ:\n1. x² - 25 = (x - 5)(x + 5) => (x - 5) ಅಪವರ್ತನ ಹೊಂದಿದೆ.\n2. x² - 10x + 25 = (x - 5)² => (x - 5) ಅಪವರ್ತನ ಹೊಂದಿದೆ.\n3. x² - 6x + 5 = (x - 5)(x - 1) => (x - 5) ಅಪವರ್ತನ ಹೊಂದಿದೆ.\n4. x² + 6x + 5 = (x + 5)(x + 1) => (x - 5) ಅಪವರ್ತನ ಹೊಂದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_math_fact_018",
+    "type": "multiple",
+    "difficulty": 2,
+    "en": {
+      "question": "Select all the correct statements regarding the factorisation of the quadratic expression x² + 5x - 6.",
+      "options": [
+        "Its factors are (x - 1) and (x + 6).",
+        "Its factors are (x + 1) and (x - 6).",
+        "The constant term -6 can be split as +6 and -1.",
+        "The sum of the roots/factors terms is +5."
+      ],
+      "answer": [
+        "Its factors are (x - 1) and (x + 6).",
+        "The constant term -6 can be split as +6 and -1."
+      ],
+      "reasoning": "To factorise x² + 5x - 6: we need two numbers that multiply to -6 and add to +5. These numbers are +6 and -1. Splitting the middle term: x² + 6x - x - 6 = x(x + 6) - 1(x + 6) = (x - 1)(x + 6). Hence, the factors are (x - 1) and (x + 6), and the split of -6 is +6 and -1."
+    },
+    "kn": {
+      "question": "x² + 5x - 6 ವರ್ಗ ಬೀಜೋಕ್ತಿಯ ಅಪವರ್ತನೀಕರಣಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಎಲ್ಲಾ ಸರಿಯಾದ ಹೇಳಿಕೆಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+      "options": [
+        "ಇದರ ಅಪವರ್ತನಗಳು (x - 1) ಮತ್ತು (x + 6) ಆಗಿವೆ.",
+        "ಇದರ ಅಪವರ್ತನಗಳು (x + 1) ಮತ್ತು (x - 6) ಆಗಿವೆ.",
+        "ಸ್ಥಿರ ಪದ -6 ಅನ್ನು +6 ಮತ್ತು -1 ಎಂದು ವಿಭಜಿಸಬಹುದು.",
+        "ಅಪವರ್ತನಗಳ ಪದಗಳ ಮೊತ್ತವು +5 ಆಗಿದೆ."
+      ],
+      "answer": [
+        "ಇದರ ಅಪವರ್ತನಗಳು (x - 1) ಮತ್ತು (x + 6) ಆಗಿವೆ.",
+        "ಸ್ಥಿರ ಪದ -6 ಅನ್ನು +6 ಮತ್ತು -1 ಎಂದು ವಿಭಜಿಸಬಹುದು."
+      ],
+      "reasoning": "x² + 5x - 6 ಅನ್ನು ಅಪವರ್ತಿಸಲು: ಗುಣಿಸಿದಾಗ -6 ಮತ್ತು ಕೂಡಿಸಿದಾಗ +5 ಬರುವ ಎರಡು ಸಂಖ್ಯೆಗಳು ಬೇಕು. ಆ ಸಂಖ್ಯೆಗಳು +6 ಮತ್ತು -1. ಮಧ್ಯದ ಪದವನ್ನು ವಿಭಜಿಸಿದಾಗ: x² + 6x - x - 6 = x(x + 6) - 1(x + 6) = (x - 1)(x + 6). ಹೀಗಾಗಿ ಸರಿಯಾದ ಅಪವರ್ತನಗಳು (x - 1) ಮತ್ತು (x + 6) ಆಗಿವೆ, ಮತ್ತು ಸ್ಥಿರ ಪದದ ವಿಭಜನೆ +6 ಹಾಗೂ -1 ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_fact_019",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match each quadratic trinomial with its correct factored form.",
+      "pairs": [
+        {
+          "left": "x² - 5x + 6",
+          "right": "(x - 2)(x - 3)"
+        },
+        {
+          "left": "x² + 5x + 6",
+          "right": "(x + 2)(x + 3)"
+        },
+        {
+          "left": "x² - x - 6",
+          "right": "(x - 3)(x + 2)"
+        },
+        {
+          "left": "x² + x - 6",
+          "right": "(x + 3)(x - 2)"
+        }
+      ],
+      "reasoning": "1. x² - 5x + 6: product is +6, sum is -5 => numbers are -2 and -3 => (x - 2)(x - 3).\n2. x² + 5x + 6: product is +6, sum is +5 => numbers are +2 and +3 => (x + 2)(x + 3).\n3. x² - x - 6: product is -6, sum is -1 => numbers are -3 and +2 => (x - 3)(x + 2).\n4. x² + x - 6: product is -6, sum is +1 => numbers are +3 and -2 => (x + 3)(x - 2)."
+    },
+    "kn": {
+      "question": "ಪ್ರತಿಯೊಂದು ವರ್ಗ ತ್ರಿಪದೋಕ್ತಿಯನ್ನು ಅದರ ಸರಿಯಾದ ಅಪವರ್ತಿಸಿದ ರೂಪದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "x² - 5x + 6",
+          "right": "(x - 2)(x - 3)"
+        },
+        {
+          "left": "x² + 5x + 6",
+          "right": "(x + 2)(x + 3)"
+        },
+        {
+          "left": "x² - x - 6",
+          "right": "(x - 3)(x + 2)"
+        },
+        {
+          "left": "x² + x - 6",
+          "right": "(x + 3)(x - 2)"
+        }
+      ],
+      "reasoning": "1. x² - 5x + 6: ಗುಣಲಬ್ಧ +6, ಮೊತ್ತ -5 => ಸಂಖ್ಯೆಗಳು -2 ಮತ್ತು -3 => (x - 2)(x - 3).\n2. x² + 5x + 6: ಗುಣಲಬ್ಧ +6, ಮೊತ್ತ +5 => ಸಂಖ್ಯೆಗಳು +2 ಮತ್ತು +3 => (x + 2)(x + 3).\n3. x² - x - 6: ಗುಣಲಬ್ಧ -6, ಮೊತ್ತ -1 => ಸಂಖ್ಯೆಗಳು -3 ಮತ್ತು +2 => (x - 3)(x + 2).\n4. x² + x - 6: ಗುಣಲಬ್ಧ -6, ಮೊತ್ತ +1 => ಸಂಖ್ಯೆಗಳು +3 ಮತ್ತು -2 => (x + 3)(x - 2)."
+    }
+  },
+  {
+    "id": "c8_math_fact_020",
+    "type": "match",
+    "difficulty": 2,
+    "en": {
+      "question": "Match the algebraic division problems with their simplified quotients.",
+      "pairs": [
+        {
+          "left": "(x² - 9) ÷ (x - 3)",
+          "right": "x + 3"
+        },
+        {
+          "left": "(x² - 9) ÷ (x + 3)",
+          "right": "x - 3"
+        },
+        {
+          "left": "(x² - 6x + 9) ÷ (x - 3)",
+          "right": "x - 3"
+        },
+        {
+          "left": "(x² + 6x + 9) ÷ (x + 3)",
+          "right": "x + 3"
+        }
+      ],
+      "reasoning": "1. (x² - 9) / (x - 3) = (x - 3)(x + 3) / (x - 3) = x + 3.\n2. (x² - 9) / (x + 3) = (x - 3)(x + 3) / (x + 3) = x - 3.\n3. (x² - 6x + 9) / (x - 3) = (x - 3)² / (x - 3) = x - 3.\n4. (x² + 6x + 9) / (x + 3) = (x + 3)² / (x + 3) = x + 3."
+    },
+    "kn": {
+      "question": "ಬೀಜಗಣಿತದ ಭಾಗಾಕಾರ ಲೆಕ್ಕಗಳನ್ನು ಅವುಗಳ ಸರಳೀಕೃತ ಭಾಗಲಬ್ಧಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "(x² - 9) ÷ (x - 3)",
+          "right": "x + 3"
+        },
+        {
+          "left": "(x² - 9) ÷ (x + 3)",
+          "right": "x - 3"
+        },
+        {
+          "left": "(x² - 6x + 9) ÷ (x - 3)",
+          "right": "x - 3"
+        },
+        {
+          "left": "(x² + 6x + 9) ÷ (x + 3)",
+          "right": "x + 3"
+        }
+      ],
+      "reasoning": "1. (x² - 9) / (x - 3) = (x - 3)(x + 3) / (x - 3) = x + 3.\n2. (x² - 9) / (x + 3) = (x - 3)(x + 3) / (x + 3) = x - 3.\n3. (x² - 6x + 9) / (x - 3) = (x - 3)² / (x - 3) = x - 3.\n4. (x² + 6x + 9) / (x + 3) = (x + 3)² / (x + 3) = x + 3."
+    }
+  },
+  {
+    "id": "c8_math_fact_021",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Factorise completely: x⁴ - 81.",
+      "options": [
+        "(x - 3)(x + 3)(x² + 9)",
+        "(x - 3)²(x + 3)²",
+        "(x² - 9)(x² + 9)",
+        "(x - 9)(x + 9)(x² + 1)"
+      ],
+      "answer": "(x - 3)(x + 3)(x² + 9)",
+      "reasoning": "Using the difference of squares identity: x⁴ - 81 = (x²)² - 9² = (x² - 9)(x² + 9). The first term (x² - 9) can be factorised further since it is also a difference of squares: x² - 3² = (x - 3)(x + 3). Therefore, the completely factorised form is (x - 3)(x + 3)(x² + 9)."
+    },
+    "kn": {
+      "question": "ಪೂರ್ಣವಾಗಿ ಅಪವರ್ತಿಸಿ: x⁴ - 81.",
+      "options": [
+        "(x - 3)(x + 3)(x² + 9)",
+        "(x - 3)²(x + 3)²",
+        "(x² - 9)(x² + 9)",
+        "(x - 9)(x + 9)(x² + 1)"
+      ],
+      "answer": "(x - 3)(x + 3)(x² + 9)",
+      "reasoning": "ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸದ ಸೂತ್ರವನ್ನು ಬಳಸಿದಾಗ: x⁴ - 81 = (x²)² - 9² = (x² - 9)(x² + 9). ಮೊದಲ ಪದ (x² - 9) ಅನ್ನು ಮತ್ತೆ ಅಪವರ್ತಿಸಬಹುದು ಏಕೆಂದರೆ ಅದು ಕೂಡ ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸವಾಗಿದೆ: x² - 3² = (x - 3)(x + 3). ಹೀಗಾಗಿ ಪೂರ್ಣವಾಗಿ ಅಪವರ್ತಿಸಿದ ರೂಪ (x - 3)(x + 3)(x² + 9) ಆಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_fact_022",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "What is the completely factored form of 15xy - 6x + 5y - 2?",
+      "options": [
+        "(3x + 1)(5y - 2)",
+        "(3x - 1)(5y + 2)",
+        "(3x - 1)(5y - 2)",
+        "(5x + 1)(3y - 2)"
+      ],
+      "answer": "(3x + 1)(5y - 2)",
+      "reasoning": "Regroup the terms: (15xy - 6x) + (5y - 2). Factor out the common term 3x from the first group: 3x(5y - 2). Factor out 1 from the second group: 1(5y - 2). Taking (5y - 2) common from both terms yields (3x + 1)(5y - 2)."
+    },
+    "kn": {
+      "question": "15xy - 6x + 5y - 2 ರ ಪೂರ್ಣವಾಗಿ ಅಪವರ್ತಿಸಿದ ರೂಪ ಯಾವುದು?",
+      "options": [
+        "(3x + 1)(5y - 2)",
+        "(3x - 1)(5y + 2)",
+        "(3x - 1)(5y - 2)",
+        "(5x + 1)(3y - 2)"
+      ],
+      "answer": "(3x + 1)(5y - 2)",
+      "reasoning": "ಪದಗಳನ್ನು ಮರುಗುಂಪು ಮಾಡಿ: (15xy - 6x) + (5y - 2). ಮೊದಲ ಗುಂಪಿನಿಂದ ಸಾಮಾನ್ಯ ಪದ 3x ಹೊರತೆಗೆಯಿರಿ: 3x(5y - 2). ಎರಡನೇ ಗುಂಪಿನಿಂದ 1 ಹೊರತೆಗೆಯಿರಿ: 1(5y - 2). ಈಗ ಇವೆರಡರಿಂದಲೂ (5y - 2) ಅನ್ನು ಹೊರತೆಗೆದಾಗ (3x + 1)(5y - 2) ಸಿಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_fact_023",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Simplify the division: 44(x⁴ - 5x³ - 24x²) ÷ 11x(x - 8).",
+      "options": [
+        "4x(x + 3)",
+        "4(x + 3)",
+        "4x(x - 3)",
+        "4x²(x + 3)"
+      ],
+      "answer": "4x(x + 3)",
+      "reasoning": "Step 1: Factor out x² from the numerator expression: 44x²(x² - 5x - 24).\nStep 2: Factorise the quadratic trinomial x² - 5x - 24. We split the middle term: -5x = -8x + 3x, yielding (x - 8)(x + 3).\nStep 3: Substitute this back: 44x²(x - 8)(x + 3) / [11x(x - 8)].\nStep 4: Cancel common terms: (44/11) * (x²/x) * [(x-8)/(x-8)] * (x + 3) = 4 * x * 1 * (x + 3) = 4x(x + 3)."
+    },
+    "kn": {
+      "question": "ಭಾಗಾಕಾರವನ್ನು ಸರಳೀಕರಿಸಿ: 44(x⁴ - 5x³ - 24x²) ÷ 11x(x - 8).",
+      "options": [
+        "4x(x + 3)",
+        "4(x + 3)",
+        "4x(x - 3)",
+        "4x²(x + 3)"
+      ],
+      "answer": "4x(x + 3)",
+      "reasoning": "ಹಂತ 1: ಅಂಶದ ಬೀಜೋಕ್ತಿಯಿಂದ x² ಅನ್ನು ಹೊರತೆಗೆಯಿರಿ: 44x²(x² - 5x - 24).\nಹಂತ 2: ವರ್ಗ ತ್ರಿಪದೋಕ್ತಿ x² - 5x - 24 ಅನ್ನು ಅಪವರ್ತಿಸಿ. ಮಧ್ಯದ ಪದವನ್ನು ವಿಭಜಿಸಿದಾಗ (-5x = -8x + 3x) ಇದು (x - 8)(x + 3) ಆಗುತ್ತದೆ.\nಹಂತ 3: ಇದನ್ನು ಆದೇಶಿಸಿ: 44x²(x - 8)(x + 3) / [11x(x - 8)].\nಹಂತ 4: ಸಾಮಾನ್ಯ ಪದಗಳನ್ನು ಭಾಗಿಸಿದಾಗ: (44/11) * (x²/x) * [(x-8)/(x-8)] * (x + 3) = 4x(x + 3) ದೊರೆಯುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_fact_024",
+    "type": "single",
+    "difficulty": 3,
+    "en": {
+      "question": "Factorise the quadratic expression: z² - 4z - 12.",
+      "options": [
+        "(z - 6)(z + 2)",
+        "(z + 6)(z - 2)",
+        "(z - 4)(z + 3)",
+        "(z - 12)(z + 1)"
+      ],
+      "answer": "(z - 6)(z + 2)",
+      "reasoning": "We need two numbers that multiply to -12 and add to -4. These numbers are -6 and +2. Splitting the middle term: z² - 6z + 2z - 12 = z(z - 6) + 2(z - 6) = (z - 6)(z + 2)."
+    },
+    "kn": {
+      "question": "z² - 4z - 12 ವರ್ಗ ಬೀಜೋಕ್ತಿಯನ್ನು ಅಪವರ್ತಿಸಿ.",
+      "options": [
+        "(z - 6)(z + 2)",
+        "(z + 6)(z - 2)",
+        "(z - 4)(z + 3)",
+        "(z - 12)(z + 1)"
+      ],
+      "answer": "(z - 6)(z + 2)",
+      "reasoning": "ಗುಣಿಸಿದಾಗ -12 ಮತ್ತು ಕೂಡಿಸಿದಾಗ -4 ಬರುವ ಎರಡು ಸಂಖ್ಯೆಗಳು -6 ಮತ್ತು +2. ಮಧ್ಯದ ಪದವನ್ನು ವಿಭಜಿಸಿದಾಗ: z² - 6z + 2z - 12 = z(z - 6) + 2(z - 6) = (z - 6)(z + 2) ಎಂದಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_fact_img_025",
+    "type": "image_single",
+    "difficulty": 3,
+    "en": {
+      "question": "In the diagram, a smaller square of side 'y' is removed from a larger square of side 'x'. What is the factorised form of the area of the remaining shaded shape?",
+      "options": [
+        "(x - y)(x + y)",
+        "(x - y)²",
+        "(x + y)²",
+        "x² - y"
+      ],
+      "answer": "(x - y)(x + y)",
+      "reasoning": "The area of the larger square is x². The area of the removed smaller square is y². The remaining area is x² - y². Using the algebraic identity for the difference of two squares, this factors to (x - y)(x + y)."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ, 'x' ಬಾಹುವಿನ ದೊಡ್ಡ ಚೌಕದಿಂದ 'y' ಬಾಹುವಿನ ಸಣ್ಣ ಚೌಕವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ. ಉಳಿದಿರುವ ನೆರಳು ಮಾಡಿದ ಭಾಗದ ವಿಸ್ತೀರ್ಣದ ಅಪವರ್ತಿಸಿದ ರೂಪ ಯಾವುದು?",
+      "options": [
+        "(x - y)(x + y)",
+        "(x - y)²",
+        "(x + y)²",
+        "x² - y"
+      ],
+      "answer": "(x - y)(x + y)",
+      "reasoning": "ದೊಡ್ಡ ಚೌಕದ ವಿಸ್ತೀರ್ಣ x². ತೆಗೆದುಹಾಕಿದ ಸಣ್ಣ ಚೌಕದ ವಿಸ್ತೀರ್ಣ y². ಉಳಿದ ಭಾಗದ ವಿಸ್ತೀರ್ಣ x² - y² ಆಗುತ್ತದೆ. ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸದ ಸೂತ್ರವನ್ನು ಬಳಸಿದಾಗ, ಇದು (x - y)(x + y) ಎಂದು ಅಪವರ್ತನಗೊಳ್ಳುತ್ತದೆ."
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 250\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"40,20 240,20 240,150 170,150 170,220 40,220\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><rect x=\"170\" y=\"150\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#DC2626\" stroke-width=\"1.5\" stroke-dasharray=\"4\"/><text x=\"140\" y=\"15\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">x</text><text x=\"25\" y=\"125\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">x</text><text x=\"205\" y=\"145\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">y</text><text x=\"160\" y=\"190\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">y</text></svg>",
+      "alt": {
+        "en": "L-shaped shaded region representing a square of side x minus a square of side y",
+        "kn": "x ಬಾಹುವಿನ ಚೌಕದಿಂದ y ಬಾಹುವಿನ ಚೌಕವನ್ನು ಕಳೆದಾಗ ಸಿಗುವ L-ಆಕಾರದ ನೆರಳು ಮಾಡಿದ ಭಾಗ"
+      }
+    }
+  },
+  {
+    "id": "c8_math_fact_img_026",
+    "type": "image_single",
+    "difficulty": 3,
+    "en": {
+      "question": "The diagram shows a rectangle divided into four regions with areas x², 3x, 2x, and 6. What is the factored form of the total area of the rectangle?",
+      "options": [
+        "(x + 2)(x + 3)",
+        "(x + 1)(x + 6)",
+        "(x + 5)(x + 1)",
+        "(x - 2)(x - 3)"
+      ],
+      "answer": "(x + 2)(x + 3)",
+      "reasoning": "The total area of the rectangle is the sum of the areas of the four sub-regions: x² + 3x + 2x + 6 = x² + 5x + 6. The dimensions of the outer rectangle are (x + 2) along the height and (x + 3) along the width. Since Area = Height * Width, the factored form is (x + 2)(x + 3)."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ಆಯತವನ್ನು x², 3x, 2x, ಮತ್ತು 6 ವಿಸ್ತೀರ್ಣವಿರುವ ನಾಲ್ಕು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ. ಆಯತದ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣದ ಅಪವರ್ತಿಸಿದ ರೂಪ ಯಾವುದು?",
+      "options": [
+        "(x + 2)(x + 3)",
+        "(x + 1)(x + 6)",
+        "(x + 5)(x + 1)",
+        "(x - 2)(x - 3)"
+      ],
+      "answer": "(x + 2)(x + 3)",
+      "reasoning": "ಆಯತದ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವು ನಾಲ್ಕು ಭಾಗಗಳ ವಿಸ್ತೀರ್ಣದ ಮೊತ್ತವಾಗಿದೆ: x² + 3x + 2x + 6 = x² + 5x + 6. ಆಯತದ ಎತ್ತರವು (x + 2) ಮತ್ತು ಅಗಲವು (x + 3) ಆಗಿದೆ. ವಿಸ್ತೀರ್ಣ = ಎತ್ತರ * ಅಗಲ ಆಗಿರುವುದರಿಂದ, ಅಪವರ್ತಿಸಿದ ರೂಪ (x + 2)(x + 3) ಆಗಿದೆ."
+    },
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 300 250\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"50\" width=\"200\" height=\"150\" fill=\"none\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"140\" y1=\"50\" x2=\"140\" y2=\"200\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-dasharray=\"4\"/><line x1=\"50\" y1=\"140\" x2=\"250\" y2=\"140\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-dasharray=\"4\"/><rect x=\"50\" y=\"50\" width=\"90\" height=\"90\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><rect x=\"140\" y=\"50\" width=\"110\" height=\"90\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><rect x=\"50\" y=\"140\" width=\"90\" height=\"60\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><rect x=\"140\" y=\"140\" width=\"110\" height=\"60\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/><text x=\"95\" y=\"105\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">x²</text><text x=\"195\" y=\"105\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">3x</text><text x=\"95\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">2x</text><text x=\"195\" y=\"175\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">6</text><text x=\"95\" y=\"35\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">x</text><text x=\"195\" y=\"35\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">3</text><text x=\"35\" y=\"100\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">x</text><text x=\"35\" y=\"175\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">2</text></svg>",
+      "alt": {
+        "en": "Rectangle split into four areas x squared, 3x, 2x, and 6 with side markings",
+        "kn": "ಬಾಹುವಿನ ಅಳತೆಗಳೊಂದಿಗೆ x ವರ್ಗ, 3x, 2x, ಮತ್ತು 6 ರಂತೆ ನಾಲ್ಕು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾದ ಆಯತ"
+      }
+    }
+  },
+  {
+    "id": "c8_math_fact_027",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Find which of the algebraic expressions listed are equivalent to (2x - 3y)².",
+      "options": [
+        "4x² - 12xy + 9y²",
+        "4x² - 6xy + 9y²",
+        "(3y - 2x)²",
+        "4x² + 9y² - 12xy"
+      ],
+      "answer": [
+        "4x² - 12xy + 9y²",
+        "(3y - 2x)²",
+        "4x² + 9y² - 12xy"
+      ],
+      "reasoning": "Expanding (2x - 3y)² using the identity (a - b)² = a² - 2ab + b² gives: (2x)² - 2(2x)(3y) + (3y)² = 4x² - 12xy + 9y². This is identical to 4x² + 9y² - 12xy. Furthermore, (3y - 2x)² = [-(2x - 3y)]² = (2x - 3y)², so it is also equivalent. But 4x² - 6xy + 9y² is incorrect because the middle term coefficient should be -12, not -6."
+    },
+    "kn": {
+      "question": "ಪಟ್ಟಿಯಲ್ಲಿರುವ ಯಾವ ಬೀಜೋಕ್ತಿಗಳು (2x - 3y)² ಗೆ ಸಮನಾಗಿವೆ ಎಂಬುದನ್ನು ಕಂಡುಕೊಳ್ಳಿ.",
+      "options": [
+        "4x² - 12xy + 9y²",
+        "4x² - 6xy + 9y²",
+        "(3y - 2x)²",
+        "4x² + 9y² - 12xy"
+      ],
+      "answer": [
+        "4x² - 12xy + 9y²",
+        "(3y - 2x)²",
+        "4x² + 9y² - 12xy"
+      ],
+      "reasoning": "(2x - 3y)² ಅನ್ನು (a - b)² = a² - 2ab + b² ಸೂತ್ರದಂತೆ ವಿಸ್ತರಿಸಿದಾಗ: (2x)² - 2(2x)(3y) + (3y)² = 4x² - 12xy + 9y² ಸಿಗುತ್ತದೆ. ಇದು 4x² + 9y² - 12xy ಗೆ ಸಮಾನವಾಗಿದೆ. ಹಾಗೂ (3y - 2x)² = [-(2x - 3y)]² = (2x - 3y)² ಆಗಿರುವುದರಿಂದ ಇದು ಕೂಡ ಸಮಾನವಾಗಿರುತ್ತದೆ. ಆದರೆ 4x² - 6xy + 9y² ನಲ್ಲಿ ಮಧ್ಯದ ಸಹಗುಣಕ -6 ಇರುವುದರಿಂದ ಅದು ತಪ್ಪಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_fact_028",
+    "type": "multiple",
+    "difficulty": 3,
+    "en": {
+      "question": "Identify the expressions that are in their completely factorised forms (where no further factoring is possible).",
+      "options": [
+        "3x(x - 2)(y + 5)",
+        "2(a² - b²)",
+        "(x + 4)(x + 5)",
+        "x(y - z) + 3(y - z)"
+      ],
+      "answer": [
+        "3x(x - 2)(y + 5)",
+        "(x + 4)(x + 5)"
+      ],
+      "reasoning": "Let's check the options:\n1. 3x(x - 2)(y + 5) is completely factorised since 3, x, (x - 2), and (y + 5) are prime factors.\n2. 2(a² - b²) can be further factored into 2(a - b)(a + b), so it is not completely factorised.\n3. (x + 4)(x + 5) is completely factorised.\n4. x(y - z) + 3(y - z) is a sum of terms, not fully factorised. It can be factored as (x + 3)(y - z)."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಪೂರ್ಣವಾಗಿ ಅಪವರ್ತನಗೊಂಡಿರುವ (ಇನ್ನಷ್ಟು ಅಪವರ್ತಿಸಲು ಸಾಧ್ಯವಿಲ್ಲದ) ರೂಪಗಳನ್ನು ಗುರುತಿಸಿ.",
+      "options": [
+        "3x(x - 2)(y + 5)",
+        "2(a² - b²)",
+        "(x + 4)(x + 5)",
+        "x(y - z) + 3(y - z)"
+      ],
+      "answer": [
+        "3x(x - 2)(y + 5)",
+        "(x + 4)(x + 5)"
+      ],
+      "reasoning": "ಆಯ್ಕೆಗಳನ್ನು ಪರಿಶೀಲಿಸೋಣ:\n1. 3x(x - 2)(y + 5) ನ ಪ್ರತಿ ಅಪವರ್ತನಗಳು ಅವಿಭಾಜ್ಯವಾಗಿರುವುದರಿಂದ ಇದು ಪೂರ್ಣವಾಗಿ ಅಪವರ್ತನಗೊಂಡಿದೆ.\n2. 2(a² - b²) ಅನ್ನು 2(a - b)(a + b) ಎಂದು ಇನ್ನೂ ಅಪವರ್ತಿಸಬಹುದು, ಆದ್ದರಿಂದ ಇದು ಪೂರ್ಣಗೊಂಡಿಲ್ಲ.\n3. (x + 4)(x + 5) ಪೂರ್ಣವಾಗಿ ಅಪವರ್ತನಗೊಂಡಿದೆ.\n4. x(y - z) + 3(y - z) ಇನ್ನೂ ಕೂಡಿಸಲ್ಪಟ್ಟ ರೂಪದಲ್ಲಿದೆ, ಇದನ್ನು (x + 3)(y - z) ಎಂದು ಅಪವರ್ತಿಸಬಹುದು."
+    }
+  },
+  {
+    "id": "c8_math_fact_029",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match the complex algebraic expressions with their correct factorised forms.",
+      "pairs": [
+        {
+          "left": "a⁴ - 2a²b² + b⁴",
+          "right": "(a - b)²(a + b)²"
+        },
+        {
+          "left": "a⁴ - b⁴",
+          "right": "(a - b)(a + b)(a² + b²)"
+        },
+        {
+          "left": "x² - 2xy + y² - z²",
+          "right": "(x - y - z)(x - y + z)"
+        },
+        {
+          "left": "x² - y² - 2yr - r²",
+          "right": "(x - y - r)(x + y + r)"
+        }
+      ],
+      "reasoning": "1. a⁴ - 2a²b² + b⁴ = (a² - b²)² = [(a - b)(a + b)]² = (a - b)²(a + b)².\n2. a⁴ - b⁴ = (a² - b²)(a² + b²) = (a - b)(a + b)(a² + b²).\n3. x² - 2xy + y² - z² = (x - y)² - z² = (x - y - z)(x - y + z) using difference of squares.\n4. x² - y² - 2yr - r² = x² - (y² + 2yr + r²) = x² - (y + r)² = (x - (y + r))(x + (y + r)) = (x - y - r)(x + y + r)."
+    },
+    "kn": {
+      "question": "ಸಂಕೀರ್ಣ ಬೀಜೋಕ್ತಿಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಅಪವರ್ತಿಸಿದ ರೂಪಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "a⁴ - 2a²b² + b⁴",
+          "right": "(a - b)²(a + b)²"
+        },
+        {
+          "left": "a⁴ - b⁴",
+          "right": "(a - b)(a + b)(a² + b²)"
+        },
+        {
+          "left": "x² - 2xy + y² - z²",
+          "right": "(x - y - z)(x - y + z)"
+        },
+        {
+          "left": "x² - y² - 2yr - r²",
+          "right": "(x - y - r)(x + y + r)"
+        }
+      ],
+      "reasoning": "1. a⁴ - 2a²b² + b⁴ = (a² - b²)² = (a - b)²(a + b)².\n2. a⁴ - b⁴ = (a² - b²)(a² + b²) = (a - b)(a + b)(a² + b²).\n3. x² - 2xy + y² - z² = (x - y)² - z² = (x - y - z)(x - y + z) (ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸ ಸೂತ್ರದಿಂದ).\n4. x² - y² - 2yr - r² = x² - (y + r)² = (x - y - r)(x + y + r)."
+    }
+  },
+  {
+    "id": "c8_math_fact_030",
+    "type": "match",
+    "difficulty": 3,
+    "en": {
+      "question": "Match each algebraic fraction with its simplified form.",
+      "pairs": [
+        {
+          "left": "(x² - 5x + 6) / (x - 2)",
+          "right": "x - 3"
+        },
+        {
+          "left": "(x² - 5x + 6) / (x - 3)",
+          "right": "x - 2"
+        },
+        {
+          "left": "(x² - x - 6) / (x - 3)",
+          "right": "x + 2"
+        },
+        {
+          "left": "(x² - x - 6) / (x + 2)",
+          "right": "x - 3"
+        }
+      ],
+      "reasoning": "1. (x² - 5x + 6) / (x - 2) = (x - 2)(x - 3) / (x - 2) = x - 3.\n2. (x² - 5x + 6) / (x - 3) = (x - 2)(x - 3) / (x - 3) = x - 2.\n3. (x² - x - 6) / (x - 3) = (x - 3)(x + 2) / (x - 3) = x + 2.\n4. (x² - x - 6) / (x + 2) = (x - 3)(x + 2) / (x + 2) = x - 3."
+    },
+    "kn": {
+      "question": "ಪ್ರತಿಯೊಂದು ಬೀಜಗಣಿತ ಭಿನ್ನರಾಶಿಯನ್ನು ಅದರ ಸರಳೀಕೃತ ರೂಪದೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        {
+          "left": "(x² - 5x + 6) / (x - 2)",
+          "right": "x - 3"
+        },
+        {
+          "left": "(x² - 5x + 6) / (x - 3)",
+          "right": "x - 2"
+        },
+        {
+          "left": "(x² - x - 6) / (x - 3)",
+          "right": "x + 2"
+        },
+        {
+          "left": "(x² - x - 6) / (x + 2)",
+          "right": "x - 3"
+        }
+      ],
+      "reasoning": "1. (x² - 5x + 6) / (x - 2) = (x - 2)(x - 3) / (x - 2) = x - 3.\n2. (x² - 5x + 6) / (x - 3) = (x - 2)(x - 3) / (x - 3) = x - 2.\n3. (x² - x - 6) / (x - 3) = (x - 3)(x + 2) / (x - 3) = x + 2.\n4. (x² - x - 6) / (x + 2) = (x - 3)(x + 2) / (x + 2) = x - 3."
+    }
+  }
+]

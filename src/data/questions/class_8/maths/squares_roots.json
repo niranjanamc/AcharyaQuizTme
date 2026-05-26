@@ -1,0 +1,628 @@
+[
+  {
+    "id": "c8_math_sqr_001",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the square of 15?",
+      "options": ["125", "225", "250", "625"],
+      "answer": "225",
+      "reasoning": "The square of a number is obtained by multiplying the number by itself. So, the square of 15 is 15 × 15 = 225."
+    },
+    "kn": {
+      "question": "15 ರ ವರ್ಗ ಎಷ್ಟು?",
+      "options": ["125", "225", "250", "625"],
+      "answer": "225",
+      "reasoning": "ಒಂದು ಸಂಖ್ಯೆಯನ್ನು ಅದೇ ಸಂಖ್ಯೆಯಿಂದ ಗುಣಿಸಿದಾಗ ಬರುವ ಗುಣಲಬ್ಧವೇ ಆ ಸಂಖ್ಯೆಯ ವರ್ಗವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, 15 ರ ವರ್ಗ = 15 × 15 = 225."
+    }
+  },
+  {
+    "id": "c8_math_sqr_002",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Find the unit digit of the square of the number 234.",
+      "options": ["4", "6", "8", "2"],
+      "answer": "6",
+      "reasoning": "The unit digit of the square of a number depends only on the unit digit of the original number. The unit digit of 234 is 4. Since 4 × 4 = 16, the unit digit of the square is 6."
+    },
+    "kn": {
+      "question": "234 ಸಂಖ್ಯೆಯ ವರ್ಗದ ಬಿಡಿ ಸ್ಥಾನದ ಅಂಕಿ ಯಾವುದು?",
+      "options": ["4", "6", "8", "2"],
+      "answer": "6",
+      "reasoning": "ಒಂದು ಸಂಖ್ಯೆಯ ವರ್ಗದ ಬಿಡಿ ಸ್ಥಾನದ ಅಂಕಿಯು ಆ ಸಂಖ್ಯೆಯ ಬಿಡಿ ಸ್ಥಾನದ ಅಂಕಿಯ ಮೇಲೆ ಮಾತ್ರ ಅವಲಂಬಿತವಾಗಿರುತ್ತದೆ. 234 ರ ಬಿಡಿ ಸ್ಥಾನದ ಅಂಕಿ 4 ಆಗಿದೆ. 4 × 4 = 16 ಆದುದರಿಂದ, ಇದರ ವರ್ಗದ ಬಿಡಿ ಸ್ಥಾನದ ಅಂಕಿ 6 ಆಗಿರುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_sqr_img_003",
+    "difficulty": 1,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"90\" y=\"40\" width=\"120\" height=\"120\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"1\"/><line x1=\"150\" y1=\"40\" x2=\"150\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"1\"/><line x1=\"180\" y1=\"40\" x2=\"180\" y2=\"160\" stroke=\"#2563EB\" stroke-width=\"1\"/><line x1=\"90\" y1=\"70\" x2=\"210\" y2=\"70\" stroke=\"#2563EB\" stroke-width=\"1\"/><line x1=\"90\" y1=\"100\" x2=\"210\" y2=\"100\" stroke=\"#2563EB\" stroke-width=\"1\"/><line x1=\"90\" y1=\"130\" x2=\"210\" y2=\"130\" stroke=\"#2563EB\" stroke-width=\"1\"/><text x=\"150\" y=\"30\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">4 rows &times; 4 columns</text></svg>",
+      "alt": {
+        "en": "A square grid with 4 rows and 4 columns of small squares.",
+        "kn": "4 ಅಡ್ಡಸಾಲು ಮತ್ತು 4 ಕಂಬಸಾಲುಗಳನ್ನು ಹೊಂದಿರುವ ಸಣ್ಣ ಚೌಕಗಳ ಗ್ರಿಡ್."
+      }
+    },
+    "en": {
+      "question": "What perfect square value is represented by the total number of small squares in the grid?",
+      "options": ["8", "12", "16", "20"],
+      "answer": "16",
+      "reasoning": "The grid has 4 rows and 4 columns. The total number of small squares is 4 × 4 = 16, which is the perfect square of 4."
+    },
+    "kn": {
+      "question": "ಗ್ರಿಡ್‌ನಲ್ಲಿರುವ ಒಟ್ಟು ಸಣ್ಣ ಚೌಕಗಳ ಸಂಖ್ಯೆಯು ಯಾವ ಪೂರ್ಣ ವರ್ಗ ಸಂಖ್ಯೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ?",
+      "options": ["8", "12", "16", "20"],
+      "answer": "16",
+      "reasoning": "ಈ ಗ್ರಿಡ್‌ನಲ್ಲಿ 4 ಅಡ್ಡಸಾಲು ಮತ್ತು 4 ಕಂಬಸಾಲುಗಳಿವೆ. ಒಟ್ಟು ಸಣ್ಣ ಚೌಕಗಳ ಸಂಖ್ಯೆ = 4 × 4 = 16, ಇದು 4 ರ ಪೂರ್ಣ ವರ್ಗ ಸಂಖ್ಯೆಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_sqr_004",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "How many natural numbers lie between the squares of 12 and 13?",
+      "options": ["24", "25", "26", "13"],
+      "answer": "24",
+      "reasoning": "The number of natural numbers lying between the squares of two consecutive natural numbers n and (n+1) is given by the formula 2n. Here, n = 12. So, the number of natural numbers is 2 × 12 = 24."
+    },
+    "kn": {
+      "question": "12 ಮತ್ತು 13 ರ ವರ್ಗಗಳ ನಡುವೆ ಎಷ್ಟು ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆಗಳು ಇವೆ?",
+      "options": ["24", "25", "26", "13"],
+      "answer": "24",
+      "reasoning": "ಎರಡು ಕ್ರಮಾನುಗತ ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆಗಳಾದ n ಮತ್ತು (n+1) ರ ವರ್ಗಗಳ ನಡುವೆ ಇರುವ ಒಟ್ಟು ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆಗಳನ್ನು 2n ಸೂತ್ರದಿಂದ ಲೆಕ್ಕಹಾಕಬಹುದು. ಇಲ್ಲಿ, n = 12. ಆದ್ದರಿಂದ, ಒಟ್ಟು ಸಂಖ್ಯೆಗಳು = 2 × 12 = 24."
+    }
+  },
+  {
+    "id": "c8_math_sqr_005",
+    "difficulty": 1,
+    "type": "match",
+    "en": {
+      "question": "Match the numbers on the left with their perfect square values on the right.",
+      "pairs": [
+        { "left": "11", "right": "121" },
+        { "left": "13", "right": "169" },
+        { "left": "14", "right": "196" },
+        { "left": "20", "right": "400" }
+      ],
+      "reasoning": "The squares of the numbers are: 11² = 121, 13² = 169, 14² = 196, and 20² = 400."
+    },
+    "kn": {
+      "question": "ಎಡಭಾಗದಲ್ಲಿರುವ ಸಂಖ್ಯೆಗಳನ್ನು ಬಲಭಾಗದಲ್ಲಿರುವ ಅವುಗಳ ವರ್ಗ ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        { "left": "11", "right": "121" },
+        { "left": "13", "right": "169" },
+        { "left": "14", "right": "196" },
+        { "left": "20", "right": "400" }
+      ],
+      "reasoning": "ಸಂಖ್ಯೆಗಳ ವರ್ಗಗಳು ಈ ಕೆಳಗಿನಂತಿವೆ: 11² = 121, 13² = 169, 14² = 196, ಮತ್ತು 20² = 400."
+    }
+  },
+  {
+    "id": "c8_math_sqr_img_006",
+    "difficulty": 1,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><path d=\"M80,50 L80,150 L200,150 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><rect x=\"80\" y=\"140\" width=\"10\" height=\"10\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"1.5\"/><text x=\"70\" y=\"45\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">A</text><text x=\"70\" y=\"165\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">B</text><text x=\"210\" y=\"165\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">C</text><text x=\"40\" y=\"105\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">8 cm</text><text x=\"130\" y=\"170\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">6 cm</text><text x=\"150\" y=\"95\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">x</text></svg>",
+      "alt": {
+        "en": "A right-angled triangle ABC with height AB = 8 cm, base BC = 6 cm, and hypotenuse AC = x.",
+        "kn": "ಲಂಬಕೋನ ತ್ರಿಕೋನ ABC ಯಲ್ಲಿ ಎತ್ತರ AB = 8 ಸೆಂ.ಮೀ, ಪಾದ BC = 6 ಸೆಂ.ಮೀ, ಮತ್ತು ಕರ್ಣ AC = x ಆಗಿದೆ."
+      }
+    },
+    "en": {
+      "question": "Using the Pythagoras theorem for the triangle ABC shown, find the length of the hypotenuse x.",
+      "options": ["10 cm", "14 cm", "12 cm", "9 cm"],
+      "answer": "10 cm",
+      "reasoning": "According to the Pythagoras theorem, the square of the hypotenuse is equal to the sum of the squares of the other two sides. So, AC² = AB² + BC² => x² = 8² + 6² = 64 + 36 = 100. Therefore, x = √100 = 10 cm."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಲಂಬಕೋನ ತ್ರಿಕೋನ ABC ಗೆ ಪೈಥಾಗೋರಸ್ ಪ್ರಮೇಯವನ್ನು ಬಳಸಿ ಕರ್ಣ x ನ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["10 cm", "14 cm", "12 cm", "9 cm"],
+      "answer": "10 cm",
+      "reasoning": "ಪೈಥಾಗೋರಸ್ ಪ್ರಮೇಯದ ಪ್ರಕಾರ, ಕರ್ಣದ ಮೇಲಿನ ವರ್ಗವು ಉಳಿದೆರಡು ಬಾಹುಗಳ ಮೇಲಿನ ವರ್ಗಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, AC² = AB² + BC² => x² = 8² + 6² = 64 + 36 = 100. ಆದ್ದರಿಂದ, x = √100 = 10 ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_sqr_007",
+    "difficulty": 1,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following numbers are perfect squares?",
+      "options": ["121", "144", "150", "225"],
+      "answer": ["121", "144", "225"],
+      "reasoning": "A perfect square is an integer that is the square of an integer. Here, 11² = 121, 12² = 144, and 15² = 225. 150 is not the square of any integer."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಸಂಖ್ಯೆಗಳಲ್ಲಿ ಯಾವುವು ಪೂರ್ಣ ವರ್ಗಗಳಾಗಿವೆ?",
+      "options": ["121", "144", "150", "225"],
+      "answer": ["121", "144", "225"],
+      "reasoning": "ಒಂದು ಪೂರ್ಣಾಂಕದ ವರ್ಗವಾಗಿರುವ ಸಂಖ್ಯೆಯನ್ನು ಪೂರ್ಣ ವರ್ಗ ಎನ್ನುತ್ತೇವೆ. ಇಲ್ಲಿ, 11² = 121, 12² = 144, ಮತ್ತು 15² = 225. ಆದರೆ 150 ಯಾವುದೇ ಪೂರ್ಣಾಂಕದ ವರ್ಗವಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_math_sqr_008",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "Which of the following numbers cannot be a perfect square based on its unit digit?",
+      "options": ["1024", "1025", "1022", "1026"],
+      "answer": "1022",
+      "reasoning": "Perfect squares can only end with the digits 0, 1, 4, 5, 6, or 9 at their unit place. A number ending in 2, 3, 7, or 8 can never be a perfect square. Thus, 1022 cannot be a perfect square."
+    },
+    "kn": {
+      "question": "ಕೆಳಗಿನ ಸಂಖ್ಯೆಗಳಲ್ಲಿ ಯಾವುದು ಅದರ ಬಿಡಿ ಸ್ಥಾನದ ಅಂಕಿಯ ಆಧಾರದ ಮೇಲೆ ಪೂರ್ಣ ವರ್ಗವಾಗಲು ಸಾಧ್ಯವಿಲ್ಲ?",
+      "options": ["1024", "1025", "1022", "1026"],
+      "answer": "1022",
+      "reasoning": "ಪೂರ್ಣ ವರ್ಗ ಸಂಖ್ಯೆಗಳ ಬಿಡಿ ಸ್ಥಾನದಲ್ಲಿ ಯಾವಾಗಲೂ 0, 1, 4, 5, 6, ಅಥವಾ 9 ಇರುತ್ತದೆ. ಯಾವುದೇ ಸಂಖ್ಯೆಯ ಬಿಡಿ ಸ್ಥಾನದಲ್ಲಿ 2, 3, 7, ಅಥವಾ 8 ಇದ್ದರೆ ಅದು ಪೂರ್ಣ ವರ್ಗ ಸಂಖ್ಯೆಯಾಗಿರಲು ಸಾಧ್ಯವಿಲ್ಲ. ಆದ್ದರಿಂದ, 1022 ಪೂರ್ಣ ವರ್ಗವಾಗಲು ಸಾಧ್ಯವಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "c8_math_sqr_009",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the square root of 625?",
+      "options": ["15", "25", "35", "45"],
+      "answer": "25",
+      "reasoning": "The square root of a number y is a number x such that x² = y. Since 25 × 25 = 625, the square root of 625 is 25."
+    },
+    "kn": {
+      "question": "625 ರ ವರ್ಗಮೂಲ ಎಷ್ಟು?",
+      "options": ["15", "25", "35", "45"],
+      "answer": "25",
+      "reasoning": "ಒಂದು ಸಂಖ್ಯೆಯ ವರ್ಗಮೂಲವು ಆ ಸಂಖ್ಯೆಯನ್ನು ಎರಡು ಸಮಾನ ಅಪವರ್ತನಗಳಾಗಿ ಬರೆದಾಗ ಸಿಗುವ ಒಂದು ಅಪವರ್ತನವಾಗಿರುತ್ತದೆ. 25 × 25 = 625 ಆದುದರಿಂದ, 625 ರ ವರ್ಗಮೂಲ 25 ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_sqr_010",
+    "difficulty": 1,
+    "type": "single",
+    "en": {
+      "question": "What is the sum of the first 5 odd natural numbers (1 + 3 + 5 + 7 + 9)?",
+      "options": ["16", "20", "25", "30"],
+      "answer": "25",
+      "reasoning": "The sum of the first n odd natural numbers is equal to n². Here, we are adding the first 5 odd natural numbers, so the sum is 5² = 25."
+    },
+    "kn": {
+      "question": "ಮೊದಲ 5 ಬೆಸ ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆಗಳ ಮೊತ್ತ ಎಷ್ಟು (1 + 3 + 5 + 7 + 9)?",
+      "options": ["16", "20", "25", "30"],
+      "answer": "25",
+      "reasoning": "ಮೊದಲ n ಬೆಸ ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆಗಳ ಮೊತ್ತವು n² ಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ, ಮೊದಲ 5 ಬೆಸ ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆಗಳ ಮೊತ್ತವನ್ನು ಕೇಳಲಾಗಿದೆ, ಆದ್ದರಿಂದ ಮೊತ್ತ = 5² = 25."
+    }
+  },
+  {
+    "id": "c8_math_sqr_img_011",
+    "difficulty": 2,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"90\" y=\"40\" width=\"120\" height=\"120\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"150\" y=\"105\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">Area = 225 cm²</text><text x=\"150\" y=\"180\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">s</text><text x=\"75\" y=\"105\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">s</text></svg>",
+      "alt": {
+        "en": "A square of area 225 cm² and side length s.",
+        "kn": "225 ಚದರ ಸೆಂ.ಮೀ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಬಾಹುವಿನ ಉದ್ದ s ಹೊಂದಿರುವ ಒಂದು ಚೌಕ."
+      }
+    },
+    "en": {
+      "question": "Find the side length s of the square shown in the image.",
+      "options": ["13 cm", "14 cm", "15 cm", "16 cm"],
+      "answer": "15 cm",
+      "reasoning": "The area of a square is side × side = s². Given Area = 225 cm², we have s² = 225. Therefore, s = √225 = 15 cm."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಚೌಕದ ಬಾಹುವಿನ ಉದ್ದ s ಅನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["13 cm", "14 cm", "15 cm", "16 cm"],
+      "answer": "15 cm",
+      "reasoning": "ಚೌಕದ ವಿಸ್ತೀರ್ಣ = ಬಾಹು × ಬಾಹು = s². ಇಲ್ಲಿ ವಿಸ್ತೀರ್ಣ = 225 ಚದರ ಸೆಂ.ಮೀ ಎಂದು ನೀಡಲಾಗಿದೆ. ಆದ್ದರಿಂದ, s² = 225 => s = √225 = 15 ಸೆಂ.ಮೀ."
+    }
+  },
+  {
+    "id": "c8_math_sqr_012",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Find the smallest number by which 180 must be multiplied to make it a perfect square.",
+      "options": ["2", "3", "5", "10"],
+      "answer": "5",
+      "reasoning": "First, find the prime factorization of 180: 180 = 2 × 2 × 3 × 3 × 5 = 2² × 3² × 5. Here, prime factor 5 does not have a pair. To make 180 a perfect square, we must multiply it by 5."
+    },
+    "kn": {
+      "question": "180 ಅನ್ನು ಯಾವ ಅತ್ಯಂತ ಚಿಕ್ಕ ಸಂಖ್ಯೆಯಿಂದ ಗುಣಿಸಿದಾಗ ಅದು ಪೂರ್ಣ ವರ್ಗ ಸಂಖ್ಯೆಯಾಗುತ್ತದೆ?",
+      "options": ["2", "3", "5", "10"],
+      "answer": "5",
+      "reasoning": "ಮೊದಲಿಗೆ, 180 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: 180 = 2 × 2 × 3 × 3 × 5 = 2² × 3² × 5. ಇಲ್ಲಿ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ 5 ಕ್ಕೆ ಜೋಡಿ ಇಲ್ಲ. ಆದ್ದರಿಂದ 180 ಅನ್ನು ಪೂರ್ಣ ವರ್ಗ ಸಂಖ್ಯೆಯನ್ನಾಗಿ ಮಾಡಲು 5 ರಿಂದ ಗುಣಿಸಬೇಕು."
+    }
+  },
+  {
+    "id": "c8_math_sqr_013",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Find the smallest number by which 9408 must be divided to make the quotient a perfect square.",
+      "options": ["2", "3", "7", "6"],
+      "answer": "3",
+      "reasoning": "The prime factorization of 9408 is 2 × 2 × 2 × 2 × 2 × 2 × 3 × 7 × 7 = 2^6 × 7² × 3. The prime factor 3 is unpaired. Thus, dividing 9408 by 3 yields a perfect square: 9408 / 3 = 3136 = 56²."
+    },
+    "kn": {
+      "question": "ಭಾಗಲಬ್ಧವು ಪೂರ್ಣ ವರ್ಗ ಸಂಖ್ಯೆಯಾಗಲು 9408 ಅನ್ನು ಯಾವ ಅತ್ಯಂತ ಚಿಕ್ಕ ಸಂಖ್ಯೆಯಿಂದ ಭಾಗಿಸಬೇಕು?",
+      "options": ["2", "3", "7", "6"],
+      "answer": "3",
+      "reasoning": "9408 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು: 2^6 × 7² × 3. ಇಲ್ಲಿ ಅಪವರ್ತನ 3 ಜೋಡಿಯಾಗಿಲ್ಲ. ಆದ್ದರಿಂದ, 9408 ಅನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿದಾಗ ಬರುವ ಭಾಗಲಬ್ಧವು ಪೂರ್ಣ ವರ್ಗವಾಗುತ್ತದೆ: 9408 / 3 = 3136 = 56²."
+    }
+  },
+  {
+    "id": "c8_math_sqr_014",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the decimal square roots with their correct values.",
+      "pairs": [
+        { "left": "√1.44", "right": "1.2" },
+        { "left": "√0.09", "right": "0.3" },
+        { "left": "√0.0016", "right": "0.04" },
+        { "left": "√1.21", "right": "1.1" }
+      ],
+      "reasoning": "Since 1.2² = 1.44, 0.3² = 0.09, 0.04² = 0.0016, and 1.1² = 1.21, the square roots match accordingly."
+    },
+    "kn": {
+      "question": "ದಶಮಾಂಶ ವರ್ಗಮೂಲಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ಮೌಲ್ಯಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        { "left": "√1.44", "right": "1.2" },
+        { "left": "√0.09", "right": "0.3" },
+        { "left": "√0.0016", "right": "0.04" },
+        { "left": "√1.21", "right": "1.1" }
+      ],
+      "reasoning": "1.2² = 1.44, 0.3² = 0.09, 0.04² = 0.0016, ಮತ್ತು 1.1² = 1.21 ಆಗಿರುವುದರಿಂದ ವರ್ಗಮೂಲಗಳು ಹೊಂದಿಕೆಯಾಗುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_math_sqr_015",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Find the square root of 7056 using the prime factorization method.",
+      "options": ["74", "84", "86", "76"],
+      "answer": "84",
+      "reasoning": "Prime factorization of 7056: 7056 = 2 × 2 × 2 × 2 × 3 × 3 × 7 × 7 = 2⁴ × 3² × 7². Taking square root: √7056 = 2² × 3 × 7 = 4 × 21 = 84."
+    },
+    "kn": {
+      "question": "ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನದಿಂದ 7056 ರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["74", "84", "86", "76"],
+      "answer": "84",
+      "reasoning": "7056 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು = 2⁴ × 3² × 7². ವರ್ಗಮೂಲ = 2² × 3 × 7 = 4 × 3 × 7 = 84."
+    }
+  },
+  {
+    "id": "c8_math_sqr_016",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "Find the square root of 7.29.",
+      "options": ["2.3", "2.7", "3.3", "1.7"],
+      "answer": "2.7",
+      "reasoning": "We can write 7.29 as 729 / 100. √7.29 = √(729 / 100) = √729 / √100 = 27 / 10 = 2.7."
+    },
+    "kn": {
+      "question": "7.29 ರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["2.3", "2.7", "3.3", "1.7"],
+      "answer": "2.7",
+      "reasoning": "7.29 ಅನ್ನು 729 / 100 ಎಂದು ಬರೆಯಬಹುದು. √7.29 = √(729 / 100) = √729 / √100 = 27 / 10 = 2.7."
+    }
+  },
+  {
+    "id": "c8_math_sqr_017",
+    "difficulty": 2,
+    "type": "multiple",
+    "en": {
+      "question": "Identify all Pythagorean triplets from the given sets of numbers.",
+      "options": ["3, 4, 5", "5, 12, 13", "8, 15, 17", "6, 9, 12"],
+      "answer": ["3, 4, 5", "5, 12, 13", "8, 15, 17"],
+      "reasoning": "A set of three numbers (a, b, c) is a Pythagorean triplet if a² + b² = c². For (3, 4, 5): 3² + 4² = 9 + 16 = 25 = 5². For (5, 12, 13): 5² + 12² = 25 + 144 = 169 = 13². For (8, 15, 17): 8² + 15² = 64 + 225 = 289 = 17². But 6² + 9² = 36 + 81 = 117 ≠ 12² (144)."
+    },
+    "kn": {
+      "question": "ನೀಡಿರುವ ಸಂಖ್ಯೆಗಳ ಗುಂಪುಗಳಿಂದ ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿಗಳನ್ನು ಗುರುತಿಸಿ.",
+      "options": ["3, 4, 5", "5, 12, 13", "8, 15, 17", "6, 9, 12"],
+      "answer": ["3, 4, 5", "5, 12, 13", "8, 15, 17"],
+      "reasoning": "ಮೂರು ಸಂಖ್ಯೆಗಳು (a, b, c) a² + b² = c² ನಿಯಮವನ್ನು ಪಾಲಿಸಿದರೆ ಅವು ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿಗಳಾಗಿವೆ. ಇಲ್ಲಿ ಮೊದಲ ಮೂರು ಆಯ್ಕೆಗಳು ಈ ನಿಯಮವನ್ನು ಪಾಲಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "c8_math_sqr_img_018",
+    "difficulty": 2,
+    "type": "image_multiple",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><path d=\"M60,40 L60,160 L220,160 Z\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><rect x=\"60\" y=\"150\" width=\"10\" height=\"10\" fill=\"none\" stroke=\"#EA580C\" stroke-width=\"1.5\"/><text x=\"50\" y=\"35\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">A</text><text x=\"50\" y=\"175\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">B</text><text x=\"230\" y=\"175\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\">C</text><text x=\"20\" y=\"105\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">12 cm</text><text x=\"130\" y=\"180\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">16 cm</text><text x=\"150\" y=\"95\" fill=\"#059669\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">20 cm</text></svg>",
+      "alt": {
+        "en": "Right-angled triangle ABC with AB = 12 cm, BC = 16 cm, and AC = 20 cm.",
+        "kn": "ಲಂಬಕೋನ ತ್ರಿಕೋನ ABC ಯಲ್ಲಿ AB = 12 ಸೆಂ.ಮೀ, BC = 16 ಸೆಂ.ಮೀ, ಮತ್ತು AC = 20 ಸೆಂ.ಮೀ."
+      }
+    },
+    "en": {
+      "question": "Which of the following statements are true about the triangle ABC shown in the image?",
+      "options": [
+        "AC² = AB² + BC²",
+        "It is a right-angled triangle",
+        "Its sides form a Pythagorean triplet",
+        "The hypotenuse is 16 cm"
+      ],
+      "answer": [
+        "AC² = AB² + BC²",
+        "It is a right-angled triangle",
+        "Its sides form a Pythagorean triplet"
+      ],
+      "reasoning": "Since AB² + BC² = 12² + 16² = 144 + 256 = 400 = 20² = AC², the Pythagoras relation holds. Thus, it is a right-angled triangle at B, its sides (12, 16, 20) form a Pythagorean triplet, and the hypotenuse AC is 20 cm (not 16 cm)."
+    },
+    "kn": {
+      "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ತ್ರಿಕೋನ ABC ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ?",
+      "options": [
+        "AC² = AB² + BC²",
+        "It is a right-angled triangle",
+        "Its sides form a Pythagorean triplet",
+        "The hypotenuse is 16 cm"
+      ],
+      "answer": [
+        "AC² = AB² + BC²",
+        "It is a right-angled triangle",
+        "Its sides form a Pythagorean triplet"
+      ],
+      "reasoning": "AB² + BC² = 12² + 16² = 144 + 256 = 400 = 20² = AC² ಆಗಿರುವುದರಿಂದ, ಪೈಥಾಗೋರಸ್ ನಿಯಮವು ಹೊಂದಾಣಿಕೆಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ ಇದು ಬಿಂದು B ನಲ್ಲಿ ಲಂಬಕೋನವನ್ನು ಹೊಂದಿರುವ ತ್ರಿಕೋನವಾಗಿದೆ, ಇದರ ಬಾಹುಗಳು (12, 16, 20) ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿಯಾಗಿವೆ ಮತ್ತು ಕರ್ಣವು 20 ಸೆಂ.ಮೀ ಆಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_sqr_019",
+    "difficulty": 2,
+    "type": "single",
+    "en": {
+      "question": "What is the least number that must be subtracted from 5607 to make it a perfect square?",
+      "options": ["131", "121", "96", "47"],
+      "answer": "131",
+      "reasoning": "Using the long division method, we find the square root of 5607. 74² = 5476 and 75² = 5625. Thus, 74 is the largest integer whose square is less than 5607. The remainder is 5607 - 5476 = 131. So, 131 must be subtracted."
+    },
+    "kn": {
+      "question": "5607 ಸಂಖ್ಯೆಯನ್ನು ಪೂರ್ಣ ವರ್ಗವನ್ನಾಗಿ ಮಾಡಲು ಅದರಿಂದ ಕಳೆಯಬೇಕಾದ ಕನಿಷ್ಠ ಸಂಖ್ಯೆ ಯಾವುದು?",
+      "options": ["131", "121", "96", "47"],
+      "answer": "131",
+      "reasoning": "ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನವನ್ನು ಬಳಸಿದಾಗ, 5607 ರ ವರ್ಗಮೂಲಕ್ಕೆ ಹತ್ತಿರವಿರುವ ವರ್ಗ ಸಂಖ್ಯೆ 74² = 5476 ಆಗಿದೆ. 5607 ರಿಂದ 5476 ಅನ್ನು ಕಳೆದಾಗ ಶೇಷ 131 ಬರುತ್ತದೆ. ಆದ್ದರಿಂದ 5607 ರಿಂದ 131 ಅನ್ನು ಕಳೆಯಬೇಕು."
+    }
+  },
+  {
+    "id": "c8_math_sqr_020",
+    "difficulty": 2,
+    "type": "match",
+    "en": {
+      "question": "Match the fractions with their correct square root values.",
+      "pairs": [
+        { "left": "√(25/36)", "right": "5/6" },
+        { "left": "√(49/81)", "right": "7/9" },
+        { "left": "√(121/144)", "right": "11/12" },
+        { "left": "√(169/225)", "right": "13/15" }
+      ],
+      "reasoning": "The square root of a fraction a/b is given by √a / √b. So, √(25/36) = 5/6, √(49/81) = 7/9, √(121/144) = 11/12, and √(169/225) = 13/15."
+    },
+    "kn": {
+      "question": "ಭಿನ್ನರಾಶಿಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವರ್ಗಮೂಲಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        { "left": "√(25/36)", "right": "5/6" },
+        { "left": "√(49/81)", "right": "7/9" },
+        { "left": "√(121/144)", "right": "11/12" },
+        { "left": "√(169/225)", "right": "13/15" }
+      ],
+      "reasoning": "ಭಿನ್ನರಾಶಿ a/b ಯ ವರ್ಗಮೂಲ = √a / √b. ಆದ್ದರಿಂದ, √(25/36) = 5/6, √(49/81) = 7/9, √(121/144) = 11/12, ಮತ್ತು √(169/225) = 13/15."
+    }
+  },
+  {
+    "id": "c8_math_sqr_021",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Find the square root of 17.64 using the long division method.",
+      "options": ["4.2", "4.8", "3.8", "4.4"],
+      "answer": "4.2",
+      "reasoning": "By grouping digits: 17.64 -> 17 and 64. The largest square less than 17 is 16 (4²). Subtracting 16 from 17 leaves 1. Bring down 64, making it 164. Double 4 to get 8. Find a digit x such that 8x × x = 164. For x=2, 82 × 2 = 164. So the square root of 17.64 is 4.2."
+    },
+    "kn": {
+      "question": "ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನವನ್ನು ಬಳಸಿಕೊಂಡು 17.64 ರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["4.2", "4.8", "3.8", "4.4"],
+      "answer": "4.2",
+      "reasoning": "17.64 ಗುಂಪುಗಳಾಗಿ ವಿಂಗಡಿಸಿದರೆ: 17 ಮತ್ತು 64. 17 ಕ್ಕೆ ಸಮೀಪವಿರುವ ವರ್ಗ ಸಂಖ್ಯೆ 16 (4²). ಶೇಷ 1. ಮುಂದಿನ ಜೋಡಿ 64 ಅನ್ನು ಕೆಳಗೆ ಇಳಿಸಿದಾಗ 164 ಆಗುತ್ತದೆ. 4 ರ ಎರಡರಷ್ಟು 8 ಆಗಿದೆ. 8x × x = 164 ಆಗುವಂತೆ x ಬೆಲೆ ಕಂಡುಹಿಡಿದಾಗ x=2 (82 × 2 = 164). ಆದ್ದರಿಂದ ವರ್ಗಮೂಲ 4.2."
+    }
+  },
+  {
+    "id": "c8_math_sqr_022",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Find the least number of 6 digits which is a perfect square.",
+      "options": ["100000", "100489", "100256", "100144"],
+      "answer": "100489",
+      "reasoning": "The least 6-digit number is 100000. Finding √100000 by long division yields approximately 316.22. The next natural number is 317. The square of 317 is 317 × 317 = 100489. This is the smallest 6-digit perfect square."
+    },
+    "kn": {
+      "question": "ಪೂರ್ಣ ವರ್ಗವಾಗಿರುವ ಅತ್ಯಂತ ಚಿಕ್ಕ 6 ಅಂಕಿಯ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["100000", "100489", "100256", "100144"],
+      "answer": "100489",
+      "reasoning": "ಕನಿಷ್ಠ 6 ಅಂಕಿಯ ಸಂಖ್ಯೆ 100000 ಆಗಿದೆ. ಇದರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿದಾಗ ಅದು ಸುಮಾರು 316.22 ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ ಮುಂದಿನ ಪೂರ್ಣ ಸಂಖ್ಯೆ 317. 317 ರ ವರ್ಗ = 317 × 317 = 100489. ಇದು ಅತ್ಯಂತ ಚಿಕ್ಕ 6 ಅಂಕಿಯ ಪೂರ್ಣ ವರ್ಗ ಸಂಖ್ಯೆಯಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "c8_math_sqr_img_023",
+    "difficulty": 3,
+    "type": "image_single",
+    "image": {
+      "type": "svg",
+      "svg": "<svg width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 200\"><rect x=\"90\" y=\"40\" width=\"120\" height=\"120\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"150\" y=\"105\" fill=\"#2563EB\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">Area = 2025 m²</text><text x=\"150\" y=\"180\" fill=\"#DC2626\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">Square Field</text></svg>",
+      "alt": {
+        "en": "A square field with an area of 2025 m².",
+        "kn": "2025 ಚದರ ಮೀಟರ್ ವಿಸ್ತೀರ್ಣವಿರುವ ಒಂದು ಚೌಕಾಕಾರದ ಮೈದಾನ."
+      }
+    },
+    "en": {
+      "question": "A square field has an area of 2025 m². Find the cost of fencing the field at the rate of Rs 15 per meter.",
+      "options": ["Rs 2700", "Rs 675", "Rs 1350", "Rs 3000"],
+      "answer": "Rs 2700",
+      "reasoning": "Let side of the square field be s. s² = 2025 => s = √2025 = 45 m. Perimeter of the field = 4 × s = 4 × 45 = 180 m. Cost of fencing = 180 m × Rs 15/m = Rs 2700."
+    },
+    "kn": {
+      "question": "ಒಂದು ಚೌಕಾಕಾರದ ಮೈದಾನದ ವಿಸ್ತೀರ್ಣವು 2025 ಚದರ ಮೀಟರ್ ಆಗಿದೆ. ಈ ಮೈದಾನಕ್ಕೆ ಪ್ರತಿ ಮೀಟರ್‌ಗೆ 15 ರೂ. ದರದಂತೆ ಬೇಲಿ ಹಾಕಲು ತಗಲುವ ವೆಚ್ಚವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["Rs 2700", "Rs 675", "Rs 1350", "Rs 3000"],
+      "answer": "Rs 2700",
+      "reasoning": "ಚೌಕಾಕಾರದ ಮೈದಾನದ ಬಾಹು s ಆಗಿರಲಿ. s² = 2025 => s = √2025 = 45 ಮೀಟರ್. ಮೈದಾನದ ಸುತ್ತಳತೆ = 4 × s = 4 × 45 = 180 ಮೀಟರ್. ಬೇಲಿ ಹಾಕಲು ತಗಲುವ ವೆಚ್ಚ = 180 ಮೀಟರ್ × 15 ರೂ. = 2700 ರೂ."
+    }
+  },
+  {
+    "id": "c8_math_sqr_024",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "If x is a square root of y, which of the following mathematical equations are correct?",
+      "options": ["x² = y", "√y = x", "√x = y", "y² = x"],
+      "answer": ["x² = y", "√y = x"],
+      "reasoning": "By definition, the square root of y is x if x² = y. This can also be written in radical form as √y = x."
+    },
+    "kn": {
+      "question": "x ಎಂಬುದು y ನ ವರ್ಗಮೂಲವಾಗಿದ್ದರೆ, ಕೆಳಗಿನ ಯಾವ ಗಣಿತದ ಸಮೀಕರಣಗಳು ಸರಿಯಾಗಿವೆ?",
+      "options": ["x² = y", "√y = x", "√x = y", "y² = x"],
+      "answer": ["x² = y", "√y = x"],
+      "reasoning": "ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ, x² = y ಆಗಿದ್ದರೆ x ಎಂಬುದು y ನ ವರ್ಗಮೂಲವಾಗಿರುತ್ತದೆ. ಇದನ್ನು ರಾಡಿಕಲ್ ರೂಪದಲ್ಲಿ √y = x ಎಂದೂ ಬರೆಯಬಹುದು."
+    }
+  },
+  {
+    "id": "c8_math_sqr_025",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "Find the square root of 3 correct to two decimal places.",
+      "options": ["1.73", "1.41", "1.71", "1.75"],
+      "answer": "1.73",
+      "reasoning": "Using the long division method for √3: 3.0000 -> 1.732... Rounding to two decimal places gives 1.73."
+    },
+    "kn": {
+      "question": "3 ರ ವರ್ಗಮೂಲವನ್ನು ಎರಡು ದಶಮಾಂಶ ಸ್ಥಾನಗಳಿಗೆ ನಿಖರವಾಗಿ ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["1.73", "1.41", "1.71", "1.75"],
+      "answer": "1.73",
+      "reasoning": "ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದಿಂದ √3 = 1.732... ಬರುತ್ತದೆ. ಇದನ್ನು ಎರಡು ದಶಮಾಂಶ ಸ್ಥಾನಗಳಿಗೆ ಅಂದಾಜು ಮಾಡಿದಾಗ 1.73 ಸಿಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "c8_math_sqr_026",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "A gardener has 1000 plants. He wants to plant these in such a way that the number of rows and columns remains the same. Find the minimum number of additional plants he needs for this arrangement.",
+      "options": ["24", "14", "30", "12"],
+      "answer": "24",
+      "reasoning": "The number of plants must be a perfect square. Find √1000: 31² = 961 and 32² = 1024. Since 1000 lies between 961 and 1024, the next perfect square is 1024. Therefore, the minimum number of additional plants needed is 1024 - 1000 = 24."
+    },
+    "kn": {
+      "question": "ಒಬ್ಬ ತೋಟಗಾರನ ಬಳಿ 1000 ಗಿಡಗಳಿವೆ. ಅಡ್ಡಸಾಲು ಮತ್ತು ಕಂಬಸಾಲುಗಳ ಸಂಖ್ಯೆ ಒಂದೇ ಆಗಿರುವಂತೆ ಅವುಗಳನ್ನು ನೆಡಲು ಅವನಿಗೆ ಇನ್ನೂ ಕನಿಷ್ಠ ಎಷ್ಟು ಗಿಡಗಳು ಬೇಕಾಗುತ್ತವೆ?",
+      "options": ["24", "14", "30", "12"],
+      "answer": "24",
+      "reasoning": "ಗಿಡಗಳ ಒಟ್ಟು ಸಂಖ್ಯೆಯು ಪೂರ್ಣ ವರ್ಗವಾಗಿರಬೇಕು. 1000 ರ ವರ್ಗಮೂಲಕ್ಕೆ ಹತ್ತಿರವಿರುವ ಮುಂದಿನ ಪೂರ್ಣ ವರ್ಗ ಸಂಖ್ಯೆ 1024 (32²). ಆದ್ದರಿಂದ ಬೇಕಾಗುವ ಹೆಚ್ಚುವರಿ ಗಿಡಗಳು = 1024 - 1000 = 24."
+    }
+  },
+  {
+    "id": "c8_math_sqr_027",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the numbers with the smallest number that must be ADDED to them to make them perfect squares.",
+      "pairs": [
+        { "left": "525", "right": "4" },
+        { "left": "1750", "right": "14" },
+        { "left": "252", "right": "4" },
+        { "left": "1825", "right": "24" }
+      ],
+      "reasoning": "1) 525 + 4 = 529 = 23²; 2) 1750 + 14 = 1764 = 42²; 3) 252 + 4 = 256 = 16²; 4) 1825 + 24 = 1849 = 43²."
+    },
+    "kn": {
+      "question": "ಸಂಖ್ಯೆಗಳನ್ನು ಅವುಗಳನ್ನು ಪೂರ್ಣ ವರ್ಗ ಮಾಡಲು ಕೂಡಿಸಬೇಕಾದ ಅತ್ಯಂತ ಕನಿಷ್ಠ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        { "left": "525", "right": "4" },
+        { "left": "1750", "right": "14" },
+        { "left": "252", "right": "4" },
+        { "left": "1825", "right": "24" }
+      ],
+      "reasoning": "1) 525 + 4 = 529 (23²); 2) 1750 + 14 = 1764 (42²); 3) 252 + 4 = 256 (16²); 4) 1825 + 24 = 1849 (43²)."
+    }
+  },
+  {
+    "id": "c8_math_sqr_028",
+    "difficulty": 3,
+    "type": "match",
+    "en": {
+      "question": "Match the large numbers with their correct square root values.",
+      "pairs": [
+        { "left": "√15625", "right": "125" },
+        { "left": "√11025", "right": "105" },
+        { "left": "√40000", "right": "200" },
+        { "left": "√9801", "right": "99" }
+      ],
+      "reasoning": "Calculating the square roots: √15625 = 125, √11025 = 105, √40000 = 200, and √9801 = 99."
+    },
+    "kn": {
+      "question": "ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳನ್ನು ಅವುಗಳ ಸರಿಯಾದ ವರ್ಗಮೂಲಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ.",
+      "pairs": [
+        { "left": "√15625", "right": "125" },
+        { "left": "√11025", "right": "105" },
+        { "left": "√40000", "right": "200" },
+        { "left": "√9801", "right": "99" }
+      ],
+      "reasoning": "ವರ್ಗಮೂಲಗಳನ್ನು ಲೆಕ್ಕಹಾಕಿದಾಗ: √15625 = 125, √11025 = 105, √40000 = 200, ಮತ್ತು √9801 = 99."
+    }
+  },
+  {
+    "id": "c8_math_sqr_029",
+    "difficulty": 3,
+    "type": "multiple",
+    "en": {
+      "question": "Which of the following statements about perfect squares are correct?",
+      "options": [
+        "The square of an even number is always even",
+        "The square of an odd number is always odd",
+        "A perfect square can never end with the digit 8",
+        "A perfect square always has an odd number of zeros at the end"
+      ],
+      "answer": [
+        "The square of an even number is always even",
+        "The square of an odd number is always odd",
+        "A perfect square can never end with the digit 8"
+      ],
+      "reasoning": "1) Even number squares are even, e.g., 6² = 36. 2) Odd number squares are odd, e.g., 5² = 25. 3) Perfect squares only end in 0, 1, 4, 5, 6, 9. They cannot end in 2, 3, 7, 8. 4) Perfect squares always end with an even number of zeros (e.g., 100 has two zeros, 10000 has four zeros)."
+    },
+    "kn": {
+      "question": "ಪೂರ್ಣ ವರ್ಗಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ?",
+      "options": [
+        "The square of an even number is always even",
+        "The square of an odd number is always odd",
+        "A perfect square can never end with the digit 8",
+        "A perfect square always has an odd number of zeros at the end"
+      ],
+      "answer": [
+        "The square of an even number is always even",
+        "The square of an odd number is always odd",
+        "A perfect square can never end with the digit 8"
+      ],
+      "reasoning": "ಸಮ ಸಂಖ್ಯೆಯ ವರ್ಗ ಸಮವಾಗಿರುತ್ತದೆ, ಬೆಸ ಸಂಖ್ಯೆಯ ವರ್ಗ ಬೆಸವಾಗಿರುತ್ತದೆ. ಪೂರ್ಣ ವರ್ಗ ಸಂಖ್ಯೆಯ ಬಿಡಿ ಸ್ಥಾನದಲ್ಲಿ 8 ಇರಲು ಸಾಧ್ಯವಿಲ್ಲ. ಆದರೆ ಪೂರ್ಣ ವರ್ಗ ಸಂಖ್ಯೆಯ ಕೊನೆಯಲ್ಲಿ ಸೊನ್ನೆಗಳು ಯಾವಾಗಲೂ ಸಮ ಸಂಖ್ಯೆಯಲ್ಲಿರುತ್ತವೆ (ಬೆಸ ಸಂಖ್ಯೆಯಲ್ಲಿರುವುದಿಲ್ಲ)."
+    }
+  },
+  {
+    "id": "c8_math_sqr_030",
+    "difficulty": 3,
+    "type": "single",
+    "en": {
+      "question": "If the area of a square playground is 14.44 m², find its perimeter.",
+      "options": ["15.2 m", "7.6 m", "11.4 m", "14.44 m"],
+      "answer": "15.2 m",
+      "reasoning": "Area of the square = s² = 14.44 m². Taking the square root, s = √14.44 = 3.8 m. The perimeter of the square playground is 4 × s = 4 × 3.8 = 15.2 m."
+    },
+    "kn": {
+      "question": "ಒಂದು ಚೌಕಾಕಾರದ ಆಟದ ಮೈದಾನದ ವಿಸ್ತೀರ್ಣವು 14.44 ಚದರ ಮೀಟರ್ ಆಗಿದ್ದರೆ, ಅದರ ಸುತ್ತಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "options": ["15.2 m", "7.6 m", "11.4 m", "14.44 m"],
+      "answer": "15.2 m",
+      "reasoning": "ಚೌಕದ ವಿಸ್ತೀರ್ಣ = s² = 14.44. ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿದಾಗ ಬಾಹು s = √14.44 = 3.8 ಮೀಟರ್. ಸುತ್ತಳತೆ = 4 × s = 4 × 3.8 = 15.2 ಮೀಟರ್."
+    }
+  }
+]

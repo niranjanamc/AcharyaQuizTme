@@ -698,6 +698,206 @@
           ]
         }
       ]
+    },
+    {
+      "id": "class_8",
+      "name": "Class 8 (NCERT)",
+      "subjects": [
+        {
+          "id": "maths",
+          "name": "Mathematics",
+          "chapters": [
+            {
+              "id": "rational_numbers",
+              "name": "Rational Numbers"
+            },
+            {
+              "id": "linear_equations",
+              "name": "Linear Equations in One Variable"
+            },
+            {
+              "id": "quadrilaterals",
+              "name": "Understanding Quadrilaterals"
+            },
+            {
+              "id": "data_handling",
+              "name": "Data Handling"
+            },
+            {
+              "id": "squares_roots",
+              "name": "Squares and Square Roots"
+            },
+            {
+              "id": "cubes_roots",
+              "name": "Cubes and Cube Roots"
+            },
+            {
+              "id": "comparing_quantities",
+              "name": "Comparing Quantities"
+            },
+            {
+              "id": "algebraic_expressions",
+              "name": "Algebraic Expressions and Identities"
+            },
+            {
+              "id": "mensuration",
+              "name": "Mensuration"
+            },
+            {
+              "id": "exponents_powers",
+              "name": "Exponents and Powers"
+            },
+            {
+              "id": "proportions",
+              "name": "Direct and Inverse Proportions"
+            },
+            {
+              "id": "factorisation",
+              "name": "Factorisation"
+            },
+            {
+              "id": "graphs",
+              "name": "Introduction to Graphs"
+            }
+          ]
+        },
+        {
+          "id": "science",
+          "name": "Science",
+          "chapters": [
+            {
+              "id": "crop_production",
+              "name": "Crop Production and Management"
+            },
+            {
+              "id": "microorganisms",
+              "name": "Microorganisms: Friend and Foe"
+            },
+            {
+              "id": "coal_petroleum",
+              "name": "Coal and Petroleum"
+            },
+            {
+              "id": "combustion_flame",
+              "name": "Combustion and Flame"
+            },
+            {
+              "id": "conservation_plants_animals",
+              "name": "Conservation of Plants and Animals"
+            },
+            {
+              "id": "reproduction_animals",
+              "name": "Reproduction in Animals"
+            },
+            {
+              "id": "adolescence",
+              "name": "Reaching the Age of Adolescence"
+            },
+            {
+              "id": "force_pressure",
+              "name": "Force and Pressure"
+            },
+            {
+              "id": "friction",
+              "name": "Friction"
+            },
+            {
+              "id": "sound",
+              "name": "Sound"
+            },
+            {
+              "id": "electric_current",
+              "name": "Chemical Effects of Electric Current"
+            },
+            {
+              "id": "natural_phenomena",
+              "name": "Some Natural Phenomena"
+            },
+            {
+              "id": "light",
+              "name": "Light"
+            }
+          ]
+        },
+        {
+          "id": "english",
+          "name": "English (Honeydew)",
+          "chapters": [
+            {
+              "id": "c8_eng_christmas",
+              "name": "The Best Christmas Present in the World"
+            },
+            {
+              "id": "c8_eng_tsunami",
+              "name": "The Tsunami"
+            },
+            {
+              "id": "c8_eng_glimpses",
+              "name": "Glimpses of the Past"
+            },
+            {
+              "id": "c8_eng_bepin",
+              "name": "Bepin Choudhury's Lapse of Memory"
+            },
+            {
+              "id": "c8_eng_summit",
+              "name": "The Summit Within"
+            }
+          ]
+        },
+        {
+          "id": "history",
+          "name": "History (Our Pasts - III)",
+          "chapters": [
+            {
+              "id": "c8_his_trade",
+              "name": "From Trade to Territory"
+            },
+            {
+              "id": "c8_his_countryside",
+              "name": "Ruling the Countryside"
+            },
+            {
+              "id": "c8_his_rebel",
+              "name": "When People Rebel"
+            },
+            {
+              "id": "c8_his_education",
+              "name": "Civilising the \"Native\", Educating the Nation"
+            },
+            {
+              "id": "c8_his_national",
+              "name": "The Making of the National Movement: 1870s-1947"
+            }
+          ]
+        },
+        {
+          "id": "kannada",
+          "name": "Kannada",
+          "chapters": [
+            {
+              "id": "c8_kan_kannadiga",
+              "name": "ಕನ್ನಡತಿ / ಕನ್ನಡಿಗ (Kannadiga)"
+            },
+            {
+              "id": "c8_kan_siddhartha",
+              "name": "ಸಿದ್ಧಾರ್ಥನ ಕಾರುಣ್ಯ (Siddharthana Karunya)"
+            },
+            {
+              "id": "c8_kan_buddha",
+              "name": "ಬುದ್ಧನ ಸಂದೇಶ (Buddhana Sandesha)"
+            },
+            {
+              "id": "c8_kan_sirigannada",
+              "name": "ಸಿರಿಗನ್ನಡ (Sirigannada)"
+            },
+            {
+              "id": "c8_kan_kranti",
+              "name": "ಕ್ರಾಂತಿ ಕಹಳೆ (Kranti Kahale)"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
