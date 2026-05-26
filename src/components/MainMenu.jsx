@@ -23,7 +23,7 @@ const MainMenu = ({ onStart }) => {
   const [language, setLanguage] = useState('en');
   // Store selected chapters as strings: "classId/subjectId/chapterId"
   const [selected, setSelected] = useState(new Set());
-  const [expanded, setExpanded] = useState(new Set([catalog.classes[0].id]));
+  const [expanded, setExpanded] = useState(new Set()); // all collapsed by default
 
   const toggleExpand = (id) => {
     soundEngine.playClick();
